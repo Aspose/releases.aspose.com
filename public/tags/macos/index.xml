@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>macOS on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/macos/</link><description>Recent content in macOS on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/tags/macos/index.xml" rel="self" type="application/rss+xml"/><item><title>On-premise 2D Vector Graphics API | Aspose.Drawing for .NET</title><link>https://releases-qa.aspose.com/drawing/net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/drawing/net/</guid><description>Support Forum
+Download Aspose.Drawing to Process 2D Graphics Open NuGet Package Manager within the Microsoft Visual Studio&amp;reg;, search for Aspose.Drawing and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the Installation documentation page.
+Release Notes
+Download
+PM&amp;gt;
+Install-Package Aspose.Drawing
+&amp;nbsp;
+Product Page | Docs | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Download Font Creation &amp; Saving C# Library | Aspose.Font API</title><link>https://releases-qa.aspose.com/font/net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/net/</guid><description>Support Forum
+Download Aspose.Font to Draw Text Open NuGet Package Manager within the Microsoft Visual Studio&amp;reg;, search for Aspose.Font and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the Installation documentation page.
+Release Notes
+PM&amp;gt;
+Install-Package Aspose.Font
+&amp;nbsp;
+Product Page | Docs | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Download Python Library to Perform OCR | Aspose.OCR API</title><link>https://releases-qa.aspose.com/ocr/python-net/</link><pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/python-net/</guid><description>Support Forum
+Download Aspose.OCR for Python via .NET for image recognition. Add optical character recognition (OCR) capabilities to your data science, AI, and automation solutions written in Python 3.6 or later. Extract text from photos, scans, PDF documents and other graphical files without having to delve into complex mathematical operations, neural networks, and other technical details.
+Aspose.OCR for Python via .NET can be download here and installed from local file system with the following pip command:
+Release Notes
+Download
+&amp;gt;
+pip install aspose-ocr-python-net &amp;nbsp;</description></item><item><title>Exporter for PowerPoint | Aspose.Slides for JasperReports</title><link>https://releases-qa.aspose.com/slides/jasperreport/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/jasperreport/</guid><description>Support Forum
+Download Aspose.Slides to Export JasperReports® to Presentation Formats Aspose.Slides for JasperReports is a lightweight extension that helps you export reports from JasperReports® and JasperServer® to Microsoft PowerPoint® and other supported file formats.
+Release Notes
+Download
+Product Page | Docs | API Reference | Blog | Search | Free Support | Temporary License | EULA
+Presentation JasperReports® Integration Features Export reports to PPT, PPTX, HTML, and PDF formats.</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-python-via-.net-23.7.1,-macos-x86,-x64</title><link>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.1-macos-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.1-macos-x86-x64/</guid><description>&amp;nbsp;
+Aspose.OCR for Python via .NET 23.7.1, MacOS x86, x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+272.81MB
+Date Added:
+26/7/2023
+Release Noteshttps://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-7-1-release-notes/
+Descriptionfirst release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=17cd5f34897952a02b3debe9bd2e80df-55-9273&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-python-via-.net-23.8.0,-macos-x86,-x64</title><link>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.8.0-macos-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.8.0-macos-x86-x64/</guid><description>&amp;nbsp;
+Aspose.OCR for Python via .NET 23.8.0, MacOS x86, x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+272.85MB
+Date Added:
+16/8/2023
+Release Noteshttps://docs.aspose.com/ocr/python-net/aspose-ocr-python-23-8-0-release-notes/
+DescriptionFix PDF creation
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=174cc5a1a71324a6431d5481bdd0ec25-55-9342&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Download SVG Parser &amp; Convertor .NET DLL | Aspose.SVG API</title><link>https://releases-qa.aspose.com/svg/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/svg/</guid><description>Support Forum
+Download Aspose.SVG to Process Vector Graphics Open NuGet Package Manager within the Microsoft Visual Studio&amp;reg;, search for Aspose.SVG and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the Installation documentation page.
+Release Notes
+Download
+PM&amp;gt;
+Install-Package Aspose.SVG
+&amp;nbsp;
+Product Page | Docs | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>On-premise 2D Vector Graphics API | Aspose.Drawing</title><link>https://releases-qa.aspose.com/drawing/</link><pubDate>Thu, 25 Jan 2024 15:11:04 +0000</pubDate><guid>https://releases-qa.aspose.com/drawing/</guid><description>Support Forum
+Aspose.Drawing for .NET
+Download DLL of 2D drawing APIs identical to GDI&amp;#43; to render &amp;amp; convert vector graphics (lines, curves, and figures) as well as multi-style text within .NET Apps.
+Aspose.Drawing for Java
+Aspose.Drawing for Java supports rendering vector graphics such as lines, curves, and figures as well as text in a variety of fonts, sizes, and styles onto raster images.</description></item><item><title>Downloads ---New Releases-aspose.drawing-for-.net-23.7</title><link>https://releases-qa.aspose.com/drawing/net/new-releases/aspose.drawing-for-.net-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/drawing/net/new-releases/aspose.drawing-for-.net-23.7/</guid><description>&amp;nbsp;
+Aspose.Drawing for .NET 23.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+7.31MB
+Date Added:
+7/7/2023
+Release Noteshttps://releases.aspose.com/drawing/net/release-notes/2023/aspose-drawing-for-net-23-7-release-notes/
+DescriptionThe MSI installer for Aspose.Drawing for .NET 23.7
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a5622774fe825457fca97b182af64a17-2-9190&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.drawing-for-.net-23.8.1</title><link>https://releases-qa.aspose.com/drawing/net/new-releases/aspose.drawing-for-.net-23.8.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/drawing/net/new-releases/aspose.drawing-for-.net-23.8.1/</guid><description>&amp;nbsp;
+Aspose.Drawing for .NET 23.8.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+4
+File Size:
+6.73MB
+Date Added:
+8/8/2023
+Release Noteshttps://releases.aspose.com/drawing/net/release-notes/2023/aspose-drawing-for-net-23-8-release-notes/
+DescriptionThe MSI installer for Aspose.Drawing for .NET 23.8.1
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fe5befc38dd06225a812f960c4f08233-2-9300&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.tasks-for-c++-22.6-macos</title><link>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-22.6-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-22.6-macos/</guid><description>&amp;nbsp;
+Aspose.Tasks for C&amp;#43;&amp;#43; 22.6 MacOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+56.13MB
+Date Added:
+6/7/2022
+Release Noteshttps://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-6-release-notes/
+DescriptionIt contains Aspose.Tasks for C++ 22.6 release linux only binaries
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=09c18f48a402a9e8a5371e4e65a0e867-12-7612&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.tasks-for-c++-22.7-macos</title><link>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-22.7-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-22.7-macos/</guid><description>&amp;nbsp;
+Aspose.Tasks for C&amp;#43;&amp;#43; 22.7 MacOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+56.36MB
+Date Added:
+21/7/2022
+Release Noteshttps://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-7-release-notes/
+DescriptionIt contains Aspose.Tasks for C++ 22.7 release mac-os only binaries
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0ff4e06ad18bbf7c1b84051169b5add4-12-7671&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.tasks-for-c++-22.8</title><link>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-22.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-22.8/</guid><description>&amp;nbsp;
+Aspose.Tasks for C&amp;#43;&amp;#43; 22.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+298.86MB
+Date Added:
+1/9/2022
+Release Noteshttps://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-9-release-notes/
+DescriptionIt contains Aspose.Tasks for C++ 22.8 release for Windows/Linux/MacOS
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c2db24627eb0bdb4c5065d82b78445b7-60-7836&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.tasks-for-c++-22.8-macos</title><link>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-22.8-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-22.8-macos/</guid><description>&amp;nbsp;
+Aspose.Tasks for C&amp;#43;&amp;#43; 22.8 MacOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+56.62MB
+Date Added:
+1/9/2022
+Release Noteshttps://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-9-release-notes/
+DescriptionIt contains Aspose.Tasks for C++ 22.8 macos only binaries
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bcf85622e2d5928447e4ffd9742150a2-12-7839&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title>Downloads ---New Releases-aspose.tasks-for-c++-22.9</title><link>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-22.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-22.9/</guid><description>&amp;nbsp;
+Aspose.Tasks for C&amp;#43;&amp;#43; 22.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+299.14MB
+Date Added:
+23/9/2022
+Release Noteshttps://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-9-release-notes/
+DescriptionIt contains Aspose.Tasks for C++ 22.9 release for Windows/Linux/MacOS
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=45534e623929e701a3448039a7e7eb3f-60-7930&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.tasks-for-c++-22.9-macos</title><link>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-22.9-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-22.9-macos/</guid><description>&amp;nbsp;
+Aspose.Tasks for C&amp;#43;&amp;#43; 22.9 MacOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+56.67MB
+Date Added:
+23/9/2022
+Release Noteshttps://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-9-release-notes/
+DescriptionIt contains Aspose.Tasks for C++ 22.9 macos only binaries
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d6becdeb19926bd6a6df1c58c4de0f27-12-7933&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title>Downloads ---New Releases-aspose.tasks-for-c++-22.10-macos</title><link>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-22.10-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-22.10-macos/</guid><description>&amp;nbsp;
+Aspose.Tasks for C&amp;#43;&amp;#43; 22.10 MacOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+57.24MB
+Date Added:
+31/10/2022
+Release Noteshttps://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-10-release-notes/
+DescriptionIt contains Aspose.Tasks for C++ 22.10 macos only binaries
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=419fc3bff0099ee5dfadbc86b5410d70-12-8082&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title>Downloads ---New Releases-aspose.tasks-for-c++-22.11</title><link>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-22.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-22.11/</guid><description>&amp;nbsp;
+Aspose.Tasks for C&amp;#43;&amp;#43; 22.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+300.68MB
+Date Added:
+25/11/2022
+Release Noteshttps://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-11-release-notes/
+DescriptionIt contains Aspose.Tasks for C++ 22.11 release for Windows/Linux/MacOS
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b0ec0e0403845e64f5341db9b2ee2d26-61-8200&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.tasks-for-c++-22.11-macos</title><link>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-22.11-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-22.11-macos/</guid><description>&amp;nbsp;
+Aspose.Tasks for C&amp;#43;&amp;#43; 22.11 MacOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+57.15MB
+Date Added:
+25/11/2022
+Release Noteshttps://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-11-release-notes/
+DescriptionIt contains Aspose.Tasks for C++ 22.11 macos only binaries
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0372069e236eba85451b2cc1c4d78125-12-8203&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title>Downloads ---New Releases-aspose.tasks-for-c++-22.12-macos</title><link>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-22.12-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-22.12-macos/</guid><description>&amp;nbsp;
+Aspose.Tasks for C&amp;#43;&amp;#43; 22.12 MacOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+57.45MB
+Date Added:
+29/12/2022
+Release Noteshttps://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-12-release-notes/
+DescriptionIt contains Aspose.Tasks for C++ 22.12 macos only binaries
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=259c3e1adabd5db14293768705af6f24-12-8342&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title>Downloads ---New Releases-aspose.tasks-for-c++-23.1</title><link>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.1/</guid><description>&amp;nbsp;
+Aspose.Tasks for C&amp;#43;&amp;#43; 23.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+299.9MB
+Date Added:
+27/1/2023
+Release Noteshttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-1-release-notes/
+DescriptionIt contains Aspose.Tasks for C++ 23.1 release for Windows/Linux/MacOS
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f552853761c82292af1bb158849d8e9f-60-8441&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.tasks-for-c++-23.1-macos</title><link>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.1-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.1-macos/</guid><description>&amp;nbsp;
+Aspose.Tasks for C&amp;#43;&amp;#43; 23.1 MacOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+57.49MB
+Date Added:
+27/1/2023
+Release Noteshttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-1-release-notes/
+DescriptionIt contains Aspose.Tasks for C++ 23.1 macos only binaries
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e5241026f67f02642f810f60ff848a62-12-8444&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title>Downloads ---New Releases-aspose.tasks-for-c++-23.2</title><link>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.2/</guid><description>&amp;nbsp;
+Aspose.Tasks for C&amp;#43;&amp;#43; 23.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+300.84MB
+Date Added:
+22/2/2023
+Release Noteshttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-3-release-notes/
+DescriptionIt contains Aspose.Tasks for C++ 23.1 release for Windows/Linux/MacOS
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=30ca29e1cfadd94b76ad12421ddddf94-61-8551&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.tasks-for-c++-23.2-macos</title><link>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.2-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.2-macos/</guid><description>&amp;nbsp;
+Aspose.Tasks for C&amp;#43;&amp;#43; 23.2 MacOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+57.51MB
+Date Added:
+22/2/2023
+Release Noteshttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-3-release-notes/
+DescriptionIt contains Aspose.Tasks for C++ 23.2 macos only binaries
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5a448caf6b131bd989f878565681955c-12-8554&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title>Downloads ---New Releases-aspose.tasks-for-c++-23.3</title><link>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.3/</guid><description>&amp;nbsp;
+Aspose.Tasks for C&amp;#43;&amp;#43; 23.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+301.09MB
+Date Added:
+28/3/2023
+Release Noteshttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-3-release-notes/
+DescriptionIt contains Aspose.Tasks for C++ 23.3 release for Windows/Linux/MacOS
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b899845dbc592b44288a294a2bb2b027-61-8695&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.tasks-for-c++-23.3-macos</title><link>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.3-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.3-macos/</guid><description>&amp;nbsp;
+Aspose.Tasks for C&amp;#43;&amp;#43; 23.3 MacOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+57.54MB
+Date Added:
+28/3/2023
+Release Noteshttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-3-release-notes/
+DescriptionIt contains Aspose.Tasks for C++ 23.3 macos only binaries
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3ac829cdfa26f5c3d54de28944e71f61-12-8698&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title>Downloads ---New Releases-aspose.tasks-for-c++-23.4</title><link>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.4/</guid><description>&amp;nbsp;
+Aspose.Tasks for C&amp;#43;&amp;#43; 23.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+300.77MB
+Date Added:
+19/4/2023
+Release Noteshttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-4-release-notes/
+DescriptionIt contains Aspose.Tasks for C++ 23.4 release for Windows/Linux/MacOS
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6172abec014300d0f47ea1b752762fb5-61-8774&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.pdf-for-c++-22.11-macos</title><link>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-22.11-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-22.11-macos/</guid><description>&amp;nbsp;
+Aspose.PDF for C&amp;#43;&amp;#43; 22.11 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+100.18MB
+Date Added:
+28/11/2022
+Release Noteshttps://releases.aspose.com/pdf/cpp/release-notes/2022/aspose-pdf-for-cpp-22-11-macos-release-notes/
+DescriptionAspose.PDF for C++ macOS version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=02d4c772f88b6d678f8732192a892142-21-8210&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-jasperreports-23.8</title><link>https://releases-qa.aspose.com/slides/jasperreport/new-releases/aspose.slides-for-jasperreports-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/jasperreport/new-releases/aspose.slides-for-jasperreports-23.8/</guid><description>&amp;nbsp;
+Aspose.Slides for JasperReports 23.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+72.3MB
+Date Added:
+23/8/2023
+Release Noteshttps://releases.aspose.com/slides/jasperreport/release-notes/2023/aspose-slides-for-jasper-reports-23-8-release-notes/
+DescriptionIt contains Aspose.Slides for JasperReports 23.8 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7e03abc91b8c8a82cb4d088eb2fa5674-15-9369&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.tasks-for-c++-23.4-macos</title><link>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.4-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.4-macos/</guid><description>&amp;nbsp;
+Aspose.Tasks for C&amp;#43;&amp;#43; 23.4 MacOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+57.42MB
+Date Added:
+19/4/2023
+Release Noteshttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-4-release-notes/
+DescriptionIt contains Aspose.Tasks for C++ 23.4 macos only binaries
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=75070c96fc290e76e6179b32da5dcdc3-12-8777&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title>Downloads ---New Releases-aspose.pdf-for-c++-22.12-macos</title><link>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-22.12-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-22.12-macos/</guid><description>&amp;nbsp;
+Aspose.PDF for C&amp;#43;&amp;#43; 22.12 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+105.38MB
+Date Added:
+22/12/2022
+Release Noteshttps://releases.aspose.com/pdf/cpp/release-notes/2022/aspose-pdf-for-cpp-22-12-release-notes/
+DescriptionAspose.PDF for C++ macOS version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d5a1931a02da230cd20958497668123b-22-8311&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.tasks-for-c++-23.5</title><link>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.5/</guid><description>&amp;nbsp;
+Aspose.Tasks for C&amp;#43;&amp;#43; 23.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+294.46MB
+Date Added:
+26/5/2023
+Release Noteshttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-5-release-notes/
+DescriptionIt contains Aspose.Tasks for C++ 23.5 release for Windows/Linux/MacOS
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fce6bc5c0b348974b9dc462b73a5a10f-59-8910&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.pdf-for-c++-23.1</title><link>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-23.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-23.1/</guid><description>&amp;nbsp;
+Aspose.PDF for C&amp;#43;&amp;#43; 23.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+426.63MB
+Date Added:
+23/1/2023
+Release Noteshttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-1-release-notes/
+DescriptionAspose.PDF for C++ native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b247017f6d41a4fd632928af510e66e9-86-8415&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pdf-for-c++-23.1-macos</title><link>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-23.1-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-23.1-macos/</guid><description>&amp;nbsp;
+Aspose.PDF for C&amp;#43;&amp;#43; 23.1 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+105.81MB
+Date Added:
+25/1/2023
+Release Noteshttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-1-release-notes/
+DescriptionAspose.PDF for C++ macOS version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=de87cc36b1d9ff219b671ec44521fab7-22-8417&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.tasks-for-c++-23.5-macos</title><link>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.5-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.5-macos/</guid><description>&amp;nbsp;
+Aspose.Tasks for C&amp;#43;&amp;#43; 23.5 MacOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+55.76MB
+Date Added:
+26/5/2023
+Release Noteshttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-5-release-notes/
+DescriptionIt contains Aspose.Tasks for C++ 23.5 macos only binaries
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ccccf5351f8617f3a0de230b99044fea-12-8913&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title>Downloads ---New Releases-aspose.tasks-for-c++-23.6</title><link>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.6/</guid><description>&amp;nbsp;
+Aspose.Tasks for C&amp;#43;&amp;#43; 23.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+294.82MB
+Date Added:
+23/6/2023
+Release Noteshttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-6-release-notes/
+DescriptionIt contains Aspose.Tasks for C++ 23.6 release for Windows/Linux/MacOS
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8b4b66886b7a0996aa83c155c91b05b9-59-9106&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.pdf-for-c++-23.2-macos</title><link>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-23.2-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-23.2-macos/</guid><description>&amp;nbsp;
+Aspose.PDF for C&amp;#43;&amp;#43; 23.2 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+106.17MB
+Date Added:
+22/2/2023
+Release Noteshttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-2-release-notes/
+DescriptionAspose.PDF for C++ macOS version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f43ef67a523638967bc53b0a2d7d39e1-22-8558&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.tasks-for-c++-23.6-macos</title><link>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.6-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.6-macos/</guid><description>&amp;nbsp;
+Aspose.Tasks for C&amp;#43;&amp;#43; 23.6 MacOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+55.82MB
+Date Added:
+23/6/2023
+Release Noteshttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-6-release-notes/
+DescriptionIt contains Aspose.Tasks for C++ 23.6 macos only binaries
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f02cb8cf0e0d604d6c9a4f5e623ee3ba-12-9109&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title>Downloads ---New Releases-aspose.tasks-for-c++-23.6-(muli-platform)</title><link>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.6-muli-platform/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.6-muli-platform/</guid><description>&amp;nbsp;
+Aspose.Tasks for C&amp;#43;&amp;#43; 23.6 (muli-platform)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+294.82MB
+Date Added:
+5/7/2023
+Release Noteshttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-6-release-notes/
+DescriptionIt contains Aspose.Tasks for C++ 23.3 release for Windows/Linux/MacOS
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8b4b66886b7a0996aa83c155c91b05b9-59-9177&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title>Downloads ---New Releases-aspose.pdf-for-c++-23.3-macos</title><link>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-23.3-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-23.3-macos/</guid><description>&amp;nbsp;
+Aspose.PDF for C&amp;#43;&amp;#43; 23.3 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+106.28MB
+Date Added:
+20/3/2023
+Release Noteshttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-3-release-notes/
+DescriptionAspose.PDF for C++ macOS version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d267a2522a63e5842c9e0abb1a38abfa-22-8649&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.tasks-for-c++-macos-23.7</title><link>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-macos-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-macos-23.7/</guid><description>&amp;nbsp;
+Aspose.Tasks for C&amp;#43;&amp;#43; 23.7 MacOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+55.94MB
+Date Added:
+26/7/2023
+Release Noteshttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-7-release-notes/
+DescriptionIt contains Aspose.Tasks for C++ 23.7 macos only binaries
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fbc5a7206ecc5a2251f299c37e3feffb-12-9269&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title>Downloads ---New Releases-aspose.pdf-for-c++-23.4-macos</title><link>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-23.4-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-23.4-macos/</guid><description>&amp;nbsp;
+Aspose.PDF for C&amp;#43;&amp;#43; 23.4 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+106.56MB
+Date Added:
+19/4/2023
+Release Noteshttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-4-release-notes/
+DescriptionAspose.PDF for C++ macOS version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c58a80f06bf29411408c9383361b8287-22-8778&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.tasks-for-c++-23.7</title><link>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c++-23.7/</guid><description>&amp;nbsp;
+Aspose.Tasks for C&amp;#43;&amp;#43; 23.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+294.8MB
+Date Added:
+26/7/2023
+Release Noteshttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-7-release-notes/
+DescriptionIt contains Aspose.Tasks for C++ 23.7 release for Windows/Linux/MacOS
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9bd6fa8730efb77a830bb89ed460db78-59-9272&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.pdf-for-c++-23.5-macos</title><link>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-23.5-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-23.5-macos/</guid><description>&amp;nbsp;
+Aspose.PDF for C&amp;#43;&amp;#43; 23.5 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+107.21MB
+Date Added:
+22/5/2023
+Release Noteshttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-5-release-notes/
+DescriptionAspose.PDF for C++ macOS version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=67b4bb8669c429ac523391cd39508439-22-8876&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pdf-for-c++-23.6-macos</title><link>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-23.6-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-23.6-macos/</guid><description>&amp;nbsp;
+Aspose.PDF for C&amp;#43;&amp;#43; 23.6 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+107.37MB
+Date Added:
+20/6/2023
+Release Noteshttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-6-release-notes/
+DescriptionAspose.PDF for C++ macOS version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=28073bcdf2562055c96381083b48b017-22-9050&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pdf-for-c++-23.7-macos</title><link>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-23.7-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-23.7-macos/</guid><description>&amp;nbsp;
+Aspose.PDF for C&amp;#43;&amp;#43; 23.7 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+15
+File Size:
+110.06MB
+Date Added:
+25/7/2023
+Release Noteshttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-7-release-notes/
+DescriptionAspose.PDF for C++ macOS version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=96e6cc18a955527278ff25c8b0b2e043-23-9258&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>3D on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/3d/</link><description>Recent content in 3D on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 25 Aug 2023 06:34:42 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/tags/3d/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---New-Releases--aspose.cad-for-jasperreports-20.12 .</title><link>https://releases-qa.aspose.com/cad/jasperreports/new-releases/-aspose.cad-for-jasperreports-20.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cad/jasperreports/new-releases/-aspose.cad-for-jasperreports-20.12/</guid><description>&amp;nbsp;
+Aspose.CAD for JasperReports 20.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+6
+File Size:
+32.0 MB
+Posted By:
+Denis.Demenko
+Views:
+17
+Date Added:
+9/16/2021
+Release Noteshttps://releases.aspose.com/cad/jasperreports/release-notes/2020/aspose-cad-for-jasperreports-20-12-release-notes/DescriptionIt contains Aspose.CAD for JasperReports 20.12 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3762fc1d906c46ada22aa4cbb8855b82&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Download C# Gameware, CAD &amp; 3D Processing DLL | Aspose.3D</title><link>https://releases-qa.aspose.com/3d/net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/net/</guid><description>Support Forum
+Download Aspose.3D to Process 3D Images Open NuGet Package Manager within the Microsoft Visual Studio&amp;reg;, search for Aspose.3D and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the Installation documentation page.
+Release Notes
+Download
+PM&amp;gt;
+Install-Package Aspose.3D
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Downloads ---New Releases-downloads----new-releases-aspose.3d-for-node.js-via-java-23.12</title><link>https://releases-qa.aspose.com/3d/nodejs-java/new-releases/aspose.3d-for-node.js-via-java-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/nodejs-java/new-releases/aspose.3d-for-node.js-via-java-23.12/</guid><description>&amp;nbsp;
+Aspose.3D for Node.js via Java 23.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+2.39MB
+Date Added:
+6/12/2023
+Release Noteshttps://releases.aspose.com/3d/nodejs-java/release-notes/2023/aspose-3d-for-node-js-via-java-23-12-release-notes/
+DescriptionAspose.3D for Node.js via Java 23.12
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3e1e5d18a9d79ca942db7dd8d08d6c88-1-9935&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Aspose.3D | Java Class Library to Process 3D Images, Models</title><link>https://releases-qa.aspose.com/3d/java/</link><pubDate>Wed, 31 Jan 2024 07:41:54 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/java/</guid><description>Java API for 3D Image Processing
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.3D for Java API is built to create, edit, manipulate and save 3D formats. It empowers Java applications to connect with 3D documents without installing any software package on the computer. Aspose.3D for Java API assist developers to model and create massive worlds in games, superb scenes for design visualization, and engage virtual reality experiences.</description></item><item><title>Downloads ---New Releases-aspose.3d-for-node.js-via-java-24.1</title><link>https://releases-qa.aspose.com/3d/nodejs-java/new-releases/aspose.3d-for-node.js-via-java-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/nodejs-java/new-releases/aspose.3d-for-node.js-via-java-24.1/</guid><description>&amp;nbsp;
+Aspose.3D for Node.js via Java 24.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+2.49MB
+Date Added:
+25/1/2024
+Release Noteshttps://releases.aspose.com/3d/nodejs-java/release-notes/2024/aspose-3d-for-node-js-via-java-24-1-release-notes/
+DescriptionAspose.3D for Node.js via Java 24.1
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3aeac9ec10e77774c124b4f5feed7472-1-10208&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Aspose - Downloads</title><link>https://releases-qa.aspose.com/cad/jasperreports/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cad/jasperreports/</guid><description>Support Forum
+Download Aspose.CAD to Render CAD drawings within JasperReports® A standalone class library to extend JasperReports functionality to process &amp; render CAD Drawings without requiring AutoCAD or any other CAD software. The CAD Class Library allows high quality conversion of DWG, DWT, DWF, DWFX, IFC, PLT, DGN, OBJ, STL, IGES, CF2 files, layouts and layers to PDF &amp; raster image formats.
+You can easily use aspose-cad-jasperreports for Java directly from a Maven based project by adding following configurations to the pom.</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.6.0,-macos-x86,-x64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.6.0-macos-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.6.0-macos-x86-x64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.6.0, macOS x86, x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+42.76MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-6-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.6.0, macOS x86, x64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e48a752d0218263437778b028509ba5a-9-9791&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.6.0,-linux-x86,-x64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.6.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.6.0-linux-x86-x64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.6.0, Linux x86, x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+43.94MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-6-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.6.0, Linux x86, x64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f6400d65d0f0809835208d9ea002f82c-9-9792&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.6.0,-windows-x32</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.6.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.6.0-windows-x32/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.6.0, Windows x32
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+33MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-6-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.6.0, Windows x32 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=92132a035bc340c7fb913162fa3f11e0-7-9793&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.6.0,-windows-x64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.6.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.6.0-windows-x64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.6.0, Windows x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+37.78MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-6-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.6.0, Windows x64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6d1f5634ca1c0af1e12b7437b8353c62-8-9794&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.7.0,-macos-x86,-x64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.7.0-macos-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.7.0-macos-x86-x64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.7.0, macOS x86, x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+44.72MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-7-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.7.0, macOS x86, x64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=def4f3a6a3dc80c5f5900a33d1a04bea-9-9795&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.7.0,-linux-x86,-x64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.7.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.7.0-linux-x86-x64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.7.0, Linux x86, x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+45.99MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-7-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.7.0, Linux x86, x64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=636341bd7317276a5fc0fbcbe9f41232-10-9796&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.7.0,-windows-x32</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.7.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.7.0-windows-x32/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.7.0, Windows x32
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+33.81MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-7-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.7.0, Windows x32 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=32d62e4ea91771bf3461be1d5e6a1388-7-9797&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.7.0,-windows-x64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.7.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.7.0-windows-x64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.7.0, Windows x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+38.88MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-7-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.7.0, Windows x64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=78b71f9a4212d173d4c09dd2d87ca4ca-8-9798&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.8.0,-macos-x86,-x64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.8.0-macos-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.8.0-macos-x86-x64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.8.0, macOS x86, x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+44.73MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-8-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.8.0, macOS x86, x64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=298dcf79f91fb7509258d8a66eb877d3-9-9799&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.8.0,-linux-x86,-x64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.8.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.8.0-linux-x86-x64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.8.0, Linux x86, x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+46MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-8-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.8.0, Linux x86, x64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=45c030ed4a9679859a91c046143c8fb6-10-9800&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.8.0,-windows-x32</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.8.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.8.0-windows-x32/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.8.0, Windows x32
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+33.82MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-8-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.8.0, Windows x32 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6ab0ed4fc2fad0f81bb654c886b94930-7-9801&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.8.0,-windows-x64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.8.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.8.0-windows-x64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.8.0, Windows x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+38.89MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-8-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.8.0, Windows x64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=aba5db2c90b13858778513573a87def0-8-9802&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.9.0,-macos-x86,-x64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.9.0-macos-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.9.0-macos-x86-x64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.9.0, macOS x86, x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+44.74MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-9-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.9.0, macOS x86, x64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8860198fee41e6356f5f92a208d20302-9-9803&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.9.0,-linux-x86,-x64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.9.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.9.0-linux-x86-x64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.9.0, Linux x86, x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+47.41MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-9-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.9.0, Linux x86, x64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ca38c94db2d914f68248ff2411f68f90-10-9804&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.9.0,-windows-x32</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.9.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.9.0-windows-x32/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.9.0, Windows x32
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+33.85MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-9-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.9.0, Windows x32 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=add554cdd27731c1150ffb8b0008c459-7-9805&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.9.0,-windows-x64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.9.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.9.0-windows-x64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.9.0, Windows x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+38.92MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-9-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.9.0, Windows x64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2a4f4f6705385b4795e79a900ecaee3d-8-9806&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.9.1,-linux-x86,-x64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.9.1-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.9.1-linux-x86-x64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.9.1, Linux x86, x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+47.42MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-9-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.9.1, Linux x86, x64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ea539d4fcab4b2682c923676a53790ce-10-9807&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.9.1,-windows-x32</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.9.1-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.9.1-windows-x32/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.9.1, Windows x32
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+33.85MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-9-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.9.1, Windows x32 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=aa444fe7ca627eb94a64f70254ebf100-7-9808&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.9.1,-windows-x64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.9.1-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.9.1-windows-x64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.9.1, Windows x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+38.92MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-9-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.9.1, Windows x64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9e41944d09f68a29343571a85535c77c-8-9809&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.10.0,-macos-x86,-x64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.10.0-macos-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.10.0-macos-x86-x64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.10.0, macOS x86, x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+44.59MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-10-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.10.0, macOS x86, x64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=883f123e243050093f17c2e1eab634f5-9-9810&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.10.0,-linux-x86,-x64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.10.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.10.0-linux-x86-x64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.10.0, Linux x86, x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+45.96MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-10-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.10.0, Linux x86, x64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a34a63aeb1519b0295c3f501aa3a0c95-10-9811&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.10.0,-windows-x32</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.10.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.10.0-windows-x32/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.10.0, Windows x32
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+33.67MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-10-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.10.0, Windows x32 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ff3ec0862c6abec1586cc32989c2140d-7-9812&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.10.0,-windows-x64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.10.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.10.0-windows-x64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.10.0, Windows x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+38.74MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-10-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.10.0, Windows x64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8ccad1b630a5cb58c6599f67716b17ee-8-9813&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.11.0-linux-x86-64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.11.0-linux-x86-64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.11.0-linux-x86-64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.11.0 Linux x86-64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+45.97MB
+Date Added:
+8/12/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-23-11-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.11.0 Linux x86-64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2fabacb6b2b8317659c0d7e7ab0d1757-10-9954&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.11.0-macos-10.14-mojave-x86-64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.11.0-macos-10.14-mojave-x86-64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.11.0-macos-10.14-mojave-x86-64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.11.0 macOS 10.14 Mojave x86-64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+44.6MB
+Date Added:
+8/12/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-23-11-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.11.0 macOS 10.14 Mojave x86-64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=845e9796057d79e91399d9eba27009b5-9-9955&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.11.0-windows-amd64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.11.0-windows-amd64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.11.0-windows-amd64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.11.0 Windows AMD64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+38.75MB
+Date Added:
+8/12/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-23-11-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.11.0 Windows AMD64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=961f4b800a3d13ea7508238929c3ebdd-8-9956&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.11.0-windows-x32</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.11.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.11.0-windows-x32/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.11.0 Windows x32
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+33.69MB
+Date Added:
+8/12/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-23-11-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.11.0 Windows x32 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=70ce26a8358ba2309eee89639342ca8c-7-9957&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.12.0-linux-x86-64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.12.0-linux-x86-64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.12.0-linux-x86-64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.12.0 Linux x86-64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+46.09MB
+Date Added:
+28/12/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-12-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.12.0 Linux x86-64.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2c13b47d7f7c13f6f84f9fd3116e7cd5-6-10084&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.12.0-macos-10.14-mojave-x86-64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.12.0-macos-10.14-mojave-x86-64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.12.0-macos-10.14-mojave-x86-64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.12.0 macOS 10.14 Mojave x86-64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+44.74MB
+Date Added:
+28/12/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-12-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.12.0 macOS 10.14 Mojave x86-64.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9ba52a68fae3400848c694bab836ed7f-6-10085&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.12.0-windows-x32</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.12.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.12.0-windows-x32/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.12.0 Windows x32
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+33.72MB
+Date Added:
+28/12/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-12-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.12.0 Windows x32.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7e62423a7d7e53e2cb41f6ca71d93e64-5-10086&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.12.0-windows-amd64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.12.0-windows-amd64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.12.0-windows-amd64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.12.0 Windows AMD64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+38.81MB
+Date Added:
+28/12/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-12-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.12.0 Windows AMD64.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=869e34a497060b941e9c1dd6992f70b1-5-10087&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-24.1.0-macos-10.14-mojave-x86-64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-24.1.0-macos-10.14-mojave-x86-64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-24.1.0-macos-10.14-mojave-x86-64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 24.1.0 macOS 10.14 Mojave x86-64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+44.75MB
+Date Added:
+31/1/2024
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2024/aspose-3d-for-python-net-24-1-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 24.1.0 macOS 10.14 Mojave x86-64.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ccb2dbc30257bdc1dc100df8de766e33-6-10248&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-24.1.0-linux-x86-64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-24.1.0-linux-x86-64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-24.1.0-linux-x86-64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 24.1.0 Linux x86-64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+46.1MB
+Date Added:
+31/1/2024
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2024/aspose-3d-for-python-net-24-1-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 24.1.0 Linux x86-64.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=66866e32fa325d1af2f3e8dd4bd48734-6-10249&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-24.1.0-windows-x32</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-24.1.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-24.1.0-windows-x32/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 24.1.0 Windows x32
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+33.74MB
+Date Added:
+31/1/2024
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2024/aspose-3d-for-python-net-24-1-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 24.1.0 Windows x32.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=033270cac02d73c584e6624d66937982-5-10250&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-24.1.0-windows-amd64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-24.1.0-windows-amd64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-24.1.0-windows-amd64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 24.1.0 Windows AMD64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+38.82MB
+Date Added:
+31/1/2024
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2024/aspose-3d-for-python-net-24-1-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 24.1.0 Windows AMD64.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e517cad04bafb6cd5a8f5c863b5e6fdf-5-10251&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.3d-for-.net-23.5</title><link>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.5/</guid><description>&amp;nbsp;
+Aspose.3D for .NET 23.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+12.3MB
+Date Added:
+26/5/2023
+Release Noteshttps://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-5-release-notes/
+DescriptionIt contains Aspose.3D for .NET 23.5 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=447c8d2b42ab8c5989de78e4ff78f168-2-8920&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.3d-for-.net-23.5-(dlls-only)</title><link>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.5-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.5-dlls-only/</guid><description>&amp;nbsp;
+Aspose.3D for .NET 23.5 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+8.97MB
+Date Added:
+26/5/2023
+Release Noteshttps://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-5-release-notes/
+DescriptionIt contains Aspose.3D for .NET 23.5 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2761328c897d94d1d8d7963a72bf4d3b-2-8921&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.3d-for-.net-23.6</title><link>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.6/</guid><description>&amp;nbsp;
+Aspose.3D for .NET 23.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+12.32MB
+Date Added:
+26/6/2023
+Release Noteshttps://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-6-release-notes/
+DescriptionIt contains Aspose.3D for .NET 23.6 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=79ce011c4a1aad43ffc0332614f73ced-2-9136&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.3d-for-.net-23.6-(dlls-only)</title><link>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.6-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.6-dlls-only/</guid><description>&amp;nbsp;
+Aspose.3D for .NET 23.6 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+9MB
+Date Added:
+26/6/2023
+Release Noteshttps://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-6-release-notes/
+DescriptionIt contains Aspose.3D for .NET 23.6 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0d34d5c62aa74d7f87f6ae60762a39bb-2-9137&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.3d-for-.net-23.7</title><link>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.7/</guid><description>&amp;nbsp;
+Aspose.3D for .NET 23.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+12.32MB
+Date Added:
+26/7/2023
+Release Noteshttps://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-7-release-notes/
+DescriptionIt contains Aspose.3D for .NET 23.7 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=069299b6c2b3c255ded2d849219ba252-2-9267&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.3d-for-.net-23.7-(dlls-only)</title><link>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.7-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.7-dlls-only/</guid><description>&amp;nbsp;
+Aspose.3D for .NET 23.7 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+9MB
+Date Added:
+26/7/2023
+Release Noteshttps://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-7-release-notes/
+DescriptionIt contains Aspose.3D for .NET 23.7 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=716c911dc6815a1ecdaaadfc45bf9777-2-9268&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Download C# CAD &amp; 3D Processing DLL | Aspose.3D 23.8</title><link>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.8/</guid><description>&amp;nbsp;
+Aspose.3D for .NET 23.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+12.38MB
+Date Added:
+25/8/2023
+Release Noteshttps://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-8-release-notes/
+DescriptionIt contains Aspose.3D for .NET 23.8 release.
+File Details
+.NET API for 3D File Formats Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.3D for .NET empowers .</description></item><item><title>Downloads ---New Releases-aspose.3d-for-.net-23.8-(dlls-only)</title><link>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.8-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.8-dlls-only/</guid><description>&amp;nbsp;
+Aspose.3D for .NET 23.8 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+9.06MB
+Date Added:
+25/8/2023
+Release Noteshttps://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-8-release-notes/
+DescriptionIt contains Aspose.3D for .NET 23.8 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=959fa3247a49cc881db182d001d696b6-2-9389&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.3d-for-.net-23.9</title><link>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.9/</guid><description>&amp;nbsp;
+Aspose.3D for .NET 23.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+9.69MB
+Date Added:
+27/9/2023
+Release Noteshttps://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-9-release-notes/
+DescriptionIt contains Aspose.3D for .NET 23.9 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3280cfbac3dc237136810308d1373b4e-2-9536&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.3d-for-.net-23.9-(dlls-only)</title><link>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.9-dlls-only/</guid><description>&amp;nbsp;
+Aspose.3D for .NET 23.9 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.3MB
+Date Added:
+27/9/2023
+Release Noteshttps://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-9-release-notes/
+DescriptionIt contains Aspose.3D for .NET 23.9 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=33c2d64502e3d98ee9e59be7ba1062a7-9537&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.3d-for-.net-23.10</title><link>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.10/</guid><description>&amp;nbsp;
+Aspose.3D for .NET 23.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+9.68MB
+Date Added:
+30/10/2023
+Release Noteshttps://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-10-release-notes/
+DescriptionIt contains Aspose.3D for .NET 23.10 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=79db19404b5b7dd7f4e271e1527e280e-2-9685&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.3d-for-.net-23.10-(dlls-only)</title><link>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.10-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.10-dlls-only/</guid><description>&amp;nbsp;
+Aspose.3D for .NET 23.10 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.28MB
+Date Added:
+30/10/2023
+Release Noteshttps://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-10-release-notes/
+DescriptionIt contains Aspose.3D for .NET 23.10 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4e4b1f8bba115e8c01abf0b289981056-9686&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.3d-for-.net-23.11</title><link>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.11/</guid><description>&amp;nbsp;
+Aspose.3D for .NET 23.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+9.72MB
+Date Added:
+30/11/2023
+Release Noteshttps://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-11-release-notes/
+DescriptionIt contains Aspose.3D for .NET 23.11 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f78abf7e803d83caad4615da025372a6-2-9898&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.3d-for-.net-23.11-(dlls-only)</title><link>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.11-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.11-dlls-only/</guid><description>&amp;nbsp;
+Aspose.3D for .NET 23.11 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.32MB
+Date Added:
+30/11/2023
+Release Noteshttps://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-11-release-notes/
+DescriptionIt contains Aspose.3D for .NET 23.11 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3a69a71c6286fb5b3703dbd41ae6eaed-9899&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.3d-for-.net-23.12</title><link>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.12/</guid><description>&amp;nbsp;
+Aspose.3D for .NET 23.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+9.77MB
+Date Added:
+28/12/2023
+Release Noteshttps://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-12-release-notes/
+DescriptionIt contains Aspose.3D for .NET 23.12 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e4b2adda9ac3e37dd1f875f894edd423-2-10082&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.3d-for-.net-23.12-(dlls-only)</title><link>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.12-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-23.12-dlls-only/</guid><description>&amp;nbsp;
+Aspose.3D for .NET 23.12 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.34MB
+Date Added:
+28/12/2023
+Release Noteshttps://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-12-release-notes/
+DescriptionIt contains Aspose.3D for .NET 23.12 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3c0c0eb4a33175dea03fa8453accc567-10083&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.3d-for-.net-24.1</title><link>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-24.1/</guid><description>&amp;nbsp;
+Aspose.3D for .NET 24.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+9.8MB
+Date Added:
+30/1/2024
+Release Noteshttps://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-1-release-notes/
+DescriptionIt contains Aspose.3D for .NET 24.1 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=40dea91218001470b8a279c074ac3eca-2-10241&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.3d-for-.net-24.1-(dlls-only)</title><link>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-24.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-24.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.3D for .NET 24.1 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.38MB
+Date Added:
+30/1/2024
+Release Noteshttps://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-1-release-notes/
+DescriptionIt contains Aspose.3D for .NET 24.1 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=898844829b489aac1cfa6d9f28b58451-10242&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Aspose.3D 23.8.0 | Gameware 3D Image CAD Java High Code API</title><link>https://releases-qa.aspose.com/3d/java/23-8-0/</link><pubDate>Fri, 25 Aug 2023 06:34:42 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/java/23-8-0/</guid><description>Java API for 3D Image Processing
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.3D for Java API is built to create, edit, manipulate and save 3D formats. It empowers Java applications to connect with 3D documents without installing any software package on the computer. Aspose.3D for Java API assist developers to model and create massive worlds in games, superb scenes for design visualization, and engage virtual reality experiences.</description></item></channel></rss>

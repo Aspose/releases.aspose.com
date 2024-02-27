@@ -1,0 +1,301 @@
+<!doctype html><html class=no-js lang=en><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge"><title>Aspose.Imaging for Java 18.11 - Release Notes</title><meta name=description content="Aspose.Imaging for Java 18.11 - Release Notes – the latest updates and fixes."><meta name=viewport content="width=device-width,minimum-scale=1"><link rel=canonical href=https://releases-qa.aspose.com/imaging/java/release-notes/2018/aspose-imaging-for-java-18-11-release-notes/><link rel=alternate hreflang=x-default href=https://releases-qa.aspose.com/imaging/java/release-notes/2018/aspose-imaging-for-java-18-11-release-notes/><meta name=robots content="noindex, nofollow"><link rel=apple-touch-icon sizes=180x180 href=/res_repo/apple-touch-icon.png><link rel=icon type=image/png href=/res_repo/favicon-32x32.png sizes=32x32><link rel=icon type=image/png href=/res_repo/favicon-16x16.png sizes=16x16><link rel=mask-icon href=/res_repo/safari-pinned-tab.svg color=#0594cb><meta name=theme-color content="#ffffff"><meta property="og:title" content="Aspose.Imaging for Java 18.11 - Release Notes "><meta property="og:description" content="Aspose.Imaging for Java 18.11 - Release Notes – the latest updates and fixes."><meta property="og:type" content="article"><meta property="og:url" content="https://releases-qa.aspose.com/imaging/java/release-notes/2018/aspose-imaging-for-java-18-11-release-notes/"><meta itemprop=name content="Aspose.Imaging for Java 18.11 - Release Notes"><meta itemprop=description content="Aspose.Imaging for Java 18.11 - Release Notes – the latest updates and fixes."><meta itemprop=wordCount content="706"><meta name=twitter:card content="summary"><meta name=twitter:title content="Aspose.Imaging for Java 18.11 - Release Notes"><meta name=twitter:description content="Aspose.Imaging for Java 18.11 - Release Notes – the latest updates and fixes."><link href=/css/bootstrap.css rel=stylesheet type=text/css><script src=https://releases-qa.aspose.com/res_repo/js/jquery-1.10.2.min.js></script></head><body><div id=header></div><div class=downloadpage><div class="container-fluid bcrumb1"><div id=sticky1 class=stickytopheight>&nbsp;</div><div class=container><div class=moduletable><ul id=dvBC class=breadcrumb><li><a href=/>Home</a><span class=divider></span></li><li><a href=/imaging/>Aspose.Imaging Product Family</a><span class=divider></span></li><li><a href=/imaging/java/>Aspose.Imaging for Java</a><span class=divider></span></li><li><a href=/imaging/java/release-notes/>Release Notes</a><span class=divider></span></li><li><a href=/imaging/java/release-notes/2018/>2018</a><span class=divider></span></li><li><a href=/imaging/java/release-notes/2018/aspose-imaging-for-java-18-11-release-notes/>Aspose.Imaging for Java 18.11 - Release Notes</a><span class=divider></span></li></ul></div></div></div><div class="container-fluid content2 vpanel-left"><div class=container><div class=row><div class="col-md-3 vpanel tree-section"><p class=list-title>Browse our Products<button type=button class=treeview-toggle> <span class=sr-only>Toggle navigation</span> <span class="icon expand-icon glyphicon glyphicon-hide"></span></button></p><div id=tree class="treeview hidetree"></div></div><div class="col-md-9 lhs1 col-xs-12 mobilehide node-section"><div class=box1><section role=main class="main-container page-package-details"><div class=row><div class="col-sm-9 package-details-main"><h1><strong>Aspose.Imaging for Java 18.11 - Release Notes</strong></h1><div class="tab-content body-tab-content"><div role=tabpanel class="tab-pane active" id=readme-tab><div class=readme-common><div id=readme-container><p><table><thead><tr><th style=text-align:left><strong>Key</strong></th><th style=text-align:left><strong>Summary</strong></th><th style=text-align:left><strong>Category</strong></th></tr></thead><tbody><tr><td style=text-align:left>IMAGINGJAVA-1121</td><td style=text-align:left>Tiff XmpData and ExifData is not removed completely</td><td style=text-align:left>Feature</td></tr><tr><td style=text-align:left>IMAGINGJAVA-1118</td><td style=text-align:left>Dashed lines appear as solid in saved SVG without a license</td><td style=text-align:left>Enhancement</td></tr><tr><td style=text-align:left>IMAGINGJAVA-1087</td><td style=text-align:left>SVG files are not converted correctly to JPG </td><td style=text-align:left>Enhancement</td></tr><tr><td style=text-align:left>IMAGINGJAVA-1119</td><td style=text-align:left>Write character in PSD file</td><td style=text-align:left>Enhancement</td></tr><tr><td style=text-align:left>IMAGINGJAVA-1120</td><td style=text-align:left>Color radiance issues in images without a license</td><td style=text-align:left>Enhancement</td></tr><tr><td style=text-align:left>IMAGINGJAVA-1117</td><td style=text-align:left>EMF to SVG fonts issue in Linux</td><td style=text-align:left>Enhancement</td></tr></tbody></table><h1 id=public-api-changes><strong>Public API changes:</strong></h1><h2 id=added-apis><strong>Added APIs:</strong></h2><p>No Change</p><h2 id=removed-apis><strong>Removed APIs:</strong></h2><p>No Change</p><h1 id=usage-examples><strong>Usage examples:</strong></h1><p><strong>IMAGINGJAVA-1121 Tiff XmpData and ExifData is not removed completely</strong></p><p>Please use the following code to remove all Xmp and Exif metadata except Date Taken.:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>test_IMAGINGJAVA_1121</span><span style=color:#f92672>()</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    String dir <span style=color:#f92672>=</span> <span style=color:#e6db74>&#34;D:\\1121\\&#34;</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    String fileName <span style=color:#f92672>=</span> dir <span style=color:#f92672>+</span> <span style=color:#e6db74>&#34;TIF_1Page_LZW_Compression.tif&#34;</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    String outputFile <span style=color:#f92672>=</span> dir <span style=color:#f92672>+</span> <span style=color:#e6db74>&#34;TIF_1Page_LZW_Compression_DeletedOptionalMetadata.tiff&#34;</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    TiffImage image <span style=color:#f92672>=</span> <span style=color:#f92672>(</span>TiffImage<span style=color:#f92672>)</span>Image<span style=color:#f92672>.</span><span style=color:#a6e22e>load</span><span style=color:#f92672>(</span>fileName<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>try</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        List<span style=color:#f92672>&lt;</span>Integer<span style=color:#f92672>&gt;</span> optionalTagsToRemove <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> ArrayList<span style=color:#f92672>&lt;</span>Integer<span style=color:#f92672>&gt;();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        Collections<span style=color:#f92672>.</span><span style=color:#a6e22e>addAll</span><span style=color:#f92672>(</span>optionalTagsToRemove<span style=color:#f92672>,</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            TiffTags<span style=color:#f92672>.</span><span style=color:#a6e22e>ImageDescription</span><span style=color:#f92672>,</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            TiffTags<span style=color:#f92672>.</span><span style=color:#a6e22e>Artist</span><span style=color:#f92672>,</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            TiffTags<span style=color:#f92672>.</span><span style=color:#a6e22e>DateTime</span><span style=color:#f92672>,</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            TiffTags<span style=color:#f92672>.</span><span style=color:#a6e22e>Software</span><span style=color:#f92672>,</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            TiffTags<span style=color:#f92672>.</span><span style=color:#a6e22e>Copyright</span><span style=color:#f92672>,</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            34377<span style=color:#f92672>,</span>       <span style=color:#75715e>// Collection of Photoshop &#39;Image Resource Blocks&#39;.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>            33723        <span style=color:#75715e>// IPTC (International Press Telecommunications Council) metadata.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        removeExifAndXmpData<span style=color:#f92672>(</span>image<span style=color:#f92672>,</span> optionalTagsToRemove<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        setCreationDateTime<span style=color:#f92672>(</span>image<span style=color:#f92672>,</span> <span style=color:#66d9ef>new</span> Date<span style=color:#f92672>());</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        image<span style=color:#f92672>.</span><span style=color:#a6e22e>save</span><span style=color:#f92672>(</span>outputFile<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>finally</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        image<span style=color:#f92672>.</span><span style=color:#a6e22e>close</span><span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/**
+</span></span></span><span style=display:flex><span><span style=color:#75715e>
+</span></span></span><span style=display:flex><span><span style=color:#75715e> * Removes Exif and Xmp Data and those of the listed additional tags which are present in the source Tiff image.
+</span></span></span><span style=display:flex><span><span style=color:#75715e>
+</span></span></span><span style=display:flex><span><span style=color:#75715e> * @param image image
+</span></span></span><span style=display:flex><span><span style=color:#75715e>
+</span></span></span><span style=display:flex><span><span style=color:#75715e> * @param additionalTagsToRemove list of tags to remove
+</span></span></span><span style=display:flex><span><span style=color:#75715e>
+</span></span></span><span style=display:flex><span><span style=color:#75715e> */</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>removeExifAndXmpData</span><span style=color:#f92672>(</span>TiffImage image<span style=color:#f92672>,</span> List<span style=color:#f92672>&lt;</span>Integer<span style=color:#f92672>&gt;</span> additionalTagsToRemove<span style=color:#f92672>)</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>for</span> <span style=color:#f92672>(</span>TiffFrame frame <span style=color:#f92672>:</span> image<span style=color:#f92672>.</span><span style=color:#a6e22e>getFrames</span><span style=color:#f92672>())</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        TiffOptions options <span style=color:#f92672>=</span> frame<span style=color:#f92672>.</span><span style=color:#a6e22e>getFrameOptions</span><span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>for</span> <span style=color:#f92672>(</span>Integer tag <span style=color:#f92672>:</span> additionalTagsToRemove<span style=color:#f92672>)</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            options<span style=color:#f92672>.</span><span style=color:#a6e22e>removeTag</span><span style=color:#f92672>(</span>tag<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>// The image may contain the following Xmp- and Exif-related tags:
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>// 700 - XML packet containing XMP metadata.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>// 34665 - a pointer to the Exif IFD. Exif IFD is a set of tags for recording Exif-specific attribute information.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>// 34853 - a pointer to the Exif-related GPS Info IFD. GPS IFD is a set of tags for recording GPS information.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>// Remove them explicitly.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        options<span style=color:#f92672>.</span><span style=color:#a6e22e>removeTag</span><span style=color:#f92672>(</span>700<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        options<span style=color:#f92672>.</span><span style=color:#a6e22e>removeTag</span><span style=color:#f92672>(</span>34665<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        options<span style=color:#f92672>.</span><span style=color:#a6e22e>removeTag</span><span style=color:#f92672>(</span>34853<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        frame<span style=color:#f92672>.</span><span style=color:#a6e22e>setXmpData</span><span style=color:#f92672>(</span><span style=color:#66d9ef>null</span><span style=color:#f92672>);</span>  <span style=color:#75715e>// Prevent writing XMP Data to the output file.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        frame<span style=color:#f92672>.</span><span style=color:#a6e22e>setExifData</span><span style=color:#f92672>(</span><span style=color:#66d9ef>null</span><span style=color:#f92672>);</span> <span style=color:#75715e>// Prevent writing EXIF and GPS data to the output file.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/**
+</span></span></span><span style=display:flex><span><span style=color:#75715e>
+</span></span></span><span style=display:flex><span><span style=color:#75715e> * Sets date and time of image creation.
+</span></span></span><span style=display:flex><span><span style=color:#75715e>
+</span></span></span><span style=display:flex><span><span style=color:#75715e> * @param image image
+</span></span></span><span style=display:flex><span><span style=color:#75715e>
+</span></span></span><span style=display:flex><span><span style=color:#75715e> * @param dateTime new date and time for image
+</span></span></span><span style=display:flex><span><span style=color:#75715e>
+</span></span></span><span style=display:flex><span><span style=color:#75715e> */</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>setCreationDateTime</span><span style=color:#f92672>(</span>TiffImage image<span style=color:#f92672>,</span> Date dateTime<span style=color:#f92672>)</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>for</span> <span style=color:#f92672>(</span>TiffFrame frame <span style=color:#f92672>:</span> image<span style=color:#f92672>.</span><span style=color:#a6e22e>getFrames</span><span style=color:#f92672>())</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        TiffOptions options <span style=color:#f92672>=</span> frame<span style=color:#f92672>.</span><span style=color:#a6e22e>getFrameOptions</span><span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>// The format is: &#34;YYYY:MM:DD HH:MM:SS&#34;, with hours like those on a 24-hour
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>// clock, and one space character between the date and the time.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>// The length of the String, including the terminating NUL, is 20 bytes.                    
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        String dateTimeStr <span style=color:#f92672>=</span> String<span style=color:#f92672>.</span><span style=color:#a6e22e>format</span><span style=color:#f92672>(</span><span style=color:#e6db74>&#34;%1$tY:%1$tm:%1$td %1$tH:%1$tM:%1$tS&#34;</span><span style=color:#f92672>,</span> dateTime<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>// Write to the DateTime Tiff Tag 306 (132.H)
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        options<span style=color:#f92672>.</span><span style=color:#a6e22e>setDateTime</span><span style=color:#f92672>(</span>dateTimeStr<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>// Write to the Exif Data too.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>// As practice shows, the &lt;Date taken&gt; property is filled with the value stored in ExifData.DateTimeOriginal. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        frame<span style=color:#f92672>.</span><span style=color:#a6e22e>setExifData</span><span style=color:#f92672>(</span><span style=color:#66d9ef>new</span> ExifData<span style=color:#f92672>());</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        frame<span style=color:#f92672>.</span><span style=color:#a6e22e>getExifData</span><span style=color:#f92672>().</span><span style=color:#a6e22e>setDateTimeOriginal</span><span style=color:#f92672>(</span>dateTimeStr<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span></span></span></code></pre></div><p><strong>IMAGINGJAVA-1118 Dashed lines appear as solid in saved SVG without a license</strong></p><p>This code must be executed without license.</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> License l <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> License<span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>l<span style=color:#f92672>.</span><span style=color:#a6e22e>setLicense</span><span style=color:#f92672>(</span><span style=color:#e6db74>&#34;&#34;</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>String baseFolder <span style=color:#f92672>=</span> <span style=color:#e6db74>&#34;D:\\&#34;</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>String fileName <span style=color:#f92672>=</span> <span style=color:#e6db74>&#34;image32.emf&#34;</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>String inputFileName <span style=color:#f92672>=</span> baseFolder <span style=color:#f92672>+</span> fileName<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>String outputFileName <span style=color:#f92672>=</span> inputFileName <span style=color:#f92672>+</span> <span style=color:#e6db74>&#34;.svg&#34;</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>Image image <span style=color:#f92672>=</span> Image<span style=color:#f92672>.</span><span style=color:#a6e22e>load</span><span style=color:#f92672>(</span>inputFileName<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>try</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    EmfRasterizationOptions emfRasterizationOptions <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> EmfRasterizationOptions<span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    emfRasterizationOptions<span style=color:#f92672>.</span><span style=color:#a6e22e>setPageSize</span><span style=color:#f92672>(</span>Size<span style=color:#f92672>.</span><span style=color:#a6e22e>to_SizeF</span><span style=color:#f92672>(</span>image<span style=color:#f92672>.</span><span style=color:#a6e22e>getSize</span><span style=color:#f92672>()));</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    SvgOptions options <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> SvgOptions<span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    options<span style=color:#f92672>.</span><span style=color:#a6e22e>setVectorRasterizationOptions</span><span style=color:#f92672>(</span>emfRasterizationOptions<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    image<span style=color:#f92672>.</span><span style=color:#a6e22e>save</span><span style=color:#f92672>(</span>outputFileName<span style=color:#f92672>,</span> options<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>finally</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    image<span style=color:#f92672>.</span><span style=color:#a6e22e>close</span><span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span></span></span></code></pre></div><p><strong>IMAGINGJAVA-1087 SVG files are not converted correctly to JPG</strong></p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> String baseFolder <span style=color:#f92672>=</span> <span style=color:#e6db74>&#34;D:\\Temp\\Errors\\3090\\&#34;</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>String fileName <span style=color:#f92672>=</span> <span style=color:#e6db74>&#34;Ulsrud_Freestanding Centered denim.svg&#34;</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>String inputFileName <span style=color:#f92672>=</span> baseFolder <span style=color:#f92672>+</span> fileName<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>String outputFileName <span style=color:#f92672>=</span> inputFileName <span style=color:#f92672>+</span> <span style=color:#e6db74>&#34;.jpg&#34;</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>Image image <span style=color:#f92672>=</span> Image<span style=color:#f92672>.</span><span style=color:#a6e22e>load</span><span style=color:#f92672>(</span>inputFileName<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>try</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    SvgRasterizationOptions emfRasterizationOptions <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> SvgRasterizationOptions<span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    emfRasterizationOptions<span style=color:#f92672>.</span><span style=color:#a6e22e>setPageSize</span><span style=color:#f92672>(</span>Size<span style=color:#f92672>.</span><span style=color:#a6e22e>to_SizeF</span><span style=color:#f92672>(</span>image<span style=color:#f92672>.</span><span style=color:#a6e22e>getSize</span><span style=color:#f92672>()));</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    JpegOptions options <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> JpegOptions<span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    options<span style=color:#f92672>.</span><span style=color:#a6e22e>setVectorRasterizationOptions</span><span style=color:#f92672>(</span>emfRasterizationOptions<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    image<span style=color:#f92672>.</span><span style=color:#a6e22e>save</span><span style=color:#f92672>(</span>outputFileName<span style=color:#f92672>,</span> options<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>finally</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    image<span style=color:#f92672>.</span><span style=color:#a6e22e>close</span><span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span></span></span></code></pre></div><p><strong>IMAGINGJAVA-1119 <a href=https://forum.aspose.com/t/how-to-write-character-to-psd-file-using-aspose-imaging-for-net/178754/3>Write character in PSD file</a></strong></p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> String filePath <span style=color:#f92672>=</span> <span style=color:#e6db74>&#34;D:\\input.psd&#34;</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>Image image <span style=color:#f92672>=</span> Image<span style=color:#f92672>.</span><span style=color:#a6e22e>load</span><span style=color:#f92672>(</span>filePath<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>try</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>if</span> <span style=color:#f92672>(!(</span>image <span style=color:#66d9ef>instanceof</span> PsdImage<span style=color:#f92672>))</span><span style=color:#66d9ef>return</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    PsdImage psdImage <span style=color:#f92672>=</span> <span style=color:#f92672>(</span>com<span style=color:#f92672>.</span><span style=color:#a6e22e>aspose</span><span style=color:#f92672>.</span><span style=color:#a6e22e>imaging</span><span style=color:#f92672>.</span><span style=color:#a6e22e>fileformats</span><span style=color:#f92672>.</span><span style=color:#a6e22e>psd</span><span style=color:#f92672>.</span><span style=color:#a6e22e>PsdImage</span><span style=color:#f92672>)</span> image<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    Layer<span style=color:#f92672>[]</span> layers <span style=color:#f92672>=</span> psdImage<span style=color:#f92672>.</span><span style=color:#a6e22e>getLayers</span><span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>for</span> <span style=color:#f92672>(</span><span style=color:#66d9ef>int</span> index <span style=color:#f92672>=</span> layers<span style=color:#f92672>.</span><span style=color:#a6e22e>length</span> <span style=color:#f92672>-</span> 1<span style=color:#f92672>;</span> index <span style=color:#f92672>&gt;=</span> 0<span style=color:#f92672>;</span> index<span style=color:#f92672>--)</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        Layer layer <span style=color:#f92672>=</span> layers<span style=color:#f92672>[</span>index<span style=color:#f92672>];</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>if</span> <span style=color:#f92672>(!(</span>layer <span style=color:#66d9ef>instanceof</span> TextLayer<span style=color:#f92672>))</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>continue</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        TextLayer textLayer <span style=color:#f92672>=</span> <span style=color:#f92672>(</span>com<span style=color:#f92672>.</span><span style=color:#a6e22e>aspose</span><span style=color:#f92672>.</span><span style=color:#a6e22e>imaging</span><span style=color:#f92672>.</span><span style=color:#a6e22e>fileformats</span><span style=color:#f92672>.</span><span style=color:#a6e22e>psd</span><span style=color:#f92672>.</span><span style=color:#a6e22e>layers</span><span style=color:#f92672>.</span><span style=color:#a6e22e>TextLayer</span><span style=color:#f92672>)</span> layer<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        textLayer<span style=color:#f92672>.</span><span style=color:#a6e22e>updateText</span><span style=color:#f92672>(</span><span style=color:#e6db74>&#34;\\()&#34;</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    PsdOptions imageOptions <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> PsdOptions<span style=color:#f92672>(</span>psdImage<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    psdImage<span style=color:#f92672>.</span><span style=color:#a6e22e>save</span><span style=color:#f92672>(</span>filePath <span style=color:#f92672>+</span> <span style=color:#e6db74>&#34;.psd&#34;</span><span style=color:#f92672>,</span> imageOptions<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>finally</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    image<span style=color:#f92672>.</span><span style=color:#a6e22e>close</span><span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span></span></span></code></pre></div><p><strong>IMAGINGJAVA-1120 Color radiance issues in images without a license</strong>
+This code must be executed without license.</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> License l <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> License<span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>l<span style=color:#f92672>.</span><span style=color:#a6e22e>setLicense</span><span style=color:#f92672>(</span><span style=color:#e6db74>&#34;&#34;</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>String baseFolder <span style=color:#f92672>=</span> <span style=color:#e6db74>&#34;D:\\&#34;</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>String fileName <span style=color:#f92672>=</span> <span style=color:#e6db74>&#34;image34.emf&#34;</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>String inputFileName <span style=color:#f92672>=</span> baseFolder <span style=color:#f92672>+</span> fileName<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>String outputFileName <span style=color:#f92672>=</span> inputFileName <span style=color:#f92672>+</span> <span style=color:#e6db74>&#34;.svg&#34;</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>Image image <span style=color:#f92672>=</span> Image<span style=color:#f92672>.</span><span style=color:#a6e22e>load</span><span style=color:#f92672>(</span>inputFileName<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>try</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    EmfRasterizationOptions emfRasterizationOptions <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> EmfRasterizationOptions<span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    emfRasterizationOptions<span style=color:#f92672>.</span><span style=color:#a6e22e>setPageSize</span><span style=color:#f92672>(</span>Size<span style=color:#f92672>.</span><span style=color:#a6e22e>to_SizeF</span><span style=color:#f92672>(</span>image<span style=color:#f92672>.</span><span style=color:#a6e22e>getSize</span><span style=color:#f92672>()));</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    SvgOptions options <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> SvgOptions<span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    options<span style=color:#f92672>.</span><span style=color:#a6e22e>setVectorRasterizationOptions</span><span style=color:#f92672>(</span>emfRasterizationOptions<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    image<span style=color:#f92672>.</span><span style=color:#a6e22e>save</span><span style=color:#f92672>(</span>outputFileName<span style=color:#f92672>,</span> options<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>finally</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    image<span style=color:#f92672>.</span><span style=color:#a6e22e>close</span><span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span></span></span></code></pre></div></p></div></div></div></div><hr></div></div></section></div></div></div></div></div></div><div id=dvHidden style=display:none></div><div id=footer></div><a class=backtop>&nbsp;</a><div id=DynabicMenuFooter></div><script type=text/javascript>const langarray=[]</script><script type=text/javascript>jQuery(document).ready(function(){let e=$(".nested").hide(),t=$(".treeview-animated-element");$(".treeview-animated-items-header").hover(function(){$(this).children.toggleClass("Mydiv")}),$(".treeview-animated-items-header").click(function(){return console.log("mala"),$this=$(this),console.log($this.attr("id")),$target=$this.siblings(".nested"),$pointerPlus=$this.children(".fa-plus"),$pointerMinus=$this.children(".fa-minus"),$pointerPlus.removeClass("fa-plus"),$pointerPlus.addClass("fa-minus"),$pointerMinus.removeClass("fa-minus"),$pointerMinus.addClass("fa-plus"),$this.toggleClass("open"),$target.hasClass("active")?$target.removeClass("active").slideUp():$target.addClass("active").slideDown(),!1})})</script><script>(function(e,s,o,a,t,n,i){e.ContainerizeMenuObject=t,e[t]=e[t]||function(){(e[t].q=e[t].q||[]).push(arguments)},e[t].l=1*new Date,n=s.createElement(o),i=s.getElementsByTagName(o)[0],n.async=1,n.src=a,i.parentNode.append(n)})(window,document,"script","https://menu.containerize.com/scripts/engine.min.js?v=1.0.1","aspose-en")</script><script src=https://releases-qa.aspose.com/res_repo/js/highlight.min.js></script>
+<script src=https://releases-qa.aspose.com/res_repo/js/bootstrap.min.js></script>
+<script src=/js/bundle.min.js></script>
+<script src=/js/dynabic.treeview.js></script>
+<script src=/js/treeviewmanager.js></script>
+<script>hljs.highlightAll()</script><link rel=stylesheet type=text/css href=https://releases-qa.aspose.com/res_repo/css/hugocustom.css><script>$(".btn-showside .mb-5").on("click",function(){$("main .flex .dn.db-l").toggleClass("showsidebar"),$("main .flex .w-100").toggleClass("noscroll")}),$(".btn-showmenu").on("click",function(){$("nav.bg-primary-color-dark").toggleClass("showmenu")}),$(".btn-plain").on("click",function(){$("main .flex .dn.db-l").removeClass("showsidebar"),$("main .flex .dn.db-l").removeClass("showsidebar"),$("nav.bg-primary-color-dark").removeClass("showmenu")}),$(".ss-bar ul li a[data-target]").on("click",function(){$(this).find(".i.fa-angle-down").hasClass("fa-angle-up")?$(this).find("i.fa-angle-down").removeClass("fa-angle-up"):$(this).find("i.fa-angle-down").toggleClass("fa-angle-up")}),$(".btn-showside").on("click",function(){$(".ss-bar").toggleClass("showsidebar")}),$(".btn-plain").on("click",function(){$(".ss-bar").removeClass("showsidebar")})</script><script>$(document).ready(function(){$("div pre").removeAttr("style");var e,t=$(location).attr("hash");"#package-explorer"==t&&(e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]'),e&&e.click()),$('a:has(img[alt="banner"]').click(function(){event.preventDefault();var e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]');e&&e.click()}),$(window).scroll(function(){$(this).scrollTop()>150?$(".backtop").fadeIn():$(".backtop").fadeOut()}),$(".backtop").click(function(){return $("html, body").animate({scrollTop:0},600),!1}),$(".linkshow").on("click",function(){$(this).find("i").toggleClass("fa-minus-square"),$(".linkshowbox").toggleClass("hide")}),document.querySelector("body").addEventListener("click",function(t){if(t.target.classList.contains("searchButton")){$(".ss-bar").removeClass("showsidebar");try{var e=$("input[name=q]").val();gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}if(t.target.classList.contains("fa-search")){$(".ss-bar").removeClass("showsidebar");try{e=$("input[name=q]").val(),gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}},!0)})</script><script>document.querySelectorAll("pre > code").forEach(t=>{const n=t.parentNode.parentNode,e=document.createElement("button");e.classList.add("copy-code"),e.innerHTML="copy";function s(){e.innerHTML="copied!",setTimeout(()=>{e.innerHTML="copy"},2e3)}e.addEventListener("click",o=>{if("clipboard"in navigator){navigator.clipboard.writeText(t.textContent),s();return}const e=document.createRange();e.selectNodeContents(t);const n=window.getSelection();n.removeAllRanges(),n.addRange(e);try{document.execCommand("copy"),s()}catch(e){}n.removeRange(e)}),n.classList.contains("highlight")?n.appendChild(e):n.parentNode.firstChild==n||(t.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName=="TABLE"?t.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(e):t.parentNode.appendChild(e))})</script></body></html>

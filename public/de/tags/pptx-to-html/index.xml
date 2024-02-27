@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>pptx-to-html on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/tags/pptx-to-html/</link><description>Recent content in pptx-to-html on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/tags/pptx-to-html/index.xml" rel="self" type="application/rss+xml"/><item><title>Laden Sie die .NET-DLL herunter, um Präsentationen zu lesen und zu bearbeiten | Aspose.Folien</title><link>https://releases-qa.aspose.com/de/slides/net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/net/</guid><description>Support Forum
+Laden Sie Aspose.Slides herunter, um Präsentationen zu verarbeiten Offen
+NuGetPackage Manager in Microsoft Visual Studio®, suchen Sie nach Aspose.Slides und installieren Sie es. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die
+InstallationDokumentationsseite.
+Release-opmerkingen
+Downloaden
+PM&amp;gt;
+Install-Package Aspose.Slides.NET
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>C++-Klassenbibliothek für Präsentationen herunterladen | Aspose.Folien</title><link>https://releases-qa.aspose.com/de/slides/cpp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/</guid><description>Support Forum
+Laden Sie die C&amp;#43;&amp;#43;-Bibliothek herunter, um Präsentationen zu verarbeiten Offen
+NuGetPackage Manager in Microsoft Visual Studio®, suchen Sie nach Aspose.Slides.Cpp und installieren Sie es. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die
+InstallationDokumentationsseite.
+Release-opmerkingen
+Downloaden
+PM&amp;gt;
+Install-Package Aspose.Slides.Cpp
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-C ++-23.8-Linux</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.8-linux/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.8 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+88.84MB
+Datum hinzugefügt:
+23/8/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-8-release-notes/
+BeschreibungEs enthält asspose.slides für C ++ 23.8 Linux -Freisetzung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=13cc828d22f63ead0bc406aaa29a28dd-18-9376&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPLE.SLIDES-FOR-23.8</title><link>https://releases-qa.aspose.com/de/slides/net/new-releases/aspose.slides-for-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/net/new-releases/aspose.slides-for-.net-23.8/</guid><description>&amp;nbsp;
+ASSON.Slides für .NET 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+128.39MB
+Datum hinzugefügt:
+21/8/2023
+Versionshinweisehttps://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-8-release-notes/
+BeschreibungEs enthält asspose.slides für .NET 23.8 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fc963efb3367a5eb9abc030d576910c8-26-9356&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

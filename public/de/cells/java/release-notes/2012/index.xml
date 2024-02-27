@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Release Notes - 2012 on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2012/</link><description>Recent content in Release Notes - 2012 on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/cells/java/release-notes/2012/index.xml" rel="self" type="application/rss+xml"/><item><title>Aspose.Cells for Java 7.3.4 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2012/aspose-cells-for-java-7-3-4-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2012/aspose-cells-for-java-7-3-4-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 7.3.4
+Wir sind freut sich, Aspose.Cells for Java v7.3.4 ankündigen zu können!
+Neue Eigenschaften
+Unterstützung für das Format TIFF in der Sheet-to-Image-Funktion Verbesserungen
+Die rechte Fußzeile befindet sich nicht über der mittleren Fußzeile wie in MS Excel Ausnahmen
+Ausnahme wegen unzureichendem Arbeitsspeicher beim Konvertieren von Excel in PDF Das Setzen von &amp;ldquo;+100&amp;rdquo; als Bedingungsformel verursachte eine Ausnahme Ausnahme: „StackOverflowError“ beim Berechnen von Formeln „IllegalArgumentException“ wird ausgelöst, wenn Workbook.</description></item><item><title>Aspose.Cells for Java 7.3.3 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2012/aspose-cells-for-java-7-3-3-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2012/aspose-cells-for-java-7-3-3-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 7.3.3
+Wir sind freut sich, Aspose.Cells for Java v7.3.3 ankündigen zu können!
+Neue Eigenschaften
+Fügen Sie die Methode Row.getLastDataCell() hinzu, um die letzte Zelle mit Daten in einer Zeile abzurufen Neue APIs hinzugefügt, um dasselbe Stilobjekt für Zellen mit denselben Stileinstellungen zu erhalten Verbesserungen
+Fügen Sie Anführungszeichen zu leeren Zellenwerten hinzu, wenn Sie eine CSV mit exportieren Möglichkeit</description></item><item><title>Aspose.Cells for Java 7.3.2 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2012/aspose-cells-for-java-7-3-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2012/aspose-cells-for-java-7-3-2-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 7.3.2
+Wir sind freut sich, Aspose.Cells for Java v7.3.2 ankündigen zu können!
+Neue Eigenschaften
+Shape.getRight()/getBottom(), um einen Versatz der Form von der rechten unteren Ecke zur Zelle zu erhalten Stellen Sie die Farbe der Arbeitsblatt-Registerkarte auf die Standardfarbe ein Verbesserungen
+Schließen Sie interne Streams zum Freigeben von Speicherressourcen in der PDF-Konvertierung Kopieren Sie Sparklines beim Kopieren des Arbeitsblatts Ausnahmen</description></item><item><title>Aspose.Cells for Java 7.3.1 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2012/aspose-cells-for-java-7-3-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2012/aspose-cells-for-java-7-3-1-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 7.3.1
+Wir sind freut sich, Aspose.Cells for Java v7.3.1 für die Benutzer anzukündigen!
+Neue Eigenschaften
+Analysieren Sie Skripte in den Kopf-/Fußzeilen von Page Setup
+Bedingte Formatierung – Schließen Sie die fehlenden Felder des DataBar-Typs ein
+Bedingte Formatierung – Schließen Sie die fehlenden Werte des IconSet-Typs ein
+Bedingte Formatierung - Unterstützung
+Lesen Sie bedingte Formatierungsregeln mit blattübergreifenden Formeln</description></item><item><title>Aspose.Cells for Java 7.3.0 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2012/aspose-cells-for-java-7-3-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2012/aspose-cells-for-java-7-3-0-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 7.3.0
+Wir sind freut sich, Aspose.Cells for Java v7.3.0 bekannt zu geben!
+Was gibt&amp;rsquo;s Neues
+Lesen und MHT-Dateien schreiben Unterstützt XML-Karten Anwenden MS Excel 2007/2010-Designs zu Diagrammen Weitere bemerkenswerte Funktionen, Verbesserungen und Korrekturen sind unten aufgeführt.
+Neue Eigenschaften
+– Unterstützt Einstellungen für die Auswertung von Übergangsformeln
+Verbesserungen
+Zellenwerte mit benutzerdefiniertem Gebietsschema formatieren Ausnahmen
+Nicht unterstützte Schriftartdateien können dazu führen, dass das Speichern in PDF mit Ausnahme fehlschlägt Fehler</description></item><item><title>Aspose.Cells for Java 7.2.2 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2012/aspose-cells-for-java-7-2-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2012/aspose-cells-for-java-7-2-2-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 7.2.2
+Wir sind freut sich, Aspose.Cells for Java v7.2.2 ankündigen zu können!
+Neue Eigenschaften
+RegEx-Textsuche nach Cells.Find()-Methode Verbesserungen
+Machen Sie Aspose.Cells mit älteren Versionen von Woodstox-Gläsern kompatibel OLE-eingebettete OOXML-Dateien in XLS werden als OLE-gepackte Dateien statt als entpackte Dateien ausgegeben Unterstützung von ExportObjectListener zum Speichern von HTML-Dateien Bedingte Formatierung kopieren beim Kopieren von Zeilen Ausnahmen
+Picture.isPrintable() für Picture inPageSetup verursacht NullPointerException Das Speichern einer verschlüsselten Arbeitsmappe mit Pivot-Tabelle verursacht java.</description></item><item><title>Aspose.Cells for Java 7.2.1 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2012/aspose-cells-for-java-7-2-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2012/aspose-cells-for-java-7-2-1-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 7.2.1
+Wir sind freut sich, Aspose.Cells for Java v7.2.1 ankündigen zu können!
+Neue Eigenschaften
+Pivot-Tabelle mit benutzerdefinierten Stilen für verschiedene Kategorien formatieren (Schnellstil der Pivot-Tabelle ändern) Verbesserungen
+Cells.findString()/find() unterstützt die Suche nach RegExand in einem bestimmten Bereich Unterstützung von Picture.setTitle()/getTitle() Speichern Sie MS Excel-Diagramme in der Datei ODS Aspose.Cells erstellte XLS-Datei mit POI kompatibel machen Ausnahmen
+Das Lesen der Datei XLSX erzeugt: „java.</description></item><item><title>Aspose.Cells for Java 7.1.2 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2012/aspose-cells-for-java-7-1-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2012/aspose-cells-for-java-7-1-2-release-notes/</guid><description>
+Diese Seite enthält Versionshinweise fürAspose.Cells for Java 7.1.2
+Wir sind freut sich, Aspose.Cells for Java v7.1.2 ankündigen zu können!
+Neue Eigenschaften
+– Unterstützung der Methode Cells.importCustomObjects() zum Importieren von POJO
+Verbesserungen
+Für autoFitColumns()-Methoden wurden Verbesserungen vorgenommen Leistung für Blatt-zu-Bild-Funktion mit aktivierten Gitternetzlinien Ausnahmen
+Beim Aufrufen der Methode Cell.getDisplayStyle() ist eine NullPointerException aufgetreten Fehler
+Der Maximalwert für das Streudiagramm kann nicht richtig eingestellt werden Text in Formen ging in der generierten PDF-Datei verloren oder wurde außerhalb des Formenbereichs verschoben Der Serienname wurde nicht für Datumsbeschriftungen im Diagramm angezeigt</description></item><item><title>Aspose.Cells for Java 7.1.1 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2012/aspose-cells-for-java-7-1-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2012/aspose-cells-for-java-7-1-1-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 7.1.1
+Wir sind freut sich, Aspose.Cells for Java v7.1.1 ankündigen zu können!
+Neue Eigenschaften
+Überprüfen Sie, ob eine Spalte leer ist Verbesserungen
+Speichern in XLSX mit LightCells API durch direktes Rendern in OutputStream Ausnahmen
+Die Methode Cell.setHtmlString() löst eine NullPointerException aus Das Lesen einer XLSX-Vorlagendatei löst eine NullPointerException aus Fehler
+Die sekundäre Kategorieachse des SCATTER-Diagramms wird zur Textachse Inhalte in Textbox wurden nicht korrekt gerendert Die ROUND-Funktion kann einen Wert größer als 922337,20 nicht runden Diagramm wurde nicht korrekt aus ODStemplate-Datei gelesen Benutzerdefiniertes Zahlenformat: &amp;ldquo;dd.</description></item><item><title>Aspose.Cells for Java 7.1.0 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2012/aspose-cells-for-java-7-1-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2012/aspose-cells-for-java-7-1-0-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 7.1.0
+Wir freuen uns, Aspose.Cells for Java v7.1.0 anzukündigen!
+Verbesserungen
+Löschen Sie Vorlagendateien nach dem Lesen von XLSX/ODS-Dateien mit dem Zip-Tool von Apache Ausnahmen
+-Cell.setHtmlString() löst NullPointerException aus
+Fehler
+-Cell Inhalte sind aus der generierten PDF-Datei verschwunden
+-Fehlermeldung: „Die Pivot-Tabelle wurde in einer neueren Version von Excel erstellt…“beim Öffnen der Datei in MS Excel
+ - Der Zoom des Blatts wird geändert, wenn eine XLS-Vorlagendatei geöffnet wird</description></item></channel></rss>

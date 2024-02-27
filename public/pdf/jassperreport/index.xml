@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Deliver Reports in PDF | Aspose.PDF for JasperReports on Releases - aspose.com</title><link>https://releases-qa.aspose.com/pdf/jassperreport/</link><description>Recent content in Deliver Reports in PDF | Aspose.PDF for JasperReports on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 05 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/pdf/jassperreport/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---New-Releases-aspose.pdf-for-jasperreports-1.0.0 .</title><link>https://releases-qa.aspose.com/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-1.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-1.0.0/</guid><description>&amp;nbsp;
+Aspose.PDF for JasperReports 1.0.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 65 File Size: 8.4 MB Posted By: codewarior Views: 658 Date Added: 5/3/2011
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=62e85f1e4b3d4f25b0a01e91cd05d44b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-jasperreports-1.1.0 .</title><link>https://releases-qa.aspose.com/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-1.1.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-1.1.0/</guid><description>&amp;nbsp;
+Aspose.PDF for JasperReports 1.1.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 105 File Size: 8.5 MB Posted By: codewarior Views: 1342 Date Added: 2/17/2013
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=aa64e6f496fb4c3b817d5214431622c4&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-jasperreports-1.2.0 .</title><link>https://releases-qa.aspose.com/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-1.2.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-1.2.0/</guid><description>&amp;nbsp;
+Aspose.PDF for JasperReports 1.2.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 151 File Size: 9.0 MB Posted By: tilal.ahmad Views: 1152 Date Added: 4/5/2013
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6283159ee1cf4543adcbf71834e9c19c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-jasperreports .</title><link>https://releases-qa.aspose.com/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports/</guid><description>&amp;nbsp;
+Aspose.PDF for JasperReports
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 109 File Size: 8.7 MB Posted By: bornwild Views: 826 Date Added: 6/23/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d6ecad7b4f224bfeab28b3e4161291fc&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-jasperreports-1.4.0 .</title><link>https://releases-qa.aspose.com/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-1.4.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-1.4.0/</guid><description>&amp;nbsp;
+Aspose.PDF for JasperReports 1.4.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 112 File Size: 8.5 MB Posted By: codewarior Views: 636 Date Added: 8/19/2015
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b7a92faedf674dbd91b1ed1b23d878d3&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-jasperreports-1.5.0 .</title><link>https://releases-qa.aspose.com/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-1.5.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-1.5.0/</guid><description>&amp;nbsp;
+Aspose.PDF for JasperReports 1.5.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 93 File Size: 171.1 MB Posted By: bornwild Views: 525 Date Added: 9/9/2015
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b3a6d813c0f748108d8ae88df4d1a293&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-jasperreports-1.6.0 .</title><link>https://releases-qa.aspose.com/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-1.6.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-1.6.0/</guid><description>&amp;nbsp;
+Aspose.PDF for JasperReports 1.6.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 78 File Size: 73.9 MB Posted By: bornwild Views: 796 Date Added: 9/2/2016
+Release Noteshttps://releases.aspose.com/pdf/jassperreport/release-notes/2016/aspose-pdf-for-jasperreports-1-6-0-release-notes/DescriptionWe are pleased to share a new version of Aspose.Pdf for JasperReports with following improvements.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-jasperreports-18.9 .</title><link>https://releases-qa.aspose.com/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-18.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-18.9/</guid><description>&amp;nbsp;
+Aspose.PDF for JasperReports 18.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 24 File Size: 163.4 MB Posted By: bornwild Views: 1196 Date Added: 9/25/2018
+Release Noteshttps://releases.aspose.com/pdf/jassperreport/release-notes/2018/aspose-pdf-for-jasperreports-18-9-release-notes/DescriptionWe are pleased to share a new version of Aspose.Pdf for JasperReports with following improvements.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-jasperreports-19.5 .</title><link>https://releases-qa.aspose.com/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-19.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-19.5/</guid><description>&amp;nbsp;
+Aspose.PDF for JasperReports 19.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 39 File Size: 223.1 MB Posted By: bornwild Views: 172 Date Added: 5/30/2019
+Release Noteshttps://releases.aspose.com/pdf/jassperreport/release-notes/2019/aspose-pdf-for-jasperreports-19-5-release-notes/DescriptionWe are pleased to share a new version of Aspose.Pdf for JasperReports with following improvements.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-jasperreports-20.11 .</title><link>https://releases-qa.aspose.com/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-20.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-20.11/</guid><description>&amp;nbsp;
+Aspose.PDF for JasperReports 20.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+41
+File Size:
+362.0 MB
+Posted By:
+bornwild
+Views:
+138
+Date Added:
+11/27/2020
+Release Noteshttps://releases.aspose.com/pdf/jassperreport/release-notes/2020/aspose-pdf-for-jasperreports-20-11-release-notes/DescriptionWe are pleased to share a new version of Aspose.Pdf for JasperReports with following improvements.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item></channel></rss>

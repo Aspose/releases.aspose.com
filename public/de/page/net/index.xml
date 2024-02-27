@@ -1,0 +1,1903 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Laden Sie die C#-Bibliothek herunter, um XPS PS zu erstellen, zu bearbeiten | Aspose.Page-API on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/page/net/</link><description>Recent content in Laden Sie die C#-Bibliothek herunter, um XPS PS zu erstellen, zu bearbeiten | Aspose.Page-API on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/page/net/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-19.6-(dlls-and-docs) .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-19.6-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-19.6-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 19.6 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+13.5 MB Posted By: skolod
+Ansichten:
+12
+Hinzugefügt am:
+6/27/2019
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2019/aspose-page-for-net-19-6-release-notes/ BeschreibungWir freuen uns, die erste Version von Aspose.Page für .Net bekannt zu geben.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1f97b9b2d707489e9d95379842ec9238&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-19.6 .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-19.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-19.6/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 19.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+13.7 MB Posted By: skolod
+Ansichten:
+7
+Hinzugefügt am:
+6/27/2019
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2019/aspose-page-for-net-19-6-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2302b9ca9c05477685252d2995cb59d2&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.page-for-.net-19.10-(dlls-and-docs) .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-19.10-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-19.10-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 19.10 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+13.6 MB Posted By: Aufrufe:
+17:
+Date Added:: 22.10.2019:
+:
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2019/aspose-page-for-net-19-10-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-19.10 .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-19.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-19.10/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 19.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+13
+Dateigröße:
+13.9 MB Posted By: Aufrufe:
+12:
+Date Added:: 22.10.2019:
+:
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2019/aspose-page-for-net-19-10-release-notes/ BeschreibungEs enthält Aspose.Page für die Version .NET 19.10.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=19c3c213bff94f4b9d09213513bb7f9d&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.page-for-.net-19.11-(dlls-and-docs) .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-19.11-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-19.11-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 19.11 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+15
+Dateigröße:
+13.7 MB Posted By: skolod
+Ansichten:
+85
+Hinzugefügt am:
+11/14/2019
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2019/aspose-page-for-net-19-11-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e2258e85659c43e59bb1475a0dbb6179&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-19.11 .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-19.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-19.11/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 19.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+13.9 MB Posted By: skolod
+Ansichten:
+14
+Hinzugefügt am:
+11/14/2019
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2019/aspose-page-for-net-19-11-release-notes/ BeschreibungEs enthält Aspose.Page für die Version .NET 19.11.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c778ae73e4f84cab9afe406b78fd424f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.page-for-.net-19.12-(dlls-and-docs) .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-19.12-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-19.12-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 19.12 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+16
+Dateigröße:
+15.8 MB Posted By: skolod
+Ansichten:
+88
+Hinzugefügt am:
+12/17/2019
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2019/aspose-page-for-net-19-12-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3d039a0eb84140cab6a36aebac2d7307&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-19.12 .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-19.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-19.12/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 19.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+13.9 MB Posted By: skolod
+Ansichten:
+15
+Hinzugefügt am:
+12/18/2019
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2019/aspose-page-for-net-19-12-release-notes/ BeschreibungEs enthält Aspose.Page für die Version .NET 19.12.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b30ceb7a65d5450393617de08226b96c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.page-for-.net-20.1-(dlls-and-docs) .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.1-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.1-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 20.1 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+15
+Dateigröße:
+15.8 MB Posted By: skolod
+Ansichten:
+35
+Hinzugefügt am:
+1/23/2020
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2020/aspose-page-for-net-20-1-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5df0076e69c447408f1eff28a109c63f&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-20.1 .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.1/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 20.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+13.9 MB Posted By: skolod
+Ansichten:
+45
+Hinzugefügt am:
+1/23/2020
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2020/aspose-page-for-net-20-1-release-notes/ BeschreibungEs enthält Aspose.Page für die Version .NET 20.1.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9fed27f995524c9a8a88e1c79758d6ed&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-20.3-(dlls-and-docs) .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.3-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.3-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 20.3 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+15.9 MB Posted By: skolod
+Ansichten:
+18
+Hinzugefügt am:
+3/23/2020
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2020/aspose-page-for-net-20-3-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4650ee06be844f9289ec0918d080ce52&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-20.3 .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.3/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 20.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+14.0 MB Posted By: skolod
+Ansichten:
+18
+Hinzugefügt am:
+3/23/2020
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2020/aspose-page-for-net-20-3-release-notes/ BeschreibungEs enthält Aspose.Page für die Version .NET 20.3.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fbcf69f0319d46f9b975015bacd1b854&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-20.4-(dlls-and-docs) .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.4-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.4-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 20.4 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+15.9 MB Posted By: Aufrufe:
+19:
+Date Added:: 14.4.2020:
+:
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2020/aspose-page-for-net-20-4-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-20.4 .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.4/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 20.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+14.0 MB Posted By: skolod
+Ansichten:
+15
+Hinzugefügt am:
+4/14/2020
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2020/aspose-page-for-net-20-4-release-notes/ BeschreibungEs enthält Aspose.Page für die Version .NET 20.4.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=21ab776520ef4414b0676eb856e2d588&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-20.5-(dlls-and-docs) .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.5-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.5-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 20.5 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+13
+Dateigröße:
+15.9 MB Posted By: skolod
+Ansichten:
+15
+Hinzugefügt am:
+5/21/2020
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2020/aspose-page-for-net-20-5-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4feb9bcd43214dcab7a0f060b72232ec&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-20.5 .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.5/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 20.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+14.0 MB Posted By: skolod
+Ansichten:
+22
+Hinzugefügt am:
+5/21/2020
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2020/aspose-page-for-net-20-5-release-notes/ BeschreibungEs enthält Aspose.Page für die Version .NET 20.5.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=86e64957c833422499ae3a2c1d049bb7&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.page-for-.net-20.6-(dlls-and-docs) .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.6-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.6-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 20.6 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+18.2 MB Posted By: skolod
+Ansichten:
+68
+Hinzugefügt am:
+6/22/2020
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2020/aspose-page-for-net-20-6-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=36840a8f7aad4751b3d9ef1cb9b746c9&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-20.6 .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.6/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 20.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+14.0 MB Posted By: skolod
+Ansichten:
+29
+Hinzugefügt am:
+6/22/2020
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2020/aspose-page-for-net-20-6-release-notes/ BeschreibungEs enthält Aspose.Page für die Version .NET 20.6.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=763d146db65b407caed084b0fe102fd0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-20.7-(dlls-and-docs) .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.7-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.7-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 20.7 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+22.5 MB Posted By: skolod
+Ansichten:
+41
+Hinzugefügt am:
+7/21/2020
+Versionshinweise https://docs.aspose.com/page/net/aspose-page-for-net-20-7-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2e573d596d064ee1b95001c3c3b51603&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-20.8 .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.8/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 20.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+17.3 MB Posted By: skolod
+Ansichten:
+36
+Hinzugefügt am:
+7/22/2020
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2020/aspose-page-for-net-20-8-release-notes/ BeschreibungEs enthält Aspose.Page für die Version .NET 20.8.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=95dc1143f3774b739061733f1cc22781&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.page-for-.net-20.8-(dlls-and-docs) .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.8-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.8-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 20.8 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+17.2 MB Posted By: skolod
+Ansichten:
+36
+Hinzugefügt am:
+8/24/2020
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2020/aspose-page-for-net-20-8-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a13772b69eb14b9c88b126c3324edbb8&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.page-for-.net-20.9-(dlls-and-docs) .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.9-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.9-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 20.9 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+3.3 MB Posted By: skolod
+Ansichten:
+31
+Hinzugefügt am:
+9/11/2020
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2020/aspose-page-for-net-20-9-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4c374d36f48d449b981b31d338c56bca&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-20.9 .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.9/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 20.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+17.5 MB Posted By: skolod
+Ansichten:
+36
+Hinzugefügt am:
+9/11/2020
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2020/aspose-page-for-net-20-9-release-notes/ BeschreibungEs enthält Aspose.Page für die Version .NET 20.9.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b0ceac48cf37424696ec7275a01bde10&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.page-for-.net-20.10-(dlls-and-docs) .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.10-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.10-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 20.10 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+22.9 MB Posted By: skolod
+Ansichten:
+34
+Hinzugefügt am:
+10/14/2020
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2020/aspose-page-for-net-20-10-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=071165300ff544609711afa777fc282d&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-20.10 .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.10/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 20.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+4
+Dateigröße:
+17.5 MB Posted By: skolod
+Ansichten:
+40
+Hinzugefügt am:
+10/14/2020
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2020/aspose-page-for-net-20-10-release-notes/ BeschreibungEs enthält Aspose.Page für die Version .NET 20.10.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c5e4b5157fc64fb28d948f2997f27c2d&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.page-for-.net-20.11-(dlls-and-docs) .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.11-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.11-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 20.11 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+18.2 MB Posted By: skolod
+Ansichten:
+56
+Hinzugefügt am:
+11/13/2020
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2020/aspose-page-for-net-20-11-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=97f9b4354768418fa8196d98eca26cd7&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-20.11 .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.11/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 20.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+18.5 MB Posted By: skolod
+Ansichten:
+47
+Hinzugefügt am:
+11/13/2020
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2020/aspose-page-for-net-20-11-release-notes/ BeschreibungEs enthält Aspose.Page für die Version .NET 20.11.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d83bb9ea0f8b4efdbaf8b1dac40da87e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.page-for-.net-20.12-(dlls-and-docs) .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.12-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.12-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 20.12 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+23.4 MB Posted By: skolod
+Ansichten:
+28
+Hinzugefügt am:
+12/18/2020
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2020/aspose-page-for-net-20-12-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8e9177f409f1421091343de1c95c3bf1&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-20.12 .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-20.12/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 20.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+23.7 MB Posted By: skolod
+Ansichten:
+34
+Hinzugefügt am:
+12/18/2020
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2020/aspose-page-for-net-20-12-release-notes/ BeschreibungEs enthält Aspose.Page für die Version .NET 20.12.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fc6532daf1b34bfeba0a6a4a92e6dc13&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.page-for-.net-21.1-(dlls-and-docs) .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.1-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.1-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 21.1 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+23.4 MB Posted By: skolod
+Ansichten:
+33
+Hinzugefügt am:
+1/21/2021
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2021/aspose-page-for-net-21-1-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d23985c5e3334331bcccaaeba453415a&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-21.1 .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.1/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 21.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+4
+Dateigröße:
+23.6 MB Posted By: skolod
+Ansichten:
+30
+Hinzugefügt am:
+1/21/2021
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2021/aspose-page-for-net-21-1-release-notes/ BeschreibungEs enthält Aspose.Page für die Version .NET 21.1.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=262d9e0f1c654d5db3e1fd221759dcd8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.page-for-.net-21.2-(dlls-and-docs) .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.2-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.2-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 21.2 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+23.4 MB Posted By: Aufrufe:
+32:
+Date Added:: 20.02.2021:
+:
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2021/aspose-page-for-net-21-2-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-21.2 .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.2/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 21.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+23.6 MB Posted By: skolod
+Ansichten:
+32
+Hinzugefügt am:
+2/20/2021
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2021/aspose-page-for-net-21-2-release-notes/ BeschreibungEs enthält Aspose.Page für die Version .NET 21.2.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=61edfa679d424b32b538576d15a78f7e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-21.4-(dlls-and-docs) .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.4-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.4-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 21.4 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+22
+Dateigröße:
+23.9 MB Posted By: skolod
+Ansichten:
+56
+Hinzugefügt am:
+4/19/2021
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2021/aspose-page-for-net-21-4-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9121f6a321cb4db098ffc4705f5e7cfb&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-21.4 .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.4/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 21.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+24.0 MB Posted By: skolod
+Ansichten:
+33
+Hinzugefügt am:
+4/19/2021
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2021/aspose-page-for-net-21-4-release-notes/ BeschreibungEs enthält Aspose.Page für die Version .NET 21.4.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=df8d54b650c442f3bde3c85e55e68ed2&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.page-for-.net-21.6-(dlls-and-docs) .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.6-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.6-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 21.6 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+30.4 MB Posted By: skolod
+Ansichten:
+32
+Hinzugefügt am:
+6/22/2021
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2021/aspose-page-for-net-21-6-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=609b98eb99f943b3bd0a03618773b41b&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-21.6 .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.6/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 21.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+30.5 MB Posted By: skolod
+Ansichten:
+29
+Hinzugefügt am:
+6/22/2021
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2021/aspose-page-for-net-21-6-release-notes/ BeschreibungEs enthält Aspose.Page für die Version .NET 21.6.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=79a663214380436dbff152036e9b0862&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.page-for-.net-21.7-(dlls-and-docs) .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.7-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.7-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 21.7 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+4
+Dateigröße:
+27.4 MB Posted By: skolod
+Ansichten:
+40
+Hinzugefügt am:
+7/21/2021
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2021/aspose-page-for-net-21-7-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=eed082f5872841bda86c4ef029d1de08&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-21.7 .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.7/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 21.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+30.5 MB Posted By: skolod
+Ansichten:
+39
+Hinzugefügt am:
+7/21/2021
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2021/aspose-page-for-net-21-7-release-notes/ BeschreibungEs enthält Aspose.Page für die Version .NET 21.7.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9e2e5f91e96d4567ae23b5620c9ec3bf&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-21.8-(dlls-and-docs) .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.8-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.8-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 21.8 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+30.7 MB Posted By: skolod
+Ansichten:
+38
+Hinzugefügt am:
+8/20/2021
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2021/aspose-page-for-net-21-8-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8233940447664a349325dbb5e568a651&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.page-for-.net-21.10-(dlls-and-docs) .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.10-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.10-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 21.10 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+30.6 MB Posted By: skolod
+Ansichten:
+30
+Hinzugefügt am:
+10/22/2021
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2021/aspose-page-for-net-21-10-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bb7f555199a24c27ad0ef6e831f5ebe7&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.page-for-.net-21.11-(dlls-and-docs) .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.11-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.11-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 21.11 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+4
+Dateigröße:
+30.7 MB Posted By: skolod
+Ansichten:
+31
+Hinzugefügt am:
+11/24/2021
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2021/aspose-page-for-net-21-11-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5df1d4222fc449bda674d4dd3d4f48da&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-21.11 .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.11/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 21.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+30.8 MB Posted By: skolod
+Ansichten:
+27
+Hinzugefügt am:
+11/24/2021
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2021/aspose-page-for-net-21-11-release-notes/ BeschreibungEs enthält Aspose.Page für die Version .NET 21.11.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=59bf532d5c5b4f2aa77226ca446786c5&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.page-for-.net-21.12-(dlls-and-docs) .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.12-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.12-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 21.12 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+14
+Dateigröße:
+30.8 MB Posted By: skolod
+Ansichten:
+25
+Hinzugefügt am:
+12/22/2021
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2021/aspose-page-for-net-21-12-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0e32c587fd02470eab5ce3146942904f&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-21.12 .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-21.12/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 21.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+30.8 MB Posted By: skolod
+Ansichten:
+25
+Hinzugefügt am:
+12/22/2021
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2021/aspose-page-for-net-21-12-release-notes/ BeschreibungEs enthält Aspose.Page für die Version .NET 21.12.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3b90631e83a4473a858588b4e66f48da&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.page-for-.net-22.2-(dlls-and-docs) .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.2-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.2-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 22.2 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+31.1 MB Posted By: skolod
+Ansichten:
+16
+Hinzugefügt am:
+2/16/2022
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-2-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=dd15b2c0557b49a08fc8882023229c9f&amp;single=1", function(data) { $.</description></item><item><title>Verwenden Sie Wingdings- und Zapfdingbats-Schriftarten über die API für C#- und .NET-Apps</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.2/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 22.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+4
+Dateigröße:
+31.1 MB
+Posted By:
+skolod
+Ansichten:
+12
+Hinzugefügt am:
+2/16/2022
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-2-release-notes/ BeschreibungEs enthält Aspose.Page für die Version .NET 22.2.
+Bestandsdetails
+Ersetzen Sie Wingdings durch die kostenlose Schriftart Zapfdingbats Diese Version der API bietet eine bessere Handhabung von Dingbat-Schriftarten, indem die Wingdings-Schriftart durch die kostenlose Zapfdingbats-Schriftart ersetzt wird, die verschiedene Dokumentformate unterstützt.</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-.net-22.4-(dlls-and-docs) .</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.4-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.4-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 22.4 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+4
+Dateigröße:
+31.7 MB Hinzugefügt am:
+: 4 weeks ago [4/22/2022]
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-4-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5067de1e88d542bd898835139d3416fc&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Einfügen von XMP-Metadaten in EPS-Dateien über die API für C#-ASP.NET-Apps</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.4/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 22.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+4
+Dateigröße:
+31.6 MB
+Hinzugefügt am:
+: 4 weeks ago [4/22/2022]
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-4-release-notes/ BeschreibungEs enthält Aspose.Page für die Version .NET 22.4.
+Bestandsdetails
+XMP-Metadaten in EPS einfügen Unterstützung zum Einfügen der XMP-Metadaten (Extensible Metadata Platform) von Adobe® in EPS-Dokumente (Encapsulated PostScript) hinzugefügt, wodurch der Geschäftswert der Datei erhöht wird.
+Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter Aspose.</description></item><item><title>Legen Sie XMP-Metadaten in der EPS-Dokumenten-API für C#-, ASP.NET-Apps fest</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.5/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 22.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+File Size:
+31.7 MB
+Date Added:
+10/6/2022
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-5-release-notes/
+Bestandsdetails
+Festlegen von XMP-Metadaten in EPS Unterstützung hinzugefügt, um die XMP-Metadaten (Extensible Metadata Platform) von Adobe® in den EPS-Dokumenten (Encapsulated PostScript) festzulegen, wodurch die Effizienz der App gesteigert wird.
+Eine vollständige Liste der Funktionen, Verbesserungen und Fehlerbehebungen in dieser Version finden Sie unter Aspose.</description></item><item><title>Downloads ---Neue Versionen-aspose.page-for-.net-22.5-(dlls-and-docs)</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.5-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.5-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 22.5 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+4
+Dateigröße:
+31.8 MB
+Hinzugefügt am:
+10/6/2022
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-5-release-notes/
+BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=82ddc6bf680348feb301f03a6e23486a-1-7459&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>Schattierung in DeviceN Colorspace CMYK API für C#, .NET Apps</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.6/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 22.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+31.8 MB
+Date Added:
+10/6/2022
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-6-release-notes/
+Bestandsdetails
+Schattierungsmuster im DeviceN-Farbraum Das Schattierungsmuster im DeviceN-Farbraum mit alternativem CMYK angewendet.
+Konvertieren Sie EPS in TIF mit über 96 DPI Führen Sie eine Konvertierung von „EPS“ zu „TIF“ mit über 96 DPI (Dots per Inch) durch.
+Fähigkeit, XPS zusammenzuführen Möglichkeit, XPS-Dateien mit XPS-Dokumenten zusammenzuführen.</description></item><item><title>Downloads ---Neue Versionen-aspose.page-for-.net-22.6-(dlls-and-docs)</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.6-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.6-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 22.6 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+Dateigröße:
+31.8 MB
+Hinzugefügt am:
+10/6/2022
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-6-release-notes/
+BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8fd3cd71c64f48188291e5c2332b22b8-7461&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>Downloads ---Neue Versionen-aspose.page-for-.net-22.7-(dlls-and-docs)</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.7-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.7-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 22.7 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+31.62MB
+Hinzugefügt am:
+14/7/2022
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-7-release-notes/
+BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bdf0d2df7c3e928c9553c81dcdda5bb9-7-7639&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title>Konvertieren Sie XPS in Image Set Image Size API für C#-, ASP.NET-Apps</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.7/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 22.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+31.74MB
+Date Added:
+14/7/2022
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-7-release-notes/
+Bestandsdetails
+Konvertieren Sie XPS in Bildformate Konvertieren Sie XPS in Bildformate mit der Option, die erforderliche Bildgröße festzulegen. Unterstützt die XPS-Konvertierung in die Rasterbildformate BMP, JPG, PNG und TIFF. Das Folgende ist der C#-Code für den XPS-zu-PNG-Konverter, der die XPS-Verarbeitungs-API verwendet:
+// The path to the documents directory.</description></item><item><title>Downloads ---Neue Versionen-aspose.page-for-.net-22.8-(dlls-and-docs)</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.8-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.8-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 22.8 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+32.82MB
+Hinzugefügt am:
+27/8/2022
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-8-release-notes/
+BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ca29de04b79340f032ef3f555c712c0d-7-7811&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title>Verbesserte API zur Unterstützung von XPS-Drucktickets für C#- und ASP.NET-Apps</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.8/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 22.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+32.81MB
+Date Added:
+27/8/2022
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-8-release-notes/
+BeschreibungEs enthält Aspose.Page für die Version .NET 22.8.
+Bestandsdetails
+C# .NET-API, die &amp;amp; . Bietet auch die Funktion.
+Gemessene Lizenzierung Unterstützung für gemessene Lizenzierung hinzugefügt.
+Tickets für XPS drucken Verbesserte Funktion zum Drucken von Tickets für Dokumente im XPS-Format.
+Konvertierung von Bildern in das EPS-Format Möglichkeit, die Bilder in das Dateiformat „EPS“ zu konvertieren.</description></item><item><title>Downloads ---Neue Versionen-aspose.page-for-.net-22.9-(dlls-and-docs)</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.9-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.9-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 22.9 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+34.47MB
+Hinzugefügt am:
+21/9/2022
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-9-release-notes/
+BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d3714977988859c3e3321a2c9f3c3b92-7-7917&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title>Bild in EPS konvertieren NET6.0 Support API für C#, ASP.NET Apps</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.9/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 22.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+34.4MB
+Date Added:
+21/9/2022
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-9-release-notes/
+BeschreibungEs enthält Aspose.Page für die Version .NET 22.9.
+Bestandsdetails
+Umwandlung von Bild in EPS Konvertieren Sie Bildformate in das Dateiformat „EPS“ mit korrekter Bildausrichtung.
+Legen Sie XMP-Metadaten in EPS fest Möglichkeit, die „XMP“-Metadaten in Dokumenten im „EPS“-Format festzulegen.
+.NET 6.0-Unterstützung Die API wurde um Unterstützung für das .</description></item><item><title>Downloads ---Neue Versionen-aspose.page-for-.net-22.10-(dlls-and-docs)</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.10-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.10-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page für .NET 22.10 (DLLs und Dokumente)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+34.47MB
+Date Added:
+27/10/2022
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-10-release-notes/
+BeschreibungWir freuen uns, eine neue Version von Aspose.Page für .Net ankündigen zu können.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c5c93a2783e8f7d07903881b30f91d0b-7-8061&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>Downloads ---Neuerscheinungen-aspose.page-for-.net-22.10</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-22.10/</guid><description>&amp;nbsp;
+Aspose.Page für .Net 22.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+34.41MB
+Date Added:
+27/10/2022
+Versionshinweise https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-10-release-notes/
+BeschreibungEs enthält Aspose.Page für die Version .NET 22.10.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bbd2f7a5f7d05d3e18f1f0b5e4c8b1e7-7-8062&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PAGE-FOR-N.NET-23.1- (DLLS-and-DOCS)</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.1-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.1-dlls-and-docs/</guid><description>&amp;nbsp;
+ASSONE.PAGE FÜR .NET 23.1 (DLLS und DOCS)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+36.92MB
+Datum hinzugefügt:
+1/2/2023
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-1-release-notes/
+BeschreibungWir freuen uns, eine neue Version von ASSOSPE.PAGE für .NET bekannt zu geben.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f008e547211f59ea3b73a8208fd0c46c-8-8481&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PAGE-FOR-N.NET-23.1</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.1/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR .NET 23.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+36.85MB
+Datum hinzugefügt:
+1/2/2023
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-1-release-notes/
+BeschreibungEs enthält asspose.page für .NET 23.1 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=184657ac4c2ffcf281f026d3165daff5-8-8482&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-N.NET-23.2- (DLLS-and-DOCS)</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.2-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.2-dlls-and-docs/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR .NET 23.2 (DLLS und DOCS)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+33.27MB
+Datum hinzugefügt:
+28/2/2023
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-2-release-notes/
+BeschreibungWir freuen uns, eine neue Version von ASSONE.SPAGE für .NET bekannt zu geben.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4adb07f44f4fb9e530ede991f4343f80-7-8592&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-N.NET-23.2</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.2/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR .NET 23.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+33.25MB
+Datum hinzugefügt:
+28/2/2023
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-2-release-notes/
+BeschreibungEs enthält asspose.page für .NET 23.2 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=294e65d965ca3ff3850d3fc977bb7c15-7-8593&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PAGE-FOR-N.NET-23.3- (DLLS-and-DOCS)</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.3-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.3-dlls-and-docs/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR .NET 23.3 (DLLS und DOCS)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+33.28MB
+Datum hinzugefügt:
+17/3/2023
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-3-release-notes/
+BeschreibungWir freuen uns, eine neue Version von ASSONE.SPAGE für .NET bekannt zu geben.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c8317731134ff70767876cb2a787e2e2-7-8637&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-N.NET-23.3</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.3/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR .NET 23.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+33.27MB
+Datum hinzugefügt:
+17/3/2023
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-3-release-notes/
+BeschreibungEs enthält asspose.page für .NET 23.3 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a8e2a2081f27e5685134fddaf8125c27-7-8638&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-N.NET-23.4- (DLLS-and-DOCS)</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.4-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.4-dlls-and-docs/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR .NET 23.4 (DLLS und DOCS)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+11.81MB
+Datum hinzugefügt:
+15/4/2023
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-4-release-notes/
+BeschreibungWir freuen uns, eine neue Version von ASSONE.SPAGE für .NET bekannt zu geben.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=67a181c101fd6f7a83d237b42459e867-3-8760&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-N.NET-23.4</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.4/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR .NET 23.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+12.14MB
+Datum hinzugefügt:
+15/4/2023
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-4-release-notes/
+BeschreibungEs enthält asspose.page für .NET 23.4 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c001f6943dc68e87e46de7df64151314-3-8761&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-N.NET-23.5- (DLLS-and-DOCS)</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.5-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.5-dlls-and-docs/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR .NET 23.5 (DLLS und DOCS)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+11.83MB
+Datum hinzugefügt:
+24/5/2023
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-5-release-notes/
+BeschreibungWir freuen uns, eine neue Version von ASSONE.SPAGE für .NET bekannt zu geben.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3598779a26fbcfc873e616293b828eeb-3-8897&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-N.NET-23.5</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.5/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR .NET 23.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+12.15MB
+Datum hinzugefügt:
+24/5/2023
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-5-release-notes/
+BeschreibungEs enthält asspose.page für .NET 23.5 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=07a08d16300206e261f0c2f7e56bf32d-3-8898&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-N.NET-23.6- (DLLS-and-DOCS)</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.6-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.6-dlls-and-docs/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR .NET 23.6 (DLLS und DOCS)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+13.6MB
+Datum hinzugefügt:
+29/6/2023
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-6-release-notes/
+BeschreibungWir freuen uns, eine neue Version von ASSONE.SPAGE für .NET bekannt zu geben.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2528f786f94346d0783af0980400e8bc-3-9147&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-N.NET-23.6</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.6/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR .NET 23.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+13.88MB
+Datum hinzugefügt:
+29/6/2023
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-6-release-notes/
+BeschreibungEs enthält asspose.page für .NET 23.6 Release Windows Installer.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a92d41b371538a84f7c1f104fd281602-3-9148&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PAGE-FOR-N.NET-23.7- (DLLS-and-DOCS)</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.7-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.7-dlls-and-docs/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR .NET 23.7 (DLLS und DOCS)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+13.6MB
+Datum hinzugefügt:
+15/7/2023
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-7-release-notes/
+BeschreibungWir freuen uns, eine neue Version von ASSONE.SPAGE für .NET bekannt zu geben.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fa6ca3a02ce35dbe3b44409684753e08-3-9216&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-23.7</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.7/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR .NET 23.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+13.86MB
+Datum hinzugefügt:
+15/7/2023
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-7-release-notes/
+BeschreibungEs enthält asspose.page für .NET 23.7 Windows Installer.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f93e902f95c188ffaa76dafbb2fb9337-3-9217&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPEN.</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.8-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.8-dlls-and-docs/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR .NET 23.8 (DLLS und DOCS)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+15.23MB
+Datum hinzugefügt:
+18/8/2023
+Versionshinweisehttps://docs.aspose.com/page/net/aspose-page-for-net-23-8-release-notes/
+BeschreibungWir freuen uns, eine neue Version von ASSONE.SPAGE für .NET bekannt zu geben.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7e89700b888c318368ce91c7fdceb7aa-4-9351&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-23.8</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.8/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR .NET 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+15.51MB
+Datum hinzugefügt:
+18/8/2023
+Versionshinweisehttps://docs.aspose.com/page/net/aspose-page-for-net-23-8-release-notes/
+BeschreibungEs enthält asspose.page für .NET 23.8 Windows Installer.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a8e671329a119ef53efc66efca196d2f-4-9352&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PAGE-FOR-N.NET-23.9- (DLLS-and-DOCS)</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.9-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.9-dlls-and-docs/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR .NET 23.9 (DLLS und DOCS)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+15.27MB
+Datum hinzugefügt:
+18/9/2023
+Versionshinweisehttps://docs.aspose.com/page/net/aspose-page-for-net-23-9-release-notes/
+BeschreibungWir freuen uns, eine neue Version von ASSONE.SPAGE für .NET bekannt zu geben.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d96de82773a50db11d5f272f4b180d0f-4-9482&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PAGE-FOR-N.NET-23.10- (DLLS-and-DOCS)</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.10-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.10-dlls-and-docs/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR .NET 23.10 (DLLS und DOCS)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+15.28MB
+Datum hinzugefügt:
+12/10/2023
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-10-release-notes/
+BeschreibungWir freuen uns, eine neue Version von ASSONE.SPAGE für .NET bekannt zu geben.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b409b6d8c8b926a824f88bd0d1c211a0-4-9592&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-N.NET-23.10</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.10/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR .NET 23.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+15.56MB
+Datum hinzugefügt:
+12/10/2023
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-10-release-notes/
+BeschreibungEs enthält asspose.page für .NET 23.10 Release Windows Installer.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e7f93d5d7172533f6b972b626287458c-4-9593&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPEN.</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.11-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.11-dlls-and-docs/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR .NET 23.11 (DLLS und DOCS)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+15.31MB
+Datum hinzugefügt:
+29/11/2023
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-11-release-notes/
+BeschreibungWir freuen uns, eine neue Version von ASSONE.SPAGE für .NET bekannt zu geben.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8ede6f48d63ce53860bf1984d7cfaacf-4-9881&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-N.NET-23.11</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.11/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR .NET 23.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+15.58MB
+Datum hinzugefügt:
+29/11/2023
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-1-release-notes/
+BeschreibungEs enthält asspose.page für .NET 23.11 Release Windows Installer.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=068e2d1dbd90d3519b4b5eed4a7fe116-4-9882&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPEN.</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.12-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.12-dlls-and-docs/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR .NET 23.12 (DLLS und DOCS)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+17.47MB
+Datum hinzugefügt:
+23/12/2023
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-12-release-notes/
+BeschreibungWir freuen uns, eine neue Version von ASSONE.SPAGE für .NET bekannt zu geben.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9101149fe30a7e01d5a00c4405bfd275-4-10043&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PAGE-FOR-N.NET-23.12</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.12/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR .NET 23.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+17.75MB
+Datum hinzugefügt:
+23/12/2023
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-12-release-notes/
+BeschreibungEs enthält asspose.page für .NET 23.12 Release Windows Installer.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d54d2ddeda4f937657af108389e71570-4-10044&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-N.NET-24.1- (DLLS-and-DOCS)</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-24.1-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-24.1-dlls-and-docs/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR .NET 24.1 (DLLS und DOCS)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+23.98MB
+Datum hinzugefügt:
+24/1/2024
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2024/aspose-page-for-net-24-1-release-notes/
+BeschreibungWir freuen uns, eine neue Version von ASSONE.SPAGE für .NET bekannt zu geben.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=04ad28590db42c9dcca06e9b6cd63a94-5-10191&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-N.NE-24.1</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-24.1/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR .NET 24.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+24.26MB
+Datum hinzugefügt:
+24/1/2024
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2024/aspose-page-for-net-24-1-release-notes/
+BeschreibungEs enthält asspose.page für .NET 24.1 Release Windows Installer.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bb74a7e72c4e2d8a5f4218bcf49460bd-5-10192&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

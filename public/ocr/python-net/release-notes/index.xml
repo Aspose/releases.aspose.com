@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Release Notes on Releases - aspose.com</title><link>https://releases-qa.aspose.com/ocr/python-net/release-notes/</link><description>Recent content in Release Notes on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 16 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/ocr/python-net/release-notes/index.xml" rel="self" type="application/rss+xml"/><item><title>Latest Release</title><link>https://releases-qa.aspose.com/ocr/python-net/release-notes/latest/</link><pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/python-net/release-notes/latest/</guid><description>This article contains a summary of recent changes, enhancements and bug fixes in Aspose.OCR for Python via .NET 24.1.0 (January 2024) release.
+What was changed Key Summary Category n/a Improved text overlay positioning in searchable PDFs. Enhancement n/a Resolved an issue where dark areas in searchable PDF background images were incorrectly rendered in inverted colors. Fix Public API changes and backwards compatibility This section lists all public API changes introduced in Aspose.</description></item><item><title>Downloads ---Release-notes-aspose.ocr-for-python-via-.net-23.12.1-linux-x86-64</title><link>https://releases-qa.aspose.com/ocr/python-net/release-notes/aspose.ocr-for-python-via-.net-23.12.1-linux-x86-64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/python-net/release-notes/aspose.ocr-for-python-via-.net-23.12.1-linux-x86-64/</guid><description>&amp;nbsp;
+Aspose.OCR for Python via .NET 24.1.0 Linux x86-64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+409.15MB
+Date Added:
+19/1/2024
+Release Noteshttps://releases.aspose.com/ocr/python-net/release-notes/2024/aspose-ocr-python-24-1-0-release-notes/
+DescriptionFix PDF creation (resolution, search shadow)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e0d664d83ded4c75b983a9bb013cc5ed-82-10178&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item></channel></rss>

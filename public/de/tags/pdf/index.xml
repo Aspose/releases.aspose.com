@@ -1,0 +1,2635 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PDF on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/tags/pdf/</link><description>Recent content in PDF on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Tue, 13 Dec 2022 06:09:16 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/de/tags/pdf/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---Neue-Releases--aspose.cad-for-jasperreports-20.12 .</title><link>https://releases-qa.aspose.com/de/cad/jasperreports/new-releases/-aspose.cad-for-jasperreports-20.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/jasperreports/new-releases/-aspose.cad-for-jasperreports-20.12/</guid><description>&amp;nbsp;
+Aspose.CAD für JasperReports 20.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+32.0 MB
+Posted By:
+Denis.Demenko
+Ansichten:
+17
+Hinzugefügt am:
+9/16/2021
+Versionshinweise https://releases.aspose.com/cad/jasperreports/release-notes/2020/aspose-cad-for-jasperreports-20-12-release-notes/ BeschreibungEs enthält Aspose.CAD für JasperReports 20.12
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3762fc1d906c46ada22aa4cbb8855b82&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>C#-Gameware, CAD- und 3D-Verarbeitungs-DLL herunterladen | Aspose.3D</title><link>https://releases-qa.aspose.com/de/3d/net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/3d/net/</guid><description>Support Forum
+Laden Sie Aspose.3D herunter, um 3D-Bilder zu verarbeiten Offen
+NuGetPackage Manager in Microsoft Visual Studio®, suchen Sie nach Aspose.3D und installieren Sie es. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die
+InstallationDokumentationsseite.
+Release-opmerkingen
+Downloaden
+PM&amp;gt;
+Install-Package Aspose.3D
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-JAVA-22.7.1</title><link>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-22.7.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-22.7.1/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über Java 22.7.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+64.77MB
+Datum hinzugefügt:
+13/10/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonjava/release-notes/
+BeschreibungASSON.PDF für Python über Java 22.7.1 wurde veröffentlicht.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e241acc911f2eb04481ec509a030c22c-13-9602&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>ASSON.DIAGRAM | Java -Bibliothek zum Erstellen, Exportieren von Visio -Dokumenten</title><link>https://releases-qa.aspose.com/de/diagram/java/</link><pubDate>Tue, 13 Dec 2022 06:09:16 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/java/</guid><description>Java API für Microsoft Visio &amp;amp; Reg; Dateiformate
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Diagram for Java API ist eine Lösung für Microsoft Visio -Dateimanipulationsanforderungen. Die Java-Anwendungen können Microsoft-Visio-Diagramme lesen, schreiben, exportieren und verarbeiten, während alle Visio-Objekte und Eigenschaften einschließlich Formen, Seiten, Bilder, Formmeister, Schablonen, Text, Schichten, Header, Fußzeilen, benutzerdefinierten Zellen, Hyperlinks, Hyperlinks, Layer, Header, Fußzeilen, Hyperlinks, unterstützt werden, die Unterstützung Dateischutz, Geometrien, Textfelder und Kommentare.</description></item><item><title>ASSONE.CELLS | Excel -Tabellenkalkulations -Java -Bibliothek aus Excel</title><link>https://releases-qa.aspose.com/de/cells/java/</link><pubDate>Mon, 12 Dec 2022 06:35:39 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/</guid><description>Java -API für Excel -Dateiformate
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Cells for Java ist eine preisgekrönte Excel-Tabellenkalkulations-API, mit der Java-Entwickler die Fähigkeit einbetten können, Excel &amp;amp; reg zu lesen, zu schreiben und zu manipulieren. Tabellenkalkulationen (XLS, XLSX, XLSM, XLSB, XLTX, SpreadsheetML, CSV, ODS), HTML, MHTML, PDF und Bilddatei -Formate in ihre eigenen Java -Anwendungen, ohne sich auf Microsoft Excel &amp;amp; Reg;</description></item><item><title>ASSOSE.Words | Java -Bibliothek, um Dokumentformate zu verarbeiten</title><link>https://releases-qa.aspose.com/de/words/java/</link><pubDate>Fri, 09 Dec 2022 11:50:34 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/java/</guid><description>Java -API für verschiedene Dokumentformate
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Words for Java ist eine erweiterte Java -Textverarbeitungs -API, mit der Sie eine große Auswahl an Dokumentverarbeitungsaufgaben direkt in Ihren Java -Anwendungen ausführen können. ASSONS.Words für Java API unterstützt das Verarbeitungswort (DOC, DOCX, OOXML, RTF) HTML, Opendocument, PDF, EPUB, XPS, SWF und alle Bildformate.</description></item><item><title>ASSOSE.NOTE | Java -Bibliothek zum Erstellen/Manipulieren von OneNote -Dokumenten</title><link>https://releases-qa.aspose.com/de/note/java/</link><pubDate>Tue, 06 Dec 2022 13:40:21 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/java/</guid><description>Java -API für die OneNote -Dokumentverarbeitung
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Note for Java ist eine Klassenbibliothek, mit der Anwendungen programmgesteuert mit Microsoft Office OneNote ohne die Installation auf dem Server interagieren können. Es ist eine reine Alternative für MS OneNote -Objektmodell, die eine viel bessere Leistung und eine einfache Nutzung bietet, um OneNote -Dokumente zu verwalten.</description></item><item><title>ASSOSPE.IMAGING | Verarbeiten und konvertieren Bilder über die Java -Bibliothek</title><link>https://releases-qa.aspose.com/de/imaging/java/</link><pubDate>Mon, 05 Dec 2022 13:31:14 +0000</pubDate><guid>https://releases-qa.aspose.com/de/imaging/java/</guid><description>Java -API für die Bildverarbeitung
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Es handelt sich um eine eigenständige Bildgebungs -API, die aus Java -Routinen besteht, die es Ihren Java -Anwendungen ermöglichen, zu zeichnen und eine grundlegende bis fortgeschrittene Verarbeitung von Raster- und Vektorbildern durchzuführen. ASSOSE.IMAGING FÜR JAVA bietet eine robuste Bildkomprimierung und eine hohe Verarbeitungsgeschwindigkeit durch nativen Byte -Zugriff und eine Reihe effizienter Algorithmen.</description></item><item><title>Aspose.OCR | Bildcharaktererkennung Java Klassenbibliothek</title><link>https://releases-qa.aspose.com/de/ocr/java/</link><pubDate>Wed, 30 Nov 2022 20:51:46 +0000</pubDate><guid>https://releases-qa.aspose.com/de/ocr/java/</guid><description>Java OCR -Bibliothek
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.OCR for Java ist ein Zeichen für Zeichen und optische Markerkennung, mit der Entwickler OCR -Funktionen in ihren Anwendungen hinzufügen können. Es bietet einen einfachen Klassensatz zur Steuerung der Charaktererkennung.
+Image über Java in Text in Text konvertieren Lesen Sie Zeichen aus Bildern. Unterstützung für JPG-, PNG-, GIF-, BMP- und TIFF -Bilddateiformate für OCR.</description></item><item><title>ASSON.PDF | Java PDF -Dokumentverarbeitungsklassenbibliothek</title><link>https://releases-qa.aspose.com/de/pdf/java/</link><pubDate>Wed, 30 Nov 2022 14:34:18 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/java/</guid><description>Java -API, um PDF -Dateien zu verarbeiten und zu manipulieren
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.PDF for Java ist eine PDF -Dokumenterstellungskomponente, mit der Ihre Java -Anwendungen PDF -Dokumente ohne Adobe Acrobat lesen, schreiben und manipulieren können.
+asspos.pdf Paketfunktionen PDF -Dokumentgrmeur Setzen Sie grundlegende Informationen (z. B. Autor, Ersteller) des PDF -Dokuments. Konfigurieren Sie die Eigenschaften der PDF -Seiten (z.</description></item><item><title>ASSONE.PAGE | Java -Klassenbibliothek für die PostScript -Verarbeitung</title><link>https://releases-qa.aspose.com/de/page/java/</link><pubDate>Thu, 24 Nov 2022 03:07:50 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/java/</guid><description>Java -APIs für PS-, EPS- und XPS -Dateiformate
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Page for Java bietet XPS -Dokumente an. Es bietet auch Funktionen zum Umwandeln von XPS-, PS- und EPS -Dokumenten in Bildformate und PDF.
+Manipulieren Sie XPS -Dokumente über Java XPS -Dokument erstellen und bearbeiten. Seiten des XPS -Dokuments hinzufügen oder entfernen.</description></item><item><title>ASSOSH.Slides | Java -Bibliothek, um PowerPoint -Formate zu verarbeiten</title><link>https://releases-qa.aspose.com/de/slides/java/</link><pubDate>Wed, 23 Nov 2022 19:22:59 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/java/</guid><description>Java Powerpoint API
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Slides Eine Java Powerpoint -API für die Manipulation und das Management der Präsentation. Es ermöglicht Entwicklern, PowerPoint -Präsentationen in Java -Anwendungen zu lesen, zu schreiben, zu konvertieren und zu manipulieren, mit der Fähigkeit, alle Dokumentelemente wie Folien, Tabellen, Text, Diagramme, Formen, Bilder und SmartArt -Diagramme und mehr zu manipulieren.</description></item><item><title>ASSON.3D | Java -Klassenbibliothek zur Verarbeitung von 3D -Bildern, Modelle</title><link>https://releases-qa.aspose.com/de/3d/java/</link><pubDate>Thu, 17 Nov 2022 07:29:30 +0000</pubDate><guid>https://releases-qa.aspose.com/de/3d/java/</guid><description>Java -API für die 3D -Bildverarbeitung
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.3D for Java API wurde entwickelt, um 3D -Formate zu erstellen, zu bearbeiten, zu manipulieren und zu speichern. Es ermöglicht Java -Anwendungen, sich mit 3D -Dokumenten zu verbinden, ohne ein Softwarepaket auf dem Computer zu installieren. ASSON.3d für Java API unterstützt Entwickler dabei, massive Welten in Spielen zu modellieren und zu schaffen, hervorragende Szenen für die Designvisualisierung und die Einbeziehung von virtuellen Realitätserfahrungen.</description></item><item><title>ASSON.TEX | Java -Bibliothek zum Typenset &amp; konvertieren Tex -Dateien</title><link>https://releases-qa.aspose.com/de/tex/java/</link><pubDate>Wed, 16 Nov 2022 08:40:02 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tex/java/</guid><description>Java -API zu Typeet Tex -Dateien
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.TeX for Java ist eine Bibliothek, die eine Tex Engine -Erweiterung namens ObjectTex bietet. Es kann verwendet werden, um Dokumente von Tex -Dateien zu entsprechen. &amp;ldquo;Objekt&amp;rdquo; bedeutet, dass ein intermediNTypeSeting -Ergebnis ein spezifisches Objektmodell ist, das dann gleichmäßig in eine Reihe von Endformaten umgewandelt werden kann.</description></item><item><title>ASSON.CAD | Java -Bibliothek zur Verarbeitung/Konvertierung von Autocad -Formaten</title><link>https://releases-qa.aspose.com/de/cad/java/</link><pubDate>Thu, 10 Nov 2022 08:21:18 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/java/</guid><description>CAD -Dateikonvertierungs -API für Java
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Mit Aspose.CAD for Java können Entwickler Autocad DWG- und DXF -Dateien in PDF- und Raster -Bilder konvertieren. Es handelt sich um eine native API und erfordert keine Autokad oder eine andere Software, die installiert werden muss. Sie können auch die ausgewählten Ebenen und Layouts aus den AutoCAD -Dateien konvertieren.</description></item><item><title>ASSON.PUB | Elektronische Veröffentlichungsdateien Java -Klassenbibliothek</title><link>https://releases-qa.aspose.com/de/pub/java/</link><pubDate>Thu, 01 Sep 2022 16:35:25 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/java/</guid><description>Pub -Dateien über Java -API verarbeiten
+Produktseite | Dokumente | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.PUB for Java ist eine Java -API, die Microsoft Publisher (.pub) -Dateien in PDF lesen, manipulieren und konvertieren kann. Sie können die API in Ihren Java -Anwendungen verwenden, um mit .Pub -Dateien zu arbeiten, ohne sich über das zugrunde liegende Filie -Format zu sorgen. Die API kann sowohl im Java -Desktop als auch im Webanwendungen mit JSP verwendet werden.</description></item><item><title>ASSON.PSD | Java -Klassenbibliothek zum Rendern von PSD- und PSB -Formaten</title><link>https://releases-qa.aspose.com/de/psd/java/</link><pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/psd/java/</guid><description>Java -Bibliothek für Photoshop -Dateien
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.PSD for Java ist eine einfach zu verwendende Manipulation -API von Adobe Photoshop -Dateiformat. Es kann einfach PSD-, PSB- und AI -Dateien geladen und lesen, was den Java -Entwicklern ermöglicht, Vorgänge wie Aktualisierung von Ebeneneigenschaften, Hinzufügen von Wasserzeichen, Komprimierung, Rotation, Skalierung oder Rendern eines Dateiformats an ein anderes hinzuzufügen, ohne Adobe Photoshop zu installieren.</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-JAVA-23.4.3</title><link>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.4.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.4.3/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über Java 23.4.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+64.21MB
+Datum hinzugefügt:
+13/10/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonjava/release-notes/
+BeschreibungASSON.PDF für Python über Java 23.4.3 wurde veröffentlicht.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=911f83876aef5479dc6de6f83dce2fe9-13-9603&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSPOSPEN.PDF-FOR-JAVASRIPT-VIA-C ++-23.1</title><link>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.1/</guid><description>&amp;nbsp;
+ASSON.PDF für JavaScript über C &amp;#43;&amp;#43; 23.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+29.18MB
+Datum hinzugefügt:
+31/1/2023
+Versionshinweisehttps://releases.aspose.com/pdf/javascriptcpp/release-notes/2023/aspose_pdf-for-javascript-cpp-23-1-release-notes/
+BeschreibungASSON.PDF für JavaScript über C ++
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cb1a7bdd79c81d3a2f032671cc8e5138-6-8478&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Aspose - Downloads</title><link>https://releases-qa.aspose.com/de/cad/jasperreports/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/jasperreports/</guid><description>Support Forum
+Laden Sie Aspose.CAD herunter, um CAD-Zeichnungen in JasperReports® zu rendern Eine eigenständige Klassenbibliothek zur Erweiterung der JasperReports-Funktionalität zum Verarbeiten und Rendern von CAD-Zeichnungen, ohne dass AutoCAD oder andere CAD-Software erforderlich ist. Die CAD-Klassenbibliothek ermöglicht die hochwertige Konvertierung von DWG-, DWT-, DWF-, DWFX-, IFC-, PLT-, DGN-, OBJ-, STL-, IGES-, CF2-Dateien, Layouts und Ebenen in PDF- und Rasterbildformate.
+Sie können aspose-cad-jasperreports für Java direkt aus a verwenden
+Mavenbasierte Projekt durch Hinzufügen der folgenden Konfigurationen zur pom.</description></item><item><title>Aspose.3D für Python über .NET</title><link>https://releases-qa.aspose.com/de/3d/python-net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/3d/python-net/</guid><description>Support Forum
+Laden Sie die Aspose.3D-Python-Bibliothek für Gameware und CAD herunter Bitte verwenden Sie Folgendes
+PipBefehl:
+Release-opmerkingen
+&amp;gt;
+pip install aspose-3d
+&amp;nbsp;
+Product Page | Docs | Demos | Blog | Code Samples | Free Support | Temporary License | EULA
+3D-Szenenfunktionen Erstellen, lesen, speichern, importieren oder exportieren Sie eine 3D-Szene. Definieren Sie Metadaten für die 3D-Szene, um Asset-Informationen hinzuzufügen.</description></item><item><title>Download Publisher® File Converter C++ DLL | Aspose.PUB-API</title><link>https://releases-qa.aspose.com/de/pub/cpp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/cpp/</guid><description>Support Forum
+Laden Sie die C&amp;#43;&amp;#43;-Bibliothek herunter, um PUB-Dateien zu verarbeiten Offen
+NuGetPackage Manager in Microsoft Visual Studio®, suchen Sie nach Aspose.PUB.Cpp und installieren Sie es. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die
+InstallationDokumentationsseite.
+Release-opmerkingen
+Downloaden
+PM&amp;gt;
+Install-Package Aspose.PUB.Cpp
+&amp;nbsp;
+Product Page | Docs | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPEN.PDF-FÜR-PYTHON-VIA-JAVA-23.5</title><link>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.5/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über Java 23.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+64.22MB
+Datum hinzugefügt:
+13/10/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonjava/release-notes/
+BeschreibungASSON.PDF für Python über Java 23.5 wurde veröffentlicht.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f128b0645465d895332de4c8a71a75a3-13-9604&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-JAVASSCIPT-VIA-C ++-23.2</title><link>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.2/</guid><description>&amp;nbsp;
+ASSON.PDF für JavaScript über C &amp;#43;&amp;#43; 23.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+29.44MB
+Datum hinzugefügt:
+28/2/2023
+Versionshinweisehttps://releases.aspose.com/pdf/javascriptcpp/release-notes/2023/aspose_pdf-for-javascript-cpp-23-2-release-notes/
+BeschreibungASSON.PDF für JavaScript über C ++
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=25650f3d71c55c951d183c11640deefd-6-8589&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-JAVASSCIPT-VIA-C ++-23.3</title><link>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.3/</guid><description>&amp;nbsp;
+ASSON.PDF für JavaScript über C &amp;#43;&amp;#43; 23.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+29.83MB
+Datum hinzugefügt:
+24/3/2023
+Versionshinweisehttps://releases.aspose.com/pdf/javascriptcpp/release-notes/2023/aspose_pdf-for-javascript-cpp-23-3-release-notes/
+BeschreibungASSON.PDF für JavaScript über C ++
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=29d47d4b9aace7cf0cc93cc3efe50a26-6-8680&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-JAVA-23.6</title><link>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.6/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über Java 23.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+64.22MB
+Datum hinzugefügt:
+13/10/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonjava/release-notes/
+BeschreibungASSON.PDF für Python über Java 23.6 wurde veröffentlicht.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=08ed498cf3006c5fde377e9d47f6ca4d-13-9605&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Laden Sie die Python-Bibliothek herunter, um OCR durchzuführen | Aspose.OCR API</title><link>https://releases-qa.aspose.com/de/ocr/python-net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/ocr/python-net/</guid><description>Support Forum
+Laden Sie Aspose.OCR für Python über .NET zur Bilderkennung herunter. Fügen Sie OCR-Funktionen (Optical Character Recognition) zu Ihren Datenwissenschafts-, KI- und Automatisierungslösungen hinzu, die in Python 3.6 oder höher geschrieben sind. Extrahieren Sie Text aus Fotos, Scans, PDF-Dokumenten und anderen Grafikdateien, ohne sich mit komplexen mathematischen Operationen, neuronalen Netzen und anderen technischen Details befassen zu müssen.
+Aspose.OCR für Python über .NET kann hier heruntergeladen und mit dem folgenden Befehl vom lokalen Dateisystem installiert werden:
+&amp;gt;
+pip install aspose-ocr-python-net &amp;nbsp;</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-JAVASSCIPT-VIA-C ++-23.4</title><link>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.4/</guid><description>&amp;nbsp;
+ASSON.PDF für JavaScript über C &amp;#43;&amp;#43; 23.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+30.13MB
+Datum hinzugefügt:
+25/4/2023
+Versionshinweisehttps://releases.aspose.com/pdf/javascriptcpp/release-notes/2023/aspose_pdf-for-javascript-cpp-23-4-release-notes/
+BeschreibungASSON.PDF für JavaScript über C ++
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ebaa6a429ba0db86ad080a7a44c34d74-7-8817&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-JAVA-23.6.1</title><link>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.6.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.6.1/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über Java 23.6.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+64.22MB
+Datum hinzugefügt:
+13/10/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonjava/release-notes/
+BeschreibungASSON.PDF für Python über Java 23.6.1 wurde veröffentlicht.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=57d776f1a62ad0e163e0223d1149fa61-13-9606&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-JAVASSCIPT-VIA-C ++-23.5</title><link>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.5/</guid><description>&amp;nbsp;
+ASSON.PDF für JavaScript über C &amp;#43;&amp;#43; 23.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+45.01MB
+Datum hinzugefügt:
+29/5/2023
+Versionshinweisehttps://releases.aspose.com/pdf/javascriptcpp/release-notes/2023/aspose_pdf-for-javascript-cpp-23-5-release-notes/
+BeschreibungASSON.PDF für JavaScript über C ++
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=21660febbe7bfec10a281496eb2c3e4d-10-8932&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-JAVA-23.8</title><link>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.8/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über Java 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+64.22MB
+Datum hinzugefügt:
+13/10/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonjava/release-notes/
+BeschreibungASSON.PDF für Python über Java 23.8 wurde veröffentlicht.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fe2669438780785f291f6fb16b94b662-13-9607&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-JAVASSCIPT-VIA-C ++-23.6</title><link>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.6/</guid><description>&amp;nbsp;
+ASSON.PDF für JavaScript über C &amp;#43;&amp;#43; 23.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+45.06MB
+Datum hinzugefügt:
+26/6/2023
+Versionshinweisehttps://releases.aspose.com/pdf/javascriptcpp/release-notes/2023/aspose_pdf-for-javascript-cpp-23-6-release-notes/
+BeschreibungASSON.PDF für JavaScript über C ++
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cf5a280a883446fa1eb5fced38eb6c65-10-9138&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-JAVA-23.10</title><link>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.10/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über Java 23.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+63.81MB
+Datum hinzugefügt:
+13/10/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonjava/release-notes/
+BeschreibungASSON.PDF für Python über Java 23.10 wurde veröffentlicht.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=979ac79d90823d50e0bae96573bf9c94-13-9608&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Exportprogramm für PowerPoint | Aspose.Slides für JasperReports</title><link>https://releases-qa.aspose.com/de/slides/jasperreport/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/jasperreport/</guid><description>Support Forum
+Laden Sie Aspose.Slides herunter, um JasperReports® in Präsentationsformate zu exportieren Aspose.Slides für JasperReportsist eine leichtgewichtige Erweiterung, mit der Sie Berichte aus JasperReports® und JasperServer® in Microsoft PowerPoint® und andere unterstützte Dateiformate exportieren können.
+Release-opmerkingen
+Product Page | Docs | API Reference | Blog | Search | Free Support | Temporary License | EULA
+Präsentation JasperReports®-Integrationsfunktionen Exportieren Sie Berichte in die Formate PPT, PPTX, HTML und PDF.</description></item><item><title>Liefern Sie Berichte im PDF-Format | Aspose.PDF für JasperReports</title><link>https://releases-qa.aspose.com/de/pdf/jassperreport/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/jassperreport/</guid><description>Support Forum
+Laden Sie Aspose.PDF herunter, um JasperReports® in PDF-Formate zu exportieren Aspose.PDF for JasperReports unterstützt Sie beim Exportieren von Berichten aus JasperReports® und JasperServer® in PDF, PDF/A und andere unterstützte Dateiformate. Die wichtigen Berichtsmerkmale wie Diagramme und Tabellen werden ohne Verlust von Layout und Formatierung konvertiert.
+Release-opmerkingen
+Product Page | Docs | API Reference | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-JAVASSCIPT-VIA-C ++-23.7</title><link>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.7/</guid><description>&amp;nbsp;
+ASSON.PDF für JavaScript über C &amp;#43;&amp;#43; 23.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+45.47MB
+Datum hinzugefügt:
+28/7/2023
+Versionshinweisehttps://releases.aspose.com/pdf/javascriptcpp/release-notes/2023/aspose_pdf-for-javascript-cpp-23-7-release-notes/
+BeschreibungASSON.PDF für JavaScript über C ++
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f84f03e1cbd3c4c6a954adce25efc409-10-9281&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Aspose.Cells für Python über .NET</title><link>https://releases-qa.aspose.com/de/cells/python-net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-net/</guid><description>Support Forum
+Laden Sie die Aspose.Cells-Python-Bibliothek für die Tabellenkalkulation herunter Aspose.Cells for Python via .NET ist eine skalierbare und funktionsreiche API zur Verarbeitung von Excel®-Tabellen mit Python. API bietet Excel®-Dateierstellung, -bearbeitung, -konvertierung und -wiedergabe. Entwickler können Arbeitsblätter, Zeilen, Spalten oder Zellen bis ins kleinste Detail formatieren, Diagramme und Pivot-Tabellen manipulieren, Arbeitsblätter, Diagramme und bestimmte Datenbereiche in PDF oder Bilder rendern, die integrierten und benutzerdefinierten Formeln von Excel® hinzufügen und vieles mehr mehr - alles ohne Abhängigkeit von Microsoft Office oder Excel®-Anwendung.</description></item><item><title>Aspose.Diagram für Python über .Net</title><link>https://releases-qa.aspose.com/de/diagram/python-net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/python-net/</guid><description>Support Forum
+Laden Sie die Aspose.Diagram-Python-Bibliothek für die Visio-Verarbeitung herunter Aspose.Diagram for Python via .NET ist eine skalierbare und funktionsreiche API zur Verarbeitung von Visio-Dateien mit Python. API bietet Visio-Dateierstellung, -bearbeitung, -konvertierung und -wiedergabe. Entwickler können Seiten bis ins kleinste Detail formatieren, Formen erstellen und manipulieren, Seiten rendern, Formen in PDF und Bilder umwandeln und vieles mehr – alles ohne Abhängigkeit von Microsoft Office oder Visio-Anwendungen.</description></item><item><title>Downloads --- NEW Releases-Assible.Diagram-for-Python-via -.net-23.8</title><link>https://releases-qa.aspose.com/de/diagram/python-net/new-releases/aspose.diagram-for-python-via-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/python-net/new-releases/aspose.diagram-for-python-via-.net-23.8/</guid><description>&amp;nbsp;
+ASSOSE.DIAGRAM für Python über .NET 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+179.65MB
+Datum hinzugefügt:
+21/8/2023
+Versionshinweisehttps://releases.aspose.com/diagram/python-net/release-notes/2023/aspose-diagram-for-python-via-net-23-8-release-notes/
+BeschreibungASSOSE.DIAGRAM für Python über .NET 23.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e4139ea3f4ab2080ebd8f6e42a475e96-36-9355&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Cells-for-Python-VIA -.net-23.8</title><link>https://releases-qa.aspose.com/de/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.8/</guid><description>&amp;nbsp;
+ASSONE.CELLS für Python über .NET 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+232.26MB
+Datum hinzugefügt:
+14/8/2023
+Versionshinweisehttps://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-8-release-notes/
+BeschreibungWeitere Einzelheiten finden Sie in Versionshinweise und Readme
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=499b3ac049068c7948d266b715652b3b-47-9323&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-23.6.0, -Windows-X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.6.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.6.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.6.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+77.85MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-6-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.6.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c09a9a29eb7fb14638a2eed74ab22cc1-16-9733&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-23.6.0, -LINUX-X86, -X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.6.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.6.0-linux-x86-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.6.0, Linux x86, x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+98.12MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-6-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.6.0, Linux x86, x64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=084c732f5231ce13db5b168a4b423809-20-9734&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-NIA-23.6.0, -WINDOWS-X32</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.6.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.6.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.6.0, Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+71.19MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-6-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.6.0, Windows X32 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8886f51477b54daa9b61a1d8b540f5e4-15-9735&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-jasperreports-20.11 .</title><link>https://releases-qa.aspose.com/de/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-20.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-20.11/</guid><description>&amp;nbsp;
+Aspose.PDF für JasperReports 20.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+41
+Dateigröße:
+362.0 MB
+Posted By:
+bornwild
+Ansichten:
+138
+Hinzugefügt am:
+11/27/2020
+Versionshinweise https://releases.aspose.com/pdf/jassperreport/release-notes/2020/aspose-pdf-for-jasperreports-20-11-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Pdf für JasperReports mit folgenden Verbesserungen zu teilen.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a81decca7cbf487b9e92795a0e19b3d1&amp;single=1", function(data) { $.</description></item><item><title>Downloads --- NEW Releases-ASPOSPLE.PDF-FOR-PYTHON-VIA-NIA-23.7.0, -LINUX-X86, -X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.7.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.7.0-linux-x86-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.7.0, Linux x86, x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+98.58MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-7-release-notes/
+BeschreibungEs enthält ASPOSPEN.PDF für Python über .NET 23.7.0, Linux x86, x64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=66e5746de2929065bb4162f77d5e875c-20-9736&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-23.7.0, -Windows-X32</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.7.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.7.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.7.0, Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+71.57MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-7-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.7.0, Windows X32 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ff1824874bc99e63a7a408bc3afa58af-15-9737&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.3D-FOR-PYTHON-VIA-NIA-23.5.0, -Windows-X64</title><link>https://releases-qa.aspose.com/de/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.5.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.5.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.3D für Python über .NET 23.5.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+37.78MB
+Datum hinzugefügt:
+16/6/2023
+Versionshinweisehttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-5-release-notes/
+BeschreibungEs enthält Aspose.3d für Python über .NET 23.5.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=790284208a0937f414473caf966e4256-8-9005&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-NIA-23.7.0, -WINDOWS-X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.7.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.7.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.7.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+78.24MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-7-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.7.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bb46e2cd831bc5b4c10ca5a9c93302d1-16-9738&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-23.8.0, -LINUX-X86, -X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.8.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.8.0-linux-x86-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.8.0, Linux x86, x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+98.58MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-8-release-notes/
+BeschreibungEs enthält ASPOSPEN.PDF für Python über .NET 23.8.0, Linux x86, x64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=00647b2de9de8a68ad219669229fd92f-20-9739&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-NIA-23.8.0, -WINDOWS-X32</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.8.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.8.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.8.0, Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+71.74MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-8-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.8.0, Windows X32 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=28085e3ec9b3e8c45a07863759584dff-15-9740&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Laden Sie SVG Parser &amp; Converter .NET DLL herunter | Aspose.SVG-API</title><link>https://releases-qa.aspose.com/de/svg/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/svg/</guid><description>Support Forum
+Laden Sie Aspose.SVG herunter, um Vektorgrafiken zu verarbeiten Offen
+NuGetPackage Manager in Microsoft Visual Studio®, suchen Sie nach Aspose.SVG und installieren Sie es. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die
+InstallationDokumentationsseite.
+Release-opmerkingen
+Downloaden
+PM&amp;gt;
+Install-Package Aspose.SVG
+&amp;nbsp;
+Product Page | Docs | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-NIA-23.8.0, -WINDOWS-X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.8.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.8.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.8.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+78.37MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-8-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.8.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fb44975fb7dc37e2ca21de52f834697b-16-9741&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASPOSPLE.PDF-FOR-PYTHON-VIA-NIA-23.9.0, -LINUX-X86, -X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.9.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.9.0-linux-x86-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.9.0, Linux x86, x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+98.68MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-9-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.9.0, Linux x86, x64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=665e5e01737a003df20034d37a680c29-20-9742&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-23.9.0, -Windows-X32</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.9.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.9.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.9.0, Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+71.84MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-9-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.9.0, Windows X32 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=20362f387747c1bebdb152a46747336a-15-9743&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-N-23.9.0, -Windows-X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.9.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.9.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.9.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+78.47MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-9-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.9.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=283c89f6ca9e2b96b8aeb916a9f7c72a-16-9744&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASPOSPLE.PDF-FOR-PYTHON-VIA-NIA-23.10.0, -LINUX-X86, -X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.10.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.10.0-linux-x86-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.10.0, Linux x86, x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+99.54MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-10-release-notes/
+BeschreibungEs enthält ASSON.PDF für Python über .NET 23.10.0, Linux x86, x64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7812b67c49d3eac439d7f05c11d137f7-20-9745&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-23.10.0, -WINDOWS-X32</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.10.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.10.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.10.0, Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+72.27MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-10-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.10.0, Windows X32 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=30be5008340053d05da8980df0a33de8-15-9746&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-23.10.0, -Windows-X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.10.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.10.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.10.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+78.92MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-10-release-notes/
+BeschreibungEs enthält ASPOSPEN.PDF für Python über .NET 23.10.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=94a832a9c04844c1880fc203b6cbda06-16-9747&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-NIA-23.11.0-LINUX-X86-64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.11.0-linux-x86-64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.11.0-linux-x86-64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.11.0 Linux x86-64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+99.88MB
+Datum hinzugefügt:
+8/12/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-11-release-notes/
+BeschreibungEs enthält ASSON.PDF für Python über .NET 23.11.0 Linux X86-64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=841c587fdeaae7590f8766775c344a44-20-9967&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-23.11.0-WINDOWS-X32</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.11.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.11.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.11.0 Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+72.43MB
+Datum hinzugefügt:
+8/12/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-11-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.11.0 Windows X32 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e544d6b860262576f581cac499475480-15-9968&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-N-23.11.0-WINDOWS-X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.11.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.11.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.11.0 Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+79.11MB
+Datum hinzugefügt:
+8/12/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-11-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.11.0 Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f8f089667f5a8517d5b068adc5fc8eb1-16-9969&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-NIA-23.12.0-LINUX-X86-64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.12.0-linux-x86-64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.12.0-linux-x86-64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.12.0 Linux x86-64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+96.72MB
+Datum hinzugefügt:
+29/12/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-12-release-notes/
+BeschreibungDieses Rad enthält ASPOSPE.PDF für Python über .NET Version 23.12.0, kompatibel mit Python 3 und für Linux -Systeme erstellt, die dem ManyLinux1 -Standard entsprechen, wobei speziell auf die x86_64 -Architektur abzielt.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title>Downloads --- New Releases-ASPOSPLE.PDF-FOR-PYTHON-VIA-NIA-23.12.0-Windows-X32</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.12.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.12.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.12.0 Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+72.81MB
+Datum hinzugefügt:
+29/12/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-12-release-notes/
+BeschreibungDieses Rad enthält asspose.pdf Version 23.12.0, kompatibel mit Python 3 und optimiert für Windows 32-Bit-Systeme.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=528ec20b14fc707b896298ba46cf6464-15-10104&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-NIA-N-23.12.0-Windows-Amd64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.12.0-windows-amd64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.12.0-windows-amd64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.12.0 Windows AMD64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+78.96MB
+Datum hinzugefügt:
+29/12/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-12-release-notes/
+BeschreibungDieses Rad enthält asspose.pdf Version 23.12.0, kompatibel mit Python 3 und optimiert für Windows 64-Bit-Systeme (AMD64).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f92fd75a3803ecbd41bd258e52b19ea6-16-10105&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-NIA-24.1.0-LINUX-X86-64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-24.1.0-linux-x86-64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-24.1.0-linux-x86-64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 24.1.0 Linux x86-64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+97MB
+Datum hinzugefügt:
+26/1/2024
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2024/aspose-pdf-for-python-net-24-1-release-notes/
+BeschreibungDieses Rad enthält ASPOSPE.PDF für Python über .NET Version 24.1.0, kompatibel mit Python 3 und für Linux -Systeme erstellt, die dem ManyLinux1 -Standard entsprechen, wobei speziell auf die X86_64 -Architektur abzielt.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-N-24.1.0-WINDOWS-X32</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-24.1.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-24.1.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 24.1.0 Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+72.95MB
+Datum hinzugefügt:
+26/1/2024
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2024/aspose-pdf-for-python-net-24-1-release-notes/
+BeschreibungDieses Rad enthält asspose.pdf Version 24.1.0, kompatibel mit Python 3 und optimiert für Windows 32-Bit-Systeme.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ca62c93976bfdfdc0b3c95476b934b8a-15-10222&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-NIA-N-24.1.0-WINDOWS-AMD64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-24.1.0-windows-amd64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-24.1.0-windows-amd64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 24.1.0 Windows AMD64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+79.11MB
+Datum hinzugefügt:
+26/1/2024
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2024/aspose-pdf-for-python-net-24-1-release-notes/
+BeschreibungDieses Rad enthält asspose.pdf Version 24.1.0, kompatibel mit Python 3 und optimiert für Windows 64-Bit-Systeme (AMD64).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bb98beab26f3183b1657337cb425a055-16-10223&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PUB-FOR-C ++-23.8</title><link>https://releases-qa.aspose.com/de/pub/cpp/new-releases/aspose.pub-for-c++-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/cpp/new-releases/aspose.pub-for-c++-23.8/</guid><description>&amp;nbsp;
+ASSON.PUB für C &amp;#43;&amp;#43; 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+435.72MB
+Datum hinzugefügt:
+17/8/2023
+Versionshinweisehttps://releases.aspose.com/pub/cpp/release-notes/2023/aspose-pub-for-cpp-23-8-release-notes/
+BeschreibungASSON.PUB für C ++ 23.8 native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7fef44a4ab30d0aabdcc332198679d33-88-9348&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Versionen-aspose.pdf-für-c++-22.7</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-22.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-22.7/</guid><description>&amp;nbsp;
+Aspose.PDF für C&amp;#43;&amp;#43; 22.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+398.08MB
+Hinzugefügt am:
+22/7/2022
+Versionshinweise https://releases.aspose.com/pdf/cpp/release-notes/2022/aspose-pdf-for-cpp-22-7-release-notes/
+BeschreibungAspose.PDF für die native C++-Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e4397a28d7299cc067742a81615496ac-80-7685&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Versionen-aspose.pdf-für-c++-22.8</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-22.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-22.8/</guid><description>&amp;nbsp;
+Aspose.PDF für C&amp;#43;&amp;#43; 22.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+398.04MB
+Hinzugefügt am:
+17/8/2022
+Versionshinweise https://releases.aspose.com/pdf/cpp/release-notes/2022/aspose-pdf-for-cpp-22-8-release-notes/
+BeschreibungAspose.PDF für die native C++-Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a4e54d21e59388558cf7f1b4448dc068-80-7765&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Versionen-aspose.pdf-für-c++-22.8-linux</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-22.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-22.8-linux/</guid><description>&amp;nbsp;
+Aspose.PDF für C&amp;#43;&amp;#43; 22.8 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+100.79MB
+Hinzugefügt am:
+17/8/2022
+Versionshinweise https://releases.aspose.com/pdf/cpp/release-notes/2022/aspose-pdf-for-cpp-22-8-release-notes/
+BeschreibungLinux-Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e8fe1712f500a87f41d889eb9ee4b7ee-21-7766&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Versionen-aspose.pdf-für-c++-22.9</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-22.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-22.9/</guid><description>&amp;nbsp;
+Aspose.PDF für C&amp;#43;&amp;#43; 22.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+400.05MB
+Hinzugefügt am:
+15/9/2022
+Versionshinweise https://releases.aspose.com/pdf/cpp/release-notes/2022/aspose-pdf-for-cpp-22-9-release-notes/
+BeschreibungAspose.PDF für die native C++-Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=31c5a69b454a263c8b452558f18151c5-81-7898&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Versionen-aspose.pdf-für-c++-22.10</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-22.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-22.10/</guid><description>&amp;nbsp;
+Aspose.PDF für C&amp;#43;&amp;#43; 22.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+File Size:
+401.11MB
+Date Added:
+20/10/2022
+Versionshinweise https://releases.aspose.com/pdf/cpp/release-notes/2022/aspose-pdf-for-cpp-22-10-release-notes/
+BeschreibungAspose.PDF für die native C++-Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=204fc832358b4e96ddffa1e7e0876758-81-8041&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Versionen-aspose.pdf-für-c++-22.10-linux</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-22.10-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-22.10-linux/</guid><description>&amp;nbsp;
+Aspose.PDF für C&amp;#43;&amp;#43; 22.10 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+File Size:
+101.59MB
+Date Added:
+20/10/2022
+Versionshinweise https://releases.aspose.com/pdf/cpp/release-notes/2022/aspose-pdf-for-cpp-22-10-release-notes/
+BeschreibungLinux-Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=38b13d502cec117965132b41d2725f2e-21-8042&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-Jasperreports-23.8</title><link>https://releases-qa.aspose.com/de/slides/jasperreport/new-releases/aspose.slides-for-jasperreports-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/jasperreport/new-releases/aspose.slides-for-jasperreports-23.8/</guid><description>&amp;nbsp;
+ASSON.Slides für Jasperreports 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+72.3MB
+Datum hinzugefügt:
+23/8/2023
+Versionshinweisehttps://releases.aspose.com/slides/jasperreport/release-notes/2023/aspose-slides-for-jasper-reports-23-8-release-notes/
+BeschreibungEs enthält asspose.Slides für Jasperreports 23.8 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7e03abc91b8c8a82cb4d088eb2fa5674-15-9369&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-C ++-23.1</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.1/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+426.63MB
+Datum hinzugefügt:
+23/1/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-1-release-notes/
+BeschreibungASSON.PDF für C ++ Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b247017f6d41a4fd632928af510e66e9-86-8415&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSPOSPEN.PDF-FOR-C ++-23.1-Linux</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.1-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.1-linux/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.1 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+107.07MB
+Datum hinzugefügt:
+23/1/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-1-release-notes/
+BeschreibungLinux -Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=84f5c525b7014e29751e559fb3a92587-22-8416&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-C ++-23.1-MACOS</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.1-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.1-macos/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.1 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+105.81MB
+Datum hinzugefügt:
+25/1/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-1-release-notes/
+BeschreibungASSON.PDF für c ++ macOS -Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=de87cc36b1d9ff219b671ec44521fab7-22-8417&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-C ++-23.2</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.2/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+427.94MB
+Datum hinzugefügt:
+20/2/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-2-release-notes/
+BeschreibungASSON.PDF für C ++ Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=23f5d233aa65295af2a2c348dd44df8d-86-8535&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-C ++-23.2-Linux</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.2-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.2-linux/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.2 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+107.26MB
+Datum hinzugefügt:
+20/2/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-2-release-notes/
+BeschreibungLinux -Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=aec0e7b7ffb86f0005541fbe7c2a532b-22-8536&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSPOSPEN.PDF-FOR-C ++-23.2-MACOS</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.2-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.2-macos/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.2 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+106.17MB
+Datum hinzugefügt:
+22/2/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-2-release-notes/
+BeschreibungASSON.PDF für c ++ macOS -Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f43ef67a523638967bc53b0a2d7d39e1-22-8558&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-C ++-23.3</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.3/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+428.4MB
+Datum hinzugefügt:
+20/3/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-3-release-notes/
+BeschreibungASSON.PDF für C ++ Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=380b22763672c2040eb4cab12d3413de-86-8647&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-C ++-23.3-Linux</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.3-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.3-linux/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.3 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+107.35MB
+Datum hinzugefügt:
+20/3/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-3-release-notes/
+BeschreibungLinux -Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=307acc0310a3bf5b35c136723f05ff7c-22-8648&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-C ++-23.3-MACOS</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.3-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.3-macos/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.3 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+106.28MB
+Datum hinzugefügt:
+20/3/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-3-release-notes/
+BeschreibungASSON.PDF für C ++ macOS -Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d267a2522a63e5842c9e0abb1a38abfa-22-8649&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-C ++-23.4</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.4/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+430.06MB
+Datum hinzugefügt:
+17/4/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-4-release-notes/
+BeschreibungASSON.PDF für C ++ Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=94fba6668c9e9053a49d8918b6e6180f-87-8765&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-C ++-23.4-Linux</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.4-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.4-linux/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.4 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+107.86MB
+Datum hinzugefügt:
+17/4/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-4-release-notes/
+BeschreibungLinux -Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5f5e75a4b1afeae0e9beff7c75548b38-22-8766&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPEN.PDF-FOR-C ++-23,4-MACOS</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.4-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.4-macos/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.4 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+106.56MB
+Datum hinzugefügt:
+19/4/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-4-release-notes/
+BeschreibungASSON.PDF für c ++ macOS -Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c58a80f06bf29411408c9383361b8287-22-8778&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-C ++-23.5</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.5/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+430.99MB
+Datum hinzugefügt:
+22/5/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-5-release-notes/
+BeschreibungASSON.PDF für C ++ Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7a708c9c3da363742f1e78b2b658b98e-87-8874&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-C ++-23,5-LINUX</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.5-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.5-linux/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.5 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+108.07MB
+Datum hinzugefügt:
+22/5/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-5-release-notes/
+BeschreibungLinux -Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=481edcfa2966241b5d5c99ca7b3811a3-22-8875&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-C ++-23,5-MACOS</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.5-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.5-macos/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.5 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+107.21MB
+Datum hinzugefügt:
+22/5/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-5-release-notes/
+BeschreibungASSON.PDF für c ++ macOS -Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=67b4bb8669c429ac523391cd39508439-22-8876&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-C ++-23.6</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.6/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+432.7MB
+Datum hinzugefügt:
+20/6/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-6-release-notes/
+BeschreibungASSON.PDF für C ++ Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e88a83c22dcda7b481f9601af29aad45-87-9048&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-C ++-23.6-LINUX</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.6-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.6-linux/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.6 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+108.54MB
+Datum hinzugefügt:
+20/6/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-6-release-notes/
+BeschreibungLinux -Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2ddbccdfbabb608881a93b52a05d50d7-22-9049&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-C ++-23.6-MACOS</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.6-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.6-macos/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.6 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+107.37MB
+Datum hinzugefügt:
+20/6/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-6-release-notes/
+BeschreibungASSON.PDF für c ++ macOS -Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=28073bcdf2562055c96381083b48b017-22-9050&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-C ++-23.7</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.7/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+444.11MB
+Datum hinzugefügt:
+25/7/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-7-release-notes/
+BeschreibungASSON.PDF für C ++ Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=812b6ab2fb5f5e18ed99ee5870a77054-89-9255&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-C ++-Linux</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-linux/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+111.11MB
+Datum hinzugefügt:
+25/7/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-7-release-notes/
+BeschreibungLinux -Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4b29b1409671e6e2aec3efa3b56ae41e-23-9256&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPEN.PDF-FOR-C ++-23,7-MACOS</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.7-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.7-macos/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.7 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+110.06MB
+Datum hinzugefügt:
+25/7/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-7-release-notes/
+BeschreibungASSON.PDF für c ++ macOS -Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=96e6cc18a955527278ff25c8b0b2e043-23-9258&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-C ++-23.8-Linux</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.8-linux/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.8 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+111.25MB
+Datum hinzugefügt:
+17/8/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-8-release-notes/
+BeschreibungLinux -Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=68a8029d315378afd6f3228e52c94293-23-9350&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-C ++-23,8-MACOS</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.8-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.8-macos/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.8 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+208.45MB
+Datum hinzugefügt:
+23/8/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-8-release-notes/
+BeschreibungASSON.PDF für C ++ macOS -Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f001f299cf7a8edba59577140d0575c8-42-9366&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Versionen-aspose.cells-for-reporting-services-22.7</title><link>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.7/</guid><description>&amp;nbsp;
+Aspose.Cells für Reporting Services 22.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+29.64MB
+Hinzugefügt am:
+26/7/2022
+Versionshinweise https://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-7-release-notes/
+BeschreibungAspose.Cells für Reporting Services 22.7
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b692084a3023467d0214f910e4d7ea2b-6-7693&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Versionen-aspose.cells-for-reporting-services-22.7-x64</title><link>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.7-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.7-x64/</guid><description>&amp;nbsp;
+Aspose.Cells für Reporting Services 22.7 x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+29.79MB
+Hinzugefügt am:
+26/7/2022
+Versionshinweise https://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-7-release-notes/
+BeschreibungAspose.Cells für Reporting Services 22.7 x64
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d2f0ca50f184ccb3479d52bb636529db-6-7694&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Versionen-aspose.cells-for-reporting-services-22.7(zip)</title><link>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.7zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.7zip/</guid><description>&amp;nbsp;
+Aspose.Cells für Reporting Services 22.7 (zip)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+59.81MB
+Hinzugefügt am:
+26/7/2022
+Versionshinweise https://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-7-release-notes/
+BeschreibungAspose.Cells für Reporting Services 22.7 (zip)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f07903482beb70cd2e63006912905182-12-7695&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Versionen-aspose.cells-for-reporting-services-22.8</title><link>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.8/</guid><description>&amp;nbsp;
+Aspose.Cells für Reporting Services 22.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+29.65MB
+Hinzugefügt am:
+12/8/2022
+Versionshinweise https://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-8-release-notes/
+BeschreibungAspose.Cells für Reporting Services 22.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=19af01bd963c905cd5bce99117d24706-6-7755&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Versionen-aspose.cells-for-reporting-services-22.8-x64</title><link>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.8-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.8-x64/</guid><description>&amp;nbsp;
+Aspose.Cells für Reporting Services 22,8 x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+29.79MB
+Hinzugefügt am:
+12/8/2022
+Versionshinweise https://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-8-release-notes/
+BeschreibungAspose.Cells für Reporting Services 22,8 x64
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=733fa48d5c07d92f46014881d0f0f0ab-6-7756&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Versionen-aspose.cells-for-reporting-services-22.8(zip)</title><link>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.8zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.8zip/</guid><description>&amp;nbsp;
+Aspose.Cells für Reporting Services 22.8 (zip)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+59.79MB
+Hinzugefügt am:
+12/8/2022
+Versionshinweise https://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-8-release-notes/
+BeschreibungAspose.Cells für Reporting Services 22.8 (zip)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a637b8c7c614b8ccf5275485be32ced2-12-7757&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Versionen-aspose.cells-for-reporting-services-22.9</title><link>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.9/</guid><description>&amp;nbsp;
+Aspose.Cells für Reporting Services 22.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+29.67MB
+Hinzugefügt am:
+14/9/2022
+Versionshinweise https://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-9-release-notes/
+BeschreibungAspose.Cells für Reporting Services 22.9
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=65d988996750ab4f23a05191964f08b0-6-7893&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Versionen-aspose.cells-for-reporting-services-22.9-x64</title><link>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.9-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.9-x64/</guid><description>&amp;nbsp;
+Aspose.Cells für Reporting Services 22,9 x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+29.81MB
+Hinzugefügt am:
+14/9/2022
+Versionshinweise https://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-9-release-notes/
+BeschreibungAspose.Cells für Reporting Services 22,9 x64
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=493b17a9edb8cb65d8a4922965f9588f-6-7894&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Versionen-aspose.cells-for-reporting-services-22.9(zip)</title><link>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.9zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.9zip/</guid><description>&amp;nbsp;
+Aspose.Cells für Reporting Services 22.9 (zip)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+59.84MB
+Hinzugefügt am:
+14/9/2022
+Versionshinweise https://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-9-release-notes/
+BeschreibungAspose.Cells für Reporting Services 22.9 (zip)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b8a9cc32f973e3568a79c6723eb51c6e-12-7895&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neuerscheinungen-aspose.cells-for-reporting-services-22.10</title><link>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.10/</guid><description>&amp;nbsp;
+Aspose.Cells für Reporting Services 22.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+29.68MB
+Date Added:
+14/10/2022
+Versionshinweise https://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-10-release-notes/
+BeschreibungAspose.Cells für Reporting Services 22.10
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=007af282fc9b281296986ad322365190-6-8005&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Versionen-aspose.cells-for-reporting-services-22.10(zip)</title><link>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.10zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.10zip/</guid><description>&amp;nbsp;
+Aspose.Cells für Reporting Services 22.10 (zip)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+59.88MB
+Date Added:
+14/10/2022
+Versionshinweise https://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-10-release-notes/
+BeschreibungAspose.Cells für Reporting Services 22.10 (zip)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cc07518708346d2adb2c0cf57d27176f-12-8007&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.CELLS-FOR-MERSABEN-SERVICES-23.5</title><link>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-23.5/</guid><description>&amp;nbsp;
+ASSOSPE.
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+17.97MB
+Datum hinzugefügt:
+26/5/2023
+Versionshinweisehttps://releases.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-23.5/
+BeschreibungASSOSPE.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6419dc10f928c92e5080cf6483ae6c27-4-8914&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.CELLS-FOR-MERSABEN-SERVICES-23.5-X64</title><link>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-23.5-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-23.5-x64/</guid><description>&amp;nbsp;
+ASSONE.CELLs für die Berichterstattung 23.5 x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+18.11MB
+Datum hinzugefügt:
+26/5/2023
+Versionshinweisehttps://releases.aspose.com/cells/reportingservices/release-notes/2023/aspose-cells-for-reporting-services-23-5-release-notes/
+BeschreibungASSOSPE.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fca7cbb29adf01a6820b225b1219ded2-4-8915&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.CELLS-FOR-Meldungen-Services-23.5 (ZIP)</title><link>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-23.5zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-23.5zip/</guid><description>&amp;nbsp;
+ASSOSE.CELLS FÜR REPERTUNGSDIENSTLEISTUNGEN 23.5 (ZIP)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+60.21MB
+Datum hinzugefügt:
+26/5/2023
+Versionshinweisehttps://releases.aspose.com/cells/reportingservices/release-notes/2023/aspose-cells-for-reporting-services-23-5-release-notes/
+BeschreibungASSOSPE.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=59595da8026e33a710cb08bc9a30ed11-13-8916&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPLE.3D-FOR-.NET-23.8</title><link>https://releases-qa.aspose.com/de/3d/net/new-releases/aspose.3d-for-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/3d/net/new-releases/aspose.3d-for-.net-23.8/</guid><description>&amp;nbsp;
+ASSON.3D für .NET 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+12.38MB
+Datum hinzugefügt:
+25/8/2023
+Versionshinweisehttps://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-8-release-notes/
+BeschreibungEs enthält ASSON.3D für .NET 23.8 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=710741f18a3eebb52a2e1286ff07fcd4-2-9388&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-Assible.3d-for -.net-23.8- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/3d/net/new-releases/aspose.3d-for-.net-23.8-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/3d/net/new-releases/aspose.3d-for-.net-23.8-dlls-only/</guid><description>&amp;nbsp;
+ASSON.3D für .NET 23.8 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+9.06MB
+Datum hinzugefügt:
+25/8/2023
+Versionshinweisehttps://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-8-release-notes/
+BeschreibungEs enthält ASSON.3D für .NET 23.8 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=959fa3247a49cc881db182d001d696b6-2-9389&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-.NET-23.9- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/pdf/net/new-releases/aspose.pdf-for-.net-23.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/net/new-releases/aspose.pdf-for-.net-23.9-dlls-only/</guid><description>&amp;nbsp;
+ASSON.PDF für .NET 23.9 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+161.41MB
+Datum hinzugefügt:
+13/9/2023
+Versionshinweisehttps://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-9-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSON.PDF für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.PDF ohne das MSI -Installateur verwenden möchten.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-.NET-23.9</title><link>https://releases-qa.aspose.com/de/pdf/net/new-releases/aspose.pdf-for-.net-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/net/new-releases/aspose.pdf-for-.net-23.9/</guid><description>&amp;nbsp;
+ASSON.PDF für .NET 23.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+161.66MB
+Datum hinzugefügt:
+13/9/2023
+Versionshinweisehttps://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-9-release-notes
+BeschreibungEs enthält ASSOSPE.PDF für .NET 23.9 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4bea946afb2bb368dea7f28a2ef51440-33-9453&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-.NET-23.10- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/pdf/net/new-releases/aspose.pdf-for-.net-23.10-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/net/new-releases/aspose.pdf-for-.net-23.10-dlls-only/</guid><description>&amp;nbsp;
+ASSON.PDF für .NET 23.10 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+164.84MB
+Datum hinzugefügt:
+18/10/2023
+Versionshinweisehttps://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-10-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSON.PDF für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.PDF ohne das MSI -Installateur verwenden möchten.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-.NET-23.10</title><link>https://releases-qa.aspose.com/de/pdf/net/new-releases/aspose.pdf-for-.net-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/net/new-releases/aspose.pdf-for-.net-23.10/</guid><description>&amp;nbsp;
+ASSON.PDF für .NET 23.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+164.96MB
+Datum hinzugefügt:
+18/10/2023
+Versionshinweisehttps://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-10-release-notes/
+BeschreibungEs enthält ASSOSPE.PDF für .NET 23.10 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fd54e367aec27384087f0dfad0e6423c-33-9630&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-.NET-23.11- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/pdf/net/new-releases/aspose.pdf-for-.net-23.11-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/net/new-releases/aspose.pdf-for-.net-23.11-dlls-only/</guid><description>&amp;nbsp;
+ASSON.PDF für .NET 23.11 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+165.14MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-11-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSON.PDF für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.PDF ohne das MSI -Installateur verwenden möchten.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-.NET-23.11</title><link>https://releases-qa.aspose.com/de/pdf/net/new-releases/aspose.pdf-for-.net-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/net/new-releases/aspose.pdf-for-.net-23.11/</guid><description>&amp;nbsp;
+ASSON.PDF für .NET 23.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+165.27MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-11-release-notes/
+BeschreibungEs enthält ASSOSPE.PDF für .NET 23.11 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5677f7da0452fb2906032d0709b300c7-34-9730&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-.NET-23.11.1- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/pdf/net/new-releases/aspose.pdf-for-.net-23.11.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/net/new-releases/aspose.pdf-for-.net-23.11.1-dlls-only/</guid><description>&amp;nbsp;
+ASSON.PDF für .NET 23.11.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+165.15MB
+Datum hinzugefügt:
+22/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-11-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSON.PDF für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.PDF ohne das MSI -Installateur verwenden möchten.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-.NET-23.11.1</title><link>https://releases-qa.aspose.com/de/pdf/net/new-releases/aspose.pdf-for-.net-23.11.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/net/new-releases/aspose.pdf-for-.net-23.11.1/</guid><description>&amp;nbsp;
+ASSON.PDF für .NET 23.11.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+165.29MB
+Datum hinzugefügt:
+22/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-11-release-notes/
+BeschreibungEs enthält ASSOSPE.PDF für .NET 23.11.1 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8008e50def939840c057d5bef78f31e9-34-9862&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-.NET-23.12- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/pdf/net/new-releases/aspose.pdf-for-.net-23.12-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/net/new-releases/aspose.pdf-for-.net-23.12-dlls-only/</guid><description>&amp;nbsp;
+ASSON.PDF für .NET 23.12 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+176.55MB
+Datum hinzugefügt:
+19/12/2023
+Versionshinweisehttps://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-12-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSON.PDF für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.PDF ohne das MSI -Installateur verwenden möchten.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-.NET-23.12</title><link>https://releases-qa.aspose.com/de/pdf/net/new-releases/aspose.pdf-for-.net-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/net/new-releases/aspose.pdf-for-.net-23.12/</guid><description>&amp;nbsp;
+ASSON.PDF für .NET 23.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+176.69MB
+Datum hinzugefügt:
+19/12/2023
+Versionshinweisehttps://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-12-release-notes/
+BeschreibungEs enthält ASSOSE.PDF für .NET 23.12 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=02f3a4e4fb447e9f000b6adbb5d28381-36-10019&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-.NET-24.1- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/pdf/net/new-releases/aspose.pdf-for-.net-24.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/net/new-releases/aspose.pdf-for-.net-24.1-dlls-only/</guid><description>&amp;nbsp;
+ASSON.PDF für .NET 24.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+176.93MB
+Datum hinzugefügt:
+15/1/2024
+Versionshinweisehttps://releases.aspose.com/pdf/net/release-notes/2024/aspose-pdf-for-net-24-01-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSON.PDF für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.PDF ohne das MSI -Installateur verwenden möchten.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-N-24.1</title><link>https://releases-qa.aspose.com/de/pdf/net/new-releases/aspose.pdf-for-.net-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/net/new-releases/aspose.pdf-for-.net-24.1/</guid><description>&amp;nbsp;
+ASSON.PDF für .NET 24.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+177.08MB
+Datum hinzugefügt:
+15/1/2024
+Versionshinweisehttps://releases.aspose.com/pdf/net/release-notes/2024/aspose-pdf-for-net-24-01-release-notes/
+BeschreibungEs enthält ASSOSPE.PDF für .NET 24.1 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8085a40a76081b0d6b8b3623b1f90e6d-36-10158&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>ASSON.DIAGRAM 22.12 | Visio Diagramm Java High Code API</title><link>https://releases-qa.aspose.com/de/diagram/java/22-12/</link><pubDate>Tue, 13 Dec 2022 06:09:16 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/java/22-12/</guid><description>Java API für Microsoft Visio &amp;amp; Reg; Dateiformate
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Diagram for Java API ist eine Lösung für Microsoft Visio -Dateimanipulationsanforderungen. Die Java-Anwendungen können Microsoft-Visio-Diagramme lesen, schreiben, exportieren und verarbeiten, während alle Visio-Objekte und Eigenschaften einschließlich Formen, Seiten, Bilder, Formmeister, Schablonen, Text, Schichten, Header, Fußzeilen, benutzerdefinierten Zellen, Hyperlinks, Hyperlinks, Layer, Header, Fußzeilen, Hyperlinks, unterstützt werden, die Unterstützung Dateischutz, Geometrien, Textfelder und Kommentare.</description></item><item><title>ASSONE.CELLS 22.12 | Verarbeiten Sie Tabellenkalkulationsformate über Java -API</title><link>https://releases-qa.aspose.com/de/cells/java/22-12/</link><pubDate>Mon, 12 Dec 2022 06:35:39 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/22-12/</guid><description>Java -API für Excel -Dateiformate
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Cells for Java ist eine preisgekrönte API von Excel-Tabellenkalkulationen, mit der Java-Entwickler die Fähigkeit einbetten können, Excel &amp;amp; reg zu lesen, zu schreiben und zu manipulieren. Tabellenkalkulationen (XLS, XLSX, XLSM, XLSB, XLTX, SpreadsheetML, CSV, ODS), HTML, MHTML, PDF und Bilddatei -Formate in ihre eigenen Java -Anwendungen, ohne sich auf Microsoft Excel &amp;amp; Reg;</description></item><item><title>ASSOSE.Words 22.12 | Prozessdokumentformate über Java API</title><link>https://releases-qa.aspose.com/de/words/java/22-12/</link><pubDate>Fri, 09 Dec 2022 11:50:34 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/java/22-12/</guid><description>Java -API für verschiedene Dokumentformate
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Words for Java ist eine erweiterte Java -Textverarbeitungs -API, mit der Sie eine große Auswahl an Dokumentverarbeitungsaufgaben direkt in Ihren Java -Anwendungen ausführen können. ASSONS.Words für Java API unterstützt das Verarbeitungswort (DOC, DOCX, OOXML, RTF) HTML, Opendocument, PDF, EPUB, XPS, SWF und alle Bildformate. Mit ASSOSE.</description></item><item><title>ASSOSE.NOTE 22.11 | OneNote Processing Java High Code API</title><link>https://releases-qa.aspose.com/de/note/java/22-11/</link><pubDate>Tue, 06 Dec 2022 13:40:21 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/java/22-11/</guid><description>Java -API für die OneNote -Dokumentverarbeitung
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Note for Java ist eine Klassenbibliothek, mit der Anwendungen programmgesteuert mit Microsoft Office OneNote ohne die Installation auf dem Server interagieren können. Es ist eine reine Alternative für MS OneNote -Objektmodell, die eine viel bessere Leistung und eine einfache Nutzung bietet, um OneNote -Dokumente zu verwalten.</description></item><item><title>ASSOSE.IMAGING 22.12 | Bildverarbeitung Java High Code API</title><link>https://releases-qa.aspose.com/de/imaging/java/22-12/</link><pubDate>Mon, 05 Dec 2022 13:31:14 +0000</pubDate><guid>https://releases-qa.aspose.com/de/imaging/java/22-12/</guid><description>Java -API für die Bildverarbeitung
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Es handelt sich um eine eigenständige Bildgebungs -API, die aus Java -Routinen besteht, die es Ihren Java -Anwendungen ermöglichen, die Verarbeitung von Raster- und Vektorbildern für eine grundlegende bis fortgeschrittene Ebene durchzuführen. ASSOSE.IMAGING FÜR JAVA bietet eine robuste Bildkomprimierung und eine hohe Verarbeitungsgeschwindigkeit durch nativen Byte -Zugriff und eine Reihe effizienter Algorithmen.</description></item><item><title>ASSON.PDF 22.11 | Verarbeiten Sie Acrobat PDF -Dateien über Java API</title><link>https://releases-qa.aspose.com/de/pdf/java/22-11/</link><pubDate>Wed, 30 Nov 2022 14:34:18 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/java/22-11/</guid><description>Java -API, um PDF -Dateien zu verarbeiten und zu manipulieren
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.PDF for Java ist eine PDF -Dokumenterstellungskomponente, mit der Ihre Java -Anwendungen PDF -Dokumente ohne Adobe Acrobat lesen, schreiben und manipulieren können.
+asspos.pdf Paketfunktionen PDF -Dokumentgrmeur Setzen Sie grundlegende Informationen (z. B. Autor, Ersteller) des PDF -Dokuments. Konfigurieren Sie die Eigenschaften der PDF -Seiten (z.</description></item><item><title>ASSOSE.PAGE 22.11 | EPS-, PS- und XPS -Formatkonvertierung Java -API</title><link>https://releases-qa.aspose.com/de/page/java/22-11/</link><pubDate>Thu, 24 Nov 2022 03:07:50 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/java/22-11/</guid><description>Java -APIs für PS-, EPS- und XPS -Dateiformate
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Page for Java Angebote zum Erstellen und Manipulieren von XPS -Dokumenten. Es bietet auch Funktionen zum Umwandeln von XPS-, PS- und EPS -Dokumenten in Bildformate und PDF.
+Manipulieren Sie XPS -Dokumente über Java XPS -Dokument erstellen und bearbeiten. Seiten des XPS -Dokuments hinzufügen oder entfernen.</description></item><item><title>ASSON.Slides 22.11 | PowerPoint -Formate Java High Code API</title><link>https://releases-qa.aspose.com/de/slides/java/22-11/</link><pubDate>Wed, 23 Nov 2022 19:22:59 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/java/22-11/</guid><description>Java Powerpoint API
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Slides Eine Java Powerpoint -API für die Manipulation und das Management der Präsentation. Es ermöglicht Entwicklern, PowerPoint -Präsentationen in Java -Anwendungen zu lesen, zu schreiben, zu konvertieren und zu manipulieren, mit der Fähigkeit, alle Dokumentelemente wie Folien, Tabellen, Text, Diagramme, Formen, Bilder und SmartArt -Diagramme und mehr zu manipulieren.</description></item><item><title>ASSOSS.OCR 22.11 | Optische Charaktererkennung Java API</title><link>https://releases-qa.aspose.com/de/ocr/java/22-11/</link><pubDate>Mon, 21 Nov 2022 12:03:24 +0000</pubDate><guid>https://releases-qa.aspose.com/de/ocr/java/22-11/</guid><description>Java OCR -Bibliothek
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.OCR for Java ist ein Zeichen für Zeichen und optische Markerkennung, mit der Entwickler OCR -Funktionen in ihren Anwendungen hinzufügen können. Es bietet einen einfachen Klassensatz zur Steuerung der Charaktererkennung.
+Image über Java in Text in Text konvertieren Lesen Sie Zeichen aus Bildern. Unterstützung für JPG-, PNG-, GIF-, BMP- und TIFF -Bilddateiformate für OCR.</description></item><item><title>ASSON.3d 22.11 | GameWare 3D Image Cad Java High Code API</title><link>https://releases-qa.aspose.com/de/3d/java/22-11/</link><pubDate>Thu, 17 Nov 2022 07:29:30 +0000</pubDate><guid>https://releases-qa.aspose.com/de/3d/java/22-11/</guid><description>Java -API für die 3D -Bildverarbeitung
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.3D for Java API wurde zum Erstellen, Bearbeiten, Manipulieren und Speichern von 3D -Formaten erstellt. Es ermöglicht Java -Anwendungen, sich mit 3D -Dokumenten zu verbinden, ohne ein Softwarepaket auf dem Computer zu installieren. ASSON.3d für Java API unterstützt Entwickler dabei, massive Welten in Spielen zu modellieren und zu schaffen, hervorragende Szenen für die Designvisualisierung und die Einbeziehung von virtuellen Realitätserfahrungen.</description></item><item><title>ASSON.TEX 22.11 | Tex &amp; Latex Typenset &amp; Conversion Java API</title><link>https://releases-qa.aspose.com/de/tex/java/22-11/</link><pubDate>Wed, 16 Nov 2022 08:40:02 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tex/java/22-11/</guid><description>Java -API zu Typeet Tex -Dateien
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.TeX for Java ist eine Bibliothek, die eine Tex Engine -Erweiterung namens ObjectTex bietet. Es kann verwendet werden, um Dokumente von Tex -Dateien zu entsprechen. &amp;ldquo;Objekt&amp;rdquo; bedeutet, dass ein intermediNTypeSeting -Ergebnis ein spezifisches Objektmodell ist, das dann gleichmäßig in eine Reihe von Endformaten umgewandelt werden kann.</description></item><item><title>ASSON.CAD 22.7 | AutoCAD -Verarbeitung und Konvertierung Java -API</title><link>https://releases-qa.aspose.com/de/cad/java/22-7/</link><pubDate>Thu, 10 Nov 2022 08:21:18 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/java/22-7/</guid><description>CAD -Dateikonvertierungs -API für Java
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.CAD for Java ermöglicht es Entwicklern, AutoCAD DWG- und DXF -Dateien in PDF- und Rasterbilder zu konvertieren. Es handelt sich um eine native API und erfordert keine Autokad oder eine andere Software, die installiert werden muss. Sie können auch die ausgewählten Ebenen und Layouts aus den AutoCAD -Dateien konvertieren.</description></item><item><title>ASSON.PUB 22.8 | Pub &amp; PDF Conversion Java High Code API</title><link>https://releases-qa.aspose.com/de/pub/java/22-8/</link><pubDate>Thu, 01 Sep 2022 16:35:25 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/java/22-8/</guid><description>Pub -Dateien über Java -API verarbeiten
+Produktseite | Dokumente | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.PUB for Java ist eine Java -API, die Microsoft Publisher (.pub) -Dateien in PDF lesen, manipulieren und konvertieren kann. Sie können die API in Ihren Java -Anwendungen verwenden, um mit .Pub -Dateien zu arbeiten, ohne sich über das zugrunde liegende Filie -Format zu sorgen. Die API kann sowohl im Java -Desktop als auch im Webanwendungen mit JSP verwendet werden.</description></item><item><title>ASSON.PSD 21.7 | Photoshop -Format Manipulation Java API</title><link>https://releases-qa.aspose.com/de/psd/java/21-7/</link><pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/psd/java/21-7/</guid><description>Java -Bibliothek für Photoshop -Dateien
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.PSD for Java ist eine einfach zu verwendende Adobe Photoshop -Dateiformat -Manipulations -API. Es kann einfach PSD-, PSB- und AI -Dateien geladen und lesen, was den Java -Entwicklern ermöglicht, Vorgänge wie Aktualisierung von Ebeneneigenschaften, Hinzufügen von Wasserzeichen, Komprimierung, Rotation, Skalierung oder Rendern eines Dateiformats an ein anderes hinzuzufügen, ohne Adobe Photoshop zu installieren.</description></item><item><title>Aspose.Cells 23,8 | Prozesstabellenformate via Java API</title><link>https://releases-qa.aspose.com/de/cells/java/23-8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/23-8/</guid><description>Java API für Excel-Dateiformate
+Produktseite | Dokumente | Demos | API Referenz | Beispiele | Blog | Suchen | Kostenloser Support | Temporäre Lizenz
+Aspose.Cells for Java ist eine preisgekrönte Excel-Tabellenverarbeitung API, die es Java Entwicklern ermöglicht, die Fähigkeit zum Lesen, Schreiben und Bearbeiten von Excel®-Dateien einzubetten. Tabellenkalkulationen (XLS, XLSX, XLSM, XLSB, XLTX, SpreadsheetML, CSV, ODS), HTML, MHTML, 07611234 81 und Bilddateiformate in ihre eigenen Java Anwendungen, ohne auf Microsoft Excel® angewiesen zu sein.</description></item></channel></rss>

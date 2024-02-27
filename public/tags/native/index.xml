@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Native on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/native/</link><description>Recent content in Native on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/tags/native/index.xml" rel="self" type="application/rss+xml"/><item><title>Download Optical Text Recognition C++ DLL | Aspose.OCR API</title><link>https://releases-qa.aspose.com/ocr/cpp/</link><pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/cpp/</guid><description>Support Forum
+Download C&amp;#43;&amp;#43; Library for Optical Character Recognition (OCR) Open NuGet Package Manager within the Microsoft Visual Studio&amp;reg;, search for Aspose.OCR.Cpp and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the Installation documentation page.
+Release Notes
+Download
+PM&amp;gt;
+Install-Package Aspose.OCR.Cpp
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Download c++ library for Spreadsheet Processing | Aspose.Cells</title><link>https://releases-qa.aspose.com/cells/cpp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/cpp/</guid><description>Support Forum
+What is Aspose.Cells for C++ Library? Aspose.Cells for C++ is a native C++ library to create, manipulate, process, and convert Microsoft Excel files without needing Microsoft Office or Automation. The C++ Library supports Excel 97-2003 (XLS), Excel 2007-2013/2016 (XLSX, XLSM, XLSB), OpenOffice XML, and other formats such as CSV, TSV, and more.
+Aspose.Cells for C++ Library is a native assembly that can be deployed by simply copying it.</description></item><item><title>Download Outlook® Objects Processing C++ DLL | Aspose.Email</title><link>https://releases-qa.aspose.com/email/cpp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/</guid><description>Support Forum
+Download C&amp;#43;&amp;#43; Library to work with Emails Open NuGet Package Manager within the Microsoft Visual Studio&amp;reg;, search for Aspose.Email.Cpp and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the Installation documentation page.
+Release Notes
+Download
+PM&amp;gt;
+Install-Package Aspose.Email.Cpp
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Download Font Manipulation C++ Library DLL | Aspose.Font API</title><link>https://releases-qa.aspose.com/font/cpp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/</guid><description>Support Forum
+Download Font Manipulation C&amp;#43;&amp;#43; Library Open NuGet Package Manager within the Microsoft Visual Studio&amp;reg;, search for Aspose.Font.Cpp and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the Installation documentation page.
+Release Notes
+Download
+PM&amp;gt;
+Install-Package Aspose.Font.Cpp
+&amp;nbsp;
+Product Page | Docs | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Download Publisher® File Converter C++ DLL | Aspose.PUB API</title><link>https://releases-qa.aspose.com/pub/cpp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/cpp/</guid><description>Support Forum
+Download C&amp;#43;&amp;#43; Library to Process PUB Files Open NuGet Package Manager within the Microsoft Visual Studio&amp;reg;, search for Aspose.PUB.Cpp and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the Installation documentation page.
+Release Notes
+Download
+PM&amp;gt;
+Install-Package Aspose.PUB.Cpp
+&amp;nbsp;
+Product Page | Docs | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Downloads ---New Releases-aspose.email-for-c++-23.6</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-23.6/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 23.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+424.51MB
+Date Added:
+13/7/2023
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-6-release-notes/
+DescriptionIt contains Aspose.Email for C++ 23.6 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fd45fd09242e0591818d5163c924ca7e-85-9210&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.ocr.cpp.23.6.0</title><link>https://releases-qa.aspose.com/ocr/cpp/new-releases/aspose.ocr.cpp.23.6.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/cpp/new-releases/aspose.ocr.cpp.23.6.0/</guid><description>&amp;nbsp;
+Aspose.Ocr.Cpp.23.6.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+210.48MB
+Date Added:
+1/7/2023
+Release Noteshttps://releases.aspose.com/ocr/cpp/release-notes/2023/aspose-ocr-for-cpp-23-6-0-release-notes/
+DescriptionFast recognition method have been aligned with the new API.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9ed45e834b7c1f9c355f6e71da87488a-43-9171&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pub-for-c++-23.8-linux</title><link>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.8-linux/</guid><description>&amp;nbsp;
+Aspose.PUB for C&amp;#43;&amp;#43; 23.8 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+92.41MB
+Date Added:
+17/8/2023
+Release Noteshttps://releases.aspose.com/pub/cpp/release-notes/2023/aspose-pub-for-cpp-23-8-release-notes/
+DescriptionAspose.PUB for C++ 23.8 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2ffb337fe14758e8892a4c7db846a1d4-19-9346&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pub-for-c++-23.8-macos</title><link>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.8-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.8-macos/</guid><description>&amp;nbsp;
+Aspose.PUB for C&amp;#43;&amp;#43; 23.8 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+180.84MB
+Date Added:
+17/8/2023
+Release Noteshttps://releases.aspose.com/pub/cpp/release-notes/2023/aspose-pub-for-cpp-23-8-release-notes/
+DescriptionAspose.PUB for C++ 23.8 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f83f98e74bb1040abb8831d505c1b931-37-9347&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pub-for-c++-23.8</title><link>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.8/</guid><description>&amp;nbsp;
+Aspose.PUB for C&amp;#43;&amp;#43; 23.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+435.72MB
+Date Added:
+17/8/2023
+Release Noteshttps://releases.aspose.com/pub/cpp/release-notes/2023/aspose-pub-for-cpp-23-8-release-notes/
+DescriptionAspose.PUB for C++ 23.8 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7fef44a4ab30d0aabdcc332198679d33-88-9348&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-c++-23.8(windows)</title><link>https://releases-qa.aspose.com/cells/cpp/new-releases/aspose.cells-for-c++-23.8windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/cpp/new-releases/aspose.cells-for-c++-23.8windows/</guid><description>&amp;nbsp;
+Aspose.Cells for C&amp;#43;&amp;#43; 23.8(Windows)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+61.09MB
+Date Added:
+14/8/2023
+Release Noteshttps://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-windows-23-8-release-notes/
+DescriptionPlease refer to release notes and ReadMe for detail
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b4930d0efb65f33713ed68184ded90d7-13-9327&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.8</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.8/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+132MB
+Date Added:
+14/8/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-8-release-notes/
+DescriptionAspose.Font for C++ 23.8 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6dd2a2bbfaa94ad3b8bbc6e7aa928b19-27-9328&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.8-linux</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.8-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.8 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.49MB
+Date Added:
+14/8/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-8-release-notes/
+DescriptionAspose.Font for C++ 23.8 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ac4ece9d59e15e5e3902f2e5bbd77bf8-8-9329&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.8-macos</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.8-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.8-macos/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.8 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+63.29MB
+Date Added:
+14/8/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-8-release-notes/
+DescriptionAspose.Font for C++ 23.8 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=08753277a3a9be73ccb8799ab80d549c-13-9330&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

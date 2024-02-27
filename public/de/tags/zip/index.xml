@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ZIP on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/tags/zip/</link><description>Recent content in ZIP on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Wed, 16 Nov 2022 08:40:02 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/de/tags/zip/index.xml" rel="self" type="application/rss+xml"/><item><title>C#-Bibliothek für Dokumenttypeinstellungen herunterladen | Aspose.TeX-API</title><link>https://releases-qa.aspose.com/de/tex/net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tex/net/</guid><description>Support Forum
+Laden Sie Aspose.TeX in TypeSet TeX-Dateien herunter Offen
+NuGetPackage Manager in Microsoft Visual Studio®, suchen Sie nach Aspose.TeX und installieren Sie es. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die
+InstallationDokumentationsseite.
+Release-opmerkingen
+Downloaden
+PM&amp;gt;
+Install-Package Aspose.TeX
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>ASSON.TEX | Java -Bibliothek zum Typenset &amp; konvertieren Tex -Dateien</title><link>https://releases-qa.aspose.com/de/tex/java/</link><pubDate>Wed, 16 Nov 2022 08:40:02 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tex/java/</guid><description>Java -API zu Typeet Tex -Dateien
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.TeX for Java ist eine Bibliothek, die eine Tex Engine -Erweiterung namens ObjectTex bietet. Es kann verwendet werden, um Dokumente von Tex -Dateien zu entsprechen. &amp;ldquo;Objekt&amp;rdquo; bedeutet, dass ein intermediNTypeSeting -Ergebnis ein spezifisches Objektmodell ist, das dann gleichmäßig in eine Reihe von Endformaten umgewandelt werden kann.</description></item><item><title>Downloads --- New Releases-ASSOSPLE.TEX-FOR-.NET-23.8- (DLLS-and-DOCS)</title><link>https://releases-qa.aspose.com/de/tex/net/new-releases/aspose.tex-for-.net-23.8-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tex/net/new-releases/aspose.tex-for-.net-23.8-dlls-and-docs/</guid><description>&amp;nbsp;
+ASSON.TEX FÜR .NET 23.8 (DLLS und DOCS)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+33.23MB
+Datum hinzugefügt:
+14/8/2023
+Versionshinweisehttps://docs.aspose.com/tex/net/aspose-tex-for-net-23-8-release-notes/
+BeschreibungEs enthält asspose.tex für .NET 23.8 (DLLS und DOCS).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f500915d90b22118ce96e7067cd5982a-7-9320&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.TEX-FOR-.NET-23.8</title><link>https://releases-qa.aspose.com/de/tex/net/new-releases/aspose.tex-for-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tex/net/new-releases/aspose.tex-for-.net-23.8/</guid><description>&amp;nbsp;
+ASSOSS.TEX FÜR .NET 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+33.63MB
+Datum hinzugefügt:
+14/8/2023
+Versionshinweisehttps://docs.aspose.com/tex/net/aspose-tex-for-net-23-8-release-notes/
+BeschreibungEs enthält asspose.tex für .NET 23.8 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=aeee84794785785a8cdcf06937edc5db-7-9321&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.zip-for -.net-23.8</title><link>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-23.8/</guid><description>&amp;nbsp;
+ASSON.zip für .net 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+13.13MB
+Datum hinzugefügt:
+30/8/2023
+Versionshinweisehttps://releases.aspose.com/zip/net/release-notes/2023/aspose-zip-for-net-23-8-release-notes/
+BeschreibungASSONE.zip für .NET 23.8 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=686fca32d3a7f52527014d3b4fa585e0-3-9408&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASPOSPEN.zip-for -.net-23.8- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-23.8-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-23.8-dlls-only/</guid><description>&amp;nbsp;
+ASSON.zip für .NET 23.8 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+11.62MB
+Datum hinzugefügt:
+30/8/2023
+Versionshinweisehttps://releases.aspose.com/zip/net/release-notes/2023/aspose-zip-for-net-23-8-release-notes/
+BeschreibungASSOSS.zip für .NET 23.8 (nur DLLs) Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a7171a4082325ff7a68087f433c1cd2f-3-9409&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASPOSPEN.zip-for -.net-23.8.1- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-23.8.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-23.8.1-dlls-only/</guid><description>&amp;nbsp;
+ASSON.zip für .NET 23.8.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+11.63MB
+Datum hinzugefügt:
+7/9/2023
+Versionshinweisehttps://releases.aspose.com/zip/net/release-notes/2023/aspose-zip-for-net-23-8-release-notes/
+BeschreibungASSON.zip für .NET 23.8.1 (nur DLLs) Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c177ec6f11fbc2cca7427bfaafd7500b-3-9446&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.zip-for -.net-23.8.1</title><link>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-23.8.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-23.8.1/</guid><description>&amp;nbsp;
+ASSON.zip für .NET 23.8.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+13.14MB
+Datum hinzugefügt:
+7/9/2023
+Versionshinweisehttps://releases.aspose.com/zip/net/release-notes/2023/aspose-zip-for-net-23-8-release-notes/
+BeschreibungASSONE.zip für .NET 23.8.1 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a2f9d9432c0cf32b3adabed6e687f27e-3-9447&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.zip-for -.net-23.9</title><link>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-23.9/</guid><description>&amp;nbsp;
+ASSON.zip für .net 23.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+13.48MB
+Datum hinzugefügt:
+30/9/2023
+Versionshinweisehttps://releases.aspose.com/zip/net/release-notes/2023/aspose-zip-for-net-23-9-release-notes/
+BeschreibungASSONE.zip für .NET 23.9 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=01345c68e92efe41b080cf17384eb821-3-9547&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.zip-for -.net-23.9- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-23.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-23.9-dlls-only/</guid><description>&amp;nbsp;
+ASSON.zip für .NET 23.9 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+11.97MB
+Datum hinzugefügt:
+30/9/2023
+Versionshinweisehttps://releases.aspose.com/zip/net/release-notes/2023/aspose-zip-for-net-23-9-release-notes/
+BeschreibungASSOSS.zip für .NET 23.9 (nur DLLs) Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=93081823a4bd0957ad901e9328249ee6-3-9548&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.zip-for -.net-23.10</title><link>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-23.10/</guid><description>&amp;nbsp;
+ASSOSS.zip für .NET 23.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+13.46MB
+Datum hinzugefügt:
+25/10/2023
+Versionshinweisehttps://releases.aspose.com/zip/net/release-notes/2023/aspose-zip-for-net-23-10-release-notes/
+BeschreibungASSONE.zip für .NET 23.10 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4bb8b6efbc85488611ab9b7c7ec0bbb9-3-9664&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.zip-for -.net-23.10- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-23.10-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-23.10-dlls-only/</guid><description>&amp;nbsp;
+ASSON.zip für .NET 23.10 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+11.95MB
+Datum hinzugefügt:
+25/10/2023
+Versionshinweisehttps://releases.aspose.com/zip/net/release-notes/2023/aspose-zip-for-net-23-10-release-notes/
+BeschreibungASSOSS.zip für .NET 23.10 (nur DLLs) Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=16d33de189237f0be47dd32f6ea53e7a-3-9665&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.zip-for -.net-23.11</title><link>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-23.11/</guid><description>&amp;nbsp;
+ASSON.zip für .net 23.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+13.54MB
+Datum hinzugefügt:
+29/11/2023
+Versionshinweisehttps://releases.aspose.com/zip/net/release-notes/2023/aspose-zip-for-net-23-11-release-notes/
+BeschreibungASSONE.zip für .NET 23.11 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ac6beba70d19fe2b562c57d8e10ebffb-3-9894&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.zip-for -.net-23.11- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-23.11-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-23.11-dlls-only/</guid><description>&amp;nbsp;
+ASSON.zip für .NET 23.11 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+12.03MB
+Datum hinzugefügt:
+29/11/2023
+Versionshinweisehttps://releases.aspose.com/zip/net/release-notes/2023/aspose-zip-for-net-23-11-release-notes/
+BeschreibungASSOSS.zip für .NET 23.11 (nur DLLs) Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f98118640d7456b2de794b79e84bbfe4-3-9895&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.zip-for -.net-23.12</title><link>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-23.12/</guid><description>&amp;nbsp;
+ASSON.zip für .NET 23.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+13.82MB
+Datum hinzugefügt:
+28/12/2023
+Versionshinweisehttps://releases.aspose.com/zip/net/release-notes/2023/aspose-zip-for-net-23-12-release-notes/
+BeschreibungASSOSS.zip für .NET 23.12 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=35ef99f32e28820e50386d3a0cfdb63f-3-10076&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.zip-for -.net-23.12- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-23.12-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-23.12-dlls-only/</guid><description>&amp;nbsp;
+ASSON.zip für .NET 23.12 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+12.31MB
+Datum hinzugefügt:
+28/12/2023
+Versionshinweisehttps://releases.aspose.com/zip/net/release-notes/2023/aspose-zip-for-net-23-12-release-notes/
+BeschreibungASSOSS.zip für .NET 23.12 (nur DLLs) Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5504a09733ba82244171f0afe382c545-3-10077&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.zip-for -.net-24.1</title><link>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-24.1/</guid><description>&amp;nbsp;
+ASSOSS.zip für .net 24.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+13.87MB
+Datum hinzugefügt:
+31/1/2024
+Versionshinweisehttps://releases.aspose.com/zip/net/release-notes/2023/aspose-zip-for-net-24-1-release-notes/
+BeschreibungASSONE.zip für .NET 24.1 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1f8e9c17b85693d6f4e9ce18b9b3ba1a-3-10246&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.zip-for -.net-24.1- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-24.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/zip/net/new-releases/aspose.zip-for-.net-24.1-dlls-only/</guid><description>&amp;nbsp;
+ASSON.zip für .NET 24.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+12.36MB
+Datum hinzugefügt:
+31/1/2024
+Versionshinweisehttps://releases.aspose.com/zip/net/release-notes/2023/aspose-zip-for-net-24-1-release-notes/
+BeschreibungASSOSS.zip für .NET 24.1 (nur DLLs) Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4a2d455c082ee8c3fd0571aaa43f2e20-3-10247&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>ASSON.TEX 22.11 | Tex &amp; Latex Typenset &amp; Conversion Java API</title><link>https://releases-qa.aspose.com/de/tex/java/22-11/</link><pubDate>Wed, 16 Nov 2022 08:40:02 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tex/java/22-11/</guid><description>Java -API zu Typeet Tex -Dateien
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.TeX for Java ist eine Bibliothek, die eine Tex Engine -Erweiterung namens ObjectTex bietet. Es kann verwendet werden, um Dokumente von Tex -Dateien zu entsprechen. &amp;ldquo;Objekt&amp;rdquo; bedeutet, dass ein intermediNTypeSeting -Ergebnis ein spezifisches Objektmodell ist, das dann gleichmäßig in eine Reihe von Endformaten umgewandelt werden kann.</description></item></channel></rss>

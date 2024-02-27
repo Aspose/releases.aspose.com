@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python .NET Excel Aspose.Cells on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/python-.net-excel-aspose.cells/</link><description>Recent content in Python .NET Excel Aspose.Cells on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/tags/python-.net-excel-aspose.cells/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads ---New Releases-aspose.cells-for-python-via-.net-23.10</title><link>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.10/</guid><description>&amp;nbsp;
+Aspose.Cells for Python via .NET 23.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+232.71MB
+Date Added:
+13/10/2023
+Release Noteshttps://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-10-release-notes/
+DescriptionPlease refer to release notes and ReadMe for detail
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=635aaa39d57acb9ed75ad5575f22263e-47-9599&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.cells-for-python-via-.net-23.11</title><link>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.11/</guid><description>&amp;nbsp;
+Aspose.Cells for Python via .NET 23.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+278.98MB
+Date Added:
+16/11/2023
+Release Noteshttps://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-23-11-release-notes/
+DescriptionPlease refer to release notes and ReadMe for detail
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a4ec799be887f816581570dd694b652f-56-9840&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.cells-for-python-via-.net-23.11.1</title><link>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.11.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.11.1/</guid><description>&amp;nbsp;
+Aspose.Cells for Python via .NET 23.11.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+239.78MB
+Date Added:
+29/11/2023
+Release Noteshttps://docs.aspose.com/cells/python-net/aspose-cells-for-python-net-23-11-1-release-notes/
+DescriptionPlease refer to release notes and ReadMe for detail
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e1cbba4c0514d6c683a83edba3d12214-48-9883&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item></channel></rss>

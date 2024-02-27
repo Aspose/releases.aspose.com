@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Release Notes - 2013 on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2013/</link><description>Recent content in Release Notes - 2013 on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/cells/java/release-notes/2013/index.xml" rel="self" type="application/rss+xml"/><item><title>Aspose.Cells for Java 7.6.1 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2013/aspose-cells-for-java-7-6-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2013/aspose-cells-for-java-7-6-1-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 7.6.1
+Verbesserungen
+Ausnahmen
+40636 – Die Datei löst beim Öffnen eine Ausnahme aus
+Fehler
+40645 – Benutzerdefinierte Sparklines-Achsen funktionieren nicht
+Notiz Da die Codebasis von Aspose.Cells mit dem Code von for Java übereinstimmt
+.</description></item><item><title>Aspose.Cells for Java 7.6.0 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2013/aspose-cells-for-java-7-6-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2013/aspose-cells-for-java-7-6-0-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 7.6.0
+Neue Eigenschaften
+Verbesserungen
+40510 - GB18030 Zeichen werden nicht angezeigt. 40603 - Diagrammqualität ist zu niedrig
+Ausnahmen
+40615 – NullPointerException beim Öffnen einer Excel-Tabelle
+40618 – Excel-Vorlagendatei wird nicht geladen Fehler
+40610 – Das Löschen des Diagramms führt zu einer nicht lesbaren Tabelle
+40467 – Größe des Textfelds in XLSX kann nicht geändert werden40623 – „#WERT!“ Fehler nach Berechnung
+40620 – Fehler beim Ausführen des Ersetzens im Textfeld</description></item><item><title>Aspose.Cells for Java 7.5.3 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2013/aspose-cells-for-java-7-5-3-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2013/aspose-cells-for-java-7-5-3-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 7.5.3
+Fehler</description></item><item><title>Aspose.Cells for Java 7.5.2 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2013/aspose-cells-for-java-7-5-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2013/aspose-cells-for-java-7-5-2-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 7.5.2
+Neue Eigenschaften
+Verbesserungen
+40589 - Symbolsätze hinzufügen (bedingte Formatierung)
+Ausnahmen
+Fehler
+40553 – Beim Rendern von Excel auf PDF werden Diagramme mit JDK1.7.0_21 nicht gerendert</description></item><item><title>Aspose.Cells for Java 7.5.1 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2013/aspose-cells-for-java-7-5-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2013/aspose-cells-for-java-7-5-1-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 7.5.1
+Neue Eigenschaften
+40566 - Fügt ein Bild basierend auf Zellbezug ein
+Ausnahmen
+40550 – Ausnahme beim Laden des Dokuments
+40545 – Die Excel-Datei kann nicht geöffnet werden
+40549 - Diagramm fehlt in PDF-Ausgabe
+Fehler
+40514 - Diagrammlegendentext überlappt
+40547 - Diagramm-zu-Bild-Qualität ist nicht gut
+40555 – Aktualisieren des PivotTable-Problems</description></item><item><title>Aspose.Cells for Java 7.5.0 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2013/aspose-cells-for-java-7-5-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2013/aspose-cells-for-java-7-5-0-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 7.5.0
+Verbesserungen
+Ausnahmen
+40530 – CellsException: Form-zu-Bild-Fehler!
+Fehler
+40493 – Problem mit rekursiven Referenzen
+40490 – Problem mit der Perspektive der 3D-Karte
+40481 - XLS bis PDF - Problem mit der Tabellenzellenbreite
+40519 – Ausnahme beim Speichern eines XLSX-Dokuments</description></item><item><title>Aspose.Cells for Java 7.4.3 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2013/aspose-cells-for-java-7-4-3-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2013/aspose-cells-for-java-7-4-3-release-notes/</guid><description>Diese Seite enthält Versionshinweise für [Aspose.Cells for Java 7.4.3|https://releases.aspose.com/cells/java/new-releases/-aspose.cells-for-java-7.4.3/]
+Ausnahmen
+40461 – Diagramm-zu-Bild-Funktion verursacht OutOfMemoryException
+Fehler
+40367 – Drucken von Excel mit Bild Problem
+40474 - Zellenformatierung kann nicht kopiert werden
+40480 – Problem mit COUNTA- und INDIREKT-Formeln</description></item><item><title>Aspose.Cells for Java 7.4.2 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2013/aspose-cells-for-java-7-4-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2013/aspose-cells-for-java-7-4-2-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 7.4.2
+Verbesserungen
+40464 – Kopieren von Makros beim Kopieren von Arbeitsmappen
+Ausnahmen
+Fehler
+40466 - Formel wurde falsch berechnet</description></item><item><title>Aspose.Cells for Java 7.4.1 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2013/aspose-cells-for-java-7-4-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2013/aspose-cells-for-java-7-4-1-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 7.4.1
+Neue Eigenschaften
+40247 – Digitale Signaturen zuweisen und validieren
+Verbesserungen
+40407 - Unterstützt gedrehten Text in den Zellen
+Ausnahmen
+40436 – CellsException: Ungültiger Validierungstyp
+Fehler
+40429 – Niedrige Qualität beim Speichern der Form als Bild
+40430 – Sparklines werden komprimiert</description></item><item><title>Aspose.Cells for Java 7.4.0 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2013/aspose-cells-for-java-7-4-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2013/aspose-cells-for-java-7-4-0-release-notes/</guid><description>
+Diese Seite enthält Versionshinweise fürAspose.Cells for Java 7.4.0
+Wir sind freut sich, Aspose.Cells for Java v7.4.0 ankündigen zu können!
+Neue Eigenschaften
+Unterstützt benutzerdefinierte Codierung zum Speichern von HTML-Dateien Fehler
+Falsche Formelberechnungsergebnisse Die Datenquelle des Diagramms wurde nach dem Kombinieren von Arbeitsmappen geändert</description></item></channel></rss>

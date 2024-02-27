@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Android Email Library | Aspose.Email for Android on Releases - aspose.com</title><link>https://releases-qa.aspose.com/email/androidjava/</link><description>Recent content in Android Email Library | Aspose.Email for Android on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/email/androidjava/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---New-Releases-aspose.email-for-android-1.0.0 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-1.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-1.0.0/</guid><description>&amp;nbsp;
+Aspose.Email for Android 1.0.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 793 File Size: 3.1 MB Posted By: zaheer.tariq Views: 1663 Date Added: 7/31/2013
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7e13be6535744297be67a642de10ce03&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-17.4.0 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-17.4.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-17.4.0/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 17.4.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 24 File Size: 2.9 MB Posted By: sergey.vivsiuk Views: 320 Date Added: 5/3/2017
+Release Noteshttps://docs.aspose.com/display/emailandroid/Aspose.Email+for+Android+via+Java+17.4.0+Release+Notes
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e295708d727c4261ab66bb2462c05f34&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-17.8 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-17.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-17.8/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 17.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 5 File Size: 11.7 MB Posted By: sergey.vivsiuk Views: 217 Date Added: 8/10/2017
+Release Noteshttps://releases.aspose.com/email/androidjava/release-notes/2017/aspose-email-for-android-via-java-17-8-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d2323750c4c540c3979003b50e82427e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-17.9 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-17.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-17.9/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 17.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 3 File Size: 11.6 MB Posted By: Vitalij.Shitts Views: 193 Date Added: 9/22/2017
+Release Noteshttps://releases.aspose.com/email/androidjava/release-notes/2017/aspose-email-for-android-via-java-17-9-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=57d3dd5842e4435b8934fd00b7c81eb0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-17.10 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-17.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-17.10/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 17.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 12 File Size: 11.6 MB Posted By: Vitalij.Shitts Views: 161 Date Added: 10/18/2017
+Release Noteshttps://releases.aspose.com/email/androidjava/release-notes/2017/aspose-email-for-android-via-java-17-10-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2643874dda5c488e9c510e1cbb2d85b5&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-17.11 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-17.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-17.11/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 17.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 11.7 MB Posted By: sergey.vivsiuk Views: 3 Date Added: 7/3/2018
+Release Noteshttps://releases.aspose.com/email/androidjava/release-notes/2017/aspose-email-for-android-via-java-17-11-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ab1855945c8f4510b8b2d5341cf2c936&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-17.12 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-17.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-17.12/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 17.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 11.7 MB Posted By: sergey.vivsiuk Views: 5 Date Added: 7/3/2018
+Release Noteshttps://releases.aspose.com/email/androidjava/release-notes/2017/aspose-email-for-android-via-java-17-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=52fdf10021e149cc8f99564bf5f91c29&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-18.1 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-18.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-18.1/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 18.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 11.7 MB Posted By: sergey.vivsiuk Views: 6 Date Added: 7/3/2018
+Release Noteshttps://releases.aspose.com/email/androidjava/release-notes/2018/aspose-email-for-android-via-java-18-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=932bdaabddc24a2aa3b7d08e14990bd8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-18.2 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-18.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-18.2/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 18.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 12.1 MB Posted By: sergey.vivsiuk Views: 8 Date Added: 7/3/2018
+Release Noteshttps://releases.aspose.com/email/androidjava/release-notes/2018/aspose-email-for-android-via-java-18-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cb1dfcecb2144336831cadca58e0013f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-18.3 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-18.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-18.3/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 18.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 11.7 MB Posted By: sergey.vivsiuk Views: 6 Date Added: 7/3/2018
+Release Noteshttps://releases.aspose.com/email/androidjava/release-notes/2018/aspose-email-for-android-via-java-18-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0958b0324b5f4abebb22201c1aad907d&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-18.4 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-18.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-18.4/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 18.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 11.7 MB Posted By: sergey.vivsiuk Views: 7 Date Added: 7/3/2018
+Release Noteshttps://releases.aspose.com/email/androidjava/release-notes/2018/aspose-email-for-android-via-java-18-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f47d9c4b9ce448f1b73ae21079e3149b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-18.5 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-18.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-18.5/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 18.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 11.7 MB Posted By: sergey.vivsiuk Views: 18 Date Added: 7/3/2018
+Release Noteshttps://releases.aspose.com/email/androidjava/release-notes/2018/aspose-email-for-android-via-java-18-5-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1890872af0f74edcaf062b983fcc6b93&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-18.6 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-18.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-18.6/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 18.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 1 File Size: 11.7 MB Posted By: sergey.vivsiuk Views: 35 Date Added: 7/11/2018
+Release Noteshttps://releases.aspose.com/email/androidjava/release-notes/2018/aspose-email-for-android-via-java-18-6-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2f5c2d7eb31b4dab807ffe0d384949b8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-18.7 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-18.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-18.7/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 18.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 11.7 MB Posted By: sergey.vivsiuk Views: 29 Date Added: 8/8/2018
+Release Noteshttps://releases.aspose.com/email/androidjava/release-notes/2018/aspose-email-for-android-via-java-18-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7f1ca2a3a8884d34ac9401d0769857e0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-18.8 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-18.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-18.8/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 18.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 11.7 MB Posted By: sergey.vivsiuk Views: 16 Date Added: 9/7/2018
+Release Noteshttps://docs.aspose.com/display/emailandroidjava/Aspose.Email+for+Android+via+Java+18.8+Release+Notes
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3ca4ff9bca944933bb3f3ddb3ea3f25f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-18.9 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-18.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-18.9/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 18.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 1 File Size: 8.8 MB Posted By: sergey.vivsiuk Views: 21 Date Added: 10/11/2018
+Release Noteshttps://releases.aspose.com/email/androidjava/release-notes/2018/aspose-email-for-android-via-java-18-9-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b13923b1039b441daedba32dc4b45837&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-18.10 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-18.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-18.10/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 18.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 2 File Size: 8.9 MB Posted By: sergey.vivsiuk Views: 27 Date Added: 11/9/2018
+Release Noteshttps://releases.aspose.com/email/androidjava/release-notes/2018/aspose-email-for-android-via-java-18-10-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b230108128f247109d2332af4b477faa&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-18.11 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-18.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-18.11/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 18.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 2 File Size: 8.9 MB Posted By: sergey.vivsiuk Views: 31 Date Added: 12/10/2018
+Release Noteshttps://releases.aspose.com/email/androidjava/release-notes/2018/aspose-email-for-android-via-java-18-11-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8d9816b7fd8a4ca8a7e710be716b66f8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-18.12 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-18.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-18.12/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 18.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 1 File Size: 8.9 MB Posted By: sergey.vivsiuk Views: 36 Date Added: 1/31/2019
+Release Noteshttps://releases.aspose.com/email/androidjava/release-notes/2018/aspose-email-for-android-via-java-18-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3616e341fa274bc1bfb953e414f3e86c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-19.1 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-19.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-19.1/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 19.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 5 File Size: 8.9 MB Posted By: sergey.vivsiuk Views: 46 Date Added: 2/19/2019
+Release Noteshttps://releases.aspose.com/email/androidjava/release-notes/2019/aspose-email-for-android-via-java-19-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5788a34f6ae04966aad497d56bb163d9&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-19.3 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-19.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-19.3/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 19.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 3 File Size: 8.9 MB Posted By: sergey.vivsiuk Views: 46 Date Added: 4/23/2019
+Release Noteshttps://releases.aspose.com/email/androidjava/release-notes/2019/aspose-email-for-android-via-java-19-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1f48a7e12bac45e59d3031880742817c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-19.4 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-19.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-19.4/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 19.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 2 File Size: 8.9 MB Posted By: sergey.vivsiuk Views: 59 Date Added: 5/24/2019
+Release Noteshttps://releases.aspose.com/email/androidjava/release-notes/2019/aspose-email-for-android-via-java-19-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d7de432a283f407cbd31fc50872ff424&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-19.7 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-19.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-19.7/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 19.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 1 File Size: 9.0 MB Posted By: sergey.vivsiuk Views: 76 Date Added: 8/12/2019
+Release Noteshttps://releases.aspose.com/email/androidjava/release-notes/2019/aspose-email-for-android-via-java-19-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=767ccc7290b04c4f9ad0e3f68ceb053b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-19.10 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-19.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-19.10/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 19.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 5 File Size: 9.1 MB Posted By: sergey.vivsiuk Views: 95 Date Added: 11/13/2019
+Release Noteshttps://releases.aspose.com/email/androidjava/release-notes/2019/aspose-email-for-android-via-java-19-10-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=06230f46b7b34c66bf0fd2f027cdee37&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-20.1 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-20.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-20.1/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 20.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 1 File Size: 9.2 MB Posted By: sergey.vivsiuk Views: 82 Date Added: 2/14/2020
+Release Noteshttps://releases.aspose.com/email/androidjava/release-notes/2020/aspose-email-for-android-via-java-20-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a751e49760454098a313f059347a4beb&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-20.4 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-20.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-20.4/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 20.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 3 File Size: 9.2 MB Posted By: sergey.vivsiuk Views: 88 Date Added: 6/3/2020
+Release Noteshttps://releases.aspose.com/email/androidjava/release-notes/2020/aspose-email-for-android-via-java-20-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=26f396e89eb34d5fab621c7b4f883b41&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-20.7 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-20.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-20.7/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 20.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 4 File Size: 9.3 MB Posted By: sergey.vivsiuk Views: 87 Date Added: 8/21/2020
+Release Noteshttps://docs.aspose.com/email/androidjava/aspose-email-for-android-via-java-20-7-release-notes
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3f20567ac7bf4037afd8358e32089e0d&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-20.10 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-20.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-20.10/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 20.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 1 File Size: 9.3 MB Posted By: sergey.vivsiuk Views: 59 Date Added: 11/30/2020
+Release Noteshttps://releases.aspose.com/email/java/release-notes/2020/aspose-email-for-java-20-10-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6fe50b1161b44092bb2c43abf03b0b76&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-21.1 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-21.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-21.1/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 21.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 4 File Size: 9.4 MB Posted By: sergey.vivsiuk Views: 60 Date Added: 2/16/2021
+Release Noteshttps://releases.aspose.com/email/java/release-notes/2021/aspose-email-for-java-21-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0084b0d537084ced9184f39120d3fb75&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-21.4 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-21.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-21.4/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 21.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 2 File Size: 9.4 MB Posted By: sergey.vivsiuk Views: 54 Date Added: 5/30/2021
+Release Noteshttps://releases.aspose.com/email/java/release-notes/2021/aspose-email-for-java-21-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=55198c47f3294addb44fa9a1fbe32d04&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-21.7 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-21.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-21.7/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 21.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 2 File Size: 9.5 MB Posted By: sergey.vivsiuk Views: 43 Date Added: 8/13/2021
+Release Noteshttps://releases.aspose.com/email/java/release-notes/2021/aspose-email-for-java-21-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=daee8d84c2ef4e64ad4a9422da899420&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-21.10 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-21.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-21.10/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 21.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 14 File Size: 9.6 MB Posted By: sergey.vivsiuk Views: 39 Date Added: 11/10/2021
+Release Noteshttps://releases.aspose.com/email/java/release-notes/2021/aspose-email-for-java-21-10-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2cb873357f134e47afa9e7a96ee56721&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-android-via-java-22.1 .</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-22.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-22.1/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 22.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 3 File Size: 9.6 MB Posted By: sergey.vivsiuk Views: 16 Date Added: 2/8/2022
+Release Noteshttps://releases.aspose.com/email/java/release-notes/2022/aspose-email-for-java-22-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e01cfd0191004f24a3d71d34c2209d4f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.email-for-android-via-java-22.4</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-22.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-22.4/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 22.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+9.64MB
+Date Added:
+13/7/2022
+Release Noteshttps://releases.aspose.com/email/java/release-notes/2022/aspose-email-for-java-22-4-release-notes/
+DescriptionIt contains Aspose.Email for Android via Java 22.4 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4d72899d6550f295ea30b45ffdf04318-2-7633&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.email-for-android-via-java-22.7</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-22.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-22.7/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 22.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+10MB
+Date Added:
+9/9/2022
+Release Noteshttps://releases.aspose.com/email/java/release-notes/2022/aspose-email-for-java-22-7-release-notes/
+DescriptionIt contains Aspose.Email for Android via Java 22.7 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=618aac6b8ed8273ee85a05f442725598-2-7881&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.email-for-android-via-java-22.10</title><link>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-22.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/androidjava/new-releases/aspose.email-for-android-via-java-22.10/</guid><description>&amp;nbsp;
+Aspose.Email for Android via Java 22.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+10.01MB
+Date Added:
+19/11/2022
+Release Noteshttps://releases.aspose.com/email/java/release-notes/2022/aspose-email-for-java-22-10-release-notes/
+DescriptionIt contains Aspose.Email for Android via Java 22.10 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=018578c214093e9de022646718abc38f-3-8154&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item></channel></rss>

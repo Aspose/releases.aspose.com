@@ -1,0 +1,2071 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Download Font Manipulation C++ Library DLL | Aspose.Font API on Releases - aspose.com</title><link>https://releases-qa.aspose.com/font/cpp/</link><description>Recent content in Download Font Manipulation C++ Library DLL | Aspose.Font API on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/font/cpp/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---New-Releases-aspose.font-for-c++-20.9 .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---20.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---20.9/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 20.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 1 File Size: 107.6 MB Posted By: Andrey.Malokhovetskiy Views: 30 Date Added: 9/23/2020
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2020/aspose-font-for-cpp-20-9-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4a75a1f84765443c81a5489087b31f93&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-20.10 .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---20.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---20.10/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 20.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 2 File Size: 107.7 MB Posted By: Andrey.Malokhovetskiy Views: 18 Date Added: 10/20/2020
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2020/aspose-font-for-cpp-20-10-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ad559adce36b493a8e065d155e6d160a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-20.11 .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---20.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---20.11/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 20.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 1 File Size: 105.7 MB Posted By: Andrey.Malokhovetskiy Views: 17 Date Added: 11/18/2020
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2020/aspose-font-for-cpp-20-11-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=be7025c0fc6f4f1a96e0d6c4c7b5c7c2&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-20.11-linux .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---20.11-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---20.11-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 20.11 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 57.9 MB Posted By: Andrey.Malokhovetskiy Views: 12 Date Added: 11/18/2020
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2020/aspose-font-for-cpp-20-11-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=497b47ece5144107986b3a88ad9f2583&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-20.12 .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---20.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---20.12/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 20.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 2 File Size: 107.1 MB Posted By: Andrey.Malokhovetskiy Views: 11 Date Added: 12/15/2020
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2020/aspose-font-for-cpp-20-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=052683666a724f9b8e3c50db2afa94c4&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-20.12-linux .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---20.12-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---20.12-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 20.12 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 58.4 MB Posted By: Andrey.Malokhovetskiy Views: 7 Date Added: 12/15/2020
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2020/aspose-font-for-cpp-20-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f603ca62478c4259b7cac41d1ff4a415&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-21.1 .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.1/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 21.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 2 File Size: 107.1 MB Posted By: Andrey.Malokhovetskiy Views: 14 Date Added: 1/23/2021
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2021/aspose-font-for-cpp-21-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=076cae29830d4da3b28554a042d3e8df&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-21.1-linux .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.1-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.1-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 21.1 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 58.4 MB Posted By: Andrey.Malokhovetskiy Views: 5 Date Added: 1/23/2021
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2021/aspose-font-for-cpp-21-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bd8b5ff5b5db440c886f1d44634c8952&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-21.2 .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.2/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 21.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 107.2 MB Posted By: Andrey.Malokhovetskiy Views: 6 Date Added: 2/19/2021
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2021/aspose-font-for-cpp-21-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d19637570c2a457f95b07a17fd0c3de3&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-21.2-linux .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.2-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.2-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 21.2 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 58.5 MB Posted By: Andrey.Malokhovetskiy Views: 6 Date Added: 2/19/2021
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2021/aspose-font-for-cpp-21-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=339f33cf9f004bccb344d6afda2b6a2c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-21.3 .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.3/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 21.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 111.4 MB Posted By: Andrey.Malokhovetskiy Views: 13 Date Added: 3/17/2021
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2021/aspose-font-for-cpp-21-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=82ff7c11d453480193c50090cf686e5f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-21.3-linux .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.3-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.3-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 21.3 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 59.1 MB Posted By: Andrey.Malokhovetskiy Views: 14 Date Added: 3/17/2021
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2021/aspose-font-for-cpp-21-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b7b41e364ab543a9abc53d88ef034b4e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.font-21.4-for-c++ .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-21.4-for-c--/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-21.4-for-c--/</guid><description>&amp;nbsp;
+Aspose.Font 21.4 for C&amp;#43;&amp;#43;
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 3 File Size: 112.2 MB Posted By: Andrey.Malokhovetskiy Views: 13 Date Added: 4/16/2021
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2021/aspose-font-for-cpp-21-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=09e02e5f6d1642e29a1f6bf3761d94b0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.font-21.4-for-c++-linux .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-21.4-for-c---linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-21.4-for-c---linux/</guid><description>&amp;nbsp;
+Aspose.Font 21.4 for C&amp;#43;&amp;#43; Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 59.2 MB Posted By: Andrey.Malokhovetskiy Views: 8 Date Added: 4/16/2021
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2021/aspose-font-for-cpp-21-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3fa3f31d1b40464ca4a7993c2ceaed38&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-21.5 .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.5/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 21.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 112.2 MB Posted By: Andrey.Malokhovetskiy Views: 8 Date Added: 5/14/2021
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2021/aspose-font-for-cpp-21-5-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c8f627be53f942269c17c665dd92721d&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-21.5-linux .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.5-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.5-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 21.5 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 59.2 MB Posted By: Andrey.Malokhovetskiy Views: 6 Date Added: 5/14/2021
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2021/aspose-font-for-cpp-21-5-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e492b95bbb8b466b9c3e07f6d45e8585&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-21.5.1 .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.5.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.5.1/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 21.5.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 3 File Size: 112.2 MB Posted By: Andrey.Malokhovetskiy Views: 15 Date Added: 5/19/2021
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2021/aspose-font-for-cpp-21-5-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=08a313a20cc04081bab9bb984b1ccaab&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-21.5.1-linux .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.5.1-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.5.1-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 21.5.1 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 59.2 MB Posted By: Andrey.Malokhovetskiy Views: 11 Date Added: 5/19/2021
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2021/aspose-font-for-cpp-21-5-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4e0e940c0ea34f8187e5158c38306cee&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-21.6 .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.6/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 21.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 3 File Size: 111.9 MB Posted By: Andrey.Malokhovetskiy Views: 16 Date Added: 6/19/2021
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2021/aspose-font-for-cpp-21-6-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=15fc1bd8d79040a989063b3f11142a47&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-21.6-linux .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.6-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.6-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 21.6 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 59.3 MB Posted By: Andrey.Malokhovetskiy Views: 13 Date Added: 6/19/2021
+Release Noteshttps://downloads.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.6/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2a13175aad1141e58a6d245c3e5e4d9a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-21.7 .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.7/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 21.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 111.9 MB Posted By: Andrey.Malokhovetskiy Views: 17 Date Added: 7/19/2021
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2021/aspose-font-for-cpp-21-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3a788611f0fd4c43bb16342b108c512c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-21.7-linux .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.7-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.7-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 21.7 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 60.0 MB Posted By: Andrey.Malokhovetskiy Views: 15 Date Added: 7/19/2021
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2021/aspose-font-for-cpp-21-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b1b462e51bd748b085ffe8fa2f83a095&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-21.8 .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.8/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 21.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 2 File Size: 112.1 MB Posted By: Andrey.Malokhovetskiy Views: 25 Date Added: 8/19/2021
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2021/aspose-font-for-cpp-21-8-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=701f2fdd86a549b1b14e5ad754d9c784&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-21.8-linux .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.8-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 21.8 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 60.1 MB Posted By: Andrey.Malokhovetskiy Views: 15 Date Added: 8/19/2021
+Release Noteshttps://downloads.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.8/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5d142fed49044d3db0e54b06a57709f1&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-21.10 .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.10/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 21.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 111.1 MB Posted By: Andrey.Malokhovetskiy Views: 13 Date Added: 10/17/2021
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2021/aspose-font-for-cpp-21-10-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f0ce1be2eaa84845ae800f3108eccc6f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-21.10-linux .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.10-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.10-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 21.10 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 57.3 MB Posted By: Andrey.Malokhovetskiy Views: 14 Date Added: 10/17/2021
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2021/aspose-font-for-cpp-21-10-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=40a28ec3912d44f38ae5f2d3b7e72675&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-21.11 .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.11/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 21.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 2 File Size: 107.0 MB Posted By: Andrey.Malokhovetskiy Views: 16 Date Added: 11/19/2021
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2021/aspose-font-for-cpp-21-11-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8968797872ef43f7a59588afe6ac885f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-21.11-linux .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.11-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.11-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 21.11 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 2 File Size: 56.3 MB Posted By: Andrey.Malokhovetskiy Views: 21 Date Added: 11/19/2021
+Release Noteshttps://downloads.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.11/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=aa206247e7fa46d1be9d4b2e933f943b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-21.12 .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.12/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 21.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 6 File Size: 107.0 MB Posted By: Andrey.Malokhovetskiy Views: 13 Date Added: 12/17/2021
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2021/aspose-font-for-cpp-21-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ec57f60264bc45999321ce0de68cd010&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-21.12-linux .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.12-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---21.12-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 21.12 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 27.4 MB Posted By: Andrey.Malokhovetskiy Views: 11 Date Added: 12/17/2021
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2021/aspose-font-for-cpp-21-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=54ed1d9acb014cca84b4d65cd051b4b0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-22.1 .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---22.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---22.1/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 22.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 6 File Size: 122.5 MB Posted By: Andrey.Malokhovetskiy Views: 16 Date Added: 1/20/2022
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=473b2a7b2ca74b968b3f00019260e3ba&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-22.1-linux .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---22.1-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---22.1-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 22.1 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 1 File Size: 31.1 MB Posted By: Andrey.Malokhovetskiy Views: 12 Date Added: 1/20/2022
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2230a72f8dba407ba3e8ddaac436197b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-22.4 .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---22.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---22.4/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 22.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 128.9 MB Date Added: : 3 weeks ago [4/26/2022]
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=069eb888443e4be3b3cb45064d8958df&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.font-for-c++-22.4-linux .</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---22.4-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c---22.4-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 22.4 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 33.6 MB Date Added: : 3 weeks ago [4/26/2022]
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ff6e9b4650db4b799e8915592576a84f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-22.5-linux</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.5-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.5-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 22.5 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+33.6 MB
+Date Added:
+10/6/2022
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-5-release-notes/
+DescriptionIt contains Aspose.Font for C++ 22.5 Linux release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0a88b3c06ee64d6aaebe8b20b5f2b175-1-7445&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-22.5</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.5/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 22.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+6
+File Size:
+127.7 MB
+Date Added:
+10/6/2022
+Release Noteshttps://docs.aspose.com/font/cpp/aspose-font-for-cpp-22-5-release-notes
+DescriptionIt contains Aspose.Font for C++ 22.5 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ba627e7f574a4e578931247d670045c3-1-7446&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-22.6-linux</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.6-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.6-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 22.6 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+33.58MB
+Date Added:
+23/6/2022
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-6-release-notes/
+DescriptionAspose.Font for C++ 22.6 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=63c8052c6be25b186fd4fcc8fdad6dc9-7-7543&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-22.6</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.6/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 22.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+129.04MB
+Date Added:
+23/6/2022
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-6-release-notes/
+DescriptionAspose.Font for C++ 22.6 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d7ec9761bb5bb4c6999920e3e05e3a06-26-7544&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-22.7</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.7/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 22.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+129.09MB
+Date Added:
+21/7/2022
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-7-release-notes/
+DescriptionAspose.Font for C++ 22.7 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d22e3e610acdab6c899a63f50455a105-26-7673&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-22.7-linux</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.7-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.7-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 22.7 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+33.67MB
+Date Added:
+21/7/2022
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-7-release-notes/
+DescriptionAspose.Font for C++ 22.7 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=eb6fa2f6dc48b1a7b96eaac7381d8467-7-7674&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-22.8</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.8/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 22.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+129.66MB
+Date Added:
+19/8/2022
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-8-release-notes/
+DescriptionAspose.Font for C++ 22.8 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=69317d40560b5938bd7551fd38bffed2-26-7785&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-22.8-linux</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.8-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 22.8 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+33.52MB
+Date Added:
+19/8/2022
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-8-release-notes/
+DescriptionAspose.Font for C++ 22.8 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=161ded79688942f3d8a72538a3143d23-7-7786&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-22.9</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.9/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 22.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+130.09MB
+Date Added:
+16/9/2022
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-9-release-notes/
+DescriptionAspose.Font for C++ 22.9 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=15a26ac34f7db67e6a27461e68ec8534-27-7906&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-22.9-linux</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.9-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.9-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 22.9 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+34.72MB
+Date Added:
+16/9/2022
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-9-release-notes/
+DescriptionAspose.Font for C++ 22.9 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ef61baa4b71e6ed14df5d0f14f883503-7-7907&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-22.10</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.10/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 22.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+24.27MB
+Date Added:
+28/10/2022
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-10-release-notes/
+DescriptionAspose.Font for C++ 22.10 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=591c6b03b7f5dab04d90c41a5dba4d16-5-8072&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-22.10-linux</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.10-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.10-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 22.10 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.28MB
+Date Added:
+28/10/2022
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-10-release-notes/
+DescriptionAspose.Font for C++ 22.10 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=af89d036e47e40a5438ac7f6741a0423-8-8073&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-22.11</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.11/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 22.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+131.03MB
+Date Added:
+22/11/2022
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-11-release-notes/
+DescriptionAspose.Font for C++ 22.11 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=109c8370a59cca20149b2745c09dafa6-27-8166&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-22.11-linux</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.11-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.11-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 22.11 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.25MB
+Date Added:
+22/11/2022
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-11-release-notes/
+DescriptionAspose.Font for C++ 22.11 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d15d05582d531823024174b56d54f10d-8-8167&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-22.11-macos</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.11-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.11-macos/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 22.11 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+35.64MB
+Date Added:
+22/11/2022
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-11-release-notes/
+DescriptionAspose.Font for C++ 22.11 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c6e7f940292e856d389119b5bc2fc0ae-8-8168&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-22.12</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.12/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 22.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+131.15MB
+Date Added:
+23/12/2022
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-12-release-notes/
+DescriptionAspose.Font for C++ 22.12 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5d55e87009d0e4b7417637994f52d998-27-8328&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-22.12-linux</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.12-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.12-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 22.12 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.29MB
+Date Added:
+23/12/2022
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-12-release-notes/
+DescriptionAspose.Font for C++ 22.12 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=04a0578b635615d81108d58479eafc49-8-8329&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-22.12-macos</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.12-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-22.12-macos/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 22.12 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.03MB
+Date Added:
+23/12/2022
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2022/aspose-font-for-cpp-22-12-release-notes/
+DescriptionAspose.Font for C++ 22.12 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b43ed608ebfb0bd87060f9553724c27c-8-8330&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.1</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.1/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+131.36MB
+Date Added:
+20/1/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-1-release-notes/
+DescriptionAspose.Font for C++ 23.1 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d9d2b6603772b78b1b8349ce5a365593-27-8405&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.1-linux</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.1-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.1-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.1 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.32MB
+Date Added:
+20/1/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-1-release-notes/
+DescriptionAspose.Font for C++ 23.1 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e6ee086bee2f1555f8f1b363ab400e4b-8-8406&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.1-macos</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.1-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.1-macos/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.1 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.06MB
+Date Added:
+20/1/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-1-release-notes/
+DescriptionAspose.Font for C++ 23.1 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=87a52db543cd54a6167e8aa0c7a17a16-8-8407&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.2</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.2/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+131.45MB
+Date Added:
+17/2/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-2-release-notes/
+DescriptionAspose.Font for C++ 23.2 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e4e758b7cade9703c27c335f9f167df4-27-8526&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.2-linux</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.2-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.2-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.2 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.34MB
+Date Added:
+17/2/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-2-release-notes/
+DescriptionAspose.Font for C++ 23.2 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4e59883cfe68bf2feb7498e830d2a477-8-8527&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.3</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.3/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+131.66MB
+Date Added:
+17/3/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-3-release-notes/
+DescriptionAspose.Font for C++ 23.3 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=806719cb460f659243c29ac093319d61-27-8640&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.3-linux</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.3-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.3-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.3 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.37MB
+Date Added:
+17/3/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-3-release-notes/
+DescriptionAspose.Font for C++ 23.3 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=22eb33e742616c3499c876591b901400-8-8641&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.3-macos</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.3-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.3-macos/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.3 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.13MB
+Date Added:
+17/3/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-3-release-notes/
+DescriptionAspose.Font for C++ 23.3 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d3467782e1762b7a93407e41656f55d7-8-8642&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.4</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.4/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+131.83MB
+Date Added:
+21/4/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-4-release-notes/
+DescriptionAspose.Font for C++ 23.4 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1c574236abc3e607bcc5b29df9ef48d7-27-8806&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.4-linux</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.4-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.4-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.4 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.35MB
+Date Added:
+21/4/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-4-release-notes/
+DescriptionAspose.Font for C++ 23.4 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=acb2c49e6cf4cea757cd33529cbd6939-8-8807&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.4-macos</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.4-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.4-macos/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.4 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.07MB
+Date Added:
+21/4/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-4-release-notes/
+DescriptionAspose.Font for C++ 23.4 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6f8e0c4aea7517dd82a67b4ef29f29e4-8-8808&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.5</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.5/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+131.9MB
+Date Added:
+24/5/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-5-release-notes/
+DescriptionAspose.Font for C++ 23.5 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8de8e1e309ca2cd39b5bcddd175f69a1-27-8892&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.5-linux</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.5-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.5-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.5 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.48MB
+Date Added:
+24/5/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-5-release-notes/
+DescriptionAspose.Font for C++ 23.5 Linux
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b3a6425b3059c95789a75d1ad7affed6-8-8894&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.5-macos</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.5-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.5-macos/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.5 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.19MB
+Date Added:
+24/5/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-5-release-notes/
+DescriptionAspose.Font for C++ 23.5 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=df180f7873fb901cbe62a35e3b0cec69-8-8896&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.6</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.6/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+131.99MB
+Date Added:
+22/6/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-6-release-notes/
+DescriptionAspose.Font for C++ 23.6 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5cbd7dc5919381f1907632425ea3f80c-27-9061&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.6-linux</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.6-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.6-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.6 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.5MB
+Date Added:
+22/6/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-6-release-notes/
+DescriptionAspose.Font for C++ 23.6 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fb79fd93cb8bcea3741fb87d90bf233b-8-9062&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.6-macos</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.6-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.6-macos/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.6 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.22MB
+Date Added:
+22/6/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-6-release-notes/
+DescriptionAspose.Font for C++ 23.6 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=26bf0a06e66b799cb22c48275d6a1bdf-8-9063&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.7</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.7/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+131.98MB
+Date Added:
+19/7/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-7-release-notes/
+DescriptionAspose.Font for C++ 23.7 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=430bb3c361117b21295ab3932fbde28d-27-9224&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.7-linux</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.7-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.7-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.7 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.5MB
+Date Added:
+19/7/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-7-release-notes/
+DescriptionAspose.Font for C++ 23.7 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d96e2caacf4ce6f55286a768e4b27900-8-9225&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.7-macos</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.7-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.7-macos/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.7 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.37MB
+Date Added:
+19/7/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-7-release-notes/
+DescriptionAspose.Font for C++ 23.7 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2d5a0583f9d7d4a1259564bd18035a5a-8-9226&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.8</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.8/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+132MB
+Date Added:
+14/8/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-8-release-notes/
+DescriptionAspose.Font for C++ 23.8 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6dd2a2bbfaa94ad3b8bbc6e7aa928b19-27-9328&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.8-linux</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.8-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.8 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.49MB
+Date Added:
+14/8/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-8-release-notes/
+DescriptionAspose.Font for C++ 23.8 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ac4ece9d59e15e5e3902f2e5bbd77bf8-8-9329&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.8-macos</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.8-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.8-macos/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.8 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+63.29MB
+Date Added:
+14/8/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-8-release-notes/
+DescriptionAspose.Font for C++ 23.8 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=08753277a3a9be73ccb8799ab80d549c-13-9330&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.9</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.9/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+132.01MB
+Date Added:
+15/9/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-9-release-notes/
+DescriptionAspose.Font for C++ 23.9 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c6648cc491b3a5d5edb80ae7c41247be-27-9469&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.9-linux</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.9-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.9-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.9 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.5MB
+Date Added:
+15/9/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-9-release-notes/
+DescriptionAspose.Font for C++ 23.9 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fc4b53f472a373397419e6efba936259-8-9470&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.9-macos</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.9-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.9-macos/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.9 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+65.11MB
+Date Added:
+15/9/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-9-release-notes/
+DescriptionAspose.Font for C++ 23.9 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8cc921012fbd949a28314f21adc4ac3e-14-9474&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.10</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.10/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+132.72MB
+Date Added:
+18/10/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-10-release-notes/
+DescriptionAspose.Font for C++ 23.10 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4aec44564faaf100071dce58fbc16621-27-9626&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.10-linux</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.10-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.10-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.10 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.65MB
+Date Added:
+18/10/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-10-release-notes/
+DescriptionAspose.Font for C++ 23.10 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=292aadf8f8a1d7e5a0616ecdd30a2a42-8-9627&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.10-macos</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.10-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.10-macos/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.10 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+65.42MB
+Date Added:
+18/10/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-10-release-notes/
+DescriptionAspose.Font for C++ 23.10 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4db38585b3688f1160f1b0c85c26b95e-14-9628&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.11-linux</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.11-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.11-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.11 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.66MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-11-release-notes/
+DescriptionAspose.Font for C++ 23.11 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a36f2507e21012a37e8b87c7e7cbb1ff-8-9770&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.11-macos</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.11-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.11-macos/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.11 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+65.44MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-11-release-notes/
+DescriptionAspose.Font for C++ 23.11 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6f2a086bf6c0f9ca667cdaa30b9d27ba-14-9771&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.11</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.11/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+132.75MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-11-release-notes/
+DescriptionAspose.Font for C++ 23.11 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f87a15691b922911af2c5829c0dce0a2-27-9772&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.12-linux</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.12-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.12-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.12 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.76MB
+Date Added:
+18/12/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-12-release-notes/
+DescriptionAspose.Font for C++ 23.12 Linux
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=473f37fa0e21ac11c916caca8c3bc7ff-8-10010&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.12-macos</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.12-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.12-macos/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.12 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+65.65MB
+Date Added:
+18/12/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-12-release-notes/
+DescriptionAspose.Font for C++ 23.12 macOS
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=94fd7aa545e569a1f4c64a366b267a48-14-10011&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.12</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.12/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+133.17MB
+Date Added:
+18/12/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-12-release-notes/
+DescriptionAspose.Font for C++ 23.12 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4cbc0994fb31b97a3dca436d78d710da-27-10012&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-24.1-linux</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-24.1-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-24.1-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 24.1 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.76MB
+Date Added:
+22/1/2024
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2024/aspose-font-for-cpp-24-1-release-notes/
+DescriptionAspose.Font for C++ 24.1 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a123ca412765b9fefb9cc9737c80ead4-8-10188&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-24.1-macos</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-24.1-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-24.1-macos/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 24.1 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+65.65MB
+Date Added:
+22/1/2024
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2024/aspose-font-for-cpp-24-1-release-notes/
+DescriptionAspose.Font for C++ 24.1 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d308af30fa4af89e2ba3241c9a209b38-14-10189&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-24.1</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-24.1/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 24.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+133.17MB
+Date Added:
+22/1/2024
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2024/aspose-font-for-cpp-24-1-release-notes/
+DescriptionAspose.Font for C++ 24.1 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7776c772a8599da2d42cac163c24fea6-27-10190&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

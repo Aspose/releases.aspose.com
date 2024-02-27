@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>slides python on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/slides-python/</link><description>Recent content in slides python on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/tags/slides-python/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads ---New Releases-aspose.slides-for-python-via-.net-23.8-win-x86</title><link>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.8-win-x86/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.8-win-x86/</guid><description>&amp;nbsp;
+Aspose.Slides for Python via .NET 23.8 Win x86
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+54.49MB
+Date Added:
+24/8/2023
+Release Noteshttps://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-8-release-notes/
+DescriptionPresentation Manipulation Python API
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7bf8feb9a0bdcd16cada283e972a29e1-11-9381&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-python-via-.net-23.8-win-x64</title><link>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.8-win-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.8-win-x64/</guid><description>&amp;nbsp;
+Aspose.Slides for Python via .NET 23.8 Win x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+61.82MB
+Date Added:
+24/8/2023
+Release Noteshttps://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-8-release-notes/
+DescriptionPresentation Manipulation Python API
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7dd960b2cbec3b24946fadc24610f626-13-9382&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-python-via-.net-23.8-linux</title><link>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.8-linux/</guid><description>&amp;nbsp;
+Aspose.Slides for Python via .NET 23.8 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+84.08MB
+Date Added:
+24/8/2023
+Release Noteshttps://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-8-release-notes/
+DescriptionPresentation Manipulation Python API
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fe33d7dae36563864fdf0dd39991cf7b-17-9383&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-python-via-.net-23.8-macos-x86-x64</title><link>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.8-macos-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.8-macos-x86-x64/</guid><description>&amp;nbsp;
+Aspose.Slides for Python via .NET 23.8 MacOS x86-x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+72.88MB
+Date Added:
+24/8/2023
+Release Noteshttps://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-8-release-notes/
+DescriptionPresentation Manipulation Python API
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=91ee468223bb03efca724c9c4d76acf1-15-9384&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

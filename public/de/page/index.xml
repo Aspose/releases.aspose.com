@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>APIs für XPS- und PostScript-Formate | Aspose.Page-Produktfamilie on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/page/</link><description>Recent content in APIs für XPS- und PostScript-Formate | Aspose.Page-Produktfamilie on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Thu, 24 Nov 2022 03:07:50 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/de/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads --- New Releases-ASSOSPLE.PAGE-FOR-PYTHON-VIA-NIA-24.1.0-WINDOWS-X32</title><link>https://releases-qa.aspose.com/de/page/python-net/new-releases/aspose.page-for-python-via-.net-24.1.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/python-net/new-releases/aspose.page-for-python-via-.net-24.1.0-windows-x32/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR PYTHON über .NET 24.1.0 Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+40.22MB
+Datum hinzugefügt:
+1/2/2024
+Versionshinweisehttps://releases.aspose.com/page/python-net/release-notes/2024/aspose-page-for-python-via-.net-24-1-release-notes/
+BeschreibungEs enthält ASSONE.PAGE für Python über .NET 24.1.0, Windows X32 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=24b6347f3700442b7bdc922cfbce3ab1-9-10271&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PAGE-FOR-PYTHON-VIA-NIA-24.1.0-Windows-Amd64</title><link>https://releases-qa.aspose.com/de/page/python-net/new-releases/aspose.page-for-python-via-.net-24.1.0-windows-amd64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/python-net/new-releases/aspose.page-for-python-via-.net-24.1.0-windows-amd64/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR PYTHON über .NET 24.1.0 Windows AMD64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+45.29MB
+Datum hinzugefügt:
+1/2/2024
+Versionshinweisehttps://releases.aspose.com/page/python-net/release-notes/2024/aspose-page-for-python-via-.net-24-1-release-notes/
+BeschreibungDieses Rad enthält ASSOSE.PAGE Version 24.1.0, kompatibel mit Python 3 und optimiert für Windows 64-Bit-Systeme (AMD64).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=51ba5178bce4ac828c5753ac735e7475-10-10272&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item></channel></rss>

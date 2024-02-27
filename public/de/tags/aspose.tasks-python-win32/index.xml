@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aspose.Tasks Python Win32 on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/tags/aspose.tasks-python-win32/</link><description>Recent content in Aspose.Tasks Python Win32 on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/tags/aspose.tasks-python-win32/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads --- NEW Releases-ASSOSPLE.TASKS-FOR-PYTHON-VIA-NIA-23.8.0, -WINDOWS-X32</title><link>https://releases-qa.aspose.com/de/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.8.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.8.0-windows-x32/</guid><description>&amp;nbsp;
+ASSOSE.TASKS FÜR PYTHON über .NET 23.8.0, Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+39.19MB
+Datum hinzugefügt:
+31/8/2023
+Versionshinweisehttps://releases.aspose.com/tasks/python-net/release-notes/2023/aspose-tasks-for-python-net-23-8-release-notes/
+BeschreibungEs enthält asspose.Tasks für Python über .NET 23.8 Win32 Nur Binärdateien
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e20b3050be436b81243c429992f33877-8-9419&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASSOSPLE.TASKS-FOR-PYTHON-VIA-NIA-23.9-WINDOWS-X32</title><link>https://releases-qa.aspose.com/de/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.9-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.9-windows-x32/</guid><description>&amp;nbsp;
+ASSOSE.TASKS für Python über .NET 23.9 Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+39.21MB
+Datum hinzugefügt:
+26/9/2023
+Versionshinweisehttps://releases.aspose.com/tasks/python-net/release-notes/2023/aspose-tasks-for-python-net-23-9-release-notes/
+BeschreibungEs enthält asspose.Tasks für Python über .NET 23.9 Win32 Nur Binärdateien
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8d083be4fd3669d4756988e00b5f8eec-8-9529&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASSOSPLE.TASKS-FOR-PYTHON-VIA-NIA-23.10-Windows-X32</title><link>https://releases-qa.aspose.com/de/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.10-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.10-windows-x32/</guid><description>&amp;nbsp;
+ASSOSE.TASKS für Python über .NET 23.10 Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+39.24MB
+Datum hinzugefügt:
+18/10/2023
+Versionshinweisehttps://releases.aspose.com/tasks/python-net/release-notes/2023/aspose-tasks-for-python-net-23-10-release-notes/
+BeschreibungEs enthält asspos
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fa827c9df10b947d22914c8e4f7444dd-8-9624&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.TASKS-FOR-PYTHON-VIA-NIA-23.11-Windows-X32</title><link>https://releases-qa.aspose.com/de/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.11-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.11-windows-x32/</guid><description>&amp;nbsp;
+ASSOSE.TASKS FÜR PYTHON über .NET 23.11 Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+39.3MB
+Datum hinzugefügt:
+28/11/2023
+Versionshinweisehttps://releases.aspose.com/tasks/python-net/release-notes/2023/aspose-tasks-for-python-net-23-11-release-notes/
+BeschreibungEs enthält asspose.Tasks für Python 23.11 Win32 Nur Binärdateien
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=85d590e1d8eb96bc78d4f6330c43d496-8-9875&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASSOSPLE.TASKS-FOR-PYTHON-VIA-NIA-23.12-Windows-X32</title><link>https://releases-qa.aspose.com/de/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.12-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-23.12-windows-x32/</guid><description>&amp;nbsp;
+ASSOSE.TASKS FÜR PYTHON über .NET 23.12 Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+39.28MB
+Datum hinzugefügt:
+26/12/2023
+Versionshinweisehttps://releases.aspose.com/tasks/python-net/release-notes/2023/aspose-tasks-for-python-net-23-12-release-notes/
+BeschreibungEs enthält ASPOSPE.TASKS für Python über .NET 23.12 Win32 Nur Binärdateien
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6b387b1f9312bd762f1c048c8e19b76e-8-10070&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASSOSPLE.TASKS-FOR-PYTHON-VIA-NIA-24.1-Windows-X32</title><link>https://releases-qa.aspose.com/de/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-24.1-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-24.1-windows-x32/</guid><description>&amp;nbsp;
+ASSOSE.TASKS für Python über .NET 24.1 Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+39.33MB
+Datum hinzugefügt:
+29/1/2024
+Versionshinweisehttps://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-1-release-notes/
+BeschreibungEs enthält asspose.Tasks für Python über .NET 24.1 Win32 Nur Binärdateien
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0b37f6cc2a9a729a1bd804c6a27d195c-8-10229&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item></channel></rss>

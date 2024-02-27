@@ -1,0 +1,1628 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Slides on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/slides/</link><description>Recent content in Slides on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/tags/slides/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads ---New Releases-aspose.slides-for-node.js-via-java-23.9</title><link>https://releases-qa.aspose.com/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-23.9/</guid><description>&amp;nbsp;
+Aspose.Slides for Node.js via Java 23.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.68MB
+Date Added:
+25/9/2023
+Release Noteshttps://releases.aspose.com/slides/nodejs-java/release-notes/2023/aspose-slides-for-nodejs-via-java-23-9-release-notes/
+DescriptionIt contains Aspose.Slides for Node.js via Java 23.9 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2583487bf6777333090e4085b1638a82-6-9519&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-node.js-via-java-23.10</title><link>https://releases-qa.aspose.com/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-23.10/</guid><description>&amp;nbsp;
+Aspose.Slides for Node.js via Java 23.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.7MB
+Date Added:
+18/10/2023
+Release Noteshttps://releases.aspose.com/slides/nodejs-java/release-notes/2023/aspose-slides-for-nodejs-via-java-23-10-release-notes/
+DescriptionIt contains Aspose.Slides for Node.js via Java 23.10 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=da902152bcc9c12370e30b87bc272c15-6-9632&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-node.js-via-java-23.11</title><link>https://releases-qa.aspose.com/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-23.11/</guid><description>&amp;nbsp;
+Aspose.Slides for Node.js via Java 23.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.72MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/slides/nodejs-java/release-notes/2023/aspose-slides-for-nodejs-via-java-23-11-release-notes/
+DescriptionIt contains Aspose.Slides for Node.js via Java 23.11 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ecde8dae9e8bd59893ecf2272467651e-6-9775&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-node.js-via-java-23.12</title><link>https://releases-qa.aspose.com/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-23.12/</guid><description>&amp;nbsp;
+Aspose.Slides for Node.js via Java 23.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.76MB
+Date Added:
+15/12/2023
+Release Noteshttps://releases.aspose.com/slides/nodejs-java/release-notes/2023/aspose-slides-for-nodejs-via-java-23-12-release-notes/
+DescriptionIt contains Aspose.Slides for Node.js via Java 23.12 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6ce3d8efa7f90190392f1181bf06348a-6-9998&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-node.js-via-java-24.1</title><link>https://releases-qa.aspose.com/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-24.1/</guid><description>&amp;nbsp;
+Aspose.Slides for Node.js via Java 24.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.8MB
+Date Added:
+26/1/2024
+Release Noteshttps://releases.aspose.com/slides/nodejs-java/release-notes/2024/aspose-slides-for-nodejs-via-java-24-1-release-notes/
+DescriptionIt contains Aspose.Slides for Node.js via Java 24.1 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c1876154f8a81a1293ab399a2abaaebd-6-10219&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Exporter for PowerPoint | Aspose.Slides for JasperReports</title><link>https://releases-qa.aspose.com/slides/jasperreport/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/jasperreport/</guid><description>Support Forum
+Download Aspose.Slides to Export JasperReports® to Presentation Formats Aspose.Slides for JasperReports is a lightweight extension that helps you export reports from JasperReports® and JasperServer® to Microsoft PowerPoint® and other supported file formats.
+Release Notes
+Download
+Product Page | Docs | API Reference | Blog | Search | Free Support | Temporary License | EULA
+Presentation JasperReports® Integration Features Export reports to PPT, PPTX, HTML, and PDF formats.</description></item><item><title>Downloads ---New Releases-aspose.slides-for-php-via-java-23.9</title><link>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.9/</guid><description>&amp;nbsp;
+Aspose.Slides for PHP via Java 23.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.73MB
+Date Added:
+25/9/2023
+Release Noteshttps://releases.aspose.com/slides/php-java/release-notes/2023/aspose-slides-for-php-via-java-23-9-release-notes/
+DescriptionIt contains Aspose.Slides for PHP via Java 23.9 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=66bb68bfc9270e6fff0608700bd87ecb-6-9520&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-php-via-java-23.10</title><link>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.10/</guid><description>&amp;nbsp;
+Aspose.Slides for PHP via Java 23.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.71MB
+Date Added:
+18/10/2023
+Release Noteshttps://releases.aspose.com/slides/php-java/release-notes/2023/aspose-slides-for-php-via-java-23-10-release-notes/
+DescriptionIt contains Aspose.Slides for PHP via Java 23.10 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6ae64ca2896656b6a984bf09fc0bd7eb-6-9633&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-php-via-java-23.11</title><link>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.11/</guid><description>&amp;nbsp;
+Aspose.Slides for PHP via Java 23.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.74MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/slides/php-java/release-notes/2023/aspose-slides-for-php-via-java-23-11-release-notes/
+DescriptionIt contains Aspose.Slides for PHP via Java 23.11 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8d5742c3c2c507b558fd855b5b8333b3-6-9774&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-php-via-java-23.12</title><link>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.12/</guid><description>&amp;nbsp;
+Aspose.Slides for PHP via Java 23.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.78MB
+Date Added:
+15/12/2023
+Release Noteshttps://releases.aspose.com/slides/php-java/release-notes/2023/aspose-slides-for-php-via-java-23-12-release-notes/
+DescriptionIt contains Aspose.Slides for PHP via Java 23.12 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6c72a638c1e8079d5696c87be985ba74-6-9997&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-php-via-java-24.1</title><link>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-24.1/</guid><description>&amp;nbsp;
+Aspose.Slides for PHP via Java 24.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.83MB
+Date Added:
+26/1/2024
+Release Noteshttps://releases.aspose.com/slides/php-java/release-notes/2024/aspose-slides-for-php-via-java-24-1-release-notes/
+DescriptionIt contains Aspose.Slides for PHP via Java 24.1 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9798dd0feac99b394c6190d3293f4155-6-10220&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-python-via-.net-23.5-macos-x86-x64</title><link>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.5-macos-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.5-macos-x86-x64/</guid><description>&amp;nbsp;
+Aspose.Slides for Python via .NET 23.5 MacOS x86-x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+72.73MB
+Date Added:
+27/5/2023
+Release Noteshttps://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-5-release-notes/
+DescriptionPresentation Manipulation Python API
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2361d5c749720a1ca6dc30f473573624-15-8922&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-python-via-.net-23.5-linux</title><link>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.5-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.5-linux/</guid><description>&amp;nbsp;
+Aspose.Slides for Python via .NET 23.5 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+83.91MB
+Date Added:
+27/5/2023
+Release Noteshttps://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-5-release-notes/
+DescriptionPresentation Manipulation Python API
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=426522da5ad101a1cddc295d4854efb2-17-8923&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-python-via-.net-23.5-win-x64</title><link>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.5-win-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.5-win-x64/</guid><description>&amp;nbsp;
+Aspose.Slides for Python via .NET 23.5 Win x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+61.72MB
+Date Added:
+27/5/2023
+Release Noteshttps://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-5-release-notes/
+DescriptionPresentation Manipulation Python API
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fa35790998e45f2f03c531fba0bf3069-13-8924&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-python-via-.net-23.5-win-x86</title><link>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.5-win-x86/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.5-win-x86/</guid><description>&amp;nbsp;
+Aspose.Slides for Python via .NET 23.5 Win x86
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+54.42MB
+Date Added:
+27/5/2023
+Release Noteshttps://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-5-release-notes/
+DescriptionPresentation Manipulation Python API
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fc7604998d3d5f55185ad86a020797f1-11-8925&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-python-via-.net-23.6-macos-x86-x64</title><link>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.6-macos-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.6-macos-x86-x64/</guid><description>&amp;nbsp;
+Aspose.Slides for Python via .NET 23.6 MacOS x86-x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+72.72MB
+Date Added:
+30/6/2023
+Release Noteshttps://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-6-release-notes/
+DescriptionPresentation Manipulation Python API
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=aa827d153a9bccf1dd0a9edcdc6d17c6-15-9159&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-python-via-.net-23.6-win-x64</title><link>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.6-win-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.6-win-x64/</guid><description>&amp;nbsp;
+Aspose.Slides for Python via .NET 23.6 Win x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+61.71MB
+Date Added:
+30/6/2023
+Release Noteshttps://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-6-release-notes/
+DescriptionPresentation Manipulation Python API
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=71a5542d2db98915b5654bf46873efa2-13-9160&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-python-via-.net-23.6-linux</title><link>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.6-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.6-linux/</guid><description>&amp;nbsp;
+Aspose.Slides for Python via .NET 23.6 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+83.9MB
+Date Added:
+30/6/2023
+Release Noteshttps://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-6-release-notes/
+DescriptionPresentation Manipulation Python API
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0256f98f45d2b5ae5edbfc0e73f474b0-17-9161&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-python-via-.net-23.6-win-x86</title><link>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.6-win-x86/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.6-win-x86/</guid><description>&amp;nbsp;
+Aspose.Slides for Python via .NET 23.6 Win x86
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+54.41MB
+Date Added:
+30/6/2023
+Release Noteshttps://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-6-release-notes/
+DescriptionPresentation Manipulation Python API
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=84322199b9b1d7c16965415f5c4d56b8-11-9162&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-python-via-.net-23.7-win-x86</title><link>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.7-win-x86/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.7-win-x86/</guid><description>&amp;nbsp;
+Aspose.Slides for Python via .NET 23.7 Win x86
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+54.49MB
+Date Added:
+21/7/2023
+Release Noteshttps://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-7-release-notes/
+DescriptionPresentation Manipulation Python API
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=46a509788dc3d5c7b0878e8af57890d1-11-9242&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-python-via-.net-23.7-win-x64</title><link>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.7-win-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.7-win-x64/</guid><description>&amp;nbsp;
+Aspose.Slides for Python via .NET 23.7 Win x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+61.81MB
+Date Added:
+21/7/2023
+Release Noteshttps://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-7-release-notes/
+DescriptionPresentation Manipulation Python API
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ba429fa9430855fd8340aa59c19d0a1f-13-9243&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-python-via-.net-23.7-linux</title><link>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.7-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.7-linux/</guid><description>&amp;nbsp;
+Aspose.Slides for Python via .NET 23.7 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+84.08MB
+Date Added:
+21/7/2023
+Release Noteshttps://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-7-release-notes/
+DescriptionPresentation Manipulation Python API
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f23ed7665f7489dafbaa6f78c494f54e-17-9244&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-python-via-.net-23.7-macos-x86-x64</title><link>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.7-macos-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.7-macos-x86-x64/</guid><description>&amp;nbsp;
+Aspose.Slides for Python via .NET 23.7 MacOS x86-x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+72.86MB
+Date Added:
+21/7/2023
+Release Noteshttps://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-7-release-notes/
+DescriptionPresentation Manipulation Python API
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d37ba9ec79ba967d75cd3aa69729f2e2-15-9245&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-python-via-.net-23.8-win-x86</title><link>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.8-win-x86/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.8-win-x86/</guid><description>&amp;nbsp;
+Aspose.Slides for Python via .NET 23.8 Win x86
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+54.49MB
+Date Added:
+24/8/2023
+Release Noteshttps://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-8-release-notes/
+DescriptionPresentation Manipulation Python API
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7bf8feb9a0bdcd16cada283e972a29e1-11-9381&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-python-via-.net-23.8-win-x64</title><link>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.8-win-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.8-win-x64/</guid><description>&amp;nbsp;
+Aspose.Slides for Python via .NET 23.8 Win x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+61.82MB
+Date Added:
+24/8/2023
+Release Noteshttps://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-8-release-notes/
+DescriptionPresentation Manipulation Python API
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7dd960b2cbec3b24946fadc24610f626-13-9382&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-python-via-.net-23.8-linux</title><link>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.8-linux/</guid><description>&amp;nbsp;
+Aspose.Slides for Python via .NET 23.8 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+84.08MB
+Date Added:
+24/8/2023
+Release Noteshttps://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-8-release-notes/
+DescriptionPresentation Manipulation Python API
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fe33d7dae36563864fdf0dd39991cf7b-17-9383&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-python-via-.net-23.8-macos-x86-x64</title><link>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.8-macos-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/python-net/new-releases/aspose.slides-for-python-via-.net-23.8-macos-x86-x64/</guid><description>&amp;nbsp;
+Aspose.Slides for Python via .NET 23.8 MacOS x86-x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+72.88MB
+Date Added:
+24/8/2023
+Release Noteshttps://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-8-release-notes/
+DescriptionPresentation Manipulation Python API
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=91ee468223bb03efca724c9c4d76acf1-15-9384&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-sharepoint-24.1</title><link>https://releases-qa.aspose.com/slides/sharepoint/new-releases/aspose.slides-for-sharepoint-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/sharepoint/new-releases/aspose.slides-for-sharepoint-24.1/</guid><description>&amp;nbsp;
+Aspose.Slides for Sharepoint 24.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+55.86MB
+Date Added:
+19/1/2024
+Release Noteshttps://releases.aspose.com/slides/sharepoint/release-notes/2024/aspose-slides-for-sharepoint-24-1-release-notes/
+DescriptionIt contains Aspose.Slides for Sharepoint 24.1
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=373e394dcf437e2ae8177bd18a86ffe3-12-10175&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-android-via-java-23.9</title><link>https://releases-qa.aspose.com/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.9/</guid><description>&amp;nbsp;
+Aspose.Slides for Android via Java 23.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+31.69MB
+Date Added:
+25/9/2023
+Release Noteshttps://releases.aspose.com/slides/androidjava/release-notes/2023/aspose-slides-for-android-via-java-23-9-release-notes/
+DescriptionIt contains Aspose.Slides for Android via Java 23.9 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=534360d2cafa7e94884ce5402fa0a8ac-7-9517&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-android-via-java-23.10</title><link>https://releases-qa.aspose.com/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.10/</guid><description>&amp;nbsp;
+Aspose.Slides for Android via Java 23.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+31.75MB
+Date Added:
+18/10/2023
+Release Noteshttps://releases.aspose.com/slides/androidjava/release-notes/2023/aspose-slides-for-android-via-java-23-10-release-notes/
+DescriptionIt contains Aspose.Slides for Android via Java 23.10 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=59559ad5ff486a699deb98d0ff1acf7a-7-9631&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-android-via-java-23.11</title><link>https://releases-qa.aspose.com/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.11/</guid><description>&amp;nbsp;
+Aspose.Slides for Android via Java 23.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+31.75MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/slides/androidjava/release-notes/2023/aspose-slides-for-android-via-java-23-11-release-notes/
+DescriptionIt contains Aspose.Slides for Android via Java 23.11 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8ee1f3ee6c697df97b300266f9f74967-7-9773&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-android-via-java-23.12</title><link>https://releases-qa.aspose.com/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.12/</guid><description>&amp;nbsp;
+Aspose.Slides for Android via Java 23.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+31.82MB
+Date Added:
+15/12/2023
+Release Noteshttps://releases.aspose.com/slides/androidjava/release-notes/2023/aspose-slides-for-android-via-java-23-12-release-notes/
+DescriptionIt contains Aspose.Slides for Android via Java 23.12 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c5d37323a6f23adf808c7d652e56323b-7-9995&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-android-via-java-24.1</title><link>https://releases-qa.aspose.com/slides/androidjava/new-releases/aspose.slides-for-android-via-java-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/androidjava/new-releases/aspose.slides-for-android-via-java-24.1/</guid><description>&amp;nbsp;
+Aspose.Slides for Android via Java 24.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+31.84MB
+Date Added:
+26/1/2024
+Release Noteshttps://releases.aspose.com/slides/androidjava/release-notes/2024/aspose-slides-for-android-via-java-24-1-release-notes/
+DescriptionIt contains Aspose.Slides for Android via Java 24.1 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=89981be57b315873586e69dce2176daf-7-10218&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-jasperreports-23.8</title><link>https://releases-qa.aspose.com/slides/jasperreport/new-releases/aspose.slides-for-jasperreports-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/jasperreport/new-releases/aspose.slides-for-jasperreports-23.8/</guid><description>&amp;nbsp;
+Aspose.Slides for JasperReports 23.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+72.3MB
+Date Added:
+23/8/2023
+Release Noteshttps://releases.aspose.com/slides/jasperreport/release-notes/2023/aspose-slides-for-jasper-reports-23-8-release-notes/
+DescriptionIt contains Aspose.Slides for JasperReports 23.8 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7e03abc91b8c8a82cb4d088eb2fa5674-15-9369&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-jasperreports-23.9</title><link>https://releases-qa.aspose.com/slides/jasperreport/new-releases/aspose.slides-for-jasperreports-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/jasperreport/new-releases/aspose.slides-for-jasperreports-23.9/</guid><description>&amp;nbsp;
+Aspose.Slides for JasperReports 23.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+72.33MB
+Date Added:
+25/9/2023
+Release Noteshttps://releases.aspose.com/slides/jasperreport/release-notes/2023/aspose-slides-for-jasper-reports-23-9-release-notes/
+DescriptionIt contains Aspose.Slides for JasperReports 23.9 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e5d90abb8ae1e7f29a7d6e5593ce490b-15-9518&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-jasperreports-23.12</title><link>https://releases-qa.aspose.com/slides/jasperreport/new-releases/aspose.slides-for-jasperreports-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/jasperreport/new-releases/aspose.slides-for-jasperreports-23.12/</guid><description>&amp;nbsp;
+Aspose.Slides for JasperReports 23.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+72.52MB
+Date Added:
+15/12/2023
+Release Noteshttps://releases.aspose.com/slides/jasperreport/release-notes/2023/aspose-slides-for-jasper-reports-23-12-release-notes/
+DescriptionIt contains Aspose.Slides for JasperReports 23.12 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=981a53c26d7d4fb7d0c54a1faada365c-15-9996&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-c++-23.9-windows</title><link>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-23.9-windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-23.9-windows/</guid><description>&amp;nbsp;
+Aspose.Slides for C&amp;#43;&amp;#43; 23.9 Windows
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+365.55MB
+Date Added:
+19/9/2023
+Release Noteshttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-9-release-notes/
+DescriptionIt contains Aspose.Slides for C++ 23.9 Windows release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7606a570acde2f7d2ec54ae8d94b9017-74-9486&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-c++-23.9-linux</title><link>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-23.9-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-23.9-linux/</guid><description>&amp;nbsp;
+Aspose.Slides for C&amp;#43;&amp;#43; 23.9 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+88.82MB
+Date Added:
+19/9/2023
+Release Noteshttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-9-release-notes/
+DescriptionIt contains Aspose.Slides for C++ 23.9 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a9044601a6a19925eea37f83db594b0e-18-9487&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-c++-23.9-macos</title><link>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-23.9-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-23.9-macos/</guid><description>&amp;nbsp;
+Aspose.Slides for C&amp;#43;&amp;#43; 23.9 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+168.9MB
+Date Added:
+19/9/2023
+Release Noteshttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-9-release-notes/
+DescriptionIt contains Aspose.Slides for C++ 23.9 macOS release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=11eb4dd34e9bfc24e3184478eeaea69e-34-9488&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-c++-23.10-windows</title><link>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-23.10-windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-23.10-windows/</guid><description>&amp;nbsp;
+Aspose.Slides for C&amp;#43;&amp;#43; 23.10 Windows
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+365.54MB
+Date Added:
+19/10/2023
+Release Noteshttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-10-release-notes/
+DescriptionIt contains Aspose.Slides for C++ 23.10 Windows release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4fbc96600af60acfb2e7cc7b089f282c-74-9645&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-c++-23.10-linux</title><link>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-23.10-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-23.10-linux/</guid><description>&amp;nbsp;
+Aspose.Slides for C&amp;#43;&amp;#43; 23.10 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+88.43MB
+Date Added:
+19/10/2023
+Release Noteshttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-10-release-notes/
+DescriptionIt contains Aspose.Slides for C++ 23.10 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e52feefd7612ec2ad131d284c80cf6d7-18-9646&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-c++-23.10-macos</title><link>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-23.10-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-23.10-macos/</guid><description>&amp;nbsp;
+Aspose.Slides for C&amp;#43;&amp;#43; 23.10 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+168.57MB
+Date Added:
+19/10/2023
+Release Noteshttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-10-release-notes/
+DescriptionIt contains Aspose.Slides for C++ 23.10 macOS release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=27d1b81aa23bbfc4d5d9c65b48bcb85a-34-9647&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-c++-23.11-windows</title><link>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-23.11-windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-23.11-windows/</guid><description>&amp;nbsp;
+Aspose.Slides for C&amp;#43;&amp;#43; 23.11 Windows
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+365.93MB
+Date Added:
+21/11/2023
+Release Noteshttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-11-release-notes/
+DescriptionIt contains Aspose.Slides for C++ 23.11 Windows release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8dd10acdb4c4180b6a6d595984f4e55b-74-9855&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-c++-23.11-linux</title><link>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-23.11-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-23.11-linux/</guid><description>&amp;nbsp;
+Aspose.Slides for C&amp;#43;&amp;#43; 23.11 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+88.52MB
+Date Added:
+21/11/2023
+Release Noteshttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-11-release-notes/
+DescriptionIt contains Aspose.Slides for C++ 23.11 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=727a8ff207b77e643530a4eb77b81e3e-18-9856&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-c++-23.11-macos</title><link>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-23.11-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-23.11-macos/</guid><description>&amp;nbsp;
+Aspose.Slides for C&amp;#43;&amp;#43; 23.11 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+168.73MB
+Date Added:
+21/11/2023
+Release Noteshttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-11-release-notes/
+DescriptionIt contains Aspose.Slides for C++ 23.11 macOS release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=26e49d2d67e83fada5e7d1ff085ebb15-34-9857&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-c++-23.12-windows</title><link>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-23.12-windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-23.12-windows/</guid><description>&amp;nbsp;
+Aspose.Slides for C&amp;#43;&amp;#43; 23.12 Windows
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+366.55MB
+Date Added:
+20/12/2023
+Release Noteshttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-12-release-notes/
+DescriptionIt contains Aspose.Slides for C++ 23.12 Windows release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=344f58a7122e09c9a020435b0fc6ad86-74-10022&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-c++-23.12-linux</title><link>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-23.12-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-23.12-linux/</guid><description>&amp;nbsp;
+Aspose.Slides for C&amp;#43;&amp;#43; 23.12 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+88.72MB
+Date Added:
+20/12/2023
+Release Noteshttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-12-release-notes/
+DescriptionIt contains Aspose.Slides for C++ 23.12 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=eb2368f6cc444bd7aa8baf191c2993b6-18-10023&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-c++-23.12-macos</title><link>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-23.12-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-23.12-macos/</guid><description>&amp;nbsp;
+Aspose.Slides for C&amp;#43;&amp;#43; 23.12 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+169.1MB
+Date Added:
+20/12/2023
+Release Noteshttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-12-release-notes/
+DescriptionIt contains Aspose.Slides for C++ 23.12 macOS release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0e8b99ca7d7ab52684f5b9d35437ad02-34-10024&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-c++-24.1-windows</title><link>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-24.1-windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-24.1-windows/</guid><description>&amp;nbsp;
+Aspose.Slides for C&amp;#43;&amp;#43; 24.1 Windows
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+367.06MB
+Date Added:
+24/1/2024
+Release Noteshttps://releases.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-1-release-notes/
+DescriptionIt contains Aspose.Slides for C++ 24.1 Windows release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6b79a95f98be2e243f5a5152a64af74c-74-10198&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-c++-24.1-linux</title><link>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-24.1-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-24.1-linux/</guid><description>&amp;nbsp;
+Aspose.Slides for C&amp;#43;&amp;#43; 24.1 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+88.83MB
+Date Added:
+24/1/2024
+Release Noteshttps://releases.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-1-release-notes/
+DescriptionIt contains Aspose.Slides for C++ 24.1 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c466bcdd0cb0255347ad49facb6d5766-18-10199&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-c++-24.1-macos</title><link>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-24.1-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-24.1-macos/</guid><description>&amp;nbsp;
+Aspose.Slides for C&amp;#43;&amp;#43; 24.1 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+169.36MB
+Date Added:
+24/1/2024
+Release Noteshttps://releases.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-1-release-notes/
+DescriptionIt contains Aspose.Slides for C++ 24.1 macOS release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f5bdbeec424986c225a6569554e32550-34-10200&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-reporting-services-23.9</title><link>https://releases-qa.aspose.com/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-23.9/</guid><description>&amp;nbsp;
+Aspose.Slides for Reporting Services 23.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+29.97MB
+Date Added:
+20/9/2023
+Release Noteshttps://releases.aspose.com/slides/reportingservices/release-notes/2023/aspose-slides-for-reporting-services-23-9-release-notes/
+DescriptionIt contains Aspose.Slides for Reporting Services 23.9
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1a54ba56219b50db482755d136babde2-6-9495&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-reporting-services-23.9-(dlls-only)</title><link>https://releases-qa.aspose.com/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-23.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-23.9-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Slides for Reporting Services 23.9 (DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+32.94MB
+Date Added:
+20/9/2023
+Release Noteshttps://releases.aspose.com/slides/reportingservices/release-notes/2023/aspose-slides-for-reporting-services-23-9-release-notes/
+DescriptionIt contains Aspose.Slides for Reporting Services 23.9 (DLLs Only)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=92ae2c4487c3fb6c28771bd316949040-7-9496&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.slides-for-reporting-services-23.11</title><link>https://releases-qa.aspose.com/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-23.11/</guid><description>&amp;nbsp;
+Aspose.Slides for Reporting Services 23.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+29.99MB
+Date Added:
+16/11/2023
+Release Noteshttps://releases.aspose.com/slides/reportingservices/release-notes/2023/aspose-slides-for-reporting-services-23-11-release-notes/
+DescriptionIt contains Aspose.Slides for Reporting Services 23.11
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=73aec1fd0bae6fd0085b250939c32753-6-9838&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-reporting-services-23.11-(dlls-only)</title><link>https://releases-qa.aspose.com/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-23.11-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-23.11-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Slides for Reporting Services 23.11 (DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+32.98MB
+Date Added:
+16/11/2023
+Release Noteshttps://releases.aspose.com/slides/reportingservices/release-notes/2023/aspose-slides-for-reporting-services-23-11-release-notes/
+DescriptionIt contains Aspose.Slides for Reporting Services 23.11 (DLLs Only)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=83d9bcaf1363c9c4c30ef9acb00c34bf-7-9839&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.slides-for-reporting-services-24.1</title><link>https://releases-qa.aspose.com/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-24.1/</guid><description>&amp;nbsp;
+Aspose.Slides for Reporting Services 24.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+30.06MB
+Date Added:
+19/1/2024
+Release Noteshttps://releases.aspose.com/slides/reportingservices/release-notes/2024/aspose-slides-for-reporting-services-24-1-release-notes/
+DescriptionIt contains Aspose.Slides for Reporting Services 24.1
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8b9d1629ff18ff5208e4aca15b9cb839-7-10173&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-reporting-services-24.1-(dlls-only)</title><link>https://releases-qa.aspose.com/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-24.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-24.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Slides for Reporting Services 24.1 (DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+33.04MB
+Date Added:
+19/1/2024
+Release Noteshttps://releases.aspose.com/slides/reportingservices/release-notes/2024/aspose-slides-for-reporting-services-24-1-release-notes/
+DescriptionIt contains Aspose.Slides for Reporting Services 24.1 (DLLs Only)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5caa5df1a0af3d78e5f69ce95b51a96f-7-10174&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.slides-for-.net-23.9</title><link>https://releases-qa.aspose.com/slides/net/new-releases/aspose.slides-for-.net-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/net/new-releases/aspose.slides-for-.net-23.9/</guid><description>&amp;nbsp;
+Aspose.Slides for .NET 23.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+128.34MB
+Date Added:
+20/9/2023
+Release Noteshttps://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-9-release-notes/
+DescriptionIt contains Aspose.Slides for .NET 23.9 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=500a893b183666b368d052b9b81dd58a-26-9492&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-.net-23.9(dlls-only)</title><link>https://releases-qa.aspose.com/slides/net/new-releases/aspose.slides-for-.net-23.9dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/net/new-releases/aspose.slides-for-.net-23.9dlls-only/</guid><description>&amp;nbsp;
+Aspose.Slides for .NET 23.9(DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+189.59MB
+Date Added:
+20/9/2023
+Release Noteshttps://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-9-release-notes/
+DescriptionIt contains Aspose.Slides for .NET 23.9(DLLs only) release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ac5b3971d6c7da0b09f37f9a2cf118ed-38-9494&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-.net-23.10</title><link>https://releases-qa.aspose.com/slides/net/new-releases/aspose.slides-for-.net-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/net/new-releases/aspose.slides-for-.net-23.10/</guid><description>&amp;nbsp;
+Aspose.Slides for .NET 23.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+128.35MB
+Date Added:
+22/10/2023
+Release Noteshttps://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-10-release-notes/
+DescriptionIt contains Aspose.Slides for .NET 23.10 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a45d372fd84d6559653d9270f2b17f32-26-9657&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-.net-23.10(dlls-only)</title><link>https://releases-qa.aspose.com/slides/net/new-releases/aspose.slides-for-.net-23.10dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/net/new-releases/aspose.slides-for-.net-23.10dlls-only/</guid><description>&amp;nbsp;
+Aspose.Slides for .NET 23.10(DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+189.62MB
+Date Added:
+22/10/2023
+Release Noteshttps://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-10-release-notes/
+DescriptionIt contains Aspose.Slides for .NET 23.10(DLLs only) release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=27fd5a95f9bec2f04d1bc8c7b6b77f95-38-9658&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-.net-23.11</title><link>https://releases-qa.aspose.com/slides/net/new-releases/aspose.slides-for-.net-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/net/new-releases/aspose.slides-for-.net-23.11/</guid><description>&amp;nbsp;
+Aspose.Slides for .NET 23.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+128.49MB
+Date Added:
+16/11/2023
+Release Noteshttps://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-11-release-notes/
+DescriptionIt contains Aspose.Slides for .NET 23.11 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5ced89691980e57daf6f1a69eac7590c-26-9836&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-.net-23.11(dlls-only)</title><link>https://releases-qa.aspose.com/slides/net/new-releases/aspose.slides-for-.net-23.11dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/net/new-releases/aspose.slides-for-.net-23.11dlls-only/</guid><description>&amp;nbsp;
+Aspose.Slides for .NET 23.11(DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+212.79MB
+Date Added:
+16/11/2023
+Release Noteshttps://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-11-release-notes/
+DescriptionIt contains Aspose.Slides for .NET 23.11(DLLs only) release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a1f92ad4c2adf1976b2913167da374b5-43-9837&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-.net-23.12</title><link>https://releases-qa.aspose.com/slides/net/new-releases/aspose.slides-for-.net-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/net/new-releases/aspose.slides-for-.net-23.12/</guid><description>&amp;nbsp;
+Aspose.Slides for .NET 23.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+128.61MB
+Date Added:
+11/12/2023
+Release Noteshttps://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-12-release-notes/
+DescriptionIt contains Aspose.Slides for .NET 23.12 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=08405e6eeb86a13ae2d5c290172e02ea-26-9973&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-.net-23.12(dlls-only)</title><link>https://releases-qa.aspose.com/slides/net/new-releases/aspose.slides-for-.net-23.12dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/net/new-releases/aspose.slides-for-.net-23.12dlls-only/</guid><description>&amp;nbsp;
+Aspose.Slides for .NET 23.12(DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+212.87MB
+Date Added:
+11/12/2023
+Release Noteshttps://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-12-release-notes/
+DescriptionIt contains Aspose.Slides for .NET 23.12(DLLs only) release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a0959db6819eef4ff03ec9a32e0fc866-43-9974&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-.net-24.1</title><link>https://releases-qa.aspose.com/slides/net/new-releases/aspose.slides-for-.net-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/net/new-releases/aspose.slides-for-.net-24.1/</guid><description>&amp;nbsp;
+Aspose.Slides for .NET 24.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+128.64MB
+Date Added:
+19/1/2024
+Release Noteshttps://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-1-release-notes/
+DescriptionIt contains Aspose.Slides for .NET 24.1 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6dfba4669ee1b5f908653710c8ff093e-26-10171&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.slides-for-.net-24.1(dlls-only)</title><link>https://releases-qa.aspose.com/slides/net/new-releases/aspose.slides-for-.net-24.1dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/net/new-releases/aspose.slides-for-.net-24.1dlls-only/</guid><description>&amp;nbsp;
+Aspose.Slides for .NET 24.1(DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+212.97MB
+Date Added:
+19/1/2024
+Release Noteshttps://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-1-release-notes/
+DescriptionIt contains Aspose.Slides for .NET 24.1(DLLs only) release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c30669638d79bf8db16266f40e03c8f2-43-10172&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item></channel></rss>

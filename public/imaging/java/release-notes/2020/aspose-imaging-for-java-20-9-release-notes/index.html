@@ -1,0 +1,559 @@
+<!doctype html><html class=no-js lang=en><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge"><title>Aspose.Imaging for Java 20.9 - Release notes</title><meta name=description content="Aspose.Imaging for Java 20.9 - Release notes – the latest updates and fixes."><meta name=viewport content="width=device-width,minimum-scale=1"><link rel=canonical href=https://releases-qa.aspose.com/imaging/java/release-notes/2020/aspose-imaging-for-java-20-9-release-notes/><link rel=alternate hreflang=x-default href=https://releases-qa.aspose.com/imaging/java/release-notes/2020/aspose-imaging-for-java-20-9-release-notes/><meta name=robots content="noindex, nofollow"><link rel=apple-touch-icon sizes=180x180 href=/res_repo/apple-touch-icon.png><link rel=icon type=image/png href=/res_repo/favicon-32x32.png sizes=32x32><link rel=icon type=image/png href=/res_repo/favicon-16x16.png sizes=16x16><link rel=mask-icon href=/res_repo/safari-pinned-tab.svg color=#0594cb><meta name=theme-color content="#ffffff"><meta property="og:title" content="Aspose.Imaging for Java 20.9 - Release notes "><meta property="og:description" content="Aspose.Imaging for Java 20.9 - Release notes – the latest updates and fixes."><meta property="og:type" content="article"><meta property="og:url" content="https://releases-qa.aspose.com/imaging/java/release-notes/2020/aspose-imaging-for-java-20-9-release-notes/"><meta itemprop=name content="Aspose.Imaging for Java 20.9 - Release notes"><meta itemprop=description content="Aspose.Imaging for Java 20.9 - Release notes – the latest updates and fixes."><meta itemprop=wordCount content="2015"><meta name=twitter:card content="summary"><meta name=twitter:title content="Aspose.Imaging for Java 20.9 - Release notes"><meta name=twitter:description content="Aspose.Imaging for Java 20.9 - Release notes – the latest updates and fixes."><link href=/css/bootstrap.css rel=stylesheet type=text/css><script src=https://releases-qa.aspose.com/res_repo/js/jquery-1.10.2.min.js></script></head><body><div id=header></div><div class=downloadpage><div class="container-fluid bcrumb1"><div id=sticky1 class=stickytopheight>&nbsp;</div><div class=container><div class=moduletable><ul id=dvBC class=breadcrumb><li><a href=/>Home</a><span class=divider></span></li><li><a href=/imaging/>Aspose.Imaging Product Family</a><span class=divider></span></li><li><a href=/imaging/java/>Aspose.Imaging for Java</a><span class=divider></span></li><li><a href=/imaging/java/release-notes/>Release Notes</a><span class=divider></span></li><li><a href=/imaging/java/release-notes/2020/>2020</a><span class=divider></span></li><li><a href=/imaging/java/release-notes/2020/aspose-imaging-for-java-20-9-release-notes/>Aspose.Imaging for Java 20.9 - Release notes</a><span class=divider></span></li></ul></div></div></div><div class="container-fluid content2 vpanel-left"><div class=container><div class=row><div class="col-md-3 vpanel tree-section"><p class=list-title>Browse our Products<button type=button class=treeview-toggle> <span class=sr-only>Toggle navigation</span> <span class="icon expand-icon glyphicon glyphicon-hide"></span></button></p><div id=tree class="treeview hidetree"></div></div><div class="col-md-9 lhs1 col-xs-12 mobilehide node-section"><div class=box1><section role=main class="main-container page-package-details"><div class=row><div class="col-sm-9 package-details-main"><h1><strong>Aspose.Imaging for Java 20.9 - Release notes</strong></h1><div class="tab-content body-tab-content"><div role=tabpanel class="tab-pane active" id=readme-tab><div class=readme-common><div id=readme-container><p><table><thead><tr><th><strong>Key</strong></th><th><strong>Summary</strong></th><th><strong>Category</strong></th></tr></thead><tbody><tr><td>IMAGINGJAVA-1829</td><td>Support Jpeg, Jpeg2000 and RLE compression method in Dicom exporter</td><td>Feature</td></tr><tr><td>IMAGINGJAVA-1468</td><td>Converting PNG to TGA format</td><td>Feature</td></tr><tr><td>IMAGINGJAVA-1857</td><td>Export to WMF gives the image at the wrong scale</td><td>Enhancement</td></tr><tr><td>IMAGINGJAVA-1856</td><td>Export to EMF gives the image at the wrong scale</td><td>Enhancement</td></tr><tr><td>IMAGINGJAVA-1855</td><td>Add CompressionLevel to the PngOptions while SaveData</td><td>Enhancement</td></tr><tr><td>IMAGINGJAVA-1836</td><td>NullReferenceException occurs when exporting images of several vector types</td><td>Enhancement</td></tr><tr><td>IMAGINGJAVA-1834</td><td>Support exporting XMP metadata from TiffOptions in the TIFF exporter</td><td>Enhancement</td></tr><tr><td>IMAGINGJAVA-1833</td><td>PsdOptions.XmpData property is not used in the PsdExporter</td><td>Enhancement</td></tr><tr><td>IMAGINGJAVA-1821</td><td>Index was outside the bounds of the array exception when loading JPF</td><td>Enhancement</td></tr><tr><td>IMAGINGJAVA-1809</td><td>Alpha channel is not taken into account when exporting PSD image</td><td>Enhancement</td></tr><tr><td>IMAGINGJAVA-1807</td><td>Incorrect results of exporting a raster image to metafiles</td><td>Enhancement</td></tr><tr><td>IMAGINGJAVA-1805</td><td>Image saving failed exception when saving TIFF</td><td>Enhancement</td></tr><tr><td>IMAGINGJAVA-1804</td><td>Image saving failed exception when saving SVG</td><td>Enhancement</td></tr><tr><td>IMAGINGJAVA-1677</td><td>Issue in rotation resulting in multiple stripes</td><td>Enhancement</td></tr></tbody></table><h2 id=public-api-changes><strong>Public API changes:</strong></h2><p><strong>Added APIs:</strong></p><p>Please see corresponding cumulative <a href=/imaging/net/release-notes/2020/aspose-imaging-for-net-20-8-release-notes/>API changes for Aspose.Imaging for .NET 20.9</a> version</p><p><strong>Removed APIs:</strong></p><p>Please see corresponding cumulative <a href=/imaging/net/release-notes/2020/aspose-imaging-for-net-20-8-release-notes/>API changes for Aspose.Imaging for .NET 20.9</a> version</p><h2 id=usage-examples><strong>Usage Examples:</strong></h2><p><strong>IMAGINGJAVA-1857 Export to WMF gives the image at the wrong scale</strong></p><pre tabindex=0><code>// Step 1. Prepare WMF image
+try (Image image = Image.load(&#34;cat.jpg&#34;))
+{
+	image.save(&#34;cat.wmf&#34;, new WmfOptions());
+}
+
+// Step 2. Export WMF image to any raster format
+try (Image image = Image.load(&#34;cat.wmf&#34;))
+{
+	WmfRasterizationOptions wmfRasterizationOptions = new WmfRasterizationOptions();
+	wmfRasterizationOptions.setPageWidth(image.getWidth());
+	wmfRasterizationOptions.setPageHeight(image.getHeight());
+	PngOptions pngOptions = new PngOptions();
+	pngOptions.setVectorRasterizationOptions(wmfRasterizationOptions);
+	image.save(&#34;cat.png&#34;, pngOptions);
+}
+</code></pre><p><strong>IMAGINGJAVA-1856 Export to EMF gives the image at the wrong scale</strong></p><pre tabindex=0><code>// Step 1. Prepare EMF image
+try (Image image = Image.load(&#34;cat.jpg&#34;))
+{
+	image.save(&#34;cat.emf&#34;, new EmfOptions());
+}
+
+// Step 2. Export EMF image to any raster format
+try (Image image = Image.load(&#34;cat.emf&#34;))
+{
+	EmfRasterizationOptions emfRasterizationOptions = new EmfRasterizationOptions();
+	emfRasterizationOptions.setPageWidth(image.getWidth());
+	emfRasterizationOptions.setPageHeight(image.getHeight());
+	PngOptions pngOptions = new PngOptions();
+	pngOptions.setVectorRasterizationOptions(emfRasterizationOptions);
+	image.save(&#34;cat.png&#34;, pngOptions);
+}
+</code></pre><p><strong>IMAGINGJAVA-1855 Add CompressionLevel to the PngOptions while SaveData</strong></p><pre tabindex=0><code>### Saving of the PNG image with different compression levels.
+
+
+try (PngImage img = (PngImage)Image.load(&#34;test.png&#34;))
+{
+	for (int i = 0; i &lt;= 9; i++)
+	{
+		try (PngOptions options = (PngOptions)img.getOriginalOptions())
+		{
+			options.setCompressionLevel(i);
+			options.setSource(new StreamSource());
+			try (PngImage image = (PngImage) Image.create(options, img.getWidth(), img.getHeight()))
+			{
+				image.saveArgb32Pixels(img.getBounds(), img.loadArgb32Pixels(img.getBounds()));
+
+				String outputFile = String.format(&#34;compressionTest%d.png&#34;, i);
+				image.save(outputFile);
+			}
+		}
+	}
+}
+</code></pre><p><strong>IMAGINGJAVA-1838 QA .NET 20.1 2548 Corrupted watermark when converting ODG to EMF</strong></p><pre tabindex=0><code>// Do not set a license!
+String inputFilePath = &#34;VariousObjectsMultiPage.odg&#34;;
+String outputFileName = &#34;VariousObjectsMultiPage.odg.emf&#34;;
+
+com.aspose.imaging.Image image = com.aspose.imaging.Image.load(inputFilePath);
+try
+{
+	com.aspose.imaging.imageoptions.EmfOptions exportOptions = new com.aspose.imaging.imageoptions.EmfOptions();
+	exportOptions.setMultiPageOptions(new com.aspose.imaging.imageoptions.MultiPageOptions(new com.aspose.imaging.IntRange(0, 2)));
+	VectorRasterizationOptions vectorRasterizationOptions = (VectorRasterizationOptions)
+			image.getDefaultOptions(new Object[]{
+					Color.getWhite(),
+					image.getWidth(), image.getHeight()
+			});
+	vectorRasterizationOptions.setTextRenderingHint(com.aspose.imaging.TextRenderingHint.SingleBitPerPixel);
+	vectorRasterizationOptions.setSmoothingMode(com.aspose.imaging.SmoothingMode.None);
+	exportOptions.setVectorRasterizationOptions(vectorRasterizationOptions);
+
+	image.save(outputFileName, exportOptions);
+}
+finally
+{
+	image.close();
+}
+</code></pre><p><strong>IMAGINGJAVA-1836 NullReferenceException occurs when exporting images of several vector types</strong></p><pre tabindex=0><code>## EMF example
+
+
+public void exampleEmf()
+{
+	String inputFile = &#34;cat.emf&#34;;
+	String baseFolder = &#34;D:\\&#34;;
+	String inputFilePath = baseFolder + inputFile;
+	String outputFilePath = inputFilePath + &#34;.png&#34;;
+	exportRecordedEmf(inputFilePath, outputFilePath);
+	outputFilePath = baseFolder + &#34;empty.emf.png&#34;;
+	exportNewEmf(outputFilePath);
+}
+
+public void exportNewEmf(String outputFileName)
+{
+	try (EmfImage emfImage = new EmfImage(100, 100))
+	{
+		EmfRasterizationOptions emfRasterizationOptions = new EmfRasterizationOptions();
+		emfRasterizationOptions.setPageWidth(emfImage.getWidth());
+		emfRasterizationOptions.setPageHeight(emfImage.getHeight());
+		PngOptions pngOptions = new PngOptions();
+		pngOptions.setVectorRasterizationOptions(emfRasterizationOptions);
+		emfImage.save(outputFileName, pngOptions);
+	}
+}
+
+public void exportRecordedEmf(String inputFile, String outputFile)
+{
+	try (EmfImage canvasEmfImage = (EmfImage)Image.load(inputFile))
+	{
+		try (EmfImage recordedEmfImage = EmfRecorderGraphics2D.fromEmfImage(canvasEmfImage).endRecording())
+		{
+			EmfRasterizationOptions emfRasterizationOptions = new EmfRasterizationOptions();
+			emfRasterizationOptions.setPageWidth(recordedEmfImage.getWidth());
+			emfRasterizationOptions.setPageHeight(recordedEmfImage.getHeight());
+			PngOptions pngOptions = new PngOptions();
+			pngOptions.setVectorRasterizationOptions(emfRasterizationOptions);
+			recordedEmfImage.save(outputFile, pngOptions);
+		}
+	}
+}
+</code></pre><p><strong>IMAGINGJAVA-1835 CMX image throws NullReferenceExceptions when accessing PageCount property</strong></p><pre tabindex=0><code>try (Image image = Image.load(&#34;MultiPage.cmx&#34;))
+{
+	int pageCount = ((IMultipageImage)image).getPageCount();
+}
+</code></pre><p><strong>IMAGINGJAVA-1834 Support exporting XMP metadata from TiffOptions in the TIFF exporter</strong></p><pre tabindex=0><code>### Saving of the TIFF image with the specified XmpData.
+
+
+import com.aspose.imaging.Image;
+import com.aspose.imaging.fileformats.tiff.TiffImage;
+import com.aspose.imaging.fileformats.tiff.enums.TiffCompressions;
+import com.aspose.imaging.fileformats.tiff.enums.TiffExpectedFormat;
+import com.aspose.imaging.fileformats.tiff.enums.TiffPhotometrics;
+import com.aspose.imaging.imageoptions.*;
+import com.aspose.imaging.xmp.XmpHeaderPi;
+import com.aspose.imaging.xmp.XmpMeta;
+import com.aspose.imaging.xmp.XmpPacketWrapper;
+import com.aspose.imaging.xmp.XmpTrailerPi;
+
+XmpHeaderPi xmpHeader = new XmpHeaderPi();
+XmpTrailerPi xmpTrailer = new XmpTrailerPi(true);
+XmpMeta xmpMeta = new XmpMeta();
+xmpMeta.addAttribute(&#34;Test&#34;, &#34;12345&#34;);
+XmpPacketWrapper xmpPacketWrapper = new XmpPacketWrapper(xmpHeader, xmpTrailer, xmpMeta);
+
+try (TiffImage image = (TiffImage)Image.load(&#34;test.tiff&#34;))
+{
+	TiffOptions tiffOptions = new TiffOptions(TiffExpectedFormat.Default);
+	tiffOptions.setPhotometric(TiffPhotometrics.Rgb);
+	tiffOptions.setCompression(TiffCompressions.Jpeg);
+	tiffOptions.setBitsPerSample(new int[] { 8, 8, 8 });
+	tiffOptions.setXmpData(xmpPacketWrapper);
+	image.save(&#34;output.tiff&#34;, tiffOptions);
+}
+</code></pre><p><strong>IMAGINGJAVA-1833 PsdOptions.XmpData property is not used in the PsdExporter</strong></p><pre tabindex=0><code>This sample shows how to add XMP data during the export:
+
+static void main(String[] args)
+{
+	try (Image image = Image.load(&#34;34171.jpeg&#34;))
+	{
+		PsdOptions options = new PsdOptions();
+		options.setXmpData(createXmpData());
+		image.save(&#34;Export1.psd&#34;, options);
+
+		JpegOptions jpegOptions = new JpegOptions();
+		jpegOptions.setXmpData(createXmpData());
+		image.save(&#34;Export2.jpeg&#34;, jpegOptions);
+	}
+}
+
+private static XmpPacketWrapper createXmpData()
+{
+	XmpHeaderPi xmpHeader = new XmpHeaderPi(UUID.randomUUID().toString());
+
+	// Create an instance of Xmp-TrailerPi, XMP meta class to set different attributes
+	XmpTrailerPi xmpTrailer = new XmpTrailerPi(true);
+	XmpMeta xmpMeta = new XmpMeta();
+	xmpMeta.addAttribute(&#34;Author&#34;, &#34;Mr Smith&#34;);
+	xmpMeta.addAttribute(&#34;Description&#34;, &#34;The fake metadata value&#34;);
+
+	// Create an instance of XmpPacketWrapper that contains all metadata
+	XmpPacketWrapper xmpData = new XmpPacketWrapper(xmpHeader, xmpTrailer, xmpMeta);
+
+	// Create an instance of Photoshop package and set photoshop attributes
+	PhotoshopPackage photoshopPackage = new PhotoshopPackage();
+	photoshopPackage.setCity(&#34;London&#34;);
+	photoshopPackage.setCountry(&#34;England&#34;);
+	photoshopPackage.setColorMode(com.aspose.imaging.xmp.schemas.photoshop.ColorMode.Rgb);
+	photoshopPackage.setCreatedDate(new Date());
+
+	// Add photoshop package into XMP metadata
+	xmpData.addPackage(photoshopPackage);
+
+	// Create an instacne of DublinCore package and set dublinCore attributes
+	DublinCorePackage dublinCorePackage = new DublinCorePackage();
+	dublinCorePackage.setAuthor(&#34;Mudassir Fayyaz&#34;);
+	dublinCorePackage.setTitle(&#34;Confessions of a Man Insane Enough to Live With the Beasts&#34;);
+	dublinCorePackage.addValue(&#34;dc:movie&#34;, &#34;Barfly&#34;);
+
+	// Add dublinCore Package into XMP metadata
+	xmpData.addPackage(dublinCorePackage);
+	return xmpData;
+}
+</code></pre><p><strong>IMAGINGJAVA-1829 Support Jpeg, Jpeg2000 and RLE compression method in Dicom exporter</strong></p><pre tabindex=0><code>### What is a DICOM Image File?
+The DICOM standard is useful for integrating all modern imaging equipments, accessories, networking servers, workstations and printers. Because of its ease of integration and continuous evolution this communication standard has over the years achieved a nearly universal level of acceptance among vendors of radiological equipment.
+
+A DICOM image file is an outcome of the Digital Imaging and Communications in Medicine standard. Specifically, image files that are compliant with part 10 of the DICOM standard are generally referred to as “DICOM format files” or simply “DICOM files” and are represented as “.dcm”.
+
+### DICOM compression settings
+The property ***DicomOptions.Compression*** allows you to specify compression settings. For instance, ***CompressionType*** enumeration allows you to select compression algorithm: *None*, *Jpeg*, *Jpeg2000* or *Rle*. The *None* option corresponds to uncompressed DICOM image. The following code shows how to use DICOM compression settings:
+
+try (Image inputImage = Image.load(&#34;original.jpg&#34;))
+{
+	DicomOptions options = new DicomOptions();
+	options.setColorType(ColorType.Rgb24Bit);
+	Compression compression = new Compression();
+	compression.setType(CompressionType.None);
+	options.setCompression(compression);
+
+	inputImage.save(&#34;original_Uncompressed.dcm&#34;, options);
+}
+
+### Using JPEG compression in DICOM image
+To use JPEG compression algorithm you should specify *CompressionType.Jpeg* enumeration value in ***Compression.Type*** property:
+
+try (Image inputImage = Image.load(&#34;original.jpg&#34;))
+{
+	DicomOptions options = new DicomOptions();
+	options.setColorType(ColorType.Rgb24Bit);
+	Compression compression = new Compression();
+	compression.setType(CompressionType.Jpeg);
+	options.setCompression(compression);
+
+	inputImage.save(&#34;original_JPEG.dcm&#34;, options);
+}
+
+You can tune JPEG compression algorithm using ***Compression.Jpeg*** property. For instance, you can specify the *CompressionType*, *SampleRoundingMode* and *Quality*:
+
+try (Image inputImage = Image.load(&#34;original.jpg&#34;))
+{
+	DicomOptions options = new DicomOptions();
+	options.setColorType(ColorType.Rgb24Bit);
+	Compression compression = new Compression();
+	compression.setType(CompressionType.Jpeg);
+	options.setCompression(compression);
+
+	JpegOptions jpegOptions = new JpegOptions();
+	jpegOptions.setCompressionType(JpegCompressionMode.Baseline);
+	jpegOptions.setSampleRoundingMode(SampleRoundingMode.Truncate);
+	jpegOptions.setQuality(50);
+	compression.setJpeg(jpegOptions);
+
+	inputImage.save(&#34;original_JPEG_2.dcm&#34;, options);
+}
+
+### Using JPEG 2000 compression in DICOM image
+To use JPEG 2000 compression you need to use *CompressionType.Jpeg2000* enumeration value and ***Jpeg2000Options*** class for algorithm settings. The following code demonstrates how to specify JPEG 2000 *Codec* and *Irreversible* properties:
+
+try (Image inputImage = Image.load(&#34;original.jpg&#34;))
+{
+	DicomOptions options = new DicomOptions();
+	options.setColorType(ColorType.Rgb24Bit);
+	Compression compression = new Compression();
+	compression.setType(CompressionType.Jpeg2000);
+	options.setCompression(compression);
+
+	Jpeg2000Options jpeg2000Options = new Jpeg2000Options();
+	jpeg2000Options.setCodec(Jpeg2000Codec.Jp2);
+	jpeg2000Options.setIrreversible(false);
+	compression.setJpeg2000(jpeg2000Options);
+
+	inputImage.save(&#34;original_JPEG2000.dcm&#34;, options);
+}
+
+### Using RLE compression in DICOM image
+For this compression type you need to use *CompressionType.Rle* enumeration value. The RLE compression algorithm doesn&#39;t have additional settings. The following code shows how you can use RLE compression algorithm in DICOM image:
+
+try (Image inputImage = Image.load(&#34;original.jpg&#34;))
+{
+	DicomOptions options = new DicomOptions();
+	options.setColorType(ColorType.Rgb24Bit);
+	Compression compression = new Compression();
+	compression.setType(CompressionType.Rle);
+	options.setCompression(compression);
+
+    inputImage.save(&#34;original_RLE.dcm&#34;, options);
+}
+
+### How to change Color Type in DICOM compression
+The property ***DicomOptions.ColorType*** allows you to change color type in DICOM compression. There are several supported color types: *Grayscale8Bit*, *Grayscale16Bit* and *Rgb24Bit*. Use the following code in order to change the color type:
+
+try (Image inputImage = Image.load(&#34;original.jpg&#34;))
+{
+	DicomOptions options = new DicomOptions();
+	options.setColorType(ColorType.Grayscale8Bit);
+
+    inputImage.save(&#34;original_8Bit.dcm&#34;, options);
+}
+</code></pre><p><strong>IMAGINGJAVA-1821 Index was outside the bounds of the array exception when loading JPF</strong></p><pre tabindex=0><code>Provided sample.jpf file can be successfully loaded and exported. The export result can be seen in the attachments.
+
+
+try (Image image = Image.load(&#34;sample.jpf&#34;))
+{
+	PngOptions saveOptions = new PngOptions();
+	image.save(&#34;sample.jpf.png&#34;, saveOptions);
+}
+</code></pre><p><strong>IMAGINGJAVA-1820 Aspose.Imaging 20.7: WebP image loading failed</strong></p><pre tabindex=0><code>You can work with WebP image which has Exif chunk inside.
+
+try (Image image = Image.load(&#34;STK-20200807-WA0011.webp&#34;))
+{
+    image.save(&#34;Export.png&#34;, new PngOptions());
+}
+</code></pre><p><strong>IMAGINGJAVA-1810 Add CompressionLevel to the PngOptions while SaveData</strong></p><pre tabindex=0><code>### Saving of the PNG image with different compression levels.
+
+
+try (PngImage img = (PngImage)Image.load(&#34;test.png&#34;))
+{
+	for (int i = 0; i &lt;= 9; i++)
+	{
+		try (PngOptions options = (PngOptions)img.getOriginalOptions())
+		{
+			options.setCompressionLevel(i);
+			options.setSource(new StreamSource());
+			try (PngImage image = (PngImage) Image.create(options, img.getWidth(), img.getHeight()))
+			{
+				image.saveArgb32Pixels(img.getBounds(), img.loadArgb32Pixels(img.getBounds()));
+				String outputFile = String.format(&#34;compressionTest%d.png&#34;, i);
+				image.save(outputFile);
+			}
+		}
+	}
+}
+</code></pre><p><strong>IMAGINGJAVA-1809 Alpha channel is not taken into account when exporting PSD image</strong></p><pre tabindex=0><code>try (Image image = Image.load(&#34;Progressive.png&#34;))
+{
+	PsdOptions options = new PsdOptions();
+	options.setCompressionMethod(com.aspose.imaging.fileformats.psd.CompressionMethod.RLE);
+	options.setColorMode(com.aspose.imaging.fileformats.psd.ColorModes.Rgb);
+	options.setChannelBitsCount((short) 8);
+	options.setChannelsCount((short) 4);
+
+	image.save(&#34;Progressive.png.psd&#34;, options);
+}
+</code></pre><p><strong>IMAGINGJAVA-1808 Prepare default ImageOptions that will always work for all formats by default</strong></p><pre tabindex=0><code>input files in input.zip
+output files in output.zip
+
+
+String[] files = new String[] {&#34;eye.wmf&#34;, &#34;input.svg&#34;, &#34;MultiPage.cdr&#34;, &#34;MultiPage.cmx&#34;, &#34;TestEmfPlusFigures.emf&#34;, &#34;VariousObjectsMultiPage.odg&#34;, &#34;VariousObjectsMultiPage.otg&#34; };
+String baseFolder = &#34;D:\\VectorImages\\&#34;;
+for (String fileName : files)
+{
+	String inputFilePath = baseFolder + fileName;
+	String outFilePngPath = inputFilePath + &#34;.png&#34;;
+	String outFilePdfPath = inputFilePath + &#34;.pdf&#34;;
+
+	try (Image image = Image.load(inputFilePath))
+	{
+		image.save(outFilePngPath, new PngOptions());
+		image.save(outFilePdfPath, new PdfOptions());
+	}
+}
+</code></pre><p><strong>IMAGINGJAVA-1807 Incorrect results of exporting a raster image to metafiles</strong></p><pre tabindex=0><code>### EMF example
+
+String fileName = &#34;input.png&#34;;
+String baseFolder = &#34;D:\\&#34;;
+String inputFilePath = baseFolder + fileName;
+String outputFilePath = inputFilePath + &#34;.emf&#34;;
+try (Image image = Image.load(inputFilePath))
+{
+   image.save(outputFilePath, new EmfOptions());
+}
+
+
+### WMF example
+
+String fileName = &#34;input.png&#34;;
+String baseFolder = &#34;D:\\&#34;;
+String inputFilePath = baseFolder + fileName;
+String outputFilePath = inputFilePath + &#34;.wmf&#34;;
+try (Image image = Image.load(inputFilePath))
+{
+   image.save(outputFilePath, new WmfOptions());
+}
+</code></pre><p><strong>IMAGINGJAVA-1805 Image saving failed exception when saving TIFF</strong></p><pre tabindex=0><code>### Without strict mode
+
+String fileName = &#34;sample.tiff&#34;;
+String baseFolder = &#34;D:\\&#34;;
+String inputFilePath = baseFolder + fileName;
+String outputFilePath = inputFilePath + &#34;.png&#34;;
+
+try (TiffImage tiffImage = (TiffImage)Image.load(inputFilePath))
+{
+    tiffImage.getPages()[0].save(outputFilePath, new PngOptions());
+}
+
+### With strict mode
+
+String fileName = &#34;sample.tiff&#34;;
+String baseFolder = &#34;D:\\&#34;;
+String inputFilePath = baseFolder + fileName;
+try
+{
+	LoadOptions loadOptions = new LoadOptions();
+	loadOptions.setDataRecoveryMode(DataRecoveryMode.None);
+	try (Image image = Image.load(inputFilePath, loadOptions))
+	{
+		image.cacheData();
+	}
+
+	throw new TestException(&#34;Error DataRecoveryMode&#34;);
+}
+catch (RuntimeException ignored)
+{
+	// Got error
+}
+</code></pre><p><strong>IMAGINGJAVA-1804 Image saving failed exception when saving SVG</strong></p><pre tabindex=0><code>String baseFolder = &#34;D:\\&#34;;
+String fileName = &#34;sample.svg&#34;;
+String inputFile = baseFolder + fileName;
+String outputFile = inputFile + &#34;.png&#34;;
+try (Image image =  Image.load(inputFile))
+{
+	PngOptions options = new PngOptions();
+	final SvgRasterizationOptions vectorOptions = new SvgRasterizationOptions();
+	vectorOptions.setPageSize(Size.to_SizeF(image.getSize()));
+	options.setVectorRasterizationOptions(vectorOptions);
+	image.save(outputFile, options);
+}
+</code></pre><p><strong>IMAGINGJAVA-1677 Issue in rotation resulting in multiple stripes</strong></p><pre tabindex=0><code>LoadOptions imageOptions = new LoadOptions();
+imageOptions.setBufferSizeHint(450);
+Image image = Image.load(new FileInputStream(&#34;1bit.tif&#34;), imageOptions);
+try
+{
+	RasterImage rasterImage = (RasterImage)image;
+	if (!rasterImage.isCached())
+	{
+		rasterImage.cacheData();
+	}
+	rasterImage.rotate(90);
+
+	int bitsPerPixel = image.getBitsPerPixel();
+	int bitDepth;
+	if (bitsPerPixel == 1)
+	{
+		bitDepth = 1;
+	}
+	else
+	{
+		bitDepth = bitsPerPixel &lt;= 8 ? 8 : 24;
+	}
+
+	PngOptions pngOptions = new PngOptions();
+	try
+	{
+		pngOptions.setProgressive(false);
+		if (bitDepth &lt;= 8)
+		{
+			pngOptions.setColorType(PngColorType.Grayscale);
+			pngOptions.setBitDepth((byte)bitDepth);
+		}
+
+		pngOptions.setBufferSizeHint(2056);
+		buildImageDpi(pngOptions, 50, rasterImage);
+
+		rasterImage.save(&#34;output.png&#34;, pngOptions);
+	}
+	finally
+	{
+		pngOptions.close();
+	}
+}
+finally
+{
+	image.close();
+}
+
+////////////////////////
+
+LoadOptions imageOptions = new LoadOptions();
+Image image = Image.load(new FileInputStream(&#34;1bit.tif&#34;), imageOptions);
+try
+{
+	RasterImage rasterImage = (RasterImage)image;
+	if (!rasterImage.isCached())
+	{
+		rasterImage.cacheData();
+	}
+	rasterImage.rotate(90);
+
+	int bitsPerPixel = image.getBitsPerPixel();
+	int bitDepth;
+	if (bitsPerPixel == 1)
+	{
+		bitDepth = 1;
+	}
+	else
+	{
+		bitDepth = bitsPerPixel &lt;= 8 ? 8 : 24;
+	}
+
+	PngOptions pngOptions = new PngOptions();
+	try
+	{
+		pngOptions.setProgressive(true);
+		if (bitDepth &lt;= 8)
+		{
+			pngOptions.setColorType(PngColorType.Grayscale);
+			pngOptions.setBitDepth((byte)bitDepth);
+		}
+
+		pngOptions.setBufferSizeHint(2056);
+		buildImageDpi(pngOptions, 50, rasterImage);
+
+		rasterImage.save(&#34;result.png&#34;, pngOptions);
+	}
+	finally
+	{
+		pngOptions.close();
+	}
+}
+finally
+{
+	image.close();
+}
+
+////////////////////////
+
+static void buildImageDpi(ImageOptionsBase option, Integer imageDpi, RasterImage rasterImage) {
+	ResolutionSetting res = new ResolutionSetting();
+	if (imageDpi != null) {
+		res.setHorizontalResolution(imageDpi);
+		res.setVerticalResolution(imageDpi);
+	} else {
+		res.setHorizontalResolution(rasterImage.getHorizontalResolution());
+		res.setVerticalResolution(rasterImage.getVerticalResolution());
+	}
+	option.setResolutionSettings(res);
+}
+</code></pre><p><strong>IMAGINGJAVA-1468 Converting PNG to TGA format</strong></p><pre tabindex=0><code>### Loading of the PNG image and saving it as a TGA image.
+
+
+try (RasterImage image = (RasterImage)Image.load(&#34;test.png&#34;))
+{
+    image.save(&#34;test.tga&#34;, new TgaOptions());
+}
+
+
+### Loading of the PNG image, conversion of it to the TgaImage and saving as a TGA image.
+
+
+try (RasterImage image = (RasterImage)Image.load(&#34;test.png&#34;))
+{
+    try (TgaImage tgaImage = new TgaImage(image))
+    {
+        tgaImage.save(&#34;test.tga&#34;);
+    }
+}
+</code></pre></p></div></div></div></div><hr></div></div></section></div></div></div></div></div></div><div id=dvHidden style=display:none></div><div id=footer></div><a class=backtop>&nbsp;</a><div id=DynabicMenuFooter></div><script type=text/javascript>const langarray=[]</script><script type=text/javascript>jQuery(document).ready(function(){let e=$(".nested").hide(),t=$(".treeview-animated-element");$(".treeview-animated-items-header").hover(function(){$(this).children.toggleClass("Mydiv")}),$(".treeview-animated-items-header").click(function(){return console.log("mala"),$this=$(this),console.log($this.attr("id")),$target=$this.siblings(".nested"),$pointerPlus=$this.children(".fa-plus"),$pointerMinus=$this.children(".fa-minus"),$pointerPlus.removeClass("fa-plus"),$pointerPlus.addClass("fa-minus"),$pointerMinus.removeClass("fa-minus"),$pointerMinus.addClass("fa-plus"),$this.toggleClass("open"),$target.hasClass("active")?$target.removeClass("active").slideUp():$target.addClass("active").slideDown(),!1})})</script><script>(function(e,s,o,a,t,n,i){e.ContainerizeMenuObject=t,e[t]=e[t]||function(){(e[t].q=e[t].q||[]).push(arguments)},e[t].l=1*new Date,n=s.createElement(o),i=s.getElementsByTagName(o)[0],n.async=1,n.src=a,i.parentNode.append(n)})(window,document,"script","https://menu.containerize.com/scripts/engine.min.js?v=1.0.1","aspose-en")</script><script src=https://releases-qa.aspose.com/res_repo/js/highlight.min.js></script>
+<script src=https://releases-qa.aspose.com/res_repo/js/bootstrap.min.js></script>
+<script src=/js/bundle.min.js></script>
+<script src=/js/dynabic.treeview.js></script>
+<script src=/js/treeviewmanager.js></script>
+<script>hljs.highlightAll()</script><link rel=stylesheet type=text/css href=https://releases-qa.aspose.com/res_repo/css/hugocustom.css><script>$(".btn-showside .mb-5").on("click",function(){$("main .flex .dn.db-l").toggleClass("showsidebar"),$("main .flex .w-100").toggleClass("noscroll")}),$(".btn-showmenu").on("click",function(){$("nav.bg-primary-color-dark").toggleClass("showmenu")}),$(".btn-plain").on("click",function(){$("main .flex .dn.db-l").removeClass("showsidebar"),$("main .flex .dn.db-l").removeClass("showsidebar"),$("nav.bg-primary-color-dark").removeClass("showmenu")}),$(".ss-bar ul li a[data-target]").on("click",function(){$(this).find(".i.fa-angle-down").hasClass("fa-angle-up")?$(this).find("i.fa-angle-down").removeClass("fa-angle-up"):$(this).find("i.fa-angle-down").toggleClass("fa-angle-up")}),$(".btn-showside").on("click",function(){$(".ss-bar").toggleClass("showsidebar")}),$(".btn-plain").on("click",function(){$(".ss-bar").removeClass("showsidebar")})</script><script>$(document).ready(function(){$("div pre").removeAttr("style");var e,t=$(location).attr("hash");"#package-explorer"==t&&(e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]'),e&&e.click()),$('a:has(img[alt="banner"]').click(function(){event.preventDefault();var e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]');e&&e.click()}),$(window).scroll(function(){$(this).scrollTop()>150?$(".backtop").fadeIn():$(".backtop").fadeOut()}),$(".backtop").click(function(){return $("html, body").animate({scrollTop:0},600),!1}),$(".linkshow").on("click",function(){$(this).find("i").toggleClass("fa-minus-square"),$(".linkshowbox").toggleClass("hide")}),document.querySelector("body").addEventListener("click",function(t){if(t.target.classList.contains("searchButton")){$(".ss-bar").removeClass("showsidebar");try{var e=$("input[name=q]").val();gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}if(t.target.classList.contains("fa-search")){$(".ss-bar").removeClass("showsidebar");try{e=$("input[name=q]").val(),gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}},!0)})</script><script>document.querySelectorAll("pre > code").forEach(t=>{const n=t.parentNode.parentNode,e=document.createElement("button");e.classList.add("copy-code"),e.innerHTML="copy";function s(){e.innerHTML="copied!",setTimeout(()=>{e.innerHTML="copy"},2e3)}e.addEventListener("click",o=>{if("clipboard"in navigator){navigator.clipboard.writeText(t.textContent),s();return}const e=document.createRange();e.selectNodeContents(t);const n=window.getSelection();n.removeAllRanges(),n.addRange(e);try{document.execCommand("copy"),s()}catch(e){}n.removeRange(e)}),n.classList.contains("highlight")?n.appendChild(e):n.parentNode.firstChild==n||(t.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName=="TABLE"?t.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(e):t.parentNode.appendChild(e))})</script></body></html>

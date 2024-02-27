@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OCR on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/ocr/</link><description>Recent content in OCR on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 31 Jul 2023 11:36:56 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/tags/ocr/index.xml" rel="self" type="application/rss+xml"/><item><title>Download C# Class Library to Perform OCR | Aspose.OCR API</title><link>https://releases-qa.aspose.com/ocr/net/</link><pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/net/</guid><description>Support Forum
+Download Aspose.OCR to detect text from images Open NuGet Package Manager within the Microsoft Visual Studio&amp;reg;, search for Aspose.OCR and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the Installation documentation page.
+Release Notes
+Download
+PM&amp;gt;
+Install-Package Aspose.OCR
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Aspose.OCR | Image Character Recognition Java Class Library</title><link>https://releases-qa.aspose.com/ocr/java/</link><pubDate>Fri, 26 Jan 2024 07:59:15 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/java/</guid><description>Java OCR Library
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.OCR for Java is a character and optical mark recognition API that allows developers to add OCR functionality in their applications. It provides a simple set of classes for controlling character recognition.
+Convert Image to Text via Java Read characters from images. Support for JPG, PNG, GIF, BMP and TIFF image file formats for OCR.</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-python-via-net-23.4.0-linux</title><link>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-net-23.4.0-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-net-23.4.0-linux/</guid><description>&amp;nbsp;
+Aspose.OCR for Python via NET 23.4.0 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+274.06MB
+Date Added:
+3/5/2023
+Release Noteshttps://releases.aspose.com/ocr/python-net/release-notes/latest/
+DescriptionReady-to-use optical character recognition (OCR) engine
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=edd26f1dc80337a0f0f8136dd768cb50-55-8841&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Aspose.OCR | Image Character Recognition Java Class Library</title><link>https://releases-qa.aspose.com/ocr/java-gpu/</link><pubDate>Wed, 25 Oct 2023 21:03:20 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/java-gpu/</guid><description>Java OCR Library
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.OCR-GPU for Java is a character and optical mark recognition API that allows developers to add OCR functionality in their applications. It provides a simple set of classes for controlling character recognition.
+Convert Image to Text via Java Read characters from images. Support for JPG, PNG, GIF, BMP and TIFF image file formats for OCR.</description></item><item><title>Download Python Library to Perform OCR | Aspose.OCR API</title><link>https://releases-qa.aspose.com/ocr/python-net/</link><pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/python-net/</guid><description>Support Forum
+Download Aspose.OCR for Python via .NET for image recognition. Add optical character recognition (OCR) capabilities to your data science, AI, and automation solutions written in Python 3.6 or later. Extract text from photos, scans, PDF documents and other graphical files without having to delve into complex mathematical operations, neural networks, and other technical details.
+Aspose.OCR for Python via .NET can be download here and installed from local file system with the following pip command:
+Release Notes
+Download
+&amp;gt;
+pip install aspose-ocr-python-net &amp;nbsp;</description></item><item><title>Download OCR API for JavaScript | Aspose.OCR API</title><link>https://releases-qa.aspose.com/ocr/javascript-cpp/</link><pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/javascript-cpp/</guid><description>Support Forum
+Download JavaScript Library for Optical Character Recognition (OCR)
+Release Notes
+Download
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA
+What is Aspose.OCR for JavaScript via C++? Aspose.OCR for JavaScript via C++ allows you to extract text from scanned pages, photos, screenshots, and other images directly on a web page or from cross-platform Electron apps.</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-python-via-.net-23.7.0,-windows-x64</title><link>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.0-windows-x64/</guid><description>&amp;nbsp;
+Aspose.OCR for Python via .NET 23.7.0, Windows x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+265.72MB
+Date Added:
+11/7/2023
+Release Noteshttps://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-7-0-release-notes/
+DescriptionPDF without images output
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6bb16b27ab35e8d95bcc1dea4d78b132-54-9195&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-python-via-.net-23.7.0,-windows-x32</title><link>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.0-windows-x32/</guid><description>&amp;nbsp;
+Aspose.OCR for Python via .NET 23.7.0, Windows x32
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+261.7MB
+Date Added:
+11/7/2023
+Release Noteshttps://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-7-0-release-notes/
+DescriptionPDF without images output
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4049430525e853675eac0759208d9420-53-9196&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-python-via-.net-23.7.0,-linux-x86,-x64</title><link>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.0-linux-x86-x64/</guid><description>&amp;nbsp;
+Aspose.OCR for Python via .NET 23.7.0, Linux x86, x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+274.08MB
+Date Added:
+12/7/2023
+Release Noteshttps://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-7-0-release-notes/
+DescriptionPDF without images output
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6bb5bfe2fa28963e3e4a3e827955b99e-55-9198&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-python-via-.net-23.7.1,-windows-x32</title><link>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.1-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.1-windows-x32/</guid><description>&amp;nbsp;
+Aspose.OCR for Python via .NET 23.7.1, Windows x32
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+261.74MB
+Date Added:
+25/7/2023
+Release Noteshttps://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-7-1-release-notes/
+Descriptionautomatic_color_inversion
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4228897b5120cc5e6da4dfc8b7a872f4-53-9264&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-python-via-.net-23.7.1,-windows-x64</title><link>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.1-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.1-windows-x64/</guid><description>&amp;nbsp;
+Aspose.OCR for Python via .NET 23.7.1, Windows x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+265.76MB
+Date Added:
+25/7/2023
+Release Noteshttps://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-7-1-release-notes/
+Descriptionautomatic_color_inversion
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=42ca0ee1f9cefa7fe2963b61d2018bef-54-9265&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-python-via-.net-23.7.1,-linux-x86,-x64</title><link>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.1-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.1-linux-x86-x64/</guid><description>&amp;nbsp;
+Aspose.OCR for Python via .NET 23.7.1, Linux x86, x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+274.18MB
+Date Added:
+25/7/2023
+Release Noteshttps://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-7-1-release-notes/
+Descriptionautomatic_color_inversion
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0e173972fdda4894a44b7402cfb13384-55-9266&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-python-via-.net-23.7.1,-macos-x86,-x64</title><link>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.1-macos-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.1-macos-x86-x64/</guid><description>&amp;nbsp;
+Aspose.OCR for Python via .NET 23.7.1, MacOS x86, x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+272.81MB
+Date Added:
+26/7/2023
+Release Noteshttps://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-7-1-release-notes/
+Descriptionfirst release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=17cd5f34897952a02b3debe9bd2e80df-55-9273&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-python-via-.net-23.8.0,-macos-x86,-x64</title><link>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.8.0-macos-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.8.0-macos-x86-x64/</guid><description>&amp;nbsp;
+Aspose.OCR for Python via .NET 23.8.0, MacOS x86, x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+272.85MB
+Date Added:
+16/8/2023
+Release Noteshttps://docs.aspose.com/ocr/python-net/aspose-ocr-python-23-8-0-release-notes/
+DescriptionFix PDF creation
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=174cc5a1a71324a6431d5481bdd0ec25-55-9342&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-net-23.4.0-(msi)</title><link>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-for-net-23.4.0-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-for-net-23.4.0-msi/</guid><description>&amp;nbsp;
+Aspose.OCR for NET 23.4.0 (msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+230.84MB
+Date Added:
+25/4/2023
+Release Noteshttps://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-4-0-release-notes/
+DescriptionAdded support for character-by-character recognition and character bounding box detection.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c59df00b7fd183e109cdab747a91f973-47-8815&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-net-23.4.0-(dlls-only)</title><link>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-for-net-23.4.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-for-net-23.4.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OCR for NET 23.4.0 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+229.99MB
+Date Added:
+25/4/2023
+Release Noteshttps://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-4-0-release-notes/
+DescriptionAdded support for character-by-character recognition and character bounding box detection.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ab2f00fffe55fbc71fff13696a08f5e4-46-8816&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-net-23.5.0-(msi)</title><link>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-for-net-23.5.0-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-for-net-23.5.0-msi/</guid><description>&amp;nbsp;
+Aspose.OCR for NET 23.5.0 (msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+230.84MB
+Date Added:
+19/5/2023
+Release Noteshttps://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-5-0-release-notes/
+DescriptionSpecialized recognition methods have been aligned with the new API
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=39fb76b84beb006cbf3025f759bd3f92-47-8868&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-net-23.5.0-(dlls-only)</title><link>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-for-net-23.5.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-for-net-23.5.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OCR for NET 23.5.0 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+230.06MB
+Date Added:
+19/5/2023
+Release Noteshttps://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-5-0-release-notes/
+DescriptionSpecialized recognition methods have been aligned with the new API
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=dc83a6d2f706f77d0c85c4ed54d2c261-47-8870&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.ocr-gpu-for-net-23.5-(msi)</title><link>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-gpu-for-net-23.5-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-gpu-for-net-23.5-msi/</guid><description>&amp;nbsp;
+Aspose.OCR-GPU for NET 23.5 (msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+230.84MB
+Date Added:
+29/5/2023
+Release Noteshttps://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-5-0-release-notes/
+DescriptionThe package has been updated to match the latest implementation of Aspose.OCR for .NET API.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d443b12209d8cd0d66fc862eed35b062-47-8933&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---New Releases-aspose.ocr-gpu-for-net-23.5.0-(dlls-only)</title><link>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-gpu-for-net-23.5.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-gpu-for-net-23.5.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OCR-GPU for NET 23.5.0 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+230.06MB
+Date Added:
+29/5/2023
+Release Noteshttps://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-5-0-release-notes/
+DescriptionThe package has been updated to match the latest implementation of Aspose.OCR for .NET API.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f8de52edc44c91f68486eaccff253b86-47-8934&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-net-23.6.0-(msi)</title><link>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-for-net-23.6.0-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-for-net-23.6.0-msi/</guid><description>&amp;nbsp;
+Aspose.OCR for NET 23.6.0 (msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+230.86MB
+Date Added:
+20/6/2023
+Release Noteshttps://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-6-0-release-notes/
+DescriptionPlugins support, PDF without images output, progress tracking extend
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=de686f2d5b15a19f92acb902dda9ba7e-47-9046&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-net-23.6.0-(dlls-only)</title><link>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-for-net-23.6.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-for-net-23.6.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OCR for NET 23.6.0 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+230.07MB
+Date Added:
+20/6/2023
+Release Noteshttps://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-6-0-release-notes/
+DescriptionPlugins support, PDF without images output, progress tracking extend
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a7bcfabc9cc4b11496590890dfef4810-47-9047&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.ocr-gpu-for-net-23.6-(msi)</title><link>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-gpu-for-net-23.6-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-gpu-for-net-23.6-msi/</guid><description>&amp;nbsp;
+Aspose.OCR-GPU for NET 23.6 (msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+230.86MB
+Date Added:
+21/6/2023
+Release Noteshttps://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-6-0-release-notes/
+DescriptionPlugins support, PDF without images output, progress tracking extend
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=83b547560c3c8e7d8d8de0835ba8f3b7-47-9054&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title>Downloads ---New Releases-aspose.ocr-gpu-for-net-23.6.0-(dlls-only)</title><link>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-gpu-for-net-23.6.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-gpu-for-net-23.6.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OCR-GPU for NET 23.6.0 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+230.07MB
+Date Added:
+21/6/2023
+Release Noteshttps://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-6-0-release-notes/
+DescriptionPlugins support, PDF without images output, progress tracking extend
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3df4519a72a15ee3c2b7f45e4568c724-47-9055&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-net-23.7.0-(msi)</title><link>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-for-net-23.7.0-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-for-net-23.7.0-msi/</guid><description>&amp;nbsp;
+Aspose.OCR for NET 23.7.0 (msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+230.86MB
+Date Added:
+11/7/2023
+Release Noteshttps://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-7-0-release-notes/
+DescriptionOptimized the performance of AutoDewarping
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9d74c7a7051d48ecc9d829428d419cc6-47-9194&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-net-23.7.0-(dlls-only)</title><link>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-for-net-23.7.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-for-net-23.7.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OCR for NET 23.7.0 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+230.07MB
+Date Added:
+11/7/2023
+Release Noteshttps://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-7-0-release-notes/
+DescriptionOptimized the performance of AutoDewarping
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=767ca8b396c6ef13e7afcd8adadb4b3e-47-9197&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-net-23.7.1-(msi)</title><link>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-for-net-23.7.1-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-for-net-23.7.1-msi/</guid><description>&amp;nbsp;
+Aspose.OCR for NET 23.7.1 (msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+230.86MB
+Date Added:
+25/7/2023
+Release Noteshttps://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-7-1-release-notes/
+DescriptionAdded a specialized algorithm for recognizing white text on a dark background.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f2ece0d382b2f145058523d9345e168d-47-9257&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-net-23.7.1-(dlls-only)</title><link>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-for-net-23.7.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/net/new-releases/aspose.ocr-for-net-23.7.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OCR for NET 23.7.1 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+230.07MB
+Date Added:
+25/7/2023
+Release Noteshttps://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-7-1-release-notes/
+DescriptionAdded a specialized algorithm for recognizing white text on a dark background.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=19128faf7c39bb61cb8b9ba956d36c7f-47-9259&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>Aspose.OCR 23.7.1 | Optical Character Recognition Java API</title><link>https://releases-qa.aspose.com/ocr/java/23-7-1/</link><pubDate>Mon, 31 Jul 2023 11:36:56 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/java/23-7-1/</guid><description>Java OCR Library
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.OCR for Java is a character and optical mark recognition API that allows developers to add OCR functionality in their applications. It provides a simple set of classes for controlling character recognition.
+Convert Image to Text via Java Read characters from images. Support for JPG, PNG, GIF, BMP and TIFF image file formats for OCR.</description></item></channel></rss>

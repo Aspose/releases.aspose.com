@@ -1,0 +1,1655 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Download C++ Library to Detect Barcodes | Aspose.BarCode API on Releases - aspose.com</title><link>https://releases-qa.aspose.com/barcode/cpp/</link><description>Recent content in Download C++ Library to Detect Barcodes | Aspose.BarCode API on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/barcode/cpp/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-18.6 .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---18.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---18.6/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 18.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 22 File Size: 67.9 MB Posted By: evgen.noskov Views: 51 Date Added: 7/16/2018
+DescriptionIt contains Aspose.BarCode for C++ 18.6 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=893bf52de5814a699b39688c345b63f0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-18.11 .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---18.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---18.11/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 18.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 1 File Size: 69.8 MB Posted By: eldaryakupov Views: 14 Date Added: 11/16/2018
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2018/aspose-barcode-for-cpp-18-11-release-notes/DescriptionIt contains Aspose.BarCode for C++ 18.11 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ac91015e0da14214b38396b4d25e0d86&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-18.12 .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---18.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---18.12/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 18.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 14 File Size: 66.9 MB Posted By: eldaryakupov Views: 34 Date Added: 12/7/2018
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2018/aspose-barcode-for-cpp-18-12-release-notes/DescriptionIt contains Aspose.BarCode for C++ 18.12 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=647bcc13e8e24d0b9fbfeb990e1bce94&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-19.1 .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---19.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---19.1/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 19.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 6 File Size: 62.1 MB Posted By: eldaryakupov Views: 13 Date Added: 1/31/2019
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2019/aspose-barcode-for-cpp-19-1-release-notes/DescriptionIt contains Aspose.BarCode for C++ 19.1 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c80cd7edfbbc4b2fa2cc843a21a75fb3&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-19.1-linux .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---19.1-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---19.1-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 19.1 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 4 File Size: 53.8 MB Posted By: eldaryakupov Views: 13 Date Added: 1/31/2019
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2019/aspose-barcode-for-cpp-19-1-release-notes/DescriptionIt contains Aspose.BarCode for C++ 19.1 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fced08f0794044a9ac99a51d6178c8c0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-19.2 .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---19.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---19.2/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 19.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 16 File Size: 62.6 MB Posted By: eldaryakupov Views: 53 Date Added: 2/28/2019
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2019/aspose-barcode-for-cpp-19-2-release-notes/DescriptionIt contains Aspose.BarCode for C++ 19.2 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7b1f965890844b72a8b61f5d141021e0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-19.2-linux .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---19.2-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---19.2-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 19.2 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 10 File Size: 54.1 MB Posted By: eldaryakupov Views: 48 Date Added: 2/28/2019
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2019/aspose-barcode-for-cpp-19-2-release-notes/DescriptionIt contains Aspose.BarCode for C++ 19.2 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=748812f9e64343d9a2ca94b9ac5cb179&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-19.4 .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---19.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---19.4/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 19.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 4 File Size: 64.6 MB Posted By: eldaryakupov Views: 33 Date Added: 4/26/2019
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2019/aspose-barcode-for-cpp-19-4-release-notes/DescriptionIt contains Aspose.BarCode for C++ 19.4 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3bbdfb632eaa409492e96a75a3eca63d&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-19.4-linux .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---19.4-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---19.4-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 19.4 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 3 File Size: 54.1 MB Posted By: eldaryakupov Views: 29 Date Added: 4/26/2019
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2019/aspose-barcode-for-cpp-19-4-release-notes/DescriptionIt contains Aspose.BarCode for C++ 19.4 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=dcacebb3e9b44b6fae7e78aec8a71b53&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-19.5 .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---19.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---19.5/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 19.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 6 File Size: 65.0 MB Posted By: eldaryakupov Views: 40 Date Added: 5/30/2019
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2019/aspose-barcode-for-cpp-19-5-release-notes/DescriptionIt contains Aspose.BarCode for C++ 19.5 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=881fe9e6155c4ce7858e88007615469d&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-19.5-linux .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---19.5-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---19.5-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 19.5 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 6 File Size: 34.5 MB Posted By: eldaryakupov Views: 40 Date Added: 5/30/2019
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2019/aspose-barcode-for-cpp-19-5-release-notes/DescriptionIt contains Aspose.BarCode for C++ 19.5 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=826011bfed0e4adb8d296010e18f0779&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-19.7 .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---19.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---19.7/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 19.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 8 File Size: 66.7 MB Posted By: eldaryakupov Views: 189 Date Added: 7/31/2019
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2019/aspose-barcode-for-cpp-19-7-release-notes/DescriptionIt contains Aspose.BarCode for C++ 19.7 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7402b6ea179048afb0a770112897a1f1&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-19.7-linux .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---19.7-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---19.7-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 19.7 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 6 File Size: 39.3 MB Posted By: eldaryakupov Views: 56 Date Added: 7/31/2019
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2019/aspose-barcode-for-cpp-19-7-release-notes/DescriptionIt contains Aspose.BarCode for C++ 19.7 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=63bed6dc721b486591d52fbb6d09eb8d&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-19.9 .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---19.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---19.9/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 19.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 112 File Size: 65.7 MB Posted By: eldaryakupov Views: 348 Date Added: 9/18/2019
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2019/aspose-barcode-for-cpp-19-9-release-notes/DescriptionIt contains Aspose.BarCode for C++ 19.9 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2a78884991e8436dbf9851bccfca6f0e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-19.9-linux .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---19.9-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---19.9-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 19.9 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 45 File Size: 34.9 MB Posted By: eldaryakupov Views: 117 Date Added: 9/18/2019
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2019/aspose-barcode-for-cpp-19-9-release-notes/DescriptionIt contains Aspose.BarCode for C++ 19.9 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0d5aba3df44a4decab7b305c1913bb64&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-21.3 .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.3/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 21.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 5 File Size: 128.2 MB Posted By: eldaryakupov Views: 113 Date Added: 3/31/2021
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2021/aspose-barcode-for-cpp-21-3-release-notes/DescriptionIt contains Aspose.BarCode for C++ 21.3 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=26d4310992af404a927ab91d9cb696ec&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-21.3-linux .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.3-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.3-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 21.3 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 39.7 MB Posted By: eldaryakupov Views: 32 Date Added: 3/31/2021
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2021/aspose-barcode-for-cpp-21-3-release-notes/DescriptionIt contains Aspose.BarCode for C++ 21.3 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2f235d8747fd45e09a95064925468ded&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-21.4 .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.4/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 21.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 2 File Size: 128.3 MB Posted By: eldaryakupov Views: 115 Date Added: 4/22/2021
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2021/aspose-barcode-for-cpp-21-4-release-notes/DescriptionIt contains Aspose.BarCode for C++ 21.4 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5e01e78c17cc4435a8d33c3a5d23a71f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-21.4-linux .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.4-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.4-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 21.4 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 39.7 MB Posted By: eldaryakupov Views: 29 Date Added: 4/22/2021
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2021/aspose-barcode-for-cpp-21-4-release-notes/DescriptionIt contains Aspose.BarCode for C++ 21.4 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3cb51a74d489416281e690f71c42d953&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-21.5 .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.5/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 21.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 16 File Size: 128.4 MB Posted By: eldaryakupov Views: 114 Date Added: 5/21/2021
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2021/aspose-barcode-for-cpp-21-5-release-notes/DescriptionIt contains Aspose.BarCode for C++ 21.5 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3ee25888625145c69d45cface8ad66a1&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-21.5-linux .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.5-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.5-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 21.5 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 6 File Size: 39.7 MB Posted By: eldaryakupov Views: 60 Date Added: 5/21/2021
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2021/aspose-barcode-for-cpp-21-5-release-notes/DescriptionIt contains Aspose.BarCode for C++ 21.5 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9f7f70f807b1478ba1a7906a23b8fa96&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-21.7 .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.7/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 21.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 6 File Size: 128.1 MB Posted By: eldaryakupov Views: 89 Date Added: 7/24/2021
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2021/aspose-barcode-for-cpp-21-7-release-notes/DescriptionIt contains Aspose.BarCode for C++ 21.7 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=af7105b7f50f415bb3233105ede9a353&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-21.7-linux .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.7-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.7-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 21.7 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 5 File Size: 39.3 MB Posted By: eldaryakupov Views: 31 Date Added: 7/24/2021
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2021/aspose-barcode-for-cpp-21-7-release-notes/DescriptionIt contains Aspose.BarCode for C++ 21.7 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0351d78f09f84eb4bb02706c2f7205c2&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-21.8 .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.8/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 21.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 5 File Size: 128.1 MB Posted By: eldaryakupov Views: 91 Date Added: 8/24/2021
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2021/aspose-barcode-for-cpp-21-8-release-notes/DescriptionIt contains Aspose.BarCode for C++ 21.8 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=213ff19b731d4ecd8fc4720d7875ba86&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-21.8-linux .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.8-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 21.8 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 3 File Size: 39.4 MB Posted By: eldaryakupov Views: 25 Date Added: 8/24/2021
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2021/aspose-barcode-for-cpp-21-8-release-notes/DescriptionIt contains Aspose.BarCode for C++ 21.8 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=523695d73ee94f17ad9ba99194b6321e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-21.9 .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.9/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 21.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 7 File Size: 124.0 MB Posted By: eldaryakupov Views: 137 Date Added: 9/23/2021
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2021/aspose-barcode-for-cpp-21-9-release-notes/DescriptionIt contains Aspose.BarCode for C++ 21.9 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f252f64efb9842ba891890902d66df1b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-21.9-linux .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.9-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.9-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 21.9 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 36.3 MB Posted By: eldaryakupov Views: 40 Date Added: 9/23/2021
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2021/aspose-barcode-for-cpp-21-9-release-notes/DescriptionIt contains Aspose.BarCode for C++ 21.9 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=99bc0102aac344318c9eca495194ba88&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-21.10 .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.10/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 21.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 5 File Size: 124.0 MB Posted By: eldaryakupov Views: 62 Date Added: 10/26/2021
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2021/aspose-barcode-for-cpp-21-10-release-notes/DescriptionIt contains Aspose.BarCode for C++ 21.10 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=77de65df9eca4ea28196917ca91a5495&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-21.10-linux .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.10-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.10-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 21.10 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 2 File Size: 36.2 MB Posted By: eldaryakupov Views: 37 Date Added: 10/26/2021
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2021/aspose-barcode-for-cpp-21-10-release-notes/DescriptionIt contains Aspose.BarCode for C++ 21.10 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ba6375b1a07f404b8d5c96594eddbe58&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-21.11 .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.11/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 21.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 1 File Size: 120.9 MB Posted By: eldaryakupov Views: 61 Date Added: 11/25/2021
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2021/aspose-barcode-for-cpp-21-11-release-notes/DescriptionIt contains Aspose.BarCode for C++ 21.11 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=77e3ace124d940d5a834f94e454615e8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-21.11-linux .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.11-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.11-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 21.11 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 1 File Size: 35.9 MB Posted By: eldaryakupov Views: 33 Date Added: 11/25/2021
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2021/aspose-barcode-for-cpp-21-11-release-notes/DescriptionIt contains Aspose.BarCode for C++ 21.11 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f3802102924b48b080ec45eca666947b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-21.12 .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.12/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 21.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 11 File Size: 120.7 MB Posted By: eldaryakupov Views: 51 Date Added: 12/21/2021
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2021/aspose-barcode-for-cpp-21-12-release-notes/DescriptionIt contains Aspose.BarCode for C++ 21.12 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9f641e605e2248239136cf54251c4ba5&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-21.12-linux .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.12-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---21.12-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 21.12 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 3 File Size: 34.1 MB Posted By: eldaryakupov Views: 34 Date Added: 12/21/2021
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2021/aspose-barcode-for-cpp-21-12-release-notes/DescriptionIt contains Aspose.BarCode for C++ 21.12 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=17521f597e7242d6915674650a9d5071&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-22.1 .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---22.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---22.1/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 22.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 6 File Size: 134.5 MB Posted By: eldaryakupov Views: 35 Date Added: 1/27/2022
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2022/aspose-barcode-for-cpp-22-1-release-notes/DescriptionIt contains Aspose.BarCode for C++ 22.1 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e7d7816b57cc4da7a1a267014d75a176&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-22.1-linux .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---22.1-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---22.1-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 22.1 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 4 File Size: 37.9 MB Posted By: eldaryakupov Views: 24 Date Added: 1/27/2022
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2022/aspose-barcode-for-cpp-22-1-release-notes/DescriptionIt contains Aspose.BarCode for C++ 22.1 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=85ff05d5dc914b538de460e6a17c39dc&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-22.2 .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---22.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---22.2/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 22.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 5 File Size: 134.5 MB Posted By: eldaryakupov Views: 22 Date Added: 2/25/2022
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2022/aspose-barcode-for-cpp-22-2-release-notes/DescriptionIt contains Aspose.BarCode for C++ 22.2 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c178ca1e5ea84a8cbce0287c46a94a58&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.barcode-for-c++-22.2-linux .</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---22.2-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c---22.2-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 22.2 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 2 File Size: 38.0 MB Posted By: eldaryakupov Views: 14 Date Added: 2/25/2022
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2022/aspose-barcode-for-cpp-22-2-release-notes/DescriptionIt contains Aspose.BarCode for C++ 22.2 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=64dd5e2a969c4a3db9a5e659aa0dbbff&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-22.5-linux</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.5-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.5-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 22.5 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+42.2 MB
+Date Added:
+10/6/2022
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2022/aspose-barcode-for-cpp-22-5-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 22.5 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=25334556a78a43ef941f4abff48e921f-1-7441&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-22.5</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.5/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 22.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+5
+File Size:
+144.1 MB
+Date Added:
+10/6/2022
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2022/aspose-barcode-for-cpp-22-5-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 22.5 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e1d46cbda26446a98694775feb5c8b9c-1-7442&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-22.6</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.6/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 22.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+144.33MB
+Date Added:
+28/6/2022
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2022/aspose-barcode-for-cpp-22-6-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 22.6 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=aabd8e235abfd2d925f3f384a934def3-29-7571&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-22.6-linux</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.6-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.6-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 22.6 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+42.18MB
+Date Added:
+28/6/2022
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2022/aspose-barcode-for-cpp-22-6-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 22.6 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0a237f912425a739ae84dfc3bba91377-9-7572&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-22.7-linux</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.7-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.7-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 22.7 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+42.3MB
+Date Added:
+27/7/2022
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2022/aspose-barcode-for-cpp-22-7-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 22.7 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f5ee8410fc0a7cd3102e62a81d3ef5db-9-7706&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-22.7</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.7/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 22.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+144.38MB
+Date Added:
+27/7/2022
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2022/aspose-barcode-for-cpp-22-7-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 22.7 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=75d730e4dda7ad5e38963cba27c9bcc8-29-7707&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-22.8-linux</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.8-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 22.8 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+42.32MB
+Date Added:
+19/8/2022
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2022/aspose-barcode-for-cpp-22-8-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 22.8 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4c53e37a3288c958dc8e9716ea85062f-9-7787&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-22.8</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.8/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 22.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+145.31MB
+Date Added:
+19/8/2022
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2022/aspose-barcode-for-cpp-22-8-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 22.8 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=29e381650fba7d1d39b1dc35846127a1-30-7788&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-22.9-linux</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.9-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.9-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 22.9 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+42.37MB
+Date Added:
+28/9/2022
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2022/aspose-barcode-for-cpp-22-9-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 22.9 Linux release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1e0aaeb4e3121748dbc37484e141b584-9-7955&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-22.9</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.9/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 22.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+145.32MB
+Date Added:
+28/9/2022
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2022/aspose-barcode-for-cpp-22-9-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 22.9 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cc5695247ab49614289b0d5d94767ddd-30-7956&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-22.10-linux</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.10-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.10-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 22.10 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+42.85MB
+Date Added:
+21/10/2022
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2022/aspose-barcode-for-cpp-22-10-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 22.10 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3653bbe602f941f196675050b676dc82-9-8050&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-22.10</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.10/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 22.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+146.86MB
+Date Added:
+21/10/2022
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2022/aspose-barcode-for-cpp-22-10-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 22.10 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=769f64162d2dbff33630cfa78b4031f3-30-8051&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-22.11-linux</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.11-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.11-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 22.11 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+43MB
+Date Added:
+24/11/2022
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2022/aspose-barcode-for-cpp-22-11-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 22.11 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ea7e26c40651c1041852c3a34dcf5248-9-8188&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-22.11</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.11/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 22.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+147.44MB
+Date Added:
+24/11/2022
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2022/aspose-barcode-for-cpp-22-11-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 22.11 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c57429fc6fa1d36d2c280b1b19f11795-30-8189&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-22.12-linux</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.12-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.12-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 22.12 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+43.05MB
+Date Added:
+21/12/2022
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2022/aspose-barcode-for-cpp-22-12-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 22.12 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=86af06acb1502263919619d18ac3f053-9-8309&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-22.12</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-22.12/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 22.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+147.57MB
+Date Added:
+21/12/2022
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2022/aspose-barcode-for-cpp-22-12-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 22.12 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=26f226e3fc81f527e3cd7064631f6890-30-8310&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-23.1-linux</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.1-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.1-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 23.1 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+43.49MB
+Date Added:
+27/1/2023
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-1-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 23.1 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6b4b887c40d51bca0728a01308131e0a-9-8451&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-23.1</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.1/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 23.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+148.67MB
+Date Added:
+27/1/2023
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-1-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 23.1 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a698fa6bdbedc627da87371be2e5546f-30-8452&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-23.2-linux</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.2-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.2-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 23.2 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+43.45MB
+Date Added:
+22/2/2023
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-2-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 23.2 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=89f267eae6ccd2740be8119ccc90318f-9-8566&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-23.2</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.2/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 23.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+148.68MB
+Date Added:
+22/2/2023
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-2-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 23.2 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=791b316c4cd1968a8c0d5b232cb57d2a-30-8567&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-23.3-linux</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.3-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.3-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 23.3 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+43.48MB
+Date Added:
+23/3/2023
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-3-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 23.3 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=eb6a5529b8e9822b33a043b5d5606f94-9-8668&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-23.3</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.3/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 23.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+148.72MB
+Date Added:
+23/3/2023
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-3-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 23.3 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=55190357a46e4cc3a626cbc8acad562b-30-8669&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-23.4-linux</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.4-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.4-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 23.4 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+43.44MB
+Date Added:
+19/4/2023
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-4-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 23.4 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a8452f791b0cfbff98a919112cb9aa54-9-8780&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-23.4</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.4/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 23.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+148.71MB
+Date Added:
+19/4/2023
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-4-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 23.4 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=04de5ef17c26ab1110fe92513e5b672a-30-8781&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-23.5-linux</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.5-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.5-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 23.5 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+43.51MB
+Date Added:
+25/5/2023
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-5-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 23.5 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b8ffbfa592086d49dad8a5aee139f0dc-9-8908&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-23.5</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.5/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 23.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+149.3MB
+Date Added:
+25/5/2023
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-5-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 23.5 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=091294d5719cf16d7002d5f59eb4d743-30-8909&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-23.6-linux</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.6-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.6-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 23.6 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+43.59MB
+Date Added:
+28/6/2023
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-6-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 23.6 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=84caac397d6f4d2c15fc04a03ef121c4-9-9142&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-23.6</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.6/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 23.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+149.46MB
+Date Added:
+28/6/2023
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-6-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 23.6 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=772959541e6191903571104a985a517d-30-9143&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-23.7-linux</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.7-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.7-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 23.7 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+44.04MB
+Date Added:
+25/7/2023
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-7-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 23.7 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=49fca809ae4ff37dd7513a7b1f25e77e-9-9260&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-23.7</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.7/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 23.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+150.56MB
+Date Added:
+25/7/2023
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-7-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 23.7 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7be14b4b1d5fd37f2463a1835a9e820b-31-9261&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-23.8-linux</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.8-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 23.8 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+44.23MB
+Date Added:
+21/8/2023
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-8-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 23.8 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=10849d2c128e6bddecd9e9bc096c62de-9-9360&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-23.8</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.8/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 23.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+151.04MB
+Date Added:
+21/8/2023
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-8-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 23.8 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=940936c2130ba0d80ba1abc44885fbb6-31-9361&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-23.9-linux</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.9-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.9-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 23.9 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+44.17MB
+Date Added:
+20/9/2023
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-9-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 23.9 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=95383997846d255eaa9d2bc38a16ce53-9-9501&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-23.9</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.9/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 23.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+150.81MB
+Date Added:
+20/9/2023
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-9-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 23.9 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2e213bf6bece1a8887364f2bf0dd3f91-31-9502&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-23.10-linux</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.10-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.10-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 23.10 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+44.16MB
+Date Added:
+20/10/2023
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-10-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 23.10 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=26e71e631d30972a1c554557cf677ae4-9-9652&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-23.10</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.10/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 23.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+150.02MB
+Date Added:
+20/10/2023
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-10-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 23.10 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6cefad4434ccb67820c4811e45c2f2b7-31-9653&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-23.11-linux</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.11-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.11-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 23.11 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+44.23MB
+Date Added:
+28/11/2023
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-11-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 23.11 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=60c04461a87a0ac318245b2bcdb4c1e2-9-9878&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-23.11</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.11/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 23.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+150.19MB
+Date Added:
+28/11/2023
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-11-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 23.11 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8cfd1606284eb177886737ba37bd7e43-31-9879&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-23.12-linux</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.12-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.12-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 23.12 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+44.47MB
+Date Added:
+27/12/2023
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-12-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 23.12 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8d074c306770c1f5a10780e99629b1ac-9-10074&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-23.12</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.12/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 23.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+154.95MB
+Date Added:
+27/12/2023
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-12-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 23.12 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=caca65972c37396a02b19e3a67e7fa4e-31-10075&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-23.12-macos</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.12-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-23.12-macos/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 23.12 MacOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+39.18MB
+Date Added:
+29/12/2023
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2023/aspose-barcode-for-cpp-23-12-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 23.12 MacOS release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2185630e7291b0abb384a1dc80b1c3ab-8-10106&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-24.1-macos</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-24.1-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-24.1-macos/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 24.1 MacOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+80.29MB
+Date Added:
+25/1/2024
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-1-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 24.1 MacOS release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=47aa16927f7f07543e6fb62be853ef26-17-10209&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-24.1-linux</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-24.1-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-24.1-linux/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 24.1 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+45.57MB
+Date Added:
+25/1/2024
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-1-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 24.1 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1698d21ea01939bda2986d892639abc5-10-10210&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-c++-24.1</title><link>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/cpp/new-releases/aspose.barcode-for-c++-24.1/</guid><description>&amp;nbsp;
+Aspose.BarCode for C&amp;#43;&amp;#43; 24.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+155.64MB
+Date Added:
+25/1/2024
+Release Noteshttps://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-1-release-notes/
+DescriptionIt contains Aspose.BarCode for C++ 24.1 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a38f2c4ee8708f44d617278625aa6260-32-10211&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

@@ -1,0 +1,537 @@
+<!doctype html><html class=no-js lang=en><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge"><title>Aspose.CAD for .NET 1.1.0 Release notes</title><meta name=description content="Aspose.CAD for .NET 1.1.0 Release notes – the latest updates and fixes."><meta name=viewport content="width=device-width,minimum-scale=1"><link rel=canonical href=https://releases-qa.aspose.com/cad/net/release-notes/2016/aspose-cad-for-net-1-1-0-release-notes/><link rel=alternate hreflang=x-default href=https://releases-qa.aspose.com/cad/net/release-notes/2016/aspose-cad-for-net-1-1-0-release-notes/><meta name=robots content="noindex, nofollow"><link rel=apple-touch-icon sizes=180x180 href=/res_repo/apple-touch-icon.png><link rel=icon type=image/png href=/res_repo/favicon-32x32.png sizes=32x32><link rel=icon type=image/png href=/res_repo/favicon-16x16.png sizes=16x16><link rel=mask-icon href=/res_repo/safari-pinned-tab.svg color=#0594cb><meta name=theme-color content="#ffffff"><meta property="og:title" content="Aspose.CAD for .NET 1.1.0 Release notes "><meta property="og:description" content="Aspose.CAD for .NET 1.1.0 Release notes – the latest updates and fixes."><meta property="og:type" content="article"><meta property="og:url" content="https://releases-qa.aspose.com/cad/net/release-notes/2016/aspose-cad-for-net-1-1-0-release-notes/"><meta itemprop=name content="Aspose.CAD for .NET 1.1.0 Release notes"><meta itemprop=description content="Aspose.CAD for .NET 1.1.0 Release notes – the latest updates and fixes."><meta itemprop=wordCount content="1143"><meta name=twitter:card content="summary"><meta name=twitter:title content="Aspose.CAD for .NET 1.1.0 Release notes"><meta name=twitter:description content="Aspose.CAD for .NET 1.1.0 Release notes – the latest updates and fixes."><link href=/css/bootstrap.css rel=stylesheet type=text/css><script src=https://releases-qa.aspose.com/res_repo/js/jquery-1.10.2.min.js></script></head><body><div id=header></div><div class=downloadpage><div class="container-fluid bcrumb1"><div id=sticky1 class=stickytopheight>&nbsp;</div><div class=container><div class=moduletable><ul id=dvBC class=breadcrumb><li><a href=/>Home</a><span class=divider></span></li><li><a href=/cad/>Aspose.CAD Product Family</a><span class=divider></span></li><li><a href=/cad/net/>Aspose.CAD for .NET</a><span class=divider></span></li><li><a href=/cad/net/release-notes/>Release Notes</a><span class=divider></span></li><li><a href=/cad/net/release-notes/2016/>2016</a><span class=divider></span></li><li><a href=/cad/net/release-notes/2016/aspose-cad-for-net-1-1-0-release-notes/>Aspose.CAD for .NET 1.1.0 Release notes</a><span class=divider></span></li></ul></div></div></div><div class="container-fluid content2 vpanel-left"><div class=container><div class=row><div class="col-md-3 vpanel tree-section"><p class=list-title>Browse our Products<button type=button class=treeview-toggle> <span class=sr-only>Toggle navigation</span> <span class="icon expand-icon glyphicon glyphicon-hide"></span></button></p><div id=tree class="treeview hidetree"></div></div><div class="col-md-9 lhs1 col-xs-12 mobilehide node-section"><div class=box1><section role=main class="main-container page-package-details"><div class=row><div class="col-sm-9 package-details-main"><h1><strong>Aspose.CAD for .NET 1.1.0 Release notes</strong></h1><div class="tab-content body-tab-content"><div role=tabpanel class="tab-pane active" id=readme-tab><div class=readme-common><div id=readme-container><p><p>Aspose.CAD for .Net has been updated to version 1.1.0 and we are pleased to announce it. The following is a list of changes in this version of Aspose.CAD.</p><h3 id=features-and-improvements><strong>Features and Improvements</strong></h3><table><thead><tr><th style=text-align:left><strong>Key</strong></th><th style=text-align:left><strong>Summary</strong></th><th style=text-align:left><strong>Category</strong></th></tr></thead><tbody><tr><td style=text-align:left>CADNET-112</td><td style=text-align:left>Find or search text in the DWG file</td><td style=text-align:left>New Feature</td></tr><tr><td style=text-align:left>CADNET-111</td><td style=text-align:left>Support to retrieve block attribute values from within a dwg and its external references</td><td style=text-align:left>New Feature</td></tr><tr><td style=text-align:left>CADNET-16</td><td style=text-align:left>Support for DGN file format for possible conversion to PDF & raster image formats</td><td style=text-align:left>New Feature</td></tr><tr><td style=text-align:left>CADNET-118</td><td style=text-align:left>Msi misses End User Agreement link</td><td style=text-align:left>Enhancement</td></tr><tr><td style=text-align:left>CADNET-109</td><td style=text-align:left>Cad export to Bmp fails with out of memory exception</td><td style=text-align:left>Enhancement</td></tr><tr><td style=text-align:left>CADNET-88</td><td style=text-align:left>Unable to access Face3D Objects in DXF file</td><td style=text-align:left>Enhancement</td></tr></tbody></table><h3 id=usage-examples><strong>Usage Examples</strong></h3><p><strong>CADNET-112 Find or search text in the DWG file</strong></p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> using <span style=color:#f92672>(</span>CadImage cadImage <span style=color:#f92672>=</span> <span style=color:#f92672>(</span>CadImage<span style=color:#f92672>)</span>Image<span style=color:#f92672>.</span><span style=color:#a6e22e>Load</span><span style=color:#f92672>(</span>fileName<span style=color:#f92672>))</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>// search for text in the file
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    foreach <span style=color:#f92672>(</span>CadBaseEntity entity in cadImage<span style=color:#f92672>.</span><span style=color:#a6e22e>Entities</span><span style=color:#f92672>)</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>// please, note: we iterate through CadText entities here, but some other entities
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>// may contain text also, e.g. CadMText and others
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>if</span> <span style=color:#f92672>(</span>entity<span style=color:#f92672>.</span><span style=color:#a6e22e>GetType</span><span style=color:#f92672>()</span> <span style=color:#f92672>==</span> typeof<span style=color:#f92672>(</span>CadText<span style=color:#f92672>))</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            CadText text <span style=color:#f92672>=</span> <span style=color:#f92672>(</span>CadText<span style=color:#f92672>)</span>entity<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            System<span style=color:#f92672>.</span><span style=color:#a6e22e>Console</span><span style=color:#f92672>.</span><span style=color:#a6e22e>WriteLine</span><span style=color:#f92672>(</span>text<span style=color:#f92672>.</span><span style=color:#a6e22e>DefaultValue</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>// search for text on specific layout - DWG case
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>// get all layout names and link each layout with corresponding block with entities
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    CadLayoutDictionary layouts <span style=color:#f92672>=</span> cadImage<span style=color:#f92672>.</span><span style=color:#a6e22e>Layouts</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    string<span style=color:#f92672>[]</span> layoutNames <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> string<span style=color:#f92672>[</span>layouts<span style=color:#f92672>.</span><span style=color:#a6e22e>Count</span><span style=color:#f92672>];</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>int</span> i <span style=color:#f92672>=</span> 0<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    foreach <span style=color:#f92672>(</span>CadLayout layout in layouts<span style=color:#f92672>.</span><span style=color:#a6e22e>Values</span><span style=color:#f92672>)</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        layoutNames<span style=color:#f92672>[</span>i<span style=color:#f92672>++]</span> <span style=color:#f92672>=</span> layout<span style=color:#f92672>.</span><span style=color:#a6e22e>LayoutName</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        System<span style=color:#f92672>.</span><span style=color:#a6e22e>Console</span><span style=color:#f92672>.</span><span style=color:#a6e22e>WriteLine</span><span style=color:#f92672>(</span><span style=color:#e6db74>&#34;Layout &#34;</span> <span style=color:#f92672>+</span> layout<span style=color:#f92672>.</span><span style=color:#a6e22e>LayoutName</span> <span style=color:#f92672>+</span> <span style=color:#e6db74>&#34; is found&#34;</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>// find block, applicable for DWG only
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        CadBlockTableObject blockTableObjectReference <span style=color:#f92672>=</span> <span style=color:#66d9ef>null</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        foreach <span style=color:#f92672>(</span>CadBlockTableObject tableObject in cadImage<span style=color:#f92672>.</span><span style=color:#a6e22e>BlocksTables</span><span style=color:#f92672>)</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>if</span> <span style=color:#f92672>(</span>string<span style=color:#f92672>.</span><span style=color:#a6e22e>Equals</span><span style=color:#f92672>(</span>tableObject<span style=color:#f92672>.</span><span style=color:#a6e22e>HardPointerToLayout</span><span style=color:#f92672>,</span> layout<span style=color:#f92672>.</span><span style=color:#a6e22e>ObjectHandle</span><span style=color:#f92672>))</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                blockTableObjectReference <span style=color:#f92672>=</span> tableObject<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>break</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>// Collection cadBlockEntity.Entities contains information about all entities on specific layout
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>// if this collection has no elements it means layout is a copy of Model layout and contains the same entities
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        CadBlockEntity cadBlockEntity <span style=color:#f92672>=</span> cadImage<span style=color:#f92672>.</span><span style=color:#a6e22e>BlockEntities</span><span style=color:#f92672>[</span>blockTableObjectReference<span style=color:#f92672>.</span><span style=color:#a6e22e>BlockName</span><span style=color:#f92672>];</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>// search for text on specific layout - DXF case
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>//// get all layout names and separate entities between layouts by their soft owners
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>//CadLayoutDictionary layouts = cadImage.Layouts;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>//string[] layoutNames = new string[layouts.Count];
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>//int i = 0;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>//Dictionary&lt;string, List&lt;CadBaseEntity&gt;&gt; entitiesOnLayouts = new Dictionary&lt;string, List&lt;CadBaseEntity&gt;&gt;();
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>//foreach (CadLayout layout in layouts.Values)
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>//{
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>//    layoutNames[i++] = layout.LayoutName;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>//    System.Console.WriteLine(&#34;Layout &#34; + layout.LayoutName + &#34; is found&#34;);
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>//    entitiesOnLayouts.Add(layout.BlockTableRecordHandle, new List&lt;CadBaseEntity&gt;());
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>//}
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>//foreach (CadBaseEntity entity in cadImage.Entities)
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>//{
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>//    entitiesOnLayouts[entity.SoftOwner].Add(entity);
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>//}
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>// export to pdf
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    CadRasterizationOptions rasterizationOptions <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> CadRasterizationOptions<span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    rasterizationOptions<span style=color:#f92672>.</span><span style=color:#a6e22e>PageWidth</span> <span style=color:#f92672>=</span> 1600<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    rasterizationOptions<span style=color:#f92672>.</span><span style=color:#a6e22e>PageHeight</span> <span style=color:#f92672>=</span> 1600<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    rasterizationOptions<span style=color:#f92672>.</span><span style=color:#a6e22e>AutomaticLayoutsScaling</span> <span style=color:#f92672>=</span> <span style=color:#66d9ef>true</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    rasterizationOptions<span style=color:#f92672>.</span><span style=color:#a6e22e>CenterDrawing</span> <span style=color:#f92672>=</span> <span style=color:#66d9ef>true</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>// please, note: if cadBlockEntity collection mentioned above (for dwg) for selected layout or
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>// entitiesOnLayouts collection by layout&#39;s BlockTableRecordHandle (for dxf) is empty
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>// - export result file will be empty and you should draw Model layout instead
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    rasterizationOptions<span style=color:#f92672>.</span><span style=color:#a6e22e>Layouts</span> <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span><span style=color:#f92672>[]</span> <span style=color:#f92672>{</span> <span style=color:#e6db74>&#34;Layout1&#34;</span> <span style=color:#f92672>};</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    PdfOptions pdfOptions <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> PdfOptions<span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    pdfOptions<span style=color:#f92672>.</span><span style=color:#a6e22e>VectorRasterizationOptions</span> <span style=color:#f92672>=</span> rasterizationOptions<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    cadImage<span style=color:#f92672>.</span><span style=color:#a6e22e>Save</span><span style=color:#f92672>(</span>outPath<span style=color:#f92672>,</span> pdfOptions<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span></span></span></code></pre></div><p><strong>CADNET-111 Support to retrieve block attribute values from within a dwg and its external references</strong></p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> string fileName <span style=color:#f92672>=</span> <span style=color:#e6db74>&#34;BlockRef.dwg&#34;</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>using <span style=color:#f92672>(</span>CadImage image <span style=color:#f92672>=</span> <span style=color:#f92672>(</span>CadImage<span style=color:#f92672>)</span>Image<span style=color:#f92672>.</span><span style=color:#a6e22e>Load</span><span style=color:#f92672>(</span>fileName<span style=color:#f92672>))</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    bool isExternalReferenceFoundCorrectly <span style=color:#f92672>=</span> image<span style=color:#f92672>.</span><span style=color:#a6e22e>BlockEntities</span><span style=color:#f92672>[</span><span style=color:#e6db74>&#34;Drawing1&#34;</span><span style=color:#f92672>].</span><span style=color:#a6e22e>XRefPathName</span> <span style=color:#f92672>==</span> <span style=color:#960050;background-color:#1e0010>@</span><span style=color:#e6db74>&#34;.\Drawing1.dwg&#34;</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span></span></span></code></pre></div><p><strong>CADNET-16 Support for DGN file format for possible conversion to PDF & raster image formats</strong></p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> using Aspose<span style=color:#f92672>.</span><span style=color:#a6e22e>CAD</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>using Aspose<span style=color:#f92672>.</span><span style=color:#a6e22e>CAD</span><span style=color:#f92672>.</span><span style=color:#a6e22e>FileFormats</span><span style=color:#f92672>.</span><span style=color:#a6e22e>Dgn</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>...</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>string file <span style=color:#f92672>=</span> <span style=color:#e6db74>&#34;Nikon_D90_Camera.dgn&#34;</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>using <span style=color:#f92672>(</span>FileStream stream <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> FileStream<span style=color:#f92672>(</span>file<span style=color:#f92672>,</span> FileMode<span style=color:#f92672>.</span><span style=color:#a6e22e>Open</span><span style=color:#f92672>))</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    Image image <span style=color:#f92672>=</span> Image<span style=color:#f92672>.</span><span style=color:#a6e22e>Load</span><span style=color:#f92672>(</span>stream<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    DgnImage dgnImage <span style=color:#f92672>=</span> <span style=color:#f92672>(</span>DgnImage<span style=color:#f92672>)</span>image<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    DgnFileVersion version <span style=color:#f92672>=</span> dgnImage<span style=color:#f92672>.</span><span style=color:#a6e22e>Version</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span></span></span></code></pre></div><p><strong>CADNET-16 Support for DGN file format for possible conversion to PDF & raster image formats</strong></p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> using Aspose<span style=color:#f92672>.</span><span style=color:#a6e22e>CAD</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>using Aspose<span style=color:#f92672>.</span><span style=color:#a6e22e>CAD</span><span style=color:#f92672>.</span><span style=color:#a6e22e>FileFormats</span><span style=color:#f92672>.</span><span style=color:#a6e22e>Dgn</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>using Aspose<span style=color:#f92672>.</span><span style=color:#a6e22e>CAD</span><span style=color:#f92672>.</span><span style=color:#a6e22e>FileFormats</span><span style=color:#f92672>.</span><span style=color:#a6e22e>Dgn</span><span style=color:#f92672>.</span><span style=color:#a6e22e>DgnElements</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>...</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>string file <span style=color:#f92672>=</span> <span style=color:#e6db74>&#34;Nikon_D90_Camera.dgn&#34;</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>using <span style=color:#f92672>(</span>FileStream stream <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> FileStream<span style=color:#f92672>(</span>file<span style=color:#f92672>,</span> FileMode<span style=color:#f92672>.</span><span style=color:#a6e22e>Open</span><span style=color:#f92672>))</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    Image image <span style=color:#f92672>=</span> Image<span style=color:#f92672>.</span><span style=color:#a6e22e>Load</span><span style=color:#f92672>(</span>stream<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    DgnImage dgnImage <span style=color:#f92672>=</span> <span style=color:#f92672>(</span>DgnImage<span style=color:#f92672>)</span>image<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    foreach <span style=color:#f92672>(</span>var element in dgnImage<span style=color:#f92672>.</span><span style=color:#a6e22e>Elements</span><span style=color:#f92672>)</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        var asDgnPolyLineElement <span style=color:#f92672>=</span> element as DgnPolyLineElement<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>if</span> <span style=color:#f92672>(</span>asDgnPolyLineElement <span style=color:#f92672>!=</span> <span style=color:#66d9ef>null</span><span style=color:#f92672>)</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#75715e>// Element of &#39;DgnPolyLineElement&#39; type
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>continue</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        var asDgnShapeElement <span style=color:#f92672>=</span> element as DgnShapeElement<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>if</span> <span style=color:#f92672>(</span>asDgnShapeElement <span style=color:#f92672>!=</span> <span style=color:#66d9ef>null</span><span style=color:#f92672>)</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#75715e>// Element of &#39;DgnShapeElement&#39; type
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>continue</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        var asDgnSplinePoleElement <span style=color:#f92672>=</span> element as DgnSplinePoleElement<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>if</span> <span style=color:#f92672>(</span>asDgnSplinePoleElement <span style=color:#f92672>!=</span> <span style=color:#66d9ef>null</span><span style=color:#f92672>)</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#75715e>// Element of &#39;DgnSplinePoleElement&#39; type
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>continue</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        var asDgn3DSurfaceElement <span style=color:#f92672>=</span> element as Dgn3DSurfaceElement<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>if</span> <span style=color:#f92672>(</span>asDgn3DSurfaceElement <span style=color:#f92672>!=</span> <span style=color:#66d9ef>null</span><span style=color:#f92672>)</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#75715e>// Element of &#39;Dgn3DSurfaceElement&#39; type
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>continue</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        var asDgnArcElement <span style=color:#f92672>=</span> element as DgnArcElement<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>if</span> <span style=color:#f92672>(</span>asDgnArcElement <span style=color:#f92672>!=</span> <span style=color:#66d9ef>null</span><span style=color:#f92672>)</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#75715e>// Element of &#39;DgnArcElement&#39; type
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>continue</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        var asDgnBSplineCurveElement <span style=color:#f92672>=</span> element as DgnBSplineCurveElement<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>if</span> <span style=color:#f92672>(</span>asDgnBSplineCurveElement <span style=color:#f92672>!=</span> <span style=color:#66d9ef>null</span><span style=color:#f92672>)</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#75715e>// Element of &#39;DgnBSplineCurveElement&#39; type
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>continue</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        var asDgnCellHeaderElement <span style=color:#f92672>=</span> element as DgnCellHeaderElement<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>if</span> <span style=color:#f92672>(</span>asDgnCellHeaderElement <span style=color:#f92672>!=</span> <span style=color:#66d9ef>null</span><span style=color:#f92672>)</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#75715e>// Element of &#39;DgnCellHeaderElement&#39; type
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>continue</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        var asDgnCompoundElement <span style=color:#f92672>=</span> element as DgnCompoundElement<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>if</span> <span style=color:#f92672>(</span>asDgnCompoundElement <span style=color:#f92672>!=</span> <span style=color:#66d9ef>null</span><span style=color:#f92672>)</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#75715e>// Element of &#39;DgnCompoundElement&#39; type
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>continue</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        var asDgnConeElement <span style=color:#f92672>=</span> element as DgnConeElement<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>if</span> <span style=color:#f92672>(</span>asDgnConeElement <span style=color:#f92672>!=</span> <span style=color:#66d9ef>null</span><span style=color:#f92672>)</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#75715e>// Element of &#39;DgnConeElement&#39; type
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>continue</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        var asDgnCurveLineElement <span style=color:#f92672>=</span> element as DgnCurveLineElement<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>if</span> <span style=color:#f92672>(</span>asDgnCurveLineElement <span style=color:#f92672>!=</span> <span style=color:#66d9ef>null</span><span style=color:#f92672>)</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#75715e>// Element of &#39;DgnCurveLineElement&#39; type
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>continue</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        var asDgnEllipseElement <span style=color:#f92672>=</span> element as DgnEllipseElement<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>if</span> <span style=color:#f92672>(</span>asDgnEllipseElement <span style=color:#f92672>!=</span> <span style=color:#66d9ef>null</span><span style=color:#f92672>)</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#75715e>// Element of &#39;DgnEllipseElement&#39; type
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>continue</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        var asDgnLineElement <span style=color:#f92672>=</span> element as DgnLineElement<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>if</span> <span style=color:#f92672>(</span>asDgnLineElement <span style=color:#f92672>!=</span> <span style=color:#66d9ef>null</span><span style=color:#f92672>)</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#75715e>// Element of &#39;DgnLineElement&#39; type
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>continue</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        var asDgnMultiTextElement <span style=color:#f92672>=</span> element as DgnMultiTextElement<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>if</span> <span style=color:#f92672>(</span>asDgnMultiTextElement <span style=color:#f92672>!=</span> <span style=color:#66d9ef>null</span><span style=color:#f92672>)</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#75715e>// Element of &#39;DgnMultiTextElement&#39; type
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>continue</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        var asDgnSurfaceElement <span style=color:#f92672>=</span> element as DgnSurfaceElement<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>if</span> <span style=color:#f92672>(</span>asDgnSurfaceElement <span style=color:#f92672>!=</span> <span style=color:#66d9ef>null</span><span style=color:#f92672>)</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#75715e>// Element of &#39;DgnSurfaceElement&#39; type
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>continue</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        var asDgnTextElement <span style=color:#f92672>=</span> element as DgnTextElement<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>if</span> <span style=color:#f92672>(</span>asDgnTextElement <span style=color:#f92672>!=</span> <span style=color:#66d9ef>null</span><span style=color:#f92672>)</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#75715e>// Element of &#39;DgnTextElement&#39; type
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>continue</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span></span></span></code></pre></div><p><strong>CADNET-16 Support for DGN file format for possible conversion to PDF & raster image formats</strong></p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> using Aspose<span style=color:#f92672>.</span><span style=color:#a6e22e>CAD</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>using Aspose<span style=color:#f92672>.</span><span style=color:#a6e22e>CAD</span><span style=color:#f92672>.</span><span style=color:#a6e22e>FileFormats</span><span style=color:#f92672>.</span><span style=color:#a6e22e>Dgn</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>using Aspose<span style=color:#f92672>.</span><span style=color:#a6e22e>CAD</span><span style=color:#f92672>.</span><span style=color:#a6e22e>FileFormats</span><span style=color:#f92672>.</span><span style=color:#a6e22e>Dgn</span><span style=color:#f92672>.</span><span style=color:#a6e22e>DgnElements</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>...</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>string file <span style=color:#f92672>=</span> <span style=color:#e6db74>&#34;Nikon_D90_Camera.dgn&#34;</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>using <span style=color:#f92672>(</span>FileStream stream <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> FileStream<span style=color:#f92672>(</span>file<span style=color:#f92672>,</span> FileMode<span style=color:#f92672>.</span><span style=color:#a6e22e>Open</span><span style=color:#f92672>))</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    Image image <span style=color:#f92672>=</span> Image<span style=color:#f92672>.</span><span style=color:#a6e22e>Load</span><span style=color:#f92672>(</span>stream<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    DgnImage dgnImage <span style=color:#f92672>=</span> <span style=color:#f92672>(</span>DgnImage<span style=color:#f92672>)</span>image<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    foreach <span style=color:#f92672>(</span>var element in dgnImage<span style=color:#f92672>.</span><span style=color:#a6e22e>Elements</span><span style=color:#f92672>)</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        Console<span style=color:#f92672>.</span><span style=color:#a6e22e>WriteLine</span><span style=color:#f92672>(</span>element<span style=color:#f92672>.</span><span style=color:#a6e22e>Metadata</span><span style=color:#f92672>.</span><span style=color:#a6e22e>Color</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        Console<span style=color:#f92672>.</span><span style=color:#a6e22e>WriteLine</span><span style=color:#f92672>(</span>element<span style=color:#f92672>.</span><span style=color:#a6e22e>Metadata</span><span style=color:#f92672>.</span><span style=color:#a6e22e>LineStyle</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        Console<span style=color:#f92672>.</span><span style=color:#a6e22e>WriteLine</span><span style=color:#f92672>(</span>element<span style=color:#f92672>.</span><span style=color:#a6e22e>Metadata</span><span style=color:#f92672>.</span><span style=color:#a6e22e>Type</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span></span></span></code></pre></div><p><strong>CADNET-16 Support for DGN file format for possible conversion to PDF & raster image formats</strong></p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> using Aspose<span style=color:#f92672>.</span><span style=color:#a6e22e>CAD</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>...</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>string file <span style=color:#f92672>=</span> <span style=color:#e6db74>&#34;Nikon_D90_Camera.dgn&#34;</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>bool isDgnV7 <span style=color:#f92672>=</span> Image<span style=color:#f92672>.</span><span style=color:#a6e22e>GetFileFormat</span><span style=color:#f92672>(</span>file<span style=color:#f92672>)</span> <span style=color:#f92672>==</span> FileFormat<span style=color:#f92672>.</span><span style=color:#a6e22e>DgnV7</span><span style=color:#f92672>;</span></span></span></code></pre></div><p><strong>CADNET-16 Support for DGN file format for possible conversion to PDF & raster image formats</strong></p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> using Aspose<span style=color:#f92672>.</span><span style=color:#a6e22e>CAD</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>using using Aspose<span style=color:#f92672>.</span><span style=color:#a6e22e>CAD</span><span style=color:#f92672>.</span><span style=color:#a6e22e>ImageOptions</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>...</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>string file <span style=color:#f92672>=</span> <span style=color:#e6db74>&#34;Nikon_D90_Camera.dgn&#34;</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>string outFile <span style=color:#f92672>=</span> <span style=color:#e6db74>&#34;Nikon_D90_Camera.pdf&#34;</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>using <span style=color:#f92672>(</span>FileStream stream <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> FileStream<span style=color:#f92672>(</span>file<span style=color:#f92672>,</span> FileMode<span style=color:#f92672>.</span><span style=color:#a6e22e>Open</span><span style=color:#f92672>))</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    var image <span style=color:#f92672>=</span> Image<span style=color:#f92672>.</span><span style=color:#a6e22e>Load</span><span style=color:#f92672>(</span>stream<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    using <span style=color:#f92672>(</span>FileStream outStream <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> FileStream<span style=color:#f92672>(</span>outFile<span style=color:#f92672>,</span> FileMode<span style=color:#f92672>.</span><span style=color:#a6e22e>Create</span><span style=color:#f92672>))</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        var options <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> PdfOptions
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            VectorRasterizationOptions <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> DgnRasterizationOptions
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                PageWidth <span style=color:#f92672>=</span> 600<span style=color:#f92672>,</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                PageHeight <span style=color:#f92672>=</span> 300<span style=color:#f92672>,</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                CenterDrawing <span style=color:#f92672>=</span> <span style=color:#66d9ef>true</span><span style=color:#f92672>,</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                ScaleMethod <span style=color:#f92672>=</span> ScaleType<span style=color:#f92672>.</span><span style=color:#a6e22e>None</span><span style=color:#f92672>,</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                AutomaticLayoutsScaling <span style=color:#f92672>=</span> <span style=color:#66d9ef>false</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>};</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        image<span style=color:#f92672>.</span><span style=color:#a6e22e>Save</span><span style=color:#f92672>(</span>outStream<span style=color:#f92672>,</span> options<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>   <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span></span></span></code></pre></div><p><strong>CADNET-16 Support for DGN file format for possible conversion to PDF & raster image formats</strong></p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> using Aspose<span style=color:#f92672>.</span><span style=color:#a6e22e>CAD</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>using Aspose<span style=color:#f92672>.</span><span style=color:#a6e22e>CAD</span><span style=color:#f92672>.</span><span style=color:#a6e22e>ImageOptions</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>...</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>string file <span style=color:#f92672>=</span> <span style=color:#e6db74>&#34;Nikon_D90_Camera.dgn&#34;</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>string outFile <span style=color:#f92672>=</span> <span style=color:#e6db74>&#34;Nikon_D90_Camera.jpg&#34;</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>using <span style=color:#f92672>(</span>FileStream sourceStream <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> FileStream<span style=color:#f92672>(</span>file<span style=color:#f92672>,</span> FileMode<span style=color:#f92672>.</span><span style=color:#a6e22e>Open</span><span style=color:#f92672>))</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    var image <span style=color:#f92672>=</span> Image<span style=color:#f92672>.</span><span style=color:#a6e22e>Load</span><span style=color:#f92672>(</span>sourceStream<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    using <span style=color:#f92672>(</span>FileStream stream <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> FileStream<span style=color:#f92672>(</span>outFile<span style=color:#f92672>,</span> FileMode<span style=color:#f92672>.</span><span style=color:#a6e22e>Create</span><span style=color:#f92672>))</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        ImageOptionsBase options <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> JpegOptions<span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        options<span style=color:#f92672>.</span><span style=color:#a6e22e>VectorRasterizationOptions</span> <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> DgnRasterizationOptions
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            PageWidth <span style=color:#f92672>=</span> 600<span style=color:#f92672>,</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            PageHeight <span style=color:#f92672>=</span> 300<span style=color:#f92672>,</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            CenterDrawing <span style=color:#f92672>=</span> <span style=color:#66d9ef>true</span><span style=color:#f92672>,</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            ScaleMethod <span style=color:#f92672>=</span> ScaleType<span style=color:#f92672>.</span><span style=color:#a6e22e>None</span><span style=color:#f92672>,</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            AutomaticLayoutsScaling <span style=color:#f92672>=</span> <span style=color:#66d9ef>false</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>};</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        image<span style=color:#f92672>.</span><span style=color:#a6e22e>Save</span><span style=color:#f92672>(</span>stream<span style=color:#f92672>,</span> options<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span></span></span></code></pre></div><p><strong>CADNET-88 Unable to access Face3D Objects in DXF file</strong> <a href="/pages/createpage.action?spaceKey=cadnet&title=.Net&linkCreation=true&fromPageId=20381722"><strong>.Net</strong></a></p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> using Aspose<span style=color:#f92672>.</span><span style=color:#a6e22e>CAD</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>using Aspose<span style=color:#f92672>.</span><span style=color:#a6e22e>CAD</span><span style=color:#f92672>.</span><span style=color:#a6e22e>FileFormats</span><span style=color:#f92672>.</span><span style=color:#a6e22e>Cad</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>using Aspose<span style=color:#f92672>.</span><span style=color:#a6e22e>CAD</span><span style=color:#f92672>.</span><span style=color:#a6e22e>FileFormats</span><span style=color:#f92672>.</span><span style=color:#a6e22e>Cad</span><span style=color:#f92672>.</span><span style=color:#a6e22e>CadObjects</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>...</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>string fileName <span style=color:#f92672>=</span> <span style=color:#e6db74>&#34;d101_20151112_v3.00t.dxf&#34;</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>using <span style=color:#f92672>(</span>CadImage cadImage <span style=color:#f92672>=</span> <span style=color:#f92672>(</span>CadImage<span style=color:#f92672>)</span> Image<span style=color:#f92672>.</span><span style=color:#a6e22e>Load</span><span style=color:#f92672>(</span>fileName<span style=color:#f92672>))</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    foreach <span style=color:#f92672>(</span>CadBaseEntity baseEntity in cadImage<span style=color:#f92672>.</span><span style=color:#a6e22e>Entities</span><span style=color:#f92672>)</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>if</span> <span style=color:#f92672>(</span>baseEntity<span style=color:#f92672>.</span><span style=color:#a6e22e>GetType</span><span style=color:#f92672>()</span> <span style=color:#f92672>==</span> typeof<span style=color:#f92672>(</span>Cad3DFace<span style=color:#f92672>))</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            Cad3DFace cad3DFace <span style=color:#f92672>=</span> <span style=color:#f92672>(</span>Cad3DFace<span style=color:#f92672>)</span>baseEntity<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#75715e>// compare just first 3DFace entity
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>                Console<span style=color:#f92672>.</span><span style=color:#a6e22e>WriteLine</span><span style=color:#f92672>(</span>cad3DFace<span style=color:#f92672>.</span><span style=color:#a6e22e>FirstCorner</span><span style=color:#f92672>.</span><span style=color:#a6e22e>X</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                Console<span style=color:#f92672>.</span><span style=color:#a6e22e>WriteLine</span><span style=color:#f92672>(</span>cad3DFace<span style=color:#f92672>.</span><span style=color:#a6e22e>FirstCorner</span><span style=color:#f92672>.</span><span style=color:#a6e22e>Y</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                Console<span style=color:#f92672>.</span><span style=color:#a6e22e>WriteLine</span><span style=color:#f92672>(</span>cad3DFace<span style=color:#f92672>.</span><span style=color:#a6e22e>SecondCorner</span><span style=color:#f92672>.</span><span style=color:#a6e22e>X</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                Console<span style=color:#f92672>.</span><span style=color:#a6e22e>WriteLine</span><span style=color:#f92672>(</span>cad3DFace<span style=color:#f92672>.</span><span style=color:#a6e22e>SecondCorner</span><span style=color:#f92672>.</span><span style=color:#a6e22e>Y</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                Console<span style=color:#f92672>.</span><span style=color:#a6e22e>WriteLine</span><span style=color:#f92672>(</span>cad3DFace<span style=color:#f92672>.</span><span style=color:#a6e22e>ThirdCorner</span><span style=color:#f92672>.</span><span style=color:#a6e22e>X</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                Console<span style=color:#f92672>.</span><span style=color:#a6e22e>WriteLine</span><span style=color:#f92672>(</span>cad3DFace<span style=color:#f92672>.</span><span style=color:#a6e22e>ThirdCorner</span><span style=color:#f92672>.</span><span style=color:#a6e22e>Y</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                Console<span style=color:#f92672>.</span><span style=color:#a6e22e>WriteLine</span><span style=color:#f92672>(</span>cad3DFace<span style=color:#f92672>.</span><span style=color:#a6e22e>FourthCorner</span><span style=color:#f92672>.</span><span style=color:#a6e22e>X</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                Console<span style=color:#f92672>.</span><span style=color:#a6e22e>WriteLine</span><span style=color:#f92672>(</span>cad3DFace<span style=color:#f92672>.</span><span style=color:#a6e22e>FourthCorner</span><span style=color:#f92672>.</span><span style=color:#a6e22e>Y</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span></span></span></code></pre></div></p></div></div></div></div><hr></div></div></section></div></div></div></div></div></div><div id=dvHidden style=display:none></div><div id=footer></div><a class=backtop>&nbsp;</a><div id=DynabicMenuFooter></div><script type=text/javascript>const langarray=[]</script><script type=text/javascript>jQuery(document).ready(function(){let e=$(".nested").hide(),t=$(".treeview-animated-element");$(".treeview-animated-items-header").hover(function(){$(this).children.toggleClass("Mydiv")}),$(".treeview-animated-items-header").click(function(){return console.log("mala"),$this=$(this),console.log($this.attr("id")),$target=$this.siblings(".nested"),$pointerPlus=$this.children(".fa-plus"),$pointerMinus=$this.children(".fa-minus"),$pointerPlus.removeClass("fa-plus"),$pointerPlus.addClass("fa-minus"),$pointerMinus.removeClass("fa-minus"),$pointerMinus.addClass("fa-plus"),$this.toggleClass("open"),$target.hasClass("active")?$target.removeClass("active").slideUp():$target.addClass("active").slideDown(),!1})})</script><script>(function(e,s,o,a,t,n,i){e.ContainerizeMenuObject=t,e[t]=e[t]||function(){(e[t].q=e[t].q||[]).push(arguments)},e[t].l=1*new Date,n=s.createElement(o),i=s.getElementsByTagName(o)[0],n.async=1,n.src=a,i.parentNode.append(n)})(window,document,"script","https://menu.containerize.com/scripts/engine.min.js?v=1.0.1","aspose-en")</script><script src=https://releases-qa.aspose.com/res_repo/js/highlight.min.js></script>
+<script src=https://releases-qa.aspose.com/res_repo/js/bootstrap.min.js></script>
+<script src=/js/bundle.min.js></script>
+<script src=/js/dynabic.treeview.js></script>
+<script src=/js/treeviewmanager.js></script>
+<script>hljs.highlightAll()</script><link rel=stylesheet type=text/css href=https://releases-qa.aspose.com/res_repo/css/hugocustom.css><script>$(".btn-showside .mb-5").on("click",function(){$("main .flex .dn.db-l").toggleClass("showsidebar"),$("main .flex .w-100").toggleClass("noscroll")}),$(".btn-showmenu").on("click",function(){$("nav.bg-primary-color-dark").toggleClass("showmenu")}),$(".btn-plain").on("click",function(){$("main .flex .dn.db-l").removeClass("showsidebar"),$("main .flex .dn.db-l").removeClass("showsidebar"),$("nav.bg-primary-color-dark").removeClass("showmenu")}),$(".ss-bar ul li a[data-target]").on("click",function(){$(this).find(".i.fa-angle-down").hasClass("fa-angle-up")?$(this).find("i.fa-angle-down").removeClass("fa-angle-up"):$(this).find("i.fa-angle-down").toggleClass("fa-angle-up")}),$(".btn-showside").on("click",function(){$(".ss-bar").toggleClass("showsidebar")}),$(".btn-plain").on("click",function(){$(".ss-bar").removeClass("showsidebar")})</script><script>$(document).ready(function(){$("div pre").removeAttr("style");var e,t=$(location).attr("hash");"#package-explorer"==t&&(e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]'),e&&e.click()),$('a:has(img[alt="banner"]').click(function(){event.preventDefault();var e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]');e&&e.click()}),$(window).scroll(function(){$(this).scrollTop()>150?$(".backtop").fadeIn():$(".backtop").fadeOut()}),$(".backtop").click(function(){return $("html, body").animate({scrollTop:0},600),!1}),$(".linkshow").on("click",function(){$(this).find("i").toggleClass("fa-minus-square"),$(".linkshowbox").toggleClass("hide")}),document.querySelector("body").addEventListener("click",function(t){if(t.target.classList.contains("searchButton")){$(".ss-bar").removeClass("showsidebar");try{var e=$("input[name=q]").val();gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}if(t.target.classList.contains("fa-search")){$(".ss-bar").removeClass("showsidebar");try{e=$("input[name=q]").val(),gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}},!0)})</script><script>document.querySelectorAll("pre > code").forEach(t=>{const n=t.parentNode.parentNode,e=document.createElement("button");e.classList.add("copy-code"),e.innerHTML="copy";function s(){e.innerHTML="copied!",setTimeout(()=>{e.innerHTML="copy"},2e3)}e.addEventListener("click",o=>{if("clipboard"in navigator){navigator.clipboard.writeText(t.textContent),s();return}const e=document.createRange();e.selectNodeContents(t);const n=window.getSelection();n.removeAllRanges(),n.addRange(e);try{document.execCommand("copy"),s()}catch(e){}n.removeRange(e)}),n.classList.contains("highlight")?n.appendChild(e):n.parentNode.firstChild==n||(t.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName=="TABLE"?t.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(e):t.parentNode.appendChild(e))})</script></body></html>

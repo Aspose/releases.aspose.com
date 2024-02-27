@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aspose.Finance for .NET 23.11 on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/aspose.finance-for-.net-23.11/</link><description>Recent content in Aspose.Finance for .NET 23.11 on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/tags/aspose.finance-for-.net-23.11/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads ---New Releases-aspose.finance-for-.net-23.11(dlls-only)</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.11dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.11dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 23.11(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.67MB
+Date Added:
+30/11/2023
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-11-release-notes/
+DescriptionAspose.Finance for .NET 23.11 dlls release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f11dabcefbb8d577565c7d94af5b14f4-2-9910&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-23.11</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.11/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 23.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.52MB
+Date Added:
+30/11/2023
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-11-release-notes/
+DescriptionAspose.Finance for .NET 23.11
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c089c105f75f5ae1f7788c77e3d1aeab-2-9911&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

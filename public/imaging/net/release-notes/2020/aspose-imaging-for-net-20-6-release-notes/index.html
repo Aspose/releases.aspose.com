@@ -1,0 +1,573 @@
+<!doctype html><html class=no-js lang=en><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge"><title>Aspose.Imaging for .NET 20.6 - Release notes</title><meta name=description content="Aspose.Imaging for .NET 20.6 - Release notes – the latest updates and fixes."><meta name=viewport content="width=device-width,minimum-scale=1"><link rel=canonical href=https://releases-qa.aspose.com/imaging/net/release-notes/2020/aspose-imaging-for-net-20-6-release-notes/><link rel=alternate hreflang=x-default href=https://releases-qa.aspose.com/imaging/net/release-notes/2020/aspose-imaging-for-net-20-6-release-notes/><meta name=robots content="noindex, nofollow"><link rel=apple-touch-icon sizes=180x180 href=/res_repo/apple-touch-icon.png><link rel=icon type=image/png href=/res_repo/favicon-32x32.png sizes=32x32><link rel=icon type=image/png href=/res_repo/favicon-16x16.png sizes=16x16><link rel=mask-icon href=/res_repo/safari-pinned-tab.svg color=#0594cb><meta name=theme-color content="#ffffff"><meta property="og:title" content="Aspose.Imaging for .NET 20.6 - Release notes "><meta property="og:description" content="Aspose.Imaging for .NET 20.6 - Release notes – the latest updates and fixes."><meta property="og:type" content="article"><meta property="og:url" content="https://releases-qa.aspose.com/imaging/net/release-notes/2020/aspose-imaging-for-net-20-6-release-notes/"><meta itemprop=name content="Aspose.Imaging for .NET 20.6 - Release notes"><meta itemprop=description content="Aspose.Imaging for .NET 20.6 - Release notes – the latest updates and fixes."><meta itemprop=wordCount content="1901"><meta name=twitter:card content="summary"><meta name=twitter:title content="Aspose.Imaging for .NET 20.6 - Release notes"><meta name=twitter:description content="Aspose.Imaging for .NET 20.6 - Release notes – the latest updates and fixes."><link href=/css/bootstrap.css rel=stylesheet type=text/css><script src=https://releases-qa.aspose.com/res_repo/js/jquery-1.10.2.min.js></script></head><body><div id=header></div><div class=downloadpage><div class="container-fluid bcrumb1"><div id=sticky1 class=stickytopheight>&nbsp;</div><div class=container><div class=moduletable><ul id=dvBC class=breadcrumb><li><a href=/>Home</a><span class=divider></span></li><li><a href=/imaging/>Aspose.Imaging Product Family</a><span class=divider></span></li><li><a href=/imaging/net/>Aspose.Imaging for .NET</a><span class=divider></span></li><li><a href=/imaging/net/release-notes/>Release Notes</a><span class=divider></span></li><li><a href=/imaging/net/release-notes/2020/>2020</a><span class=divider></span></li><li><a href=/imaging/net/release-notes/2020/aspose-imaging-for-net-20-6-release-notes/>Aspose.Imaging for .NET 20.6 - Release notes</a><span class=divider></span></li></ul></div></div></div><div class="container-fluid content2 vpanel-left"><div class=container><div class=row><div class="col-md-3 vpanel tree-section"><p class=list-title>Browse our Products<button type=button class=treeview-toggle> <span class=sr-only>Toggle navigation</span> <span class="icon expand-icon glyphicon glyphicon-hide"></span></button></p><div id=tree class="treeview hidetree"></div></div><div class="col-md-9 lhs1 col-xs-12 mobilehide node-section"><div class=box1><section role=main class="main-container page-package-details"><div class=row><div class="col-sm-9 package-details-main"><h1><strong>Aspose.Imaging for .NET 20.6 - Release notes</strong></h1><div class="tab-content body-tab-content"><div role=tabpanel class="tab-pane active" id=readme-tab><div class=readme-common><div id=readme-container><p><table><thead><tr><th><strong>Key</strong></th><th><strong>Summary</strong></th><th><strong>Category</strong></th></tr></thead><tbody><tr><td>IMAGINGNET-3618</td><td><a href=https://docs.aspose.com/imaging/net/creating-and-manipulating-animation-using-apng-fileformat/>Implement support of APNG (animated PNG) file format</a></td><td>Feature</td></tr><tr><td>IMAGINGNET-3849</td><td>Support of a new compression method DXT1 for BMP</td><td>Feature</td></tr><tr><td>IMAGINGNET-3781</td><td>Support batch export to WebP for multi-page images</td><td>Feature</td></tr><tr><td>IMAGINGNET-3882</td><td>Cannot extract Azure label information from XMP metadata</td><td>Enhancement</td></tr><tr><td>IMAGINGNET-3804</td><td>The shape collapsed on saving WMF to PNG</td><td>Enhancement</td></tr></tbody></table><p><strong>Compact framework off notice:</strong></p><p><strong>Please note, since 20.6 release of Aspose.Imaging support of .NET Compact
+Framework was removed.</strong></p><h2 id=public-api-changes><strong>Public API changes:</strong></h2><p><strong>Added APIs:</strong></p><p>Class    Aspose.Imaging.FileFormats.Apng.ApngFrame</p><p>Class    Aspose.Imaging.FileFormats.Apng.ApngImage</p><p>Class    Aspose.Imaging.ImageOptions.ApngOptions</p><p>Field/Enum    Aspose.Imaging.FileFormat.Apng</p><p>Field/Enum    Aspose.Imaging.FileFormats.Bmp.BitmapCompression.Dxt1</p><p>Method   
+Aspose.Imaging.ColorPaletteHelper.GetCloseImagePalette(Aspose.Imaging.RasterImage,Aspose.Imaging.Rectangle,System.Int32,System.Boolean)</p><p>Method   
+Aspose.Imaging.ColorPaletteHelper.HasTransparentColors(Aspose.Imaging.IColorPalette)</p><p>Method    Aspose.Imaging.FileFormats.Apng.ApngFrame.CacheData</p><p>Method    Aspose.Imaging.FileFormats.Apng.ApngFrame.GetFullFrame</p><p>Method    Aspose.Imaging.FileFormats.Apng.ApngFrame.SaveData(System.IO.Stream)</p><p>Method   
+Aspose.Imaging.FileFormats.Apng.ApngFrame.UpdateDimensions(System.Int32,System.Int32)</p><p>Method   
+Aspose.Imaging.FileFormats.Apng.ApngImage.#ctor(Aspose.Imaging.ImageOptions.ApngOptions,System.Int32,System.Int32)</p><p>Method    Aspose.Imaging.FileFormats.Apng.ApngImage.AddFrame</p><p>Method   
+Aspose.Imaging.FileFormats.Apng.ApngImage.AddFrame(Aspose.Imaging.RasterImage)</p><p>Method   
+Aspose.Imaging.FileFormats.Apng.ApngImage.AddFrame(Aspose.Imaging.RasterImage,System.UInt32)</p><p>Method   
+Aspose.Imaging.FileFormats.Apng.ApngImage.AdjustBrightness(System.Int32)</p><p>Method   
+Aspose.Imaging.FileFormats.Apng.ApngImage.AdjustContrast(System.Single)</p><p>Method    Aspose.Imaging.FileFormats.Apng.ApngImage.AdjustGamma(System.Single)</p><p>Method   
+Aspose.Imaging.FileFormats.Apng.ApngImage.AdjustGamma(System.Single,System.Single,System.Single)</p><p>Method   
+Aspose.Imaging.FileFormats.Apng.ApngImage.BinarizeBradley(System.Double,System.Int32)</p><p>Method    Aspose.Imaging.FileFormats.Apng.ApngImage.BinarizeFixed(System.Byte)</p><p>Method    Aspose.Imaging.FileFormats.Apng.ApngImage.BinarizeOtsu</p><p>Method   
+Aspose.Imaging.FileFormats.Apng.ApngImage.Crop(Aspose.Imaging.Rectangle)</p><p>Method   
+Aspose.Imaging.FileFormats.Apng.ApngImage.Crop(System.Int32,System.Int32,System.Int32,System.Int32)</p><p>Method   
+Aspose.Imaging.FileFormats.Apng.ApngImage.Dither(Aspose.Imaging.DitheringMethod,System.Int32,Aspose.Imaging.IColorPalette)</p><p>Method   
+Aspose.Imaging.FileFormats.Apng.ApngImage.Filter(Aspose.Imaging.Rectangle,Aspose.Imaging.ImageFilters.FilterOptions.FilterOptionsBase)</p><p>Method    Aspose.Imaging.FileFormats.Apng.ApngImage.Grayscale</p><p>Method    Aspose.Imaging.FileFormats.Apng.ApngImage.InsertFrame(System.Int32)</p><p>Method   
+Aspose.Imaging.FileFormats.Apng.ApngImage.InsertFrame(System.Int32,Aspose.Imaging.RasterImage)</p><p>Method   
+Aspose.Imaging.FileFormats.Apng.ApngImage.InsertFrame(System.Int32,Aspose.Imaging.RasterImage,System.UInt32)</p><p>Method    Aspose.Imaging.FileFormats.Apng.ApngImage.PopFrameAt(System.Int32)</p><p>Method    Aspose.Imaging.FileFormats.Apng.ApngImage.RemoveAllFrames</p><p>Method    Aspose.Imaging.FileFormats.Apng.ApngImage.RemoveFrameAt(System.Int32)</p><p>Method    Aspose.Imaging.FileFormats.Apng.ApngImage.ResetDefaultImage</p><p>Method   
+Aspose.Imaging.FileFormats.Apng.ApngImage.Resize(System.Int32,System.Int32,Aspose.Imaging.ImageResizeSettings)</p><p>Method   
+Aspose.Imaging.FileFormats.Apng.ApngImage.Resize(System.Int32,System.Int32,Aspose.Imaging.ResizeType)</p><p>Method   
+Aspose.Imaging.FileFormats.Apng.ApngImage.ResizeHeightProportionally(System.Int32,Aspose.Imaging.ResizeType)</p><p>Method   
+Aspose.Imaging.FileFormats.Apng.ApngImage.ResizeWidthProportionally(System.Int32,Aspose.Imaging.ResizeType)</p><p>Method   
+Aspose.Imaging.FileFormats.Apng.ApngImage.Rotate(System.Single,System.Boolean,Aspose.Imaging.Color)</p><p>Method   
+Aspose.Imaging.FileFormats.Apng.ApngImage.RotateFlip(Aspose.Imaging.RotateFlipType)</p><p>Method   
+Aspose.Imaging.FileFormats.Apng.ApngImage.SetDefaultImage(Aspose.Imaging.RasterImage)</p><p>Method    Aspose.Imaging.ImageOptions.ApngOptions.#ctor</p><p>Method    Aspose.Imaging.RasterCachedMultipageImage.GetPagesAsEnumerable</p><p>Property    Aspose.Imaging.FileFormats.Apng.ApngFrame.BackgroundColor</p><p>Property    Aspose.Imaging.FileFormats.Apng.ApngFrame.BitsPerPixel</p><p>Property    Aspose.Imaging.FileFormats.Apng.ApngFrame.FrameLeft</p><p>Property    Aspose.Imaging.FileFormats.Apng.ApngFrame.FrameTime</p><p>Property    Aspose.Imaging.FileFormats.Apng.ApngFrame.FrameTop</p><p>Property    Aspose.Imaging.FileFormats.Apng.ApngFrame.HasAlpha</p><p>Property    Aspose.Imaging.FileFormats.Apng.ApngFrame.HasBackgroundColor</p><p>Property    Aspose.Imaging.FileFormats.Apng.ApngFrame.HasTransparentColor</p><p>Property    Aspose.Imaging.FileFormats.Apng.ApngFrame.Height</p><p>Property    Aspose.Imaging.FileFormats.Apng.ApngFrame.TransparentColor</p><p>Property    Aspose.Imaging.FileFormats.Apng.ApngFrame.Width</p><p>Property    Aspose.Imaging.FileFormats.Apng.ApngImage.DefaultFrameTime</p><p>Property    Aspose.Imaging.FileFormats.Apng.ApngImage.DefaultPage</p><p>Property    Aspose.Imaging.FileFormats.Apng.ApngImage.FileFormat</p><p>Property    Aspose.Imaging.FileFormats.Apng.ApngImage.Interlaced</p><p>Property    Aspose.Imaging.FileFormats.Apng.ApngImage.NumPlays</p><p>Property    Aspose.Imaging.FileFormats.Apng.ApngImage.PageCount</p><p>Property    Aspose.Imaging.FileFormats.Apng.ApngImage.PageExportingAction</p><p>Property    Aspose.Imaging.FileFormats.Apng.ApngImage.Pages</p><p>Property    Aspose.Imaging.FileFormats.Apng.ApngImage.XmpData</p><p>Property    Aspose.Imaging.ImageOptions.ApngOptions.DefaultFrameTime</p><p>Property    Aspose.Imaging.ImageOptions.ApngOptions.NumPlays</p><p><strong>h2. Removed APIs:</strong></p><h1 id=usage-examples><strong>Usage Examples:</strong></h1><h3 id=imagingnet-3618-implement-support-of-apng-animated-png-file-format><strong>IMAGINGNET-3618 Implement support of APNG (animated PNG) file format</strong></h3><p><strong>Creating an image and setting its pixels.</strong></p><p>// Example 1. Creating an image and setting its pixels.</p><pre tabindex=0><code>using System.Diagnostics;  
+using Aspose.Imaging;  
+using Aspose.Imaging.ImageOptions;  
+using Aspose.Imaging.FileFormats.Png;  
+using Aspose.Imaging.FileFormats.Apng;  
+
+// Load pixels from source raster image  
+Size imageSize;  
+int[] imagePixels;  
+using (RasterImage sourceImage = (RasterImage)Image.Load(&#34;not_animated.png&#34;))  
+{  
+    imageSize = sourceImage.Size;  
+    imagePixels = sourceImage.LoadArgb32Pixels(sourceImage.Bounds);  
+}  
+
+// Create APNG image and set its pixels  
+using (ApngImage image = (ApngImage)Image.Create(  
+   new ApngOptions()  
+       {  
+           Source = new FileCreateSource(&#34;created_apng.png&#34;, false),  
+            ColorType = PngColorType.TruecolorWithAlpha  
+       },  
+    imageSize.Width,  
+    imageSize.Height))  
+{  
+    image.SaveArgb32Pixels(image.Bounds, imagePixels);  
+    image.Save();  
+}  
+
+// Check output file format  
+using (Image image = Image.Load(&#34;created_apng.png&#34;)) {  
+    Debug.Assert(image.FileFormat == FileFormat.Apng);  
+    Debug.Assert(image is ApngImage);  
+}
+</code></pre><h4 id=raster-image-operations> **Raster image operations **</h4><pre tabindex=0><code>// The brightness adjustment operation  
+
+using Aspose.Imaging;  
+using Aspose.Imaging.FileFormats.Apng;  
+
+using (ApngImage image = (ApngImage)Image.Load(&#34;elephant.png&#34;))  
+{  
+ image.AdjustBrightness(100);  
+ image.Save(&#34;AdjustBrightness.png&#34;);  
+}
+</code></pre><h4 id=create-an-animated-image-from-another-single-page-image> Create an animated image from another single-page image </h4><pre tabindex=0><code>// Create an animated image from another single-page image  
+
+using Aspose.Imaging;  
+using Aspose.Imaging.ImageOptions;  
+using Aspose.Imaging.FileFormats.Apng;  
+
+const int AnimationDuration = 1000; // 1 s  
+const int FrameDuration = 70; // 70 ms  
+using (RasterImage sourceImage = (RasterImage)Image.Load(&#34;not_animated.png&#34;))  
+{  
+   ApngOptions createOptions = new ApngOptions  
+    {  
+       Source = new FileCreateSource(&#34;raster_animation.png&#34;, false),  
+       DefaultFrameTime = (uint)FrameDuration,  
+       ColorType = PngColorType.TruecolorWithAlpha,  
+    };  
+
+   using (ApngImage apngImage = (ApngImage)Image.Create(  
+       createOptions,  
+       sourceImage.Width,  
+       sourceImage.Height))  
+    {  
+       int numOfFrames = AnimationDuration / FrameDuration;  
+       int numOfFrames2 = numOfFrames / 2;  
+
+       apngImage.RemoveAllFrames();  
+
+       // add first frame  
+       apngImage.AddFrame(sourceImage, FrameDuration);  
+
+       // add intermediate frames  
+       for (int frameIndex = 1; frameIndex \&lt; numOfFrames - 1; ++frameIndex)  
+        {  
+           apngImage.AddFrame(sourceImage, FrameDuration);  
+           ApngFrame lastFrame = (ApngFrame)apngImage.Pages[apngImage.PageCount
+
+- 1];  
+      float gamma = frameIndex \&gt;= numOfFrames2 ? numOfFrames - frameIndex
+- 1 : frameIndex;  
+      lastFrame.AdjustGamma(gamma);  
+          }  
+
+       // add last frame  
+       apngImage.AddFrame(sourceImage, FrameDuration);  
+
+       apngImage.Save();  
+    }  
+}
+</code></pre><h4 id=create-apng-animation-based-on-vector-graphics-operations> Create APNG animation based on vector graphics operations </h4><pre tabindex=0><code>// Create APNG animation based on vector graphics operations  
+
+using Aspose.Imaging;  
+using Aspose.Imaging.FileFormats.Apng;  
+
+// preparing the animation scene  
+const int SceneWidth = 400;   
+const int SceneHeigth = 400;  
+const uint ActDuration = 1000; // Act duration, in milliseconds  
+const uint TotalDuration = 4000; // Total duration, in milliseconds  
+const uint FrameDuration = 50; // Frame duration, in milliseconds  
+Scene scene = new Scene();  
+
+Ellipse ellipse = new Ellipse  
+                      {  
+                         FillColor = Color.FromArgb(128, 128, 128),  
+                         CenterPoint = new PointF(SceneWidth / 2f, SceneHeigth /
+2f),  
+                         RadiusX = 80,  
+                         RadiusY = 80  
+                      };  
+scene.AddObject(ellipse);  
+
+Line line = new Line  
+                {  
+                   Color = Color.Blue,  
+                   LineWidth = 10,  
+                   StartPoint = new PointF(30, 30),  
+                   EndPoint = new PointF(SceneWidth - 30, 30)  
+                };  
+scene.AddObject(line);  
+
+IAnimation lineAnimation1 = new LinearAnimation(  
+                               delegate(float progress)  
+                                    {  
+                                       line.StartPoint = new PointF(  
+                                           30 + (progress \* (SceneWidth - 60)),  
+                                           30 + (progress \* (SceneHeigth -
+60)));  
+                                       line.Color = Color.FromArgb(  
+                                           (int)(progress \* 255),  
+                                           0,  
+                                           255 - (int)(progress \* 255));  
+                                    }) { Duration = ActDuration };  
+IAnimation lineAnimation2 = new LinearAnimation(  
+                               delegate(float progress)  
+                                    {  
+                                       line.EndPoint = new PointF(  
+                                           SceneWidth - 30 - (progress \*
+(SceneWidth - 60)),  
+                                           30 + (progress \* (SceneHeigth -
+60)));  
+                                       line.Color = Color.FromArgb(  
+                                           255,  
+                                           (int)(progress \* 255),  
+                                           0);  
+                                    })  
+                                { Duration = ActDuration };  
+IAnimation lineAnimation3 = new LinearAnimation(  
+                               delegate(float progress)  
+                                    {  
+                                       line.StartPoint = new PointF(  
+                                           SceneWidth - 30 - (progress \*
+(SceneWidth - 60)),  
+                                           SceneHeigth - 30 - (progress \*
+(SceneHeigth - 60)));  
+                                       line.Color = Color.FromArgb(  
+                                           255 - (int)(progress \* 255),  
+                                           255,  
+                                           0);  
+                                    })  
+                                { Duration = ActDuration };  
+IAnimation lineAnimation4 = new LinearAnimation(  
+                               delegate(float progress)  
+                                    {  
+                                       line.EndPoint = new PointF(  
+                                           30 + (progress \* (SceneWidth - 60)),  
+                                           SceneHeigth - 30 - (progress \*
+(SceneHeigth - 60)));  
+                                       line.Color = Color.FromArgb(  
+                                           0,  
+                                           255 - (int)(progress \* 255),  
+                                           (int)(progress \* 255));  
+                                    })  
+                                { Duration = ActDuration };  
+IAnimation fullLineAnimation = new SequentialAnimation() { lineAnimation1,
+lineAnimation2, lineAnimation3, lineAnimation4 };  
+IAnimation ellipseAnimation1 = new LinearAnimation(  
+                                  delegate(float progress)  
+                                       {  
+                                          ellipse.RadiusX += progress \* 10;  
+                                          ellipse.RadiusY += progress \* 10;  
+                                          int compValue = (int)(128 + (progress
+\* 112));  
+                                          ellipse.FillColor = Color.FromArgb(  
+                                              compValue,  
+                                              compValue,  
+                                              compValue);  
+                                       })  
+                                   { Duration = ActDuration };  
+IAnimation ellipseAnimation2 = new Delay() { Duration = ActDuration };  
+IAnimation ellipseAnimation3 = new LinearAnimation(  
+                                  delegate(float progress)  
+                                       {  
+                                          ellipse.RadiusX -= progress \* 10;  
+                                          int compValue = (int)(240 - (progress
+\* 224));  
+                                          ellipse.FillColor = Color.FromArgb(  
+                                              compValue,  
+                                              compValue,  
+                                              compValue);  
+                                       })  
+                                   { Duration = ActDuration };  
+IAnimation ellipseAnimation4 = new LinearAnimation(  
+                                  delegate(float progress)  
+                                       {  
+                                          ellipse.RadiusY -= progress \* 10;  
+                                          int compValue = (int)(16 + (progress
+\* 112));  
+                                          ellipse.FillColor = Color.FromArgb(  
+                                              compValue,  
+                                              compValue,  
+                                              compValue);  
+                                       })  
+                                   { Duration = ActDuration };  
+IAnimation fullEllipseAnimation = new SequentialAnimation() { ellipseAnimation1,
+ellipseAnimation2, ellipseAnimation3, ellipseAnimation4 };  
+scene.Animation = new ParallelAnimation() { fullLineAnimation,
+fullEllipseAnimation };  
+
+// playing the scene on the newly created ApngImage  
+ApngOptions createOptions = new ApngOptions  
+                                {  
+                                   Source = new
+FileCreateSource(&#34;vector_animation.png&#34;, false),  
+                                   ColorType = PngColorType.TruecolorWithAlpha,  
+                                };  
+
+using (ApngImage image = (ApngImage)Image.Create(createOptions, SceneWidth,
+SceneHeigth))  
+{  
+   image.DefaultFrameTime = FrameDuration;  
+   scene.Play(image, TotalDuration);  
+   image.Save();  
+}  
+
+/////////////////////////// Scene.cs /////////////////////////////  
+
+using System.Collections.Generic;  
+using Aspose.Imaging.FileFormats.Apng;  
+
+using Graphics = Aspose.Imaging.Graphics;  
+
+// The graphics scene  
+public class Scene  
+{  
+   private readonly List\&lt;IGraphicsObject\&gt; graphicsObjects = new
+List\&lt;IGraphicsObject\&gt;();  
+
+   public IAnimation Animation { get; set; }  
+
+   public void AddObject(IGraphicsObject graphicsObject)  
+    {  
+       this.graphicsObjects.Add(graphicsObject);  
+    }  
+
+   public void Play(ApngImage animationImage, uint totalDuration)  
+    {  
+       uint frameDuration = animationImage.DefaultFrameTime;  
+       uint numFrames = totalDuration / frameDuration;  
+       uint totalElapsed = 0;  
+       for (uint frameIndex = 0; frameIndex \&lt; numFrames; frameIndex++)  
+        {  
+           if (this.Animation != null)  
+            {  
+               this.Animation.Update(totalElapsed);  
+            }  
+
+           ApngFrame frame = animationImage.PageCount == 0 \|\| frameIndex \&gt; 0  
+                                  ? animationImage.AddFrame()  
+                                  : (ApngFrame)animationImage.Pages[0];  
+           Graphics graphics = new Graphics(frame);  
+           graphics.SmoothingMode = SmoothingMode.AntiAlias;  
+           foreach (IGraphicsObject graphicsObject in this.graphicsObjects)  
+            {  
+               graphicsObject.Render(graphics);  
+            }  
+
+           totalElapsed += frameDuration;  
+        }  
+    }  
+}  
+
+/////////////////////////// IGraphicsObject.cs /////////////////////////////  
+
+using Graphics = Aspose.Imaging.Graphics;  
+
+// The graphics object  
+public interface IGraphicsObject  
+{  
+   void Render(Graphics graphics);  
+}  
+
+/////////////////////////// Line.cs /////////////////////////////  
+
+using Graphics = Aspose.Imaging.Graphics;  
+
+// The line  
+public class Line : IGraphicsObject  
+{  
+   public PointF StartPoint { get; set; }  
+
+   public PointF EndPoint { get; set; }  
+
+   public float LineWidth { get; set; }  
+
+   public Color Color { get; set; }  
+
+   public void Render(Graphics graphics)  
+    {  
+       graphics.DrawLine(new Pen(this.Color, this.LineWidth), this.StartPoint,
+this.EndPoint);  
+    }  
+}  
+
+/////////////////////////// Ellipse.cs /////////////////////////////  
+
+using Aspose.Imaging.Brushes;  
+
+using Graphics = Aspose.Imaging.Graphics;  
+
+// The ellipse  
+public class Ellipse : IGraphicsObject  
+{  
+   public Color FillColor { get; set; }  
+
+   public PointF CenterPoint { get; set; }  
+
+   public float RadiusX { get; set; }  
+
+   public float RadiusY { get; set; }  
+
+   public void Render(Graphics graphics)  
+    {  
+       graphics.FillEllipse(  
+           new SolidBrush(this.FillColor),  
+           this.CenterPoint.X - this.RadiusX,  
+           this.CenterPoint.Y - this.RadiusY,  
+           this.RadiusX \* 2,  
+           this.RadiusY \* 2);  
+    }  
+}  
+
+/////////////////////////// IAnimation.cs /////////////////////////////  
+
+// The animation  
+public interface IAnimation  
+{  
+// The animation duration, in milliseconds.  
+   uint Duration { get; set; }  
+
+   void Update(uint elapsed);  
+}  
+
+/////////////////////////// LinearAnimation.cs /////////////////////////////  
+
+// The linear animation  
+public class LinearAnimation : IAnimation  
+{  
+   private readonly AnimationProgressHandler progressHandler;  
+
+   public delegate void AnimationProgressHandler(float progress);  
+
+   public LinearAnimation(AnimationProgressHandler progressHandler)  
+    {  
+       if (progressHandler == null)  
+        {  
+           throw new System.ArgumentNullException(&#34;progressHandler&#34;);  
+        }  
+
+       this.progressHandler = progressHandler;  
+    }  
+
+   public uint Duration { get; set; }  
+
+   public void Update(uint elapsed)  
+    {  
+       if (elapsed \&lt;= this.Duration)  
+        {  
+           this.progressHandler.Invoke((float)elapsed / this.Duration);  
+        }  
+    }  
+}  
+
+/////////////////////////// Delay.cs /////////////////////////////  
+
+// The simple delay between other animations  
+public class Delay : IAnimation  
+{  
+   public uint Duration { get; set; }  
+
+   public void Update(uint elapsed)  
+    {  
+       // nop  
+    }  
+}  
+
+/////////////////////////// ParallelAnimation.cs /////////////////////////////  
+
+using System.Collections.Generic;  
+
+// The parallel animation processor  
+public class ParallelAnimation : List\&lt;IAnimation\&gt;, IAnimation  
+{  
+   public uint Duration  
+    {  
+       get  
+        {  
+           uint maxDuration = 0;  
+           foreach (IAnimation animation in this)  
+            {  
+               if (maxDuration \&lt; animation.Duration)  
+                {  
+                   maxDuration = animation.Duration;  
+                }  
+            }  
+
+           return maxDuration;  
+        }  
+
+       set  
+        {  
+           throw new System.NotSupportedException();  
+        }  
+    }  
+
+   public void Update(uint elapsed)  
+    {  
+       foreach (IAnimation animation in this)  
+        {  
+           animation.Update(elapsed);  
+        }  
+    }  
+}  
+
+/////////////////////////// SequentialAnimation.cs /////////////////////////////  
+
+using System.Collections.Generic;  
+
+// The sequential animation processor  
+public class SequentialAnimation : List\&lt;IAnimation\&gt;, IAnimation  
+{  
+   public uint Duration  
+    {  
+       get  
+        {  
+           uint summDuration = 0;  
+           foreach (IAnimation animation in this)  
+            {  
+               summDuration += animation.Duration;  
+            }  
+
+           return summDuration;  
+        }  
+
+       set  
+        {  
+           throw new System.NotSupportedException();  
+        }  
+    }  
+
+   public void Update(uint elapsed)  
+    {  
+       uint totalDuration = 0;  
+       foreach (IAnimation animation in this)  
+        {  
+           if (totalDuration \&gt; elapsed)  
+            {  
+               break;  
+            }  
+             
+           animation.Update(elapsed - totalDuration);  
+           totalDuration += animation.Duration;  
+        }  
+    }  
+}
+</code></pre><h3 id=imagingnet-3804-the-shape-collapsed-on-saving-wmf-to-png><strong>IMAGINGNET-3804 The shape collapsed on saving WMF to PNG</strong></h3><pre tabindex=0><code>using (Image image = Image.Load(&#34;image1.wmf&#34;))  
+{  
+        image.Save(  
+           &#34;output.png&#34;,  
+           new PngOptions()  
+           {  
+                   VectorRasterizationOptions = new WmfRasterizationOptions()  
+                   {  
+                            TextRenderingHint =
+TextRenderingHint.SingleBitPerPixel,  
+                            SmoothingMode = SmoothingMode.None,  
+                            PageWidth = image.Width,  
+                            PageHeight = image.Height  
+                   }  
+             });  
+}
+</code></pre><h3 id=imagingnet-3781-support-batch-export-to-webp-for-multi-page-images><strong>IMAGINGNET-3781 Support batch export to WebP for multi-page images</strong></h3><pre tabindex=0><code>using (TiffImage tiffImage = (TiffImage)Image.Load(&#34;10MB_Tif.tif&#34;))  
+{  
+   // Set batch operation for pages  
+   tiffImage.PageExportingAction = delegate(int index, Image page)  
+         {  
+            // Fires garbage collection to avoid unnecessary garbage storage
+from previous pages  
+            GC.Collect();  
+
+            ((RasterImage)page).Rotate(90);  
+         };  
+
+   tiffImage.Save(&#34;rotated.webp&#34;, new WebPOptions());  
+
+   /* Attention! In batch mode all pages will be released in this line!  
+    If you want to further perform operations on the original image, you should reload it from the source
+    to another instance. */  
+}
+</code></pre><h3 id=imagingnet-3849--support-of-a-new-compression-method-dxt1-for-bmp><strong>IMAGINGNET-3849 -Support of a new compression method DXT1 for BMP</strong></h3><h4 id=dxt-compression>DXT Compression</h4><p>DXTn is a group of related lossy texture compression algorithms. There are five
+variations of the algorithm (named DXT1 through DXT5), each designed for
+specific types of image data. All convert a 4X4 block of pixels to a 64-bit or
+128-bit quantity, resulting in compression ratios of 6:1 with 24-bit RGB input
+data or 4:1 with 32-bit RGBA input data. Its inclusion in Microsoft&rsquo;s DirectX
+6.0 and OpenGL 1.3 led to widespread adoption of the technology among hardware
+and software makers.</p><h4 id=dxt1-algorithm>DXT1 Algorithm</h4><p>DXT1 (also known as Block Compression 1 or BC1) is the most simple compression
+and also the basis for the other types of DXT algorithms. It is the smallest
+variation of DXT, storing 16 input pixels in 64 bits of output, consisting of
+two 16-bit color values and a 4X4 two-bit lookup table. The color information is
+also stored with a compression so that only 16 bits are used per color. This
+means that these 16 pixels of the texture only take 64 bits to store (32 for the
+palette and 32 for the indexing). That is a compression ratio of 1:8.</p><h4 id=how-to-use-dxt1-compression>How to use DXT1 compression</h4><p>The following code demonstrates how you can compress an existing image using
+DXT1 compression:</p><pre tabindex=0><code>using (var image = Image.Load(&#34;Tiger.bmp&#34;))  
+{  
+    image.Save(&#34;CompressedTiger.bmp&#34;, new BmpOptions { Compression =
+BitmapCompression.Dxt1 });  
+}
+</code></pre><h4 id=how-to-decompress-image>How to decompress image</h4><p>The following code shows how to decompress previously compressed image:</p><pre tabindex=0><code>using (var image = Image.Load(&#34;CompressedTiger.bmp&#34;))  
+{  
+    image.Save(&#34;DecompressedTiger.bmp&#34;, new BmpOptions());  
+}
+</code></pre><h3 id=imagingnet-3882-cannot-extract-azure-label-information-from-xmp-metadata><strong>IMAGINGNET-3882 Cannot extract Azure label information from XMP metadata</strong></h3><pre tabindex=0><code>using (JpegImage image = (JpegImage)Image.Load(path))  
+{  
+   XmpPackage msipPackage = image.XmpData?.Packages.FirstOrDefault(p =\&gt;
+p.Prefix == &#34;msip&#34;);  
+   if (msipPackage != null)  
+    {  
+        Console.WriteLine(msipPackage.GetXmlValue());  
+    }  
+}
+</code></pre></p></div></div></div></div><hr></div></div></section></div></div></div></div></div></div><div id=dvHidden style=display:none></div><div id=footer></div><a class=backtop>&nbsp;</a><div id=DynabicMenuFooter></div><script type=text/javascript>const langarray=[]</script><script type=text/javascript>jQuery(document).ready(function(){let e=$(".nested").hide(),t=$(".treeview-animated-element");$(".treeview-animated-items-header").hover(function(){$(this).children.toggleClass("Mydiv")}),$(".treeview-animated-items-header").click(function(){return console.log("mala"),$this=$(this),console.log($this.attr("id")),$target=$this.siblings(".nested"),$pointerPlus=$this.children(".fa-plus"),$pointerMinus=$this.children(".fa-minus"),$pointerPlus.removeClass("fa-plus"),$pointerPlus.addClass("fa-minus"),$pointerMinus.removeClass("fa-minus"),$pointerMinus.addClass("fa-plus"),$this.toggleClass("open"),$target.hasClass("active")?$target.removeClass("active").slideUp():$target.addClass("active").slideDown(),!1})})</script><script>(function(e,s,o,a,t,n,i){e.ContainerizeMenuObject=t,e[t]=e[t]||function(){(e[t].q=e[t].q||[]).push(arguments)},e[t].l=1*new Date,n=s.createElement(o),i=s.getElementsByTagName(o)[0],n.async=1,n.src=a,i.parentNode.append(n)})(window,document,"script","https://menu.containerize.com/scripts/engine.min.js?v=1.0.1","aspose-en")</script><script src=https://releases-qa.aspose.com/res_repo/js/highlight.min.js></script>
+<script src=https://releases-qa.aspose.com/res_repo/js/bootstrap.min.js></script>
+<script src=/js/bundle.min.js></script>
+<script src=/js/dynabic.treeview.js></script>
+<script src=/js/treeviewmanager.js></script>
+<script>hljs.highlightAll()</script><link rel=stylesheet type=text/css href=https://releases-qa.aspose.com/res_repo/css/hugocustom.css><script>$(".btn-showside .mb-5").on("click",function(){$("main .flex .dn.db-l").toggleClass("showsidebar"),$("main .flex .w-100").toggleClass("noscroll")}),$(".btn-showmenu").on("click",function(){$("nav.bg-primary-color-dark").toggleClass("showmenu")}),$(".btn-plain").on("click",function(){$("main .flex .dn.db-l").removeClass("showsidebar"),$("main .flex .dn.db-l").removeClass("showsidebar"),$("nav.bg-primary-color-dark").removeClass("showmenu")}),$(".ss-bar ul li a[data-target]").on("click",function(){$(this).find(".i.fa-angle-down").hasClass("fa-angle-up")?$(this).find("i.fa-angle-down").removeClass("fa-angle-up"):$(this).find("i.fa-angle-down").toggleClass("fa-angle-up")}),$(".btn-showside").on("click",function(){$(".ss-bar").toggleClass("showsidebar")}),$(".btn-plain").on("click",function(){$(".ss-bar").removeClass("showsidebar")})</script><script>$(document).ready(function(){$("div pre").removeAttr("style");var e,t=$(location).attr("hash");"#package-explorer"==t&&(e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]'),e&&e.click()),$('a:has(img[alt="banner"]').click(function(){event.preventDefault();var e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]');e&&e.click()}),$(window).scroll(function(){$(this).scrollTop()>150?$(".backtop").fadeIn():$(".backtop").fadeOut()}),$(".backtop").click(function(){return $("html, body").animate({scrollTop:0},600),!1}),$(".linkshow").on("click",function(){$(this).find("i").toggleClass("fa-minus-square"),$(".linkshowbox").toggleClass("hide")}),document.querySelector("body").addEventListener("click",function(t){if(t.target.classList.contains("searchButton")){$(".ss-bar").removeClass("showsidebar");try{var e=$("input[name=q]").val();gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}if(t.target.classList.contains("fa-search")){$(".ss-bar").removeClass("showsidebar");try{e=$("input[name=q]").val(),gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}},!0)})</script><script>document.querySelectorAll("pre > code").forEach(t=>{const n=t.parentNode.parentNode,e=document.createElement("button");e.classList.add("copy-code"),e.innerHTML="copy";function s(){e.innerHTML="copied!",setTimeout(()=>{e.innerHTML="copy"},2e3)}e.addEventListener("click",o=>{if("clipboard"in navigator){navigator.clipboard.writeText(t.textContent),s();return}const e=document.createRange();e.selectNodeContents(t);const n=window.getSelection();n.removeAllRanges(),n.addRange(e);try{document.execCommand("copy"),s()}catch(e){}n.removeRange(e)}),n.classList.contains("highlight")?n.appendChild(e):n.parentNode.firstChild==n||(t.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName=="TABLE"?t.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(e):t.parentNode.appendChild(e))})</script></body></html>

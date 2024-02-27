@@ -1,0 +1,2597 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SSRS RDL to Word Exporter | Aspose.Words for Reporting Services on Releases - aspose.com</title><link>https://releases-qa.aspose.com/words/reportingservices/</link><description>Recent content in SSRS RDL to Word Exporter | Aspose.Words for Reporting Services on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/words/reportingservices/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---New-Releases-aspose.words-reporting-services-1.3.1.0-hot-fix .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.3.1.0-hot-fix/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.3.1.0-hot-fix/</guid><description>&amp;nbsp;
+Aspose.Words Reporting Services 1.3.1.0 Hot Fix
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 45 File Size: 5.3 MB Posted By: ShL77 Views: 304 Date Added: 7/25/2007
+Release Noteshttp://www.aspose.com/docs/display/wordsreportingservices/Aspose.Words+Reporting+Services+1.3.1.0+Hot+Fix+Release+Notes
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b1f862cb91f54b67b2d21efe80b4392f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-reporting-services-1.3.1.0-hot-fix-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.3.1.0-hot-fix-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.3.1.0-hot-fix-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words Reporting Services 1.3.1.0 Hot Fix (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 11 File Size: 4.9 MB Posted By: ShL77 Views: 132 Date Added: 7/25/2007
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f940e904844b4785a2e30b8c3fe9cd0e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-reporting-services-1.3.0.0-new-release .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.3.0.0-new-release/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.3.0.0-new-release/</guid><description>&amp;nbsp;
+Aspose.Words Reporting Services 1.3.0.0 New Release
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 19 File Size: 5.2 MB Posted By: ShL77 Views: 240 Date Added: 7/25/2007
+Release Noteshttp://www.aspose.com/docs/display/wordsreportingservices/Aspose.Words+Reporting+Services+1.3.0.0+New+Release+Release+Notes
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cf22a1e1ea10435fb21fd70b4863644c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-reporting-services-1.3.0.0-new-release-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.3.0.0-new-release-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.3.0.0-new-release-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words Reporting Services 1.3.0.0 New Release (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 5 File Size: 4.8 MB Posted By: ShL77 Views: 103 Date Added: 7/25/2007
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b32056ec73c048ad960ee7750c304b12&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-reporting-services-1.2.1.0-hot-fix .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.2.1.0-hot-fix/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.2.1.0-hot-fix/</guid><description>&amp;nbsp;
+Aspose.Words Reporting Services 1.2.1.0 Hot Fix
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 4.8 MB Posted By: ShL77 Views: 122 Date Added: 7/25/2007
+Release Noteshttp://www.aspose.com/docs/display/wordsreportingservices/Aspose.Words+Reporting+Services+1.2.1.0+Hot+Fix+Release+Notes
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fc0a4e41d7fd4898b786d649ac38b4f2&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-reporting-services-1.2.1.0-hot-fix-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.2.1.0-hot-fix-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.2.1.0-hot-fix-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words Reporting Services 1.2.1.0 Hot Fix (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 4.4 MB Posted By: ShL77 Views: 51 Date Added: 7/25/2007
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d5de46f573434261a753f8b06bbd982d&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-reporting-services-1.2.0.0-new-release .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.2.0.0-new-release/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.2.0.0-new-release/</guid><description>&amp;nbsp;
+Aspose.Words Reporting Services 1.2.0.0 New Release
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 4.8 MB Posted By: ShL77 Views: 137 Date Added: 7/25/2007
+Release Noteshttp://www.aspose.com/docs/display/wordsreportingservices/Aspose.Words+Reporting+Services+1.2.0.0+New+Release+Release+Notes
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0dd82674293a48a9887efd36b4b0376c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-reporting-services-1.2.0.0-new-release-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.2.0.0-new-release-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.2.0.0-new-release-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words Reporting Services 1.2.0.0 New Release (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 4.4 MB Posted By: ShL77 Views: 51 Date Added: 7/25/2007
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5f38a98123904b5ab1f94a41fa9bed87&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-reporting-services-1.1.0.0-new-release .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.1.0.0-new-release/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.1.0.0-new-release/</guid><description>&amp;nbsp;
+Aspose.Words Reporting Services 1.1.0.0 New Release
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 1 File Size: 3.9 MB Posted By: ShL77 Views: 118 Date Added: 7/25/2007
+Release Noteshttp://www.aspose.com/docs/display/wordsreportingservices/Aspose.Words+Reporting+Services+1.1.0.0+New+Release+Release+Notes
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9effb5c45ef54dd8938c012b6f2d380c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-reporting-services-1.1.0.0-new-release-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.1.0.0-new-release-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.1.0.0-new-release-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words Reporting Services 1.1.0.0 New Release (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 3.4 MB Posted By: ShL77 Views: 43 Date Added: 7/25/2007
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=60fe6d7fe757457786e6fea9c7ec616e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-reporting-services-1.0.4.0-hot-fix .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.0.4.0-hot-fix/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.0.4.0-hot-fix/</guid><description>&amp;nbsp;
+Aspose.Words Reporting Services 1.0.4.0 Hot Fix
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 3.4 MB Posted By: ShL77 Views: 102 Date Added: 7/25/2007
+Release Noteshttp://www.aspose.com/docs/display/wordsreportingservices/Aspose.Words+Reporting+Services+1.0.4.0+Hot+Fix+Release+Notes
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c0bda2c7ed034d56998dbc974ffa1602&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-reporting-services-1.0.3.0-hot-fix .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.0.3.0-hot-fix/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.0.3.0-hot-fix/</guid><description>&amp;nbsp;
+Aspose.Words Reporting Services 1.0.3.0 Hot Fix
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 3.4 MB Posted By: ShL77 Views: 74 Date Added: 7/25/2007
+Release Noteshttp://www.aspose.com/docs/display/wordsreportingservices/Aspose.Words+Reporting+Services+1.0.3.0+Hot+Fix+Release+Notes
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=04d90f1b033c478183a60fa96679f7ad&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-reporting-services-1.0.2.0-hot-fix .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.0.2.0-hot-fix/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.0.2.0-hot-fix/</guid><description>&amp;nbsp;
+Aspose.Words Reporting Services 1.0.2.0 Hot Fix
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 3.4 MB Posted By: ShL77 Views: 110 Date Added: 7/25/2007
+Release Noteshttp://www.aspose.com/docs/display/wordsreportingservices/Aspose.Words+Reporting+Services+1.0.2.0+Hot+Fix+Release+Notes
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2a205a821b3649f8bf74270bff848956&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-reporting-services-1.0.1.0-hot-fix .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.0.1.0-hot-fix/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.0.1.0-hot-fix/</guid><description>&amp;nbsp;
+Aspose.Words Reporting Services 1.0.1.0 Hot Fix
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 3.4 MB Posted By: ShL77 Views: 67 Date Added: 7/25/2007
+Release Noteshttp://www.aspose.com/docs/display/wordsreportingservices/Aspose.Words+Reporting+Services+1.0.1.0+Hot+Fix+Release+Notes
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b8ab880cd89d4f1d9dc4d95d55e768a7&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-reporting-services-1.0.0.0-new-release .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.0.0.0-new-release/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-reporting-services-1.0.0.0-new-release/</guid><description>&amp;nbsp;
+Aspose.Words Reporting Services 1.0.0.0 New Release
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 11 File Size: 3.3 MB Posted By: ShL77 Views: 154 Date Added: 7/25/2007
+Release Noteshttp://www.aspose.com/docs/display/wordsreportingservices/Aspose.Words+Reporting+Services+1.0.0.0+New+Release+Release+Notes
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=55fb08e92043436e82c76e01a03854d2&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-1.3.2.0 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-1.3.2.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-1.3.2.0/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 1.3.2.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 138 File Size: 5.4 MB Posted By: DmitryV Views: 782 Date Added: 8/7/2007
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2007/aspose-words-for-reporting-services-1-3-2-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=387440de53c5469b98a5e8377b12984e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-1.3.2.0-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-1.3.2.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-1.3.2.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 1.3.2.0 (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 13 File Size: 5.0 MB Posted By: DmitryV Views: 190 Date Added: 8/7/2007
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8ebc383b10f24083b228ad4e6aa5db17&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-1.4.0.0-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-1.4.0.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-1.4.0.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 1.4.0.0 (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 19 File Size: 5.1 MB Posted By: DmitryV Views: 255 Date Added: 8/22/2007
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3ca73a312e0645f59e557dcbc4ceec6b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-1.4.0.0 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-1.4.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-1.4.0.0/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 1.4.0.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 91 File Size: 5.5 MB Posted By: DmitryV Views: 581 Date Added: 8/22/2007
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2007/aspose-words-for-reporting-services-1-4-0-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b1c1bdeaa0ef4c4f9f35f667083ed268&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-1.4.1.0-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-1.4.1.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-1.4.1.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 1.4.1.0 (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 48 File Size: 5.1 MB Posted By: DmitryV Views: 273 Date Added: 9/5/2007
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8cdedc84170742cab1469dfe8b2c90a2&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-1.4.1.0 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-1.4.1.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-1.4.1.0/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 1.4.1.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 157 File Size: 5.5 MB Posted By: DmitryV Views: 888 Date Added: 9/5/2007
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2007/aspose-words-for-reporting-services-1-4-1-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a1919810691f45d68fa8155287005baa&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-1.4.2.0-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-1.4.2.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-1.4.2.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 1.4.2.0 (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 56 File Size: 5.1 MB Posted By: DmitryV Views: 255 Date Added: 10/9/2007
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=976e83365b734c95a7ae44030cf6ca5b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-1.4.2.0 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-1.4.2.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-1.4.2.0/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 1.4.2.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 65 File Size: 5.5 MB Posted By: DmitryV Views: 429 Date Added: 10/9/2007
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2007/aspose-words-for-reporting-services-1-4-2-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2dc3f2d77de2487f985d05c618bc09f6&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-2.0.0.0-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-2.0.0.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-2.0.0.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 2.0.0.0 (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 44 File Size: 5.1 MB Posted By: DmitryV Views: 318 Date Added: 10/23/2007
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b7f4dd87d72c4283bf8f43f488973a38&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-2.0.0.0 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-2.0.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-2.0.0.0/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 2.0.0.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 108 File Size: 5.5 MB Posted By: DmitryV Views: 596 Date Added: 10/23/2007
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2007/aspose-words-for-reporting-services-2-0-0-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=424ffb5d708b4fbb806c48217dcb1b3b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-2.0.1.0-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-2.0.1.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-2.0.1.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 2.0.1.0 (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 22 File Size: 5.1 MB Posted By: DmitryV Views: 304 Date Added: 11/12/2007
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cc07b394da7747119113972a1cbb7a5f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-2.0.1.0 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-2.0.1.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-2.0.1.0/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 2.0.1.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 78 File Size: 5.5 MB Posted By: DmitryV Views: 568 Date Added: 11/12/2007
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2007/aspose-words-for-reporting-services-2-0-1-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=15e4a4f19ab347098c9f05d99c0c3d89&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-2.0.2.0-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-2.0.2.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-2.0.2.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 2.0.2.0 (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 68 File Size: 5.1 MB Posted By: DmitryV Views: 424 Date Added: 11/26/2007
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fef85d01dd7e4db1b5b2d014436cd322&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-2.0.2.0 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-2.0.2.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-2.0.2.0/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 2.0.2.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 107 File Size: 5.5 MB Posted By: DmitryV Views: 569 Date Added: 11/26/2007
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2007/aspose-words-for-reporting-services-2-0-2-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b311dee8acae4725a63fd12f83df53e0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-2.0.3.0-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-2.0.3.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-2.0.3.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 2.0.3.0 (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 104 File Size: 5.1 MB Posted By: DmitryV Views: 455 Date Added: 12/10/2007
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=66c4402f0c7d482e8406909608178c83&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-2.0.3.0 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-2.0.3.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-2.0.3.0/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 2.0.3.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 359 File Size: 5.5 MB Posted By: DmitryV Views: 2011 Date Added: 12/10/2007
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5faa7b33a33f4e3eb8460bd98f58d850&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 85 File Size: 6.7 MB Posted By: DmitryV Views: 490 Date Added: 3/12/2008
+Release Noteshttp://www.aspose.com/docs/display/wordsreportingservices/Aspose.Words+for+Reporting+Services+Release+Notes
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bc26179ad30349a0a2f678ad58fdcb07&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-2.1.0.0 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-2.1.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-2.1.0.0/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 2.1.0.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 215 File Size: 7.2 MB Posted By: DmitryV Views: 981 Date Added: 3/12/2008
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2008/aspose-words-for-reporting-services-2-1-0-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fdb8a51108ef45438dff22b61d3f48d1&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-2.2.0.0-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-2.2.0.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-2.2.0.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 2.2.0.0 (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 223 File Size: 6.8 MB Posted By: DmitryV Views: 736 Date Added: 4/28/2008
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3042ff29fcb644b69727f552aec1a824&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-2.2.0.0 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-2.2.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-2.2.0.0/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 2.2.0.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 574 File Size: 7.2 MB Posted By: DmitryV Views: 2035 Date Added: 4/28/2008
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2008/aspose-words-for-reporting-services-2-2-0-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bbcb936d12754b098690f9e6f7e9310a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-2.3.0.0-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-2.3.0.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-2.3.0.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 2.3.0.0 (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 133 File Size: 8.9 MB Posted By: DmitryV Views: 356 Date Added: 9/8/2008
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=097c910efe6c483c993f1e96062b0cec&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-2.3.0.0 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-2.3.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-2.3.0.0/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 2.3.0.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 314 File Size: 9.3 MB Posted By: DmitryV Views: 2966 Date Added: 9/8/2008
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2008/aspose-words-for-reporting-services-2-3-0-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8aeba86edcd9428881588fee0027848b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.0.0.0-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.0.0.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.0.0.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.0.0.0 (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 47 File Size: 9.8 MB Posted By: DmitryV Views: 240 Date Added: 12/15/2008
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c85d4cad10e14ab58a8f3bd17319bbc9&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.0.0.0 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.0.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.0.0.0/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.0.0.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 143 File Size: 10.3 MB Posted By: DmitryV Views: 784 Date Added: 12/15/2008
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=44695805c71148d5a62bcba95685c382&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.0.1.0-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.0.1.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.0.1.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.0.1.0 (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 121 File Size: 10.0 MB Posted By: DmitryV Views: 294 Date Added: 1/14/2009
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=04f2e2e733f24971874510eeb9b40b19&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.0.1.0 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.0.1.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.0.1.0/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.0.1.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 249 File Size: 10.4 MB Posted By: DmitryV Views: 1289 Date Added: 1/14/2009
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2009/aspose-words-for-reporting-services-3-0-1-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=666ea04f511c485bb4390389784a0000&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.0.2-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.0.2-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.0.2-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.0.2 (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 26 File Size: 10.0 MB Posted By: DmitryV Views: 186 Date Added: 4/15/2009
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a6e34ed1bcd04628a7231bff508497dd&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.0.2 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.0.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.0.2/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.0.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 65 File Size: 10.5 MB Posted By: DmitryV Views: 295 Date Added: 4/15/2009
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2009/aspose-words-for-reporting-services-3-0-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=31a5b11d12134440964b9522ff253798&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.0.3-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.0.3-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.0.3-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.0.3 (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 70 File Size: 10.1 MB Posted By: DmitryV Views: 216 Date Added: 5/4/2009
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a2a6d13fdede4dd6ac117f5f78b788af&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.0.3 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.0.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.0.3/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.0.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 129 File Size: 10.5 MB Posted By: DmitryV Views: 425 Date Added: 5/4/2009
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2009/aspose-words-for-reporting-services-3-0-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ef85ab3f475a4f8ea74500a6e247a75f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.0.4-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.0.4-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.0.4-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.0.4 (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 25 File Size: 10.1 MB Posted By: DmitryV Views: 258 Date Added: 6/18/2009
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a588a380961f4210b3e0fc7e15179c0b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.0.4 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.0.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.0.4/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.0.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 38 File Size: 10.6 MB Posted By: DmitryV Views: 705 Date Added: 6/18/2009
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2009/aspose-words-for-reporting-services-3-0-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7cd5f3a786354d1989778cbb2aa75490&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.1.0-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.1.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.1.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.1.0 (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 54 File Size: 10.1 MB Posted By: DmitryV Views: 267 Date Added: 6/29/2009
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2abc111084f6461b933e09319bc58614&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.1.0 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.1.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.1.0/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.1.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 64 File Size: 10.6 MB Posted By: DmitryV Views: 722 Date Added: 6/29/2009
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2009/aspose-words-for-reporting-services-3-1-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=355005cf6ee24bf28f5566a9904f3346&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.1.1-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.1.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.1.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.1.1 (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 67 File Size: Posted By:-28e8dfcb4928478b8f81721fd25d9860" }} 10.3 MB Posted By: DmitryV Views: 337 Date Added: 7/13/2009
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=28e8dfcb4928478b8f81721fd25d9860&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.1.1 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.1.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.1.1/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.1.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 124 File Size: Posted By:-619055617c674aeb954a50bbd9dea07e" }} 10.7 MB Posted By: DmitryV Views: 756 Date Added: 7/13/2009
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2009/aspose-words-for-reporting-services-3-1-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=619055617c674aeb954a50bbd9dea07e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.1.2-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.1.2-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.1.2-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.1.2 (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 46 File Size: 10.3 MB Posted By: DmitryV Views: 332 Date Added: 8/19/2009
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=18ed1a1268324e92bebeb63471dd5ed8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.1.2 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.1.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.1.2/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.1.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 85 File Size: 10.7 MB Posted By: DmitryV Views: 432 Date Added: 8/19/2009
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2009/aspose-words-for-reporting-services-3-1-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3b0bf0e4599b4ff08a5643607e492f52&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.2.0-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.2.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.2.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.2.0 (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 50 File Size: 10.4 MB Posted By: DmitryV Views: 295 Date Added: 9/21/2009
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c93a26d0e0f445dbb861451d2352ed07&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.2.0 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.2.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.2.0/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.2.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 107 File Size: 10.9 MB Posted By: DmitryV Views: 702 Date Added: 9/21/2009
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2009/aspose-words-for-reporting-services-3-2-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b8c081c650fa45ad99090789399c9f38&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.3.0-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.3.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.3.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.3.0 (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 60 File Size: 10.5 MB Posted By: DmitryV Views: 279 Date Added: 11/9/2009
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=38ccad5ae5ef44f483fea93bba88d5a8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.3.0 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.3.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.3.0/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.3.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 94 File Size: 10.9 MB Posted By: DmitryV Views: 431 Date Added: 11/9/2009
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2009/aspose-words-for-reporting-services-3-3-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=58e552d54ddf44e188918ccdacbe85ee&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.3.1-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.3.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.3.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.3.1 (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 257 File Size: 10.5 MB Posted By: DmitryV Views: 398 Date Added: 11/23/2009
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d68c41f265cb4866ba0332159de99b74&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.3.1 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.3.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.3.1/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.3.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 565 File Size: 10.9 MB Posted By: DmitryV Views: 803 Date Added: 11/23/2009
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f7fa3bc156694f14b7001e5fa7c5f00d&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.4.0-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.4.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.4.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.4.0 (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 272 File Size: 10.5 MB Posted By: DmitryV Views: 325 Date Added: 11/25/2010
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3ede88b72f324bb3a5fae8ae16ae6810&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.4.0 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.4.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.4.0/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.4.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 546 File Size: 11.2 MB Posted By: DmitryV Views: 1568 Date Added: 1/4/2012
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2012/aspose-words-for-reporting-services-3-4-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9f892e3fcc1147e4809f0b6d1ac8bc9c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.5.1-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.5.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.5.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.5.1 (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 64 File Size: 10.6 MB Posted By: DmitryV Views: 244 Date Added: 3/26/2012
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=64fcd7144f784d118b15805c14b26cde&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.5.1 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.5.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.5.1/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.5.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 102 File Size: 11.1 MB Posted By: DmitryV Views: 410 Date Added: 3/26/2012
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2012/aspose-words-for-reporting-services-3-5-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3039aa2cf28c4739829d3c83f6d1ce25&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.6.0-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.6.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.6.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.6.0 (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 57 File Size: 10.6 MB Posted By: buddylancer Views: 313 Date Added: 6/9/2012
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=10d4954300fb4a068bd9b0a61ae62192&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.6.0 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.6.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.6.0/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.6.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 81 File Size: 11.2 MB Posted By: buddylancer Views: 426 Date Added: 6/9/2012
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2012/aspose-words-for-reporting-services-3-6-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=51de315dfb7e4fedb41c920f29e62f3e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.7.0-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.7.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.7.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.7.0 (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 53 File Size: 10.6 MB Posted By: buddylancer Views: 282 Date Added: 9/25/2012
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1b68a01cde2d459fb6aa761a9e20cc0c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.7.0 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.7.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.7.0/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.7.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 141 File Size: 11.2 MB Posted By: buddylancer Views: 513 Date Added: 9/25/2012
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2012/aspose-words-for-reporting-services-3-7-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4b09f33157ea4d139a1866f0c1099017&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.8.0-(dlls-only) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.8.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.8.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.8.0 (Dlls Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 32 File Size: 10.6 MB Posted By: buddylancer Views: 287 Date Added: 12/25/2012
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=edd33932c3694ca7bbff01c216b47ff1&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.8.0 .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.8.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.8.0/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.8.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 124 File Size: 11.3 MB Posted By: buddylancer Views: 310 Date Added: 12/25/2012
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c7221e2e57f34426820adc7ecc49bc0b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.9.0-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.9.0-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.9.0-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.9.0 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 49 File Size: 14.2 MB Posted By: buddylancer Views: 231 Date Added: 4/1/2013
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3068e117d1864d569a3544cfe47702bc&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-3.9.0-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.9.0-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-3.9.0-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 3.9.0 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 96 File Size: 14.9 MB Posted By: buddylancer Views: 365 Date Added: 4/1/2013
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2013/aspose-words-for-reporting-services-3-9-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1fc01da2005f4eb19064fbdd5c92da56&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-4.0.0-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.0.0-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.0.0-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 4.0.0 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 33 File Size: 14.3 MB Posted By: buddylancer Views: 190 Date Added: 7/1/2013
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=dbcbb5b30ee44062aa57ca26f7fd2b67&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-4.0.0-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.0.0-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.0.0-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 4.0.0 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 144 File Size: 15.0 MB Posted By: buddylancer Views: 624 Date Added: 7/1/2013
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2013/aspose-words-for-reporting-services-4-0-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3a464ddb2a5645b0a2ddf627dc511ccd&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-4.1.0-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.1.0-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.1.0-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 4.1.0 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 41 File Size: 14.3 MB Posted By: buddylancer Views: 179 Date Added: 9/26/2013
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5e8d8c128bd84d779820ddea05eb15a9&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-4.1.0-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.1.0-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.1.0-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 4.1.0 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 153 File Size: 14.9 MB Posted By: buddylancer Views: 388 Date Added: 9/26/2013
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=01e030057c5a46a7ae4da49d5e4f1b69&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-4.1.1-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.1.1-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.1.1-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 4.1.1 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 29 File Size: 14.3 MB Posted By: buddylancer Views: 206 Date Added: 3/12/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=710db135b3f54695a262c99dbfd162b3&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-4.1.1-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.1.1-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.1.1-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 4.1.1 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 85 File Size: 15.0 MB Posted By: buddylancer Views: 264 Date Added: 3/12/2014
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2014/aspose-words-for-reporting-services-4-1-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=316d7ce3b72d4f91b589543175917849&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-4.2.0-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.2.0-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.2.0-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 4.2.0 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 85 File Size: 34.2 MB Posted By: buddylancer Views: 391 Date Added: 5/28/2014
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2014/aspose-words-for-reporting-services-4-2-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c6f71b282b074bada5660ea2fe7642e6&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-4.2.0-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.2.0-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.2.0-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 4.2.0 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 48 File Size: 33.4 MB Posted By: buddylancer Views: 182 Date Added: 5/28/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b39d95f628d6468bb8da811651f321b1&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-4.3.0-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.3.0-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.3.0-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 4.3.0 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 47 File Size: 39.5 MB Posted By: buddylancer Views: 199 Date Added: 6/18/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2b6b734a55194b9181e4c7092624a035&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-4.3.0-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.3.0-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.3.0-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 4.3.0 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 165 File Size: 40.1 MB Posted By: buddylancer Views: 618 Date Added: 6/18/2014
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2014/aspose-words-for-reporting-services-4-3-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=973ea983dc12430887dfca6ce67129e9&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-4.4.0-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.4.0-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.4.0-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 4.4.0 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 68 File Size: 39.7 MB Posted By: buddylancer Views: 210 Date Added: 9/25/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=55db19b00320492e9ea3a9698cb57bed&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-4.4.0-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.4.0-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.4.0-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 4.4.0 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 226 File Size: 40.3 MB Posted By: buddylancer Views: 396 Date Added: 9/25/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c88a769da00e44489a177fa6cdefdb89&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-4.5.0-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.5.0-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.5.0-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 4.5.0 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 25 File Size: 45.2 MB Posted By: buddylancer Views: 234 Date Added: 5/20/2015
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=47253e45651842ef9a33994ebd97aa5e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-4.5.0-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.5.0-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.5.0-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 4.5.0 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 147 File Size: 45.9 MB Posted By: buddylancer Views: 248 Date Added: 5/20/2015
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2016/aspose-words-for-reporting-services-4-5-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7a7ccc89b0f945b99dbeea5c5eab1163&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-4.6.0-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.6.0-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.6.0-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 4.6.0 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 17 File Size: 44.9 MB Posted By: buddylancer Views: 141 Date Added: 10/20/2015
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=98d8ab340f024f10ba352e01672c7557&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-4.6.0-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.6.0-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.6.0-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 4.6.0 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 48 File Size: 45.7 MB Posted By: buddylancer Views: 258 Date Added: 10/20/2015
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2016/aspose-words-for-reporting-services-4-6-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=dd044a22ceb443fab709a01516529c62&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-4.7.4-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.7.4-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.7.4-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 4.7.4 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 17 File Size: 44.9 MB Posted By: faizanbaig Views: 309 Date Added: 3/29/2016
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=90099bde427d4091b33eea4252754523&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-4.7.4-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.7.4-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-4.7.4-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 4.7.4 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 8 File Size: 45.7 MB Posted By: faizanbaig Views: 405 Date Added: 3/29/2016
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2016/aspose-words-for-reporting-services-4-7-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=193f20fb962949a5b87010a996a4889a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.word-for-reporting-services-5.0.0-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-5.0.0-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-5.0.0-zip/</guid><description>&amp;nbsp;
+Aspose.Word for Reporting Services 5.0.0 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 9 File Size: 54.5 MB Posted By: buddylancer Views: 376 Date Added: 6/16/2016
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2016/aspose-words-for-reporting-services-5-0-0-release-notes/DescriptionIncludes support of Microsoft SQL Server 2016 and Microsoft Report Viewer 2015.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e0262d2310304a068879ae99a7192f33&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-5.0.0-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-5.0.0-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-5.0.0-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 5.0.0 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 12 File Size: 55.3 MB Posted By: buddylancer Views: 447 Date Added: 6/16/2016
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2016/aspose-words-for-reporting-services-5-0-0-release-notes/DescriptionIncludes support of Microsoft SQL Server 2016 and Microsoft Report Viewer 2015.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f31b363621a54af5af9c1daabaeb52fd&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.word-for-reporting-services-5.0.1-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-5.0.1-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-5.0.1-zip/</guid><description>&amp;nbsp;
+Aspose.Word for Reporting Services 5.0.1 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 24 File Size: 54.5 MB Posted By: buddylancer Views: 281 Date Added: 8/18/2016
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2016/aspose-words-for-reporting-services-5-0-1-release-notes/DescriptionIncludes hotfix for WORDSRPT-221
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2cbcc51e70074c81b22c24ec01762dab&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.word-for-reporting-services-5.0.1-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-5.0.1-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-5.0.1-msi/</guid><description>&amp;nbsp;
+Aspose.Word for Reporting Services 5.0.1 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 43 File Size: 55.3 MB Posted By: buddylancer Views: 393 Date Added: 8/18/2016
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2016/aspose-words-for-reporting-services-5-0-1-release-notes/DescriptionIncludes hotfix for WORDSRPT-221
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=15f75d38032c440eb25cf161af094595&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.word-for-reporting-services-16.11.0-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-16.11.0-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-16.11.0-zip/</guid><description>&amp;nbsp;
+Aspose.Word for Reporting Services 16.11.0 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 9 File Size: 54.7 MB Posted By: buddylancer Views: 246 Date Added: 11/30/2016
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2016/aspose-words-for-reporting-services-16-11-0-release-notes/DescriptionIncludes fixes for WORDSRPT-182, 242, 243 + documentation update
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ff0078d6ae144f88b17b8335bee50df8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.word-for-reporting-services-16.11.0-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-16.11.0-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-16.11.0-msi/</guid><description>&amp;nbsp;
+Aspose.Word for Reporting Services 16.11.0 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 8 File Size: 55.5 MB Posted By: buddylancer Views: 490 Date Added: 11/30/2016
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2016/aspose-words-for-reporting-services-16-11-0-release-notes/DescriptionIncludes fixes for WORDSRPT-182, 242, 243 + documentation update
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d7c2c434ba6d4e49967b574a32009975&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.word-for-reporting-services-16.12.0-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-16.12.0-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-16.12.0-zip/</guid><description>&amp;nbsp;
+Aspose.Word for Reporting Services 16.12.0 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 36 File Size: 54.7 MB Posted By: vadimpo Views: 285 Date Added: 12/20/2016
+Release Noteshttps://releases.aspose.com/words/sharepoint/release-notes/2016/aspose-words-for-sharepoint-16-12-0-release-notes/DescriptionIncludes fixes for WORDSRPT-245, 246
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2f0bfe92e3b84c5098ad0e95e0a07702&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.word-for-reporting-services-16.12.0-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-16.12.0-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-16.12.0-msi/</guid><description>&amp;nbsp;
+Aspose.Word for Reporting Services 16.12.0 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 74 File Size: 55.5 MB Posted By: vadimpo Views: 747 Date Added: 12/20/2016
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2016/aspose-words-for-reporting-services-16-12-0-release-notes/DescriptionIncludes fixes for WORDSRPT-245, 246
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=daedcf161550476aafbef01cdee878d3&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.word-for-reporting-services-17.12-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-17.12-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-17.12-zip/</guid><description>&amp;nbsp;
+Aspose.Word for Reporting Services 17.12 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 12 File Size: 59.7 MB Posted By: vadimpo Views: 249 Date Added: 12/18/2017
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2017/aspose-words-for-reporting-services-17-12-release-notes/DescriptionUpgrade to the latest version of Aspose.Words for .NET (17.12)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ddc62262c2164a2cb98d51223c1fc63a&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.word-for-reporting-services-18.1-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.1-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.1-zip/</guid><description>&amp;nbsp;
+Aspose.Word for Reporting Services 18.1 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 10 File Size: 59.7 MB Posted By: vadimpo Views: 164 Date Added: 1/19/2018
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2018/aspose-words-for-reporting-services-18-1-release-notes/DescriptionUpgrade to the latest version of Aspose.Words for .NET (18.1)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=406aa32bc8f048d6b3e4824c2e21efcc&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.word-for-reporting-services-18.1-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.1-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.1-msi/</guid><description>&amp;nbsp;
+Aspose.Word for Reporting Services 18.1 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 17 File Size: 60.5 MB Posted By: vadimpo Views: 968 Date Added: 1/19/2018
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2018/aspose-words-for-reporting-services-18-1-release-notes/DescriptionUpgrade to the latest version of Aspose.Words for .NET (18.1)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a0caa58e965d4bad882f81b37c0a794f&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.word-for-reporting-services-18.2-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.2-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.2-zip/</guid><description>&amp;nbsp;
+Aspose.Word for Reporting Services 18.2 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 5 File Size: 50.4 MB Posted By: vadimpo Views: 138 Date Added: 2/25/2018
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2018/aspose-words-for-reporting-services-18-2-release-notes/DescriptionSQL Server 2017 support + Upgrade to latest Aspose.Words for .NET 18.2
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=84164311d1314e87b3df3429fd304060&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.word-for-reporting-services-18.2-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.2-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.2-msi/</guid><description>&amp;nbsp;
+Aspose.Word for Reporting Services 18.2 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 13 File Size: 51.2 MB Posted By: vadimpo Views: 975 Date Added: 2/25/2018
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2018/aspose-words-for-reporting-services-18-2-release-notes/DescriptionSQL Server 2017 support + Upgrade to latest Aspose.Words for .NET 18.2
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=083485fdd68048e88fecf5a31cd829b9&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.word-for-reporting-services-18.3-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.3-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.3-zip/</guid><description>&amp;nbsp;
+Aspose.Word for Reporting Services 18.3 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 4 File Size: 50.5 MB Posted By: vadimpo Views: 106 Date Added: 3/27/2018
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2018/aspose-words-for-reporting-services-18-3-release-notes/DescriptionUpgrade to latest Aspose.Words for .NET 18.3
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7093424b8abd402e9d4c75d05f443a13&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.word-for-reporting-services-18.3-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.3-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.3-msi/</guid><description>&amp;nbsp;
+Aspose.Word for Reporting Services 18.3 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 7 File Size: 51.2 MB Posted By: vadimpo Views: 978 Date Added: 3/27/2018
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2018/aspose-words-for-reporting-services-18-3-release-notes/DescriptionUpgrade to latest Aspose.Words for .NET 18.3
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=444992e47b8d43fc9a3e800a4d207bec&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.word-for-reporting-services-18.4-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.4-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.4-zip/</guid><description>&amp;nbsp;
+Aspose.Word for Reporting Services 18.4 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 5 File Size: 50.4 MB Posted By: vadimpo Views: 62 Date Added: 4/27/2018
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2018/aspose-words-for-reporting-services-18-4-release-notes/DescriptionUpgrade to latest Aspose.Words for .NET 18.4
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=117a3ee5d8a449f3aa5fb1e9a8a4573b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.word-for-reporting-services-18.4-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.4-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.4-msi/</guid><description>&amp;nbsp;
+Aspose.Word for Reporting Services 18.4 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 11 File Size: 51.1 MB Posted By: vadimpo Views: 929 Date Added: 4/27/2018
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2018/aspose-words-for-reporting-services-18-4-release-notes/DescriptionUpgrade to latest Aspose.Words for .NET 18.4
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0d2e2c8d48cf47b396f9c06ae23954b8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.word-for-reporting-services-18.5-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.5-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.5-zip/</guid><description>&amp;nbsp;
+Aspose.Word for Reporting Services 18.5 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 12 File Size: 50.6 MB Posted By: vadimpo Views: 27 Date Added: 6/1/2018
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2018/aspose-words-for-reporting-services-18-5-release-notes/DescriptionUpgrade to latest Aspose.Words for .NET 18.5
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b8394009fb844ea594b7840df61175f0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.word-for-reporting-services-18.5-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.5-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.5-msi/</guid><description>&amp;nbsp;
+Aspose.Word for Reporting Services 18.5 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 10 File Size: 51.3 MB Posted By: vadimpo Views: 857 Date Added: 6/1/2018
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2018/aspose-words-for-reporting-services-18-5-release-notes/DescriptionUpgrade to latest Aspose.Words for .NET 18.5
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=90a867c3f9074b6da27e84b1a193703c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.word-for-reporting-services-18.6-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.6-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.6-zip/</guid><description>&amp;nbsp;
+Aspose.Word for Reporting Services 18.6 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 4 File Size: 49.0 MB Posted By: vadimpo Views: 36 Date Added: 6/28/2018
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2018/aspose-words-for-reporting-services-18-6-release-notes/DescriptionUpgrade to latest Aspose.Words for .NET 18.6
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=19a0dea8a3844d7ea14fa9bdcef2e310&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.word-for-reporting-services-18.6-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.6-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.6-msi/</guid><description>&amp;nbsp;
+Aspose.Word for Reporting Services 18.6 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 10 File Size: 49.8 MB Posted By: vadimpo Views: 818 Date Added: 6/28/2018
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2018/aspose-words-for-reporting-services-18-6-release-notes/DescriptionUpgrade to latest Aspose.Words for .NET 18.6
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ad3c31cefce44dc2ad5f244f5109f0a9&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.word-for-reporting-services-18.7-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.7-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.7-zip/</guid><description>&amp;nbsp;
+Aspose.Word for Reporting Services 18.7 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 3 File Size: 49.7 MB Posted By: vadimpo Views: 52 Date Added: 8/5/2018
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2018/aspose-words-for-reporting-services-18-7-release-notes/DescriptionUpgrade to latest Aspose.Words for .NET 18.7
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=abb36c1f15644887b5e10744dbc65344&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.word-for-reporting-services-18.7-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.7-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.7-msi/</guid><description>&amp;nbsp;
+Aspose.Word for Reporting Services 18.7 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 11 File Size: 50.5 MB Posted By: vadimpo Views: 917 Date Added: 8/5/2018
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2018/aspose-words-for-reporting-services-18-7-release-notes/DescriptionUpgrade to latest Aspose.Words for .NET 18.7
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2c803cfa52724080882af8bd79b3f1a9&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.word-for-reporting-services-18.8-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.8-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.8-zip/</guid><description>&amp;nbsp;
+Aspose.Word for Reporting Services 18.8 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 6 File Size: 49.7 MB Posted By: vadimpo Views: 25 Date Added: 9/5/2018
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2018/aspose-words-for-reporting-services-18-8-release-notes/DescriptionUpgrade to latest Aspose.Words for .NET 18.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ffbef371dd6e4a1a93a45454533cb9b0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.word-for-reporting-services-18.8-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.8-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.8-msi/</guid><description>&amp;nbsp;
+Aspose.Word for Reporting Services 18.8 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 10 File Size: 50.5 MB Posted By: vadimpo Views: 829 Date Added: 9/5/2018
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2018/aspose-words-for-reporting-services-18-8-release-notes/DescriptionUpgrade to latest Aspose.Words for .NET 18.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ca79ca032f554e71888de8eeac48a1c9&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.word-for-reporting-services-18.9-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.9-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.9-zip/</guid><description>&amp;nbsp;
+Aspose.Word for Reporting Services 18.9 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 9 File Size: 49.9 MB Posted By: vadimpo Views: 26 Date Added: 10/1/2018
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2018/aspose-words-for-reporting-services-18-9-release-notes/DescriptionUpgrade to latest Aspose.Words for .NET 18.9
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=37dc8e16d1af4e7ab6c89e4fd18e4fa2&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.word-for-reporting-services-18.9-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.9-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.word-for-reporting-services-18.9-msi/</guid><description>&amp;nbsp;
+Aspose.Word for Reporting Services 18.9 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 19 File Size: 50.7 MB Posted By: vadimpo Views: 831 Date Added: 10/1/2018
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2018/aspose-words-for-reporting-services-18-9-release-notes/DescriptionUpgrade to latest Aspose.Words for .NET 18.9
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=def82d2189de4cadbb378a9d8a9edc06&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-18.10-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-18.10-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-18.10-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 18.10 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 10 File Size: 50.2 MB Posted By: Views: 37: Date Added:: 11/11/2018: :
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2018/aspose-words-for-reporting-services-18-10-release-notes/DescriptionUpgrade to latest Aspose.Words for .NET 18.10
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=beb45948f7f8481e80e620f0edfd56e0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-18.10-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-18.10-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-18.10-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 18.10 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 16 File Size: 51.1 MB Posted By: vadimpo Views: 931 Date Added: 11/11/2018
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2018/aspose-words-for-reporting-services-18-10-release-notes/DescriptionUpgrade to latest Aspose.Words for .NET 18.10
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e4af0b41b06b42f1ae9d5c80d6018669&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-18.12-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-18.12-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-18.12-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 18.12 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 4 File Size: 56.9 MB Posted By: vadimpo Views: 35 Date Added: 12/24/2018
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2018/aspose-words-for-reporting-services-18-12-release-notes/DescriptionSome fixes + Upgrade to latest Aspose.Words for .NET 18.12
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=09b7880391d541a392817307745763df&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-18.12-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-18.12-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-18.12-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 18.12 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 11 File Size: 57.7 MB Posted By: vadimpo Views: 1171 Date Added: 12/24/2018
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2018/aspose-words-for-reporting-services-18-12-release-notes/DescriptionSome fixes + Upgrade to latest Aspose.Words for .NET 18.12
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=98f4c3c8ef644e6bac7193d7e8749345&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-19.2-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-19.2-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-19.2-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 19.2 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 27 File Size: 61.0 MB Posted By: vadimpo Views: 60 Date Added: 2/21/2019
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2019/aspose-words-for-reporting-services-19-2-release-notes/DescriptionSome fixes + Upgrade to latest Aspose.Words for .NET 19.2
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2abc69b1ee124b5fb32d79b002df83b4&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-19.2-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-19.2-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-19.2-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 19.2 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 24 File Size: 61.6 MB Posted By: vadimpo Views: 1094 Date Added: 2/21/2019
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2019/aspose-words-for-reporting-services-19-2-release-notes/DescriptionSome fixes + Upgrade to latest Aspose.Words for .NET 19.2
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3199f099d63e4089b1fd170ba7e920c9&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-19.6-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-19.6-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-19.6-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 19.6 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 5 File Size: 71.6 MB Posted By: vadimpo Views: 48 Date Added: 6/18/2019
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2019/aspose-words-for-reporting-services-19-6-release-notes/DescriptionSome fixes + Upgrade to latest Aspose.Words for .NET 19.6
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=11d8a2dff300469cb3add73dc27345fe&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-19.6-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-19.6-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-19.6-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 19.6 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 10 File Size: 72.3 MB Posted By: vadimpo Views: 955 Date Added: 6/18/2019
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2019/aspose-words-for-reporting-services-19-6-release-notes/DescriptionSome fixes + Upgrade to latest Aspose.Words for .NET 19.6
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6ac43f1949e44d9dbba1c5cac3d70df4&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-19.7-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-19.7-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-19.7-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 19.7 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 4 File Size: 64.8 MB Posted By: vadimpo Views: 47 Date Added: 8/8/2019
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2019/aspose-words-for-reporting-services-19-7-release-notes/DescriptionUpgrade to latest Aspose.Words for .NET 19.7
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3839fe77f3ec43e88d440aa01f6f31cb&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-19.7-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-19.7-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-19.7-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 19.7 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 6 File Size: 65.9 MB Posted By: vadimpo Views: 770 Date Added: 8/8/2019
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2019/aspose-words-for-reporting-services-19-7-release-notes/DescriptionUpgrade to latest Aspose.Words for .NET 19.7
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=24fab6252a1d4736bf3d87162cca97bf&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-19.8-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-19.8-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-19.8-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 19.8 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 26 File Size: 65.1 MB Posted By: vadimpo Views: 77 Date Added: 9/4/2019
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2019/aspose-words-for-reporting-services-19-8-release-notes/DescriptionSome fixes + Upgrade to latest Aspose.Words for .NET 19.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1e3b689d17d6418db2e4bb2b7c00623d&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-19.8-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-19.8-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-19.8-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 19.8 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 51 File Size: 66.1 MB Posted By: vadimpo Views: 1089 Date Added: 9/4/2019
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2019/aspose-words-for-reporting-services-19-8-release-notes/DescriptionSome fixes + Upgrade to latest Aspose.Words for .NET 19.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c8c5314be6ff44c6889519c24cf7c1a4&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-20.8-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-20.8-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-20.8-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 20.8 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 9 File Size: 78.5 MB Posted By: dmitry.sokolov Views: 84 Date Added: 8/15/2020
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2020/aspose-words-for-reporting-services-20-8-release-notes/DescriptionUpgrade to the latest version of Aspose.Words for Net (20.8). Added support for latest SSRS 2019. Bug fixes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-20.8-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-20.8-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-20.8-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 20.8 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 12 File Size: 79.7 MB Posted By: dmitry.sokolov Views: 292 Date Added: 8/15/2020
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2020/aspose-words-for-reporting-services-20-8-release-notes/DescriptionUpgrade to the latest version of Aspose.Words for Net (20.8). Added support for latest SSRS 2019. Bug fixes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-20.11-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-20.11-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-20.11-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 20.11 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 12 File Size: 62.4 MB Posted By: dmitry.sokolov Views: 84 Date Added: 11/11/2020
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2020/aspose-words-for-reporting-services-20-11-release-notes/DescriptionUpgrade to the latest version of Aspose.Words for Net (20.11). Bug fixes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e26a7901b84c4c7d8873ffa60e94921b&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-20.11-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-20.11-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-20.11-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 20.11 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 12 File Size: 63.5 MB Posted By: dmitry.sokolov Views: 260 Date Added: 11/11/2020
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2020/aspose-words-for-reporting-services-20-11-release-notes/DescriptionUpgrade to the latest version of Aspose.Words for Net (20.11). Bug fixes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=892d3744b19147a6af73b29fb2077008&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-21.02-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-21.02-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-21.02-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 21.02 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 6 File Size: 62.7 MB Posted By: dmitry.sokolov Views: 69 Date Added: 2/25/2021
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2021/aspose-words-for-reporting-services-21-02-release-notes/DescriptionUpgrade to the latest version of Aspose.Words for Net (21.02). Bug fixes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fff5da6606d5433ba07ef1c4dc9c93e6&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-21.02-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-21.02-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-21.02-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 21.02 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 8 File Size: 63.8 MB Posted By: dmitry.sokolov Views: 260 Date Added: 2/25/2021
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2021/aspose-words-for-reporting-services-21-02-release-notes/DescriptionUpgrade to the latest version of Aspose.Words for Net (21.02). Bug fixes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a044225313c24e4393cc4c938c449f18&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-21.5-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-21.5-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-21.5-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 21.5 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 7 File Size: 64.1 MB Posted By: dmitry.sokolov Views: 167 Date Added: 5/5/2021
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2021/aspose-words-for-reporting-services-21-5-release-notes/DescriptionUpgrade to the latest version of Aspose.Words for Net (21.5). Bug fixes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8cde395714c84696bf4056d2cc608709&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-21.5-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-21.5-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-21.5-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 21.5 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 4 File Size: 63.0 MB Posted By: dmitry.sokolov Views: 78 Date Added: 5/5/2021
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2021/aspose-words-for-reporting-services-21-5-release-notes/DescriptionUpgrade to the latest version of Aspose.Words for Net (21.5). Bug fixes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=35b89ae198ff421aba4e92738b0c493a&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-21.8-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-21.8-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-21.8-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 21.8 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 12 File Size: 65.5 MB Posted By: dmitry.sokolov Views: 163 Date Added: 8/10/2021
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2021/aspose-words-for-reporting-services-21-8-release-notes/DescriptionUpgrade to the latest version of Aspose.Words for Net (21.8). Bug fixes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0eca5f2d69454806a56c499e22463d39&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-21.8-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-21.8-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-21.8-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 21.8 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 20 File Size: 64.4 MB Posted By: dmitry.sokolov Views: 90 Date Added: 8/10/2021
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2021/aspose-words-for-reporting-services-21-8-release-notes/DescriptionUpgrade to the latest version of Aspose.Words for Net (21.8). Bug fixes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5900fe7492834529bdb059c1e71dd377&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-21.12-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-21.12-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-21.12-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 21.12 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 2 File Size: 65.9 MB Posted By: dmitry.sokolov Views: 82 Date Added: 12/8/2021
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2021/aspose-words-for-reporting-services-21-12-release-notes/DescriptionUpgrade to the latest version of Aspose.Words for Net (21.12). Bug fixes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=662fb0d997be4cc8aebac568e0111893&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-21.12-(zip)- .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-21.12-zip-/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-21.12-zip-/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 21.12 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 5 File Size: 64.8 MB Posted By: dmitry.sokolov Views: 31 Date Added: 12/8/2021
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2021/aspose-words-for-reporting-services-21-12-release-notes/DescriptionUpgrade to the latest version of Aspose.Words for Net (21.12). Bug fixes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-22.2-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.2-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.2-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 22.2 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 13 File Size: 66.2 MB Posted By: dmitry.sokolov Views: 60 Date Added: 2/6/2022
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2022/aspose-words-for-reporting-services-22-2-release-notes/DescriptionUpgrade to the latest version of Aspose.Words for Net (22.2). Bug fixes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=38b0d66b94a1412a8c1136981d6efa74&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-22.2-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.2-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.2-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 22.2 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 9 File Size: 65.1 MB Posted By: dmitry.sokolov Views: 25 Date Added: 2/6/2022
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2022/aspose-words-for-reporting-services-22-2-release-notes/DescriptionUpgrade to the latest version of Aspose.Words for Net (22.2). Bug fixes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a5ea3f9fee8143dc835ff615966e2f4d&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-22.5-(msi) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.5-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.5-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 22.5 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 66.5 MB Date Added: : 2 weeks ago [5/6/2022]
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2022/aspose-words-for-reporting-services-22-5-release-notes/DescriptionUpgrade to the latest version of Aspose.Words for Net (22.5). Bug fixes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bf0048e6da444c7ab27d4157a1894de0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-reporting-services-22.5-(zip) .</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.5-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.5-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 22.5 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 1 File Size: 65.4 MB Date Added: : 2 weeks ago [5/6/2022]
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2022/aspose-words-for-reporting-services-22-5-release-notes/DescriptionUpgrade to the latest version of Aspose.Words for Net (22.5). Bug fixes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3a2ad763ed344754baa9d19d7ec9784f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---New Releases-aspose.words-for-reporting-services-22.8-(msi)</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.8-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.8-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 22.8 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+67.47MB
+Date Added:
+4/8/2022
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2022/aspose-words-for-reporting-services-22-8-release-notes/
+DescriptionUpgrade to the latest version of Aspose.Words for Net (22.8). Bug fixes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3c4e24832f515c59b6c7852ccae369c5-14-7736&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.words-for-reporting-services-22.8-(zip)</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.8-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.8-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 22.8 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+66.36MB
+Date Added:
+4/8/2022
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2022/aspose-words-for-reporting-services-22-8-release-notes/
+DescriptionUpgrade to the latest version of Aspose.Words for Net (22.8). Bug fixes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=48ff0dca01092dcbdc114c50b8451f7d-14-7737&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.words-for-reporting-services-22.11-(msi)</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.11-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.11-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 22.11 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+68.08MB
+Date Added:
+3/11/2022
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2022/aspose-words-for-reporting-services-22-11-release-notes/
+DescriptionUpgrade to the latest version of Aspose.Words for Net (22.11). Bug fixes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e9a6d61fbe319559b38f9c918638279f-14-8099&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.words-for-reporting-services-22.11-(zip)</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.11-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.11-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 22.11 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+68.36MB
+Date Added:
+3/11/2022
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2022/aspose-words-for-reporting-services-22-11-release-notes/
+DescriptionUpgrade to the latest version of Aspose.Words for Net (22.11). Bug fixes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=09233e144a0508c8b7a80431451617b7-14-8100&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.words-for-reporting-services-23.2-(msi)</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.2-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.2-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 23.2 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+62.62MB
+Date Added:
+8/2/2023
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2023/aspose-words-for-reporting-services-23-2-release-notes/
+DescriptionUpgrade to the latest version of Aspose.Words for Net (23.2). Bug fixes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=768af41b00d621d5cf55634422cfe74e-13-8500&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.words-for-reporting-services-23.2-(zip)</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.2-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.2-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 23.2 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+61.54MB
+Date Added:
+8/2/2023
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2023/aspose-words-for-reporting-services-23-2-release-notes/
+DescriptionUpgrade to the latest version of Aspose.Words for Net (23.2). Bug fixes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1c2b337f0254361b88784ede51c36559-13-8501&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.words-for-reporting-services-23.5-(msi)</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.5-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.5-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 23.5 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+63.45MB
+Date Added:
+15/5/2023
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2023/aspose-words-for-reporting-services-23-5-release-notes/
+DescriptionUpgrade to the latest version of Aspose.Words for Net (23.5). Bug fixes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6dcec2a1586a8ff981dcfd262dc89939-13-8858&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.words-for-reporting-services-23.5-(zip)</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.5-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.5-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 23.5 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+62.37MB
+Date Added:
+15/5/2023
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2023/aspose-words-for-reporting-services-23-5-release-notes/
+DescriptionUpgrade to the latest version of Aspose.Words for Net (23.5). Bug fixes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0383da3f6994d81df1788e4f742b9b3a-13-8859&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.words-for-reporting-services-23.9-(msi)</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.9-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.9-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 23.9 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+67.25MB
+Date Added:
+18/9/2023
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2023/aspose-words-for-reporting-services-23-9-release-notes/
+DescriptionUpgrade to the latest version of Aspose.Words for Net (23.9). Added support for SSRS 2022.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bba2df57bb23f6755fb3803c03e5ce61-14-9484&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---New Releases-aspose.words-for-reporting-services-23.9-(zip)</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.9-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.9-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 23.9 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+86.05MB
+Date Added:
+18/9/2023
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2023/aspose-words-for-reporting-services-23-9-release-notes/
+DescriptionUpgrade to the latest version of Aspose.Words for Net (23.9). Added support for SSRS 2022.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7642e002ea91ace2fdd02c75725c77ba-18-9485&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---New Releases-aspose.words-for-reporting-services-23.11-(msi)</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.11-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.11-msi/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 23.11 (Msi)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+67.24MB
+Date Added:
+7/11/2023
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2023/aspose-words-for-reporting-services-23-11-release-notes/
+DescriptionUpgrade to the latest version of Aspose.Words for Net (23.11). Bug fixes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=578d2bf5a4a14920234de4d5ae41a32b-14-9710&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.words-for-reporting-services-23.11-(zip)</title><link>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.11-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.11-zip/</guid><description>&amp;nbsp;
+Aspose.Words for Reporting Services 23.11 (Zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+86.03MB
+Date Added:
+7/11/2023
+Release Noteshttps://releases.aspose.com/words/reportingservices/release-notes/2023/aspose-words-for-reporting-services-23-11-release-notes/
+DescriptionUpgrade to the latest version of Aspose.Words for Net (23.11). Bug fixes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e675ceecd8835e421f95744b40aaafb6-18-9711&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item></channel></rss>

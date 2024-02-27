@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Export to PDF | Aspose.PDF for SharePoint on Releases - aspose.com</title><link>https://releases-qa.aspose.com/pdf/sharepoint/</link><description>Recent content in Export to PDF | Aspose.PDF for SharePoint on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 16 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/pdf/sharepoint/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-1.0.0 .</title><link>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-1.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-1.0.0/</guid><description>&amp;nbsp;
+Aspose.PDF for SharePoint 1.0.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 38 File Size: 2.5 MB Posted By: codewarior Views: 310 Date Added: 10/14/2011
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7ad554b8bb5b48d8890b650c5afa78aa&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-v1.1 .</title><link>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-v1.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-v1.1/</guid><description>&amp;nbsp;
+Aspose.PDF for SharePoint v1.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 51 File Size: 3.5 MB Posted By: nausherwan.aslam Views: 463 Date Added: 11/27/2011
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8bc1346f84094f5ba468d12485f4b53e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-v1.3 .</title><link>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-v1.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-v1.3/</guid><description>&amp;nbsp;
+Aspose.PDF for SharePoint v1.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 30 File Size: 8.9 MB Posted By: nausherwan.aslam Views: 503 Date Added: 3/7/2012
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6441f3a21fac422c959c9d766e948441&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-v1.4 .</title><link>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-v1.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-v1.4/</guid><description>&amp;nbsp;
+Aspose.PDF for SharePoint v1.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 63 File Size: 9.2 MB Posted By: nausherwan.aslam Views: 390 Date Added: 4/4/2012
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9ea7775357a740c5b5a921e4063b7a87&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-v1.5 .</title><link>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-v1.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-v1.5/</guid><description>&amp;nbsp;
+Aspose.PDF for SharePoint v1.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 121 File Size: 9.5 MB Posted By: nausherwan.aslam Views: 433 Date Added: 8/3/2012
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=12807cd7df694f598dad8b5445630d92&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-v1.5.1 .</title><link>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-v1.5.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-v1.5.1/</guid><description>&amp;nbsp;
+Aspose.PDF for SharePoint v1.5.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 48 File Size: 10.4 MB Posted By: nausherwan.aslam Views: 606 Date Added: 12/6/2012
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=159825b79dfc4b3e8e373351bb86ee49&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-v1.6 .</title><link>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-v1.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-v1.6/</guid><description>&amp;nbsp;
+Aspose.PDF for SharePoint v1.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 46 File Size: 10.4 MB Posted By: nausherwan.aslam Views: 848 Date Added: 12/23/2012
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4c93213c3f8648a0a4252b8b3ffe33df&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-1.6.1 .</title><link>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-1.6.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-1.6.1/</guid><description>&amp;nbsp;
+Aspose.PDF for SharePoint 1.6.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 80 File Size: 10.4 MB Posted By: tilal.ahmad Views: 802 Date Added: 1/29/2013
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=21c0715879c84f2baa96d84afd6874a0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-1.7 .</title><link>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-1.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-1.7/</guid><description>&amp;nbsp;
+Aspose.PDF for SharePoint 1.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 108 File Size: 9.8 MB Posted By: tilal.ahmad Views: 809 Date Added: 4/7/2013
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ff9aa22912794970839a4bdc64575d9f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-1.8.0 .</title><link>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-1.8.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-1.8.0/</guid><description>&amp;nbsp;
+Aspose.PDF for SharePoint 1.8.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 308 File Size: 17.0 MB Posted By: tilal.ahmad Views: 1120 Date Added: 7/9/2013
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=37b119e93823414dba5e16f6bafa8ccc&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-1.9.0 .</title><link>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-1.9.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-1.9.0/</guid><description>&amp;nbsp;
+Aspose.PDF for SharePoint 1.9.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 154 File Size: 18.6 MB Posted By: kdubinin Views: 965 Date Added: 3/19/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=888c13a0526f47aa8210b886e077bb19&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-1.9.3 .</title><link>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-1.9.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-1.9.3/</guid><description>&amp;nbsp;
+Aspose.PDF for SharePoint 1.9.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 254 File Size: 17.6 MB Posted By: Andrew.N Views: 722 Date Added: 9/9/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=403806e4e22c4b0ca736fc8e9faf5f69&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-2.0.0 .</title><link>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-2.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-2.0.0/</guid><description>&amp;nbsp;
+Aspose.PDF for SharePoint 2.0.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 150 File Size: 24.6 MB Posted By: Andrew.N Views: 835 Date Added: 3/5/2015
+Release Noteshttps://releases.aspose.com/pdf/sharepoint/release-notes/2015/aspose-pdf-for-sharepoint-2-0-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=95cb2aa86c8d43abb5c5066613947e98&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-2.1.0 .</title><link>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-2.1.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-2.1.0/</guid><description>&amp;nbsp;
+Aspose.PDF for SharePoint 2.1.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 96 File Size: 24.7 MB Posted By: Andrew.N Views: 723 Date Added: 8/12/2015
+Release Noteshttps://releases.aspose.com/pdf/sharepoint/release-notes/2015/aspose-pdf-for-sharepoint-2-1-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7c5cdbae4cb94f2b9ee092cca41bd405&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-2.2.0 .</title><link>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-2.2.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-2.2.0/</guid><description>&amp;nbsp;
+Aspose.PDF for SharePoint 2.2.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 265 File Size: 25.1 MB Posted By: Andrew.N Views: 1536 Date Added: 12/29/2015
+Release Noteshttps://releases.aspose.com/pdf/sharepoint/release-notes/2015/aspose-pdf-for-sharepoint-2-2-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fd010d74716f4ae98d3aad1e1e783389&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item></channel></rss>

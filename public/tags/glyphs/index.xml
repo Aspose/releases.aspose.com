@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Glyphs on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/glyphs/</link><description>Recent content in Glyphs on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 14 Aug 2023 11:17:57 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/tags/glyphs/index.xml" rel="self" type="application/rss+xml"/><item><title>Download Font Creation &amp; Saving C# Library | Aspose.Font API</title><link>https://releases-qa.aspose.com/font/net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/net/</guid><description>Support Forum
+Download Aspose.Font to Draw Text Open NuGet Package Manager within the Microsoft Visual Studio&amp;reg;, search for Aspose.Font and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the Installation documentation page.
+Release Notes
+PM&amp;gt;
+Install-Package Aspose.Font
+&amp;nbsp;
+Product Page | Docs | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Aspose.Font | Java Font Processing API | TT, CFF, OT, Type1</title><link>https://releases-qa.aspose.com/font/java/</link><pubDate>Fri, 22 Dec 2023 03:13:08 +0000</pubDate><guid>https://releases-qa.aspose.com/font/java/</guid><description>Java API for Various Font Formats
+Product Page | Docs | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.Font for Java is a font loading and drawing library. It supports multiple front formats such as TrueType (with TrueType collectons), CFF, OpenType, and Type1. The API provides rich functionality to load/save font and provide information about its data structures along with any glyph that is supported by all the font types.</description></item><item><title>Download Font Manipulation C++ Library DLL | Aspose.Font API</title><link>https://releases-qa.aspose.com/font/cpp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/</guid><description>Support Forum
+Download Font Manipulation C&amp;#43;&amp;#43; Library Open NuGet Package Manager within the Microsoft Visual Studio&amp;reg;, search for Aspose.Font.Cpp and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the Installation documentation page.
+Release Notes
+Download
+PM&amp;gt;
+Install-Package Aspose.Font.Cpp
+&amp;nbsp;
+Product Page | Docs | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Download SVG Parser &amp; Convertor .NET DLL | Aspose.SVG API</title><link>https://releases-qa.aspose.com/svg/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/svg/</guid><description>Support Forum
+Download Aspose.SVG to Process Vector Graphics Open NuGet Package Manager within the Microsoft Visual Studio&amp;reg;, search for Aspose.SVG and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the Installation documentation page.
+Release Notes
+Download
+PM&amp;gt;
+Install-Package Aspose.SVG
+&amp;nbsp;
+Product Page | Docs | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.8</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.8/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+132MB
+Date Added:
+14/8/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-8-release-notes/
+DescriptionAspose.Font for C++ 23.8 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6dd2a2bbfaa94ad3b8bbc6e7aa928b19-27-9328&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.8-linux</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.8-linux/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.8 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.49MB
+Date Added:
+14/8/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-8-release-notes/
+DescriptionAspose.Font for C++ 23.8 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ac4ece9d59e15e5e3902f2e5bbd77bf8-8-9329&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.font-for-c++-23.8-macos</title><link>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.8-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/cpp/new-releases/aspose.font-for-c++-23.8-macos/</guid><description>&amp;nbsp;
+Aspose.Font for C&amp;#43;&amp;#43; 23.8 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+63.29MB
+Date Added:
+14/8/2023
+Release Noteshttps://releases.aspose.com/font/cpp/release-notes/2023/aspose-font-for-cpp-23-8-release-notes/
+DescriptionAspose.Font for C++ 23.8 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=08753277a3a9be73ccb8799ab80d549c-13-9330&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Aspose.Font 23.8 | Font Processing via Java High Code API</title><link>https://releases-qa.aspose.com/font/java/23-8/</link><pubDate>Mon, 14 Aug 2023 11:17:57 +0000</pubDate><guid>https://releases-qa.aspose.com/font/java/23-8/</guid><description>Java API for Various Font Formats
+Product Page | Docs | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.Font for Java is a font loading and drawing library. It supports multiple front formats such as TrueType (with TrueType collectons), CFF, OpenType, and Type1. The API provides rich functionality to load/save font and provide information about its data structures along with any glyph that is supported by all the font types.</description></item></channel></rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Release Notes - 2011 on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2011/</link><description>Recent content in Release Notes - 2011 on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/cells/java/release-notes/2011/index.xml" rel="self" type="application/rss+xml"/><item><title>Aspose.Cells for Java 7.0.3 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2011/aspose-cells-for-java-7-0-3-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2011/aspose-cells-for-java-7-0-3-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 7.0.3
+Wir freuen uns, Aspose.Cells for Java v7.0.3 ankündigen zu können!
+Allgemeine Funktionen/Verbesserungen
+Unterstützung von LightCellsDataProvider zum Speichern der Datei XLS
+Für die Excel-zu-PDF-Funktion wurden Verbesserungen vorgenommen
+31329 – Fügen Sie eine nützliche Methode hinzu: PivotField.getBaseIndex()
+40015 - Bibliothek mit webservices-rt.jar kompatibel machen
+40011 - Unterstützung, um alle Farben zu erhalten, die von verschiedenen Objekten in der Arbeitsmappe verwendet werden
+Ausnahmen</description></item><item><title>Aspose.Cells for Java 7.0.2 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2011/aspose-cells-for-java-7-0-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2011/aspose-cells-for-java-7-0-2-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 7.0.2
+Wir freuen uns, Aspose.Cells for Java v7.0.2 ankündigen zu können!
+Allgemeine Funktionen / Verbesserungen
+Unterstützung von LightCellsDataProvider zum Speichern von XLSX-Dateien
+Unterstützt J2SE7.0-Version
+Verbesserungen wurden für die Sheet-to-Image-Funktion vorgenommen
+Für die Excel-zu-PDF-Funktion wurden Verbesserungen vorgenommen
+Alle Korrekturen
+Verbesserungen
+30504 – Werttyp der Eigenschaft Cells.StandardHeightPixels synchronisieren
+30738 - Unterstützung, um ein Arbeitsblatt zur Laufzeit als ausgeblendet festzulegen, selbst wenn es das einzige Blatt in der Arbeitsmappe ist</description></item><item><title>Aspose.Cells for Java 7.0.1 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2011/aspose-cells-for-java-7-0-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2011/aspose-cells-for-java-7-0-1-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 7.0.1
+Wir freuen uns, Aspose.Cells for Java v7.0.1 ankündigen zu können!
+Verbesserungen
+30556 Verbesserte Worksheet-to-Image-Funktion
+30557 Excel-zu-PDF-Konvertierung verbessern
+30458 Neue APIs hinzugefügt: Worksheet.calculateFormula(), Row.getFirstCell(), Row.getLastCell()
+30487 Unterstützung Aspose.Total Lizenz
+29838 Rendern von Bildern in benutzerdefinierte Grafiken des Benutzers
+30558 FormatCondition.getPriority()-Methode einbeziehen
+30505 Methode Cells.checkColumn(int) einschließen
+30504 Schließen Sie Getter/Setter für die Attribute Cells.StandardHeightPixels/StandardWidthPixels ein
+30459 Schließen Sie die Methoden WorkbookSettings.setLocale(Locale) und Protection.</description></item><item><title>Aspose.Cells for Java 7.0.0 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2011/aspose-cells-for-java-7-0-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2011/aspose-cells-for-java-7-0-0-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 7.0.0
+Einführung
+Wir freuen uns, Aspose.Cells for Java v7.0.0 für die Benutzer ankündigen zu können. Dies ist die erste Version, in der wir automatisch von unserem .NET-Code portiert haben und daher möglicherweise viele Funktionen enthalten, die in den vorherigen Aspose.Cells for Java-Versionen fehlten. Diese Veröffentlichung ist ein wichtiger Meilenstein, da wir von nun an effizienter arbeiten können und es einfach eine viel bessere Aspose.</description></item><item><title>Aspose.Cells for Java 2.5.4 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2011/aspose-cells-for-java-2-5-4-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2011/aspose-cells-for-java-2-5-4-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 2.5.4
+Wir freuen uns, Aspose.Cells for Java v2.5.4 ankündigen zu können! Neue Eigenschaften 25051 – Unterstützt erweiterte Autofiltertypen: MultipleFilter, DynamicFilter, IconFilter
+25742 – Formatieren Sie die gesamte Pivot-Tabelle oder Zellen im Pivot-Tabellenbericht
+26627 - Achseneigenschaften, wie z. B. Max/Min-Wert, auf „Automatisch“ setzen
+26655 - Animierte GIF-Bilder für HTML-Datei exportieren
+26607 - Unterstützung zur Berechnung der EOMONTH-Funktion
+Verbesserungen 26655 - Import/Export von Datums- und Rahmenstilen für die Datei ODS</description></item><item><title>Aspose.Cells for Java 2.5.3 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2011/aspose-cells-for-java-2-5-3-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2011/aspose-cells-for-java-2-5-3-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 2.5.3
+Wir freuen uns, Aspose.Cells for Java v2.5.3 ankündigen zu können!</description></item><item><title>Aspose.Cells for Java 2.5.2 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2011/aspose-cells-for-java-2-5-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2011/aspose-cells-for-java-2-5-2-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 2.5.2
+Wir freuen uns Aspose.Cells for Java 2.5.2 ankündigen zu dürfen!
+Was hat sich geändert:
+Unterstützt das Lesen von Pivot-Tabellen aus den Vorlagendateien. Fügt LineShape zu Excel 2007 XLSX-Dateien hinzu. Bietet Unterstützung zum Festlegen des Seriennamens beim Festlegen der Datenquelle des Diagramms. Unterstützt das Abrufen/Festlegen der Sichtbarkeit von Rasterlinien für verschiedene Arbeitsblätter in ODS-Dateien. Es wurde eine Verbesserung zum Lesen von Shapes aus XLSX-Dateien vorgenommen.</description></item><item><title>Aspose.Cells for Java 2.5.1 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2011/aspose-cells-for-java-2-5-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2011/aspose-cells-for-java-2-5-1-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 2.5.1
+Wir freuen uns, Aspose.Cells for Java 2.5.1 ankündigen zu können!
+Was hat sich geändert:
+· Unterstützt das Unterbrechen des Öffnungs-/Speichervorgangs beim Arbeiten mit großen Dateien.
+· Stellt Unterstützung zur Verfügung, um mehr Formeln einzustellen und zu berechnen.
+· Unterstützt, um die absolute Position der Form zu erhalten/einzustellen.
+· Behebt Fehler beim Lesen/Speichern von Excel 2007-Dateien.
+· Behebt Fehler beim Lesen/Speichern von ODS-Dateien.</description></item></channel></rss>

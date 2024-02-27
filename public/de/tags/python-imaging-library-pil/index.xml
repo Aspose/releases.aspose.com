@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Imaging Library PIL on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/tags/python-imaging-library-pil/</link><description>Recent content in Python Imaging Library PIL on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/tags/python-imaging-library-pil/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads --- NEW Releases-ASSOSPLE.Imaging-for-Python-via -.net-23.10</title><link>https://releases-qa.aspose.com/de/imaging/python-net/new-releases/aspose.imaging-for-python-via-.net-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/imaging/python-net/new-releases/aspose.imaging-for-python-via-.net-23.10/</guid><description>&amp;nbsp;
+ASSOSE.IMAGING FÜR PYTHON über .NET 23.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+282.68MB
+Datum hinzugefügt:
+27/10/2023
+Versionshinweisehttps://releases.aspose.com/imaging/python-net/release-notes/2023/aspose-imaging-for-python-net-23-10-release-notes/
+BeschreibungEs enthält ASSOSE.Imaging für Python über .NET 23.10 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4f60d5cc86cb8119f9bfbb713c68484f-57-9681&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

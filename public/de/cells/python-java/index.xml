@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tabellenkalkulationsdatei-API | Python-Excel-Bibliothek | Aspose.Cells für Python über Java on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/cells/python-java/</link><description>Recent content in Tabellenkalkulationsdatei-API | Python-Excel-Bibliothek | Aspose.Cells für Python über Java on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/cells/python-java/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---Neue-Releases-aspose.cells-for-python-via-java-19.12 .</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-19.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-19.12/</guid><description>&amp;nbsp;
+Aspose.Cells für Python über Java 19.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+11.6 MB Posted By: Nick.Liu
+Ansichten:
+86
+Hinzugefügt am:
+2/20/2020
+Versionshinweise https://releases.aspose.com/cells/python-java/release-notes/2019/aspose-cells-for-python-via-java-19-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c1af0bef6b0844d4a17ee6b4158af60e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.cells-for-python-via-java-20.2 .</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-20.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-20.2/</guid><description>&amp;nbsp;
+Aspose.Cells für Python über Java 20.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+34
+Dateigröße:
+11.7 MB Posted By: Nick.Liu
+Ansichten:
+134
+Hinzugefügt am:
+2/25/2020
+Versionshinweise https://releases.aspose.com/cells/python-java/release-notes/2020/aspose-cells-for-python-via-java-20-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c8bffdf9860e4af092d7517679c4d27b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.cells-for-python-via-java-21.2 .</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-21.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-21.2/</guid><description>&amp;nbsp;
+Aspose.Cells für Python über Java 21.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+15
+Dateigröße:
+12.1 MB Posted By: Nick.Liu
+Ansichten:
+59
+Hinzugefügt am:
+2/7/2021
+Versionshinweise https://releases.aspose.com/cells/python-java/release-notes/2021/aspose-cells-for-python-via-java-21-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=217f721477be43f2b0e5eefc21f45bc1&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.cells-for-python-via-java-21.6 .</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-21.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-21.6/</guid><description>&amp;nbsp;
+Aspose.Cells für Python über Java 21.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+10.7 MB Posted By: Nick.Liu
+Ansichten:
+106
+Hinzugefügt am:
+6/22/2021
+Versionshinweise https://releases.aspose.com/cells/python-java/release-notes/2021/aspose-cells-for-python-via-java-21-6-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2e2244df0c084e2aab92e7f457175fb6&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.cells-for-python-via-java-21.7 .</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-21.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-21.7/</guid><description>&amp;nbsp;
+Aspose.Cells für Python über Java 21.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+11.4 MB Posted By: Nick.Liu
+Ansichten:
+107
+Hinzugefügt am:
+7/19/2021
+Versionshinweise https://releases.aspose.com/cells/python-java/release-notes/2021/aspose-cells-for-python-via-java-21-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=16f372435c334e2b96de3c756c82126b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.cells-for-python-via-java-21.9 .</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-21.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-21.9/</guid><description>&amp;nbsp;
+Aspose.Cells für Python über Java 21.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+11.4 MB Posted By: Nick.Liu
+Ansichten:
+95
+Hinzugefügt am:
+9/16/2021
+Versionshinweise https://releases.aspose.com/cells/python-java/release-notes/2021/aspose-cells-for-python-via-java-21-9-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4f64e7825d624a1590b209a3726c042a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.cells-for-python-via-java-21.10 .</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-21.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-21.10/</guid><description>&amp;nbsp;
+Aspose.Cells für Python über Java 21.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+11.4 MB Posted By: Nick.Liu
+Ansichten:
+88
+Hinzugefügt am:
+10/20/2021
+Versionshinweise https://releases.aspose.com/cells/python-java/release-notes/2021/aspose-cells-for-python-via-java-21-10-release-notes//
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b4a4796c1a9c4b80be810d3b4a02c769&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.cells-for-python-via-java-21.11 .</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-21.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-21.11/</guid><description>&amp;nbsp;
+Aspose.Cells für Python über Java 21.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+4
+Dateigröße:
+11.4 MB Posted By: Nick.Liu
+Ansichten:
+76
+Hinzugefügt am:
+11/10/2021
+Versionshinweise https://releases.aspose.com/cells/python-java/release-notes/2021/aspose-cells-for-python-via-java-21-11-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5a4ddcd0b8794bd787fdb37f2f1882e3&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.cells-for-python-via-java-21.12 .</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-21.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-21.12/</guid><description>&amp;nbsp;
+Aspose.Cells für Python über Java 21.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+11.5 MB Posted By: Nick.Liu
+Ansichten:
+53
+Hinzugefügt am:
+12/13/2021
+Versionshinweise https://releases.aspose.com/cells/python-java/release-notes/2021/aspose-cells-for-python-via-java-21-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1eba11e1e7ed429f8c9408afdf335705&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.cells-for-python-via-java-22.1 .</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.1/</guid><description>&amp;nbsp;
+Aspose.Cells für Python über Java 22.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+11.5 MB Posted By: Nick.Liu
+Ansichten:
+45
+Hinzugefügt am:
+1/12/2022
+Versionshinweise https://releases.aspose.com/cells/python-java/release-notes/2022/aspose-cells-for-python-via-java-22-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=412d897e5e5e4a65a03c910513fc75d3&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.cells-for-python-via-java-22.2 .</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.2/</guid><description>&amp;nbsp;
+Aspose.Cells für Python über Java 22.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+11.6 MB Posted By: Nick.Liu
+Ansichten:
+24
+Hinzugefügt am:
+2/21/2022
+Versionshinweise https://releases.aspose.com/cells/python-java/release-notes/2022/aspose-cells-for-python-via-java-22-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ed4d986df8d145c88aa23625678a8ecb&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.cells-for-python-via-java-22.3 .</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.3/</guid><description>&amp;nbsp;
+Aspose.Cells für Python über Java 22.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+11.6 MB Posted By: Nick.Liu
+Ansichten:
+21
+Hinzugefügt am:
+: 5 weeks ago [3/14/2022]
+Versionshinweise https://releases.aspose.com/cells/python-java/release-notes/2022/aspose-cells-for-python-via-java-22-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e222102120774c5cb1fbdf95c12318a2&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cells-for-python-via-java-22.4 .</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.4/</guid><description>&amp;nbsp;
+Aspose.Cells für Python über Java 22.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+11.6 MB Hinzugefügt am:
+4/15/2022
+Versionshinweise https://releases.aspose.com/cells/python-java/release-notes/2022/aspose-cells-for-python-via-java-22-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d769d662d8d84d05a160f07bc395ca6b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.cells-for-python-via-java-22.5 .</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.5/</guid><description>&amp;nbsp;
+Aspose.Cells für Python über Java 22.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+11.6 MB Hinzugefügt am:
+: 3 days ago [5/13/2022]
+Versionshinweise https://releases.aspose.com/cells/python-java/release-notes/2022/aspose-cells-for-python-via-java-22-5-release-notes//
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5c0b311d1ea14bf7b1b6ab314ca374ab&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.cells-for-python-via-java-22.6</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.6/</guid><description>&amp;nbsp;
+Aspose.Cells für Python über Java 22.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+11.63MB
+Hinzugefügt am:
+13/6/2022
+Versionshinweise https://releases.aspose.com/cells/python-java/release-notes/2022/aspose-cells-for-python-via-java-22-6-release-notes/
+BeschreibungAspose.Cells für Python über Java 22.6
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=dbee37a76c70ba3ef5e06c380260546d-3-7509&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.cells-for-python-via-java-22.7</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.7/</guid><description>&amp;nbsp;
+Aspose.Cells für Python über Java 22.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+11.65MB
+Hinzugefügt am:
+11/7/2022
+Versionshinweise https://releases.aspose.com/cells/python-java/release-notes/2022/aspose-cells-for-python-via-java-22-7-release-notes/
+BeschreibungAspose.Cells für Python über Java 22.7
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=89958b6ca5aea5a3b5f9fc10fe6d462c-3-7630&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.cells-for-python-via-java-22.8</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.8/</guid><description>&amp;nbsp;
+Aspose.Cells für Python über Java 22.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+11.66MB
+Hinzugefügt am:
+9/8/2022
+Versionshinweise https://releases.aspose.com/cells/python-java/release-notes/2022/aspose-cells-for-python-via-java-22-8-release-notes/
+BeschreibungAspose.Cells für Python über Java 22.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ab8578a0e729ed0083ab93a0a9d70435-3-7752&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.cells-for-python-via-java-22.9</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.9/</guid><description>&amp;nbsp;
+Aspose.Cells für Python über Java 22.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+11.67MB
+Hinzugefügt am:
+13/9/2022
+Versionshinweise https://releases.aspose.com/cells/python-java/release-notes/2022/aspose-cells-for-python-via-java-22-9-release-notes/
+BeschreibungAspose.Cells für Python über Java 22.9
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4b616388a46efe3f34be387f67467c8d-3-7886&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.cells-for-python-via-java-22.10</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.10/</guid><description>&amp;nbsp;
+Aspose.Cells für Python über Java 22.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+11.68MB
+Date Added:
+13/10/2022
+Versionshinweise https://releases.aspose.com/cells/python-java/release-notes/2022/aspose-cells-for-python-via-java-22-6-release-notes/
+BeschreibungAspose.Cells für Python über Java 22.10
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=822efbcb2700ab6070b1b37a2d1c14df-3-8002&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-python-via-java-22.1</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.11/</guid><description>&amp;nbsp;
+Aspose.Cells for Python via Java 22.11
+Downloaden&amp;nbsp;
+Downloaden&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+11,7 MB
+Datum hinzugefügt:
+14/11/2022
+Versionshinweisehttps://releases.aspose.com/cells/python-java/release-notes/2022/aspose-cells-for-python-via-java-22-11-release-notes/
+BeschreibungAspose.Cells for Python via Java 22.11
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=adedfa84eba9ff0bcc95e9e18645ce20-3-812&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-python-via-java-22.1</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-22.12/</guid><description>&amp;nbsp;
+Aspose.Cells for Python via Java 22.12
+Downloaden&amp;nbsp;
+Downloaden&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+11,73 MB
+Datum hinzugefügt:
+12/12/2022
+Versionshinweisehttps://releases.aspose.com/cells/python-java/release-notes/2022/aspose-cells-for-python-via-java-22-12-release-notes/
+BeschreibungAspose.Cells for Python via Java 22.12
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=03878762cff2fce5508dc19005b0c2d5-3-825&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.Cells-for-Python-via-Java-23.1</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-23.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-23.1/</guid><description>&amp;nbsp;
+ASSONE.CELLS für Python über Java 23.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+11.73MB
+Datum hinzugefügt:
+11/1/2023
+Versionshinweisehttps://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-1-release-notes/
+BeschreibungASSONE.CELLS für Python über Java 23.1
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a6b3d3adbbb7b0914c196872c0c09bc5-3-8379&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.Cells-for-Python-via-Java-23.2</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-23.2/</guid><description>&amp;nbsp;
+ASSONE.CELLS für Python über Java 23.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+11.75MB
+Datum hinzugefügt:
+10/2/2023
+Versionshinweisehttps://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-2-release-notes/
+BeschreibungASSONE.CELLS für Python über Java 23.2
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=45c9e2685415f7ccb5b4790b59121832-3-8507&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Cells-for-Python-via-Java-23.3</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-23.3/</guid><description>&amp;nbsp;
+ASSONE.CELLS für Python über Java 23.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+11.76MB
+Datum hinzugefügt:
+10/3/2023
+Versionshinweisehttps://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-3-release-notes/
+BeschreibungASSONE.CELLS für Python über Java 23.3
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d866b5b319e7c91a42a85149df37661b-3-8619&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.Cells-for-Python-via-Java-23.4</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-23.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-23.4/</guid><description>&amp;nbsp;
+ASSONE.CELLS für Python über Java 23.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+11.8MB
+Datum hinzugefügt:
+13/4/2023
+Versionshinweisehttps://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-4-release-notes/
+BeschreibungASSONE.CELLS für Python über Java 23.4
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=124230b424a4220b435406294bb7abf6-3-8749&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Cells-for-Python-via-Java-23.5</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-23.5/</guid><description>&amp;nbsp;
+ASSONE.CELLS für Python über Java 23.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+11.81MB
+Datum hinzugefügt:
+11/5/2023
+Versionshinweisehttps://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-5-release-notes/
+BeschreibungASSONE.CELLS für Python über Java 23.5
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f5e9eb635e943ce0df051ba289057913-3-8851&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.Cells-for-Python-via-Java-23.6</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-23.6/</guid><description>&amp;nbsp;
+ASSONE.CELLS für Python über Java 23.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+13.37MB
+Datum hinzugefügt:
+9/6/2023
+Versionshinweisehttps://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-6-release-notes/
+BeschreibungASSONE.CELLS für Python über Java 23.6
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2782a3db96aff356580ac200127c7356-3-8966&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.Cells-for-Python-via-Java-23.7</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-23.7/</guid><description>&amp;nbsp;
+ASSONE.CELLS für Python über Java 23.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+13.41MB
+Datum hinzugefügt:
+14/7/2023
+Versionshinweisehttps://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-7-release-notes/
+BeschreibungASSONE.CELLS für Python über Java 23.7
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=932728b89ccf9147ac2ee6eb82f24d1f-3-9212&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.Cells-for-Python-via-Java-23.8</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-23.8/</guid><description>&amp;nbsp;
+ASSONE.CELLS für Python über Java 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+13.41MB
+Datum hinzugefügt:
+14/8/2023
+Versionshinweisehttps://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-8-release-notes/
+BeschreibungASSONE.CELLS für Python über Java 23.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e73ef57deeed63f11fb6a61b9f59cc95-3-9324&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Cells-for-Python-via-Java-23.9</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-23.9/</guid><description>&amp;nbsp;
+ASSONE.CELLS für Python über Java 23.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+13.47MB
+Datum hinzugefügt:
+15/9/2023
+Versionshinweisehttps://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-9-release-notes/
+BeschreibungASSONE.CELLS für Python über Java 23.9
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ba819f0758b2041b3279cc96e0a4a9a9-3-9473&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Cells-for-Python-via-Java-23.10</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-23.10/</guid><description>&amp;nbsp;
+ASSONE.CELLS für Python über Java 23.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+13.49MB
+Datum hinzugefügt:
+16/10/2023
+Versionshinweisehttps://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-10-release-notes/
+BeschreibungASSONE.CELLS für Python über Java 23.10
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=00b97c4da0b8be0e62da28357f4f9e14-3-9613&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPEN.</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-23.11/</guid><description>&amp;nbsp;
+ASSONE.CELLS für Python über Java 23.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+13.52MB
+Datum hinzugefügt:
+13/11/2023
+Versionshinweisehttps://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-11-release-notes/
+BeschreibungASSONE.CELLS für Python über Java 23.11
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a4bec860040638956b56f2c74fdbbc1e-3-9721&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Cells-for-Python-via-Java-23.12</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-23.12/</guid><description>&amp;nbsp;
+ASSOSE.CELLS für Python über Java 23.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+13.55MB
+Datum hinzugefügt:
+15/12/2023
+Versionshinweisehttps://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-12-release-notes/
+BeschreibungASSOSE.CELLS für Python über Java 23.12
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=550b80620a5da8e048346c071f49e395-3-9992&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.Cells-for-Python-via-Java-24.1</title><link>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-java/new-releases/aspose.cells-for-python-via-java-24.1/</guid><description>&amp;nbsp;
+ASSONE.CELLS für Python über Java 24.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+13.58MB
+Datum hinzugefügt:
+11/1/2024
+Versionshinweisehttps://releases.aspose.com/cells/python-java/release-notes/2024/aspose-cells-for-python-via-java-24-1-release-notes/
+BeschreibungASSONE.CELLS für Python über Java 24.1
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=18e58536d177b70065209855cc0d07e7-3-10146&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

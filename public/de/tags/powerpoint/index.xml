@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PowerPoint on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/tags/powerpoint/</link><description>Recent content in PowerPoint on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Wed, 23 Nov 2022 19:22:59 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/de/tags/powerpoint/index.xml" rel="self" type="application/rss+xml"/><item><title>ASSOSH.Slides | Java -Bibliothek, um PowerPoint -Formate zu verarbeiten</title><link>https://releases-qa.aspose.com/de/slides/java/</link><pubDate>Wed, 23 Nov 2022 19:22:59 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/java/</guid><description>Java Powerpoint API
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Slides Eine Java Powerpoint -API für die Manipulation und das Management der Präsentation. Es ermöglicht Entwicklern, PowerPoint -Präsentationen in Java -Anwendungen zu lesen, zu schreiben, zu konvertieren und zu manipulieren, mit der Fähigkeit, alle Dokumentelemente wie Folien, Tabellen, Text, Diagramme, Formen, Bilder und SmartArt -Diagramme und mehr zu manipulieren.</description></item><item><title>Aspose.Cells für Python über .NET</title><link>https://releases-qa.aspose.com/de/cells/python-net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-net/</guid><description>Support Forum
+Laden Sie die Aspose.Cells-Python-Bibliothek für die Tabellenkalkulation herunter Aspose.Cells for Python via .NET ist eine skalierbare und funktionsreiche API zur Verarbeitung von Excel®-Tabellen mit Python. API bietet Excel®-Dateierstellung, -bearbeitung, -konvertierung und -wiedergabe. Entwickler können Arbeitsblätter, Zeilen, Spalten oder Zellen bis ins kleinste Detail formatieren, Diagramme und Pivot-Tabellen manipulieren, Arbeitsblätter, Diagramme und bestimmte Datenbereiche in PDF oder Bilder rendern, die integrierten und benutzerdefinierten Formeln von Excel® hinzufügen und vieles mehr mehr - alles ohne Abhängigkeit von Microsoft Office oder Excel®-Anwendung.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Cells-for-Python-VIA -.net-23.8</title><link>https://releases-qa.aspose.com/de/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.8/</guid><description>&amp;nbsp;
+ASSONE.CELLS für Python über .NET 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+232.26MB
+Datum hinzugefügt:
+14/8/2023
+Versionshinweisehttps://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-8-release-notes/
+BeschreibungWeitere Einzelheiten finden Sie in Versionshinweise und Readme
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=499b3ac049068c7948d266b715652b3b-47-9323&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>ASSON.Slides 22.11 | PowerPoint -Formate Java High Code API</title><link>https://releases-qa.aspose.com/de/slides/java/22-11/</link><pubDate>Wed, 23 Nov 2022 19:22:59 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/java/22-11/</guid><description>Java Powerpoint API
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Slides Eine Java Powerpoint -API für die Manipulation und das Management der Präsentation. Es ermöglicht Entwicklern, PowerPoint -Präsentationen in Java -Anwendungen zu lesen, zu schreiben, zu konvertieren und zu manipulieren, mit der Fähigkeit, alle Dokumentelemente wie Folien, Tabellen, Text, Diagramme, Formen, Bilder und SmartArt -Diagramme und mehr zu manipulieren.</description></item></channel></rss>

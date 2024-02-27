@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>APIs zur optischen Zeichenerkennung | Aspose.OCR-Produktfamilie on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/ocr/</link><description>Recent content in APIs zur optischen Zeichenerkennung | Aspose.OCR-Produktfamilie on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Wed, 30 Nov 2022 20:51:46 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/de/ocr/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads --- NEW Releases-ASSOSPLE.OCR-for-PYTHON-VIA-C ++-24.1.0-MACOS-86X64</title><link>https://releases-qa.aspose.com/de/ocr/python-cpp/new-releases/aspose.ocr-for-python-via-c++-24.1.0-macos-86x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/ocr/python-cpp/new-releases/aspose.ocr-for-python-via-c++-24.1.0-macos-86x64/</guid><description>&amp;nbsp;
+ASSON.OCR für Python über C &amp;#43;&amp;#43; 24.1.0 macOS 86x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+197.95MB
+Datum hinzugefügt:
+19/1/2024
+Versionshinweisehttps://releases.aspose.com/ocr/python-cpp/release-notes/2024/aspose-ocr-for-python-cpp-24-1-0-release-notes/
+BeschreibungErste Veröffentlichung von ASSOSS.OCOCR für Python
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1894ca4fa1832a7114611c9643449ccb-40-10170&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.OCR-for-PYTHON-VIA-JAVA-23.12.0</title><link>https://releases-qa.aspose.com/de/ocr/python-java/new-releases/aspose.ocr-for-python-via-java-23.12.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/ocr/python-java/new-releases/aspose.ocr-for-python-via-java-23.12.0/</guid><description>&amp;nbsp;
+ASSON.OCR für Python über Java 23.12.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+348.8MB
+Datum hinzugefügt:
+18/12/2023
+Versionshinweisehttps://releases.aspose.com/ocr/python-java/release-notes/2023/aspose-ocr-python-java-23-12-0-release-notes/
+BeschreibungErste Veröffentlichung (enthält Text-in-wild)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=09247b0a47b48156be28cb2d7e713cbe-70-10005&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.OCR.JAVASSCIPT-CPP.23.7.0</title><link>https://releases-qa.aspose.com/de/ocr/javascript-cpp/new-releases/aspose.ocr.javascript-cpp.23.7.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/ocr/javascript-cpp/new-releases/aspose.ocr.javascript-cpp.23.7.0/</guid><description>&amp;nbsp;
+ASSON.OCR.JAVASSCIP-CPP.23.7.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+213.48MB
+Datum hinzugefügt:
+4/7/2023
+Versionshinweisehttps://docs.aspose.com/ocr/javascript-cpp/aspose-ocr-for-javascript-cpp-23-7-0-release-notes/
+BeschreibungErste Veröffentlichung von asspos
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6608bfb2a412c8e28b9f3c2dc78aad01-43-9175&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.OCR.NODEJS-CPP-23.12.0</title><link>https://releases-qa.aspose.com/de/ocr/nodejs-cpp/new-releases/aspose.ocr.nodejs-cpp-23.12.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/ocr/nodejs-cpp/new-releases/aspose.ocr.nodejs-cpp-23.12.0/</guid><description>&amp;nbsp;
+ASSON.OCR.NODEJS-CPP-23.12.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+213.32MB
+Datum hinzugefügt:
+13/12/2023
+Versionshinweisehttps://docs.aspose.com/ocr/nodejs-cpp/
+BeschreibungErste Veröffentlichung von ASSOSS.OCR für node.js
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bdc5e2428ea36c6ac1eaf16bb74d1b54-43-9978&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

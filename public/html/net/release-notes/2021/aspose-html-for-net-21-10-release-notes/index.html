@@ -1,0 +1,89 @@
+<!doctype html><html class=no-js lang=en><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge"><title>Aspose.HTML for .NET 21.10 Release Notes</title><meta name=description content="In this release, we have made various improvements to our rendering and scraping algorithms."><meta name=viewport content="width=device-width,minimum-scale=1"><link rel=canonical href=https://releases-qa.aspose.com/html/net/release-notes/2021/aspose-html-for-net-21-10-release-notes/><link rel=alternate hreflang=x-default href=https://releases-qa.aspose.com/html/net/release-notes/2021/aspose-html-for-net-21-10-release-notes/><meta name=robots content="noindex, nofollow"><link rel=apple-touch-icon sizes=180x180 href=/res_repo/apple-touch-icon.png><link rel=icon type=image/png href=/res_repo/favicon-32x32.png sizes=32x32><link rel=icon type=image/png href=/res_repo/favicon-16x16.png sizes=16x16><link rel=mask-icon href=/res_repo/safari-pinned-tab.svg color=#0594cb><meta name=theme-color content="#ffffff"><meta property="og:title" content="Aspose.HTML for .NET 21.10 Release Notes "><meta property="og:description" content="In this release, we have made various improvements to our rendering and scraping algorithms."><meta property="og:type" content="article"><meta property="og:url" content="https://releases-qa.aspose.com/html/net/release-notes/2021/aspose-html-for-net-21-10-release-notes/"><meta itemprop=name content="Aspose.HTML for .NET 21.10 Release Notes"><meta itemprop=description content="In this release, we have made various improvements to our rendering and scraping algorithms."><meta itemprop=wordCount content="578"><meta name=twitter:card content="summary"><meta name=twitter:title content="Aspose.HTML for .NET 21.10 Release Notes"><meta name=twitter:description content="In this release, we have made various improvements to our rendering and scraping algorithms."><link href=/css/bootstrap.css rel=stylesheet type=text/css><script src=https://releases-qa.aspose.com/res_repo/js/jquery-1.10.2.min.js></script></head><body><div id=header></div><div class=downloadpage><div class="container-fluid bcrumb1"><div id=sticky1 class=stickytopheight>&nbsp;</div><div class=container><div class=moduletable><ul id=dvBC class=breadcrumb><li><a href=/>Home</a><span class=divider></span></li><li><a href=/html/>Aspose.HTML Product Family</a><span class=divider></span></li><li><a href=/html/net/>Aspose.HTML for .NET</a><span class=divider></span></li><li><a href=/html/net/release-notes/>Release Notes</a><span class=divider></span></li><li><a href=/html/net/release-notes/2021/>2021</a><span class=divider></span></li><li><a href=/html/net/release-notes/2021/aspose-html-for-net-21-10-release-notes/>Aspose.HTML for .NET 21.10 Release Notes</a><span class=divider></span></li></ul></div></div></div><div class="container-fluid content2 vpanel-left"><div class=container><div class=row><div class="col-md-3 vpanel tree-section"><p class=list-title>Browse our Products<button type=button class=treeview-toggle> <span class=sr-only>Toggle navigation</span> <span class="icon expand-icon glyphicon glyphicon-hide"></span></button></p><div id=tree class="treeview hidetree"></div></div><div class="col-md-9 lhs1 col-xs-12 mobilehide node-section"><div class=box1><section role=main class="main-container page-package-details"><div class=row><div class="col-sm-9 package-details-main"><h1><strong>Aspose.HTML for .NET 21.10 Release Notes</strong></h1><div class="tab-content body-tab-content"><div role=tabpanel class="tab-pane active" id=readme-tab><div class=readme-common><div id=readme-container><p><div class="alert alert-primary" role=alert>This page contains release notes information for Aspose.HTML for .NET 21.10.</div><p>As per regular monthly update process of all APIs being offered by Aspose, we are honored to announce the October release of Aspose.HTML for .NET.</p><p>In this release, we have made various improvements to our rendering and scraping algorithms, here are some of them:</p><ul><li>Improved the positioning of PDF form elements.</li><li>Introduced the new page sizing options, they allow to resize page to fit content.</li><li>Introduced the support of Zoom and YouKu video scrappers.</li><li>Improved the processing of web response headers.</li></ul><h2 id=improvements-and-changes>Improvements and Changes</h2><table><thead><tr><th style=text-align:left><strong>Key</strong></th><th style=text-align:left><strong>Summary</strong></th><th style=text-align:left><strong>Category</strong></th></tr></thead><tbody><tr><td style=text-align:left>HTMLNET-3161</td><td style=text-align:left>Remove white space around generated image</td><td style=text-align:left>Feature</td></tr><tr><td style=text-align:left>HTMLNET-3225</td><td style=text-align:left>HTML to PDF conversion - set pdf page size to one page</td><td style=text-align:left>Feature</td></tr><tr><td style=text-align:left>HTMLNET-1799</td><td style=text-align:left>Problem converting HTML to image</td><td style=text-align:left>Bug</td></tr></tbody></table><h2 id=public-api-and-backward-incompatible-changes>Public API and Backward Incompatible Changes</h2><h3 id=added-apis>Added APIs</h3><pre tabindex=0><code>namespace Aspose.Html.DataScraping.MultimediaScraping
+{
+    public class MultimediaHost
+    {
+        /// &lt;summary&gt;
+        /// Represents a Zoom host.
+        /// &lt;/summary&gt;
+        public static MultimediaHost Zoom { get; }
+
+        /// &lt;summary&gt;
+        /// Represents an YouKu host.
+        /// &lt;/summary&gt;
+        public static MultimediaHost YouKu { get; }
+    }
+}
+</code></pre><pre tabindex=0><code>namespace Aspose.Html.DataScraping.MultimediaScraping.YouKu
+{
+    /// &lt;summary&gt;
+    /// Represents YouKu specific video information.
+    /// &lt;b&gt;Note:&lt;/b&gt; We do not support downloading copyrighted videos and using other people&#39;s videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
+    /// &lt;/summary&gt;
+    public class YouKuVideoInfo : VideoInfo
+    {
+    }
+}
+</code></pre><pre tabindex=0><code>namespace Aspose.Html.DataScraping.MultimediaScraping.Zoom
+{
+    /// &lt;summary&gt;
+    /// Represents Zoom specific video information.
+    /// &lt;b&gt;Note:&lt;/b&gt; We do not support downloading copyrighted videos and using other people&#39;s videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
+    /// &lt;/summary&gt;
+    public class ZoomVideoInfo : VideoInfo
+    {
+    }
+}
+</code></pre><pre tabindex=0><code>namespace Aspose.Html.Rendering
+{
+    public class PageSetup
+    {
+        /// &lt;summary&gt;
+        /// Gets or sets the &lt;see cref=&#34;Rendering.PageLayoutOptions&#34;/&gt;. Default value is &lt;see cref=&#34;Rendering.PageLayoutOptions.None&#34;/&gt;, any other value will override the &lt;see cref=&#34;AdjustToWidestPage&#34;/&gt; behaviour. Works only with HTML documents.
+        /// &lt;/summary&gt;
+        public PageLayoutOptions PageLayoutOptions { get; set; }
+    }
+}
+</code></pre><pre tabindex=0><code>namespace Aspose.Html.Rendering
+{
+    /// &lt;summary&gt;
+    /// Specifies flags that together with other PageSetup options determine sizes and layouts of pages.
+    /// These flags can be combined together according to their descriptions.
+    /// &lt;/summary&gt;
+    [Flags]
+    public enum PageLayoutOptions
+    {
+        /// &lt;summary&gt;
+        /// Default value which indicates that the PageLayoutOptions will not affect the sizes and layouts of pages.
+        /// &lt;/summary&gt;
+        None = 0,
+
+        /// &lt;summary&gt;
+        /// This flag indicates that the width of the pages is determined from the content size itself, not from the specified page width.
+        /// The width of content is calculated individually for every page.
+        /// &lt;/summary&gt;
+        FitToContentWidth = 1,
+
+        /// &lt;summary&gt;
+        /// When combined with &lt;see cref=&#34;FitToContentWidth&#34;/&gt; indicates that the width of every page will be the same and will be equal to the widest content size among all pages.
+        /// &lt;/summary&gt;
+        UseWidestPage = 2,
+
+        /// &lt;summary&gt;
+        /// This flag indicates that the width of the page is determined from the content size itself, not from the specified page width.
+        /// The width of every page will be the same and will be equal to the widest content size among all pages.
+        /// &lt;/summary&gt;
+        FitToWidestContentWidth = FitToContentWidth | UseWidestPage,
+
+        /// &lt;summary&gt;
+        /// This flag indicates that the height of the page is determined from the content size itself, not from the specified page height.
+        /// All the documents content will be located on the single page if this flag is specified.
+        /// &lt;/summary&gt;
+        FitToContentHeight = 16
+    }
+}
+</code></pre></p></div></div></div></div><hr></div></div></section></div></div></div></div></div></div><div id=dvHidden style=display:none></div><div id=footer></div><a class=backtop>&nbsp;</a><div id=DynabicMenuFooter></div><script type=text/javascript>const langarray=[]</script><script type=text/javascript>jQuery(document).ready(function(){let e=$(".nested").hide(),t=$(".treeview-animated-element");$(".treeview-animated-items-header").hover(function(){$(this).children.toggleClass("Mydiv")}),$(".treeview-animated-items-header").click(function(){return console.log("mala"),$this=$(this),console.log($this.attr("id")),$target=$this.siblings(".nested"),$pointerPlus=$this.children(".fa-plus"),$pointerMinus=$this.children(".fa-minus"),$pointerPlus.removeClass("fa-plus"),$pointerPlus.addClass("fa-minus"),$pointerMinus.removeClass("fa-minus"),$pointerMinus.addClass("fa-plus"),$this.toggleClass("open"),$target.hasClass("active")?$target.removeClass("active").slideUp():$target.addClass("active").slideDown(),!1})})</script><script>(function(e,s,o,a,t,n,i){e.ContainerizeMenuObject=t,e[t]=e[t]||function(){(e[t].q=e[t].q||[]).push(arguments)},e[t].l=1*new Date,n=s.createElement(o),i=s.getElementsByTagName(o)[0],n.async=1,n.src=a,i.parentNode.append(n)})(window,document,"script","https://menu.containerize.com/scripts/engine.min.js?v=1.0.1","aspose-en")</script><script src=https://releases-qa.aspose.com/res_repo/js/highlight.min.js></script>
+<script src=https://releases-qa.aspose.com/res_repo/js/bootstrap.min.js></script>
+<script src=/js/bundle.min.js></script>
+<script src=/js/dynabic.treeview.js></script>
+<script src=/js/treeviewmanager.js></script>
+<script>hljs.highlightAll()</script><link rel=stylesheet type=text/css href=https://releases-qa.aspose.com/res_repo/css/hugocustom.css><script>$(".btn-showside .mb-5").on("click",function(){$("main .flex .dn.db-l").toggleClass("showsidebar"),$("main .flex .w-100").toggleClass("noscroll")}),$(".btn-showmenu").on("click",function(){$("nav.bg-primary-color-dark").toggleClass("showmenu")}),$(".btn-plain").on("click",function(){$("main .flex .dn.db-l").removeClass("showsidebar"),$("main .flex .dn.db-l").removeClass("showsidebar"),$("nav.bg-primary-color-dark").removeClass("showmenu")}),$(".ss-bar ul li a[data-target]").on("click",function(){$(this).find(".i.fa-angle-down").hasClass("fa-angle-up")?$(this).find("i.fa-angle-down").removeClass("fa-angle-up"):$(this).find("i.fa-angle-down").toggleClass("fa-angle-up")}),$(".btn-showside").on("click",function(){$(".ss-bar").toggleClass("showsidebar")}),$(".btn-plain").on("click",function(){$(".ss-bar").removeClass("showsidebar")})</script><script>$(document).ready(function(){$("div pre").removeAttr("style");var e,t=$(location).attr("hash");"#package-explorer"==t&&(e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]'),e&&e.click()),$('a:has(img[alt="banner"]').click(function(){event.preventDefault();var e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]');e&&e.click()}),$(window).scroll(function(){$(this).scrollTop()>150?$(".backtop").fadeIn():$(".backtop").fadeOut()}),$(".backtop").click(function(){return $("html, body").animate({scrollTop:0},600),!1}),$(".linkshow").on("click",function(){$(this).find("i").toggleClass("fa-minus-square"),$(".linkshowbox").toggleClass("hide")}),document.querySelector("body").addEventListener("click",function(t){if(t.target.classList.contains("searchButton")){$(".ss-bar").removeClass("showsidebar");try{var e=$("input[name=q]").val();gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}if(t.target.classList.contains("fa-search")){$(".ss-bar").removeClass("showsidebar");try{e=$("input[name=q]").val(),gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}},!0)})</script><script>document.querySelectorAll("pre > code").forEach(t=>{const n=t.parentNode.parentNode,e=document.createElement("button");e.classList.add("copy-code"),e.innerHTML="copy";function s(){e.innerHTML="copied!",setTimeout(()=>{e.innerHTML="copy"},2e3)}e.addEventListener("click",o=>{if("clipboard"in navigator){navigator.clipboard.writeText(t.textContent),s();return}const e=document.createRange();e.selectNodeContents(t);const n=window.getSelection();n.removeAllRanges(),n.addRange(e);try{document.execCommand("copy"),s()}catch(e){}n.removeRange(e)}),n.classList.contains("highlight")?n.appendChild(e):n.parentNode.firstChild==n||(t.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName=="TABLE"?t.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(e):t.parentNode.appendChild(e))})</script></body></html>

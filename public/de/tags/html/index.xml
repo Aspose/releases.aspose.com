@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HTML on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/tags/html/</link><description>Recent content in HTML on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Tue, 13 Dec 2022 06:09:16 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/de/tags/html/index.xml" rel="self" type="application/rss+xml"/><item><title>C#-Gameware, CAD- und 3D-Verarbeitungs-DLL herunterladen | Aspose.3D</title><link>https://releases-qa.aspose.com/de/3d/net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/3d/net/</guid><description>Support Forum
+Laden Sie Aspose.3D herunter, um 3D-Bilder zu verarbeiten Offen
+NuGetPackage Manager in Microsoft Visual Studio®, suchen Sie nach Aspose.3D und installieren Sie es. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die
+InstallationDokumentationsseite.
+Release-opmerkingen
+Downloaden
+PM&amp;gt;
+Install-Package Aspose.3D
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>ASSON.DIAGRAM | Java -Bibliothek zum Erstellen, Exportieren von Visio -Dokumenten</title><link>https://releases-qa.aspose.com/de/diagram/java/</link><pubDate>Tue, 13 Dec 2022 06:09:16 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/java/</guid><description>Java API für Microsoft Visio &amp;amp; Reg; Dateiformate
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Diagram for Java API ist eine Lösung für Microsoft Visio -Dateimanipulationsanforderungen. Die Java-Anwendungen können Microsoft-Visio-Diagramme lesen, schreiben, exportieren und verarbeiten, während alle Visio-Objekte und Eigenschaften einschließlich Formen, Seiten, Bilder, Formmeister, Schablonen, Text, Schichten, Header, Fußzeilen, benutzerdefinierten Zellen, Hyperlinks, Hyperlinks, Layer, Header, Fußzeilen, Hyperlinks, unterstützt werden, die Unterstützung Dateischutz, Geometrien, Textfelder und Kommentare.</description></item><item><title>ASSONE.CELLS | Excel -Tabellenkalkulations -Java -Bibliothek aus Excel</title><link>https://releases-qa.aspose.com/de/cells/java/</link><pubDate>Mon, 12 Dec 2022 06:35:39 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/</guid><description>Java -API für Excel -Dateiformate
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Cells for Java ist eine preisgekrönte Excel-Tabellenkalkulations-API, mit der Java-Entwickler die Fähigkeit einbetten können, Excel &amp;amp; reg zu lesen, zu schreiben und zu manipulieren. Tabellenkalkulationen (XLS, XLSX, XLSM, XLSB, XLTX, SpreadsheetML, CSV, ODS), HTML, MHTML, PDF und Bilddatei -Formate in ihre eigenen Java -Anwendungen, ohne sich auf Microsoft Excel &amp;amp; Reg;</description></item><item><title>ASSOSE.Words | Java -Bibliothek, um Dokumentformate zu verarbeiten</title><link>https://releases-qa.aspose.com/de/words/java/</link><pubDate>Fri, 09 Dec 2022 11:50:34 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/java/</guid><description>Java -API für verschiedene Dokumentformate
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Words for Java ist eine erweiterte Java -Textverarbeitungs -API, mit der Sie eine große Auswahl an Dokumentverarbeitungsaufgaben direkt in Ihren Java -Anwendungen ausführen können. ASSONS.Words für Java API unterstützt das Verarbeitungswort (DOC, DOCX, OOXML, RTF) HTML, Opendocument, PDF, EPUB, XPS, SWF und alle Bildformate.</description></item><item><title>ASSOSPE.EMAIL | Java -Klassenbibliothek, um Outlook -Formate zu verarbeiten</title><link>https://releases-qa.aspose.com/de/email/java/</link><pubDate>Wed, 07 Dec 2022 15:31:08 +0000</pubDate><guid>https://releases-qa.aspose.com/de/email/java/</guid><description>Java -E -Mail -API
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Email for Java ist ein vollständiger Satz von E -Mail -Verarbeitungs -APIs zum Erstellen, Lesen und Manipulieren von E -Mails in Ihren Anwendungen. Es erleichtert es, mit vielen Outlook -E -Mail -Nachrichtenformaten wie MSG-, EML-, EMLX- und MHT -Dateien zu arbeiten, ohne dass Microsoft Outlook installiert werden musste.</description></item><item><title>ASSON.PDF | Java PDF -Dokumentverarbeitungsklassenbibliothek</title><link>https://releases-qa.aspose.com/de/pdf/java/</link><pubDate>Wed, 30 Nov 2022 14:34:18 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/java/</guid><description>Java -API, um PDF -Dateien zu verarbeiten und zu manipulieren
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.PDF for Java ist eine PDF -Dokumenterstellungskomponente, mit der Ihre Java -Anwendungen PDF -Dokumente ohne Adobe Acrobat lesen, schreiben und manipulieren können.
+asspos.pdf Paketfunktionen PDF -Dokumentgrmeur Setzen Sie grundlegende Informationen (z. B. Autor, Ersteller) des PDF -Dokuments. Konfigurieren Sie die Eigenschaften der PDF -Seiten (z.</description></item><item><title>ASSOSH.Slides | Java -Bibliothek, um PowerPoint -Formate zu verarbeiten</title><link>https://releases-qa.aspose.com/de/slides/java/</link><pubDate>Wed, 23 Nov 2022 19:22:59 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/java/</guid><description>Java Powerpoint API
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Slides Eine Java Powerpoint -API für die Manipulation und das Management der Präsentation. Es ermöglicht Entwicklern, PowerPoint -Präsentationen in Java -Anwendungen zu lesen, zu schreiben, zu konvertieren und zu manipulieren, mit der Fähigkeit, alle Dokumentelemente wie Folien, Tabellen, Text, Diagramme, Formen, Bilder und SmartArt -Diagramme und mehr zu manipulieren.</description></item><item><title>ASSOSPE.TASKS | Java -Bibliothek zum CEATE- und Verwalten von Projektaufgaben</title><link>https://releases-qa.aspose.com/de/tasks/java/</link><pubDate>Fri, 18 Nov 2022 10:03:34 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/java/</guid><description>Microsoft Project Datei Manipulation API
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Tasks Eine Java -Projektmanagement -API zur Manipulation von Microsoft -Projektdateien. Entwickler können die Haupt- und Standardeigenschaften eines Projekts sowie Kalenderinformationen definieren. API bietet außerdem die Möglichkeit, Wochentage und Kalenderausnahmen anzugeben und gleichzeitig die Hinzufügen und Neuberechnung von Aufgaben, Ressourcen und anderen Daten ohne Benutzerintervention zu erleichtern.</description></item><item><title>ASSON.3D | Java -Klassenbibliothek zur Verarbeitung von 3D -Bildern, Modelle</title><link>https://releases-qa.aspose.com/de/3d/java/</link><pubDate>Thu, 17 Nov 2022 07:29:30 +0000</pubDate><guid>https://releases-qa.aspose.com/de/3d/java/</guid><description>Java -API für die 3D -Bildverarbeitung
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.3D for Java API wurde entwickelt, um 3D -Formate zu erstellen, zu bearbeiten, zu manipulieren und zu speichern. Es ermöglicht Java -Anwendungen, sich mit 3D -Dokumenten zu verbinden, ohne ein Softwarepaket auf dem Computer zu installieren. ASSON.3d für Java API unterstützt Entwickler dabei, massive Welten in Spielen zu modellieren und zu schaffen, hervorragende Szenen für die Designvisualisierung und die Einbeziehung von virtuellen Realitätserfahrungen.</description></item><item><title>Aspose.3D für Python über .NET</title><link>https://releases-qa.aspose.com/de/3d/python-net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/3d/python-net/</guid><description>Support Forum
+Laden Sie die Aspose.3D-Python-Bibliothek für Gameware und CAD herunter Bitte verwenden Sie Folgendes
+PipBefehl:
+Release-opmerkingen
+&amp;gt;
+pip install aspose-3d
+&amp;nbsp;
+Product Page | Docs | Demos | Blog | Code Samples | Free Support | Temporary License | EULA
+3D-Szenenfunktionen Erstellen, lesen, speichern, importieren oder exportieren Sie eine 3D-Szene. Definieren Sie Metadaten für die 3D-Szene, um Asset-Informationen hinzuzufügen.</description></item><item><title>Laden Sie Outlook® Objects Processing C++ DLL herunter | Aspose.E-Mail</title><link>https://releases-qa.aspose.com/de/email/cpp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/email/cpp/</guid><description>Support Forum
+Laden Sie die C&amp;#43;&amp;#43;-Bibliothek herunter, um mit E-Mails zu arbeiten Offen
+NuGetPackage Manager in Microsoft Visual Studio®, suchen Sie nach Aspose.Email.Cpp und installieren Sie es. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die
+InstallationDokumentationsseite.
+Release-opmerkingen
+Downloaden
+PM&amp;gt;
+Install-Package Aspose.Email.Cpp
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Python-E-Mail-Bibliothek | Aspose.Email für Python über .NET</title><link>https://releases-qa.aspose.com/de/email/pythonnet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/email/pythonnet/</guid><description>Support Forum
+Laden Sie die Python-Programmierkomponente Aspose.Email herunter Bitte verwenden Sie Folgendes
+PipBefehl:
+Release-opmerkingen
+Downloaden
+&amp;gt;
+pip install Aspose.Email-for-Python-via-NET
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA
+Allgemeine E-Mail-Funktionen Erstellen Sie E-Mails, die sowohl einfachen Text als auch „HTML“ enthalten. Erstellen Sie alternative Nachrichtentexte.</description></item><item><title>Exportprogramm für PowerPoint | Aspose.Slides für JasperReports</title><link>https://releases-qa.aspose.com/de/slides/jasperreport/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/jasperreport/</guid><description>Support Forum
+Laden Sie Aspose.Slides herunter, um JasperReports® in Präsentationsformate zu exportieren Aspose.Slides für JasperReportsist eine leichtgewichtige Erweiterung, mit der Sie Berichte aus JasperReports® und JasperServer® in Microsoft PowerPoint® und andere unterstützte Dateiformate exportieren können.
+Release-opmerkingen
+Product Page | Docs | API Reference | Blog | Search | Free Support | Temporary License | EULA
+Präsentation JasperReports®-Integrationsfunktionen Exportieren Sie Berichte in die Formate PPT, PPTX, HTML und PDF.</description></item><item><title>Aspose.Cells für Python über .NET</title><link>https://releases-qa.aspose.com/de/cells/python-net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-net/</guid><description>Support Forum
+Laden Sie die Aspose.Cells-Python-Bibliothek für die Tabellenkalkulation herunter Aspose.Cells for Python via .NET ist eine skalierbare und funktionsreiche API zur Verarbeitung von Excel®-Tabellen mit Python. API bietet Excel®-Dateierstellung, -bearbeitung, -konvertierung und -wiedergabe. Entwickler können Arbeitsblätter, Zeilen, Spalten oder Zellen bis ins kleinste Detail formatieren, Diagramme und Pivot-Tabellen manipulieren, Arbeitsblätter, Diagramme und bestimmte Datenbereiche in PDF oder Bilder rendern, die integrierten und benutzerdefinierten Formeln von Excel® hinzufügen und vieles mehr mehr - alles ohne Abhängigkeit von Microsoft Office oder Excel®-Anwendung.</description></item><item><title>Aspose.Diagram für Python über .Net</title><link>https://releases-qa.aspose.com/de/diagram/python-net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/python-net/</guid><description>Support Forum
+Laden Sie die Aspose.Diagram-Python-Bibliothek für die Visio-Verarbeitung herunter Aspose.Diagram for Python via .NET ist eine skalierbare und funktionsreiche API zur Verarbeitung von Visio-Dateien mit Python. API bietet Visio-Dateierstellung, -bearbeitung, -konvertierung und -wiedergabe. Entwickler können Seiten bis ins kleinste Detail formatieren, Formen erstellen und manipulieren, Seiten rendern, Formen in PDF und Bilder umwandeln und vieles mehr – alles ohne Abhängigkeit von Microsoft Office oder Visio-Anwendungen.</description></item><item><title>Downloads --- NEW Releases-Assible.Diagram-for-Python-via -.net-23.8</title><link>https://releases-qa.aspose.com/de/diagram/python-net/new-releases/aspose.diagram-for-python-via-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/python-net/new-releases/aspose.diagram-for-python-via-.net-23.8/</guid><description>&amp;nbsp;
+ASSOSE.DIAGRAM für Python über .NET 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+179.65MB
+Datum hinzugefügt:
+21/8/2023
+Versionshinweisehttps://releases.aspose.com/diagram/python-net/release-notes/2023/aspose-diagram-for-python-via-net-23-8-release-notes/
+BeschreibungASSOSE.DIAGRAM für Python über .NET 23.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e4139ea3f4ab2080ebd8f6e42a475e96-36-9355&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Cells-for-Python-VIA -.net-23.8</title><link>https://releases-qa.aspose.com/de/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.8/</guid><description>&amp;nbsp;
+ASSONE.CELLS für Python über .NET 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+232.26MB
+Datum hinzugefügt:
+14/8/2023
+Versionshinweisehttps://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-8-release-notes/
+BeschreibungWeitere Einzelheiten finden Sie in Versionshinweise und Readme
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=499b3ac049068c7948d266b715652b3b-47-9323&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.3D-FOR-PYTHON-VIA-NIA-23.5.0, -Windows-X64</title><link>https://releases-qa.aspose.com/de/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.5.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.5.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.3D für Python über .NET 23.5.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+37.78MB
+Datum hinzugefügt:
+16/6/2023
+Versionshinweisehttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-5-release-notes/
+BeschreibungEs enthält Aspose.3d für Python über .NET 23.5.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=790284208a0937f414473caf966e4256-8-9005&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Laden Sie SVG Parser &amp; Converter .NET DLL herunter | Aspose.SVG-API</title><link>https://releases-qa.aspose.com/de/svg/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/svg/</guid><description>Support Forum
+Laden Sie Aspose.SVG herunter, um Vektorgrafiken zu verarbeiten Offen
+NuGetPackage Manager in Microsoft Visual Studio®, suchen Sie nach Aspose.SVG und installieren Sie es. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die
+InstallationDokumentationsseite.
+Release-opmerkingen
+Downloaden
+PM&amp;gt;
+Install-Package Aspose.SVG
+&amp;nbsp;
+Product Page | Docs | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Downloads --- New Releases-ASSOSPLE.Email-for-Python-via -.net-23.5.0, -Windows-X64</title><link>https://releases-qa.aspose.com/de/email/pythonnet/new-releases/aspose.email-for-python-via-.net-23.5.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/email/pythonnet/new-releases/aspose.email-for-python-via-.net-23.5.0-windows-x64/</guid><description>&amp;nbsp;
+ASSOSE.EMAIL für Python über .NET 23.5.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+50.03MB
+Datum hinzugefügt:
+23/6/2023
+Versionshinweisehttps://releases.aspose.com/email/pythonnet/release-notes/2023/aspose-email-for-python-via-net-23-5-release-notes/
+BeschreibungEs enthält ASSOSE.Email für Python über .NET 23.5.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c5c9c077514e16f3fc017b909853eca8-11-9122&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Email-for-C ++-23.5</title><link>https://releases-qa.aspose.com/de/email/cpp/new-releases/aspose.email-for-c++-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/email/cpp/new-releases/aspose.email-for-c++-23.5/</guid><description>&amp;nbsp;
+ASSOSE.EMAIL für C &amp;#43;&amp;#43; 23.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+424.32MB
+Datum hinzugefügt:
+13/7/2023
+Versionshinweisehttps://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-5-release-notes/
+BeschreibungEs enthält ASSOSE.Email für C ++ 23.5.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8f2ca51dfa94f3c36a82a2dd2f64ac5a-85-9209&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Email-for-C ++-23.6</title><link>https://releases-qa.aspose.com/de/email/cpp/new-releases/aspose.email-for-c++-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/email/cpp/new-releases/aspose.email-for-c++-23.6/</guid><description>&amp;nbsp;
+ASSOSE.EMAIL FÜR C &amp;#43;&amp;#43; 23.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+424.51MB
+Datum hinzugefügt:
+13/7/2023
+Versionshinweisehttps://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-6-release-notes/
+BeschreibungEs enthält asspose.email für c ++ 23.6 veröffentlicht.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fd45fd09242e0591818d5163c924ca7e-85-9210&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-Jasperreports-23.8</title><link>https://releases-qa.aspose.com/de/slides/jasperreport/new-releases/aspose.slides-for-jasperreports-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/jasperreport/new-releases/aspose.slides-for-jasperreports-23.8/</guid><description>&amp;nbsp;
+ASSON.Slides für Jasperreports 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+72.3MB
+Datum hinzugefügt:
+23/8/2023
+Versionshinweisehttps://releases.aspose.com/slides/jasperreport/release-notes/2023/aspose-slides-for-jasper-reports-23-8-release-notes/
+BeschreibungEs enthält asspose.Slides für Jasperreports 23.8 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7e03abc91b8c8a82cb4d088eb2fa5674-15-9369&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.html-for -.net-23.9- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/html/net/new-releases/aspose.html-for-.net-23.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/html/net/new-releases/aspose.html-for-.net-23.9-dlls-only/</guid><description>&amp;nbsp;
+ASSON.HTML für .NET 23.9 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+4.04MB
+Datum hinzugefügt:
+5/9/2023
+Versionshinweisehttps://releases.aspose.com/html/net/release-notes/2023/aspose-html-for-net-23-9-release-notes/
+BeschreibungSeine ZIP -Datei enthält nur die ASSONE.HTML für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.HTML ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.HTML-FOR-.NET-23.9</title><link>https://releases-qa.aspose.com/de/html/net/new-releases/aspose.html-for-.net--23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/html/net/new-releases/aspose.html-for-.net--23.9/</guid><description>&amp;nbsp;
+ASSON.HTML für .NET 23.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+4.56MB
+Datum hinzugefügt:
+5/9/2023
+Versionshinweisehttps://releases.aspose.com/html/net/release-notes/2023/aspose-html-for-net-23-9-release-notes/
+BeschreibungEs enthält ASSOSE.HTML für .NET 23.9 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6385d4f4391707a798a018af30ae5158-1-9445&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.HTML-FOR-.NET-23.10- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/html/net/new-releases/aspose.html-for-.net-23.10-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/html/net/new-releases/aspose.html-for-.net-23.10-dlls-only/</guid><description>&amp;nbsp;
+ASSON.HTML für .NET 23.10 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+4.29MB
+Datum hinzugefügt:
+6/10/2023
+Versionshinweisehttps://releases.aspose.com/html/net/release-notes/2023/aspose-html-for-net-23-10-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSONE.HTML für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.HTML ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.HTML-FOR-.NET-23.10</title><link>https://releases-qa.aspose.com/de/html/net/new-releases/aspose.html-for-.net--23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/html/net/new-releases/aspose.html-for-.net--23.10/</guid><description>&amp;nbsp;
+ASSON.HTML für .NET 23.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+4.8MB
+Datum hinzugefügt:
+6/10/2023
+Versionshinweisehttps://releases.aspose.com/html/net/release-notes/2023/aspose-html-for-net-23-10-release-notes/
+BeschreibungEs enthält ASSOSE.HTML für .NET 23.10 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=68e34a7c322f7a652c65962b99f5caeb-1-9578&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.HTML-FOR-.NET-23.11- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/html/net/new-releases/aspose.html-for-.net-23.11-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/html/net/new-releases/aspose.html-for-.net-23.11-dlls-only/</guid><description>&amp;nbsp;
+ASSON.HTML für .NET 23.11 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+4.29MB
+Datum hinzugefügt:
+3/11/2023
+Versionshinweisehttps://releases.aspose.com/html/net/release-notes/2023/aspose-html-for-net-23-11-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSONE.HTML für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.HTML ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.HTML-FOR-.NET-23.11</title><link>https://releases-qa.aspose.com/de/html/net/new-releases/aspose.html-for-.net--23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/html/net/new-releases/aspose.html-for-.net--23.11/</guid><description>&amp;nbsp;
+ASSON.HTML für .NET 23.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+4.8MB
+Datum hinzugefügt:
+3/11/2023
+Versionshinweisehttps://releases.aspose.com/html/net/release-notes/2023/aspose-html-for-net-23-11-release-notes/
+BeschreibungEs enthält asspose.html für .NET 23.11 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1e01ae859ae5d6a11cc38be02db81de6-1-9707&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.HTML-FOR-.NET-23.12- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/html/net/new-releases/aspose.html-for-.net-23.12-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/html/net/new-releases/aspose.html-for-.net-23.12-dlls-only/</guid><description>&amp;nbsp;
+ASSON.HTML für .NET 23.12 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+4.29MB
+Datum hinzugefügt:
+5/12/2023
+Versionshinweisehttps://releases.aspose.com/html/net/release-notes/2023/aspose-html-for-net-23-12-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSONE.HTML für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.HTML ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.HTML-FOR-.NET-23.12</title><link>https://releases-qa.aspose.com/de/html/net/new-releases/aspose.html-for-.net--23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/html/net/new-releases/aspose.html-for-.net--23.12/</guid><description>&amp;nbsp;
+ASSON.HTML für .NET 23.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+4.81MB
+Datum hinzugefügt:
+5/12/2023
+Versionshinweisehttps://releases.aspose.com/html/net/release-notes/2023/aspose-html-for-net-23-12-release-notes/
+BeschreibungEs enthält asspose.html für .NET 23.12 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d04cded0f3c82bb6e0992a461df1ee55-1-9934&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.HTML-FOR-N-2.1- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/html/net/new-releases/aspose.html-for-.net-24.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/html/net/new-releases/aspose.html-for-.net-24.1-dlls-only/</guid><description>&amp;nbsp;
+ASSON.HTML für .NET 24.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+4.29MB
+Datum hinzugefügt:
+11/1/2024
+Versionshinweisehttps://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-1-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSONE.HTML für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.HTML ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.HTML-FOR-.NET-24.1</title><link>https://releases-qa.aspose.com/de/html/net/new-releases/aspose.html-for-.net--24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/html/net/new-releases/aspose.html-for-.net--24.1/</guid><description>&amp;nbsp;
+ASSON.HTML für .NET 24.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+4.81MB
+Datum hinzugefügt:
+11/1/2024
+Versionshinweisehttps://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-1-release-notes/
+BeschreibungEs enthält asspose.html für .NET 24.1 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3332edce347afd257142c262b000be7b-1-10145&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPLE.3D-FOR-.NET-23.8</title><link>https://releases-qa.aspose.com/de/3d/net/new-releases/aspose.3d-for-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/3d/net/new-releases/aspose.3d-for-.net-23.8/</guid><description>&amp;nbsp;
+ASSON.3D für .NET 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+12.38MB
+Datum hinzugefügt:
+25/8/2023
+Versionshinweisehttps://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-8-release-notes/
+BeschreibungEs enthält ASSON.3D für .NET 23.8 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=710741f18a3eebb52a2e1286ff07fcd4-2-9388&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-Assible.3d-for -.net-23.8- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/3d/net/new-releases/aspose.3d-for-.net-23.8-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/3d/net/new-releases/aspose.3d-for-.net-23.8-dlls-only/</guid><description>&amp;nbsp;
+ASSON.3D für .NET 23.8 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+9.06MB
+Datum hinzugefügt:
+25/8/2023
+Versionshinweisehttps://releases.aspose.com/3d/net/release-notes/2023/aspose-3d-for-net-23-8-release-notes/
+BeschreibungEs enthält ASSON.3D für .NET 23.8 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=959fa3247a49cc881db182d001d696b6-2-9389&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>ASSON.DIAGRAM 22.12 | Visio Diagramm Java High Code API</title><link>https://releases-qa.aspose.com/de/diagram/java/22-12/</link><pubDate>Tue, 13 Dec 2022 06:09:16 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/java/22-12/</guid><description>Java API für Microsoft Visio &amp;amp; Reg; Dateiformate
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Diagram for Java API ist eine Lösung für Microsoft Visio -Dateimanipulationsanforderungen. Die Java-Anwendungen können Microsoft-Visio-Diagramme lesen, schreiben, exportieren und verarbeiten, während alle Visio-Objekte und Eigenschaften einschließlich Formen, Seiten, Bilder, Formmeister, Schablonen, Text, Schichten, Header, Fußzeilen, benutzerdefinierten Zellen, Hyperlinks, Hyperlinks, Layer, Header, Fußzeilen, Hyperlinks, unterstützt werden, die Unterstützung Dateischutz, Geometrien, Textfelder und Kommentare.</description></item><item><title>ASSONE.CELLS 22.12 | Verarbeiten Sie Tabellenkalkulationsformate über Java -API</title><link>https://releases-qa.aspose.com/de/cells/java/22-12/</link><pubDate>Mon, 12 Dec 2022 06:35:39 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/22-12/</guid><description>Java -API für Excel -Dateiformate
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Cells for Java ist eine preisgekrönte API von Excel-Tabellenkalkulationen, mit der Java-Entwickler die Fähigkeit einbetten können, Excel &amp;amp; reg zu lesen, zu schreiben und zu manipulieren. Tabellenkalkulationen (XLS, XLSX, XLSM, XLSB, XLTX, SpreadsheetML, CSV, ODS), HTML, MHTML, PDF und Bilddatei -Formate in ihre eigenen Java -Anwendungen, ohne sich auf Microsoft Excel &amp;amp; Reg;</description></item><item><title>ASSOSE.Words 22.12 | Prozessdokumentformate über Java API</title><link>https://releases-qa.aspose.com/de/words/java/22-12/</link><pubDate>Fri, 09 Dec 2022 11:50:34 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/java/22-12/</guid><description>Java -API für verschiedene Dokumentformate
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Words for Java ist eine erweiterte Java -Textverarbeitungs -API, mit der Sie eine große Auswahl an Dokumentverarbeitungsaufgaben direkt in Ihren Java -Anwendungen ausführen können. ASSONS.Words für Java API unterstützt das Verarbeitungswort (DOC, DOCX, OOXML, RTF) HTML, Opendocument, PDF, EPUB, XPS, SWF und alle Bildformate. Mit ASSOSE.</description></item><item><title>ASSON.EpHAIL 22.11 | E -Mail -Verarbeitung über Java High Code API</title><link>https://releases-qa.aspose.com/de/email/java/22-11/</link><pubDate>Wed, 07 Dec 2022 15:31:08 +0000</pubDate><guid>https://releases-qa.aspose.com/de/email/java/22-11/</guid><description>Java -E -Mail -API
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Email for Java ist ein vollständiger Satz von E -Mail -Verarbeitungs -APIs zum Erstellen, Lesen und Manipulieren von E -Mails in Ihren Anwendungen. Es erleichtert es, mit vielen Outlook -E -Mail -Nachrichtenformaten wie MSG-, EML-, EMLX- und MHT -Dateien zu arbeiten, ohne dass Microsoft Outlook installiert werden musste.</description></item><item><title>ASSON.PDF 22.11 | Verarbeiten Sie Acrobat PDF -Dateien über Java API</title><link>https://releases-qa.aspose.com/de/pdf/java/22-11/</link><pubDate>Wed, 30 Nov 2022 14:34:18 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/java/22-11/</guid><description>Java -API, um PDF -Dateien zu verarbeiten und zu manipulieren
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.PDF for Java ist eine PDF -Dokumenterstellungskomponente, mit der Ihre Java -Anwendungen PDF -Dokumente ohne Adobe Acrobat lesen, schreiben und manipulieren können.
+asspos.pdf Paketfunktionen PDF -Dokumentgrmeur Setzen Sie grundlegende Informationen (z. B. Autor, Ersteller) des PDF -Dokuments. Konfigurieren Sie die Eigenschaften der PDF -Seiten (z.</description></item><item><title>ASSON.Slides 22.11 | PowerPoint -Formate Java High Code API</title><link>https://releases-qa.aspose.com/de/slides/java/22-11/</link><pubDate>Wed, 23 Nov 2022 19:22:59 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/java/22-11/</guid><description>Java Powerpoint API
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Slides Eine Java Powerpoint -API für die Manipulation und das Management der Präsentation. Es ermöglicht Entwicklern, PowerPoint -Präsentationen in Java -Anwendungen zu lesen, zu schreiben, zu konvertieren und zu manipulieren, mit der Fähigkeit, alle Dokumentelemente wie Folien, Tabellen, Text, Diagramme, Formen, Bilder und SmartArt -Diagramme und mehr zu manipulieren.</description></item><item><title>ASSONE.TASKS 22.11 | Microsoft Project Processing Java API</title><link>https://releases-qa.aspose.com/de/tasks/java/22-11/</link><pubDate>Fri, 18 Nov 2022 10:03:34 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/java/22-11/</guid><description>Microsoft Project Datei Manipulation API
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Tasks Eine Java -Projektmanagement -API zur Manipulation von Microsoft -Projektdateien. Entwickler können die Haupt- und Standardeigenschaften eines Projekts sowie Kalenderinformationen definieren. API bietet außerdem die Möglichkeit, Wochentage und Kalenderausnahmen anzugeben und gleichzeitig die Hinzufügen und Neuberechnung von Aufgaben, Ressourcen und anderen Daten ohne Benutzerintervention zu erleichtern.</description></item><item><title>ASSON.3d 22.11 | GameWare 3D Image Cad Java High Code API</title><link>https://releases-qa.aspose.com/de/3d/java/22-11/</link><pubDate>Thu, 17 Nov 2022 07:29:30 +0000</pubDate><guid>https://releases-qa.aspose.com/de/3d/java/22-11/</guid><description>Java -API für die 3D -Bildverarbeitung
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.3D for Java API wurde zum Erstellen, Bearbeiten, Manipulieren und Speichern von 3D -Formaten erstellt. Es ermöglicht Java -Anwendungen, sich mit 3D -Dokumenten zu verbinden, ohne ein Softwarepaket auf dem Computer zu installieren. ASSON.3d für Java API unterstützt Entwickler dabei, massive Welten in Spielen zu modellieren und zu schaffen, hervorragende Szenen für die Designvisualisierung und die Einbeziehung von virtuellen Realitätserfahrungen.</description></item><item><title>Aspose.Cells 23,8 | Prozesstabellenformate via Java API</title><link>https://releases-qa.aspose.com/de/cells/java/23-8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/23-8/</guid><description>Java API für Excel-Dateiformate
+Produktseite | Dokumente | Demos | API Referenz | Beispiele | Blog | Suchen | Kostenloser Support | Temporäre Lizenz
+Aspose.Cells for Java ist eine preisgekrönte Excel-Tabellenverarbeitung API, die es Java Entwicklern ermöglicht, die Fähigkeit zum Lesen, Schreiben und Bearbeiten von Excel®-Dateien einzubetten. Tabellenkalkulationen (XLS, XLSX, XLSM, XLSB, XLTX, SpreadsheetML, CSV, ODS), HTML, MHTML, 07611234 81 und Bilddateiformate in ihre eigenen Java Anwendungen, ohne auf Microsoft Excel® angewiesen zu sein.</description></item></channel></rss>

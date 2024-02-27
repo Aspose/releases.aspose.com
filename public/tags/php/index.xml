@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PHP on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/php/</link><description>Recent content in PHP on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/tags/php/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads ---New Releases-aspose.barcode-for-php-via-java-22.6</title><link>https://releases-qa.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-22.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-22.6/</guid><description>&amp;nbsp;
+Aspose.BarCode for PHP via Java 22.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+12.03MB
+Date Added:
+28/6/2022
+Release Noteshttps://releases.aspose.com/barcode/php/release-notes/2022/aspose-barcode-for-php-via-java-22-6-release-notes/
+DescriptionAspose.BarCode for PHP via Java 22.6 has been released
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4534512ae81ba205eea848df745a6043-3-7577&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-php-via-java-22.8</title><link>https://releases-qa.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-22.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-22.8/</guid><description>&amp;nbsp;
+Aspose.BarCode for PHP via Java 22.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+12.03MB
+Date Added:
+29/8/2022
+Release Noteshttps://releases.aspose.com/barcode/php/release-notes/2022/aspose-barcode-for-php-via-java-22-8-release-notes/
+DescriptionAspose.BarCode for PHP via Java 22.8 has been released
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=80d8ffb87c0ba2d2ab2a25853363e10f-3-7819&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-php-via-java-22.9</title><link>https://releases-qa.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-22.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-22.9/</guid><description>&amp;nbsp;
+Aspose.BarCode for PHP via Java 22.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+12.03MB
+Date Added:
+26/9/2022
+Release Noteshttps://releases.aspose.com/barcode/php/release-notes/2022/aspose-barcode-for-php-via-java-22-9-release-notes/
+DescriptionAspose.BarCode for PHP via Java 22.9 has been released
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=803a44d702f243cb7fb0da36885c8709-3-7941&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-php-via-java-22.10</title><link>https://releases-qa.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-22.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-22.10/</guid><description>&amp;nbsp;
+Aspose.BarCode for PHP via Java 22.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+10.96MB
+Date Added:
+18/10/2022
+Release Noteshttps://releases.aspose.com/barcode/php/release-notes/2022/aspose-barcode-for-php-via-java-22-10-release-notes/
+DescriptionAspose.BarCode for PHP via Java 22.10 has been released
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=275e4e00932493f517330c9a292e7e86-3-8021&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-php-via-java-22.11</title><link>https://releases-qa.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-22.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-22.11/</guid><description>&amp;nbsp;
+Aspose.BarCode for PHP via Java 22.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+11.36MB
+Date Added:
+22/11/2022
+Release Noteshttps://releases.aspose.com/barcode/php/release-notes/2022/aspose-barcode-for-php-via-java-22-11-release-notes/
+DescriptionAspose.BarCode for PHP via Java 22.11 has been released
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7310b8f7300964d887dc7fd658ce4bda-3-8174&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-php-via-java-23.1</title><link>https://releases-qa.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-23.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-23.1/</guid><description>&amp;nbsp;
+Aspose.BarCode for PHP via Java 23.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+12.11MB
+Date Added:
+13/1/2023
+Release Noteshttps://releases.aspose.com/barcode/php/release-notes/2023/aspose-barcode-for-php-via-java-23-1-release-notes/
+DescriptionAspose.BarCode for PHP via Java 23.1 has been released
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c30e05c1f71d59100477b9bfb5eb4624-3-8389&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-php-via-java-23.2</title><link>https://releases-qa.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-23.2/</guid><description>&amp;nbsp;
+Aspose.BarCode for PHP via Java 23.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+12.15MB
+Date Added:
+24/2/2023
+Release Noteshttps://releases.aspose.com/barcode/php/release-notes/2023/aspose-barcode-for-php-via-java-23-2-release-notes/
+DescriptionAspose.BarCode for PHP via Java 23.2 has been released
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bfb3c8590b95a853fd3a8403e163aec1-3-8573&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-php-via-java-23.3</title><link>https://releases-qa.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-23.3/</guid><description>&amp;nbsp;
+Aspose.BarCode for PHP via Java 23.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+14.99MB
+Date Added:
+24/3/2023
+Release Noteshttps://releases.aspose.com/barcode/php/release-notes/2023/aspose-barcode-for-php-via-java-23-3-release-notes/
+DescriptionAspose.BarCode for PHP via Java 23.3 has been released
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=394769a32c48126784aaad7d3c063249-3-8683&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-php-via-java-23.4</title><link>https://releases-qa.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-23.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-23.4/</guid><description>&amp;nbsp;
+Aspose.BarCode for PHP via Java 23.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+19.64MB
+Date Added:
+19/4/2023
+Release Noteshttps://releases.aspose.com/barcode/php/release-notes/2023/aspose-barcode-for-php-via-java-23-4-release-notes/
+DescriptionAspose.BarCode for PHP via Java 23.4 has been released
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ed438e7abaf6d759be77ce8e8facf5e2-4-8779&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-php-via-java-23.5</title><link>https://releases-qa.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-23.5/</guid><description>&amp;nbsp;
+Aspose.BarCode for PHP via Java 23.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+15.02MB
+Date Added:
+27/5/2023
+Release Noteshttps://releases.aspose.com/barcode/php/release-notes/2023/aspose-barcode-for-php-via-java-23-5-release-notes/
+DescriptionAspose.BarCode for PHP via Java 23.5 has been released
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6b936eac9b9e4845e2be7a64b94eeb95-4-8926&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-php-via-java-23.6</title><link>https://releases-qa.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-23.6/</guid><description>&amp;nbsp;
+Aspose.BarCode for PHP via Java 23.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+15.36MB
+Date Added:
+28/6/2023
+Release Noteshttps://releases.aspose.com/barcode/php/release-notes/2023/aspose-barcode-for-php-via-java-23-6-release-notes/
+DescriptionAspose.BarCode for PHP via Java 23.6 has been released
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=068da9c271a6464764192546409ffbcd-4-9144&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-php-via-java-23.7</title><link>https://releases-qa.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-23.7/</guid><description>&amp;nbsp;
+Aspose.BarCode for PHP via Java 23.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+15.42MB
+Date Added:
+28/7/2023
+Release Noteshttps://releases.aspose.com/barcode/php/release-notes/2023/aspose-barcode-for-php-via-java-23-7-release-notes/
+DescriptionAspose.BarCode for PHP via Java 23.7 has been released
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d23baf49134cbad44800382d3561afa4-4-9280&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item></channel></rss>

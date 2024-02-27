@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aspose.Zip Python Windows Win64 on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/aspose.zip-python-windows-win64/</link><description>Recent content in Aspose.Zip Python Windows Win64 on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/tags/aspose.zip-python-windows-win64/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads ---New Releases-aspose.zip-for-python-via-.net-23.9-win64</title><link>https://releases-qa.aspose.com/zip/python-net/new-releases/aspose.zip-for-python-via-.net-23.9-win64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/zip/python-net/new-releases/aspose.zip-for-python-via-.net-23.9-win64/</guid><description>&amp;nbsp;
+Aspose.Zip for Python via .NET 23.9 Win64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+35.07MB
+Date Added:
+30/9/2023
+Release Noteshttps://releases.aspose.com/zip/python-net/release-notes/2023/aspose-zip-for-python-net-23-9-release-notes/
+DescriptionIt contains Aspose.Zip for Python via .NET 23.9 Win64 binaries
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fb1a1572a586b7e31bd70e607d5874e0-8-9554&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item></channel></rss>

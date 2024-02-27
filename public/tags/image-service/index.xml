@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>image-service on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/image-service/</link><description>Recent content in image-service on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/tags/image-service/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---New-Releases--aspose.imaging-for-jasperreports-21.5 .</title><link>https://releases-qa.aspose.com/imaging/jasperreports/new-releases/-aspose.imaging-for-jasperreports-21.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/imaging/jasperreports/new-releases/-aspose.imaging-for-jasperreports-21.5/</guid><description>&amp;nbsp;
+Aspose.Imaging for JasperReports 21.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+4
+File Size:
+29.5 MB
+Posted By:
+samer.el-khatib4aspose
+Views:
+61
+Date Added:
+5/7/2021
+Release Noteshttps://docs.aspose.com/imaging/jasperreports/aspose-imaging-for-jasperreports-21-5-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=acc62f9e0d7947feb2a7ca4eb80b9265&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Report Exporter | Aspose.Imaging for JasperReports</title><link>https://releases-qa.aspose.com/imaging/jasperreports/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/imaging/jasperreports/</guid><description>Support Forum
+Download Aspose.Imaging to Export JasperReports® to Image Formats Aspose.Imaging for JasperReports helps you export reports from the JasperReports® to various supported image formats.
+Release Notes
+Download
+Product Page | Docs | API Reference | Blog | Search | Free Support | Temporary License | EULA
+Imaging JasperReports® Integration Features Easy and lightweight deployment Export reports with accurate formatting Support for multipage export to GIF, DICOM, TIFF, PDF, and WebP formats Export JasperReport to HTML Export JasperReport to WMF Export JasperReport to SVG Export JasperReport to DICOM Export JasperReport to EMF Export JasperReport to WEBP Export JasperReport to JPEG2000 Export JasperReport to PSD Export JasperReport to TIFF Supports exporting reports from JasperReports in batch mode Supported File Formats Image: BMP, GIF, JPEG, JPEG2000, PNG, SVG, TIFF</description></item></channel></rss>

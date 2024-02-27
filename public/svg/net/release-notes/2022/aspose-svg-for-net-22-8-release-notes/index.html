@@ -1,0 +1,730 @@
+<!doctype html><html class=no-js lang=en><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge"><title>Aspose.SVG for .NET 22.8 Release Notes</title><meta name=description content="Aspose.SVG for .NET 22.8 Release Notes – the latest updates and fixes."><meta name=viewport content="width=device-width,minimum-scale=1"><link rel=canonical href=https://releases-qa.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-8-release-notes/><link rel=alternate hreflang=x-default href=https://releases-qa.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-8-release-notes/><meta name=robots content="noindex, nofollow"><link rel=apple-touch-icon sizes=180x180 href=/res_repo/apple-touch-icon.png><link rel=icon type=image/png href=/res_repo/favicon-32x32.png sizes=32x32><link rel=icon type=image/png href=/res_repo/favicon-16x16.png sizes=16x16><link rel=mask-icon href=/res_repo/safari-pinned-tab.svg color=#0594cb><meta name=theme-color content="#ffffff"><meta property="og:title" content="Aspose.SVG for .NET 22.8 Release Notes "><meta property="og:description" content="Aspose.SVG for .NET 22.8 Release Notes – the latest updates and fixes."><meta property="og:type" content="article"><meta property="og:url" content="https://releases-qa.aspose.com/svg/net/release-notes/2022/aspose-svg-for-net-22-8-release-notes/"><meta itemprop=name content="Aspose.SVG for .NET 22.8 Release Notes"><meta itemprop=description content="Aspose.SVG for .NET 22.8 Release Notes – the latest updates and fixes."><meta itemprop=wordCount content="3973"><meta name=twitter:card content="summary"><meta name=twitter:title content="Aspose.SVG for .NET 22.8 Release Notes"><meta name=twitter:description content="Aspose.SVG for .NET 22.8 Release Notes – the latest updates and fixes."><link href=/css/bootstrap.css rel=stylesheet type=text/css><script src=https://releases-qa.aspose.com/res_repo/js/jquery-1.10.2.min.js></script></head><body><div id=header></div><div class=downloadpage><div class="container-fluid bcrumb1"><div id=sticky1 class=stickytopheight>&nbsp;</div><div class=container><div class=moduletable><ul id=dvBC class=breadcrumb><li><a href=/>Home</a><span class=divider></span></li><li><a href=/svg/>Aspose.SVG</a><span class=divider></span></li><li><a href=/svg/net/>Aspose.SVG for .NET</a><span class=divider></span></li><li><a href=/svg/net/release-notes/>Release Notes</a><span class=divider></span></li><li><a href=/svg/net/release-notes/2022/>2022</a><span class=divider></span></li><li><a href=/svg/net/release-notes/2022/aspose-svg-for-net-22-8-release-notes/>Aspose.SVG for .NET 22.8 Release Notes</a><span class=divider></span></li></ul></div></div></div><div class="container-fluid content2 vpanel-left"><div class=container><div class=row><div class="col-md-3 vpanel tree-section"><p class=list-title>Browse our Products<button type=button class=treeview-toggle> <span class=sr-only>Toggle navigation</span> <span class="icon expand-icon glyphicon glyphicon-hide"></span></button></p><div id=tree class="treeview hidetree"></div></div><div class="col-md-9 lhs1 col-xs-12 mobilehide node-section"><div class=box1><section role=main class="main-container page-package-details"><div class=row><div class="col-sm-9 package-details-main"><h1><strong>Aspose.SVG for .NET 22.8 Release Notes</strong></h1><div class="tab-content body-tab-content"><div role=tabpanel class="tab-pane active" id=readme-tab><div class=readme-common><div id=readme-container><p><div class="alert alert-primary" role=alert>This page contains release notes information for Aspose.SVG for .NET 22.8</div><h2 id=major-features><strong>Major Features</strong></h2><p>As per the regular monthly update process of all APIs being offered by Aspose, we are honored to announce the August release of Aspose.SVG for .NET:</p><ul><li>we improved and expanded the interface for working with CSS color models described in the W3C specifications:
+<a href=https://www.w3.org/TR/css-color-4/>https://www.w3.org/TR/css-color-4/</a> and <a href=https://www.w3.org/TR/css-color-5/>https://www.w3.org/TR/css-color-5/</a></li><li>we optimized the CSS processing code to run faster.</li></ul><h2 id=public-api-changes><strong>Public API changes:</strong></h2><h3 id=added-apis><strong>Added APIs:</strong></h3><p>The next class, enum and interface were added:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-csharp data-lang=csharp><span style=display:flex><span><span style=color:#66d9ef>namespace</span> Aspose.Svg.Drawing
+</span></span><span style=display:flex><span>{
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// The Color class lets you specify colors as </span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Red-Green-Blue (RGB) values,</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Hue-Saturation-Luminosity (HSL) values,</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Hue-Saturation-Value (HSV) values,</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Hue-Whiteness-Blackness (HWB) values,</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// lightness-A-B (LAB) values,</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Luminance-Chroma-Hue (LCH) values,</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Cyan-Magenta-Yellow-Key (CMYK) values,</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Natural colors (NCOL) values,</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// or with a color name. </span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// An Alpha channel is also available to indicate transparency.</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>class</span> <span style=color:#a6e22e>Color</span>
+</span></span><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Initializes a new instance of the &lt;see cref=&#34;Color&#34;/&gt; class.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// By default color is black.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> Color();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Initializes a new instance of the &lt;see cref=&#34;Color&#34;/&gt; class.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// All color components must be in the range 0-1.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;red&#34;&gt;The red component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;green&#34;&gt;The green component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;blue&#34;&gt;The blue component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> Color(<span style=color:#66d9ef>float</span> red, <span style=color:#66d9ef>float</span> green, <span style=color:#66d9ef>float</span> blue);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Initializes a new instance of the &lt;see cref=&#34;Color&#34;/&gt; class.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// All color components must be in the range 0-1.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;red&#34;&gt;The red component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;green&#34;&gt;The green component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;blue&#34;&gt;The blue component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;alpha&#34;&gt;The alpha component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> Color(<span style=color:#66d9ef>float</span> red, <span style=color:#66d9ef>float</span> green, <span style=color:#66d9ef>float</span> blue, <span style=color:#66d9ef>float</span> alpha);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Initializes a new instance of the &lt;see cref=&#34;Color&#34;/&gt; class.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// All color components must be in the range 0-255.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;red&#34;&gt;The red component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;green&#34;&gt;The green component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;blue&#34;&gt;The blue component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> Color(<span style=color:#66d9ef>byte</span> red, <span style=color:#66d9ef>byte</span> green, <span style=color:#66d9ef>byte</span> blue);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Initializes a new instance of the &lt;see cref=&#34;Color&#34;/&gt; class.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// All color components must be in the range 0-255.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;red&#34;&gt;A byte that represents the red component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;green&#34;&gt;A byte that represents the green component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;blue&#34;&gt;A byte that represents the blue component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;alpha&#34;&gt;A byte that represents the alpha component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> Color(<span style=color:#66d9ef>byte</span> red, <span style=color:#66d9ef>byte</span> green, <span style=color:#66d9ef>byte</span> blue, <span style=color:#66d9ef>byte</span> alpha);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Initializes a new instance of the &lt;see cref=&#34;Color&#34;/&gt; class.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// All color components must be in the range 0-255.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;red&#34;&gt;The red component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;green&#34;&gt;The green component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;blue&#34;&gt;The blue component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> Color(<span style=color:#66d9ef>int</span> red, <span style=color:#66d9ef>int</span> green, <span style=color:#66d9ef>int</span> blue);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Initializes a new instance of the &lt;see cref=&#34;Color&#34;/&gt; class.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// All color components must be in the range 0-255.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;red&#34;&gt;The red component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;green&#34;&gt;The green component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;blue&#34;&gt;The blue component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;alpha&#34;&gt;The alpha component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> Color(<span style=color:#66d9ef>int</span> red, <span style=color:#66d9ef>int</span> green, <span style=color:#66d9ef>int</span> blue, <span style=color:#66d9ef>int</span> alpha);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Represents the red component of the color</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>float</span> Red { <span style=color:#66d9ef>get</span>; }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Represents the green component of the color.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>float</span> Green { <span style=color:#66d9ef>get</span>; }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Represents the blue component of the color.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>float</span> Blue { <span style=color:#66d9ef>get</span>; }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Represents the alpha component of the color.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>float</span> Alpha { <span style=color:#66d9ef>get</span>; }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a new Color with the requested gray value.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;gray&#34;&gt;A float that represents the gray value of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> Color FromGray(<span style=color:#66d9ef>float</span> gray);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a new Color with the requested ARGB value.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;argb&#34;&gt;A uint that represents the ARGB value of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> Color FromUint(<span style=color:#66d9ef>uint</span> argb);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a new Color with the requested ARGB value.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;argb&#34;&gt;A int that represents the ARGB value of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> Color FromInt(<span style=color:#66d9ef>int</span> argb);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a new Color with the requested ged, green, blue values.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// All color components must be in the range 0-255.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;red&#34;&gt;A byte that represents the red component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;green&#34;&gt;A byte that represents the green component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;blue&#34;&gt;A byte that represents the blue component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> Color FromRgb(<span style=color:#66d9ef>byte</span> red, <span style=color:#66d9ef>byte</span> green, <span style=color:#66d9ef>byte</span> blue);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a new Color with the requested ged, green, blue, alpha values.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// All color components must be in the range 0-255.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;red&#34;&gt;A byte that represents the red component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;green&#34;&gt;A byte that represents the green component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;blue&#34;&gt;A byte that represents the blue component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;alpha&#34;&gt;A byte that represents the alpha component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> Color FromRgba(<span style=color:#66d9ef>byte</span> red, <span style=color:#66d9ef>byte</span> green, <span style=color:#66d9ef>byte</span> blue, <span style=color:#66d9ef>byte</span> alpha);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a new Color with the requested ged, green, blue values.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// All color components must be in the range 0-255.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;red&#34;&gt;A int that represents the red component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;green&#34;&gt;A int that represents the green component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;blue&#34;&gt;A int that represents the blue component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> Color FromRgb(<span style=color:#66d9ef>int</span> red, <span style=color:#66d9ef>int</span> green, <span style=color:#66d9ef>int</span> blue);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a new Color with the requested ged, green, blue, alpha values.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// All color components must be in the range 0-255.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;red&#34;&gt;A int that represents the red component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;green&#34;&gt;A int that represents the green component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;blue&#34;&gt;A int that represents the blue component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;alpha&#34;&gt;A int that represents the alpha component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> Color FromRgba(<span style=color:#66d9ef>int</span> red, <span style=color:#66d9ef>int</span> green, <span style=color:#66d9ef>int</span> blue, <span style=color:#66d9ef>int</span> alpha);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a new Color with the requested ged, green, blue values.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// All color components must be in the range 0-1.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;red&#34;&gt;A float that represents the red component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;green&#34;&gt;A float that represents the green component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;blue&#34;&gt;A float that represents the blue component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> Color FromRgb(<span style=color:#66d9ef>float</span> red, <span style=color:#66d9ef>float</span> green, <span style=color:#66d9ef>float</span> blue);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a new Color with the requested ged, green, blue, alpha values.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// All color components must be in the range 0-1.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;red&#34;&gt;A float that represents the red component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;green&#34;&gt;A float that represents the green component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;blue&#34;&gt;A float that represents the blue component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;alpha&#34;&gt;A float that represents the alpha component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> Color FromRgba(<span style=color:#66d9ef>float</span> red, <span style=color:#66d9ef>float</span> green, <span style=color:#66d9ef>float</span> blue, <span style=color:#66d9ef>float</span> alpha);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Parses string containing the CSS color and returns a new Color.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;color&#34;&gt;A string containing the color in the format RGB, HEX, HSL, HSV, HWB, CMYK, NCOL, LCH, OKLCH, LAB or OKLAB&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> Color FromString(<span style=color:#66d9ef>string</span> color);
+</span></span><span style=display:flex><span>        
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a new Color with the requested hue, saturation, saturation values.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;hue&#34;&gt;A float that represents the hue component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;saturation&#34;&gt;A float that represents the saturation component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;lightness&#34;&gt;A float that represents the lightness component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> Color FromHsl(<span style=color:#66d9ef>float</span> hue, <span style=color:#66d9ef>float</span> saturation, <span style=color:#66d9ef>float</span> lightness);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a new Color with the requested hue, saturation, saturation, alpha values.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;hue&#34;&gt;A float that represents the hue component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;saturation&#34;&gt;A float that represents the saturation component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;lightness&#34;&gt;A float that represents the lightness component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;alpha&#34;&gt;A float that represents the alpha component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> Color FromHsla(<span style=color:#66d9ef>float</span> hue, <span style=color:#66d9ef>float</span> saturation, <span style=color:#66d9ef>float</span> lightness, <span style=color:#66d9ef>float</span> alpha);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a new Color with the requested hue, saturation, value.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;hue&#34;&gt;A float that represents the hue component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;saturation&#34;&gt;A float that represents the saturation component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;value&#34;&gt;A float that represents the value component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> Color FromHsv(<span style=color:#66d9ef>float</span> hue, <span style=color:#66d9ef>float</span> saturation, <span style=color:#66d9ef>float</span> <span style=color:#66d9ef>value</span>);
+</span></span><span style=display:flex><span>       
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a new Color with the requested hue, saturation, value, alpha.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;hue&#34;&gt;A float that represents the hue component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;saturation&#34;&gt;A float that represents the saturation component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;value&#34;&gt;A float that represents the value component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;alpha&#34;&gt;A float that represents the alpha component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> Color FromHsva(<span style=color:#66d9ef>float</span> hue, <span style=color:#66d9ef>float</span> saturation, <span style=color:#66d9ef>float</span> <span style=color:#66d9ef>value</span>, <span style=color:#66d9ef>float</span> alpha);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a new Color with the requested hue, whiteness, blackness values.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;hue&#34;&gt;A float that represents the hue component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;whiteness&#34;&gt;A float that represents the whiteness component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;blackness&#34;&gt;A float that represents the blackness component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> Color FromHwb(<span style=color:#66d9ef>float</span> hue, <span style=color:#66d9ef>float</span> whiteness, <span style=color:#66d9ef>float</span> blackness);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a new Color with the requested hue, whiteness, blackness values.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;hue&#34;&gt;A float that represents the hue component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;whiteness&#34;&gt;A float that represents the whiteness component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;blackness&#34;&gt;A float that represents the blackness component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;alpha&#34;&gt;A float that represents the alpha component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> Color FromHwba(<span style=color:#66d9ef>float</span> hue, <span style=color:#66d9ef>float</span> whiteness, <span style=color:#66d9ef>float</span> blackness, <span style=color:#66d9ef>float</span> alpha);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a new Color with the requested cyan, magenta, yellow, key (black) values.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;cyan&#34;&gt;A float that represents the cyan component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;magenta&#34;&gt;A float that represents the magenta component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;yellow&#34;&gt;A float that represents the yellow component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;key&#34;&gt;A float that represents the key component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> Color FromCmyk(<span style=color:#66d9ef>float</span> cyan, <span style=color:#66d9ef>float</span> magenta, <span style=color:#66d9ef>float</span> yellow, <span style=color:#66d9ef>float</span> key);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a new Color with the requested cyan, magenta, yellow, key (black), alpha values.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;cyan&#34;&gt;A float that represents the cyan component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;magenta&#34;&gt;A float that represents the magenta component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;yellow&#34;&gt;A float that represents the yellow component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;key&#34;&gt;A float that represents the key component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;alpha&#34;&gt;A float that represents the alpha component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> Color
+</span></span><span style=display:flex><span>            FromCmyka(
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>float</span> cyan,
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>float</span> magenta,
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>float</span> yellow,
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>float</span> key,
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>float</span> alpha
+</span></span><span style=display:flex><span>            );
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a new Color with the requested lightness, A, B values.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;lightness&#34;&gt;A float that represents the lightness component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;a&#34;&gt;A float that represents the A component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;b&#34;&gt;A float that represents the B component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> Color FromLab(<span style=color:#66d9ef>float</span> lightness, <span style=color:#66d9ef>float</span> a, <span style=color:#66d9ef>float</span> b);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a new Color with the requested lightness, A, B, alpha values.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;lightness&#34;&gt;A float that represents the lightness component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;a&#34;&gt;A float that represents the A component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;b&#34;&gt;A float that represents the B component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;alpha&#34;&gt;A float that represents the alpha component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> Color FromLaba(<span style=color:#66d9ef>float</span> lightness, <span style=color:#66d9ef>float</span> a, <span style=color:#66d9ef>float</span> b, <span style=color:#66d9ef>float</span> alpha);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a new Color with the requested lightness, A, B values for OKLAB model.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;lightness&#34;&gt;A float that represents the lightness component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;a&#34;&gt;A float that represents the A component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;b&#34;&gt;A float that represents the B component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> Color FromOklab(<span style=color:#66d9ef>float</span> lightness, <span style=color:#66d9ef>float</span> a, <span style=color:#66d9ef>float</span> b);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a new Color with the requested lightness, A, B, alpha values for OKLAB model.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;lightness&#34;&gt;A float that represents the lightness component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;a&#34;&gt;A float that represents the A component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;b&#34;&gt;A float that represents the B component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;alpha&#34;&gt;A float that represents the alpha component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> Color FromOklaba(<span style=color:#66d9ef>float</span> lightness, <span style=color:#66d9ef>float</span> a, <span style=color:#66d9ef>float</span> b, <span style=color:#66d9ef>float</span> alpha);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a new Color with the requested luminance, chroma, hue values.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;luminance&#34;&gt;A float that represents the luminance component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;chroma&#34;&gt;A float that represents the chroma component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;hue&#34;&gt;A float that represents the hue component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> Color FromLch(<span style=color:#66d9ef>float</span> luminance, <span style=color:#66d9ef>float</span> chroma, <span style=color:#66d9ef>float</span> hue);
+</span></span><span style=display:flex><span>      
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a new Color with the requested luminance, chroma, hue, alpha values.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;luminance&#34;&gt;A float that represents the luminance component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;chroma&#34;&gt;A float that represents the chroma component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;hue&#34;&gt;A float that represents the hue component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;alpha&#34;&gt;A float that represents the alpha component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> Color FromLcha(<span style=color:#66d9ef>float</span> luminance, <span style=color:#66d9ef>float</span> chroma, <span style=color:#66d9ef>float</span> hue, <span style=color:#66d9ef>float</span> alpha);
+</span></span><span style=display:flex><span>       
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a new Color with the requested luminance, chroma, hue values for OKLAB model.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;luminance&#34;&gt;A float that represents the luminance component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;chroma&#34;&gt;A float that represents the chroma component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;hue&#34;&gt;A float that represents the hue component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> Color FromOklch(<span style=color:#66d9ef>float</span> luminance, <span style=color:#66d9ef>float</span> chroma, <span style=color:#66d9ef>float</span> hue);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a new Color with the requested luminance, chroma, hue, alpha values for OKLAB model.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;luminance&#34;&gt;A float that represents the luminance component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;chroma&#34;&gt;A float that represents the chroma component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;hue&#34;&gt;A float that represents the hue component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;alpha&#34;&gt;A float that represents the alpha component of the color.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> Color FromOklcha(<span style=color:#66d9ef>float</span> luminance, <span style=color:#66d9ef>float</span> chroma, <span style=color:#66d9ef>float</span> hue, <span style=color:#66d9ef>float</span> alpha);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a hexadecimal color is specified with: #RRGGBB.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A hexadecimal color string.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>string</span> ToRgbHexString();
+</span></span><span style=display:flex><span>     
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a Natural colors (NCol) specified color using a color letter with a number to specify the distance (in percent) from the color.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;digits&#34;&gt;Sets the rounding precision for color components.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A Natural colors (NCol) string&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>string</span> ToNaturalColorString(<span style=color:#66d9ef>int</span> digits);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>///Returns the name of the color if it matches a color in the list of CSS named colors, or an empty string.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A color name.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>string</span> ToName();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a color components in the format of the specified color model.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;model&#34;&gt;The color model.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;IColorComponents&#34;/&gt; interface&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> IColorComponents Convert(ColorModel model);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a string that consists of the RGBA component values.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A human-readable string.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>override</span> <span style=color:#66d9ef>string</span> ToString();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a string containing the RGB color specified by: rgb(R, G, B).</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A rgb string.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>string</span> ToRgbString();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a Hexadecimal color is specified with: #RRGGBBAA.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A Hexadecimal color string.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>string</span> ToRgbaHexString();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a string containing the RGBA color specified by: rgba(R, G, B, A).</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A rgba string.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>string</span> ToRgbaString();
+</span></span><span style=display:flex><span>       
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a hash code.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A hash code.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>override</span> <span style=color:#66d9ef>int</span> GetHashCode();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Determines whether the specified &lt;see cref=&#34;Color&#34;/&gt; is equal to this instance.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;obj&#34;&gt;The &lt;see cref=&#34;object&#34;/&gt; to compare with this instance.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;&lt;c&gt;true&lt;/c&gt; if the specified &lt;see cref=&#34;object&#34;/&gt; is equal to this instance; otherwise, &lt;c&gt;false&lt;/c&gt;.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>override</span> <span style=color:#66d9ef>bool</span> Equals(<span style=color:#66d9ef>object</span> obj);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Encodes the Color ARGB components into int.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;Encoded int.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>int</span> ToInt();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Encodes the Color ARGB components into unsigned int.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;Encoded unsigned int.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>uint</span> ToUint();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a luminosity of the Color.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A luminosity of the Color.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>float</span> GetLuminosity();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Creates copy of the Color with Sum of its luminosity and the delta value.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;delta&#34;&gt;Value of luminosity&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> Color AddLuminosity(<span style=color:#66d9ef>float</span> delta);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Creates copy of the Color with specified luminosity.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;luminosity&#34;&gt;Value of luminosity&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> Color WithLuminosity(<span style=color:#66d9ef>float</span> luminosity);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Creates copy of the Color with specified alpha component.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;alpha&#34;&gt;Value of Alpha component&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> Color WithAlpha(<span style=color:#66d9ef>float</span> alpha);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a saturation of the Color.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A saturation of the Color.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>float</span> GetSaturation();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Creates copy of the Color with specified saturation.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;saturation&#34;&gt;Value of saturation.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> Color WithSaturation(<span style=color:#66d9ef>float</span> saturation);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a Hue of the Color.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A Hue of the Color.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>float</span> GetHue();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Creates copy of the Color with specified Hue.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;hue&#34;&gt;Value of Hue.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> Color WithHue(<span style=color:#66d9ef>float</span> hue);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns a new color that is on the opposite side of the color wheel from the original.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> Color GetComplementary();
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>}
+</span></span></code></pre></div><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-csharp data-lang=csharp><span style=display:flex><span><span style=color:#66d9ef>namespace</span> Aspose.Svg.Drawing
+</span></span><span style=display:flex><span>{
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// This enumeration is used to select the color model for woking with color components.</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>enum</span> ColorModel
+</span></span><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>///  Red-Green-Blue color model</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        Rgb,
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Hue-Saturation-Luminosity color model</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        Hsl,
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Hue-Saturation-Value color model</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        Hsv,
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Hue-Whiteness-Blackness color model</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        Hwb,
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Cyan-Magenta-Yellow-Key color model</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        Cmyk,
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>///  Lightness-A-B color model</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        Lab,
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Improved Lightness-A-B model</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        Oklab,
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Luminance-Chroma-Hue color model</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        Lch,
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Improved Luminance-Chroma-Hue color model</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        Oklch
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>}
+</span></span></code></pre></div><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-csharp data-lang=csharp><span style=display:flex><span><span style=color:#66d9ef>namespace</span> Aspose.Svg.Drawing
+</span></span><span style=display:flex><span>{
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Declares method and propertis for processing color components.</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>interface</span> <span style=color:#a6e22e>IColorComponents</span>
+</span></span><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns the color model.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        ColorModel Model { <span style=color:#66d9ef>get</span>; }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns the color components as float array.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>float</span>[] Components { <span style=color:#66d9ef>get</span>; }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns the alpha component.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>float</span> Alpha { <span style=color:#66d9ef>get</span>; }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Converts the color components to the Color object.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;A new instance of the &lt;see cref=&#34;Color&#34;/&gt; class&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        Color ToColor();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Converts color components to string representation.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;includeAlpha&#34;&gt;Specifies whether to add Alpha component.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;asDecimal&#34;&gt;Specifies whether color components are preserved as a decimal number or as a percentage.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;digits&#34;&gt;Sets the rounding precision for color components.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;String representation of the color components.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>string</span> ToString(<span style=color:#66d9ef>bool</span> includeAlpha, <span style=color:#66d9ef>bool</span> asDecimal, <span style=color:#66d9ef>int</span> digits);
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>}
+</span></span></code></pre></div><h3 id=removed-apis><strong>Removed APIs:</strong></h3><p>The next class and interface were removed</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-csharp data-lang=csharp><span style=display:flex><span><span style=color:#66d9ef>namespace</span> Aspose.Svg.Converters
+</span></span><span style=display:flex><span>{
+</span></span><span style=display:flex><span>  <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>  <span style=color:#75715e>/// The ColorConverter class parses colors (RGB, HEX, HSL, HWB, CMYK, NCOL, LCH, OKLCH, LAB, OKLAB) from a string and returns the &lt;see cref=&#34;T:Aspose.Svg.Drawing.IConvertibleColor&#34; /&gt; interface for converting to various color spaces.</span>
+</span></span><span style=display:flex><span>  <span style=color:#75715e>///  &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>  <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> <span style=color:#66d9ef>class</span> <span style=color:#a6e22e>ColorConverter</span>
+</span></span><span style=display:flex><span>  {
+</span></span><span style=display:flex><span>      <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Parses color from string representation and returns the &lt;see cref=&#34;T:Aspose.Svg.Drawing.IConvertibleColor&#34; /&gt; interface to convert it to various color spaces.</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;color&#34;&gt;color string.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;see cref=&#34;T:Aspose.Svg.Drawing.IConvertibleColor&#34; /&gt; interface.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> IConvertibleColor ConvertFrom(<span style=color:#66d9ef>string</span> color);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>  }
+</span></span><span style=display:flex><span>}
+</span></span></code></pre></div><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-csharp data-lang=csharp><span style=display:flex><span><span style=color:#66d9ef>namespace</span> Aspose.Svg.Drawing
+</span></span><span style=display:flex><span>{
+</span></span><span style=display:flex><span>  <span style=color:#75715e>/// &lt;summary&gt;Declare methods for color conversions&lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>  <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>interface</span> <span style=color:#a6e22e>IConvertibleColor</span>
+</span></span><span style=display:flex><span>  {
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Convert to CMYK color in the percentage format: cmyk(0%,0%,0%,0%)</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;CMYK color string&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>string</span> ToCmykString();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Convert to CMYK color in the decimal format: cmyk(0,0,0,0)</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;CMYK color string&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>string</span> ToCmykStringDecimal();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;Convert to HEX color in the format: #000000&lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;HEX color string&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>string</span> ToHexString();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;Convert to HSLA color in the format: hsla(0,0%,0%,0)&lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;HSLA color string&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>string</span> ToHslaString();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;Convert to HSL color in the format: hsla(0,0%,0%)&lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;HSL color string&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>string</span> ToHslString();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Convert to HSL color in the decimal format: hsl(0,0,0)</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;HSL color string&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>string</span> ToHslStringDecimal();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;Convert to HWBA color in the format: hwba(0,0%,0%,0)&lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;HWBA color string&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>string</span> ToHwbaString();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;Convert to HWB color in the format: hwb(0,0%,0%)&lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;HWB color string&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>string</span> ToHwbString();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Convert to HWB color in the decimal format: hwb(0,0,0)</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;HWB color string&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>string</span> ToHwbStringDecimal();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;Convert to the Named color&lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;Named color string&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>string</span> ToName();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Convert to the Natural color (NCola) in the percentage format with alpha channel</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;Natural color string&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>string</span> ToNcolaString();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Convert to the Natural color (NCol) in the percentage format</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;Natural color string&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>string</span> ToNcolString();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Convert to the Natural color (NCol) in the decimal format</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;Natural color string&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>string</span> ToNcolStringDecimal();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;Convert to the RGBA color&lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;RGBA color string&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>string</span> ToRgbaString();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;Convert to the RGB color&lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;RGB color string&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>string</span> ToRgbString();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Convert to LCH color in the percentage format: lch(0%,0%,0%)</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;LCH color string&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>string</span> ToLchString();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Convert to LCH color in the decimal format: lch(0,0,0)</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;LCH color string&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>string</span> ToLchStringDecimal();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Convert to OKLCH color in the percentage format: oklch(0%,0%,0%)</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;OKLCH color string&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>string</span> ToOkLchString();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Convert to OKLCH color in the decimal format: oklch(0,0,0)</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;OKLCH color string&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>string</span> ToOkLchStringDecimal();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Convert to LAB color in the percentage format: lab(0%,0%,0%)</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;LAB color string&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>string</span> ToLabString();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Convert to LAB color in the decimal format: lab(0,0,0)</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;LAB color string&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>string</span> ToLabStringDecimal();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Convert to OKLAB color in the percentage format: oklab(0%,0%,0%)</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;OKLAB color string&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>string</span> ToOkLabString();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Convert to OKLAB color in the decimal format: oklab(0,0,0)</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;OKLAB color string&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>string</span> ToOkLabStringDecimal();
+</span></span><span style=display:flex><span>  }
+</span></span></code></pre></div></p></div></div></div></div><hr></div></div></section></div></div></div></div></div></div><div id=dvHidden style=display:none></div><div id=footer></div><a class=backtop>&nbsp;</a><div id=DynabicMenuFooter></div><script type=text/javascript>const langarray=[]</script><script type=text/javascript>jQuery(document).ready(function(){let e=$(".nested").hide(),t=$(".treeview-animated-element");$(".treeview-animated-items-header").hover(function(){$(this).children.toggleClass("Mydiv")}),$(".treeview-animated-items-header").click(function(){return console.log("mala"),$this=$(this),console.log($this.attr("id")),$target=$this.siblings(".nested"),$pointerPlus=$this.children(".fa-plus"),$pointerMinus=$this.children(".fa-minus"),$pointerPlus.removeClass("fa-plus"),$pointerPlus.addClass("fa-minus"),$pointerMinus.removeClass("fa-minus"),$pointerMinus.addClass("fa-plus"),$this.toggleClass("open"),$target.hasClass("active")?$target.removeClass("active").slideUp():$target.addClass("active").slideDown(),!1})})</script><script>(function(e,s,o,a,t,n,i){e.ContainerizeMenuObject=t,e[t]=e[t]||function(){(e[t].q=e[t].q||[]).push(arguments)},e[t].l=1*new Date,n=s.createElement(o),i=s.getElementsByTagName(o)[0],n.async=1,n.src=a,i.parentNode.append(n)})(window,document,"script","https://menu.containerize.com/scripts/engine.min.js?v=1.0.1","aspose-en")</script><script src=https://releases-qa.aspose.com/res_repo/js/highlight.min.js></script>
+<script src=https://releases-qa.aspose.com/res_repo/js/bootstrap.min.js></script>
+<script src=/js/bundle.min.js></script>
+<script src=/js/dynabic.treeview.js></script>
+<script src=/js/treeviewmanager.js></script>
+<script>hljs.highlightAll()</script><link rel=stylesheet type=text/css href=https://releases-qa.aspose.com/res_repo/css/hugocustom.css><script>$(".btn-showside .mb-5").on("click",function(){$("main .flex .dn.db-l").toggleClass("showsidebar"),$("main .flex .w-100").toggleClass("noscroll")}),$(".btn-showmenu").on("click",function(){$("nav.bg-primary-color-dark").toggleClass("showmenu")}),$(".btn-plain").on("click",function(){$("main .flex .dn.db-l").removeClass("showsidebar"),$("main .flex .dn.db-l").removeClass("showsidebar"),$("nav.bg-primary-color-dark").removeClass("showmenu")}),$(".ss-bar ul li a[data-target]").on("click",function(){$(this).find(".i.fa-angle-down").hasClass("fa-angle-up")?$(this).find("i.fa-angle-down").removeClass("fa-angle-up"):$(this).find("i.fa-angle-down").toggleClass("fa-angle-up")}),$(".btn-showside").on("click",function(){$(".ss-bar").toggleClass("showsidebar")}),$(".btn-plain").on("click",function(){$(".ss-bar").removeClass("showsidebar")})</script><script>$(document).ready(function(){$("div pre").removeAttr("style");var e,t=$(location).attr("hash");"#package-explorer"==t&&(e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]'),e&&e.click()),$('a:has(img[alt="banner"]').click(function(){event.preventDefault();var e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]');e&&e.click()}),$(window).scroll(function(){$(this).scrollTop()>150?$(".backtop").fadeIn():$(".backtop").fadeOut()}),$(".backtop").click(function(){return $("html, body").animate({scrollTop:0},600),!1}),$(".linkshow").on("click",function(){$(this).find("i").toggleClass("fa-minus-square"),$(".linkshowbox").toggleClass("hide")}),document.querySelector("body").addEventListener("click",function(t){if(t.target.classList.contains("searchButton")){$(".ss-bar").removeClass("showsidebar");try{var e=$("input[name=q]").val();gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}if(t.target.classList.contains("fa-search")){$(".ss-bar").removeClass("showsidebar");try{e=$("input[name=q]").val(),gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}},!0)})</script><script>document.querySelectorAll("pre > code").forEach(t=>{const n=t.parentNode.parentNode,e=document.createElement("button");e.classList.add("copy-code"),e.innerHTML="copy";function s(){e.innerHTML="copied!",setTimeout(()=>{e.innerHTML="copy"},2e3)}e.addEventListener("click",o=>{if("clipboard"in navigator){navigator.clipboard.writeText(t.textContent),s();return}const e=document.createRange();e.selectNodeContents(t);const n=window.getSelection();n.removeAllRanges(),n.addRange(e);try{document.execCommand("copy"),s()}catch(e){}n.removeRange(e)}),n.classList.contains("highlight")?n.appendChild(e):n.parentNode.firstChild==n||(t.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName=="TABLE"?t.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(e):t.parentNode.appendChild(e))})</script></body></html>

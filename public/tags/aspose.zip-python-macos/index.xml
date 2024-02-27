@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aspose.Zip Python MacOS on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/aspose.zip-python-macos/</link><description>Recent content in Aspose.Zip Python MacOS on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/tags/aspose.zip-python-macos/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads ---New Releases-aspose.zip-for-python-via-.net-23.9-maxos</title><link>https://releases-qa.aspose.com/zip/python-net/new-releases/aspose.zip-for-python-via-.net-23.9-maxos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/zip/python-net/new-releases/aspose.zip-for-python-via-.net-23.9-maxos/</guid><description>&amp;nbsp;
+Aspose.Zip for Python via .NET 23.9 MaxOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.74MB
+Date Added:
+30/9/2023
+Release Noteshttps://releases.aspose.com/zip/python-net/release-notes/2023/aspose-zip-for-python-net-23-9-release-notes/
+DescriptionIt contains Aspose.Zip for Python via .NET 23.9 MacOS binaries
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=89d80141d15fc2241f244a0b43c38093-8-9551&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.zip-for-python-via-.net-23.10-macos</title><link>https://releases-qa.aspose.com/zip/python-net/new-releases/aspose.zip-for-python-via-.net-23.10-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/zip/python-net/new-releases/aspose.zip-for-python-via-.net-23.10-macos/</guid><description>&amp;nbsp;
+Aspose.Zip for Python via .NET 23.10 MacOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.8MB
+Date Added:
+30/10/2023
+Release Noteshttps://releases.aspose.com/zip/python-net/release-notes/2023/aspose-zip-for-python-net-23-10-release-notes/
+DescriptionIt contains Aspose.Zip for Python via .NET 23.10 MacOS only binaries
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6a381ef9b84802dd38e02e05ed2d214b-8-9687&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.zip-for-python-via-.net-23.11-macos</title><link>https://releases-qa.aspose.com/zip/python-net/new-releases/aspose.zip-for-python-via-.net-23.11-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/zip/python-net/new-releases/aspose.zip-for-python-via-.net-23.11-macos/</guid><description>&amp;nbsp;
+Aspose.Zip for Python via .NET 23.11 MacOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.82MB
+Date Added:
+1/12/2023
+Release Noteshttps://releases.aspose.com/zip/python-net/release-notes/2023/aspose-zip-for-python-net-23-11-release-notes/
+DescriptionIt contains Aspose.Zip for Python via .NET 23.11 MacOS only binaries
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2394ada537b5ba212344a8cba6d5d71f-8-9921&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.zip-for-python-via-.net-23.12-macos</title><link>https://releases-qa.aspose.com/zip/python-net/new-releases/aspose.zip-for-python-via-.net-23.12-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/zip/python-net/new-releases/aspose.zip-for-python-via-.net-23.12-macos/</guid><description>&amp;nbsp;
+Aspose.Zip for Python via .NET 23.12 MacOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.87MB
+Date Added:
+28/12/2023
+Release Noteshttps://releases.aspose.com/zip/python-net/release-notes/2023/aspose-zip-for-python-net-23-12-release-notes/
+DescriptionIt contains Aspose.Zip for Python via .NET 23.12 MacOS only binaries
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=48ca65e8ead87498bf69953d2c6d7419-8-10088&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.zip-for-python-via-.net-24.1-macos</title><link>https://releases-qa.aspose.com/zip/python-net/new-releases/aspose.zip-for-python-via-.net-24.1-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/zip/python-net/new-releases/aspose.zip-for-python-via-.net-24.1-macos/</guid><description>&amp;nbsp;
+Aspose.Zip for Python via .NET 24.1 MacOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+36.89MB
+Date Added:
+31/1/2024
+Release Noteshttps://releases.aspose.com/zip/python-net/release-notes/2024/aspose-zip-for-python-net-24-1-release-notes/
+DescriptionIt contains Aspose.Zip for Python via .NET 24.1 MacOS only binaries
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b1eb26ffdf8847789b907dd43becdab0-8-10252&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item></channel></rss>

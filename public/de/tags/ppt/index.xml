@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PPT on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/tags/ppt/</link><description>Recent content in PPT on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Wed, 23 Nov 2022 19:22:59 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/de/tags/ppt/index.xml" rel="self" type="application/rss+xml"/><item><title>ASSOSH.Slides | Java -Bibliothek, um PowerPoint -Formate zu verarbeiten</title><link>https://releases-qa.aspose.com/de/slides/java/</link><pubDate>Wed, 23 Nov 2022 19:22:59 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/java/</guid><description>Java Powerpoint API
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Slides Eine Java Powerpoint -API für die Manipulation und das Management der Präsentation. Es ermöglicht Entwicklern, PowerPoint -Präsentationen in Java -Anwendungen zu lesen, zu schreiben, zu konvertieren und zu manipulieren, mit der Fähigkeit, alle Dokumentelemente wie Folien, Tabellen, Text, Diagramme, Formen, Bilder und SmartArt -Diagramme und mehr zu manipulieren.</description></item><item><title>Exportprogramm für PowerPoint | Aspose.Slides für JasperReports</title><link>https://releases-qa.aspose.com/de/slides/jasperreport/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/jasperreport/</guid><description>Support Forum
+Laden Sie Aspose.Slides herunter, um JasperReports® in Präsentationsformate zu exportieren Aspose.Slides für JasperReportsist eine leichtgewichtige Erweiterung, mit der Sie Berichte aus JasperReports® und JasperServer® in Microsoft PowerPoint® und andere unterstützte Dateiformate exportieren können.
+Release-opmerkingen
+Product Page | Docs | API Reference | Blog | Search | Free Support | Temporary License | EULA
+Präsentation JasperReports®-Integrationsfunktionen Exportieren Sie Berichte in die Formate PPT, PPTX, HTML und PDF.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-Jasperreports-23.8</title><link>https://releases-qa.aspose.com/de/slides/jasperreport/new-releases/aspose.slides-for-jasperreports-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/jasperreport/new-releases/aspose.slides-for-jasperreports-23.8/</guid><description>&amp;nbsp;
+ASSON.Slides für Jasperreports 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+72.3MB
+Datum hinzugefügt:
+23/8/2023
+Versionshinweisehttps://releases.aspose.com/slides/jasperreport/release-notes/2023/aspose-slides-for-jasper-reports-23-8-release-notes/
+BeschreibungEs enthält asspose.Slides für Jasperreports 23.8 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7e03abc91b8c8a82cb4d088eb2fa5674-15-9369&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>ASSON.Slides 22.11 | PowerPoint -Formate Java High Code API</title><link>https://releases-qa.aspose.com/de/slides/java/22-11/</link><pubDate>Wed, 23 Nov 2022 19:22:59 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/java/22-11/</guid><description>Java Powerpoint API
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Slides Eine Java Powerpoint -API für die Manipulation und das Management der Präsentation. Es ermöglicht Entwicklern, PowerPoint -Präsentationen in Java -Anwendungen zu lesen, zu schreiben, zu konvertieren und zu manipulieren, mit der Fähigkeit, alle Dokumentelemente wie Folien, Tabellen, Text, Diagramme, Formen, Bilder und SmartArt -Diagramme und mehr zu manipulieren.</description></item></channel></rss>

@@ -1,0 +1,2340 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Laden Sie XPS Creation, Conversion C++ DLL herunter | Aspose.Page-API on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/page/cpp/</link><description>Recent content in Laden Sie XPS Creation, Conversion C++ DLL herunter | Aspose.Page-API on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/page/cpp/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-20.2 .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---20.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---20.2/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 20.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+142.2 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+23
+Hinzugefügt am:
+2/14/2020
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2020/aspose-page-for-cpp-20-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=14076391ea624ef3b532e3d4e44fc1fd&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-20.3 .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---20.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---20.3/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 20.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+Dateigröße:
+142.7 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+43
+Hinzugefügt am:
+3/17/2020
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2020/aspose-page-for-cpp-20-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3aa5b98eae72436e9171cf7d23593ca9&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-20.4 .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---20.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---20.4/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 20.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+Dateigröße:
+147.1 MB Posted By: Aufrufe:
+29:
+Date Added:: 22.04.2020:
+:
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2020/aspose-page-for-cpp-20-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=26c1970fd89e4141a89ea8a91378faa7&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-20.6 .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---20.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---20.6/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 20.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+153.0 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+23
+Hinzugefügt am:
+6/17/2020
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2020/aspose-page-for-cpp-20-6-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=25a98e9014f64c25a05f19e52c69d341&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-20.7 .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---20.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---20.7/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 20.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+153.2 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+25
+Hinzugefügt am:
+7/15/2020
+Versionshinweise https://docs.aspose.com/display/pagecpp/Aspose.Page+for+CPP+20.7+Release+Notes
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=402653a286d942a5890aa134ac0ad732&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-20.9 .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---20.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---20.9/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 20.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+159.4 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+16
+Hinzugefügt am:
+9/15/2020
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2020/aspose-page-for-cpp-20-9-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d9be0a322e1c482da6b8b6569d3111f4&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-20.10 .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---20.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---20.10/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 20.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+159.2 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+30
+Hinzugefügt am:
+10/20/2020
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2020/aspose-page-for-cpp-20-10-release-notes/ BeschreibungDie C++-Bibliothek für XPS- und Postscript-Dateien ermöglicht die Bearbeitung von XPS-Dokumenten sowie die Konvertierung von XPS-, PS- und EPS-Dateien aus einer C++-Anwendung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-20.11 .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---20.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---20.11/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 20.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+154.2 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+20
+Hinzugefügt am:
+11/18/2020
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2020/aspose-page-for-cpp-20-11-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cd7faddfd950403aa8e24f938c8adbbf&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-20.11-linux .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---20.11-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---20.11-linux/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 20.11 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+80.0 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+20
+Hinzugefügt am:
+11/18/2020
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2020/aspose-page-for-cpp-20-11-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4c6b12a8c1104901808b70979d0e0d2c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-20.12 .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---20.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---20.12/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 20.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+155.0 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+22
+Hinzugefügt am:
+12/23/2020
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2020/aspose-page-for-cpp-20-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=78378d4b679147f9bb8a01083c1c76c3&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-20.12-linux .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---20.12-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---20.12-linux/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 20.12 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+80.5 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+20
+Hinzugefügt am:
+12/23/2020
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2020/aspose-page-for-cpp-20-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5e42ce51bc3b4de29440b65ddc5df9ef&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-21.1 .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.1/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 21.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+Dateigröße:
+155.0 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+18
+Hinzugefügt am:
+1/25/2021
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2021/aspose-page-for-cpp-21-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=db441da0a6c74851817afc4e316b3f4f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-21.2 .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.2/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 21.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+155.2 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+15
+Hinzugefügt am:
+2/19/2021
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2021/aspose-page-for-cpp-21-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d1178405b5fe4d7dba59213c2816413b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-21.2-linux .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.2-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.2-linux/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 21.2 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+80.7 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+14
+Hinzugefügt am:
+2/19/2021
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2021/aspose-page-for-cpp-21-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c052efa4ff094580a6c26fd10a0d17c9&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-21.3 .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.3/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 21.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+158.5 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+26
+Hinzugefügt am:
+3/18/2021
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2021/aspose-page-for-cpp-21-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8b7d42dbff8b4a4a80e363740fdfaa59&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-21.3-linux .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.3-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.3-linux/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 21.3 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+80.8 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+24
+Hinzugefügt am:
+3/18/2021
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2021/aspose-page-for-cpp-21-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=459d5ebd5c634989aacc83c7e4729b18&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-21.4 .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.4/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 21.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+159.3 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+31
+Hinzugefügt am:
+4/22/2021
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2021/aspose-page-for-cpp-21-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=100ebd8782a249d886fe8ef93b21d97a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-21.4-linux .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.4-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.4-linux/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 21.4 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+81.1 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+27
+Hinzugefügt am:
+4/22/2021
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2021/aspose-page-for-cpp-21-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f3c881b6e8664bfe91b08e3af97ea145&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-21.5 .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.5/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 21.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+4
+Dateigröße:
+159.3 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+28
+Hinzugefügt am:
+5/17/2021
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2021/aspose-page-for-cpp-21-5-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=50712820cd984d3ead94a1b1ac0e8c93&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-21.5-linux .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.5-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.5-linux/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 21.5 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+81.1 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+24
+Hinzugefügt am:
+5/17/2021
+Versionshinweise https://docs.aspose.com/page/cpp/aspose-page-for-cpp-21-5-release-note
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a01f2c9f075649d3b0dbd13e715a15fc&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-21.6 .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.6/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 21.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+Dateigröße:
+158.9 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+28
+Hinzugefügt am:
+6/19/2021
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2021/aspose-page-for-cpp-21-6-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a63239cb07cf4e51be6f84f3ae49729b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-21.6-linux .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.6-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.6-linux/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 21.6 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+81.2 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+26
+Hinzugefügt am:
+6/19/2021
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2021/aspose-page-for-cpp-21-6-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c3b9d853893b40f7a6fcb6ec59f99276&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-21.7 .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.7/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 21.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+Dateigröße:
+158.9 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+30
+Hinzugefügt am:
+7/24/2021
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2021/aspose-page-for-cpp-21-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ab4ffb8113bf42aab571dc4b1e9d649f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-21.7-linux .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.7-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.7-linux/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 21.7 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+81.9 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+26
+Hinzugefügt am:
+7/24/2021
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2021/aspose-page-for-cpp-21-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1f431c2a94d74c348f10423823d49fd5&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-21.8 .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.8/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 21.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+159.2 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+41
+Hinzugefügt am:
+8/19/2021
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2021/aspose-page-for-cpp-21-8-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d4ec36122b1c4c24bb028c6c8d4e7d5e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-21.8-linux .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.8-linux/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 21.8 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+81.9 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+27
+Hinzugefügt am:
+8/19/2021
+Versionshinweise https://downloads.aspose.com/page/cpp/new-releases/aspose.page-for-c---21.8/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2b5e59f30d144f808e38d44d8555eea6&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-21.10 .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.10/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 21.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+182.9 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+31
+Hinzugefügt am:
+10/25/2021
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2021/aspose-page-for-cpp-21-10-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=39a36e8ac31346e882cf289e0c6665f0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-21.10-linux .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.10-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.10-linux/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 21.10 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+78.3 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+28
+Hinzugefügt am:
+10/25/2021
+Versionshinweise https://wiki.saltov.dynabic.com/bin/view/2zapgroup/Support/Release%20notes/Aspose.Page%20for%20C%2B%2B/Aspose.Page%20for%20C%2B%2B%2021.10% 20-%20Oktober%202021/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b00e79af9cb64f698679366ddfa5ebcd&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-21.11 .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.11/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 21.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+151.9 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+24
+Hinzugefügt am:
+11/25/2021
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2021/aspose-page-for-cpp-21-11-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=060fe2a9ef9e438ebe1b60437228fbff&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-21.11-linux .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.11-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.11-linux/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 21.11 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+76.5 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+23
+Hinzugefügt am:
+11/25/2021
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2021/aspose-page-for-cpp-21-11-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=dada6370d05649e9a60d08714d8c51fb&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-21.12 .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.12/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 21.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+151.8 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+23
+Hinzugefügt am:
+12/17/2021
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2021/aspose-page-for-cpp-21-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0c9ebd9180e64e66b1885c8e1838da47&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-21.12-linux .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.12-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---21.12-linux/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 21.12 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+39.6 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+18
+Hinzugefügt am:
+12/17/2021
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2021/aspose-page-for-cpp-21-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=47252582346f4d2cb80405126af34b58&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-22.1 .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---22.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---22.1/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 22.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+221.6 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+14
+Hinzugefügt am:
+1/21/2022
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2022/aspose-page-for-cpp-22-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1a7acd6cb17b478c95c28f93d03e902f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-22.1-linux .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---22.1-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---22.1-linux/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 22.1 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+45.1 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+12
+Hinzugefügt am:
+1/21/2022
+Versionshinweise https://docs.aspose.com/page/cpp/release-notes-2020/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=585c947addfb4951aed70136b71c551f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-22.2 .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---22.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---22.2/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 22.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+221.7 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+14
+Hinzugefügt am:
+2/19/2022
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2022/aspose-page-for-cpp-22-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0e13053219ce48daa2984c54e37298f2&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-22.2-linux .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---22.2-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---22.2-linux/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 22.2 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+45.1 MB Posted By: Andrey.Malokhovetskiy
+Ansichten:
+9
+Hinzugefügt am:
+2/19/2022
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2022/aspose-page-for-cpp-22-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0a159d3a637e4166bc7b7a949b775fc9&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-22.4 .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---22.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---22.4/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 22.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+233.3 MB Hinzugefügt am:
+: 4 weeks ago [4/22/2022]
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2022/aspose-page-for-cpp-22-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b0b8927fc59643868858a878bc7de05d&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.page-for-c++-22.4-linux .</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---22.4-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c---22.4-linux/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 22.4 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+48.0 MB Hinzugefügt am:
+: 4 weeks ago [4/22/2022]
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2022/aspose-page-for-cpp-22-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=72eeb640119943ceb26c5b271cacc713&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.page-for-c++-22.5</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-22.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-22.5/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 22.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+178.2 MB
+Hinzugefügt am:
+10/6/2022
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2022/aspose-page-for-cpp-22-5-release-notes/
+BeschreibungEs enthält Aspose.Page für die Version C++ 22.5.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7978d25f80d84defb2df1056e879df79-1-7454&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.page-for-c++-22.5-linux</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-22.5-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-22.5-linux/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 22.5 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+48.0 MB
+Hinzugefügt am:
+10/6/2022
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2022/aspose-page-for-cpp-22-5-release-notes/
+BeschreibungEs enthält Aspose.Page für die Linux-Version C++ 22.5.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e5eca79de1374952a8a25434de7015a7-7455&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.page-for-c++-22.6</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-22.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-22.6/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 22.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+178.43MB
+Hinzugefügt am:
+23/6/2022
+Versionshinweise https://docs.aspose.com/page/cpp/aspose-page-for-cpp-22-6-release-notes
+BeschreibungAspose.Page für die native C++ 22.6-Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8b2f0af72eefe21f8ca371142296db26-36-7545&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.page-for-c++-22.6-linux</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-22.6-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-22.6-linux/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 22.6 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+47.98MB
+Hinzugefügt am:
+23/6/2022
+Versionshinweise https://releases.aspose.com/page/cpp/new-releases/aspose.page-for-c++-22.6/
+BeschreibungAspose.Page für C++ 22.6 native Linux-Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=df2fdeef0ece8483918b32b94a1d5a17-10-7546&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.page-for-c++-22.7</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-22.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-22.7/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 22.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+178.71MB
+Hinzugefügt am:
+21/7/2022
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2022/aspose-page-for-cpp-22-7-release-notes/
+BeschreibungAspose.Page für die native C++ 22.7-Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5a8599abd243a180cc6116946f564dc1-36-7676&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.page-for-c++-22.7-linux</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-22.7-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-22.7-linux/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 22.7 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+44.76MB
+Hinzugefügt am:
+21/7/2022
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2022/aspose-page-for-cpp-22-7-release-notes/
+BeschreibungAspose.Page für die native C++ 22.7-Linux-Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2d3f38de460b25fad0a3d81c8f0866c5-9-7677&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.page-for-c++-22.8</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-22.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-22.8/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 22.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+182.19MB
+Hinzugefügt am:
+29/8/2022
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2022/aspose-page-for-cpp-22-8-release-notes/
+BeschreibungAspose.Page für die native C++ 22.8-Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=42b3a45cb477bdd64579a65aac3ce357-37-7820&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.page-for-c++-22.8-linux</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-22.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-22.8-linux/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 22.8 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+45.68MB
+Hinzugefügt am:
+29/8/2022
+Versionshinweise https://releases.aspose.com/page/cpp/new-releases/aspose.page-for-c++-22.8/
+BeschreibungAspose.Page für C++ 22.8 Linux native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a40aa07d57eb4420793aee52849cfff7-10-7821&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.page-for-c++-22.9</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-22.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-22.9/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 22.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+182.63MB
+Hinzugefügt am:
+26/9/2022
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2022/aspose-page-for-cpp-22-9-release-notes/
+BeschreibungAspose.Page für die native C++ 22.9-Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=45e1659c404f68cf752352af44d4774a-37-7938&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.page-for-c++-22.9-linux</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-22.9-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-22.9-linux/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 22.9 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+45.81MB
+Hinzugefügt am:
+26/9/2022
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2022/aspose-page-for-cpp-22-9-release-notes/
+BeschreibungAspose.Page für C++ 22.9 native Linux-Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=da975f102a7e25fd21dc58c6444254f9-10-7939&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.page-for-c++-22.10</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-22.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-22.10/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 22.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+76.8MB
+Date Added:
+28/10/2022
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2022/aspose-page-for-cpp-22-10-release-notes/
+BeschreibungAspose.Page für die native C++ 22.10-Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a453b3e18daf036cb1dc380b3916aad2-16-8074&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.page-for-c++-22.10-linux</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-22.10-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-22.10-linux/</guid><description>&amp;nbsp;
+Aspose.Page für C&amp;#43;&amp;#43; 22.10 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+68.8MB
+Date Added:
+28/10/2022
+Versionshinweise https://releases.aspose.com/page/cpp/release-notes/2022/aspose-page-for-cpp-22-10-release-notes/
+BeschreibungAspose.Page für die native Linux-Bibliothek von C++ 22.10
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fcadb308b8c55a32dcae55e33c184156-14-8075&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PAGE-FOR-C ++-23.1</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.1/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+184.25MB
+Datum hinzugefügt:
+30/1/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-1-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.1 Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cc14907559eeb3ffd851352e44417031-37-8459&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.1-LINUX</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.1-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.1-linux/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR C &amp;#43;&amp;#43; 23.1 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+68.85MB
+Datum hinzugefügt:
+30/1/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-1-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.1 LINUX Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f42d88f2199e664c8c5a3e339a2f1476-14-8460&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-Asspsidle.page-for-C ++-23.1-Macos</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.1-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.1-macos/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.1 MacOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+69.25MB
+Datum hinzugefügt:
+30/1/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-1-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.1 MACOS Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=16675e52f9feb29ab3c957abc5386a29-14-8461&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PAGE-FOR-C ++-23.2</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.2/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+184.99MB
+Datum hinzugefügt:
+22/2/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-2-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.2 Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b84bcd4608396bb19f404f415333c535-37-8555&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-Asspsidle.page-for-C ++-23,2-Linux</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.2-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.2-linux/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.2 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+69.03MB
+Datum hinzugefügt:
+22/2/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-2-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.2 LINUX Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d260dbdc4468c5947541d872888c8f95-14-8556&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-Asspsidle.page-for-C ++-23,2-MACOS</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.2-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.2-macos/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.2 MacOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+69.46MB
+Datum hinzugefügt:
+22/2/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-2-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.2 MACOS Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0b4ba19ba63d0b76849242e257137a26-14-8557&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.3</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.3/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+185.29MB
+Datum hinzugefügt:
+21/3/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-3-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.3 Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7081cceff68943a92d3bb048bf28af88-38-8656&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23,3-LINUX</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.3-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.3-linux/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.3 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+69.11MB
+Datum hinzugefügt:
+21/3/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-3-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.3 LINUX Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ffacae24cfe42d523e1ffe89a13ec7fa-14-8657&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPEN.</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.3-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.3-macos/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR C &amp;#43;&amp;#43; 23.3 MACOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+69.54MB
+Datum hinzugefügt:
+21/3/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-3-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.3 MACOS Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1338b8a4dbf1635907fd2c2ee6a1e15a-14-8658&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-Asspsidle.page-for-C ++-23.4</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.4/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+185.52MB
+Datum hinzugefügt:
+21/4/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-4-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.4 Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=449fba598e8c69bee2b7d59c3bcf6fd0-38-8802&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.4-LINUX</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.4-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.4-linux/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.4 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+69.11MB
+Datum hinzugefügt:
+21/4/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-4-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.4 LINUX Native Library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=23220624f325854c4e5d30e2bc8100f6-14-8803&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23,4-MACOS</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.4-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.4-macos/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR C &amp;#43;&amp;#43; 23.4 MACOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+69.5MB
+Datum hinzugefügt:
+21/4/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-4-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.4 MACOS Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7c44d4379e97fff5ae248ac51f6e8585-14-8805&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.5</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.5/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+185.56MB
+Datum hinzugefügt:
+25/5/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-5-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.5 Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=72991e2ca435c01f6d558b25f763ff92-38-8901&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23,5-LINUX</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.5-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.5-linux/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.5 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+69.12MB
+Datum hinzugefügt:
+25/5/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-5-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.5 LINUX Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=dfa6295f30c2da34518ed062aa715fb9-14-8902&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23,5-MACOS</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.5-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.5-macos/</guid><description>&amp;nbsp;
+ASSON.SEITE FÜR C &amp;#43;&amp;#43; 23.5 MacOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+69.52MB
+Datum hinzugefügt:
+25/5/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-5-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.5 MACOS Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=09c14ebf1d3b21730b099e496df2a26b-14-8903&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.6</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.6/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+186.39MB
+Datum hinzugefügt:
+29/6/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-6-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.6 Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4c68efdf021beaefa4a4f21cbec9963a-38-9152&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.6-LINUX</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.6-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.6-linux/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.6 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+69.29MB
+Datum hinzugefügt:
+29/6/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-6-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.6 LINUX Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=21240f5782266f23d643465f236c80b6-14-9153&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSISSION.PAGE-FOR-C ++-23,6-MACOS</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.6-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.6-macos/</guid><description>&amp;nbsp;
+ASSON.SEITE FÜR C &amp;#43;&amp;#43; 23.6 MACOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+69.68MB
+Datum hinzugefügt:
+29/6/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-6-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.6 MACOS Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=57a4bb2d78cb8d39a4ad3c99f149a710-14-9154&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPLE.PAGE-FOR-C ++-23,7-MACOS</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.7-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.7-macos/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR C &amp;#43;&amp;#43; 23.7 MACOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+84.99MB
+Datum hinzugefügt:
+19/7/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-7-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.7 MACOS Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=402dce53b43232b2730cec8ea5695c55-17-9227&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.7-LINUX</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.7-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.7-linux/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.7 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+69.32MB
+Datum hinzugefügt:
+19/7/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-7-release-notes/
+BeschreibungASSOSPE.PAGE FÜR C ++ 23.7 Linux
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=65af9a45d008c0324057353ed408ca70-14-9228&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.7</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.7/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+186.51MB
+Datum hinzugefügt:
+19/7/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-7-release-notes/
+BeschreibungASSON.SEITE FÜR C ++ 23.7 Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9bd11554144075132ca49079222f4a34-38-9229&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.8-LINUX</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.8-linux/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.8 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+69.33MB
+Datum hinzugefügt:
+29/8/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-8-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.8 Linux Native Library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6c7a5e211638cc1e1e25f18a33c19653-14-9393&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23,8-MACOS</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.8-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.8-macos/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR C &amp;#43;&amp;#43; 23.8 MACOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+108.45MB
+Datum hinzugefügt:
+29/8/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-8-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.8 MACOS Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ec620b1d9753a1b3011849301ec7872e-22-9396&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.8</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.8/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+186.53MB
+Datum hinzugefügt:
+29/8/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-8-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.8 Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=30dc02f2b25d5450d936260759e09cd3-38-9397&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23,9-LINUX</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.9-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.9-linux/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.9 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+69.54MB
+Datum hinzugefügt:
+20/9/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-9-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.9 Linux Native Library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3615e7eafd5f8c44bc9375b2f4cda7b7-14-9498&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23,9-MACOS</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.9-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.9-macos/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.9 MACOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+108.94MB
+Datum hinzugefügt:
+20/9/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-9-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.9 MACOS Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=393b9e33c4b46ac7406b94022ac0e98d-22-9499&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.9</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.9/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+187.12MB
+Datum hinzugefügt:
+20/9/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-9-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.9 Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b48d9aaeb55aaecab32486197596beec-38-9500&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.10-LINUX</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.10-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.10-linux/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR C &amp;#43;&amp;#43; 23.10 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+69.61MB
+Datum hinzugefügt:
+19/10/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-10-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.10 Linux
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e861dcec1850fe29920968d62df49e9f-14-9638&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPEN.</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.10-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.10-macos/</guid><description>&amp;nbsp;
+ASSON.Seite für C &amp;#43;&amp;#43; 23.10 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+109.02MB
+Datum hinzugefügt:
+19/10/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-10-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.10 MACOS Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=03dac9696baf91ff9e0da6ffc988f553-22-9639&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PAGE-FOR-C ++-23.10</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.10/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+187.63MB
+Datum hinzugefügt:
+19/10/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-10-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.10 Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f3d2e58976b9952070fb2e5dd151d51e-38-9640&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.11-LINUX</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.11-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.11-linux/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.11 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+69.65MB
+Datum hinzugefügt:
+30/11/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-11-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.11 LINUX Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=53261f0c2b55621ab17b277d81c94e96-14-9900&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.11-MACOS</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.11-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.11-macos/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR C &amp;#43;&amp;#43; 23.11 MACOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+109.12MB
+Datum hinzugefügt:
+30/11/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-11-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.11 MACOS Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d108d66c370996b022c8b3f3ff569470-22-9901&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.11</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.11/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+187.81MB
+Datum hinzugefügt:
+30/11/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-11-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.11 Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=86cd48f7e107d0b79864dd27f9cf2314-38-9902&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.12-LINUX</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.12-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.12-linux/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.12 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+72MB
+Datum hinzugefügt:
+26/12/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-12-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.12 LINUX Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6f8706cfc8b07562cc6e7cd6fa8b334d-15-10058&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.12-MACOS</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.12-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.12-macos/</guid><description>&amp;nbsp;
+ASSON.Seite für C &amp;#43;&amp;#43; 23.12 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+113.83MB
+Datum hinzugefügt:
+26/12/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-12-release-notes/
+BeschreibungASSON.Seite für C ++ 23.12 macOS
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8c50de6e4eb8fa726f91064700739154-23-10059&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.12</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.12/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+197.25MB
+Datum hinzugefügt:
+26/12/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-12-release-notes/
+BeschreibungASSOSPE.PAGE FÜR C ++ 23.12
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=056ec0927807c8a1b20f2f4743c70a85-40-10060&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-24.1-LINUX</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-24.1-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-24.1-linux/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 24.1 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+72.02MB
+Datum hinzugefügt:
+24/1/2024
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2024/aspose-page-for-cpp-24-1-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 24.1 LINUX Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=809f94e60d9f2c5596c382c34f3fb206-15-10201&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-24.1-MACOS</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-24.1-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-24.1-macos/</guid><description>&amp;nbsp;
+ASSON.Seite für C &amp;#43;&amp;#43; 24.1 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+113.86MB
+Datum hinzugefügt:
+24/1/2024
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2024/aspose-page-for-cpp-24-1-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 24.1 MACOS Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b2b475ca588791d26e6a94783205428d-23-10202&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-24.1</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-24.1/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 24.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+197.3MB
+Datum hinzugefügt:
+24/1/2024
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2024/aspose-page-for-cpp-24-1-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 24.1 Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8ebb40c19530e21cac743579d69848e4-40-10203&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

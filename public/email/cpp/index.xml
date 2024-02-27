@@ -1,0 +1,1035 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Download Outlook® Objects Processing C++ DLL | Aspose.Email on Releases - aspose.com</title><link>https://releases-qa.aspose.com/email/cpp/</link><description>Recent content in Download Outlook® Objects Processing C++ DLL | Aspose.Email on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/email/cpp/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---New-Releases-aspose.email-for-c++-18.1 .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---18.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---18.1/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 18.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 41 File Size: 119.7 MB Posted By: Vitalij.Shitts Views: 110 Date Added: 1/25/2018
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2018/aspose-email-for-cpp-18-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=21710757f91749ff9bde98122f2af8f0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-18.6 .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---18.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---18.6/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 18.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 15 File Size: 140.0 MB Posted By: Vitalij.Shitts Views: 27 Date Added: 7/5/2018
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2018/aspose-email-for-cpp-18-6-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=14dadf0a74c64209bc4e55c5593b6cc3&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-18.11 .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---18.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---18.11/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 18.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 9 File Size: 153.5 MB Posted By: Vitalij.Shitts Views: 21 Date Added: 11/28/2018
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2018/aspose-email-for-cpp-18-11-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=51751efdd38c4a81acf04beafb8edf75&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-19.01 .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---19.01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---19.01/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 19.01
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 9 File Size: 143.6 MB Posted By: Vitalij.Shitts Views: 29 Date Added: 2/5/2019
+Release Noteshttps://releases.aspose.com/email/cpp/aspose-email-for-cpp-19-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7bb1732e2973464f96fc49f4081047a6&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-19.02 .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---19.02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---19.02/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 19.02
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 32 File Size: 143.6 MB Posted By: Vitalij.Shitts Views: 85 Date Added: 3/25/2019
+Release Noteshttps://releases.aspose.com/email/cpp/aspose-email-for-cpp-19-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1fd78934b4c54f56a10b732d447b6f67&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-19.3-linux .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---19.3-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---19.3-linux/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 19.3 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 12 File Size: 77.2 MB Posted By: Vitalij.Shitts Views: 41 Date Added: 8/19/2019
+Release Noteshttps://releases.aspose.com/email/cpp/aspose-email-for-cpp-19-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=40a129ca4f5d4e379f46ddf9ffd8477f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases--aspose.email-for-c++-19.9 .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/-aspose.email-for-c---19.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/-aspose.email-for-c---19.9/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 19.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 5 File Size: 112.2 MB Posted By: Vitalij.Shitts Views: 11 Date Added: 1/24/2020
+Release Noteshttps://releases.aspose.com/email/cpp/aspose-email-for-cpp-19-9-release-notes/DescriptionIt contains Aspose.Email for C++ 19.9 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ca97e0c6783645408be61237db385b2b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases--aspose.email-for-c++-19.9-linux .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/-aspose.email-for-c---19.9-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/-aspose.email-for-c---19.9-linux/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 19.9 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 4 File Size: 93.9 MB Posted By: Vitalij.Shitts Views: 15 Date Added: 1/24/2020
+Release Noteshttps://releases.aspose.com/email/cpp/aspose-email-for-cpp-19-9-release-notes/DescriptionIt contains Aspose.Email for C++ 19.9 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=17f3e47b02414342ae4905529ceba89a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-20.2 .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.2/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 20.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 5 File Size: 112.1 MB Posted By: Vitalij.Shitts Views: 13 Date Added: 3/20/2020
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2020/aspose-email-for-cpp-20-2-release-notes/DescriptionIt contains Aspose.Email for C++ 20.2 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7a704985492b4b66966a7bfbcda37593&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-20.2-linux .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.2-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.2-linux/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 20.2 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 6 File Size: 57.3 MB Posted By: Vitalij.Shitts Views: 9 Date Added: 3/25/2020
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2020/aspose-email-for-cpp-20-2-release-notes/DescriptionIt contains Aspose.Email for C++ 20.2 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7065bb980d954fc5a8edf7b6772a7c7e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-20.3 .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.3/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 20.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 62.9 MB Posted By: Vitalij.Shitts Views: 12 Date Added: 4/22/2020
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2020/aspose-email-for-cpp-20-3-release-notes/DescriptionIt contains Aspose.Email for C++ 20.3 Windows release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a2406d1916164a568ffbace87e44dcd0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-20.4 .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.4/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 20.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 62.7 MB Posted By: Vitalij.Shitts Views: 30 Date Added: 5/25/2020
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2020/aspose-email-for-cpp-20-4-release-notes/DescriptionIt contains Aspose.Email for C++ 20.4 Windows release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=45cde0c4e8fc415997c46309cf75c074&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-20.4-linux .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.4-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.4-linux/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 20.4 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 1 File Size: 58.5 MB Posted By: Vitalij.Shitts Views: 5 Date Added: 5/25/2020
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2020/aspose-email-for-cpp-20-4-release-notes/DescriptionIt contains Aspose.Email for C++ 20.4 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=67b24684046f4ddbac7eed8b1f06aec6&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-20.5 .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.5/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 20.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 2 File Size: 62.9 MB Posted By: Vitalij.Shitts Views: 20 Date Added: 6/29/2020
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2020/aspose-email-for-cpp-20-5-release-notes/DescriptionIt contains Aspose.Email for C++ 20.5 Windows release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c60370d9063a41a2953295e9c2b6649a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-20.5-linux .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.5-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.5-linux/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 20.5 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 59.0 MB Posted By: Vitalij.Shitts Views: 23 Date Added: 6/29/2020
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2020/aspose-email-for-cpp-20-5-release-notes/DescriptionIt contains Aspose.Email for C++ 20.5 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e21b6651330d49e48fe1a17d341e712b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-20.6 .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.6/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 20.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 118.0 MB Posted By: Vitalij.Shitts Views: 28 Date Added: 8/4/2020
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2020/aspose-email-for-cpp-20-6-release-notes/DescriptionIt contains Aspose.Email for C++ 20.6 Windows release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8b75eb36d4b64042a1f670a982ee15d6&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-20.6-linux .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.6-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.6-linux/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 20.6 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 3 File Size: 62.8 MB Posted By: Vitalij.Shitts Views: 50 Date Added: 8/4/2020
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2020/aspose-email-for-cpp-20-6-release-notes/DescriptionIt contains Aspose.Email for C++ 20.6 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b20f65c83cfc4184b2eb6adb029acb2b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-20.7 .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.7/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 20.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 2 File Size: 125.2 MB Posted By: Vitalij.Shitts Views: 37 Date Added: 8/20/2020
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2020/aspose-email-for-cpp-20-7-release-notes/DescriptionIt contains Aspose.Email for C++ 20.7 Windows release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fb4f7e4c76b44a06b40161249400de28&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-20.7-linux .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.7-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.7-linux/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 20.7 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 1 File Size: 67.5 MB Posted By: Vitalij.Shitts Views: 41 Date Added: 8/20/2020
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2020/aspose-email-for-cpp-20-7-release-notes/DescriptionIt contains Aspose.Email for C++ 20.7 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b0f863ef350c447fb17ee86d7135f870&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-20.8 .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.8/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 20.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 1 File Size: 125.8 MB Posted By: Vitalij.Shitts Views: 74 Date Added: 9/18/2020
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2020/aspose-email-for-cpp-20-8-release-notes/DescriptionIt contains Aspose.Email for C++ 20.8 Windows release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=40fbcb04855344a692ccf71a1dc10c39&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-20.8-linux .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.8-linux/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 20.8 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 67.4 MB Posted By: Vitalij.Shitts Views: 53 Date Added: 9/18/2020
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2020/aspose-email-for-cpp-20-8-release-notes/DescriptionIt contains Aspose.Email for C++ 20.8 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=33fdfa38a2f5454293bd427435601f7f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-20.8.1 .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.8.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.8.1/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 20.8.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 25 File Size: 125.8 MB Posted By: Vitalij.Shitts Views: 140 Date Added: 9/29/2020
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2020/aspose-email-for-cpp-20-8-1-release-notes/DescriptionIt contains Aspose.Email for C++ 20.8.1 Windows release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=61a6c6aa397e447d9af71964e3cfd5d3&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-20.8.1-linux .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.8.1-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.8.1-linux/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 20.8.1 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 8 File Size: 67.4 MB Posted By: Vitalij.Shitts Views: 82 Date Added: 9/29/2020
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2020/aspose-email-for-cpp-20-8-1-release-notes/DescriptionIt contains Aspose.Email for C++ 20.8.1 Linux release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cf07e7e0d4374b70bd49bd04fe480c0f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-20.11 .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.11/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 20.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 7 File Size: 278.5 MB Posted By: Vitalij.Shitts Views: 63 Date Added: 12/23/2020
+Release Noteshttps://docs.aspose.com/email/cpp/aspose-email-for-cpp-20-11-release-notes/DescriptionIt contains Aspose.Email for C++ 20.1 release. Both Windows and Linux
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=50230ac22fbb48d08394a45b9c0ba57c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-20.12 .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---20.12/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 20.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 14 File Size: 285.5 MB Posted By: Vitalij.Shitts Views: 71 Date Added: 1/28/2021
+Release Noteshttps://docs.aspose.com/email/cpp/aspose-email-for-cpp-20-12-release-notes/DescriptionIt contains Aspose.Email for C++ 20.12 release. Both Windows and Linux
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8e2ddfd13f454772875efa63aba0734f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-21.1 .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---21.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---21.1/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 21.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 293.7 MB Posted By: Vitalij.Shitts Views: 50 Date Added: 4/6/2021
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2021/aspose-email-for-cpp-21-1-release-notes/DescriptionIt contains Aspose.Email for C++ 21.1 release. Both Windows and Linux
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bdba23a9075941ce990730e89702ebae&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-21.2 .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---21.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---21.2/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 21.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 32 File Size: 293.3 MB Posted By: Vitalij.Shitts Views: 161 Date Added: 4/6/2021
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2021/aspose-email-for-cpp-21-2-release-notes/DescriptionIt contains Aspose.Email for C++ 21.2 release. Both Windows and Linux
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6365b5990f864999ae4fd0b739ebd443&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-21.6 .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---21.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---21.6/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 21.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 15 File Size: 291.6 MB Posted By: Vitalij.Shitts Views: 86 Date Added: 7/23/2021
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2021/aspose-email-for-cpp-21-6-release-notes/DescriptionIt contains Aspose.Email for C++ 21.6 release. Both Windows and Linux
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=03694caf5cb94a06935fbcc42c1ac22b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-21.9 .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---21.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---21.9/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 21.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 10 File Size: 301.2 MB Posted By: Vitalij.Shitts Views: 49 Date Added: 10/1/2021
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2021/aspose-email-for-cpp-21-9-release-notes/DescriptionIt contains Aspose.Email for C++ 21.9 release. Both Windows and Linux
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5ab5c0928f774bf0b9bc3cd204c2427a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-21.10 .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---21.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---21.10/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 21.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 21 File Size: 306.1 MB Posted By: Vitalij.Shitts Views: 51 Date Added: 11/3/2021
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2021/aspose-email-for-cpp-21-10-release-notes/DescriptionIt contains Aspose.Email for C++ 21.10 release. Both Windows and Linux
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bdd6703110f54a72903d6845ba3de952&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-22.1 .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---22.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---22.1/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 22.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 18 File Size: 292.0 MB Posted By: DmitryS Views: 40 Date Added: 1/31/2022
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2022/aspose-email-for-cpp-22-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=38e5e116898a47bb8a26fba7474191a6&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-22.2 .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---22.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---22.2/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 22.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 5 File Size: 292.3 MB Posted By: DmitryS Views: 25 Date Added: 2/25/2022
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2022/aspose-email-for-cpp-22-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d3f09516e0584a2f862f6ddd0eb586db&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-22.3 .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---22.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---22.3/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 22.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 0 File Size: 316.8 MB Posted By: DmitryS Views: 6 Date Added: : 2 weeks ago [3/31/2022]
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2022/aspose-email-for-cpp-22-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=adaceffaa5834f36a6d7cc32a1850bd4&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.email-for-c++-22.4 .</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---22.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c---22.4/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 22.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 3 File Size: 453.9 MB Date Added: : 2 weeks ago [5/4/2022]
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2022/aspose-email-for-cpp-22-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f5e15190e84147faad94b80402256b54&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.email-for-c++-22.5</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-22.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-22.5/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 22.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+316.82MB
+Date Added:
+10/6/2022
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2022/aspose-email-for-cpp-22-5-release-notes/
+DescriptionIt contains Aspose.Email for C++ 22.5 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9f766578b2171cdb78678aacf03ac4cd-64-7423&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.email-for-c++-22.6</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-22.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-22.6/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 22.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+344.9MB
+Date Added:
+13/7/2022
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2022/aspose-email-for-cpp-22-6-release-notes/
+DescriptionIt contains Aspose.Email for C++ 22.6 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b035daf7c65359391bcb46a2598f8175-69-7634&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.email-for-c++-22.7</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-22.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-22.7/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 22.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+346.16MB
+Date Added:
+1/8/2022
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2022/aspose-email-for-cpp-22-7-release-notes/
+DescriptionIt contains Aspose.Email for C++ 22.7 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cd5b10c79557208464ffa45184fdbc78-70-7724&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.email-for-c++-22.8</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-22.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-22.8/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 22.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+346.47MB
+Date Added:
+26/8/2022
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2022/aspose-email-for-cpp-22-8-release-notes/
+DescriptionIt contains Aspose.Email for C++ 22.8 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=abc4d34e759030e29046bbec7633c97e-70-7808&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.email-for-c++-22.9</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-22.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-22.9/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 22.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+346.54MB
+Date Added:
+30/9/2022
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2022/aspose-email-for-cpp-22-9-release-notes/
+DescriptionIt contains Aspose.Email for C++ 22.9 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a770998311bf133582c8fbf41f285522-70-7964&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.email-for-c++-22.10</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-22.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-22.10/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 22.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+345.58MB
+Date Added:
+31/10/2022
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2022/aspose-email-for-cpp-22-10-release-notes/
+DescriptionIt contains Aspose.Email for C++ 22.10 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d39a04e4338eabc9d0aacd19d71c3044-70-8088&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.email-for-c++-22.11</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-22.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-22.11/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 22.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+345.66MB
+Date Added:
+30/11/2022
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2022/aspose-email-for-cpp-22-11-release-notes/
+DescriptionIt contains Aspose.Email for C++ 22.11 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=32e2750d5e6b87463db993132f86e6b6-70-8234&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.email-for-c++-22.12</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-22.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-22.12/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 22.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+345.78MB
+Date Added:
+31/12/2022
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2022/aspose-email-for-cpp-22-12-release-notes/
+DescriptionIt contains Aspose.Email for C++ 22.12 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c595d019aaea56f85addb3faa05ef251-70-8357&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.email-for-c++-23.1</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-23.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-23.1/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 23.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+372.3MB
+Date Added:
+31/1/2023
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-1-release-notes/
+DescriptionIt contains Aspose.Email for C++ 23.1 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=53d09f9387b5681014e940b276b99f99-75-8477&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.email-for-c++-23.2</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-23.2/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 23.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+421.6MB
+Date Added:
+11/4/2023
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-2-release-notes/
+DescriptionIt contains Aspose.Email for C++ 23.2 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=66d1f26584a56577bb10acea44be15a9-85-8741&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.email-for-c++-23.3</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-23.3/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 23.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+421.61MB
+Date Added:
+11/4/2023
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-3-release-notes/
+DescriptionIt contains Aspose.Email for C++ 23.1 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c210cadd89e35a11dad330f20771273d-85-8742&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.email-for-c++-23.4</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-23.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-23.4/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 23.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+2
+File Size:
+424.06MB
+Date Added:
+17/4/2023
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-4-release-notes/
+DescriptionIt contains Aspose.Email for C++ 23.4 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=623ce5658d9e7986987de20c3647150e-85-8764&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.email-for-c++-23.5</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-23.5/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 23.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+424.32MB
+Date Added:
+13/7/2023
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-5-release-notes/
+DescriptionIt contains Aspose.Email for C++ 23.5 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8f2ca51dfa94f3c36a82a2dd2f64ac5a-85-9209&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.email-for-c++-23.6</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-23.6/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 23.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+424.51MB
+Date Added:
+13/7/2023
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-6-release-notes/
+DescriptionIt contains Aspose.Email for C++ 23.6 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fd45fd09242e0591818d5163c924ca7e-85-9210&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.email-for-c++-23.7</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-23.7/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 23.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+449.51MB
+Date Added:
+8/12/2023
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-7-release-notes/
+DescriptionIt contains Aspose.Email for C++ 23.7 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b4c2cb03b91513168285df6d1b2dd4a6-90-9949&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.email-for-c++-23.8</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-23.8/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 23.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+449.67MB
+Date Added:
+8/12/2023
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-8-release-notes/
+DescriptionIt contains Aspose.Email for C++ 23.8 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d2b8272c7ad1a919c81bd9d9411a5d51-90-9952&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.email-for-c++-23.10</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-23.10/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 23.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+450.19MB
+Date Added:
+8/12/2023
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-10-release-notes/
+DescriptionIt contains Aspose.Email for C++ 23.10 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a8b07dcbc355e1c3129a8330543dab15-91-9953&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.email-for-c++-23.12</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-23.12/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 23.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+450.03MB
+Date Added:
+26/12/2023
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-11-release-notes/
+DescriptionIt contains Aspose.Email for C++ 23.12 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0c47ec25d0d9896bfa4119cf1fc9d7a8-91-10065&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.email-for-c++-24.1</title><link>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/cpp/new-releases/aspose.email-for-c++-24.1/</guid><description>&amp;nbsp;
+Aspose.Email for C&amp;#43;&amp;#43; 24.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+450.08MB
+Date Added:
+24/1/2024
+Release Noteshttps://releases.aspose.com/email/cpp/release-notes/2024/aspose-email-for-cpp-24-1-release-notes/
+DescriptionIt contains Aspose.Email for C++ 24.1 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=67f89f60ef4ab61cf07bbcc7777293d9-91-10197&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

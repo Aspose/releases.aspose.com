@@ -1,0 +1,271 @@
+<!doctype html><html class=no-js lang=en><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge"><title>Aspose.HTML for .NET 22.6 Release Notes</title><meta name=description content="This article contains information about the release notes for Aspose.HTML for .NET 22.6."><meta name=viewport content="width=device-width,minimum-scale=1"><link rel=canonical href=https://releases-qa.aspose.com/html/net/release-notes/2022/aspose-html-for-net-22-6-release-notes/><link rel=alternate hreflang=x-default href=https://releases-qa.aspose.com/html/net/release-notes/2022/aspose-html-for-net-22-6-release-notes/><meta name=robots content="noindex, nofollow"><link rel=apple-touch-icon sizes=180x180 href=/res_repo/apple-touch-icon.png><link rel=icon type=image/png href=/res_repo/favicon-32x32.png sizes=32x32><link rel=icon type=image/png href=/res_repo/favicon-16x16.png sizes=16x16><link rel=mask-icon href=/res_repo/safari-pinned-tab.svg color=#0594cb><meta name=theme-color content="#ffffff"><meta property="og:title" content="Aspose.HTML for .NET 22.6 Release Notes "><meta property="og:description" content="This article contains information about the release notes for Aspose.HTML for .NET 22.6."><meta property="og:type" content="article"><meta property="og:url" content="https://releases-qa.aspose.com/html/net/release-notes/2022/aspose-html-for-net-22-6-release-notes/"><meta itemprop=name content="Aspose.HTML for .NET 22.6 Release Notes"><meta itemprop=description content="This article contains information about the release notes for Aspose.HTML for .NET 22.6."><meta itemprop=wordCount content="1182"><meta name=twitter:card content="summary"><meta name=twitter:title content="Aspose.HTML for .NET 22.6 Release Notes"><meta name=twitter:description content="This article contains information about the release notes for Aspose.HTML for .NET 22.6."><link href=/css/bootstrap.css rel=stylesheet type=text/css><script src=https://releases-qa.aspose.com/res_repo/js/jquery-1.10.2.min.js></script></head><body><div id=header></div><div class=downloadpage><div class="container-fluid bcrumb1"><div id=sticky1 class=stickytopheight>&nbsp;</div><div class=container><div class=moduletable><ul id=dvBC class=breadcrumb><li><a href=/>Home</a><span class=divider></span></li><li><a href=/html/>Aspose.HTML Product Family</a><span class=divider></span></li><li><a href=/html/net/>Aspose.HTML for .NET</a><span class=divider></span></li><li><a href=/html/net/release-notes/>Release Notes</a><span class=divider></span></li><li><a href=/html/net/release-notes/2022/>2022</a><span class=divider></span></li><li><a href=/html/net/release-notes/2022/aspose-html-for-net-22-6-release-notes/>Aspose.HTML for .NET 22.6 Release Notes</a><span class=divider></span></li></ul></div></div></div><div class="container-fluid content2 vpanel-left"><div class=container><div class=row><div class="col-md-3 vpanel tree-section"><p class=list-title>Browse our Products<button type=button class=treeview-toggle> <span class=sr-only>Toggle navigation</span> <span class="icon expand-icon glyphicon glyphicon-hide"></span></button></p><div id=tree class="treeview hidetree"></div></div><div class="col-md-9 lhs1 col-xs-12 mobilehide node-section"><div class=box1><section role=main class="main-container page-package-details"><div class=row><div class="col-sm-9 package-details-main"><h1><strong>Aspose.HTML for .NET 22.6 Release Notes</strong></h1><div class="tab-content body-tab-content"><div role=tabpanel class="tab-pane active" id=readme-tab><div class=readme-common><div id=readme-container><p><div class="alert alert-primary" role=alert>This page contains release notes information for Aspose.HTML for .NET 22.6.</div><p>As per regular monthly update process of all APIs being offered by Aspose, we are honored to announce the June release of Aspose.HTML for .NET.</p><p>In this release, we have improved various parts of the parsing and rendering algorithms, here are some of them:</p><ul><li>Fixed the memory usage issue.</li><li>Improved JS and AngularJS applications processing.</li><li>Improved processing of the box-sizing property.</li><li>Improved the rendering and page splitting layout algorithms.</li></ul><h2 id=improvements-and-changes>Improvements and Changes</h2><table><thead><tr><th><strong>Key</strong></th><th><strong>Summary</strong></th><th><strong>Category</strong></th></tr></thead><tbody><tr><td>HTMLNET-3839</td><td>Reggresion: HTML to JPEG: Text gets rendered off the image in the top-left</td><td>Bug</td></tr></tbody></table><h2 id=public-api-and-backward-incompatible-changes>Public API and Backward Incompatible Changes</h2><h3 id=added-apis>Added APIs</h3><pre tabindex=0><code>namespace Aspose.Html.Drawing
+{
+    /// &lt;summary&gt;
+    /// Declare methods for color conversions
+    /// &lt;/summary&gt;
+    public interface IConvertibleColor
+    {
+        /// &lt;summary&gt;
+        /// Convert to CMYK color in the percentage format: cmyk(0%,0%,0%,0%)
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;CMYK color string&lt;/returns&gt;
+        string ToCmykString();
+
+        /// &lt;summary&gt;
+        /// Convert to CMYK color in the decimal format: cmyk(0,0,0,0)
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;CMYK color string&lt;/returns&gt;
+        string ToCmykStringDecimal();
+
+        /// &lt;summary&gt;
+        /// Convert to HEX color in the format: #000000
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;HEX color string&lt;/returns&gt;
+        string ToHexString();
+
+        /// &lt;summary&gt;
+        /// Convert to HSLA color in the format: hsla(0,0%,0%,0)
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;HSLA color string&lt;/returns&gt;
+        string ToHslaString();
+
+        /// &lt;summary&gt;
+        /// Convert to HSL color in the format: hsla(0,0%,0%)
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;HSL color string&lt;/returns&gt;
+        string ToHslString();
+
+        /// &lt;summary&gt;
+        /// Convert to HSL color in the decimal format: hsl(0,0,0)
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;HSL color string&lt;/returns&gt;
+        string ToHslStringDecimal();
+
+        /// &lt;summary&gt;
+        /// Convert to HWBA color in the format: hwba(0,0%,0%,0)
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;HWBA color string&lt;/returns&gt;
+        string ToHwbaString();
+
+        /// &lt;summary&gt;
+        /// Convert to HWB color in the format: hwb(0,0%,0%)
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;HWB color string&lt;/returns&gt;
+        string ToHwbString();
+
+        /// &lt;summary&gt;
+        /// Convert to HWB color in the decimal format: hwb(0,0,0)
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;HWB color string&lt;/returns&gt;
+        string ToHwbStringDecimal();
+
+        /// &lt;summary&gt;
+        /// Convert to the Named color
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;Named color string&lt;/returns&gt;
+        string ToName();
+
+        /// &lt;summary&gt;
+        /// Convert to the Natural color (NCola) in the percentage format with alpha channel
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;Natural color string&lt;/returns&gt;
+        string ToNcolaString();
+
+        /// &lt;summary&gt;
+        /// Convert to the Natural color (NCol) in the percentage format
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;Natural color string&lt;/returns&gt;
+        string ToNcolString();
+
+        /// &lt;summary&gt;
+        /// Convert to the Natural color (NCol) in the decimal format
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;Natural color string&lt;/returns&gt;
+        string ToNcolStringDecimal();
+
+        /// &lt;summary&gt;
+        /// Convert to the RGBA color
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;RGBA color string&lt;/returns&gt;
+        string ToRgbaString();
+
+        /// &lt;summary&gt;
+        /// Convert to the RGB color
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;RGB color string&lt;/returns&gt;
+        string ToRgbString();
+
+        /// &lt;summary&gt;
+        /// Convert to LCH color in the percentage format: lch(0%,0%,0%)
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;LCH color string&lt;/returns&gt;
+        string ToLchString();
+
+        /// &lt;summary&gt;
+        /// Convert to LCH color in the decimal format: lch(0,0,0)
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;LCH color string&lt;/returns&gt;
+        string ToLchStringDecimal();
+
+        /// &lt;summary&gt;
+        /// Convert to OKLCH color in the percentage format: oklch(0%,0%,0%)
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;OKLCH color string&lt;/returns&gt;
+        string ToOkLchString();
+
+        /// &lt;summary&gt;
+        /// Convert to OKLCH color in the decimal format: oklch(0,0,0)
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;OKLCH color string&lt;/returns&gt;
+        string ToOkLchStringDecimal();
+
+        /// &lt;summary&gt;
+        /// Convert to LAB color in the percentage format: lab(0%,0%,0%)
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;LAB color string&lt;/returns&gt;
+        string ToLabString();
+
+        /// &lt;summary&gt;
+        /// Convert to LAB color in the decimal format: lab(0,0,0)
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;LAB color string&lt;/returns&gt;
+        string ToLabStringDecimal();
+
+        /// &lt;summary&gt;
+        /// Convert to OKLAB color in the percentage format: oklab(0%,0%,0%)
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;OKLAB color string&lt;/returns&gt;
+        string ToOkLabString();
+
+        /// &lt;summary&gt;
+        /// Convert to OKLAB color in the decimal format: oklab(0,0,0)
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;OKLAB color string&lt;/returns&gt;
+        string ToOkLabStringDecimal();
+    }
+}
+
+namespace Aspose.Html.Converters
+{
+    /// &lt;summary&gt;
+    ///The ColorConverter class parses colors (RGB, HEX, HSL, HWB, CMYK, NCOL, LCH, OKLCH, LAB, OKLAB) from a string and returns the &lt;see cref=&#34;IConvertibleColor&#34;/&gt; interface for converting to various color spaces.
+    /// &lt;/summary&gt;
+    public static class ColorConverter
+    {
+        /// &lt;summary&gt;
+        /// Parses color from string representation and returns the &lt;see cref=&#34;IConvertibleColor&#34;/&gt; interface to convert it to various color spaces.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;color&#34;&gt;color string.&lt;/param&gt;
+        /// &lt;returns&gt;&lt;see cref=&#34;IConvertibleColor&#34;/&gt; interface.&lt;/returns&gt;
+        public static IConvertibleColor ConvertFrom(string color)
+    }
+}
+
+namespace Aspose.Html
+{
+    /// &lt;summary&gt;
+    /// The anchor element. See the A element definition in HTML 4.01.
+    /// &lt;para&gt;See also the &lt;a href=&#39;http://www.w3.org/TR/2003/REC-DOM-Level-2-HTML-20030109&#39;&gt;Document object Model (DOM) Level 2 HTML Specification&lt;/a&gt;.
+    /// &lt;/para&gt;
+    /// &lt;/summary&gt;
+    public class HTMLAnchorElement : HTMLElement
+    {
+        /// &lt;summary&gt;
+        /// Returns a live DOMTokenList which contains tokens received from parsing the &#34;rel&#34; attribute.
+        /// &lt;/summary&gt;
+        public DOMTokenList RelList { get; }
+
+        /// &lt;summary&gt;
+        /// Gets a string representation of the origin segment of the associated URL.
+        /// &lt;/summary&gt;
+        public string Origin { get; }
+
+        /// &lt;summary&gt;
+        /// Gets or sets a string representation of the scheme segment of the associated URL.
+        /// &lt;/summary&gt;
+        public string Protocol { get; set; }
+
+         /// &lt;summary&gt;
+        /// Gets or sets a string representation of the username segment of the associated URL.
+        /// &lt;/summary&gt;
+        public string Username { get; set; }
+
+         /// &lt;summary&gt;
+        /// Gets or sets a string representation of the password segment of the associated URL.
+        /// &lt;/summary&gt;
+        public string Password { get; set; }
+
+         /// &lt;summary&gt;
+        /// Gets or sets a string representation of the host and port segments of the associated URL.
+        /// &lt;/summary&gt;
+        public string Host { get; set; }
+
+          /// &lt;summary&gt;
+        /// Gets or sets a string representation of the host segment of the associated URL.
+        /// &lt;/summary&gt;
+        public string Hostname { get; set; }
+
+         /// &lt;summary&gt;
+        /// Gets or sets a string representation of the port segment of the associated URL.
+        /// &lt;/summary&gt;
+        public string Port { get; set; }
+
+         /// &lt;summary&gt;
+        /// Gets or sets a string representation of the path segment of the associated URL.
+        /// &lt;/summary&gt;
+        public string Pathname { get; set; }
+
+           /// &lt;summary&gt;
+        /// Gets or sets a string representation of the search segment of the associated URL.
+        /// &lt;/summary&gt;
+        public string Search { get; set; }
+
+           /// &lt;summary&gt;
+        /// Gets or sets a string representation of the hash segment of the associated URL.
+        /// &lt;/summary&gt;
+        public string Hash { get; set; }
+
+        /// &lt;summary&gt;
+        /// Releases unmanaged and - optionally - managed resources.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;disposing&#34;&gt;&lt;c&gt;true&lt;/c&gt; to release both managed and unmanaged resources; &lt;c&gt;false&lt;/c&gt; to release only unmanaged resources.&lt;/param&gt;
+        protected override void Dispose(bool disposing)
+
+    }
+
+    /// &lt;summary&gt;
+    /// Client-side image map area definition. See the AREA element definition in
+    /// HTML 4.01.
+    /// &lt;para&gt;See also the &lt;a href=&#39;http://www.w3.org/TR/2003/REC-DOM-Level-2-HTML-20030109&#39;&gt;Document object Model (DOM) Level 2 HTML Specification&lt;/a&gt;.
+    /// &lt;/para&gt;
+    /// &lt;/summary&gt;
+    public class HTMLAreaElement : HTMLElement
+    {
+        /// &lt;summary&gt;
+        /// Returns a live DOMTokenList which contains tokens received from parsing the &#34;rel&#34; attribute.
+        /// &lt;/summary&gt;
+        public DOMTokenList RelList { get; }
+    }
+
+    /// &lt;summary&gt;
+    /// The &lt;c&gt;LINK&lt;/c&gt; element specifies a link to an external resource, and
+    /// defines this document&#39;s relationship to that resource (or vice versa).
+    /// See the LINK element definition in HTML 4.01 (see also the
+    /// &lt;c&gt;LinkStyle&lt;/c&gt; interface in the StyleSheet module [&lt;a href=&#39;http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113&#39;&gt;DOM Level 2 Style Sheets and CSS&lt;/a&gt;]).
+    /// &lt;para&gt;See also the &lt;a href=&#39;http://www.w3.org/TR/2003/REC-DOM-Level-2-HTML-20030109&#39;&gt;Document object Model (DOM) Level 2 HTML Specification&lt;/a&gt;.
+    /// &lt;/para&gt;
+    /// &lt;/summary&gt;
+    public class HTMLLinkElement : HTMLElement, ILinkStyle
+    {
+        /// &lt;summary&gt;
+        /// Returns a live DOMTokenList which contains tokens received from parsing the &#34;rel&#34; attribute.
+        /// &lt;/summary&gt;
+        public DOMTokenList RelList { get; }
+    }
+}
+</code></pre></p></div></div></div></div><hr></div></div></section></div></div></div></div></div></div><div id=dvHidden style=display:none></div><div id=footer></div><a class=backtop>&nbsp;</a><div id=DynabicMenuFooter></div><script type=text/javascript>const langarray=[]</script><script type=text/javascript>jQuery(document).ready(function(){let e=$(".nested").hide(),t=$(".treeview-animated-element");$(".treeview-animated-items-header").hover(function(){$(this).children.toggleClass("Mydiv")}),$(".treeview-animated-items-header").click(function(){return console.log("mala"),$this=$(this),console.log($this.attr("id")),$target=$this.siblings(".nested"),$pointerPlus=$this.children(".fa-plus"),$pointerMinus=$this.children(".fa-minus"),$pointerPlus.removeClass("fa-plus"),$pointerPlus.addClass("fa-minus"),$pointerMinus.removeClass("fa-minus"),$pointerMinus.addClass("fa-plus"),$this.toggleClass("open"),$target.hasClass("active")?$target.removeClass("active").slideUp():$target.addClass("active").slideDown(),!1})})</script><script>(function(e,s,o,a,t,n,i){e.ContainerizeMenuObject=t,e[t]=e[t]||function(){(e[t].q=e[t].q||[]).push(arguments)},e[t].l=1*new Date,n=s.createElement(o),i=s.getElementsByTagName(o)[0],n.async=1,n.src=a,i.parentNode.append(n)})(window,document,"script","https://menu.containerize.com/scripts/engine.min.js?v=1.0.1","aspose-en")</script><script src=https://releases-qa.aspose.com/res_repo/js/highlight.min.js></script>
+<script src=https://releases-qa.aspose.com/res_repo/js/bootstrap.min.js></script>
+<script src=/js/bundle.min.js></script>
+<script src=/js/dynabic.treeview.js></script>
+<script src=/js/treeviewmanager.js></script>
+<script>hljs.highlightAll()</script><link rel=stylesheet type=text/css href=https://releases-qa.aspose.com/res_repo/css/hugocustom.css><script>$(".btn-showside .mb-5").on("click",function(){$("main .flex .dn.db-l").toggleClass("showsidebar"),$("main .flex .w-100").toggleClass("noscroll")}),$(".btn-showmenu").on("click",function(){$("nav.bg-primary-color-dark").toggleClass("showmenu")}),$(".btn-plain").on("click",function(){$("main .flex .dn.db-l").removeClass("showsidebar"),$("main .flex .dn.db-l").removeClass("showsidebar"),$("nav.bg-primary-color-dark").removeClass("showmenu")}),$(".ss-bar ul li a[data-target]").on("click",function(){$(this).find(".i.fa-angle-down").hasClass("fa-angle-up")?$(this).find("i.fa-angle-down").removeClass("fa-angle-up"):$(this).find("i.fa-angle-down").toggleClass("fa-angle-up")}),$(".btn-showside").on("click",function(){$(".ss-bar").toggleClass("showsidebar")}),$(".btn-plain").on("click",function(){$(".ss-bar").removeClass("showsidebar")})</script><script>$(document).ready(function(){$("div pre").removeAttr("style");var e,t=$(location).attr("hash");"#package-explorer"==t&&(e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]'),e&&e.click()),$('a:has(img[alt="banner"]').click(function(){event.preventDefault();var e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]');e&&e.click()}),$(window).scroll(function(){$(this).scrollTop()>150?$(".backtop").fadeIn():$(".backtop").fadeOut()}),$(".backtop").click(function(){return $("html, body").animate({scrollTop:0},600),!1}),$(".linkshow").on("click",function(){$(this).find("i").toggleClass("fa-minus-square"),$(".linkshowbox").toggleClass("hide")}),document.querySelector("body").addEventListener("click",function(t){if(t.target.classList.contains("searchButton")){$(".ss-bar").removeClass("showsidebar");try{var e=$("input[name=q]").val();gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}if(t.target.classList.contains("fa-search")){$(".ss-bar").removeClass("showsidebar");try{e=$("input[name=q]").val(),gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}},!0)})</script><script>document.querySelectorAll("pre > code").forEach(t=>{const n=t.parentNode.parentNode,e=document.createElement("button");e.classList.add("copy-code"),e.innerHTML="copy";function s(){e.innerHTML="copied!",setTimeout(()=>{e.innerHTML="copy"},2e3)}e.addEventListener("click",o=>{if("clipboard"in navigator){navigator.clipboard.writeText(t.textContent),s();return}const e=document.createRange();e.selectNodeContents(t);const n=window.getSelection();n.removeAllRanges(),n.addRange(e);try{document.execCommand("copy"),s()}catch(e){}n.removeRange(e)}),n.classList.contains("highlight")?n.appendChild(e):n.parentNode.firstChild==n||(t.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName=="TABLE"?t.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(e):t.parentNode.appendChild(e))})</script></body></html>

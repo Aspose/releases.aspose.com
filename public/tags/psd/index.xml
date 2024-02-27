@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PSD on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/psd/</link><description>Recent content in PSD on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 29 Aug 2023 13:40:09 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/tags/psd/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---New-Releases--aspose.cad-for-jasperreports-20.12 .</title><link>https://releases-qa.aspose.com/cad/jasperreports/new-releases/-aspose.cad-for-jasperreports-20.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cad/jasperreports/new-releases/-aspose.cad-for-jasperreports-20.12/</guid><description>&amp;nbsp;
+Aspose.CAD for JasperReports 20.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+6
+File Size:
+32.0 MB
+Posted By:
+Denis.Demenko
+Views:
+17
+Date Added:
+9/16/2021
+Release Noteshttps://releases.aspose.com/cad/jasperreports/release-notes/2020/aspose-cad-for-jasperreports-20-12-release-notes/DescriptionIt contains Aspose.CAD for JasperReports 20.12 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3762fc1d906c46ada22aa4cbb8855b82&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Aspose.Imaging | Process &amp; Convert Images via Java Library</title><link>https://releases-qa.aspose.com/imaging/java/</link><pubDate>Thu, 01 Feb 2024 09:49:26 +0000</pubDate><guid>https://releases-qa.aspose.com/imaging/java/</guid><description>Java API for Image Processing
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+It is a standalone Imaging API consisting of Java routines that enable your Java applications to draw as well as perform basic to advanced level processing of raster &amp;amp; vector images.
+Aspose.Imaging for Java offers robust image compression and high processing speed through native byte access and a range of efficient algorithms.</description></item><item><title>Aspose.PSD</title><link>https://releases-qa.aspose.com/psd/java/</link><pubDate>Mon, 22 Jan 2024 15:58:48 +0000</pubDate><guid>https://releases-qa.aspose.com/psd/java/</guid><description>Java Library for Photoshop Files
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.PSD for Java is an easy to use Adobe Photoshop file format manipulation API. It can easily load and read PSD, PSB &amp;amp; AI files, making it possible for the Java developers to perform operations like updating layer properties, adding watermarks, compression, rotation, scaling or rendering one file format to another without needing to install Adobe Photoshop.</description></item><item><title> Aspose - Downloads</title><link>https://releases-qa.aspose.com/cad/jasperreports/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cad/jasperreports/</guid><description>Support Forum
+Download Aspose.CAD to Render CAD drawings within JasperReports® A standalone class library to extend JasperReports functionality to process &amp; render CAD Drawings without requiring AutoCAD or any other CAD software. The CAD Class Library allows high quality conversion of DWG, DWT, DWF, DWFX, IFC, PLT, DGN, OBJ, STL, IGES, CF2 files, layouts and layers to PDF &amp; raster image formats.
+You can easily use aspose-cad-jasperreports for Java directly from a Maven based project by adding following configurations to the pom.</description></item><item><title>Downloads ---New Releases-aspose.psd-for-.net-23.8-(dlls-only)</title><link>https://releases-qa.aspose.com/psd/net/new-releases/aspose.psd-for-.net-23.8-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/psd/net/new-releases/aspose.psd-for-.net-23.8-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PSD for .NET 23.8 (Dlls only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+24.71MB
+Date Added:
+1/9/2023
+Release Notesdocs.aspose.com/psd/net/aspose-psd-for-net-23-8-release-notes/
+DescriptionIt contains Aspose.PSD for .NET 23.8 (Dlls only) release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=32b9429da0da56a783d8de98db2651c3-5-9440&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.psd-for-.net-23.8</title><link>https://releases-qa.aspose.com/psd/net/new-releases/aspose.psd-for-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/psd/net/new-releases/aspose.psd-for-.net-23.8/</guid><description>&amp;nbsp;
+Aspose.PSD for .NET 23.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.16MB
+Date Added:
+1/9/2023
+Release Noteshttps://docs.aspose.com/psd/net/aspose-psd-for-net-23-8-release-notes/
+DescriptionIt contains Aspose.PSD for .NET 23.8 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0a7e71c689a6104759fe573b1aa006b7-6-9441&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.psd-for-.net-23.9-(dlls-only)</title><link>https://releases-qa.aspose.com/psd/net/new-releases/aspose.psd-for-.net-23.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/psd/net/new-releases/aspose.psd-for-.net-23.9-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PSD for .NET 23.9 (Dlls only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+29.49MB
+Date Added:
+5/10/2023
+Release Noteshttps://docs.aspose.com/psd/net/aspose-psd-for-net-23-9-release-notes/
+DescriptionIt contains Aspose.PSD for .NET 23.9 (Dlls only) release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2f69e47b81ab045fbfdafc138f3c82b1-6-9573&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---Release-notes-aspose.psd-for-.net-23.9</title><link>https://releases-qa.aspose.com/psd/net/release-notes/aspose.psd-for-.net-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/psd/net/release-notes/aspose.psd-for-.net-23.9/</guid><description>&amp;nbsp;
+Aspose.PSD for .NET 23.9 (0)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+39
+File Size:
+30.87MB
+Date Added:
+5/10/2023
+Release Noteshttps://docs.aspose.com/psd/net/aspose-psd-for-net-23-9-release-notes/
+DescriptionIt contains Aspose.PSD for .NET 23.9 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c55674df9e44b53ca73b0aa83d1d0825-7-9574&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.psd-for-.net-23.9</title><link>https://releases-qa.aspose.com/psd/net/new-releases/aspose.psd-for-.net-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/psd/net/new-releases/aspose.psd-for-.net-23.9/</guid><description>&amp;nbsp;
+Aspose.PSD for .NET 23.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+30.87MB
+Date Added:
+10/10/2023
+Release Noteshttps://docs.aspose.com/psd/net/aspose-psd-for-net-23-9-release-notes/
+DescriptionIt contains Aspose.PSD for .NET 23.9 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c55674df9e44b53ca73b0aa83d1d0825-7-9583&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.psd-for-.net-23.10-(dlls-only)</title><link>https://releases-qa.aspose.com/psd/net/new-releases/aspose.psd-for-.net-23.10-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/psd/net/new-releases/aspose.psd-for-.net-23.10-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PSD for .NET 23.10 (Dlls only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+29.58MB
+Date Added:
+13/11/2023
+Release Noteshttps://docs.aspose.com/psd/net/aspose-psd-for-net-23-10-release-notes/
+DescriptionIt contains Aspose.PSD for .NET 23.10 (Dlls only) release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f3185f2f829e733e17dc8bdf006c3eb9-6-9723&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.psd-for-.net-23.10</title><link>https://releases-qa.aspose.com/psd/net/new-releases/aspose.psd-for-.net-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/psd/net/new-releases/aspose.psd-for-.net-23.10/</guid><description>&amp;nbsp;
+Aspose.PSD for .NET 23.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+30.97MB
+Date Added:
+13/11/2023
+Release Noteshttps://docs.aspose.com/psd/net/aspose-psd-for-net-23-10-release-notes/
+DescriptionIt contains Aspose.PSD for .NET 23.10 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bb36f6d470013925a90c2f18a49a9116-7-9724&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.psd-for-.net-23.11-(dlls-only)</title><link>https://releases-qa.aspose.com/psd/net/new-releases/aspose.psd-for-.net-23.11-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/psd/net/new-releases/aspose.psd-for-.net-23.11-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PSD for .NET 23.11 (Dlls only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+29.68MB
+Date Added:
+30/11/2023
+Release Noteshttps://docs.aspose.com/psd/net/aspose-psd-for-net-23-11-release-notes/
+DescriptionIt contains Aspose.PSD for .NET 23.11 (Dlls only) release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=131dc98d8f4543b23c5b0212f1a6cf03-6-9904&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.psd-for-.net-23.11</title><link>https://releases-qa.aspose.com/psd/net/new-releases/aspose.psd-for-.net-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/psd/net/new-releases/aspose.psd-for-.net-23.11/</guid><description>&amp;nbsp;
+Aspose.PSD for .NET 23.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+31.05MB
+Date Added:
+30/11/2023
+Release Noteshttps://docs.aspose.com/psd/net/aspose-psd-for-net-23-11-release-notes/
+DescriptionIt contains Aspose.PSD for .NET 23.11 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=92d288c953990c11d0d52ad36fda8854-7-9905&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.psd-for-.net-23.12</title><link>https://releases-qa.aspose.com/psd/net/new-releases/aspose.psd-for-.net-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/psd/net/new-releases/aspose.psd-for-.net-23.12/</guid><description>&amp;nbsp;
+Aspose.PSD for .NET 23.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+31.32MB
+Date Added:
+28/12/2023
+Release Noteshttps://docs.aspose.com/psd/net/aspose-psd-for-net-23-12-release-notes/
+DescriptionIt contains Aspose.PSD for .NET 23.12 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=506744fd2c0c91f29f019a22e95e34a4-7-10078&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.psd-for-.net-23.12-(dlls-only)</title><link>https://releases-qa.aspose.com/psd/net/new-releases/aspose.psd-for-.net-23.12-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/psd/net/new-releases/aspose.psd-for-.net-23.12-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PSD for .NET 23.12 (Dlls only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+29.04MB
+Date Added:
+28/12/2023
+Release Noteshttps://docs.aspose.com/psd/net/aspose-psd-for-net-23-12-release-notes/
+DescriptionIt contains Aspose.PSD for .NET 23.12 (Dlls only) release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=17266edda839872131b95d493831d152-6-10081&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.psd-for-.net-24.1-(dlls-only)</title><link>https://releases-qa.aspose.com/psd/net/new-releases/aspose.psd-for-.net-24.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/psd/net/new-releases/aspose.psd-for-.net-24.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PSD for .NET 24.1 (Dlls only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+29.95MB
+Date Added:
+5/2/2024
+Release Noteshttps://docs.aspose.com/psd/net/aspose-psd-for-net-24-1-release-notes/
+DescriptionIt contains Aspose.PSD for .NET 24.1 (Dlls only) release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c076225b2e09d8615cf1b9fc925f3543-6-10294&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.psd-for-.net-24.1</title><link>https://releases-qa.aspose.com/psd/net/new-releases/aspose.psd-for-.net-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/psd/net/new-releases/aspose.psd-for-.net-24.1/</guid><description>&amp;nbsp;
+Aspose.PSD for .NET 24.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+31.34MB
+Date Added:
+5/2/2024
+Release Noteshttps://docs.aspose.com/psd/net/aspose-psd-for-net-24-1-release-notes/
+DescriptionIt contains Aspose.PSD for .NET 24.1 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d471d3634ce361b90d3994cb03aa42d2-7-10295&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Aspose.Imaging 23.8 | Image Processing Java High Code API</title><link>https://releases-qa.aspose.com/imaging/java/23-8/</link><pubDate>Tue, 29 Aug 2023 13:40:09 +0000</pubDate><guid>https://releases-qa.aspose.com/imaging/java/23-8/</guid><description>Java API for Image Processing
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+It is a standalone Imaging API consisting of Java routines that enable your Java applications to draw as well as perform basic to advanced level processing of raster &amp;amp; vector images.
+Aspose.Imaging for Java offers robust image compression and high processing speed through native byte access and a range of efficient algorithms.</description></item><item><title>Aspose.PSD 23.4 | Photoshop Format Manipulation Java API</title><link>https://releases-qa.aspose.com/psd/java/23-4/</link><pubDate>Fri, 30 Jun 2023 18:40:10 +0000</pubDate><guid>https://releases-qa.aspose.com/psd/java/23-4/</guid><description>Java Library for Photoshop Files
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.PSD for Java is an easy to use Adobe Photoshop file format manipulation API. It can easily load and read PSD, PSB &amp;amp; AI files, making it possible for the Java developers to perform operations like updating layer properties, adding watermarks, compression, rotation, scaling or rendering one file format to another without needing to install Adobe Photoshop.</description></item></channel></rss>

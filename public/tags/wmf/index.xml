@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WMF on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/wmf/</link><description>Recent content in WMF on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 29 Aug 2023 13:40:09 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/tags/wmf/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---New-Releases--aspose.cad-for-jasperreports-20.12 .</title><link>https://releases-qa.aspose.com/cad/jasperreports/new-releases/-aspose.cad-for-jasperreports-20.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cad/jasperreports/new-releases/-aspose.cad-for-jasperreports-20.12/</guid><description>&amp;nbsp;
+Aspose.CAD for JasperReports 20.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+6
+File Size:
+32.0 MB
+Posted By:
+Denis.Demenko
+Views:
+17
+Date Added:
+9/16/2021
+Release Noteshttps://releases.aspose.com/cad/jasperreports/release-notes/2020/aspose-cad-for-jasperreports-20-12-release-notes/DescriptionIt contains Aspose.CAD for JasperReports 20.12 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3762fc1d906c46ada22aa4cbb8855b82&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Aspose.Imaging | Process &amp; Convert Images via Java Library</title><link>https://releases-qa.aspose.com/imaging/java/</link><pubDate>Thu, 01 Feb 2024 09:49:26 +0000</pubDate><guid>https://releases-qa.aspose.com/imaging/java/</guid><description>Java API for Image Processing
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+It is a standalone Imaging API consisting of Java routines that enable your Java applications to draw as well as perform basic to advanced level processing of raster &amp;amp; vector images.
+Aspose.Imaging for Java offers robust image compression and high processing speed through native byte access and a range of efficient algorithms.</description></item><item><title>Aspose.Drawing | Draw 2D graphics and text via Java Library</title><link>https://releases-qa.aspose.com/drawing/java/</link><pubDate>Thu, 25 Jan 2024 15:11:04 +0000</pubDate><guid>https://releases-qa.aspose.com/drawing/java/</guid><description>Java API for 2D graphics drawing
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.Drawing for Java is an advanced Java 2D graphics drawing API that enables you to render vector graphics (such as lines, curves, and figures) and text (in a variety of fonts, sizes, and styles) onto raster images represented by an array of pixels in memory.</description></item><item><title> Aspose - Downloads</title><link>https://releases-qa.aspose.com/cad/jasperreports/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cad/jasperreports/</guid><description>Support Forum
+Download Aspose.CAD to Render CAD drawings within JasperReports® A standalone class library to extend JasperReports functionality to process &amp; render CAD Drawings without requiring AutoCAD or any other CAD software. The CAD Class Library allows high quality conversion of DWG, DWT, DWF, DWFX, IFC, PLT, DGN, OBJ, STL, IGES, CF2 files, layouts and layers to PDF &amp; raster image formats.
+You can easily use aspose-cad-jasperreports for Java directly from a Maven based project by adding following configurations to the pom.</description></item><item><title>Aspose.Imaging 23.8 | Image Processing Java High Code API</title><link>https://releases-qa.aspose.com/imaging/java/23-8/</link><pubDate>Tue, 29 Aug 2023 13:40:09 +0000</pubDate><guid>https://releases-qa.aspose.com/imaging/java/23-8/</guid><description>Java API for Image Processing
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+It is a standalone Imaging API consisting of Java routines that enable your Java applications to draw as well as perform basic to advanced level processing of raster &amp;amp; vector images.
+Aspose.Imaging for Java offers robust image compression and high processing speed through native byte access and a range of efficient algorithms.</description></item></channel></rss>

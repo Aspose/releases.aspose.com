@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Barcode, Node.js,Java on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/tags/barcode-node.jsjava/</link><description>Recent content in Barcode, Node.js,Java on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/tags/barcode-node.jsjava/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads --- New Releases-ASSOSPLE.BARCODE-FOR-NODE.JS-VIA-JAVA-23.8</title><link>https://releases-qa.aspose.com/de/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-23.8/</guid><description>&amp;nbsp;
+ASSON.BARCODE FÜR NODE.JS über Java 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+13.57MB
+Datum hinzugefügt:
+29/8/2023
+Versionshinweisehttps://releases.aspose.com/barcode/nodejs/release-notes/2023/aspose-barcode-for-node-js-via-java-23-8-release-notes/
+BeschreibungASSON.BARCODE FÜR NODE.JS über Java 23.8 wurde veröffentlicht
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8bd2d5be7e81635a7f8463c565e83c9e-3-9395&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.BARCODE-FOR-NODE.JS-VIA-JAVA-23.9</title><link>https://releases-qa.aspose.com/de/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-23.9/</guid><description>&amp;nbsp;
+ASSON.BARCODE FÜR NODE.JS über Java 23.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+13.91MB
+Datum hinzugefügt:
+21/9/2023
+Versionshinweisehttps://releases.aspose.com/barcode/nodejs/release-notes/2023/aspose-barcode-for-node-js-via-java-23-9-release-notes/
+BeschreibungASSON.BARCODE FÜR NODE.JS über Java 23.9 wurde veröffentlicht
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=45893457e4c52c16262db5c72472f1c1-3-9508&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.BARCODE-FOR-NODE.JS-VIA-JAVA-23.10</title><link>https://releases-qa.aspose.com/de/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-23.10/</guid><description>&amp;nbsp;
+ASSON.BARCODE FÜR NODE.JS über Java 23.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+13.9MB
+Datum hinzugefügt:
+28/10/2023
+Versionshinweisehttps://releases.aspose.com/barcode/nodejs/release-notes/2023/aspose-barcode-for-node-js-via-java-23-10-release-notes/
+BeschreibungASSON.BARCODE FÜR NODE.JS über Java 23.10 wurde veröffentlicht
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e6dc1e9647634560cad2b0ed9504ffdb-3-9682&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.BARCODE-FOR-NODE.JS-VIA-JAVA-23.11</title><link>https://releases-qa.aspose.com/de/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-23.11/</guid><description>&amp;nbsp;
+ASSON.BARCODE FÜR NODE.JS über Java 23.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+13.91MB
+Datum hinzugefügt:
+27/11/2023
+Versionshinweisehttps://releases.aspose.com/barcode/nodejs/release-notes/2023/aspose-barcode-for-node-js-via-java-23-11-release-notes/
+BeschreibungASSON.BARCODE FÜR NODE.JS über Java 23.11 wurde veröffentlicht
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3c6275b9a6cf109c5cf00d90d57bb97f-3-9872&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.BARCODE-FOR-NODE.JS-VIA-JAVA-23.12</title><link>https://releases-qa.aspose.com/de/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-23.12/</guid><description>&amp;nbsp;
+ASSON.BARCODE FÜR NODE.JS über Java 23.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+13.92MB
+Datum hinzugefügt:
+22/12/2023
+Versionshinweisehttps://releases.aspose.com/barcode/nodejs/release-notes/2023/aspose-barcode-for-node-js-via-java-23-12-release-notes/
+BeschreibungASSON.BARCODE für node.js über Java 23.12 wurde veröffentlicht
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d91b3fc8c30d884983a9b2fe72112213-3-10042&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.BARCODE-FOR-NODE.JS-VIA-JAVA-24.1</title><link>https://releases-qa.aspose.com/de/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-24.1/</guid><description>&amp;nbsp;
+ASSON.BARCODE FÜR NODE.JS über Java 24.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+13.93MB
+Datum hinzugefügt:
+30/1/2024
+Versionshinweisehttps://releases.aspose.com/barcode/nodejs/release-notes/2024/aspose-barcode-for-node-js-via-java-24-1-release-notes/
+BeschreibungASSON.BARCODE FÜR NODE.JS über Java 24.1 wurde veröffentlicht
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7c019d8507f134aa5fe7cd57dfb71847-3-10245&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

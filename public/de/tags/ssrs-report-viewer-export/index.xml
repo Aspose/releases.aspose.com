@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ssrs report viewer export on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/tags/ssrs-report-viewer-export/</link><description>Recent content in ssrs report viewer export on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/tags/ssrs-report-viewer-export/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads ---Neue Versionen-aspose.words-for-reporting-services-22.8-(msi)</title><link>https://releases-qa.aspose.com/de/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.8-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.8-msi/</guid><description>&amp;nbsp;
+Aspose.Words für Reporting Services 22.8 (Msi)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+67.47MB
+Hinzugefügt am:
+4/8/2022
+Versionshinweise https://releases.aspose.com/words/reportingservices/release-notes/2022/aspose-words-for-reporting-services-22-8-release-notes/
+BeschreibungAktualisieren Sie auf die neueste Version von Aspose.Words for Net (22.8). Fehlerbehebung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3c4e24832f515c59b6c7852ccae369c5-14-7736&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---Neue Versionen-aspose.words-for-reporting-services-22.8-(zip)</title><link>https://releases-qa.aspose.com/de/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.8-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.8-zip/</guid><description>&amp;nbsp;
+Aspose.Words für Reporting Services 22.8 (Zip)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+66.36MB
+Hinzugefügt am:
+4/8/2022
+Versionshinweise https://releases.aspose.com/words/reportingservices/release-notes/2022/aspose-words-for-reporting-services-22-8-release-notes/
+BeschreibungAktualisieren Sie auf die neueste Version von Aspose.Words for Net (22.8). Fehlerbehebung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=48ff0dca01092dcbdc114c50b8451f7d-14-7737&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSPOSPEN.Words-For-Reporting-Services-22.11- (MSI)</title><link>https://releases-qa.aspose.com/de/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.11-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.11-msi/</guid><description>&amp;nbsp;
+ASSOSE.Words für Berichtsdienste 22.11 (MSI)
+Downloaden&amp;nbsp;
+Downloaden&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+68.08MB
+Datum hinzugefügt:
+3/11/2022
+Versionshinweisehttps://releases.aspose.com/words/reportingservices/release-notes/2022/aspose-words-for-reporting-services-22-11-release-notes/
+BeschreibungUpgrade auf die neueste Version von ASSOSE.WORDS FÜR NET (22.11). Fehlerbehebung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e9a6d61fbe319559b38f9c918638279f-14-8099&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Words-For-Reporting-Services-22.11- (ZIP)</title><link>https://releases-qa.aspose.com/de/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.11-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/reportingservices/new-releases/aspose.words-for-reporting-services-22.11-zip/</guid><description>&amp;nbsp;
+ASSOSE.Words für Berichtsdienste 22.11 (ZIP)
+Downloaden&amp;nbsp;
+Downloaden&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+68.36MB
+Datum hinzugefügt:
+3/11/2022
+Versionshinweisehttps://releases.aspose.com/words/reportingservices/release-notes/2022/aspose-words-for-reporting-services-22-11-release-notes/
+BeschreibungUpgrade auf die neueste Version von ASSOSE.WORDS FÜR NET (22.11). Fehlerbehebung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=09233e144a0508c8b7a80431451617b7-14-8100&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Words-For-Reporting-Services-23.2- (MSI)</title><link>https://releases-qa.aspose.com/de/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.2-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.2-msi/</guid><description>&amp;nbsp;
+ASSOSE.Words für Berichtsdienste 23.2 (MSI)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+62.62MB
+Datum hinzugefügt:
+8/2/2023
+Versionshinweisehttps://releases.aspose.com/words/reportingservices/release-notes/2023/aspose-words-for-reporting-services-23-2-release-notes/
+BeschreibungUpgrade auf die neueste Version von ASSOSE.WORDS FÜR NET (23.2). Fehlerbehebung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=768af41b00d621d5cf55634422cfe74e-13-8500&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSPLE.Words-For-Reporting-Services-23.2- (ZIP)</title><link>https://releases-qa.aspose.com/de/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.2-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.2-zip/</guid><description>&amp;nbsp;
+ASSOSE.Words für die Berichterstattung 23.2 (ZIP)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+61.54MB
+Datum hinzugefügt:
+8/2/2023
+Versionshinweisehttps://releases.aspose.com/words/reportingservices/release-notes/2023/aspose-words-for-reporting-services-23-2-release-notes/
+BeschreibungUpgrade auf die neueste Version von ASSOSE.WORDS FÜR NET (23.2). Fehlerbehebung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1c2b337f0254361b88784ede51c36559-13-8501&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Words-For-Reporting-Services-23.5- (MSI)</title><link>https://releases-qa.aspose.com/de/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.5-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.5-msi/</guid><description>&amp;nbsp;
+ASSOSE.WORDS FÜR MELDUNGSDIENSTLEISTUNGEN 23.5 (MSI)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+63.45MB
+Datum hinzugefügt:
+15/5/2023
+Versionshinweisehttps://releases.aspose.com/words/reportingservices/release-notes/2023/aspose-words-for-reporting-services-23-5-release-notes/
+BeschreibungUpgrade auf die neueste Version von ASSOSE.WORDS FÜR NET (23,5). Fehlerbehebung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6dcec2a1586a8ff981dcfd262dc89939-13-8858&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Words-For-Reporting-Services-23.5- (ZIP)</title><link>https://releases-qa.aspose.com/de/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.5-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.5-zip/</guid><description>&amp;nbsp;
+ASSOSE.WORDS FÜR MELDUNGSDIENSTLEISTUNGEN 23.5 (ZIP)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+62.37MB
+Datum hinzugefügt:
+15/5/2023
+Versionshinweisehttps://releases.aspose.com/words/reportingservices/release-notes/2023/aspose-words-for-reporting-services-23-5-release-notes/
+BeschreibungUpgrade auf die neueste Version von ASSOSE.WORDS FÜR NET (23,5). Fehlerbehebung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0383da3f6994d81df1788e4f742b9b3a-13-8859&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Words-For-Reporting-Services-23.9- (MSI)</title><link>https://releases-qa.aspose.com/de/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.9-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.9-msi/</guid><description>&amp;nbsp;
+ASSOSE.WORDS FÜR MELDUNGSDIENSTLEISTUNGEN 23.9 (MSI)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+67.25MB
+Datum hinzugefügt:
+18/9/2023
+Versionshinweisehttps://releases.aspose.com/words/reportingservices/release-notes/2023/aspose-words-for-reporting-services-23-9-release-notes/
+BeschreibungUpgrade auf die neueste Version von ASSOSE.WORDS FÜR NET (23.9). Unterstützung für SSRs 2022 hinzugefügt.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bba2df57bb23f6755fb3803c03e5ce61-14-9484&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Words-For-Reporting-Services-23.9- (ZIP)</title><link>https://releases-qa.aspose.com/de/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.9-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.9-zip/</guid><description>&amp;nbsp;
+ASSOSE.WORDS FÜR MELDUNGSDIENSTLEISTUNGEN 23.9 (ZIP)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+86.05MB
+Datum hinzugefügt:
+18/9/2023
+Versionshinweisehttps://releases.aspose.com/words/reportingservices/release-notes/2023/aspose-words-for-reporting-services-23-9-release-notes/
+BeschreibungUpgrade auf die neueste Version von ASSOSE.WORDS FÜR NET (23.9). Unterstützung für SSRs 2022 hinzugefügt.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7642e002ea91ace2fdd02c75725c77ba-18-9485&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Words-For-Reporting-Services-23.11- (MSI)</title><link>https://releases-qa.aspose.com/de/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.11-msi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.11-msi/</guid><description>&amp;nbsp;
+ASSOSE.WORDS FÜR MELDUNGSDIENSTLEISTUNGEN 23.11 (MSI)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+67.24MB
+Datum hinzugefügt:
+7/11/2023
+Versionshinweisehttps://releases.aspose.com/words/reportingservices/release-notes/2023/aspose-words-for-reporting-services-23-11-release-notes/
+BeschreibungUpgrade auf die neueste Version von ASSOSE.WORDS FÜR NET (23.11). Fehlerbehebung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=578d2bf5a4a14920234de4d5ae41a32b-14-9710&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Words-For-Reporting-Services-23.11- (ZIP)</title><link>https://releases-qa.aspose.com/de/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.11-zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/reportingservices/new-releases/aspose.words-for-reporting-services-23.11-zip/</guid><description>&amp;nbsp;
+ASSOSE.WORDS FÜR MELDUNGSDIENSTLEISTUNGEN 23.11 (ZIP)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+86.03MB
+Datum hinzugefügt:
+7/11/2023
+Versionshinweisehttps://releases.aspose.com/words/reportingservices/release-notes/2023/aspose-words-for-reporting-services-23-11-release-notes/
+BeschreibungUpgrade auf die neueste Version von ASSOSE.WORDS FÜR NET (23.11). Fehlerbehebung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e675ceecd8835e421f95744b40aaafb6-18-9711&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

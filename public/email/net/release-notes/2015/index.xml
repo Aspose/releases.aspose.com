@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Release Notes - 2015 on Releases - aspose.com</title><link>https://releases-qa.aspose.com/email/net/release-notes/2015/</link><description>Recent content in Release Notes - 2015 on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/email/net/release-notes/2015/index.xml" rel="self" type="application/rss+xml"/><item><title>Aspose.Email for .NET 6.0.0 Release Notes</title><link>https://releases-qa.aspose.com/email/net/release-notes/2015/aspose-email-for-net-6-0-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/net/release-notes/2015/aspose-email-for-net-6-0-0-release-notes/</guid><description>The following is a list of improvements and changes in this release of Aspose.Email.
+Features
+Creation the forwarding and replying messages
+Support for creation and formatting the reply/forward type messages was added.
+Resolving distribution list using Exchange
+This feature provides the distribution list handling using EWS client.
+Enhancements EMAILNET-35009 -Memory problems during MailMessage.Load
+EMAILNET-35043 - Get
+ExchangeMessageInfo from message URI
+Bugs EMAILNET-35017 -MailMessage.Load hangs the API
+EMAILNET-35019 -Wrong mapping of phone numbers while using MapiContact.</description></item><item><title>Aspose.Email for .NET 5.9.1 Release Notes</title><link>https://releases-qa.aspose.com/email/net/release-notes/2015/aspose-email-for-net-5-9-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/net/release-notes/2015/aspose-email-for-net-5-9-1-release-notes/</guid><description>The following is a list of improvements and changes in this hotfix of Aspose.Email.
+Improvements and Changes
+Enhancements EMAILNET-35026 - Move item to another folder and get the new URI
+Bugs EMAILNET-34995 - GenerateOccurences() creates wrong dates if DTSTART and BYHOUR/BYMINUTE are different in Monthly recurrence</description></item><item><title>Aspose.Email for .NET 5.9.0 Release Notes</title><link>https://releases-qa.aspose.com/email/net/release-notes/2015/aspose-email-for-net-5-9-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/net/release-notes/2015/aspose-email-for-net-5-9-0-release-notes/</guid><description>The following is a list of improvements and changes in this release of Aspose.Email.
+Improvements and Changes
+Enhancements EMAILNET-34982 - How to generate Recurrene from this Recurrence Rule
+EMAILNET-34882 - Improve support of asynchronous operations with allowance pipelining for IMAP client.
+EMAILNET-34883 - Improve support of asynchronous operations with allowance pipelining for POP3 client.
+EMAILNET-34987 - SmtpClient: Provision of Sending message to certain recepients
+EMAILNET-34993 - Add setter to MessageClass property for MapiMessage class</description></item><item><title>Aspose.Email for .NET 5.8.0 Release Notes</title><link>https://releases-qa.aspose.com/email/net/release-notes/2015/aspose-email-for-net-5-8-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/net/release-notes/2015/aspose-email-for-net-5-8-0-release-notes/</guid><description>The following is a list of improvements and changes in this release of Aspose.Email.
+Features Receive messages and folders using paging in EWS client
+This feature enables to retrieve results in multiple EWS responses
+Enhancements EMAILNET-34983Provide loading MailMessage with particular types of
+LoadOptions (mark MailMessageLoadOptions as obsolete, remove it from code) EMAILNET-34954Provision of setting GZip encoding in IEWSClient
+Bugs EMAILNET-34947Accented characters garbled while conversion from EML to Mhtml</description></item><item><title>Aspose.Email for .NET 5.7.0 Release Notes</title><link>https://releases-qa.aspose.com/email/net/release-notes/2015/aspose-email-for-net-5-7-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/net/release-notes/2015/aspose-email-for-net-5-7-0-release-notes/</guid><description>The following is a list of improvements and changes in this release of Aspose.Email.
+Features
+MailMessage from HTML creation
+MailMessage can be created from the
+HTML content
+The inline images can be handled also.
+IMAP IDLE command supporting
+This feature provides the IMAP IDLE command
+.
+Enhancements EMAILNET-34839 Callback or Trigger like option for each record being merged during mail merge operation
+EMAILNET-34930Add ability to add HttpHeaders in ews requests</description></item><item><title>Aspose.Email for .NET 5.6.0 Release Notes</title><link>https://releases-qa.aspose.com/email/net/release-notes/2015/aspose-email-for-net-5-6-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/net/release-notes/2015/aspose-email-for-net-5-6-0-release-notes/</guid><description>The following is a list of improvements and changes in this release of Aspose.Email.
+Features Support for logging in Exchange clients
+Exchange clients activity can be logged by modifying the config file.
+Enhancements EMAILNET-34832 Render calendar events from ICS to Mhtml
+EMAILNET-34854 Handle the meta-tag charset = unicode
+EMAILNET-34865 Option to retrieve Content-Description from mail attachment
+EMAILNET-34869 Set PST password similar to Outlook
+EMAILNET-34868 Set main connection by default for operations in manually created threads</description></item><item><title>Aspose.Email for .NET 5.5.0 Release Notes</title><link>https://releases-qa.aspose.com/email/net/release-notes/2015/aspose-email-for-net-5-5-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/net/release-notes/2015/aspose-email-for-net-5-5-0-release-notes/</guid><description>The following is a list of improvements and changes in this release of Aspose.Email.
+Features
+Support for pipelining mode in mail clients
+The pipelining mode indicates the mail server is capable of accepting multiple commands at a time.
+Enhancements EMAILNET-34831 Save MapiDistributionList to MSG file
+EMAILNET-34817 &amp;ldquo;Finder&amp;rdquo; Sub folder contents in the OST cannot be retrieved after Aspose.Email for .NET 1.6
+Bugs EMAILNET-34810 Exported message has MSG format violation?
+EMAILNET-34792 Contact Notes contain HTML Tags when saved to disc</description></item><item><title>Aspose.Email for .NET 5.4.0 Release Notes</title><link>https://releases-qa.aspose.com/email/net/release-notes/2015/aspose-email-for-net-5-4-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/net/release-notes/2015/aspose-email-for-net-5-4-0-release-notes/</guid><description>The following is a list of improvements and changes in this release of Aspose.Email.
+Features
+The merging and splitting PST files
+Provides the merging of two or more pst files and splitting of one pst file into several chunks of specified size
+The processing of bounced (Delivery Status Notification) messages
+Determines if a message is a delivery status notification and extracts the service information from such a message
+Enhancements EMAILNET-34757 Add asynchronous operations based on SequenceNumber to the POP3 client</description></item><item><title>Aspose.Email for .NET 5.3.0 Release Notes</title><link>https://releases-qa.aspose.com/email/net/release-notes/2015/aspose-email-for-net-5-3-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/net/release-notes/2015/aspose-email-for-net-5-3-0-release-notes/</guid><description>The following is a list of improvements and changes in this release of Aspose.Email.
+Features
+Message Disposition Notifications (MDN) support
+This feature provides the read receipts requesting and creating
+.
+Synchronizing Exchange folders
+Synchronizes the items in a specified folder to keep client&amp;rsquo;s items in sync with the items on the server.
+Enhancements EMAILNET-34721 Create Assignable Task using Aspose.Email for .NET
+EMAILNET-34756 Provide support for MapiPropertyType.PT_MV_LONG
+Bugs EMAILNET-34645 NDR from Exchange server with &amp;ldquo;content conversion error&amp;rdquo; for message with Outlook item from Drafts folder</description></item><item><title>Aspose.Email for .NET 5.2.0 Release Notes</title><link>https://releases-qa.aspose.com/email/net/release-notes/2015/aspose-email-for-net-5-2-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/net/release-notes/2015/aspose-email-for-net-5-2-0-release-notes/</guid><description>The following is a list of improvements and changes in this release of Aspose.Email.
+Features
+Sign emails with DKIM
+Add the DomainKeys Identified Mail (DKIM) signature to the email message headers
+Enhancements EMAILNET-34717 EWS: Can there be any way of retreiving Message size before actually fetching it?
+EMAILNET-34718 Check oauth support for SMTP and IMAP clients for Yahoo and Yandex mail servers. Make TokenProvider as server-independent class if possible.
+EMAILNET-34698 Refactoring properties Body and TextBody of MailMessage.</description></item><item><title>Aspose.Email for .NET 5.1.0 Release Notes</title><link>https://releases-qa.aspose.com/email/net/release-notes/2015/aspose-email-for-net-5-1-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/net/release-notes/2015/aspose-email-for-net-5-1-0-release-notes/</guid><description>The following is a list of improvements and changes in this release of Aspose.Email.
+Features
+OAuth support for SMTP and IMAP clients for Outlook.com
+This feature provides the authorization for Outlook.com IMAP/SMTP via OAuth 2.0
+Enhancements EMAILNET-34683 Option to save original email address with invalid characters in MapiMessage
+EMAILNET-34676 Encoded header &amp;ldquo;Thread-Topic&amp;rdquo; not visible properly
+EMAILNET-34518 Take value of Body from PR_HTML if Body Property is disturbed
+Bugs EMAILNET-34678 Sender Name not shown in PST</description></item><item><title>Aspose.Email for .NET 5.0.0 Release Notes</title><link>https://releases-qa.aspose.com/email/net/release-notes/2015/aspose-email-for-net-5-0-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/net/release-notes/2015/aspose-email-for-net-5-0-0-release-notes/</guid><description>The following is a list of improvements and changes in this release of Aspose.Email.
+Enhancements EMAILNET-34643 Option to load calendar files starting with BOM characters
+EMAILNET-34654 Removing MapiPropertyTag.PR_PST_PASSWORD from a PST does not take effect after saving
+Bugs EMAILNET-34581 IEWSClient.ListMessages count return 0 with MailQuery
+EMAILNET-34650 PR_MESSAGE_DELIVERY_TIME value set incorrectly
+EMAILNET-34553 MapiMessage.FromFile issues in Parallel.ForEach loop
+EMAILNET-34562 Wrong reminder value set while adding calendar item to PST
+EMAILNET-34607 ICS-&amp;gt;MSG: Text formatting such as styles and headings lost</description></item><item><title>Aspose.Email for .NET 4.9.0 Release Notes</title><link>https://releases-qa.aspose.com/email/net/release-notes/2015/aspose-email-for-net-4-9-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/net/release-notes/2015/aspose-email-for-net-4-9-0-release-notes/</guid><description>The following is a list of improvements and changes in this release of Aspose.Email.
+Features
+Provide capability of sending task requests
+This feature would allow to send tasks by mail clients.
+Enhancements EMAILNET-34542 Enhancement of MapiRecepient to have empty email address
+Bugs EMAILNET-34550 WPF: DragDrop not showing FileName
+EMAILNET-34556 EML-&amp;gt;EML: Contents of Message are disturbed
+EMAILNET-34557 EML-&amp;gt;EML,MSG: Encoding issue
+EMAILNET-34567 EML-&amp;gt;EML: Encoding and formatting issues
+EMAILNET-34573 XML attachments contents rendered during MSG-&amp;gt;MHTML conversion</description></item></channel></rss>

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aspose on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/tags/aspose/</link><description>Recent content in Aspose on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/tags/aspose/index.xml" rel="self" type="application/rss+xml"/><item><title>.NET-APIs für Dateiformate | Aspose.Total für .NET</title><link>https://releases-qa.aspose.com/de/total/net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/total/net/</guid><description>Support Forum
+Laden Sie Aspose.Total-DLLs herunter, um Dateiformate über .NET-APIs zu verarbeiten Aspose.Total für .NETist das umfassendste Paket aller von Aspose angebotenen .NET-Dateiformat-APIs. Es ermöglicht Entwicklern das Erstellen, Bearbeiten, Rendern, Drucken und Konvertieren zwischen einer Vielzahl gängiger Dokumentformate in beliebigen .NET-, C#-, ASP.NET- und VB.NET-Anwendungen.
+Offen
+NuGetPackage Manager in Microsoft Visual Studio®, suchen Sie nach Aspose.Total und installieren Sie es. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FINANCE-FOR-PYTHON-VIA-NIA-23.1.0, -WINDOWS-X64</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.1.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.1.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.FINANCE FÜR PYTHON über .NET 23.1.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+39.74MB
+Datum hinzugefügt:
+8/6/2023
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-1-release-notes/
+BeschreibungEs enthält die ASSOSE.FINANCE für Python über .NET 23.1.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=72960c8d2459291d69f8d99b4d9542a2-8-8959&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>C++-Bibliotheken für Dateiformate Aspose.Total für C++</title><link>https://releases-qa.aspose.com/de/total/cpp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/total/cpp/</guid><description>Support Forum
+Laden Sie die Klassenbibliothek herunter, um Dateiformate über die C&amp;#43;&amp;#43;-API zu bearbeiten Aspose.Total für C++ ist ein komplettes Paket von C++-Bibliotheken und On-Premise-APIs, mit denen Sie Ihre nativen C++-Desktop- und -Webanwendungen erweitern können, um Lese-, Schreib-, Konvertierungs- und andere Verarbeitungsvorgänge für gängige Dokumentformate durchzuführen, ohne dass Microsoft Office® oder Adobe erforderlich sind ® Automatisierung. Das Paket Aspose.Total für C++ enthält Komponenten zur Verarbeitung von Word-Dokumenten, PDF-Dateien, Tabellenkalkulationen, Präsentationen, E-Mails, Projektdateien und Barcode-Bildern aus Ihren C++-Apps heraus.</description></item><item><title>Download Publisher® File Converter C++ DLL | Aspose.PUB-API</title><link>https://releases-qa.aspose.com/de/pub/cpp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/cpp/</guid><description>Support Forum
+Laden Sie die C&amp;#43;&amp;#43;-Bibliothek herunter, um PUB-Dateien zu verarbeiten Offen
+NuGetPackage Manager in Microsoft Visual Studio®, suchen Sie nach Aspose.PUB.Cpp und installieren Sie es. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die
+InstallationDokumentationsseite.
+Release-opmerkingen
+Downloaden
+PM&amp;gt;
+Install-Package Aspose.PUB.Cpp
+&amp;nbsp;
+Product Page | Docs | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Laden Sie die Python-Bibliothek herunter, um OCR durchzuführen | Aspose.OCR API</title><link>https://releases-qa.aspose.com/de/ocr/python-net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/ocr/python-net/</guid><description>Support Forum
+Laden Sie Aspose.OCR für Python über .NET zur Bilderkennung herunter. Fügen Sie OCR-Funktionen (Optical Character Recognition) zu Ihren Datenwissenschafts-, KI- und Automatisierungslösungen hinzu, die in Python 3.6 oder höher geschrieben sind. Extrahieren Sie Text aus Fotos, Scans, PDF-Dokumenten und anderen Grafikdateien, ohne sich mit komplexen mathematischen Operationen, neuronalen Netzen und anderen technischen Details befassen zu müssen.
+Aspose.OCR für Python über .NET kann hier heruntergeladen und mit dem folgenden Befehl vom lokalen Dateisystem installiert werden:
+&amp;gt;
+pip install aspose-ocr-python-net &amp;nbsp;</description></item><item><title>Python-E-Mail-Bibliothek | Aspose.Email für Python über .NET</title><link>https://releases-qa.aspose.com/de/email/pythonnet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/email/pythonnet/</guid><description>Support Forum
+Laden Sie die Python-Programmierkomponente Aspose.Email herunter Bitte verwenden Sie Folgendes
+PipBefehl:
+Release-opmerkingen
+Downloaden
+&amp;gt;
+pip install Aspose.Email-for-Python-via-NET
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA
+Allgemeine E-Mail-Funktionen Erstellen Sie E-Mails, die sowohl einfachen Text als auch „HTML“ enthalten. Erstellen Sie alternative Nachrichtentexte.</description></item><item><title>Exportprogramm für PowerPoint | Aspose.Slides für JasperReports</title><link>https://releases-qa.aspose.com/de/slides/jasperreport/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/jasperreport/</guid><description>Support Forum
+Laden Sie Aspose.Slides herunter, um JasperReports® in Präsentationsformate zu exportieren Aspose.Slides für JasperReportsist eine leichtgewichtige Erweiterung, mit der Sie Berichte aus JasperReports® und JasperServer® in Microsoft PowerPoint® und andere unterstützte Dateiformate exportieren können.
+Release-opmerkingen
+Product Page | Docs | API Reference | Blog | Search | Free Support | Temporary License | EULA
+Präsentation JasperReports®-Integrationsfunktionen Exportieren Sie Berichte in die Formate PPT, PPTX, HTML und PDF.</description></item><item><title>Liefern Sie Berichte im PDF-Format | Aspose.PDF für JasperReports</title><link>https://releases-qa.aspose.com/de/pdf/jassperreport/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/jassperreport/</guid><description>Support Forum
+Laden Sie Aspose.PDF herunter, um JasperReports® in PDF-Formate zu exportieren Aspose.PDF for JasperReports unterstützt Sie beim Exportieren von Berichten aus JasperReports® und JasperServer® in PDF, PDF/A und andere unterstützte Dateiformate. Die wichtigen Berichtsmerkmale wie Diagramme und Tabellen werden ohne Verlust von Layout und Formatierung konvertiert.
+Release-opmerkingen
+Product Page | Docs | API Reference | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Aspose.Cells für Python über .NET</title><link>https://releases-qa.aspose.com/de/cells/python-net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-net/</guid><description>Support Forum
+Laden Sie die Aspose.Cells-Python-Bibliothek für die Tabellenkalkulation herunter Aspose.Cells for Python via .NET ist eine skalierbare und funktionsreiche API zur Verarbeitung von Excel®-Tabellen mit Python. API bietet Excel®-Dateierstellung, -bearbeitung, -konvertierung und -wiedergabe. Entwickler können Arbeitsblätter, Zeilen, Spalten oder Zellen bis ins kleinste Detail formatieren, Diagramme und Pivot-Tabellen manipulieren, Arbeitsblätter, Diagramme und bestimmte Datenbereiche in PDF oder Bilder rendern, die integrierten und benutzerdefinierten Formeln von Excel® hinzufügen und vieles mehr mehr - alles ohne Abhängigkeit von Microsoft Office oder Excel®-Anwendung.</description></item><item><title>Aspose.Diagram für Python über .Net</title><link>https://releases-qa.aspose.com/de/diagram/python-net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/python-net/</guid><description>Support Forum
+Laden Sie die Aspose.Diagram-Python-Bibliothek für die Visio-Verarbeitung herunter Aspose.Diagram for Python via .NET ist eine skalierbare und funktionsreiche API zur Verarbeitung von Visio-Dateien mit Python. API bietet Visio-Dateierstellung, -bearbeitung, -konvertierung und -wiedergabe. Entwickler können Seiten bis ins kleinste Detail formatieren, Formen erstellen und manipulieren, Seiten rendern, Formen in PDF und Bilder umwandeln und vieles mehr – alles ohne Abhängigkeit von Microsoft Office oder Visio-Anwendungen.</description></item><item><title>Aspose.Finance für Python über .NET</title><link>https://releases-qa.aspose.com/de/finance/python-net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/</guid><description>Support Forum
+Laden Sie die Aspose.Finance-Python-Programmierbibliothek für die Formate XBRL, iXBRL und OFX herunter Aspose.Finance für Python über .NET ist eine eigenständige On-Premise-API, die aus Python-Klassen besteht, mit denen Sie finanzbezogene Formate wie XBRL, iXBRL und OFX verarbeiten und manipulieren können.
+Bitte verwenden Sie Folgendes
+PipBefehl:
+Release-opmerkingen
+Downloaden
+&amp;gt;
+pip install aspose-finance
+&amp;nbsp;
+Product Page | Docs | Examples | Blog | Search | Free Support | Temporary License</description></item><item><title>Downloads --- New Releases-ASSOSPLE.FINANCE-FOR-PYTHON-VIA-NIA-23.5.0, -WINDOWS-X64</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.5.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.5.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.FINANCE FÜR PYTHON über .NET 23.5.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+39.74MB
+Datum hinzugefügt:
+10/6/2023
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-5-release-notes/
+BeschreibungEs enthält ASSOSE.FINANCE für Python über .NET 23.5.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=33e87a8651c63b0c9ac39e2c48e9b829-8-8976&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-Assible.Diagram-for-Python-via -.net-23.8</title><link>https://releases-qa.aspose.com/de/diagram/python-net/new-releases/aspose.diagram-for-python-via-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/python-net/new-releases/aspose.diagram-for-python-via-.net-23.8/</guid><description>&amp;nbsp;
+ASSOSE.DIAGRAM für Python über .NET 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+179.65MB
+Datum hinzugefügt:
+21/8/2023
+Versionshinweisehttps://releases.aspose.com/diagram/python-net/release-notes/2023/aspose-diagram-for-python-via-net-23-8-release-notes/
+BeschreibungASSOSE.DIAGRAM für Python über .NET 23.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e4139ea3f4ab2080ebd8f6e42a475e96-36-9355&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Cells-for-Python-VIA -.net-23.8</title><link>https://releases-qa.aspose.com/de/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.8/</guid><description>&amp;nbsp;
+ASSONE.CELLS für Python über .NET 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+232.26MB
+Datum hinzugefügt:
+14/8/2023
+Versionshinweisehttps://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-8-release-notes/
+BeschreibungWeitere Einzelheiten finden Sie in Versionshinweise und Readme
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=499b3ac049068c7948d266b715652b3b-47-9323&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Lokale GIS-Datenverarbeitungs-API | Aspose.GIS-Produktfamilie</title><link>https://releases-qa.aspose.com/de/gis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/</guid><description>Support Forum
+Laden Sie Aspose.GIS herunter, um geografische Daten zu verarbeiten Offen
+NuGetPackage Manager in Microsoft Visual Studio®, suchen Sie nach Aspose.GIS und installieren Sie es. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die
+InstallationDokumentationsseite.
+Release-opmerkingen
+Downloaden
+PM&amp;gt;
+Install-Package Aspose.GIS
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-jasperreports-20.11 .</title><link>https://releases-qa.aspose.com/de/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-20.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-20.11/</guid><description>&amp;nbsp;
+Aspose.PDF für JasperReports 20.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+41
+Dateigröße:
+362.0 MB
+Posted By:
+bornwild
+Ansichten:
+138
+Hinzugefügt am:
+11/27/2020
+Versionshinweise https://releases.aspose.com/pdf/jassperreport/release-notes/2020/aspose-pdf-for-jasperreports-20-11-release-notes/ BeschreibungWir freuen uns, eine neue Version von Aspose.Pdf für JasperReports mit folgenden Verbesserungen zu teilen.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a81decca7cbf487b9e92795a0e19b3d1&amp;single=1", function(data) { $.</description></item><item><title>Laden Sie SVG Parser &amp; Converter .NET DLL herunter | Aspose.SVG-API</title><link>https://releases-qa.aspose.com/de/svg/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/svg/</guid><description>Support Forum
+Laden Sie Aspose.SVG herunter, um Vektorgrafiken zu verarbeiten Offen
+NuGetPackage Manager in Microsoft Visual Studio®, suchen Sie nach Aspose.SVG und installieren Sie es. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die
+InstallationDokumentationsseite.
+Release-opmerkingen
+Downloaden
+PM&amp;gt;
+Install-Package Aspose.SVG
+&amp;nbsp;
+Product Page | Docs | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Downloads --- New Releases-ASSOSPLE.Email-for-Python-via -.net-23.5.0, -Windows-X64</title><link>https://releases-qa.aspose.com/de/email/pythonnet/new-releases/aspose.email-for-python-via-.net-23.5.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/email/pythonnet/new-releases/aspose.email-for-python-via-.net-23.5.0-windows-x64/</guid><description>&amp;nbsp;
+ASSOSE.EMAIL für Python über .NET 23.5.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+50.03MB
+Datum hinzugefügt:
+23/6/2023
+Versionshinweisehttps://releases.aspose.com/email/pythonnet/release-notes/2023/aspose-email-for-python-via-net-23-5-release-notes/
+BeschreibungEs enthält ASSOSE.Email für Python über .NET 23.5.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c5c9c077514e16f3fc017b909853eca8-11-9122&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PUB-FOR-C ++-23.8</title><link>https://releases-qa.aspose.com/de/pub/cpp/new-releases/aspose.pub-for-c++-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/cpp/new-releases/aspose.pub-for-c++-23.8/</guid><description>&amp;nbsp;
+ASSON.PUB für C &amp;#43;&amp;#43; 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+435.72MB
+Datum hinzugefügt:
+17/8/2023
+Versionshinweisehttps://releases.aspose.com/pub/cpp/release-notes/2023/aspose-pub-for-cpp-23-8-release-notes/
+BeschreibungASSON.PUB für C ++ 23.8 native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7fef44a4ab30d0aabdcc332198679d33-88-9348&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-Jasperreports-23.8</title><link>https://releases-qa.aspose.com/de/slides/jasperreport/new-releases/aspose.slides-for-jasperreports-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/jasperreport/new-releases/aspose.slides-for-jasperreports-23.8/</guid><description>&amp;nbsp;
+ASSON.Slides für Jasperreports 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+72.3MB
+Datum hinzugefügt:
+23/8/2023
+Versionshinweisehttps://releases.aspose.com/slides/jasperreport/release-notes/2023/aspose-slides-for-jasper-reports-23-8-release-notes/
+BeschreibungEs enthält asspose.Slides für Jasperreports 23.8 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7e03abc91b8c8a82cb4d088eb2fa5674-15-9369&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

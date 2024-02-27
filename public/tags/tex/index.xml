@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TeX on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/tex/</link><description>Recent content in TeX on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 29 Aug 2023 20:05:21 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/tags/tex/index.xml" rel="self" type="application/rss+xml"/><item><title>Download Document TypeSetting C# Library | Aspose.TeX API</title><link>https://releases-qa.aspose.com/tex/net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tex/net/</guid><description>Support Forum
+Download Aspose.TeX to TypeSet TeX Files Open NuGet Package Manager within the Microsoft Visual Studio&amp;reg;, search for Aspose.TeX and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the Installation documentation page.
+Release Notes
+Download
+PM&amp;gt;
+Install-Package Aspose.TeX
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Aspose.PDF | Java PDF Document Processing Class Library</title><link>https://releases-qa.aspose.com/pdf/java/</link><pubDate>Wed, 31 Jan 2024 01:35:42 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/java/</guid><description>Java API to Process &amp;amp; Manipulate PDF Files
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.PDF for Java is a PDF document creation component that enables your Java applications to read, write and manipulate PDF documents without using Adobe Acrobat.
+aspose.pdf Package Features PDF Document Featres Set basic information (e.g. author, creator) of the PDF document.</description></item><item><title>C# .NET API | LaTeX to PNG | LaTeX to SVG | Figure Rendering</title><link>https://releases-qa.aspose.com/tex/net/new-releases/aspose.tex-for-.net-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tex/net/new-releases/aspose.tex-for-.net-23.2/</guid><description>&amp;nbsp;
+Aspose.TeX for .NET 23.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+78.9MB
+Date Added:
+21/2/2023
+Release Noteshttps://releases.aspose.com/tex/net/release-notes/2023/aspose-tex-for-net-23-2-release-notes/
+DescriptionIt contains Aspose.TeX for .NET 23.2 release.
+File Details
+LaTeX to PNG &amp;amp; SVG Figure Rendering A generic LaTeX code fragment renderer called the Figure Renderer has been implemented.Which enables you to generalize LaTeX math formula rendering to create customized illustrations for your online publications.</description></item><item><title>C# .NET TeX API | Enable Font Subsetting | SVG Optimization</title><link>https://releases-qa.aspose.com/tex/net/new-releases/aspose.tex-for-.net-23.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tex/net/new-releases/aspose.tex-for-.net-23.4/</guid><description>&amp;nbsp;
+Aspose.TeX for .NET 23.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+63.61MB
+Date Added:
+7/4/2023
+Release Noteshttps://releases.aspose.com/tex/net/release-notes/2023/aspose-tex-for-net-23-4-release-notes/
+DescriptionIt contains Aspose.TeX for .NET 23.4 release.
+File Details
+High Performance SVG Optimization for TeX Apps Enhance SVG performance with optimized font subsetting in SVG math rendering and figure rendering using C# .NET TeX API. Reduce font size via subsetting for improved application performance.</description></item><item><title>C# .NET TeX API to Create Documents with Embedded amsfonts</title><link>https://releases-qa.aspose.com/tex/net/new-releases/aspose.tex-for-.net-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tex/net/new-releases/aspose.tex-for-.net-23.5/</guid><description>&amp;nbsp;
+Aspose.TeX for .NET 23.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+50.05MB
+Date Added:
+30/4/2023
+Release Noteshttps://releases.aspose.com/tex/net/release-notes/2023/aspose-tex-for-net-23-5-release-notes/
+DescriptionIt contains Aspose.TeX for .NET 23.5 release.
+File Details
+Support for amsfonts Package This release adds the enahcenement to embed fonts required by the amsfonts package.
+The amsfonts package in LaTeX is a pivotal collection of high-quality fonts tailored for mathematical typesetting.</description></item><item><title>Downloads ---New Releases-aspose.tex-for-.net-23.10-(dlls-and-docs)</title><link>https://releases-qa.aspose.com/tex/net/new-releases/aspose.tex-for-.net-23.10-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tex/net/new-releases/aspose.tex-for-.net-23.10-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.TeX for .NET 23.10 (DLLs and docs)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+33.51MB
+Date Added:
+24/10/2023
+Release Noteshttps://releases.aspose.com/tex/net/release-notes/2023/aspose-tex-for-net-23-10-release-notes/
+DescriptionIt contains Aspose.TeX for .NET 23.10 (DLLs and docs) release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fd5e65f2a7715967e80406ff500cfed7-7-9660&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.tex-for-.net-23.10</title><link>https://releases-qa.aspose.com/tex/net/new-releases/aspose.tex-for-.net-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tex/net/new-releases/aspose.tex-for-.net-23.10/</guid><description>&amp;nbsp;
+Aspose.TeX for .NET 23.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+33.91MB
+Date Added:
+24/10/2023
+Release Noteshttps://releases.aspose.com/tex/net/release-notes/2023/aspose-tex-for-net-23-10-release-notes/
+DescriptionIt contains Aspose.TeX for .NET 23.10 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=64bbed0267c8a63f0a2bd6a22be9b099-7-9661&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.tex-for-.net-23.12</title><link>https://releases-qa.aspose.com/tex/net/new-releases/aspose.tex-for-.net-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tex/net/new-releases/aspose.tex-for-.net-23.12/</guid><description>&amp;nbsp;
+Aspose.TeX for .NET 23.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+42.58MB
+Date Added:
+15/12/2023
+Release Noteshttps://releases.aspose.com/tex/net/release-notes/2023/aspose-tex-for-net-23-12-release-notes/
+DescriptionIt contains Aspose.TeX for .NET 23.12 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=652bbc0102e481623e5a81a66dca4bbf-9-9993&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.tex-for-.net-23.12-(dlls-and-docs)</title><link>https://releases-qa.aspose.com/tex/net/new-releases/aspose.tex-for-.net-23.12-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tex/net/new-releases/aspose.tex-for-.net-23.12-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.TeX for .NET 23.12 (DLLs and docs)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+42.17MB
+Date Added:
+15/12/2023
+Release Noteshttps://releases.aspose.com/tex/net/release-notes/2023/aspose-tex-for-net-23-12-release-notes/
+DescriptionIt contains Aspose.TeX for .NET 23.12 (DLLs and docs) release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=71ca4cdd402beac72f6016b12164a2ee-9-9994&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.tex-for-c++-23.9-linux</title><link>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-23.9-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-23.9-linux/</guid><description>&amp;nbsp;
+Aspose.TeX for C&amp;#43;&amp;#43; 23.9 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+49.48MB
+Date Added:
+26/9/2023
+Release Noteshttps://releases.aspose.com/tex/cpp/release-notes/2023/aspose-tex-for-cpp-23-9-release-notes/
+DescriptionAspose.TeX for C++ 23.9 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ce46ce833c1c9820dac9a19cb6459e47-10-9523&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.tex-for-c++-23.9-macos</title><link>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-23.9-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-23.9-macos/</guid><description>&amp;nbsp;
+Aspose.TeX for C&amp;#43;&amp;#43; 23.9 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+93.96MB
+Date Added:
+26/9/2023
+Release Noteshttps://releases.aspose.com/tex/cpp/release-notes/2023/aspose-tex-for-cpp-23-9-release-notes/
+DescriptionAspose.TeX for C++ 23.9 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a46ce7c712a5c092a6f843f88e291c7e-19-9524&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.tex-for-c++-23.9</title><link>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-23.9/</guid><description>&amp;nbsp;
+Aspose.TeX for C&amp;#43;&amp;#43; 23.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+201.06MB
+Date Added:
+26/9/2023
+Release Noteshttps://releases.aspose.com/tex/cpp/release-notes/2023/aspose-tex-for-cpp-23-9-release-notes/
+DescriptionAspose.TeX for C++ 23.9 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=868d2d4390eb220282904ec3456a6913-41-9525&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.tex-for-c++-23.10-linux</title><link>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-23.10-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-23.10-linux/</guid><description>&amp;nbsp;
+Aspose.TeX for C&amp;#43;&amp;#43; 23.10 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+49.72MB
+Date Added:
+27/10/2023
+Release Noteshttps://releases.aspose.com/tex/cpp/release-notes/2023/aspose-tex-for-cpp-23-10-release-notes/
+DescriptionAspose.TeX for C++ 23.10 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=67ab8977b10c8fa2dee9d3a5d4e2841a-10-9675&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.tex-for-c++-23.10-macos</title><link>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-23.10-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-23.10-macos/</guid><description>&amp;nbsp;
+Aspose.TeX for C&amp;#43;&amp;#43; 23.10 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+94.37MB
+Date Added:
+27/10/2023
+Release Noteshttps://releases.aspose.com/tex/cpp/release-notes/2023/aspose-tex-for-cpp-23-10-release-notes/
+DescriptionAspose.TeX for C++ 23.10 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c97e2238619450b267e2fa3e0ca5821e-19-9676&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.tex-for-c++-23.10</title><link>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-23.10/</guid><description>&amp;nbsp;
+Aspose.TeX for C&amp;#43;&amp;#43; 23.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+202.31MB
+Date Added:
+27/10/2023
+Release Noteshttps://releases.aspose.com/tex/cpp/release-notes/2023/aspose-tex-for-cpp-23-10-release-notes/
+DescriptionAspose.TeX for C++ 23.10 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=841ca60f2225ff97df5c324c65825e35-41-9677&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.tex-for-c++-23.11-linux</title><link>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-23.11-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-23.11-linux/</guid><description>&amp;nbsp;
+Aspose.TeX for C&amp;#43;&amp;#43; 23.11 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+49.74MB
+Date Added:
+19/11/2023
+Release Noteshttps://releases.aspose.com/tex/cpp/release-notes/2023/aspose-tex-for-cpp-23-11-release-notes/
+DescriptionAspose.TeX for C++ 23.11 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f420201da97a89558f66ae4df4a3e7ff-10-9846&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.tex-for-c++-23.11-macos</title><link>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-23.11-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-23.11-macos/</guid><description>&amp;nbsp;
+Aspose.TeX for C&amp;#43;&amp;#43; 23.11 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+94.41MB
+Date Added:
+19/11/2023
+Release Noteshttps://releases.aspose.com/tex/cpp/release-notes/2023/aspose-tex-for-cpp-23-11-release-notes/
+DescriptionAspose.TeX for C++ 23.11 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=756b424d8627e53f69f8b083f40264fc-19-9847&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.tex-for-c++-23.11</title><link>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-23.11/</guid><description>&amp;nbsp;
+Aspose.TeX for C&amp;#43;&amp;#43; 23.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+202.39MB
+Date Added:
+19/11/2023
+Release Noteshttps://releases.aspose.com/tex/cpp/release-notes/2023/aspose-tex-for-cpp-23-11-release-notes/
+DescriptionAspose.TeX for C++ 23.11 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4c454777c035972890a8d04441d8417e-41-9848&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.tex-for-c++-23.12-linux</title><link>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-23.12-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-23.12-linux/</guid><description>&amp;nbsp;
+Aspose.TeX for C&amp;#43;&amp;#43; 23.12 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+49.89MB
+Date Added:
+21/12/2023
+Release Noteshttps://releases.aspose.com/tex/cpp/release-notes/2023/aspose-tex-for-cpp-23-12-release-notes/
+DescriptionAspose.TeX for C++ 23.12 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8b8161fb09122809d8e7b91df20f5f3e-10-10027&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.tex-for-c++-23.12-macos</title><link>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-23.12-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-23.12-macos/</guid><description>&amp;nbsp;
+Aspose.TeX for C&amp;#43;&amp;#43; 23.12 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+94.73MB
+Date Added:
+21/12/2023
+Release Noteshttps://releases.aspose.com/tex/cpp/release-notes/2023/aspose-tex-for-cpp-23-12-release-notes/
+DescriptionAspose.TeX for C++ 23.12 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=63f0587893d1fd5621363b18effc7eb8-19-10028&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.tex-for-c++-23.12</title><link>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-23.12/</guid><description>&amp;nbsp;
+Aspose.TeX for C&amp;#43;&amp;#43; 23.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+203MB
+Date Added:
+21/12/2023
+Release Noteshttps://releases.aspose.com/tex/cpp/release-notes/2023/aspose-tex-for-cpp-23-12-release-notes/
+DescriptionAspose.TeX for C++ 23.12 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=88c5d8757a1c280c2f327f4d97be42ab-41-10029&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.tex-for-c++-24.1-linux</title><link>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-24.1-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-24.1-linux/</guid><description>&amp;nbsp;
+Aspose.TeX for C&amp;#43;&amp;#43; 24.1 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+52.25MB
+Date Added:
+25/1/2024
+Release Noteshttps://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-1-release-notes/
+DescriptionAspose.TeX for C++ 24.1 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=de3ac7fff8dfbec0bec70559fd773b85-11-10212&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.tex-for-c++-24.1-macos</title><link>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-24.1-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-24.1-macos/</guid><description>&amp;nbsp;
+Aspose.TeX for C&amp;#43;&amp;#43; 24.1 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+99.49MB
+Date Added:
+25/1/2024
+Release Noteshttps://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-1-release-notes/
+DescriptionAspose.TeX for C++ 24.1 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e76995c4e47dfbddf91515d81955df50-20-10213&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.tex-for-c++-24.1</title><link>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tex/cpp/new-releases/aspose.tex-for-c++-24.1/</guid><description>&amp;nbsp;
+Aspose.TeX for C&amp;#43;&amp;#43; 24.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+212.58MB
+Date Added:
+25/1/2024
+Release Noteshttps://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-1-release-notes/
+DescriptionAspose.TeX for C++ 24.1 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ac71eecdd4ca6adeb799f0d99557425d-43-10214&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Aspose.PDF 23.8 | Process Acrobat PDF Files via Java API</title><link>https://releases-qa.aspose.com/pdf/java/23-8/</link><pubDate>Tue, 29 Aug 2023 20:05:21 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/java/23-8/</guid><description>Java API to Process &amp;amp; Manipulate PDF Files
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.PDF for Java is a PDF document creation component that enables your Java applications to read, write and manipulate PDF documents without using Adobe Acrobat.
+aspose.pdf Package Features PDF Document Featres Set basic information (e.g. author, creator) of the PDF document.</description></item></channel></rss>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>C++ Excel Linux image html on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/c++-excel-linux-image-html/</link><description>Recent content in C++ Excel Linux image html on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/tags/c++-excel-linux-image-html/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads ---New Releases-aspose.cells-for-c++-23.12(linux)</title><link>https://releases-qa.aspose.com/cells/cpp/new-releases/aspose.cells-for-c++-23.12linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/cpp/new-releases/aspose.cells-for-c++-23.12linux/</guid><description>&amp;nbsp;
+Aspose.Cells for C&amp;#43;&amp;#43; 23.12(Linux)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+66.65MB
+Date Added:
+14/12/2023
+Release Noteshttps://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-linux-23-12-release-notes/
+DescriptionIt contains Aspose.Cells for C++ version 23.12 (Linux). For more information, see the release notes and readme file.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=41d814dd5d46c313b0a9b11f019561c8-14-9989&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---Release-notes-aspose.cells-for-c++-23.12(linux)</title><link>https://releases-qa.aspose.com/cells/cpp/release-notes/aspose.cells-for-c++-23.12linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/cpp/release-notes/aspose.cells-for-c++-23.12linux/</guid><description>&amp;nbsp;
+Aspose.Cells for C&amp;#43;&amp;#43; 23.12 (Linux)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+5
+File Size:
+66.65MB
+Date Added:
+14/12/2023
+Release Noteshttps://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-linux-23-12-release-notes/
+DescriptionIt contains Aspose.Cells for C++ version 23.12 (Linux). For more information, see the release notes and readme file.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=41d814dd5d46c313b0a9b11f019561c8-14-9989&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---New Releases-aspose.cells-for-c++-24.1(linux)</title><link>https://releases-qa.aspose.com/cells/cpp/new-releases/aspose.cells-for-c++-24.1linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/cpp/new-releases/aspose.cells-for-c++-24.1linux/</guid><description>&amp;nbsp;
+Aspose.Cells for C&amp;#43;&amp;#43; 24.1(Linux)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+67.4MB
+Date Added:
+10/1/2024
+Release Noteshttps://releases.aspose.com/cells/cpp/release-notes/2024/aspose-cells-for-cpp-linux-24-1-release-notes/
+DescriptionAspose.Cells for C++ 24.1(Linux)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=254b23b85b2bc7c9efa4f34e45d75749-14-10137&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-c++-24.2(linux)</title><link>https://releases-qa.aspose.com/cells/cpp/new-releases/aspose.cells-for-c++-24.2linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/cpp/new-releases/aspose.cells-for-c++-24.2linux/</guid><description>&amp;nbsp;
+Aspose.Cells for C&amp;#43;&amp;#43; 24.2(Linux)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+67.49MB
+Date Added:
+6/2/2024
+Release Noteshttps://releases.aspose.com/cells/cpp/release-notes/2024/aspose-cells-for-cpp-24-2-release-notes/
+DescriptionIt contains Aspose.Cells for C++ version 24.2 (Linux). For more information, see the release notes and readme file.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=78bba56f97fdbfc0e5712345e75b9932-14-10301&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item></channel></rss>

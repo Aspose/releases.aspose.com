@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ps-to-tiff on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/ps-to-tiff/</link><description>Recent content in ps-to-tiff on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/tags/ps-to-tiff/index.xml" rel="self" type="application/rss+xml"/><item><title>Download C# Library to Create, Edit XPS PS | Aspose.Page API</title><link>https://releases-qa.aspose.com/page/net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/page/net/</guid><description>Support Forum
+Download Aspose.Page for XPS File Manipulation Open NuGet Package Manager within the Microsoft Visual Studio&amp;reg;, search for Aspose.Page and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the Installation documentation page.
+Release Notes
+Download
+PM&amp;gt;
+Install-Package Aspose.Page
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Download Python Library to Create, Edit XPS PS EPS | Aspose.Page API</title><link>https://releases-qa.aspose.com/page/python-net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/page/python-net/</guid><description>Support Forum
+Download Aspose.Page for Python via .NET for PS and XPS File Manipulation
+Aspose.Page for Python via .NET, The PS, EPS, and XPS files Processing API enables developers to work with PDF documents without relying on Microsoft Office&amp;reg; or Adobe&amp;reg products installed.
+You can easily use Aspose.Page for Python via .NET from pip with the following command.
+Release Notes
+Download
+&amp;gt;
+pip install aspose-page
+&amp;nbsp;</description></item><item><title>Downloads ---New Releases-aspose.page-for-.net-23.8-(dlls-and-docs)</title><link>https://releases-qa.aspose.com/page/net/new-releases/aspose.page-for-.net-23.8-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/page/net/new-releases/aspose.page-for-.net-23.8-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.Page for .NET 23.8 (DLLs and docs)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+15.23MB
+Date Added:
+18/8/2023
+Release Noteshttps://docs.aspose.com/page/net/aspose-page-for-net-23-8-release-notes/
+DescriptionWe are pleased to announce a new version of Aspose.Page for .Net.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7e89700b888c318368ce91c7fdceb7aa-4-9351&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.page-for-.net-23.8</title><link>https://releases-qa.aspose.com/page/net/new-releases/aspose.page-for-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/page/net/new-releases/aspose.page-for-.net-23.8/</guid><description>&amp;nbsp;
+Aspose.Page for .Net 23.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+15.51MB
+Date Added:
+18/8/2023
+Release Noteshttps://docs.aspose.com/page/net/aspose-page-for-net-23-8-release-notes/
+DescriptionIt contains Aspose.Page for .NET 23.8 release Windows installer.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a8e671329a119ef53efc66efca196d2f-4-9352&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item></channel></rss>

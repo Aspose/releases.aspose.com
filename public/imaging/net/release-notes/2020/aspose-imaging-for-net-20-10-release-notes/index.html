@@ -1,0 +1,149 @@
+<!doctype html><html class=no-js lang=en><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge"><title>Aspose.Imaging for .NET 20.10 - Release notes</title><meta name=description content="Aspose.Imaging for .NET 20.10 - Release notes – the latest updates and fixes."><meta name=viewport content="width=device-width,minimum-scale=1"><link rel=canonical href=https://releases-qa.aspose.com/imaging/net/release-notes/2020/aspose-imaging-for-net-20-10-release-notes/><link rel=alternate hreflang=x-default href=https://releases-qa.aspose.com/imaging/net/release-notes/2020/aspose-imaging-for-net-20-10-release-notes/><meta name=robots content="noindex, nofollow"><link rel=apple-touch-icon sizes=180x180 href=/res_repo/apple-touch-icon.png><link rel=icon type=image/png href=/res_repo/favicon-32x32.png sizes=32x32><link rel=icon type=image/png href=/res_repo/favicon-16x16.png sizes=16x16><link rel=mask-icon href=/res_repo/safari-pinned-tab.svg color=#0594cb><meta name=theme-color content="#ffffff"><meta property="og:title" content="Aspose.Imaging for .NET 20.10 - Release notes "><meta property="og:description" content="Aspose.Imaging for .NET 20.10 - Release notes – the latest updates and fixes."><meta property="og:type" content="article"><meta property="og:url" content="https://releases-qa.aspose.com/imaging/net/release-notes/2020/aspose-imaging-for-net-20-10-release-notes/"><meta itemprop=name content="Aspose.Imaging for .NET 20.10 - Release notes"><meta itemprop=description content="Aspose.Imaging for .NET 20.10 - Release notes – the latest updates and fixes."><meta itemprop=wordCount content="888"><meta name=twitter:card content="summary"><meta name=twitter:title content="Aspose.Imaging for .NET 20.10 - Release notes"><meta name=twitter:description content="Aspose.Imaging for .NET 20.10 - Release notes – the latest updates and fixes."><link href=/css/bootstrap.css rel=stylesheet type=text/css><script src=https://releases-qa.aspose.com/res_repo/js/jquery-1.10.2.min.js></script></head><body><div id=header></div><div class=downloadpage><div class="container-fluid bcrumb1"><div id=sticky1 class=stickytopheight>&nbsp;</div><div class=container><div class=moduletable><ul id=dvBC class=breadcrumb><li><a href=/>Home</a><span class=divider></span></li><li><a href=/imaging/>Aspose.Imaging Product Family</a><span class=divider></span></li><li><a href=/imaging/net/>Aspose.Imaging for .NET</a><span class=divider></span></li><li><a href=/imaging/net/release-notes/>Release Notes</a><span class=divider></span></li><li><a href=/imaging/net/release-notes/2020/>2020</a><span class=divider></span></li><li><a href=/imaging/net/release-notes/2020/aspose-imaging-for-net-20-10-release-notes/>Aspose.Imaging for .NET 20.10 - Release notes</a><span class=divider></span></li></ul></div></div></div><div class="container-fluid content2 vpanel-left"><div class=container><div class=row><div class="col-md-3 vpanel tree-section"><p class=list-title>Browse our Products<button type=button class=treeview-toggle> <span class=sr-only>Toggle navigation</span> <span class="icon expand-icon glyphicon glyphicon-hide"></span></button></p><div id=tree class="treeview hidetree"></div></div><div class="col-md-9 lhs1 col-xs-12 mobilehide node-section"><div class=box1><section role=main class="main-container page-package-details"><div class=row><div class="col-sm-9 package-details-main"><h1><strong>Aspose.Imaging for .NET 20.10 - Release notes</strong></h1><div class="tab-content body-tab-content"><div role=tabpanel class="tab-pane active" id=readme-tab><div class=readme-common><div id=readme-container><p><table><thead><tr><th><strong>Key</strong></th><th><strong>Summary</strong></th><th><strong>Category</strong></th></tr></thead><tbody><tr><td>IMAGINGNET-4100</td><td>Improve export of multi-page vector formats to multi-page raster formats</td><td>Feature</td></tr><tr><td>IMAGINGNET-4060</td><td>Support of resize operation for Interlaced GIF images</td><td>Feature</td></tr><tr><td>IMAGINGNET-4134</td><td>Raster images exports to Html5 Canvas with the wrong scale</td><td>Enhancement</td></tr><tr><td>IMAGINGNET-4128</td><td>Watermark is incorrect when GIF image loaded and saved</td><td>Enhancement</td></tr><tr><td>IMAGINGNET-4116</td><td>Gif to Png export adds transparent areas when not needed</td><td>Enhancement</td></tr><tr><td>IMAGINGNET-4112</td><td>File is corrupted or damaged exception was thrown when rendering TIFF document</td><td>Enhancement</td></tr><tr><td>IMAGINGNET-4111</td><td>Aspose.Imaging 20.8: Saving particular ODG file to PNG raises exception</td><td>Enhancement</td></tr><tr><td>IMAGINGNET-4102</td><td>Index was outside the bounds of the array exception when saving EMF</td><td>Enhancement</td></tr><tr><td>IMAGINGNET-4092</td><td>Aspose.Imaging 20.7: Saving each frame from particular tiff file to png produces incorrect images</td><td>Enhancement</td></tr><tr><td>IMAGINGNET-4090</td><td>Exception : Array dimensions exceeded supported range on working with CDR file</td><td>Enhancement</td></tr><tr><td>IMAGINGNET-4078</td><td>Support of convertion for 16 bpp RGBA 5551 BMP to 32 bpp RGBA PNG</td><td>Enhancement</td></tr><tr><td>IMAGINGNET-4073</td><td>Incorrect output when exporting EMF to PNG</td><td>Enhancement</td></tr><tr><td>IMAGINGNET-4058</td><td>IndexOutOfRangeExceptions when exporting JPEG YCbCr to PNG Grayscale</td><td>Enhancement</td></tr><tr><td>IMAGINGNET-3546</td><td>MS Paint cannot open Aspose.Imaging EMF</td><td>Enhancement</td></tr></tbody></table><p>Since current release Aspose.Imaging .NET Standard API is tested for Linux.</p><h2 id=public-api-changes><strong>Public API changes:</strong></h2><p><strong>Added APIs:</strong></p><p>Property Aspose.Imaging.ImageOptions.MultiPageOptions.PageRasterizationOptions</p><p><strong>Removed APIs:</strong></p><h2 id=usage-examples><strong>Usage Examples:</strong></h2><p><strong>IMAGINGNET-4134 Raster images exports to Html5 Canvas with the wrong scale</strong></p><pre tabindex=0><code>foreach (string fileName in new[] { &#34;Progressive.png&#34;, &#34;cat.jpg&#34; })
+{
+    using (var image = Image.Load(fileName))
+    {
+        image.Save(Path.GetFileNameWithoutExtension(fileName) + &#34;.html&#34;, new Html5CanvasOptions());
+    }
+}
+</code></pre><p><strong>IMAGINGNET-4128 Watermark is incorrect when GIF image loaded and saved</strong></p><pre tabindex=0><code>using (var image = Image.Load(&#34;2086.gif&#34;))
+{
+    image.Save(&#34;Result.gif&#34;);
+}
+</code></pre><p><strong>IMAGINGNET-4116 Gif to Png export adds transparent areas when not needed</strong></p><pre tabindex=0><code>using (var image = (GifImage)Image.Load(&#34;2086.gif&#34;))
+{
+    image.Pages[1].Save(&#34;Frame.png&#34;, new PngOptions { FullFrame = true, ColorType = PngColorType.Truecolor });
+}
+</code></pre><p><strong>IMAGINGNET-4112 File is corrupted or damaged exception was thrown when rendering TIFF document</strong></p><pre tabindex=0><code>using (Image image = Image.Load(&#34;marveshja1.tiff&#34;))
+{
+    image.Save(&#34;marveshja1.png&#34;, new PngOptions());
+}
+</code></pre><p><strong>IMAGINGNET-4111 Aspose.Imaging 20.8: Saving particular ODG file to PNG raises exception</strong></p><pre tabindex=0><code>string baseFolder = @&#34;D:\&#34;;
+string inputFile = &#34;abrak_2.odg&#34;;
+string inputFileName = Path.Combine(baseFolder, inputFile);
+string outputFileName = inputFileName + &#34;.png&#34;;
+using (Image image = Image.Load(inputFileName))
+{
+    image.Save(outputFileName, new PngOptions());
+}
+</code></pre><p><strong>IMAGINGNET-4102 Index was outside the bounds of the array exception when saving EMF</strong></p><pre tabindex=0><code>string baseFolder = @&#34;D:\&#34;;
+string file = &#34;sample.emf&#34;;
+string inputFileName = Path.Combine(baseFolder, file);
+string outputFileName = inputFileName + &#34;.png&#34;;
+using (Image image = Image.Load(inputFileName))
+{
+   image.Save(outputFileName, new PngOptions());
+}
+</code></pre><p><strong>IMAGINGNET-4100 Improve export of multi-page vector formats to multi-page raster formats</strong></p><pre tabindex=0><code>### Export CMX image with pages of different sizes to TIFF format
+Aspose.Imaging allows you to specify rasterization options for each page during the export. The following source code sample demonstrates how to export multi-page CMX image to TIFF format:
+
+static void Main()
+{
+    using (var image = (VectorMultipageImage)Image.Load(&#34;MultiPage2.cmx&#34;))
+    {
+        // Create page rasterization options
+        var pageOptions = CreatePageOptions&lt;CmxRasterizationOptions&gt;(image);
+
+        // Create TIFF options
+        var options = new TiffOptions(TiffExpectedFormat.TiffDeflateRgb) { MultiPageOptions = new MultiPageOptions { PageRasterizationOptions = pageOptions } };
+
+        // Export image to TIFF format
+        image.Save(&#34;MultiPage2.cmx.tiff&#34;, options);
+    }
+}
+
+private static VectorRasterizationOptions[] CreatePageOptions&lt;TOptions&gt;(VectorMultipageImage image) where TOptions : VectorRasterizationOptions
+{
+    // Create page rasterization options for each page in the image
+    return image.Pages.Select(x =&gt; x.Size).Select(CreatePageOptions&lt;TOptions&gt;).ToArray();
+}
+
+private static VectorRasterizationOptions CreatePageOptions&lt;TOptions&gt;(Size pageSize) where TOptions : VectorRasterizationOptions
+{
+    // Create the instance of rasterization options
+    var options = Activator.CreateInstance&lt;TOptions&gt;();
+
+    // Set the page size
+    options.PageSize = pageSize;
+    return options;
+}
+
+### Export CDR image to PDF format
+The following source code sample shows you how to export CDR image to PDF format:
+
+using (var image = (VectorMultipageImage)Image.Load(&#34;MultiPage2.cdr&#34;))
+{
+    // Create page rasterization options
+    var pageOptions = CreatePageOptions&lt;CdrRasterizationOptions&gt;(image);
+
+    // Create PDF options
+    var options = new PdfOptions { MultiPageOptions = new MultiPageOptions { PageRasterizationOptions = pageOptions } };
+
+    // Export image to PDF format
+    image.Save(&#34;MultiPage2.cdr.pdf&#34;, options);
+}
+</code></pre><p><strong>IMAGINGNET-4092 Aspose.Imaging 20.7: Saving each frame from particular tiff file to png produces incorrect images</strong></p><pre tabindex=0><code>using (var tiff = (TiffImage)Image.Load(&#34;Camping.tiff&#34;))
+{
+    var i = 0;
+    foreach (TiffFrame frame in tiff.Frames)
+    {
+        frame.Save($&#34;converted-{++i}.png&#34;, new PngOptions());
+    }
+}
+</code></pre><p><strong>IMAGINGNET-4090 Exception : Array dimensions exceeded supported range on working with CDR file</strong></p><pre tabindex=0><code>string[] files = new string[] {&#34;audi_icons_13.2.cdr&#34;, &#34;laundry card curved.cdr&#34;, &#34;Revised Creamy Cake Company 7x7x5inch.cdr&#34;, &#34;royal.cdr&#34;};
+ string baseFolder = @&#34;D:\&#34;;
+ foreach (var fileName in files)
+ {
+    string inputFilePath = Path.Combine(baseFolder, fileName);
+    string outputFilePath = inputFilePath + &#34;.pdf&#34;;
+    using (CdrImage image = (CdrImage) Image.Load(inputFilePath))
+    {
+       image.Save(outputFilePath, new PdfOptions());
+    }
+ }
+</code></pre><p><strong>IMAGINGNET-4078 Support of convertion for 16 bpp RGBA 5551 BMP to 32 bpp RGBA PNG</strong></p><pre tabindex=0><code>### Exporting RGB 16 Bpp BMP with 5,5,5,1 channels to RGBA 32 Bpp PNG
+
+
+using (var image = Image.Load(&#34;tiger2.bmp&#34;))
+{
+    image.Save(&#34;tiger2.bmp.png&#34;, new PngOptions() { ColorType = Aspose.Imaging.FileFormats.Png.PngColorType.TruecolorWithAlpha });
+}
+</code></pre><p><strong>IMAGINGNET-4073 Incorrect output when exporting EMF to PNG</strong></p><pre tabindex=0><code>string file = &#34;MultiPage.cdr.emf&#34;;
+            string baseFolder = @&#34;D:\&#34;;
+            string inputFileName = Path.Combine(baseFolder, file);
+            string outputFileName = Path.Combine(baseFolder, file + &#34;.png&#34;);
+            using (Image image = Image.Load(inputFileName))
+            {
+                PngOptions saveOptions = new PngOptions();
+                saveOptions.VectorRasterizationOptions = new EmfRasterizationOptions();
+                saveOptions.VectorRasterizationOptions.PageSize = image.Size;
+                image.Save(outputFileName, saveOptions);
+            }
+</code></pre><p><strong>IMAGINGNET-4060 Support of resize operation for Interlaced GIF images</strong></p><pre tabindex=0><code>using (Image image = Image.Load(&#34;cat_interlaced.gif&#34;))
+{
+    // Perform resize operation
+    image.ResizeHeightProportionally(400, ResizeType.HighQualityResample);
+
+    // Export image to any raster format
+    image.Save(&#34;cat_resized.png&#34;, new PngOptions());
+}
+</code></pre><p><strong>IMAGINGNET-4058 IndexOutOfRangeExceptions when exporting JPEG YCbCr to PNG Grayscale</strong></p><pre tabindex=0><code>### Export of the YCbCr JPEG image as a Grayscale PNG.
+
+
+using (Image image = Image.Load(&#34;source.jpg&#34;))
+{
+    image.Save(&#34;output.png&#34;, new PngOptions() { ColorType = PngColorType.Grayscale });
+}
+</code></pre><p><strong>IMAGINGNET-3546 MS Paint cannot open Aspose.Imaging EMF</strong></p><pre tabindex=0><code>// Disable license.
+Aspose.Imaging.Tests.License.LicenseHelper.RemoveLicense();
+
+string dir = @&#34;c:\aspose.work\IMAGINGNET\3508\&#34;;
+using(Image image = Image.Load(dir + &#34;1.emf&#34;))
+{
+    image.Save(dir + &#34;out.emf&#34;);
+}
+</code></pre></p></div></div></div></div><hr></div></div></section></div></div></div></div></div></div><div id=dvHidden style=display:none></div><div id=footer></div><a class=backtop>&nbsp;</a><div id=DynabicMenuFooter></div><script type=text/javascript>const langarray=[]</script><script type=text/javascript>jQuery(document).ready(function(){let e=$(".nested").hide(),t=$(".treeview-animated-element");$(".treeview-animated-items-header").hover(function(){$(this).children.toggleClass("Mydiv")}),$(".treeview-animated-items-header").click(function(){return console.log("mala"),$this=$(this),console.log($this.attr("id")),$target=$this.siblings(".nested"),$pointerPlus=$this.children(".fa-plus"),$pointerMinus=$this.children(".fa-minus"),$pointerPlus.removeClass("fa-plus"),$pointerPlus.addClass("fa-minus"),$pointerMinus.removeClass("fa-minus"),$pointerMinus.addClass("fa-plus"),$this.toggleClass("open"),$target.hasClass("active")?$target.removeClass("active").slideUp():$target.addClass("active").slideDown(),!1})})</script><script>(function(e,s,o,a,t,n,i){e.ContainerizeMenuObject=t,e[t]=e[t]||function(){(e[t].q=e[t].q||[]).push(arguments)},e[t].l=1*new Date,n=s.createElement(o),i=s.getElementsByTagName(o)[0],n.async=1,n.src=a,i.parentNode.append(n)})(window,document,"script","https://menu.containerize.com/scripts/engine.min.js?v=1.0.1","aspose-en")</script><script src=https://releases-qa.aspose.com/res_repo/js/highlight.min.js></script>
+<script src=https://releases-qa.aspose.com/res_repo/js/bootstrap.min.js></script>
+<script src=/js/bundle.min.js></script>
+<script src=/js/dynabic.treeview.js></script>
+<script src=/js/treeviewmanager.js></script>
+<script>hljs.highlightAll()</script><link rel=stylesheet type=text/css href=https://releases-qa.aspose.com/res_repo/css/hugocustom.css><script>$(".btn-showside .mb-5").on("click",function(){$("main .flex .dn.db-l").toggleClass("showsidebar"),$("main .flex .w-100").toggleClass("noscroll")}),$(".btn-showmenu").on("click",function(){$("nav.bg-primary-color-dark").toggleClass("showmenu")}),$(".btn-plain").on("click",function(){$("main .flex .dn.db-l").removeClass("showsidebar"),$("main .flex .dn.db-l").removeClass("showsidebar"),$("nav.bg-primary-color-dark").removeClass("showmenu")}),$(".ss-bar ul li a[data-target]").on("click",function(){$(this).find(".i.fa-angle-down").hasClass("fa-angle-up")?$(this).find("i.fa-angle-down").removeClass("fa-angle-up"):$(this).find("i.fa-angle-down").toggleClass("fa-angle-up")}),$(".btn-showside").on("click",function(){$(".ss-bar").toggleClass("showsidebar")}),$(".btn-plain").on("click",function(){$(".ss-bar").removeClass("showsidebar")})</script><script>$(document).ready(function(){$("div pre").removeAttr("style");var e,t=$(location).attr("hash");"#package-explorer"==t&&(e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]'),e&&e.click()),$('a:has(img[alt="banner"]').click(function(){event.preventDefault();var e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]');e&&e.click()}),$(window).scroll(function(){$(this).scrollTop()>150?$(".backtop").fadeIn():$(".backtop").fadeOut()}),$(".backtop").click(function(){return $("html, body").animate({scrollTop:0},600),!1}),$(".linkshow").on("click",function(){$(this).find("i").toggleClass("fa-minus-square"),$(".linkshowbox").toggleClass("hide")}),document.querySelector("body").addEventListener("click",function(t){if(t.target.classList.contains("searchButton")){$(".ss-bar").removeClass("showsidebar");try{var e=$("input[name=q]").val();gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}if(t.target.classList.contains("fa-search")){$(".ss-bar").removeClass("showsidebar");try{e=$("input[name=q]").val(),gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}},!0)})</script><script>document.querySelectorAll("pre > code").forEach(t=>{const n=t.parentNode.parentNode,e=document.createElement("button");e.classList.add("copy-code"),e.innerHTML="copy";function s(){e.innerHTML="copied!",setTimeout(()=>{e.innerHTML="copy"},2e3)}e.addEventListener("click",o=>{if("clipboard"in navigator){navigator.clipboard.writeText(t.textContent),s();return}const e=document.createRange();e.selectNodeContents(t);const n=window.getSelection();n.removeAllRanges(),n.addRange(e);try{document.execCommand("copy"),s()}catch(e){}n.removeRange(e)}),n.classList.contains("highlight")?n.appendChild(e):n.parentNode.firstChild==n||(t.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName=="TABLE"?t.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(e):t.parentNode.appendChild(e))})</script></body></html>

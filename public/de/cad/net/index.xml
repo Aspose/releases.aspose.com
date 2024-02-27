@@ -1,0 +1,2170 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Laden Sie die C#-Bibliothek herunter, um CAD-Dateien zu zeichnen und zu rendern | Aspose.CAD on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/cad/net/</link><description>Recent content in Laden Sie die C#-Bibliothek herunter, um CAD-Dateien zu zeichnen und zu rendern | Aspose.CAD on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/cad/net/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-1.0.0 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-1.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-1.0.0/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 1.0.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+48
+Dateigröße:
+13.5 MB Posted By: vitaly.krivenko
+Ansichten:
+250
+Hinzugefügt am:
+5/20/2016
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2016/aspose-cad-for-net-1-0-0-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8425c7994cd54524b2963cf7daf5ee05&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---Neue-Releases--aspose.cad-for-.net-1.0.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/-aspose.cad-for-.net-1.0.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/-aspose.cad-for-.net-1.0.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 1.0.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+72
+Dateigröße:
+13.2 MB Posted By: vitaly.krivenko
+Ansichten:
+244
+Hinzugefügt am:
+5/20/2016
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2016/aspose-cad-for-net-1-0-0-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.CAD für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-1.1.0 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-1.1.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-1.1.0/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 1.1.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+23
+Dateigröße:
+13.7 MB Posted By: denya1986
+Ansichten:
+302
+Hinzugefügt am:
+8/3/2016
+Versionshinweise http://www.aspose.com/docs/display/cadnet/Aspose.CAD+for+.NET+1.1.0+-+Release+notes BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation v1.1
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=96a66cda67d24a4ab94dbae853791277&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-1.1.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-1.1.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-1.1.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 1.1.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+72
+Dateigröße:
+15.0 MB Posted By: denya1986
+Ansichten:
+220
+Hinzugefügt am:
+8/3/2016
+Release Noteshttp://www.aspose.com/docs/display/cadnet/Aspose.CAD+for+.NET+1.1.0+-+Release+notesDescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v1.1. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-16.10.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-16.10.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-16.10.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 16.10.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+57
+Dateigröße:
+13.6 MB Posted By: denya1986
+Ansichten:
+240
+Hinzugefügt am:
+10/19/2016
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2016/aspose-cad-for-net-16-10-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v16.10. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-16.10 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-16.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-16.10/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 16.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+71
+Dateigröße:
+13.8 MB Posted By: denya1986
+Ansichten:
+325
+Hinzugefügt am:
+10/19/2016
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2016/aspose-cad-for-net-16-10-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation v16.10
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=96fbe8d0124049049dcabae2c9a9b9be&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-16.12 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-16.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-16.12/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 16.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+29.7 MB Posted By: denya1986
+Ansichten:
+265
+Hinzugefügt am:
+12/16/2016
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2016/aspose-cad-for-net-16-12-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation v16.12
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=26a0e5698ff64c4d966faeb89c34a9dc&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-16.12-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-16.12-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-16.12-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 16.12 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+25
+Dateigröße:
+29.9 MB Posted By: denya1986
+Ansichten:
+288
+Hinzugefügt am:
+12/16/2016
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2016/aspose-cad-for-net-16-12-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v16.12. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---New-Releases-aspose.cad-for-.net-16.12.1-(nur dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-16.12.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-16.12.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 16.12.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+32
+Dateigröße:
+29.7 MB Posted By: denya1986
+Ansichten:
+272
+Hinzugefügt am:
+12/29/2016
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2016/aspose-cad-for-net-16-12-1-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v16.12.1. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-16.12.1 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-16.12.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-16.12.1/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 16.12.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+46
+Dateigröße:
+29.7 MB Posted By: denya1986
+Ansichten:
+516
+Hinzugefügt am:
+12/29/2016
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2016/aspose-cad-for-net-16-12-1-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation v16.12.1
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=98363c3cc75042529b3b7a9d55a4d6d1&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-17.02 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-17.02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-17.02/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 17.02
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+38
+Dateigröße:
+30.2 MB Posted By: denya1986
+Ansichten:
+468
+Hinzugefügt am:
+2/20/2017
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2017/aspose-cad-for-net-17-02-0-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation v17.02
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=071175cc55ad4194a15147693b257f72&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-17.02-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-17.02-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-17.02-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 17.02 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+69
+Dateigröße:
+30.2 MB Posted By: denya1986
+Ansichten:
+247
+Hinzugefügt am:
+2/20/2017
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2017/aspose-cad-for-net-17-02-0-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v17.02. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Versionen-aspose.cad-for-.net-17.4-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-17.4-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-17.4-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 17.4 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+74
+Dateigröße:
+30.7 MB Posted By: Denis.Demenko
+Ansichten:
+345
+Hinzugefügt am:
+4/28/2017
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2017/aspose-cad-for-net-17-4-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v17.4. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-17.4 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-17.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-17.4/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 17.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+102
+Dateigröße:
+30.5 MB Posted By: Denis.Demenko
+Ansichten:
+465
+Hinzugefügt am:
+4/28/2017
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2017/aspose-cad-for-net-17-4-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation v17.4
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=37c9aa31d4ce486c8a7a91975432813d&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-17.9 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-17.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-17.9/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 17.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+36
+Dateigröße:
+32.0 MB Posted By: Denis.Demenko
+Ansichten:
+428
+Hinzugefügt am:
+9/27/2017
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2017/aspose-cad-for-net-17-9-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation v17.9
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=49afa41f90c54dc28e148033aac0e251&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-17.9-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-17.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-17.9-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 17.9 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+80
+Dateigröße:
+32.0 MB Posted By: Denis.Demenko
+Ansichten:
+243
+Hinzugefügt am:
+9/27/2017
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2017/aspose-cad-for-net-17-9-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v17.9. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-17.12-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-17.12-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-17.12-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 17.12 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+48
+Dateigröße:
+32.4 MB Posted By: Denis.Demenko
+Ansichten:
+189
+Hinzugefügt am:
+12/21/2017
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2017/aspose-cad-for-net-17-12-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v17.12. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-17.12 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-17.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-17.12/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 17.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+58
+Dateigröße:
+32.4 MB Posted By: Denis.Demenko
+Ansichten:
+598
+Hinzugefügt am:
+12/21/2017
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2017/aspose-cad-for-net-17-12-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation v17.12
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bea9b5877263459ebe3c484c2bfe9bbb&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-17.12.1 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-17.12.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-17.12.1/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 17.12.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+32.4 MB Posted By: Denis.Demenko
+Ansichten:
+128
+Hinzugefügt am:
+2/26/2018
+Versionshinweise https://docs.aspose.com/display/cadnet/Aspose.CAD+for+.NET+17.12.1+-+Version+Hinweise BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation v17.12.1
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c06b9d9f2fa742fbb5e2b3daf7fc8901&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-17.12.1-(nur dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-17.12.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-17.12.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 17.12.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+18
+Dateigröße:
+32.4 MB Posted By: Denis.Demenko
+Ansichten:
+242
+Hinzugefügt am:
+2/26/2018
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2017/aspose-cad-for-net-17-12-1-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v17.12.1. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-18.3 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-18.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-18.3/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 18.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+76
+Dateigröße:
+32.4 MB Posted By: Denis.Demenko
+Ansichten:
+152
+Hinzugefügt am:
+3/9/2018
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2018/aspose-cad-for-net-18-3-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation v18.3
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=926e616cbb18497490d771f7ca6158d1&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-18.3-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-18.3-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-18.3-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 18.3 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+101
+Dateigröße:
+32.4 MB Posted By: Denis.Demenko
+Ansichten:
+337
+Hinzugefügt am:
+3/9/2018
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2018/aspose-cad-for-net-18-3-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v18.3. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-18.8 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-18.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-18.8/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 18.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+68
+Dateigröße:
+25.6 MB Posted By: Denis.Demenko
+Ansichten:
+48
+Hinzugefügt am:
+9/3/2018
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2018/aspose-cad-for-net-18-8-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v18.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=496d38374c7646dca825d38b198ee4da&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue Versionen--aspose.cad-for-.net-18.8-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/-aspose.cad-for-.net-18.8-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/-aspose.cad-for-.net-18.8-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 18.8 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+71
+Dateigröße:
+25.7 MB Posted By: Denis.Demenko
+Ansichten:
+64
+Hinzugefügt am:
+9/3/2018
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2018/aspose-cad-for-net-18-8-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v18.8. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-18.8.1 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-18.8.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-18.8.1/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 18.8.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+38
+Dateigröße:
+25.9 MB Posted By: Denis.Demenko
+Ansichten:
+170
+Hinzugefügt am:
+11/28/2018
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2018/aspose-cad-for-net-18-8-1-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation v18.8.1
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8a03e82bc2964783ae78981e5a5c0b3f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.cad-for-.net-18.8.1-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-18.8.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-18.8.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 18.8.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+69
+Dateigröße:
+26.0 MB Posted By: Denis.Demenko
+Ansichten:
+46
+Hinzugefügt am:
+11/28/2018
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2018/aspose-cad-for-net-18-8-1-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v18.8.1. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-18.12 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-18.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-18.12/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 18.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+46
+Dateigröße:
+25.9 MB Posted By: Denis.Demenko
+Ansichten:
+1066
+Hinzugefügt am:
+1/9/2019
+Versionshinweise https://docs.aspose.com/display/CADNET/Aspose.CAD+for+.NET+18.12+-+Release+Notes BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v18.12
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=85b3a897ec5f43c1bb25429d5d35cde9&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-18.12-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-18.12-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-18.12-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 18.12 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+68
+Dateigröße:
+27.1 MB Posted By: Denis.Demenko
+Ansichten:
+53
+Hinzugefügt am:
+1/9/2019
+Release Noteshttps://docs.aspose.com/display/CADNET/Aspose.CAD+for+.NET+18.12+-+Release+NotesDescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v18.12. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-19.2 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-19.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-19.2/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 19.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+44
+Dateigröße:
+26.0 MB Posted By: vitalii.kornyliuk
+Ansichten:
+340
+Hinzugefügt am:
+3/12/2019
+Versionshinweise https://docs.aspose.com/display/CADNET/Aspose.CAD+for+.NET+19.2+-+Release+Notes BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v19.2
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8fb56120460a4448886b2e0178b3fa5e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-19.2-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-19.2-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-19.2-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 19.2 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+55
+Dateigröße:
+26.1 MB Posted By: vitalii.kornyliuk
+Ansichten:
+50
+Hinzugefügt am:
+3/14/2019
+Release Noteshttps://docs.aspose.com/display/CADNET/Aspose.CAD+for+.NET+19.2+-+Release+NotesDescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v19.2. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-19.5 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-19.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-19.5/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 19.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+43
+Dateigröße:
+31.3 MB Posted By: vitalii.kornyliuk
+Ansichten:
+286
+Hinzugefügt am:
+5/19/2019
+Versionshinweise https://docs.aspose.com/display/CADNET/Aspose.CAD+for+.NET+19.5+-+Release+Notes BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v19.5
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=994e0dbbb6b14be89416388aa53bcc70&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-19.5-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-19.5-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-19.5-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 19.5 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+72
+Dateigröße:
+31.4 MB Posted By: vitalii.kornyliuk
+Ansichten:
+203
+Hinzugefügt am:
+5/19/2019
+Release Noteshttps://docs.aspose.com/display/CADNET/Aspose.CAD+for+.NET+19.5+-+Release+NotesDescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v19.5. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-19.7 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-19.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-19.7/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 19.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+26
+Dateigröße:
+33.2 MB Posted By: vitalii.kornyliuk
+Ansichten:
+273
+Hinzugefügt am:
+8/10/2019
+Versionshinweise https://docs.aspose.com/display/CADNET/Aspose.CAD+for+.NET+19.7+-+Release+Notes BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v19.7
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=202209552fe34a0e865b88e97eac1887&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-19.7-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-19.7-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-19.7-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 19.7 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+38
+Dateigröße:
+32.7 MB Posted By: vitalii.kornyliuk
+Ansichten:
+50
+Hinzugefügt am:
+8/10/2019
+Release Noteshttps://docs.aspose.com/display/CADNET/Aspose.CAD+for+.NET+19.7+-+Release+NotesDescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v19.7. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-19.9 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-19.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-19.9/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 19.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+58
+Dateigröße:
+39.6 MB Posted By: vitalii.kornyliuk
+Ansichten:
+144
+Hinzugefügt am:
+10/6/2019
+Versionshinweise https://docs.aspose.com/display/CADNET/Aspose.CAD+for+.NET+19.9+-+Release+Notes BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v19.9
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=60c30b0b95ed41aaa972a76a149f5b33&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-19.9-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-19.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-19.9-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 19.9 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+73
+Dateigröße:
+40.0 MB Posted By: vitalii.kornyliuk
+Ansichten:
+157
+Hinzugefügt am:
+10/7/2019
+Release Noteshttps://docs.aspose.com/display/CADNET/Aspose.CAD+for+.NET+19.9+-+Release+NotesDescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v19.9. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-20.1 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-20.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-20.1/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 20.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+22
+Dateigröße:
+39.7 MB Posted By: vitalii.kornyliuk
+Ansichten:
+141
+Hinzugefügt am:
+1/25/2020
+Versionshinweise https://docs.aspose.com/display/CADNET/Aspose.CAD+for+.NET+20.1+-+Release+Notes BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v20.1
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cf7d2608125e4808b10f161774fccec2&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-20.1-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-20.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-20.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 20.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+26
+Dateigröße:
+40.2 MB Posted By: vitalii.kornyliuk
+Ansichten:
+52
+Hinzugefügt am:
+1/25/2020
+Release Noteshttps://docs.aspose.com/display/CADNET/Aspose.CAD+for+.NET+20.1+-+Release+NotesDescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v20.1. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-20.3 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-20.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-20.3/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 20.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+40.5 MB Posted By: vitalii.kornyliuk
+Ansichten:
+147
+Hinzugefügt am:
+3/31/2020
+Versionshinweise https://docs.aspose.com/display/CADNET/Aspose.CAD+for+.NET+20.3+-+Release+Notes BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v20.3
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e01d04334c4b48bab00c46d2ace308a2&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-20.3-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-20.3-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-20.3-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 20.3 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+40.9 MB Posted By: vitalii.kornyliuk
+Ansichten:
+21
+Hinzugefügt am:
+3/31/2020
+Release Noteshttps://docs.aspose.com/display/CADNET/Aspose.CAD+for+.NET+20.3+-+Release+NotesDescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v20.3. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-20.4 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-20.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-20.4/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 20.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+19
+Dateigröße:
+40.5 MB Posted By: vitalii.kornyliuk
+Ansichten:
+72
+Hinzugefügt am:
+5/8/2020
+Versionshinweise https://docs.aspose.com/display/CADNET/Aspose.CAD+for+.NET+20.4+-+Release+Notes BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v20.4
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0007451e32f445ea81fbbe784130ec9f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-20.4-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-20.4-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-20.4-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 20.4 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+29
+Dateigröße:
+40.9 MB Posted By: vitalii.kornyliuk
+Ansichten:
+77
+Hinzugefügt am:
+5/8/2020
+Release Noteshttps://docs.aspose.com/display/CADNET/Aspose.CAD+for+.NET+20.4+-+Release+NotesDescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v20.4. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-20.6 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-20.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-20.6/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 20.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+40.5 MB Posted By: vitalii.kornyliuk
+Ansichten:
+168
+Hinzugefügt am:
+6/27/2020
+Versionshinweise https://docs.aspose.com/display/CADNET/Aspose.CAD+for+.NET+20.6+-+Release+Notes BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v20.6
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=55e1f7b136944b0c988df235a8263ff9&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-20.6-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-20.6-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-20.6-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 20.6 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+41.0 MB Posted By: vitalii.kornyliuk
+Ansichten:
+36
+Hinzugefügt am:
+6/27/2020
+Release Noteshttps://docs.aspose.com/display/CADNET/Aspose.CAD+for+.NET+20.6+-+Release+NotesDescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v20.6. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-20.7 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-20.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-20.7/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 20.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+41.1 MB Posted By: vitalii.kornyliuk
+Ansichten:
+47
+Hinzugefügt am:
+8/6/2020
+Versionshinweise https://docs.aspose.com/display/CADNET/Aspose.CAD+for+.NET+20.7+-+Release+Notes BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v20.7
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b7b3f4be0c39433991d4a42ef9c44009&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-20.7-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-20.7-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-20.7-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 20.7 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+16
+Dateigröße:
+41.7 MB Posted By: vitalii.kornyliuk
+Ansichten:
+58
+Hinzugefügt am:
+8/6/2020
+Release Noteshttps://docs.aspose.com/display/CADNET/Aspose.CAD+for+.NET+20.7+-+Release+NotesDescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v20.7. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-20.8 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-20.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-20.8/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 20.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+50.5 MB Posted By: vitalii.kornyliuk
+Ansichten:
+205
+Hinzugefügt am:
+9/12/2020
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2020/aspose-cad-for-net-20-8-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v20.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=25f067ab1de84570824a980a7f303da3&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-20.8-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-20.8-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-20.8-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 20.8 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+53.6 MB Posted By: vitalii.kornyliuk
+Ansichten:
+41
+Hinzugefügt am:
+9/12/2020
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2020/aspose-cad-for-net-20-8-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v20.8. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-20.9 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-20.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-20.9/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 20.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+37.6 MB Posted By: vitalii.kornyliuk
+Ansichten:
+195
+Hinzugefügt am:
+10/5/2020
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2020/aspose-cad-for-net-20-9-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v20.9
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2b262b994ebb4577ab670b63d7640243&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-20.9-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-20.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-20.9-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 20.9 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+41
+Dateigröße:
+38.1 MB Posted By: vitalii.kornyliuk
+Ansichten:
+71
+Hinzugefügt am:
+10/5/2020
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2020/aspose-cad-for-net-20-9-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v20.9. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-20.10 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-20.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-20.10/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 20.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+14
+Dateigröße:
+43.1 MB Posted By: vitalii.kornyliuk
+Ansichten:
+96
+Hinzugefügt am:
+11/9/2020
+Versionshinweise https://docs.aspose.com/cad/net/aspose-cad-for-net-20-10-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v20.10
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=91aaa5cfd0164ca9b75f98b379ce3f38&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads --- Neue-Release-ASSOSPLE.CAD-FOR-.NET-VERSION-20.10- (Nur-DLLs).</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-22.10-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-22.10-dlls-only/</guid><description>&amp;nbsp;
+ASSOSS.CAD FUR .NET Version 20.10 (Nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+21
+Dateigröße:
+72.3 MB
+Posted By:
+vitalii.kornyliuk
+Ansichten:
+75
+Hinzugefügt am:
+11/9/2020
+Versionshinweise
+https://docs.aspsis.com/ CAD/NET/ASSON-CAD-FOR-NET-NET-20-10-Release-Notes/
+Beschreibung
+Diese ZIP -Datei enthält nur die ASSOSE.CAD für .NET -Assemblies v20.10. Die Versammlungen Sind die Gleilen Wie im Msi-Installer des Produkts der Gleilen-Version. Beladen Sie Diese Herunter, Wenn Sie ASSOSE.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-20.10-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-20.10-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-20.10-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 20.10 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+21
+Dateigröße:
+72.3 MB Posted By: vitalii.kornyliuk
+Ansichten:
+75
+Hinzugefügt am:
+11/9/2020
+Release Noteshttps://docs.aspose.com/cad/net/aspose-cad-for-net-20-10-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v20.10. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-20.11 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-20.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-20.11/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 20.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+14
+Dateigröße:
+43.7 MB Posted By: vitalii.kornyliuk
+Ansichten:
+51
+Hinzugefügt am:
+12/10/2020
+Versionshinweise https://docs.aspose.com/cad/net/aspose-cad-for-net-20-11-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v20.11
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=88b7724c6d694dbb9b5a7a2834326835&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-20.11-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-20.11-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-20.11-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 20.11 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+18
+Dateigröße:
+73.2 MB Posted By: vitalii.kornyliuk
+Ansichten:
+39
+Hinzugefügt am:
+12/10/2020
+Release Noteshttps://docs.aspose.com/cad/net/aspose-cad-for-net-20-11-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v20.11. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-20.12 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-20.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-20.12/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 20.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+44.4 MB Posted By: vitalii.kornyliuk
+Ansichten:
+160
+Hinzugefügt am:
+1/16/2021
+Versionshinweise https://docs.aspose.com/cad/net/aspose-cad-for-net-20-12-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v20.12
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a83c52f900484c3497e5778f49f91f17&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-20.12-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-20.12-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-20.12-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 20.12 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+24
+Dateigröße:
+74.3 MB Posted By: vitalii.kornyliuk
+Ansichten:
+25
+Hinzugefügt am:
+1/16/2021
+Release Noteshttps://docs.aspose.com/cad/net/aspose-cad-for-net-20-12-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v20.12. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-21.1 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-21.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-21.1/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 21.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+14
+Dateigröße:
+44.5 MB Posted By: vitalii.kornyliuk
+Ansichten:
+205
+Hinzugefügt am:
+2/9/2021
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-1-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v21.1
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5b766b6732f34b48ab1c026e69b27126&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-21.1-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-21.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-21.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 21.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+31
+Dateigröße:
+74.4 MB Posted By: vitalii.kornyliuk
+Ansichten:
+43
+Hinzugefügt am:
+2/9/2021
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-1-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v21.1. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-21.2 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-21.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-21.2/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 21.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+45.6 MB Posted By: vitalii.kornyliuk
+Ansichten:
+29
+Hinzugefügt am:
+3/16/2021
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-2-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v21.2
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8ddfac96d4894bc6ad2d66b19fd683fb&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-21.2-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-21.2-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-21.2-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 21.2 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+18
+Dateigröße:
+76.3 MB Posted By: vitalii.kornyliuk
+Ansichten:
+43
+Hinzugefügt am:
+3/16/2021
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-2-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v21.2. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-21.3 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-21.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-21.3/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 21.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+18
+Dateigröße:
+45.7 MB Posted By: vitalii.kornyliuk
+Ansichten:
+132
+Hinzugefügt am:
+4/11/2021
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-3-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v21.3
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=46eaebfa0e7a4f07a40c39cb42052a34&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-21.3-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-21.3-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-21.3-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 21.3 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+30
+Dateigröße:
+76.5 MB Posted By: vitalii.kornyliuk
+Ansichten:
+61
+Hinzugefügt am:
+4/11/2021
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-3-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v21.3. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-21.4 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-21.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-21.4/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 21.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+16
+Dateigröße:
+45.8 MB Posted By: vitalii.kornyliuk
+Ansichten:
+27
+Hinzugefügt am:
+5/10/2021
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-4-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v21.4
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a56fc92e920e4253b866d2a64e73b09a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-21.4-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-21.4-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-21.4-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 21.4 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+27
+Dateigröße:
+76.6 MB Posted By: vitalii.kornyliuk
+Ansichten:
+65
+Hinzugefügt am:
+5/10/2021
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-4-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v21.4. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-21.5 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-21.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-21.5/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 21.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+17
+Dateigröße:
+57.7 MB Posted By: vitalii.kornyliuk
+Ansichten:
+85
+Hinzugefügt am:
+5/31/2021
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-5-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v21.5
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=edb283bc023648b1922f2032a9c8be1b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-21.5-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-21.5-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-21.5-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 21.5 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+31
+Dateigröße:
+89.7 MB Posted By: vitalii.kornyliuk
+Ansichten:
+72
+Hinzugefügt am:
+5/31/2021
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-5-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v21.5. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-21.6 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-21.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-21.6/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 21.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+58.3 MB Posted By: vitalii.kornyliuk
+Ansichten:
+36
+Hinzugefügt am:
+7/13/2021
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-6-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v21.6
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=45ecc0163a384b9f92eda10262b211fe&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-21.6-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-21.6-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-21.6-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 21.6 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+13
+Dateigröße:
+90.5 MB Posted By: vitalii.kornyliuk
+Ansichten:
+55
+Hinzugefügt am:
+7/13/2021
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-6-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v21.6. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-21.7 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-21.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-21.7/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 21.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+60.3 MB Posted By: vitalii.kornyliuk
+Ansichten:
+63
+Hinzugefügt am:
+8/4/2021
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-7-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v21.7
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1585ae00db2448e0abf1959821f2e408&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-21.7-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-21.7-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-21.7-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 21.7 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+15
+Dateigröße:
+93.6 MB Posted By: vitalii.kornyliuk
+Ansichten:
+55
+Hinzugefügt am:
+8/4/2021
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-7-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v21.7. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-21.8 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-21.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-21.8/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 21.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+4
+Dateigröße:
+50.8 MB Posted By: vitalii.kornyliuk
+Ansichten:
+41
+Hinzugefügt am:
+9/1/2021
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-8-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v21.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=faae8586ae3947c28ca93f49eae7aeec&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-21.8-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-21.8-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-21.8-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 21.8 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+83.5 MB Posted By: vitalii.kornyliuk
+Ansichten:
+39
+Hinzugefügt am:
+9/1/2021
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-8-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v21.8. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-21.9 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-21.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-21.9/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 21.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+50.8 MB Posted By: vitalii.kornyliuk
+Ansichten:
+47
+Hinzugefügt am:
+9/9/2021
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-9-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v21.9
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b8272a1124e6422cb698c0404c7b954c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-21.9-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-21.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-21.9-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 21.9 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+26
+Dateigröße:
+83.5 MB Posted By: vitalii.kornyliuk
+Ansichten:
+64
+Hinzugefügt am:
+9/9/2021
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-9-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v21.9. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-21.10 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-21.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-21.10/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 21.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+58.4 MB Posted By: vitalii.kornyliuk
+Ansichten:
+48
+Hinzugefügt am:
+10/24/2021
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-10-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v21.10
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e3e076eb55e34ff4b8a5dcd1bc3ccaaa&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-21.10-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-21.10-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-21.10-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 21.10 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+23
+Dateigröße:
+92.5 MB Posted By: vitalii.kornyliuk
+Ansichten:
+51
+Hinzugefügt am:
+10/24/2021
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-10-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v21.10. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-21.11 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-21.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-21.11/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 21.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+58.4 MB Posted By: vitalii.kornyliuk
+Ansichten:
+37
+Hinzugefügt am:
+11/22/2021
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-11-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v21.11
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b4951fd0e9994f5e8e9be4420292f6f1&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-21.11-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-21.11-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-21.11-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 21.11 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+26
+Dateigröße:
+92.6 MB Posted By: vitalii.kornyliuk
+Ansichten:
+55
+Hinzugefügt am:
+11/22/2021
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-11-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v21.11. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-21.12 .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-21.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-21.12/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 21.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+59.7 MB Posted By: vitalii.kornyliuk
+Ansichten:
+37
+Hinzugefügt am:
+12/24/2021
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-12-release-notes/ BeschreibungEnthält das MSI-Installationsprogramm für die vollständige Produktinstallation von Aspose.CAD für .NET v21.12
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a84a9cef73a54156afc9d76b21a9643d&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-21.12-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-21.12-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-21.12-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 21.12 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+33
+Dateigröße:
+94.4 MB Posted By: vitalii.kornyliuk
+Ansichten:
+49
+Hinzugefügt am:
+12/24/2021
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2021/aspose-cad-for-net-21-12-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v21.12. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title>Verarbeiten Sie STL- und Collada-Dateien über die API für C#- und ASP.NET-Apps</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-22.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-22.1/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 22.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+59.8 MB
+Posted By:
+vitalii.kornyliuk
+Ansichten:
+60
+Hinzugefügt am:
+2/5/2022
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-1-release-notes/
+Bestandsdetails
+Verbesserte STL-Dateiverarbeitung Diese Version bietet Verbesserungen bei der Verarbeitung von Dateien im STL-Format. Das folgende C#-Code-Snippet funktioniert als STL-zu-PNG-Konverter über die API:
+string MyDir = RunExamples.GetDataDir_ConvertingCAD(); string sourceFilePath = MyDir + &amp;#34;galeon.stl&amp;#34;; using (var cadImage = (CadImage)Image.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-22.1-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-22.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-22.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 22.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+23
+Dateigröße:
+94.6 MB Posted By: vitalii.kornyliuk
+Ansichten:
+39
+Hinzugefügt am:
+2/5/2022
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-1-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v22.1. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title>Abrufen der Dimension der DWF-Seitengröße über die API für C#- und ASP.NET-Apps</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-22.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-22.2/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 22.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+59.8 MB
+Posted By:
+vitalii.kornyliuk
+Ansichten:
+89
+Hinzugefügt am:
+3/2/2022
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-2-release-notes/
+Bestandsdetails
+Seitengröße und Seitenabmessungen von DWF abrufen Möglichkeit hinzugefügt, die Seitengröße und Seitenabmessungen der DWF-Datei abzurufen.
+// The path to the documents directory. string MyDir = RunExamples.GetDataDir_DWFDrawings(); string sourceFilePath = MyDir + &amp;#34;blocks_and_tables.dwf&amp;#34;; string extension = Path.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-22.2-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-22.2-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-22.2-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 22.2 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+21
+Dateigröße:
+92.8 MB Posted By: vitalii.kornyliuk
+Ansichten:
+76
+Hinzugefügt am:
+3/2/2022
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-2-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v22.2. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.</description></item><item><title>Unterstützt CAD Big Font Convert DWG to PDF API für C# .NET Apps</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-22.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-22.3/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 22.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+4
+Dateigröße:
+60.4 MB
+Hinzugefügt am:
+: 4 weeks ago [4/23/2022]
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-3-release-notes/
+Bestandsdetails
+Unterstützung für große Schriftarten Unterstützung für Big Font in der API hinzugefügt.
+Speichereffiziente Konvertierung von DWG in PDF Wenn früher DWG in das PDF-Format konvertiert wurde, verbrauchte es viel Speicherplatz. Dieses Problem wurde jetzt behoben. Jetzt können Sie DWG mit verbesserten Ergebnissen in PDF konvertieren.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-22.3-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-22.3-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-22.3-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 22.3 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+94.9 MB Hinzugefügt am:
+: 4 weeks ago [4/23/2022]
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-3-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v22.3. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.
+.</description></item><item><title>Konvertieren Sie DXF in TIFF und DWG in WMF API für C#, ASP.NET Apps</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-22.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-22.4/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 22.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+Dateigröße:
+60.4 MB
+Hinzugefügt am:
+: 2 weeks ago [5/4/2022]
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-4-release-notes/
+Bestandsdetails
+Bessere Speicherverwaltung Beim Konvertieren von AutoCAD® DXF in das TIFF-Format (Rastergrafik) wurde ein Speicherverlust beobachtet. Daher bietet diese Version der API eine bessere Speicherverwaltung für die DXF-zu-TIFF-Konvertierung.
+Verbesserter DWG-zu-WMF-Export Der Export von AutoCAD® DWG nach WMF (Windows Metafile) wurde verbessert.</description></item><item><title> Downloads ---Neue-Releases-aspose.cad-for-.net-version-22.4-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-22.4-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-22.4-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 22.4 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+94.9 MB Hinzugefügt am:
+: 2 weeks ago [5/4/2022]
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-4-release-notes/DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v22.4. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.
+.</description></item><item><title>Exportieren Sie DWG nach WMF und OBJ nach DXF über die API für C# ASP.NET Apps</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-22.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-22.5/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 22.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+File Size:
+60.36MB
+Date Added:
+10/6/2022
+Versionshinweise https://docs.aspose.com/cad/net/aspose-cad-for-net-22-5-release-notes
+Bestandsdetails
+Verbesserter DWG-zu-WMF-Export Die Exportfunktion von DWG in das WMF-Format wurde verbessert.
+Dateigrößenoptimierung für den OBJ-zu-DXF-Export Das Problem der enormen Dateigröße nach dem Exportieren von OBJ in das DXF-Format wurde behoben.
+Verbesserter PDF-Export Das Problem mit der Textüberlappung in der exportierten PDF-Datei wurde behoben.</description></item><item><title>Downloads ---Neue Versionen-spose.cad-for-.net-version-22.5-(nur dlls)</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/spose.cad-for-.net-version-22.5-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/spose.cad-for-.net-version-22.5-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 22.5 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+20
+Dateigröße:
+94.94MB
+Hinzugefügt am:
+10/6/2022
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-5-release-notes/
+DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v22.5. Die Montage..
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b40c8274f05e0aac6039b2e66c86cb14-7-7425&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title>Acrobat Reader® &amp; Foxit® Line Rendering API für C# .NET Apps</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-22.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-22.6/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 22.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+61.04MB
+Date Added:
+13/6/2022
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-6-release-notes/
+Bestandsdetails
+Bessere Zeilendarstellung in Acrobat Reader® und Foxit® Zuvor fehlten in einigen Fällen die Zeilen für Acrobat Reader®, waren aber in Foxit® vorhanden. Dieses Problem wurde nun behoben.
+Unterstützung für das AutoCAD® DXB-Format Implementierung und Einführung der Unterstützung für das AutoCAD® DXB-Dateiformat. „DXB“ speichert typischerweise die 3D-CAD-Zeichnungen.</description></item><item><title>Downloads ---New Releases-aspose.cad-for-.net-version-22.6-(dlls-only)</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-22.6-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-22.6-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD for .NET version 22.6 (Dlls only)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+95.69MB
+Date Added:
+13/6/2022
+Release Noteshttps://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-6-release-notes/
+DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v22.6. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.CAD for .NET without the MSI installer.</description></item><item><title>Unterstützung für SHX-, STEP-, STP-Format-API für C#-, ASP.NET-Apps</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-22.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-22.7/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 22.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+61.93MB
+Date Added:
+17/7/2022
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-7-release-notes/
+Bestandsdetails
+Unterstützung für das AutoCAD® SHX-Format Diese Version der API bietet Unterstützung für das AutoCAD® SHX-Dateiformat. Es bietet außerdem die folgenden Verbesserungen bezüglich des SHX-Formats:
+Bessere Darstellung von SHX-Fonts Normalisierung der Textdicke Arbeiten Sie mit SHX-Symbolen Unterstützung für das STEP- (oder STP-) Format Die Unterstützung für STP / STEP-Dateien wurde der CAD-API hinzugefügt.</description></item><item><title>Downloads ---Neue Releases-aspose.cad-for-.net-version-22.7-(nur dlls)</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-22.7-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-22.7-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 22.7 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+97.09MB
+Hinzugefügt am:
+17/7/2022
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-7-release-notes/
+DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v22.7. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.
+.</description></item><item><title>Bewahren Sie 3D-Modelle auf, rendern Sie Ebenen über die API für C#- und .NET-Apps</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-22.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-22.8/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 22.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+48.87MB
+Date Added:
+4/9/2022
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-8-release-notes/
+Bestandsdetails
+3D-Modelle beibehalten (kabelgebunden) Fähigkeit, die verdrahteten 3D-Modelle beizubehalten.
+Zweiseitige Ebenen rendern Fähigkeit, doppelseitige Ebenen zu rendern.
+Wasserzeichen vergrößern Unterstützung für das Hochskalieren von Wasserzeichen hinzugefügt.
+Verbesserte DWG-zu-PDF-Konvertierung Es wurde beobachtet, dass in einigen Fällen die „DWG“-Datei nicht vollständig gerendert wurde, wenn sie in das „PDF“-Format konvertiert wurde.</description></item><item><title>Downloads ---Neue Releases-aspose.cad-for-.net-version-22.8-(nur dlls)</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-22.8-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-22.8-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 22.8 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+102.1MB
+Hinzugefügt am:
+4/9/2022
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-8-release-notes/
+DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v22.8. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.
+.</description></item><item><title>Downloads ---Neue Releases-aspose.cad-for-.net-version-22.9-(nur dlls)</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-22.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-22.9-dlls-only/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET Version 22.9 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+102.08MB
+Hinzugefügt am:
+4/10/2022
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-9-release-notes/
+DescriptionThis ZIP file contains only the Aspose.CAD for .NET assemblies v22.9. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie diese herunter, wenn Sie Aspose.CAD für .NET ohne das MSI-Installationsprogramm verwenden möchten.
+.</description></item><item><title>Exportieren Sie die ungarische Sonderzeichen-API für C#-, ASP.NET-Apps</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-22.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-22.9/</guid><description>&amp;nbsp;
+Aspose.CAD für .NET 22.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+57.35MB
+Date Added:
+4/10/2022
+Versionshinweise https://releases.aspose.com/cad/net/release-notes/2022/aspose-cad-for-net-22-9-release-notes/
+Bestandsdetails
+Ungarische Sonderzeichen exportieren Bisher wurden in einigen Fällen die ungarischen Sonderzeichen fälschlicherweise von DWG nach PDF exportiert. In dieser Version der API wurde das oben genannte Problem behoben.
+Verbesserte DWG-zu-PDF-Konvertierung „OutOfMemoryError“ beim Konvertieren von „DWG“ in das „PDF“-Format behoben.
+Verbesserte Szenenbewegungsempfindlichkeit Die Empfindlichkeit der bewegten Szene wurde verbessert.</description></item><item><title>Downloads --- New Releases-ASSOSPLE.CAD-FOR-.NET-23.1</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-23.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-23.1/</guid><description>&amp;nbsp;
+ASSOSS.CAD für .NET 23.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+87.33MB
+Datum hinzugefügt:
+26/1/2023
+Versionshinweisehttps://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-1-release-notes/
+BeschreibungEnthält MSI -Installationsprogramm für die vollständige Produktinstallation von asspose.cad für .net v23.1
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9c0cee1a5226d4d1ea1292a004310efe-18-8438&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.CAD-FOR-N.NET-VERSION-23.1- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-23.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-23.1-dlls-only/</guid><description>&amp;nbsp;
+ASSON.CAD für .NET Version 23.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+161.77MB
+Datum hinzugefügt:
+26/1/2023
+Versionshinweisehttps://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-1-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.CAD für .NET -Assemblies v23.1. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.CAD für .NET ohne MSI -Installationsprogramm verwenden möchten.
+.downloadcount {
+background-image: url("</description></item><item><title>Downloads --- New Releases-ASSOSPLE.CAD-FOR-.NET-23.2</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-23.2/</guid><description>&amp;nbsp;
+ASSON.CAD für .NET 23.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+87.61MB
+Datum hinzugefügt:
+25/2/2023
+Versionshinweisehttps://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-2-release-notes/
+BeschreibungEnthält MSI -Installationsprogramm für die vollständige Produktinstallation von asspose.cad für .NET v23.2
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=af287feae33e79f3dc3130c40a6e9aa5-18-8575&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.CAD-FOR-.NET-VERSION-23.2- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-23.2-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-23.2-dlls-only/</guid><description>&amp;nbsp;
+ASSON.CAD für .NET Version 23.2 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+162.26MB
+Datum hinzugefügt:
+25/2/2023
+Versionshinweisehttps://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-2-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.CAD für .NET -Assemblies v23.2. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.CAD für .NET ohne MSI -Installationsprogramm verwenden möchten.
+.downloadcount {
+background-image: url("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.CAD-FOR-.NET-23.3</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-23.3/</guid><description>&amp;nbsp;
+ASSOSS.CAD für .NET 23.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+93.73MB
+Datum hinzugefügt:
+26/3/2023
+Versionshinweisehttps://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-3-release-notes/
+BeschreibungEnthält MSI -Installationsprogramm für die vollständige Produktinstallation von asspose.cad für .NET v23.3
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=efdf6fab84e7c803ed4fc2f0ea07cfbd-19-8684&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.CAD-FOR-.NET-VERSION-23.3- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-23.3-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-23.3-dlls-only/</guid><description>&amp;nbsp;
+ASSON.CAD für .NET Version 23.3 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+170.99MB
+Datum hinzugefügt:
+26/3/2023
+Versionshinweisehttps://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-3-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.CAD für .NET -Assemblies v23.3. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.CAD für .NET ohne MSI -Installationsprogramm verwenden möchten.
+.downloadcount {
+background-image: url("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.CAD-FOR-.NET-23.4</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-23.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-23.4/</guid><description>&amp;nbsp;
+ASSOSS.CAD für .NET 23.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+78.91MB
+Datum hinzugefügt:
+26/4/2023
+Versionshinweisehttps://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-4-release-notes/
+BeschreibungEnthält MSI -Installationsprogramm für die vollständige Produktinstallation von asspose.cad für .NET v23.4
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=78e612eaaff8c2ce30e5f4a196cd22c6-16-8824&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.CAD-FOR-.NET-VERSION-23.4- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-23.4-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-23.4-dlls-only/</guid><description>&amp;nbsp;
+ASSON.CAD für .NET Version 23.4 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+79.42MB
+Datum hinzugefügt:
+26/4/2023
+Versionshinweisehttps://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-4-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.CAD für .NET -Assemblies v23.4. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.CAD für .NET ohne MSI -Installationsprogramm verwenden möchten.
+.downloadcount {
+background-image: url("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.CAD-FOR-.NET-23.5</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-23.5/</guid><description>&amp;nbsp;
+ASSON.CAD für .NET 23.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+79.02MB
+Datum hinzugefügt:
+24/5/2023
+Versionshinweisehttps://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-5-release-notes/
+BeschreibungEnthält MSI -Installationsprogramm für die vollständige Produktinstallation von asspose.cad für .NET v23.5
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0523ed7bb1a8ad9f0141555b10a684a9-16-8899&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.CAD-FOR-.NET-VERSION-23.5- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-23.5-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-23.5-dlls-only/</guid><description>&amp;nbsp;
+ASSON.CAD für .NET Version 23.5 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+79.53MB
+Datum hinzugefügt:
+24/5/2023
+Versionshinweisehttps://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-5-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.CAD für .NET -Assemblies v23.5. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.CAD für .NET ohne MSI -Installationsprogramm verwenden möchten.
+.downloadcount {
+background-image: url("</description></item><item><title>Downloads --- New Releases-ASSOSPLE.CAD-FOR-.NET-23.6</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-23.6/</guid><description>&amp;nbsp;
+ASSON.CAD für .NET 23.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+83.84MB
+Datum hinzugefügt:
+22/6/2023
+Versionshinweisehttps://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-6-release-notes/
+BeschreibungEnthält MSI -Installationsprogramm für die vollständige Produktinstallation von asspose.cad für .net v23.6
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2bcf5f318a24ce369e52c2b22eac2c61-17-9103&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.CAD-FOR-.NET-VERSION-23.6- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-23.6-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-23.6-dlls-only/</guid><description>&amp;nbsp;
+ASSON.CAD für .NET Version 23.6 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+84.4MB
+Datum hinzugefügt:
+4/7/2023
+Versionshinweisehttps://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-6-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.CAD für .NET -Assemblies v23.6. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.CAD für .NET ohne MSI -Installationsprogramm verwenden möchten.
+.downloadcount {
+background-image: url("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.CAD-FOR-.NET-23.7</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-23.7/</guid><description>&amp;nbsp;
+ASSOSS.CAD für .NET 23.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+79.69MB
+Datum hinzugefügt:
+20/7/2023
+Versionshinweisehttps://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-7-release-notes/
+BeschreibungEnthält MSI -Installationsprogramm für die vollständige Produktinstallation von asspose.cad für .net v23.7
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=979a0f71a4a4de6fe40aa7c42ed33df2-16-9240&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.CAD-FOR-.NET-VERSION-23.7- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-23.7-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-23.7-dlls-only/</guid><description>&amp;nbsp;
+ASSON.CAD für .NET Version 23.7 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+79.26MB
+Datum hinzugefügt:
+20/7/2023
+Versionshinweisehttps://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-7-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.CAD für .NET -Assemblies v23.7. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.CAD für .NET ohne MSI -Installationsprogramm verwenden möchten.
+.downloadcount {
+background-image: url("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.CAD-FOR-.NET-23.8</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-23.8/</guid><description>&amp;nbsp;
+ASSON.CAD für .NET 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+78.16MB
+Datum hinzugefügt:
+22/8/2023
+Versionshinweisehttps://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-8-release-notes/
+BeschreibungEnthält MSI -Installationsprogramm für die vollständige Produktinstallation von asspose.cad für .net v23.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=260c6a42b560026a81c72571caf30463-16-9364&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.CAD-FOR-.NET-VERSION-23.8- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-23.8-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-23.8-dlls-only/</guid><description>&amp;nbsp;
+ASSON.CAD für .NET Version 23.8 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+78.74MB
+Datum hinzugefügt:
+22/8/2023
+Versionshinweisehttps://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-8-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.CAD für .NET -Assemblies v23.8. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.CAD für .NET ohne MSI -Installationsprogramm verwenden möchten.
+.downloadcount {
+background-image: url("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.CAD-FOR-.NET-23.9</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-23.9/</guid><description>&amp;nbsp;
+ASSOSS.CAD für .NET 23.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+78.24MB
+Datum hinzugefügt:
+2/10/2023
+Versionshinweisehttps://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-9-release-notes/
+BeschreibungEnthält MSI -Installationsprogramm für die vollständige Produktinstallation von asspose.cad für .net v23.9
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=818bf2a8b0168a9ad00977ff5031739b-16-9559&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.CAD-FOR-N.NET-VERSION-23.9- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-23.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-23.9-dlls-only/</guid><description>&amp;nbsp;
+ASSON.CAD für .NET Version 23.9 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+78.82MB
+Datum hinzugefügt:
+2/10/2023
+Versionshinweisehttps://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-9-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.CAD für .NET -Assemblies v23.9. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.CAD für .NET ohne MSI -Installationsprogramm verwenden möchten.
+.downloadcount {
+background-image: url("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.CAD-FOR-.NET-23.10</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-23.10/</guid><description>&amp;nbsp;
+ASSOSS.CAD für .NET 23.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+78.21MB
+Datum hinzugefügt:
+13/11/2023
+Versionshinweisehttps://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-10-release-notes/
+BeschreibungEnthält MSI -Installationsprogramm für die vollständige Produktinstallation von asspose.cad für .net v23.10
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e89547592a8069dc7ddbfbf626a6ef08-16-9725&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.CAD-FOR-.NET-VERSION-23.10- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-23.10-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-23.10-dlls-only/</guid><description>&amp;nbsp;
+ASSON.CAD für .NET Version 23.10 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+78.6MB
+Datum hinzugefügt:
+13/11/2023
+Versionshinweisehttps://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-10-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.CAD für .NET -Assemblies v23.10. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.CAD für .NET ohne MSI -Installationsprogramm verwenden möchten.
+.downloadcount {
+background-image: url("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.CAD-FOR-.NET-23.11</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-23.11/</guid><description>&amp;nbsp;
+ASSOSS.CAD für .NET 23.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+82.81MB
+Datum hinzugefügt:
+17/12/2023
+Versionshinweisehttps://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-11-release-notes/
+BeschreibungEnthält MSI -Installationsprogramm für die vollständige Produktinstallation von ASSONE.CAD für .NET v23.11
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a06374e95f496b4d986c592d450edc61-17-10003&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.CAD-FOR-.NET-VERSION-23.11- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-23.11-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-23.11-dlls-only/</guid><description>&amp;nbsp;
+ASSON.CAD für .NET Version 23.11 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+83.21MB
+Datum hinzugefügt:
+17/12/2023
+Versionshinweisehttps://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-11-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.CAD für .NET -Assemblies v23.11. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.CAD für .NET ohne MSI -Installationsprogramm verwenden möchten.
+.downloadcount {
+background-image: url("</description></item><item><title>Downloads --- New Releases-ASSOSPLE.CAD-FOR-.NET-23.12</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-23.12/</guid><description>&amp;nbsp;
+ASSON.CAD für .NET 23.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+83.24MB
+Datum hinzugefügt:
+2/1/2024
+Versionshinweisehttps://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-12-release-notes/
+BeschreibungEnthält MSI -Installationsprogramm für die vollständige Produktinstallation von asspose.cad für .NET v23.12
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b5086ea5c28bc86345e6dfca060f93d8-17-10115&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.CAD-FOR-N.NET-VERSION-23.12- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-23.12-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/net/new-releases/aspose.cad-for-.net-version-23.12-dlls-only/</guid><description>&amp;nbsp;
+ASSON.CAD für .NET Version 23.12 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+83.38MB
+Datum hinzugefügt:
+3/1/2024
+Versionshinweisehttps://releases.aspose.com/cad/net/release-notes/2023/aspose-cad-for-net-23-12-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSONE.CAD für .NET -Assemblies v23.12. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.CAD für .NET ohne MSI -Installationsprogramm verwenden möchten.
+.downloadcount {
+background-image: url("</description></item></channel></rss>

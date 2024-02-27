@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SVG on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/svg/</link><description>Recent content in SVG on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 29 Aug 2023 20:05:21 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/tags/svg/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---New-Releases--aspose.cad-for-jasperreports-20.12 .</title><link>https://releases-qa.aspose.com/cad/jasperreports/new-releases/-aspose.cad-for-jasperreports-20.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cad/jasperreports/new-releases/-aspose.cad-for-jasperreports-20.12/</guid><description>&amp;nbsp;
+Aspose.CAD for JasperReports 20.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+6
+File Size:
+32.0 MB
+Posted By:
+Denis.Demenko
+Views:
+17
+Date Added:
+9/16/2021
+Release Noteshttps://releases.aspose.com/cad/jasperreports/release-notes/2020/aspose-cad-for-jasperreports-20-12-release-notes/DescriptionIt contains Aspose.CAD for JasperReports 20.12 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3762fc1d906c46ada22aa4cbb8855b82&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Aspose.Cells | Excel Spreadsheet Processing Java Library</title><link>https://releases-qa.aspose.com/cells/java/</link><pubDate>Tue, 06 Feb 2024 11:15:21 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/java/</guid><description>Java API for Excel File Formats
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.Cells for Java is an award-winning Excel Spreadsheet Processing API that allows Java developers to embed the ability to read, write and manipulate Excel® spreadsheets (XLS, XLSX, XLSM, XLSB, XLTX, SpreadsheetML, CSV, ODS), HTML, MHTML, PDF, and image file formats into their own Java applications without needing to rely on Microsoft Excel®.</description></item><item><title>Aspose.Diagram | Java Library to Create, Export Visio Docs</title><link>https://releases-qa.aspose.com/diagram/java/</link><pubDate>Sun, 04 Feb 2024 08:22:38 +0000</pubDate><guid>https://releases-qa.aspose.com/diagram/java/</guid><description>Java API for Microsoft Visio® File Formats
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.Diagram for Java API is a solution for Microsoft Visio file manipulation requirements. It allows the Java applications to read, write, export and process Microsoft Visio diagrams while supporting all Visio objects &amp;amp; properties including shapes, pages, images, shape masters, stencils, text, layers, header, footers, user-defined cells, hyperlinks, file protection, geometries, text boxes, and comments.</description></item><item><title>Aspose.Imaging | Process &amp; Convert Images via Java Library</title><link>https://releases-qa.aspose.com/imaging/java/</link><pubDate>Thu, 01 Feb 2024 09:49:26 +0000</pubDate><guid>https://releases-qa.aspose.com/imaging/java/</guid><description>Java API for Image Processing
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+It is a standalone Imaging API consisting of Java routines that enable your Java applications to draw as well as perform basic to advanced level processing of raster &amp;amp; vector images.
+Aspose.Imaging for Java offers robust image compression and high processing speed through native byte access and a range of efficient algorithms.</description></item><item><title>Aspose.PDF | Java PDF Document Processing Class Library</title><link>https://releases-qa.aspose.com/pdf/java/</link><pubDate>Wed, 31 Jan 2024 01:35:42 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/java/</guid><description>Java API to Process &amp;amp; Manipulate PDF Files
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.PDF for Java is a PDF document creation component that enables your Java applications to read, write and manipulate PDF documents without using Adobe Acrobat.
+aspose.pdf Package Features PDF Document Featres Set basic information (e.g. author, creator) of the PDF document.</description></item><item><title>Aspose.Tasks | Java Library to Ceate &amp; Manage Project Tasks</title><link>https://releases-qa.aspose.com/tasks/java/</link><pubDate>Tue, 30 Jan 2024 17:40:47 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/java/</guid><description>Microsoft Project File Manipulation API
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.Tasks a Java Project Management API to manipulate Microsoft Project files. Developers can define a project’s main and default properties as well as calendar information. API also provides the ability to specify weekdays and calendar exceptions while making it easy to add &amp;amp; recalculate tasks, resources and other data without user intervention.</description></item><item><title>Aspose.Slides | Java Library to Process PowerPoint Formats</title><link>https://releases-qa.aspose.com/slides/java/</link><pubDate>Fri, 26 Jan 2024 14:02:08 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/java/</guid><description>Java PowerPoint API
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.Slides a Java PowerPoint API for presentation manipulation and management. It allows developers to read, write, convert and manipulate PowerPoint presentations in Java applications with the ability to manipulate all document elements such as slides, tables, text, charts, shapes, images and SmartArt diagrams and more.</description></item><item><title>Aspose.BarCode | Process 1D, 2D &amp; Postal Barcodes via Java</title><link>https://releases-qa.aspose.com/barcode/java/</link><pubDate>Thu, 25 Jan 2024 15:41:09 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/java/</guid><description>Barcode Library for Java Applications
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.BarCode for Java is a robust and reliable barcode generation and recognition component, written in Java, it allows developers to quickly and easily add barcode generation and recognition functionality to their Java applications.
+Demo applications Generate Barcode Recognize Barcode Embed Barcode Barcode API Features Specify different kinds of symbologies.</description></item><item><title>Aspose.Words | Java Library to Process Document Formats</title><link>https://releases-qa.aspose.com/words/java/</link><pubDate>Fri, 29 Dec 2023 18:48:58 +0000</pubDate><guid>https://releases-qa.aspose.com/words/java/</guid><description>Java API for Various Document Formats
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.Words for Java is an advanced Java Word processing API that enables you to perform a great range of document processing tasks directly within your Java applications. Aspose.Words for Java API supports processing word (DOC, DOCX, OOXML, RTF) HTML, OpenDocument, PDF, EPUB, XPS, SWF and all image formats.</description></item><item><title>Aspose.TeX | Java Library to Typeset &amp; Convert TeX Files</title><link>https://releases-qa.aspose.com/tex/java/</link><pubDate>Thu, 14 Dec 2023 06:20:22 +0000</pubDate><guid>https://releases-qa.aspose.com/tex/java/</guid><description>Java API to TypeSet TeX Files
+Product Page | Docs | Demos | API Reference | Examples | Blog | Free Support | Temporary License
+Aspose.TeX for Java is a library that provides a TeX engine extension called ObjectTeX. It can be used to typeset documents described by TeX files. Object means that intermediarytypesetting result is a specific object model which then can be uniformly converted into a number of end formats.</description></item><item><title> Aspose - Downloads</title><link>https://releases-qa.aspose.com/cad/jasperreports/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cad/jasperreports/</guid><description>Support Forum
+Download Aspose.CAD to Render CAD drawings within JasperReports® A standalone class library to extend JasperReports functionality to process &amp; render CAD Drawings without requiring AutoCAD or any other CAD software. The CAD Class Library allows high quality conversion of DWG, DWT, DWF, DWFX, IFC, PLT, DGN, OBJ, STL, IGES, CF2 files, layouts and layers to PDF &amp; raster image formats.
+You can easily use aspose-cad-jasperreports for Java directly from a Maven based project by adding following configurations to the pom.</description></item><item><title>Aspose.Cells for Python via .NET</title><link>https://releases-qa.aspose.com/cells/python-net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/python-net/</guid><description>Support Forum
+Download Aspose.Cells Python Library for Spreadsheet Processing Aspose.Cells for Python via .NET is a scalable and feature-rich API to process Excel&amp;reg; spreadsheets using Python. API offers Excel&amp;reg; file creation, manipulation, conversion and rendering. Developers can format worksheets, rows, columns or cells to the most granular level, create manipulate chart and pivot tables, render worksheets, charts and specific data ranges to PDF or images, add calculate Excel&amp;reg;'s built-in and custom formulas and much more - all without any dependency on Microsoft Office or Excel&amp;reg; application.</description></item><item><title>Aspose.Diagram for Python via .Net</title><link>https://releases-qa.aspose.com/diagram/python-net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/diagram/python-net/</guid><description>Support Forum
+Download Aspose.Diagram Python Library for Visio Processing Aspose.Diagram for Python via .NET is a scalable and feature-rich API to process visio files using Python. API offers Visio file creation, manipulation, conversion, rendering. Developers can format pages to the most granular level, create and manipulate shape, render pages, shapes to PDF and images, and much more - all without any dependency on Microsoft Office or Visio application.</description></item><item><title>Downloads ---New Releases-aspose.cells-for-python-via-.net-23.8</title><link>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.8/</guid><description>&amp;nbsp;
+Aspose.Cells for Python via .NET 23.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+232.26MB
+Date Added:
+14/8/2023
+Release Noteshttps://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-8-release-notes/
+DescriptionPlease refer to release notes and ReadMe for detail
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=499b3ac049068c7948d266b715652b3b-47-9323&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.diagram-for-python-via-.net-23.8</title><link>https://releases-qa.aspose.com/diagram/python-net/new-releases/aspose.diagram-for-python-via-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/diagram/python-net/new-releases/aspose.diagram-for-python-via-.net-23.8/</guid><description>&amp;nbsp;
+Aspose.Diagram for Python via .NET 23.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+179.65MB
+Date Added:
+21/8/2023
+Release Noteshttps://releases.aspose.com/diagram/python-net/release-notes/2023/aspose-diagram-for-python-via-net-23-8-release-notes/
+DescriptionAspose.Diagram for Python via .NET 23.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e4139ea3f4ab2080ebd8f6e42a475e96-36-9355&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>On-premise GIS Data Processing API | Aspose.GIS Product Family</title><link>https://releases-qa.aspose.com/gis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/gis/</guid><description>Support Forum
+Download Aspose.GIS to Process Geographical Data Open NuGet Package Manager within the Microsoft Visual Studio&amp;reg;, search for Aspose.GIS and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the Installation documentation page.
+Release Notes
+Download
+PM&amp;gt;
+Install-Package Aspose.GIS
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Download SVG Parser &amp; Convertor .NET DLL | Aspose.SVG API</title><link>https://releases-qa.aspose.com/svg/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/svg/</guid><description>Support Forum
+Download Aspose.SVG to Process Vector Graphics Open NuGet Package Manager within the Microsoft Visual Studio&amp;reg;, search for Aspose.SVG and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the Installation documentation page.
+Release Notes
+Download
+PM&amp;gt;
+Install-Package Aspose.SVG
+&amp;nbsp;
+Product Page | Docs | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Downloads ---New Releases-aspose.svg-for-.net-23.9.0-(dlls-only)</title><link>https://releases-qa.aspose.com/svg/net/new-releases/aspose.svg-for-.net-23.9.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/svg/net/new-releases/aspose.svg-for-.net-23.9.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.SVG for .NET 23.9.0 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+3.71MB
+Date Added:
+18/9/2023
+Release Noteshttps://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-9-release-notes/
+DescriptionThis ZIP file contains only the Aspose.SVG for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.SVG without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.svg-for-.net-23.9.0</title><link>https://releases-qa.aspose.com/svg/net/new-releases/aspose.svg-for-.net-23.9.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/svg/net/new-releases/aspose.svg-for-.net-23.9.0/</guid><description>&amp;nbsp;
+Aspose.SVG for .NET 23.9.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+4.16MB
+Date Added:
+18/9/2023
+Release Noteshttps://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-9-release-notes/
+DescriptionIt contains Aspose.SVG for .NET 23.9.0 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9ff0f9c1110e5ba74352e8886fd47925-1-9481&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.svg-for-.net-23.10.0-(dlls-only)</title><link>https://releases-qa.aspose.com/svg/net/new-releases/aspose.svg-for-.net-23.10.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/svg/net/new-releases/aspose.svg-for-.net-23.10.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.SVG for .NET 23.10.0 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+3.63MB
+Date Added:
+25/10/2023
+Release Noteshttps://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-10-release-notes/
+DescriptionThis ZIP file contains only the Aspose.SVG for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.SVG without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.svg-for-.net-23.10.0</title><link>https://releases-qa.aspose.com/svg/net/new-releases/aspose.svg-for-.net-23.10.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/svg/net/new-releases/aspose.svg-for-.net-23.10.0/</guid><description>&amp;nbsp;
+Aspose.SVG for .NET 23.10.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+4.09MB
+Date Added:
+25/10/2023
+Release Noteshttps://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-10-release-notes/
+DescriptionIt contains Aspose.SVG for .NET 23.10.0 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=afbd4ba50c98815602486afa78235be3-1-9667&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.svg-for-.net-23.11.0-(dlls-only)</title><link>https://releases-qa.aspose.com/svg/net/new-releases/aspose.svg-for-.net-23.11.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/svg/net/new-releases/aspose.svg-for-.net-23.11.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.SVG for .NET 23.11.0 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+3.72MB
+Date Added:
+3/12/2023
+Release Noteshttps://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-11-release-notes/
+DescriptionThis ZIP file contains only the Aspose.SVG for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.SVG without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.svg-for-.net-23.11.0</title><link>https://releases-qa.aspose.com/svg/net/new-releases/aspose.svg-for-.net-23.11.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/svg/net/new-releases/aspose.svg-for-.net-23.11.0/</guid><description>&amp;nbsp;
+Aspose.SVG for .NET 23.11.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+4.17MB
+Date Added:
+3/12/2023
+Release Noteshttps://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-11-release-notes/
+DescriptionIt contains Aspose.SVG for .NET 23.11.0 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6600a9cc570c5606a3af00ddd77d7a05-1-9926&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.svg-for-.net-23.12.0-(dlls-only)</title><link>https://releases-qa.aspose.com/svg/net/new-releases/aspose.svg-for-.net-23.12.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/svg/net/new-releases/aspose.svg-for-.net-23.12.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.SVG for .NET 23.12.0 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+3.92MB
+Date Added:
+16/12/2023
+Release Noteshttps://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-12-release-notes/
+DescriptionThis ZIP file contains only the Aspose.SVG for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.SVG without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.svg-for-.net-23.12.0</title><link>https://releases-qa.aspose.com/svg/net/new-releases/aspose.svg-for-.net-23.12.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/svg/net/new-releases/aspose.svg-for-.net-23.12.0/</guid><description>&amp;nbsp;
+Aspose.SVG for .NET 23.12.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+4.37MB
+Date Added:
+16/12/2023
+Release Noteshttps://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-12-release-notes/
+DescriptionIt contains Aspose.SVG for .NET 23.12.0 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=299574ef3907186e823fb802cb42b1ae-1-10000&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.svg-for-.net-24.1.0-(dlls-only)</title><link>https://releases-qa.aspose.com/svg/net/new-releases/aspose.svg-for-.net-24.1.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/svg/net/new-releases/aspose.svg-for-.net-24.1.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.SVG for .NET 24.1.0 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+3.93MB
+Date Added:
+18/1/2024
+Release Noteshttps://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-1-release-notes/
+DescriptionThis ZIP file contains only the Aspose.SVG for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.SVG without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.svg-for-.net-24.1.0</title><link>https://releases-qa.aspose.com/svg/net/new-releases/aspose.svg-for-.net-24.1.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/svg/net/new-releases/aspose.svg-for-.net-24.1.0/</guid><description>&amp;nbsp;
+Aspose.SVG for .NET 24.1.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+4.38MB
+Date Added:
+18/1/2024
+Release Noteshttps://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-1-release-notes/
+DescriptionIt contains Aspose.SVG for .NET 24.1.0 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9fab3f16cf936082d9aa713e7bbae275-1-10169&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Aspose.PDF 23.8 | Process Acrobat PDF Files via Java API</title><link>https://releases-qa.aspose.com/pdf/java/23-8/</link><pubDate>Tue, 29 Aug 2023 20:05:21 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/java/23-8/</guid><description>Java API to Process &amp;amp; Manipulate PDF Files
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.PDF for Java is a PDF document creation component that enables your Java applications to read, write and manipulate PDF documents without using Adobe Acrobat.
+aspose.pdf Package Features PDF Document Featres Set basic information (e.g. author, creator) of the PDF document.</description></item><item><title>Aspose.Imaging 23.8 | Image Processing Java High Code API</title><link>https://releases-qa.aspose.com/imaging/java/23-8/</link><pubDate>Tue, 29 Aug 2023 13:40:09 +0000</pubDate><guid>https://releases-qa.aspose.com/imaging/java/23-8/</guid><description>Java API for Image Processing
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+It is a standalone Imaging API consisting of Java routines that enable your Java applications to draw as well as perform basic to advanced level processing of raster &amp;amp; vector images.
+Aspose.Imaging for Java offers robust image compression and high processing speed through native byte access and a range of efficient algorithms.</description></item><item><title>Aspose.Tasks 23.8 | Microsoft Project Processing Java API</title><link>https://releases-qa.aspose.com/tasks/java/23-8/</link><pubDate>Fri, 25 Aug 2023 13:30:25 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/java/23-8/</guid><description>Microsoft Project File Manipulation API
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.Tasks a Java Project Management API to manipulate Microsoft Project files. Developers can define a project�s main and default properties as well as calendar information. API also provides the ability to specify weekdays and calendar exceptions while making it easy to add &amp;amp; recalculate tasks, resources and other data without user intervention.</description></item><item><title>Aspose.Slides 23.8 | PowerPoint Formats Java High Code API</title><link>https://releases-qa.aspose.com/slides/java/23-8/</link><pubDate>Wed, 23 Aug 2023 12:31:30 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/java/23-8/</guid><description>Java PowerPoint API
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.Slides a Java PowerPoint API for presentation manipulation and management. It allows developers to read, write, convert and manipulate PowerPoint presentations in Java applications with the ability to manipulate all document elements such as slides, tables, text, charts, shapes, images and SmartArt diagrams and more.</description></item><item><title>Aspose.BarCode 23.8 | Barcode Generation Java High Code API</title><link>https://releases-qa.aspose.com/barcode/java/23-8/</link><pubDate>Tue, 22 Aug 2023 15:25:46 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/java/23-8/</guid><description>Download
+Barcode Library for Java Applications
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.BarCode for Java is a robust and reliable barcode generation and recognition component, written in Java, it allows developers to quickly and easily add barcode generation and recognition functionality to their Java applications.
+Demo applications Generate Barcode Recognize Barcode Embed Barcode Barcode API Features Specify different kinds of symbologies.</description></item><item><title>Aspose.Diagram 23.8 | Visio Diagram Java High Code API</title><link>https://releases-qa.aspose.com/diagram/java/23-8/</link><pubDate>Tue, 15 Aug 2023 08:05:27 +0000</pubDate><guid>https://releases-qa.aspose.com/diagram/java/23-8/</guid><description>Java API for Microsoft Visio® File Formats
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.Diagram for Java API is a solution for Microsoft Visio file manipulation requirements. It allows the Java applications to read, write, export and process Microsoft Visio diagrams while supporting all Visio objects &amp;amp; properties including shapes, pages, images, shape masters, stencils, text, layers, header, footers, user-defined cells, hyperlinks, file protection, geometries, text boxes, and comments.</description></item><item><title>Aspose.Words 23.8 | Process Document Formats via Java API</title><link>https://releases-qa.aspose.com/words/java/23-8/</link><pubDate>Mon, 14 Aug 2023 10:02:34 +0000</pubDate><guid>https://releases-qa.aspose.com/words/java/23-8/</guid><description>Java API for Various Document Formats
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.Words for Java is an advanced Java Word processing API that enables you to perform a great range of document processing tasks directly within your Java applications. Aspose.Words for Java API supports processing word (DOC, DOCX, OOXML, RTF) HTML, OpenDocument, PDF, EPUB, XPS, SWF and all image formats.</description></item><item><title>Aspose.TeX 23.8 | TeX &amp; LaTeX Typeset &amp; Conversion Java API</title><link>https://releases-qa.aspose.com/tex/java/23-8/</link><pubDate>Mon, 14 Aug 2023 09:09:41 +0000</pubDate><guid>https://releases-qa.aspose.com/tex/java/23-8/</guid><description>Java API to TypeSet TeX Files Product Page | Docs | Demos | API Reference | Examples | Blog | Free Support | Temporary License
+Aspose.TeX for Java is a library that provides a TeX engine extension called ObjectTeX. It can be used to typeset documents described by TeX files. Object means that intermediarytypesetting result is a specific object model which then can be uniformly converted into a number of end formats.</description></item><item><title>Aspose.Cells 23.8 | Process Spreadsheet Formats via Java API</title><link>https://releases-qa.aspose.com/cells/java/23-8/</link><pubDate>Thu, 10 Aug 2023 07:55:42 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/java/23-8/</guid><description>Java API for Excel File Formats
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.Cells for Java is an award-winning Excel Spreadsheet Processing API that allows Java developers to embed the ability to read, write and manipulate Excel® spreadsheets (XLS, XLSX, XLSM, XLSB, XLTX, SpreadsheetML, CSV, ODS), HTML, MHTML, PDF, and image file formats into their own Java applications without needing to rely on Microsoft Excel®.</description></item></channel></rss>

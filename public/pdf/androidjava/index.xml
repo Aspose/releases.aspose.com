@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Android PDF Library | Aspose.PDF for Android via Java on Releases - aspose.com</title><link>https://releases-qa.aspose.com/pdf/androidjava/</link><description>Recent content in Android PDF Library | Aspose.PDF for Android via Java on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/pdf/androidjava/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---New-Releases-aspose.pdf-for-android-1.0.0 .</title><link>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-1.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-1.0.0/</guid><description>&amp;nbsp;
+Aspose.PDF for Android 1.0.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 171 File Size: 10.3 MB Posted By: codewarior Views: 588 Date Added: 8/27/2013
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6f031784ffc0496592b6adecfc5e2461&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-android-1.1.0 .</title><link>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-1.1.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-1.1.0/</guid><description>&amp;nbsp;
+Aspose.PDF for Android 1.1.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 306 File Size: 10.0 MB Posted By: codewarior Views: 514 Date Added: 10/21/2013
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=25e9828148d84b888e1fddbbe7082774&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-android-1.2.0 .</title><link>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-1.2.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-1.2.0/</guid><description>&amp;nbsp;
+Aspose.PDF for Android 1.2.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 1352 File Size: 14.2 MB Posted By: nekrasov.av Views: 1041 Date Added: 12/25/2013
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=78f48495fca8436da14841e51687f7c5&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases--aspose.pdf-for-android-1.3.0 .</title><link>https://releases-qa.aspose.com/pdf/androidjava/new-releases/-aspose.pdf-for-android-1.3.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/androidjava/new-releases/-aspose.pdf-for-android-1.3.0/</guid><description>&amp;nbsp;
+Aspose.PDF for Android 1.3.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 445 File Size: 18.2 MB Posted By: nekrasov.av Views: 475 Date Added: 7/8/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f70d5ec0c0e84658951ec827ce9f5f13&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-android-1.4.0 .</title><link>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-1.4.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-1.4.0/</guid><description>&amp;nbsp;
+Aspose.PDF for Android 1.4.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 906 File Size: 15.1 MB Posted By: nekrasov.av Views: 810 Date Added: 9/4/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4f5970a72fc04cbbad6718038bcdbdb5&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-android-1.5.0 .</title><link>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-1.5.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-1.5.0/</guid><description>&amp;nbsp;
+Aspose.PDF for Android 1.5.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 1590 File Size: 17.8 MB Posted By: nekrasov.av Views: 745 Date Added: 12/28/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=251abdab89a344ab9ef1d0a135e20650&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-android-1.6.0 .</title><link>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-1.6.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-1.6.0/</guid><description>&amp;nbsp;
+Aspose.PDF for Android 1.6.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 39 File Size: 17.5 MB Posted By: faizanbaig Views: 426 Date Added: 5/16/2016
+Release Noteshttps://releases.aspose.com/pdf/androidjava/release-notes/2016/aspose-pdf-for-android-1-6-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e37376b27e8546dc9e8de6be08f2157f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-android-1.7.0 .</title><link>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-1.7.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-1.7.0/</guid><description>&amp;nbsp;
+Aspose.PDF for Android 1.7.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 38 File Size: 26.0 MB Posted By: faizanbaig Views: 418 Date Added: 5/16/2016
+Release Noteshttps://releases.aspose.com/pdf/androidjava/release-notes/2016/aspose-pdf-for-android-1-7-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a84658c204294450885014a79b662b3c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-android-1.8.0 .</title><link>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-1.8.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-1.8.0/</guid><description>&amp;nbsp;
+Aspose.PDF for Android 1.8.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 315 File Size: 32.1 MB Posted By: faizanbaig Views: 712 Date Added: 5/16/2016
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=92cc7a278d854be8a68dffafde108cae&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-android-16.12.0 .</title><link>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-16.12.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-16.12.0/</guid><description>&amp;nbsp;
+Aspose.PDF for Android 16.12.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 175 File Size: 27.8 MB Posted By: bornwild Views: 1875 Date Added: 12/22/2016
+Release Noteshttps://releases.aspose.com/pdf/androidjava/release-notes/2016/aspose-pdf-for-android-16-12-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=63cb4071ab884b4f867689f8ccb7f070&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.pdf--for-android-via-java-17.7 .</title><link>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf--for-android-via-java-17.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf--for-android-via-java-17.7/</guid><description>&amp;nbsp;
+Aspose.PDF for Android via Java 17.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 84 File Size: 34.0 MB Posted By: bornwild Views: 599 Date Added: 7/17/2017
+Release Noteshttps://releases.aspose.com/pdf/androidjava/release-notes/2017/aspose-pdf-for-android-via-java-17-7-release-notes/DescriptionIt contains Aspose.Pdf for Android via Java 17.7 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bdc2c8f0a47c4c4abf752ae30e6a3755&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-android-via-java-17.12 .</title><link>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-via-java-17.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-via-java-17.12/</guid><description>&amp;nbsp;
+Aspose.PDF for Android via Java 17.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 57 File Size: 34.2 MB Posted By: bornwild Views: 173 Date Added: 12/20/2017
+Release Noteshttps://releases.aspose.com/pdf/androidjava/release-notes/2017/aspose-pdf-for-android-via-java-17-12-release-notes/DescriptionWe are pleased to announce a new version of Aspose.Pdf for Android via Java with following improvements.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-android-via-java-18.6 .</title><link>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-via-java-18.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-via-java-18.6/</guid><description>&amp;nbsp;
+Aspose.PDF for Android via Java 18.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 96 File Size: 34.3 MB Posted By: bornwild Views: 443 Date Added: 6/29/2018
+Release Noteshttps://releases.aspose.com/pdf/androidjava/release-notes/2018/aspose-pdf-for-android-via-java-18-6-release-notes/DescriptionWe are pleased to announce a new version of Aspose.PDF for Android via Java with following improvements.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-android-via-java-19.3 .</title><link>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-via-java-19.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-via-java-19.3/</guid><description>&amp;nbsp;
+Aspose.PDF for Android via Java 19.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 92 File Size: 30.6 MB Posted By: bornwild Views: 220 Date Added: 3/29/2019
+Release Noteshttps://releases.aspose.com/pdf/androidjava/release-notes/2019/aspose-pdf-for-android-via-java-19-3-release-notes/DescriptionWe are pleased to announce a new version of Aspose.PDF for Android via Java with following improvements.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-android-via-java-19.12 .</title><link>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-via-java-19.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-via-java-19.12/</guid><description>&amp;nbsp;
+Aspose.PDF for Android via Java 19.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 65 File Size: 27.7 MB Posted By: bornwild Views: 156 Date Added: 12/19/2019
+Release Noteshttps://releases.aspose.com/pdf/androidjava/release-notes/2019/aspose-pdf-for-android-via-java-19-12-release-notes/DescriptionWe are pleased to announce a new version of Aspose.PDF for Android via Java with following improvements.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-android-via-java-20.11 .</title><link>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-via-java-20.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-via-java-20.11/</guid><description>&amp;nbsp;
+Aspose.PDF for Android via Java 20.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 121 File Size: 48.7 MB Posted By: bornwild Views: 236 Date Added: 11/18/2020
+Release Noteshttps://releases.aspose.com/pdf/androidjava/release-notes/2020/aspose-pdf-for-android-via-java-20-11-release-notes/DescriptionWe are pleased to announce a new version of Aspose.PDF for Android via Java with following improvements.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title>Downloads ---New Releases-aspose.pdf-for-android-via-java-23.2</title><link>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-via-java-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/androidjava/new-releases/aspose.pdf-for-android-via-java-23.2/</guid><description>&amp;nbsp;
+Aspose.PDF for Android via Java 23.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+51.96MB
+Date Added:
+28/2/2023
+Release Noteshttps://releases.aspose.com/pdf/androidjava/release-notes/2023/aspose-pdf-for-android-via-java-23-2-release-notes/
+DescriptionWe are pleased to announce a new version of Aspose.PDF for Android via Java with following improvements.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=463c9922ed266684bfc246a405055ede-11-8595&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item></channel></rss>

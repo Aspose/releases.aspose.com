@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Release Notes - 2015 on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2015/</link><description>Recent content in Release Notes - 2015 on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/cells/java/release-notes/2015/index.xml" rel="self" type="application/rss+xml"/><item><title>Aspose.Cells for Java 8.6.2 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2015/aspose-cells-for-java-8-6-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2015/aspose-cells-for-java-8-6-2-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 8.6.2
+Im Folgenden finden Sie eine Liste der Verbesserungen und Änderungen in dieser Version von Aspose.Cells
+\1) Aspose.Cells
+Andere Verbesserungen und Änderungen Neue Eigenschaften (CELLSJAVA-41144) – Möglichkeit, Styles aus der StyleCollection zu löschen
+Fehler (CELLSJAVA-41554) – Fehlendes Bild beim Konvertieren von HTML in das EXCEL-Format
+(CELLSJAVA-41549) - XLSB in Excel 2010 nach dem Speichern durch Aspose.Cells v8.6.1 beschädigt
+(CELLSJAVA-41530) – Klassische PivotTable-Layouteinstellung ging verloren, wenn die Vorlagendatei XLSB erneut gespeichert wurde</description></item><item><title>Aspose.Cells for Java 8.6.1 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2015/aspose-cells-for-java-8-6-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2015/aspose-cells-for-java-8-6-1-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 8.6.1
+Im Folgenden finden Sie eine Liste der Verbesserungen und Änderungen in dieser Version von Aspose.Cells
+\1) Aspose.Cells
+Andere Verbesserungen und Änderungen Fehler (CELLSJAVA-41528) - XLSB wird nach dem erneuten Speichern mit Aspose.Cells beschädigt
+(CELLSJAVA-41499) - Cell-Referenz-Hyperlinks funktionieren nicht im Ergebnis HTML
+(CELLSJAVA-41487) – Die Berechnung der benannten Bereichsformel führt zu #NAME?
+(CELLSJAVA-41518) – Acrobat Reader zeigt an, dass beim Verarbeiten einer Seite ein Fehler aufgetreten ist.</description></item><item><title>Aspose.Cells for Java 8.5.2 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2015/aspose-cells-for-java-8-5-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2015/aspose-cells-for-java-8-5-2-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 8.5.2
+Im Folgenden finden Sie eine Liste der Verbesserungen und Änderungen in dieser Version von Aspose.Cells
+\1) Aspose.Cells
+Andere Verbesserungen und Änderungen Neue Eigenschaften (CELLSJAVA-41374) – Hinzufügen der Konstante „Distinct Count“ zur ConsolidationFunction-Klasse in Pivot-Tabellen
+Verbesserungen (CELLSJAVA-41373) – Abweichung in den Ausrichtungseinstellungen nach dem Speichern der Excel-Datei im Dateiformat HTML
+Fehler (CELLSJAVA-41332) – AttachedFilesDirectory und AttachedFilesUrlPrefix funktionieren nicht richtig
+(CELLSJAVA-41303) – PivotField.</description></item><item><title>Aspose.Cells for Java 8.5.1 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2015/aspose-cells-for-java-8-5-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2015/aspose-cells-for-java-8-5-1-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 8.5.1
+Im Folgenden finden Sie eine Liste der Verbesserungen und Änderungen in dieser Version von Aspose.Cells
+\1) Aspose.Cells
+Andere Verbesserungen und Änderungen Fehler (CELLSJAVA-41378) – Die Ausrichtung bestimmter Zellen wird im generierten HTML nicht beibehalten
+(CELLSJAVA-41376) – Nach dem Speichern der Arbeitsmappe wird eine Fehlermeldung angezeigt
+(CELLSJAVA-41412) – ListColumn.getRange gibt null zurück
+(CELLSJAVA-41407) – VBA-Code in .xlsb geht nach dem Speichern verloren</description></item><item><title>Aspose.Cells for Java 8.5.0 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2015/aspose-cells-for-java-8-5-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2015/aspose-cells-for-java-8-5-0-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 8.5.0
+Im Folgenden finden Sie eine Liste der Verbesserungen und Änderungen in dieser Version von Aspose.Cells
+\1) Aspose.Cells
+Andere Verbesserungen und Änderungen Neue Eigenschaften (CELLSJAVA-41335) – Verbessern Sie den PasteOptions/PasteType-Mechanismus, um das Kopieren von Zeilenhöhen beim Kopieren von Bereichen zu ermöglichen
+(CELLSJAVA-41053) – Neuberechnung des Skalierungsfaktors für die Seiteneinrichtung
+Verbesserungen (CELLSJAVA-41334) – HYPERLINK-Formel/-Funktion – Ermöglicht dem Benutzer, Parameter des Hyperlinks zu verarbeiten</description></item><item><title>Aspose.Cells for Java 8.4.2 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2015/aspose-cells-for-java-8-4-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2015/aspose-cells-for-java-8-4-2-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 8.4.2
+Im Folgenden finden Sie eine Liste der Verbesserungen und Änderungen in dieser Version von Aspose.Cells
+\1) Aspose.Cells
+Andere Verbesserungen und Änderungen Neue Eigenschaften (CELLSJAVA-41289) - Einfache Möglichkeit zur Karteneinrichtung
+Fehler (CELLSJAVA-41323) – Wasserzeichen werden nicht korrekt angezeigt
+(CELLSJAVA-41319) – Slicer wird in Excel 2010/2013 nach dem Speichern entfernt
+(CELLSJAVA-41317) – Großbuchstaben, die über die Funktion „Alle Großbuchstaben“ in Excel erstellt wurden, werden in PDF nicht beibehalten</description></item><item><title>Aspose.Cells for Java 8.4.1 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2015/aspose-cells-for-java-8-4-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2015/aspose-cells-for-java-8-4-1-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 8.4.1
+Im Folgenden finden Sie eine Liste der Verbesserungen und Änderungen in dieser Version von Aspose.Cells
+Aspose.Cells Hauptmerkmale Hauptcodebasis auf Java 6 verschoben (Java 7 und 8 werden ebenfalls unterstützt). Gefallene Unterstützung for Java 5 und 1.4.
+Andere Verbesserungen und Änderungen Neue Eigenschaften (CELLSJAVA-41235) – Unterstützung von RenderToSize API für Arbeitsblattbilder
+(CELLSJAVA-41234) – Unterstützung von Aufzählungszeichen bei Verwendung von SmartMarkers oder der Methode Cell.</description></item><item><title>Aspose.Cells for Java 8.4.0 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2015/aspose-cells-for-java-8-4-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2015/aspose-cells-for-java-8-4-0-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 8.4.0
+\1) Aspose.Cells
+Andere Verbesserungen und Änderungen
+Neue Eigenschaften
+(CELLSJAVA-41198) – Themendaten aus Excel-Dateien extrahieren (CELLSJAVA-41185) – Generieren von Databar-Bildern
+Verbesserungen
+(CELLSJAVA-41169) – Entfernen Sie falsche Nullattribute in der generierten HTML-Datei (CELLSJAVA-41179) – Japanische Kalenderunterstützung
+Fehler
+(CELLSJAVA-41222) – Das Sortierfeld der Pivot-Tabelle ist in der XLSX-Ausgabe falsch (CELLSJAVA-41173) – HtmlSaveOptions.setExportHiddenWorksheet(true) funktioniert nicht richtig (CELLSJAVA-41168) – Änderungen beim zellübergreifenden Zuschneiden von Text seit 8.</description></item><item><title>Aspose.Cells for Java 8.3.2 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/java/release-notes/2015/aspose-cells-for-java-8-3-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/release-notes/2015/aspose-cells-for-java-8-3-2-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for Java 8.3.2
+\1) Aspose.Cells
+Hauptmerkmale
+Veröffentlichte Archivänderungen für unterstütztes JDK
+Ab sofort stellen wir im Archiv nur noch eine Jar-Datei für 1.6 und höher zur Verfügung.
+Andere Verbesserungen und Änderungen
+Neue Eigenschaften
+(CELLSJAVA-41144) – Möglichkeit, Style aus der StyleCollection zu löschen, wenn HTML gespeichert wird (CELLSJAVA-41127) – Geben Sie benutzerdefinierte Trennzeichen für die vollständige Arbeitsmappe an (CELLSJAVA-41143) – Geben Sie den Auftrags-/Dokumentnamen beim Drucken mit Aspose.</description></item></channel></rss>

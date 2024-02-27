@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aspose - Downloads on Releases - aspose.com</title><link>https://releases-qa.aspose.com/slides/php-java/</link><description>Recent content in Aspose - Downloads on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/slides/php-java/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads ---New Releases-aspose.slides-for-php-via-java-22.5</title><link>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-22.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-22.5/</guid><description>&amp;nbsp;
+Aspose.Slides for PHP via Java 22.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.0 MB
+Date Added:
+15/6/2022
+Release Noteshttps://releases.aspose.com/slides/php-java/release-notes/2022/aspose-slides-for-php-via-java-22-5-release-notes/
+DescriptionIt contains Aspose.Slides for PHP via Java 22.5 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f04627a2103dc5ecf76553dfaae109f2-2-7518&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.slides-for-php-via-java-22.6</title><link>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-22.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-22.6/</guid><description>&amp;nbsp;
+Aspose.Slides for PHP via Java 22.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.84MB
+Date Added:
+27/6/2022
+Release Noteshttps://releases.aspose.com/slides/php-java/release-notes/2022/aspose-slides-for-php-via-java-22-6-release-notes/
+DescriptionIt contains Aspose.Slides for PHP via Java 22.6 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=84c1dad79f655f6b4a97e8dcc4178454-6-7570&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-php-via-java-22.7</title><link>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-22.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-22.7/</guid><description>&amp;nbsp;
+Aspose.Slides for PHP via Java 22.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.87MB
+Date Added:
+19/7/2022
+Release Noteshttps://releases.aspose.com/slides/php-java/release-notes/2022/aspose-slides-for-php-via-java-22-7-release-notes/
+DescriptionIt contains Aspose.Slides for PHP via Java 22.7 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f50adc2a4bf5a74723c633202a2527ee-6-7662&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-php-via-java-22.8</title><link>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-22.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-22.8/</guid><description>&amp;nbsp;
+Aspose.Slides for PHP via Java 22.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.83MB
+Date Added:
+18/8/2022
+Release Noteshttps://releases.aspose.com/slides/php-java/release-notes/2022/aspose-slides-for-php-via-java-22-8-release-notes/
+DescriptionIt contains Aspose.Slides for PHP via Java 22.8 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d1971480e8ef7547a31a8d73b44a3fa2-6-7780&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-php-via-java-22.9</title><link>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-22.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-22.9/</guid><description>&amp;nbsp;
+Aspose.Slides for PHP via Java 22.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.83MB
+Date Added:
+22/9/2022
+Release Noteshttps://releases.aspose.com/slides/php-java/release-notes/2022/aspose-slides-for-php-via-java-22-9-release-notes/
+DescriptionIt contains Aspose.Slides for PHP via Java 22.9 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ddb2ed024236559f68a4503006157a36-6-7926&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-php-via-java-22.10</title><link>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-22.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-22.10/</guid><description>&amp;nbsp;
+Aspose.Slides for PHP via Java 22.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.91MB
+Date Added:
+19/10/2022
+Release Noteshttps://releases.aspose.com/slides/php-java/release-notes/2022/aspose-slides-for-php-via-java-22-10-release-notes/
+DescriptionIt contains Aspose.Slides for PHP via Java 22.10 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d5b67461e126c6b9b800d3583fe2d9da-6-8030&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-php-via-java-22.11</title><link>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-22.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-22.11/</guid><description>&amp;nbsp;
+Aspose.Slides for PHP via Java 22.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.91MB
+Date Added:
+23/11/2022
+Release Noteshttps://releases.aspose.com/slides/php-java/release-notes/2022/aspose-slides-for-php-via-java-22-11-release-notes/
+DescriptionIt contains Aspose.Slides for PHP via Java 22.11 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1c5bcfb1db0543dfdb52cb38f55e2a4c-6-8187&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-php-via-java-22.12</title><link>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-22.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-22.12/</guid><description>&amp;nbsp;
+Aspose.Slides for PHP via Java 22.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.84MB
+Date Added:
+16/12/2022
+Release Noteshttps://releases.aspose.com/slides/php-java/release-notes/2022/aspose-slides-for-php-via-java-22-12-release-notes/
+DescriptionIt contains Aspose.Slides for PHP via Java 22.12 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=730bef3c0038b25bc89295bb6aa39a92-6-8283&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-php-via-java-23.1</title><link>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.1/</guid><description>&amp;nbsp;
+Aspose.Slides for PHP via Java 23.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.8MB
+Date Added:
+26/1/2023
+Release Noteshttps://releases.aspose.com/slides/php-java/release-notes/2023/aspose-slides-for-php-via-java-23-1-release-notes/
+DescriptionIt contains Aspose.Slides for PHP via Java 23.1 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7c983183d02e49b1ba2b7eef7d3f7f43-6-8436&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-php-via-java-23.2</title><link>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.2/</guid><description>&amp;nbsp;
+Aspose.Slides for PHP via Java 23.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.6MB
+Date Added:
+20/2/2023
+Release Noteshttps://releases.aspose.com/slides/php-java/release-notes/2023/aspose-slides-for-php-via-java-23-2-release-notes/
+DescriptionIt contains Aspose.Slides for PHP via Java 23.2 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=742b7f2c96d19cf3b6fc91c8db286ad3-6-8545&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-php-via-java-23.3</title><link>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.3/</guid><description>&amp;nbsp;
+Aspose.Slides for PHP via Java 23.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.64MB
+Date Added:
+22/3/2023
+Release Noteshttps://releases.aspose.com/slides/php-java/release-notes/2023/aspose-slides-for-php-via-java-23-3-release-notes/
+DescriptionIt contains Aspose.Slides for PHP via Java 23.3 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=488751bee614ba968cfa3fb907cc6492-6-8665&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-php-via-java-23.4</title><link>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.4/</guid><description>&amp;nbsp;
+Aspose.Slides for PHP via Java 23.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.65MB
+Date Added:
+20/4/2023
+Release Noteshttps://releases.aspose.com/slides/php-java/release-notes/2023/aspose-slides-for-php-via-java-23-4-release-notes/
+DescriptionIt contains Aspose.Slides for PHP via Java 23.4 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e7ac9cda0e2043325fbd341b2d2bb9f1-6-8789&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-php-via-java-23.5</title><link>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.5/</guid><description>&amp;nbsp;
+Aspose.Slides for PHP via Java 23.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.66MB
+Date Added:
+24/5/2023
+Release Noteshttps://releases.aspose.com/slides/php-java/release-notes/2023/aspose-slides-for-php-via-java-23-5-release-notes/
+DescriptionIt contains Aspose.Slides for PHP via Java 23.5 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c7b059e169b55751f0519cc4be706e7a-6-8895&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-php-via-java-23.6</title><link>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.6/</guid><description>&amp;nbsp;
+Aspose.Slides for PHP via Java 23.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.65MB
+Date Added:
+22/6/2023
+Release Noteshttps://releases.aspose.com/slides/php-java/release-notes/2023/aspose-slides-for-php-via-java-23-6-release-notes/
+DescriptionIt contains Aspose.Slides for PHP via Java 23.6 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=89959aac2ea75650c0e246ce8d502432-6-9081&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-php-via-java-23.7</title><link>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.7/</guid><description>&amp;nbsp;
+Aspose.Slides for PHP via Java 23.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.7MB
+Date Added:
+20/7/2023
+Release Noteshttps://releases.aspose.com/slides/php-java/release-notes/2023/aspose-slides-for-php-via-java-23-7-release-notes/
+DescriptionIt contains Aspose.Slides for PHP via Java 23.7 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=efa418f2392efa0fd2814bf978088642-6-9239&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-php-via-java-23.8</title><link>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.8/</guid><description>&amp;nbsp;
+Aspose.Slides for PHP via Java 23.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.72MB
+Date Added:
+23/8/2023
+Release Noteshttps://releases.aspose.com/slides/php-java/release-notes/2023/aspose-slides-for-php-via-java-23-8-release-notes/
+DescriptionIt contains Aspose.Slides for PHP via Java 23.8 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=185337cb7ff6e6fe5cb07f968411dc88-6-9370&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-php-via-java-23.9</title><link>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.9/</guid><description>&amp;nbsp;
+Aspose.Slides for PHP via Java 23.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.73MB
+Date Added:
+25/9/2023
+Release Noteshttps://releases.aspose.com/slides/php-java/release-notes/2023/aspose-slides-for-php-via-java-23-9-release-notes/
+DescriptionIt contains Aspose.Slides for PHP via Java 23.9 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=66bb68bfc9270e6fff0608700bd87ecb-6-9520&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-php-via-java-23.10</title><link>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.10/</guid><description>&amp;nbsp;
+Aspose.Slides for PHP via Java 23.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.71MB
+Date Added:
+18/10/2023
+Release Noteshttps://releases.aspose.com/slides/php-java/release-notes/2023/aspose-slides-for-php-via-java-23-10-release-notes/
+DescriptionIt contains Aspose.Slides for PHP via Java 23.10 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6ae64ca2896656b6a984bf09fc0bd7eb-6-9633&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-php-via-java-23.11</title><link>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.11/</guid><description>&amp;nbsp;
+Aspose.Slides for PHP via Java 23.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.74MB
+Date Added:
+15/11/2023
+Release Noteshttps://releases.aspose.com/slides/php-java/release-notes/2023/aspose-slides-for-php-via-java-23-11-release-notes/
+DescriptionIt contains Aspose.Slides for PHP via Java 23.11 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8d5742c3c2c507b558fd855b5b8333b3-6-9774&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-php-via-java-23.12</title><link>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.12/</guid><description>&amp;nbsp;
+Aspose.Slides for PHP via Java 23.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.78MB
+Date Added:
+15/12/2023
+Release Noteshttps://releases.aspose.com/slides/php-java/release-notes/2023/aspose-slides-for-php-via-java-23-12-release-notes/
+DescriptionIt contains Aspose.Slides for PHP via Java 23.12 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6c72a638c1e8079d5696c87be985ba74-6-9997&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.slides-for-php-via-java-24.1</title><link>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/php-java/new-releases/aspose.slides-for-php-via-java-24.1/</guid><description>&amp;nbsp;
+Aspose.Slides for PHP via Java 24.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+26.83MB
+Date Added:
+26/1/2024
+Release Noteshttps://releases.aspose.com/slides/php-java/release-notes/2024/aspose-slides-for-php-via-java-24-1-release-notes/
+DescriptionIt contains Aspose.Slides for PHP via Java 24.1 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9798dd0feac99b394c6190d3293f4155-6-10220&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item></channel></rss>

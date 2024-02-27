@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Finance on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/tags/finance/</link><description>Recent content in Finance on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/tags/finance/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads --- NEW Releases-ASSOSPLE.FINANCE-FOR-PYTHON-VIA-NIA-23.1.0, -WINDOWS-X64</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.1.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.1.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.FINANCE FÜR PYTHON über .NET 23.1.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+39.74MB
+Datum hinzugefügt:
+8/6/2023
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-1-release-notes/
+BeschreibungEs enthält die ASSOSE.FINANCE für Python über .NET 23.1.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=72960c8d2459291d69f8d99b4d9542a2-8-8959&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Aspose.Finance für Python über .NET</title><link>https://releases-qa.aspose.com/de/finance/python-net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/</guid><description>Support Forum
+Laden Sie die Aspose.Finance-Python-Programmierbibliothek für die Formate XBRL, iXBRL und OFX herunter Aspose.Finance für Python über .NET ist eine eigenständige On-Premise-API, die aus Python-Klassen besteht, mit denen Sie finanzbezogene Formate wie XBRL, iXBRL und OFX verarbeiten und manipulieren können.
+Bitte verwenden Sie Folgendes
+PipBefehl:
+Release-opmerkingen
+Downloaden
+&amp;gt;
+pip install aspose-finance
+&amp;nbsp;
+Product Page | Docs | Examples | Blog | Search | Free Support | Temporary License</description></item><item><title>Downloads --- New Releases-ASSOSPLE.FINANCE-FOR-PYTHON-VIA-NIA-23.5.0, -WINDOWS-X64</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.5.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.5.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.FINANCE FÜR PYTHON über .NET 23.5.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+39.74MB
+Datum hinzugefügt:
+10/6/2023
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-5-release-notes/
+BeschreibungEs enthält ASSOSE.FINANCE für Python über .NET 23.5.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=33e87a8651c63b0c9ac39e2c48e9b829-8-8976&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FINANCE-FOR-PYTHON-VIA-NIA-23.6.0, -LINUX-X86, -X64</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.6.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.6.0-linux-x86-x64/</guid><description>&amp;nbsp;
+ASSON.FINANCE FÜR PYTHON über .NET 23.6.0, Linux x86, x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+50.69MB
+Datum hinzugefügt:
+15/11/2023
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-6-release-notes/
+BeschreibungEs enthält die ASSOSE.FINANCE für Python über .NET 23.6.0, Linux x86, x64.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=09d724051ce9561450ce4948482f627e-11-9814&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FINANCE-FOR-PYTHON-VIA-NIA-23.6.0, -WINDOWS-X32</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.6.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.6.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.FINANCE FÜR PYTHON über .NET 23.6.0, Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+34.44MB
+Datum hinzugefügt:
+15/11/2023
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-6-release-notes/
+BeschreibungEs enthält ASSOSE.FINANCE für Python über .NET 23.6.0, Windows X32 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e07c44913c3fa6b0cd9ea498556d525a-7-9815&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FINANCE-FOR-PYTHON-VIA-NIA-23.6.0, -WINDOWS-X64</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.6.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.6.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.FINANCE FÜR PYTHON über .NET 23.6.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+39.74MB
+Datum hinzugefügt:
+15/11/2023
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-6-release-notes/
+BeschreibungEs enthält ASSOSE.FINANCE für Python über .NET 23.6.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0d8df0681c741a11adaf52045019911a-8-9816&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FINANCE-FOR-PYTHON-VIA-NIA-23.7.0, -LINUX-X86, -X64</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.7.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.7.0-linux-x86-x64/</guid><description>&amp;nbsp;
+ASSON.FINANCE FÜR PYTHON über .NET 23.7.0, Linux x86, x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+50.69MB
+Datum hinzugefügt:
+15/11/2023
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-7-release-notes/
+BeschreibungEs enthält die ASSOSE.FINANCE für Python über .NET 23.7.0, Linux x86, x64.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=09227929e1135af3b8c9c757f3c5b585-11-9817&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FINANCE-FOR-PYTHON-VIA-NIA-23.7.0, -WINDOWS-X32</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.7.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.7.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.FINANCE FÜR PYTHON über .NET 23.7.0, Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+34.44MB
+Datum hinzugefügt:
+15/11/2023
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-7-release-notes/
+BeschreibungEs enthält ASSOSE.FINANCE für Python über .NET 23.7.0, Windows X32 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=53ba7f77c39fb12271b2649301ed9357-7-9818&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FINANCE-FOR-PYTHON-VIA-NIA-23.7.0, -WINDOWS-X64</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.7.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.7.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.FINANCE FÜR PYTHON über .NET 23.7.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+39.74MB
+Datum hinzugefügt:
+15/11/2023
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-7-release-notes/
+BeschreibungEs enthält ASSOSE.FINANCE für Python über .NET 23.7.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2535e128e4830ec58d9f11bc0c131363-8-9819&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FINANCE-FOR-PYTHON-VIA-NIA-23.8.0, -WINDOWS-X32</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.8.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.8.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.FINANCE FÜR PYTHON über .NET 23.8.0, Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+35.72MB
+Datum hinzugefügt:
+15/11/2023
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-8-release-notes/
+BeschreibungEs enthält die ASSOSE.FINANCE für Python über .NET 23.8.0, Windows X32 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d87fdec6f81a6d5e76d15ef2021b58c4-8-9820&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FINANCE-FOR-PYTHON-VIA-NIA-23.8.0, -WINDOWS-X64</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.8.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.8.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.FINANCE FÜR PYTHON über .NET 23.8.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+41.46MB
+Datum hinzugefügt:
+15/11/2023
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-8-release-notes/
+BeschreibungEs enthält die ASSOSE.FINANCE für Python über .NET 23.8.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8b391328c4705e881172e75932d5b39c-9-9821&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPEN.</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.8.1-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.8.1-linux-x86-x64/</guid><description>&amp;nbsp;
+ASSON.FINANCE FÜR PYTHON über .NET 23.8.1, Linux x86, x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+73.92MB
+Datum hinzugefügt:
+15/11/2023
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-8-release-notes/
+BeschreibungEs enthält die ASSOSE.FINANCE für Python über .NET 23.8.1, Linux x86, x64.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a6663be1920af1e28a907f2765e148e2-15-9822&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FINANCE-FOR-PYTHON-VIA-NIA-23.8.1, -WINDOWS-X32</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.8.1-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.8.1-windows-x32/</guid><description>&amp;nbsp;
+ASSON.FINANCE FÜR PYTHON über .NET 23.8.1, Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+40.19MB
+Datum hinzugefügt:
+15/11/2023
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-8-release-notes/
+BeschreibungEs enthält ASSOSE.FINANCE für Python über .NET 23.8.1, Windows X32 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d6a23e67b23ff8b00728c8405e8088f4-9-9823&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FINANCE-FOR-PYTHON-VIA-NIA-23.8.1, -Windows-X64</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.8.1-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.8.1-windows-x64/</guid><description>&amp;nbsp;
+ASSON.FINANCE FÜR PYTHON über .NET 23.8.1, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+47.82MB
+Datum hinzugefügt:
+15/11/2023
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-8-release-notes/
+BeschreibungEs enthält ASSOSE.FINANCE für Python über .NET 23.8.1, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2f2fad3b97becb52ba089d99199db4fd-10-9824&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FINANCE-FOR-PYTHON-VIA-NIA-23.9.0, -LINUX-X86, -X64</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.9.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.9.0-linux-x86-x64/</guid><description>&amp;nbsp;
+ASSOSE.FINANCE FÜR PYTHON über .NET 23.9.0, Linux x86, x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+73.92MB
+Datum hinzugefügt:
+15/11/2023
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-9-release-notes/
+BeschreibungEs enthält die ASSOSE.FINANCE für Python über .NET 23.9.0, Linux x86, x64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=034bec3ae33132b5b090c0998d9041b9-15-9825&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>Downloads --- New Releases-ASSOSPLE.FINANCE-FOR-PYTHON-VIA-NIA-23.9.0, -WINDOWS-X32</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.9.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.9.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.FINANCE FÜR PYTHON über .NET 23.9.0, Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+40.19MB
+Datum hinzugefügt:
+15/11/2023
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-9-release-notes/
+BeschreibungEs enthält ASSOSE.FINANCE für Python über .NET 23.9.0, Windows X32 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bcef132459055b7f62b765d92337195b-9-9826&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASSOSPEN.</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.9.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.9.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.FINANCE FÜR PYTHON über .NET 23.9.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+47.82MB
+Datum hinzugefügt:
+15/11/2023
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-9-release-notes/
+BeschreibungEs enthält ASSOSE.FINANCE für Python über .NET 23.9.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3dc1c4a2731bc9ebe408c2e3a01b0119-10-9827&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FINANCE-FOR-PYTHON-VIA-NIA-23.10.0, -LINUX-X86, -X64</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.10.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.10.0-linux-x86-x64/</guid><description>&amp;nbsp;
+ASSON.FINANCE FÜR PYTHON über .NET 23.10.0, Linux x86, x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+73.92MB
+Datum hinzugefügt:
+15/11/2023
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-10-release-notes/
+BeschreibungEs enthält die ASSOSE.FINANCE für Python über .NET 23.10.0, Linux x86, x64.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e516149cd4ca0be13f5f0194baec0c8a-15-9828&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FINANCE-FOR-PYTHON-VIA-NIA-23.10.0, -WINDOWS-X32</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.10.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.10.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.FINANCE FÜR PYTHON über .NET 23.10.0, Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+40.18MB
+Datum hinzugefügt:
+15/11/2023
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-10-release-notes/
+BeschreibungEs enthält ASSOSE.FINANCE für Python über .NET 23.10.0, Windows X32 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c9d0248909862675c2273e9d753472a8-9-9829&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FINANCE-FOR-PYTHON-VIA-NIA-23.10.0, -WINDOWS-X64</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.10.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.10.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.FINANCE FÜR PYTHON über .NET 23.10.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+47.82MB
+Datum hinzugefügt:
+15/11/2023
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-10-release-notes/
+BeschreibungEs enthält ASSOSE.FINANCE für Python über .NET 23.10.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9eaa4685b0db53a329f6087d966b35cf-10-9830&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FINANCE-FOR-PYTHON-VIA-NIA-23.11.0-LINUX-X86-64</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.11.0-linux-x86-64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.11.0-linux-x86-64/</guid><description>&amp;nbsp;
+ASSON.FINANCE FÜR PYTHON über .NET 23.11.0 Linux x86-64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+73.92MB
+Datum hinzugefügt:
+8/12/2023
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-11-release-notes/
+BeschreibungEs enthält ASSOSE.FINANCE für Python über .NET 23.11.0 Linux x86-64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6362160a788b09818faefe67f705cf39-15-9964&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASSOSPEN.</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.11.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.11.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.FINANCE FÜR PYTHON über .NET 23.11.0 Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+40.18MB
+Datum hinzugefügt:
+8/12/2023
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-11-release-notes/
+BeschreibungEs enthält ASSOSE.FINANCE für Python über .NET 23.11.0 Windows X32 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f4f132f5896a9cde09e7b01300dcb8e8-9-9965&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FINANCE-FOR-PYTHON-VIA-NIA-23.11.0-WINDOWS-X64</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.11.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.11.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.FINANCE FÜR PYTHON über .NET 23.11.0 Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+47.82MB
+Datum hinzugefügt:
+8/12/2023
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-11-release-notes/
+BeschreibungEs enthält ASSOSE.FINANCE für Python über .NET 23.11.0 Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1264bdf87ab5a65a9ff9c8a5416dc98d-10-9966&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FINANCE-FOR-PYTHON-VIA-NIA-23.12.0-LINUX-X86-64</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.12.0-linux-x86-64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.12.0-linux-x86-64/</guid><description>&amp;nbsp;
+ASSON.
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+73.92MB
+Datum hinzugefügt:
+5/1/2024
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-12-release-notes/
+BeschreibungEs enthält ASSOSE.FINANCE für Python über .NET 23.12.0 Linux x86-64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6cf22256fef4b508851322555a12a7a4-15-10122&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.FINANCE-FOR-PYTHON-VIA-NIA-23.12.0-Windows-X32</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.12.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.12.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.FINANCE FÜR PYTHON über .NET 23.12.0 Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+40.18MB
+Datum hinzugefügt:
+5/1/2024
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-12-release-notes/
+BeschreibungEs enthält ASSOSE.FINANCE für Python über .NET 23.12.0 Windows X32 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=55761fa7a7a87f7cefe03e3bdf8523e5-9-10123&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FINANCE-FOR-PYTHON-VIA-NIA-23.12.0-Windows-X64</title><link>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.12.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.12.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.FINANCE FÜR PYTHON über .NET 23.12.0 Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+47.82MB
+Datum hinzugefügt:
+5/1/2024
+Versionshinweisehttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-12-release-notes/
+BeschreibungEs enthält ASSOSE.FINANCE für Python über .NET 23.12.0 Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=06c059c999ef14bc42068fa1148bfe3e-10-10124&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item></channel></rss>

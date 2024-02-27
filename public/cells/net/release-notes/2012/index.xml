@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Release Notes - 2012 on Releases - aspose.com</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2012/</link><description>Recent content in Release Notes - 2012 on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/cells/net/release-notes/2012/index.xml" rel="self" type="application/rss+xml"/><item><title>Aspose.Cells for .NET 7.3.4 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2012/aspose-cells-for-net-7-3-4-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2012/aspose-cells-for-net-7-3-4-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 7.3.4
+Weare happy to announce Aspose.Cells for .NET v7.3.4!
+\1) Aspose.Cells
+New Features
+Support Open Office 3D Charts Calculate weighted average on Subtotal row between two columns (SmartMarkers) Detect vertical or horizontal data source of a chart Enhancements
+Find and Replace inner texts Performance
+Workbook’s CalculateFormula method takes 30+ seconds Performance degradation for Office 2007 as compared to 2003 -CalculateFormula is taking around 3 minutes on 8 Core machine</description></item><item><title>Aspose.Cells for .NET 7.3.3 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2012/aspose-cells-for-net-7-3-3-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2012/aspose-cells-for-net-7-3-3-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 7.3.3
+We are happy to announce Aspose.Cells for .NET v7.3.3!
+\1) Aspose.Cells
+Exceptions
+Corrupted files with new Aspose.Cells version Getting error when saving the Excel file Bugs
+Applying SetArrayFormula method error Error found when opening the generated file having chart Cells.DeleteRange with does not update references
+Fit the columns and rows Some spreadsheets will fail while loading/saving process Workbook.</description></item><item><title>Aspose.Cells for .NET 7.3.2 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2012/aspose-cells-for-net-7-3-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2012/aspose-cells-for-net-7-3-2-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 7.3.2
+We are happy to announce Aspose.Cells for .NETv7.3.2!
+\1) Aspose.Cells
+New Features
+Support to copy Sparklines in Workbook.Copy() Enhancements
+Saving Workbook (XLSM file) removes MS Excel Table’s Array Formulas Anenhancement regarding input formatting for Ranges Find an XML exception while saving a workbook Using ProtectedRange to allow domain users/groups edit permissions Performance
+Performance issues with PivotTables Exceptions</description></item><item><title>Aspose.Cells for .NET 7.3.1 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2012/aspose-cells-for-net-7-3-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2012/aspose-cells-for-net-7-3-1-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 7.3.1
+We are happy to announce Aspose.Cells for .NETv7.3.1 for the users!
+\1) Aspose.Cells
+New Features
+Conditional formatting - Include DataBar type’s missing fields Conditional formatting - Include IconSet type’s missing values Conditional formatting - Support Read conditional formatting rules with cross-sheet formulas Support Cells.MinDataColumn and Cells.MinDataRow properties Support Cell Background Colors with Conditional Formatting (MS Excel 2010) Data Filters of the PivotTable are supported Advanced data validation of MS Excel 2010 is supported Enhancements</description></item><item><title>Aspose.Cells for .NET 7.3.0 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2012/aspose-cells-for-net-7-3-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2012/aspose-cells-for-net-7-3-0-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 7.3.0
+We are happy to announce Aspose.Cells for .NETv7.3.0 for the users!
+\1) Aspose.Cells
+New Features
+40701 - Support Reading and Writing MHT files
+Support XML Maps Enhancements
+Mono supported version issue Can&amp;rsquo;t use formula as parameter of Can custom functions return ranges that can be used to SUM on Applying themes to Charts Problem with Formula referencing an image Exceptions</description></item><item><title>Aspose.Cells for .NET 7.2.2 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2012/aspose-cells-for-net-7-2-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2012/aspose-cells-for-net-7-2-2-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 7.2.2
+We are happy to announce Aspose.Cells for .NET v7.2.2!
+\1) Aspose.Cells
+Enhancements
+Multiple Subtotals add extra row Subsequent Subtotal Formulae not using correct range Accessing Shapes data in MS Excel  Map Properties not saved when saving a copy of an Excel file Disable Compatibility Checker in MS Excel Incorrect implementation/interpretation to open incorrect file format Exceptions</description></item><item><title>Aspose.Cells for .NET 7.2.1 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2012/aspose-cells-for-net-7-2-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2012/aspose-cells-for-net-7-2-1-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 7.2.1
+We arehappy to announce Aspose.Cells for .NET v7.2.1!
+\1) Aspose.Cells
+Enhancements
+Shapes’ lines are incorrectly filed after converting to PDF Macro disappeared after saving an XLSM file to XLS format List box options overlap one another Aspose.Cells corrupting XLSM file after calling the Workbook.Save() method Thecomponent destroys properties of the workbook XML’s CalcPr node You want to put a string longer than 32K Smart Markers syntax for column index Smart Markers - Nested Objects Exceptions</description></item><item><title>Aspose.Cells for Java 7.2.0 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2012/aspose-cells-for-java-7-2-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2012/aspose-cells-for-java-7-2-0-release-notes/</guid><description>This page contains release notes for Aspose.Cells for Java 7.2.0
+We are happy to announce Aspose.Cells for .NETv7.2.0!
+\1) Aspose.Cells
+Enhancements
+Cells.ImportDataView only imports 65535 rows Could not update ComboBox in XLSM file Exceptions
+Shapes.AddCopy throws: Index was out of range NullReferenceException after copying worksheet Exception:Invalid MsoLineDashStyle string val occurred while opening the file Unable to convert some XLSX files to TIFF format Bugs</description></item><item><title>Aspose.Cells for .NET 7.1.2 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2012/aspose-cells-for-net-7-1-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2012/aspose-cells-for-net-7-1-2-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 7.1.2
+We are happy to announce Aspose.Cells for .NET v7.1.2!1) Aspose.Cells
+New Features
+ - Support Tables in XLS files - Customizing the Ribbon XML40452 - Support Workbook.ContentTypePropertiesEnhancements
+ - IF() Formula returns “0” instead of “#N/A” - Problems with FirstPageNumber property - Layout changed when document is converted to PDF - The property &amp;lsquo;DragData&amp;rsquo; is missing in &amp;lsquo;PivotField&amp;rsquo; - Change DataSource on Pivot Table.</description></item><item><title>Aspose.Cells for .NET 7.1.1 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2012/aspose-cells-for-net-7-1-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2012/aspose-cells-for-net-7-1-1-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 7.1.1
+We are happy to announceAspose.Cells for .NET v7.1.1!
+\1) Aspose.Cells
+New Features
+Tracing Precedents and Dependents Enhancements
+Saving workbook in XLSX is throwing error AutoFitColumn options Is there GetDependents() method in the .NET version -Support TH elements in the HTML Table
+Excel to PDF (Arabic) - Incorrect word/date formatting on conversion Antivirus software strips out Excel files from emails Exceptions</description></item><item><title>Aspose.Cells for .NET 7.1.0 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2012/aspose-cells-for-net-7-1-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2012/aspose-cells-for-net-7-1-0-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 7.1.0
+We are happy to announce Aspose.Cells for .NETv7.1.0!
+\1) Aspose.Cells
+New Features
+Support to apply Conditional Formatting to Pivot Tables Read configuration of Group Fields in Pivot Tables Enhancements
+NullReferenceException when opening document with auto-formatted Pivot Table Pivot Table’s filtering in MS Excel 2007 and later versions Chart’s formatting issue Copying worksheet does not work Smart Marker Tags conversion Missing properties (Pivot Table) -Missing properties (Pivot Field)</description></item></channel></rss>

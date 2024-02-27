@@ -1,0 +1,3826 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>C++-Klassenbibliothek für Präsentationen herunterladen | Aspose.Folien on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/slides/cpp/</link><description>Recent content in C++-Klassenbibliothek für Präsentationen herunterladen | Aspose.Folien on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/slides/cpp/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-18.1 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---18.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---18.1/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 18.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+22
+Dateigröße:
+67.0 MB Posted By: victor.krivolap
+Ansichten:
+171
+Hinzugefügt am:
+1/30/2018
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2018/aspose-slides-for-cpp-18-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2c963d80f6b24f3882951edfe14c9a59&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-18.2 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---18.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---18.2/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 18.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+13
+Dateigröße:
+194.0 MB Posted By: victor.krivolap
+Ansichten:
+114
+Hinzugefügt am:
+2/28/2018
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2018/aspose-slides-for-cpp-18-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a130dc151a6648579f6036ca6748826e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-18.3 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---18.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---18.3/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 18.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+13
+Dateigröße:
+194.9 MB Posted By: victor.krivolap
+Ansichten:
+39
+Hinzugefügt am:
+4/1/2018
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2018/aspose-slides-for-cpp-18-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6c5a140551c14165a1818a4555f1cb5a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-18.4 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---18.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---18.4/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 18.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+Dateigröße:
+189.5 MB Posted By: victor.krivolap
+Ansichten:
+14
+Hinzugefügt am:
+5/5/2018
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2018/aspose-slides-for-cpp-18-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=93502f96924d4a26bfdc2340d92be1ee&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-18.5 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---18.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---18.5/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 18.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+189.8 MB Posted By: victor.krivolap
+Ansichten:
+5
+Hinzugefügt am:
+6/29/2018
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2018/aspose-slides-for-cpp-18-5-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e2d64fe4c197407f9aa1cdd38efd30f7&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-18.6 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---18.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---18.6/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 18.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+191.1 MB Posted By: victor.krivolap
+Ansichten:
+16
+Hinzugefügt am:
+7/1/2018
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2018/aspose-slides-for-cpp-18-6-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=567d3b05c5a04ed4b85bd65b647e85b8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-18.7 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---18.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---18.7/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 18.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+13
+Dateigröße:
+191.2 MB Posted By: victor.krivolap
+Ansichten:
+672
+Hinzugefügt am:
+7/27/2018
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2018/aspose-slides-for-cpp-18-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d9b435bb52e94e43943fa3a87b042e9c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-18.8 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---18.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---18.8/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 18.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+190.1 MB Posted By: victor.krivolap
+Ansichten:
+679
+Hinzugefügt am:
+8/30/2018
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2018/aspose-slides-for-cpp-18-8-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7d30746664094ee4b9cec50e15fc0e3d&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-18.9 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---18.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---18.9/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 18.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+179.8 MB Posted By: victor.krivolap
+Ansichten:
+670
+Hinzugefügt am:
+9/30/2018
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2018/aspose-slides-for-cpp-18-9-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=181180d3709b49ad98a659a08340043c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-18.10 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---18.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---18.10/</guid><description>&amp;nbsp;
+Aspose.Folien für C&amp;#43;&amp;#43; 18.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+16
+Dateigröße:
+163.7 MB Posted By: victor.krivolap
+Ansichten:
+1094
+Hinzugefügt am:
+10/31/2018
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2018/aspose-slides-for-cpp-18-10-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5feac3f36d5f4739b5d49ad099ccbf0f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-18.11 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---18.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---18.11/</guid><description>&amp;nbsp;
+Aspose.Folien für C&amp;#43;&amp;#43; 18.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+16
+Dateigröße:
+161.4 MB Posted By: victor.krivolap
+Ansichten:
+756
+Hinzugefügt am:
+12/1/2018
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2018/aspose-slides-for-cpp-18-11-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=87b4ccdabc6a490792edcf0448e3499a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-18.12 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---18.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---18.12/</guid><description>&amp;nbsp;
+Aspose.Folien für C&amp;#43;&amp;#43; 18.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+17
+Dateigröße:
+161.5 MB Posted By: victor.krivolap
+Ansichten:
+1016
+Hinzugefügt am:
+12/27/2018
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2018/aspose-slides-for-cpp-18-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=628bb8e4b44d406e8d72f50cdd93ecce&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-19.1 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.1/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 19.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+161.7 MB Posted By: victor.krivolap
+Ansichten:
+14
+Hinzugefügt am:
+1/30/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=dd7d732f95034a4ba478a1f990a55a65&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-19.2 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.2/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 19.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+163.2 MB Posted By: victor.krivolap
+Ansichten:
+15
+Hinzugefügt am:
+2/28/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=15d271ceb776423b85e288e2c8ab93b7&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-19.3 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.3/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 19.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+163.3 MB Posted By: victor.krivolap
+Ansichten:
+12
+Hinzugefügt am:
+4/4/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=dd94619173ab4886948b11c5c2f31f21&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-19.4 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.4/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 19.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+162.8 MB Posted By: victor.krivolap
+Ansichten:
+15
+Hinzugefügt am:
+4/26/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=833128da0772428a8b4a8fd0671fcbc0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-19.5 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.5/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 19.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+163.0 MB Posted By: nikolay.saulyak
+Ansichten:
+24
+Hinzugefügt am:
+5/30/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-5-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=438cf14af7fd4ee282fb3422805d3273&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-19.6 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.6/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 19.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+163.3 MB Posted By: nikolay.saulyak
+Ansichten:
+20
+Hinzugefügt am:
+6/21/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-6-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0734bc6a586446fc83fde571221412df&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-19.6-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.6-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.6-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 19.6 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+91.1 MB Posted By: nikolay.saulyak
+Ansichten:
+14
+Hinzugefügt am:
+6/21/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-6-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b7f5262b495c4f5a9c74afb31d4c0103&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-19.7 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.7/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 19.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+164.8 MB Posted By: nikolay.saulyak
+Ansichten:
+28
+Hinzugefügt am:
+7/24/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c76ebd67a0474c38a872b4c0be038b54&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-19.7-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.7-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.7-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 19.7 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+91.6 MB Posted By: nikolay.saulyak
+Ansichten:
+21
+Hinzugefügt am:
+7/24/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1c136d38a4214c899c6221c3f6b6cf41&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-19.8 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.8/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 19.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+166.4 MB Posted By: nikolay.saulyak
+Ansichten:
+13
+Hinzugefügt am:
+8/30/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-8-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6bdc7935d5ca406f9ac5aff50990d956&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-19.8-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.8-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 19.8 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+Dateigröße:
+92.4 MB Posted By: nikolay.saulyak
+Ansichten:
+10
+Hinzugefügt am:
+8/30/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-8-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8cff3015d8194fc08033897543938e32&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-19.9 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.9/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 19.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+13
+Dateigröße:
+166.5 MB Posted By: nikolay.saulyak
+Ansichten:
+66
+Hinzugefügt am:
+9/18/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-9-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0fc152ae4e8d459d840aa3a91c480277&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-19.9-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.9-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.9-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 19.9 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+92.4 MB Posted By: nikolay.saulyak
+Ansichten:
+22
+Hinzugefügt am:
+9/18/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-9-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=72420921101e4626b88bfd98df06e94e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-19.10 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.10/</guid><description>&amp;nbsp;
+Aspose.Folien für C&amp;#43;&amp;#43; 19.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+168.9 MB Posted By: nikolay.saulyak
+Ansichten:
+19
+Hinzugefügt am:
+10/28/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-10-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1c806cff160746c2a80ba2916b2c4610&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-19.10-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.10-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.10-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 19.10 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+93.7 MB Posted By: nikolay.saulyak
+Ansichten:
+13
+Hinzugefügt am:
+10/28/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-10-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=39092230568e42cea66998eff7a08018&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-19.11 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.11/</guid><description>&amp;nbsp;
+Aspose.Folien für C&amp;#43;&amp;#43; 19.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+169.0 MB Posted By: nikolay.saulyak
+Ansichten:
+26
+Hinzugefügt am:
+11/27/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-11-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=05acf673079a4b32b79a398aa179e5e9&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-19.11-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.11-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.11-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 19.11 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+93.7 MB Posted By: nikolay.saulyak
+Ansichten:
+13
+Hinzugefügt am:
+11/27/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-11-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=37d86670657244e7802f79b201b10d60&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-19.12 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.12/</guid><description>&amp;nbsp;
+Aspose.Folien für C&amp;#43;&amp;#43; 19.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+167.1 MB Posted By: nikolay.saulyak
+Ansichten:
+32
+Hinzugefügt am:
+12/20/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=27d6bada8f98472290fd52edcc780b24&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-19.12-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.12-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---19.12-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 19.12 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+93.2 MB Posted By: nikolay.saulyak
+Ansichten:
+17
+Hinzugefügt am:
+12/20/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e13ef29425ad412cb2485d37a997d424&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-20.1 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.1/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 20.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+Dateigröße:
+173.3 MB Posted By: nikolay.saulyak
+Ansichten:
+10
+Hinzugefügt am:
+1/24/2020
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2020/aspose-slides-for-cpp-20-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1591f4ca00f94e8d9ae88271a9187f83&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-20.1-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.1-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.1-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 20.1 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+96.8 MB Posted By: nikolay.saulyak
+Ansichten:
+10
+Hinzugefügt am:
+1/24/2020
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2020/aspose-slides-for-cpp-20-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c3363adc9d774d19a52b74708a14c204&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-20.2 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.2/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 20.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+4
+Dateigröße:
+175.9 MB Posted By: nikolay.saulyak
+Ansichten:
+88
+Hinzugefügt am:
+2/20/2020
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2020/aspose-slides-for-cpp-20-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=dec28dc9317e4aa8b8dc5e6abbae1ca7&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-20.2-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.2-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.2-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 20.2 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+99.4 MB Posted By: nikolay.saulyak
+Ansichten:
+72
+Hinzugefügt am:
+2/20/2020
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2020/aspose-slides-for-cpp-20-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0c05ac17920b4244aa96056abf216851&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-20.3 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.3/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 20.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+180.2 MB Posted By: nikolay.saulyak
+Ansichten:
+49
+Hinzugefügt am:
+3/24/2020
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2020/aspose-slides-for-cpp-20-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cac7b1503c144081918b56e2b154a4fd&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-20.3-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.3-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.3-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 20.3 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+102.6 MB Posted By: nikolay.saulyak
+Ansichten:
+49
+Hinzugefügt am:
+3/24/2020
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2020/aspose-slides-for-cpp-20-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a9f69e16a254426b8dd3613f27bd9757&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-20.4 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.4/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 20.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+184.5 MB Posted By: nikolay.saulyak
+Ansichten:
+33
+Hinzugefügt am:
+4/28/2020
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2020/aspose-slides-for-cpp-20-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fc7ee0f7479046beb6e670f1d89238f2&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-20.4-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.4-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.4-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 20.4 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+104.7 MB Posted By: nikolay.saulyak
+Ansichten:
+29
+Hinzugefügt am:
+4/28/2020
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2020/aspose-slides-for-cpp-20-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=52488dbd3b8d4f79a7ba89acc94ff13b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-20.5 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.5/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 20.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+13
+Dateigröße:
+181.8 MB Posted By: nikolay.saulyak
+Ansichten:
+35
+Hinzugefügt am:
+5/19/2020
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2020/aspose-slides-for-cpp-20-5-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8badf9ffa53e48a8ab58d735a0dceb38&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-20.5-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.5-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.5-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 20.5 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+102.7 MB Posted By: nikolay.saulyak
+Ansichten:
+71
+Hinzugefügt am:
+5/19/2020
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2020/aspose-slides-for-cpp-20-5-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9207161f635643fb84be23e7d2d07186&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-20.6 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.6/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 20.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+182.4 MB Posted By: nikolay.saulyak
+Ansichten:
+39
+Hinzugefügt am:
+6/24/2020
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2020/aspose-slides-for-cpp-20-6-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5df4832442dc4237aee524aa4718de9c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-20.6-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.6-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.6-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 20.6 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+103.9 MB Posted By: nikolay.saulyak
+Ansichten:
+29
+Hinzugefügt am:
+6/24/2020
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2020/aspose-slides-for-cpp-20-6-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c4e34cab87f341988993ef7964c2099a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-20.7 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.7/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 20.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+182.6 MB Posted By: nikolay.saulyak
+Ansichten:
+55
+Hinzugefügt am:
+7/20/2020
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2020/aspose-slides-for-cpp-20-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0c7ca708f9f341a387f16242904787db&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-20.7-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.7-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.7-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 20.7 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+104.0 MB Posted By: nikolay.saulyak
+Ansichten:
+46
+Hinzugefügt am:
+7/20/2020
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2020/aspose-slides-for-cpp-20-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8e66be7b12e44e5a9cb6f3c48539254d&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-20.8 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.8/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 20.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+195.3 MB Posted By: nikolay.saulyak
+Ansichten:
+48
+Hinzugefügt am:
+8/20/2020
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2020/aspose-slides-for-cpp-20-8-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bcd21f46c21045f79a8caa81689a09c2&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-20.8-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.8-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 20.8 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+108.9 MB Posted By: nikolay.saulyak
+Ansichten:
+41
+Hinzugefügt am:
+8/20/2020
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2020/aspose-slides-for-cpp-20-8-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=782ed1b872f7499abd7aae9fcb2dcb57&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-20.9 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.9/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 20.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+191.9 MB Posted By: nikolay.saulyak
+Ansichten:
+45
+Hinzugefügt am:
+9/24/2020
+Versionshinweise https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-20-9-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=712e613ba031469cb2ff28557b90fa54&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-20.9-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.9-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.9-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 20.9 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+108.4 MB Posted By: nikolay.saulyak
+Ansichten:
+27
+Hinzugefügt am:
+9/24/2020
+Versionshinweise https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-20-9-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7d590202059e44fea19b1da10b83f31d&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-20.10 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.10/</guid><description>&amp;nbsp;
+Aspose.Folien für C&amp;#43;&amp;#43; 20.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+14
+Dateigröße:
+192.6 MB Posted By: nikolay.saulyak
+Ansichten:
+43
+Hinzugefügt am:
+10/23/2020
+Versionshinweise https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-20-10-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3442b5a9e74c4676803d3c112cdcc64d&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-20.10-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.10-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.10-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 20.10 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+109.1 MB Posted By: nikolay.saulyak
+Ansichten:
+40
+Hinzugefügt am:
+10/23/2020
+Versionshinweise https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-20-10-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=54eaaf61ef634b5fa040d2dea99340dc&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-20.11 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.11/</guid><description>&amp;nbsp;
+Aspose.Folien für C&amp;#43;&amp;#43; 20.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+13
+Dateigröße:
+328.5 MB Posted By: nikolay.saulyak
+Ansichten:
+38
+Hinzugefügt am:
+11/19/2020
+Versionshinweise https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-20-11-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=aedbc81ffd4d4c0f886157a40e138240&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-20.11-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.11-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.11-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 20.11 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+Dateigröße:
+103.5 MB Posted By: nikolay.saulyak
+Ansichten:
+33
+Hinzugefügt am:
+11/19/2020
+Versionshinweise https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-20-11-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c32859b86a7a498b999d3b213ab766b7&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-20.12 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.12/</guid><description>&amp;nbsp;
+Aspose.Folien für C&amp;#43;&amp;#43; 20.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+13
+Dateigröße:
+331.1 MB Posted By: nikolay.saulyak
+Ansichten:
+38
+Hinzugefügt am:
+12/18/2020
+Versionshinweise https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-20-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ada5af7928c34fb4998f875bfd8d8855&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-20.12-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.12-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---20.12-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 20.12 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+105.0 MB Posted By: nikolay.saulyak
+Ansichten:
+37
+Hinzugefügt am:
+12/18/2020
+Versionshinweise https://docs.aspose.com/slides/cpp/aspose-slides-for-cpp-20-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a8c1327c45e84e5380df0df7f8ef9898&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-21.1 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.1/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 21.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+14
+Dateigröße:
+331.0 MB Posted By: nikolay.saulyak
+Ansichten:
+66
+Hinzugefügt am:
+1/25/2021
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2021/aspose-slides-for-cpp-21-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=125f40c838374385a9be24b6cff45606&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-21.1-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.1-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.1-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 21.1 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+104.9 MB Posted By: nikolay.saulyak
+Ansichten:
+29
+Hinzugefügt am:
+1/25/2021
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2021/aspose-slides-for-cpp-21-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b4e8854755254ef08acc3fc4c3ae41bd&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-21.2 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.2/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 21.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+329.6 MB Posted By: nikolay.saulyak
+Ansichten:
+39
+Hinzugefügt am:
+2/18/2021
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2021/aspose-slides-for-cpp-21-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e4b6fa1e96644493b0de773aab514fb2&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-21.2-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.2-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.2-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 21.2 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+106.1 MB Posted By: nikolay.saulyak
+Ansichten:
+70
+Hinzugefügt am:
+2/18/2021
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2021/aspose-slides-for-cpp-21-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=49448d9fdbc24e5f91fe87d624408053&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-21.3 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.3/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 21.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+333.0 MB Posted By: nikolay.saulyak
+Ansichten:
+35
+Hinzugefügt am:
+3/22/2021
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2021/aspose-slides-for-cpp-21-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2e1068d1dcbd4625a6fb6aaf1821c2f5&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-21.3-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.3-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.3-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 21.3 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+107.4 MB Posted By: nikolay.saulyak
+Ansichten:
+27
+Hinzugefügt am:
+3/22/2021
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2021/aspose-slides-for-cpp-21-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=dc8bf22400774f48a4f47d7a8b179846&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-21.4 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.4/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 21.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+333.1 MB Posted By: nikolay.saulyak
+Ansichten:
+35
+Hinzugefügt am:
+4/19/2021
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2021/aspose-slides-for-cpp-21-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a3a17fa9d37240d3948c30322276ab63&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-21.4-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.4-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.4-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 21.4 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+106.9 MB Posted By: nikolay.saulyak
+Ansichten:
+33
+Hinzugefügt am:
+4/19/2021
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2021/aspose-slides-for-cpp-21-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1adb510834ff40a3b9c01fbe8144a52c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-21.5 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.5/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 21.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+333.8 MB Posted By: nikolay.saulyak
+Ansichten:
+34
+Hinzugefügt am:
+5/19/2021
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2021/aspose-slides-for-cpp-21-5-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6afa7809be20440db277c1520f7ba9cf&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-21.5-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.5-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.5-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 21.5 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+107.0 MB Posted By: nikolay.saulyak
+Ansichten:
+30
+Hinzugefügt am:
+5/19/2021
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2021/aspose-slides-for-cpp-21-5-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4d783e0358744ddb937ae53085454a79&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-21.6 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.6/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 21.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+336.6 MB Posted By: nikolay.saulyak
+Ansichten:
+60
+Hinzugefügt am:
+6/18/2021
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2021/aspose-slides-for-cpp-21-6-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=60ae47d618314abd9432935e487c8aa8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-21.6-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.6-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.6-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 21.6 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+Dateigröße:
+108.7 MB Posted By: nikolay.saulyak
+Ansichten:
+30
+Hinzugefügt am:
+6/18/2021
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2021/aspose-slides-for-cpp-21-6-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=28eb11240de945b7a7883acfd651633a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-21.7 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.7/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 21.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+Dateigröße:
+336.7 MB Posted By: nikolay.saulyak
+Ansichten:
+31
+Hinzugefügt am:
+7/27/2021
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2021/aspose-slides-for-cpp-21-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5b89caf8cb944aff9ff9b3599007d131&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-21.7-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.7-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.7-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 21.7 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+Dateigröße:
+108.8 MB Posted By: nikolay.saulyak
+Ansichten:
+29
+Hinzugefügt am:
+7/27/2021
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2021/aspose-slides-for-cpp-21-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=628cb886fb7940218ff424a8bbe07689&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-21.8 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.8/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 21.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+337.7 MB Posted By: nikolay.saulyak
+Ansichten:
+41
+Hinzugefügt am:
+8/18/2021
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2021/aspose-slides-for-cpp-21-8-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9305c00957e24666804c1894bb8ff3f3&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-21.8-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.8-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 21.8 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+Dateigröße:
+109.1 MB Posted By: nikolay.saulyak
+Ansichten:
+44
+Hinzugefügt am:
+8/18/2021
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2021/aspose-slides-for-cpp-21-8-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2d160b2a23384f2c88e622ede8574a7d&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-21.9 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.9/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 21.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+Dateigröße:
+328.6 MB Posted By: nikolay.saulyak
+Ansichten:
+37
+Hinzugefügt am:
+9/21/2021
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2021/aspose-slides-for-cpp-21-9-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=855e4e7fdcf440119f66a9c5e3c955a2&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-21.9-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.9-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.9-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 21.9 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+96.7 MB Posted By: nikolay.saulyak
+Ansichten:
+33
+Hinzugefügt am:
+9/21/2021
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2021/aspose-slides-for-cpp-21-9-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=eda5e2c42a174e60b437feb1783142b3&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-21.10 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.10/</guid><description>&amp;nbsp;
+Aspose.Folien für C&amp;#43;&amp;#43; 21.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+328.6 MB Posted By: nikolay.saulyak
+Ansichten:
+35
+Hinzugefügt am:
+10/19/2021
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2021/aspose-slides-for-cpp-21-10-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6e9c4592234b458a9b47207dc9415477&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-21.10-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.10-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.10-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 21.10 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+96.8 MB Posted By: nikolay.saulyak
+Ansichten:
+38
+Hinzugefügt am:
+10/20/2021
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2021/aspose-slides-for-cpp-21-10-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7b82e182cc174525ab9348891b6786c9&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-21.11 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.11/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 21.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+326.4 MB Posted By: nikolay.saulyak
+Ansichten:
+35
+Hinzugefügt am:
+11/17/2021
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2021/aspose-slides-for-cpp-21-11-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e10bbf112a9c4a1b93125eb67df7525e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-21.11-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.11-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.11-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 21.11 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+96.7 MB Posted By: nikolay.saulyak
+Ansichten:
+32
+Hinzugefügt am:
+11/17/2021
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2021/aspose-slides-for-cpp-21-11-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=41948442d947416aaf7f3530cdc5eeac&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-21.12 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.12/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 21.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+14
+Dateigröße:
+326.0 MB Posted By: nikolay.saulyak
+Ansichten:
+40
+Hinzugefügt am:
+12/20/2021
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2021/aspose-slides-for-cpp-21-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8262267ec1224a22aba40c7eca890747&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-21.12-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.12-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---21.12-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 21.12 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+88.2 MB Posted By: nikolay.saulyak
+Ansichten:
+35
+Hinzugefügt am:
+12/20/2021
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2021/aspose-slides-for-cpp-21-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a0235908a58c44a5ba4a7704095ea7a2&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-22.1 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---22.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---22.1/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 22.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+343.0 MB Posted By: nikolay.saulyak
+Ansichten:
+27
+Hinzugefügt am:
+1/20/2022
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b0f320832d5f42db9ff6e08074edbb33&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-22.1-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---22.1-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---22.1-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 22.1 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+92.7 MB Posted By: nikolay.saulyak
+Ansichten:
+31
+Hinzugefügt am:
+1/20/2022
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=69874d53b7a84ca58c45cbac0e766c96&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-22.2 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---22.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---22.2/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 22.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+343.4 MB Posted By: nikolay.saulyak
+Ansichten:
+30
+Hinzugefügt am:
+2/17/2022
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2bdad45fb81c4fbaaf85f6324bcc95a1&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-22.2-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---22.2-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---22.2-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 22.2 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+84.6 MB Posted By: nikolay.saulyak
+Ansichten:
+24
+Hinzugefügt am:
+2/17/2022
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8a84f73186324cc1a939cbac857cbe51&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue-Releases-aspose.slides-for-c++-22.3</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---22.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---22.3/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 22.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+368.5 MB Posted By: nikolay.saulyak
+Ansichten:
+9
+Hinzugefügt am:
+3/24/2022
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ab4743f3fa4e4fe89fbca5551e3f4f01&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue-Releases-aspose.slides-for-c++-22.3-linux</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---22.3-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---22.3-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 22.3 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+90.4 MB Posted By: nikolay.saulyak
+Ansichten:
+17
+Hinzugefügt am:
+3/24/2022
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1f0e515512f44c2baa504dd145adf1a8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-22.4 .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---22.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---22.4/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 22.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+13
+Dateigröße:
+368.3 MB Hinzugefügt am:
+4/15/2022
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bae256df1f494dce9895f9343e43d4f5&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-c++-22.4-linux .</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---22.4-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c---22.4-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 22.4 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+90.4 MB Hinzugefügt am:
+4/15/2022
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9531a163256341c0b0df693cd6aa8fd0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.slides-for-c++-22.5-windows</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.5-windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.5-windows/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 22.5 Windows
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+356.8 MB
+Hinzugefügt am:
+10/6/2022
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-5-release-notes/
+BeschreibungEs enthält Aspose.Slides für die Windows-Version C++ 22.5.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5fc6d6cd0fe0400f91cf5a289088b27e-1-7472&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.slides-for-c++-22.5-linux</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.5-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.5-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 22.5 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+87.3
+Hinzugefügt am:
+10/6/2022
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-5-release-notes/
+BeschreibungEs enthält Aspose.Slides für die Linux-Version C++ 22.5.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7cd890a24aee43a785eed18b246c3274-1-7473&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.slides-for-c++-22.5-macos</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.5-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.5-macos/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 22.5 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+Dateigröße:
+89.3 MB
+Hinzugefügt am:
+10/6/2022
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-5-release-notes/
+BeschreibungEs enthält Aspose.Slides für die macOS-Version C++ 22.5.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4ab6c1db97c64616887778d9f3469afd-7474&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.slides-for-c++-22.6-windows</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.6-windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.6-windows/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 22.6 Windows
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+355.65MB
+Hinzugefügt am:
+27/6/2022
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-6-release-notes/
+BeschreibungEs enthält Aspose.Slides für die Windows-Version C++ 22.6.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=63e480f69f19d0e1fc7c8af4b70dba8a-72-7564&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.slides-for-c++-22.6-linux</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.6-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.6-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 22.6 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+86.89MB
+Hinzugefügt am:
+27/6/2022
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-6-release-notes/
+BeschreibungEs enthält Aspose.Slides für die Linux-Version C++ 22.6.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ee2a8da45127784d0f2370e3eadf03ab-18-7565&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.slides-for-c++-22.6-macos</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.6-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.6-macos/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 22.6 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+88.95MB
+Hinzugefügt am:
+27/6/2022
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-6-release-notes/
+BeschreibungEs enthält Aspose.Slides für die macOS-Version C++ 22.6.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=50265a32515b3c43d9ff907268c50c3f-18-7566&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.slides-for-c++-22.7-windows</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.7-windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.7-windows/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 22.7 Windows
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+356.27MB
+Hinzugefügt am:
+20/7/2022
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-7-release-notes/
+BeschreibungEs enthält Aspose.Slides für die Windows-Version C++ 22.7.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cc9f7b136444b007e1be8d61842ae323-72-7663&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.slides-for-c++-22.7-linux</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.7-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.7-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 22.7 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+87.16MB
+Hinzugefügt am:
+20/7/2022
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-7-release-notes/
+BeschreibungEs enthält Aspose.Slides für die Linux-Version C++ 22.7.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=db8148667f815ef534c38b951227bc3e-18-7666&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.slides-for-c++-22.7-macos</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.7-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.7-macos/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 22.7 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+89.12MB
+Hinzugefügt am:
+20/7/2022
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-7-release-notes/
+BeschreibungEs enthält Aspose.Slides für die macOS-Version C++ 22.7.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ef1f1f2a48229c6606774387bd75435f-18-7667&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.slides-for-c++-22.8-windows</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.8-windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.8-windows/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 22.8 Windows
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+357.38MB
+Hinzugefügt am:
+18/8/2022
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-8-release-notes/
+BeschreibungEs enthält Aspose.Slides für die Windows-Version C++ 22.8.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=75cd667173ed52e8b0c59697b176dff3-72-7774&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.slides-for-c++-22.8-linux</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.8-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 22.8 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+86.86MB
+Hinzugefügt am:
+18/8/2022
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-8-release-notes/
+BeschreibungEs enthält Aspose.Slides für die Linux-Version C++ 22.8.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=53ba1440e1ca6c77d2d05edb6e19697c-18-7775&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.slides-for-c++-22.8-macos</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.8-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.8-macos/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 22.8 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+88.85MB
+Hinzugefügt am:
+18/8/2022
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-8-release-notes/
+BeschreibungEs enthält Aspose.Slides für die macOS-Version C++ 22.8.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=023c6274b65844f5211c344fb217ab0f-18-7776&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.slides-for-c++-22.9-windows</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.9-windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.9-windows/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 22.9 Windows
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+357.5MB
+Hinzugefügt am:
+15/9/2022
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-9-release-notes/
+BeschreibungEs enthält Aspose.Slides für die Windows-Version C++ 22.9.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cbdc7eb2ef389378d8443efae7fd0bef-72-7900&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.slides-for-c++-22.9-linux</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.9-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.9-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 22.9 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+86.87MB
+Hinzugefügt am:
+15/9/2022
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-9-release-notes/
+BeschreibungEs enthält Aspose.Slides für die Linux-Version C++ 22.9.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=dcf824f9eea35432fa4696aa16cb0500-18-7901&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.slides-for-c++-22.9-macos</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.9-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.9-macos/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 22.9 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+88.92MB
+Hinzugefügt am:
+15/9/2022
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-9-release-notes/
+BeschreibungEs enthält Aspose.Slides für die macOS-Version C++ 22.9.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a50355d6b9bc152fe1f68bea5faf4958-18-7902&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.slides-for-c++-22.10-windows</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.10-windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.10-windows/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 22.10 Windows
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+363.31MB
+Date Added:
+21/10/2022
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-10-release-notes/
+BeschreibungEs enthält Aspose.Slides für die Windows-Version C++ 22.10.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ccde48ae49846edfeeb064529889ea08-73-8047&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.slides-for-c++-22.10-linux</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.10-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.10-linux/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 22.10 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+88.52MB
+Date Added:
+21/10/2022
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-10-release-notes/
+BeschreibungEs enthält Aspose.Slides für die Linux-Version C++ 22.10.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0e438171c6f2f0e80ef0eb7293ee5749-18-8048&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.slides-for-c++-22.10-macos</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.10-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-22.10-macos/</guid><description>&amp;nbsp;
+Aspose.Slides für C&amp;#43;&amp;#43; 22.10 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+90.53MB
+Date Added:
+21/10/2022
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2022/aspose-slides-for-cpp-22-10-release-notes/
+BeschreibungEs enthält Aspose.Slides für die macOS-Version C++ 22.10.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=66735a39eccc9d1c7a90140605868f5b-19-8049&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSPLE.Slides-for-C ++-23.1-Windows</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.1-windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.1-windows/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.1 Windows
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+374.47MB
+Datum hinzugefügt:
+25/1/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-1-release-notes/
+BeschreibungEs enthält asspose.Slides für C ++ 23.1 Windows Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=84290b78c48c9c2dfc549a431fd97b26-75-8421&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-C ++-23.1-Linux</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.1-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.1-linux/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.1 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+91.57MB
+Datum hinzugefügt:
+25/1/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-1-release-notes/
+BeschreibungEs enthält asspose.slides für C ++ 23.1 Linux -Freisetzung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7c91cd3beeeaa0f61a7ece061528dfc7-19-8422&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSPOSPEN.Slides-for-C ++-23.1-Macos</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.1-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.1-macos/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.1 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+94.63MB
+Datum hinzugefügt:
+25/1/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-1-release-notes/
+BeschreibungEs enthält asspose.Slides für die C ++ 23.1 MacOS -Freisetzung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1692012bfa2b1293d4241a97318e02fb-19-8423&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSPOSPEN.Slides-for-C ++-23.2-Windows</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.2-windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.2-windows/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.2 Windows
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+363.27MB
+Datum hinzugefügt:
+20/2/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-2-release-notes/
+BeschreibungEs enthält asspose.Slides für C ++ 23.2 Windows Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=de07df672edc284b6695136ad7051f85-73-8537&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-C ++-23.2-Linux</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.2-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.2-linux/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.2 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+88.61MB
+Datum hinzugefügt:
+20/2/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-2-release-notes/
+BeschreibungEs enthält asspose.slides für C ++ 23.2 Linux -Freisetzung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=62ab7b4e3984ffe5e15bf864bd3fcf8e-18-8538&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSPLE.Slides-for-C ++-23,2-MACOS</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.2-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.2-macos/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.2 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+90.92MB
+Datum hinzugefügt:
+20/2/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-2-release-notes/
+BeschreibungEs enthält asspose.Slides für die C ++ 23.2 MacOS -Freisetzung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e41e0741efb26c41215f2983eed6d396-19-8539&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPLE.Slides-for-C ++-23.3-Windows</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.3-windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.3-windows/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.3 Windows
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+363.59MB
+Datum hinzugefügt:
+21/3/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-3-release-notes/
+BeschreibungEs enthält asspose.Slides für C ++ 23.3 Windows Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cf88efaef224e2254601a7000fb4efd7-73-8653&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPLE.Slides-for-C ++-23.3-Linux</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.3-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.3-linux/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.3 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+88.62MB
+Datum hinzugefügt:
+21/3/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-3-release-notes/
+BeschreibungEs enthält asspose.slides für C ++ 23.3 Linux -Freisetzung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6a8e96b6653ab74fc1154008fd99aba8-18-8654&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-C ++-23,3-MACOS</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.3-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.3-macos/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.3 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+91.01MB
+Datum hinzugefügt:
+21/3/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-3-release-notes/
+BeschreibungEs enthält asspose.Slides für C ++ 23.3 MacOS -Veröffentlichung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8632960ea9239c44106616417bba8ae5-19-8655&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-C ++-23.4-Windows</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.4-windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.4-windows/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.4 Windows
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+365.08MB
+Datum hinzugefügt:
+21/4/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-4-release-notes/
+BeschreibungEs enthält asspose.Slides für C ++ 23.4 Windows Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1796140bd5bb28573f2d50a110928fca-74-8800&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-C ++-23.4-Linux</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.4-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.4-linux/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.4 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+88.89MB
+Datum hinzugefügt:
+21/4/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-4-release-notes/
+BeschreibungEs enthält asspose.Slides für C ++ 23.4 Linux -Freisetzung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c3cd86adf12b4f563aefadaa47906326-18-8801&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSPOSPEN.Slides-for-C ++-23,4-MACOS</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.4-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.4-macos/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.4 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+91.14MB
+Datum hinzugefügt:
+21/4/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-4-release-notes/
+BeschreibungEs enthält asspose.Slides für C ++ 23.4 MacOS -Veröffentlichung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=872ab6986055eafd9ff68837ff557db2-19-8804&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-C ++-23.5-Fenster</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.5-windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.5-windows/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.5 Windows
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+365.35MB
+Datum hinzugefügt:
+23/5/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-5-release-notes/
+BeschreibungEs enthält asspose.Slides für C ++ 23.5 Windows Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=88c2ae4b34750b72404de6edd1d274fc-74-8886&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSISSION.Slides-for-C ++-23,5-Linux</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.5-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.5-linux/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.5 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+88.92MB
+Datum hinzugefügt:
+23/5/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-5-release-notes/
+BeschreibungEs enthält asspose.Slides für C ++ 23.5 Linux -Freisetzung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d6265ac7df6803b7a38ad834b191d123-18-8887&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSISSION.Slides-for-C ++-23,5-MACOS</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.5-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.5-macos/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.5 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+91.23MB
+Datum hinzugefügt:
+23/5/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-5-release-notes/
+BeschreibungEs enthält asspose.Slides für C ++ 23.5 MacOS -Veröffentlichung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c29797e8680d00ef7e5271b87bffc482-19-8888&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSPLE.Slides-for-C ++-23.6-Windows</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.6-windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.6-windows/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.6 Windows
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+364.64MB
+Datum hinzugefügt:
+21/6/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-6-release-notes/
+BeschreibungEs enthält asspose.Slides für C ++ 23.6 Windows Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=81fbdf8e397bbb3874d17eba43e0b063-73-9051&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSPLE.Slides-for-C ++-23.6-Linux</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.6-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.6-linux/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.6 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+88.69MB
+Datum hinzugefügt:
+21/6/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-6-release-notes/
+BeschreibungEs enthält asspose.Slides für C ++ 23.6 Linux -Freisetzung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5aac016cef7e635692d62ce0e09cb762-18-9052&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-C ++-23,6-MACOS</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.6-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.6-macos/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.6 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+90.98MB
+Datum hinzugefügt:
+21/6/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-6-release-notes/
+BeschreibungEs enthält asspose.slides für die C ++ 23.6 macOS -Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=67394bf4ed7a11018f1d3803fe4ff5f0-19-9053&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSPLE.Slides-for-C ++-23.7-Windows</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.7-windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.7-windows/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.7 Windows
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+365.5MB
+Datum hinzugefügt:
+19/7/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-7-release-notes/
+BeschreibungEs enthält asspose.Slides für C ++ 23.7 Windows Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=535191064b9f7761b8348a77b0d1e1aa-74-9234&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-C ++-23.7-Linux</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.7-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.7-linux/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.7 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+88.85MB
+Datum hinzugefügt:
+19/7/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-7-release-notes/
+BeschreibungEs enthält asspose.Slides für C ++ 23.7 Linux -Freisetzung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=544e2e6c854198d50d289fc1ab1e6bda-18-9235&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSISSION.Slides-for-C ++-23,7-MACOS</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.7-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.7-macos/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.7 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+91.35MB
+Datum hinzugefügt:
+19/7/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-7-release-notes/
+BeschreibungEs enthält asspose.Slides für C ++ 23.7 MacOS -Veröffentlichung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=74af29703ca481e7d267ab5dbd6d8b18-19-9236&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-C ++-23.8-Fenster</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.8-windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.8-windows/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.8 Windows
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+365.55MB
+Datum hinzugefügt:
+23/8/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-8-release-notes/
+BeschreibungEs enthält asspose.Slides für C ++ 23.8 Windows Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=674af45e4f4c1f4dcca33eb5b477271f-74-9375&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-C ++-23.8-Linux</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.8-linux/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.8 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+88.84MB
+Datum hinzugefügt:
+23/8/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-8-release-notes/
+BeschreibungEs enthält asspose.slides für C ++ 23.8 Linux -Freisetzung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=13cc828d22f63ead0bc406aaa29a28dd-18-9376&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-C ++-23,8-MACOS</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.8-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.8-macos/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.8 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+91.23MB
+Datum hinzugefügt:
+23/8/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-8-release-notes/
+BeschreibungEs enthält asspose.Slides für C ++ 23.8 MacOS -Veröffentlichung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a0373792afdffa77b95a71e3cea71942-19-9377&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-C ++-23.9-Windows</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.9-windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.9-windows/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.9 Windows
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+365.55MB
+Datum hinzugefügt:
+19/9/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-9-release-notes/
+BeschreibungEs enthält asspose.Slides für C ++ 23.9 Windows Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7606a570acde2f7d2ec54ae8d94b9017-74-9486&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-C ++-23.9-Linux</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.9-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.9-linux/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.9 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+88.82MB
+Datum hinzugefügt:
+19/9/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-9-release-notes/
+BeschreibungEs enthält asspose.slides für C ++ 23.9 Linux -Freisetzung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a9044601a6a19925eea37f83db594b0e-18-9487&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-C ++-23,9-MACOS</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.9-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.9-macos/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.9 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+168.9MB
+Datum hinzugefügt:
+19/9/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-9-release-notes/
+BeschreibungEs enthält asspose.Slides für C ++ 23.9 MacOS -Veröffentlichung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=11eb4dd34e9bfc24e3184478eeaea69e-34-9488&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-C ++-23.10-Windows</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.10-windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.10-windows/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.10 Windows
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+365.54MB
+Datum hinzugefügt:
+19/10/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-10-release-notes/
+BeschreibungEs enthält asspose.Slides für C ++ 23.10 Windows Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4fbc96600af60acfb2e7cc7b089f282c-74-9645&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPLE.Slides-for-C ++-23.10-Linux</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.10-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.10-linux/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.10 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+88.43MB
+Datum hinzugefügt:
+19/10/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-10-release-notes/
+BeschreibungEs enthält asspose.slides für C ++ 23.10 Linux -Freisetzung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e52feefd7612ec2ad131d284c80cf6d7-18-9646&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSISSION.Slides-for-C ++-23.10-MACOS</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.10-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.10-macos/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.10 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+168.57MB
+Datum hinzugefügt:
+19/10/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-10-release-notes/
+BeschreibungEs enthält asspose.Slides für die C ++ 23.10 macOS -Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=27d1b81aa23bbfc4d5d9c65b48bcb85a-34-9647&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-C ++-23.11-Windows</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.11-windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.11-windows/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.11 Windows
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+365.93MB
+Datum hinzugefügt:
+21/11/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-11-release-notes/
+BeschreibungEs enthält asspose.Slides für C ++ 23.11 Windows Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8dd10acdb4c4180b6a6d595984f4e55b-74-9855&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-C ++-23.11-Linux</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.11-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.11-linux/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.11 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+88.52MB
+Datum hinzugefügt:
+21/11/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-11-release-notes/
+BeschreibungEs enthält asspose.slides für C ++ 23.11 Linux -Freisetzung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=727a8ff207b77e643530a4eb77b81e3e-18-9856&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSISSION.Slides-for-C ++-23.11-Macos</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.11-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.11-macos/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.11 MacOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+168.73MB
+Datum hinzugefügt:
+21/11/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-11-release-notes/
+BeschreibungEs enthält asspose.Slides für die C ++ 23.11 MacOS -Freisetzung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=26e49d2d67e83fada5e7d1ff085ebb15-34-9857&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-C ++-23.12-Windows</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.12-windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.12-windows/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.12 Windows
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+366.55MB
+Datum hinzugefügt:
+20/12/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-12-release-notes/
+BeschreibungEs enthält asspose.Slides für C ++ 23.12 Windows Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=344f58a7122e09c9a020435b0fc6ad86-74-10022&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-C ++-23.12-Linux</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.12-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.12-linux/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.12 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+88.72MB
+Datum hinzugefügt:
+20/12/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-12-release-notes/
+BeschreibungEs enthält asspose.Slides für C ++ 23.12 Linux -Freisetzung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=eb2368f6cc444bd7aa8baf191c2993b6-18-10023&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-C ++-23.12-MACOS</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.12-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-23.12-macos/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 23.12 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+169.1MB
+Datum hinzugefügt:
+20/12/2023
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2023/aspose-slides-for-cpp-23-12-release-notes/
+BeschreibungEs enthält asspose.Slides für C ++ 23.12 MacOS -Freisetzung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0e8b99ca7d7ab52684f5b9d35437ad02-34-10024&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-C ++-24.1-Windows</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-24.1-windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-24.1-windows/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 24.1 Windows
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+367.06MB
+Datum hinzugefügt:
+24/1/2024
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-1-release-notes/
+BeschreibungEs enthält asspose.Slides für C ++ 24.1 Windows Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6b79a95f98be2e243f5a5152a64af74c-74-10198&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-C ++-24.1-Linux</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-24.1-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-24.1-linux/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 24.1 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+88.83MB
+Datum hinzugefügt:
+24/1/2024
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-1-release-notes/
+BeschreibungEs enthält asspose.Slides für C ++ 24.1 Linux -Freisetzung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c466bcdd0cb0255347ad49facb6d5766-18-10199&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPLE.Slides-for-C ++-24.1-Macos</title><link>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-24.1-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/cpp/new-releases/aspose.slides-for-c++-24.1-macos/</guid><description>&amp;nbsp;
+ASSON.Slides für C &amp;#43;&amp;#43; 24.1 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+169.36MB
+Datum hinzugefügt:
+24/1/2024
+Versionshinweisehttps://releases.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-1-release-notes/
+BeschreibungEs enthält asspose.Slides für die C ++ 24.1 MacOS -Veröffentlichung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f5bdbeec424986c225a6569554e32550-34-10200&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

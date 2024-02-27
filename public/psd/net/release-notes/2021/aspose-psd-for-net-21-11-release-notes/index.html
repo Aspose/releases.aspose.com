@@ -1,0 +1,675 @@
+<!doctype html><html class=no-js lang=en><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge"><title>Aspose.PSD for .NET 21.11 - Release Notes</title><meta name=description content="Aspose.PSD for .NET 21.11 - Release Notes – the latest updates and fixes."><meta name=viewport content="width=device-width,minimum-scale=1"><link rel=canonical href=https://releases-qa.aspose.com/psd/net/release-notes/2021/aspose-psd-for-net-21-11-release-notes/><link rel=alternate hreflang=x-default href=https://releases-qa.aspose.com/psd/net/release-notes/2021/aspose-psd-for-net-21-11-release-notes/><meta name=robots content="noindex, nofollow"><link rel=apple-touch-icon sizes=180x180 href=/res_repo/apple-touch-icon.png><link rel=icon type=image/png href=/res_repo/favicon-32x32.png sizes=32x32><link rel=icon type=image/png href=/res_repo/favicon-16x16.png sizes=16x16><link rel=mask-icon href=/res_repo/safari-pinned-tab.svg color=#0594cb><meta name=theme-color content="#ffffff"><meta property="og:title" content="Aspose.PSD for .NET 21.11 - Release Notes "><meta property="og:description" content="Aspose.PSD for .NET 21.11 - Release Notes – the latest updates and fixes."><meta property="og:type" content="article"><meta property="og:url" content="https://releases-qa.aspose.com/psd/net/release-notes/2021/aspose-psd-for-net-21-11-release-notes/"><meta itemprop=name content="Aspose.PSD for .NET 21.11 - Release Notes"><meta itemprop=description content="Aspose.PSD for .NET 21.11 - Release Notes – the latest updates and fixes."><meta itemprop=wordCount content="2469"><meta name=twitter:card content="summary"><meta name=twitter:title content="Aspose.PSD for .NET 21.11 - Release Notes"><meta name=twitter:description content="Aspose.PSD for .NET 21.11 - Release Notes – the latest updates and fixes."><link href=/css/bootstrap.css rel=stylesheet type=text/css><script src=https://releases-qa.aspose.com/res_repo/js/jquery-1.10.2.min.js></script></head><body><div id=header></div><div class=downloadpage><div class="container-fluid bcrumb1"><div id=sticky1 class=stickytopheight>&nbsp;</div><div class=container><div class=moduletable><ul id=dvBC class=breadcrumb><li><a href=/>Home</a><span class=divider></span></li><li><a href=/psd/>Aspose.PSD Product Family</a><span class=divider></span></li><li><a href=/psd/net/>Aspose.PSD for .NET</a><span class=divider></span></li><li><a href=/psd/net/release-notes/>Release Notes</a><span class=divider></span></li><li><a href=/psd/net/release-notes/2021/>2021</a><span class=divider></span></li><li><a href=/psd/net/release-notes/2021/aspose-psd-for-net-21-11-release-notes/>Aspose.PSD for .NET 21.11 - Release Notes</a><span class=divider></span></li></ul></div></div></div><div class="container-fluid content2 vpanel-left"><div class=container><div class=row><div class="col-md-3 vpanel tree-section"><p class=list-title>Browse our Products<button type=button class=treeview-toggle> <span class=sr-only>Toggle navigation</span> <span class="icon expand-icon glyphicon glyphicon-hide"></span></button></p><div id=tree class="treeview hidetree"></div></div><div class="col-md-9 lhs1 col-xs-12 mobilehide node-section"><div class=box1><section role=main class="main-container page-package-details"><div class=row><div class="col-sm-9 package-details-main"><h1><strong>Aspose.PSD for .NET 21.11 - Release Notes</strong></h1><div class="tab-content body-tab-content"><div role=tabpanel class="tab-pane active" id=readme-tab><div class=readme-common><div id=readme-container><p><div class="alert alert-primary" role=alert>This page contains release notes for <a href=https://www.nuget.org/packages/Aspose.PSD/>Aspose.PSD for .NET 21.11</a></div><table><thead><tr><th style=text-align:left><strong>Key</strong></th><th style=text-align:left><strong>Summary</strong></th><th style=text-align:left><strong>Category</strong></th></tr></thead><tbody><tr><td style=text-align:left>PSDNET-767</td><td style=text-align:left>Exception on adding the existing text layer to a layer group</td><td style=text-align:left>Bug</td></tr><tr><td style=text-align:left>PSDNET-988</td><td style=text-align:left>IndexOutOfRangeException on TextLayer.UpdateText</td><td style=text-align:left>Bug</td></tr><tr><td style=text-align:left>PSDNET-989</td><td style=text-align:left>Exported shapes have wrong coordinates in the result file</td><td style=text-align:left>Bug</td></tr><tr><td style=text-align:left>PSDNET-1002</td><td style=text-align:left>Incorrect export of vector shape on folder export</td><td style=text-align:left>Bug</td></tr></tbody></table><h2 id=public-api-changes><strong>Public API Changes</strong></h2><h1 id=added-apis><strong>Added APIs:</strong></h1><ul><li>None</li></ul><h1 id=removed-apis><strong>Removed APIs:</strong></h1><ul><li>None</li></ul><h2 id=usage-examples><strong>Usage examples:</strong></h2><p><strong>PSDNET-767. Exception on adding the existing text layer to a layer group</strong></p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-csharp data-lang=csharp><span style=display:flex><span>            <span style=color:#66d9ef>string</span> outputPsd = <span style=color:#e6db74>&#34;out_dummy_group.psd&#34;</span>;
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>var</span> psdOptions = <span style=color:#66d9ef>new</span> PsdOptions()
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                Source = <span style=color:#66d9ef>new</span> StreamSource(<span style=color:#66d9ef>new</span> MemoryStream(), <span style=color:#66d9ef>true</span>),
+</span></span><span style=display:flex><span>                ColorMode = ColorModes.Rgb,
+</span></span><span style=display:flex><span>                ChannelsCount = <span style=color:#ae81ff>4</span>,
+</span></span><span style=display:flex><span>                ChannelBitsCount = <span style=color:#ae81ff>8</span>,
+</span></span><span style=display:flex><span>                CompressionMethod = CompressionMethod.RLE
+</span></span><span style=display:flex><span>            };
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>using</span> (PsdImage image = (PsdImage)Image.Create(psdOptions, <span style=color:#ae81ff>10</span>, <span style=color:#ae81ff>15</span>))
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>var</span> <span style=color:#66d9ef>group</span> = image.AddLayerGroup(<span style=color:#e6db74>&#34;TestGroup&#34;</span>, <span style=color:#ae81ff>0</span>, <span style=color:#66d9ef>true</span>);
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>var</span> layer = image.AddTextLayer(<span style=color:#e6db74>&#34;Text&#34;</span>, Rectangle.FromLeftTopRightBottom(-<span style=color:#ae81ff>2</span>, <span style=color:#ae81ff>3</span>, <span style=color:#ae81ff>14</span>, <span style=color:#ae81ff>17</span>));
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>group</span>.AddLayer(layer);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                image.Save(outputPsd);
+</span></span><span style=display:flex><span>            }</span></span></code></pre></div><p><strong>PSDNET-988. IndexOutOfRangeException on TextLayer.UpdateText</strong></p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-csharp data-lang=csharp><span style=display:flex><span>            <span style=color:#66d9ef>string</span> srcFile = <span style=color:#e6db74>&#34;M1TTTT16062021001.psd&#34;</span>;
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>string</span> fontsFolder = <span style=color:#e6db74>&#34;Fonts&#34;</span>;
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>string</span> outputPng = <span style=color:#e6db74>&#34;out_M1TTTT16062021001.png&#34;</span>;
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            FontSettings.SetFontsFolder(fontsFolder);
+</span></span><span style=display:flex><span>            FontSettings.UpdateFonts();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>string</span>[] words = <span style=color:#66d9ef>new</span>[] { <span style=color:#e6db74>&#34;Mom&#34;</span>, <span style=color:#e6db74>&#34;Stacy&#34;</span> };
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>string</span>[] fonts = <span style=color:#66d9ef>new</span>[] { <span style=color:#e6db74>&#34;Caveat&#34;</span>, <span style=color:#e6db74>&#34;Gochi Hand&#34;</span>, <span style=color:#e6db74>&#34;Lobster&#34;</span>, <span style=color:#e6db74>&#34;Satisfy&#34;</span> };
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>using</span> (<span style=color:#66d9ef>var</span> image = (PsdImage)Image.Load(srcFile))
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>foreach</span> (<span style=color:#66d9ef>var</span> layer <span style=color:#66d9ef>in</span> image.Layers)
+</span></span><span style=display:flex><span>                {
+</span></span><span style=display:flex><span>                    <span style=color:#66d9ef>var</span> txtLayer = layer <span style=color:#66d9ef>as</span> TextLayer;
+</span></span><span style=display:flex><span>                    <span style=color:#66d9ef>if</span> (txtLayer != <span style=color:#66d9ef>null</span>)
+</span></span><span style=display:flex><span>                    {
+</span></span><span style=display:flex><span>                        <span style=color:#66d9ef>for</span> (<span style=color:#66d9ef>int</span> w = <span style=color:#ae81ff>0</span>; w &lt; words.Length; w++)
+</span></span><span style=display:flex><span>                        {
+</span></span><span style=display:flex><span>                            <span style=color:#66d9ef>for</span> (<span style=color:#66d9ef>int</span> f = <span style=color:#ae81ff>0</span>; f &lt; fonts.Length; f++)
+</span></span><span style=display:flex><span>                            {
+</span></span><span style=display:flex><span>                                txtLayer.UpdateText(words[w]);
+</span></span><span style=display:flex><span>                                <span style=color:#66d9ef>foreach</span> (<span style=color:#66d9ef>var</span> txtItem <span style=color:#66d9ef>in</span> txtLayer.TextData.Items)
+</span></span><span style=display:flex><span>                                {
+</span></span><span style=display:flex><span>                                    txtItem.Style.FontName = FontSettings.GetAdobeFontName(fonts[f]);
+</span></span><span style=display:flex><span>                                }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                                txtLayer.TextData.UpdateLayerData();
+</span></span><span style=display:flex><span>                            }
+</span></span><span style=display:flex><span>                        }
+</span></span><span style=display:flex><span>                    }
+</span></span><span style=display:flex><span>                }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                image.Save(outputPng, <span style=color:#66d9ef>new</span> PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
+</span></span><span style=display:flex><span>            }</span></span></code></pre></div><p><strong>PSDNET-989. Exported shapes have wrong coordinates in the result file</strong></p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-csharp data-lang=csharp><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>void</span> CreatingVectorPathExample()
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>string</span> outputPsd = <span style=color:#e6db74>&#34;outputPsd.psd&#34;</span>;
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>using</span> (<span style=color:#66d9ef>var</span> psdImage = (PsdImage)Image.Create(<span style=color:#66d9ef>new</span> PsdOptions() { Source = <span style=color:#66d9ef>new</span> Sources.StreamSource(<span style=color:#66d9ef>new</span> MemoryStream()), }, <span style=color:#ae81ff>500</span>, <span style=color:#ae81ff>500</span>))
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                FillLayer layer = FillLayer.CreateInstance(PSD.FileFormats.Psd.Layers.FillSettings.FillType.Color);
+</span></span><span style=display:flex><span>                psdImage.AddLayer(layer);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                VectorPath vectorPath = VectorDataProvider.CreateVectorPathForLayer(layer);
+</span></span><span style=display:flex><span>                vectorPath.FillColor = Color.IndianRed;
+</span></span><span style=display:flex><span>                PathShape shape = <span style=color:#66d9ef>new</span> PathShape();
+</span></span><span style=display:flex><span>                shape.Points.Add(<span style=color:#66d9ef>new</span> BezierKnot(<span style=color:#66d9ef>new</span> PointF(<span style=color:#ae81ff>50</span>, <span style=color:#ae81ff>150</span>), <span style=color:#66d9ef>true</span>));
+</span></span><span style=display:flex><span>                shape.Points.Add(<span style=color:#66d9ef>new</span> BezierKnot(<span style=color:#66d9ef>new</span> PointF(<span style=color:#ae81ff>100</span>, <span style=color:#ae81ff>200</span>), <span style=color:#66d9ef>true</span>));
+</span></span><span style=display:flex><span>                shape.Points.Add(<span style=color:#66d9ef>new</span> BezierKnot(<span style=color:#66d9ef>new</span> PointF(<span style=color:#ae81ff>0</span>, <span style=color:#ae81ff>200</span>), <span style=color:#66d9ef>true</span>));
+</span></span><span style=display:flex><span>                vectorPath.Shapes.Add(shape);
+</span></span><span style=display:flex><span>                VectorDataProvider.UpdateLayerFromVectorPath(layer, vectorPath, <span style=color:#66d9ef>true</span>);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                psdImage.Save(outputPsd);
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>    <span style=color:#75715e>#region Vector path editor (Here placed classes for edit vector paths).</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// The class that provides work between &lt;see cref=&#34;Layer&#34;/&gt; and &lt;see cref=&#34;VectorPath&#34;/&gt;.</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> <span style=color:#66d9ef>class</span> <span style=color:#a6e22e>VectorDataProvider</span>
+</span></span><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Creates the &lt;see cref=&#34;VectorPath&#34;/&gt; instance based on resources from input layer.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;psdLayer&#34;&gt;The psd layer.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;the &lt;see cref=&#34;VectorPath&#34;/&gt; instance based on resources from input layer.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> VectorPath CreateVectorPathForLayer(Layer psdLayer)
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>            ValidateLayer(psdLayer);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            Size imageSize = psdLayer.Container.Size;
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            VectorPathDataResource pathResource = FindVectorPathDataResource(psdLayer, <span style=color:#66d9ef>true</span>);
+</span></span><span style=display:flex><span>            SoCoResource socoResource = FindSoCoResource(psdLayer, <span style=color:#66d9ef>true</span>);
+</span></span><span style=display:flex><span>            VectorPath vectorPath = <span style=color:#66d9ef>new</span> VectorPath(pathResource, imageSize);
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>if</span> (socoResource != <span style=color:#66d9ef>null</span>)
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                vectorPath.FillColor = socoResource.Color;
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>return</span> vectorPath;
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Updates the input layer resources from &lt;see cref=&#34;VectorPath&#34;/&gt; instance, or replace by new path resource and updates.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;psdLayer&#34;&gt;The psd layer.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;vectorPath&#34;&gt;The vector path.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;imageSize&#34;&gt;The image size to correct converting point coordinates.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> <span style=color:#66d9ef>void</span> UpdateLayerFromVectorPath(Layer psdLayer, VectorPath vectorPath, <span style=color:#66d9ef>bool</span> createIfNotExist = <span style=color:#66d9ef>false</span>)
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>            ValidateLayer(psdLayer);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            VectorPathDataResource pathResource = FindVectorPathDataResource(psdLayer, createIfNotExist);
+</span></span><span style=display:flex><span>            VogkResource vogkResource = FindVogkResource(psdLayer, createIfNotExist);
+</span></span><span style=display:flex><span>            SoCoResource socoResource = FindSoCoResource(psdLayer, createIfNotExist);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            Size imageSize = psdLayer.Container.Size;
+</span></span><span style=display:flex><span>            UpdateResources(pathResource, vogkResource, socoResource, vectorPath, imageSize);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            ReplaceVectorPathDataResourceInLayer(psdLayer, pathResource, vogkResource, socoResource);
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Removes the vector path data from input layer.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;psdLayer&#34;&gt;The psd layer.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>static</span> <span style=color:#66d9ef>void</span> RemoveVectorPathDataFromLayer(Layer psdLayer)
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>            List&lt;LayerResource&gt; oldResources = <span style=color:#66d9ef>new</span> List&lt;LayerResource&gt;(psdLayer.Resources);
+</span></span><span style=display:flex><span>            List&lt;LayerResource&gt; newResources = <span style=color:#66d9ef>new</span> List&lt;LayerResource&gt;();
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>for</span> (<span style=color:#66d9ef>int</span> i = <span style=color:#ae81ff>0</span>; i &lt; oldResources.Count; i++)
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                LayerResource resource = oldResources[i];
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>if</span> (resource <span style=color:#66d9ef>is</span> VectorPathDataResource || resource <span style=color:#66d9ef>is</span> VogkResource || resource <span style=color:#66d9ef>is</span> SoCoResource)
+</span></span><span style=display:flex><span>                {
+</span></span><span style=display:flex><span>                    <span style=color:#66d9ef>continue</span>;
+</span></span><span style=display:flex><span>                }
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>else</span>
+</span></span><span style=display:flex><span>                {
+</span></span><span style=display:flex><span>                    newResources.Add(resource);
+</span></span><span style=display:flex><span>                }
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            psdLayer.Resources = newResources.ToArray();
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Updates resources data from &lt;see cref=&#34;VectorPath&#34;/&gt; instance.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;pathResource&#34;&gt;The path resource.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;vogkResource&#34;&gt;The vector origination data resource.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;socoResource&#34;&gt;The solid color resource.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;vectorPath&#34;&gt;The vector path.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;imageSize&#34;&gt;The image size to correct converting point coordinates.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>private</span> <span style=color:#66d9ef>static</span> <span style=color:#66d9ef>void</span> UpdateResources(VectorPathDataResource pathResource, VogkResource vogkResource, SoCoResource socoResource, VectorPath vectorPath, Size imageSize)
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>            pathResource.Version = vectorPath.Version;
+</span></span><span style=display:flex><span>            pathResource.IsNotLinked = vectorPath.IsNotLinked;
+</span></span><span style=display:flex><span>            pathResource.IsDisabled = vectorPath.IsDisabled;
+</span></span><span style=display:flex><span>            pathResource.IsInverted = vectorPath.IsInverted;
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            List&lt;VectorShapeOriginSettings&gt; originSettings = <span style=color:#66d9ef>new</span> List&lt;VectorShapeOriginSettings&gt;();
+</span></span><span style=display:flex><span>            List&lt;VectorPathRecord&gt; path = <span style=color:#66d9ef>new</span> List&lt;VectorPathRecord&gt;();
+</span></span><span style=display:flex><span>            path.Add(<span style=color:#66d9ef>new</span> PathFillRuleRecord(<span style=color:#66d9ef>null</span>));
+</span></span><span style=display:flex><span>            path.Add(<span style=color:#66d9ef>new</span> InitialFillRuleRecord(vectorPath.IsFillStartsWithAllPixels));
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>for</span> (<span style=color:#66d9ef>ushort</span> i = <span style=color:#ae81ff>0</span>; i &lt; vectorPath.Shapes.Count; i++)
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                PathShape shape = vectorPath.Shapes[i];
+</span></span><span style=display:flex><span>                shape.ShapeIndex = i;
+</span></span><span style=display:flex><span>                path.AddRange(shape.ToVectorPathRecords(imageSize));
+</span></span><span style=display:flex><span>                originSettings.Add(<span style=color:#66d9ef>new</span> VectorShapeOriginSettings() { IsShapeInvalidated = <span style=color:#66d9ef>true</span>, OriginIndex = i });
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            pathResource.Paths = path.ToArray();
+</span></span><span style=display:flex><span>            vogkResource.ShapeOriginSettings = originSettings.ToArray();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            socoResource.Color = vectorPath.FillColor;
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Replaces resources in layer by updated or new ones.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;psdLayer&#34;&gt;The psd layer.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;pathResource&#34;&gt;The path resource.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;vogkResource&#34;&gt;The vector origination data resource.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;socoResource&#34;&gt;The solid color resource.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>private</span> <span style=color:#66d9ef>static</span> <span style=color:#66d9ef>void</span> ReplaceVectorPathDataResourceInLayer(Layer psdLayer, VectorPathDataResource pathResource, VogkResource vogkResource, SoCoResource socoResource)
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>bool</span> pathResourceExist = <span style=color:#66d9ef>false</span>;
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>bool</span> vogkResourceExist = <span style=color:#66d9ef>false</span>;
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>bool</span> socoResourceExist = <span style=color:#66d9ef>false</span>;
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            List&lt;LayerResource&gt; resources = <span style=color:#66d9ef>new</span> List&lt;LayerResource&gt;(psdLayer.Resources);
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>for</span> (<span style=color:#66d9ef>int</span> i = <span style=color:#ae81ff>0</span>; i &lt; resources.Count; i++)
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                LayerResource resource = resources[i];
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>if</span> (resource <span style=color:#66d9ef>is</span> VectorPathDataResource)
+</span></span><span style=display:flex><span>                {
+</span></span><span style=display:flex><span>                    resources[i] = pathResource;
+</span></span><span style=display:flex><span>                    pathResourceExist = <span style=color:#66d9ef>true</span>;
+</span></span><span style=display:flex><span>                }
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>else</span> <span style=color:#66d9ef>if</span> (resource <span style=color:#66d9ef>is</span> VogkResource)
+</span></span><span style=display:flex><span>                {
+</span></span><span style=display:flex><span>                    resources[i] = vogkResource;
+</span></span><span style=display:flex><span>                    vogkResourceExist = <span style=color:#66d9ef>true</span>;
+</span></span><span style=display:flex><span>                }
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>else</span> <span style=color:#66d9ef>if</span> (resource <span style=color:#66d9ef>is</span> SoCoResource)
+</span></span><span style=display:flex><span>                {
+</span></span><span style=display:flex><span>                    resources[i] = socoResource;
+</span></span><span style=display:flex><span>                    socoResourceExist = <span style=color:#66d9ef>true</span>;
+</span></span><span style=display:flex><span>                }
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>if</span> (!pathResourceExist)
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                resources.Add(pathResource);
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>if</span> (!vogkResourceExist)
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                resources.Add(vogkResource);
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>if</span> (!socoResourceExist)
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                resources.Add(socoResource);
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            psdLayer.Resources = resources.ToArray();
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Finds the &lt;see cref=&#34;VectorPathDataResource&#34;/&gt; resource in input layer resources.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;psdLayer&#34;&gt;The psd layer.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;createIfNotExist&#34;&gt;If resource not exists, then for &lt;see cref=&#34;true&#34;/&gt; creates a new resource, otherwise return &lt;see cref=&#34;null&#34;/&gt;.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;The &lt;see cref=&#34;VectorPathDataResource&#34;/&gt; resource.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>private</span> <span style=color:#66d9ef>static</span> VectorPathDataResource FindVectorPathDataResource(Layer psdLayer, <span style=color:#66d9ef>bool</span> createIfNotExist = <span style=color:#66d9ef>false</span>)
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>            VectorPathDataResource pathResource = <span style=color:#66d9ef>null</span>;
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>foreach</span> (<span style=color:#66d9ef>var</span> resource <span style=color:#66d9ef>in</span> psdLayer.Resources)
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>if</span> (resource <span style=color:#66d9ef>is</span> VectorPathDataResource)
+</span></span><span style=display:flex><span>                {
+</span></span><span style=display:flex><span>                    pathResource = (VectorPathDataResource)resource;
+</span></span><span style=display:flex><span>                    <span style=color:#66d9ef>break</span>;
+</span></span><span style=display:flex><span>                }
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>if</span> (createIfNotExist &amp;&amp; pathResource == <span style=color:#66d9ef>null</span>)
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                pathResource = <span style=color:#66d9ef>new</span> VmskResource();
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>return</span> pathResource;
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Finds the &lt;see cref=&#34;VogkResource&#34;/&gt; resource in input layer resources.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;psdLayer&#34;&gt;The psd layer.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;createIfNotExist&#34;&gt;If resource not exists, then for &lt;see cref=&#34;true&#34;/&gt; creates a new resource, otherwise return &lt;see cref=&#34;null&#34;/&gt;.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;The &lt;see cref=&#34;VogkResource&#34;/&gt; resource.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>private</span> <span style=color:#66d9ef>static</span> VogkResource FindVogkResource(Layer psdLayer, <span style=color:#66d9ef>bool</span> createIfNotExist = <span style=color:#66d9ef>false</span>)
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>            VogkResource vogkResource = <span style=color:#66d9ef>null</span>;
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>foreach</span> (<span style=color:#66d9ef>var</span> resource <span style=color:#66d9ef>in</span> psdLayer.Resources)
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>if</span> (resource <span style=color:#66d9ef>is</span> VogkResource)
+</span></span><span style=display:flex><span>                {
+</span></span><span style=display:flex><span>                    vogkResource = (VogkResource)resource;
+</span></span><span style=display:flex><span>                    <span style=color:#66d9ef>break</span>;
+</span></span><span style=display:flex><span>                }
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>if</span> (createIfNotExist &amp;&amp; vogkResource == <span style=color:#66d9ef>null</span>)
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                vogkResource = <span style=color:#66d9ef>new</span> VogkResource();
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>return</span> vogkResource;
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Finds the &lt;see cref=&#34;SoCoResource&#34;/&gt; resource in input layer resources.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;psdLayer&#34;&gt;The psd layer.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;createIfNotExist&#34;&gt;If resource not exists, then for &lt;see cref=&#34;true&#34;/&gt; creates a new resource, otherwise return &lt;see cref=&#34;null&#34;/&gt;.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;The &lt;see cref=&#34;SoCoResource&#34;/&gt; resource.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>private</span> <span style=color:#66d9ef>static</span> SoCoResource FindSoCoResource(Layer psdLayer, <span style=color:#66d9ef>bool</span> createIfNotExist = <span style=color:#66d9ef>false</span>)
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>            SoCoResource socoResource = <span style=color:#66d9ef>null</span>;
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>foreach</span> (<span style=color:#66d9ef>var</span> resource <span style=color:#66d9ef>in</span> psdLayer.Resources)
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>if</span> (resource <span style=color:#66d9ef>is</span> SoCoResource)
+</span></span><span style=display:flex><span>                {
+</span></span><span style=display:flex><span>                    socoResource = (SoCoResource)resource;
+</span></span><span style=display:flex><span>                    <span style=color:#66d9ef>break</span>;
+</span></span><span style=display:flex><span>                }
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>if</span> (createIfNotExist &amp;&amp; socoResource == <span style=color:#66d9ef>null</span>)
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                socoResource = <span style=color:#66d9ef>new</span> SoCoResource();
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>return</span> socoResource;
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Validates the layer to work with &lt;see cref=&#34;VectorDataProvider&#34;/&gt; class.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;layer&#34;&gt;&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;exception cref=&#34;ArgumentNullException&#34;&gt;&lt;/exception&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>private</span> <span style=color:#66d9ef>static</span> <span style=color:#66d9ef>void</span> ValidateLayer(Layer layer)
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>if</span> (layer == <span style=color:#66d9ef>null</span>)
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>throw</span> <span style=color:#66d9ef>new</span> ArgumentNullException(<span style=color:#e6db74>&#34;The layer is NULL.&#34;</span>);
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>if</span> (layer.Container == <span style=color:#66d9ef>null</span> || layer.Container.Size.IsEmpty)
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>throw</span> <span style=color:#66d9ef>new</span> ArgumentNullException(<span style=color:#e6db74>&#34;The layer should have a Container with no empty size.&#34;</span>);
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// The Bezier curve knot, it contains one anchor point and two control points.</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>class</span> <span style=color:#a6e22e>BezierKnot</span>
+</span></span><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Image to path point ratio.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>private</span> <span style=color:#66d9ef>const</span> <span style=color:#66d9ef>int</span> ImgToPsdRatio = <span style=color:#ae81ff>256</span> * <span style=color:#ae81ff>65535</span>;
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Initializes a new instance of the &lt;see cref=&#34;BezierKnot&#34; /&gt; class.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;anchorPoint&#34;&gt;The anchor point.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;controlPoint1&#34;&gt;The first control point.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;controlPoint2&#34;&gt;THe second control point.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;isLinked&#34;&gt;The value indicating whether this knot is linked.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> BezierKnot(PointF anchorPoint, PointF controlPoint1, PointF controlPoint2, <span style=color:#66d9ef>bool</span> isLinked)
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>this</span>.AnchorPoint = anchorPoint;
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>this</span>.ControlPoint1 = controlPoint1;
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>this</span>.ControlPoint2 = controlPoint2;
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>this</span>.IsLinked = isLinked;
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Initializes a new instance of the &lt;see cref=&#34;BezierKnot&#34; /&gt; class based on &lt;see cref=&#34;BezierKnotRecord&#34;/&gt;.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;bezierKnotRecord&#34;&gt;The &lt;see cref=&#34;BezierKnotRecord&#34;/&gt;.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;imageSize&#34;&gt;The image size to correct converting point coordinates.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> BezierKnot(BezierKnotRecord bezierKnotRecord, Size imageSize)
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>this</span>.IsLinked = bezierKnotRecord.IsLinked;
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>this</span>.ControlPoint1 = ResourcePointToPointF(bezierKnotRecord.Points[<span style=color:#ae81ff>0</span>], imageSize);
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>this</span>.AnchorPoint = ResourcePointToPointF(bezierKnotRecord.Points[<span style=color:#ae81ff>1</span>], imageSize);
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>this</span>.ControlPoint2 = ResourcePointToPointF(bezierKnotRecord.Points[<span style=color:#ae81ff>2</span>], imageSize);
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Initializes a new instance of the &lt;see cref=&#34;BezierKnot&#34; /&gt; class.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;anchorPoint&#34;&gt;The point to be anchor and control points.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;isLinked&#34;&gt;The value indicating whether this knot is linked.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> BezierKnot(PointF anchorPoint, <span style=color:#66d9ef>bool</span> isLinked)
+</span></span><span style=display:flex><span>        : <span style=color:#66d9ef>this</span>(anchorPoint, anchorPoint, anchorPoint, isLinked)
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Gets or sets a value indicating whether this instance is linked.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>bool</span> IsLinked { <span style=color:#66d9ef>get</span>; <span style=color:#66d9ef>set</span>; }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Gets or sets the first control point.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> PointF ControlPoint1 { <span style=color:#66d9ef>get</span>; <span style=color:#66d9ef>set</span>; }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Gets or sets the anchor point.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> PointF AnchorPoint { <span style=color:#66d9ef>get</span>; <span style=color:#66d9ef>set</span>; }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Gets or sets the second control point.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> PointF ControlPoint2 { <span style=color:#66d9ef>get</span>; <span style=color:#66d9ef>set</span>; }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Creates the instance of &lt;see cref=&#34;BezierKnotRecord&#34;/&gt; based on this instance.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;isClosed&#34;&gt;Indicating whether this knot is in closed shape.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;imageSize&#34;&gt;The image size to correct converting point coordinates.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;The instance of &lt;see cref=&#34;BezierKnotRecord&#34;/&gt; based on this instance.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> BezierKnotRecord ToBezierKnotRecord(<span style=color:#66d9ef>bool</span> isClosed, Size imageSize)
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>            BezierKnotRecord <span style=color:#66d9ef>record</span> = <span style=color:#66d9ef>new</span> BezierKnotRecord();
+</span></span><span style=display:flex><span>            record.Points = <span style=color:#66d9ef>new</span> Point[]
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                    PointFToResourcePoint(<span style=color:#66d9ef>this</span>.ControlPoint1, imageSize),
+</span></span><span style=display:flex><span>                    PointFToResourcePoint(<span style=color:#66d9ef>this</span>.AnchorPoint, imageSize),
+</span></span><span style=display:flex><span>                    PointFToResourcePoint(<span style=color:#66d9ef>this</span>.ControlPoint2, imageSize),
+</span></span><span style=display:flex><span>            };
+</span></span><span style=display:flex><span>            record.IsLinked = <span style=color:#66d9ef>this</span>.IsLinked;
+</span></span><span style=display:flex><span>            record.IsClosed = isClosed;
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>return</span> record;
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Shifts this knot points by input values.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;xOffset&#34;&gt;The x offset.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;yOffset&#34;&gt;The y offset.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>void</span> Shift(<span style=color:#66d9ef>float</span> xOffset, <span style=color:#66d9ef>float</span> yOffset)
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>this</span>.ControlPoint1 = <span style=color:#66d9ef>new</span> PointF(<span style=color:#66d9ef>this</span>.ControlPoint1.X + xOffset, <span style=color:#66d9ef>this</span>.ControlPoint1.Y + yOffset);
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>this</span>.AnchorPoint = <span style=color:#66d9ef>new</span> PointF(<span style=color:#66d9ef>this</span>.AnchorPoint.X + xOffset, <span style=color:#66d9ef>this</span>.AnchorPoint.Y + yOffset);
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>this</span>.ControlPoint2 = <span style=color:#66d9ef>new</span> PointF(<span style=color:#66d9ef>this</span>.ControlPoint2.X + xOffset, <span style=color:#66d9ef>this</span>.ControlPoint2.Y + yOffset);
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Converts point values from resource to normal.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;point&#34;&gt;The point with values from resource.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;imageSize&#34;&gt;The image size to correct converting point coordinates.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;The converted to normal point.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>private</span> <span style=color:#66d9ef>static</span> PointF ResourcePointToPointF(Point point, Size imageSize)
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>return</span> <span style=color:#66d9ef>new</span> PointF(point.Y / (ImgToPsdRatio / imageSize.Width), point.X / (ImgToPsdRatio / imageSize.Height));
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Converts normal point values to resource point.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;point&#34;&gt;The point.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;imageSize&#34;&gt;The image size to correct converting point coordinates.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;The point with values for resource.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>private</span> <span style=color:#66d9ef>static</span> Point PointFToResourcePoint(PointF point, Size imageSize)
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>return</span> <span style=color:#66d9ef>new</span> Point((<span style=color:#66d9ef>int</span>)Math.Round(point.Y * (ImgToPsdRatio / imageSize.Height)), (<span style=color:#66d9ef>int</span>)Math.Round(point.X * (ImgToPsdRatio / imageSize.Width)));
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// The figure from the knots of the Bezier curve.</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>class</span> <span style=color:#a6e22e>PathShape</span>
+</span></span><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Initializes a new instance of the &lt;see cref=&#34;PathShape&#34; /&gt; class.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> PathShape()
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>this</span>.Points = <span style=color:#66d9ef>new</span> List&lt;BezierKnot&gt;();
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>this</span>.PathOperations = PathOperations.CombineShapes;
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Initializes a new instance of the &lt;see cref=&#34;PathShape&#34; /&gt; class based on &lt;see cref=&#34;VectorPathRecord&#34;/&gt;&#39;s.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;lengthRecord&#34;&gt;The length record.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;bezierKnotRecords&#34;&gt;The bezier knot records.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;imageSize&#34;&gt;The image size to correct converting point coordinates.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> PathShape(LengthRecord lengthRecord, List&lt;BezierKnotRecord&gt; bezierKnotRecords, Size imageSize)
+</span></span><span style=display:flex><span>        : <span style=color:#66d9ef>this</span>()
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>this</span>.IsClosed = lengthRecord.IsClosed;
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>this</span>.PathOperations = lengthRecord.PathOperations;
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>this</span>.ShapeIndex = lengthRecord.ShapeIndex;
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>this</span>.InitFromResources(bezierKnotRecords, imageSize);
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Gets or sets a value indicating whether this instance is closed.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;value&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>///   &lt;c&gt;true&lt;/c&gt; if this instance is closed; otherwise, &lt;c&gt;false&lt;/c&gt;.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/value&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>bool</span> IsClosed { <span style=color:#66d9ef>get</span>; <span style=color:#66d9ef>set</span>; }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Gets or sets the path operations (Boolean operations).</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> PathOperations PathOperations { <span style=color:#66d9ef>get</span>; <span style=color:#66d9ef>set</span>; }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Gets or sets the index of current path shape in layer.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>ushort</span> ShapeIndex { <span style=color:#66d9ef>get</span>; <span style=color:#66d9ef>set</span>; }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Gets the points of the Bezier curve.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> List&lt;BezierKnot&gt; Points { <span style=color:#66d9ef>get</span>; <span style=color:#66d9ef>private</span> <span style=color:#66d9ef>set</span>; }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Creates the &lt;see cref=&#34;VectorPathRecord&#34;/&gt; records based on this instance.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;imageSize&#34;&gt;The image size to correct converting point coordinates.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;Returns one &lt;see cref=&#34;LengthRecord&#34;/&gt; and &lt;see cref=&#34;BezierKnotRecord&#34;/&gt; for each point in this instance.&lt;/returns&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> IEnumerable&lt;VectorPathRecord&gt; ToVectorPathRecords(Size imageSize)
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>            List&lt;VectorPathRecord&gt; shapeRecords = <span style=color:#66d9ef>new</span> List&lt;VectorPathRecord&gt;();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            LengthRecord lengthRecord = <span style=color:#66d9ef>new</span> LengthRecord();
+</span></span><span style=display:flex><span>            lengthRecord.IsClosed = <span style=color:#66d9ef>this</span>.IsClosed;
+</span></span><span style=display:flex><span>            lengthRecord.BezierKnotRecordsCount = <span style=color:#66d9ef>this</span>.Points.Count;
+</span></span><span style=display:flex><span>            lengthRecord.PathOperations = <span style=color:#66d9ef>this</span>.PathOperations;
+</span></span><span style=display:flex><span>            lengthRecord.ShapeIndex = <span style=color:#66d9ef>this</span>.ShapeIndex;
+</span></span><span style=display:flex><span>            shapeRecords.Add(lengthRecord);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>foreach</span> (<span style=color:#66d9ef>var</span> bezierKnot <span style=color:#66d9ef>in</span> <span style=color:#66d9ef>this</span>.Points)
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                shapeRecords.Add(bezierKnot.ToBezierKnotRecord(<span style=color:#66d9ef>this</span>.IsClosed, imageSize));
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>return</span> shapeRecords;
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Initializes a values based on input records.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;bezierKnotRecords&#34;&gt;The bezier knot records.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;imageSize&#34;&gt;The image size to correct converting point coordinates.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>private</span> <span style=color:#66d9ef>void</span> InitFromResources(IEnumerable&lt;BezierKnotRecord&gt; bezierKnotRecords, Size imageSize)
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>            List&lt;BezierKnot&gt; newPoints = <span style=color:#66d9ef>new</span> List&lt;BezierKnot&gt;();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>foreach</span> (<span style=color:#66d9ef>var</span> <span style=color:#66d9ef>record</span> <span style=color:#a6e22e>in</span> bezierKnotRecords)
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                newPoints.Add(<span style=color:#66d9ef>new</span> BezierKnot(record, imageSize));
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>this</span>.Points = newPoints;
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// The class that contains vector paths.</span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>class</span> <span style=color:#a6e22e>VectorPath</span>
+</span></span><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Initializes a new instance of the &lt;see cref=&#34;VectorPath&#34; /&gt; class based on &lt;see cref=&#34;VectorPathDataResource&#34;/&gt;.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;vectorPathDataResource&#34;&gt;The vector path data resource.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;imageSize&#34;&gt;The image size to correct converting point coordinates.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> VectorPath(VectorPathDataResource vectorPathDataResource, Size imageSize)
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>this</span>.InitFromResource(vectorPathDataResource, imageSize);
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Gets or sets a value indicating whether is fill starts with all pixels.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;value&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// The is fill starts with all pixels.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/value&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>bool</span> IsFillStartsWithAllPixels { <span style=color:#66d9ef>get</span>; <span style=color:#66d9ef>set</span>; }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Gets the vector shapes.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> List&lt;PathShape&gt; Shapes { <span style=color:#66d9ef>get</span>; <span style=color:#66d9ef>private</span> <span style=color:#66d9ef>set</span>; }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Gets or sets the vector path fill color.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> Color FillColor { <span style=color:#66d9ef>get</span>; <span style=color:#66d9ef>set</span>; }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Gets or sets the version.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;value&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// The version.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/value&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>int</span> Version { <span style=color:#66d9ef>get</span>; <span style=color:#66d9ef>set</span>; }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Gets or sets a value indicating whether this instance is disabled.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;value&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>///   &lt;c&gt;true&lt;/c&gt; if this instance is disabled; otherwise, &lt;c&gt;false&lt;/c&gt;.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/value&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>bool</span> IsDisabled { <span style=color:#66d9ef>get</span>; <span style=color:#66d9ef>set</span>; }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Gets or sets a value indicating whether this instance is not linked.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;value&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>///   &lt;c&gt;true&lt;/c&gt; if this instance is not linked; otherwise, &lt;c&gt;false&lt;/c&gt;.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/value&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>bool</span> IsNotLinked { <span style=color:#66d9ef>get</span>; <span style=color:#66d9ef>set</span>; }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Gets or sets a value indicating whether this instance is inverted.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;value&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>///   &lt;c&gt;true&lt;/c&gt; if this instance is inverted; otherwise, &lt;c&gt;false&lt;/c&gt;.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/value&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>bool</span> IsInverted { <span style=color:#66d9ef>get</span>; <span style=color:#66d9ef>set</span>; }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Initializes a values based on input &lt;see cref=&#34;VectorPathDataResource&#34;/&gt; resource.</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;resource&#34;&gt;The vector path data resource.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;imageSize&#34;&gt;The image size to correct converting point coordinates.&lt;/param&gt;</span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>private</span> <span style=color:#66d9ef>void</span> InitFromResource(VectorPathDataResource resource, Size imageSize)
+</span></span><span style=display:flex><span>        {
+</span></span><span style=display:flex><span>            List&lt;PathShape&gt; newShapes = <span style=color:#66d9ef>new</span> List&lt;PathShape&gt;();
+</span></span><span style=display:flex><span>            InitialFillRuleRecord initialFillRuleRecord = <span style=color:#66d9ef>null</span>;
+</span></span><span style=display:flex><span>            LengthRecord lengthRecord = <span style=color:#66d9ef>null</span>;
+</span></span><span style=display:flex><span>            List&lt;BezierKnotRecord&gt; bezierKnotRecords = <span style=color:#66d9ef>new</span> List&lt;BezierKnotRecord&gt;();
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>foreach</span> (<span style=color:#66d9ef>var</span> pathRecord <span style=color:#66d9ef>in</span> resource.Paths)
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>if</span> (pathRecord <span style=color:#66d9ef>is</span> LengthRecord)
+</span></span><span style=display:flex><span>                {
+</span></span><span style=display:flex><span>                    <span style=color:#66d9ef>if</span> (bezierKnotRecords.Count &gt; <span style=color:#ae81ff>0</span>)
+</span></span><span style=display:flex><span>                    {
+</span></span><span style=display:flex><span>                        newShapes.Add(<span style=color:#66d9ef>new</span> PathShape(lengthRecord, bezierKnotRecords, imageSize));
+</span></span><span style=display:flex><span>                        lengthRecord = <span style=color:#66d9ef>null</span>;
+</span></span><span style=display:flex><span>                        bezierKnotRecords.Clear();
+</span></span><span style=display:flex><span>                    }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                    lengthRecord = (LengthRecord)pathRecord;
+</span></span><span style=display:flex><span>                }
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>else</span> <span style=color:#66d9ef>if</span> (pathRecord <span style=color:#66d9ef>is</span> BezierKnotRecord)
+</span></span><span style=display:flex><span>                {
+</span></span><span style=display:flex><span>                    bezierKnotRecords.Add((BezierKnotRecord)pathRecord);
+</span></span><span style=display:flex><span>                }
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>else</span> <span style=color:#66d9ef>if</span> (pathRecord <span style=color:#66d9ef>is</span> InitialFillRuleRecord)
+</span></span><span style=display:flex><span>                {
+</span></span><span style=display:flex><span>                    initialFillRuleRecord = (InitialFillRuleRecord)pathRecord;
+</span></span><span style=display:flex><span>                }
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>if</span> (bezierKnotRecords.Count &gt; <span style=color:#ae81ff>0</span>)
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                newShapes.Add(<span style=color:#66d9ef>new</span> PathShape(lengthRecord, bezierKnotRecords, imageSize));
+</span></span><span style=display:flex><span>                lengthRecord = <span style=color:#66d9ef>null</span>;
+</span></span><span style=display:flex><span>                bezierKnotRecords.Clear();
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>this</span>.IsFillStartsWithAllPixels = initialFillRuleRecord != <span style=color:#66d9ef>null</span> ? initialFillRuleRecord.IsFillStartsWithAllPixels : <span style=color:#66d9ef>false</span>;
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>this</span>.Shapes = newShapes;
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>this</span>.Version = resource.Version;
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>this</span>.IsNotLinked = resource.IsNotLinked;
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>this</span>.IsDisabled = resource.IsDisabled;
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>this</span>.IsInverted = resource.IsInverted;
+</span></span><span style=display:flex><span>        }
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#960050;background-color:#1e0010>#</span>endregion</span></span></code></pre></div><p><strong>PSDNET-1002. Incorrect export of vector shape on folder export</strong></p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-csharp data-lang=csharp><span style=display:flex><span>            <span style=color:#66d9ef>string</span> srcFile = <span style=color:#e6db74>&#34;psdnet1002.psd&#34;</span>;
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>string</span> outputPng = <span style=color:#e6db74>&#34;output.png&#34;</span>;
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>using</span> (<span style=color:#66d9ef>var</span> image = (PsdImage)Image.Load(srcFile))
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                image.Layers[<span style=color:#ae81ff>4</span>].Save(outputPng, <span style=color:#66d9ef>new</span> PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
+</span></span><span style=display:flex><span>            }</span></span></code></pre></div></p></div></div></div></div><hr></div></div></section></div></div></div></div></div></div><div id=dvHidden style=display:none></div><div id=footer></div><a class=backtop>&nbsp;</a><div id=DynabicMenuFooter></div><script type=text/javascript>const langarray=[]</script><script type=text/javascript>jQuery(document).ready(function(){let e=$(".nested").hide(),t=$(".treeview-animated-element");$(".treeview-animated-items-header").hover(function(){$(this).children.toggleClass("Mydiv")}),$(".treeview-animated-items-header").click(function(){return console.log("mala"),$this=$(this),console.log($this.attr("id")),$target=$this.siblings(".nested"),$pointerPlus=$this.children(".fa-plus"),$pointerMinus=$this.children(".fa-minus"),$pointerPlus.removeClass("fa-plus"),$pointerPlus.addClass("fa-minus"),$pointerMinus.removeClass("fa-minus"),$pointerMinus.addClass("fa-plus"),$this.toggleClass("open"),$target.hasClass("active")?$target.removeClass("active").slideUp():$target.addClass("active").slideDown(),!1})})</script><script>(function(e,s,o,a,t,n,i){e.ContainerizeMenuObject=t,e[t]=e[t]||function(){(e[t].q=e[t].q||[]).push(arguments)},e[t].l=1*new Date,n=s.createElement(o),i=s.getElementsByTagName(o)[0],n.async=1,n.src=a,i.parentNode.append(n)})(window,document,"script","https://menu.containerize.com/scripts/engine.min.js?v=1.0.1","aspose-en")</script><script src=https://releases-qa.aspose.com/res_repo/js/highlight.min.js></script>
+<script src=https://releases-qa.aspose.com/res_repo/js/bootstrap.min.js></script>
+<script src=/js/bundle.min.js></script>
+<script src=/js/dynabic.treeview.js></script>
+<script src=/js/treeviewmanager.js></script>
+<script>hljs.highlightAll()</script><link rel=stylesheet type=text/css href=https://releases-qa.aspose.com/res_repo/css/hugocustom.css><script>$(".btn-showside .mb-5").on("click",function(){$("main .flex .dn.db-l").toggleClass("showsidebar"),$("main .flex .w-100").toggleClass("noscroll")}),$(".btn-showmenu").on("click",function(){$("nav.bg-primary-color-dark").toggleClass("showmenu")}),$(".btn-plain").on("click",function(){$("main .flex .dn.db-l").removeClass("showsidebar"),$("main .flex .dn.db-l").removeClass("showsidebar"),$("nav.bg-primary-color-dark").removeClass("showmenu")}),$(".ss-bar ul li a[data-target]").on("click",function(){$(this).find(".i.fa-angle-down").hasClass("fa-angle-up")?$(this).find("i.fa-angle-down").removeClass("fa-angle-up"):$(this).find("i.fa-angle-down").toggleClass("fa-angle-up")}),$(".btn-showside").on("click",function(){$(".ss-bar").toggleClass("showsidebar")}),$(".btn-plain").on("click",function(){$(".ss-bar").removeClass("showsidebar")})</script><script>$(document).ready(function(){$("div pre").removeAttr("style");var e,t=$(location).attr("hash");"#package-explorer"==t&&(e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]'),e&&e.click()),$('a:has(img[alt="banner"]').click(function(){event.preventDefault();var e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]');e&&e.click()}),$(window).scroll(function(){$(this).scrollTop()>150?$(".backtop").fadeIn():$(".backtop").fadeOut()}),$(".backtop").click(function(){return $("html, body").animate({scrollTop:0},600),!1}),$(".linkshow").on("click",function(){$(this).find("i").toggleClass("fa-minus-square"),$(".linkshowbox").toggleClass("hide")}),document.querySelector("body").addEventListener("click",function(t){if(t.target.classList.contains("searchButton")){$(".ss-bar").removeClass("showsidebar");try{var e=$("input[name=q]").val();gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}if(t.target.classList.contains("fa-search")){$(".ss-bar").removeClass("showsidebar");try{e=$("input[name=q]").val(),gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}},!0)})</script><script>document.querySelectorAll("pre > code").forEach(t=>{const n=t.parentNode.parentNode,e=document.createElement("button");e.classList.add("copy-code"),e.innerHTML="copy";function s(){e.innerHTML="copied!",setTimeout(()=>{e.innerHTML="copy"},2e3)}e.addEventListener("click",o=>{if("clipboard"in navigator){navigator.clipboard.writeText(t.textContent),s();return}const e=document.createRange();e.selectNodeContents(t);const n=window.getSelection();n.removeAllRanges(),n.addRange(e);try{document.execCommand("copy"),s()}catch(e){}n.removeRange(e)}),n.classList.contains("highlight")?n.appendChild(e):n.parentNode.firstChild==n||(t.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName=="TABLE"?t.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(e):t.parentNode.appendChild(e))})</script></body></html>

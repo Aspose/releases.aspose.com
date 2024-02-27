@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Android on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/tags/android/</link><description>Recent content in Android on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/tags/android/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads ---Neue Releases-aspose.barcode-for-android-via-java-22.8</title><link>https://releases-qa.aspose.com/de/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-22.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-22.8/</guid><description>&amp;nbsp;
+Aspose.BarCode für Android über Java 22.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+14.32MB
+Hinzugefügt am:
+26/8/2022
+Versionshinweise https://releases.aspose.com/barcode/androidjava/release-notes/2022/aspose-barcode-for-android-via-java-22-8-release-notes/
+BeschreibungAspose.BarCode für Android über Java 22.8 wurde veröffentlicht
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=12b02ea394550139b6816b75ac58a36f-3-7807&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.barcode-for-android-via-java-22.9</title><link>https://releases-qa.aspose.com/de/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-22.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-22.9/</guid><description>&amp;nbsp;
+Aspose.BarCode für Android über Java 22.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+7.57MB
+Hinzugefügt am:
+30/9/2022
+Versionshinweise https://releases.aspose.com/barcode/androidjava/release-notes/2022/aspose-barcode-for-android-via-java-22-9-release-notes/
+BeschreibungAspose.BarCode für Android über Java 22.9 wurde veröffentlicht
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b32d622f67cefb73094742a36324941a-2-7959&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.barcode-for-android-via-java-22.10</title><link>https://releases-qa.aspose.com/de/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-22.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-22.10/</guid><description>&amp;nbsp;
+Aspose.BarCode für Android über Java 22.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+7.98MB
+Date Added:
+25/10/2022
+Versionshinweise https://releases.aspose.com/barcode/androidjava/release-notes/2022/aspose-barcode-for-android-via-java-22-10-release-notes/
+BeschreibungAspose.BarCode für Android über Java 22.10 wurde veröffentlicht
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0af2739ccc2faecf8835baf639c9ee97-2-8059&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.BARCODE-FOR-ANDROID-VIA-JAVA-23.1</title><link>https://releases-qa.aspose.com/de/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-23.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-23.1/</guid><description>&amp;nbsp;
+ASSON.BARCODE für Android über Java 23.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+11.89MB
+Datum hinzugefügt:
+31/1/2023
+Versionshinweisehttps://releases.aspose.com/barcode/androidjava/release-notes/2023/aspose-barcode-for-android-via-java-23-1-release-notes/
+BeschreibungASSONE.BARCODE FÜR ANDROID über Java 23.1 wurde veröffentlicht
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=199f21cbe8f7fec1cca8fcc51266ab92-3-8473&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.BARCODE-FOR-ANDROID-VIA-JAVA-23.2</title><link>https://releases-qa.aspose.com/de/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-23.2/</guid><description>&amp;nbsp;
+ASSON.BARCODE für Android über Java 23.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+7.8MB
+Datum hinzugefügt:
+24/2/2023
+Versionshinweisehttps://releases.aspose.com/barcode/androidjava/release-notes/2023/aspose-barcode-for-android-via-java-23-2-release-notes/
+BeschreibungASSON.BARCODE FÜR ANDROID über Java 23.2 wurde veröffentlicht
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=44381c6dd5a5f29dca91a14056634b82-2-8572&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.BARCODE-FOR-ANDROID-VIA-JAVA-23.3</title><link>https://releases-qa.aspose.com/de/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-23.3/</guid><description>&amp;nbsp;
+ASSON.BARCODE für Android über Java 23.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+7.8MB
+Datum hinzugefügt:
+29/3/2023
+Versionshinweisehttps://releases.aspose.com/barcode/androidjava/release-notes/2023/aspose-barcode-for-android-via-java-23-3-release-notes/
+BeschreibungASSONE.BARCODE FÜR ANDROID über Java 23.3 wurde veröffentlicht
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=91957eeaef6853ded7ab09e6b47ba0d0-2-8703&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.BARCODE-FOR-ANDROID-VIA-JAVA-23.4</title><link>https://releases-qa.aspose.com/de/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-23.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-23.4/</guid><description>&amp;nbsp;
+ASSON.BARCODE für Android über Java 23.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+7.81MB
+Datum hinzugefügt:
+26/4/2023
+Versionshinweisehttps://releases.aspose.com/barcode/androidjava/release-notes/2023/aspose-barcode-for-android-via-java-23-4-release-notes/
+BeschreibungASSON.BARCODE FÜR ANDROID über Java 23.4 wurde veröffentlicht
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b99c67ca9227032d8cf3e003ee13baf3-2-8823&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.BARCODE-FOR-ANDROID-VIA-JAVA-23.5</title><link>https://releases-qa.aspose.com/de/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-23.5/</guid><description>&amp;nbsp;
+ASSON.BARCODE für Android über Java 23.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+7.82MB
+Datum hinzugefügt:
+31/5/2023
+Versionshinweisehttps://releases.aspose.com/barcode/androidjava/release-notes/2023/aspose-barcode-for-android-via-java-23-5-release-notes/
+BeschreibungASSON.BARCODE für Android über Java 23.5 wurde veröffentlicht
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=aaa16dfdf1c9c9653c215832fe054ed4-2-8941&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.BARCODE-FOR-ANDROID-VIA-JAVA-23.6</title><link>https://releases-qa.aspose.com/de/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-23.6/</guid><description>&amp;nbsp;
+ASSON.BARCODE für Android über Java 23.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+7.91MB
+Datum hinzugefügt:
+30/6/2023
+Versionshinweisehttps://releases.aspose.com/barcode/androidjava/release-notes/2023/aspose-barcode-for-android-via-java-23-6-release-notes/
+BeschreibungASSON.BARCODE FÜR ANDROID über Java 23.6 wurde veröffentlicht
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=da5fc13a520f1f0f0480263355dd6779-2-9166&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.BARCODE-FOR-ANDROID-VIA-JAVA-23.7</title><link>https://releases-qa.aspose.com/de/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-23.7/</guid><description>&amp;nbsp;
+ASSON.BARCODE für Android über Java 23.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+7.92MB
+Datum hinzugefügt:
+31/7/2023
+Versionshinweisehttps://releases.aspose.com/barcode/androidjava/release-notes/2023/aspose-barcode-for-android-via-java-23-7-release-notes/
+BeschreibungASSON.BARCODE für Android über Java 23.7 wurde veröffentlicht
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1a95f4fb0038269e12dc5a56f2f5f3c7-2-9294&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

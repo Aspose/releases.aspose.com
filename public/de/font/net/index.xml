@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>C#-Bibliothek zum Erstellen und Speichern von Schriftarten herunterladen | Aspose.Font-API on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/font/net/</link><description>Recent content in C#-Bibliothek zum Erstellen und Speichern von Schriftarten herunterladen | Aspose.Font-API on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/font/net/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---Neue-Releases-aspose.font-for-.net-20.9-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-20.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-20.9-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Font für .NET 20.9 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+2.0 MB Posted By: andriy.kotlyarov
+Ansichten:
+75
+Hinzugefügt am:
+9/3/2020
+Versionshinweise https://releases.aspose.com/font/net/release-notes/2020/aspose-font-for-net-20-9-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.Font für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.Font ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen.</description></item><item><title> Downloads ---Neue-Releases-aspose.font-for-.net-20.9 .</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-20.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-20.9/</guid><description>&amp;nbsp;
+Aspose.Font für .NET 20.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+2.4 MB Posted By: andriy.kotlyarov
+Ansichten:
+46
+Hinzugefügt am:
+9/3/2020
+Versionshinweise https://releases.aspose.com/font/net/release-notes/2020/aspose-font-for-net-20-9-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9b7bd34c6e9a44dd9ad81ce4fa3ef7b8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.font-for-.net-20.10-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-20.10-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-20.10-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Font für .NET 20.10 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+2.0 MB Posted By: andriy.kotlyarov
+Ansichten:
+67
+Hinzugefügt am:
+10/15/2020
+Versionshinweise https://releases.aspose.com/font/net/release-notes/2020/aspose-font-for-net-20-10-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.Font für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.Font ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen.</description></item><item><title> Downloads ---Neue-Releases-aspose.font-for-.net-20.10 .</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-20.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-20.10/</guid><description>&amp;nbsp;
+Aspose.Font für .NET 20.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+2.4 MB Posted By: andriy.kotlyarov
+Ansichten:
+35
+Hinzugefügt am:
+10/15/2020
+Versionshinweise https://releases.aspose.com/font/net/release-notes/2020/aspose-font-for-net-20-10-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ffcdf18fa5904bb69b427cff15a639af&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.font-for-.net-20.12-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-20.12-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-20.12-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Font für .NET 20.12 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+15
+Dateigröße:
+2.9 MB Posted By: andriy.kotlyarov
+Ansichten:
+43
+Hinzugefügt am:
+12/8/2020
+Versionshinweise https://releases.aspose.com/font/net/release-notes/2020/aspose-font-for-net-20-12-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.Font für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.Font ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen.</description></item><item><title> Downloads ---Neue-Releases-aspose.font-for-.net-20.12 .</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-20.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-20.12/</guid><description>&amp;nbsp;
+Aspose.Font für .NET 20.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+3.4 MB Posted By: andriy.kotlyarov
+Ansichten:
+45
+Hinzugefügt am:
+12/8/2020
+Versionshinweise https://releases.aspose.com/font/net/release-notes/2020/aspose-font-for-net-20-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=62f70d3e63a94243940ee276e67dfd2c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.font-for-.net-21.2-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-21.2-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-21.2-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Font für .NET 21.2 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+3.2 MB Posted By: andriy.kotlyarov
+Ansichten:
+52
+Hinzugefügt am:
+2/24/2021
+Versionshinweise https://releases.aspose.com/font/net/release-notes/2021/aspose-font-for-net-21-2-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.Font für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.Font ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen.</description></item><item><title> Downloads ---Neue-Releases-aspose.font-for-.net-21.2 .</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-21.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-21.2/</guid><description>&amp;nbsp;
+Aspose.Font für .NET 21.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+3.6 MB Posted By: andriy.kotlyarov
+Ansichten:
+58
+Hinzugefügt am:
+2/24/2021
+Versionshinweise https://releases.aspose.com/font/net/release-notes/2021/aspose-font-for-net-21-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=affb410830de44658128e92c9dca7ca9&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.font-for-.net-21.4-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-21.4-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-21.4-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Font für .NET 21.4 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+17
+Dateigröße:
+2.9 MB Posted By: andriy.kotlyarov
+Ansichten:
+63
+Hinzugefügt am:
+4/8/2021
+Versionshinweise https://releases.aspose.com/font/net/release-notes/2021/aspose-font-for-net-21-4-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.Font für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.Font ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen.</description></item><item><title> Downloads ---Neue-Releases-aspose.font-for-.net-21.4 .</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-21.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-21.4/</guid><description>&amp;nbsp;
+Aspose.Font für .NET 21.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+13
+Dateigröße:
+3.3 MB Posted By: andriy.kotlyarov
+Ansichten:
+67
+Hinzugefügt am:
+4/8/2021
+Versionshinweise https://releases.aspose.com/font/net/release-notes/2021/aspose-font-for-net-21-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fa53c0e9c89745a886f3fd0cbfe45329&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.font-for-.net-21.8-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-21.8-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-21.8-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Font für .NET 21.8 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+2.9 MB Posted By: andriy.kotlyarov
+Ansichten:
+47
+Hinzugefügt am:
+8/5/2021
+Versionshinweise https://releases.aspose.com/font/net/release-notes/2021/aspose-font-for-net-21-8-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.Font für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.Font ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen.</description></item><item><title> Downloads ---Neue-Releases-aspose.font-for-.net-21.8 .</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-21.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-21.8/</guid><description>&amp;nbsp;
+Aspose.Font für .NET 21.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+3.4 MB Posted By: andriy.kotlyarov
+Ansichten:
+48
+Hinzugefügt am:
+8/5/2021
+Versionshinweise https://releases.aspose.com/font/net/release-notes/2021/aspose-font-for-net-21-8-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7c21f78046fb45848fc9a6c372d8509c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.font-for-.net-21.10-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-21.10-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-21.10-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Font für .NET 21.10 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+2.9 MB Posted By: pavel.loginov
+Ansichten:
+44
+Hinzugefügt am:
+10/7/2021
+Versionshinweise https://releases.aspose.com/font/net/release-notes/2021/aspose-font-for-net-21-10-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.Font für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.Font ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen.</description></item><item><title> Downloads ---Neue-Releases-aspose.font-for-.net-21.10 .</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-21.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-21.10/</guid><description>&amp;nbsp;
+Aspose.Font für .NET 21.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+3.4 MB Posted By: pavel.loginov
+Ansichten:
+44
+Hinzugefügt am:
+10/7/2021
+Versionshinweise https://releases.aspose.com/font/net/release-notes/2021/aspose-font-for-net-21-10-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a8964d23bc4747bca1feea7ca0aa76de&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.font-for-.net-21.12-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-21.12-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-21.12-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Font für .NET 21.12 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+18
+Dateigröße:
+3.0 MB Posted By: pavel.loginov
+Ansichten:
+43
+Hinzugefügt am:
+12/1/2021
+Versionshinweise https://releases.aspose.com/font/net/release-notes/2021/aspose-font-for-net-21-12-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.Font für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.Font ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen.</description></item><item><title> Downloads ---Neue-Releases-aspose.font-for-.net-21.12 .</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-21.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-21.12/</guid><description>&amp;nbsp;
+Aspose.Font für .NET 21.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+3.3 MB Posted By: pavel.loginov
+Ansichten:
+100
+Hinzugefügt am:
+12/1/2021
+Versionshinweise https://releases.aspose.com/font/net/release-notes/2021/aspose-font-for-net-21-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=36fa0e2b0c4948a69d2165b7c3169c06&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.font-for-.net-22.4-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-22.4-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-22.4-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Font für .NET 22.4 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+4
+Dateigröße:
+3.8 MB Hinzugefügt am:
+: 4 weeks ago [4/22/2022]
+Versionshinweise https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-4-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.Font für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.Font ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen.</description></item><item><title> Downloads ---Neue-Releases-aspose.font-for-.net-22.4 .</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-22.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-22.4/</guid><description>&amp;nbsp;
+Aspose.Font für .NET 22.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+4.2 MB Hinzugefügt am:
+: 4 weeks ago [4/22/2022]
+Versionshinweise https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a586c01b0e63451bbf0c63c6b3c79837&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Versionen-aspose.font-for-.net-22.7-(nur dlls)</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-22.7-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-22.7-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Font für .NET 22.7 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+3.85MB
+Hinzugefügt am:
+15/7/2022
+Versionshinweise https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-7-release-notes/
+BeschreibungDiese ZIP-Datei enthält nur die Aspose.Font für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.Font ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen.
+.</description></item><item><title>Downloads ---Neuerscheinungen-aspose.font-for-.net-22.7</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-22.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-22.7/</guid><description>&amp;nbsp;
+Aspose.Font für .NET 22.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+4.19MB
+Hinzugefügt am:
+15/7/2022
+Versionshinweise https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-7-release-notes/
+BeschreibungEs enthält Aspose.Font für die Version .NET 22.7
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0f5f817df2b2f45c925aee64b944d612-1-7648&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Versionen-aspose.font-for-.net-22.9-(nur dlls)</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-22.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-22.9-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Font für .NET 22.9 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+3.86MB
+Hinzugefügt am:
+15/9/2022
+Versionshinweise https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-9-release-notes/
+BeschreibungDiese ZIP-Datei enthält nur die Aspose.Font für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.Font ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen.
+.</description></item><item><title>Downloads ---Neuerscheinungen-aspose.font-for-.net-22.9</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-22.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-22.9/</guid><description>&amp;nbsp;
+Aspose.Font für .NET 22.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+4.2MB
+Hinzugefügt am:
+15/9/2022
+Versionshinweise https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-9-release-notes/
+BeschreibungEs enthält Aspose.Font für die Version .NET 22.9
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5db29c34ea08d295441b3b3891ae064f-1-7904&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Versionen-aspose.font-for-.net-22.10-(nur dlls)</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-22.10-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-22.10-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Font für .NET 22.10 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+4.01MB
+Date Added:
+28/10/2022
+Versionshinweise https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-10-release-notes/
+BeschreibungDiese ZIP-Datei enthält nur die Aspose.Font für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.Font ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen.
+.</description></item><item><title>Downloads ---Neuerscheinungen-aspose.font-for-.net-22.10</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-22.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-22.10/</guid><description>&amp;nbsp;
+Aspose.Font für .NET 22.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+4.35MB
+Date Added:
+28/10/2022
+Versionshinweise https://releases.aspose.com/font/net/release-notes/2022/aspose-font-for-net-22-10-release-notes/
+BeschreibungEs enthält Aspose.Font für die Version .NET 22.10
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9e2a70aacf263ae76caaa99d7fd22304-1-8071&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.FONT-FOR-FOR-FAHR-23.1- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.1-dlls-only/</guid><description>&amp;nbsp;
+ASSON.FONT FÜR .NET 23.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+3.88MB
+Datum hinzugefügt:
+23/1/2023
+Versionshinweisehttps://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-1-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.FONT für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.FONT ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- New Releases-ASSOSPLE.FONT-FOR-FOR-23.1</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.1/</guid><description>&amp;nbsp;
+ASSOSS.FONT FÜR .NET 23.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+4.22MB
+Datum hinzugefügt:
+23/1/2023
+Versionshinweisehttps://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-1-release-notes/
+BeschreibungEs enthält asspose.font für .NET 23.1 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ebc3edeccb50609ad4261847c3c1184b-1-8414&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.FONT-FOR-FOR-FAHR-23.2- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.2-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.2-dlls-only/</guid><description>&amp;nbsp;
+ASSON.FONT FÜR .NET 23.2 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+3.89MB
+Datum hinzugefügt:
+15/2/2023
+Versionshinweisehttps://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-2-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.FONT für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.FONT ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FONT-FOR-FOR-23.2</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.2/</guid><description>&amp;nbsp;
+ASSON.FONT FÜR .NET 23.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+4.23MB
+Datum hinzugefügt:
+15/2/2023
+Versionshinweisehttps://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-2-release-notes/
+BeschreibungEs enthält asspose.font für .NET 23.2 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=39ef5c3a3465be30127e3a30e7bde6b7-1-8524&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FONT-FOR-FOR-FAUS-23.3- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.3-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.3-dlls-only/</guid><description>&amp;nbsp;
+ASSON.FONT FÜR .NET 23.3 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+3.91MB
+Datum hinzugefügt:
+31/3/2023
+Versionshinweisehttps://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-3-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.FONT für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.FONT ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPLE.FONT-FOR-N.NET-23.3</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.3/</guid><description>&amp;nbsp;
+ASSON.FONT FÜR .NET 23.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+4.25MB
+Datum hinzugefügt:
+31/3/2023
+Versionshinweisehttps://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-3-release-notes/
+BeschreibungEs enthält asspose.font für .NET 23.3 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a83d7465261a7bb4b77433eaf0a3625d-1-8711&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FONT-FOR-FOR-FAUS-23.5- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.5-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.5-dlls-only/</guid><description>&amp;nbsp;
+ASSON.FONT FÜR .NET 23.5 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+5.17MB
+Datum hinzugefügt:
+31/5/2023
+Versionshinweisehttps://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-5-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.FONT für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.FONT ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FONT-FOR-N.NET-23.5</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.5/</guid><description>&amp;nbsp;
+ASSON.FONT FÜR .NET 23.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+5.51MB
+Datum hinzugefügt:
+31/5/2023
+Versionshinweisehttps://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-5-release-notes/
+BeschreibungEs enthält asspose.font für .NET 23.5 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=741013cc4fe1481a44aaba9ffb19823c-2-8943&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FONT-FOR-FAUS-N-23.6- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.6-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.6-dlls-only/</guid><description>&amp;nbsp;
+ASSON.FONT FÜR .NET 23.6 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+5.17MB
+Datum hinzugefügt:
+16/6/2023
+Versionshinweisehttps://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-6-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.FONT für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.FONT ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FONT-FOR-N.NET-23.6</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.6/</guid><description>&amp;nbsp;
+ASSON.FONT FÜR .NET 23.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+5.51MB
+Datum hinzugefügt:
+16/6/2023
+Versionshinweisehttps://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-6-release-notes/
+BeschreibungEs enthält asspose.font für .NET 23.6 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4fdb9321f8b15e01d3f46ea7c52b74e8-2-8986&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.FONT-FOR-FOR-FAHR-23.7- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.7-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.7-dlls-only/</guid><description>&amp;nbsp;
+ASSON.FONT FÜR .NET 23.7 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+5.16MB
+Datum hinzugefügt:
+13/7/2023
+Versionshinweisehttps://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-7-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.FONT für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.FONT ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FONT-FOR-N.NET-23.7</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.7/</guid><description>&amp;nbsp;
+ASSON.FONT FÜR .NET 23.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+5.5MB
+Datum hinzugefügt:
+13/7/2023
+Versionshinweisehttps://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-7-release-notes/
+BeschreibungEs enthält asspose.font für .NET 23.7 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1a038ebeb580a711a777c5e96b12600a-2-9208&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPEN.FONT-FOR-FOR-FAHR-23.8- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.8-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.8-dlls-only/</guid><description>&amp;nbsp;
+ASSON.FONT FÜR .NET 23.8 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+5.18MB
+Datum hinzugefügt:
+11/8/2023
+Versionshinweisehttps://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-8-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.FONT für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.FONT ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FONT-FOR-N.NET-23.8</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.8/</guid><description>&amp;nbsp;
+ASSON.FONT FÜR .NET 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+5.51MB
+Datum hinzugefügt:
+11/8/2023
+Versionshinweisehttps://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-8-release-notes/
+BeschreibungEs enthält asspose.font für .NET 23.8 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=54520a149933f042b8affa81ec90a986-2-9317&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FONT-FOR-FOR-FAHR-23.9- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.9-dlls-only/</guid><description>&amp;nbsp;
+ASSON.FONT FÜR .NET 23.9 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+5.18MB
+Datum hinzugefügt:
+1/9/2023
+Versionshinweisehttps://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-9-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.FONT für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.FONT ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FONT-FOR-N.NET-23.9</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.9/</guid><description>&amp;nbsp;
+ASSON.FONT FÜR .NET 23.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+5.51MB
+Datum hinzugefügt:
+1/9/2023
+Versionshinweisehttps://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-9-release-notes/
+BeschreibungEs enthält asspose.font für .NET 23.9 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=913b50996ae509e5a0d93fd52e6ca1aa-2-9439&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FONT-FOR-FOR-FAUS-23.10- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.10-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.10-dlls-only/</guid><description>&amp;nbsp;
+ASSON.FONT FÜR .NET 23.10 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+5.24MB
+Datum hinzugefügt:
+13/10/2023
+Versionshinweisehttps://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-10-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.FONT für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.FONT ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FONT-FOR-N.NET-23.10</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.10/</guid><description>&amp;nbsp;
+ASSON.FONT FÜR .NET 23.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+5.57MB
+Datum hinzugefügt:
+13/10/2023
+Versionshinweisehttps://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-10-release-notes/
+BeschreibungEs enthält asspose.font für .NET 23.10 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=915d76b606be093937122d4c3f62a9d3-2-9601&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FONT-FOR-FOR-FAHR-N-23.11- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.11-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.11-dlls-only/</guid><description>&amp;nbsp;
+ASSON.FONT FÜR .NET 23.11 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+5.24MB
+Datum hinzugefügt:
+10/11/2023
+Versionshinweisehttps://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-11-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.FONT für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.FONT ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPEN.FONT-FOR-FAUS-N-23.11</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.11/</guid><description>&amp;nbsp;
+ASSON.FONT FÜR .NET 23.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+5.57MB
+Datum hinzugefügt:
+10/11/2023
+Versionshinweisehttps://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-11-release-notes/
+BeschreibungEs enthält asspose.font für .NET 23.11 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f486c4402f42bfdbd6850517d8a349dc-2-9719&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FONT-FOR-FOR-FAUS-23.12- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.12-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.12-dlls-only/</guid><description>&amp;nbsp;
+ASSON.FONT FÜR .NET 23.12 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+5.3MB
+Datum hinzugefügt:
+18/12/2023
+Versionshinweisehttps://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-12-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.FONT für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.FONT ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FONT-FOR-FOR-23.12</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.12/</guid><description>&amp;nbsp;
+ASSON.FONT FÜR .NET 23.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+5.63MB
+Datum hinzugefügt:
+18/12/2023
+Versionshinweisehttps://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-12-release-notes/
+BeschreibungEs enthält asspose.font für .NET 23.12 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2aa4a2676af7f681d9de4c02a43d2064-2-10007&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

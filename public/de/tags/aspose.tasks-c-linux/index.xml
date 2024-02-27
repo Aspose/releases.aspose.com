@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>aspose.tasks-c -linux on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/tags/aspose.tasks-c-linux/</link><description>Recent content in aspose.tasks-c -linux on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/tags/aspose.tasks-c-linux/index.xml" rel="self" type="application/rss+xml"/><item><title>Laden Sie die C++-Klassenbibliothek für Projektmanagement herunter | Übernehmen.Aufgaben</title><link>https://releases-qa.aspose.com/de/tasks/cpp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/cpp/</guid><description>Support Forum
+Laden Sie die C&amp;#43;&amp;#43;-Bibliothek herunter, um Microsoft Project®-Dateien zu verarbeiten Offen
+NuGetPackage Manager in Microsoft Visual Studio®, suchen Sie nach Aspose.Tasks.Cpp und installieren Sie es. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die
+InstallationDokumentationsseite.
+Release-opmerkingen
+Downloaden
+PM&amp;gt;
+Install-Package Aspose.Tasks.Cpp
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item></channel></rss>

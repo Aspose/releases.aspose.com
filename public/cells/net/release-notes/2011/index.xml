@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Release Notes - 2011 on Releases - aspose.com</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2011/</link><description>Recent content in Release Notes - 2011 on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/cells/net/release-notes/2011/index.xml" rel="self" type="application/rss+xml"/><item><title>Aspose.Cells for .NET 7.0.3 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2011/aspose-cells-for-net-7-0-3-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2011/aspose-cells-for-net-7-0-3-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 7.0.3
+We are happy to announce Aspose.Cells for .NET v7.0.3!
+Aspose.Cells
+New Features
+24953 Support MS Excel’s advanced conditional formatting in the generated PDF file
+30020 Support Cell Gradient Color that is not set properly while converting to PDF document
+40010 Uncheck Multi-level Category Labels while formatting Chart’s Axis
+Enhancements
+31243 Copy range with validation
+31347 Sorting &amp;amp; Dynamic formulas in Smart Markers</description></item><item><title>Aspose.Cells for .NET 7.0.2 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2011/aspose-cells-for-net-7-0-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2011/aspose-cells-for-net-7-0-2-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 7.0.2
+We are happy to announce Aspose.Cells for .NET v7.0.2! In this version, we made several enhancements and fixed number of user issues/bugs. Moreover, we have removed some unnecessary older obsolete methods for Sheet-to-Image feature now.
+\1) Aspose.Cells
+New Features
+30970 Access document properties of an encrypted XLS file
+Enhancements
+30919 The Worksheet’s TabColor property for Chart type worksheets</description></item><item><title>Aspose.Cells for .NET 7.0.1 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2011/aspose-cells-for-net-7-0-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2011/aspose-cells-for-net-7-0-1-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 7.0.1
+We are happy to announce Aspose.Cells for .NET v7.0.1!
+\1) Aspose.Cells
+New Features
+29512 Add a new overloaded method: Cell.SetStyle(Style style, bool explicitFlag)
+Enhancements
+30331 Add and Delete Rows in the ListObject / Table
+Performance
+30177 Stack Overflow Exception while generating a PDF file from an ODS file
+30045 Aspose.Cells hangs up when opening the file
+Exceptions
+30188 Error occurred when converting Date column (with empty string) in Excel XML format</description></item><item><title>Aspose.Cells for .NET 7.0.0 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2011/aspose-cells-for-net-7-0-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2011/aspose-cells-for-net-7-0-0-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 7.0.0
+We are happy to announce Aspose.Cells for .NET v7.0.0!
+\1) Aspose.Cells
+Enhancements
+29480 How to change the position of a Pivot table Item
+29580 Repeating parts of Worksheet based on input data
+29377 Export GroupShape problem into XLS format
+29632 Throw exception when sheet name contains special characters
+29153 Support Conditional Formatting on HTML output
+Performance
+29451 CalculateFormula() method is Really slow</description></item><item><title>Aspose.Cells for .NET 6.0.1 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2011/aspose-cells-for-net-6-0-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2011/aspose-cells-for-net-6-0-1-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 6.0.1
+We are happy to announce Aspose.Cells for .NET v6.0.1!&amp;lt;!-?xml:namespace prefix = o ns = &amp;ldquo;urn:schemas-microsoft-com:office:office&amp;rdquo; /-&amp;gt; \1) Aspose.Cells
+Enhancements 28643 Export column index of each Cell in the SpreadSheetML file
+29067 How to format Axis in a Line chart
+28590 Checking presence of password
+Performance
+28414 Printing of worksheet takes very long time
+28405 SheetRender.ToImage() hangs without an exception or error</description></item><item><title>Aspose.Cells for .NET 6.0.0 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2011/aspose-cells-for-net-6-0-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2011/aspose-cells-for-net-6-0-0-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 6.0.0
+We are pleased to announce Aspose.Cells for .NET v6.0.0 for the users!
+\1) Aspose.Cells
+New Features
+13872 Export to XPS file
+28363 Create write-protected XLSX files
+Enhancements
+27285 Show expand/collapse buttons for Pivot Table
+27781 Chart’s legend is shrinking when Excel workbook is saved
+27794 Excel Chart Data Labels are moving when Excel file is saved
+28190 Apply Date format to Nullable date fields</description></item><item><title>Aspose.Cells for .NET 5.3.3 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2011/aspose-cells-for-net-5-3-3-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2011/aspose-cells-for-net-5-3-3-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 5.3.3
+We are happy to announce Aspose.Cells for .NET v5.3.3! 1) Aspose.Cells Enhancements 25032 Set Hyperlink’s Target attribute when converting Excel file to Html format
+25960 Render Checkboxes in Html file
+26082 Support Justified Alignment in rendering PDF format
+26341 Excel-to-Pdf enhancement for Mono
+26342 External web links have some strange characters attached
+25332 Enhance various Custom Properties in XLS, XLSX/XLSM documents</description></item><item><title>Aspose.Cells for .NET 5.3.2 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2011/aspose-cells-for-net-5-3-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2011/aspose-cells-for-net-5-3-2-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 5.3.2
+We are happy to announce Aspose.Cells for .NET v5.3.2!
+What&amp;rsquo;s changed in Aspose.Cells:
+Inserts a common value into all the cells of the range by using Range.Value. Supports MS Excel 2010 encryption. Provides support to disable/hide Printing-Process dialog box Supports to change paper source while printing. 43 enhancements and fixes. What’s changed in Aspose.Cells.GridWeb:
+Supports setting grouped rows’ state to ‘Expanded’ or ‘Collapsed’ on the client side.</description></item><item><title>Aspose.Cells for .NET 5.3.1 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2011/aspose-cells-for-net-5-3-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2011/aspose-cells-for-net-5-3-1-release-notes/</guid><description>
+This page contains release notes for Aspose.Cells for .NET 5.3.1
+We are happy to announce Aspose.Cells for .NET v5.3.1!
+What&amp;rsquo;s changed in Aspose.Cells:
+Supports Arabic text rendering in PDF conversion. 17 enhancements and fixes. What’s changed in Aspose.Cells.GridWeb:
+Supports calculating array constants in Formulas. Supports multiple non-sequential cells operations. 1 enhancement. What’s changed in Aspose.Cells.GridDesktop:
+Supports calculating array constants in Formulas. 1 enhancement.</description></item><item><title>Aspose.Cells for .NET 5.3.0 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2011/aspose-cells-for-net-5-3-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2011/aspose-cells-for-net-5-3-0-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 5.3.0
+We are happy to announce Aspose.Cells for .NET v5.3.0!
+What&amp;rsquo;s changed in Aspose.Cells:
+Chart-to-Image feature is enhanced. Excel-to-PDF feature is enhanced. R/W ODS files feature is enhanced. Auto-fit rows feature is enhanced. 63 enhancement and fixes. What’s changed in Aspose.Cells.GridWeb:
+Supports all features of the control in FireFox. Provides support for converting a list collection to a DataTable object.</description></item><item><title>Aspose.Cells for .NET 5.2.2 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2011/aspose-cells-for-net-5-2-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2011/aspose-cells-for-net-5-2-2-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 5.2.2
+We are happy to announce Aspose.Cells for .NET v5.2.2!
+What&amp;rsquo;s changed in Aspose.Cells:
+Supports exporting Tables style to PDF file format. Enhances R/W ODS files. 27 enhancements and fixes. What’s changed in Aspose.Cells.GridWeb:
+Upgrades all .htc script files to JavaScript files. 2 fixes. Issues Resolved in Aspose.Cells for .NET v5.2.2.</description></item></channel></rss>

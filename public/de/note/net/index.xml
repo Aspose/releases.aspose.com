@@ -1,0 +1,2844 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>C#-DLL herunterladen, um OneNote®-Datei zu verarbeiten | Aspose.Note-API on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/note/net/</link><description>Recent content in C#-DLL herunterladen, um OneNote®-Datei zu verarbeiten | Aspose.Note-API on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/note/net/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-1.0.0 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.0.0/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 1.0.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+106
+Dateigröße:
+6.2 MB Posted By: sergey.chereshnyuk
+Ansichten:
+298
+Hinzugefügt am:
+3/3/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cb8ad61638e84ebeb4f0db55dbd6878b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-1.0.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.0.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.0.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 1.0.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+42
+Dateigröße:
+5.4 MB Posted By: sergey.chereshnyuk
+Ansichten:
+160
+Hinzugefügt am:
+3/3/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a407564ba83c4a079ecee939831e5429&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-1.1.0 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.1.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.1.0/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 1.1.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+67
+Dateigröße:
+6.2 MB Posted By: sergey.chereshnyuk
+Ansichten:
+250
+Hinzugefügt am:
+4/1/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7bb8925b0d0d4c8da09d30861ae34b4c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-1.1.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.1.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.1.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 1.1.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+40
+Dateigröße:
+5.4 MB Posted By: sergey.chereshnyuk
+Ansichten:
+201
+Hinzugefügt am:
+4/1/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c41d246b15d6461b8080f82495f8afde&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases--aspose.note-for-.net-1.2.0 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/-aspose.note-for-.net-1.2.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/-aspose.note-for-.net-1.2.0/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 1.2.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+88
+Dateigröße:
+6.3 MB Posted By: sergey.chereshnyuk
+Ansichten:
+368
+Hinzugefügt am:
+4/28/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=191e8822c3d24008b4a8451828175c9d&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases--aspose.note-for-.net-1.2.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/-aspose.note-for-.net-1.2.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/-aspose.note-for-.net-1.2.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 1.2.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+28
+Dateigröße:
+5.5 MB Posted By: sergey.chereshnyuk
+Ansichten:
+157
+Hinzugefügt am:
+4/28/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0fbd2a29b3134982976932afd173b5b2&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases--aspose.note-for-.net-1.3.0 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/-aspose.note-for-.net-1.3.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/-aspose.note-for-.net-1.3.0/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 1.3.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+187
+Dateigröße:
+6.3 MB Posted By: sergey.chereshnyuk
+Ansichten:
+377
+Hinzugefügt am:
+6/17/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d9903f533f1c488e9c44914613d63d1c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases--aspose.note-for-.net-1.3.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/-aspose.note-for-.net-1.3.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/-aspose.note-for-.net-1.3.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 1.3.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+41
+Dateigröße:
+5.5 MB Posted By: sergey.chereshnyuk
+Ansichten:
+184
+Hinzugefügt am:
+6/17/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=496dca9c02be4181a58cd6b946abaa5f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-1.4.0 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.4.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.4.0/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 1.4.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+85
+Dateigröße:
+6.3 MB Posted By: panchenko.dm
+Ansichten:
+282
+Hinzugefügt am:
+3/27/2015
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2015/aspose-note-for-net-1-4-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fea5bd777f43498aa560fecee049c86e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases--aspose.note-for-.net-1.4.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/-aspose.note-for-.net-1.4.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/-aspose.note-for-.net-1.4.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 1.4.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+29
+Dateigröße:
+5.5 MB Posted By: panchenko.dm
+Ansichten:
+140
+Hinzugefügt am:
+3/27/2015
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1067ab2bce3d4335a95443cd0266de14&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-1.5.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.5.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.5.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 1.5.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+19
+Dateigröße:
+5.7 MB Posted By: panchenko.dm
+Ansichten:
+108
+Hinzugefügt am:
+5/6/2015
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=223b84206e254332ad84311ca7b6d9e2&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-1.5.0 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.5.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.5.0/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 1.5.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+42
+Dateigröße:
+6.5 MB Posted By: panchenko.dm
+Ansichten:
+188
+Hinzugefügt am:
+5/6/2015
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2015/aspose-note-for-net-1-5-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=13072270351d4c67a82c5a7420ab7f7e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-1.6.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.6.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.6.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 1.6.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+21
+Dateigröße:
+5.7 MB Posted By: panchenko.dm
+Ansichten:
+104
+Hinzugefügt am:
+5/31/2015
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c3e2cb4db06942568372f1cdf7ae1ea0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-1.6.0 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.6.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.6.0/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 1.6.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+49
+Dateigröße:
+6.5 MB Posted By: panchenko.dm
+Ansichten:
+141
+Hinzugefügt am:
+5/31/2015
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2015/aspose-note-for-net-1-6-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5024ad95199b4c6a95e459c03c2e7d4e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-1.7.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.7.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.7.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 1.7.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+23
+Dateigröße:
+6.5 MB Posted By: panchenko.dm
+Ansichten:
+103
+Hinzugefügt am:
+7/3/2015
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7de309490ddb45efbad59dc9137218d7&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-1.7.0 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.7.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.7.0/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 1.7.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+38
+Dateigröße:
+7.4 MB Posted By: panchenko.dm
+Ansichten:
+160
+Hinzugefügt am:
+7/3/2015
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2015/aspose-note-for-net-1-7-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=adffccd2fcc04ef9bbc0bc4e8aaee38b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-1.8.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.8.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.8.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 1.8.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+17
+Dateigröße:
+20.1 MB Posted By: panchenko.dm
+Ansichten:
+82
+Hinzugefügt am:
+8/6/2015
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f24445c1627d48209cc4a4c39b1acc32&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-1.8.0 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.8.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.8.0/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 1.8.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+44
+Dateigröße:
+20.9 MB Posted By: panchenko.dm
+Ansichten:
+176
+Hinzugefügt am:
+8/6/2015
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2015/aspose-note-for-net-1-8-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3324aa29b2c94f0ca96284f2445e5929&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-1.9.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.9.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.9.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 1.9.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+36
+Dateigröße:
+13.9 MB Posted By: panchenko.dm
+Ansichten:
+193
+Hinzugefügt am:
+8/31/2015
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d10dc138c0dd4e548e6ee906bd8a7499&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-1.9.0 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.9.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-1.9.0/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 1.9.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+82
+Dateigröße:
+14.7 MB Posted By: panchenko.dm
+Ansichten:
+233
+Hinzugefügt am:
+8/31/2015
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2015/aspose-note-for-net-1-9-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=18541b01e3d2435ea6f22bdba9b38c26&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-2.0.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-2.0.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-2.0.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 2.0.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+25
+Dateigröße:
+13.9 MB Posted By: panchenko.dm
+Ansichten:
+141
+Hinzugefügt am:
+11/3/2015
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=16e4a369245549959b4d3cc1089f0691&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-2.0.0 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-2.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-2.0.0/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 2.0.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+50
+Dateigröße:
+14.7 MB Posted By: panchenko.dm
+Ansichten:
+295
+Hinzugefügt am:
+11/3/2015
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2015/aspose-note-for-net-2-1-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7b694bd7df7643c183a1ba43d14b72a7&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-2.1.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-2.1.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-2.1.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 2.1.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+51
+Dateigröße:
+14.0 MB Posted By: panchenko.dm
+Ansichten:
+139
+Hinzugefügt am:
+12/15/2015
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6a663ae4a303471ba99546327ba6a026&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-2.1.0 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-2.1.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-2.1.0/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 2.1.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+64
+Dateigröße:
+14.8 MB Posted By: panchenko.dm
+Ansichten:
+207
+Hinzugefügt am:
+12/15/2015
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2015/aspose-note-for-net-2-1-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=610d5d7bdf4e4f2bb70897f20933bb0a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-2.2.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-2.2.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-2.2.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 2.2.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+25
+Dateigröße:
+14.5 MB Posted By: panchenko.dm
+Ansichten:
+261
+Hinzugefügt am:
+3/25/2016
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2016/aspose-note-for-net-2-2-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=11c54311edd4459db870be130ec52480&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-2.2.0 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-2.2.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-2.2.0/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 2.2.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+17
+Dateigröße:
+15.2 MB Posted By: panchenko.dm
+Ansichten:
+384
+Hinzugefügt am:
+3/25/2016
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2016/aspose-note-for-net-2-2-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=687f7f50ff324923948e4ab068a8b089&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-2.3.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-2.3.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-2.3.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 2.3.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+13
+Dateigröße:
+14.5 MB Posted By: panchenko.dm
+Ansichten:
+211
+Hinzugefügt am:
+5/6/2016
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2016/aspose-note-for-net-2-3-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9fc38a1f4e414244b35257376a663c0a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-2.3.0 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-2.3.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-2.3.0/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 2.3.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+26
+Dateigröße:
+15.3 MB Posted By: panchenko.dm
+Ansichten:
+272
+Hinzugefügt am:
+5/6/2016
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2016/aspose-note-for-net-2-3-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2dc9c34b83ce476e960cbba62e98a2b1&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-2.4.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-2.4.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-2.4.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 2.4.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+28
+Dateigröße:
+14.6 MB Posted By: taras.kushnir
+Ansichten:
+170
+Hinzugefügt am:
+6/13/2016
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2016/aspose-note-for-net-2-4-0-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 2.4.0 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=445e4df329554146bf2297155f48ef0b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-2.4.0 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-2.4.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-2.4.0/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 2.4.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+29
+Dateigröße:
+15.4 MB Posted By: taras.kushnir
+Ansichten:
+304
+Hinzugefügt am:
+6/13/2016
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2016/aspose-note-for-net-2-4-0-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 2.4.0.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=688a369e5eef4b32aa87649f9e844e41&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-2.5.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-2.5.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-2.5.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 2.5.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+39
+Dateigröße:
+14.6 MB Posted By: taras.kushnir
+Ansichten:
+266
+Hinzugefügt am:
+8/19/2016
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2016/aspose-note-for-net-2-5-0-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 2.5.0 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=384c2a110e954224b9e1e0d4205c9b93&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-2.5.0 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-2.5.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-2.5.0/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 2.5.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+49
+Dateigröße:
+15.4 MB Posted By: taras.kushnir
+Ansichten:
+344
+Hinzugefügt am:
+8/19/2016
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2016/aspose-note-for-net-2-5-0-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 2.5.0.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a9a80bceff994fd19259e8e36c4940e3&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Versionen-aspose.note-for-.net-16.11.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-16.11.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-16.11.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 16.11.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+32
+Dateigröße:
+14.7 MB Posted By: taras.kushnir
+Ansichten:
+217
+Hinzugefügt am:
+11/11/2016
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2016/aspose-note-for-net-16-11-0-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 16.11.0 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ecdebc4fc82d4cc5891e5645d466018c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-16.11.0 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-16.11.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-16.11.0/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 16.11.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+29
+Dateigröße:
+15.5 MB Posted By: taras.kushnir
+Ansichten:
+311
+Hinzugefügt am:
+11/11/2016
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2016/aspose-note-for-net-16-11-0-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 16.11.0.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=002a51c8f2b54fe3b44f027724947664&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-16.12.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-16.12.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-16.12.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 16.12.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+23
+Dateigröße:
+14.7 MB Posted By: taras.kushnir
+Ansichten:
+200
+Hinzugefügt am:
+12/28/2016
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2016/aspose-note-for-net-16-12-0-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 16.12.0 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ab6f6910a0564d41bc9bf100165e9340&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-16.12.0 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-16.12.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-16.12.0/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 16.12.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+30
+Dateigröße:
+15.5 MB Posted By: taras.kushnir
+Ansichten:
+457
+Hinzugefügt am:
+12/28/2016
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2016/aspose-note-for-net-16-12-0-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 16.12.0.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e5d3aa97daf94bd1981800daa102d30f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-17.3.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-17.3.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-17.3.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 17.3.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+41
+Dateigröße:
+14.8 MB Posted By: taras.kushnir
+Ansichten:
+189
+Hinzugefügt am:
+4/1/2017
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2017/aspose-note-for-net-17-3-0-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 17.3.0 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=99a9439f90d2483bb568497d98756bd8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-17.3.0 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-17.3.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-17.3.0/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 17.3.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+47
+Dateigröße:
+15.5 MB Posted By: taras.kushnir
+Ansichten:
+296
+Hinzugefügt am:
+4/1/2017
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2017/aspose-note-for-net-17-3-0-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 17.3.0.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=828f2b2ba18247a1bd495e111f19bf4e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-17.8-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-17.8-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-17.8-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 17.8 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+38
+Dateigröße:
+14.7 MB Posted By: alexei.s
+Ansichten:
+136
+Hinzugefügt am:
+8/30/2017
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2017/aspose-note-for-net-17-8-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 17.8 (nur Dlls).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=34bca1275024409fbc41f5a3160c15b5&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-17.8 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-17.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-17.8/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 17.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+42
+Dateigröße:
+15.6 MB Posted By: alexei.s
+Ansichten:
+408
+Hinzugefügt am:
+8/30/2017
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2017/aspose-note-for-net-17-8-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 17.8.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=655ef54b104a4fd6a82f60d97b4572fb&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-17.11 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-17.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-17.11/</guid><description>&amp;nbsp;
+Aspose.Hinweis für .NET 17.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+26
+Dateigröße:
+15.6 MB Posted By: alexei.s
+Ansichten:
+153
+Hinzugefügt am:
+11/7/2017
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2017/aspose-note-for-net-17-11-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 17.11.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=617ba680a5b749329a2b065caf376888&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Versionen-aspose.note-for-.net-17.11-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-17.11-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-17.11-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 17.11 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+59
+Dateigröße:
+14.7 MB Posted By: alexei.s
+Ansichten:
+155
+Hinzugefügt am:
+11/7/2017
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2017/aspose-note-for-net-17-11-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 17.11 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d975bab80ede443c81f9f9306ba556f1&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-18.1 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-18.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-18.1/</guid><description>&amp;nbsp;
+Aspose.Hinweis für .NET 18.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+25
+Dateigröße:
+16.3 MB Posted By: alexei.s
+Ansichten:
+231
+Hinzugefügt am:
+1/17/2018
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2018/aspose-note-for-net-18-1-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 18.1.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7b0e7d4db83a404490199115ccd33395&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-18.1-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-18.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-18.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 18.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+32
+Dateigröße:
+15.4 MB Posted By: alexei.s
+Ansichten:
+121
+Hinzugefügt am:
+1/17/2018
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2018/aspose-note-for-net-18-1-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 18.1 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7cbb29aa1702431bb7ead3bc932727fd&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-18.3-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-18.3-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-18.3-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 18.3 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+23
+Dateigröße:
+15.4 MB Posted By: alexei.s
+Ansichten:
+113
+Hinzugefügt am:
+3/19/2018
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2018/aspose-note-for-net-18-3-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 18.3 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=02769d9301b84bfb994edbfaa15c2500&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-18.3 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-18.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-18.3/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 18.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+21
+Dateigröße:
+16.3 MB Posted By: alexei.s
+Ansichten:
+263
+Hinzugefügt am:
+3/19/2018
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2018/aspose-note-for-net-18-3-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 18.3.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ca01d0dac64d4a42b415770b4b0cac52&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-18.5 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-18.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-18.5/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 18.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+15.6 MB Posted By: alexei.s
+Ansichten:
+10
+Hinzugefügt am:
+6/29/2018
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2018/aspose-note-for-net-18-5-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 18.5.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=20f58c9ee2b64b5287868bb662dee856&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-18.5-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-18.5-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-18.5-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 18.5 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+14.8 MB Posted By: alexei.s
+Ansichten:
+8
+Hinzugefügt am:
+6/29/2018
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2018/aspose-note-for-net-18-5-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 18.5 (nur Dlls).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b07d88a3724043a7969716663526ecf6&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-18.7 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-18.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-18.7/</guid><description>&amp;nbsp;
+Aspose.Hinweis für .NET 18.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+31
+Dateigröße:
+15.6 MB Posted By: alexeiso
+Ansichten:
+141
+Hinzugefügt am:
+7/19/2018
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2018/aspose-note-for-net-18-7-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 18.7.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9e8674deea03496e8ad4c47887b132ac&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-18.7-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-18.7-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-18.7-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 18.7 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+31
+Dateigröße:
+14.8 MB Posted By: alexeiso
+Ansichten:
+34
+Hinzugefügt am:
+7/19/2018
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2018/aspose-note-for-net-18-7-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 18.7 (nur Dlls).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6c6691a6d45a4521b295d7f974e99acc&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-18.9 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-18.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-18.9/</guid><description>&amp;nbsp;
+Aspose.Hinweis für .NET 18.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+44
+Dateigröße:
+16.2 MB Posted By: alexeiso
+Ansichten:
+23
+Hinzugefügt am:
+9/18/2018
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2018/aspose-note-for-net-18-9-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 18.9.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2c799ce90eb843d492b0a0ec20e4d5a6&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-18.9-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-18.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-18.9-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 18.9 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+39
+Dateigröße:
+15.3 MB Posted By: alexeiso
+Ansichten:
+18
+Hinzugefügt am:
+9/18/2018
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2018/aspose-note-for-net-18-9-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 18.9 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5f2d7728cb0d44868ffcc5230c130a90&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-18.11 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-18.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-18.11/</guid><description>&amp;nbsp;
+Aspose.Hinweis für .NET 18.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+31
+Dateigröße:
+16.2 MB Posted By: alexeiso
+Ansichten:
+15
+Hinzugefügt am:
+11/22/2018
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2018/aspose-note-for-net-18-11-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 18.11.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=556ebf9e19e64dc2a0014ede63475887&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-18.11-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-18.11-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-18.11-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 18.11 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+59
+Dateigröße:
+15.3 MB Posted By: alexeiso
+Ansichten:
+26
+Hinzugefügt am:
+11/22/2018
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2018/aspose-note-for-net-18-11-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 18.11 (nur Dlls).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ac77dabd505744fc864ba0cb98278eda&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-19.1 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-19.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-19.1/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 19.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+27
+Dateigröße:
+14.7 MB Posted By: alexei.s
+Ansichten:
+162
+Hinzugefügt am:
+1/23/2019
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2019/aspose-note-for-net-19-1-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 19.1.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ed6bb4d48e434d90b7df8fcb0a74bacb&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-19.1-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-19.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-19.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 19.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+43
+Dateigröße:
+13.9 MB Posted By: alexei.s
+Ansichten:
+21
+Hinzugefügt am:
+1/23/2019
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2019/aspose-note-for-net-19-1-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 19.1 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3b06b7663a404b49a4097feb233831ec&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-19.3 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-19.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-19.3/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 19.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+17
+Dateigröße:
+15.1 MB Posted By: alexei.s
+Ansichten:
+99
+Hinzugefügt am:
+3/31/2019
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2019/aspose-note-for-net-19-3-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 19.3.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9c9816acc387455c8475d6023d12bac8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-19.3-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-19.3-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-19.3-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 19.3 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+19
+Dateigröße:
+14.2 MB Posted By: alexei.s
+Ansichten:
+18
+Hinzugefügt am:
+3/31/2019
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2019/aspose-note-for-net-19-3-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 19.3 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a1b69e88af4246f9a5d8b8bcdd955388&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-19.5 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-19.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-19.5/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 19.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+26
+Dateigröße:
+15.2 MB Posted By: alexei.s
+Ansichten:
+19
+Hinzugefügt am:
+5/15/2019
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2019/aspose-note-for-net-19-5-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 19.5.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a41f4c21b60e41599882b5c7c225ce6b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-19.5-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-19.5-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-19.5-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 19.5 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+27
+Dateigröße:
+17.7 MB Posted By: alexei.s
+Ansichten:
+150
+Hinzugefügt am:
+5/15/2019
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2019/aspose-note-for-net-19-5-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 19.5 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d5ebb7b7324149c2a93586d4f0a53489&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-19.7 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-19.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-19.7/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 19.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+20
+Dateigröße:
+18.6 MB Posted By: alexei.s
+Ansichten:
+245
+Hinzugefügt am:
+7/5/2019
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2019/aspose-note-for-net-19-7-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 19.7.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=458be6b86c154680819567374f227225&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-19.7-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-19.7-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-19.7-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 19.7 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+18
+Dateigröße:
+17.8 MB Posted By: alexei.s
+Ansichten:
+15
+Hinzugefügt am:
+7/5/2019
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2019/aspose-note-for-net-19-7-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 19.7 (nur Dlls).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2887ae724cdb49039a2d7e1ce230e413&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-19.9 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-19.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-19.9/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 19.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+25
+Dateigröße:
+18.6 MB Posted By: alexei.s
+Ansichten:
+225
+Hinzugefügt am:
+9/13/2019
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2019/aspose-note-for-net-19-9-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 19.9.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=490667d4ee85485b9601cf7e99b52fb8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-19.9-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-19.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-19.9-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 19.9 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+29
+Dateigröße:
+17.8 MB Posted By: alexei.s
+Ansichten:
+31
+Hinzugefügt am:
+9/13/2019
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2019/aspose-note-for-net-19-9-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 19.9 (nur Dlls).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c43f889cfaa34c70979747f3ae184012&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-19.11 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-19.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-19.11/</guid><description>&amp;nbsp;
+Aspose.Hinweis für .NET 19.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+14
+Dateigröße:
+18.9 MB Posted By: alexei.s
+Ansichten:
+206
+Hinzugefügt am:
+11/15/2019
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2019/aspose-note-for-net-19-11-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 19.11.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1e197f2e0804495db298cb834618d60d&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-19.11-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-19.11-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-19.11-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 19.11 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+27
+Dateigröße:
+18.1 MB Posted By: alexei.s
+Ansichten:
+111
+Hinzugefügt am:
+11/15/2019
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2019/aspose-note-for-net-19-11-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 19.11 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cf64ccc96ed04bc2ba6c674fcc3466ec&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-20.1 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-20.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-20.1/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 20.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+18.9 MB Posted By: alexei.s
+Ansichten:
+162
+Hinzugefügt am:
+1/21/2020
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2020/aspose-note-for-net-20-1-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 20.1.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6c52c515445b44a58bea981ac36e7c5c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-20.1-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-20.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-20.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 20.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+17
+Dateigröße:
+18.0 MB Posted By: alexei.s
+Ansichten:
+97
+Hinzugefügt am:
+1/21/2020
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2020/aspose-note-for-net-20-1-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 20.1 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8a7cc1f07d564503bd7097ef6d6dd85b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases--aspose.note-for-.net-20.3 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/-aspose.note-for-.net-20.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/-aspose.note-for-.net-20.3/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 20.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+18.9 MB Posted By: alexei.s
+Ansichten:
+58
+Hinzugefügt am:
+3/18/2020
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2020/aspose-note-for-net-20-3-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 20.3.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=57b0d6553de4409e8d3f323cd3879ae9&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-20.3-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-20.3-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-20.3-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 20.3 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+18.0 MB Posted By: alexei.s
+Ansichten:
+45
+Hinzugefügt am:
+3/18/2020
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2020/aspose-note-for-net-20-3-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 20.3 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a6415fe614c84138a19d1bf3c704d02b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases--aspose.note-for-.net-20.5 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/-aspose.note-for-.net-20.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/-aspose.note-for-.net-20.5/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 20.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+16
+Dateigröße:
+18.9 MB Posted By: alexei.s
+Ansichten:
+56
+Hinzugefügt am:
+5/7/2020
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2020/aspose-note-for-net-20-5-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 20.5.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cb99adb4237d47dda56cec4bc3d9d9c4&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-20.5-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-20.5-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-20.5-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 20.5 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+30
+Dateigröße:
+18.1 MB Posted By: alexei.s
+Ansichten:
+156
+Hinzugefügt am:
+5/7/2020
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2020/aspose-note-for-net-20-5-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 20.5 (nur Dlls).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4170105df09940cb9be2c20ce975a759&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-20.7-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-20.7-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-20.7-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 20.7 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+14
+Dateigröße:
+18.1 MB Posted By: alexei.s
+Ansichten:
+54
+Hinzugefügt am:
+7/17/2020
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2020/aspose-note-for-net-20-7-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 20.7 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=759cd6c5b1b7405dab80caf202fd9ddb&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-20.7 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-20.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-20.7/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 20.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+13
+Dateigröße:
+19.0 MB Posted By: alexei.s
+Ansichten:
+203
+Hinzugefügt am:
+7/17/2020
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2020/aspose-note-for-net-20-7-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 20.7.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=34e34398557f418da7437849adbd8a9e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-20.9-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-20.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-20.9-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 20.9 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+18.1 MB Posted By: alexei.s
+Ansichten:
+43
+Hinzugefügt am:
+9/14/2020
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2020/aspose-note-for-net-20-9-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 20.9 (nur Dlls).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=baef6184f24a47a1bdde29e29cae6b0e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases--aspose.note-for-.net-20.9 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/-aspose.note-for-.net-20.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/-aspose.note-for-.net-20.9/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 20.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+19.0 MB Posted By: alexei.s
+Ansichten:
+48
+Hinzugefügt am:
+9/14/2020
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2020/aspose-note-for-net-20-9-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 20.9.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4f638669ad854ad9aa2c66b1b38ecbec&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-20.11-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-20.11-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-20.11-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 20.11 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+18.3 MB Posted By: alexei.s
+Ansichten:
+70
+Hinzugefügt am:
+11/11/2020
+Versionshinweise https://docs.aspose.com/note/net/aspose-note-for-net-20-11-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 20.11 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e2f668b9c33e47a290707ae70260adc0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases--aspose.note-for-.net-20.11 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/-aspose.note-for-.net-20.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/-aspose.note-for-.net-20.11/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 20.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+19.0 MB Posted By: alexei.s
+Ansichten:
+135
+Hinzugefügt am:
+11/11/2020
+Versionshinweise https://docs.aspose.com/note/net/aspose-note-for-net-20-11-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 20.11.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6c778304c3964edd90ffd7154ba3dc88&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-21.1-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-21.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-21.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 21.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+19
+Dateigröße:
+11.7 MB Posted By: alexei.s
+Ansichten:
+48
+Hinzugefügt am:
+1/15/2021
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2021/aspose-note-for-net-21-1-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 21.1 (nur Dlls).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9b29fe492fea480aba7e8f9c180d1611&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-21.1 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-21.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-21.1/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 21.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+12.4 MB Posted By: alexei.s
+Ansichten:
+132
+Hinzugefügt am:
+1/15/2021
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2021/aspose-note-for-net-21-1-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 21.1.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4ac01c6c0bcf466c93068afe1dfb9a63&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-21.3-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-21.3-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-21.3-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 21.3 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+14
+Dateigröße:
+12.7 MB Posted By: alexei.s
+Ansichten:
+73
+Hinzugefügt am:
+3/17/2021
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2021/aspose-note-for-net-21-3-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 21.3 (nur Dlls).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=284a261752174c55b1e7eabfb3e8f1b3&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-21.3 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-21.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-21.3/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 21.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+13.4 MB Posted By: alexei.s
+Ansichten:
+159
+Hinzugefügt am:
+3/17/2021
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2021/aspose-note-for-net-21-3-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 21.3.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1c834d68ea54404d8faefca7c1d327ac&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-21.5-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-21.5-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-21.5-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 21.5 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+16
+Dateigröße:
+12.7 MB Posted By: alexei.s
+Ansichten:
+68
+Hinzugefügt am:
+5/14/2021
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2021/aspose-note-for-net-21-5-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 21.5 (nur Dlls).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e3b35264290b45ce9ed68dd9315ece0c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-21.5 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-21.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-21.5/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 21.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+15
+Dateigröße:
+13.4 MB Posted By: alexei.s
+Ansichten:
+216
+Hinzugefügt am:
+5/14/2021
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2021/aspose-note-for-net-21-5-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 21.5.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d75bee5957754bf3b300a2fe95185bd3&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-21.7-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-21.7-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-21.7-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 21.7 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+19
+Dateigröße:
+12.7 MB Posted By: alexei.s
+Ansichten:
+54
+Hinzugefügt am:
+7/19/2021
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2021/aspose-note-for-net-21-7-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 21.7 (nur Dlls).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d6cfa1e4fe404e579ef95bb581ebfe86&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-21.7 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-21.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-21.7/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 21.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+13.4 MB Posted By: alexei.s
+Ansichten:
+148
+Hinzugefügt am:
+7/19/2021
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2021/aspose-note-for-net-21-7-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 21.7.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4c50139f963f4a19b6d81c7fe9e57a00&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-21.9-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-21.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-21.9-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 21.9 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+12.9 MB Posted By: alexei.s
+Ansichten:
+43
+Hinzugefügt am:
+9/22/2021
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2021/aspose-note-for-net-21-9-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 21.9 (nur Dlls).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5b30168426ab472f8dd7fe44934bcd1d&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-21.9 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-21.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-21.9/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 21.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+13.6 MB Posted By: alexei.s
+Ansichten:
+106
+Hinzugefügt am:
+9/22/2021
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2021/aspose-note-for-net-21-9-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 21.9.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a512f65ff8a24978bb4c4e65c1d4abfd&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.note-for-.net-21.11-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-21.11-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-21.11-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 21.11 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+13.0 MB Posted By: alexei.s
+Ansichten:
+30
+Hinzugefügt am:
+11/18/2021
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2021/aspose-note-for-net-21-11-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 21.11 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=37987b282ff64d41bf0d352b6d20d59b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-21.11 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-21.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-21.11/</guid><description>&amp;nbsp;
+Aspose.Hinweis für .NET 21.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+13.7 MB Posted By: alexei.s
+Ansichten:
+80
+Hinzugefügt am:
+11/18/2021
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2021/aspose-note-for-net-21-11-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 21.11.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c32e8b6846384dac8ae48341cc034ce3&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-22.1-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-22.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-22.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 22.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+13.0 MB Posted By: alexei.s
+Ansichten:
+26
+Hinzugefügt am:
+1/23/2022
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-1-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 22.1 (nur Dlls).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=60a365e125974812ab655145c2f625e8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-22.1 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-22.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-22.1/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 22.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+13.7 MB Posted By: alexei.s
+Ansichten:
+34
+Hinzugefügt am:
+1/23/2022
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-1-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 22.1.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=22ac41f1a603464baebf4913e5abee7a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-22.3-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-22.3-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-22.3-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 22.3 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+Dateigröße:
+13.4 MB Posted By: alexei.s
+Ansichten:
+5
+Hinzugefügt am:
+: 4 days ago [4/7/2022]
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-3-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 22.3 (nur Dlls).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b1afaf8fb46f4c718642e84e195a31fb&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---Neue-Releases-aspose.note-for-.net-22.3 .</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-22.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-22.3/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 22.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+14.1 MB Posted By: alexei.s
+Ansichten:
+17
+Hinzugefügt am:
+: 4 days ago [4/7/2022]
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-3-release-notes/ BeschreibungEs enthält Aspose.Note für die Version .NET 22.3.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2d7bbdf1a6fa40a3bfe1f76850f82ae8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---Neue Versionen-aspose.note-for-.net-22.7</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-22.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-22.7/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 22.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+118.11MB
+Hinzugefügt am:
+15/7/2022
+Versionshinweise https://docs.aspose.com/note/net/aspose-note-for-net-22-7-release-notes
+BeschreibungEs enthält Aspose.Note für die Version .NET 22.7.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7f452360539cbd45f8423fa69a869bf1-24-7645&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.note-for-.net-22.7-(nur dlls)</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-22.7-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-22.7-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 22.7 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+117.25MB
+Hinzugefügt am:
+15/7/2022
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-7-release-notes/
+BeschreibungEs enthält Aspose.Note für die Version .NET 22.7 (nur Dlls).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e31b2d6f76614430741b7c06b312f0f5-24-7646&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---Neue Releases-aspose.note-for-.net-22.9-(nur dlls)</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-22.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-22.9-dlls-only/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 22.9 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+117.56MB
+Hinzugefügt am:
+21/9/2022
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-9-release-notes/
+BeschreibungEs enthält Aspose.Note für die Version .NET 22.9 (nur Dlls).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9fbc3c770cc016c11051b2ebf9370f9e-24-7913&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---Neue Versionen-aspose.note-for-.net-22.9</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-22.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-22.9/</guid><description>&amp;nbsp;
+Aspose.Note für .NET 22.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+118.41MB
+Hinzugefügt am:
+21/9/2022
+Versionshinweise https://releases.aspose.com/note/net/release-notes/2022/aspose-note-for-net-22-9-release-notes/
+BeschreibungEs enthält Aspose.Note für die Version .NET 22.9.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c1acada5def2fb3565b6fb14f7e3b4c4-24-7914&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.NOTE-FOR-.NET-23.2- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.2-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.2-dlls-only/</guid><description>&amp;nbsp;
+ASSON.Note für .NET 23.2 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+117.65MB
+Datum hinzugefügt:
+2/3/2023
+Versionshinweisehttps://releases.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-2-release-notes/
+BeschreibungEs enthält asspose.Note für .NET 23.2 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1804ec57f8619b84958ba3bcc26e21c7-24-8607&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.NOTE-FOR-.NET-23.2</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.2/</guid><description>&amp;nbsp;
+ASSON.NOTE FÜR .NET 23.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+118.5MB
+Datum hinzugefügt:
+2/3/2023
+Versionshinweisehttps://releases.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-2-release-notes/
+BeschreibungEs enthält asspose.note für .NET 23.2 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ddc9ff27a8717a133dc0514995abc903-24-8608&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.NOTE-FOR-.NET-23.3- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.3-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.3-dlls-only/</guid><description>&amp;nbsp;
+ASSON.Note für .NET 23.3 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+117.62MB
+Datum hinzugefügt:
+27/3/2023
+Versionshinweisehttps://releases.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-3-release-notes/
+BeschreibungEs enthält asspose.Note für .NET 23.3 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=41fa7d404322326a8a3f53a61d06cd3d-24-8689&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Note-for -.net-23.3</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.3/</guid><description>&amp;nbsp;
+ASSON.NOTE FÜR .NET 23.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+118.46MB
+Datum hinzugefügt:
+27/3/2023
+Versionshinweisehttps://releases.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-3-release-notes/
+BeschreibungEs enthält asspose.Note für .NET 23.3 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b43a21a3092e0cfbb3e4269b947eb372-24-8690&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.NOTE-FOR-.NET-23.5- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.5-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.5-dlls-only/</guid><description>&amp;nbsp;
+ASSON.Note für .NET 23.5 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+117.62MB
+Datum hinzugefügt:
+22/5/2023
+Versionshinweisehttps://releases.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-5-release-notes/
+BeschreibungEs enthält asspose.Note für .NET 23.5 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7aeac2e8cfcb13e724bf8fb131fca261-24-8877&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Note-for -.net-23.5</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.5/</guid><description>&amp;nbsp;
+ASSON.Note für .net 23.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+118.47MB
+Datum hinzugefügt:
+22/5/2023
+Versionshinweisehttps://releases.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-5-release-notes/
+BeschreibungEs enthält asspose.Note für .NET 23.5 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cbbacbaa9baa87143b6ef35ac4ad9f3a-24-8878&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.NOTE-FOR-.NET-23.6- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.6-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.6-dlls-only/</guid><description>&amp;nbsp;
+ASSON.Note für .NET 23.6 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+117.62MB
+Datum hinzugefügt:
+27/6/2023
+Versionshinweisehttps://releases.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-6-release-notes/
+BeschreibungEs enthält asspose.Note für .NET 23.6 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=17f8eb54436aea6e42b366383ea1229c-24-9139&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Note-for -.net-23.6</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.6/</guid><description>&amp;nbsp;
+ASSON.Note für .net 23.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+118.47MB
+Datum hinzugefügt:
+27/6/2023
+Versionshinweisehttps://releases.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-6-release-notes/
+BeschreibungEs enthält asspose.Note für .NET 23.6 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8329f404ce78b6ec7f605e1b7c70589e-24-9140&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.NOTE-FOR-.NET-23.7- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.7-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.7-dlls-only/</guid><description>&amp;nbsp;
+ASSON.Note für .NET 23.7 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+117.62MB
+Datum hinzugefügt:
+25/7/2023
+Versionshinweisehttps://releases.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-7-release-notes/
+BeschreibungEs enthält asspose.Note für .NET 23.7 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=015e581171d8b3da6a0ebf4ff01a7afd-24-9262&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Note-for -.net-23.7</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.7/</guid><description>&amp;nbsp;
+ASSON.Note für .net 23.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+118.46MB
+Datum hinzugefügt:
+25/7/2023
+Versionshinweisehttps://releases.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-7-release-notes/
+BeschreibungEs enthält asspose.note für .NET 23.7 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=569a1fa83fa02cee5d09fd2226017f8e-24-9263&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.NOTE-FOR-.NET-23.8- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.8-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.8-dlls-only/</guid><description>&amp;nbsp;
+ASSON.Note für .NET 23.8 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+117.92MB
+Datum hinzugefügt:
+23/8/2023
+Versionshinweisehttps://releases.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-8-release-notes/
+BeschreibungEs enthält asspose.Note für .NET 23.8 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fe7a790ee79cdeae113a7b7c457ea2bf-24-9378&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Note-for -.net-23.8</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.8/</guid><description>&amp;nbsp;
+ASSON.Note für .net 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+118.77MB
+Datum hinzugefügt:
+23/8/2023
+Versionshinweisehttps://releases.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-8-release-notes/
+BeschreibungEs enthält asspose.note für .NET 23.8 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=984a94e2fc55fa0684ce68672071f950-24-9379&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.NOTE-FOR-.NET-23.9- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.9-dlls-only/</guid><description>&amp;nbsp;
+ASSON.Note für .NET 23.9 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+118.05MB
+Datum hinzugefügt:
+27/9/2023
+Versionshinweisehttps://releases.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-9-release-notes/
+BeschreibungEs enthält asspose.Note für .NET 23.9 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=93915fb4f76769e988d8d78f8c32be8c-24-9538&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Note-for -.net-23.9</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.9/</guid><description>&amp;nbsp;
+ASSON.Note für .net 23.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+118.9MB
+Datum hinzugefügt:
+27/9/2023
+Versionshinweisehttps://releases.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-9-release-notes/
+BeschreibungEs enthält asspose.Note für .NET 23.9 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0ef54185de0c506a1217275fca94d56d-24-9539&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.NOTE-FOR-.NET-23.10- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.10-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.10-dlls-only/</guid><description>&amp;nbsp;
+ASSON.Note für .NET 23.10 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+118.05MB
+Datum hinzugefügt:
+17/10/2023
+Versionshinweisehttps://releases.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-10-release-notes/
+BeschreibungEs enthält asspose.Note für .NET 23.10 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ae2fec5c0b2aac53a94d4d02012f9327-24-9620&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Note-for -.net-23.10</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.10/</guid><description>&amp;nbsp;
+ASSON.NOTE FÜR .NET 23.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+118.9MB
+Datum hinzugefügt:
+17/10/2023
+Versionshinweisehttps://releases.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-10-release-notes/
+BeschreibungEs enthält asspose.note für .NET 23.10 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=aabb0ef62cf192c1ee83a59fa1e3ac9e-24-9621&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.NOTE-FOR-.NET-23.11- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.11-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.11-dlls-only/</guid><description>&amp;nbsp;
+ASSON.Note für .NET 23.11 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+118.1MB
+Datum hinzugefügt:
+23/11/2023
+Versionshinweisehttps://releases.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-11-release-notes/
+BeschreibungEs enthält asspose.Note für .NET 23.11 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ec1bddf007a66e76b3a79bc7da1ef0a2-24-9863&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.NOTE-FOR-.NET-23.11</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.11/</guid><description>&amp;nbsp;
+ASSON.NOTE FÜR .NET 23.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+118.95MB
+Datum hinzugefügt:
+23/11/2023
+Versionshinweisehttps://releases.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-11-release-notes/
+BeschreibungEs enthält asspose.note für .NET 23.11 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cf577a4f7a38569b2be38a05a70d7845-24-9864&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.NOTE-FOR-.NET-23.12- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.12-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.12-dlls-only/</guid><description>&amp;nbsp;
+ASSON.Note für .NET 23.12 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+118.1MB
+Datum hinzugefügt:
+22/12/2023
+Versionshinweisehttps://releases.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-12-release-notes/
+BeschreibungEs enthält asspose.note für .NET 23.12 (nur DLLs).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d0bebc8ab9b5ae3604aeaa3c0cd62c59-24-10039&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.NOTE-FOR-.NET-23.12</title><link>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/net/new-releases/aspose.note-for-.net-23.12/</guid><description>&amp;nbsp;
+ASSON.NOTE FÜR .NET 23.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+118.95MB
+Datum hinzugefügt:
+22/12/2023
+Versionshinweisehttps://releases.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-12-release-notes/
+BeschreibungEs enthält asspose.note für .NET 23.12 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1b73413d3f53b77c083ec7d92bca35f6-24-10040&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

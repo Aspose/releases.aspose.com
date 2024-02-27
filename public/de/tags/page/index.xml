@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>page on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/tags/page/</link><description>Recent content in page on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Tue, 13 Dec 2022 06:09:16 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/de/tags/page/index.xml" rel="self" type="application/rss+xml"/><item><title>ASSON.DIAGRAM | Java -Bibliothek zum Erstellen, Exportieren von Visio -Dokumenten</title><link>https://releases-qa.aspose.com/de/diagram/java/</link><pubDate>Tue, 13 Dec 2022 06:09:16 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/java/</guid><description>Java API für Microsoft Visio &amp;amp; Reg; Dateiformate
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Diagram for Java API ist eine Lösung für Microsoft Visio -Dateimanipulationsanforderungen. Die Java-Anwendungen können Microsoft-Visio-Diagramme lesen, schreiben, exportieren und verarbeiten, während alle Visio-Objekte und Eigenschaften einschließlich Formen, Seiten, Bilder, Formmeister, Schablonen, Text, Schichten, Header, Fußzeilen, benutzerdefinierten Zellen, Hyperlinks, Hyperlinks, Layer, Header, Fußzeilen, Hyperlinks, unterstützt werden, die Unterstützung Dateischutz, Geometrien, Textfelder und Kommentare.</description></item><item><title>ASSONE.PAGE | Java -Klassenbibliothek für die PostScript -Verarbeitung</title><link>https://releases-qa.aspose.com/de/page/java/</link><pubDate>Thu, 24 Nov 2022 03:07:50 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/java/</guid><description>Java -APIs für PS-, EPS- und XPS -Dateiformate
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Page for Java bietet XPS -Dokumente an. Es bietet auch Funktionen zum Umwandeln von XPS-, PS- und EPS -Dokumenten in Bildformate und PDF.
+Manipulieren Sie XPS -Dokumente über Java XPS -Dokument erstellen und bearbeiten. Seiten des XPS -Dokuments hinzufügen oder entfernen.</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PAGE-FOR-PYTHON-VIA-NIA-24.1.0-Windows-Amd64</title><link>https://releases-qa.aspose.com/de/page/python-net/new-releases/aspose.page-for-python-via-.net-24.1.0-windows-amd64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/python-net/new-releases/aspose.page-for-python-via-.net-24.1.0-windows-amd64/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR PYTHON über .NET 24.1.0 Windows AMD64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+45.29MB
+Datum hinzugefügt:
+1/2/2024
+Versionshinweisehttps://releases.aspose.com/page/python-net/release-notes/2024/aspose-page-for-python-via-.net-24-1-release-notes/
+BeschreibungDieses Rad enthält ASSOSE.PAGE Version 24.1.0, kompatibel mit Python 3 und optimiert für Windows 64-Bit-Systeme (AMD64).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=51ba5178bce4ac828c5753ac735e7475-10-10272&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.8-LINUX</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.8-linux/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.8 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+69.33MB
+Datum hinzugefügt:
+29/8/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-8-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.8 Linux Native Library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6c7a5e211638cc1e1e25f18a33c19653-14-9393&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23,8-MACOS</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.8-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.8-macos/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR C &amp;#43;&amp;#43; 23.8 MACOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+108.45MB
+Datum hinzugefügt:
+29/8/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-8-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.8 MACOS Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ec620b1d9753a1b3011849301ec7872e-22-9396&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23,9-LINUX</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.9-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.9-linux/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.9 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+69.54MB
+Datum hinzugefügt:
+20/9/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-9-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.9 Linux Native Library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3615e7eafd5f8c44bc9375b2f4cda7b7-14-9498&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23,9-MACOS</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.9-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.9-macos/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.9 MACOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+108.94MB
+Datum hinzugefügt:
+20/9/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-9-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.9 MACOS Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=393b9e33c4b46ac7406b94022ac0e98d-22-9499&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.9</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.9/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+187.12MB
+Datum hinzugefügt:
+20/9/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-9-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.9 Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b48d9aaeb55aaecab32486197596beec-38-9500&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.10-LINUX</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.10-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.10-linux/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR C &amp;#43;&amp;#43; 23.10 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+69.61MB
+Datum hinzugefügt:
+19/10/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-10-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.10 Linux
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e861dcec1850fe29920968d62df49e9f-14-9638&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPEN.</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.10-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.10-macos/</guid><description>&amp;nbsp;
+ASSON.Seite für C &amp;#43;&amp;#43; 23.10 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+109.02MB
+Datum hinzugefügt:
+19/10/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-10-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.10 MACOS Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=03dac9696baf91ff9e0da6ffc988f553-22-9639&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PAGE-FOR-C ++-23.10</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.10/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+187.63MB
+Datum hinzugefügt:
+19/10/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-10-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.10 Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f3d2e58976b9952070fb2e5dd151d51e-38-9640&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.11-LINUX</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.11-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.11-linux/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.11 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+69.65MB
+Datum hinzugefügt:
+30/11/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-11-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.11 LINUX Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=53261f0c2b55621ab17b277d81c94e96-14-9900&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.11-MACOS</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.11-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.11-macos/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR C &amp;#43;&amp;#43; 23.11 MACOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+109.12MB
+Datum hinzugefügt:
+30/11/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-11-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.11 MACOS Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d108d66c370996b022c8b3f3ff569470-22-9901&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.11</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.11/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+187.81MB
+Datum hinzugefügt:
+30/11/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-11-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.11 Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=86cd48f7e107d0b79864dd27f9cf2314-38-9902&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.12-LINUX</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.12-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.12-linux/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.12 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+72MB
+Datum hinzugefügt:
+26/12/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-12-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 23.12 LINUX Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6f8706cfc8b07562cc6e7cd6fa8b334d-15-10058&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.12-MACOS</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.12-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.12-macos/</guid><description>&amp;nbsp;
+ASSON.Seite für C &amp;#43;&amp;#43; 23.12 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+113.83MB
+Datum hinzugefügt:
+26/12/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-12-release-notes/
+BeschreibungASSON.Seite für C ++ 23.12 macOS
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8c50de6e4eb8fa726f91064700739154-23-10059&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-23.12</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-23.12/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 23.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+197.25MB
+Datum hinzugefügt:
+26/12/2023
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2023/aspose-page-for-cpp-23-12-release-notes/
+BeschreibungASSOSPE.PAGE FÜR C ++ 23.12
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=056ec0927807c8a1b20f2f4743c70a85-40-10060&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PAGE-FOR-N.NET-23.9- (DLLS-and-DOCS)</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.9-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.9-dlls-and-docs/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR .NET 23.9 (DLLS und DOCS)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+15.27MB
+Datum hinzugefügt:
+18/9/2023
+Versionshinweisehttps://docs.aspose.com/page/net/aspose-page-for-net-23-9-release-notes/
+BeschreibungWir freuen uns, eine neue Version von ASSONE.SPAGE für .NET bekannt zu geben.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d96de82773a50db11d5f272f4b180d0f-4-9482&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-24.1-LINUX</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-24.1-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-24.1-linux/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 24.1 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+72.02MB
+Datum hinzugefügt:
+24/1/2024
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2024/aspose-page-for-cpp-24-1-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 24.1 LINUX Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=809f94e60d9f2c5596c382c34f3fb206-15-10201&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-24.1-MACOS</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-24.1-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-24.1-macos/</guid><description>&amp;nbsp;
+ASSON.Seite für C &amp;#43;&amp;#43; 24.1 macOS
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+113.86MB
+Datum hinzugefügt:
+24/1/2024
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2024/aspose-page-for-cpp-24-1-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 24.1 MACOS Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b2b475ca588791d26e6a94783205428d-23-10202&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PAGE-FOR-N.NET-23.10- (DLLS-and-DOCS)</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.10-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.10-dlls-and-docs/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR .NET 23.10 (DLLS und DOCS)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+15.28MB
+Datum hinzugefügt:
+12/10/2023
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-10-release-notes/
+BeschreibungWir freuen uns, eine neue Version von ASSONE.SPAGE für .NET bekannt zu geben.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b409b6d8c8b926a824f88bd0d1c211a0-4-9592&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-C ++-24.1</title><link>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/cpp/new-releases/aspose.page-for-c++-24.1/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR C &amp;#43;&amp;#43; 24.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+197.3MB
+Datum hinzugefügt:
+24/1/2024
+Versionshinweisehttps://releases.aspose.com/page/cpp/release-notes/2024/aspose-page-for-cpp-24-1-release-notes/
+BeschreibungASSOSE.PAGE FÜR C ++ 24.1 Native Bibliothek
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8ebb40c19530e21cac743579d69848e4-40-10203&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-N.NET-23.10</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.10/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR .NET 23.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+15.56MB
+Datum hinzugefügt:
+12/10/2023
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-10-release-notes/
+BeschreibungEs enthält asspose.page für .NET 23.10 Release Windows Installer.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e7f93d5d7172533f6b972b626287458c-4-9593&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPEN.</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.11-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.11-dlls-and-docs/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR .NET 23.11 (DLLS und DOCS)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+15.31MB
+Datum hinzugefügt:
+29/11/2023
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-11-release-notes/
+BeschreibungWir freuen uns, eine neue Version von ASSONE.SPAGE für .NET bekannt zu geben.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8ede6f48d63ce53860bf1984d7cfaacf-4-9881&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-N.NET-23.11</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.11/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR .NET 23.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+15.58MB
+Datum hinzugefügt:
+29/11/2023
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-1-release-notes/
+BeschreibungEs enthält asspose.page für .NET 23.11 Release Windows Installer.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=068e2d1dbd90d3519b4b5eed4a7fe116-4-9882&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPEN.</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.12-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.12-dlls-and-docs/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR .NET 23.12 (DLLS und DOCS)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+17.47MB
+Datum hinzugefügt:
+23/12/2023
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-12-release-notes/
+BeschreibungWir freuen uns, eine neue Version von ASSONE.SPAGE für .NET bekannt zu geben.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9101149fe30a7e01d5a00c4405bfd275-4-10043&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PAGE-FOR-N.NET-23.12</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-23.12/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR .NET 23.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+17.75MB
+Datum hinzugefügt:
+23/12/2023
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2023/aspose-page-for-net-23-12-release-notes/
+BeschreibungEs enthält asspose.page für .NET 23.12 Release Windows Installer.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d54d2ddeda4f937657af108389e71570-4-10044&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-N.NET-24.1- (DLLS-and-DOCS)</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-24.1-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-24.1-dlls-and-docs/</guid><description>&amp;nbsp;
+ASSOSE.PAGE FÜR .NET 24.1 (DLLS und DOCS)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+23.98MB
+Datum hinzugefügt:
+24/1/2024
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2024/aspose-page-for-net-24-1-release-notes/
+BeschreibungWir freuen uns, eine neue Version von ASSONE.SPAGE für .NET bekannt zu geben.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=04ad28590db42c9dcca06e9b6cd63a94-5-10191&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PAGE-FOR-N.NE-24.1</title><link>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/net/new-releases/aspose.page-for-.net-24.1/</guid><description>&amp;nbsp;
+ASSOSPE.PAGE FÜR .NET 24.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+24.26MB
+Datum hinzugefügt:
+24/1/2024
+Versionshinweisehttps://releases.aspose.com/page/net/release-notes/2024/aspose-page-for-net-24-1-release-notes/
+BeschreibungEs enthält asspose.page für .NET 24.1 Release Windows Installer.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bb74a7e72c4e2d8a5f4218bcf49460bd-5-10192&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>ASSON.DIAGRAM 22.12 | Visio Diagramm Java High Code API</title><link>https://releases-qa.aspose.com/de/diagram/java/22-12/</link><pubDate>Tue, 13 Dec 2022 06:09:16 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/java/22-12/</guid><description>Java API für Microsoft Visio &amp;amp; Reg; Dateiformate
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Diagram for Java API ist eine Lösung für Microsoft Visio -Dateimanipulationsanforderungen. Die Java-Anwendungen können Microsoft-Visio-Diagramme lesen, schreiben, exportieren und verarbeiten, während alle Visio-Objekte und Eigenschaften einschließlich Formen, Seiten, Bilder, Formmeister, Schablonen, Text, Schichten, Header, Fußzeilen, benutzerdefinierten Zellen, Hyperlinks, Hyperlinks, Layer, Header, Fußzeilen, Hyperlinks, unterstützt werden, die Unterstützung Dateischutz, Geometrien, Textfelder und Kommentare.</description></item><item><title>ASSOSE.PAGE 22.11 | EPS-, PS- und XPS -Formatkonvertierung Java -API</title><link>https://releases-qa.aspose.com/de/page/java/22-11/</link><pubDate>Thu, 24 Nov 2022 03:07:50 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/java/22-11/</guid><description>Java -APIs für PS-, EPS- und XPS -Dateiformate
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Page for Java Angebote zum Erstellen und Manipulieren von XPS -Dokumenten. Es bietet auch Funktionen zum Umwandeln von XPS-, PS- und EPS -Dokumenten in Bildformate und PDF.
+Manipulieren Sie XPS -Dokumente über Java XPS -Dokument erstellen und bearbeiten. Seiten des XPS -Dokuments hinzufügen oder entfernen.</description></item></channel></rss>

@@ -1,0 +1,1250 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Liefern Sie Berichte in PDF &amp; XPS | Aspose.PDF für Reporting Services on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/</link><description>Recent content in Liefern Sie Berichte in PDF &amp; XPS | Aspose.PDF für Reporting Services on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/pdf/reportingservices/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-1.0.0.0-new-release-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.0.0.0-new-release-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.0.0.0-new-release-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 1.0.0.0 Neue Version (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+103
+Dateigröße:
+2.5 MB Posted By: für immer
+Ansichten:
+872
+Hinzugefügt am:
+11/18/2007
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7ab57e4b785749c3995c0f80637139f3&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-1.0.0.0-new-release .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.0.0.0-new-release/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.0.0.0-new-release/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 1.0.0.0 Neue Version
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+116
+Dateigröße:
+2.9 MB Posted By: für immer
+Ansichten:
+694
+Hinzugefügt am:
+11/18/2007
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4f76672c055e48948c6c164aec63bcec&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-1.1.0.0 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.1.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.1.0.0/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 1.1.0.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+70
+Dateigröße:
+3.1 MB Posted By: für immer
+Ansichten:
+808
+Hinzugefügt am:
+1/25/2008
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b442f18fd3364ec8beabdea0225ba89b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-1.1.0.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.1.0.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.1.0.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 1.1.0.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+57
+Dateigröße:
+2.7 MB Posted By: für immer
+Ansichten:
+671
+Hinzugefügt am:
+1/25/2008
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=058a2b9a5dbf4460b6d271d04c436a4e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases--aspose.pdf-for-reporting-services-1.2.0.0 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/-aspose.pdf-for-reporting-services-1.2.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/-aspose.pdf-for-reporting-services-1.2.0.0/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 1.2.0.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+61
+Dateigröße:
+3.6 MB Posted By: für immer
+Ansichten:
+681
+Hinzugefügt am:
+3/19/2008
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=83c65b0b517c4b67a5be7c5554df11c0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-1.2.0.0 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.2.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.2.0.0/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 1.2.0.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+27
+Dateigröße:
+3.2 MB Posted By: für immer
+Ansichten:
+638
+Hinzugefügt am:
+3/19/2008
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ebc6c9da454b4bddbefba2c575697f12&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-1.3.0.0 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.3.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.3.0.0/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 1.3.0.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+122
+Dateigröße:
+3.7 MB Posted By: für immer
+Ansichten:
+1284
+Hinzugefügt am:
+6/14/2008
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f5dc66c76532483eac89e3310043cafa&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-1.3.0.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.3.0.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.3.0.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 1.3.0.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+99
+Dateigröße:
+3.3 MB Posted By: für immer
+Ansichten:
+808
+Hinzugefügt am:
+9/12/2008
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b868b04ad49d49e6ab23d27f297c33ff&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-1.4.0.0 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.4.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.4.0.0/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 1.4.0.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+64
+Dateigröße:
+3.7 MB Posted By: für immer
+Ansichten:
+1129
+Hinzugefügt am:
+10/26/2008
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=51b24af0bef64d96b3bb4c24023bd910&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-1.4.0.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.4.0.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.4.0.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 1.4.0.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+50
+Dateigröße:
+3.2 MB Posted By: für immer
+Ansichten:
+1014
+Hinzugefügt am:
+10/26/2008
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=08c50622f09f4e53ae7fbf724c915ae7&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-1.5.0.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.5.0.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.5.0.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 1.5.0.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+27
+Dateigröße:
+10.8 MB Posted By: für immer
+Ansichten:
+427
+Hinzugefügt am:
+7/27/2009
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=aa772ea8a04046a6a4477e993e1a2af1&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-1.5.0.0 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.5.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.5.0.0/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 1.5.0.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+60
+Dateigröße:
+12.2 MB Posted By: für immer
+Ansichten:
+762
+Hinzugefügt am:
+7/27/2009
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a4fdf1f053f64b8ea2fb2bb174c647c6&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-1.6.0.0 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.6.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.6.0.0/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 1.6.0.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+95
+Dateigröße:
+12.2 MB Posted By: codewarior
+Ansichten:
+471
+Hinzugefügt am:
+9/30/2009
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f646d6e2424845cf9e07944f660aa834&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-1.6.0.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.6.0.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.6.0.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 1.6.0.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+150
+Dateigröße:
+10.8 MB Posted By: codewarior
+Ansichten:
+524
+Hinzugefügt am:
+9/30/2009
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5085f040a5ca4713876b8eac4e8b5910&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-1.7.1 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.7.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.7.1/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 1.7.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+72
+Dateigröße:
+11.7 MB Posted By: codewarior
+Ansichten:
+306
+Hinzugefügt am:
+8/5/2010
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d524eac164f44126a5670556822bd709&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-1.8.0 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.8.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.8.0/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 1.8.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+78
+Dateigröße:
+12.0 MB Posted By: Codewarior
+Ansichten:
+342
+Hinzugefügt am:
+9/7/2010
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cf1470aedfe54960b62e6c7aa52f2564&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-1.9.0 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.9.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-1.9.0/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 1.9.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+56
+Dateigröße:
+12.1 MB Posted By: codewarior
+Ansichten:
+356
+Hinzugefügt am:
+11/15/2010
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=366c784f552f48c08c547b6166c990cb&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-2.0.0 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.0.0/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 2.0.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+43
+Dateigröße:
+18.0 MB Posted By: codewarior
+Ansichten:
+356
+Hinzugefügt am:
+12/23/2010
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1d8068a9d49246f7bc8cd4116b3a7f0a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-2.1.0 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.1.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.1.0/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 2.1.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+132
+Dateigröße:
+19.2 MB Posted By: codewarior
+Ansichten:
+303
+Hinzugefügt am:
+5/1/2011
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6f5a12937cb64371a904089a6b1a967a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-2.1.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.1.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.1.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 2.1.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+177
+Dateigröße:
+10.4 MB Posted By: codewarior
+Ansichten:
+204
+Hinzugefügt am:
+3/17/2011
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d57a59f47f4e4eeaaa3b793829dbb268&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-2.2.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.2.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.2.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 2.2.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+221
+Dateigröße:
+11.3 MB Posted By: Codewarior
+Ansichten:
+191
+Hinzugefügt am:
+5/1/2011
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6f625413a45f4d52ac9872ab3c0ad9e7&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-2.3.0 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.3.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.3.0/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 2.3.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+34
+Dateigröße:
+22.5 MB Posted By: Codewarior
+Ansichten:
+296
+Hinzugefügt am:
+9/10/2011
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3e8713f56b334c46ada2bffd43df9f60&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-2.3.1 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.3.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.3.1/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 2.3.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+104
+Dateigröße:
+22.7 MB Posted By: Codewarior
+Ansichten:
+446
+Hinzugefügt am:
+10/14/2011
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9bcdb8434b4147df83ca4604c8e16863&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-2.3.1-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.3.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.3.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 2.3.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+63
+Dateigröße:
+13.3 MB Posted By: codewarior
+Ansichten:
+234
+Hinzugefügt am:
+10/14/2011
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9978399345b94c1b9b7d12c7f9558086&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-2.4.0 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.4.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.4.0/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 2.4.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+97
+Dateigröße:
+24.3 MB Posted By: codewarior
+Ansichten:
+753
+Hinzugefügt am:
+3/28/2012
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f3d06dc3b13e42879a492440a0257306&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-2.5.0 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.5.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.5.0/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 2.5.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+218
+Dateigröße:
+28.3 MB Posted By: Codewarior
+Ansichten:
+690
+Hinzugefügt am:
+8/28/2012
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9c5f47f4cf604576b3300012db2fd9f0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-2.5.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.5.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.5.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 2.5.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+187
+Dateigröße:
+19.1 MB Posted By: zaheer.tariq
+Ansichten:
+273
+Hinzugefügt am:
+8/30/2012
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=09abb0ee009a40b88d3aec4410713aac&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-2.5.1-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.5.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.5.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 2.5.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+114
+Dateigröße:
+21.4 MB Posted By: codewarior
+Ansichten:
+241
+Hinzugefügt am:
+3/22/2013
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=720229620bd648789ae70a186df57d34&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-2.5.1 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.5.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.5.1/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 2.5.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+121
+Dateigröße:
+30.7 MB Posted By: Codewarior
+Ansichten:
+584
+Hinzugefügt am:
+3/22/2013
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a6d63f7ff0644dc8a85e2bb75c5e50a2&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-2.5.3 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.5.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.5.3/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 2.5.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+224
+Dateigröße:
+110.6 MB Posted By: codewarior
+Ansichten:
+359
+Hinzugefügt am:
+7/25/2013
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c1c0070df33c487890b1ca67d0421488&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-2.5.4 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.5.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.5.4/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 2.5.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+69
+Dateigröße:
+89.5 MB Posted By: kdubinin
+Ansichten:
+341
+Hinzugefügt am:
+1/6/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9c64c297d2ab4aa9854886181087fef1&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-2.5.5-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.5.5-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.5.5-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 2.5.5 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+93.2 MB Posted By: kdubinin
+Ansichten:
+118
+Hinzugefügt am:
+3/31/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=21ceac7142114b5b9bc89693aea6795f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-2.5.5 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.5.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.5.5/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 2.5.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+53
+Dateigröße:
+90.6 MB Posted By: kdubinin
+Ansichten:
+253
+Hinzugefügt am:
+3/31/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a38191271cf148ff8bc5385cd4375f2c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-2.6.0 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.6.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.6.0/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 2.6.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+149
+Dateigröße:
+90.6 MB Posted By: Andrew.N
+Ansichten:
+402
+Hinzugefügt am:
+5/5/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b16f1d3f585f440d89b41b8c29adecb0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-2.6.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.6.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.6.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 2.6.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+93.2 MB Posted By: Andrew.N
+Ansichten:
+204
+Hinzugefügt am:
+5/5/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ea56ee4e68384c5f96f9dfc34b4b6cf4&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-2.9.0 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.9.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.9.0/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 2.9.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+66
+Dateigröße:
+105.0 MB Posted By: Andrew.N
+Ansichten:
+307
+Hinzugefügt am:
+12/12/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6ea4462353024aebb762afbc03de5f1a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-2.9.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.9.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-2.9.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 2.9.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+20
+Dateigröße:
+93.0 MB Posted By: Andrew.N
+Ansichten:
+191
+Hinzugefügt am:
+10/2/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0e207b90e3534832a407e447773697dd&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-3.0.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.0.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.0.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 3.0.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+30
+Dateigröße:
+107.3 MB Posted By: Andrew.N
+Ansichten:
+493
+Hinzugefügt am:
+12/12/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=82e6aabeb0364d9c85826797998ea9c7&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-3.1.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.1.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.1.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 3.1.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+16
+Dateigröße:
+106.3 MB Posted By: Andrew.N
+Ansichten:
+609
+Hinzugefügt am:
+2/6/2015
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bc8d06e287db4c7f9fc6de8a8d78460f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-3.1.0 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.1.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.1.0/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 3.1.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+134
+Dateigröße:
+103.6 MB Posted By: Andrew.N
+Ansichten:
+625
+Hinzugefügt am:
+2/6/2015
+Versionshinweise https://releases.aspose.com/pdf/reportingservices/release-notes/2016/aspose-pdf-for-reporting-services-3-1-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b73340b259c54fc9ad6ddd3324bae179&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-3.2.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.2.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.2.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 3.2.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+105.8 MB Posted By: Andrew.N
+Ansichten:
+378
+Hinzugefügt am:
+5/11/2015
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=437220f8983e4164bd9a52d8b4bb06b5&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-3.2.0 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.2.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.2.0/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 3.2.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+88
+Dateigröße:
+103.0 MB Posted By: Andrew.N
+Ansichten:
+512
+Hinzugefügt am:
+5/11/2015
+Versionshinweise https://releases.aspose.com/pdf/reportingservices/release-notes/2016/aspose-pdf-for-reporting-services-3-2-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1a0225fed52246d4a65fe7982ebf47d8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-3.3.0 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.3.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.3.0/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 3.3.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+212
+Dateigröße:
+104.4 MB Posted By: Andrew.N
+Ansichten:
+745
+Hinzugefügt am:
+7/27/2015
+Versionshinweise https://releases.aspose.com/pdf/reportingservices/release-notes/2016/aspose-pdf-for-reporting-services-3-3-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c5374efc66cb411ca1d57733b6d46e2c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-3.3.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.3.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-3.3.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 3.3.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+82
+Dateigröße:
+111.4 MB Posted By: faizanbaig
+Ansichten:
+613
+Hinzugefügt am:
+6/27/2016
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=192f32e3083f4d79aad3a503e5e86b99&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-17.1.0 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-17.1.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-17.1.0/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 17.1.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+120
+Dateigröße:
+115.0 MB Posted By: Andrew.N
+Ansichten:
+1221
+Hinzugefügt am:
+1/2/2017
+Versionshinweise https://releases.aspose.com/pdf/reportingservices/release-notes/2017/aspose-pdf-for-reporting-services-17-1-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=60a7126bddf44ab5a607aeae50630ffa&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-17.1.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-17.1.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-17.1.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 17.1.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+187
+Dateigröße:
+120.9 MB Posted By: Andrew.N
+Ansichten:
+838
+Hinzugefügt am:
+1/2/2017
+Versionshinweise https://releases.aspose.com/pdf/reportingservices/release-notes/2017/aspose-pdf-for-reporting-services-17-1-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0d7e12b161a848d198b4cb639b2143e5&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-19.7.0-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-19.7.0-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-19.7.0-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 19.7.0 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+41
+Dateigröße:
+139.5 MB Posted By: andriy.kotlyarov
+Ansichten:
+139
+Hinzugefügt am:
+7/30/2019
+Versionshinweise https://releases.aspose.com/pdf/reportingservices/release-notes/2019/aspose-pdf-for-reporting-services-19-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ba41804393ea4bfab377b5616ebb8ea8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-reporting-services-19.7.0 .</title><link>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-19.7.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/reportingservices/new-releases/aspose.pdf-for-reporting-services-19.7.0/</guid><description>&amp;nbsp;
+Aspose.PDF für Reporting Services 19.7.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+112
+Dateigröße:
+133.9 MB Posted By: andriy.kotlyarov
+Ansichten:
+527
+Hinzugefügt am:
+7/30/2019
+Versionshinweise https://releases.aspose.com/pdf/reportingservices/release-notes/2019/aspose-pdf-for-reporting-services-19-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e3ff06b209f7414e88d2f936518989b8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PUB on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/pub/</link><description>Recent content in PUB on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 01 Sep 2022 16:35:25 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/tags/pub/index.xml" rel="self" type="application/rss+xml"/><item><title>Aspose.PUB | Electronic Publishing Files Java Class Library</title><link>https://releases-qa.aspose.com/pub/java/</link><pubDate>Thu, 01 Sep 2022 16:35:25 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/java/</guid><description>Process PUB files via Java API
+Product Page | Docs | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.PUB for Java is a Java API that can read, manipulate and convert Microsoft Publisher (.pub) files to PDF. You can use the API in your Java applications to work with .pub files without worrying about the underlying filie format. The API can be used in Java desktop as well as web applications using JSP.</description></item><item><title>Download Publisher® File Converter C++ DLL | Aspose.PUB API</title><link>https://releases-qa.aspose.com/pub/cpp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/cpp/</guid><description>Support Forum
+Download C&amp;#43;&amp;#43; Library to Process PUB Files Open NuGet Package Manager within the Microsoft Visual Studio&amp;reg;, search for Aspose.PUB.Cpp and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the Installation documentation page.
+Release Notes
+Download
+PM&amp;gt;
+Install-Package Aspose.PUB.Cpp
+&amp;nbsp;
+Product Page | Docs | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Downloads ---New Releases-aspose.pub-for-.net-23.12-(dlls-only)</title><link>https://releases-qa.aspose.com/pub/net/new-releases/aspose.pub-for-.net-23.12-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/net/new-releases/aspose.pub-for-.net-23.12-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PUB for .NET 23.12 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+145.73MB
+Date Added:
+19/12/2023
+Release Noteshttps://releases.aspose.com/pub/net/release-notes/2023/aspose-pub-for-net-23-12-release-notes/
+DescriptionThis ZIP file contains only the Aspose.PUB for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.PUB without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.pub-for-.net-23.12</title><link>https://releases-qa.aspose.com/pub/net/new-releases/aspose.pub-for-.net-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/net/new-releases/aspose.pub-for-.net-23.12/</guid><description>&amp;nbsp;
+Aspose.PUB for .NET 23.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+146.31MB
+Date Added:
+19/12/2023
+Release Noteshttps://releases.aspose.com/pub/net/release-notes/2023/aspose-pub-for-net-23-12-release-notes/
+DescriptionIt contains Aspose.PUB for .NET 23.12 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a2ba137898596ef7aa55058ac8b39cd0-30-10017&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pub-for-c++-23.8-linux</title><link>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.8-linux/</guid><description>&amp;nbsp;
+Aspose.PUB for C&amp;#43;&amp;#43; 23.8 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+92.41MB
+Date Added:
+17/8/2023
+Release Noteshttps://releases.aspose.com/pub/cpp/release-notes/2023/aspose-pub-for-cpp-23-8-release-notes/
+DescriptionAspose.PUB for C++ 23.8 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2ffb337fe14758e8892a4c7db846a1d4-19-9346&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pub-for-c++-23.8-macos</title><link>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.8-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.8-macos/</guid><description>&amp;nbsp;
+Aspose.PUB for C&amp;#43;&amp;#43; 23.8 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+180.84MB
+Date Added:
+17/8/2023
+Release Noteshttps://releases.aspose.com/pub/cpp/release-notes/2023/aspose-pub-for-cpp-23-8-release-notes/
+DescriptionAspose.PUB for C++ 23.8 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f83f98e74bb1040abb8831d505c1b931-37-9347&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pub-for-c++-23.8</title><link>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.8/</guid><description>&amp;nbsp;
+Aspose.PUB for C&amp;#43;&amp;#43; 23.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+435.72MB
+Date Added:
+17/8/2023
+Release Noteshttps://releases.aspose.com/pub/cpp/release-notes/2023/aspose-pub-for-cpp-23-8-release-notes/
+DescriptionAspose.PUB for C++ 23.8 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7fef44a4ab30d0aabdcc332198679d33-88-9348&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pub-for-c++-23.9-linux</title><link>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.9-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.9-linux/</guid><description>&amp;nbsp;
+Aspose.PUB for C&amp;#43;&amp;#43; 23.9 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+92.6MB
+Date Added:
+21/9/2023
+Release Noteshttps://releases.aspose.com/pub/cpp/release-notes/2023/aspose-pub-for-cpp-23-9-release-notes/
+DescriptionAspose.PUB for C++ 23.9 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e28b47fc6b7eb138b1a024ff7e87d136-19-9503&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pub-for-c++-23.9-macos</title><link>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.9-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.9-macos/</guid><description>&amp;nbsp;
+Aspose.PUB for C&amp;#43;&amp;#43; 23.9 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+181.54MB
+Date Added:
+21/9/2023
+Release Noteshttps://releases.aspose.com/pub/cpp/release-notes/2023/aspose-pub-for-cpp-23-9-release-notes/
+DescriptionAspose.PUB for C++ 23.9 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2218b7c4f377db8ae42bea4c13ab2d0e-37-9504&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pub-for-c++-23.9</title><link>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.9/</guid><description>&amp;nbsp;
+Aspose.PUB for C&amp;#43;&amp;#43; 23.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+435.67MB
+Date Added:
+21/9/2023
+Release Noteshttps://releases.aspose.com/pub/cpp/release-notes/2023/aspose-pub-for-cpp-23-9-release-notes/
+DescriptionAspose.PUB for C++ 23.9 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5088710c0f5b1ecbedd72898b876a668-88-9505&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pub-for-c++-23.10-linux</title><link>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.10-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.10-linux/</guid><description>&amp;nbsp;
+Aspose.PUB for C&amp;#43;&amp;#43; 23.10 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+92.8MB
+Date Added:
+20/10/2023
+Release Noteshttps://releases.aspose.com/pub/cpp/release-notes/2023/aspose-pub-for-cpp-23-10-release-notes/
+DescriptionAspose.PUB for C++ 23.10 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3390e379c3c83ff081eaa3de362a123c-19-9654&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pub-for-c++-23.10-macos</title><link>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.10-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.10-macos/</guid><description>&amp;nbsp;
+Aspose.PUB for C&amp;#43;&amp;#43; 23.10 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+181.93MB
+Date Added:
+20/10/2023
+Release Noteshttps://releases.aspose.com/pub/cpp/release-notes/2023/aspose-pub-for-cpp-23-10-release-notes/
+DescriptionAspose.PUB for C++ 23.10 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=17fd6d126aab3f89d5858d948a8a8bad-37-9655&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pub-for-c++-23.10</title><link>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.10/</guid><description>&amp;nbsp;
+Aspose.PUB for C&amp;#43;&amp;#43; 23.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+437.11MB
+Date Added:
+20/10/2023
+Release Noteshttps://releases.aspose.com/pub/cpp/release-notes/2023/aspose-pub-for-cpp-23-10-release-notes/
+DescriptionAspose.PUB for C++ 23.10 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=23fdae076743ca0b1d22a228f2e67954-88-9656&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pub-for-c++-23.11-linux</title><link>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.11-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.11-linux/</guid><description>&amp;nbsp;
+Aspose.PUB for C&amp;#43;&amp;#43; 23.11 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+93.03MB
+Date Added:
+21/11/2023
+Release Noteshttps://releases.aspose.com/pub/cpp/release-notes/2023/aspose-pub-for-cpp-23-11-release-notes/
+DescriptionAspose.PUB for C++ 23.11 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7293d0262b0a0b221363f9d981585344-19-9852&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pub-for-c++-23.11-macos</title><link>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.11-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.11-macos/</guid><description>&amp;nbsp;
+Aspose.PUB for C&amp;#43;&amp;#43; 23.11 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+182.45MB
+Date Added:
+21/11/2023
+Release Noteshttps://releases.aspose.com/pub/cpp/release-notes/2023/aspose-pub-for-cpp-23-11-release-notes/
+DescriptionAspose.PUB for C++ 23.11 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2fbd5ee0ce7c034c3bd34958cc0ee4b0-37-9853&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pub-for-c++-23.11</title><link>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.11/</guid><description>&amp;nbsp;
+Aspose.PUB for C&amp;#43;&amp;#43; 23.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+438.51MB
+Date Added:
+21/11/2023
+Release Noteshttps://releases.aspose.com/pub/cpp/release-notes/2023/aspose-pub-for-cpp-23-11-release-notes/
+DescriptionAspose.PUB for C++ 23.11 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9c22ef42774be0b4460292acf8752c1b-88-9854&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pub-for-c++-23.12-linux</title><link>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.12-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.12-linux/</guid><description>&amp;nbsp;
+Aspose.PUB for C&amp;#43;&amp;#43; 23.12 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+95.9MB
+Date Added:
+22/12/2023
+Release Noteshttps://releases.aspose.com/pub/cpp/release-notes/2023/aspose-pub-for-cpp-23-12-release-notes/
+DescriptionAspose.PUB for C++ 23.12 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cda6fdf1ab45fb84790ff181cea41f98-20-10035&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pub-for-c++-23.12-macos</title><link>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.12-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.12-macos/</guid><description>&amp;nbsp;
+Aspose.PUB for C&amp;#43;&amp;#43; 23.12 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+188.23MB
+Date Added:
+22/12/2023
+Release Noteshttps://releases.aspose.com/pub/cpp/release-notes/2023/aspose-pub-for-cpp-23-12-release-notes/
+DescriptionAspose.PUB for C++ 23.12 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d0eb206b37a25b4f15fda5305de06268-38-10036&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pub-for-c++-23.12</title><link>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-23.12/</guid><description>&amp;nbsp;
+Aspose.PUB for C&amp;#43;&amp;#43; 23.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+452.34MB
+Date Added:
+22/12/2023
+Release Noteshttps://releases.aspose.com/pub/cpp/release-notes/2023/aspose-pub-for-cpp-23-12-release-notes/
+DescriptionAspose.PUB for C++ 23.12 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b952273a80dd797f2153e9c0840a5eb2-91-10037&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pub-for-c++-24.1-linux</title><link>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-24.1-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-24.1-linux/</guid><description>&amp;nbsp;
+Aspose.PUB for C&amp;#43;&amp;#43; 24.1 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+96.04MB
+Date Added:
+26/1/2024
+Release Noteshttps://releases.aspose.com/pub/cpp/release-notes/2024/aspose-pub-for-cpp-24-1-release-notes/
+DescriptionAspose.PUB for C++ 24.1 Linux native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=894ede5e9aa0363b129f2d056406a350-20-10224&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pub-for-c++-24.1-macos</title><link>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-24.1-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-24.1-macos/</guid><description>&amp;nbsp;
+Aspose.PUB for C&amp;#43;&amp;#43; 24.1 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+188.66MB
+Date Added:
+26/1/2024
+Release Noteshttps://releases.aspose.com/pub/cpp/release-notes/2024/aspose-pub-for-cpp-24-1-release-notes/
+DescriptionAspose.PUB for C++ 24.1 macOS native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=073914714916a021228275c36943406b-38-10225&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pub-for-c++-24.1</title><link>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/cpp/new-releases/aspose.pub-for-c++-24.1/</guid><description>&amp;nbsp;
+Aspose.PUB for C&amp;#43;&amp;#43; 24.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+453.12MB
+Date Added:
+26/1/2024
+Release Noteshttps://releases.aspose.com/pub/cpp/release-notes/2024/aspose-pub-for-cpp-24-1-release-notes/
+DescriptionAspose.PUB for C++ 24.1 native library
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=19b697976c8041d59436aa752dea98ec-91-10226&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Aspose.PUB 22.8 | PUB &amp; PDF Conversion Java High Code API</title><link>https://releases-qa.aspose.com/pub/java/22-8/</link><pubDate>Thu, 01 Sep 2022 16:35:25 +0000</pubDate><guid>https://releases-qa.aspose.com/pub/java/22-8/</guid><description>Process PUB files via Java API
+Product Page | Docs | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.PUB for Java is a Java API that can read, manipulate and convert Microsoft Publisher (.pub) files to PDF. You can use the API in your Java applications to work with .pub files without worrying about the underlying filie format. The API can be used in Java desktop as well as web applications using JSP.</description></item></channel></rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Release Notes - 2009 on Releases - aspose.com</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2009/</link><description>Recent content in Release Notes - 2009 on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/cells/net/release-notes/2009/index.xml" rel="self" type="application/rss+xml"/><item><title>Aspose.Cells for .NET v4.8.0 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2009/aspose-cells-for-net-v4-8-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2009/aspose-cells-for-net-v4-8-0-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET v4.8.0
+We are happy to announce Aspose.Cells for .NET v4.8.0.0!
+What&amp;rsquo;s changed:
+l Merge Aspose.Grid suite into Aspose.Cells
+l Optimize the performance of Formula recalculations
+l Improve the performance of inserting/deleting Rows/Columns
+l Enhance the performance of Auto-fit Rows/Columns feature
+l Add WordArt shapes to XLS file
+l Read Gradient Fill effects for the Chart
+l Create spreadsheets with First Page or Even/Odd Header/Footer attributes for Page Setup</description></item><item><title>Aspose.Cells for .NET v4.7.1 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2009/aspose-cells-for-net-v4-7-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2009/aspose-cells-for-net-v4-7-1-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET v4.7.1
+We are happy to announce Aspose.Cells for .NET 4.7.1!
+What&amp;rsquo;s changed
+l Directly export excel files to pdf stream.
+l Apply Subtotals to worksheet tables.
+l Improve performance of encrypting and decrypting Excel 2007 file.
+l 55 fixes and enhancements.
+Issues Resolved in Aspose.Cells 4.7.1
+Issue ID Component Summary 7729 Chart2Image Chart Image does not look like underlying chart object 7938 Charts2Image Percentage sign not showing in pie chart 7981 Charts2Image Exported chart messed up 8114 Charts2Image Saving workbook with chart in HTML broken 8119 Charts2Image Using FillFormat.</description></item><item><title>Aspose.Grid for .NET V2.0.1 New Release Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2009/aspose-grid-for-net-v2-0-1-new-release-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2009/aspose-grid-for-net-v2-0-1-new-release-release-notes/</guid><description>This page contains release notes for Aspose.Grid for .NET V2.0.1 New Release
+We have just released Aspose.Grid v.
+What&amp;rsquo;s changed:
+Aspose.Grid.Desktop
+l Supports importing/exporting to Excel2007xlsx file format.
+l Supports reading merged cells’ style from excel file.
+l Supports Auto RowFilter and Custom RowFilter; adding IgnoreCase and IsStartWithCriteria properties to GridColumn to customize behaviors of auto rowfilter.
+l Adds CustomMsgTitle property to Validation to customize the title of MessageBox.</description></item><item><title>Aspose.Cells for .Net V4.7.0 New Release Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2009/aspose-cells-for-net-v4-7-0-new-release-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2009/aspose-cells-for-net-v4-7-0-new-release-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .Net V4.7.0 New Release
+We are happy to announce Aspose.Cells for .NET 4.7.0!
+What&amp;rsquo;s changed:
+Supports directly converting Excel files to PDF. Supports Gridline option of the page setup setting while printing worksheet. Supports to insert a WAV file as Ole object. Supports R/W checkboxes in Excel 2007 files. Supports to use anonymous types or custom object as data source in Smart marker Supports to set display zero value option.</description></item></channel></rss>

@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OMR on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/tags/omr/</link><description>Recent content in OMR on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/tags/omr/index.xml" rel="self" type="application/rss+xml"/><item><title>C#-DLL für optische Markierungserkennung herunterladen | Aspose.OMR-API</title><link>https://releases-qa.aspose.com/de/omr/net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/omr/net/</guid><description>Support Forum
+Laden Sie Aspose.OMR herunter, um von Menschen markierte Daten zu lesen Offen
+NuGetPackage Manager in Microsoft Visual Studio®, suchen Sie nach Aspose.OMR und installieren Sie es. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die
+InstallationDokumentationsseite.
+Release-opmerkingen
+Downloaden
+PM&amp;gt;
+Install-Package Aspose.OMR
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.OMR-FOR-FOR-23.7</title><link>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-23.7/</guid><description>&amp;nbsp;
+ASSON.OMR für .NET 23.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+132.42MB
+Datum hinzugefügt:
+7/7/2023
+Versionshinweisehttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-7-0-release-notes/
+BeschreibungEnthält asspins.omr für .net 23.7 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7fefca4be5ec57d5c08a0c932477ff1b-27-9188&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.OMR-FOR-FOR-FOR-23.7- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-23.7-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-23.7-dlls-only/</guid><description>&amp;nbsp;
+ASSON.OMR für .NET 23.7 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+130.67MB
+Datum hinzugefügt:
+7/7/2023
+Versionshinweisehttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-7-0-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.OMR für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.OMR ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- New Releases-ASSOSPLE.OMR-FOR-FOR-FOR-23.8- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-23.8-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-23.8-dlls-only/</guid><description>&amp;nbsp;
+ASSON.OMR für .NET 23.8 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+157.96MB
+Datum hinzugefügt:
+31/8/2023
+Versionshinweisehttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-8-0-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.OMR für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.OMR ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.OMR-FOR-FOR-23.8</title><link>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-23.8/</guid><description>&amp;nbsp;
+ASSON.OMR für .NET 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+158.52MB
+Datum hinzugefügt:
+31/8/2023
+Versionshinweisehttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-8-0-release-notes/
+BeschreibungEnthält asspins.omr für .net 23.8 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e2445306c28cd61b42a55c73e7440dbd-32-9429&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.OMR-FOR-FOR-23.9</title><link>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-23.9/</guid><description>&amp;nbsp;
+ASSON.OMR für .NET 23.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+158.52MB
+Datum hinzugefügt:
+14/9/2023
+Versionshinweisehttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-9-0-release-notes/
+BeschreibungEnthält asspins.omr für .net 23.9 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=10bd14916a9d731a22134c8319df84be-32-9458&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.OMR-FOR-FOR-FOR-23.9- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-23.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-23.9-dlls-only/</guid><description>&amp;nbsp;
+ASSON.OMR für .NET 23.9 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+157.96MB
+Datum hinzugefügt:
+14/9/2023
+Versionshinweisehttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-9-0-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.OMR für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.OMR ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- New Releases-ASSOSPLE.OMR-FOR-FOR-FOR-23.10- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-23.10-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-23.10-dlls-only/</guid><description>&amp;nbsp;
+ASSON.OMR für .NET 23.10 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+157.97MB
+Datum hinzugefügt:
+26/10/2023
+Versionshinweisehttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-10-0-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.OMR für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.OMR ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.OMR-for -.net-23.10</title><link>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-23.10/</guid><description>&amp;nbsp;
+ASSON.OMR für .NET 23.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+158.53MB
+Datum hinzugefügt:
+26/10/2023
+Versionshinweisehttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-10-0-release-notes/
+BeschreibungEnthält asspins.omr für .net 23.10 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=319e054358cb7ad3803b396e78740ec3-32-9673&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.OMR-FOR-FOR-23.11</title><link>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-23.11/</guid><description>&amp;nbsp;
+ASSON.OMR für .NET 23.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+158.52MB
+Datum hinzugefügt:
+17/11/2023
+Versionshinweisehttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-11-0-release-notes/
+BeschreibungEnthält asspos.omr für .net 23.11 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=37c6a802bb6298fc33e393a3a1b330ab-32-9841&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.OMR-FOR-FOR-FOR-23.11- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-23.11-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-23.11-dlls-only/</guid><description>&amp;nbsp;
+ASSON.OMR für .NET 23.11 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+157.97MB
+Datum hinzugefügt:
+17/11/2023
+Versionshinweisehttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-11-0-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.OMR für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.OMR ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- New Releases-ASSOSPLE.OMR-FOR-FOR-FOR-23.12- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-23.12-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-23.12-dlls-only/</guid><description>&amp;nbsp;
+ASSON.OMR für .NET 23.12 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+157.96MB
+Datum hinzugefügt:
+20/12/2023
+Versionshinweisehttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-12-0-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.OMR für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.OMR ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- New Releases-ASSOSPLE.OMR-FOR-FOR-23.12</title><link>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-23.12/</guid><description>&amp;nbsp;
+ASSON.OMR für .NET 23.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+158.52MB
+Datum hinzugefügt:
+20/12/2023
+Versionshinweisehttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-12-0-release-notes/
+BeschreibungEnthält asspins.omr für .net 23.12 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8ba8e65364a2a1382467154db26e7707-32-10021&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.OMR-FOR-FOR-FOR-23.12- (Nur DLLS;</title><link>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-23.12-dlls-onlyaspose.drawing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-23.12-dlls-onlyaspose.drawing/</guid><description>&amp;nbsp;
+ASSON.OMR FÜR .NET 23.12 (nur DLLs; ASSON.DRAWING)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+59.86MB
+Datum hinzugefügt:
+17/1/2024
+Versionshinweisehttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-12-0-release-notes/
+BeschreibungVariation mit ASSOSE.DAWING anstelle von System.Drawing. Kann eine bessere Vorlageerzeugung in einem Nicht-Windows-System bieten.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=419ca1ada0c6497e5c9d3e8a267694ab-12-10160&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.OMR-FOR-FOR-N-24.1</title><link>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-24.1/</guid><description>&amp;nbsp;
+ASSON.OMR für .NET 24.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+158.52MB
+Datum hinzugefügt:
+20/1/2024
+Versionshinweisehttps://releases.aspose.com/omr/net/release-notes/2024/aspose-omr-for-net-24-1-0-release-notes
+BeschreibungEnthält asspos.omr für .net 24.1 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f84f11ec9c118ad7b1b77bed4f65aa84-32-10181&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.OMR-FOR-FOR-FOR-N-24.1- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-24.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-24.1-dlls-only/</guid><description>&amp;nbsp;
+ASSON.OMR für .NET 24.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+157.97MB
+Datum hinzugefügt:
+20/1/2024
+Versionshinweisehttps://releases.aspose.com/omr/net/release-notes/2024/aspose-omr-for-net-24-1-0-release-notes
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.OMR für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.OMR ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.OMR-FOR-FOR-N-24.2</title><link>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-24.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-24.2/</guid><description>&amp;nbsp;
+ASSON.OMR für .NET 24.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+158.96MB
+Datum hinzugefügt:
+1/2/2024
+Versionshinweisehttps://releases.aspose.com/omr/net/release-notes/2024/aspose-omr-for-net-24-2-0-release-notes/
+BeschreibungEnthält asspins.omr für .net 24.2 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=86390cda323b9e3da151eb640acfd847-32-10268&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.OMR-FOR-FOR-FOR-N-24.2- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-24.2-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr-for-.net-24.2-dlls-only/</guid><description>&amp;nbsp;
+ASSON.OMR für .NET 24.2 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+158.4MB
+Datum hinzugefügt:
+1/2/2024
+Versionshinweisehttps://releases.aspose.com/omr/net/release-notes/2024/aspose-omr-for-net-24-2-0-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.OMR für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.OMR ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- New Releases-ASSOSPLE.OMR.Handwriting-for -.net-24.2</title><link>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr.handwriting-for-.net-24.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/omr/net/new-releases/aspose.omr.handwriting-for-.net-24.2/</guid><description>&amp;nbsp;
+ASSON.OMR.Handwriting für .net 24.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+45.39MB
+Datum hinzugefügt:
+1/2/2024
+Versionshinweisehttps://releases.aspose.com/omr/net/release-notes/2024/aspose-omr-for-net-24-2-0-release-notes/
+BeschreibungErweiterung an asspins.omr für .NET. Fügt Unterstützung für handgeschriebene Texteingaben zu maschinenlesbaren OMR-Formularen hinzu. https://www.nuget.org/packages/asips.omr.handwriting/24.2.0#readme-body-tab
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f515ed61d629c6ac2609a1e33646033a-10-10270&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item></channel></rss>

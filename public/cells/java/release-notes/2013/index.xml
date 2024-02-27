@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Release Notes - 2013 on Releases - aspose.com</title><link>https://releases-qa.aspose.com/cells/java/release-notes/2013/</link><description>Recent content in Release Notes - 2013 on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/cells/java/release-notes/2013/index.xml" rel="self" type="application/rss+xml"/><item><title>Aspose.Cells for Java 7.6.1 Release Notes</title><link>https://releases-qa.aspose.com/cells/java/release-notes/2013/aspose-cells-for-java-7-6-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/java/release-notes/2013/aspose-cells-for-java-7-6-1-release-notes/</guid><description>This page contains release notes for Aspose.Cells for Java 7.6.1
+Enhancements
+Exceptions 40636 - File throws exception on opening it
+Bugs
+40645 - Sparklines custom axes are not working
+Note Since the code base of Aspose.Cells for Java matches the code of
+.</description></item><item><title>Aspose.Cells for Java 7.6.0 Release Notes</title><link>https://releases-qa.aspose.com/cells/java/release-notes/2013/aspose-cells-for-java-7-6-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/java/release-notes/2013/aspose-cells-for-java-7-6-0-release-notes/</guid><description>This page contains release notes for Aspose.Cells for Java 7.6.0
+New Features
+Enhancements
+40510 - GB18030 Characters do no display40603 - Chart Quality is too low
+Exceptions
+40615 - NullPointerException when opening Excel spreadsheet
+40618 - Excel template file not loading Bugs
+40610 - Deleting chart causes unreadable spreadsheet
+40467 - Can&amp;rsquo;t resize Textbox in XLSX40623 - “#VALUE!” error after Calculation
+40620 - Error executing replace in text box</description></item><item><title>Aspose.Cells for Java 7.5.3 Release Notes</title><link>https://releases-qa.aspose.com/cells/java/release-notes/2013/aspose-cells-for-java-7-5-3-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/java/release-notes/2013/aspose-cells-for-java-7-5-3-release-notes/</guid><description>This page contains release notes for Aspose.Cells for Java 7.5.3
+Bugs</description></item><item><title>Aspose.Cells for Java 7.5.2 Release Notes</title><link>https://releases-qa.aspose.com/cells/java/release-notes/2013/aspose-cells-for-java-7-5-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/java/release-notes/2013/aspose-cells-for-java-7-5-2-release-notes/</guid><description>This page contains release notes for Aspose.Cells for Java 7.5.2
+New Features
+Enhancements
+40589 - Add icon sets (conditional formatting)
+Exceptions
+Bugs
+40553 - Rendering Excel to PDF does not render Charts with JDK1.7.0_21</description></item><item><title>Aspose.Cells for Java 7.5.1 Release Notes</title><link>https://releases-qa.aspose.com/cells/java/release-notes/2013/aspose-cells-for-java-7-5-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/java/release-notes/2013/aspose-cells-for-java-7-5-1-release-notes/</guid><description>This page contains release notes for Aspose.Cells for Java 7.5.1
+New Features
+40566 - Insert a picture based on cell reference
+Exceptions
+40550 - Exception on document load
+40545 - Not able to open the Excel file
+40549 - Chart is missing in PDF Output
+Bugs
+40514 - Chart legend text overlapping
+40547 - Chart to Image Quality is not good
+40555 - Refreshing the PivotTable issue</description></item><item><title>Aspose.Cells for Java 7.5.0 Release Notes</title><link>https://releases-qa.aspose.com/cells/java/release-notes/2013/aspose-cells-for-java-7-5-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/java/release-notes/2013/aspose-cells-for-java-7-5-0-release-notes/</guid><description>This page contains release notes for Aspose.Cells for Java 7.5.0
+Enhancements
+Exceptions
+40530 - CellsException: Shape to image Error!
+Bugs
+40493 - Recursive Reference problem
+40490 - 3D chart’s perspective issue
+40481 - XLS to PDF - Table cell width problem
+40519 - Exception when saving an XLSX document</description></item><item><title>Aspose.Cells for Java 7.4.3 Release Notes</title><link>https://releases-qa.aspose.com/cells/java/release-notes/2013/aspose-cells-for-java-7-4-3-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/java/release-notes/2013/aspose-cells-for-java-7-4-3-release-notes/</guid><description>This page contains release notes for [ Aspose.Cells for Java 7.4.3|https://releases.aspose.com/cells/java/new-releases/-aspose.cells-for-java-7.4.3/]
+Exceptions
+40461 - Chart to Image feature caused OutOfMemoryException
+Bugs
+40367 - Printing Excel with image Issue
+40474 - Cannot copy cell formatting
+40480 - Issue with COUNTA and INDIRECT formulas</description></item><item><title>Aspose.Cells for Java 7.4.2 Release Notes</title><link>https://releases-qa.aspose.com/cells/java/release-notes/2013/aspose-cells-for-java-7-4-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/java/release-notes/2013/aspose-cells-for-java-7-4-2-release-notes/</guid><description>This page contains release notes for Aspose.Cells for Java 7.4.2
+Enhancements
+40464 - Copy Macros when copying workbooks
+Exceptions
+Bugs
+40466 - Formula was calculated incorrectly</description></item><item><title>Aspose.Cells for Java 7.4.1 Release Notes</title><link>https://releases-qa.aspose.com/cells/java/release-notes/2013/aspose-cells-for-java-7-4-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/java/release-notes/2013/aspose-cells-for-java-7-4-1-release-notes/</guid><description>This page contains release notes for Aspose.Cells for Java 7.4.1
+New Features
+40247 - Assign and Validate Digital Signatures
+Enhancements
+40407 - Support rotated text in the cells
+Exceptions
+40436 - CellsException: Invalid ValidationType
+Bugs
+40429 - Low quality when saving shape as an image
+40430 - Sparklines get condensed</description></item><item><title>Aspose.Cells for Java 7.4.0 Release Notes</title><link>https://releases-qa.aspose.com/cells/java/release-notes/2013/aspose-cells-for-java-7-4-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/java/release-notes/2013/aspose-cells-for-java-7-4-0-release-notes/</guid><description>
+This page contains release notes for Aspose.Cells for Java 7.4.0
+We are happy to announce Aspose.Cells for Java v7.4.0!
+New Features
+Support custom encoding for saving HTMLfile Bugs
+Incorrect formula calculation results Data source of the chart was changedafter combining workbooks</description></item></channel></rss>

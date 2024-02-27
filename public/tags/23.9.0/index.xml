@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>23.9.0 on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/23.9.0/</link><description>Recent content in 23.9.0 on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/tags/23.9.0/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads ---New Releases-aspose.ocr.cpp.23.9.0</title><link>https://releases-qa.aspose.com/ocr/cpp/new-releases/aspose.ocr.cpp.23.9.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/cpp/new-releases/aspose.ocr.cpp.23.9.0/</guid><description>&amp;nbsp;
+Aspose.Ocr.Cpp.23.9.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+210.49MB
+Date Added:
+22/9/2023
+Release Noteshttps://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-23-9-0-release-notes/
+DescriptionIdentifying areas of the image that may be less accurately recognized due to noise and low contrast.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=49b163cc628c50e5319c7b09e50151eb-43-9513&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.ocr.cpp-gpu.23.9.0</title><link>https://releases-qa.aspose.com/ocr/cpp/new-releases/aspose.ocr.cpp-gpu.23.9.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/cpp/new-releases/aspose.ocr.cpp-gpu.23.9.0/</guid><description>&amp;nbsp;
+Aspose.Ocr.Cpp-GPU.23.9.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+210.49MB
+Date Added:
+22/9/2023
+Release Noteshttps://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-23-9-0-release-notes/
+DescriptionIdentifying areas of the image that may be less accurately recognized due to noise and low contrast.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=046f735a3ef2beac73769230bd33821e-43-9514&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.ocr.cpp-linux.23.9.0</title><link>https://releases-qa.aspose.com/ocr/cpp/new-releases/aspose.ocr.cpp-linux.23.9.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/cpp/new-releases/aspose.ocr.cpp-linux.23.9.0/</guid><description>&amp;nbsp;
+Aspose.Ocr.Cpp-Linux.23.9.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+194.4MB
+Date Added:
+22/9/2023
+Release Noteshttps://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-23-9-0-release-notes/
+DescriptionIdentifying areas of the image that may be less accurately recognized due to noise and low contrast.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b2549a7b2075853ad532eed89b4d8b4d-39-9515&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>Downloads ---New Releases-aspose.ocr.cpp-linux-gpu.23.9.0</title><link>https://releases-qa.aspose.com/ocr/cpp/new-releases/aspose.ocr.cpp-linux-gpu.23.9.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/cpp/new-releases/aspose.ocr.cpp-linux-gpu.23.9.0/</guid><description>&amp;nbsp;
+Aspose.Ocr.Cpp-Linux-Gpu.23.9.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+194.4MB
+Date Added:
+22/9/2023
+Release Noteshttps://docs.aspose.com/ocr/cpp/aspose-ocr-for-cpp-23-9-0-release-notes/
+DescriptionIdentifying areas of the image that may be less accurately recognized due to noise and low contrast.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=24cbca82e3e776277f79c302eca530ab-39-9516&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item></channel></rss>

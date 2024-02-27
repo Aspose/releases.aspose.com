@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SharePoint on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/tags/sharepoint/</link><description>Recent content in SharePoint on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Tue, 06 Dec 2022 13:40:21 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/de/tags/sharepoint/index.xml" rel="self" type="application/rss+xml"/><item><title>ASSOSE.NOTE | Java -Bibliothek zum Erstellen/Manipulieren von OneNote -Dokumenten</title><link>https://releases-qa.aspose.com/de/note/java/</link><pubDate>Tue, 06 Dec 2022 13:40:21 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/java/</guid><description>Java -API für die OneNote -Dokumentverarbeitung
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Note for Java ist eine Klassenbibliothek, mit der Anwendungen programmgesteuert mit Microsoft Office OneNote ohne die Installation auf dem Server interagieren können. Es ist eine reine Alternative für MS OneNote -Objektmodell, die eine viel bessere Leistung und eine einfache Nutzung bietet, um OneNote -Dokumente zu verwalten.</description></item><item><title>Aspose.Email für SharePoint | E-Mail-Nachrichten konvertieren und synchronisieren</title><link>https://releases-qa.aspose.com/de/email/sharepoint/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/email/sharepoint/</guid><description>Support Forum
+Laden Sie Aspose.Email für die E-Mail-Manipulation in SharePoint® herunter Aspose.Email für SharePointermöglicht Ihnen
+um E-Mail-Konvertierung, Dokumentbibliothekssynchronisierung und E-Mail-Synchronisierung innerhalb Ihrer SharePoint-Websites durchzuführen.
+Probieren Sie kostenlose Online-E-Mail-Manipulations-Apps aus
+Kostenlose E-Mail-Konverter-Online-App zum Konvertieren von E-Mail-Formaten
+Kostenlose E-Mail-Parsing-Online-App zum Extrahieren von Bildern und Dateien aus E-Mails
+Kostenlose E-Mail-Metadaten-App zum Anzeigen und Bearbeiten von E-Mail-Metadaten
+Release-opmerkingen
+Downloaden
+Product Page | Docs | API Reference | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title> Downloads ---Neue-Releases-aspose.email-for-sharepoint-1.6.2 .</title><link>https://releases-qa.aspose.com/de/email/sharepoint/new-releases/aspose.email-for-sharepoint-1.6.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/email/sharepoint/new-releases/aspose.email-for-sharepoint-1.6.2/</guid><description>&amp;nbsp;
+Aspose.E-Mail für SharePoint 1.6.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+251
+Dateigröße:
+3.0 MB
+Posted By:
+DmitryS
+Ansichten:
+1100
+Hinzugefügt am:
+9/23/2015
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8e49825663b040f1b19763de8ae62869&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>ASSOSE.NOTE 22.11 | OneNote Processing Java High Code API</title><link>https://releases-qa.aspose.com/de/note/java/22-11/</link><pubDate>Tue, 06 Dec 2022 13:40:21 +0000</pubDate><guid>https://releases-qa.aspose.com/de/note/java/22-11/</guid><description>Java -API für die OneNote -Dokumentverarbeitung
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Note for Java ist eine Klassenbibliothek, mit der Anwendungen programmgesteuert mit Microsoft Office OneNote ohne die Installation auf dem Server interagieren können. Es ist eine reine Alternative für MS OneNote -Objektmodell, die eine viel bessere Leistung und eine einfache Nutzung bietet, um OneNote -Dokumente zu verwalten.</description></item></channel></rss>

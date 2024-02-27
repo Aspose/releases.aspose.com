@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aspose.PDF for Node.js via C++ on Releases - aspose.com</title><link>https://releases-qa.aspose.com/pdf/nodejscpp/</link><description>Recent content in Aspose.PDF for Node.js via C++ on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/pdf/nodejscpp/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads ---New Releases-aspose.pdf-for-node.js-via-c++-23.11</title><link>https://releases-qa.aspose.com/pdf/nodejscpp/new-releases/aspose.pdf-for-node.js-via-c++-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/nodejscpp/new-releases/aspose.pdf-for-node.js-via-c++-23.11/</guid><description>&amp;nbsp;
+Aspose.PDF for Node.js via C&amp;#43;&amp;#43; 23.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+45.98MB
+Date Added:
+23/11/2023
+Release Noteshttps://releases.aspose.com/pdf/nodejscpp/release-notes/2023/aspose_pdf-for-nodejs-cpp-23-11-release-notes/
+DescriptionAspose.PDF for Node.js
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=999818244d3716bb5875fe15b4a4d2a6-10-9865&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pdf-for-node.js-via-c++-23.12</title><link>https://releases-qa.aspose.com/pdf/nodejscpp/new-releases/aspose.pdf-for-node.js-via-c++-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/nodejscpp/new-releases/aspose.pdf-for-node.js-via-c++-23.12/</guid><description>&amp;nbsp;
+Aspose.PDF for Node.js via C&amp;#43;&amp;#43; 23.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+48.22MB
+Date Added:
+24/12/2023
+Release Noteshttps://releases.aspose.com/pdf/nodejscpp/release-notes/2023/aspose_pdf-for-nodejs-cpp-23-12-release-notes/
+DescriptionAspose.PDF for Node.js
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e6f4ca13feed24a956288dbf5a34cda1-10-10052&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pdf-for-node.js-via-c++-24.1</title><link>https://releases-qa.aspose.com/pdf/nodejscpp/new-releases/aspose.pdf-for-node.js-via-c++-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/nodejscpp/new-releases/aspose.pdf-for-node.js-via-c++-24.1/</guid><description>&amp;nbsp;
+Aspose.PDF for Node.js via C&amp;#43;&amp;#43; 24.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+48.23MB
+Date Added:
+26/1/2024
+Release Noteshttps://releases.aspose.com/pdf/nodejscpp/release-notes/2024/aspose_pdf-for-nodejs-cpp-24-1-release-notes/
+DescriptionAspose.PDF for Node.js
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bc3f6cb90902a9f4a20dec7a8d4990ab-10-10217&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>sqlserver on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/sqlserver/</link><description>Recent content in sqlserver on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/tags/sqlserver/index.xml" rel="self" type="application/rss+xml"/><item><title>On-premise GIS Data Processing API | Aspose.GIS Product Family</title><link>https://releases-qa.aspose.com/gis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/gis/</guid><description>Support Forum
+Download Aspose.GIS to Process Geographical Data Open NuGet Package Manager within the Microsoft Visual Studio&amp;reg;, search for Aspose.GIS and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the Installation documentation page.
+Release Notes
+Download
+PM&amp;gt;
+Install-Package Aspose.GIS
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item></channel></rss>

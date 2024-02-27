@@ -1,0 +1,1467 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Download Optical Mark Recognition C# DLL | Aspose.OMR API on Releases - aspose.com</title><link>https://releases-qa.aspose.com/omr/net/</link><description>Recent content in Download Optical Mark Recognition C# DLL | Aspose.OMR API on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 05 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/omr/net/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---New-Releases-aspose.omr-for-.net-19.4-(dlls-only) .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-19.4-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-19.4-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 19.4 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 28 File Size: 807.1 KB Posted By: ivan.semenenia Views: 152 Date Added: 4/30/2019
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-19.4 .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-19.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-19.4/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 19.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 57 File Size: 1.2 MB Posted By: ivan.semenenia Views: 57 Date Added: 4/30/2019
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2528aa845ec44d8797249551c97b14e0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-19.7-(dlls-only) .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-19.7-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-19.7-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 19.7 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 9 File Size: 815.6 KB Posted By: ivan.semenenia Views: 46 Date Added: 7/31/2019
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2019/aspose-omr-for-net-19-7-release-notes/DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-19.7 .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-19.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-19.7/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 19.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 12 File Size: 1.2 MB Posted By: ivan.semenenia Views: 28 Date Added: 7/31/2019
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2019/aspose-omr-for-net-19-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a692dfec21d2482d9705d1ffcc64a117&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-19.8-(dlls-only) .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-19.8-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-19.8-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 19.8 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 17 File Size: 842.4 KB Posted By: ivan.semenenia Views: 47 Date Added: 8/31/2019
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2019/aspose-omr-for-net-19-8-release-notes/DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-19.8 .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-19.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-19.8/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 19.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 23 File Size: 1.2 MB Posted By: ivan.semenenia Views: 59 Date Added: 8/31/2019
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2019/aspose-omr-for-net-19-8-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5d1970269e96454bb8ada0ed45cdd120&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-19.9-(dlls-only) .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-19.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-19.9-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 19.9 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 35 File Size: 96.3 KB Posted By: ivan.semenenia Views: 133 Date Added: 9/30/2019
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2019/aspose-omr-for-net-19-9-release-notes/DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-19.9 .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-19.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-19.9/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 19.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 56 File Size: 496.0 KB Posted By: ivan.semenenia Views: 66 Date Added: 9/30/2019
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2019/aspose-omr-for-net-19-9-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=890a987ac68a4f5789113df2f264cea6&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-20.3-(dlls-only) .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-20.3-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-20.3-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 20.3 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 8 File Size: 94.1 KB Posted By: ivan.semenenia Views: 42 Date Added: 3/26/2020
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2020/aspose-omr-for-net-20-3-release-notes/DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-20.3 .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-20.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-20.3/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 20.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 11 File Size: 492.0 KB Posted By: ivan.semenenia Views: 47 Date Added: 3/26/2020
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2020/aspose-omr-for-net-20-3-release-notes/DescriptionContains Aspose.OMR for .NET 20.3 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f107f7a9850044c3bc24331ef8c1d179&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-20.4-(dlls-only) .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-20.4-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-20.4-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 20.4 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 17 File Size: 18.6 MB Posted By: ivan.semenenia Views: 90 Date Added: 4/30/2020
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2020/aspose-omr-for-net-20-4-release-notes/DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-20.4 .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-20.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-20.4/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 20.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 19 File Size: 19.3 MB Posted By: ivan.semenenia Views: 44 Date Added: 4/30/2020
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2020/aspose-omr-for-net-20-4-release-notes/DescriptionContains Aspose.OMR for .NET 20.4 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e0f8bec7ded048baa4a50b4c7c57ad64&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-20.6-(dlls-only) .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-20.6-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-20.6-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 20.6 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 31 File Size: 18.6 MB Posted By: ivan.semenenia Views: 71 Date Added: 6/30/2020
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2020/aspose-omr-for-net-20-6-release-notes/DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-20.6 .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-20.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-20.6/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 20.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 34 File Size: 19.3 MB Posted By: ivan.semenenia Views: 73 Date Added: 6/30/2020
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2020/aspose-omr-for-net-20-6-release-notes/DescriptionContains Aspose.OMR for .NET 20.6 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=da7de21f7f934114bb35388d6f891176&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases--aspose.omr-for-.net-21.2-(dlls-only) .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/-aspose.omr-for-.net-21.2-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/-aspose.omr-for-.net-21.2-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 21.2 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 4 File Size: 18.9 MB Posted By: MaksymRohach Views: 24 Date Added: 2/26/2021
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2021/aspose-omr-for-net-21-2-release-notes/DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-21.2 .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-21.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-21.2/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 21.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 11 File Size: 19.3 MB Posted By: MaksymRohach Views: 36 Date Added: 2/26/2021
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2021/aspose-omr-for-net-21-2-release-notes/DescriptionContains Aspose.OMR for .NET 21.2 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=27f35951f904425e95ccc57a7090272c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-21.3 .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-21.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-21.3/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 21.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 4 File Size: 19.3 MB Posted By: MaksymRohach Views: 23 Date Added: 4/1/2021
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2021/aspose-omr-for-net-21-3-release-notes/DescriptionContains Aspose.OMR for .NET 21.3 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=85eb728a18bc4cf2a2fc186585d6e548&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-21.3-(dlls-only) .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-21.3-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-21.3-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 21.3 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 14 File Size: 18.6 MB Posted By: MaksymRohach Views: 51 Date Added: 4/1/2021
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2021/aspose-omr-for-net-21-3-release-notes/DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-21.4 .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-21.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-21.4/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 21.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 6 File Size: 19.3 MB Posted By: MaksymRohach Views: 31 Date Added: 5/1/2021
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2021/aspose-omr-for-net-21-4-release-notes/DescriptionContains Aspose.OMR for .NET 21.4 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d27cd939d5874ac7ad3dd33138231a5f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases--aspose.omr-for-.net-21.4-(dlls-only) .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/-aspose.omr-for-.net-21.4-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/-aspose.omr-for-.net-21.4-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 21.4 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 6 File Size: 18.9 MB Posted By: MaksymRohach Views: 38 Date Added: 5/1/2021
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2021/aspose-omr-for-net-21-4-release-notes/DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-21.5 .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-21.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-21.5/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 21.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 7 File Size: 19.3 MB Posted By: MaksymRohach Views: 25 Date Added: 6/1/2021
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2021/aspose-omr-for-net-21-5-release-notes/DescriptionContains Aspose.OMR for .NET 21.5 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b2f308aec2d3429fb40af34824f99b42&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-21.5-(dlls-only) .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-21.5-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-21.5-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 21.5 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 9 File Size: 18.9 MB Posted By: MaksymRohach Views: 45 Date Added: 6/1/2021
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2021/aspose-omr-for-net-21-5-release-notes/DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-21.6 .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-21.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-21.6/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 21.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 3 File Size: 19.3 MB Posted By: MaksymRohach Views: 29 Date Added: 6/30/2021
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2021/aspose-omr-for-net-21-6-release-notes/DescriptionContains Aspose.OMR for .NET 21.6 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c685b43a69874097befdd322fdcc322c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases--aspose.omr-for-.net-21.6-(dlls-only) .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/-aspose.omr-for-.net-21.6-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/-aspose.omr-for-.net-21.6-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 21.6 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 5 File Size: 18.9 MB Posted By: MaksymRohach Views: 28 Date Added: 6/30/2021
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2021/aspose-omr-for-net-21-6-release-notes/DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-21.7 .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-21.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-21.7/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 21.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 4 File Size: 19.3 MB Posted By: MaksymRohach Views: 32 Date Added: 7/24/2021
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2021/aspose-omr-for-net-21-7-release-notes/DescriptionContains Aspose.OMR for .NET 21.7 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=46f90f460c274568836565f88a78f57d&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases--aspose.omr-for-.net-21.7-(dlls-only) .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/-aspose.omr-for-.net-21.7-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/-aspose.omr-for-.net-21.7-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 21.7 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 10 File Size: 18.9 MB Posted By: MaksymRohach Views: 38 Date Added: 7/24/2021
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2021/aspose-omr-for-net-21-7-release-notes/DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-21.8 .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-21.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-21.8/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 21.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 7 File Size: 19.3 MB Posted By: MaksymRohach Views: 36 Date Added: 8/24/2021
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2021/aspose-omr-for-net-21-8-release-notes/DescriptionContains Aspose.OMR for .NET 21.8 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5bf3ebf1ef674ddc8751b45a543b0ce1&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases--aspose.omr-for-.net-21.8-(dlls-only) .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/-aspose.omr-for-.net-21.8-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/-aspose.omr-for-.net-21.8-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 21.8 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 11 File Size: 18.9 MB Posted By: MaksymRohach Views: 51 Date Added: 8/24/2021
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2021/aspose-omr-for-net-21-8-release-notes/DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-21.9 .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-21.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-21.9/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 21.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 5 File Size: 19.3 MB Posted By: MaksymRohach Views: 39 Date Added: 10/6/2021
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2021/aspose-omr-for-net-21-9-release-notes/DescriptionContains Aspose.OMR for .NET 21.9 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=83f5dfcf37de4ad7951032663d878aec&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases--aspose.omr-for-.net-21.9-(dlls-only) .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/-aspose.omr-for-.net-21.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/-aspose.omr-for-.net-21.9-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 21.9 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 13 File Size: 18.9 MB Posted By: MaksymRohach Views: 30 Date Added: 10/6/2021
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2021/aspose-omr-for-net-21-9-release-notes/DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-21.10 .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-21.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-21.10/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 21.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 8 File Size: 19.3 MB Posted By: MaksymRohach Views: 31 Date Added: 10/18/2021
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2021/aspose-omr-for-net-21-10-release-notes/DescriptionContains Aspose.OMR for .NET 21.10 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5653d8f10c1d483cb3e0d1383af4bd8e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases--aspose.omr-for-.net-21.10-(dlls-only) .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/-aspose.omr-for-.net-21.10-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/-aspose.omr-for-.net-21.10-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 21.10 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 10 File Size: 18.9 MB Posted By: MaksymRohach Views: 39 Date Added: 10/18/2021
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2021/aspose-omr-for-net-21-10-release-notes/DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-21.11 .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-21.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-21.11/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 21.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 9 File Size: 19.6 MB Posted By: MaksymRohach Views: 23 Date Added: 11/29/2021
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2021/aspose-omr-for-net-21-11-release-notes/DescriptionContains Aspose.OMR for .NET 21.11 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3c5308375f4e4f0b8f2ce48b426ac267&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-21.11-(dlls-only) .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-21.11-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-21.11-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 21.11 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 6 File Size: 19.1 MB Posted By: Views: 25: Date Added:: 11/29/2021: :
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2021/aspose-omr-for-net-21-11-release-notes/DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.</description></item><item><title> Downloads ---New-Releases--aspose.omr-for-.net-21.12 .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/-aspose.omr-for-.net-21.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/-aspose.omr-for-.net-21.12/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 21.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 12 File Size: 19.6 MB Posted By: MaksymRohach Views: 26 Date Added: 12/25/2021
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2021/aspose-omr-for-net-21-12-release-notes/DescriptionContains Aspose.OMR for .NET 21.12 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=24548f19a84e49bf84114d5669472898&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases--aspose.omr-for-.net-21.12-(dlls-only) .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/-aspose.omr-for-.net-21.12-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/-aspose.omr-for-.net-21.12-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 21.12 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 16 File Size: 19.2 MB Posted By: MaksymRohach Views: 32 Date Added: 12/25/2021
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2021/aspose-omr-for-net-21-12-release-notes/DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.</description></item><item><title>Support for checkbox Element in OMR API for C#, ASP.NET Apps</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.1/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 9 File Size: 19.6 MB Posted By: MaksymRohach Views: 20 Date Added: 1/29/2022
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-1-release-notes/DescriptionContains Aspose.OMR for .NET 22.1 release
+File Details
+Support for checkbox Element in OMR This release of the API offers a new addition to the various OMR elements; i.e. checkbox. The recognition accuracy of this element can be specified to make sure that even the slightest filled marks are detected.</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-22.1-(dlls-only) .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.1 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 9 File Size: 19.1 MB Posted By: MaksymRohach Views: 18 Date Added: 1/29/2022
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-1-release-notes/DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.</description></item><item><title>Define Table Content &amp; Font Properties OMR API C#, .NET Apps</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.2/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+8
+File Size:
+77.6 MB
+Posted By:
+MaksymRohach
+Views:
+33
+Date Added:
+2/28/2022
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-2-release-notes/DescriptionContains Aspose.OMR for .NET 22.2 release
+File Details
+Define Table Content Added a new element TableContent. This enables you to define the custom column content that is declared with ScoreHeader element with the header_type property equals to content.</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-22.2-(dlls-only) .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.2-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.2-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.2 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 9 File Size: 77.1 MB Posted By: MaksymRohach Views: 12 Date Added: 2/28/2022
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-2-release-notes/DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.</description></item><item><title>SHA256 License Support OMR Recognition API for C#, .NET Apps</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.3/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+2
+File Size:
+77.6 MB
+Posted By:
+MaksymRohach
+Views:
+6
+Date Added:
+: 2 weeks ago [3/28/2022]
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-3-release-notes/DescriptionContains Aspose.OMR for .NET 22.3 release
+File Details
+Assign Custom Threshold for Vertical ChoiceBox Assign the custom threshold value for the Vertical ChoiceBox element.The following is an example of custom recognition threshold for Vertical ChoiceBox element using C# code via API:</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-22.3-(dlls-only) .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.3-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.3-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.3 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 7 File Size: 4.4 KB Posted By: MaksymRohach Views: 9 Date Added: : 2 weeks ago [3/28/2022]
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-3-release-notes/DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.</description></item><item><title>Tabloid Page Size Support for OMR API for C#, ASP.NET Apps</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.4/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+8
+File Size:
+77.6 MB
+Date Added:
+: 4 weeks ago [4/24/2022]
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-4-release-notes/DescriptionContains Aspose.OMR for .NET 22.4 release
+File Details
+Add Barcode to OMR Form Footer Ability to insert a barcode to the page footer of the OMR form.
+Tabloid Page Size Support for OMR Added support for new paper sizes:</description></item><item><title> Downloads ---New-Releases-aspose.omr-for-.net-22.4-(dlls-only) .</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.4-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.4-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.4 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 10 File Size: 77.1 MB Date Added: : 4 weeks ago [4/24/2022]
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-4-release-notes/DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.</description></item><item><title>Return OMR Image Recognition Results API for C# ASP.NET Apps</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.5/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+7
+File Size:
+77.6 MB
+Date Added:
+10/6/2022
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-5-release-notes/
+File Details
+Return Image Recognition Results The result of OMR image recognition can be received as following:
+CSV format as an array of bytes CSV format as memory stream (System.IO.MemoryStream) object JSON format as an array of bytes JSON format as memory stream (System.</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-22.5-(dlls-only)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.5-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.5-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.5 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+5
+File Size:
+77.1 MB
+Date Added:
+10/6/2022
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-5-release-notes/
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies a...
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ee1dfd03513f401b910e62f68e67f461-1-7453&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>BarCode Recognition in Printable OMR API for C# ASP.NET Apps</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.6/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+291
+File Size:
+77.69MB
+Date Added:
+21/6/2022
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-6-release-notes/
+File Details
+Container Element Rendering Improved rendering of container elements (text markup / JSON markup) to make the left and right margins within the printable OMR Form equal.
+Improved Barcode Recognition near Page Bottom Previously it was observed that if the resolution of the original printable form is greater that that of scanned or photographed forms then the barcodes placed at the bottom of the page was not correct recognized.</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-22.6-(dlls-only)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.6-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.6-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.6 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+52
+File Size:
+76.47MB
+Date Added:
+21/6/2022
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-6-release-notes/
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.</description></item><item><title>Square Checkbox in OMR Answer Sheet API for C#, ASP.NET Apps</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.7/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+77.75MB
+Date Added:
+30/7/2022
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-7-release-notes/
+DescriptionContains Aspose.OMR for .NET 22.7 release
+File Details
+Introducing Square Bubble Style Now the API supports multiple bubble styles without any change in the recognition logic. These bubble types include circle (round) and square (square), with the introduction of the new bubble-type for the following elements:</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-22.7-(dlls-only)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.7-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.7-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.7 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+76.55MB
+Date Added:
+30/7/2022
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-7-release-notes/
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.</description></item><item><title>Improved Image Rotation in OMR Form API for C#, ASP.NET Apps</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.8/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+77.75MB
+Date Added:
+19/8/2022
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-8-release-notes/
+DescriptionContains Aspose.OMR for .NET 22.8 release
+File Details
+Improved Image Rotation in OMR Forms Improved processing speed and handling of image rotation by adding an extra positioning marker to the upper right corner of the printable OMR forms.
+Insert Multiple OMR Write-in Fields Ability to add more than one write-in fields within your OMR forms.</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-22.8-(dlls-only)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.8-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.8-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.8 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+76.54MB
+Date Added:
+19/8/2022
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-8-release-notes/
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-22.9-(dlls-only)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.9-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.9 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+76.6MB
+Date Added:
+21/9/2022
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-9-release-notes/
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.</description></item><item><title>OMR Sheet Automatic Column Wrapping API for C#, ASP.NET Apps</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.9/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+77.8MB
+Date Added:
+21/9/2022
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-9-release-notes/
+DescriptionContains Aspose.OMR for .NET 22.9 release
+File Details
+OMR Form Source Encoding Ability to set the file encoding in the Generate Template method. The following C# sample code demonstrates how OMR form source encoding is performed via API:
+Aspose.OMR.Generation.GenerationResult generationResult = null; using(System.</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-22.10</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.10/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+77.79MB
+Date Added:
+1/11/2022
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-10-release-notes/
+DescriptionContains Aspose.OMR for .NET 22.10 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8df48f175918216b6bb2d0ed5706ec74-16-8094&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-22.10-(dlls-only)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.10-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.10-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.10 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+76.58MB
+Date Added:
+1/11/2022
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-10-release-notes/
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-22.11</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.11/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+77.82MB
+Date Added:
+12/11/2022
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-11-0-release-notes/
+DescriptionContains Aspose.OMR for .NET 22.11 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=993fcc33c4a975a21705e387c7fb98e0-16-8117&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-22.11-(dlls-only)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.11-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.11-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.11 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+76.61MB
+Date Added:
+12/11/2022
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-11-0-release-notes/
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-22.11.1-(dlls-only)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.11.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.11.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.11.1 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+103.02MB
+Date Added:
+23/11/2022
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-11-1-release-notes/
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-22.11.1</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.11.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.11.1/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.11.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+104.47MB
+Date Added:
+23/11/2022
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-11-1-release-notes/
+DescriptionContains Aspose.OMR for .NET 22.11.1 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f90ef5eb0d7129305b7d80f6b3053362-21-8182&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-22.12</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.12/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+104.48MB
+Date Added:
+3/12/2022
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-12-0-release-notes/
+DescriptionContains Aspose.OMR for .NET 22.12 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=84acc876022b14969e580b8c71062a05-21-8244&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-22.12-(dlls-only)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.12-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.12-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.12 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+103.01MB
+Date Added:
+3/12/2022
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-12-0-release-notes/
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-22.12.1</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.12.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.12.1/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.12.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+104.49MB
+Date Added:
+23/12/2022
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-12-1-release-notes/
+DescriptionContains Aspose.OMR for .NET 22.12.1 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9b848e03f094b75415fe046c54b8864e-21-8326&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-22.12.1-(dlls-only)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.12.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-22.12.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 22.12.1 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+103.02MB
+Date Added:
+23/12/2022
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2022/aspose-omr-for-net-22-12-1-release-notes/
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.1-(dlls-only)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.1 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+103.04MB
+Date Added:
+25/1/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-1-0-release-notes/
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.1</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.1/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+104.5MB
+Date Added:
+25/1/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-1-0-release-notes/
+DescriptionContains Aspose.OMR for .NET 23.1 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=24a140e0d9dbdca1a04753c908f46838-21-8420&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.2</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.2/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+104.52MB
+Date Added:
+21/2/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-2-0-release-notes/
+DescriptionContains Aspose.OMR for .NET 23.2 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4ca608e37c99286b6929f7f613104a88-21-8549&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.2-(dlls-only)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.2-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.2-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.2 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+103.06MB
+Date Added:
+21/2/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-2-0-release-notes/
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.3</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.3/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+104.52MB
+Date Added:
+2/3/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-3-0-release-notes/
+DescriptionContains Aspose.OMR for .NET 23.3 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=50c0fad73d2d48b0e7593b1a134c977c-21-8609&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.3-(dlls-only)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.3-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.3-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.3 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+103.05MB
+Date Added:
+2/3/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-3-0-release-notes/
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.3.1-(dlls-only)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.3.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.3.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.3.1 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+103.43MB
+Date Added:
+28/3/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-3-1-release-notes/
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.3.1</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.3.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.3.1/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.3.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+104.91MB
+Date Added:
+28/3/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-3-1-release-notes/
+DescriptionContains Aspose.OMR for .NET 23.3.1 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4961f08a12038eb50f33147e1eaef94e-21-8692&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.4</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.4/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+104.91MB
+Date Added:
+21/4/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-4-0-release-notes/
+DescriptionContains Aspose.OMR for .NET 23.4 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=540f84849229a230e01823415d545684-21-8813&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.4-(dlls-only)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.4-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.4-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.4 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+103.42MB
+Date Added:
+21/4/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-4-0-release-notes/
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.5-(dlls-only)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.5-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.5-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.5 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+103.83MB
+Date Added:
+23/5/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-5-0-release-notes/
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.5</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.5/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+105.32MB
+Date Added:
+23/5/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-5-0-release-notes/
+DescriptionContains Aspose.OMR for .NET 23.5 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8e1975fdd67cf45a1db7d0528d0cf924-22-8890&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.6</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.6/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+105.32MB
+Date Added:
+19/6/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-6-0-release-notes/
+DescriptionContains Aspose.OMR for .NET 23.6 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=38abb785cb80bc34f397e34a3c79fc7f-22-9040&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.6-(dlls-only)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.6-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.6-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.6 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+103.84MB
+Date Added:
+19/6/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-6-0-release-notes/
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.6.1-(dlls-only)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.6.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.6.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.6.1 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+103.87MB
+Date Added:
+30/6/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-6-1-release-notes/
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.6.1</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.6.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.6.1/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.6.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+105.35MB
+Date Added:
+30/6/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-6-1-release-notes/
+DescriptionContains Aspose.OMR for .NET 23.6.1 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0e122e44c3dfc98a500d88eb4b4bf408-22-9158&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.7</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.7/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+132.42MB
+Date Added:
+7/7/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-7-0-release-notes/
+DescriptionContains Aspose.OMR for .NET 23.7 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7fefca4be5ec57d5c08a0c932477ff1b-27-9188&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.7-(dlls-only)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.7-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.7-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.7 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+130.67MB
+Date Added:
+7/7/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-7-0-release-notes/
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.8-(dlls-only)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.8-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.8-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.8 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+157.96MB
+Date Added:
+31/8/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-8-0-release-notes/
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.8</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.8/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+158.52MB
+Date Added:
+31/8/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-8-0-release-notes/
+DescriptionContains Aspose.OMR for .NET 23.8 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e2445306c28cd61b42a55c73e7440dbd-32-9429&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.9</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.9/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+158.52MB
+Date Added:
+14/9/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-9-0-release-notes/
+DescriptionContains Aspose.OMR for .NET 23.9 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=10bd14916a9d731a22134c8319df84be-32-9458&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.9-(dlls-only)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.9-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.9 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+157.96MB
+Date Added:
+14/9/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-9-0-release-notes/
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.10-(dlls-only)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.10-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.10-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.10 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+157.97MB
+Date Added:
+26/10/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-10-0-release-notes/
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.10</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.10/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+158.53MB
+Date Added:
+26/10/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-10-0-release-notes/
+DescriptionContains Aspose.OMR for .NET 23.10 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=319e054358cb7ad3803b396e78740ec3-32-9673&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.11</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.11/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+158.52MB
+Date Added:
+17/11/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-11-0-release-notes/
+DescriptionContains Aspose.OMR for .NET 23.11 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=37c6a802bb6298fc33e393a3a1b330ab-32-9841&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.11-(dlls-only)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.11-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.11-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.11 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+157.97MB
+Date Added:
+17/11/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-11-0-release-notes/
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.12-(dlls-only)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.12-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.12-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.12 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+157.96MB
+Date Added:
+20/12/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-12-0-release-notes/
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.12</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.12/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+158.52MB
+Date Added:
+20/12/2023
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-12-0-release-notes/
+DescriptionContains Aspose.OMR for .NET 23.12 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8ba8e65364a2a1382467154db26e7707-32-10021&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-23.12-(dlls-only;aspose.drawing)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.12-dlls-onlyaspose.drawing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-23.12-dlls-onlyaspose.drawing/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 23.12 (DLLs only;Aspose.Drawing)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+59.86MB
+Date Added:
+17/1/2024
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2023/aspose-omr-for-net-23-12-0-release-notes/
+DescriptionVariation with Aspose.Drawing instead of System.Drawing. Can provide a better template generation in a non-windows systems.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=419ca1ada0c6497e5c9d3e8a267694ab-12-10160&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-24.1</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-24.1/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 24.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+158.52MB
+Date Added:
+20/1/2024
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2024/aspose-omr-for-net-24-1-0-release-notes
+DescriptionContains Aspose.OMR for .NET 24.1 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f84f11ec9c118ad7b1b77bed4f65aa84-32-10181&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-24.1-(dlls-only)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-24.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-24.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 24.1 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+157.97MB
+Date Added:
+20/1/2024
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2024/aspose-omr-for-net-24-1-0-release-notes
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-24.2</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-24.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-24.2/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 24.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+158.96MB
+Date Added:
+1/2/2024
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2024/aspose-omr-for-net-24-2-0-release-notes/
+DescriptionContains Aspose.OMR for .NET 24.2 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=86390cda323b9e3da151eb640acfd847-32-10268&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.omr-for-.net-24.2-(dlls-only)</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-24.2-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr-for-.net-24.2-dlls-only/</guid><description>&amp;nbsp;
+Aspose.OMR for .NET 24.2 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+158.4MB
+Date Added:
+1/2/2024
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2024/aspose-omr-for-net-24-2-0-release-notes/
+DescriptionThis ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.omr.handwriting-for-.net-24.2</title><link>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr.handwriting-for-.net-24.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/omr/net/new-releases/aspose.omr.handwriting-for-.net-24.2/</guid><description>&amp;nbsp;
+Aspose.OMR.Handwriting for .NET 24.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+45.39MB
+Date Added:
+1/2/2024
+Release Noteshttps://releases.aspose.com/omr/net/release-notes/2024/aspose-omr-for-net-24-2-0-release-notes/
+DescriptionExtension to Aspose.OMR for .NET. Adds support for handwritten text input to machine-readable OMR forms. https://www.nuget.org/packages/Aspose.OMR.Handwriting/24.2.0#readme-body-tab
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f515ed61d629c6ac2609a1e33646033a-10-10270&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item></channel></rss>

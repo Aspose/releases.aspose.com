@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DWF on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/dwf/</link><description>Recent content in DWF on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 13 Jun 2023 16:17:07 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/tags/dwf/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---New-Releases--aspose.cad-for-jasperreports-20.12 .</title><link>https://releases-qa.aspose.com/cad/jasperreports/new-releases/-aspose.cad-for-jasperreports-20.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cad/jasperreports/new-releases/-aspose.cad-for-jasperreports-20.12/</guid><description>&amp;nbsp;
+Aspose.CAD for JasperReports 20.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+6
+File Size:
+32.0 MB
+Posted By:
+Denis.Demenko
+Views:
+17
+Date Added:
+9/16/2021
+Release Noteshttps://releases.aspose.com/cad/jasperreports/release-notes/2020/aspose-cad-for-jasperreports-20-12-release-notes/DescriptionIt contains Aspose.CAD for JasperReports 20.12 release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3762fc1d906c46ada22aa4cbb8855b82&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Aspose.CAD Java 23.8 | CAD and BIM Processing Conversion Java API SDK</title><link>https://releases-qa.aspose.com/cad/java/</link><pubDate>Sat, 18 Nov 2023 13:38:35 +0000</pubDate><guid>https://releases-qa.aspose.com/cad/java/</guid><description>CAD File Conversion API for Java
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.CAD for Java allows developers to export and convert CAD and BIM drawing files like DWG, DXF, DWT, DAE and others to PDF, Vector and Raster images. It is a native API and does not require AutoCAD or any other software to be installed.</description></item><item><title> Aspose - Downloads</title><link>https://releases-qa.aspose.com/cad/jasperreports/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cad/jasperreports/</guid><description>Support Forum
+Download Aspose.CAD to Render CAD drawings within JasperReports® A standalone class library to extend JasperReports functionality to process &amp; render CAD Drawings without requiring AutoCAD or any other CAD software. The CAD Class Library allows high quality conversion of DWG, DWT, DWF, DWFX, IFC, PLT, DGN, OBJ, STL, IGES, CF2 files, layouts and layers to PDF &amp; raster image formats.
+You can easily use aspose-cad-jasperreports for Java directly from a Maven based project by adding following configurations to the pom.</description></item><item><title>Aspose.CAD 23.3 | AutoCAD Processing &amp; Conversion Java API</title><link>https://releases-qa.aspose.com/cad/java/23-3/</link><pubDate>Tue, 13 Jun 2023 16:17:07 +0000</pubDate><guid>https://releases-qa.aspose.com/cad/java/23-3/</guid><description>CAD File Conversion API for Java Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.CAD for Java allows developers to convert AutoCAD DWG and DXF files to PDF and Raster images. It is a native API and does not require AutoCAD or any other software to be installed. You can also convert the selected layers and layouts from the AutoCAD files.</description></item><item><title>Aspose.CAD Java 23.5 | CAD and BIM Processing Conversion Java API SDK</title><link>https://releases-qa.aspose.com/cad/java/23-5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cad/java/23-5/</guid><description>CAD File Conversion API for Java Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.CAD for Java allows developers to export and convert CAD and BIM drawing files like DWG, DXF, DWT, DAE and others to PDF, Vector and Raster images. It is a native API and does not require AutoCAD or any other software to be installed.</description></item></channel></rss>

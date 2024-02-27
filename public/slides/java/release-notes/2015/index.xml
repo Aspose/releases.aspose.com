@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Release Notes - 2015 on Releases - aspose.com</title><link>https://releases-qa.aspose.com/slides/java/release-notes/2015/</link><description>Recent content in Release Notes - 2015 on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/slides/java/release-notes/2015/index.xml" rel="self" type="application/rss+xml"/><item><title>Aspose.Slides for Java 15.11.0 Release Notes</title><link>https://releases-qa.aspose.com/slides/java/release-notes/2015/aspose-slides-for-java-15-11-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/java/release-notes/2015/aspose-slides-for-java-15-11-0-release-notes/</guid><description>Other Improvements and Chages Bug Fixes SLIDESJAVA-35143 - pdf rendered incorrectly
+SLIDESJAVA-35137 - Wrong text underline type returned for text
+SLIDESJAVA-35136 - Setting text underline color not working
+SLIDESJAVA-35129 - Creation Date and Last Save Time fields are not extracted correctly
+SLIDESJAVA-35120 - Shape to BMP thumbnail is not working
+SLIDESJAVA-35116 - Incorrect text on presentation load and save
+SLIDESJAVA-35107 - Incorrect chart legend displayed
+SLIDESJAVA-35106 - PptxReadException thrown on loading pptx</description></item><item><title>Aspose.Slides for Java 15.8.0 Release Notes</title><link>https://releases-qa.aspose.com/slides/java/release-notes/2015/aspose-slides-for-java-15-8-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/java/release-notes/2015/aspose-slides-for-java-15-8-0-release-notes/</guid><description>Minor Changes SLIDESNET-35418 - Set Doughnut Hole Size in Doughnut Chart
+SLIDESJAVA-33949 - Support for embedding video for Media Player ActiveX control
+Other Improvements and Changes Bug Fixes SLIDESJAVA-35037 - SAXParseException on set license method
+SLIDESJAVA-35029 - Hyperlink is returned in two portions of text
+SLIDESJAVA-35016 - Incorrect slide design rendered on odp to html conversion
+SLIDESJAVA-35015 - Disturbed layout on odp to html conversion
+SLIDESJAVA-35014 - Background and hyperlink color is lost on odp to html conversion</description></item><item><title>Aspose.Slides for Java 15.7.0 Release Notes</title><link>https://releases-qa.aspose.com/slides/java/release-notes/2015/aspose-slides-for-java-15-7-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/java/release-notes/2015/aspose-slides-for-java-15-7-0-release-notes/</guid><description>Minor Changes SLIDESNET-36484 - Support for reading password protected file in read only mode
+SLIDESNET-35575 - Feature to specify the vary color by point option when setting the fill format of datapoints
+SLIDESNET-27841 - DPI Setting for TIFF image
+SLIDESNET-36469 - Implementation of drawing chart objects on the Aspose.Slides canvas
+SLIDESNET-36062 - Implement Charts rendering directly in ApsCanvas
+SLIDESJAVA-34805 - Setting default zoom size for presentation when it will open in PowerPoint</description></item><item><title>Aspose.Slides for Java 15.6.0 Release Notes</title><link>https://releases-qa.aspose.com/slides/java/release-notes/2015/aspose-slides-for-java-15-6-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/java/release-notes/2015/aspose-slides-for-java-15-6-0-release-notes/</guid><description>Minor Changes SLIDESJAVA-34866 - Support for cleaning of PowerPoint document properties
+SLIDESJAVA-34642 - Setting custom position and size for chart legends
+SLIDESJAVA-34305 - Joining connector to shapes in PPTX
+SLIDESNET-36325 - Support for removing Notes slides in presentation
+Other improvements and changes Bug fixes SLIDESJAVA-34930 - Font name not shown from title placeholder
+SLIDESJAVA-34926 - NullPointer exception on loading the presentation
+SLIDESJAVA-34921 - Error while opening the saved presentation with Animations</description></item><item><title>Aspose.Slides for Java 15.5.0 Release Notes</title><link>https://releases-qa.aspose.com/slides/java/release-notes/2015/aspose-slides-for-java-15-5-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/java/release-notes/2015/aspose-slides-for-java-15-5-0-release-notes/</guid><description>Minor Changes SLIDESNET-36346 - Setting default zoom size for presentation when it will open in PowerPoint
+SLIDESNET-34169 - Support for generating PDF of only slide notes
+SLIDESNET-33598 - Change the position of category axis
+Other Improvements and Changes Bug Fixes SLIDESJAVA-34903 - Improper text rendering in generated Html
+SLIDESJAVA-34868 - ClassCastException occurs when a connector is added
+SLIDESJAVA-34864 - Image distortion in a generated html
+SLIDESJAVA-34860 - Low image rendering quality in generated thumbnail and PDF</description></item><item><title>Aspose.Slides for Java 15.4.0 Release Notes</title><link>https://releases-qa.aspose.com/slides/java/release-notes/2015/aspose-slides-for-java-15-4-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/java/release-notes/2015/aspose-slides-for-java-15-4-0-release-notes/</guid><description>Major Features Major Features SLIDESNET-31745 - Connectors layouting
+Minor Features Minor Features
+SLIDESNET-36224 - Unique IDs for symbol id for pictures is needed when exporting slides with images to HTML
+SLIDESNET-35359 - Presentation.GetSlideByID() missing in Aspose.Slides
+SLIDESNET-33702 - Saving presentation in different slide view types
+SLIDESNET-17922 - Splitting table cells
+SLIDESNET-3681 - Accessing objects on the notes page view
+SLIDESNET-36285 - Implement serialization and deserialization of emdedded fonts for PPT</description></item><item><title>Aspose.Slides for Java 15.3.0 Release Notes</title><link>https://releases-qa.aspose.com/slides/java/release-notes/2015/aspose-slides-for-java-15-3-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/java/release-notes/2015/aspose-slides-for-java-15-3-0-release-notes/</guid><description>Major Features Improved SmartArt customization support
+All changes SLIDESJAVA-34768 - Aspose.Slides takes big time to export 1 slide presentaiton to PDF
+SLIDESJAVA-34737 - Same font substituted with different fonts on different slides by Aspose.Slides
+SLIDESJAVA-34796 - FontsLoader.clearCache() does not remove the temp file created
+SLIDESJAVA-34787 - Improvement in IWarningCallback output
+SLIDESJAVA-8062 - Throw exception if unattached portion is set
+SLIDESJAVA-34791 - PDF OLE object failed to get added in powerpoint</description></item><item><title>Aspose.Slides for Java 15.2.0 Release Notes</title><link>https://releases-qa.aspose.com/slides/java/release-notes/2015/aspose-slides-for-java-15-2-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/java/release-notes/2015/aspose-slides-for-java-15-2-0-release-notes/</guid><description>get started with Aspose.Slides for Java.
+request a free 30-day temporary license.
+Minor Features SLIDESNET-35378 - RemoveAt method for chart series data point collection is missing
+SLIDESNET-34872 - To get Fill Color of Series when Fill Type is Automatic
+SLIDESNET-36088 - Implement all types of hyperlink monikers
+SLIDESNET-34858 - Support for availability of same property for getting the file format as of Aspsoe.Cells and Aspsoe.Words
+Other Improvements ans Changes Bug Fixes SLIDESJAVA-34759 - The slide background is wrongly rendered in generated PDF</description></item><item><title>Aspose.Slides for Java 15.1.0 Release Notes</title><link>https://releases-qa.aspose.com/slides/java/release-notes/2015/aspose-slides-for-java-15-1-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/java/release-notes/2015/aspose-slides-for-java-15-1-0-release-notes/</guid><description>get started with Aspose.Slides for Java.
+request a free 30-day temporary license.
+Major Features Major Features SLIDESNET-35615 - FontEntity class alternate / implementation in the latest version of Aspose.Slides
+Minor Features SLIDESJAVA-34406 - Support for managing VBA macros inside presentation
+SLIDESJAVA-34271 - Support to remove macros in presentation
+SLIDESJAVA-34246 - Feature to Join PortionEx with same formatting
+SLIDESJAVA-34156 - Support for Aspose.Slides jar file to act as OSGi bundles
+SLIDESJAVA-34028 - Support for scaling options of image added in slide shapes</description></item><item><title>Aspose.Slides for Java 15.10.0 Release Notes</title><link>https://releases-qa.aspose.com/slides/java/release-notes/2015/aspose-slides-for-java-15-10-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/slides/java/release-notes/2015/aspose-slides-for-java-15-10-0-release-notes/</guid><description>Minor Changes SLIDESNET-36651 - Animating chart series API
+Other improments and changes Bug Fixes SLIDESJAVA-35117 - Portion font changed on inserting portion
+SLIDESJAVA-35114 - Incorrect TiffNotes generated from pptx
+SLIDESJAVA-35112 - Shape Height gets changed in generated thumbnail
+SLIDESJAVA-35110 - Generated tiff is blurred and image is missing
+SLIDESJAVA-35096 - PptxReadException on ppt load in Solaris
+SLIDESJAVA-35092 - Empty column is missing in generated PDF
+SLIDESJAVA-35091 - Diagram missing on ppt to pdf</description></item></channel></rss>

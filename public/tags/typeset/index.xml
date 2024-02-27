@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TypeSet on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/typeset/</link><description>Recent content in TypeSet on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/tags/typeset/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads ---New Releases-aspose.tex-for-.net-23.8-(dlls-and-docs)</title><link>https://releases-qa.aspose.com/tex/net/new-releases/aspose.tex-for-.net-23.8-dlls-and-docs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/tex/net/new-releases/aspose.tex-for-.net-23.8-dlls-and-docs/</guid><description>&amp;nbsp;
+Aspose.TeX for .NET 23.8 (DLLs and docs)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+33.23MB
+Date Added:
+14/8/2023
+Release Noteshttps://docs.aspose.com/tex/net/aspose-tex-for-net-23-8-release-notes/
+DescriptionIt contains Aspose.TeX for .NET 23.8 (DLLs and docs) release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f500915d90b22118ce96e7067cd5982a-7-9320&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item></channel></rss>

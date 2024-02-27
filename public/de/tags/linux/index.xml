@@ -1,0 +1,1462 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Linux on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/tags/linux/</link><description>Recent content in Linux on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Tue, 13 Dec 2022 06:09:16 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/de/tags/linux/index.xml" rel="self" type="application/rss+xml"/><item><title>C#-Bibliothek zum Erstellen und Speichern von Schriftarten herunterladen | Aspose.Font-API</title><link>https://releases-qa.aspose.com/de/font/net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/</guid><description>Support Forum
+Laden Sie Aspose.Font herunter, um Text zu zeichnen Offen
+NuGetPackage Manager in Microsoft Visual Studio®, suchen Sie nach Aspose.Font und installieren Sie es. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die
+InstallationDokumentationsseite.
+Release-opmerkingen
+PM&amp;gt;
+Install-Package Aspose.Font
+&amp;nbsp;
+Product Page | Docs | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>On-Premise-API für 2D-Vektorgrafiken | Aspose.Drawing für .NET</title><link>https://releases-qa.aspose.com/de/drawing/net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/drawing/net/</guid><description>Support Forum
+Laden Sie Aspose.Drawing herunter, um 2D-Grafiken zu verarbeiten Offen
+NuGetPackage Manager im Microsoft Visual Studio®, suchen Sie nach Aspose.Drawing und installieren Sie es. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die
+InstallationDokumentationsseite.
+Release-opmerkingen
+Downloaden
+PM&amp;gt;
+Install-Package Aspose.Drawing
+&amp;nbsp;
+Product Page | Docs | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>ASSON.DIAGRAM | Java -Bibliothek zum Erstellen, Exportieren von Visio -Dokumenten</title><link>https://releases-qa.aspose.com/de/diagram/java/</link><pubDate>Tue, 13 Dec 2022 06:09:16 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/java/</guid><description>Java API für Microsoft Visio &amp;amp; Reg; Dateiformate
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Diagram for Java API ist eine Lösung für Microsoft Visio -Dateimanipulationsanforderungen. Die Java-Anwendungen können Microsoft-Visio-Diagramme lesen, schreiben, exportieren und verarbeiten, während alle Visio-Objekte und Eigenschaften einschließlich Formen, Seiten, Bilder, Formmeister, Schablonen, Text, Schichten, Header, Fußzeilen, benutzerdefinierten Zellen, Hyperlinks, Hyperlinks, Layer, Header, Fußzeilen, Hyperlinks, unterstützt werden, die Unterstützung Dateischutz, Geometrien, Textfelder und Kommentare.</description></item><item><title>ASSONE.CELLS | Excel -Tabellenkalkulations -Java -Bibliothek aus Excel</title><link>https://releases-qa.aspose.com/de/cells/java/</link><pubDate>Mon, 12 Dec 2022 06:35:39 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/</guid><description>Java -API für Excel -Dateiformate
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Cells for Java ist eine preisgekrönte Excel-Tabellenkalkulations-API, mit der Java-Entwickler die Fähigkeit einbetten können, Excel &amp;amp; reg zu lesen, zu schreiben und zu manipulieren. Tabellenkalkulationen (XLS, XLSX, XLSM, XLSB, XLTX, SpreadsheetML, CSV, ODS), HTML, MHTML, PDF und Bilddatei -Formate in ihre eigenen Java -Anwendungen, ohne sich auf Microsoft Excel &amp;amp; Reg;</description></item><item><title>ASSOSPE.IMAGING | Verarbeiten und konvertieren Bilder über die Java -Bibliothek</title><link>https://releases-qa.aspose.com/de/imaging/java/</link><pubDate>Mon, 05 Dec 2022 13:31:14 +0000</pubDate><guid>https://releases-qa.aspose.com/de/imaging/java/</guid><description>Java -API für die Bildverarbeitung
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Es handelt sich um eine eigenständige Bildgebungs -API, die aus Java -Routinen besteht, die es Ihren Java -Anwendungen ermöglichen, zu zeichnen und eine grundlegende bis fortgeschrittene Verarbeitung von Raster- und Vektorbildern durchzuführen. ASSOSE.IMAGING FÜR JAVA bietet eine robuste Bildkomprimierung und eine hohe Verarbeitungsgeschwindigkeit durch nativen Byte -Zugriff und eine Reihe effizienter Algorithmen.</description></item><item><title>Aspose.OCR | Bildcharaktererkennung Java Klassenbibliothek</title><link>https://releases-qa.aspose.com/de/ocr/java/</link><pubDate>Wed, 30 Nov 2022 20:51:46 +0000</pubDate><guid>https://releases-qa.aspose.com/de/ocr/java/</guid><description>Java OCR -Bibliothek
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.OCR for Java ist ein Zeichen für Zeichen und optische Markerkennung, mit der Entwickler OCR -Funktionen in ihren Anwendungen hinzufügen können. Es bietet einen einfachen Klassensatz zur Steuerung der Charaktererkennung.
+Image über Java in Text in Text konvertieren Lesen Sie Zeichen aus Bildern. Unterstützung für JPG-, PNG-, GIF-, BMP- und TIFF -Bilddateiformate für OCR.</description></item><item><title>ASSON.PDF | Java PDF -Dokumentverarbeitungsklassenbibliothek</title><link>https://releases-qa.aspose.com/de/pdf/java/</link><pubDate>Wed, 30 Nov 2022 14:34:18 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/java/</guid><description>Java -API, um PDF -Dateien zu verarbeiten und zu manipulieren
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.PDF for Java ist eine PDF -Dokumenterstellungskomponente, mit der Ihre Java -Anwendungen PDF -Dokumente ohne Adobe Acrobat lesen, schreiben und manipulieren können.
+asspos.pdf Paketfunktionen PDF -Dokumentgrmeur Setzen Sie grundlegende Informationen (z. B. Autor, Ersteller) des PDF -Dokuments. Konfigurieren Sie die Eigenschaften der PDF -Seiten (z.</description></item><item><title>ASSONE.PAGE | Java -Klassenbibliothek für die PostScript -Verarbeitung</title><link>https://releases-qa.aspose.com/de/page/java/</link><pubDate>Thu, 24 Nov 2022 03:07:50 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/java/</guid><description>Java -APIs für PS-, EPS- und XPS -Dateiformate
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Page for Java bietet XPS -Dokumente an. Es bietet auch Funktionen zum Umwandeln von XPS-, PS- und EPS -Dokumenten in Bildformate und PDF.
+Manipulieren Sie XPS -Dokumente über Java XPS -Dokument erstellen und bearbeiten. Seiten des XPS -Dokuments hinzufügen oder entfernen.</description></item><item><title>ASSOSH.Slides | Java -Bibliothek, um PowerPoint -Formate zu verarbeiten</title><link>https://releases-qa.aspose.com/de/slides/java/</link><pubDate>Wed, 23 Nov 2022 19:22:59 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/java/</guid><description>Java Powerpoint API
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Slides Eine Java Powerpoint -API für die Manipulation und das Management der Präsentation. Es ermöglicht Entwicklern, PowerPoint -Präsentationen in Java -Anwendungen zu lesen, zu schreiben, zu konvertieren und zu manipulieren, mit der Fähigkeit, alle Dokumentelemente wie Folien, Tabellen, Text, Diagramme, Formen, Bilder und SmartArt -Diagramme und mehr zu manipulieren.</description></item><item><title>ASSON.FONT | Java -Schriftverarbeitungs -API | TT, CFF, OT, Typ1</title><link>https://releases-qa.aspose.com/de/font/java/</link><pubDate>Mon, 21 Nov 2022 13:16:59 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/java/</guid><description>Java -API für verschiedene Schriftformate
+Produktseite | Dokumente | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Font for Java ist eine Schriftladungs- und Zeichnungsbibliothek. Es unterstützt mehrere Frontformate wie TrueType (mit TrueType Collectons), CFF, Openentype und Typ1. Die API bietet eine umfangreiche Funktionalität zum Laden/Speichern von Schriftarten und zur Verfügung, die Informationen zu ihren Datenstrukturen zusammen mit allen Glyphen liefern, die von allen Schriftarten unterstützt werden.</description></item><item><title>ASSOSPE.TASKS | Java -Bibliothek zum CEATE- und Verwalten von Projektaufgaben</title><link>https://releases-qa.aspose.com/de/tasks/java/</link><pubDate>Fri, 18 Nov 2022 10:03:34 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/java/</guid><description>Microsoft Project Datei Manipulation API
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Tasks Eine Java -Projektmanagement -API zur Manipulation von Microsoft -Projektdateien. Entwickler können die Haupt- und Standardeigenschaften eines Projekts sowie Kalenderinformationen definieren. API bietet außerdem die Möglichkeit, Wochentage und Kalenderausnahmen anzugeben und gleichzeitig die Hinzufügen und Neuberechnung von Aufgaben, Ressourcen und anderen Daten ohne Benutzerintervention zu erleichtern.</description></item><item><title>ASSON.TEX | Java -Bibliothek zum Typenset &amp; konvertieren Tex -Dateien</title><link>https://releases-qa.aspose.com/de/tex/java/</link><pubDate>Wed, 16 Nov 2022 08:40:02 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tex/java/</guid><description>Java -API zu Typeet Tex -Dateien
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.TeX for Java ist eine Bibliothek, die eine Tex Engine -Erweiterung namens ObjectTex bietet. Es kann verwendet werden, um Dokumente von Tex -Dateien zu entsprechen. &amp;ldquo;Objekt&amp;rdquo; bedeutet, dass ein intermediNTypeSeting -Ergebnis ein spezifisches Objektmodell ist, das dann gleichmäßig in eine Reihe von Endformaten umgewandelt werden kann.</description></item><item><title>ASSON.CAD | Java -Bibliothek zur Verarbeitung/Konvertierung von Autocad -Formaten</title><link>https://releases-qa.aspose.com/de/cad/java/</link><pubDate>Thu, 10 Nov 2022 08:21:18 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/java/</guid><description>CAD -Dateikonvertierungs -API für Java
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Mit Aspose.CAD for Java können Entwickler Autocad DWG- und DXF -Dateien in PDF- und Raster -Bilder konvertieren. Es handelt sich um eine native API und erfordert keine Autokad oder eine andere Software, die installiert werden muss. Sie können auch die ausgewählten Ebenen und Layouts aus den AutoCAD -Dateien konvertieren.</description></item><item><title>ASSON.PUB | Elektronische Veröffentlichungsdateien Java -Klassenbibliothek</title><link>https://releases-qa.aspose.com/de/pub/java/</link><pubDate>Thu, 01 Sep 2022 16:35:25 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/java/</guid><description>Pub -Dateien über Java -API verarbeiten
+Produktseite | Dokumente | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.PUB for Java ist eine Java -API, die Microsoft Publisher (.pub) -Dateien in PDF lesen, manipulieren und konvertieren kann. Sie können die API in Ihren Java -Anwendungen verwenden, um mit .Pub -Dateien zu arbeiten, ohne sich über das zugrunde liegende Filie -Format zu sorgen. Die API kann sowohl im Java -Desktop als auch im Webanwendungen mit JSP verwendet werden.</description></item><item><title>ASSON.PSD | Java -Klassenbibliothek zum Rendern von PSD- und PSB -Formaten</title><link>https://releases-qa.aspose.com/de/psd/java/</link><pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/psd/java/</guid><description>Java -Bibliothek für Photoshop -Dateien
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.PSD for Java ist eine einfach zu verwendende Manipulation -API von Adobe Photoshop -Dateiformat. Es kann einfach PSD-, PSB- und AI -Dateien geladen und lesen, was den Java -Entwicklern ermöglicht, Vorgänge wie Aktualisierung von Ebeneneigenschaften, Hinzufügen von Wasserzeichen, Komprimierung, Rotation, Skalierung oder Rendern eines Dateiformats an ein anderes hinzuzufügen, ohne Adobe Photoshop zu installieren.</description></item><item><title>ASSON.OMR | Java -Klassenbibliothek für digitale Markenextraktion</title><link>https://releases-qa.aspose.com/de/omr/java/</link><pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/omr/java/</guid><description>Java API, um OMR auszuführen
+Heim | Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.OMR for Java ist eine Java -Klassenbibliothek, die API zur Erkennung optischer Markierungen aus Digitalisierten Blattbildern von OMR bietet. Es kann verwendet werden, um optische Markierungen in einer Vielzahl von Bildformaten wie BMP, JPG, TIF, TIFF, GIF zu erkennen. Die API ermöglicht das Erfassen von Daten mit Menschenmarkierter aus Dokumentformularen wie Umfragen, Fragebögen, Multiple-Choice-Prüfungsarbeiten und anderen Tests.</description></item><item><title>Laden Sie Outlook® Objects Processing C++ DLL herunter | Aspose.E-Mail</title><link>https://releases-qa.aspose.com/de/email/cpp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/email/cpp/</guid><description>Support Forum
+Laden Sie die C&amp;#43;&amp;#43;-Bibliothek herunter, um mit E-Mails zu arbeiten Offen
+NuGetPackage Manager in Microsoft Visual Studio®, suchen Sie nach Aspose.Email.Cpp und installieren Sie es. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die
+InstallationDokumentationsseite.
+Release-opmerkingen
+Downloaden
+PM&amp;gt;
+Install-Package Aspose.Email.Cpp
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Laden Sie die Python-Bibliothek herunter, um OCR durchzuführen | Aspose.OCR API</title><link>https://releases-qa.aspose.com/de/ocr/python-net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/ocr/python-net/</guid><description>Support Forum
+Laden Sie Aspose.OCR für Python über .NET zur Bilderkennung herunter. Fügen Sie OCR-Funktionen (Optical Character Recognition) zu Ihren Datenwissenschafts-, KI- und Automatisierungslösungen hinzu, die in Python 3.6 oder höher geschrieben sind. Extrahieren Sie Text aus Fotos, Scans, PDF-Dokumenten und anderen Grafikdateien, ohne sich mit komplexen mathematischen Operationen, neuronalen Netzen und anderen technischen Details befassen zu müssen.
+Aspose.OCR für Python über .NET kann hier heruntergeladen und mit dem folgenden Befehl vom lokalen Dateisystem installiert werden:
+&amp;gt;
+pip install aspose-ocr-python-net &amp;nbsp;</description></item><item><title>Aspose.Cells für Python über .NET</title><link>https://releases-qa.aspose.com/de/cells/python-net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-net/</guid><description>Support Forum
+Laden Sie die Aspose.Cells-Python-Bibliothek für die Tabellenkalkulation herunter Aspose.Cells for Python via .NET ist eine skalierbare und funktionsreiche API zur Verarbeitung von Excel®-Tabellen mit Python. API bietet Excel®-Dateierstellung, -bearbeitung, -konvertierung und -wiedergabe. Entwickler können Arbeitsblätter, Zeilen, Spalten oder Zellen bis ins kleinste Detail formatieren, Diagramme und Pivot-Tabellen manipulieren, Arbeitsblätter, Diagramme und bestimmte Datenbereiche in PDF oder Bilder rendern, die integrierten und benutzerdefinierten Formeln von Excel® hinzufügen und vieles mehr mehr - alles ohne Abhängigkeit von Microsoft Office oder Excel®-Anwendung.</description></item><item><title>Aspose.Diagram für Python über .Net</title><link>https://releases-qa.aspose.com/de/diagram/python-net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/python-net/</guid><description>Support Forum
+Laden Sie die Aspose.Diagram-Python-Bibliothek für die Visio-Verarbeitung herunter Aspose.Diagram for Python via .NET ist eine skalierbare und funktionsreiche API zur Verarbeitung von Visio-Dateien mit Python. API bietet Visio-Dateierstellung, -bearbeitung, -konvertierung und -wiedergabe. Entwickler können Seiten bis ins kleinste Detail formatieren, Formen erstellen und manipulieren, Seiten rendern, Formen in PDF und Bilder umwandeln und vieles mehr – alles ohne Abhängigkeit von Microsoft Office oder Visio-Anwendungen.</description></item><item><title>Downloads --- NEW Releases-Assible.Diagram-for-Python-via -.net-23.8</title><link>https://releases-qa.aspose.com/de/diagram/python-net/new-releases/aspose.diagram-for-python-via-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/python-net/new-releases/aspose.diagram-for-python-via-.net-23.8/</guid><description>&amp;nbsp;
+ASSOSE.DIAGRAM für Python über .NET 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+179.65MB
+Datum hinzugefügt:
+21/8/2023
+Versionshinweisehttps://releases.aspose.com/diagram/python-net/release-notes/2023/aspose-diagram-for-python-via-net-23-8-release-notes/
+BeschreibungASSOSE.DIAGRAM für Python über .NET 23.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e4139ea3f4ab2080ebd8f6e42a475e96-36-9355&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Cells-for-Python-VIA -.net-23.8</title><link>https://releases-qa.aspose.com/de/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.8/</guid><description>&amp;nbsp;
+ASSONE.CELLS für Python über .NET 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+232.26MB
+Datum hinzugefügt:
+14/8/2023
+Versionshinweisehttps://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-8-release-notes/
+BeschreibungWeitere Einzelheiten finden Sie in Versionshinweise und Readme
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=499b3ac049068c7948d266b715652b3b-47-9323&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Laden Sie SVG Parser &amp; Converter .NET DLL herunter | Aspose.SVG-API</title><link>https://releases-qa.aspose.com/de/svg/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/svg/</guid><description>Support Forum
+Laden Sie Aspose.SVG herunter, um Vektorgrafiken zu verarbeiten Offen
+NuGetPackage Manager in Microsoft Visual Studio®, suchen Sie nach Aspose.SVG und installieren Sie es. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die
+InstallationDokumentationsseite.
+Release-opmerkingen
+Downloaden
+PM&amp;gt;
+Install-Package Aspose.SVG
+&amp;nbsp;
+Product Page | Docs | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>On-Premise-API für 2D-Vektorgrafiken | Aspose.Drawing Productfamilie</title><link>https://releases-qa.aspose.com/de/drawing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/drawing/</guid><description>Support Forum
+Laden Sie Aspose.Drawing herunter, um 2D-Grafiken zu verarbeiten Offen
+NuGetPackage Manager im Microsoft Visual Studio®, suchen Sie nach Aspose.Drawing und installieren Sie es. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die
+InstallationDokumentationsseite.
+Release-opmerkingen
+Downloaden
+PM&amp;gt;
+Install-Package Aspose.Drawing
+&amp;nbsp;
+Product Page | Docs | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.FONT-FOR-N.NET-23.8</title><link>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/net/new-releases/aspose.font-for-.net-23.8/</guid><description>&amp;nbsp;
+ASSON.FONT FÜR .NET 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+5.51MB
+Datum hinzugefügt:
+11/8/2023
+Versionshinweisehttps://releases.aspose.com/font/net/release-notes/2023/aspose-font-for-net-23-8-release-notes/
+BeschreibungEs enthält asspose.font für .NET 23.8 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=54520a149933f042b8affa81ec90a986-2-9317&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Email-for-C ++-23.5</title><link>https://releases-qa.aspose.com/de/email/cpp/new-releases/aspose.email-for-c++-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/email/cpp/new-releases/aspose.email-for-c++-23.5/</guid><description>&amp;nbsp;
+ASSOSE.EMAIL für C &amp;#43;&amp;#43; 23.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+424.32MB
+Datum hinzugefügt:
+13/7/2023
+Versionshinweisehttps://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-5-release-notes/
+BeschreibungEs enthält ASSOSE.Email für C ++ 23.5.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8f2ca51dfa94f3c36a82a2dd2f64ac5a-85-9209&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Email-for-C ++-23.6</title><link>https://releases-qa.aspose.com/de/email/cpp/new-releases/aspose.email-for-c++-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/email/cpp/new-releases/aspose.email-for-c++-23.6/</guid><description>&amp;nbsp;
+ASSOSE.EMAIL FÜR C &amp;#43;&amp;#43; 23.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+424.51MB
+Datum hinzugefügt:
+13/7/2023
+Versionshinweisehttps://releases.aspose.com/email/cpp/release-notes/2023/aspose-email-for-cpp-23-6-release-notes/
+BeschreibungEs enthält asspose.email für c ++ 23.6 veröffentlicht.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fd45fd09242e0591818d5163c924ca7e-85-9210&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.cells-for-c++-22.9(linux)</title><link>https://releases-qa.aspose.com/de/cells/cpp/new-releases/aspose.cells-for-c++-22.9linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/cpp/new-releases/aspose.cells-for-c++-22.9linux/</guid><description>&amp;nbsp;
+Aspose.Cells für C&amp;#43;&amp;#43; 22.9 (Linux)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+94.28MB
+Hinzugefügt am:
+6/9/2022
+Versionshinweise https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-linux-22-9-release-notes/
+BeschreibungEinzelheiten finden Sie in den Versionshinweisen und in der ReadMe
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e7eebf6b35507b83bbd323b3f1d360ac-19-7864&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.cells-for-cpp-22.10---october-2022</title><link>https://releases-qa.aspose.com/de/cells/cpp/new-releases/aspose.cells-for-cpp-22.10---october-2022/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/cpp/new-releases/aspose.cells-for-cpp-22.10---october-2022/</guid><description>&amp;nbsp;
+Aspose.Cells für C&amp;#43;&amp;#43; 22.10 (Linux)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+94.35MB
+Date Added:
+12/10/2022
+Versionshinweise https://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-linux-22-10-release-notes/
+BeschreibungEinzelheiten finden Sie in den Versionshinweisen und in der ReadMe
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b6e0228bc0361cdbff5f8baa88cfb112-19-7995&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASSPLE.Cells-for-C ++-22.11 (Linux)</title><link>https://releases-qa.aspose.com/de/cells/cpp/new-releases/aspose.cells-for-c++-22.11linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/cpp/new-releases/aspose.cells-for-c++-22.11linux/</guid><description>&amp;nbsp;
+ASSONE.CELLS FÜR C &amp;#43;&amp;#43; 22.11 (Linux)
+Downloaden&amp;nbsp;
+Downloaden&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+94.39MB
+Datum hinzugefügt:
+2/11/2022
+Versionshinweisehttps://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-linux-22-11-release-notes/
+BeschreibungWeitere Einzelheiten finden Sie in Versionshinweise und Readme
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=32f37dafcea06a989497a2243f699f84-19-8096&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-c++-22.12(linux</title><link>https://releases-qa.aspose.com/de/cells/cpp/new-releases/aspose.cells-for-c++-22.12linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/cpp/new-releases/aspose.cells-for-c++-22.12linux/</guid><description>&amp;nbsp;
+Aspose.Cells for C&amp;#43;&amp;#43; 22.12(Linux)
+Downloaden&amp;nbsp;
+Downloaden&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+94,45 MB
+Datum hinzugefügt:
+1/12/2022
+Versionshinweisehttps://releases.aspose.com/cells/cpp/release-notes/2022/aspose-cells-for-cpp-linux-22-12-release-notes/
+BeschreibungWeitere Informationen finden Sie in den Versionshinweisen und in der ReadMe-Datei
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3297b0f555abaf6c100d21ed0116380b-19-823&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-c++-23.1(linux</title><link>https://releases-qa.aspose.com/de/cells/cpp/new-releases/aspose.cells-for-c++-23.1linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/cpp/new-releases/aspose.cells-for-c++-23.1linux/</guid><description>&amp;nbsp;
+Aspose.Cells for C&amp;#43;&amp;#43; 23.1(Linux)
+Downloaden&amp;nbsp;
+Downloaden&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+94,49 MB
+Datum hinzugefügt:
+10/1/2023
+Versionshinweisehttps://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-linux-23-1-release-notes/
+BeschreibungWeitere Informationen finden Sie in den Versionshinweisen und in der ReadMe-Datei
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=17e8bc674cf63a1463044221fa38a75d-19-837&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-Asspsidle.Cells-for-C ++-23.2 (Linux)</title><link>https://releases-qa.aspose.com/de/cells/cpp/new-releases/aspose.cells-for-c++-23.2linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/cpp/new-releases/aspose.cells-for-c++-23.2linux/</guid><description>&amp;nbsp;
+ASSONE.CELLS FÜR C &amp;#43;&amp;#43; 23.2 (Linux)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+94.58MB
+Datum hinzugefügt:
+6/2/2023
+Versionshinweisehttps://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-linux-23-2-release-notes/
+BeschreibungWeitere Einzelheiten finden Sie in Versionshinweise und Readme
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4244fec2888b198cd02120fca7adb2b1-19-8494&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Cells-for-C ++-23.3 (Linux)</title><link>https://releases-qa.aspose.com/de/cells/cpp/new-releases/aspose.cells-for-c++-23.3linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/cpp/new-releases/aspose.cells-for-c++-23.3linux/</guid><description>&amp;nbsp;
+ASSOSE.CELLS FÜR C &amp;#43;&amp;#43; 23.3 (Linux)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+94.65MB
+Datum hinzugefügt:
+14/3/2023
+Versionshinweisehttps://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-linux-23-3-release-notes/
+BeschreibungWeitere Einzelheiten finden Sie in Versionshinweise und Readme
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5359d08090ac7c0bec501c4623059bfc-19-8626&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Cells-for-C ++-23.4 (Linux)</title><link>https://releases-qa.aspose.com/de/cells/cpp/new-releases/aspose.cells-for-c++-23.4linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/cpp/new-releases/aspose.cells-for-c++-23.4linux/</guid><description>&amp;nbsp;
+ASSONE.CELLS FÜR C &amp;#43;&amp;#43; 23.4 (Linux)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+94.75MB
+Datum hinzugefügt:
+11/4/2023
+Versionshinweisehttps://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-linux-23-4-release-notes/
+BeschreibungWeitere Einzelheiten finden Sie in Versionshinweise und Readme
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2a95ba266d0e955a41950720c5cb5e18-19-8739&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Cells-for-C ++-23.5 (Linux)</title><link>https://releases-qa.aspose.com/de/cells/cpp/new-releases/aspose.cells-for-c++-23.5linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/cpp/new-releases/aspose.cells-for-c++-23.5linux/</guid><description>&amp;nbsp;
+ASSONE.CELLS FÜR C &amp;#43;&amp;#43; 23.5 (Linux)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+95.59MB
+Datum hinzugefügt:
+12/5/2023
+Versionshinweisehttps://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-linux-23-5-release-notes/
+BeschreibungWeitere Einzelheiten finden Sie in Versionshinweise und Readme
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ee0e10f8e8d435f63e12973379198cda-20-8855&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Cells-for-C ++-23.6 (Linux)</title><link>https://releases-qa.aspose.com/de/cells/cpp/new-releases/aspose.cells-for-c++-23.6linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/cpp/new-releases/aspose.cells-for-c++-23.6linux/</guid><description>&amp;nbsp;
+ASSONE.CELLS FÜR C &amp;#43;&amp;#43; 23.6 (Linux)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+94.93MB
+Datum hinzugefügt:
+7/6/2023
+Versionshinweisehttps://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-windows-23-6-release-notes/
+BeschreibungWeitere Einzelheiten finden Sie in Versionshinweise und Readme
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9ba63a37180a583a636261a21b82e319-19-8954&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Cells-for-C ++-23.7 (Linux)</title><link>https://releases-qa.aspose.com/de/cells/cpp/new-releases/aspose.cells-for-c++-23.7linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/cpp/new-releases/aspose.cells-for-c++-23.7linux/</guid><description>&amp;nbsp;
+ASSONE.CELLs für C &amp;#43;&amp;#43; 23.7 (Linux)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+94.97MB
+Datum hinzugefügt:
+10/7/2023
+Versionshinweisehttps://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-linux-23-7-release-notes/
+BeschreibungWeitere Einzelheiten finden Sie in Versionshinweise und Readme
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=017d6786da737f90796598967b7afd71-19-9192&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.Cells-for-C ++-23.8 (Linux)</title><link>https://releases-qa.aspose.com/de/cells/cpp/new-releases/aspose.cells-for-c++-23.8linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/cpp/new-releases/aspose.cells-for-c++-23.8linux/</guid><description>&amp;nbsp;
+ASSOSE.CELLS FÜR C &amp;#43;&amp;#43; 23.8 (Linux)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+94.97MB
+Datum hinzugefügt:
+14/8/2023
+Versionshinweisehttps://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-linux-23-8-release-notes/
+BeschreibungWeitere Einzelheiten finden Sie in Versionshinweise und Readme
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ec02289cf435f182829da94b409b2c61-19-9326&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Drawing-for -.net-23.7</title><link>https://releases-qa.aspose.com/de/drawing/net/new-releases/aspose.drawing-for-.net-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/drawing/net/new-releases/aspose.drawing-for-.net-23.7/</guid><description>&amp;nbsp;
+ASSOSE.DRAWING FÜR .NET 23.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+7.31MB
+Datum hinzugefügt:
+7/7/2023
+Versionshinweisehttps://releases.aspose.com/drawing/net/release-notes/2023/aspose-drawing-for-net-23-7-release-notes/
+BeschreibungDas MSI -Installateur für ASSOSE.Drawing für .NET 23.7
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a5622774fe825457fca97b182af64a17-2-9190&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.Drawing-for -.net-23.7- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/drawing/net/new-releases/aspose.drawing-for-.net-23.7-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/drawing/net/new-releases/aspose.drawing-for-.net-23.7-dlls-only/</guid><description>&amp;nbsp;
+ASSOSE.DRAWING FÜR .NET 23.7 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+6.95MB
+Datum hinzugefügt:
+7/7/2023
+Versionshinweisehttps://releases.aspose.com/drawing/net/release-notes/2023/aspose-drawing-for-net-23-7-release-notes/
+BeschreibungDiese ZIP -Datei enthält ASPOSPE.Drawing für .NET Framework 2.0 und .NET Standard 2.0
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4e04f379105c4de4ab89aceaa6a334a4-2-9191&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---Neue Releases-aspose.tasks-for-c++-22.6-linux</title><link>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-22.6-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-22.6-linux/</guid><description>&amp;nbsp;
+Aspose.Tasks für C&amp;#43;&amp;#43; 22.6 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+57.73MB
+Hinzugefügt am:
+1/7/2022
+Versionshinweise https://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-6-release-notes/
+BeschreibungEs enthält Aspose.Tasks für C++ 22.6-Release-Linux-Only-Binärdateien
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a9938f1b5de4c7074d116ea55f7e8608-12-7598&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.tasks-for-c++-22.7-linux</title><link>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-22.7-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-22.7-linux/</guid><description>&amp;nbsp;
+Aspose.Tasks für C&amp;#43;&amp;#43; 22.7 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+58.03MB
+Hinzugefügt am:
+21/7/2022
+Versionshinweise https://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-7-release-notes/
+BeschreibungEs enthält Aspose.Tasks für C++ 22.7 Release Nur-Linux-Binärdateien
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=52225b1192b002ed40c38f7319396bec-12-7670&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.tasks-for-c++-22.8</title><link>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-22.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-22.8/</guid><description>&amp;nbsp;
+Aspose.Tasks für C&amp;#43;&amp;#43; 22.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+298.86MB
+Hinzugefügt am:
+1/9/2022
+Versionshinweise https://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-9-release-notes/
+BeschreibungEs enthält Aspose.Tasks for C++ 22.8 Release für Windows/Linux/MacOS
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c2db24627eb0bdb4c5065d82b78445b7-60-7836&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.tasks-for-c++-22.8-linux</title><link>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-22.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-22.8-linux/</guid><description>&amp;nbsp;
+Aspose.Tasks für C&amp;#43;&amp;#43; 22.8 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+58.12MB
+Hinzugefügt am:
+1/9/2022
+Versionshinweise https://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-9-release-notes/
+BeschreibungEs enthält Aspose.Tasks nur für C++ 22.8-Linux-Binärdateien
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a3052710be2922105937013e4e8c9edd-12-7838&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.tasks-for-c++-22.9</title><link>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-22.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-22.9/</guid><description>&amp;nbsp;
+Aspose.Tasks für C&amp;#43;&amp;#43; 22.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+299.14MB
+Hinzugefügt am:
+23/9/2022
+Versionshinweise https://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-9-release-notes/
+BeschreibungEs enthält Aspose.Tasks for C++ 22.9 Release für Windows/Linux/MacOS
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=45534e623929e701a3448039a7e7eb3f-60-7930&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.tasks-for-c++-22.9-linux</title><link>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-22.9-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-22.9-linux/</guid><description>&amp;nbsp;
+Aspose.Tasks für C&amp;#43;&amp;#43; 22.9 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+58.21MB
+Hinzugefügt am:
+23/9/2022
+Versionshinweise https://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-9-release-notes/
+BeschreibungEs enthält Aspose.Tasks nur für C++ 22.9-Linux-Binärdateien
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=34a0e93e3efa12bc5a84e2cb871b821c-12-7932&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.tasks-for-c++-22.10</title><link>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-22.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-22.10/</guid><description>&amp;nbsp;
+Aspose.Tasks für C&amp;#43;&amp;#43; 22.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+254.8MB
+Date Added:
+23/10/2022
+Versionshinweise https://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-10-release-notes/
+BeschreibungEs enthält Aspose.Tasks for C++ 22.10 Release für Windows/Linux
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5f08c63ac6729570add8e1cbb5e7a80c-51-8053&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.tasks-for-c++-22.10-linux</title><link>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-22.10-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-22.10-linux/</guid><description>&amp;nbsp;
+Aspose.Tasks für C&amp;#43;&amp;#43; 22.10 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+58.66MB
+Date Added:
+23/10/2022
+Versionshinweise https://releases.aspose.com/tasks/cpp/release-notes/2022/aspose-tasks-for-cpp-22-10-release-notes/
+BeschreibungEs enthält Aspose.Tasks nur für C++ 22.10-Linux-Binärdateien
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=68fe1e71b4873b8f7b01e187ac7fe66d-12-8055&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-Assible.Tasks-for-C ++-23.1</title><link>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.1/</guid><description>&amp;nbsp;
+ASSONE.TASKS FÜR C &amp;#43;&amp;#43; 23.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+299.9MB
+Datum hinzugefügt:
+27/1/2023
+Versionshinweisehttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-1-release-notes/
+BeschreibungEs enthält asspose.Tasks für C ++ 23.1 Release für Windows/Linux/macOS
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f552853761c82292af1bb158849d8e9f-60-8441&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.TASKS-FOR-C ++-23.1-Linux</title><link>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.1-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.1-linux/</guid><description>&amp;nbsp;
+ASSONE.TASKS FÜR C &amp;#43;&amp;#43; 23.1 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+58.53MB
+Datum hinzugefügt:
+27/1/2023
+Versionshinweisehttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-1-release-notes/
+BeschreibungEs enthält asspose.Tasks für C ++ 23.1 Linux Nur Binärdateien
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6b6efa62abc5ab3f26cbfda00f941d09-12-8443&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.TASKS-FOR-C ++-23.2</title><link>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.2/</guid><description>&amp;nbsp;
+ASSONE.TASKS FÜR C &amp;#43;&amp;#43; 23.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+300.84MB
+Datum hinzugefügt:
+22/2/2023
+Versionshinweisehttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-3-release-notes/
+BeschreibungEs enthält asspose.Tasks für C ++ 23.1 Release für Windows/Linux/macOS
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=30ca29e1cfadd94b76ad12421ddddf94-61-8551&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.TASKS-FOR-C ++-23,2-Linux</title><link>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.2-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.2-linux/</guid><description>&amp;nbsp;
+ASSOSE.TASKS FÜR C &amp;#43;&amp;#43; 23.2 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+58.55MB
+Datum hinzugefügt:
+22/2/2023
+Versionshinweisehttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-3-release-notes/
+BeschreibungEs enthält asspose.Tasks für C ++ 23.2 Linux Nur Binärdateien
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5bdde681f9e767088464e219382c8671-12-8553&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Versionen-aspose.pdf-für-c++-22.8-linux</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-22.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-22.8-linux/</guid><description>&amp;nbsp;
+Aspose.PDF für C&amp;#43;&amp;#43; 22.8 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+100.79MB
+Hinzugefügt am:
+17/8/2022
+Versionshinweise https://releases.aspose.com/pdf/cpp/release-notes/2022/aspose-pdf-for-cpp-22-8-release-notes/
+BeschreibungLinux-Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e8fe1712f500a87f41d889eb9ee4b7ee-21-7766&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.TASKS-FOR-C ++-23.3</title><link>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.3/</guid><description>&amp;nbsp;
+ASSOSE.TASKS FÜR C &amp;#43;&amp;#43; 23.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+301.09MB
+Datum hinzugefügt:
+28/3/2023
+Versionshinweisehttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-3-release-notes/
+BeschreibungEs enthält asspose.Tasks für C ++ 23.3 Release für Windows/Linux/macOS
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b899845dbc592b44288a294a2bb2b027-61-8695&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.TASKS-FOR-C ++-23,3-LINUX</title><link>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.3-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.3-linux/</guid><description>&amp;nbsp;
+ASSON.
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+58.59MB
+Datum hinzugefügt:
+28/3/2023
+Versionshinweisehttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-3-release-notes/
+BeschreibungEs enthält asspos
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5bacece4be5f6c28fa039dcfa4ecccfb-12-8697&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Versionen-aspose.pdf-für-c++-22.10-linux</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-22.10-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-22.10-linux/</guid><description>&amp;nbsp;
+Aspose.PDF für C&amp;#43;&amp;#43; 22.10 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+File Size:
+101.59MB
+Date Added:
+20/10/2022
+Versionshinweise https://releases.aspose.com/pdf/cpp/release-notes/2022/aspose-pdf-for-cpp-22-10-release-notes/
+BeschreibungLinux-Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=38b13d502cec117965132b41d2725f2e-21-8042&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.TASKS-FOR-C ++-23.4</title><link>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.4/</guid><description>&amp;nbsp;
+ASSON.
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+300.77MB
+Datum hinzugefügt:
+19/4/2023
+Versionshinweisehttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-4-release-notes/
+BeschreibungEs enthält asspose.Tasks für C ++ 23.4 Release für Windows/Linux/macOS
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6172abec014300d0f47ea1b752762fb5-61-8774&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.TASKS-FOR-C ++-23.4-LINUX</title><link>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.4-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.4-linux/</guid><description>&amp;nbsp;
+ASSON.
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+58.46MB
+Datum hinzugefügt:
+19/4/2023
+Versionshinweisehttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-4-release-notes/
+BeschreibungEs enthält asspose.Tasks für C ++ 23.4 Linux Nur Binärdateien
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4dd808cf0cb030e57174c3c78098902c-12-8776&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-Assible.Tasks-for-C ++-23.5</title><link>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.5/</guid><description>&amp;nbsp;
+ASSONE.TASKS FÜR C &amp;#43;&amp;#43; 23.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+294.46MB
+Datum hinzugefügt:
+26/5/2023
+Versionshinweisehttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-5-release-notes/
+BeschreibungEs enthält asspose.Tasks für C ++ 23.5 Release für Windows/Linux/macOS
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fce6bc5c0b348974b9dc462b73a5a10f-59-8910&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.TASKS-FOR-C ++-23,5-LINUX</title><link>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.5-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.5-linux/</guid><description>&amp;nbsp;
+ASSON.
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+58.28MB
+Datum hinzugefügt:
+26/5/2023
+Versionshinweisehttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-5-release-notes/
+BeschreibungEs enthält asspose.Tasks für C ++ 23.5 Linux Nur Binärdateien
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=477eb534a7f847500a48a3874865d7e4-12-8912&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSPOSPEN.PDF-FOR-C ++-23.1-Linux</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.1-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.1-linux/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.1 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+107.07MB
+Datum hinzugefügt:
+23/1/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-1-release-notes/
+BeschreibungLinux -Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=84f5c525b7014e29751e559fb3a92587-22-8416&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.TASKS-FOR-C ++-23.6</title><link>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.6/</guid><description>&amp;nbsp;
+ASSON.
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+294.82MB
+Datum hinzugefügt:
+23/6/2023
+Versionshinweisehttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-6-release-notes/
+BeschreibungEs enthält asspose.Tasks für C ++ 23.6 Release für Windows/Linux/macOS
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8b4b66886b7a0996aa83c155c91b05b9-59-9106&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-C ++-23.2-Linux</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.2-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.2-linux/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.2 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+107.26MB
+Datum hinzugefügt:
+20/2/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-2-release-notes/
+BeschreibungLinux -Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=aec0e7b7ffb86f0005541fbe7c2a532b-22-8536&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.TASKS-FOR-C ++-23.6-LINUX</title><link>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.6-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.6-linux/</guid><description>&amp;nbsp;
+ASSON.
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+58.34MB
+Datum hinzugefügt:
+23/6/2023
+Versionshinweisehttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-6-release-notes/
+BeschreibungEs enthält asspose.Tasks für C ++ 23.6 Linux Nur Binärdateien
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=10e27a51853cfa0a7ae9a072765aaabc-12-9107&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-C ++-23.3-Linux</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.3-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.3-linux/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.3 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+107.35MB
+Datum hinzugefügt:
+20/3/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-3-release-notes/
+BeschreibungLinux -Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=307acc0310a3bf5b35c136723f05ff7c-22-8648&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.TASKS-FOR-C ++-23.6- (Muli-Plattform)</title><link>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.6-muli-platform/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.6-muli-platform/</guid><description>&amp;nbsp;
+ASSOSE.TASKS FÜR C &amp;#43;&amp;#43; 23.6 (Muli-Plattform)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+294.82MB
+Datum hinzugefügt:
+5/7/2023
+Versionshinweisehttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-6-release-notes/
+BeschreibungEs enthält asspose.Tasks für C ++ 23.3 Release für Windows/Linux/macOS
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8b4b66886b7a0996aa83c155c91b05b9-59-9177&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.TASKS-FOR-C ++-23.7-LINUX</title><link>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.7-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.7-linux/</guid><description>&amp;nbsp;
+ASSON.
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+58.31MB
+Datum hinzugefügt:
+26/7/2023
+Versionshinweisehttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-7-release-notes/
+BeschreibungEs enthält asspose.Tasks für C ++ 23.7 Linux Nur Binärdateien
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b18e365618807383606396751965d2a5-12-9270&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-C ++-23.4-Linux</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.4-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.4-linux/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.4 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+107.86MB
+Datum hinzugefügt:
+17/4/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-4-release-notes/
+BeschreibungLinux -Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5f5e75a4b1afeae0e9beff7c75548b38-22-8766&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPLE.TASKS-FOR-C ++-23.7</title><link>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/cpp/new-releases/aspose.tasks-for-c++-23.7/</guid><description>&amp;nbsp;
+ASSONE.TASKS FÜR C &amp;#43;&amp;#43; 23.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+294.8MB
+Datum hinzugefügt:
+26/7/2023
+Versionshinweisehttps://releases.aspose.com/tasks/cpp/release-notes/2023/aspose-tasks-for-cpp-23-7-release-notes/
+BeschreibungEs enthält asspose.Tasks für C ++ 23.7 Release für Windows/Linux/macOS
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9bd6fa8730efb77a830bb89ed460db78-59-9272&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-C ++-23,5-LINUX</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.5-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.5-linux/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.5 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+108.07MB
+Datum hinzugefügt:
+22/5/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-5-release-notes/
+BeschreibungLinux -Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=481edcfa2966241b5d5c99ca7b3811a3-22-8875&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-C ++-23.6-LINUX</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.6-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.6-linux/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.6 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+108.54MB
+Datum hinzugefügt:
+20/6/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-6-release-notes/
+BeschreibungLinux -Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2ddbccdfbabb608881a93b52a05d50d7-22-9049&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-C ++-Linux</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-linux/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+111.11MB
+Datum hinzugefügt:
+25/7/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-7-release-notes/
+BeschreibungLinux -Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4b29b1409671e6e2aec3efa3b56ae41e-23-9256&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-C ++-23.8-Linux</title><link>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.8-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/cpp/new-releases/aspose.pdf-for-c++-23.8-linux/</guid><description>&amp;nbsp;
+ASSON.PDF für C &amp;#43;&amp;#43; 23.8 Linux
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+111.25MB
+Datum hinzugefügt:
+17/8/2023
+Versionshinweisehttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-8-release-notes/
+BeschreibungLinux -Version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=68a8029d315378afd6f3228e52c94293-23-9350&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>ASSON.DIAGRAM 22.12 | Visio Diagramm Java High Code API</title><link>https://releases-qa.aspose.com/de/diagram/java/22-12/</link><pubDate>Tue, 13 Dec 2022 06:09:16 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/java/22-12/</guid><description>Java API für Microsoft Visio &amp;amp; Reg; Dateiformate
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Diagram for Java API ist eine Lösung für Microsoft Visio -Dateimanipulationsanforderungen. Die Java-Anwendungen können Microsoft-Visio-Diagramme lesen, schreiben, exportieren und verarbeiten, während alle Visio-Objekte und Eigenschaften einschließlich Formen, Seiten, Bilder, Formmeister, Schablonen, Text, Schichten, Header, Fußzeilen, benutzerdefinierten Zellen, Hyperlinks, Hyperlinks, Layer, Header, Fußzeilen, Hyperlinks, unterstützt werden, die Unterstützung Dateischutz, Geometrien, Textfelder und Kommentare.</description></item><item><title>ASSONE.CELLS 22.12 | Verarbeiten Sie Tabellenkalkulationsformate über Java -API</title><link>https://releases-qa.aspose.com/de/cells/java/22-12/</link><pubDate>Mon, 12 Dec 2022 06:35:39 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/22-12/</guid><description>Java -API für Excel -Dateiformate
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Cells for Java ist eine preisgekrönte API von Excel-Tabellenkalkulationen, mit der Java-Entwickler die Fähigkeit einbetten können, Excel &amp;amp; reg zu lesen, zu schreiben und zu manipulieren. Tabellenkalkulationen (XLS, XLSX, XLSM, XLSB, XLTX, SpreadsheetML, CSV, ODS), HTML, MHTML, PDF und Bilddatei -Formate in ihre eigenen Java -Anwendungen, ohne sich auf Microsoft Excel &amp;amp; Reg;</description></item><item><title>ASSOSE.IMAGING 22.12 | Bildverarbeitung Java High Code API</title><link>https://releases-qa.aspose.com/de/imaging/java/22-12/</link><pubDate>Mon, 05 Dec 2022 13:31:14 +0000</pubDate><guid>https://releases-qa.aspose.com/de/imaging/java/22-12/</guid><description>Java -API für die Bildverarbeitung
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Es handelt sich um eine eigenständige Bildgebungs -API, die aus Java -Routinen besteht, die es Ihren Java -Anwendungen ermöglichen, die Verarbeitung von Raster- und Vektorbildern für eine grundlegende bis fortgeschrittene Ebene durchzuführen. ASSOSE.IMAGING FÜR JAVA bietet eine robuste Bildkomprimierung und eine hohe Verarbeitungsgeschwindigkeit durch nativen Byte -Zugriff und eine Reihe effizienter Algorithmen.</description></item><item><title>ASSON.PDF 22.11 | Verarbeiten Sie Acrobat PDF -Dateien über Java API</title><link>https://releases-qa.aspose.com/de/pdf/java/22-11/</link><pubDate>Wed, 30 Nov 2022 14:34:18 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/java/22-11/</guid><description>Java -API, um PDF -Dateien zu verarbeiten und zu manipulieren
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.PDF for Java ist eine PDF -Dokumenterstellungskomponente, mit der Ihre Java -Anwendungen PDF -Dokumente ohne Adobe Acrobat lesen, schreiben und manipulieren können.
+asspos.pdf Paketfunktionen PDF -Dokumentgrmeur Setzen Sie grundlegende Informationen (z. B. Autor, Ersteller) des PDF -Dokuments. Konfigurieren Sie die Eigenschaften der PDF -Seiten (z.</description></item><item><title>ASSOSE.PAGE 22.11 | EPS-, PS- und XPS -Formatkonvertierung Java -API</title><link>https://releases-qa.aspose.com/de/page/java/22-11/</link><pubDate>Thu, 24 Nov 2022 03:07:50 +0000</pubDate><guid>https://releases-qa.aspose.com/de/page/java/22-11/</guid><description>Java -APIs für PS-, EPS- und XPS -Dateiformate
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Page for Java Angebote zum Erstellen und Manipulieren von XPS -Dokumenten. Es bietet auch Funktionen zum Umwandeln von XPS-, PS- und EPS -Dokumenten in Bildformate und PDF.
+Manipulieren Sie XPS -Dokumente über Java XPS -Dokument erstellen und bearbeiten. Seiten des XPS -Dokuments hinzufügen oder entfernen.</description></item><item><title>ASSON.Slides 22.11 | PowerPoint -Formate Java High Code API</title><link>https://releases-qa.aspose.com/de/slides/java/22-11/</link><pubDate>Wed, 23 Nov 2022 19:22:59 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/java/22-11/</guid><description>Java Powerpoint API
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Slides Eine Java Powerpoint -API für die Manipulation und das Management der Präsentation. Es ermöglicht Entwicklern, PowerPoint -Präsentationen in Java -Anwendungen zu lesen, zu schreiben, zu konvertieren und zu manipulieren, mit der Fähigkeit, alle Dokumentelemente wie Folien, Tabellen, Text, Diagramme, Formen, Bilder und SmartArt -Diagramme und mehr zu manipulieren.</description></item><item><title>ASSON.FONT 22.11 | Schriftart über Java High Code API</title><link>https://releases-qa.aspose.com/de/font/java/22-11/</link><pubDate>Mon, 21 Nov 2022 13:16:59 +0000</pubDate><guid>https://releases-qa.aspose.com/de/font/java/22-11/</guid><description>Java -API für verschiedene Schriftformate
+Produktseite | Dokumente | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Font for Java ist eine Schriftladungs- und Zeichnungsbibliothek. Es unterstützt mehrere Frontformate wie TrueType (mit TrueType Collectons), CFF, Openentype und Typ1. Die API bietet eine umfangreiche Funktionalität zum Laden/Speichern von Schriftarten und zur Verfügung, die Informationen zu ihren Datenstrukturen zusammen mit allen Glyphen liefern, die von allen Schriftarten unterstützt werden.</description></item><item><title>ASSOSS.OCR 22.11 | Optische Charaktererkennung Java API</title><link>https://releases-qa.aspose.com/de/ocr/java/22-11/</link><pubDate>Mon, 21 Nov 2022 12:03:24 +0000</pubDate><guid>https://releases-qa.aspose.com/de/ocr/java/22-11/</guid><description>Java OCR -Bibliothek
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.OCR for Java ist ein Zeichen für Zeichen und optische Markerkennung, mit der Entwickler OCR -Funktionen in ihren Anwendungen hinzufügen können. Es bietet einen einfachen Klassensatz zur Steuerung der Charaktererkennung.
+Image über Java in Text in Text konvertieren Lesen Sie Zeichen aus Bildern. Unterstützung für JPG-, PNG-, GIF-, BMP- und TIFF -Bilddateiformate für OCR.</description></item><item><title>ASSONE.TASKS 22.11 | Microsoft Project Processing Java API</title><link>https://releases-qa.aspose.com/de/tasks/java/22-11/</link><pubDate>Fri, 18 Nov 2022 10:03:34 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tasks/java/22-11/</guid><description>Microsoft Project Datei Manipulation API
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Tasks Eine Java -Projektmanagement -API zur Manipulation von Microsoft -Projektdateien. Entwickler können die Haupt- und Standardeigenschaften eines Projekts sowie Kalenderinformationen definieren. API bietet außerdem die Möglichkeit, Wochentage und Kalenderausnahmen anzugeben und gleichzeitig die Hinzufügen und Neuberechnung von Aufgaben, Ressourcen und anderen Daten ohne Benutzerintervention zu erleichtern.</description></item><item><title>ASSON.TEX 22.11 | Tex &amp; Latex Typenset &amp; Conversion Java API</title><link>https://releases-qa.aspose.com/de/tex/java/22-11/</link><pubDate>Wed, 16 Nov 2022 08:40:02 +0000</pubDate><guid>https://releases-qa.aspose.com/de/tex/java/22-11/</guid><description>Java -API zu Typeet Tex -Dateien
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.TeX for Java ist eine Bibliothek, die eine Tex Engine -Erweiterung namens ObjectTex bietet. Es kann verwendet werden, um Dokumente von Tex -Dateien zu entsprechen. &amp;ldquo;Objekt&amp;rdquo; bedeutet, dass ein intermediNTypeSeting -Ergebnis ein spezifisches Objektmodell ist, das dann gleichmäßig in eine Reihe von Endformaten umgewandelt werden kann.</description></item><item><title>ASSON.CAD 22.7 | AutoCAD -Verarbeitung und Konvertierung Java -API</title><link>https://releases-qa.aspose.com/de/cad/java/22-7/</link><pubDate>Thu, 10 Nov 2022 08:21:18 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cad/java/22-7/</guid><description>CAD -Dateikonvertierungs -API für Java
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.CAD for Java ermöglicht es Entwicklern, AutoCAD DWG- und DXF -Dateien in PDF- und Rasterbilder zu konvertieren. Es handelt sich um eine native API und erfordert keine Autokad oder eine andere Software, die installiert werden muss. Sie können auch die ausgewählten Ebenen und Layouts aus den AutoCAD -Dateien konvertieren.</description></item><item><title>ASSON.PUB 22.8 | Pub &amp; PDF Conversion Java High Code API</title><link>https://releases-qa.aspose.com/de/pub/java/22-8/</link><pubDate>Thu, 01 Sep 2022 16:35:25 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/java/22-8/</guid><description>Pub -Dateien über Java -API verarbeiten
+Produktseite | Dokumente | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.PUB for Java ist eine Java -API, die Microsoft Publisher (.pub) -Dateien in PDF lesen, manipulieren und konvertieren kann. Sie können die API in Ihren Java -Anwendungen verwenden, um mit .Pub -Dateien zu arbeiten, ohne sich über das zugrunde liegende Filie -Format zu sorgen. Die API kann sowohl im Java -Desktop als auch im Webanwendungen mit JSP verwendet werden.</description></item><item><title>ASSON.PSD 21.7 | Photoshop -Format Manipulation Java API</title><link>https://releases-qa.aspose.com/de/psd/java/21-7/</link><pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/psd/java/21-7/</guid><description>Java -Bibliothek für Photoshop -Dateien
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.PSD for Java ist eine einfach zu verwendende Adobe Photoshop -Dateiformat -Manipulations -API. Es kann einfach PSD-, PSB- und AI -Dateien geladen und lesen, was den Java -Entwicklern ermöglicht, Vorgänge wie Aktualisierung von Ebeneneigenschaften, Hinzufügen von Wasserzeichen, Komprimierung, Rotation, Skalierung oder Rendern eines Dateiformats an ein anderes hinzuzufügen, ohne Adobe Photoshop zu installieren.</description></item><item><title>ASSON.OMR 19.12 | Java -API für optische Marke Erkennung (OMR)</title><link>https://releases-qa.aspose.com/de/omr/java/19-12/</link><pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/omr/java/19-12/</guid><description>Java API, um OMR auszuführen
+Heim | Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.OMR for Java ist eine Java -Klassenbibliothek, die API zur Erkennung optischer Markierungen aus Digitalisierten Blattbildern von OMR bietet. Es kann verwendet werden, um optische Markierungen in einer Vielzahl von Bildformaten wie BMP, JPG, TIF, TIFF, GIF zu erkennen. Die API ermöglicht das Erfassen von Daten mit Menschenmarkierter aus Dokumentformularen wie Umfragen, Fragebögen, Multiple-Choice-Prüfungsarbeiten und anderen Tests.</description></item><item><title>Aspose.Cells 23,8 | Prozesstabellenformate via Java API</title><link>https://releases-qa.aspose.com/de/cells/java/23-8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/23-8/</guid><description>Java API für Excel-Dateiformate
+Produktseite | Dokumente | Demos | API Referenz | Beispiele | Blog | Suchen | Kostenloser Support | Temporäre Lizenz
+Aspose.Cells for Java ist eine preisgekrönte Excel-Tabellenverarbeitung API, die es Java Entwicklern ermöglicht, die Fähigkeit zum Lesen, Schreiben und Bearbeiten von Excel®-Dateien einzubetten. Tabellenkalkulationen (XLS, XLSX, XLSM, XLSB, XLTX, SpreadsheetML, CSV, ODS), HTML, MHTML, 07611234 81 und Bilddateiformate in ihre eigenen Java Anwendungen, ohne auf Microsoft Excel® angewiesen zu sein.</description></item></channel></rss>

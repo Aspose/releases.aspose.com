@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>svg-to-bmp on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/svg-to-bmp/</link><description>Recent content in svg-to-bmp on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/tags/svg-to-bmp/index.xml" rel="self" type="application/rss+xml"/><item><title>Download C# DLL to Draw &amp; Process Images | Aspose.Imaging</title><link>https://releases-qa.aspose.com/imaging/net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/imaging/net/</guid><description>Support Forum
+Download Aspose.Imaging to perform Image Processing Open NuGet Package Manager within the Microsoft Visual Studio&amp;reg;, search for Aspose.Imaging and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the Installation documentation page.
+Release Notes
+Download
+PM&amp;gt;
+Install-Package Aspose.Imaging
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>On-premise SVG Parser &amp; Convertor API | Aspose.SVG for .NET</title><link>https://releases-qa.aspose.com/svg/net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/svg/net/</guid><description>Support Forum
+Download Aspose.SVG to Process Vector Graphics Open NuGet Package Manager within the Microsoft Visual Studio&amp;reg;, search for Aspose.SVG and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the Installation documentation page.
+Release Notes
+Download
+PM&amp;gt;
+Install-Package Aspose.SVG
+&amp;nbsp;
+Product Page | Docs | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title> Downloads ---New-Releases--aspose.imaging-for-jasperreports-21.5 .</title><link>https://releases-qa.aspose.com/imaging/jasperreports/new-releases/-aspose.imaging-for-jasperreports-21.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/imaging/jasperreports/new-releases/-aspose.imaging-for-jasperreports-21.5/</guid><description>&amp;nbsp;
+Aspose.Imaging for JasperReports 21.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+4
+File Size:
+29.5 MB
+Posted By:
+samer.el-khatib4aspose
+Views:
+61
+Date Added:
+5/7/2021
+Release Noteshttps://docs.aspose.com/imaging/jasperreports/aspose-imaging-for-jasperreports-21-5-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=acc62f9e0d7947feb2a7ca4eb80b9265&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Report Exporter | Aspose.Imaging for JasperReports</title><link>https://releases-qa.aspose.com/imaging/jasperreports/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/imaging/jasperreports/</guid><description>Support Forum
+Download Aspose.Imaging to Export JasperReports® to Image Formats Aspose.Imaging for JasperReports helps you export reports from the JasperReports® to various supported image formats.
+Release Notes
+Download
+Product Page | Docs | API Reference | Blog | Search | Free Support | Temporary License | EULA
+Imaging JasperReports® Integration Features Easy and lightweight deployment Export reports with accurate formatting Support for multipage export to GIF, DICOM, TIFF, PDF, and WebP formats Export JasperReport to HTML Export JasperReport to WMF Export JasperReport to SVG Export JasperReport to DICOM Export JasperReport to EMF Export JasperReport to WEBP Export JasperReport to JPEG2000 Export JasperReport to PSD Export JasperReport to TIFF Supports exporting reports from JasperReports in batch mode Supported File Formats Image: BMP, GIF, JPEG, JPEG2000, PNG, SVG, TIFF</description></item><item><title>Download SVG Parser &amp; Convertor .NET DLL | Aspose.SVG API</title><link>https://releases-qa.aspose.com/svg/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/svg/</guid><description>Support Forum
+Download Aspose.SVG to Process Vector Graphics Open NuGet Package Manager within the Microsoft Visual Studio&amp;reg;, search for Aspose.SVG and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the Installation documentation page.
+Release Notes
+Download
+PM&amp;gt;
+Install-Package Aspose.SVG
+&amp;nbsp;
+Product Page | Docs | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Downloads ---New Releases-aspose.svg-for-.net-23.8.1-(dlls-only)</title><link>https://releases-qa.aspose.com/svg/net/new-releases/aspose.svg-for-.net-23.8.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/svg/net/new-releases/aspose.svg-for-.net-23.8.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.SVG for .NET 23.8.1 (DLLs only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+3.69MB
+Date Added:
+12/8/2023
+Release Noteshttps://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-8-1-release-notes/
+DescriptionThis ZIP file contains only the Aspose.SVG for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.SVG without the MSI installer, i.</description></item><item><title>Downloads ---New Releases-aspose.svg-for-.net-23.8.1</title><link>https://releases-qa.aspose.com/svg/net/new-releases/aspose.svg-for-.net-23.8.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/svg/net/new-releases/aspose.svg-for-.net-23.8.1/</guid><description>&amp;nbsp;
+Aspose.SVG for .NET 23.8.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+4.14MB
+Date Added:
+12/8/2023
+Release Noteshttps://releases.aspose.com/svg/net/release-notes/2023/aspose-svg-for-net-23-8-1-release-notes/
+DescriptionIt contains Aspose.SVG for .NET 23.8.1 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=291182a290b4dbc99f3ea1ea8c4971cc-1-9319&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.imaging-for-.net-23.8</title><link>https://releases-qa.aspose.com/imaging/net/new-releases/aspose.imaging-for-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/imaging/net/new-releases/aspose.imaging-for-.net-23.8/</guid><description>&amp;nbsp;
+Aspose.Imaging for .NET 23.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+48.89MB
+Date Added:
+29/8/2023
+Release Noteshttps://releases.aspose.com/imaging/net/release-notes/2023/aspose-imaging-for-net-23-8-release-notes/
+DescriptionIt contains Aspose.Imaging for .NET 23.8 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3f33c0d659a7d5b4cfcfd3a272ed9de6-10-9391&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.imaging-for-.net-23.8_(dlls-only)</title><link>https://releases-qa.aspose.com/imaging/net/new-releases/aspose.imaging-for-.net-23.8_dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/imaging/net/new-releases/aspose.imaging-for-.net-23.8_dlls-only/</guid><description>&amp;nbsp;
+Aspose.Imaging for .NET 23.8_(Dlls only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+44.97MB
+Date Added:
+29/8/2023
+Release Noteshttps://releases.aspose.com/imaging/net/release-notes/2023/aspose-imaging-for-net-23-8-release-notes/
+DescriptionIt contains Aspose.Imaging for .NET 23.8 (Dlls only) release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fe1d66d7769fb42d00daee059c6f6d3d-9-9392&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item></channel></rss>

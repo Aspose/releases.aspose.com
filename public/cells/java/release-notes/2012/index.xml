@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Release Notes - 2012 on Releases - aspose.com</title><link>https://releases-qa.aspose.com/cells/java/release-notes/2012/</link><description>Recent content in Release Notes - 2012 on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/cells/java/release-notes/2012/index.xml" rel="self" type="application/rss+xml"/><item><title>Aspose.Cells for Java 7.3.4 Release Notes</title><link>https://releases-qa.aspose.com/cells/java/release-notes/2012/aspose-cells-for-java-7-3-4-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/java/release-notes/2012/aspose-cells-for-java-7-3-4-release-notes/</guid><description>This page contains release notes for Aspose.Cells for Java 7.3.4
+We are happy to announce Aspose.Cells for Java v7.3.4!
+New Features
+Support for TIFF format in Sheet-to-Imagefeature Enhancements
+Right footer is not above the centerfooter as in MS Excel Exceptions
+Out of Memory exception while converting Excelto PDF Setting &amp;ldquo;+100&amp;rdquo; as the conditionalformula caused an exception Exception: “StackOverflowError” whencalculating formulas “IllegalArgumentException” is thrown whenWorkbook.</description></item><item><title>Aspose.Cells for Java 7.3.3 Release Notes</title><link>https://releases-qa.aspose.com/cells/java/release-notes/2012/aspose-cells-for-java-7-3-3-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/java/release-notes/2012/aspose-cells-for-java-7-3-3-release-notes/</guid><description>This page contains release notes for Aspose.Cells for Java 7.3.3
+We are happy to announce Aspose.Cells for Java v7.3.3!
+New Features
+Add Row.getLastDataCell() method to getthe last cell having data in a row New APIs added for getting same Styleobject for cells with the same style settings Enhancements
+Add quotes to empty cell value(s) whenexporting a CSV with option
+Exceptions
+Conditional formatting with Unicodecharacters fails Setting formula before adding areas forconditional formatting and then renaming worksheet caused an error when saving workbook Re-saving an XLS template file causedNegativeArraySizeException Bugs</description></item><item><title>Aspose.Cells for Java 7.3.2 Release Notes</title><link>https://releases-qa.aspose.com/cells/java/release-notes/2012/aspose-cells-for-java-7-3-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/java/release-notes/2012/aspose-cells-for-java-7-3-2-release-notes/</guid><description>This page contains release notes for Aspose.Cells for Java 7.3.2
+We are happy to announce Aspose.Cells for Java v7.3.2!
+New Features
+Shape.getRight()/getBottom() to get an offsetof the shape from the right-bottom corner to the cell Set worksheet tab color to default color Enhancements
+Close internal streams for releasing memoryresources in PDF conversion Copy Sparklines when copying worksheet Exceptions
+Opening an XLS file causedStackOverflowError Saving PDF caused Exception Worksheet.</description></item><item><title>Aspose.Cells for Java 7.3.1 Release Notes</title><link>https://releases-qa.aspose.com/cells/java/release-notes/2012/aspose-cells-for-java-7-3-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/java/release-notes/2012/aspose-cells-for-java-7-3-1-release-notes/</guid><description>This page contains release notes for Aspose.Cells for Java 7.3.1
+We are happy to announce Aspose.Cells for Java v7.3.1 for the users!
+New Features
+-Parse scripts in Page Setup’s headers/footers
+Conditional formatting - Include DataBar type’s missing fields Conditional formatting - Include IconSet type’s missing values Conditional formatting - Support Read conditional formatting rules with cross-sheet formulas Support Cells.MinDataColumn and Cells.MinDataRow properties Support Cell Background Colors with Conditional Formatting (MS Excel 2010) Data Filters of the PivotTable are supported Advanced data validation of MS Excel 2010 is supported (Note:</description></item><item><title>Aspose.Cells for Java 7.3.0 Release Notes</title><link>https://releases-qa.aspose.com/cells/java/release-notes/2012/aspose-cells-for-java-7-3-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/java/release-notes/2012/aspose-cells-for-java-7-3-0-release-notes/</guid><description>This page contains release notes for Aspose.Cells for Java 7.3.0
+We are happy to announce Aspose.Cells for Java v7.3.0!
+What’s New
+Read and Write MHT files Supports XML maps Apply MS Excel 2007/2010 themes to charts Other notable features, enhancements and fixesare given below.
+New Features
+– Supports settings for Transition Formula Evaluation
+Enhancements
+Format cell values with user specifiedlocale Exceptions
+Unsupported font files may cause saving toPDF failed with exception Bugs</description></item><item><title>Aspose.Cells for Java 7.2.2 Release Notes</title><link>https://releases-qa.aspose.com/cells/java/release-notes/2012/aspose-cells-for-java-7-2-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/java/release-notes/2012/aspose-cells-for-java-7-2-2-release-notes/</guid><description>This page contains release notes for Aspose.Cells for Java 7.2.2
+We are happy to announce Aspose.Cells for Java v7.2.2!
+New Features
+RegEx Text Search for Cells.Find() method Enhancements
+Make Aspose.Cells compatible with olderversion of Woodstox jars OLE embedded OOXML filesin XLS are coming out asOLE packaged files instead of unpacked files Support ExportObjectListener for saving HTMLfiles Copy Conditional Formatting when copyingrows Exceptions
+Picture.isPrintable() for Picture inPageSetup causes NullPointerException Saving encrypted workbook with Pivot Tablecauses java.</description></item><item><title>Aspose.Cells for Java 7.2.1 Release Notes</title><link>https://releases-qa.aspose.com/cells/java/release-notes/2012/aspose-cells-for-java-7-2-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/java/release-notes/2012/aspose-cells-for-java-7-2-1-release-notes/</guid><description>This page contains release notes for Aspose.Cells for Java 7.2.1
+We are happy to announce Aspose.Cells for Java v7.2.1!
+New Features
+Format Pivot Table with custom styles fordifferent categories (Modify Pivot Table’s Quick Style) Enhancements
+Cells.findString()/find() supports to search RegExand in specific range Support Picture.setTitle()/getTitle() Save MS Excel charts in ODS file Make Aspose.Cells created XLS filecompatible with POI Exceptions
+Reading XLSX file produces: “java.</description></item><item><title>Aspose.Cells for Java 7.1.2 Release Notes</title><link>https://releases-qa.aspose.com/cells/java/release-notes/2012/aspose-cells-for-java-7-1-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/java/release-notes/2012/aspose-cells-for-java-7-1-2-release-notes/</guid><description>
+This page contains release notes for Aspose.Cells for Java 7.1.2
+We are happy to announce Aspose.Cells for Java v7.1.2!
+New Features
+– Support Cells.importCustomObjects()method for importing POJO
+Enhancements
+Enhancements are made for autoFitColumns()methods Performance for Sheet-to-Image feature withgridlines on Exceptions
+NullPointerException occurred whencalling Cell.getDisplayStyle() method Bugs
+Maximum value for Scatter chart cannot beset properly Text in shapes was lost ormoved to out of shapes range in thegenerated PDF file Series name was not shown for Date Labelsin the chart</description></item><item><title>Aspose.Cells for Java 7.1.1 Release Notes</title><link>https://releases-qa.aspose.com/cells/java/release-notes/2012/aspose-cells-for-java-7-1-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/java/release-notes/2012/aspose-cells-for-java-7-1-1-release-notes/</guid><description>This page contains release notes for Aspose.Cells for Java 7.1.1
+We are happy to announce Aspose.Cells for Java v7.1.1!
+New Features
+Check whether a column is blank Enhancements
+Saving to XLSX with LightCells API by directlyrendering to OutputStream Exceptions
+Cell.setHtmlString() method throws NullPointerException Readingan XLSX template filethrows NullPointerException Bugs
+Secondary category axis of SCATTER chartbecome text axis Contents in Textbox have not beenrendered correctly ROUND function cannot round a valuegreater than 922337.</description></item><item><title>Aspose.Cells for Java 7.1.0 Release Notes</title><link>https://releases-qa.aspose.com/cells/java/release-notes/2012/aspose-cells-for-java-7-1-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/java/release-notes/2012/aspose-cells-for-java-7-1-0-release-notes/</guid><description>This page contains release notes for Aspose.Cells for Java 7.1.0
+We arehappy to announce Aspose.Cells for Java v7.1.0!
+Enhancements
+Deletetemplate files after reading XLSX/ODS files with Apache&amp;rsquo;s zip tool Exceptions
+-Cell.setHtmlString() throws NullPointerException
+Bugs
+-Cell contents disappeared from the generated PDF file
+-Error message: &amp;ldquo;The pivot table was created in a later version of Excel…&amp;ldquo;while opening the file into MS Excel
+ - Sheet’s zoom is changed when opening an XLS template file</description></item></channel></rss>

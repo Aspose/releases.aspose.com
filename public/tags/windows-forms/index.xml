@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Windows-Forms on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/windows-forms/</link><description>Recent content in Windows-Forms on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/tags/windows-forms/index.xml" rel="self" type="application/rss+xml"/><item><title>On-premise Finance Processing API | Aspose.Finance for .NET</title><link>https://releases-qa.aspose.com/finance/net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/</guid><description>Support Forum
+Download Aspose.Finance to Process supported Formats Open NuGet Package Manager within the Microsoft Visual Studio&amp;reg;, search for Aspose.Diagram and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the Installation documentation page.
+Release Notes
+PM&amp;gt;
+Install-Package Aspose.Finance
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Download Font Creation &amp; Saving C# Library | Aspose.Font API</title><link>https://releases-qa.aspose.com/font/net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/font/net/</guid><description>Support Forum
+Download Aspose.Font to Draw Text Open NuGet Package Manager within the Microsoft Visual Studio&amp;reg;, search for Aspose.Font and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the Installation documentation page.
+Release Notes
+PM&amp;gt;
+Install-Package Aspose.Font
+&amp;nbsp;
+Product Page | Docs | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>On-premise GIS Data Processing API | Aspose.GIS Product Family</title><link>https://releases-qa.aspose.com/gis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/gis/</guid><description>Support Forum
+Download Aspose.GIS to Process Geographical Data Open NuGet Package Manager within the Microsoft Visual Studio&amp;reg;, search for Aspose.GIS and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the Installation documentation page.
+Release Notes
+Download
+PM&amp;gt;
+Install-Package Aspose.GIS
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-23.8(dlls-only)</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.8dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.8dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 23.8(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.66MB
+Date Added:
+30/8/2023
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-8-release-notes/
+DescriptionAspose.Finance for .NET 23.8 dlls release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=64f66d14533b0e4fe4beb1484cde0753-2-9405&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-23.8</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.8/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 23.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.51MB
+Date Added:
+30/8/2023
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-8-release-notes/
+DescriptionAspose.Finance for .NET 23.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=987d3b4f3e2292ab344f29a2685bf57a-2-9406&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

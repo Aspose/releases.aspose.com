@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Render Xlsx on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/render-xlsx/</link><description>Recent content in Render Xlsx on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/tags/render-xlsx/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads ---New Releases-aspose.cells-for-reporting-services-22.7</title><link>https://releases-qa.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.7/</guid><description>&amp;nbsp;
+Aspose.Cells for Reporting Services 22.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+29.64MB
+Date Added:
+26/7/2022
+Release Noteshttps://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-7-release-notes/
+DescriptionAspose.Cells for Reporting Services 22.7
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b692084a3023467d0214f910e4d7ea2b-6-7693&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-reporting-services-22.7-x64</title><link>https://releases-qa.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.7-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.7-x64/</guid><description>&amp;nbsp;
+Aspose.Cells for Reporting Services 22.7 x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+29.79MB
+Date Added:
+26/7/2022
+Release Noteshttps://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-7-release-notes/
+DescriptionAspose.Cells for Reporting Services 22.7 x64
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d2f0ca50f184ccb3479d52bb636529db-6-7694&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-reporting-services-22.7(zip)</title><link>https://releases-qa.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.7zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.7zip/</guid><description>&amp;nbsp;
+Aspose.Cells for Reporting Services 22.7(zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+59.81MB
+Date Added:
+26/7/2022
+Release Noteshttps://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-7-release-notes/
+DescriptionAspose.Cells for Reporting Services 22.7(zip)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f07903482beb70cd2e63006912905182-12-7695&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-reporting-services-22.8</title><link>https://releases-qa.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.8/</guid><description>&amp;nbsp;
+Aspose.Cells for Reporting Services 22.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+29.65MB
+Date Added:
+12/8/2022
+Release Noteshttps://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-8-release-notes/
+DescriptionAspose.Cells for Reporting Services 22.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=19af01bd963c905cd5bce99117d24706-6-7755&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-reporting-services-22.8-x64</title><link>https://releases-qa.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.8-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.8-x64/</guid><description>&amp;nbsp;
+Aspose.Cells for Reporting Services 22.8 x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+29.79MB
+Date Added:
+12/8/2022
+Release Noteshttps://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-8-release-notes/
+DescriptionAspose.Cells for Reporting Services 22.8 x64
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=733fa48d5c07d92f46014881d0f0f0ab-6-7756&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-reporting-services-22.8(zip)</title><link>https://releases-qa.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.8zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.8zip/</guid><description>&amp;nbsp;
+Aspose.Cells for Reporting Services 22.8(zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+59.79MB
+Date Added:
+12/8/2022
+Release Noteshttps://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-8-release-notes/
+DescriptionAspose.Cells for Reporting Services 22.8(zip)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a637b8c7c614b8ccf5275485be32ced2-12-7757&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-reporting-services-22.9</title><link>https://releases-qa.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.9/</guid><description>&amp;nbsp;
+Aspose.Cells for Reporting Services 22.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+29.67MB
+Date Added:
+14/9/2022
+Release Noteshttps://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-9-release-notes/
+DescriptionAspose.Cells for Reporting Services 22.9
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=65d988996750ab4f23a05191964f08b0-6-7893&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-reporting-services-22.9-x64</title><link>https://releases-qa.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.9-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.9-x64/</guid><description>&amp;nbsp;
+Aspose.Cells for Reporting Services 22.9 x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+29.81MB
+Date Added:
+14/9/2022
+Release Noteshttps://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-9-release-notes/
+DescriptionAspose.Cells for Reporting Services 22.9 x64
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=493b17a9edb8cb65d8a4922965f9588f-6-7894&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-reporting-services-22.9(zip)</title><link>https://releases-qa.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.9zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.9zip/</guid><description>&amp;nbsp;
+Aspose.Cells for Reporting Services 22.9(zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+59.84MB
+Date Added:
+14/9/2022
+Release Noteshttps://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-9-release-notes/
+DescriptionAspose.Cells for Reporting Services 22.9(zip)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b8a9cc32f973e3568a79c6723eb51c6e-12-7895&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-reporting-services-22.10</title><link>https://releases-qa.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.10/</guid><description>&amp;nbsp;
+Aspose.Cells for Reporting Services 22.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+29.68MB
+Date Added:
+14/10/2022
+Release Noteshttps://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-10-release-notes/
+DescriptionAspose.Cells for Reporting Services 22.10
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=007af282fc9b281296986ad322365190-6-8005&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-reporting-services-22.10-x64</title><link>https://releases-qa.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.10-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.10-x64/</guid><description>&amp;nbsp;
+Aspose.Cells for Reporting Services 22.10 x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+29.82MB
+Date Added:
+14/10/2022
+Release Noteshttps://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-10-release-notes/
+DescriptionAspose.Cells for Reporting Services 22.10 x64
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c490d9a6f1a0f08c170bf2adf42c9c1b-6-8006&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-reporting-services-22.10(zip)</title><link>https://releases-qa.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.10zip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/reportingservices/new-releases/aspose.cells-for-reporting-services-22.10zip/</guid><description>&amp;nbsp;
+Aspose.Cells for Reporting Services 22.10(zip)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+59.88MB
+Date Added:
+14/10/2022
+Release Noteshttps://releases.aspose.com/cells/reportingservices/release-notes/2022/aspose-cells-for-reporting-services-22-10-release-notes/
+DescriptionAspose.Cells for Reporting Services 22.10(zip)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cc07518708346d2adb2c0cf57d27176f-12-8007&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

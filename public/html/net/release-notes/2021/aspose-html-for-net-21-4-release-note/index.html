@@ -1,0 +1,635 @@
+<!doctype html><html class=no-js lang=en><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge"><title>Aspose.HTML for .NET 21.4 Release Notes</title><meta name=description content="In this release, we have made various improvements to Aspose.HTML for .NET saving algorithms."><meta name=viewport content="width=device-width,minimum-scale=1"><link rel=canonical href=https://releases-qa.aspose.com/html/net/release-notes/2021/aspose-html-for-net-21-4-release-note/><link rel=alternate hreflang=x-default href=https://releases-qa.aspose.com/html/net/release-notes/2021/aspose-html-for-net-21-4-release-note/><meta name=robots content="noindex, nofollow"><link rel=apple-touch-icon sizes=180x180 href=/res_repo/apple-touch-icon.png><link rel=icon type=image/png href=/res_repo/favicon-32x32.png sizes=32x32><link rel=icon type=image/png href=/res_repo/favicon-16x16.png sizes=16x16><link rel=mask-icon href=/res_repo/safari-pinned-tab.svg color=#0594cb><meta name=theme-color content="#ffffff"><meta property="og:title" content="Aspose.HTML for .NET 21.4 Release Notes "><meta property="og:description" content="In this release, we have made various improvements to Aspose.HTML for .NET saving algorithms."><meta property="og:type" content="article"><meta property="og:url" content="https://releases-qa.aspose.com/html/net/release-notes/2021/aspose-html-for-net-21-4-release-note/"><meta itemprop=name content="Aspose.HTML for .NET 21.4 Release Notes"><meta itemprop=description content="In this release, we have made various improvements to Aspose.HTML for .NET saving algorithms."><meta itemprop=wordCount content="3211"><meta name=twitter:card content="summary"><meta name=twitter:title content="Aspose.HTML for .NET 21.4 Release Notes"><meta name=twitter:description content="In this release, we have made various improvements to Aspose.HTML for .NET saving algorithms."><link href=/css/bootstrap.css rel=stylesheet type=text/css><script src=https://releases-qa.aspose.com/res_repo/js/jquery-1.10.2.min.js></script></head><body><div id=header></div><div class=downloadpage><div class="container-fluid bcrumb1"><div id=sticky1 class=stickytopheight>&nbsp;</div><div class=container><div class=moduletable><ul id=dvBC class=breadcrumb><li><a href=/>Home</a><span class=divider></span></li><li><a href=/html/>Aspose.HTML Product Family</a><span class=divider></span></li><li><a href=/html/net/>Aspose.HTML for .NET</a><span class=divider></span></li><li><a href=/html/net/release-notes/>Release Notes</a><span class=divider></span></li><li><a href=/html/net/release-notes/2021/>2021</a><span class=divider></span></li></ul></div></div></div><div class="container-fluid content2 vpanel-left"><div class=container><div class=row><div class="col-md-3 vpanel tree-section"><p class=list-title>Browse our Products<button type=button class=treeview-toggle> <span class=sr-only>Toggle navigation</span> <span class="icon expand-icon glyphicon glyphicon-hide"></span></button></p><div id=tree class="treeview hidetree"></div></div><div class="col-md-9 lhs1 col-xs-12 mobilehide node-section"><div class=box1><section role=main class="main-container page-package-details"><div class=row><div class="col-sm-9 package-details-main"><h1><strong>Aspose.HTML for .NET 21.4 Release Notes</strong></h1><div class="tab-content body-tab-content"><div role=tabpanel class="tab-pane active" id=readme-tab><div class=readme-common><div id=readme-container><p><div class="alert alert-primary" role=alert>This page contains release notes information for Aspose.HTML for .NET 21.4.</div><p>As per regular monthly update process of all APIs being offered by Aspose, we are honored to announce the April release of Aspose.HTML for .NET.</p><p>In this release, we have made various improvements to our saving algorithms, here are some of them:</p><ul><li>improved the float elements splitting algorithm;</li><li>introduced the ability to save documents and their resources to streams;</li><li>improved the processing of special characters in file names;</li><li>improved the gradient serialization algorithm;</li><li>introduced the multimedia scraping classes.</li></ul><h2 id=improvements-and-changes>Improvements and Changes</h2><table><thead><tr><th style=text-align:left><strong>Key</strong></th><th style=text-align:left><strong>Summary</strong></th><th style=text-align:left><strong>Category</strong></th></tr></thead><tbody><tr><td style=text-align:left>HTMLNET-3055</td><td style=text-align:left>HTML to PDF - Content duplicated</td><td style=text-align:left>Bug</td></tr><tr><td style=text-align:left>HTMLNET-2843</td><td style=text-align:left>Support for saving the HTMLDocument to byte stream</td><td style=text-align:left>Feature</td></tr><tr><td style=text-align:left>HTMLNET-2625</td><td style=text-align:left>Save file using Stream</td><td style=text-align:left>Feature</td></tr></tbody></table><h2 id=public-api-and-backward-incompatible-changes>Public API and Backward Incompatible Changes</h2><h3 id=added-apis>Added APIs</h3><pre tabindex=0><code>namespace Aspose.Html.DataScraping.MultimediaScraping
+{
+    /// &lt;summary&gt;
+    /// Provides functionality to collect and download &lt;see cref=&#34;VideoInfo&#34;/&gt; from the associated page.
+    /// &lt;b&gt;Note:&lt;/b&gt; We do not support downloading copyrighted videos and using other people&#39;s videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
+    /// &lt;/summary&gt;
+    public abstract class Multimedia : IDisposable
+    {
+        /// &lt;summary&gt;
+        /// Initializes a new instance of the &lt;see cref=&#34;Multimedia&#34;/&gt; class.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;url&#34;&gt;URL of the page which contains multimedia data.&lt;/param&gt;
+        protected Multimedia(string url);
+
+        /// &lt;summary&gt;
+        /// Gets the host supported by this &lt;see cref=&#34;Multimedia&#34;/&gt;.
+        /// &lt;/summary&gt;
+        public abstract MultimediaHost MultimediaHost { get; }
+
+        /// &lt;summary&gt;
+        /// Gets the associated page URL.
+        /// &lt;/summary&gt;
+        /// &lt;value&gt;
+        /// The URL.
+        /// &lt;/value&gt;
+        public string Url { get; }
+
+        /// &lt;summary&gt;
+        /// Gets the network services.
+        /// &lt;/summary&gt;
+        /// &lt;value&gt;
+        /// The network services.
+        /// &lt;/value&gt;
+        protected INetwork Network { get; }
+
+        /// &lt;summary&gt;
+        /// Collects video information from the associated page.
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;Collected video information.&lt;/returns&gt;
+        public abstract VideoInfo CollectVideoInfo();
+
+        /// &lt;summary&gt;
+        /// Downloads the video file referenced in &lt;paramref name=&#34;videoFormatInfo&#34;/&gt; to a local file specified by &lt;paramref name=&#34;path&#34;/&gt;.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;videoFormatInfo&#34;&gt;Information about video file to download.&lt;/param&gt;
+        /// &lt;param name=&#34;path&#34;&gt;Local path to the output file.&lt;/param&gt;
+        public abstract void Download(VideoFormatInfo videoFormatInfo, string path);
+
+        /// &lt;summary&gt;
+        /// Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
+        /// &lt;/summary&gt;
+        public void Dispose();
+
+        /// &lt;summary&gt;
+        /// Releases unmanaged and - optionally - managed resources.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;disposing&#34;&gt;&lt;c&gt;true&lt;/c&gt; to release both managed and unmanaged resources; &lt;c&gt;false&lt;/c&gt; to release only unmanaged resources.&lt;/param&gt;
+        protected virtual void Dispose(bool disposing);
+    }
+}
+</code></pre><pre tabindex=0><code>namespace Aspose.Html.DataScraping.MultimediaScraping
+{
+    /// &lt;summary&gt;
+    /// Represents an abstract factory which is used to create &lt;see cref=&#34;Multimedia&#34;/&gt; objects.
+    /// &lt;b&gt;Note:&lt;/b&gt; We do not support downloading copyrighted videos and using other people&#39;s videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
+    /// &lt;/summary&gt;
+    public abstract class MultimediaFactory
+    {
+        /// &lt;summary&gt;
+        /// Creates a &lt;see cref=&#34;Multimedia&#34;/&gt; object which can collect information from the specified page URL.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;url&#34;&gt;URL of the page which contains multimedia data.&lt;/param&gt;
+        /// &lt;param name=&#34;multimedia&#34;&gt;When this method returns, contains the created &lt;see cref=&#34;Multimedia&#34;/&gt;, if factory supports the specified URL; otherwise null.&lt;/param&gt;
+        /// &lt;returns&gt;&lt;c&gt;true&lt;/c&gt; if &lt;see cref=&#34;MultimediaFactory&#34;/&gt; supports the specified URL; otherwise, &lt;c&gt;false&lt;/c&gt;.&lt;/returns&gt;
+        public abstract bool TryCreate(string url, out Multimedia multimedia);
+    }
+}
+</code></pre><pre tabindex=0><code>namespace Aspose.Html.DataScraping.MultimediaScraping
+{
+    /// &lt;summary&gt;
+    /// Represents host of the multimedia object.
+    /// &lt;b&gt;Note:&lt;/b&gt; We do not support downloading copyrighted videos and using other people&#39;s videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
+    /// &lt;/summary&gt;
+    public class MultimediaHost : IEquatable&lt;MultimediaHost&gt;
+    {
+        /// &lt;summary&gt;
+        /// Initializes a new instance of the &lt;see cref=&#34;MultimediaHost&#34;/&gt; class.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;hostName&#34;&gt;Name of the host.&lt;/param&gt;
+        public MultimediaHost(string hostName);
+
+        /// &lt;summary&gt;
+        /// Represents an YouTube host.
+        /// &lt;/summary&gt;
+        public static MultimediaHost YouTube { get; }
+
+        /// &lt;summary&gt;
+        /// Gets the host name.
+        /// &lt;/summary&gt;
+        public string HostName { get; }
+
+        /// &lt;summary&gt;
+        /// Implements the equality operator.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;left&#34;&gt;The left operand.&lt;/param&gt;
+        /// &lt;param name=&#34;right&#34;&gt;The left operand.&lt;/param&gt;
+        /// &lt;returns&gt;
+        /// The result of the operation.
+        /// &lt;/returns&gt;
+        public static bool operator ==(MultimediaHost left, MultimediaHost right);
+
+        /// &lt;summary&gt;
+        /// Implements the equality operator.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;left&#34;&gt;The left operand.&lt;/param&gt;
+        /// &lt;param name=&#34;right&#34;&gt;The left operand.&lt;/param&gt;
+        /// &lt;returns&gt;
+        /// The result of the operation.
+        /// &lt;/returns&gt;
+        public static bool operator !=(MultimediaHost left, MultimediaHost right);
+
+        /// &lt;summary&gt;
+        /// Returns a &lt;see cref=&#34;System.String&#34; /&gt; that represents this instance.
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;
+        /// A &lt;see cref=&#34;System.String&#34; /&gt; that represents this instance.
+        /// &lt;/returns&gt;
+        public override string ToString();
+
+        /// &lt;summary&gt;
+        /// Returns a hash code for this instance.
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;
+        /// A hash code for this instance, suitable for use in hashing algorithms and data structures like a hash table.
+        /// &lt;/returns&gt;
+        public override int GetHashCode();
+
+        /// &lt;summary&gt;
+        /// Determines whether the specified &lt;see cref=&#34;System.Object&#34; /&gt;, is equal to this instance.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;obj&#34;&gt;The &lt;see cref=&#34;System.Object&#34; /&gt; to compare with this instance.&lt;/param&gt;
+        /// &lt;returns&gt;
+        /// &lt;c&gt;true&lt;/c&gt; if the specified &lt;see cref=&#34;System.Object&#34; /&gt; is equal to this instance; otherwise, &lt;c&gt;false&lt;/c&gt;.
+        /// &lt;/returns&gt;
+        public override bool Equals(object obj);
+
+        /// &lt;summary&gt;
+        /// Indicates whether the current object is equal to another object of the same type.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;other&#34;&gt;An object to compare with this object.&lt;/param&gt;
+        /// &lt;returns&gt;
+        /// &lt;c&gt;true&lt;/c&gt; if the current object is equal to the &lt;paramref name=&#34;other&#34; /&gt; parameter; otherwise, &lt;c&gt;false&lt;/c&gt;.
+        /// &lt;/returns&gt;
+        public bool Equals(MultimediaHost other);
+    }
+}
+</code></pre><pre tabindex=0><code>namespace Aspose.Html.DataScraping.MultimediaScraping
+{
+    /// &lt;summary&gt;
+    /// Represents multimedia information.
+    /// &lt;b&gt;Note:&lt;/b&gt; We do not support downloading copyrighted videos and using other people&#39;s videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
+    /// &lt;/summary&gt;
+    public abstract class MultimediaInfo
+    {
+        /// &lt;summary&gt;
+        /// Initializes a new instance of the &lt;see cref=&#34;MultimediaInfo&#34;/&gt; class.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;multimediaHost&#34;&gt;Host from which this info was obtained.&lt;/param&gt;
+        protected MultimediaInfo(MultimediaHost multimediaHost);
+
+        /// &lt;summary&gt;
+        /// Host from which this info was obtained.
+        /// &lt;/summary&gt;
+        public MultimediaHost MultimediaHost { get; }
+
+        /// &lt;summary&gt;
+        /// Multimedia title.
+        /// &lt;/summary&gt;
+        public string Title { get; set; }
+
+        /// &lt;summary&gt;
+        /// Multimedia description.
+        /// &lt;/summary&gt;
+        public string Description { get; set; }
+
+        /// &lt;summary&gt;
+        /// Multimedia duration in second.
+        /// &lt;/summary&gt;
+        public int Duration { get; set; }
+
+        /// &lt;summary&gt;
+        /// Collection of thumbnails URLs.
+        /// &lt;/summary&gt;
+        public IList&lt;Url&gt; Thumbnails { get; }
+    }
+}
+</code></pre><pre tabindex=0><code>namespace Aspose.Html.DataScraping.MultimediaScraping
+{
+    /// &lt;summary&gt;
+    /// Provides functionality to register and select &lt;see cref=&#34;Multimedia&#34;/&gt; object, which will be able to collect information from the specified page URL.
+    /// &lt;b&gt;Note:&lt;/b&gt; We do not support downloading copyrighted videos and using other people&#39;s videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
+    /// &lt;/summary&gt;
+    public class MultimediaScraper : IDisposable
+    {
+        /// &lt;summary&gt;
+        /// Initializes a new instance of the &lt;see cref=&#34;MultimediaScraper&#34;/&gt; class.
+        /// &lt;/summary&gt;
+        public MultimediaScraper();
+
+        /// &lt;summary&gt;
+        /// Initializes a new instance of the &lt;see cref=&#34;MultimediaScraper&#34;/&gt; class.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;configuration&#34;&gt;The environment configuration.&lt;/param&gt;
+        public MultimediaScraper(Configuration configuration);
+
+        /// &lt;summary&gt;
+        /// Registers &lt;see cref=&#34;MultimediaFactory&#34;/&gt;.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;factory&#34;&gt;&lt;see cref=&#34;MultimediaFactory&#34;/&gt; to register.&lt;/param&gt;
+        public void RegisterFactory(MultimediaFactory factory);
+
+        /// &lt;summary&gt;
+        /// Creates a &lt;see cref=&#34;Multimedia&#34;/&gt; object which can collect information from the specified page URL.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;url&#34;&gt;URL of the page to process.&lt;/param&gt;
+        /// &lt;returns&gt;
+        /// The &lt;see cref=&#34;Multimedia&#34;/&gt; object which can collect information from the specified page URL.
+        /// &lt;/returns&gt;
+        /// &lt;exception cref=&#34;NotSupportedException&#34;&gt;Raised if the specified &lt;c&gt;URL&lt;/c&gt; can&#39;t be processed by any registered &lt;see cref=&#34;Multimedia&#34;/&gt;.&lt;/exception&gt;
+        public Multimedia GetMultimedia(string url);
+
+        /// &lt;summary&gt;
+        /// Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
+        /// &lt;/summary&gt;
+        public void Dispose();
+    }
+}
+</code></pre><pre tabindex=0><code>namespace Aspose.Html.DataScraping.MultimediaScraping
+{
+    /// &lt;summary&gt;
+    /// Represents information about video format.
+    /// &lt;b&gt;Note:&lt;/b&gt; We do not support downloading copyrighted videos and using other people&#39;s videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
+    /// &lt;/summary&gt;
+    public class VideoFormatInfo
+    {
+        /// &lt;summary&gt;
+        /// Audio sampling rate in Hertz, or &lt;c&gt;null&lt;/c&gt; if there is no audio track.
+        /// &lt;/summary&gt;
+        public int? SamplingRate { get; set; }
+
+        /// &lt;summary&gt;
+        /// File size in bytes, or &lt;c&gt;null&lt;/c&gt; if unknown.
+        /// &lt;/summary&gt;
+        public long? FileSize { get; set; }
+
+        /// &lt;summary&gt;
+        /// Video track width in pixels, or &lt;c&gt;null&lt;/c&gt; if there is no video track.
+        /// &lt;/summary&gt;
+        public int? Width { get; set; }
+
+        /// &lt;summary&gt;
+        /// Video track height in pixels, or &lt;c&gt;null&lt;/c&gt; if there is no video track.
+        /// &lt;/summary&gt;
+        public int? Height { get; set; }
+
+        /// &lt;summary&gt;
+        /// Format extension.
+        /// &lt;/summary&gt;
+        public string Extension { get; set; }
+
+        /// &lt;summary&gt;
+        /// Name of the audio codec in use, or &lt;c&gt;null&lt;/c&gt; if there is no audio track.
+        /// &lt;/summary&gt;
+        public string AudioCodec { get; set; }
+
+        /// &lt;summary&gt;
+        /// Name of the video codec in use, or &lt;c&gt;null&lt;/c&gt; if there is no video track.
+        /// &lt;/summary&gt;
+        public string VideoCodec { get; set; }
+
+        /// &lt;summary&gt;
+        /// Average bitrate of audio and video in KBit/s, or &lt;c&gt;null&lt;/c&gt; if unknown.
+        /// &lt;/summary&gt;
+        public double? Bitrate { get; set; }
+
+        /// &lt;summary&gt;
+        /// Frame rate in frame/s, or &lt;c&gt;null&lt;/c&gt; if there is no video track.
+        /// &lt;/summary&gt;
+        public int? FPS { get; set; }
+
+        /// &lt;summary&gt;
+        /// The video formats URL.
+        /// &lt;/summary&gt;
+        public Url Url { get; set; }
+    }
+}
+</code></pre><pre tabindex=0><code>namespace Aspose.Html.DataScraping.MultimediaScraping
+{
+    /// &lt;summary&gt;
+    /// Represents a &lt;see cref=&#34;VideoFormatInfo&#34;/&gt; collection.
+    /// &lt;b&gt;Note:&lt;/b&gt; We do not support downloading copyrighted videos and using other people&#39;s videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
+    /// &lt;/summary&gt;
+    public class VideoFormatInfoCollection : ICollection&lt;VideoFormatInfo&gt;
+    {
+        /// &lt;summary&gt;
+        /// Gets the number of items contained in the &lt;see cref=&#34;VideoFormatInfoCollection&#34; /&gt; collection.
+        /// &lt;/summary&gt;
+        public int Count { get; }
+
+        /// &lt;summary&gt;
+        /// Determines whether the &lt;see cref=&#34;VideoFormatInfoCollection&#34; /&gt; collection is mutable.
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;True if the collection cannot be modified; otherwise, false.&lt;/returns&gt;
+        public bool IsReadOnly { get; }
+
+        /// &lt;summary&gt;
+        /// Returns an enumerator that iterates through the &lt;see cref=&#34;VideoFormatInfoCollection&#34; /&gt; elements.
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;
+        /// An &lt;see cref=&#34;IEnumerator{VideoFormatInfo}&#34; /&gt; object that can be used to iterate through the &lt;see cref=&#34;VideoFormatInfoCollection&#34; /&gt; elements.
+        /// &lt;/returns&gt;
+        public IEnumerator&lt;VideoFormatInfo&gt; GetEnumerator();
+
+        /// &lt;summary&gt;
+        /// Adds an element to the &lt;see cref=&#34;VideoFormatInfoCollection&#34; /&gt; collection.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;item&#34;&gt;The item to add.&lt;/param&gt;
+        public void Add(VideoFormatInfo item);
+
+        /// &lt;summary&gt;
+        /// Removes all the elements from the &lt;see cref=&#34;VideoFormatInfoCollection&#34; /&gt; collection.
+        /// &lt;/summary&gt;
+        public void Clear();
+
+        /// &lt;summary&gt;
+        /// Determines whether the &lt;see cref=&#34;VideoFormatInfoCollection&#34; /&gt; contain the specified item.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;item&#34;&gt;The item to check.&lt;/param&gt;
+        /// &lt;returns&gt;True if the &lt;see cref=&#34;VideoFormatInfoCollection&#34; /&gt; contain the specified item; otherwise, false.&lt;/returns&gt;
+        public bool Contains(VideoFormatInfo item);
+
+        /// &lt;summary&gt;
+        /// Copies the &lt;see cref=&#34;VideoFormatInfoCollection&#34; /&gt; elements to an existing one-dimensional array, starting at the specified array index.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;array&#34;&gt;Destination array.&lt;/param&gt;
+        /// &lt;param name=&#34;arrayIndex&#34;&gt;The array index to start at.&lt;/param&gt;
+        public void CopyTo(VideoFormatInfo[] array, int arrayIndex);
+
+        /// &lt;summary&gt;
+        /// Removes the specified item from the &lt;see cref=&#34;VideoFormatInfoCollection&#34; /&gt; collection.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;item&#34;&gt;The item to remove.&lt;/param&gt;
+        /// &lt;returns&gt;True if successfully removed; otherwise, false.&lt;/returns&gt;
+        public bool Remove(VideoFormatInfo item);
+    }
+}
+</code></pre><pre tabindex=0><code>namespace Aspose.Html.DataScraping.MultimediaScraping
+{
+    /// &lt;summary&gt;
+    /// Represents video information.
+    /// &lt;b&gt;Note:&lt;/b&gt; We do not support downloading copyrighted videos and using other people&#39;s videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
+    /// &lt;/summary&gt;
+    public class VideoInfo : MultimediaInfo
+    {
+        /// &lt;summary&gt;
+        /// Initializes a new instance of the &lt;see cref=&#34;VideoInfo&#34;/&gt; class.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;hostName&#34;&gt;Name of the host from which this info was obtained.&lt;/param&gt;
+        public VideoInfo(string hostName);
+
+        /// &lt;summary&gt;
+        /// Initializes a new instance of the &lt;see cref=&#34;VideoInfo&#34;/&gt; class.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;multimediaHost&#34;&gt;Host from which this info was obtained.&lt;/param&gt;
+        public VideoInfo(MultimediaHost multimediaHost);
+
+        /// &lt;summary&gt;
+        /// Collection of the available video formats.
+        /// &lt;/summary&gt;
+        /// &lt;value&gt;
+        /// Video formats collection.
+        /// &lt;/value&gt;
+        public VideoFormatInfoCollection Formats { get; }
+    }
+}
+</code></pre><pre tabindex=0><code>namespace Aspose.Html.DataScraping.MultimediaScraping.YouTube
+{
+    /// &lt;summary&gt;
+    /// Represents YouTube specific video information.
+    /// &lt;b&gt;Note:&lt;/b&gt; We do not support downloading copyrighted videos and using other people&#39;s videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
+    /// &lt;/summary&gt;
+    public class YouTubeVideoInfo : VideoInfo
+    {
+    }
+}
+</code></pre><p>We have added the ability to save HTML and SVG documents to the IOutputStorage:</p><pre tabindex=0><code>namespace Aspose.Html.Dom.Svg
+{
+    public class SVGDocument : Document, IDocumentEvent, IDocumentCSS
+    {
+        /// &lt;summary&gt;
+        /// Saves the document content and resources to the output storage.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;outputStorage&#34;&gt;The output storage &lt;see cref=&#34;IOutputStorage&#34;/&gt;.&lt;/param&gt;
+        public void Save(IOutputStorage outputStorage);
+
+        /// &lt;summary&gt;
+        /// Saves the document content and resources to the output storage.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;outputStorage&#34;&gt;The output storage &lt;see cref=&#34;IOutputStorage&#34;/&gt;.&lt;/param&gt;
+        /// &lt;param name=&#34;saveFormat&#34;&gt;Format in which document is saved.&lt;/param&gt;
+        public void Save(IOutputStorage outputStorage, SVGSaveFormat saveFormat);
+
+        /// &lt;summary&gt;
+        /// Saves the document content and resources to the output storage.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;outputStorage&#34;&gt;The output storage &lt;see cref=&#34;IOutputStorage&#34;/&gt;.&lt;/param&gt;
+        /// &lt;param name=&#34;saveOptions&#34;&gt;SVG save options.&lt;/param&gt;
+        public void Save(IOutputStorage outputStorage, SVGSaveOptions saveOptions);
+    }
+}
+</code></pre><pre tabindex=0><code>namespace Aspose.Html
+{
+    public class HTMLDocument : Document, IDocumentCSS
+    {
+        /// &lt;summary&gt;
+        /// Saves the document content and resources to the output storage.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;outputStorage&#34;&gt;The output storage &lt;see cref=&#34;IOutputStorage&#34;/&gt;.&lt;/param&gt;
+        public void Save(IOutputStorage outputStorage);
+
+        /// &lt;summary&gt;
+        /// Saves the document content and resources to the output storage.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;outputStorage&#34;&gt;The output storage &lt;see cref=&#34;IOutputStorage&#34;/&gt;.&lt;/param&gt;
+        /// &lt;param name=&#34;saveFormat&#34;&gt;Format in which document is saved.&lt;/param&gt;
+        public void Save(IOutputStorage outputStorage, HTMLSaveFormat saveFormat);
+
+        /// &lt;summary&gt;
+        /// Saves the document content and resources to the output storage.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;outputStorage&#34;&gt;The output storage &lt;see cref=&#34;IOutputStorage&#34;/&gt;.&lt;/param&gt;
+        /// &lt;param name=&#34;saveOptions&#34;&gt;HTML save options.&lt;/param&gt;
+        public void Save(IOutputStorage outputStorage, HTMLSaveOptions saveOptions);
+
+        /// &lt;summary&gt;
+        /// Saves the document content and resources to the output storage.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;outputStorage&#34;&gt;The output storage &lt;see cref=&#34;IOutputStorage&#34;/&gt;.&lt;/param&gt;
+        /// &lt;param name=&#34;saveOptions&#34;&gt;Markdown save options.&lt;/param&gt;
+        public void Save(IOutputStorage outputStorage, MarkdownSaveOptions saveOptions);
+
+        /// &lt;summary&gt;
+        /// Saves the document content and resources to the output storage.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;outputStorage&#34;&gt;The output storage &lt;see cref=&#34;IOutputStorage&#34;/&gt;.&lt;/param&gt;
+        /// &lt;param name=&#34;saveOptions&#34;&gt;MHTML save options.&lt;/param&gt;
+        public void Save(IOutputStorage outputStorage, MHTMLSaveOptions saveOptions);
+    }
+}
+</code></pre><pre tabindex=0><code>namespace Aspose.Html.IO
+{
+    /// &lt;summary&gt;
+    /// Provides the creation and management of output streams &lt;see cref=&#34;OutputStream&#34;/&gt;.
+    /// &lt;/summary&gt;
+    public interface IOutputStorage
+    {
+        /// &lt;summary&gt;
+        /// Creates the output stream &lt;see cref=&#34;OutputStream&#34;/&gt;.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;context&#34;&gt;Specifies the output stream context &lt;see cref=&#34;OutputStreamContext&#34; /&gt;.&lt;/param&gt;
+        /// &lt;returns&gt;The output stream.&lt;/returns&gt;
+        OutputStream CreateStream(OutputStreamContext context);
+
+        /// &lt;summary&gt;
+        /// Releases the output stream.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;stream&#34;&gt;The output stream.&lt;/param&gt;
+        void ReleaseStream(OutputStream stream);
+    }
+}
+</code></pre><pre tabindex=0><code>namespace Aspose.Html.IO
+{
+    /// &lt;summary&gt;
+    /// A surrogate stream wraps the real output stream and controls access to it.
+    /// &lt;see cref=&#34;OutputStream&#34;/&gt; contains URI data that describes location of the output stream.
+    /// &lt;/summary&gt;
+    public class OutputStream : Stream
+    {
+        /// &lt;summary&gt;
+        /// Initializes a new instance of the &lt;see cref=&#34;OutputStream&#34;/&gt; class.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;stream&#34;&gt;The output stream to be wrapped.&lt;/param&gt;
+        /// &lt;param name=&#34;uri&#34;&gt;The URI of stream location.&lt;/param&gt;
+        public OutputStream(Stream stream, string uri);
+
+        /// &lt;summary&gt;
+        /// Gets the URI of stream location.
+        /// &lt;/summary&gt;
+        public string Uri { get; }
+
+        /// &lt;summary&gt;
+        /// Gets a value indicating whether the wrapped output stream supports reading.
+        /// &lt;/summary&gt;
+        public override bool CanRead { get; }
+
+        /// &lt;summary&gt;
+        /// Gets a value indicating whether the wrapped output stream supports seeking.
+        /// &lt;/summary&gt;
+        public override bool CanSeek { get; }
+
+        /// &lt;summary&gt;
+        /// Gets a value indicating whether the wrapped output stream supports writing.
+        /// &lt;/summary&gt;
+        public override bool CanWrite { get; }
+
+        /// &lt;summary&gt;
+        /// Gets the length in bytes of the wrapped output stream.
+        /// &lt;/summary&gt;
+        public override long Length { get; }
+
+        /// &lt;summary&gt;
+        /// Gets or sets the position within the wrapped output stream.
+        /// &lt;/summary&gt;
+        public override long Position { get; set; }
+
+        /// &lt;summary&gt;
+        /// Clears all buffers for the wrapped output stream and causes any buffered data to be written to the underlying device.
+        /// &lt;/summary&gt;
+        public override void Flush();
+
+        /// &lt;summary&gt;
+        /// Closes the wrapped output stream and current stream.
+        /// &lt;/summary&gt;
+        public override void Close();
+
+        /// &lt;summary&gt;
+        /// Reads a sequence of bytes from the wrapped output stream
+        /// and advances the position within the stream by the number of bytes read.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;buffer&#34;&gt;An array of bytes. When this method returns, the buffer contains the specified
+        /// byte array with the values between offset and (offset + count - 1) replaced by
+        /// the bytes read from the the wrapped output stream.&lt;/param&gt;
+        /// &lt;param name=&#34;offset&#34;&gt; The zero-based byte offset in buffer at which to begin storing the data read
+        /// from the wrapped output stream.&lt;/param&gt;
+        /// &lt;param name=&#34;count&#34;&gt;The maximum number of bytes to be read from the wrapped output stream.&lt;/param&gt;
+        /// &lt;returns&gt;The total number of bytes read into the buffer. This can be less than the number
+        /// of bytes requested if that many bytes are not currently available, or zero (0)
+        /// if the end of the stream has been reached.&lt;/returns&gt;
+        public override int Read(byte[] buffer, int offset, int count);
+
+        /// &lt;summary&gt;
+        /// Sets the position within the wrapped output stream.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;offset&#34;&gt;A byte offset relative to the origin parameter.&lt;/param&gt;
+        /// &lt;param name=&#34;origin&#34;&gt;A value of type &lt;see cref=&#34;SeekOrigin&#34;/&gt; indicating the reference point used to obtain
+        /// the new position.&lt;/param&gt;
+        /// &lt;returns&gt;The new position within the current stream.&lt;/returns&gt;
+        public override long Seek(long offset, SeekOrigin origin);
+
+        /// &lt;summary&gt;
+        /// Sets the length of the wrapped output stream.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;value&#34;&gt;The desired length of the wrapped output stream in bytes.&lt;/param&gt;
+        public override void SetLength(long value);
+
+        /// &lt;summary&gt;
+        /// Writes a sequence of bytes to the wrapped output
+        /// stream and advances the current position within this stream by the number of
+        /// bytes written.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;buffer&#34;&gt;An array of bytes. This method copies count bytes from buffer to the wrapped output
+        /// stream.&lt;/param&gt;
+        /// &lt;param name=&#34;offset&#34;&gt;The zero-based byte offset in buffer at which to begin copying bytes to the wrapped output
+        /// stream.&lt;/param&gt;
+        /// &lt;param name=&#34;count&#34;&gt;The number of bytes to be written to the wrapped output stream.&lt;/param&gt;
+        public override void Write(byte[] buffer, int offset, int count);
+    }
+}
+</code></pre><pre tabindex=0><code>namespace Aspose.Html.IO
+{
+    /// &lt;summary&gt;
+    /// A context for initialization of the output stream.
+    /// &lt;/summary&gt;
+    public class OutputStreamContext
+    {
+        /// &lt;summary&gt;
+        /// Gets the original URI of the saved resource.
+        /// &lt;/summary&gt;
+        public string Uri { get; }
+    }
+}
+</code></pre><p>We have added two new properties which allows you to specify page and resource restrictions:</p><pre tabindex=0><code>namespace Aspose.Html.Saving
+{
+    public class ResourceHandlingOptions
+    {
+        /// &lt;summary&gt;
+        /// Gets or sets restriction applied to URLs of handled resources such as css, js, images etc. Default value is &lt;see cref=&#34;Saving.UrlRestriction.SameHost&#34;/&gt;.
+        /// &lt;/summary&gt;
+        public UrlRestriction ResourceUrlRestriction { get; set; }
+
+        /// &lt;summary&gt;
+        /// Gets or sets restriction applied to URLs of handled pages. Default value is &lt;see cref=&#34;Saving.UrlRestriction.RootAndSubFolders&#34;/&gt;.
+        /// &lt;/summary&gt;
+        public UrlRestriction PageUrlRestriction { get; set; }
+    }
+}
+</code></pre><h3 id=obsolete-apis>Obsolete APIs</h3><pre tabindex=0><code>namespace Aspose.Html.Saving
+{
+    public class ResourceHandlingOptions
+    {
+        /// &lt;summary&gt;
+        /// Gets restriction applied to URLs of handled pages or sets restriction applied to URLs of handled pages and resources.
+        /// &lt;/summary&gt;
+        [Obsolete(&#34;This property was split into ResourceUrlRestriction and PageUrlRestriction properties. It will be removed in release 21.6.0.&#34;)]
+        public UrlRestriction UrlRestriction { get; set; }
+    }
+}
+</code></pre><p>In release 21.6.0 the base interface of IBrowsingContext will change:</p><pre tabindex=0><code>namespace Aspose.Html.Dom
+{
+    // From
+    public interface IBrowsingContext : IServiceContainer
+    {
+    }
+
+    // To
+    public interface IBrowsingContext : IServiceProvider, IDisposable
+    {
+    }
+}
+</code></pre></p></div></div></div></div><hr></div></div></section></div></div></div></div></div></div><div id=dvHidden style=display:none></div><div id=footer></div><a class=backtop>&nbsp;</a><div id=DynabicMenuFooter></div><script type=text/javascript>const langarray=[]</script><script type=text/javascript>jQuery(document).ready(function(){let e=$(".nested").hide(),t=$(".treeview-animated-element");$(".treeview-animated-items-header").hover(function(){$(this).children.toggleClass("Mydiv")}),$(".treeview-animated-items-header").click(function(){return console.log("mala"),$this=$(this),console.log($this.attr("id")),$target=$this.siblings(".nested"),$pointerPlus=$this.children(".fa-plus"),$pointerMinus=$this.children(".fa-minus"),$pointerPlus.removeClass("fa-plus"),$pointerPlus.addClass("fa-minus"),$pointerMinus.removeClass("fa-minus"),$pointerMinus.addClass("fa-plus"),$this.toggleClass("open"),$target.hasClass("active")?$target.removeClass("active").slideUp():$target.addClass("active").slideDown(),!1})})</script><script>(function(e,s,o,a,t,n,i){e.ContainerizeMenuObject=t,e[t]=e[t]||function(){(e[t].q=e[t].q||[]).push(arguments)},e[t].l=1*new Date,n=s.createElement(o),i=s.getElementsByTagName(o)[0],n.async=1,n.src=a,i.parentNode.append(n)})(window,document,"script","https://menu.containerize.com/scripts/engine.min.js?v=1.0.1","aspose-en")</script><script src=https://releases-qa.aspose.com/res_repo/js/highlight.min.js></script>
+<script src=https://releases-qa.aspose.com/res_repo/js/bootstrap.min.js></script>
+<script src=/js/bundle.min.js></script>
+<script src=/js/dynabic.treeview.js></script>
+<script src=/js/treeviewmanager.js></script>
+<script>hljs.highlightAll()</script><link rel=stylesheet type=text/css href=https://releases-qa.aspose.com/res_repo/css/hugocustom.css><script>$(".btn-showside .mb-5").on("click",function(){$("main .flex .dn.db-l").toggleClass("showsidebar"),$("main .flex .w-100").toggleClass("noscroll")}),$(".btn-showmenu").on("click",function(){$("nav.bg-primary-color-dark").toggleClass("showmenu")}),$(".btn-plain").on("click",function(){$("main .flex .dn.db-l").removeClass("showsidebar"),$("main .flex .dn.db-l").removeClass("showsidebar"),$("nav.bg-primary-color-dark").removeClass("showmenu")}),$(".ss-bar ul li a[data-target]").on("click",function(){$(this).find(".i.fa-angle-down").hasClass("fa-angle-up")?$(this).find("i.fa-angle-down").removeClass("fa-angle-up"):$(this).find("i.fa-angle-down").toggleClass("fa-angle-up")}),$(".btn-showside").on("click",function(){$(".ss-bar").toggleClass("showsidebar")}),$(".btn-plain").on("click",function(){$(".ss-bar").removeClass("showsidebar")})</script><script>$(document).ready(function(){$("div pre").removeAttr("style");var e,t=$(location).attr("hash");"#package-explorer"==t&&(e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]'),e&&e.click()),$('a:has(img[alt="banner"]').click(function(){event.preventDefault();var e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]');e&&e.click()}),$(window).scroll(function(){$(this).scrollTop()>150?$(".backtop").fadeIn():$(".backtop").fadeOut()}),$(".backtop").click(function(){return $("html, body").animate({scrollTop:0},600),!1}),$(".linkshow").on("click",function(){$(this).find("i").toggleClass("fa-minus-square"),$(".linkshowbox").toggleClass("hide")}),document.querySelector("body").addEventListener("click",function(t){if(t.target.classList.contains("searchButton")){$(".ss-bar").removeClass("showsidebar");try{var e=$("input[name=q]").val();gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}if(t.target.classList.contains("fa-search")){$(".ss-bar").removeClass("showsidebar");try{e=$("input[name=q]").val(),gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}},!0)})</script><script>document.querySelectorAll("pre > code").forEach(t=>{const n=t.parentNode.parentNode,e=document.createElement("button");e.classList.add("copy-code"),e.innerHTML="copy";function s(){e.innerHTML="copied!",setTimeout(()=>{e.innerHTML="copy"},2e3)}e.addEventListener("click",o=>{if("clipboard"in navigator){navigator.clipboard.writeText(t.textContent),s();return}const e=document.createRange();e.selectNodeContents(t);const n=window.getSelection();n.removeAllRanges(),n.addRange(e);try{document.execCommand("copy"),s()}catch(e){}n.removeRange(e)}),n.classList.contains("highlight")?n.appendChild(e):n.parentNode.firstChild==n||(t.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName=="TABLE"?t.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(e):t.parentNode.appendChild(e))})</script></body></html>

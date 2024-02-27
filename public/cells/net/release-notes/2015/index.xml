@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Release Notes - 2015 on Releases - aspose.com</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2015/</link><description>Recent content in Release Notes - 2015 on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/cells/net/release-notes/2015/index.xml" rel="self" type="application/rss+xml"/><item><title>Aspose.Cells for .NET 8.6.3 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2015/aspose-cells-for-net-8-6-3-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2015/aspose-cells-for-net-8-6-3-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 8.6.3
+The following is a list of improvements and changes in this release of Aspose.Cells
+1) Aspose.Cells Other Improvements and Changes New Features (CELLSNET-44084) - Parse Html tags while importing data in bulk
+(CELLSNET-40889) - Load Option : Only open visible sheets
+Enhancements (CELLSNET-44133) - Support for Print Page Size Thermal 3x11
+(CELLSNET-44095) - Support reading/Writing External linked table.</description></item><item><title>Aspose.Cells for .NET 8.6.2 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2015/aspose-cells-for-net-8-6-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2015/aspose-cells-for-net-8-6-2-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 8.6.2
+The following is a list of improvements and changes in this release of Aspose.Cells
+\1) Aspose.Cells
+Other Improvements and Changes New Features (CELLSNET-43934) - Support smart markers to accept a generic List as a nested object
+Bugs (CELLSNET-44044) - PivotTable.ShowValuesRow has no effect after moving DataField to columns
+(CELLSNET-44043) - Opening and resaving large Excel file corrupts the document</description></item><item><title>Aspose.Cells for .NET 8.6.1 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2015/aspose-cells-for-net-8-6-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2015/aspose-cells-for-net-8-6-1-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 8.6.1
+The following is a list of improvements and changes in this release of Aspose.Cells
+\1) Aspose.Cells
+Other Improvements and Changes New Features (CELLSNET-43905) - Support to change the HTML hyperlink&amp;rsquo;s target attribute to &amp;ldquo;_blank&amp;rdquo;
+(CELLSNET-43885) - Ability to retrieve the ConnectionString of ExternalConnection of type WebQuery
+(CELLSNET-43935) - Ignors hidden Column with ExportTableOptions.PlotVisibleColumns set to true
+(CELLSNET-43925) - Adding a reference to VBA macros in workbook</description></item><item><title>Aspose.Cells for .NET 8.6.0 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2015/aspose-cells-for-net-8-6-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2015/aspose-cells-for-net-8-6-0-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 8.6.0
+The following is a list of improvements and changes in this release of Aspose.Cells
+\1) Aspose.Cells
+Other Improvements and Changes New Features (CELLSNET-43880) - Assign macro to form controls
+Enhancements (CELLSNET-43832) - Worksheet.Shapes.UpdateSelectedValue throwing CellsException sometimes
+(CELLSNET-43823) - Including a Font Directory with CellsHelper, doesn&amp;rsquo;t seem to work
+(CELLSNET-43900) - Hyperlink.TextToDisplay is not updated
+(CELLSNET-43892) - XLSX document size increases with every save</description></item><item><title>Aspose.Cells for .NET 8.5.2 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2015/aspose-cells-for-net-8-5-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2015/aspose-cells-for-net-8-5-2-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 8.5.2
+The following is a list of improvements and changes in this release of Aspose.Cells
+\1) Aspose.Cells
+Other Improvements and Changes New Features (CELLSNET-43758) - Render to Graphic Context
+Bugs (CELLSNET-43786) - The file is corrupted after refreshing PivotTable in the template file
+(CELLSNET-43594) - PivotField.IsRepeatItemLabels not working in the Pivot Table
+(CELLSNET-43367) - Issue with PivotTable.Format() to format the PivotField header</description></item><item><title>Aspose.Cells for .NET 8.5.1 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2015/aspose-cells-for-net-8-5-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2015/aspose-cells-for-net-8-5-1-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 8.5.1
+The following is a list of improvements and changes in this release of Aspose.Cells
+1) Aspose.Cells Other Improvements and Changes New Features (CELLSNET-43703) - ICustomFunction - returning a range instead of a single cell
+(CELLSNET-43777) - Cell.GetHeightOfValue() similar to Cell.GetWidthOfValue() needed
+Bugs (CELLSNET-43744) - PivotTable does not refresh when saving to PDF
+(CELLSNET-43735) - Pivot Table&amp;rsquo;s Banded Rows option is lost</description></item><item><title>Aspose.Cells for .NET 8.5.0 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2015/aspose-cells-for-net-8-5-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2015/aspose-cells-for-net-8-5-0-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 8.5.0
+The following is a list of improvements and changes in this release of Aspose.Cells
+\1) Aspose.Cells
+Other Improvements and Changes New Features (CELLSNET-43640) - Cannot render the custom date format pattern g and ge.mm.dd
+(CELLSNET-43682) - ExportDataTableAsString function should export cell vaues as StringValueWithoutFormat
+(CELLSNET-41619) - Convert revision of XLSB to XLSM
+(CELLSNET-40366) - How to know if the license is registered</description></item><item><title>Aspose.Cells for .NET 8.4.2 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2015/aspose-cells-for-net-8-4-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2015/aspose-cells-for-net-8-4-2-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 8.4.2
+The following is a list of improvements and changes in this release of Aspose.Cells
+\1) Aspose.Cells
+Other Improvements and Changes New Features (CELLSNET-43596) - Add new Module to Worksheet VbaProject
+(CELLSNET-43569) - Support of IFNA formula/function
+Bugs (CELLSNET-43581) - Text is moved out of banner when Excel file is converted to PDF
+(CELLSNET-43639) - Watermarks are not displayed correctly</description></item><item><title>Aspose.Cells for .NET 8.4.1 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2015/aspose-cells-for-net-8-4-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2015/aspose-cells-for-net-8-4-1-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 8.4.1
+The following is a list of improvements and changes in this release of Aspose.Cells
+\1) Aspose.Cells
+Other Improvements and Changes New Features (CELLSNET-42514) - Set SQL Data Connection
+(CELLSNET-43449) - Support to Print Comments at the End of Sheet
+(CELLSNET-43513) - Rich Text Feature for Chart&amp;rsquo;s DataLabels
+Bugs (CELLSNET-43475) - Pivot Table&amp;rsquo;s data view in HTML does not correlate</description></item><item><title>Aspose.Cells for .NET 8.4.0 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2015/aspose-cells-for-net-8-4-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2015/aspose-cells-for-net-8-4-0-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 8.4.0
+\1) Aspose.Cells
+Other Improvements and Changes New Features (CELLSNET-43362) - Support to delete a PivotTable from Worksheet
+(CELLSNET-43279) - Content Type Properties are not shown in XLS format
+(CELLSNET-43276) - Workbook.ContentTypeProperties.Add(name, value, type) is needed
+Enhancements (CELLSNET-43368) - Customizing the generation of CSS while saving Excel to HTML
+(CELLSNET-43361) - Cannot retain the Cell&amp;rsquo;s Number Format after ImportTwoDimensionArray</description></item><item><title>Aspose.Cells for .NET 8.3.2 Release Notes</title><link>https://releases-qa.aspose.com/cells/net/release-notes/2015/aspose-cells-for-net-8-3-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/release-notes/2015/aspose-cells-for-net-8-3-2-release-notes/</guid><description>This page contains release notes for Aspose.Cells for .NET 8.3.2
+The following is a list of changes in this version of Aspose.Cells.
+\1) Aspose.Cells
+Other Improvements and Changes New Features (CELLSNET-43214) - Ability to specify the absolute position for the PivotItem
+(CELLSNET-43298) - Support to format cell values automatically by Cells.ImportTwoDimensionArray()
+(CELLSNET-43227) - Specify Custom Separators.
+(CELLSNET-43256) - Printing range of pages
+(CELLSNET-43240) - Change the font on just the specific unicode characters</description></item></channel></rss>

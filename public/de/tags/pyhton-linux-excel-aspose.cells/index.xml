@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pyhton Linux Excel Aspose.Cells on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/tags/pyhton-linux-excel-aspose.cells/</link><description>Recent content in Pyhton Linux Excel Aspose.Cells on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/tags/pyhton-linux-excel-aspose.cells/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads --- NEW Releases-ASSOSPLE.Cells-for-Python-VIA-NIA-N-24.2.0-Linux-X86-64bit</title><link>https://releases-qa.aspose.com/de/cells/python-net/new-releases/aspose.cells-for-python-via-.net-24.2.0-linux-x86-64bit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/python-net/new-releases/aspose.cells-for-python-via-.net-24.2.0-linux-x86-64bit/</guid><description>&amp;nbsp;
+ASSONE.CELLS für Python über .NET 24.2.0 Linux x86 64bit
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+73.18MB
+Datum hinzugefügt:
+5/2/2024
+Versionshinweisehttps://releases.aspose.com/cells/python-net/release-notes/2024/aspose-cells-for-python-net-24-2-release-notes/
+BeschreibungFür Linux 64bit
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5629103965a9ee43cbbc76bd0acba729-15-10284&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

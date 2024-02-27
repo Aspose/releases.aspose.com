@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PDF C++ macOS x86_64 arm64 on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/pdf-c++-macos-x86_64-arm64/</link><description>Recent content in PDF C++ macOS x86_64 arm64 on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/tags/pdf-c++-macos-x86_64-arm64/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads ---New Releases-aspose.pdf-for-c++-23.9-macos</title><link>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-23.9-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-23.9-macos/</guid><description>&amp;nbsp;
+Aspose.PDF for C&amp;#43;&amp;#43; 23.9 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+208.76MB
+Date Added:
+20/9/2023
+Release Noteshttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-9-release-notes/
+DescriptionAspose.PDF for C++ macOS version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9d83771a44cf5e31d7ba5bee92c37411-42-9493&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pdf-for-c++-23.10-macos</title><link>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-23.10-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-23.10-macos/</guid><description>&amp;nbsp;
+Aspose.PDF for C&amp;#43;&amp;#43; 23.10 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+209.52MB
+Date Added:
+23/10/2023
+Release Noteshttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-10-release-notes/
+DescriptionAspose.PDF for C++ macOS version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bcce5e10d8998f7a61e41fb3c3a5bfcf-42-9659&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pdf-for-c++-23.11-macos</title><link>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-23.11-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-23.11-macos/</guid><description>&amp;nbsp;
+Aspose.PDF for C&amp;#43;&amp;#43; 23.11 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+210.16MB
+Date Added:
+21/11/2023
+Release Noteshttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-11-release-notes/
+DescriptionAspose.PDF for C++ macOS version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=031ccaa965b04677f1dedf5a45d0f7e1-43-9858&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pdf-for-c++-23.12-macos</title><link>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-23.12-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-23.12-macos/</guid><description>&amp;nbsp;
+Aspose.PDF for C&amp;#43;&amp;#43; 23.12 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+217.26MB
+Date Added:
+21/12/2023
+Release Noteshttps://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-12-release-notes/
+DescriptionAspose.PDF for C++ macOS version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9e0dd68662b9a9da2708b21eb8aabfb9-44-10031&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.pdf-for-c++-24.1-macos</title><link>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-24.1-macos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/cpp/new-releases/aspose.pdf-for-c++-24.1-macos/</guid><description>&amp;nbsp;
+Aspose.PDF for C&amp;#43;&amp;#43; 24.1 macOS
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+217.38MB
+Date Added:
+20/1/2024
+Release Noteshttps://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-1-release-notes/
+DescriptionAspose.PDF for C++ macOS version
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=636401ca1a2472b6fc23caf53111f408-44-10185&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

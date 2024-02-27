@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OCR, Python, Linux on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/tags/ocr-python-linux/</link><description>Recent content in OCR, Python, Linux on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/tags/ocr-python-linux/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads --- NEW Releases-ASSOSPLE.OCR-for-PYTHON-VIA-NIA-23.8.1, -LINUX-X86, -X64</title><link>https://releases-qa.aspose.com/de/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.8.1-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.8.1-linux-x86-x64/</guid><description>&amp;nbsp;
+ASSON.OCR für Python über .NET 23.8.1, Linux x86, x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+274.21MB
+Datum hinzugefügt:
+31/8/2023
+Versionshinweisehttps://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-8-1-release-notes/
+BeschreibungFixpdf -Kreation reparieren
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0482303312bb2a410c382037b7a6ef5a-55-9433&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.OCR-for-PYTHON-VIA-NIA-23.9.1, -LINUX-X86, -X64</title><link>https://releases-qa.aspose.com/de/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.9.1-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.9.1-linux-x86-x64/</guid><description>&amp;nbsp;
+ASSON.OCR für Python über .NET 23.9.1, Linux x86, x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+274.23MB
+Datum hinzugefügt:
+15/9/2023
+Versionshinweisehttps://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-9-1-release-notes/
+BeschreibungDie Geschwindigkeit der Chargenerkennung wurde (bis zu 2 -mal) erheblich erhöht.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f901557ff62612550da4b8bd6596af15-55-9477&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.OCR-for-PYTHON-VIA-NIA-23.10.0, -LINUX-X86, -64</title><link>https://releases-qa.aspose.com/de/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.10.0-linux-x86-64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.10.0-linux-x86-64/</guid><description>&amp;nbsp;
+ASSON.OCR für Python über .NET 23.10.0, Linux x86, 64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+317.84MB
+Datum hinzugefügt:
+10/10/2023
+Versionshinweisehttps://docs.aspose.com/ocr/python-net/aspose-ocr-python-23-10-0-release-notes/
+BeschreibungNeues Erkennungsmodell zum Extrahieren von Texten aus Straßenfotos
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=21b0d44b5c6d538be5d533b8d5b2f056-64-9587&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.OCR-for-PYTHON-VIA-NIA-23.10.1, -LINUX-X86-64</title><link>https://releases-qa.aspose.com/de/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.10.1-linux-x86-64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.10.1-linux-x86-64/</guid><description>&amp;nbsp;
+ASSON.OCR für Python über .NET 23.10.1, Linux x86-64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+350.91MB
+Datum hinzugefügt:
+25/10/2023
+Versionshinweisehttps://docs.aspose.com/ocr/python-net/aspose-ocr-python-23-10-1-release-notes/
+BeschreibungVerbesserte Textüberlagerung mit dem Originalbild.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=65e3c688b841680527c71be692835020-71-9671&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.OCR-for-PYTHON-VIA-NIA-23.12.0, -LINUX-X86-64</title><link>https://releases-qa.aspose.com/de/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.12.0-linux-x86-64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.12.0-linux-x86-64/</guid><description>&amp;nbsp;
+ASSON.OCR für Python über .NET 23.12.0, Linux x86-64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+350.9MB
+Datum hinzugefügt:
+6/12/2023
+Versionshinweisehttps://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-12-0-release-notes/
+BeschreibungLandbesitz in Passportrecognitionssetings
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=764ff9fe770bdac76fe817637e97a4d6-71-9939&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.OCR-for-PYTHON-VIA-NIA-23.12.1, -LINUX-X86-64</title><link>https://releases-qa.aspose.com/de/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.12.1-linux-x86-64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.12.1-linux-x86-64/</guid><description>&amp;nbsp;
+ASSON.OCR für Python über .NET 23.12.1, Linux x86-64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+409.15MB
+Datum hinzugefügt:
+9/1/2024
+Versionshinweisehttps://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-12-1-release-notes/
+BeschreibungHandgeschriebene Anerkennung
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9add2e222cb708fe9f7d5ae43aaca602-82-10130&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.OCR-for-PYTHON-VIA-NIA-23.12.1-LINUX-X86-64</title><link>https://releases-qa.aspose.com/de/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.12.1-linux-x86-64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.12.1-linux-x86-64/</guid><description>&amp;nbsp;
+ASSON.OCR für Python über .NET 23.12.1 Linux x86-64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+409.15MB
+Datum hinzugefügt:
+19/1/2024
+Versionshinweisehttps://releases.aspose.com/ocr/python-net/release-notes/2024/aspose-ocr-python-24-1-0-release-notes/
+BeschreibungBeheben Sie die PDF -Erstellung (Auflösung, suchen Sie den Schatten)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e0d664d83ded4c75b983a9bb013cc5ed-82-10178&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item></channel></rss>

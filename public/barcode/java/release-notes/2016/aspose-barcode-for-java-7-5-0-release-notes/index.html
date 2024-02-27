@@ -1,0 +1,440 @@
+<!doctype html><html class=no-js lang=en><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge"><title>Aspose.BarCode for Java 7.5.0 Release Notes</title><meta name=description content="Aspose.BarCode for Java 7.5.0 Release Notes – the latest updates and fixes."><meta name=viewport content="width=device-width,minimum-scale=1"><link rel=canonical href=https://releases-qa.aspose.com/barcode/java/release-notes/2016/aspose-barcode-for-java-7-5-0-release-notes/><link rel=alternate hreflang=x-default href=https://releases-qa.aspose.com/barcode/java/release-notes/2016/aspose-barcode-for-java-7-5-0-release-notes/><meta name=robots content="noindex, nofollow"><link rel=apple-touch-icon sizes=180x180 href=/res_repo/apple-touch-icon.png><link rel=icon type=image/png href=/res_repo/favicon-32x32.png sizes=32x32><link rel=icon type=image/png href=/res_repo/favicon-16x16.png sizes=16x16><link rel=mask-icon href=/res_repo/safari-pinned-tab.svg color=#0594cb><meta name=theme-color content="#ffffff"><meta property="og:title" content="Aspose.BarCode for Java 7.5.0 Release Notes "><meta property="og:description" content="Aspose.BarCode for Java 7.5.0 Release Notes – the latest updates and fixes."><meta property="og:type" content="article"><meta property="og:url" content="https://releases-qa.aspose.com/barcode/java/release-notes/2016/aspose-barcode-for-java-7-5-0-release-notes/"><meta itemprop=name content="Aspose.BarCode for Java 7.5.0 Release Notes"><meta itemprop=description content="Aspose.BarCode for Java 7.5.0 Release Notes – the latest updates and fixes."><meta itemprop=wordCount content="1487"><meta name=twitter:card content="summary"><meta name=twitter:title content="Aspose.BarCode for Java 7.5.0 Release Notes"><meta name=twitter:description content="Aspose.BarCode for Java 7.5.0 Release Notes – the latest updates and fixes."><link href=/css/bootstrap.css rel=stylesheet type=text/css><script src=https://releases-qa.aspose.com/res_repo/js/jquery-1.10.2.min.js></script></head><body><div id=header></div><div class=downloadpage><div class="container-fluid bcrumb1"><div id=sticky1 class=stickytopheight>&nbsp;</div><div class=container><div class=moduletable><ul id=dvBC class=breadcrumb><li><a href=/>Home</a><span class=divider></span></li><li><a href=/barcode/>Aspose.BarCode Product Family</a><span class=divider></span></li><li><a href=/barcode/java/>Aspose.BarCode for Java</a><span class=divider></span></li><li><a href=/barcode/java/release-notes/>Release Notes</a><span class=divider></span></li><li><a href=/barcode/java/release-notes/2016/>2016</a><span class=divider></span></li><li><a href=/barcode/java/release-notes/2016/aspose-barcode-for-java-7-5-0-release-notes/>Aspose.BarCode for Java 7.5.0 Release Notes</a><span class=divider></span></li></ul></div></div></div><div class="container-fluid content2 vpanel-left"><div class=container><div class=row><div class="col-md-3 vpanel tree-section"><p class=list-title>Browse our Products<button type=button class=treeview-toggle> <span class=sr-only>Toggle navigation</span> <span class="icon expand-icon glyphicon glyphicon-hide"></span></button></p><div id=tree class="treeview hidetree"></div></div><div class="col-md-9 lhs1 col-xs-12 mobilehide node-section"><div class=box1><section role=main class="main-container page-package-details"><div class=row><div class="col-sm-9 package-details-main"><h1><strong>Aspose.BarCode for Java 7.5.0 Release Notes</strong></h1><div class="tab-content body-tab-content"><div role=tabpanel class="tab-pane active" id=readme-tab><div class=readme-common><div id=readme-container><p><p>Aspose.BarCode for Java has been updated to version 7.5.0 and we are pleased to announce it.</p><h2 id=new-features><strong>New Features</strong></h2><p>BARCODENET-34310 Implement GS1 QR decoding Enhancements
+BARCODJAVA-33592 Implement getting readable type name from
+BarcodeReadType BARCODJAVA-33507 Can&rsquo;t recognize Aztec code from the JPG image
+BARCODJAVA-33506 Can&rsquo;t recognize Aztec code from the JPG image
+BARCODENET-34309 Reorganize the logic of recognition in manual hint mode to speed up the detection
+BARCODENET-33812 Add support to encode GS1QR code
+BARCODENET-34319 DataBarStackedOmniDirectional encoding, BarCodeBuilder.BarHeight property does not work properly
+BARCODENET-34311 Unwanted White Space at the bottom of Barcode Image
+BARCODENET-34295 AI Codes Not Accepting Valid Values for GS1DataMatrix
+BARCODENET-34294 AI Codes Not Accepting Valid Values for GS1Code128
+BARCODENET-34292 Barcode Reader skips a binary character
+BARCODENET-34163 Can&rsquo;t recognize Aztec code from the JPG image
+BARCODENET-34162 Can&rsquo;t recognize Aztec code from the JPG image
+BARCODENET-33843 Can&rsquo;t recognize all DataMatrix/Code128 codes from a tif file
+BARCODENET-33827 Can&rsquo;t recognize DataMarix code and incorrect text detection of Code 128
+BARCODENET-33250 Implement a BarCodeReader constructor that could accept a list of Rectangles</p><h2 id=usage-examples><strong>Usage examples:</strong></h2><p>BARCODJAVA-33592 Implement getting readable type name from BarcodeReadType</p><p>Implements method representing BarcodeReadType name as follows:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> <span style=color:#960050;background-color:#1e0010>&#39;</span>BarCode type <span style=color:#f92672>:</span> BarCode text<span style=color:#960050;background-color:#1e0010>&#39;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>long</span> expectedType <span style=color:#f92672>=</span> BarCodeReadType<span style=color:#f92672>.</span><span style=color:#a6e22e>DataMatrix</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>String expectedResult <span style=color:#f92672>=</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#e6db74>&#34;doc:3f820419c87d4a878bafd17d2add8d2d009&#34;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>BarCodeReader reader <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> BarCodeReader<span style=color:#f92672>(</span>folder <span style=color:#f92672>+</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#e6db74>&#34;/image0.jpg&#34;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>,</span> BarCodeReadType<span style=color:#f92672>.</span><span style=color:#a6e22e>DataMatrix</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>while</span> <span style=color:#f92672>(</span>reader<span style=color:#f92672>.</span><span style=color:#a6e22e>read</span><span style=color:#f92672>())</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>   System<span style=color:#f92672>.</span><span style=color:#a6e22e>out</span><span style=color:#f92672>.</span><span style=color:#a6e22e>println</span><span style=color:#f92672>(</span>reader<span style=color:#f92672>.</span><span style=color:#a6e22e>getReadTypeName</span><span style=color:#f92672>()</span> <span style=color:#f92672>+</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#e6db74>&#34; : &#34;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#960050;background-color:#1e0010>\</span><span style=color:#f92672>+</span> reader<span style=color:#f92672>.</span><span style=color:#a6e22e>getCodeText</span><span style=color:#f92672>());</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>DataMatrix <span style=color:#f92672>:</span> doc<span style=color:#f92672>:</span>3f820419c87d4a878bafd17d2add8d2d009
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span> <span style=color:#f92672>&amp;</span>nbsp<span style=color:#f92672>;</span></span></span></code></pre></div><p>BARCODENET-33812 Add support to encode GS1QR code</p><p>Code sample:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> String text <span style=color:#f92672>=</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#e6db74>&#34;(01)04912345123459(15)970331(30)128(10)ABC123&#34;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>BarCodeBuilder builder <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> BarCodeBuilder<span style=color:#f92672>(</span>text<span style=color:#f92672>,</span> Symbology<span style=color:#f92672>.</span><span style=color:#a6e22e>GS1QR</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>builder<span style=color:#f92672>.</span><span style=color:#a6e22e>save</span><span style=color:#f92672>(</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#e6db74>&#34;GS1QR.png&#34;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>,</span> BarCodeImageFormat<span style=color:#f92672>.</span><span style=color:#a6e22e>Png</span><span style=color:#f92672>);</span></span></span></code></pre></div><p>BARCODENET-34310 Implement GS1 QR decoding</p><p>Code sample</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span>String expectedResult <span style=color:#f92672>=</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#e6db74>&#34;(01)04912345123459(15)970331(30)128(10)ABC123&#34;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>BarCodeReader reader <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> BarCodeReader<span style=color:#f92672>(</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#e6db74>&#34;GS1QR.png&#34;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>,</span> BarCodeReadType<span style=color:#f92672>.</span><span style=color:#a6e22e>GS1QR</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>reader<span style=color:#f92672>.</span><span style=color:#a6e22e>read</span><span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>Result:
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>GS1QR: <span style=color:#f92672>(</span>01<span style=color:#f92672>)</span>04912345123459<span style=color:#f92672>(</span>15<span style=color:#f92672>)</span>970331<span style=color:#f92672>(</span>30<span style=color:#f92672>)</span>128<span style=color:#f92672>(</span>10<span style=color:#f92672>)</span>ABC123</span></span></code></pre></div><p>BARCODENET-34319 DataBarStackedOmniDirectional encoding, BarCodeBuilder.BarHeight property does not work properly</p><p>Code sample:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span>BarCodeBuilder b <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> BarCodeBuilder<span style=color:#f92672>(</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#e6db74>&#34;(01)90013670000396(3200)15(11)150819&#34;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>b<span style=color:#f92672>.</span><span style=color:#a6e22e>setSymbologyType</span><span style=color:#f92672>(</span>Symbology<span style=color:#f92672>.</span><span style=color:#a6e22e>DatabarStackedOmniDirectional</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>b<span style=color:#f92672>.</span><span style=color:#a6e22e>setxDimension</span><span style=color:#f92672>(</span>0<span style=color:#f92672>.</span><span style=color:#a6e22e>330f</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>b<span style=color:#f92672>.</span><span style=color:#a6e22e>setBarHeight</span><span style=color:#f92672>(</span>27<span style=color:#f92672>.</span><span style=color:#a6e22e>77f</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>b<span style=color:#f92672>.</span><span style=color:#a6e22e>setResolution</span><span style=color:#f92672>(</span><span style=color:#66d9ef>new</span> Resolution<span style=color:#f92672>(</span>1200<span style=color:#f92672>.</span><span style=color:#a6e22e>0f</span><span style=color:#f92672>,</span> 1200<span style=color:#f92672>.</span><span style=color:#a6e22e>0f</span><span style=color:#f92672>,</span> ResolutionMode<span style=color:#f92672>.</span><span style=color:#a6e22e>Customized</span><span style=color:#f92672>));</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>b<span style=color:#f92672>.</span><span style=color:#a6e22e>save</span><span style=color:#f92672>(</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#e6db74>&#34;Barheight.png&#34;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>,</span> BarCodeImageFormat<span style=color:#f92672>.</span><span style=color:#a6e22e>Png</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>Results in <span style=color:#66d9ef>case</span> of resolution 1200<span style=color:#f92672>:</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>xDimension: 0<span style=color:#f92672>.</span><span style=color:#a6e22e>264</span><span style=color:#f92672>,</span> BarHeight<span style=color:#f92672>:</span> 18<span style=color:#f92672>.</span><span style=color:#a6e22e>22</span> <span style=color:#f92672>--&amp;</span>gt<span style=color:#f92672>;</span> actual BarHeight<span style=color:#f92672>:</span> 18<span style=color:#f92672>.</span><span style=color:#a6e22e>20</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>xDimension: 0<span style=color:#f92672>.</span><span style=color:#a6e22e>264</span><span style=color:#f92672>,</span> BarHeight<span style=color:#f92672>:</span> 18<span style=color:#f92672>.</span><span style=color:#a6e22e>24</span> <span style=color:#f92672>--&amp;</span>gt<span style=color:#f92672>;</span> actual BarHeight<span style=color:#f92672>:</span> 18<span style=color:#f92672>.</span><span style=color:#a6e22e>25</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>xDimension: 0<span style=color:#f92672>.</span><span style=color:#a6e22e>330</span><span style=color:#f92672>,</span> BarHeight<span style=color:#f92672>:</span> 27<span style=color:#f92672>.</span><span style=color:#a6e22e>77</span> <span style=color:#f92672>--&amp;</span>gt<span style=color:#f92672>;</span> actual BarHeight<span style=color:#f92672>:</span> 27<span style=color:#f92672>.</span><span style=color:#a6e22e>77</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>xDimension: 0<span style=color:#f92672>.</span><span style=color:#a6e22e>330</span><span style=color:#f92672>,</span> BarHeight<span style=color:#f92672>:</span> 27<span style=color:#f92672>.</span><span style=color:#a6e22e>78</span> <span style=color:#f92672>--&amp;</span>gt<span style=color:#f92672>;</span> actual BarHeight<span style=color:#f92672>:</span> 27<span style=color:#f92672>.</span><span style=color:#a6e22e>77</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>xDimension: 0<span style=color:#f92672>.</span><span style=color:#a6e22e>495</span><span style=color:#f92672>,</span> BarHeight<span style=color:#f92672>:</span> 34<span style=color:#f92672>.</span><span style=color:#a6e22e>16</span> <span style=color:#f92672>--&amp;</span>gt<span style=color:#f92672>;</span> actual BarHeight<span style=color:#f92672>:</span> 34<span style=color:#f92672>.</span><span style=color:#a6e22e>14</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>xDimension: 0<span style=color:#f92672>.</span><span style=color:#a6e22e>660</span><span style=color:#f92672>,</span> BarHeight<span style=color:#f92672>:</span> 45<span style=color:#f92672>.</span><span style=color:#a6e22e>54</span> <span style=color:#f92672>--&amp;</span>gt<span style=color:#f92672>;</span> actual BarHeight<span style=color:#f92672>:</span> 45<span style=color:#f92672>.</span><span style=color:#a6e22e>53</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>xDimension: 0<span style=color:#f92672>.</span><span style=color:#a6e22e>660</span><span style=color:#f92672>,</span> BarHeight<span style=color:#f92672>:</span> 62<span style=color:#f92672>.</span><span style=color:#a6e22e>70</span> <span style=color:#f92672>--&amp;</span>gt<span style=color:#f92672>;</span> actual BarHeight<span style=color:#f92672>:</span> 62<span style=color:#f92672>.</span><span style=color:#a6e22e>72</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>Offset can be 1px to hold equal height of rows<span style=color:#f92672>,</span> and 0<span style=color:#f92672>.</span><span style=color:#a6e22e>5</span> px is a rounding error<span style=color:#f92672>.</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>Max offset 1<span style=color:#f92672>.</span><span style=color:#a6e22e>5px</span> <span style=color:#f92672>=</span> 0<span style=color:#f92672>.</span><span style=color:#a6e22e>03mm</span> <span style=color:#66d9ef>for</span> 1200 DPI<span style=color:#f92672>.</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span> 1mm <span style=color:#f92672>-</span> 48px
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>1mm <span style=color:#f92672>-</span> 48px
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>1px <span style=color:#f92672>-</span> 0<span style=color:#f92672>.</span><span style=color:#a6e22e>02</span> mm
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>1px <span style=color:#f92672>-</span> 0<span style=color:#f92672>.</span><span style=color:#a6e22e>02</span> mm
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>1<span style=color:#f92672>.</span><span style=color:#a6e22e>5px</span> <span style=color:#f92672>-</span> 0<span style=color:#f92672>.</span><span style=color:#a6e22e>03mm</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>1<span style=color:#f92672>.</span><span style=color:#a6e22e>5px</span> <span style=color:#f92672>-</span> 0<span style=color:#f92672>.</span><span style=color:#a6e22e>03mm</span></span></span></code></pre></div><p>BARCODENET-34311 Unwanted White Space at the bottom of Barcode Image</p><p>Code sample</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span>BarCodeBuilder builder <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> BarCodeBuilder<span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>builder<span style=color:#f92672>.</span><span style=color:#a6e22e>setSupplementSpace</span><span style=color:#f92672>(</span>0<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>builder<span style=color:#f92672>.</span><span style=color:#a6e22e>setCodeTextSpace</span><span style=color:#f92672>(</span>0<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>builder<span style=color:#f92672>.</span><span style=color:#a6e22e>setMargins</span><span style=color:#f92672>(</span><span style=color:#66d9ef>new</span> MarginsF<span style=color:#f92672>(</span>0<span style=color:#f92672>,</span> 0<span style=color:#f92672>,</span> 0<span style=color:#f92672>,</span> 0<span style=color:#f92672>));</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>builder<span style=color:#f92672>.</span><span style=color:#a6e22e>setSymbologyType</span><span style=color:#f92672>(</span>Symbology<span style=color:#f92672>.</span><span style=color:#a6e22e>EAN13</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>builder<span style=color:#f92672>.</span><span style=color:#a6e22e>setCodeText</span><span style=color:#f92672>(</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#e6db74>&#34;000080283188&#34;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>builder<span style=color:#f92672>.</span><span style=color:#a6e22e>save</span><span style=color:#f92672>(</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#e6db74>&#34;image.bmp&#34;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>,</span> BarCodeImageFormat<span style=color:#f92672>.</span><span style=color:#a6e22e>Png</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span> To set barcode height or width<span style=color:#f92672>,</span> please use BarHeight and xDimension properties<span style=color:#f92672>.</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>Changing ImageHeight or ImageWidth will not affect the barcode size<span style=color:#f92672>,</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>but Only image size will be affected<span style=color:#f92672>,</span> in <span style=color:#66d9ef>case</span> Autosize has been set to <span style=color:#66d9ef>false</span><span style=color:#f92672>.</span></span></span></code></pre></div><p>BARCODENET-34309 Reorganize the logic of recognition in manual hint mode to speed up the detection</p><p>The calculated time using manual hints must be lesser than using max quality mode.</p><p>Code sample (manual hints )</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span><span style=color:#66d9ef>long</span> expectedBarcodeReadType <span style=color:#f92672>=</span> BarCodeReadType<span style=color:#f92672>.</span><span style=color:#a6e22e>DataMatrix</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>String expectedCodeText <span style=color:#f92672>=</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#e6db74>&#34;:AAAAvGg0ByEJ9w|ac&#34;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>BarCodeReader reader <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> BarCodeReader<span style=color:#f92672>(</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#e6db74>&#34;Untitled22.jpg&#34;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>,</span> BarCodeReadType<span style=color:#f92672>.</span><span style=color:#a6e22e>DataMatrix</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>reader<span style=color:#f92672>.</span><span style=color:#a6e22e>setRecognitionMode</span><span style=color:#f92672>(</span>RecognitionMode<span style=color:#f92672>.</span><span style=color:#a6e22e>ManualHints</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>reader<span style=color:#f92672>.</span><span style=color:#a6e22e>setManualHints</span><span style=color:#f92672>(</span>ManualHint<span style=color:#f92672>.</span><span style=color:#a6e22e>MedianSmoothing</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>reader<span style=color:#f92672>.</span><span style=color:#a6e22e>read</span><span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>Result:
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>DataMatrix: <span style=color:#f92672>:</span>AAAAvGg0ByEJ9w<span style=color:#f92672>|</span>ac
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>Time: <span style=color:#f92672>*</span>2344ms<span style=color:#f92672>*.</span></span></span></code></pre></div><p>BARCODENET-34295 AI Codes Not Accepting Valid Values for GS1DataMatrix</p><p>Code sample:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span>BarCodeBuilder builder <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> BarCodeBuilder<span style=color:#f92672>(</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#e6db74>&#34;(01)90013670000396(3400)123456&#34;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>);</span> <span style=color:#75715e>// Or any of the above values
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>builder<span style=color:#f92672>.</span><span style=color:#a6e22e>setSymbologyType</span><span style=color:#f92672>(</span>Symbology<span style=color:#f92672>.</span><span style=color:#a6e22e>GS1DataMatrix</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>builder<span style=color:#f92672>.</span><span style=color:#a6e22e>save</span><span style=color:#f92672>(</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#e6db74>&#34;GS1DataMatrix.png&#34;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>,</span> BarCodeImageFormat<span style=color:#f92672>.</span><span style=color:#a6e22e>Png</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>BARCODENET<span style=color:#f92672>-</span>34294 AI Codes Not Accepting Valid Values <span style=color:#66d9ef>for</span>  GS1Code128</span></span></code></pre></div><p>Code sample:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span>BarCodeBuilder b <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> BarCodeBuilder<span style=color:#f92672>(</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#e6db74>&#34;(01)90013670000396(3400)123456&#34;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>);</span> <span style=color:#75715e>// Or any of the above values
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>b<span style=color:#f92672>.</span><span style=color:#a6e22e>setSymbologyType</span><span style=color:#f92672>(</span>Symbology<span style=color:#f92672>.</span><span style=color:#a6e22e>GS1Code128</span><span style=color:#f92672>);</span> <span style=color:#75715e>// Or GS1DataMatrix
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>b<span style=color:#f92672>.</span><span style=color:#a6e22e>save</span><span style=color:#f92672>(</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#e6db74>&#34;OutGS1Code128.png&#34;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>,</span> BarCodeImageFormat<span style=color:#f92672>.</span><span style=color:#a6e22e>Png</span><span style=color:#f92672>);</span></span></span></code></pre></div><p>BARCODENET-34292 Barcode Reader skips a binary character</p><p>Code sample</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span>BarCodeReader reader <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> BarCodeReader<span style=color:#f92672>(</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#e6db74>&#34;TestY.jpg&#34;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>,</span> BarCodeReadType<span style=color:#f92672>.</span><span style=color:#a6e22e>Pdf417</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>reader<span style=color:#f92672>.</span><span style=color:#a6e22e>read</span><span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>Result:
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>30 33 32 35 37 32 31 35 38 31 00 00 00 00 00 00
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>00 00 00 00 00 00 00 00 50 75 62 44 53 4b 5f 31
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>00 00 00 00 00 00 00 00 31 34 33 38 33 35 34 31
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>31 30 31 33 35 38 38 39 38 36 4c 4f 4d 42 41 4e
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>41 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>00 4d 41 52 54 49 4e 45 5a 00 00 00 00 00 00 00
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>00 00 00 00 00 00 00 00 4d 41 52 49 41 00 00 00
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 59
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>49 4e 45 54 54 00 00 00 00 00 00 00 00 00 00 00
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>00 00 00 00 00 00 30 46 31 39 38 37 30 35 32 37
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>31 35 30 30 31 30 4f 2b 00 32 02 43 00 b6 54 ff
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>80 80 83 85 4d ab 74 cd 42 a1 3b 81 a9 83 b7 75
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>bc 6f a7 75 b5 66 b6 47 9c 78 a6 4f b0 5d 30 65
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>a8 5c 3a 61 91 41 94 54 4b 5c 56 62 5b 71 93 74
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>6c 4f 89 53 90 62 91 70 7e 72 58 3f 72 5a 83 bf
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>83 b7 57 ac 72 96 8c 9f 91 b2 8d 97 9b ae 2c a7
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>96 8d 9a bc 9c a3 a0 95 a5 c0 aa a7 49 8f 98 cf
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>ad 96 af ac 28 87 9f 88 ad bf b4 90 b5 ac c9 7a
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>30 81 b5 7e b9 63 3f 81 36 5e 5b 75 6f 10 49 5b
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>58 70 5b 58 66 54 7d 7b ef ba 1b a3 24 85 50 fe
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>57 48 2c a2 90 d4 25 e6 ff 00 37 02 43 00 d1 54
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>ff 80 80 63 a5 46 97 46 9f 86 83 50 92 38 96 30
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>81 94 a7 a3 ae d3 4e ac 7f ca 5d 9d 70 a4 6a ca
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>42 da 6f a2 5a e1 84 50 70 96 62 a2 4f 96 59 9d
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>41 89 4b 89 6a 8d 62 4f 5f 7d 3e 82 45 8c 5a 73
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>43 54 61 6a 62 7b 57 6f a9 78 b8 82 95 8c 83 50
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>9d 51 c3 60 9a 83 8c 8a b8 8e 8e 8e a0 32 9e 89
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>ad 9c a8 9f 94 9d a0 9b b6 a9 b3 b3 a7 97 c5 9b
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>81 a5 be a5 78 a7 86 b7 92 c9 76 dc 7e d3 74 3e
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>76 97 4d 68 4a 51 61 7a 75 6f 54 6a 62 49 55 42
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>f1 bf 12 10 15 29 d4 f6 75 ff 00 01 f1 f2 11 96
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>bd 20 e2 61 89 95 b8 ed 7e 79 aa 19 c8 26 17 79
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>36 e5 e5 e6 6f 89 69 f5 9f b1 a1 77 ec e7 c5 29
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>46 0d 33</span></span></code></pre></div><p>BARCODENET-34163, BARCODJAVA-33507 Can&rsquo;t recognize Aztec code from the JPG image</p><p>Code sample</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span>String filename <span style=color:#f92672>=</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#e6db74>&#34;test1_orig.jpg&#34;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>BarCodeReader reader <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> BarCodeReader<span style=color:#f92672>(</span>filename<span style=color:#f92672>,</span> BarCodeReadType<span style=color:#f92672>.</span><span style=color:#a6e22e>Aztec</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>reader<span style=color:#f92672>.</span><span style=color:#a6e22e>read</span><span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span> Result
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>Result
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>Aztec: IwQAANtYAAJDAP8xAHwAQgBBAPtLADAAORr3NgA4Ar00KjHaCho19y4zIm8eUABSAP5FAFoAWQBE<span style=color:#f92672>/</span>w5OAFQAIPcATQAuCu9TAFQPvVeOUu8aWg5Xe058UrUWSe9aTF5Je9pBSt1CErsOQQFPBvcYAUsWbk5VAEz2g569T2ZM1lcBjr5LXzEOLjfgRtcPLRrtMgAy1xuHr1dba1I2Tt8zY1R7mlkG3lQ<span style=color:#f92672>/</span>zQND7x5SBkzfAExfMnvuMA7eRLY07QpCSnBe5w8bQUVa2DAD7zWuMg83uDIadD8tESveMCot9gMOg0fbwUH7d0u6BpODVGOHf0FOH9gnBaFzBmO8OLtaDzL4BzKtP5bzGrw59zAfSyMS0LpF8b9Ni0q75zh<span style=color:#f92672>+</span>3kMONQhzqDbS7DcANBNYoR8eZ4o1Qw2GDzLxO0<span style=color:#f92672>+</span>7fAA0YkvH8685JixvPzYAsTYX8UQAINgP8BP0DzQfpzMAsHz3cFNoUsCru05IANNr7k8m0wZCpkdBF0uXLSM3OdqXN0F9AzheQzjwvjbdjzJWQ<span style=color:#f92672>+</span>4DOAAwSwzLs0d8aydmA05C2TO<span style=color:#f92672>+</span>OQsyW3eCSSSSSoD<span style=color:#f92672>/</span>AA<span style=color:#f92672>==</span>f</span></span></code></pre></div><p>BARCODENET-34162, BARCODJAVA-33506 Can&rsquo;t recognize Aztec code from the JPG image</p><p>Code sample</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span>String filename <span style=color:#f92672>=</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#e6db74>&#34;test_photo.jpg&#34;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>BarCodeReader reader <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> BarCodeReader<span style=color:#f92672>(</span>filename<span style=color:#f92672>,</span> BarCodeReadType<span style=color:#f92672>.</span><span style=color:#a6e22e>Aztec</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>reader<span style=color:#f92672>.</span><span style=color:#a6e22e>read</span><span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>result:
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>Aztec: abcdefghijklmnopqrstuvwxyz
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>abcdefghijklmnopqrstuvwxyz
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>abcdefghijklmnopqrstuvwxyz
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>abcdefghijklmnopqrstuvwxyz
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>abcdefghijklmnopqrstuvwxyz
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>abcdefghijklmnopqrstuvwxyz
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>abcdefghijklmnopqrstuvwxyz
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>abcdefghijklmnopqrstuvwxyz
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>abcdefghijklmnopqrstuvwxyz
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>abcdefghijklmnopqrstuvwxyz
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>abcdefghijklmnopqrstuvwxyz
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>abcdefghijklmnopqrstuvwxyz
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>abcdefghijklmnopqrstuvwxyz
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>abcdefghijklmnopqrstuvwxyz
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>abcdefghijklmnopqrstuvwxyz
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>abcdefghijklmnopqrstuvwxyz
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>abcdefghijklmnopqrstuvwxyz
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>abcdefghijklmnopqrstuvwxyz
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>abcdefghijklmnopqrstuvwxyz</span></span></code></pre></div><p>BARCODENET-33843 Can&rsquo;t recognize all DataMatrix/Code128 codes from a tif file</p><p>Improved recognition.</p><p>Now we can recognize all DataMatrix barcode (without MaxQuality).
+Sample code:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span>BarCodeReader reader <span style=color:#f92672>=</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>new</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>BarCodeReader<span style=color:#f92672>(</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#e6db74>&#34;DOC00000010.tif&#34;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>,</span> BarCodeReadType<span style=color:#f92672>.</span><span style=color:#a6e22e>DataMatrix</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>while</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>(</span>reader<span style=color:#f92672>.</span><span style=color:#a6e22e>read</span><span style=color:#f92672>())</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>System
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>.</span><span style=color:#a6e22e>out</span><span style=color:#f92672>.</span><span style=color:#a6e22e>println</span><span style=color:#f92672>(</span>reader<span style=color:#f92672>.</span><span style=color:#a6e22e>getCodeText</span><span style=color:#f92672>());}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>Result:
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>1 <span style=color:#f92672>-</span> Code Text<span style=color:#f92672>:</span> AZ000000014946 <span style=color:#f92672>-</span> Type<span style=color:#f92672>:</span> DataMatrix
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>2 <span style=color:#f92672>-</span> Code Text<span style=color:#f92672>:</span> AZ000000014932 <span style=color:#f92672>-</span> Type<span style=color:#f92672>:</span> DataMatrix
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>3 <span style=color:#f92672>-</span> Code Text<span style=color:#f92672>:</span> AZ000000014941 <span style=color:#f92672>-</span> Type<span style=color:#f92672>:</span> DataMatrix
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>4 <span style=color:#f92672>-</span> Code Text<span style=color:#f92672>:</span> AZ000000014944 <span style=color:#f92672>-</span> Type<span style=color:#f92672>:</span> DataMatrix
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>5 <span style=color:#f92672>-</span> Code Text<span style=color:#f92672>:</span> AZ000000014933 <span style=color:#f92672>-</span> Type<span style=color:#f92672>:</span> DataMatrix
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>6 <span style=color:#f92672>-</span> Code Text<span style=color:#f92672>:</span> AZ000000014934 <span style=color:#f92672>-</span> Type<span style=color:#f92672>:</span> DataMatrix
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>7 <span style=color:#f92672>-</span> Code Text<span style=color:#f92672>:</span> AZ000000014939 <span style=color:#f92672>-</span> Type<span style=color:#f92672>:</span> DataMatrix
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>8 <span style=color:#f92672>-</span> Code Text<span style=color:#f92672>:</span> AZ000000014940 <span style=color:#f92672>-</span> Type<span style=color:#f92672>:</span> DataMatrix
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>9 <span style=color:#f92672>-</span> Code Text<span style=color:#f92672>:</span> AZ000000014947 <span style=color:#f92672>-</span> Type<span style=color:#f92672>:</span> DataMatrix
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>10 <span style=color:#f92672>-</span> Code Text<span style=color:#f92672>:</span> AZ000000014936 <span style=color:#f92672>-</span> Type<span style=color:#f92672>:</span> DataMatrix
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>11 <span style=color:#f92672>-</span> Code Text<span style=color:#f92672>:</span> AZ000000014948 <span style=color:#f92672>-</span> Type<span style=color:#f92672>:</span> DataMatrix
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>12 <span style=color:#f92672>-</span> Code Text<span style=color:#f92672>:</span> AZ000000014942 <span style=color:#f92672>-</span> Type<span style=color:#f92672>:</span> DataMatrix
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>13 <span style=color:#f92672>-</span> Code Text<span style=color:#f92672>:</span> AZ000000014938 <span style=color:#f92672>-</span> Type<span style=color:#f92672>:</span> DataMatrix
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>14 <span style=color:#f92672>-</span> Code Text<span style=color:#f92672>:</span> AZ000000014935 <span style=color:#f92672>-</span> Type<span style=color:#f92672>:</span> DataMatrix
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>15 <span style=color:#f92672>-</span> Code Text<span style=color:#f92672>:</span> AZ000000014937 <span style=color:#f92672>-</span> Type<span style=color:#f92672>:</span> DataMatrix
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>16 <span style=color:#f92672>-</span> Code Text<span style=color:#f92672>:</span> AZ000000014945 <span style=color:#f92672>-</span> Type<span style=color:#f92672>:</span> DataMatrix
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>17 <span style=color:#f92672>-</span> Code Text<span style=color:#f92672>:</span> AZ000000014931 <span style=color:#f92672>-</span> Type<span style=color:#f92672>:</span> DataMatrix
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>18 <span style=color:#f92672>-</span> Code Text<span style=color:#f92672>:</span> AZ000000014930 <span style=color:#f92672>-</span> Type<span style=color:#f92672>:</span> DataMatrix
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>19 <span style=color:#f92672>-</span> Code Text<span style=color:#f92672>:</span> AZ000000014943 <span style=color:#f92672>-</span> Type<span style=color:#f92672>:</span> DataMatrix</span></span></code></pre></div><p>BARCODENET-33250 Implement a BarCodeReader constructor that could accept a list of Rectangles</p><p>Code sample</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span>String filename <span style=color:#f92672>=</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#e6db74>&#34;Three_Barcodes.png&#34;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>BufferedImage img <span style=color:#f92672>=</span> <span style=color:#66d9ef>null</span><span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>img <span style=color:#f92672>=</span> ImageIO<span style=color:#f92672>.</span><span style=color:#a6e22e>read</span><span style=color:#f92672>(</span><span style=color:#66d9ef>new</span> File<span style=color:#f92672>(</span>filename<span style=color:#f92672>));</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>Rectangle<span style=color:#960050;background-color:#1e0010>\</span><span style=color:#f92672>[</span><span style=color:#960050;background-color:#1e0010>\</span><span style=color:#f92672>]</span> areas <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> Rectangle<span style=color:#f92672>[</span>3<span style=color:#f92672>];</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>areas<span style=color:#f92672>[</span>0<span style=color:#f92672>]</span> <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> Rectangle<span style=color:#f92672>(</span>50<span style=color:#f92672>,</span> 50<span style=color:#f92672>,</span> 300<span style=color:#f92672>,</span> 300<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>areas<span style=color:#f92672>[</span>1<span style=color:#f92672>]</span> <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> Rectangle<span style=color:#f92672>(</span>400<span style=color:#f92672>,</span> 40<span style=color:#f92672>,</span> 350<span style=color:#f92672>,</span> 350<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>areas<span style=color:#f92672>[</span>2<span style=color:#f92672>]</span> <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> Rectangle<span style=color:#f92672>(</span>40<span style=color:#f92672>,</span> 500<span style=color:#f92672>,</span> 700<span style=color:#f92672>,</span> 150<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>BarCodeReader reader <span style=color:#f92672>=</span> <span style=color:#66d9ef>new</span> BarCodeReader<span style=color:#f92672>(</span>img<span style=color:#f92672>,</span> areas<span style=color:#f92672>,</span> BarCodeReadType<span style=color:#f92672>.</span><span style=color:#a6e22e>AllSupportedTypes</span><span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>reader<span style=color:#f92672>.</span><span style=color:#a6e22e>read</span><span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>Result:
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>Interleaved2of5: 01234321
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>DataMatrix: Pegasus Imaging <span style=color:#f92672>-</span> BarcodeXpress 5 <span style=color:#f92672>-</span> 1D and 2D barcode reader<span style=color:#f92672>/</span>writer
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>OneCode: 44123123456123456789</span></span></code></pre></div></p></div></div></div></div><hr></div></div></section></div></div></div></div></div></div><div id=dvHidden style=display:none></div><div id=footer></div><a class=backtop>&nbsp;</a><div id=DynabicMenuFooter></div><script type=text/javascript>const langarray=[]</script><script type=text/javascript>jQuery(document).ready(function(){let e=$(".nested").hide(),t=$(".treeview-animated-element");$(".treeview-animated-items-header").hover(function(){$(this).children.toggleClass("Mydiv")}),$(".treeview-animated-items-header").click(function(){return console.log("mala"),$this=$(this),console.log($this.attr("id")),$target=$this.siblings(".nested"),$pointerPlus=$this.children(".fa-plus"),$pointerMinus=$this.children(".fa-minus"),$pointerPlus.removeClass("fa-plus"),$pointerPlus.addClass("fa-minus"),$pointerMinus.removeClass("fa-minus"),$pointerMinus.addClass("fa-plus"),$this.toggleClass("open"),$target.hasClass("active")?$target.removeClass("active").slideUp():$target.addClass("active").slideDown(),!1})})</script><script>(function(e,s,o,a,t,n,i){e.ContainerizeMenuObject=t,e[t]=e[t]||function(){(e[t].q=e[t].q||[]).push(arguments)},e[t].l=1*new Date,n=s.createElement(o),i=s.getElementsByTagName(o)[0],n.async=1,n.src=a,i.parentNode.append(n)})(window,document,"script","https://menu.containerize.com/scripts/engine.min.js?v=1.0.1","aspose-en")</script><script src=https://releases-qa.aspose.com/res_repo/js/highlight.min.js></script>
+<script src=https://releases-qa.aspose.com/res_repo/js/bootstrap.min.js></script>
+<script src=/js/bundle.min.js></script>
+<script src=/js/dynabic.treeview.js></script>
+<script src=/js/treeviewmanager.js></script>
+<script>hljs.highlightAll()</script><link rel=stylesheet type=text/css href=https://releases-qa.aspose.com/res_repo/css/hugocustom.css><script>$(".btn-showside .mb-5").on("click",function(){$("main .flex .dn.db-l").toggleClass("showsidebar"),$("main .flex .w-100").toggleClass("noscroll")}),$(".btn-showmenu").on("click",function(){$("nav.bg-primary-color-dark").toggleClass("showmenu")}),$(".btn-plain").on("click",function(){$("main .flex .dn.db-l").removeClass("showsidebar"),$("main .flex .dn.db-l").removeClass("showsidebar"),$("nav.bg-primary-color-dark").removeClass("showmenu")}),$(".ss-bar ul li a[data-target]").on("click",function(){$(this).find(".i.fa-angle-down").hasClass("fa-angle-up")?$(this).find("i.fa-angle-down").removeClass("fa-angle-up"):$(this).find("i.fa-angle-down").toggleClass("fa-angle-up")}),$(".btn-showside").on("click",function(){$(".ss-bar").toggleClass("showsidebar")}),$(".btn-plain").on("click",function(){$(".ss-bar").removeClass("showsidebar")})</script><script>$(document).ready(function(){$("div pre").removeAttr("style");var e,t=$(location).attr("hash");"#package-explorer"==t&&(e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]'),e&&e.click()),$('a:has(img[alt="banner"]').click(function(){event.preventDefault();var e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]');e&&e.click()}),$(window).scroll(function(){$(this).scrollTop()>150?$(".backtop").fadeIn():$(".backtop").fadeOut()}),$(".backtop").click(function(){return $("html, body").animate({scrollTop:0},600),!1}),$(".linkshow").on("click",function(){$(this).find("i").toggleClass("fa-minus-square"),$(".linkshowbox").toggleClass("hide")}),document.querySelector("body").addEventListener("click",function(t){if(t.target.classList.contains("searchButton")){$(".ss-bar").removeClass("showsidebar");try{var e=$("input[name=q]").val();gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}if(t.target.classList.contains("fa-search")){$(".ss-bar").removeClass("showsidebar");try{e=$("input[name=q]").val(),gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}},!0)})</script><script>document.querySelectorAll("pre > code").forEach(t=>{const n=t.parentNode.parentNode,e=document.createElement("button");e.classList.add("copy-code"),e.innerHTML="copy";function s(){e.innerHTML="copied!",setTimeout(()=>{e.innerHTML="copy"},2e3)}e.addEventListener("click",o=>{if("clipboard"in navigator){navigator.clipboard.writeText(t.textContent),s();return}const e=document.createRange();e.selectNodeContents(t);const n=window.getSelection();n.removeAllRanges(),n.addRange(e);try{document.execCommand("copy"),s()}catch(e){}n.removeRange(e)}),n.classList.contains("highlight")?n.appendChild(e):n.parentNode.firstChild==n||(t.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName=="TABLE"?t.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(e):t.parentNode.appendChild(e))})</script></body></html>

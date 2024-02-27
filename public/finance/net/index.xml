@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>On-premise Finance Processing API | Aspose.Finance for .NET on Releases - aspose.com</title><link>https://releases-qa.aspose.com/finance/net/</link><description>Recent content in On-premise Finance Processing API | Aspose.Finance for .NET on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/finance/net/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---New-Releases-aspose.finance-for-.net-20.3(dlls-only) .</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-20.3dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-20.3dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 20.3(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 10 File Size: 1.6 MB Posted By: WilliamShen Views: 23 Date Added: 4/22/2020
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2020/aspose-finance-for-net-20-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0f74ac2fdbde4b849160be48b16af277&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.finance-for-.net-20.3 .</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-20.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-20.3/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 20.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 10 File Size: 2.5 MB Posted By: WilliamShen Views: 29 Date Added: 4/22/2020
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2020/aspose-finance-for-net-20-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8043b79984bd4babb841ef62acd41364&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.finance-for-.net-20.6 .</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-20.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-20.6/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 20.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 5 File Size: 4.5 MB Posted By: Views: 31: Date Added:: 6/15/2020: :
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2020/aspose-finance-for-net-20-6-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e05a2268ebce4278bf4dee419bb0911b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.finance-for-.net-20.6(dlls-only) .</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-20.6dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-20.6dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 20.6(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 10 File Size: 3.9 MB Posted By: Views: 87: Date Added:: 6/15/2020: :
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2020/aspose-finance-for-net-20-6-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=816cb4a6702c42a3910cddc1e74e1129&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.finance-for-.net-20.7(dlls-only) .</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-20.7dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-20.7dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 20.7(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 6 File Size: 3.9 MB Posted By: WilliamShen Views: 49 Date Added: 7/22/2020
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2020/aspose-finance-for-net-20-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f473362759ae42e3b3551d627ef65ecb&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.finance-for-.net-20.7 .</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-20.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-20.7/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 20.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 6 File Size: 4.6 MB Posted By: WilliamShen Views: 49 Date Added: 7/22/2020
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2020/aspose-finance-for-net-20-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=668ac2636a3748f89d1a307a36e4dd00&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.finance-for-.net-20.8 .</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-20.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-20.8/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 20.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 17 File Size: 5.5 MB Posted By: WilliamShen Views: 77 Date Added: 8/26/2020
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2020/aspose-finance-for-net-20-8-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3ba57984841b478d8a6289c853e0bce8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.finance-for-.net-20.8(dlls-only) .</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-20.8dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-20.8dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 20.8(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 26 File Size: 5.9 MB Posted By: WilliamShen Views: 98 Date Added: 8/26/2020
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2020/aspose-finance-for-net-20-8-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3a850e49169b47008734bed581c4ce79&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.finance-for-.net-21.3(dlls-only) .</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-21.3dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-21.3dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 21.3(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 19 File Size: 6.8 MB Posted By: WilliamShen Views: 70 Date Added: 3/14/2021
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2021/aspose-finance-for-net-21-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bfc482ebde0d43ceab1748b59953d054&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.finance-for-.net-21.3 .</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-21.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-21.3/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 21.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 18 File Size: 6.8 MB Posted By: WilliamShen Views: 156 Date Added: 3/14/2021
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2021/aspose-finance-for-net-21-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9626a173f0ce4c1cbbd6a23e311340f0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.finance-for-.net-21.8 .</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-21.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-21.8/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 21.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 3 File Size: 6.3 MB Posted By: WilliamShen Views: 38 Date Added: 8/13/2021
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2021/aspose-finance-for-net-21-8-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=97c817d9dddc4146be12dbfc610b78f0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.finance-for-.net-21.8(dlls-only) .</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-21.8dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-21.8dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 21.8(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 3 File Size: 6.3 MB Posted By: WilliamShen Views: 43 Date Added: 8/13/2021
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2021/aspose-finance-for-net-21-8-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d1566d7fbe9a47f29c8f53b85ee6b50e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.finance-for-.net-21.9(dlls-only) .</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-21.9dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-21.9dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 21.9(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 15 File Size: 6.4 MB Posted By: WilliamShen Views: 39 Date Added: 9/29/2021
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2021/aspose-finance-for-net-21-9-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=344cf81d030f4ddf99d64146e933b986&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.finance-for-.net-21.9 .</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-21.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-21.9/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 21.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 15 File Size: 6.3 MB Posted By: WilliamShen Views: 82 Date Added: 9/29/2021
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2021/aspose-finance-for-net-21-9-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f6ab2f23a03143eaae1c2c1ade52423d&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.finance-for-.net-22.4(dlls-only) .</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.4dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.4dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 22.4(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 2 File Size: 6.6 MB Posted By: WilliamShen Views: 5 Date Added: : 2 weeks ago [4/2/2022]
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=60532d3781584f239a2bb12d2bcf1e39&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title>XBRL Schema Parser Handler TLS Support API for C#, .NET Apps</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.4/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 22.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.5 MB
+Posted By:
+WilliamShen
+Views:
+5
+Date Added:
+: 2 weeks ago [4/2/2022]
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-4-release-notes/
+File Details
+Improved XBRL to HTML Report Improved the feature of XBRL to HTML report.
+Improved XBRL Schema Parser Handler Improved the XBRL Schema Parser Handler.
+Added the Support for TLS 1.</description></item><item><title> Downloads ---New-Releases-aspose.finance-for-.net-22.5(dlls-only) .</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.5dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.5dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 22.5(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 2 File Size: 6.6 MB Date Added: : 5 days ago [5/11/2022]
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-5-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c9c06280f6c14dadb42902969637010f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>XBRL IFRS Accounting Taxonomy Support API for C#, .NET Apps</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.5/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 22.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.5 MB
+Date Added:
+: 5 days ago [5/11/2022]
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-5-release-notes/
+File Details
+Handle Schema from xbrl.ifrs.org Ability to handle schema from xbrl.ifrs.org (IFRS Accounting Taxonomy).
+Support for Nested Non-Numeric Facts The support to handle nested nonNumeric facts has been added.
+Support for Inline XBRL exclude Element The support has been added for the exclude element which can be used to encapsulate data that is not to be included while processing the footnote or nonNumeric elements.</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-22.6(dlls-only)</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.6dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.6dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 22.6(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.62MB
+Date Added:
+16/6/2022
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-6-release-notes/
+DescriptionAspose.Finance for .NET 22.6 dlls release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f25f32897b6d42f37701e511a0e26326-2-7522&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Load XBRL File Financial Data via API for C#, ASP.NET Apps</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.6/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 22.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.48MB
+Date Added:
+16/6/2022
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-6-release-notes/
+File Details
+Load Data from an existing XBRL File Previously in some instances there was the following exception:
+“Requested security protocol is not supported”
+This issue has been fixed now and data from an existing XBRL file can successfully be loaded via API.</description></item><item><title>Validate Schemaref Elements in XBRL API for C#, ASP.NET Apps</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.7/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 22.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.48MB
+Date Added:
+26/7/2022
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-7-release-notes/
+File Details
+Schemaref Elements in XBRL Validation Support for validation of Schemaref elements in XBRL files.
+Context Element ID Attribute Validation Added the validation of the ID attribute of the context element in the XBRL file.
+Entity Sub-element Validation Supplement the validation of the entity sub-element in the context element in the XBRL file.</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-22.7(dlls-only)</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.7dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.7dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 22.7(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.62MB
+Date Added:
+26/7/2022
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-7-release-notes/
+DescriptionAspose.Finance for .NET 22.7 dlls release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bf572540412842738e231338af7afcbc-2-7697&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-22.8(dlls-only)</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.8dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.8dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 22.8(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.63MB
+Date Added:
+30/8/2022
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-8-release-notes/
+DescriptionAspose.Finance for .NET 22.8 dlls release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7b73ec51f424df5730215d54e1a8dd4a-2-7826&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Validate Financial Data File Elements API for C#, .NET Apps</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.8/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 22.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.48MB
+Date Added:
+30/8/2022
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-8-release-notes/
+File Details
+Continuation Element Validation Improved the validation rules for the continuation element.
+Exclude Element Validation Improved the validation rules for the exclude element.
+Footnote Element Validation Improved the validation rules for the footnote element.
+For a complete list of features, enhancements, and bug fixes in this release please visit, Aspose.</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-22.9(dlls-only)</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.9dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.9dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 22.9(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.64MB
+Date Added:
+22/9/2022
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-9-release-notes/
+DescriptionAspose.Finance for .NET 22.9 dlls release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=dcecb9acaa11e265c3d656cdae526759-2-7919&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>GroupDocs Support for Financial Format API for C#, .NET Apps</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.9/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 22.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.5MB
+Date Added:
+22/9/2022
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-9-release-notes/
+File Details
+GroupDocs Support Added the GroupDocs support.
+For a complete list of features, enhancements, and bug fixes in this release please visit, Aspose.Finance for .NET 22.9 Release Notes.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-22.10(dlls-only)</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.10dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.10dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 22.10(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.65MB
+Date Added:
+27/10/2022
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-10-release-notes/
+DescriptionAspose.Finance for .NET 22.10 dlls release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d1c7d11eb9cbcd793930e8ed04a4c11a-2-8063&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-22.10</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.10/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 22.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.5MB
+Date Added:
+27/10/2022
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-10-release-notes/
+DescriptionAspose.Finance for .NET 22.10
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c27f50e4e1e498bef58eb9ef3edad4ea-2-8064&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-22.11(dlls-only)</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.11dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.11dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 22.11(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.64MB
+Date Added:
+29/11/2022
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-11-release-notes/
+DescriptionAspose.Finance for .NET 22.11 dlls release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=213ebea7d1f38cd13dcabada168c4bda-2-8214&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-22.11</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.11/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 22.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.5MB
+Date Added:
+29/11/2022
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-11-release-notes/
+DescriptionAspose.Finance for .NET 22.11
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f74a4471ff595d07aca27e28890dc6ba-2-8215&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-22.12(dlls-only)</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.12dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.12dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 22.12(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.65MB
+Date Added:
+22/12/2022
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-12-release-notes/
+DescriptionAspose.Finance for .NET 22.12 dlls release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=56a047f8a3e8c18e3fa098ce91ffcb7f-2-8314&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-22.12</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-22.12/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 22.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.51MB
+Date Added:
+22/12/2022
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2022/aspose-finance-for-net-22-12-release-notes/
+DescriptionAspose.Finance for .NET 22.12
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4120be7d26e4f8701b330d6be5dc8fbf-2-8315&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-23.1(dlls-only)</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.1dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.1dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 23.1(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.65MB
+Date Added:
+18/1/2023
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-1-release-notes/
+DescriptionAspose.Finance for .NET 23.1 dlls release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9b4bbc9680c10b070e35063442c4a7f4-2-8399&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-23.1</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.1/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 23.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.51MB
+Date Added:
+18/1/2023
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-1-release-notes/
+DescriptionAspose.Finance for .NET 23.1
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fac5148680906c651ba3bc3a98d6b53d-2-8400&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-23.2(dlls-only)</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.2dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.2dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 23.2(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.65MB
+Date Added:
+28/2/2023
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-2-release-notes/
+DescriptionAspose.Finance for .NET 23.2 dlls release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5d9a1f8ac1b89d31df361d684c381b22-2-8590&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-23.2</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.2/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 23.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.51MB
+Date Added:
+28/2/2023
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-2-release-notes/
+DescriptionAspose.Finance for .NET 23.2
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7244fb21f8e2ed870eccf9a0d5876e15-2-8591&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-23.3(dlls-only)</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.3dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.3dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 23.3(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.65MB
+Date Added:
+9/4/2023
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-3-release-notes/
+DescriptionAspose.Finance for .NET 23.3 dlls release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5b10105e8e7697ccb2bad97d31d330f6-2-8735&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-23.3</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.3/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 23.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.51MB
+Date Added:
+9/4/2023
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-3-release-notes/
+DescriptionAspose.Finance for .NET 23.3
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=dbfca74c5d2326140743b040e4f62895-2-8736&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-23.5(dlls-only)</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.5dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.5dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 23.5(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.65MB
+Date Added:
+29/5/2023
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-5-release-notes/
+DescriptionAspose.Finance for .NET 23.5 dlls release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cde598b2f77af63682422605f95f0fd9-2-8928&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-23.5</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.5/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 23.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.51MB
+Date Added:
+29/5/2023
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-5-release-notes/
+DescriptionAspose.Finance for .NET 23.5
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1cb7df04cdc999d765884b6fc928150c-2-8929&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-23.6(dlls-only)</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.6dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.6dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 23.6(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.66MB
+Date Added:
+30/6/2023
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-6-release-notes/
+DescriptionAspose.Finance for .NET 23.6 dlls release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1873e0e0367ff2f3f0bf88f471540a7c-2-9164&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-23.6</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.6/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 23.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.51MB
+Date Added:
+30/6/2023
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-6-release-notes/
+DescriptionAspose.Finance for .NET 23.6
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1a42fcb0676948384689e3cf525e77cb-2-9165&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-23.7(dlls-only)</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.7dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.7dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 23.7(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.65MB
+Date Added:
+31/7/2023
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-7-release-notes/
+DescriptionAspose.Finance for .NET 23.7 dlls release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8b120034057e314eb4f742c23a061074-2-9287&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-23.7</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.7/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 23.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.51MB
+Date Added:
+31/7/2023
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-7-release-notes/
+DescriptionAspose.Finance for .NET 23.7
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=34b2f1d63de88f60435638ceee2a55cd-2-9288&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-23.8(dlls-only)</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.8dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.8dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 23.8(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.66MB
+Date Added:
+30/8/2023
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-8-release-notes/
+DescriptionAspose.Finance for .NET 23.8 dlls release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=64f66d14533b0e4fe4beb1484cde0753-2-9405&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-23.8</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.8/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 23.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.51MB
+Date Added:
+30/8/2023
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-8-release-notes/
+DescriptionAspose.Finance for .NET 23.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=987d3b4f3e2292ab344f29a2685bf57a-2-9406&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-23.9(dlls-only)</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.9dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.9dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 23.9(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.66MB
+Date Added:
+30/9/2023
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-9-release-notes/
+DescriptionAspose.Finance for .NET 22.9 dlls release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=445f3657073e4bc077f27771ac427b56-2-9549&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-23.9</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.9/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 23.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.51MB
+Date Added:
+30/9/2023
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-9-release-notes/
+DescriptionAspose.Finance for .NET 23.9
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ceeeab335cd66c75a47db39cdc21bce1-2-9550&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-23.10(dlls-only)</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.10dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.10dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 23.10(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.66MB
+Date Added:
+29/10/2023
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-10-release-notes/
+DescriptionAspose.Finance for .NET 23.10 dlls release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0b81481edc88678464fb1d76ebe57056-2-9683&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-23.10</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.10/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 23.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.52MB
+Date Added:
+29/10/2023
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-10-release-notes/
+DescriptionAspose.Finance for .NET 23.10
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ddb297607e2e4964636d28bfbf6b1525-2-9684&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-23.11(dlls-only)</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.11dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.11dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 23.11(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.67MB
+Date Added:
+30/11/2023
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-11-release-notes/
+DescriptionAspose.Finance for .NET 23.11 dlls release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f11dabcefbb8d577565c7d94af5b14f4-2-9910&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-23.11</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.11/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 23.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.52MB
+Date Added:
+30/11/2023
+Release Noteshttps://releases.aspose.com/finance/net/release-notes/2023/aspose-finance-for-net-23-11-release-notes/
+DescriptionAspose.Finance for .NET 23.11
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c089c105f75f5ae1f7788c77e3d1aeab-2-9911&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-23.12(dlls-only)</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.12dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.12dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 23.12(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.67MB
+Date Added:
+31/12/2023
+Release Noteshttps://docs.aspose.com/finance/net/aspose-finance-for-net-23-12-release-notes/
+DescriptionAspose.Finance for .NET 23.12 dlls release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8c1b0bdd65da3ed93e88098a91e8db8d-2-10113&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-23.12</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-23.12/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 23.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.52MB
+Date Added:
+31/12/2023
+Release Noteshttps://docs.aspose.com/finance/net/aspose-finance-for-net-23-12-release-notes/
+DescriptionAspose.Finance for .NET 23.12
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7019e84d4e38c7e69a8d219c6b490d66-2-10114&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-24.1(dlls-only)</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-24.1dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-24.1dlls-only/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 24.1(DLLs Only)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.67MB
+Date Added:
+31/1/2024
+Release Noteshttps://docs.aspose.com/finance/net/aspose-finance-for-net-24-1-release-notes/
+DescriptionAspose.Finance for .NET 24.1 dlls release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=68c419a386dda67a4a1f9691a4a023d3-2-10264&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.finance-for-.net-24.1</title><link>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/net/new-releases/aspose.finance-for-.net-24.1/</guid><description>&amp;nbsp;
+Aspose.Finance for .NET 24.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+6.52MB
+Date Added:
+31/1/2024
+Release Noteshttps://docs.aspose.com/finance/net/aspose-finance-for-net-24-1-release-notes/
+DescriptionAspose.Finance for .NET 24.1
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5857a4f8f78ea69dd9542e1e3b0cc0cc-2-10265&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

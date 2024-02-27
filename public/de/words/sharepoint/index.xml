@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Word-Lösung für MOSS &amp; WSS | Aspose.Words für SharePoint on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/words/sharepoint/</link><description>Recent content in Word-Lösung für MOSS &amp; WSS | Aspose.Words für SharePoint on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/words/sharepoint/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-2.2.0 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-2.2.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-2.2.0/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 2.2.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+104
+Dateigröße:
+11.8 MB Posted By: Rostis
+Ansichten:
+453
+Hinzugefügt am:
+3/1/2011
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2011/aspose-words-for-sharepoint-2-2-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0914e1b32f7b4fe79642d467561277d6&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-2.3.0 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-2.3.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-2.3.0/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 2.3.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+58
+Dateigröße:
+13.4 MB Posted By: dmitry.matveenko
+Ansichten:
+422
+Hinzugefügt am:
+10/10/2011
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3ee62af4741540c9a70c6fbf7f87a6f1&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-2.4.0 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-2.4.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-2.4.0/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 2.4.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+47
+Dateigröße:
+15.8 MB Posted By: dmitry.matveenko
+Ansichten:
+371
+Hinzugefügt am:
+2/2/2012
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2012/aspose-words-for-sharepoint-2-4-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3dacf338d0144200ae0f90177e935b7a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-2.5.0 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-2.5.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-2.5.0/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 2.5.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+69
+Dateigröße:
+16.1 MB Posted By: dmitry.matveenko
+Ansichten:
+368
+Hinzugefügt am:
+5/2/2012
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2012/aspose-words-for-sharepoint-2-5-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=392167ff05ab4431b218fc6d8774f789&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-2.6.0 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-2.6.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-2.6.0/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 2.6.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+91
+Dateigröße:
+16.3 MB Posted By: dmitry.matveenko
+Ansichten:
+952
+Hinzugefügt am:
+8/1/2012
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2012/aspose-words-for-sharepoint-2-6-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ae98ec9485d346929a8d9692f6e6f6fa&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-2.7.0 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-2.7.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-2.7.0/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 2.7.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+180
+Dateigröße:
+17.4 MB Posted By: dmitry.matveenko
+Ansichten:
+649
+Hinzugefügt am:
+12/6/2012
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0030b1c712c44d398890ef22e4773eab&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-2.9.0 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-2.9.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-2.9.0/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 2.9.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+79
+Dateigröße:
+17.9 MB Posted By: dmitry.matveenko
+Ansichten:
+729
+Hinzugefügt am:
+6/3/2013
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2013/aspose-words-for-sharepoint-2-9-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f41898b6580040e9a204eebd19a8dadb&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-2.10.0 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-2.10.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-2.10.0/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 2.10.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+195
+Dateigröße:
+18.2 MB Posted By: dmitry.matveenko
+Ansichten:
+856
+Hinzugefügt am:
+9/8/2013
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fa68020a9cfd4978be0f9abe3acd3b0b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-3.0.0 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-3.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-3.0.0/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 3.0.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+264
+Dateigröße:
+22.4 MB Posted By: buddylancer
+Ansichten:
+755
+Hinzugefügt am:
+4/30/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7a8a6de58efd4da7818e1d8c71321cfc&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-3.0.2 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-3.0.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-3.0.2/</guid><description>&amp;nbsp;
+Aspose.Words für Sharepoint 3.0.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+237
+Dateigröße:
+26.0 MB Posted By: buddylancer
+Ansichten:
+593
+Hinzugefügt am:
+4/1/2015
+Versionshinweise Seite existiert bereits
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bf26559cbfb147bf91ea972dd95bb563&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-4.0.0 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-4.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-4.0.0/</guid><description>&amp;nbsp;
+Aspose.Words für Sharepoint 4.0.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+26
+Dateigröße:
+33.5 MB Posted By: buddylancer
+Ansichten:
+549
+Hinzugefügt am:
+1/20/2016
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2016/aspose-words-for-sharepoint-4-0-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6def0cf314d84e44ae3aa1ed5b7cd4ca&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-4.1.0 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-4.1.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-4.1.0/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 4.1.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+39
+Dateigröße:
+34.6 MB Posted By: buddylancer
+Ansichten:
+649
+Hinzugefügt am:
+4/20/2016
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2016/aspose-words-for-sharepoint-4-1-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=376c6a5959ef42d288b428171f5457c6&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-16.12.0 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-16.12.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-16.12.0/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 16.12.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+26
+Dateigröße:
+37.9 MB Posted By: buddylancer
+Ansichten:
+514
+Hinzugefügt am:
+12/16/2016
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2016/aspose-words-for-sharepoint-16-12-0-release-notes/ BeschreibungEnthält Fix für WORDSSP-243 und Upgrade auf das neueste Aspose.Words für .NET (v16.12)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d505e9f5afec4f8093f9c4d170ab360b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-17.1.0 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-17.1.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-17.1.0/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 17.1.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+76
+Dateigröße:
+38.1 MB Posted By: vadimpo
+Ansichten:
+595
+Hinzugefügt am:
+1/20/2017
+BeschreibungEnthält Fix für WORDSSP-246 und Upgrade auf das neueste Aspose.Words für .NET (v17.1.0)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7286ad7795c545d68886853cceb88986&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-17.8 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-17.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-17.8/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 17.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+25
+Dateigröße:
+38.9 MB Posted By: buddylancer
+Ansichten:
+1076
+Hinzugefügt am:
+9/4/2017
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2017/aspose-words-for-sharepoint-17-8-release-notes/ BeschreibungUpgrade auf die neueste Version von Aspose.Words for Net (17.8)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d94dba8a000e4538bccd91a306c77287&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-17.11 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-17.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-17.11/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 17.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+15
+Dateigröße:
+39.2 MB Posted By: vadimpo
+Ansichten:
+457
+Hinzugefügt am:
+11/21/2017
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2017/aspose-words-for-sharepoint-17-11-release-notes/ BeschreibungImplementieren Sie "Dateieigenschaften kopieren". Aktualisieren Sie auf die neueste Version von Aspose.Words for Net (17.11).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a826965fb4fe4850b08b3697842bedb1&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-18.1 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-18.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-18.1/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 18.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+19
+Dateigröße:
+28.8 MB Posted By: vadimpo
+Ansichten:
+1038
+Hinzugefügt am:
+1/19/2018
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2018/aspose-words-for-sharepoint-18-1-release-notes/ BeschreibungAktualisieren Sie auf die neueste Version von Aspose.Words for Net (18.1).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4a403af6253d447b8bf3fef463f29f14&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-18.2 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-18.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-18.2/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 18.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+18.6 MB Posted By: vadimpo
+Ansichten:
+992
+Hinzugefügt am:
+2/26/2018
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2018/aspose-words-for-sharepoint-18-2-release-notes/ BeschreibungIn PDF/A konvertieren + Upgrade auf die neueste Version von Aspose.Words for Net (18.2).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=433070af810e4bc79f9ba208cc68a8d3&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-18.3 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-18.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-18.3/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 18.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+4
+Dateigröße:
+18.6 MB Posted By: vadimpo
+Ansichten:
+895
+Hinzugefügt am:
+3/29/2018
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2018/aspose-words-for-sharepoint-18-3-release-notes/ BeschreibungAktualisieren Sie auf die neueste Version von Aspose.Words for Net (18.3).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3e257b1d1a374f779b446ccfa2adafcf&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-18.4 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-18.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-18.4/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 18.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+18.7 MB Posted By: vadimpo
+Ansichten:
+1007
+Hinzugefügt am:
+4/29/2018
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2018/aspose-words-for-sharepoint-18-4-release-notes/ BeschreibungEin Fix + Upgrade auf die neueste Version von Aspose.Words for Net (18.4)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a65e2174e8624ef1a956032df0b2b0fe&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-18.5 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-18.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-18.5/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 18.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+Dateigröße:
+18.7 MB Posted By: vadimpo
+Ansichten:
+890
+Hinzugefügt am:
+6/1/2018
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2018/aspose-words-for-sharepoint-18-5-release-notes/ BeschreibungUpgrade auf die neueste Version von Aspose.Words for Net (18.5)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a68ae6754d444a99a535db85c8f51d93&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-18.6 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-18.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-18.6/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 18.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+18.2 MB Posted By: vadimpo
+Ansichten:
+933
+Hinzugefügt am:
+6/27/2018
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2018/aspose-words-for-sharepoint-18-6-release-notes/ BeschreibungUpgrade auf die neueste Version von Aspose.Words for Net (18.6)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e180d022b7ed427db74a77e32dc9b53d&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-18.7 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-18.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-18.7/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 18.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+18.5 MB Posted By: vadimpo
+Ansichten:
+270
+Hinzugefügt am:
+8/3/2018
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2018/aspose-words-for-sharepoint-18-7-release-notes/ BeschreibungUpgrade auf die neueste Version von Aspose.Words for Net (18.7)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8c9f9bc05be34dd28d08bd738a48d1c9&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-18.8 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-18.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-18.8/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 18.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+23.1 MB Posted By: vadimpo
+Ansichten:
+768
+Hinzugefügt am:
+9/3/2018
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2018/aspose-words-for-sharepoint-18-8-release-notes/ BeschreibungUnterstützung der öffentlichen Vorschau von SharePoint 2019 + Upgrade auf die neueste Version von Aspose.Words for Net (18.8)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-18.9 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-18.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-18.9/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 18.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+28
+Dateigröße:
+23.1 MB Posted By: vadimpo
+Ansichten:
+817
+Hinzugefügt am:
+9/29/2018
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2018/aspose-words-for-sharepoint-18-9-release-notes/ BeschreibungUpgrade auf die neueste Version von Aspose.Words for Net (18.9)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8f123b09e3b94b2f93dd1e4ad703063d&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-18.12 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-18.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-18.12/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 18.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+16
+Dateigröße:
+23.3 MB Posted By: vadimpo
+Ansichten:
+1214
+Hinzugefügt am:
+12/27/2018
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2018/aspose-words-for-sharepoint-18-12-release-notes/ BeschreibungUnterstützung des Exports nach HTML + Upgrade auf die neueste Version von Aspose.Words for Net (18.12)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=578af11e37e14956a33add349a044233&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-19.2 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-19.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-19.2/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 19.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+15
+Dateigröße:
+23.4 MB Posted By: vadimpo
+Ansichten:
+414
+Hinzugefügt am:
+2/28/2019
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2019/aspose-words-for-sharepoint-19-2-release-notes/ BeschreibungUpgrade auf die neueste Version von Aspose.Words for Net (19.2)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=30e108e253344570bc55dff2e9219f94&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-19.6 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-19.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-19.6/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 19.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+24.2 MB Posted By: vadimpo
+Ansichten:
+265
+Hinzugefügt am:
+6/24/2019
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2019/aspose-words-for-sharepoint-19-6-release-notes/ BeschreibungUpgrade auf die neueste Version von Aspose.Words for Net (19.6)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=194f35b50c314400bd83ac59d7307b85&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-19.7 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-19.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-19.7/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 19.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+23.6 MB Posted By: vadimpo
+Ansichten:
+244
+Hinzugefügt am:
+8/8/2019
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2019/aspose-words-for-sharepoint-19-7-release-notes/ BeschreibungUpgrade auf die neueste Version von Aspose.Words for Net (19.7)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a88f0b30628f4f3d949fad226cb7f7f2&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-19.8 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-19.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-19.8/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 19.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+39
+Dateigröße:
+23.8 MB Posted By: vadimpo
+Ansichten:
+1136
+Hinzugefügt am:
+9/4/2019
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2019/aspose-words-for-sharepoint-19-8-release-notes/ BeschreibungUpgrade auf die neueste Version von Aspose.Words for Net (19.8)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=80252b044ebb473795c6e62c7b2c00e3&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-20.6 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-20.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-20.6/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 20.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+17
+Dateigröße:
+22.8 MB Posted By: dmitry.sokolov
+Ansichten:
+288
+Hinzugefügt am:
+6/15/2020
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2020/aspose-words-for-sharepoint-20-6-release-notes/ BeschreibungAktualisieren Sie auf die neueste Version von Aspose.Words for Net (20.6). Unterstützung zum Hinzufügen von Wasserzeichen zu Word-Dokumenten. Fehlerbehebung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-20.9 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-20.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-20.9/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 20.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+22.8 MB Posted By: dmitry.sokolov
+Ansichten:
+256
+Hinzugefügt am:
+9/4/2020
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2020/aspose-words-for-sharepoint-20-9-release-notes/ BeschreibungAktualisieren Sie auf die neueste Version von Aspose.Words for Net (20.9). Unterstützung für den TXT-Import hinzufügen. Fehlerbehebung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-20.12 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-20.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-20.12/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 20.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+23.1 MB Posted By: dmitry.sokolov
+Ansichten:
+238
+Hinzugefügt am:
+12/7/2020
+Versionshinweisehttps://releases.aspose.com/words/sharepoint/release-notes/2020/aspose-words-for-sharepoint-20-12-release-notes/ BeschreibungAktualisieren Sie auf die neueste Version von Aspose.Words for Net (20.12). Fehlerbehebung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fb8641819c694b169ee42b6a151971ab&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-21.3 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-21.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-21.3/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 21.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+29.0 MB Posted By: dmitry.sokolov
+Ansichten:
+234
+Hinzugefügt am:
+3/9/2021
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2021/aspose-words-for-sharepoint-21-3-release-notes/ BeschreibungAktualisieren Sie auf die neueste Version von Aspose.Words for Net (21.3). Fehlerbehebung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5e64cffc0f21404cae6edc6e9aefb8fa&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-21.6 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-21.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-21.6/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 21.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+23.7 MB Posted By: dmitry.sokolov
+Ansichten:
+200
+Hinzugefügt am:
+6/2/2021
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2021/aspose-words-for-sharepoint-21-6-release-notes/ BeschreibungAktualisieren Sie auf die neueste Version von Aspose.Words for Net (21.6). Fehlerbehebung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5e815b641bcb4102ac000b8b238d72e5&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-21.9 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-21.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-21.9/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 21.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+23.8 MB Posted By: dmitry.sokolov
+Ansichten:
+162
+Hinzugefügt am:
+9/12/2021
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2021/aspose-words-for-sharepoint-21-9-release-notes/ BeschreibungAktualisieren Sie auf die neueste Version von Aspose.Words for Net (21.9). Fehlerbehebung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4b7e480ed4b94d82acd2aace63157c6b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-21.12 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-21.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-21.12/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 21.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+16
+Dateigröße:
+23.9 MB Posted By: dmitry.sokolov
+Ansichten:
+102
+Hinzugefügt am:
+12/6/2021
+Versionshinweisehttps://releases.aspose.com/words/sharepoint/release-notes/2021/aspose-words-for-sharepoint-21-12-release-notes/ BeschreibungAktualisieren Sie auf die neueste Version von Aspose.Words for Net (21.12). Unterstützung für das Markdown-Format hinzugefügt.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bb2f792760fb4388abfda9e558a6b32b&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-sharepoint-22.3 .</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-22.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-22.3/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 22.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+Dateigröße:
+24.1 MB Posted By: dmitry.sokolov
+Ansichten:
+41
+Hinzugefügt am:
+3/2/2022
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2022/aspose-words-for-sharepoint-22-3-release-notes/ BeschreibungAktualisieren Sie auf die neueste Version von Aspose.Words for Net (22.3). Fehlerbehebung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6e423a091c4b4ce0b13d5277563e5ccf&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---Neue Versionen-aspose.words-for-sharepoint-22.6</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-22.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-22.6/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 22.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+24.2 MB
+Hinzugefügt am:
+10/6/2022
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2022/aspose-words-for-sharepoint-22-6-release-notes/
+BeschreibungAktualisieren Sie auf die neueste Version von Aspose.Words for Net (22.6). Neue Eigenschaften.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4c5519c9542042858ff623ccfff2ef30-1-7500&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---Neue Versionen-aspose.words-for-sharepoint-22.9</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-22.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-22.9/</guid><description>&amp;nbsp;
+Aspose.Words für SharePoint 22.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+24.56MB
+Hinzugefügt am:
+5/9/2022
+Versionshinweise https://releases.aspose.com/words/sharepoint/release-notes/2022/aspose-words-for-sharepoint-22-9-release-notes/
+BeschreibungAktualisieren Sie auf die neueste Version von Aspose.Words for Net (22.9). Fehlerbehebung. ELUA online: https://about.aspose.com/legal/eula/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8c8e6f09a73d536930981801de50a365-5-7857&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSISSION.Words-for-SharePoint-23.3</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-23.3/</guid><description>&amp;nbsp;
+ASSOSE.Words für SharePoint 23.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+25.25MB
+Datum hinzugefügt:
+11/3/2023
+Versionshinweisehttps://releases.aspose.com/words/sharepoint/release-notes/2023/aspose-words-for-sharepoint-23-3-release-notes/
+BeschreibungUpgrade auf die neueste Version von ASSOSE.WORDS FÜR NET (23.3). Neue Eigenschaften.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4823e56a3cacfe8196248ef20b7f2fac-6-8623&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSISSION.Words-for-SharePoint-23.6</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-23.6/</guid><description>&amp;nbsp;
+ASSOSE.Words für SharePoint 23.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+25.5MB
+Datum hinzugefügt:
+9/6/2023
+Versionshinweisehttps://releases.aspose.com/words/sharepoint/release-notes/2023/aspose-words-for-sharepoint-23-6-release-notes/
+BeschreibungUpgrade auf die neueste Version von ASSOSE.WORDS FÜR NET (23.6). Neue Eigenschaften.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=da6e8d21c7b2205489263a7d0f67982f-6-8964&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Words-for-SharePoint-23.9</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-23.9/</guid><description>&amp;nbsp;
+ASSOSE.Words für SharePoint 23.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+26.93MB
+Datum hinzugefügt:
+2/10/2023
+Versionshinweisehttps://releases.aspose.com/words/sharepoint/release-notes/2023/aspose-words-for-sharepoint-23-9-release-notes/
+BeschreibungUpgrade auf die neueste Version von ASSOSE.WORDS FÜR NET (23.9). Zu den Sicherungsdateien mit Workflows hinzugefügt.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9bc729c9b6ed644ef552332b35cdf751-6-9558&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Words-for-SharePoint-23.12</title><link>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/sharepoint/new-releases/aspose.words-for-sharepoint-23.12/</guid><description>&amp;nbsp;
+ASSOSE.Words für SharePoint 23.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+26.99MB
+Datum hinzugefügt:
+4/12/2023
+Versionshinweisehttps://releases.aspose.com/words/sharepoint/release-notes/2023/aspose-words-for-sharepoint-23-12-release-notes/
+BeschreibungUpgrade auf die neueste Version von ASSOSE.WORDS FÜR NET (23.12). Fehlerbehebung.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=45e0547c037f73cf73f0768c51110a25-6-9927&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

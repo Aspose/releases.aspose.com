@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PowerPoint-APIs und -Komponenten für Entwickler | Aspose.Slides-Produktfamilie on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/slides/</link><description>Recent content in PowerPoint-APIs und -Komponenten für Entwickler | Aspose.Slides-Produktfamilie on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Wed, 23 Nov 2022 19:22:59 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/de/slides/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads --- NEW Releases-ASSOSPLE.SLIDES-FOR-NODE.JS-VIA-JAVA-23.8</title><link>https://releases-qa.aspose.com/de/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-23.8/</guid><description>&amp;nbsp;
+ASSON.Slides für Node.js über Java 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+26.68MB
+Datum hinzugefügt:
+25/8/2023
+Versionshinweisehttps://releases.aspose.com/slides/nodejs-java/release-notes/2023/aspose-slides-for-nodejs-via-java-23-8-release-notes/
+BeschreibungEs enthält ASSON.Slides für Node.js über Java 23.8 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9106c2b140181687520567cf7490ac68-6-9390&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPLE.SLIDES-FOR-NODE.JS-VIA-JAVA-23.9</title><link>https://releases-qa.aspose.com/de/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-23.9/</guid><description>&amp;nbsp;
+ASSON.Slides für Node.js über Java 23.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+26.68MB
+Datum hinzugefügt:
+25/9/2023
+Versionshinweisehttps://releases.aspose.com/slides/nodejs-java/release-notes/2023/aspose-slides-for-nodejs-via-java-23-9-release-notes/
+BeschreibungEs enthält ASSON.Slides für Node.js über Java 23.9 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2583487bf6777333090e4085b1638a82-6-9519&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.SLIDES-FOR-NODE.JS-VIA-JAVA-23.10</title><link>https://releases-qa.aspose.com/de/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-23.10/</guid><description>&amp;nbsp;
+ASSON.SLIDEN für node.js über Java 23.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+26.7MB
+Datum hinzugefügt:
+18/10/2023
+Versionshinweisehttps://releases.aspose.com/slides/nodejs-java/release-notes/2023/aspose-slides-for-nodejs-via-java-23-10-release-notes/
+BeschreibungEs enthält ASSON.SLIDE für Node.js über Java 23.10 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=da902152bcc9c12370e30b87bc272c15-6-9632&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.SLIDES-FOR-NODE.JS-VIA-JAVA-23.11</title><link>https://releases-qa.aspose.com/de/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-23.11/</guid><description>&amp;nbsp;
+ASSON.Slides für Node.js über Java 23.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+26.72MB
+Datum hinzugefügt:
+15/11/2023
+Versionshinweisehttps://releases.aspose.com/slides/nodejs-java/release-notes/2023/aspose-slides-for-nodejs-via-java-23-11-release-notes/
+BeschreibungEs enthält asspose.slides für node.js über Java 23.11 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ecde8dae9e8bd59893ecf2272467651e-6-9775&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPEN.</title><link>https://releases-qa.aspose.com/de/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-23.12/</guid><description>&amp;nbsp;
+ASSON.Slides für Node.js über Java 23.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+26.76MB
+Datum hinzugefügt:
+15/12/2023
+Versionshinweisehttps://releases.aspose.com/slides/nodejs-java/release-notes/2023/aspose-slides-for-nodejs-via-java-23-12-release-notes/
+BeschreibungEs enthält asspose.slides für node.js über Java 23.12 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6ce3d8efa7f90190392f1181bf06348a-6-9998&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPLE.SLIDES-FOR-NODE.JS-VIA-JAVA-24.1</title><link>https://releases-qa.aspose.com/de/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-24.1/</guid><description>&amp;nbsp;
+ASSON.Slides für Node.js über Java 24.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+26.8MB
+Datum hinzugefügt:
+26/1/2024
+Versionshinweisehttps://releases.aspose.com/slides/nodejs-java/release-notes/2024/aspose-slides-for-nodejs-via-java-24-1-release-notes/
+BeschreibungEs enthält ASSON.Slides für Node.js über Java 24.1 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c1876154f8a81a1293ab399a2abaaebd-6-10219&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

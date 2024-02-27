@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aspose.Diagram on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/aspose.diagram/</link><description>Recent content in Aspose.Diagram on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/tags/aspose.diagram/index.xml" rel="self" type="application/rss+xml"/><item><title>.NET APIs for File Formats | Aspose.Total for .NET</title><link>https://releases-qa.aspose.com/total/net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/total/net/</guid><description>Support Forum
+Download Aspose.Total DLLs to Process File Formats via .NET APIs Aspose.Total for .NET is the most complete package of all .NET file format APIs offered by Aspose. It empowers developers to create, edit, render, print and convert between a wide range of popular document formats within any .NET, C#, ASP.NET and VB.NET applications.
+Open NuGet Package Manager within the Microsoft Visual Studio&amp;reg;, search for Aspose.</description></item><item><title>Aspose.Diagram for Python via .Net</title><link>https://releases-qa.aspose.com/diagram/python-net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/diagram/python-net/</guid><description>Support Forum
+Download Aspose.Diagram Python Library for Visio Processing Aspose.Diagram for Python via .NET is a scalable and feature-rich API to process visio files using Python. API offers Visio file creation, manipulation, conversion, rendering. Developers can format pages to the most granular level, create and manipulate shape, render pages, shapes to PDF and images, and much more - all without any dependency on Microsoft Office or Visio application.</description></item><item><title>Downloads ---New Releases-aspose.diagram-for-python-via-.net-23.8</title><link>https://releases-qa.aspose.com/diagram/python-net/new-releases/aspose.diagram-for-python-via-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/diagram/python-net/new-releases/aspose.diagram-for-python-via-.net-23.8/</guid><description>&amp;nbsp;
+Aspose.Diagram for Python via .NET 23.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+179.65MB
+Date Added:
+21/8/2023
+Release Noteshttps://releases.aspose.com/diagram/python-net/release-notes/2023/aspose-diagram-for-python-via-net-23-8-release-notes/
+DescriptionAspose.Diagram for Python via .NET 23.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e4139ea3f4ab2080ebd8f6e42a475e96-36-9355&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

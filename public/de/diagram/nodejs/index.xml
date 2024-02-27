@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Node.js Visio-Bibliothek | Aspose.Diagram für Node.js über Java on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/</link><description>Recent content in Node.js Visio-Bibliothek | Aspose.Diagram für Node.js über Java on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/diagram/nodejs/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---Neue-Releases-aspose.diagram-for-node.js-via-java-20.4 .</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-20.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-20.4/</guid><description>&amp;nbsp;
+Aspose.Diagram für Node.js über Java 20.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+4.0 MB Posted By: Nick.Liu
+Ansichten:
+75
+Hinzugefügt am:
+5/8/2020
+Versionshinweise https://releases.aspose.com/diagram/nodejs/release-notes/2020/aspose-diagram-for-node-js-via-java-20-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=02425526067c4d7fbfee75107fb65683&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.diagram-for-node.js-via-java-21.1 .</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-21.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-21.1/</guid><description>&amp;nbsp;
+Aspose.Diagram für Node.js über Java 21.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+4.9 MB Posted By: Nick.Liu
+Ansichten:
+56
+Hinzugefügt am:
+1/26/2021
+Versionshinweise https://releases.aspose.com/diagram/nodejs/release-notes/2021/aspose-diagram-for-node-js-via-java-21-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8f2d63da0fa94a6181028d4790db4626&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.diagram-for-node.js-via-java-21.7 .</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-21.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-21.7/</guid><description>&amp;nbsp;
+Aspose.Diagram für Node.js über Java 21.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+3.1 MB Posted By: Nick.Liu
+Ansichten:
+40
+Hinzugefügt am:
+7/20/2021
+Versionshinweise https://releases.aspose.com/diagram/nodejs/release-notes/2021/aspose-diagram-for-node-js-via-java-21-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0cbfdc077d1745f98368a590f324a50c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.diagram-for-node.js-via-java-21.9 .</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-21.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-21.9/</guid><description>&amp;nbsp;
+Aspose.Diagram für Node.js über Java 21.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+3.2 MB Posted By: philip.zhou
+Ansichten:
+29
+Hinzugefügt am:
+9/17/2021
+Versionshinweise https://releases.aspose.com/diagram/nodejs/release-notes/2021/aspose-diagram-for-node-js-via-java-21-9-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=712bd62a5bc0494bb959d530e1e46b2a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases--aspose.diagram-for-node.js-via-java-21.11 .</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/-aspose.diagram-for-node.js-via-java-21.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/-aspose.diagram-for-node.js-via-java-21.11/</guid><description>&amp;nbsp;
+Aspose.Diagram für Node.js über Java 21.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+3.2 MB Posted By: philip.zhou
+Ansichten:
+29
+Hinzugefügt am:
+11/15/2021
+Versionshinweise https://releases.aspose.com/diagram/nodejs/release-notes/2021/aspose-diagram-for-node-js-via-java-21-11-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ade51abee4124e1495e6c6ab8e8e0b40&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.diagram-for-node.js-via-java-21.12 .</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-21.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-21.12/</guid><description>&amp;nbsp;
+Aspose.Diagram für Node.js über Java 21.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+3.2 MB Posted By: philip.zhou
+Ansichten:
+19
+Hinzugefügt am:
+12/14/2021
+Versionshinweise https://releases.aspose.com/diagram/nodejs/release-notes/2021/aspose-diagram-for-node-js-via-java-21-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b6a4341a2b9346df94441133d5ee92c6&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.diagram-for-node.js-via-java-22.1 .</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-22.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-22.1/</guid><description>&amp;nbsp;
+Aspose.Diagram für Node.js über Java 22.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+3.2 MB Posted By: philip.zhou
+Ansichten:
+14
+Hinzugefügt am:
+1/12/2022
+Versionshinweise https://releases.aspose.com/diagram/nodejs/release-notes/2022/aspose-diagram-for-node-js-via-java-22-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=26f278da608742c196e0510b294b22ec&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.diagram-for-node.js-via-java-22.2 .</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-22.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-22.2/</guid><description>&amp;nbsp;
+Aspose.Diagram für Node.js über Java 22.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+3.2 MB Posted By: philip.zhou
+Ansichten:
+10
+Hinzugefügt am:
+2/14/2022
+Versionshinweise https://releases.aspose.com/diagram/nodejs/release-notes/2022/aspose-diagram-for-node-js-via-java-22-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c95c45be32d147b58b64d5d3803c235a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.diagram-for-node.js-via-java-22.3 .</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-22.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-22.3/</guid><description>&amp;nbsp;
+Aspose.Diagram für Node.js über Java 22.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+3.2 MB Posted By: philip.zhou
+Ansichten:
+7
+Hinzugefügt am:
+3/9/2022
+Versionshinweise https://releases.aspose.com/diagram/nodejs/release-notes/2022/aspose-diagram-for-node-js-via-java-22-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e198b2f3c2b74094b4b9112d55146e93&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.diagram-for-node.js-via-java-22.4 .</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-22.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-22.4/</guid><description>&amp;nbsp;
+Aspose.Diagram für Node.js über Java 22.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+3.2 MB Hinzugefügt am:
+4/13/2022
+Versionshinweise https://releases.aspose.com/diagram/nodejs/release-notes/2022/aspose-diagram-for-node-js-via-java-22-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=08e4cab59c6544ddab13eb8f1093ce76&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.diagram-for-node.js-via-java-22.5 .</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-22.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-22.5/</guid><description>&amp;nbsp;
+Aspose.Diagram für Node.js über Java 22.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+3.2 MB Hinzugefügt am:
+: 11 hours ago [5/16/2022]
+Versionshinweise https://releases.aspose.com/diagram/nodejs/release-notes/2022/aspose-diagram-for-node-js-via-java-22-5-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b0d3bdd56f2d42b38c382d144d939546&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.diagram-for-node.js-via-java-22.6</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-22.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-22.6/</guid><description>&amp;nbsp;
+Aspose.Diagram für Node.js über Java 22.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+3.24MB
+Hinzugefügt am:
+14/6/2022
+Versionshinweise https://releases.aspose.com/diagram/nodejs/release-notes/2022/aspose-diagram-for-node-js-via-java-22-6-release-notes/
+BeschreibungAspose.Diagram für Node.js über Java 22.6
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1f2acce767a18c4ee84729527d01a07e-1-7513&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.diagram-for-node.js-via-java-22.7</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-22.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-22.7/</guid><description>&amp;nbsp;
+Aspose.Diagram für Node.js über Java 22.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+3.24MB
+Hinzugefügt am:
+8/7/2022
+Versionshinweise https://releases.aspose.com/diagram/nodejs/release-notes/2022/aspose-diagram-for-node-js-via-java-22-7-release-notes/
+BeschreibungAspose.Diagram für Node.js über Java 22.7
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7b513985182a53122d80b576f021e799-1-7619&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.diagram-for-node.js-via-java-22.8</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-22.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-22.8/</guid><description>&amp;nbsp;
+Aspose.Diagram für Node.js über Java 22.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+3.24MB
+Hinzugefügt am:
+9/8/2022
+Versionshinweise https://releases.aspose.com/diagram/nodejs/release-notes/2022/aspose-diagram-for-node-js-via-java-22-8-release-notes/
+BeschreibungAspose.Diagram für Node.js über Java 22.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2b356d8b4225e0674ab0be65735b9200-1-7751&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.diagram-for-node.js-via-java-22.9</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-22.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-22.9/</guid><description>&amp;nbsp;
+Aspose.Diagram für Node.js über Java 22.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+3.24MB
+Hinzugefügt am:
+9/9/2022
+Versionshinweise https://releases.aspose.com/diagram/nodejs/release-notes/2022/aspose-diagram-for-node-js-via-java-22-9-release-notes/
+BeschreibungAspose.Diagram für Node.js über Java 22.9
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fd730f08f727e47beb910fc0c8a3e60e-1-7874&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.diagram-for-node.js-via-java-22.10</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-22.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-22.10/</guid><description>&amp;nbsp;
+Aspose.Diagram für Node.js über Java 22.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+3.28MB
+Date Added:
+12/10/2022
+Versionshinweise https://releases.aspose.com/diagram/nodejs/release-notes/2022/aspose-diagram-for-node-js-via-java-22-10-release-notes/
+BeschreibungAspose.Diagram für Node.js über Java 22.10
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=27ad4bd3cb86f19d0296d931814e4dd9-1-7999&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.DIAGRAM-FOR-NODE.JS-VIA-JAVA-23.1</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-23.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-23.1/</guid><description>&amp;nbsp;
+ASSON.DIAGRAM für node.js über Java 23.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+3.28MB
+Datum hinzugefügt:
+11/1/2023
+Versionshinweisehttps://releases.aspose.com/diagram/nodejs/release-notes/2023/aspose-diagram-for-node-js-via-java-23-1-release-notes/
+BeschreibungASSON.DIAGRAM für node.js über Java 23.1
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3c3195342c80133f30e08c51aec4287e-1-8383&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.DIAGRAM-FOR-NODE.JS-VIA-JAVA-23.2</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-23.2/</guid><description>&amp;nbsp;
+ASSON.DIAGRAM für node.js über Java 23.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+3.29MB
+Datum hinzugefügt:
+14/2/2023
+Versionshinweisehttps://releases.aspose.com/diagram/nodejs/release-notes/2023/aspose-diagram-for-node-js-via-java-23-2-release-notes/
+BeschreibungASSON.DIAGRAM für node.js über Java 23.2
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5d83d86cf9cd187e61319cc13e6f5f61-1-8515&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Diagram-for-Node.js-via-Java-23.3</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-23.3/</guid><description>&amp;nbsp;
+ASSON.DIAGRAM für node.js über Java 23.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+3.29MB
+Datum hinzugefügt:
+14/3/2023
+Versionshinweisehttps://docs.aspose.com/diagram/python-java/aspose-diagram-for-python-via-java-23-3-release-notes/
+BeschreibungASSON.DIAGRAM für node.js über Java 23.3
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b5a39c1999b11649f1f27db0b4b480c2-1-8628&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.Diagram-for-Node.js-via-Java-23.4</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-23.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-23.4/</guid><description>&amp;nbsp;
+ASSON.DIAGRAM für node.js über Java 23.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+3.3MB
+Datum hinzugefügt:
+13/4/2023
+Versionshinweisehttps://releases.aspose.com/diagram/nodejs/release-notes/2023/aspose-diagram-for-node-js-via-java-23-4-release-notes/
+BeschreibungASSON.DIAGRAM für node.js über Java 23.4
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e87e33e968e848d1fc2db07c417fbe78-1-8751&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.DIAGRAM-FOR-NODE.JS-VIA-JAVA-23.5</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-23.5/</guid><description>&amp;nbsp;
+ASSON.DIAGRAM für node.js über Java 23.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+3.3MB
+Datum hinzugefügt:
+11/5/2023
+Versionshinweisehttps://releases.aspose.com/diagram/nodejs/release-notes/2023/aspose-diagram-for-node-js-via-java-23-5-release-notes/
+BeschreibungASSON.DIAGRAM für node.js über Java 23.5
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=06620cb56aa39dea9a5f5b3a9a1a1eef-1-8852&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.Diagram-for-Node.js-via-Java-23.6</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-23.6/</guid><description>&amp;nbsp;
+ASSOSE.DIAGRAM für node.js über Java 23.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+3.29MB
+Datum hinzugefügt:
+13/6/2023
+Versionshinweisehttps://releases.aspose.com/diagram/nodejs/release-notes/2023/aspose-diagram-for-node-js-via-java-23-6-release-notes/
+BeschreibungASSOSE.DIAGRAM für node.js über Java 23.6
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d80730fda2e61d451e8edc3d96224062-1-8980&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.Diagram-for-Node.js-via-Java-23.7</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-23.7/</guid><description>&amp;nbsp;
+ASSON.DIAGRAM für node.js über Java 23.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+3.3MB
+Datum hinzugefügt:
+12/7/2023
+Versionshinweisehttps://releases.aspose.com/diagram/nodejs/release-notes/2023/aspose-diagram-for-node-js-via-java-23-7-release-notes/
+BeschreibungASSON.DIAGRAM für node.js über Java 23.7
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=324badd612cceb38afab9f1bfe731d61-1-9201&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.Diagram-for-Node.js-via-Java-23.8</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-23.8/</guid><description>&amp;nbsp;
+ASSON.DIAGRAM für node.js über Java 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+3.3MB
+Datum hinzugefügt:
+16/8/2023
+Versionshinweisehttps://releases.aspose.com/diagram/nodejs/release-notes/2023/aspose-diagram-for-node-js-via-java-23-8-release-notes/
+BeschreibungASSON.DIAGRAM für node.js über Java 23.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c2daa00b2df4fb21947587ea328e871c-1-9338&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.Diagram-for-Node.js-via-Java-23.9</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-23.9/</guid><description>&amp;nbsp;
+ASSON.DIAGRAM für node.js über Java 23.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+3.3MB
+Datum hinzugefügt:
+18/9/2023
+Versionshinweisehttps://releases.aspose.com/diagram/nodejs/release-notes/2023/aspose-diagram-for-node-js-via-java-23-9-release-notes/
+BeschreibungASSON.DIAGRAM für node.js über Java 23.9
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=934730d6cd02538927bc93b59d5ed897-1-9479&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.Diagram-for-Node.js-via-Java-23.10</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-23.10/</guid><description>&amp;nbsp;
+ASSON.DIAGRAM für node.js über Java 23.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+3.3MB
+Datum hinzugefügt:
+11/10/2023
+Versionshinweisehttps://releases.aspose.com/diagram/nodejs/release-notes/2023/aspose-diagram-for-node-js-via-java-23-10-release-notes/
+BeschreibungASSON.DIAGRAM für node.js über Java 23.10
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8133d60f3dd9c6a10e9bc2dc816a21d5-1-9590&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Diagram-for-Node.js-via-Java-23.11</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-23.11/</guid><description>&amp;nbsp;
+ASSON.DIAGRAM für node.js über Java 23.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+3.3MB
+Datum hinzugefügt:
+16/11/2023
+Versionshinweisehttps://releases.aspose.com/diagram/nodejs/release-notes/2023/aspose-diagram-for-node-js-via-java-23-11-release-notes/
+BeschreibungASSON.DIAGRAM für node.js über Java 23.11
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1e37ac0590806ba62e6712f4ebdb5f57-1-9835&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.Diagram-for-Node.js-via-Java-23.12</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-23.12/</guid><description>&amp;nbsp;
+ASSON.DIAGRAM für node.js über Java 23.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+3.31MB
+Datum hinzugefügt:
+14/12/2023
+Versionshinweisehttps://releases.aspose.com/diagram/nodejs/release-notes/2023/aspose-diagram-for-node-js-via-java-23-12-release-notes/
+BeschreibungASSON.DIAGRAM für node.js über Java 23.12
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b779ebb923747c3776a0dbc7e6251193-1-9984&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.Diagram-for-Node.js-via-Java-24.1</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-24.1/</guid><description>&amp;nbsp;
+ASSON.DIAGRAM für node.js über Java 24.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+3.31MB
+Datum hinzugefügt:
+10/1/2024
+Versionshinweisehttps://releases.aspose.com/diagram/nodejs/release-notes/2024/aspose-diagram-for-node-js-via-java-24-1-release-notes/
+BeschreibungASSON.DIAGRAM für node.js über Java 24.1
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f3d0bb61f39fa22ce5b99ab188703f1f-1-10139&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Diagram-for-Node.js-via-Java-24.2</title><link>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-24.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-24.2/</guid><description>&amp;nbsp;
+ASSON.DIAGRAM für node.js über Java 24.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+3.31MB
+Datum hinzugefügt:
+5/2/2024
+Versionshinweisehttps://releases.aspose.com/diagram/nodejs/release-notes/2024/aspose-diagram-for-node-js-via-java-24-2-release-notes/
+BeschreibungASSON.DIAGRAM für node.js über Java 24.2
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=05c6f5d2a136c7540d63154c5d71d386-1-10292&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

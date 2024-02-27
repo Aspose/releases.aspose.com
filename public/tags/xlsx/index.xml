@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>XLSX on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/xlsx/</link><description>Recent content in XLSX on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 29 Aug 2023 20:05:21 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/tags/xlsx/index.xml" rel="self" type="application/rss+xml"/><item><title>Aspose.Cells | Excel Spreadsheet Processing Java Library</title><link>https://releases-qa.aspose.com/cells/java/</link><pubDate>Tue, 06 Feb 2024 11:15:21 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/java/</guid><description>Java API for Excel File Formats
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.Cells for Java is an award-winning Excel Spreadsheet Processing API that allows Java developers to embed the ability to read, write and manipulate Excel® spreadsheets (XLS, XLSX, XLSM, XLSB, XLTX, SpreadsheetML, CSV, ODS), HTML, MHTML, PDF, and image file formats into their own Java applications without needing to rely on Microsoft Excel®.</description></item><item><title>Aspose.PDF | Java PDF Document Processing Class Library</title><link>https://releases-qa.aspose.com/pdf/java/</link><pubDate>Wed, 31 Jan 2024 01:35:42 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/java/</guid><description>Java API to Process &amp;amp; Manipulate PDF Files
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.PDF for Java is a PDF document creation component that enables your Java applications to read, write and manipulate PDF documents without using Adobe Acrobat.
+aspose.pdf Package Features PDF Document Featres Set basic information (e.g. author, creator) of the PDF document.</description></item><item><title>Aspose.Tasks | Java Library to Ceate &amp; Manage Project Tasks</title><link>https://releases-qa.aspose.com/tasks/java/</link><pubDate>Tue, 30 Jan 2024 17:40:47 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/java/</guid><description>Microsoft Project File Manipulation API
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.Tasks a Java Project Management API to manipulate Microsoft Project files. Developers can define a project’s main and default properties as well as calendar information. API also provides the ability to specify weekdays and calendar exceptions while making it easy to add &amp;amp; recalculate tasks, resources and other data without user intervention.</description></item><item><title>Aspose.Cells for Python via .NET</title><link>https://releases-qa.aspose.com/cells/python-net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/python-net/</guid><description>Support Forum
+Download Aspose.Cells Python Library for Spreadsheet Processing Aspose.Cells for Python via .NET is a scalable and feature-rich API to process Excel&amp;reg; spreadsheets using Python. API offers Excel&amp;reg; file creation, manipulation, conversion and rendering. Developers can format worksheets, rows, columns or cells to the most granular level, create manipulate chart and pivot tables, render worksheets, charts and specific data ranges to PDF or images, add calculate Excel&amp;reg;'s built-in and custom formulas and much more - all without any dependency on Microsoft Office or Excel&amp;reg; application.</description></item><item><title>Downloads ---New Releases-aspose.cells-for-python-via-.net-23.8</title><link>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.8/</guid><description>&amp;nbsp;
+Aspose.Cells for Python via .NET 23.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+232.26MB
+Date Added:
+14/8/2023
+Release Noteshttps://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-8-release-notes/
+DescriptionPlease refer to release notes and ReadMe for detail
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=499b3ac049068c7948d266b715652b3b-47-9323&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Aspose.PDF 23.8 | Process Acrobat PDF Files via Java API</title><link>https://releases-qa.aspose.com/pdf/java/23-8/</link><pubDate>Tue, 29 Aug 2023 20:05:21 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/java/23-8/</guid><description>Java API to Process &amp;amp; Manipulate PDF Files
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.PDF for Java is a PDF document creation component that enables your Java applications to read, write and manipulate PDF documents without using Adobe Acrobat.
+aspose.pdf Package Features PDF Document Featres Set basic information (e.g. author, creator) of the PDF document.</description></item><item><title>Aspose.Tasks 23.8 | Microsoft Project Processing Java API</title><link>https://releases-qa.aspose.com/tasks/java/23-8/</link><pubDate>Fri, 25 Aug 2023 13:30:25 +0000</pubDate><guid>https://releases-qa.aspose.com/tasks/java/23-8/</guid><description>Microsoft Project File Manipulation API
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.Tasks a Java Project Management API to manipulate Microsoft Project files. Developers can define a project�s main and default properties as well as calendar information. API also provides the ability to specify weekdays and calendar exceptions while making it easy to add &amp;amp; recalculate tasks, resources and other data without user intervention.</description></item><item><title>Aspose.Cells 23.8 | Process Spreadsheet Formats via Java API</title><link>https://releases-qa.aspose.com/cells/java/23-8/</link><pubDate>Thu, 10 Aug 2023 07:55:42 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/java/23-8/</guid><description>Java API for Excel File Formats
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License
+Aspose.Cells for Java is an award-winning Excel Spreadsheet Processing API that allows Java developers to embed the ability to read, write and manipulate Excel® spreadsheets (XLS, XLSX, XLSM, XLSB, XLTX, SpreadsheetML, CSV, ODS), HTML, MHTML, PDF, and image file formats into their own Java applications without needing to rely on Microsoft Excel®.</description></item></channel></rss>

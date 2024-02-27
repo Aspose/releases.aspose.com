@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Download Python Library to Create, Edit XPS PS EPS | Aspose.Page API on Releases - aspose.com</title><link>https://releases-qa.aspose.com/page/python-net/</link><description>Recent content in Download Python Library to Create, Edit XPS PS EPS | Aspose.Page API on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/page/python-net/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads ---New Releases-aspose.page-for-python-via-.net-24.1.0-windows-x32</title><link>https://releases-qa.aspose.com/page/python-net/new-releases/aspose.page-for-python-via-.net-24.1.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/page/python-net/new-releases/aspose.page-for-python-via-.net-24.1.0-windows-x32/</guid><description>&amp;nbsp;
+Aspose.Page for Python via .NET 24.1.0 Windows x32
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+40.22MB
+Date Added:
+1/2/2024
+Release Noteshttps://releases.aspose.com/page/python-net/release-notes/2024/aspose-page-for-python-via-.net-24-1-release-notes/
+DescriptionIt contains Aspose.Page for Python via .NET 24.1.0, Windows x32 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=24b6347f3700442b7bdc922cfbce3ab1-9-10271&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.page-for-python-via-.net-24.1.0-windows-amd64</title><link>https://releases-qa.aspose.com/page/python-net/new-releases/aspose.page-for-python-via-.net-24.1.0-windows-amd64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/page/python-net/new-releases/aspose.page-for-python-via-.net-24.1.0-windows-amd64/</guid><description>&amp;nbsp;
+Aspose.Page for Python via .NET 24.1.0 Windows AMD64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+45.29MB
+Date Added:
+1/2/2024
+Release Noteshttps://releases.aspose.com/page/python-net/release-notes/2024/aspose-page-for-python-via-.net-24-1-release-notes/
+DescriptionThis wheel contains Aspose.Page version 24.1.0, compatible with Python 3, and optimized for Windows 64-bit systems (AMD64).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=51ba5178bce4ac828c5753ac735e7475-10-10272&amp;single=1", function(data) { $.</description></item></channel></rss>

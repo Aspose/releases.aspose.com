@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Spreadsheet File API | PHP Excel Library | Aspose.Cells for PHP via Java on Releases - aspose.com</title><link>https://releases-qa.aspose.com/cells/php/</link><description>Recent content in Spreadsheet File API | PHP Excel Library | Aspose.Cells for PHP via Java on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/cells/php/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---New-Releases-aspose.cells-for-php-via-java-18.7 .</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-18.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-18.7/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 18.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 46 File Size: 9.7 MB Posted By: Nick.Liu Views: 890 Date Added: 7/31/2018
+Release Noteshttps://releases.aspose.com/cells/java/release-notes/2018/aspose-cells-for-java-18-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ecd8dc466e884ddca1be04fdf66ea035&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.cells-for-php-via-java-19.1 .</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-19.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-19.1/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 19.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 44 File Size: 9.8 MB Posted By: Nick.Liu Views: 1174 Date Added: 1/23/2019
+Release Noteshttps://releases.aspose.com/cells/java/release-notes/2019/aspose-cells-for-java-19-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5639166334394f86844fc7c0582f492e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.cells-for-php-via-java-19.8 .</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-19.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-19.8/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 19.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 22 File Size: 11.5 MB Posted By: Nick.Liu Views: 1050 Date Added: 9/2/2019
+Release Noteshttps://releases.aspose.com/cells/java/release-notes/2019/aspose-cells-for-java-19-8-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cbddd0a0534a42b6b9945d92687b2858&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.cells-for-php-via-java-20.2 .</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-20.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-20.2/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 20.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 22 File Size: 11.7 MB Posted By: Nick.Liu Views: 103 Date Added: 2/24/2020
+Release Noteshttps://releases.aspose.com/cells/java/release-notes/2020/aspose-cells-for-java-20-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=67168ccf0955411682b5d9e9944ced60&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.cells-for-php-via-java-21.2 .</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-21.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-21.2/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 21.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 26 File Size: 12.1 MB Posted By: Nick.Liu Views: 79 Date Added: 2/7/2021
+Release Noteshttps://releases.aspose.com/cells/java/release-notes/2021/aspose-cells-for-java-21-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f6bf17bb1af44ea4966728477e5cc7a8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.cells-for-php-via-java-21.6 .</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-21.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-21.6/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 21.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 4 File Size: 10.6 MB Posted By: Nick.Liu Views: 104 Date Added: 6/23/2021
+Release Noteshttps://docs.aspose.com/cells/java/aspose-cells-for-php-via-java-21.6-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cf56752020224dfaac861cbff8ae9c12&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.cells-for-php-via-java-21.7 .</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-21.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-21.7/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 21.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 5 File Size: 11.4 MB Posted By: Nick.Liu Views: 99 Date Added: 7/20/2021
+Release Noteshttps://releases.aspose.com/cells/java/release-notes/2021/aspose-cells-for-java-21-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a645f627ea22406aa50260ea7943fc16&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.cells-for-php-via-java-21.9 .</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-21.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-21.9/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 21.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 3 File Size: 11.4 MB Posted By: Nick.Liu Views: 86 Date Added: 9/16/2021
+Release Noteshttps://releases.aspose.com/cells/java/release-notes/2021/aspose-cells-for-java-21-9-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c8b0f6415fa948909ee3e814811fa6b3&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.cells-for-php-via-java-21.10 .</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-21.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-21.10/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 21.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 5 File Size: 11.4 MB Posted By: Nick.Liu Views: 70 Date Added: 10/20/2021
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2021/aspose-cells-for-php-via-java-21-10-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=dea32c4d10e54e50a4e4eabbf38a5d78&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.cells-for-php-via-java-21.11 .</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-21.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-21.11/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 21.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 4 File Size: 11.4 MB Posted By: Nick.Liu Views: 91 Date Added: 11/10/2021
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2021/aspose-cells-for-php-via-java-21-11-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b31a2422f12944f98d06319a5c9ca360&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.cells-for-php-via-java-21.12 .</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-21.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-21.12/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 21.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 5 File Size: 11.5 MB Posted By: Nick.Liu Views: 47 Date Added: 12/13/2021
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2021/aspose-cells-for-php-via-java-21-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6d58c5eb8f0d4a43a66c12347226e223&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.cells-for-php-via-java-22.1 .</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-22.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-22.1/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 22.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 8 File Size: 11.5 MB Posted By: Nick.Liu Views: 36 Date Added: 1/12/2022
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2022/aspose-cells-for-php-via-java-22-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ee82572739934542aee051f93a429133&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.cells-for-php-via-java-22.2 .</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-22.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-22.2/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 22.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 2 File Size: 11.6 MB Posted By: Nick.Liu Views: 15 Date Added: 2/21/2022
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2022/aspose-cells-for-php-via-java-22-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=90d4a99fe15c4c42b9498cfec7ca28ed&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.cells-for-php-via-java-22.3 .</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-22.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-22.3/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 22.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 11 File Size: 11.6 MB Posted By: Nick.Liu Views: 22 Date Added: : 5 weeks ago [3/14/2022]
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2022/aspose-cells-for-php-via-java-22-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2d0ad6582b4d4cf58dc3f821386240a9&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.cells-for-php-via-java-22.4 .</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-22.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-22.4/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 22.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 4 File Size: 11.6 MB Date Added: 4/15/2022
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2022/aspose-cells-for-php-via-java-22-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a507f29d2d534b12877969adf83820b1&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.cells-for-php-via-java-22.5 .</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-22.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-22.5/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 22.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 1 File Size: 11.6 MB Date Added: : 3 days ago [5/13/2022]
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2022/aspose-cells-for-php-via-java-22-5-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f66895c6f7ee412e99131489ad225aed&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-php-via-java-22.6</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-22.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-22.6/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 22.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+11.63MB
+Date Added:
+14/6/2022
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2022/aspose-cells-for-php-via-java-22-6-release-notes/
+DescriptionAspose.Cells for PHP via Java 22.6
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3293df5e24a3ec806a5f06efaf819f5c-3-7514&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-php-via-java-22.7</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-22.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-22.7/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 22.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+11.65MB
+Date Added:
+12/7/2022
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2022/aspose-cells-for-php-via-java-22-7-release-notes/
+DescriptionAspose.Cells for PHP via Java 22.7
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b2dd28cc317c7e0db3d13bc77c181263-3-7631&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-php-via-java-22.8</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-22.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-22.8/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 22.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+11.66MB
+Date Added:
+9/8/2022
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2022/aspose-cells-for-php-via-java-22-8-release-notes/
+DescriptionAspose.Cells for PHP via Java 22.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6777c61ab19fe25a35a2cdb969fd4831-3-7753&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-php-via-java-22.9</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-22.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-22.9/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 22.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+11.69MB
+Date Added:
+13/9/2022
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2022/aspose-cells-for-php-via-java-22-9-release-notes/
+DescriptionAspose.Cells for PHP via Java 22.9
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=94cc978ae70e8755ae6beded6ece0cf5-3-7887&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-php-via-java-22.10</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-22.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-22.10/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 22.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+11.69MB
+Date Added:
+13/10/2022
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2022/aspose-cells-for-php-via-java-22-10-release-notes/
+DescriptionAspose.Cells for PHP via Java 22.10
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bbcd53e39005a1450121dc7ba2c2f123-3-8003&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-php-via-java-22.11</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-22.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-22.11/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 22.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+11.71MB
+Date Added:
+14/11/2022
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2022/aspose-cells-for-php-via-java-22-11-release-notes/
+DescriptionAspose.Cells for PHP via Java 22.11
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e7d2752a68a8d20d81d242a2203638fc-3-8122&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-php-via-java-22.12</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-22.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-22.12/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 22.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+11.73MB
+Date Added:
+12/12/2022
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2022/aspose-cells-for-php-via-java-22-12-release-notes/
+DescriptionAspose.Cells for PHP via Java 22.12
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=faa17df510cb70de4621b36e2b776dfc-3-8259&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-php-via-java-23.1</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-23.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-23.1/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 23.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+11.74MB
+Date Added:
+11/1/2023
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2023/aspose-cells-for-php-via-java-23-1-release-notes/
+DescriptionAspose.Cells for PHP via Java 23.1
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=18d0bcd6f65c52287d105712486e83da-3-8380&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-php-via-java-23.2</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-23.2/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 23.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+11.76MB
+Date Added:
+10/2/2023
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2023/aspose-cells-for-php-via-java-23-2-release-notes/
+DescriptionAspose.Cells for PHP via Java 23.2
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=56209fa3e4ddd71e1a4e1927fa79ffe9-3-8508&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-php-via-java-23.3</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-23.3/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 23.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+11.77MB
+Date Added:
+10/3/2023
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2023/aspose-cells-for-php-via-java-23-3-release-notes/
+DescriptionAspose.Cells for PHP via Java 23.3
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=404b2e85c93b159acbd7551246874fb4-3-8620&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-php-via-java-23.4</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-23.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-23.4/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 23.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+11.8MB
+Date Added:
+13/4/2023
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2023/aspose-cells-for-php-via-java-23-4-release-notes/
+DescriptionAspose.Cells for PHP via Java 23.4
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1994c68d4202340c892f28763fb230a2-3-8750&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-php-via-java-23.5</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-23.5/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 23.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+11.82MB
+Date Added:
+11/5/2023
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2023/aspose-cells-for-php-via-java-23-5-release-notes/
+DescriptionAspose.Cells for PHP via Java 23.5
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9884b804d6be8cbbcbae0555a0f4c3f3-3-8853&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-php-via-java-23.6</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-23.6/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 23.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+13.38MB
+Date Added:
+9/6/2023
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2023/aspose-cells-for-php-via-java-23-6-release-notes/
+DescriptionAspose.Cells for PHP via Java 23.6
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=84b89dd5e70624237fcb4a7d34956b5c-3-8967&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-php-via-java-23.7</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-23.7/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 23.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+13.41MB
+Date Added:
+14/7/2023
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2023/aspose-cells-for-php-via-java-23-7-release-notes/
+DescriptionAspose.Cells for PHP via Java 23.7
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a35f96cb5f4f2cc238317a05edd7cbcc-3-9213&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-php-via-java-23.8</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-23.8/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 23.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+13.42MB
+Date Added:
+14/8/2023
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2023/aspose-cells-for-php-via-java-23-8-release-notes/
+DescriptionAspose.Cells for PHP via Java 23.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=44c8101531da2692d38ddc057a7a60e5-3-9325&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-php-via-java-23.9</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-23.9/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 23.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+13.48MB
+Date Added:
+15/9/2023
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2023/aspose-cells-for-php-via-java-23-9-release-notes/
+DescriptionAspose.Cells for PHP via Java 23.9
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f5a5d3c0f6f176d03370068bdeb4ea94-3-9475&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-php-via-java-23.10</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-23.10/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 23.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+13.5MB
+Date Added:
+16/10/2023
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2023/aspose-cells-for-php-via-java-23-10-release-notes/
+DescriptionAspose.Cells for PHP via Java 23.10
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=49ab7821539d58f064b6a7164d8bc9fa-3-9614&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-php-via-java-23.11</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-23.11/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 23.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+13.53MB
+Date Added:
+13/11/2023
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2023/aspose-cells-for-php-via-java-23-11-release-notes/
+DescriptionAspose.Cells for PHP via Java 23.11
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cb8536a18cf31596c23bb53754d7011c-3-9722&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-php-via-java-23.12</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-23.12/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 23.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+13.56MB
+Date Added:
+15/12/2023
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2023/aspose-cells-for-php-via-java-23-12-release-notes/
+DescriptionAspose.Cells for PHP via Java 23.12
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b2e07191db840b899136719e57fd4813-3-9991&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-php-via-java-24.1</title><link>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/php/new-releases/aspose.cells-for-php-via-java-24.1/</guid><description>&amp;nbsp;
+Aspose.Cells for PHP via Java 24.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+13.59MB
+Date Added:
+11/1/2024
+Release Noteshttps://releases.aspose.com/cells/php/release-notes/2024/aspose-cells-for-php-via-java-24-1-release-notes/
+DescriptionAspose.Cells for PHP via Java 24.1
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=44caa7205808370f0d8260f425471c73-3-10147&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Laden Sie die C#-Bibliothek herunter, um PUB-Dateien zu lesen und zu konvertieren | Aspose.PUB on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/pub/net/</link><description>Recent content in Laden Sie die C#-Bibliothek herunter, um PUB-Dateien zu lesen und zu konvertieren | Aspose.PUB on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/pub/net/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---New-Releases-aspose.pub-for-.net-19.10.1-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-19.10.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-19.10.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PUB für .NET 19.10.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+39.8 MB Posted By: andriy.kotlyarov
+Ansichten:
+108
+Hinzugefügt am:
+10/31/2019
+Versionshinweise https://docs.aspose.com/display/pubnet/Aspose.PUB+for+.NET+19.10+Release+Notes BeschreibungDiese ZIP-Datei enthält nur die Aspose.PUB für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.PUB ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen.</description></item><item><title> Downloads ---Neue-Releases-aspose.pub-for-.net-19.10.1 .</title><link>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-19.10.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-19.10.1/</guid><description>&amp;nbsp;
+Aspose.PUB für .NET 19.10.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+15
+Dateigröße:
+58.6 MB Posted By: andriy.kotlyarov
+Ansichten:
+37
+Hinzugefügt am:
+10/31/2019
+Versionshinweise https://releases.aspose.com/pub/net/release-notes/2019/aspose-pub-for-net-19-10-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=78423208744649d59e4a167c3ba1b386&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.pub-for-.net-19.12-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-19.12-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-19.12-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PUB für .NET 19.12 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+14
+Dateigröße:
+54.4 MB Posted By: andriy.kotlyarov
+Ansichten:
+109
+Hinzugefügt am:
+12/26/2019
+Versionshinweise https://releases.aspose.com/pub/net/release-notes/2019/aspose-pub-for-net-19-12-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.PUB für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.PUB ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen.</description></item><item><title> Downloads ---Neue-Releases-aspose.pub-for-.net-19.12 .</title><link>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-19.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-19.12/</guid><description>&amp;nbsp;
+Aspose.PUB für .NET 19.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+62.3 MB Posted By: andriy.kotlyarov
+Ansichten:
+41
+Hinzugefügt am:
+12/26/2019
+Versionshinweise https://releases.aspose.com/pub/net/release-notes/2019/aspose-pub-for-net-19-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f17732290131440aab3f138944bf34f4&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.pub-for-.net-20.2-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-20.2-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-20.2-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PUB für .NET 20.2 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+54.4 MB Posted By: andriy.kotlyarov
+Ansichten:
+62
+Hinzugefügt am:
+2/14/2020
+Versionshinweise https://releases.aspose.com/pub/net/release-notes/2020/aspose-pub-for-net-20-2-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.PUB für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.PUB ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen.</description></item><item><title> Downloads ---Neue-Releases-aspose.pub-for-.net-20.2 .</title><link>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-20.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-20.2/</guid><description>&amp;nbsp;
+Aspose.PUB für .NET 20.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+62.3 MB Posted By: andriy.kotlyarov
+Ansichten:
+69
+Hinzugefügt am:
+2/14/2020
+Versionshinweise https://releases.aspose.com/pub/net/release-notes/2020/aspose-pub-for-net-20-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=38cf2b37e6724b2fb7bff07dd64f4daa&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.pub-for-.net-20.4-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-20.4-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-20.4-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PUB für .NET 20.4 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+50
+Dateigröße:
+55.4 MB Posted By: andriy.kotlyarov
+Ansichten:
+175
+Hinzugefügt am:
+4/17/2020
+Versionshinweise https://releases.aspose.com/pub/net/release-notes/2020/aspose-pub-for-net-20-4-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.PUB für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.PUB ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen.</description></item><item><title> Downloads ---Neue-Releases-aspose.pub-for-.net-20.4 .</title><link>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-20.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-20.4/</guid><description>&amp;nbsp;
+Aspose.PUB für .NET 20.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+29
+Dateigröße:
+63.4 MB Posted By: andriy.kotlyarov
+Ansichten:
+81
+Hinzugefügt am:
+4/17/2020
+Versionshinweise https://releases.aspose.com/pub/net/release-notes/2020/aspose-pub-for-net-20-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c742650afade4b21b0cc798a03500dac&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.pub-for-.net-21.4-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-21.4-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-21.4-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PUB für .NET 21.4 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+13
+Dateigröße:
+43.0 MB Posted By: andriy.kotlyarov
+Ansichten:
+66
+Hinzugefügt am:
+4/23/2021
+Versionshinweise https://releases.aspose.com/pub/net/release-notes/2021/aspose-pub-for-net-21-4-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.PUB für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.PUB ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen.</description></item><item><title> Downloads ---Neue-Releases-aspose.pub-for-.net-21.4 .</title><link>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-21.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-21.4/</guid><description>&amp;nbsp;
+Aspose.PUB für .NET 21.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+44.1 MB Posted By: andriy.kotlyarov
+Ansichten:
+50
+Hinzugefügt am:
+4/23/2021
+Versionshinweise https://releases.aspose.com/pub/net/release-notes/2021/aspose-pub-for-net-21-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8dedbf117d344a42977a31664c2ba817&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.pub-for-.net-21.6-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-21.6-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-21.6-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PUB für .NET 21.6 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+13
+Dateigröße:
+64.3 MB Posted By: andriy.kotlyarov
+Ansichten:
+40
+Hinzugefügt am:
+6/17/2021
+Versionshinweise https://releases.aspose.com/pub/net/release-notes/2021/aspose-pub-for-net-21-6-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.PUB für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.PUB ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen.</description></item><item><title>Konvertieren Sie MS Publisher 2000 PUB in PDF über die API für C#-Apps</title><link>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-21.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-21.6/</guid><description>&amp;nbsp;
+Aspose.PUB für .NET 21.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+65.7 MB
+Posted By:
+andriy.kotlyarov
+Ansichten:
+83
+Hinzugefügt am:
+6/17/2021
+Versionshinweise https://releases.aspose.com/pub/net/release-notes/2021/aspose-pub-for-net-21-6-release-notes/
+Bestandsdetails
+.NET Framework 5.0-Unterstützung Diese Version unterstützt das .NET-Framework 5.0.
+.NET Core- und .NET 5-Unterstützung Diese Version unterstützt sowohl den .NET-Code als auch .NET 5.
+Microsoft Publisher® 2000-Unterstützung Diese Version fügt die Unterstützung für Microsoft Publisher® 2000 „PUB“-Dateien hinzu.</description></item><item><title> Downloads ---Neue-Releases-aspose.pub-for-.net-21.9-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-21.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-21.9-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PUB für .NET 21.9 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+14
+Dateigröße:
+65.2 MB Posted By: pavel.loginov
+Ansichten:
+30
+Hinzugefügt am:
+9/23/2021
+Versionshinweise https://releases.aspose.com/pub/net/release-notes/2021/aspose-pub-for-net-21-9-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.PUB für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.PUB ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen.</description></item><item><title> Downloads ---Neue-Releases-aspose.pub-for-.net-21.9 .</title><link>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-21.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-21.9/</guid><description>&amp;nbsp;
+Aspose.PUB für .NET 21.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+18
+Dateigröße:
+65.6 MB Posted By: pavel.loginov
+Ansichten:
+62
+Hinzugefügt am:
+9/23/2021
+Versionshinweise https://releases.aspose.com/pub/net/release-notes/2021/aspose-pub-for-net-21-9-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9d6ebf671cb340b8a9a0bed5674009c5&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.pub-for-.net-22.5-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-22.5-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-22.5-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PUB für .NET 22.5 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+4
+Dateigröße:
+101.8 MB Hinzugefügt am:
+: 2 weeks ago [5/6/2022]
+Versionshinweise https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-5-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.PUB für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.PUB ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen.</description></item><item><title>MS Publisher PUB Converter C#-API mit .NET Core 6.0-Unterstützung</title><link>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-22.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-22.5/</guid><description>&amp;nbsp;
+Aspose.PUB für .NET 22.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+102.3 MB
+Hinzugefügt am:
+: 2 weeks ago [5/6/2022]
+Versionshinweise https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-5-release-notes/
+Bestandsdetails
+.NET Core 6.0-Unterstützung From this release onwards Aspose.PUB supports .NET Core 6.0 as well. This on-premise C# API is also in comliance with .NET 5.0, .NET Standard 2.1, and .NET Framework 4.0. Das folgende C#-Codebeispiel zeigt, wie einfach es ist, das Microsoft Publisher-PUB-Format in die resultierende Adobe Acrobat PDF-Datei zu konvertieren.</description></item><item><title>Downloads ---Neue Releases-aspose.pub-for-.net-22.6-(nur dlls)</title><link>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-22.6-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-22.6-dlls-only/</guid><description>&amp;nbsp;
+Aspose.PUB für .NET 22.6 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+101.88MB
+Hinzugefügt am:
+9/6/2022
+Versionshinweise https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-6-release-notes/
+BeschreibungDiese ZIP-Datei enthält nur die Aspose.PUB für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version. Laden Sie dies herunter, wenn Sie Aspose.PUB ohne das MSI-Installationsprogramm verwenden möchten, dh Sie können MSI-Installationsprogramme nicht auf Mono ausführen.
+.</description></item><item><title>Lokale API von PUB to PDF Converter für C#- und ASP.NET-Apps</title><link>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-22.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-22.6/</guid><description>&amp;nbsp;
+Aspose.PUB für .NET 22.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+102.4MB
+Date Added:
+9/6/2022
+Versionshinweise https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-6-release-notes/
+Bestandsdetails
+Verbesserte PUB-zu-PDF-Konvertierung Die Fähigkeit zum Konvertieren von Microsoft Publisher®-PUB-Dateien in Adobe Acrobat®-PDF-Dokumente mit C# über die .NET-API wurde verbessert.
+// For complete examples and data files, please go to https://github.com/aspose-pub/Aspose.PUB-for-.NET // The path to the documents directory. string dataDir = RunExamples.GetDataDir_Data(); string fileName = dataDir + &amp;#34;halloween-flyer.</description></item><item><title>Publisher® API unterstützt die Messlizenz für C#, ASP.NET -Apps</title><link>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-22.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-22.11/</guid><description>&amp;nbsp;
+ASSON.PUB für .NET 22.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+106.26MB
+Datum hinzugefügt:
+11/11/2022
+Versionshinweise
+https://releases.aspose.com/pub/net/release-notes/2022/aspose-pub-for-net-22-11-release-notes/
+Beschreibung
+Es enthält ASSOSPE.PUB für .NET 22.11 Release
+Bestandsdetails
+Support für Messlizenz fügte hinzu Diese Version des Microsoft Publisher &amp;amp; Reg; API führt die Unterstützung für die Messlizenzierung ein. Diese Art von Lizenz ermöglicht die monatliche Zahlung anstelle von vollständiger Voraus. Ein weiterer Vorteil besteht darin, dass die monatliche Aufladung gemäß der Nutzung der API entspricht.</description></item><item><title>Downloads --- New Releases-ASSOSPLE.Pub-for -.net-23.5- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-23.5-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-23.5-dlls-only/</guid><description>&amp;nbsp;
+ASSON.PUB für .NET 23.5 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+145.72MB
+Datum hinzugefügt:
+2/6/2023
+Versionshinweisehttps://releases.aspose.com/pub/net/release-notes/2023/aspose-pub-for-net-23-5-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.PUB für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.PUB ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Pub-for -.net-23.5</title><link>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-23.5/</guid><description>&amp;nbsp;
+ASSON.PUB für .NET 23.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+146.29MB
+Datum hinzugefügt:
+2/6/2023
+Versionshinweisehttps://releases.aspose.com/pub/net/release-notes/2023/aspose-pub-for-net-23-5-release-notes/
+BeschreibungEs enthält ASSOSPE.PUB für .NET 23.5 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4f51555a372869a0a18d13075d87cb1e-30-8951&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.Pub-for -.net-23.6- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-23.6-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-23.6-dlls-only/</guid><description>&amp;nbsp;
+ASSON.PUB für .NET 23.6 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+145.72MB
+Datum hinzugefügt:
+17/6/2023
+Versionshinweisehttps://releases.aspose.com/pub/net/release-notes/2023/aspose-pub-for-net-23-6-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.PUB für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.PUB ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- New Releases-ASSOSPLE.Pub-for -.net-23.6</title><link>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-23.6/</guid><description>&amp;nbsp;
+ASSON.PUB für .NET 23.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+146.29MB
+Datum hinzugefügt:
+17/6/2023
+Versionshinweisehttps://releases.aspose.com/pub/net/release-notes/2023/aspose-pub-for-net-23-6-release-notes/
+BeschreibungEs enthält ASSOSPEN.PUB für .NET 23.6 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a1f568125a1cbd70b850e33e8e2e2438-30-9026&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.Pub-for -.net-23.12- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-23.12-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-23.12-dlls-only/</guid><description>&amp;nbsp;
+ASSON.PUB für .NET 23.12 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+145.73MB
+Datum hinzugefügt:
+19/12/2023
+Versionshinweisehttps://releases.aspose.com/pub/net/release-notes/2023/aspose-pub-for-net-23-12-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.PUB für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASSOSPE.PUB ohne das MSI -Installateur verwenden möchten, d. H. Sie können MSI -Installateure nicht auf Mono ausführen.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Pub-for -.net-23.12</title><link>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pub/net/new-releases/aspose.pub-for-.net-23.12/</guid><description>&amp;nbsp;
+ASSON.PUB für .NET 23.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+146.31MB
+Datum hinzugefügt:
+19/12/2023
+Versionshinweisehttps://releases.aspose.com/pub/net/release-notes/2023/aspose-pub-for-net-23-12-release-notes/
+BeschreibungEs enthält ASSOSPE.PUB für .NET 23.12 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a2ba137898596ef7aa55058ac8b39cd0-30-10017&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

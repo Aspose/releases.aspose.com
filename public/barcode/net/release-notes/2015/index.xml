@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Release Notes - 2015 on Releases - aspose.com</title><link>https://releases-qa.aspose.com/barcode/net/release-notes/2015/</link><description>Recent content in Release Notes - 2015 on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/barcode/net/release-notes/2015/index.xml" rel="self" type="application/rss+xml"/><item><title>Aspose.BarCode for .NET 7.6.1 Release Notes</title><link>https://releases-qa.aspose.com/barcode/net/release-notes/2015/aspose-barcode-for-net-7-6-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/net/release-notes/2015/aspose-barcode-for-net-7-6-1-release-notes/</guid><description>The list of improvements and changes that are released in Aspose.BarCode .NET as follows:
+New Features BARCODENET-34345 Recognize datamatrix with decorated modules
+BARCODENET-34345 Recognize datamatrix with decorated modules
+BARCODENET-34315 Implement recognition of dot peen datamatrix (rotated)
+BARCODENET-34315 Implement recognition of dot peen datamatrix (rotated)
+BARCODENET-13003 Export / Import BarCode property to / from xml - file
+BARCODENET-13003 Export / Import BarCode property to / from xml - file
+Enhancements BARCODENET-34337 Add generatorBase parameter to the ReedSolomon encoder/decoder.</description></item><item><title>Aspose.BarCode for .NET 7.5.0 Release Notes</title><link>https://releases-qa.aspose.com/barcode/net/release-notes/2015/aspose-barcode-for-net-7-5-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/net/release-notes/2015/aspose-barcode-for-net-7-5-0-release-notes/</guid><description>The list of improvements and changes that are released in Aspose.BarCode .NET as follows:
+New Features BARCODENET-34310 Implement GS1 QR decoding
+Enhancements BARCODENET-33812 Add support to encode GS1QR code
+BARCODENET-34319 DataBarStackedOmniDirectional encoding, BarCodeBuilder.BarHeight property does not work properly
+BARCODENET-34311 Unwanted White Space at the bottom of Barcode Image
+BARCODENET-34309 Reorganize the logic of recognition in manual hint mode to speed up the detection
+BARCODENET-34309 Reorganize the logic of recognition in manual hint mode to speed up the detection</description></item><item><title>Aspose.BarCode for .NET 7.1.0 Release Notes</title><link>https://releases-qa.aspose.com/barcode/net/release-notes/2015/aspose-barcode-for-net-7-1-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/net/release-notes/2015/aspose-barcode-for-net-7-1-0-release-notes/</guid><description>The list of improvements and changes in Aspose.BarCode .NET as follows:
+The list of improvements and changes in Aspose.BarCode .NET as follows:
+New Features BARCODENET-33994 Review and include ECC000-140 algorithm into main project
+Enhancements BARCODENET-33156 Flag to indicate that a barcode is found but unreadable
+BARCODENET-34220 The duplicate recognition of the datamatrix
+BARCODENET-34206 Incorrect recognition when lines restoration is used
+BARCODENET-34190 Incorrect barcode read type for SwissPostParcel filter
+BARCODENET-34181 Incorrect recognition of Planet code from the tif image</description></item><item><title>Aspose.BarCode for .NET 7.0.0 Release Notes</title><link>https://releases-qa.aspose.com/barcode/net/release-notes/2015/aspose-barcode-for-net-7-0-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/net/release-notes/2015/aspose-barcode-for-net-7-0-0-release-notes/</guid><description>The following is a list of improvements and changes in this release of Aspose.BarCode.
+New Features BARCODENET-34174 Implement Compact PDF417 decoding
+BARCODENET-34053 Add encoding support of Micro QR code
+Enhancements BARCODENET-34185 Same size OneCode barcodes are being generated
+BARCODENET-34171 Can&amp;rsquo;t recognize small Code128 barcodes
+BARCODENET-34159 Can&amp;rsquo;t recognize all code 128 codes from the JPG file
+BARCODENET-34157 Detected barcode region points are incorrect
+BARCODENET-34155 Recognize code128 with skipped bars
+BARCODENET-34133 Can&amp;rsquo;t recognize all code 128 codes from the JPG file</description></item><item><title>Aspose.BarCode for .NET 6.9.0 Release Notes</title><link>https://releases-qa.aspose.com/barcode/net/release-notes/2015/aspose-barcode-for-net-6-9-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/net/release-notes/2015/aspose-barcode-for-net-6-9-0-release-notes/</guid><description>The following is a list of improvements and changes in this release of Aspose.BarCode.
+New features: BARCODENET-33954 Implement recognition rotated DataMatrix
+BARCODENET-34054 Add support of Micro PDF417 code
+BARCODENET-34060 Add decoding support of Micro QR code
+BARCODENET-34124 Implement restructuring filters API
+BARCODENET-34154 Add .NET 3.5 Client Profile version
+BARCODENET-25063 Is it possible to generate a barcode like the attached image?
+Enhancements: BARCODENET-34077 QR/Micro QR - encode/decode improvements
+BARCODENET-22846 Code39 barcode could not be recognized from a scanned image</description></item><item><title>Aspose.BarCode for .NET 6.8.0 Release Notes</title><link>https://releases-qa.aspose.com/barcode/net/release-notes/2015/aspose-barcode-for-net-6-8-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/net/release-notes/2015/aspose-barcode-for-net-6-8-0-release-notes/</guid><description>The following is a list of improvements and improvements and changes in this release of Aspose.BarCode.
+The following is a list of improvements and improvements and changes in this release of Aspose.BarCode.
+Major features
+Improved recognition of different types of barcodes.
+Improved recognition of different types of barcodes.
+Other Improvements and Changes Enhancements:
+BARCODENET-33453 - Incorrect recognition of Code128 barcodes in tif file format
+BARCODENET-33453 - Incorrect recognition of Code128 barcodes in tif file format</description></item></channel></rss>

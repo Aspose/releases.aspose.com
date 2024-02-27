@@ -1,0 +1,496 @@
+<!doctype html><html class=no-js lang=en><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge"><title>Aspose.HTML for .NET 18.10 Release Notes</title><meta name=description content="This article contains information about the release notes for Aspose.HTML for .NET 18.10."><meta name=viewport content="width=device-width,minimum-scale=1"><link rel=canonical href=https://releases-qa.aspose.com/html/net/release-notes/2018/aspose-html-for-net-18-10-release-notes/><link rel=alternate hreflang=x-default href=https://releases-qa.aspose.com/html/net/release-notes/2018/aspose-html-for-net-18-10-release-notes/><meta name=robots content="noindex, nofollow"><link rel=apple-touch-icon sizes=180x180 href=/res_repo/apple-touch-icon.png><link rel=icon type=image/png href=/res_repo/favicon-32x32.png sizes=32x32><link rel=icon type=image/png href=/res_repo/favicon-16x16.png sizes=16x16><link rel=mask-icon href=/res_repo/safari-pinned-tab.svg color=#0594cb><meta name=theme-color content="#ffffff"><meta property="og:title" content="Aspose.HTML for .NET 18.10 Release Notes "><meta property="og:description" content="This article contains information about the release notes for Aspose.HTML for .NET 18.10."><meta property="og:type" content="article"><meta property="og:url" content="https://releases-qa.aspose.com/html/net/release-notes/2018/aspose-html-for-net-18-10-release-notes/"><meta itemprop=name content="Aspose.HTML for .NET 18.10 Release Notes"><meta itemprop=description content="This article contains information about the release notes for Aspose.HTML for .NET 18.10."><meta itemprop=wordCount content="1897"><meta name=twitter:card content="summary"><meta name=twitter:title content="Aspose.HTML for .NET 18.10 Release Notes"><meta name=twitter:description content="This article contains information about the release notes for Aspose.HTML for .NET 18.10."><link href=/css/bootstrap.css rel=stylesheet type=text/css><script src=https://releases-qa.aspose.com/res_repo/js/jquery-1.10.2.min.js></script></head><body><div id=header></div><div class=downloadpage><div class="container-fluid bcrumb1"><div id=sticky1 class=stickytopheight>&nbsp;</div><div class=container><div class=moduletable><ul id=dvBC class=breadcrumb><li><a href=/>Home</a><span class=divider></span></li><li><a href=/html/>Aspose.HTML Product Family</a><span class=divider></span></li><li><a href=/html/net/>Aspose.HTML for .NET</a><span class=divider></span></li><li><a href=/html/net/release-notes/>Release Notes</a><span class=divider></span></li><li><a href=/html/net/release-notes/2018/>2018</a><span class=divider></span></li><li><a href=/html/net/release-notes/2018/aspose-html-for-net-18-10-release-notes/>Aspose.HTML for .NET 18.10 Release Notes</a><span class=divider></span></li></ul></div></div></div><div class="container-fluid content2 vpanel-left"><div class=container><div class=row><div class="col-md-3 vpanel tree-section"><p class=list-title>Browse our Products<button type=button class=treeview-toggle> <span class=sr-only>Toggle navigation</span> <span class="icon expand-icon glyphicon glyphicon-hide"></span></button></p><div id=tree class="treeview hidetree"></div></div><div class="col-md-9 lhs1 col-xs-12 mobilehide node-section"><div class=box1><section role=main class="main-container page-package-details"><div class=row><div class="col-sm-9 package-details-main"><h1><strong>Aspose.HTML for .NET 18.10 Release Notes</strong></h1><div class="tab-content body-tab-content"><div role=tabpanel class="tab-pane active" id=readme-tab><div class=readme-common><div id=readme-container><p><h2 id=asposehtml-for-net-1810-release-notes>Aspose.HTML for .NET 18.10 Release Notes</h2><hr><p>As per regular monthly update process of all APIs being offered by Aspose, we are honored to announce October release of Aspose.HTML for .NET. The main improvement of this release is that we have created a truly parallel mechanism of processing the documents that significantly improved performance of processing documents with lots of resources. Moreover, from this moment you do not need to wait until document will be loaded, parsed and all scripts will be executed which of course is blocking the main thread of your application. You just need to subscribe to events the &lsquo;OnReadyStateChange&rsquo; or &lsquo;OnLoad&rsquo; and call the method &rsquo;navigate&rsquo; which is not blocking the main thread. Once the document is ready, these events will be fired. Also, we represent to you a new namespace &lsquo;Aspose.Html.Dom.Mutations&rsquo; that provides mechanisms to watch for changes being made to DOM tree. Apart from that, we have also made some internal bug fixes and enhancements as in the table below.</p><h2 id=improvements-and-changes>Improvements and Changes</h2><table><thead><tr><th style=text-align:left><strong>Key</strong></th><th style=text-align:left><strong>Summary</strong></th><th style=text-align:left><strong>Category</strong></th></tr></thead><tbody><tr><td style=text-align:left>HTMLNET-1457</td><td style=text-align:left>Text alignment issues with Arabic in table cells</td><td style=text-align:left>Bug</td></tr><tr><td style=text-align:left>HTMLNET-1499</td><td style=text-align:left>HTML to XPS: Incorrect Woff signature exception</td><td style=text-align:left>Bug</td></tr><tr><td style=text-align:left>HTMLNET-1507</td><td style=text-align:left>Font-size &ldquo;em&rdquo;-values in at-page rules cause an exception</td><td style=text-align:left>Bug</td></tr></tbody></table><h2 id=added-apis>Added APIs:</h2><p>The document object has been extended with set of overloaded methods Navigate, that are create an asynchronous mode of loading unlike the HTMLDocument and SVGDocument constructors which are working in synchronous mode.</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> namespace Aspose<span style=color:#f92672>.</span><span style=color:#a6e22e>Html</span><span style=color:#f92672>.</span><span style=color:#a6e22e>Dom</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>class</span> <span style=color:#a6e22e>Document</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Loads the document at the specified Uniform Resource Locator (URL) into the current instance, replacing the previous content.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;address&#34;&gt;The document address.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Navigate</span><span style=color:#f92672>(</span>string address<span style=color:#f92672>)</span> <span style=color:#f92672>{}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Loads the document at the specified Uniform Resource Locator (URL) into the current instance, replacing the previous content.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;url&#34;&gt;The document URL.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Navigate</span><span style=color:#f92672>(</span>Url url<span style=color:#f92672>)</span> <span style=color:#f92672>{}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Loads the document from specified content and using baseUri to resolve relative resources, replacing the previous content.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;content&#34;&gt;The document content.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;baseUri&#34;&gt;The base URI to resolve relative resources.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Navigate</span><span style=color:#f92672>(</span>string content<span style=color:#f92672>,</span> string baseUri<span style=color:#f92672>)</span> <span style=color:#f92672>{}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>         <span style=color:#75715e>/// Loads the document from specified content and using baseUri to resolve relative resources, replacing the previous content.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>         <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>         <span style=color:#75715e>/// &lt;param name=&#34;content&#34;&gt;The document content.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>         <span style=color:#75715e>/// &lt;param name=&#34;baseUri&#34;&gt;The base URI to resolve relative resources.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Navigate</span><span style=color:#f92672>(</span>Stream content<span style=color:#f92672>,</span> string baseUri<span style=color:#f92672>)</span> <span style=color:#f92672>{}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Loads the document based on specified request object, replacing the previous content.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;request&#34;&gt;The request object that is used to load document content.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Navigate</span><span style=color:#f92672>(</span>RequestMessage request<span style=color:#f92672>)</span> <span style=color:#f92672>{}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span></span></span></code></pre></div><p>Added event OnReadyStateChange and ReadyState property in order to inform the user about document&rsquo;s readiness state.</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> namespace Aspose<span style=color:#f92672>.</span><span style=color:#a6e22e>Html</span><span style=color:#f92672>.</span><span style=color:#a6e22e>Dom</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>class</span> <span style=color:#a6e22e>Document</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Gets or sets event handler for OnReadyStateChange event.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> event DOMEventHandler OnReadyStateChange<span style=color:#f92672>;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns the document readiness. The &#34;loading&#34; while the Document is loading, &#34;interactive&#34; once it is finished parsing but still loading sub-resources, and &#34;complete&#34; once it has loaded.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> string ReadyState <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span></span></span></code></pre></div><p>Introduced the Dom.Mutations namespace that provides mechanisms to watch for changes being made to the DOM tree.</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> namespace Aspose<span style=color:#f92672>.</span><span style=color:#a6e22e>Html</span><span style=color:#f92672>.</span><span style=color:#a6e22e>Dom</span><span style=color:#f92672>.</span><span style=color:#a6e22e>Mutations</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Represents the method that will handle a mutation events.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;mutations&#34;&gt;The list of mutation records.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;observer&#34;&gt;The mutation observer.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>public</span> delegate <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>MutationCallback</span><span style=color:#f92672>(</span>IList<span style=color:#f92672>&lt;</span>MutationRecord<span style=color:#f92672>&gt;</span> mutations<span style=color:#f92672>,</span> MutationObserver observer<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// A &lt;see cref=&#34;MutationObserver&#34; /&gt; object can be used to observe mutations to the tree of &lt;see cref=&#34;Node&#34; /&gt;.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>class</span> <span style=color:#a6e22e>MutationObserver</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Constructs a MutationObserver object and sets its &lt;see cref=&#34;MutationCallback&#34;/&gt; to callback.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// The callback is invoked with a list of MutationRecord objects as first argument and the constructed MutationObserver object as second argument. It is invoked after nodes registered with the &lt;see cref=&#34;Observe(Node, IMutationObserverInit)&#34;/&gt; method, are mutated.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;callback&#34;&gt;The callback.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#a6e22e>MutationObserver</span><span style=color:#f92672>(</span>MutationCallback callback<span style=color:#f92672>)</span> <span style=color:#f92672>{}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Instructs the user agent to observe a given target (a node) and report any mutations based on the criteria given by options (an object).
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// The options argument allows for setting mutation observation options via object members.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;target&#34;&gt;The target for observe.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;options&#34;&gt;The observer options.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Observe</span><span style=color:#f92672>(</span>Node target<span style=color:#f92672>,</span> MutationObserverInit options<span style=color:#f92672>)</span> <span style=color:#f92672>{}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Stops observer from observing any mutations. Until the observe() method is used again, observer’s callback will not be invoked.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Disconnect</span><span style=color:#f92672>()</span> <span style=color:#f92672>{}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// The method returns a copy of the record queue and then empty the record queue.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;returns&gt;The copy of the record queue.&lt;/returns&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> IEnumerable<span style=color:#f92672>&lt;</span>MutationRecord<span style=color:#f92672>&gt;</span> <span style=color:#a6e22e>TakeRecords</span><span style=color:#f92672>()</span> <span style=color:#f92672>{}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// The IMutationObserverInit interface represents an options for mutation observation. The options argument allows for setting mutation observation options via object members.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>public</span> struct MutationObserverInit
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Set to true if mutations to target’s children are to be observed.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> bool ChildList <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> set<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Set to true if mutations to target’s attributes are to be observed. Can be omitted if attributeOldValue and/or attributeFilter is specified.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> bool Attributes <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> set<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Set to true if mutations to target’s data are to be observed. Can be omitted if characterDataOldValue is specified
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> bool CharacterData <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> set<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Set to true if mutations to not just target, but also target’s descendants are to be observed
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> bool Subtree <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> set<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Set to true if attributes is true or omitted and target’s attribute value before the mutation needs to be recorded.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> bool AttributeOldValue <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> set<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Set to true if characterData is set to true or omitted and target’s data before the mutation needs to be recorded.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> bool CharacterDataOldValue <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> set<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Set to a list of attribute local names (without namespace) if not all attribute mutations need to be observed and attributes is true or omitted.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> IList<span style=color:#f92672>&lt;</span>string<span style=color:#f92672>&gt;</span> AttributeFilter <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> set<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// A MutationRecord represents an individual DOM mutation. It is the object that is passed to &lt;see cref=&#34;MutationObserver&#34;/&gt;&#39;s &lt;see cref=&#34;MutationCallback&#34;/&gt;.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>class</span> <span style=color:#a6e22e>MutationRecord</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Initializes a new instance of the &lt;see cref=&#34;MutationRecord&#34; /&gt; class.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;type&#34;&gt;The type.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;target&#34;&gt;The target.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;addedNodes&#34;&gt;The added nodes.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;removedNodes&#34;&gt;The removed nodes.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;previousSibling&#34;&gt;The previous sibling.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;nextSibling&#34;&gt;The next sibling.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;attributeName&#34;&gt;Name of the attribute.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;attributeNamespace&#34;&gt;The attribute namespace.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;oldValue&#34;&gt;The old value.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        internal <span style=color:#a6e22e>MutationRecord</span><span style=color:#f92672>(</span>string type<span style=color:#f92672>,</span> Node target<span style=color:#f92672>,</span> IList<span style=color:#f92672>&lt;</span>Node<span style=color:#f92672>&gt;</span> addedNodes<span style=color:#f92672>,</span> IList<span style=color:#f92672>&lt;</span>Node<span style=color:#f92672>&gt;</span> removedNodes<span style=color:#f92672>,</span>  Node previousSibling<span style=color:#f92672>,</span> Node nextSibling<span style=color:#f92672>,</span> string attributeName<span style=color:#f92672>,</span> string attributeNamespace<span style=color:#f92672>,</span> string oldValue<span style=color:#f92672>)</span> <span style=color:#f92672>{}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns &#34;attributes&#34; if it was an attribute mutation, &#34;characterData&#34; if it was a mutation to a CharacterData node and &#34;childList&#34; if it was a mutation to the tree of nodes.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;value&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// The type.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/value&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> string Type <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns the node the mutation affected, depending on the type. For &#34;attributes&#34;, it is the element whose attribute changed. For &#34;characterData&#34;, it is the CharacterData node. For &#34;childList&#34;, it is the node whose children changed.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;value&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// The target.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/value&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> Node Target <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Return the nodes added.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;value&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// The added nodes.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/value&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> IList<span style=color:#f92672>&lt;</span>Node<span style=color:#f92672>&gt;</span> AddedNodes <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Return the nodes removed.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;value&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// The removed nodes.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/value&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> IList<span style=color:#f92672>&lt;</span>Node<span style=color:#f92672>&gt;</span> RemovedNodes <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns the previous sibling of the added or removed nodes, or null.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;value&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// The previous sibling.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/value&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> Node PreviousSibling <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Return the next sibling of the added or removed nodes, or null.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;value&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// The next sibling.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/value&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> Node NextSibling <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns the local name of the changed attribute, and null otherwise.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;value&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// The name of the attribute.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/value&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> string AttributeName <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Returns the namespace of the changed attribute, and null otherwise.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;value&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// The attribute namespace.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/value&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> string AttributeNamespace <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// The return value depends on type. For &#34;attributes&#34;, it is the value of the changed attribute before the change.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// For &#34;characterData&#34;, it is the data of the changed node before the change.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// For &#34;childList&#34;, it is null.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;value&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// The old value.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/value&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> string OldValue <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span></span></span></code></pre></div><p>The abstract renderer object was extended with overload &lsquo;render&rsquo; methods in order to add ability to control rendering timeouts.</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> namespace Aspose<span style=color:#f92672>.</span><span style=color:#a6e22e>Html</span><span style=color:#f92672>.</span><span style=color:#a6e22e>Rendering</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>abstract</span> <span style=color:#66d9ef>class</span> <span style=color:#a6e22e>Renderer</span><span style=color:#f92672>&lt;</span>TDocument<span style=color:#f92672>&gt;</span> <span style=color:#f92672>:</span> Renderer
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Defines method for rendering &lt;see cref=&#34;TDocument&#34; /&gt; into specified &lt;see cref=&#34;IDevice&#34; /&gt;.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;device&#34;&gt;The output device.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;document&#34;&gt;The document.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;timeout&#34;&gt;A &lt;see cref=&#34;TimeSpan&#34; /&gt; that represents the number of milliseconds to wait, or a &lt;see cref=&#34;TimeSpan&#34; /&gt; that represents -1 millisecond to wait indefinitely.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Render</span><span style=color:#f92672>(</span>IDevice device<span style=color:#f92672>,</span> TDocument document<span style=color:#f92672>,</span> TimeSpan timeout<span style=color:#f92672>)</span> <span style=color:#f92672>{}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Defines method for rendering &lt;see cref=&#34;TDocument&#34; /&gt; into specified &lt;see cref=&#34;IDevice&#34; /&gt;.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;device&#34;&gt;The output device.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;document&#34;&gt;The document.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;timeout&#34;&gt;A number of milliseconds that represents the number of milliseconds to wait, or -1 millisecond to wait indefinitely.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Render</span><span style=color:#f92672>(</span>IDevice device<span style=color:#f92672>,</span> TDocument document<span style=color:#f92672>,</span> <span style=color:#66d9ef>int</span> timeout<span style=color:#f92672>)</span> <span style=color:#f92672>{}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Defines method for rendering multiple &lt;see cref=&#34;TDocument&#34; /&gt;s into specific &lt;see cref=&#34;IDevice&#34; /&gt;.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;device&#34;&gt;The output device.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;timeout&#34;&gt;A number of milliseconds that represents the number of milliseconds to wait, or -1 millisecond to wait indefinitely.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;documents&#34;&gt;The documents to render.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Render</span><span style=color:#f92672>(</span>IDevice device<span style=color:#f92672>,</span> <span style=color:#66d9ef>int</span> timeout<span style=color:#f92672>,</span> params TDocument<span style=color:#f92672>[]</span> documents<span style=color:#f92672>)</span> <span style=color:#f92672>{}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// Defines method for rendering multiple &lt;see cref=&#34;TDocument&#34; /&gt;s into specific &lt;see cref=&#34;IDevice&#34; /&gt;.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;device&#34;&gt;The output device.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;timeout&#34;&gt;A &lt;see cref=&#34;TimeSpan&#34; /&gt; that represents the number of milliseconds to wait, or a &lt;see cref=&#34;TimeSpan&#34; /&gt; that represents -1 millisecond to wait indefinitely.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;param name=&#34;documents&#34;&gt;The documents to render.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>abstract</span> <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Render</span><span style=color:#f92672>(</span>IDevice device<span style=color:#f92672>,</span> TimeSpan timeout<span style=color:#f92672>,</span> params TDocument<span style=color:#f92672>[]</span> documents<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span></span></span></code></pre></div><h4 id=changed-apis>Changed APIs:</h4><p>StyleSheets property was relocated to the base &lsquo;document&rsquo; class from the HTML and SVG documents.</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> namespace Aspose<span style=color:#f92672>.</span><span style=color:#a6e22e>Html</span><span style=color:#f92672>.</span><span style=color:#a6e22e>Dom</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>class</span> <span style=color:#a6e22e>Document</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// A list containing all the style sheets explicitly linked into or embedded in a document. For HTML documents, this includes external style sheets, included via the HTML LINK element, and inline STYLE elements.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>public</span> IStyleSheetList StyleSheets <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span></span></span></code></pre></div></p></div></div></div></div><hr></div></div></section></div></div></div></div></div></div><div id=dvHidden style=display:none></div><div id=footer></div><a class=backtop>&nbsp;</a><div id=DynabicMenuFooter></div><script type=text/javascript>const langarray=[]</script><script type=text/javascript>jQuery(document).ready(function(){let e=$(".nested").hide(),t=$(".treeview-animated-element");$(".treeview-animated-items-header").hover(function(){$(this).children.toggleClass("Mydiv")}),$(".treeview-animated-items-header").click(function(){return console.log("mala"),$this=$(this),console.log($this.attr("id")),$target=$this.siblings(".nested"),$pointerPlus=$this.children(".fa-plus"),$pointerMinus=$this.children(".fa-minus"),$pointerPlus.removeClass("fa-plus"),$pointerPlus.addClass("fa-minus"),$pointerMinus.removeClass("fa-minus"),$pointerMinus.addClass("fa-plus"),$this.toggleClass("open"),$target.hasClass("active")?$target.removeClass("active").slideUp():$target.addClass("active").slideDown(),!1})})</script><script>(function(e,s,o,a,t,n,i){e.ContainerizeMenuObject=t,e[t]=e[t]||function(){(e[t].q=e[t].q||[]).push(arguments)},e[t].l=1*new Date,n=s.createElement(o),i=s.getElementsByTagName(o)[0],n.async=1,n.src=a,i.parentNode.append(n)})(window,document,"script","https://menu.containerize.com/scripts/engine.min.js?v=1.0.1","aspose-en")</script><script src=https://releases-qa.aspose.com/res_repo/js/highlight.min.js></script>
+<script src=https://releases-qa.aspose.com/res_repo/js/bootstrap.min.js></script>
+<script src=/js/bundle.min.js></script>
+<script src=/js/dynabic.treeview.js></script>
+<script src=/js/treeviewmanager.js></script>
+<script>hljs.highlightAll()</script><link rel=stylesheet type=text/css href=https://releases-qa.aspose.com/res_repo/css/hugocustom.css><script>$(".btn-showside .mb-5").on("click",function(){$("main .flex .dn.db-l").toggleClass("showsidebar"),$("main .flex .w-100").toggleClass("noscroll")}),$(".btn-showmenu").on("click",function(){$("nav.bg-primary-color-dark").toggleClass("showmenu")}),$(".btn-plain").on("click",function(){$("main .flex .dn.db-l").removeClass("showsidebar"),$("main .flex .dn.db-l").removeClass("showsidebar"),$("nav.bg-primary-color-dark").removeClass("showmenu")}),$(".ss-bar ul li a[data-target]").on("click",function(){$(this).find(".i.fa-angle-down").hasClass("fa-angle-up")?$(this).find("i.fa-angle-down").removeClass("fa-angle-up"):$(this).find("i.fa-angle-down").toggleClass("fa-angle-up")}),$(".btn-showside").on("click",function(){$(".ss-bar").toggleClass("showsidebar")}),$(".btn-plain").on("click",function(){$(".ss-bar").removeClass("showsidebar")})</script><script>$(document).ready(function(){$("div pre").removeAttr("style");var e,t=$(location).attr("hash");"#package-explorer"==t&&(e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]'),e&&e.click()),$('a:has(img[alt="banner"]').click(function(){event.preventDefault();var e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]');e&&e.click()}),$(window).scroll(function(){$(this).scrollTop()>150?$(".backtop").fadeIn():$(".backtop").fadeOut()}),$(".backtop").click(function(){return $("html, body").animate({scrollTop:0},600),!1}),$(".linkshow").on("click",function(){$(this).find("i").toggleClass("fa-minus-square"),$(".linkshowbox").toggleClass("hide")}),document.querySelector("body").addEventListener("click",function(t){if(t.target.classList.contains("searchButton")){$(".ss-bar").removeClass("showsidebar");try{var e=$("input[name=q]").val();gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}if(t.target.classList.contains("fa-search")){$(".ss-bar").removeClass("showsidebar");try{e=$("input[name=q]").val(),gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}},!0)})</script><script>document.querySelectorAll("pre > code").forEach(t=>{const n=t.parentNode.parentNode,e=document.createElement("button");e.classList.add("copy-code"),e.innerHTML="copy";function s(){e.innerHTML="copied!",setTimeout(()=>{e.innerHTML="copy"},2e3)}e.addEventListener("click",o=>{if("clipboard"in navigator){navigator.clipboard.writeText(t.textContent),s();return}const e=document.createRange();e.selectNodeContents(t);const n=window.getSelection();n.removeAllRanges(),n.addRange(e);try{document.execCommand("copy"),s()}catch(e){}n.removeRange(e)}),n.classList.contains("highlight")?n.appendChild(e):n.parentNode.firstChild==n||(t.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName=="TABLE"?t.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(e):t.parentNode.appendChild(e))})</script></body></html>

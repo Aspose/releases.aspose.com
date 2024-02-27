@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>24.1.0 on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/tags/24.1.0/</link><description>Recent content in 24.1.0 on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/tags/24.1.0/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads --- NEW Releases-ASSOSPLE.OCR-for-PYTHON-VIA-C ++-24.1.0-MACOS-86X64</title><link>https://releases-qa.aspose.com/de/ocr/python-cpp/new-releases/aspose.ocr-for-python-via-c++-24.1.0-macos-86x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/ocr/python-cpp/new-releases/aspose.ocr-for-python-via-c++-24.1.0-macos-86x64/</guid><description>&amp;nbsp;
+ASSON.OCR für Python über C &amp;#43;&amp;#43; 24.1.0 macOS 86x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+197.95MB
+Datum hinzugefügt:
+19/1/2024
+Versionshinweisehttps://releases.aspose.com/ocr/python-cpp/release-notes/2024/aspose-ocr-for-python-cpp-24-1-0-release-notes/
+BeschreibungErste Veröffentlichung von ASSOSS.OCOCR für Python
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1894ca4fa1832a7114611c9643449ccb-40-10170&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.OCR.CPP-GPU.24.1.0</title><link>https://releases-qa.aspose.com/de/ocr/cpp/new-releases/aspose.ocr.cpp-gpu.24.1.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/ocr/cpp/new-releases/aspose.ocr.cpp-gpu.24.1.0/</guid><description>&amp;nbsp;
+ASSON.OCR.CPP-GPU.24.1.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+210.49MB
+Datum hinzugefügt:
+30/1/2024
+Versionshinweisehttps://releases.aspose.com/ocr/cpp/release-notes/2024/aspose-ocr-for-cpp-24-1-0-release-notes/
+BeschreibungVeraltete Methoden und Strukturen wurden entfernt, um die API zu vereinfachen.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=41c0e4a9c3e51d886b1eb7c5acece4e9-43-10238&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.OCR.CPP-LINUX.24.1.0</title><link>https://releases-qa.aspose.com/de/ocr/cpp/new-releases/aspose.ocr.cpp-linux.24.1.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/ocr/cpp/new-releases/aspose.ocr.cpp-linux.24.1.0/</guid><description>&amp;nbsp;
+ASSON.OCR.CPP-LINUX.24.1.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+194.4MB
+Datum hinzugefügt:
+30/1/2024
+Versionshinweisehttps://releases.aspose.com/ocr/cpp/release-notes/2024/aspose-ocr-for-cpp-24-1-0-release-notes/
+BeschreibungVeraltete Methoden und Strukturen wurden entfernt, um die API zu vereinfachen.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=25e368fc71ad25b0cabc359370ed5e2d-39-10239&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.OCR.CPP-LINUX-GPU.24.1.0</title><link>https://releases-qa.aspose.com/de/ocr/cpp/new-releases/aspose.ocr.cpp-linux-gpu.24.1.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/ocr/cpp/new-releases/aspose.ocr.cpp-linux-gpu.24.1.0/</guid><description>&amp;nbsp;
+ASSON.OCR.CPP-LINUX-GPU.24.1.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+194.4MB
+Datum hinzugefügt:
+30/1/2024
+Versionshinweisehttps://releases.aspose.com/ocr/cpp/release-notes/2024/aspose-ocr-for-cpp-24-1-0-release-notes/
+BeschreibungVeraltete Methoden und Strukturen wurden entfernt, um die API zu vereinfachen.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5161e31c288f592c99a6c1b4f06fde37-39-10240&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

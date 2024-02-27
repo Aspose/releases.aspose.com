@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Imaging Library PIL on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/python-imaging-library-pil/</link><description>Recent content in Python Imaging Library PIL on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/tags/python-imaging-library-pil/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads ---New Releases-aspose.imaging-for-python-via-.net-23.10</title><link>https://releases-qa.aspose.com/imaging/python-net/new-releases/aspose.imaging-for-python-via-.net-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/imaging/python-net/new-releases/aspose.imaging-for-python-via-.net-23.10/</guid><description>&amp;nbsp;
+Aspose.Imaging for Python via .NET 23.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+282.68MB
+Date Added:
+27/10/2023
+Release Noteshttps://releases.aspose.com/imaging/python-net/release-notes/2023/aspose-imaging-for-python-net-23-10-release-notes/
+DescriptionIt contains Aspose.Imaging for Python via .NET 23.10 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4f60d5cc86cb8119f9bfbb713c68484f-57-9681&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item></channel></rss>

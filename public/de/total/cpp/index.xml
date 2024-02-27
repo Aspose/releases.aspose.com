@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>C++-Bibliotheken für Dateiformate Aspose.Total für C++ on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/total/cpp/</link><description>Recent content in C++-Bibliotheken für Dateiformate Aspose.Total für C++ on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/total/cpp/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---Neue-Releases-aspose.total-for-c++ .</title><link>https://releases-qa.aspose.com/de/total/cpp/new-releases/aspose.total-for-c--/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/total/cpp/new-releases/aspose.total-for-c--/</guid><description>&amp;nbsp;
+Aspose.Total für C&amp;#43;&amp;#43;
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+915
+Dateigröße:
+2.6 GB Posted By: aspose.total
+Ansichten:
+1610
+Hinzugefügt am:
+1/19/2022 SHA1:
+2b8d5aef0af6344d58c85909382700f71d3bcc05: MD5:
+c9dbf3531eee644550324f0260c87e01:
+BeschreibungAspose.Total für C++ enthält die neueste Version aller C++-Produkte.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=534b1980fd16471680bac6f7c9445eff&amp;single=1", function(data) { $.</description></item><item><title>Downloads --- NEW Releases-Asspsidle.Total-for-C ++-23.10.0</title><link>https://releases-qa.aspose.com/de/total/cpp/new-releases/aspose.total-for-c++-23.10.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/total/cpp/new-releases/aspose.total-for-c++-23.10.0/</guid><description>&amp;nbsp;
+ASSOSE.TOTAL FÜR C &amp;#43;&amp;#43; 23.10.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+2.46GB
+Datum hinzugefügt:
+21/11/2023
+Versionshinweisehttps://releases.aspose.com/
+BeschreibungEs enthält die neueste Version aller C ++ - Produkte.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ab05c40806ed824f8e4027f7cb761ecf-505-9859&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-Asspsidle.Total-for-C ++-23.12.0</title><link>https://releases-qa.aspose.com/de/total/cpp/new-releases/aspose.total-for-c++-23.12.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/total/cpp/new-releases/aspose.total-for-c++-23.12.0/</guid><description>&amp;nbsp;
+ASSOSE.TOTAL FÜR C &amp;#43;&amp;#43; 23.12.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+3.16GB
+Datum hinzugefügt:
+5/1/2024
+Versionshinweisehttps://releases.aspose.com/
+BeschreibungEs enthält die neueste Version aller Aspose für C ++ - Produkte.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1eede907bf30f82a71444574d4c4f709-647-10121&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-Asspsidle.Total-for-C ++-24.1.0</title><link>https://releases-qa.aspose.com/de/total/cpp/new-releases/aspose.total-for-c++-24.1.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/total/cpp/new-releases/aspose.total-for-c++-24.1.0/</guid><description>&amp;nbsp;
+ASSONE.TOTAL FÜR C &amp;#43;&amp;#43; 24.1.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+2.18GB
+Datum hinzugefügt:
+3/2/2024
+Versionshinweisehttps://releases.aspose.com/
+BeschreibungEs enthält die neueste Version aller Aspose für C ++ - Produkte.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c896ebd98f974b5b0d8c9ce691167a0a-447-10279&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item></channel></rss>

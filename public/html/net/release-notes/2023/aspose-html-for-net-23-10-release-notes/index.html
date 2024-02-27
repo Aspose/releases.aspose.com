@@ -1,0 +1,628 @@
+<!doctype html><html class=no-js lang=en><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge"><title>Aspose.HTML for .NET 23.10 Release Notes</title><meta name=description content="The recent update delivers an enhanced performance of the Aspose.Html library. It optimizes attribute storage, accelerates the HTML parser, and reduces memory usage."><meta name=viewport content="width=device-width,minimum-scale=1"><link rel=canonical href=https://releases-qa.aspose.com/html/net/release-notes/2023/aspose-html-for-net-23-10-release-notes/><link rel=alternate hreflang=x-default href=https://releases-qa.aspose.com/html/net/release-notes/2023/aspose-html-for-net-23-10-release-notes/><meta name=robots content="noindex, nofollow"><link rel=apple-touch-icon sizes=180x180 href=/res_repo/apple-touch-icon.png><link rel=icon type=image/png href=/res_repo/favicon-32x32.png sizes=32x32><link rel=icon type=image/png href=/res_repo/favicon-16x16.png sizes=16x16><link rel=mask-icon href=/res_repo/safari-pinned-tab.svg color=#0594cb><meta name=theme-color content="#ffffff"><meta property="og:title" content="Aspose.HTML for .NET 23.10 Release Notes "><meta property="og:description" content="The recent update delivers an enhanced performance of the Aspose.Html library. It optimizes attribute storage, accelerates the HTML parser, and reduces memory usage."><meta property="og:type" content="article"><meta property="og:url" content="https://releases-qa.aspose.com/html/net/release-notes/2023/aspose-html-for-net-23-10-release-notes/"><meta itemprop=name content="Aspose.HTML for .NET 23.10 Release Notes"><meta itemprop=description content="The recent update delivers an enhanced performance of the Aspose.Html library. It optimizes attribute storage, accelerates the HTML parser, and reduces memory usage."><meta itemprop=wordCount content="2619"><meta name=twitter:card content="summary"><meta name=twitter:title content="Aspose.HTML for .NET 23.10 Release Notes"><meta name=twitter:description content="The recent update delivers an enhanced performance of the Aspose.Html library. It optimizes attribute storage, accelerates the HTML parser, and reduces memory usage."><link href=/css/bootstrap.css rel=stylesheet type=text/css><script src=https://releases-qa.aspose.com/res_repo/js/jquery-1.10.2.min.js></script></head><body><div id=header></div><div class=downloadpage><div class="container-fluid bcrumb1"><div id=sticky1 class=stickytopheight>&nbsp;</div><div class=container><div class=moduletable><ul id=dvBC class=breadcrumb><li><a href=/>Home</a><span class=divider></span></li><li><a href=/html/>Aspose.HTML Product Family</a><span class=divider></span></li><li><a href=/html/net/>Aspose.HTML for .NET</a><span class=divider></span></li><li><a href=/html/net/release-notes/>Release Notes</a><span class=divider></span></li><li><a href=/html/net/release-notes/2023/>2023</a><span class=divider></span></li><li><a href=/html/net/release-notes/2023/aspose-html-for-net-23-10-release-notes/>Aspose.HTML for .NET 23.10 Release Notes</a><span class=divider></span></li></ul></div></div></div><div class="container-fluid content2 vpanel-left"><div class=container><div class=row><div class="col-md-3 vpanel tree-section"><p class=list-title>Browse our Products<button type=button class=treeview-toggle> <span class=sr-only>Toggle navigation</span> <span class="icon expand-icon glyphicon glyphicon-hide"></span></button></p><div id=tree class="treeview hidetree"></div></div><div class="col-md-9 lhs1 col-xs-12 mobilehide node-section"><div class=box1><section role=main class="main-container page-package-details"><div class=row><div class="col-sm-9 package-details-main"><h1><strong>Aspose.HTML for .NET 23.10 Release Notes</strong></h1><div class="tab-content body-tab-content"><div role=tabpanel class="tab-pane active" id=readme-tab><div class=readme-common><div id=readme-container><p><div class="alert alert-primary" role=alert>This page contains release notes information for Aspose.HTML for .NET 23.10.</div><p>As per the regular monthly update process of all APIs being offered by Aspose, we are honored to announce the October release of Aspose.HTML for .NET.</p><p>In this release, the Aspose.Html library has achieved notable performance enhancements by changing how attributes are stored and utilized. The HTML parser has been optimized to increase parsing speed and optimize data structures, resulting in decreased memory usage and fewer redundant object creations. These enhancements have resulted in a more effective and efficient Aspose.Html library, providing developers with an improved user experience when handling HTML documents.</p><h2 id=improvements-and-changes><strong>Improvements and Changes</strong></h2><table><thead><tr><th><strong>Key</strong></th><th><strong>Summary</strong></th><th><strong>Category</strong></th></tr></thead><tbody><tr><td>HTMLNET-4968</td><td>Invalid HREF Url crashes converter</td><td>Bug</td></tr><tr><td>HTMLNET-4865</td><td>How to block all external resource on import</td><td>Investigation</td></tr></tbody></table><p>The following changes have been made in this version:</p><ul><li>Added the GetRule(string ruleName) method to the AccessibilityRules class.</li><li>Fixed issues with the Validate method of the AccessibilityValidator class.</li><li>Added the Code and Description properties to the IRule interface.</li><li>Changed the type of the IRuleResult interface to ITechniqueResult.</li><li>Added the Success and Warnings properties to the RuleValidationResult class.</li><li>Added the Warnings property to the ValidationResult class.</li></ul><h2 id=public-api-and-backward-incompatible-changes><strong>Public API and Backward Incompatible Changes</strong></h2><h3 id=added-apis><strong>Added APIs</strong></h3><pre tabindex=0><code>namespace Aspose.Html.Accessibility
+{
+    /// &lt;summary&gt;
+    /// Quick reference to Web Content Accessibility Guidelines (WCAG) 2 requirements (success criteria) and techniques.
+    /// Contain a list of Principle.  
+    ///
+    /// https://www.w3.org/WAI/WCAG21/quickref/
+    /// &lt;/summary&gt;
+    public class AccessibilityRules
+    {
+        /// &lt;summary&gt;
+        /// Get rule by code from WCAG with type IRule
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;code&#34;&gt;rule code from WCAG&lt;/param&gt;
+        /// &lt;returns&gt;IRule object&lt;/returns&gt;
+        public IRule GetRule(string code)
+        {
+        }
+    }
+
+    /// &lt;summary&gt;
+    /// Object to Web Content Accessibility Guidelines (WCAG) 2 requirements (success criteria) and techniques. 
+    /// https://www.w3.org/WAI/WCAG21/quickref/
+    /// &lt;/summary&gt;
+    public class WebAccessibility
+    {
+        /// &lt;summary&gt;
+        /// An AccessibilityValidator instance is created for a specific rule, given the full parameters of the ValidationBuilder.All object.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;rule&#34;&gt;object of rule that implemented IRule interface&lt;/param&gt;
+        /// &lt;returns&gt;AccessibilityValidator object&lt;/returns&gt;
+        public AccessibilityValidator CreateValidator(IRule rule)
+        {
+        }
+
+        /// &lt;summary&gt;
+        /// An AccessibilityValidator instance is created for a specific rules list.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;rules&#34;&gt;list of rules &lt;/param&gt;
+        /// &lt;returns&gt;AccessibilityValidator object&lt;/returns&gt;
+        public AccessibilityValidator CreateValidator(IList&lt;IRule&gt; rules)
+        {
+        }
+
+        /// &lt;summary&gt;
+        /// An AccessibilityValidator instance is created for a specific rules list.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;rules&#34;&gt;list of rules &lt;/param&gt;
+        /// &lt;param name=&#34;builder&#34;&gt;object ValidationBuilder&lt;/param&gt;
+        /// &lt;returns&gt;AccessibilityValidator object&lt;/returns&gt;
+        public AccessibilityValidator CreateValidator(IList&lt;IRule&gt; rules, ValidationBuilder builder)
+        {
+        }
+
+        /// &lt;summary&gt;
+        /// An AccessibilityValidator instance is created for a specific rules list.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;rules&#34;&gt;list of rules &lt;/param&gt;
+        /// &lt;param name=&#34;builder&#34;&gt;method that return ValidationBuilder object&lt;/param&gt;
+        /// &lt;returns&gt;AccessibilityValidator object&lt;/returns&gt;
+        public AccessibilityValidator CreateValidator(IList&lt;IRule&gt; rules, Action&lt;ValidationBuilder&gt; builder)
+        {
+        }
+    }
+}
+
+namespace Aspose.Html.Dom
+{
+    /// &lt;summary&gt;
+    /// The Element interface represents an element in an HTML or XML document.
+    /// &lt;/summary&gt;
+    public class Element
+    {
+        /// &lt;summary&gt;
+        /// Returns the attribute names of the element as an Array of strings. If the element has no attributes it returns an empty array.
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;Array of strings represents attribute names.&lt;/returns&gt;
+        public string[] GetAttributeNames()
+        {
+        }
+        
+        /// &lt;summary&gt;
+        /// If force is not given, &#34;toggles&#34; qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName.
+        /// If force is false, removes qualifiedName.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;qualifiedName&#34;&gt;The attribute QualifiedName.&lt;/param&gt;
+        /// &lt;returns&gt;Returns true if qualifiedName is now present; otherwise false.&lt;/returns&gt;
+        public bool ToggleAttribute(string qualifiedName)
+        {
+        }
+        
+        /// &lt;summary&gt;
+        /// If force is not given, &#34;toggles&#34; qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName.
+        /// If force is false, removes qualifiedName.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;qualifiedName&#34;&gt;The attribute QualifiedName.&lt;/param&gt;
+        /// &lt;param name=&#34;force&#34;&gt;The force option to toggle attribute.&lt;/param&gt;
+        /// &lt;returns&gt;Returns true if qualifiedName is now present; otherwise false.&lt;/returns&gt;
+        public bool ToggleAttribute(string qualifiedName, bool force)
+        {
+        }
+    }
+    
+    /// &lt;summary&gt;
+    /// This interface of the Web Storage API provides access to a particular domain&#39;s session or local storage.
+    /// See Web Storage specification: &lt;see cref=&#34;https://html.spec.whatwg.org/multipage/webstorage.html#webstorage&#34;/&gt;
+    /// &lt;/summary&gt;
+    public interface IStorage
+    {
+        // &lt;summary&gt;
+        /// Returns the number of key/value pairs.
+        /// &lt;/summary&gt;
+        long Length { get; }
+
+        /// &lt;summary&gt;
+        /// Returns the name of the nth key, or null if n is greater than or equal to the number of key/value pairs.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;n&#34;&gt;Number of storage item.&lt;/param&gt;
+        /// &lt;returns&gt;Key string.&lt;/returns&gt;
+        string Key(long n);
+
+        /// &lt;summary&gt;
+        /// Returns the current value associated with the given key, or null if the given key does not exist.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;key&#34;&gt;Item key string.&lt;/param&gt;
+        /// &lt;returns&gt;Item value string.&lt;/returns&gt;
+        string GetItem(string key);
+
+        /// &lt;summary&gt;
+        /// Sets the value of the pair identified by key to value, creating a new key/value pair if none existed for key previously.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;key&#34;&gt;Item key string.&lt;/param&gt;
+        /// &lt;param name=&#34;value&#34;&gt;Item value string.&lt;/param&gt;
+        void SetItem(string key, string value);
+
+        /// &lt;summary&gt;
+        /// Removes the key/value pair with the given key, if a key/value pair with the given key exists.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;key&#34;&gt;Item key string.&lt;/param&gt;
+        /// &lt;returns&gt;&lt;/returns&gt;
+        void RemoveItem(string key);
+
+        /// &lt;summary&gt;
+        /// Removes all key/value pairs, if there are any.
+        /// &lt;/summary&gt;
+        void Clear();
+    }
+	
+    /// &lt;summary&gt;
+    /// Represents an HTML qualified name.
+    /// &lt;/summary&gt;
+    public class QualifiedName : RefCountedObject, IEquatable&lt;QualifiedName&gt;
+    {
+        /// &lt;summary&gt;
+        /// Gets a string representation of the local part of the QualifiedName.
+        /// &lt;/summary&gt;
+        /// &lt;value&gt;
+        /// The name of the local.
+        /// &lt;/value&gt;
+        public string LocalName
+        {
+        }
+
+        /// &lt;summary&gt;
+        /// Gets a string representation of the prefix of the QualifiedName.
+        /// &lt;/summary&gt;
+        public string Prefix
+        {
+        }
+
+        /// &lt;summary&gt;
+        /// Gets a string representation of the namespace of the QualifiedName.
+        /// &lt;/summary&gt;
+        public string NamespaceURI
+        {
+        }
+
+        /// &lt;summary&gt;
+        /// Gets a string representation qualified name.
+        /// &lt;/summary&gt;
+        public string Name
+        {
+        }
+        
+        /// &lt;summary&gt;
+        /// Determines whether the specified QualifiedName is equal to the current object.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;other&#34;&gt;The QualifiedName to compare with the current object.&lt;/param&gt;
+        /// &lt;returns&gt;true if the specified object is equal to the current object; otherwise, false.&lt;/returns&gt;
+        public bool Equals(QualifiedName other)
+        {
+        }
+
+        /// &lt;summary&gt;
+        /// Determines whether the specified object is equal to the current object.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;obj&#34;&gt;The object to compare with the current object.&lt;/param&gt;
+        /// &lt;returns&gt;true if the specified object  is equal to the current object; otherwise, false.&lt;/returns&gt;
+        public override bool Equals(object obj)
+        {
+        }
+		
+        /// &lt;summary&gt;
+        /// Provides a hash value for the current object.
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;A hash code for the current object.&lt;/returns&gt;
+        public override int GetHashCode()
+        {
+        }
+		
+        /// &lt;summary&gt;
+        /// Returns a string that represents the current object.
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;A string that represents the current object.&lt;/returns&gt;
+        public override string ToString()
+        {
+        }
+    }
+}
+
+namespace Aspose.Html.Window
+{
+    /// &lt;summary&gt;
+    /// The window object represents a window containing a DOM document.
+    /// &lt;/summary&gt;
+    public interface IWindow : IEventTarget, IGlobalEventHandlers, IWindowEventHandlers, IWindowTimers, IDocumentView, IDisposable
+    {
+        /// &lt;summary&gt;
+        /// Returns a Storage object that allows you to save key/value pairs in the user agent.
+        /// &lt;/summary&gt;
+        IStorage LocalStorage { get; }
+        
+        /// &lt;summary&gt;
+        /// Returns a new MediaQueryList object that can then be used to determine if the document matches the media query string, 
+        /// as well as to monitor the document to detect when it matches (or stops matching) that media query.
+        /// See CSSOM View Module specification: &lt;see cref=&#34;https://www.w3.org/TR/cssom-view/#extensions-to-the-window-interface&#34;/&gt;
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;query&#34;&gt;The string containing a media query; 
+        /// see &lt;see cref=&#34;https://drafts.csswg.org/mediaqueries/&#34;/&gt; for details.&lt;/param&gt;
+        /// &lt;returns&gt;MediaQueryList object&lt;/returns&gt;
+        MediaQueryList MatchMedia(string query);
+    }
+    
+    /// &lt;summary&gt;
+    /// A MediaQueryList object stores information on a media query applied to a document, 
+    /// with support for both immediate and event-driven matching against the state of the document.
+    /// See CSSOM View Module specification: &lt;see cref=&#34;https://www.w3.org/TR/cssom-view/#the-mediaquerylist-interface&#34;/&gt;
+    /// &lt;/summary&gt;
+    public class MediaQueryList : EventTarget
+    {
+        /// &lt;summary&gt;
+        /// Constructor.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;document&#34;&gt;Document object.&lt;/param&gt;
+        /// &lt;param name=&#34;queryList&#34;&gt;Media query string.&lt;/param&gt;
+        public MediaQueryList(Document document, string queryList)
+        {
+        }
+
+        /// &lt;summary&gt;
+        /// Constructor
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;context&#34;&gt;BrowsingContext object.&lt;/param&gt;
+        /// &lt;param name=&#34;queryList&#34;&gt;Media query string.&lt;/param&gt;
+        public MediaQueryList(BrowsingContext context, string queryList)
+        {
+        }
+
+        /// &lt;summary&gt;
+        /// Context object&#39;s associated document.
+        /// &lt;/summary&gt;
+        public Document Document 
+        {
+        }
+
+        /// &lt;summary&gt;
+        /// A string representing a serialized media query.
+        /// &lt;/summary&gt;
+        public string Media
+        {
+        }
+
+        /// &lt;summary&gt;
+        /// A boolean value that returns true if the document currently matches the media query list, 
+        /// or false if not. 
+        /// &lt;/summary&gt;
+        public bool Matches
+        {
+        }
+
+        /// &lt;summary&gt;
+        /// Add MediaQueryList matches state change event listener.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;listener&#34;&gt;Takes an interface implemented by the user which contains the methods to be called when the event occurs.&lt;/param&gt;
+        public void AddListener(IEventListener listener)
+        {
+        }
+
+        /// &lt;summary&gt;
+        /// Remove MediaQueryList matches state change event listener.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;listener&#34;&gt;The &lt;see cref=&#34;IEventListener&#34; /&gt; parameter indicates the &lt;see cref=&#34;IEventListener&#34; /&gt; to be removed.&lt;/param&gt;
+        public void RemoveListener(IEventListener listener)
+        {
+        }
+
+        /// &lt;summary&gt;
+        /// Event that is fired at the MediaQueryList when the matches state changes.
+        /// &lt;/summary&gt;
+        public event DOMEventHandler OnChange       
+        {
+        }
+    }
+}
+</code></pre><h3 id=changed-apis>Changed APIs</h3><pre tabindex=0><code>namespace Aspose.Html.Collections
+{
+    //From
+    public class NamedNodeMap : DOMObject, IEnumerable&lt;Attr&gt;, Common.IObservable&lt;Attr&gt;, IDisposable
+    {
+    }
+    //To
+    public class NamedNodeMap : DOMObject
+    {
+    }
+}
+
+namespace Aspose.Html.Accessibility
+{
+    //From
+    /// &lt;summary&gt;
+    /// The interface describes the result of the validation
+    /// &lt;/summary&gt;
+    public interface IRuleResult
+    {
+    }
+	
+    //To
+    /// &lt;summary&gt;
+    /// Describes the result of the technique validation.
+    /// &lt;/summary&gt;
+    public interface ITechniqueResult
+    {
+    }
+}
+
+namespace Aspose.Html.Accessibility.Results
+{
+    //From
+    /// &lt;summary&gt;
+    /// Class - result of criteria check, contains a list of method Results, which are ways to satisfy the success criteria.
+    /// &lt;/summary&gt;
+    public class CriterionResult 
+    {
+    }
+	
+    //To
+    /// &lt;summary&gt;
+    /// Class - result of rule check, contains a list of &lt;see cref=&#34;ITechniqueResult&#34;/&gt;, which are ways to satisfy the success criteria.
+    /// &lt;/summary&gt;
+    public class RuleValidationResult
+    {
+    }
+}
+
+namespace Aspose.Html.Accessibility
+{
+    /// &lt;summary&gt;
+    /// The ValidationBuilder class provides concrete implementations of the configuration steps.
+    /// Defines methods and settings for a class ValidationSettings.
+    /// &lt;/summary&gt;
+    public class ValidationBuilder
+    {
+        //From
+        /// &lt;summary&gt;
+        /// Includes all levels and all technologies settings
+        /// &lt;/summary&gt;
+        public static readonly ValidationBuilder All();
+        {
+        }
+        
+        //To
+        /// &lt;summary&gt;
+        /// Includes all levels and all technologies settings
+        /// &lt;/summary&gt;
+        public static ValidationBuilder All
+        {
+            get;
+        }
+        
+        //From
+        /// &lt;summary&gt;
+        /// Default settings: only General technologies and Failures are used
+        /// 
+        /// The array of levels is empty and the check goes through all levels
+        /// &lt;/summary&gt;
+        public static readonly ValidationBuilder Default();
+		
+        //To
+        /// &lt;summary&gt;
+        /// Default settings: only General technologies is used and for Lowest criterion level
+        /// &lt;/summary&gt;
+        public static ValidationBuilder Default
+        {
+            get;
+        }
+        
+        //From
+        /// &lt;summary&gt;
+        /// None settings - none of the parameters are specified.
+        ///  
+        /// The array of levels is empty and the check goes through all levels.
+        /// &lt;/summary&gt;
+        public static readonly ValidationBuilder None();
+        
+        //To
+        /// &lt;summary&gt;
+        /// None settings - none of the parameters are specified.
+        /// &lt;/summary&gt;
+        public static ValidationBuilder None
+        {
+            get;
+        }
+    }
+}
+
+namespace Aspose.Html.Collections
+{
+    /// &lt;summary&gt;
+    /// The DOMTokenList class represents a set of space-separated tokens. It is indexed beginning with 0 as with JavaScript Array objects. DOMTokenList is always case-sensitive.
+    /// &lt;/summary&gt;
+    public class DOMTokenList : DOMObject, IEnumerable&lt;string&gt;
+    {
+        //From
+        /// &lt;summary&gt;
+        /// Returns an ulong which represents the number of tokens stored in this list.
+        /// &lt;/summary&gt;
+         public ulong Length{ get;set; }
+		 
+        //To
+        /// &lt;summary&gt;
+        /// Returns an ulong which represents the number of tokens stored in this list.
+        /// &lt;/summary&gt;
+        public uint Length{ get;set; }
+
+        //From
+        public string this[ulong index]
+        {
+            get;
+        }
+		
+        //To
+        public string this[uint index]
+        {
+            get;
+        }
+    }   
+}
+
+namespace Aspose.Html.Dom
+{
+    /// &lt;summary&gt;
+    /// The Element interface represents an element in an HTML or XML document.
+    /// &lt;/summary&gt;
+    public class Element
+    {
+        //From
+        /// &lt;summary&gt;
+        /// Initializes a new instance of the &lt;see cref=&#34;Element&#34;/&gt; class. Don&#39;t call this constructor directly, use &lt;see cref=&#34;Document.CreateElement&#34;/&gt; or &lt;see cref=&#34;Document.CreateElementNS&#34;/&gt;.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;elementInit&#34;&gt;The element initialization info.&lt;/param&gt;
+        public Element(IElementInit elementInit)
+        {
+        }
+		
+        //To
+        /// &lt;summary&gt;
+        /// Initializes a new instance of the &lt;see cref=&#34;Element&#34;/&gt; class. Don&#39;t call this constructor directly, use &lt;see cref=&#34;Document.CreateElement&#34;/&gt; or &lt;see cref=&#34;Document.CreateElementNS&#34;/&gt;.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;qualifiedName&#34;&gt;The qualified name.&lt;/param&gt;
+        /// &lt;param name=&#34;document&#34;&gt;The associated document.&lt;/param&gt;
+        public Element(QualifiedName qualifiedName, Document document)
+        {
+        }
+    }
+}
+</code></pre><h3 id=removed-apis><strong>Removed APIs</strong></h3><pre tabindex=0><code>namespace Aspose.Html.Dom
+{
+    /// &lt;summary&gt;
+    /// The Attr interface represents an attribute in an Element object. Typically the allowable values for the attribute are defined in a schema associated with the document.
+    /// &lt;/summary&gt;
+    public sealed class Attr
+    {
+        /// &lt;summary&gt;
+        /// Returns whether this attribute is known to be of type ID (i.e. to contain an identifier for its owner element) or not.
+        /// &lt;/summary&gt;
+        /// &lt;value&gt;
+        ///   &lt;c&gt;true&lt;/c&gt; if this instance is id; otherwise, &lt;c&gt;false&lt;/c&gt;.
+        /// &lt;/value&gt;
+        public bool IsId { get; }
+        
+        /// &lt;summary&gt;
+        /// The type information associated with this attribute. 
+        /// &lt;/summary&gt;
+        public TypeInfo SchemaTypeInfo
+        {
+            get ;
+        }
+    }
+    
+    /// &lt;summary&gt;
+    /// The Element interface represents an element in an HTML or XML document.
+    /// &lt;/summary&gt;
+    public class Element
+    {
+        /// &lt;summary&gt;
+        /// The type information associated with this element.
+        /// &lt;/summary&gt;
+        /// &lt;value&gt;
+        /// The schema type information.
+        /// &lt;/value&gt;
+        public TypeInfo SchemaTypeInfo
+        {
+            get;
+        }
+
+        /// &lt;summary&gt;
+        /// If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;name&#34;&gt;The attribute name.&lt;/param&gt;
+        /// &lt;param name=&#34;isId&#34;&gt;if set to &lt;c&gt;true&lt;/c&gt; [is id].&lt;/param&gt;
+        public void SetIdAttribute(string name, bool isId)
+        {
+        }
+
+        /// &lt;summary&gt;
+        /// If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;namespaceURI&#34;&gt;The namespace URI.&lt;/param&gt;
+        /// &lt;param name=&#34;localName&#34;&gt;Name of the local.&lt;/param&gt;
+        /// &lt;param name=&#34;isId&#34;&gt;if set to &lt;c&gt;true&lt;/c&gt; [is id].&lt;/param&gt;
+        public void SetIdAttributeNS(string namespaceURI, string localName, bool isId)
+        {
+        }
+
+        /// &lt;summary&gt;
+        /// If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;idAttr&#34;&gt;The id attr.&lt;/param&gt;
+        /// &lt;param name=&#34;isId&#34;&gt;if set to &lt;c&gt;true&lt;/c&gt; [is id].&lt;/param&gt;
+        public void SetIdAttributeNode(Attr idAttr, bool isId)
+        {
+        }
+    }
+    
+    /// &lt;summary&gt;
+    /// This interface provides &lt;see cref=&#34;Element&#34;/&gt; initialization info.
+    /// &lt;/summary&gt;
+    public interface IElementInit
+    {
+        /// &lt;summary&gt;
+        /// This property represents the owner document.
+        /// &lt;/summary&gt;
+        /// &lt;value&gt;
+        /// The owner document.
+        /// &lt;/value&gt;
+        Document Document { get; }
+    }
+    
+    /// &lt;summary&gt;
+    /// The Node interface is the primary datatype for the entire Document object Model. It represents a single node in the document tree.
+    /// &lt;/summary&gt;
+    public abstract class Node 
+    {
+        /// &lt;summary&gt;
+        /// A NamedNodeMap containing the attributes of this node (if it is an Element) or null otherwise.
+        /// &lt;/summary&gt;
+        public virtual NamedNodeMap Attributes
+        {
+            get;
+        }
+
+        /// &lt;summary&gt;
+        /// Returns whether this node (if it is an element) has any attributes
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;
+        ///   boolean &lt;c&gt;true&lt;/c&gt; if this node has any attributes, &lt;c&gt;false&lt;/c&gt; otherwise.
+        /// &lt;/returns&gt;
+        public virtual bool HasAttributes();
+    }
+}
+
+namespace Aspose.Html
+{
+    /// &lt;summary&gt;
+    /// The anchor element. See the A element definition in HTML 4.01.
+    /// &lt;para&gt;See also the &lt;a href=&#39;http://www.w3.org/TR/2003/REC-DOM-Level-2-HTML-20030109&#39;&gt;Document object Model (DOM) Level 2 HTML Specification&lt;/a&gt;.
+    /// &lt;/para&gt;
+    /// &lt;/summary&gt;
+    public class HTMLAnchorElement : HTMLElement
+    {
+        /// &lt;summary&gt;
+        /// Releases unmanaged and - optionally - managed resources.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&#34;disposing&#34;&gt;&lt;c&gt;true&lt;/c&gt; to release both managed and unmanaged resources; &lt;c&gt;false&lt;/c&gt; to release only unmanaged resources.&lt;/param&gt;
+        protected override void Dispose(bool disposing);
+    }
+    
+    /// &lt;summary&gt;
+    /// A form-associated element can have a relationship with a form element, which is called the element&#39;s form owner. If a form-associated element is not associated with a form element, its form owner is said to be null.
+    /// A form-associated element is, by default, associated with its nearest ancestor form element (as described below), but, if it is reassociateable, may have a form attribute specified to override this.
+    /// &lt;/summary&gt;
+    public interface IFormAssociatedElement
+    {
+        /// &lt;summary&gt;
+        /// Gets or sets the form instance.
+        /// &lt;/summary&gt;
+        /// &lt;value&gt;
+        /// The &lt;see cref=&#34;Element&#34;/&gt; instance.
+        /// &lt;/value&gt;
+        Element Form { get; set; }
+    }
+}
+</code></pre></p></div></div></div></div><hr></div></div></section></div></div></div></div></div></div><div id=dvHidden style=display:none></div><div id=footer></div><a class=backtop>&nbsp;</a><div id=DynabicMenuFooter></div><script type=text/javascript>const langarray=[]</script><script type=text/javascript>jQuery(document).ready(function(){let e=$(".nested").hide(),t=$(".treeview-animated-element");$(".treeview-animated-items-header").hover(function(){$(this).children.toggleClass("Mydiv")}),$(".treeview-animated-items-header").click(function(){return console.log("mala"),$this=$(this),console.log($this.attr("id")),$target=$this.siblings(".nested"),$pointerPlus=$this.children(".fa-plus"),$pointerMinus=$this.children(".fa-minus"),$pointerPlus.removeClass("fa-plus"),$pointerPlus.addClass("fa-minus"),$pointerMinus.removeClass("fa-minus"),$pointerMinus.addClass("fa-plus"),$this.toggleClass("open"),$target.hasClass("active")?$target.removeClass("active").slideUp():$target.addClass("active").slideDown(),!1})})</script><script>(function(e,s,o,a,t,n,i){e.ContainerizeMenuObject=t,e[t]=e[t]||function(){(e[t].q=e[t].q||[]).push(arguments)},e[t].l=1*new Date,n=s.createElement(o),i=s.getElementsByTagName(o)[0],n.async=1,n.src=a,i.parentNode.append(n)})(window,document,"script","https://menu.containerize.com/scripts/engine.min.js?v=1.0.1","aspose-en")</script><script src=https://releases-qa.aspose.com/res_repo/js/highlight.min.js></script>
+<script src=https://releases-qa.aspose.com/res_repo/js/bootstrap.min.js></script>
+<script src=/js/bundle.min.js></script>
+<script src=/js/dynabic.treeview.js></script>
+<script src=/js/treeviewmanager.js></script>
+<script>hljs.highlightAll()</script><link rel=stylesheet type=text/css href=https://releases-qa.aspose.com/res_repo/css/hugocustom.css><script>$(".btn-showside .mb-5").on("click",function(){$("main .flex .dn.db-l").toggleClass("showsidebar"),$("main .flex .w-100").toggleClass("noscroll")}),$(".btn-showmenu").on("click",function(){$("nav.bg-primary-color-dark").toggleClass("showmenu")}),$(".btn-plain").on("click",function(){$("main .flex .dn.db-l").removeClass("showsidebar"),$("main .flex .dn.db-l").removeClass("showsidebar"),$("nav.bg-primary-color-dark").removeClass("showmenu")}),$(".ss-bar ul li a[data-target]").on("click",function(){$(this).find(".i.fa-angle-down").hasClass("fa-angle-up")?$(this).find("i.fa-angle-down").removeClass("fa-angle-up"):$(this).find("i.fa-angle-down").toggleClass("fa-angle-up")}),$(".btn-showside").on("click",function(){$(".ss-bar").toggleClass("showsidebar")}),$(".btn-plain").on("click",function(){$(".ss-bar").removeClass("showsidebar")})</script><script>$(document).ready(function(){$("div pre").removeAttr("style");var e,t=$(location).attr("hash");"#package-explorer"==t&&(e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]'),e&&e.click()),$('a:has(img[alt="banner"]').click(function(){event.preventDefault();var e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]');e&&e.click()}),$(window).scroll(function(){$(this).scrollTop()>150?$(".backtop").fadeIn():$(".backtop").fadeOut()}),$(".backtop").click(function(){return $("html, body").animate({scrollTop:0},600),!1}),$(".linkshow").on("click",function(){$(this).find("i").toggleClass("fa-minus-square"),$(".linkshowbox").toggleClass("hide")}),document.querySelector("body").addEventListener("click",function(t){if(t.target.classList.contains("searchButton")){$(".ss-bar").removeClass("showsidebar");try{var e=$("input[name=q]").val();gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}if(t.target.classList.contains("fa-search")){$(".ss-bar").removeClass("showsidebar");try{e=$("input[name=q]").val(),gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}},!0)})</script><script>document.querySelectorAll("pre > code").forEach(t=>{const n=t.parentNode.parentNode,e=document.createElement("button");e.classList.add("copy-code"),e.innerHTML="copy";function s(){e.innerHTML="copied!",setTimeout(()=>{e.innerHTML="copy"},2e3)}e.addEventListener("click",o=>{if("clipboard"in navigator){navigator.clipboard.writeText(t.textContent),s();return}const e=document.createRange();e.selectNodeContents(t);const n=window.getSelection();n.removeAllRanges(),n.addRange(e);try{document.execCommand("copy"),s()}catch(e){}n.removeRange(e)}),n.classList.contains("highlight")?n.appendChild(e):n.parentNode.firstChild==n||(t.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName=="TABLE"?t.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(e):t.parentNode.appendChild(e))})</script></body></html>

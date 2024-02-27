@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Release Notes - 2009 on Releases - aspose.com</title><link>https://releases-qa.aspose.com/cells/reportingservices/release-notes/2009/</link><description>Recent content in Release Notes - 2009 on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/cells/reportingservices/release-notes/2009/index.xml" rel="self" type="application/rss+xml"/><item><title>Aspose.Cells for Reporting Services 1.4.3 Release Notes</title><link>https://releases-qa.aspose.com/cells/reportingservices/release-notes/2009/aspose-cells-for-reporting-services-1-4-3-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/reportingservices/release-notes/2009/aspose-cells-for-reporting-services-1-4-3-release-notes/</guid><description>This page contains release notes for [ Aspose.Cells for Reporting Services 1.4.3|https://releases.aspose.com/cells/reportingservices/new-releases/-aspose.cells-for-reporting-services-1.4.3/]
+We are happy to announce Aspose.Cells for Reporting Services v1.4.3!
+What’s changed
+?
+· Aspose.Cells.ReportingServices Client supports Reporting Services 2008 report format.
+· Rendering Performance is improved.
+· Includes report items style in report that is created by the report designer.
+· Aspose.Cells.ReportingServices Client is enhanced regarding the Reporting Server’s connectivity.
+· 13 fixes and other enhancements.</description></item><item><title>Aspose.Cells for Reporting Services v1.4.2 Release Notes</title><link>https://releases-qa.aspose.com/cells/reportingservices/release-notes/2009/aspose-cells-for-reporting-services-v1-4-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/reportingservices/release-notes/2009/aspose-cells-for-reporting-services-v1-4-2-release-notes/</guid><description>This page contains release notes for Aspose.Cells for Reporting Services v1.4.2
+What’s changed?
+· Enhanced SSRS2008 renderer, supported Document Map, Page Break and Gauge.
+· Boosted license function.
+· Improved rendering performance.
+· Enhanced MS Excel 2007 Custom UI of Aspose.Cells.Report.Designer component.
+· Fixed Aspose.Cells.Report.Designer general temp file bug.
+· Fixed Aspose.Cells.Report.Designer built dataset bug in 64-bit OS.</description></item><item><title>Aspose.Cells for Reporting Services v1.4.1 Release Notes</title><link>https://releases-qa.aspose.com/cells/reportingservices/release-notes/2009/aspose-cells-for-reporting-services-v1-4-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/reportingservices/release-notes/2009/aspose-cells-for-reporting-services-v1-4-1-release-notes/</guid><description>
+This page contains release notes for Aspose.Cells for Reporting Services v1.4.1
+We are happy to announce Aspose.Cells for Reporting Services 1.4.1!
+What’s changed
+l Added support for new rendering extension (Xlsm).
+l Excel templates with macros are supported.
+l Enhanced support for SSRS2008.
+l Improved rendering performance.
+Issues Resolved in Aspose.Cells for Reporting Services 1.4.1
+Issue ID Component Summary 8431 Render Format Lost bug 8211 Render SSRS2008 enhancements</description></item><item><title>Aspose.Cells for Reporting Services v1.4.0 Release Notes</title><link>https://releases-qa.aspose.com/cells/reportingservices/release-notes/2009/aspose-cells-for-reporting-services-v1-4-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/reportingservices/release-notes/2009/aspose-cells-for-reporting-services-v1-4-0-release-notes/</guid><description>
+This page contains release notes for Aspose.Cells for Reporting Services v1.4.0
+We are happy to announce Aspose.Cells for Reporting Services 1.4.0!
+What’s changed?
+l Supports Microsoft SQL Server 2008 Reporting Services.
+l Supports Microsoft SQL Server 2000 Reporting Services.
+l Integrates with Microsoft Report Viewer 2008 in Local Mode.
+l 9 fixes and enhancements.
+Fixes and enhancements in Aspose.Cells for Reporting Services 1.4.0
+Issue ID Component Summary 4889 Render Supports MicrosoftSQL Server 2000 Reporting Services 6312 Render Supports MicrosoftSQL Server 2008 Reporting Services 6466 Render Unable to connect to report server bug 6570 Render Exporting Hyperlinks 7467 Render Date Format Issues 7487 Render Report size issue when exporting to Excel 7713 Render Add encryption 7719 Client Enhanced error information 7720 Client Optimize client tool operations</description></item></channel></rss>

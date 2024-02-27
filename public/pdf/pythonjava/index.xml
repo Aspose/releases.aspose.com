@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PDF Document Processing APIs | Aspose.PDF Product Family on Releases - aspose.com</title><link>https://releases-qa.aspose.com/pdf/pythonjava/</link><description>Recent content in PDF Document Processing APIs | Aspose.PDF Product Family on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/pdf/pythonjava/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads ---New Releases-aspose.pdf-for-python-via-java-22.7.1</title><link>https://releases-qa.aspose.com/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-22.7.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-22.7.1/</guid><description>&amp;nbsp;
+Aspose.PDF for Python via Java 22.7.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+64.77MB
+Date Added:
+13/10/2023
+Release Noteshttps://releases.aspose.com/pdf/pythonjava/release-notes/
+DescriptionAspose.PDF for Python via Java 22.7.1 has been released.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e241acc911f2eb04481ec509a030c22c-13-9602&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.pdf-for-python-via-java-23.4.3</title><link>https://releases-qa.aspose.com/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.4.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.4.3/</guid><description>&amp;nbsp;
+Aspose.PDF for Python via Java 23.4.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+64.21MB
+Date Added:
+13/10/2023
+Release Noteshttps://releases.aspose.com/pdf/pythonjava/release-notes/
+DescriptionAspose.PDF for Python via Java 23.4.3 has been released.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=911f83876aef5479dc6de6f83dce2fe9-13-9603&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.pdf-for-python-via-java-23.5</title><link>https://releases-qa.aspose.com/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.5/</guid><description>&amp;nbsp;
+Aspose.PDF for Python via Java 23.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+64.22MB
+Date Added:
+13/10/2023
+Release Noteshttps://releases.aspose.com/pdf/pythonjava/release-notes/
+DescriptionAspose.PDF for Python via Java 23.5 has been released.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f128b0645465d895332de4c8a71a75a3-13-9604&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.pdf-for-python-via-java-23.6</title><link>https://releases-qa.aspose.com/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.6/</guid><description>&amp;nbsp;
+Aspose.PDF for Python via Java 23.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+64.22MB
+Date Added:
+13/10/2023
+Release Noteshttps://releases.aspose.com/pdf/pythonjava/release-notes/
+DescriptionAspose.PDF for Python via Java 23.6 has been released.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=08ed498cf3006c5fde377e9d47f6ca4d-13-9605&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.pdf-for-python-via-java-23.6.1</title><link>https://releases-qa.aspose.com/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.6.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.6.1/</guid><description>&amp;nbsp;
+Aspose.PDF for Python via Java 23.6.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+64.22MB
+Date Added:
+13/10/2023
+Release Noteshttps://releases.aspose.com/pdf/pythonjava/release-notes/
+DescriptionAspose.PDF for Python via Java 23.6.1 has been released.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=57d776f1a62ad0e163e0223d1149fa61-13-9606&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.pdf-for-python-via-java-23.8</title><link>https://releases-qa.aspose.com/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.8/</guid><description>&amp;nbsp;
+Aspose.PDF for Python via Java 23.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+64.22MB
+Date Added:
+13/10/2023
+Release Noteshttps://releases.aspose.com/pdf/pythonjava/release-notes/
+DescriptionAspose.PDF for Python via Java 23.8 has been released.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fe2669438780785f291f6fb16b94b662-13-9607&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.pdf-for-python-via-java-23.10</title><link>https://releases-qa.aspose.com/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.10/</guid><description>&amp;nbsp;
+Aspose.PDF for Python via Java 23.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+63.81MB
+Date Added:
+13/10/2023
+Release Noteshttps://releases.aspose.com/pdf/pythonjava/release-notes/
+DescriptionAspose.PDF for Python via Java 23.10 has been released.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=979ac79d90823d50e0bae96573bf9c94-13-9608&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item></channel></rss>

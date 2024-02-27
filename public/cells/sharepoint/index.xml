@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Excel File Converter for SharePoint | Aspose.Cells for SharePoint on Releases - aspose.com</title><link>https://releases-qa.aspose.com/cells/sharepoint/</link><description>Recent content in Excel File Converter for SharePoint | Aspose.Cells for SharePoint on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/cells/sharepoint/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---New-Releases-aspose.cells-for-sharepoint-1.0.0 .</title><link>https://releases-qa.aspose.com/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-1.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-1.0.0/</guid><description>&amp;nbsp;
+Aspose.Cells for SharePoint 1.0.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 74 File Size: 4.7 MB Posted By: Amjad Sahi Views: 547 Date Added: 6/18/2010
+Release Noteshttps://releases.aspose.com/cells/sharepoint/release-notes/2010/aspose-cells-for-sharepoint-1-0-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=751ae75536d649578eb09c1fda560c35&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.cells-for-sharepoint-2.0.0 .</title><link>https://releases-qa.aspose.com/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-2.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-2.0.0/</guid><description>&amp;nbsp;
+Aspose.Cells for SharePoint 2.0.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 105 File Size: 7.6 MB Posted By: Amjad Sahi Views: 628 Date Added: 11/11/2010
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7a5e616c6f2b4c6e83f5f0355e076b75&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.cells-for-sharepoint-2.0.1 .</title><link>https://releases-qa.aspose.com/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-2.0.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-2.0.1/</guid><description>&amp;nbsp;
+Aspose.Cells for SharePoint 2.0.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 45 File Size: 8.5 MB Posted By: Amjad Sahi Views: 967 Date Added: 2/14/2011
+Release Noteshttp://www.aspose.com/docs/display/cellssharepoint/Aspose.Cells+for+SharePoint+2.0.1+Release+Notes
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=be8dfee03b8d401f8a6b6db1437f20d9&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.cells-for-sharepoint-2.0.2 .</title><link>https://releases-qa.aspose.com/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-2.0.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-2.0.2/</guid><description>&amp;nbsp;
+Aspose.Cells for SharePoint 2.0.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 110 File Size: 6.2 MB Posted By: Amjad Sahi Views: 851 Date Added: 12/15/2011
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c5d1928bf5de4a19b2bcb8c45e1e287e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.cells-for-sharepoint-3.0.0 .</title><link>https://releases-qa.aspose.com/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-3.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-3.0.0/</guid><description>&amp;nbsp;
+Aspose.Cells for SharePoint 3.0.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 52 File Size: Posted By:-4b8b7ab3b7c04d379ceda2c3d702d50c" }} 8.0 MB Posted By: Amjad Sahi Views: 922 Date Added: 11/23/2012
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4b8b7ab3b7c04d379ceda2c3d702d50c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.cells-for-sharepoint-3.0.1 .</title><link>https://releases-qa.aspose.com/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-3.0.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-3.0.1/</guid><description>&amp;nbsp;
+Aspose.Cells for SharePoint 3.0.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 86 File Size: Posted By:-dd7596669fe34bb7a2cb49c9fae86799" }} 9.4 MB Posted By: Amjad Sahi Views: 886 Date Added: 1/21/2013
+Release Noteshttps://releases.aspose.com/cells/sharepoint/release-notes/2013/aspose-cells-for-sharepoint-3-0-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=dd7596669fe34bb7a2cb49c9fae86799&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.cells-for-sharepoint-3.0.2 .</title><link>https://releases-qa.aspose.com/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-3.0.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-3.0.2/</guid><description>&amp;nbsp;
+Aspose.Cells for SharePoint 3.0.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 150 File Size: 9.3 MB Posted By: Amjad Sahi Views: 1170 Date Added: 7/2/2013
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3b10a614a16144648b298ae30e6df430&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.cells-for-sharepoint-3.1.0 .</title><link>https://releases-qa.aspose.com/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-3.1.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-3.1.0/</guid><description>&amp;nbsp;
+Aspose.Cells for SharePoint 3.1.0
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 323 File Size: 13.2 MB Posted By: wangtao Views: 1245 Date Added: 5/14/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=eb88a3ae68c74d09813f5821bdd8c3ce&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.cells-for-sharepoint-17.6 .</title><link>https://releases-qa.aspose.com/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-17.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-17.6/</guid><description>&amp;nbsp;
+Aspose.Cells for SharePoint 17.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 5 File Size: 13.3 MB Posted By: wangtao Views: 1025 Date Added: 6/23/2017
+Release Noteshttps://releases.aspose.com/cells/sharepoint/release-notes/2017/aspose-cells-for-sharepoint-17-6-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7255bbb28d034606909f10d38a42e624&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.cells-for-sharepoint-17.7 .</title><link>https://releases-qa.aspose.com/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-17.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-17.7/</guid><description>&amp;nbsp;
+Aspose.Cells for SharePoint 17.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 17 File Size: 16.2 MB Posted By: wangtao Views: 1149 Date Added: 7/12/2017
+Release Noteshttps://releases.aspose.com/cells/sharepoint/release-notes/2017/aspose-cells-for-sharepoint-17-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=51b85e8f35fd4a58961abbe570612718&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases--aspose.cells-for-sharepoint-17.8 .</title><link>https://releases-qa.aspose.com/cells/sharepoint/new-releases/-aspose.cells-for-sharepoint-17.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/sharepoint/new-releases/-aspose.cells-for-sharepoint-17.8/</guid><description>&amp;nbsp;
+Aspose.Cells for SharePoint 17.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 8 File Size: 16.3 MB Posted By: wangtao Views: 1066 Date Added: 8/23/2017
+Release Noteshttps://releases.aspose.com/cells/sharepoint/release-notes/2017/aspose-cells-for-sharepoint-17-8-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ebf558d1d1a349af9bda7a1e0b1797b8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.cells-for-sharepoint-17.9 .</title><link>https://releases-qa.aspose.com/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-17.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-17.9/</guid><description>&amp;nbsp;
+Aspose.Cells for SharePoint 17.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads: 77 File Size: 16.1 MB Posted By: wangtao Views: 1225 Date Added: 9/21/2017
+Release Noteshttps://releases.aspose.com/cells/sharepoint/release-notes/2017/aspose-cells-for-sharepoint-17-9-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d3cfaf36c49e4a19957ca8f2d78fa252&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.cells-for-sharepoint-22.3</title><link>https://releases-qa.aspose.com/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-22.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/sharepoint/new-releases/aspose.cells-for-sharepoint-22.3/</guid><description>&amp;nbsp;
+Aspose.Cells for SharePoint 22.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+28.43MB
+Date Added:
+10/6/2022
+Release Noteshttps://releases.aspose.com/cells/sharepoint/release-notes/2022/aspose-cells-for-sharepoint-22-3-release-notes/
+DescriptionIt contains Aspose.Cells for SharePoint 22.3 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=635be5096a196ed6d6c0b66578519dfd-2-7431&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

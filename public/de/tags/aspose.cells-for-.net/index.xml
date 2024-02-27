@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aspose.Cells for .NET on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/tags/aspose.cells-for-.net/</link><description>Recent content in Aspose.Cells for .NET on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/tags/aspose.cells-for-.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads --- NEW Releases-ASSOSPLE.Cells-for -.net-23.3</title><link>https://releases-qa.aspose.com/de/cells/net/new-releases/aspose.cells-for-.net-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/net/new-releases/aspose.cells-for-.net-23.3/</guid><description>&amp;nbsp;
+ASSONE.CELLS FÜR .NET 23.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+66.47MB
+Datum hinzugefügt:
+8/3/2023
+Versionshinweisehttps://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-3-release-notes/
+BeschreibungASSONE.CELLS FÜR .NET 23.3
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=426516377656fd68807528b1728c9a7f-14-8614&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Cells-for -.net-23.4</title><link>https://releases-qa.aspose.com/de/cells/net/new-releases/aspose.cells-for-.net-23.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/net/new-releases/aspose.cells-for-.net-23.4/</guid><description>&amp;nbsp;
+ASSONE.CELLS FÜR .NET 23.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+66.81MB
+Datum hinzugefügt:
+11/4/2023
+Versionshinweisehttps://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-4-release-notes/
+BeschreibungASSONE.CELLS FÜR .NET 23.4
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1b6a6d2c25fdd0a3fe129916a29b6290-14-8738&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Cells-for -.net-23.5</title><link>https://releases-qa.aspose.com/de/cells/net/new-releases/aspose.cells-for-.net-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/net/new-releases/aspose.cells-for-.net-23.5/</guid><description>&amp;nbsp;
+ASSONE.CELLS FÜR .NET 23.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+66.93MB
+Datum hinzugefügt:
+9/5/2023
+Versionshinweisehttps://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-5-release-notes/
+BeschreibungASSONE.CELLS FÜR .NET 23.5
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b1608a6a134d1cd5d978803778562b1b-14-8847&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPLE.Cells-for -.net-23.6</title><link>https://releases-qa.aspose.com/de/cells/net/new-releases/aspose.cells-for-.net-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/net/new-releases/aspose.cells-for-.net-23.6/</guid><description>&amp;nbsp;
+ASSONE.CELLS FÜR .NET 23.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+67.04MB
+Datum hinzugefügt:
+8/6/2023
+Versionshinweisehttps://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-6-release-notes/
+BeschreibungASSONE.CELLS FÜR .NET 23.6
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2147117562f46eebcb24be026a9caab4-14-8957&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Cells-for -.net-23.7</title><link>https://releases-qa.aspose.com/de/cells/net/new-releases/aspose.cells-for-.net-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/net/new-releases/aspose.cells-for-.net-23.7/</guid><description>&amp;nbsp;
+ASSONE.CELLS FÜR .NET 23.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+67.39MB
+Datum hinzugefügt:
+13/7/2023
+Versionshinweisehttps://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-7-release-notes/
+BeschreibungASSONE.CELLS FÜR .NET 23.7
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5d9599a904b061e1250fa6f377955062-14-9205&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Cells-for -.net-23.9</title><link>https://releases-qa.aspose.com/de/cells/net/new-releases/aspose.cells-for-.net-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/net/new-releases/aspose.cells-for-.net-23.9/</guid><description>&amp;nbsp;
+ASSONE.CELLS FÜR .NET 23.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+74.43MB
+Datum hinzugefügt:
+13/9/2023
+Versionshinweisehttps://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-9-release-notes/
+BeschreibungASSONE.CELLS FÜR .NET 23.9
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6b356232200eb03f1e166d625efec24d-15-9451&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Cells-for -.net-23.10</title><link>https://releases-qa.aspose.com/de/cells/net/new-releases/aspose.cells-for-.net-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/net/new-releases/aspose.cells-for-.net-23.10/</guid><description>&amp;nbsp;
+ASSONE.CELLS FÜR .NET 23.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+74.56MB
+Datum hinzugefügt:
+12/10/2023
+Versionshinweisehttps://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-10-release-notes/
+BeschreibungASSONE.CELLS FÜR .NET 23.10
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0a6b0ecb169688fc1cf8796ace495814-15-9596&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Cells-for -.net-23.11</title><link>https://releases-qa.aspose.com/de/cells/net/new-releases/aspose.cells-for-.net-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/net/new-releases/aspose.cells-for-.net-23.11/</guid><description>&amp;nbsp;
+ASSONE.CELLS FÜR .NET 23.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+80.38MB
+Datum hinzugefügt:
+9/11/2023
+Versionshinweisehttps://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-11-release-notes/
+BeschreibungASSONE.CELLS FÜR .NET 23.11
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=04efa34d238be512caffc930ebe69c8f-17-9713&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPLE.Cells-for -.net-23.12</title><link>https://releases-qa.aspose.com/de/cells/net/new-releases/aspose.cells-for-.net-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/net/new-releases/aspose.cells-for-.net-23.12/</guid><description>&amp;nbsp;
+ASSONE.CELLS FÜR .NET 23.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+80.68MB
+Datum hinzugefügt:
+12/12/2023
+Versionshinweisehttps://docs.aspose.com/cells/net/aspose-cells-for-net-23-12-release-notes/
+BeschreibungASSONE.CELLS FÜR .NET 23.12
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ca55dbaa4a86a947e68d3d5ea705d00b-17-9976&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.Cells-for -.net-24.1</title><link>https://releases-qa.aspose.com/de/cells/net/new-releases/aspose.cells-for-.net-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/net/new-releases/aspose.cells-for-.net-24.1/</guid><description>&amp;nbsp;
+ASSONE.CELLS FÜR .NET 24.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+92.27MB
+Datum hinzugefügt:
+10/1/2024
+Versionshinweisehttps://releases.aspose.com/cells/net/release-notes/2024/aspose-cells-for-net-24-1-release-notes/
+BeschreibungASSONE.CELLS FÜR .NET 24.1
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=20dfee59249139e1eaec188bb521a67f-19-10135&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.Cells-for -.net-2.2</title><link>https://releases-qa.aspose.com/de/cells/net/new-releases/aspose.cells-for-.net-24.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/net/new-releases/aspose.cells-for-.net-24.2/</guid><description>&amp;nbsp;
+ASSONE.CELLS FÜR .NET 24.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+92.6MB
+Datum hinzugefügt:
+5/2/2024
+Versionshinweisehttps://releases.aspose.com/cells/net/release-notes/2024/aspose-cells-for-net-24-2-release-notes/
+BeschreibungASSONE.CELLS FÜR .NET 24.2
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=46fa9e5c22a9d9251ab8d968a14288ed-19-10297&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

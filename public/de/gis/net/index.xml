@@ -1,0 +1,2955 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lokale GIS-Datenverarbeitungs-API | Aspose.GIS für .NET on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/gis/net/</link><description>Recent content in Lokale GIS-Datenverarbeitungs-API | Aspose.GIS für .NET on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/gis/net/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---New-Releases-aspose.gis-for-.net-18.2-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.2-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.2-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 18.2 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+27
+Dateigröße:
+580.1 KB Posted By: egor.kluban
+Ansichten:
+164
+Hinzugefügt am:
+2/13/2018
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2018/aspose-gis-for-net-18-2-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-18.2 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.2/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 18.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+30
+Dateigröße:
+968.0 KB Posted By: egor.kluban
+Ansichten:
+292
+Hinzugefügt am:
+2/13/2018
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2018/aspose-gis-for-net-18-2-release-notes/ BeschreibungEs enthält Aspose.GIS für die Version .NET 18.2.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b7627776b4814727ab52727988acff94&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-18.3 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.3/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 18.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+15
+Dateigröße:
+996.0 KB Posted By: egor.kluban
+Ansichten:
+31
+Hinzugefügt am:
+3/26/2018
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2018/aspose-gis-for-net-18-3-release-notes/ BeschreibungAspose.GIS für .NET 18.3-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=57148a31e91c432d9641cef7c7e24b02&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.gis-for-.net-18.3-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.3-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.3-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 18.3 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+20
+Dateigröße:
+606.3 KB Posted By: egor.kluban
+Ansichten:
+73
+Hinzugefügt am:
+3/26/2018
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2018/aspose-gis-for-net-18-3-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-18.4 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.4/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 18.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+1.1 MB Posted By: egor.kluban
+Ansichten:
+23
+Hinzugefügt am:
+4/25/2018
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2018/aspose-gis-for-net-18-4-release-notes/ BeschreibungAspose.GIS für .NET 18.4-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=271772addddb4a738c1845284628e020&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-18.4-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.4-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.4-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 18.4 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+689.7 KB Posted By: egor.kluban
+Ansichten:
+24
+Hinzugefügt am:
+4/25/2018
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2018/aspose-gis-for-net-18-4-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-18.6 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.6/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 18.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+1.5 MB Posted By: oleksiikucherenko95
+Ansichten:
+16
+Hinzugefügt am:
+6/29/2018
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2018/aspose-gis-for-net-18-6-release-notes/ BeschreibungAspose.GIS für .NET 18.6-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c6944a43c9a049929d60e368af54070a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.gis-for-.net-18.6-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.6-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.6-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 18.6 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+1.2 MB Posted By: oleksiikucherenko95
+Ansichten:
+19
+Hinzugefügt am:
+6/29/2018
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2018/aspose-gis-for-net-18-6-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-18.7 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.7/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 18.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+14
+Dateigröße:
+1.6 MB Posted By: oleksiikucherenko95
+Ansichten:
+16
+Hinzugefügt am:
+7/11/2018
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2018/aspose-gis-for-net-18-7-release-notes/ BeschreibungAspose.GIS für .NET 18.7-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6c27b7f6576e468f87b05ded44b0f88e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-18.7-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.7-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.7-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 18.7 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+1.3 MB Posted By: oleksiikucherenko95
+Ansichten:
+10
+Hinzugefügt am:
+7/11/2018
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2018/aspose-gis-for-net-18-7-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-18.8 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.8/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 18.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+17
+Dateigröße:
+1.7 MB Posted By: oleksiikucherenko95
+Ansichten:
+23
+Hinzugefügt am:
+8/6/2018
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2018/aspose-gis-for-net-18-8-release-notes/ BeschreibungAspose.GIS für .NET 18.8-Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7b3f405603a943e2a423f55a1c12ad33&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-18.8-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.8-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.8-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 18.8 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+16
+Dateigröße:
+1.3 MB Posted By: oleksiikucherenko95
+Ansichten:
+19
+Hinzugefügt am:
+8/6/2018
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2018/aspose-gis-for-net-18-8-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-18.9 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.9/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 18.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+19
+Dateigröße:
+1.7 MB Posted By: oleksiikucherenko95
+Ansichten:
+70
+Hinzugefügt am:
+9/11/2018
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2018/aspose-gis-for-net-18-9-release-notes/ BeschreibungAspose.GIS für die Version .NET 18.9.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7764cf344abd408ba92f52051a875217&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-18.9-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.9-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 18.9 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+1.4 MB Posted By: oleksiikucherenko95
+Ansichten:
+26
+Hinzugefügt am:
+9/11/2018
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2018/aspose-gis-for-net-18-9-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-18.10 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.10/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 18.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+17
+Dateigröße:
+1.7 MB Posted By: oleksiikucherenko95
+Ansichten:
+96
+Hinzugefügt am:
+10/8/2018
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2018/aspose-gis-for-net-18-10-release-notes/ BeschreibungAspose.GIS für .NET 18.10-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=77800651d4084798a56f351bd637ec46&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.gis-for-.net-18.10-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.10-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.10-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 18.10 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+13
+Dateigröße:
+1.4 MB Posted By: oleksiikucherenko95
+Ansichten:
+12
+Hinzugefügt am:
+10/8/2018
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2018/aspose-gis-for-net-18-10-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-18.11 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.11/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 18.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+1.7 MB Posted By: oleksiikucherenko95
+Ansichten:
+16
+Hinzugefügt am:
+11/9/2018
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2018/aspose-gis-for-net-18-11-release-notes/ BeschreibungAspose.GIS für .NET 18.11-Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4a073ae2e21d45459e1a5016fd95a1c0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.gis-for-.net-18.11-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.11-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.11-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 18.11 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+1.4 MB Posted By: oleksiikucherenko95
+Ansichten:
+23
+Hinzugefügt am:
+11/9/2018
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2018/aspose-gis-for-net-18-11-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-18.11.1 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.11.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.11.1/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 18.11.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+1.7 MB Posted By: oleksiikucherenko95
+Ansichten:
+12
+Hinzugefügt am:
+11/16/2018
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2018/aspose-gis-for-net-18-11-1-release-notes/ BeschreibungAspose.GIS für .NET 18.11.1-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=def0616a05ce490bb7491a56bc95ea66&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.gis-for-.net-18.11.1-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.11.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.11.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 18.11.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+1.4 MB Posted By: oleksiikucherenko95
+Ansichten:
+15
+Hinzugefügt am:
+11/16/2018
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2018/aspose-gis-for-net-18-11-1-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-18.12 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.12/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 18.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+1.8 MB Posted By: oleksiikucherenko95
+Ansichten:
+6
+Hinzugefügt am:
+12/3/2018
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2018/aspose-gis-for-net-18-12-release-notes/ BeschreibungAspose.GIS für .NET 18.12-Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=909c1660cba54bebbfe28af526c7a0b3&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.gis-for-.net-18.12-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.12-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.12-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 18.12 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+1.4 MB Posted By: oleksiikucherenko95
+Ansichten:
+12
+Hinzugefügt am:
+12/3/2018
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2018/aspose-gis-for-net-18-12-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-18.12.1 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.12.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.12.1/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 18.12.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+21
+Dateigröße:
+1.8 MB Posted By: oleksiikucherenko95
+Ansichten:
+13
+Hinzugefügt am:
+12/13/2018
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2018/aspose-gis-for-net-18-12-1-release-notes/ BeschreibungAspose.GIS für .NET 18.12.1-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=adda02d67ef648de8686d3b7d4ecfb0a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.gis-for-.net-18.12.1-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.12.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-18.12.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 18.12.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+24
+Dateigröße:
+1.4 MB Posted By: oleksiikucherenko95
+Ansichten:
+25
+Hinzugefügt am:
+12/13/2018
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2018/aspose-gis-for-net-18-12-1-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-19.1 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.1/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+22
+Dateigröße:
+1.8 MB Posted By: oleksiikucherenko95
+Ansichten:
+13
+Hinzugefügt am:
+1/10/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-1-release-notes/ BeschreibungAspose.GIS für .NET 19.1-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=79858465169c4df99e9fcd12552cb05c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.gis-for-.net-19.1-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+27
+Dateigröße:
+1.5 MB Posted By: oleksiikucherenko95
+Ansichten:
+14
+Hinzugefügt am:
+1/10/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-1-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-19.2 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.2/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+21
+Dateigröße:
+1.9 MB Posted By: oleksiikucherenko95
+Ansichten:
+139
+Hinzugefügt am:
+2/8/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-2-release-notes/ BeschreibungAspose.GIS für die Version .NET 19.2.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9b25b912d9914d81be87af1c4bb88057&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-19.2-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.2-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.2-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.2 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+26
+Dateigröße:
+1.6 MB Posted By: oleksiikucherenko95
+Ansichten:
+14
+Hinzugefügt am:
+2/8/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-2-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-19.3 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.3/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+1.9 MB Posted By: oleksiikucherenko95
+Ansichten:
+9
+Hinzugefügt am:
+3/15/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-3-release-notes/ BeschreibungAspose.GIS für die Version .NET 19.3.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=68e1b3c407964efc94c6dff910af0343&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-19.3-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.3-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.3-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.3 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+1.6 MB Posted By: oleksiikucherenko95
+Ansichten:
+8
+Hinzugefügt am:
+3/15/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-3-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-19.4 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.4/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+1.9 MB Posted By: oleksiikucherenko95
+Ansichten:
+6
+Hinzugefügt am:
+4/12/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-4-release-notes/ BeschreibungAspose.GIS für .NET 19.4-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4f249fe2b6af4204b61d29a31b35e534&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-19.4-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.4-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.4-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.4 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+1.6 MB Posted By: oleksiikucherenko95
+Ansichten:
+8
+Hinzugefügt am:
+4/12/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-4-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-19.5 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.5/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+4.3 MB Posted By: oleksiikucherenko95
+Ansichten:
+6
+Hinzugefügt am:
+5/8/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-5-release-notes/ BeschreibungAspose.GIS für .NET 19.5-Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e4bfa4275ce1421b8ba8e820e91ac036&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-19.5-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.5-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.5-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.5 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+14
+Dateigröße:
+3.9 MB Posted By: oleksiikucherenko95
+Ansichten:
+10
+Hinzugefügt am:
+5/8/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-5-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-19.6 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.6/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+12.0 MB Posted By: oleksiikucherenko95
+Ansichten:
+5
+Hinzugefügt am:
+6/7/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-6-release-notes/ BeschreibungAspose.GIS für die Version .NET 19.6.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a0289bb525654f92af8c9aa0308e2870&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-19.6-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.6-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.6-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.6 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+11.6 MB Posted By: oleksiikucherenko95
+Ansichten:
+166
+Hinzugefügt am:
+6/7/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-6-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-19.6.1 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.6.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.6.1/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.6.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+12.0 MB Posted By: oleksiikucherenko95
+Ansichten:
+10
+Hinzugefügt am:
+6/28/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-6-1-release-notes/ BeschreibungAspose.GIS für .NET 19.6.1-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=642e45ed4d9845349245b6890514124e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.gis-for-.net-19.6.1-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.6.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.6.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.6.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+11.6 MB Posted By: oleksiikucherenko95
+Ansichten:
+10
+Hinzugefügt am:
+6/28/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-6-1-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-19.7 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.7/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+4
+Dateigröße:
+4.3 MB Posted By: oleksiikucherenko95
+Ansichten:
+8
+Hinzugefügt am:
+7/16/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-7-release-notes/ BeschreibungAspose.GIS für .NET 19.7-Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7590a010909647738fbd7b4abc6e4f4c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-19.7-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.7-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.7-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.7 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+4.0 MB Posted By: oleksiikucherenko95
+Ansichten:
+15
+Hinzugefügt am:
+7/16/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-7-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-19.7.1 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.7.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.7.1/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.7.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+4.3 MB Posted By: oleksiikucherenko95
+Ansichten:
+14
+Hinzugefügt am:
+7/26/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-7-1-release-notes/ BeschreibungAspose.GIS für .NET 19.7.1-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=015e4644184641cc8671c96fed233cbf&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.gis-for-.net-19.7.1-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.7.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.7.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.7.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+4.0 MB Posted By: oleksiikucherenko95
+Ansichten:
+7
+Hinzugefügt am:
+7/26/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-7-1-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-19.8 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.8/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+4.4 MB Posted By: oleksiikucherenko95
+Ansichten:
+25
+Hinzugefügt am:
+8/22/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-8-release-notes/ BeschreibungAspose.GIS für die Version .NET 19.8.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0a1ecade638b4155b98a75031413414a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.gis-for-.net-19.8-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.8-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.8-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.8 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+Dateigröße:
+4.1 MB Posted By: oleksiikucherenko95
+Ansichten:
+4
+Hinzugefügt am:
+8/22/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-8-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-19.8.1 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.8.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.8.1/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.8.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+4.4 MB Posted By: oleksiikucherenko95
+Ansichten:
+2
+Hinzugefügt am:
+9/2/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-8-1-release-notes/ BeschreibungAspose.GIS für .NET 19.8.1-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fd5b76f4ca4546dfa45c390ca4ed956e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.gis-for-.net-19.8.1-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.8.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.8.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.8.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+Dateigröße:
+4.1 MB Posted By: oleksiikucherenko95
+Ansichten:
+2
+Hinzugefügt am:
+9/2/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-8-1-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-19.8.2 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.8.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.8.2/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.8.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+4.4 MB Posted By: oleksiikucherenko95
+Ansichten:
+5
+Hinzugefügt am:
+9/4/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-8-2-release-notes/ BeschreibungAspose.GIS für .NET 19.8.2-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c6d44321760a49caa6ca79af7cd8b999&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.gis-for-.net-19.8.2-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.8.2-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.8.2-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.8.2 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+4.1 MB Posted By: oleksiikucherenko95
+Ansichten:
+5
+Hinzugefügt am:
+9/4/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-8-2-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-19.9 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.9/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+4.4 MB Posted By: oleksiikucherenko95
+Ansichten:
+10
+Hinzugefügt am:
+9/30/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-9-release-notes/ BeschreibungAspose.GIS für die Version .NET 19.9.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9ef8e50ed10c4e5e97c03bc3f9a79901&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.gis-for-.net-19.9-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.9-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.9 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+4.1 MB Posted By: oleksiikucherenko95
+Ansichten:
+8
+Hinzugefügt am:
+9/30/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-9-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-19.10 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.10/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+4.4 MB Posted By: oleksiikucherenko95
+Ansichten:
+2
+Hinzugefügt am:
+10/23/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-10-release-notes/ BeschreibungAspose.GIS für .NET 19.10-Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f9ded48a3a474f2598df71be172be4f8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.gis-for-.net-19.10-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.10-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.10-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.10 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+4.1 MB Posted By: oleksiikucherenko95
+Ansichten:
+2
+Hinzugefügt am:
+10/23/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-10-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-19.11 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.11/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+15
+Dateigröße:
+4.5 MB Posted By: oleksiikucherenko95
+Ansichten:
+9
+Hinzugefügt am:
+11/13/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-11-release-notes/ BeschreibungAspose.GIS für .NET 19.11-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b5cbe5ce7fd34a289a03ea62014f0143&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.gis-for-.net-19.11-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.11-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.11-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.11 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+13
+Dateigröße:
+4.2 MB Posted By: oleksiikucherenko95
+Ansichten:
+83
+Hinzugefügt am:
+11/13/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-11-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-19.12 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.12/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+4.4 MB Posted By: oleksiikucherenko95
+Ansichten:
+5
+Hinzugefügt am:
+12/24/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-12-release-notes/ BeschreibungAspose.GIS für .NET 19.12-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d3cc977bf50444a3bb8ee3a5f1db82f1&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.gis-for-.net-19.12-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.12-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-19.12-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 19.12 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+13
+Dateigröße:
+4.1 MB Posted By: oleksiikucherenko95
+Ansichten:
+105
+Hinzugefügt am:
+12/24/2019
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2019/aspose-gis-for-net-19-12-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-20.1 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.1/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 20.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+4.5 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+19
+Hinzugefügt am:
+1/30/2020
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-01-release-notes/ BeschreibungAspose.GIS für .NET 20.1-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8738992b4b994cbba1a230672c0bbe03&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-20.1-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 20.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+4.2 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+20
+Hinzugefügt am:
+1/30/2020
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-01-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-20.2 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.2/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 20.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+4.5 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+27
+Hinzugefügt am:
+2/18/2020
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-02-release-notes/ BeschreibungAspose.GIS für die Version .NET 20.2.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cef8dff604ac411fa83aedc23c9e8793&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.gis-for-.net-20.2-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.2-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.2-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 20.2 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+4.2 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+13
+Hinzugefügt am:
+2/18/2020
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-02-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-20.3 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.3/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 20.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+4.5 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+27
+Hinzugefügt am:
+3/11/2020
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-03-release-notes/ BeschreibungAspose.GIS für .NET 20.3-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=acd1308c0c06458b9598dc889b1e9eaa&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-20.3-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.3-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.3-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 20.3 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+14
+Dateigröße:
+4.2 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+81
+Hinzugefügt am:
+3/11/2020
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-03-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-20.4 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.4/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 20.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+10.4 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+31
+Hinzugefügt am:
+4/6/2020
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-04-release-notes/ BeschreibungAspose.GIS für .NET 20.4-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9669f9772ab34546826a239d1321cd40&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-20.4-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.4-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.4-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 20.4 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+13
+Dateigröße:
+10.0 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+148
+Hinzugefügt am:
+4/6/2020
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-04-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-20.5 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.5/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 20.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+10.4 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+29
+Hinzugefügt am:
+5/21/2020
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-05-release-notes/ BeschreibungAspose.GIS für die Version .NET 20.5.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=52c8561528ec4a8d994aeb8503fc5696&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-20.5-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.5-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.5-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 20.5 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+10.0 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+32
+Hinzugefügt am:
+5/21/2020
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-05-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-20.6 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.6/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 20.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+10.4 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+44
+Hinzugefügt am:
+6/9/2020
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-06-release-notes/ BeschreibungAspose.GIS für .NET 20.6-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=52477bd7794c4c12af030489c18576fb&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-20.6-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.6-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.6-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 20.6 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+10.1 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+99
+Hinzugefügt am:
+6/9/2020
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-06-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-20.7 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.7/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 20.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+10.4 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+41
+Hinzugefügt am:
+7/8/2020
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-07-release-notes/ BeschreibungAspose.GIS für .NET 20.7-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1ed3941ee19540f6aaa209a38ad49b94&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-20.7-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.7-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.7-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 20.7 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+10.1 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+37
+Hinzugefügt am:
+7/8/2020
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-07-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-20.8 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.8/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 20.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+10.4 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+41
+Hinzugefügt am:
+8/4/2020
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-08-release-notes/ BeschreibungAspose.GIS für die Version .NET 20.8.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0106a8f509384d15b2f63a6a37724a24&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-20.8-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.8-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.8-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 20.8 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+10.1 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+42
+Hinzugefügt am:
+8/4/2020
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-08-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-20.9 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.9/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 20.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+10.6 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+29
+Hinzugefügt am:
+9/8/2020
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-09-release-notes/ BeschreibungAspose.GIS für die Version .NET 20.9.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e1406c0ae718457182db8a630152c4a8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-20.9-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.9-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 20.9 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+10.3 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+31
+Hinzugefügt am:
+9/8/2020
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-09-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-20.10 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.10/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 20.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+10.6 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+27
+Hinzugefügt am:
+10/16/2020
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-10-release-notes/ BeschreibungAspose.GIS für .NET 20.10-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ef617f95a67449f490ca9d40e3602a18&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.gis-for-.net-20.10-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.10-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.10-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 20.10 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+10.3 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+31
+Hinzugefügt am:
+10/16/2020
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-10-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-20.11 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.11/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 20.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+10.6 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+21
+Hinzugefügt am:
+11/19/2020
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-11-release-notes/ BeschreibungAspose.GIS für .NET 20.11-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3e6cd18b9fdf44af8235dfe58acc5f7b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.gis-for-.net-20.11-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.11-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.11-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 20.11 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+10.3 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+47
+Hinzugefügt am:
+11/19/2020
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-11-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-20.12 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.12/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 20.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+10.6 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+31
+Hinzugefügt am:
+12/8/2020
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-12-release-notes/ BeschreibungAspose.GIS für die Version .NET 20.12.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1f61a6d182db448d839a68efe93873c2&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.gis-for-.net-20.12-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.12-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-20.12-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 20.12 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+10.3 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+28
+Hinzugefügt am:
+12/8/2020
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2020/aspose-gis-for-net-20-12-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-21.1 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.1/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 21.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+10.6 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+22
+Hinzugefügt am:
+1/18/2021
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-1-release-notes/ BeschreibungAspose.GIS für .NET 21.1-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7f26ec5d92b04852bdf718a59b42fa03&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.gis-for-.net-21.1-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 21.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+10.3 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+26
+Hinzugefügt am:
+1/18/2021
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-1-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-21.2 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.2/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 21.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+10.3 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+19
+Hinzugefügt am:
+2/3/2021
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-2-release-notes/ BeschreibungAspose.GIS für .NET 21.2-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0835834529b44318bbe668bd03c75184&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-21.2-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.2-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.2-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 21.2 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+10.3 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+28
+Hinzugefügt am:
+2/3/2021
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-2-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-21.3 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.3/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 21.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+4
+Dateigröße:
+10.7 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+25
+Hinzugefügt am:
+3/2/2021
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-3-release-notes/ BeschreibungAspose.GIS für .NET 21.3-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ae7fb4b3d9b044d4a53c503409eb83e9&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-21.3-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.3-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.3-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 21.3 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+10.3 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+34
+Hinzugefügt am:
+3/2/2021
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-3-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-21.4 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.4/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 21.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+10.7 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+33
+Hinzugefügt am:
+4/1/2021
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-4-release-notes/ BeschreibungAspose.GIS für .NET 21.4-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=880eae25b6d24ea9a9e37fe3a0ab0c28&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-21.4-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.4-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.4-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 21.4 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+13
+Dateigröße:
+10.3 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+40
+Hinzugefügt am:
+4/1/2021
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-4-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases--aspose.gis-for-.net-21.5 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/-aspose.gis-for-.net-21.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/-aspose.gis-for-.net-21.5/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 21.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+10.7 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+31
+Hinzugefügt am:
+5/18/2021
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-5-release-notes/ BeschreibungAspose.GIS für .NET 21.5-Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c7882cf80e1c45d3bd143b04ac71b914&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-21.5-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.5-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.5-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 21.5 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+10.4 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+40
+Hinzugefügt am:
+5/18/2021
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-5-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-21.6 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.6/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 21.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+10.7 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+26
+Hinzugefügt am:
+6/17/2021
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-6-release-notes/ BeschreibungAspose.GIS für .NET 21.6-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=01317470a73544d2bb17d6bac2a4bdd7&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-21.6-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.6-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.6-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 21.6 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+10.4 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+29
+Hinzugefügt am:
+6/17/2021
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-6-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases--aspose.gis-for-.net-21.7 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/-aspose.gis-for-.net-21.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/-aspose.gis-for-.net-21.7/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 21.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+10.7 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+32
+Hinzugefügt am:
+7/7/2021
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-7-release-notes/ BeschreibungAspose.GIS für .NET 21.7-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9b6225c9ca1a4443aa47b21a7cde2d36&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-21.7-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.7-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.7-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 21.7 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+15
+Dateigröße:
+10.4 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+38
+Hinzugefügt am:
+7/7/2021
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-7-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-21.8 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.8/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 21.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+10.7 MB Posted By: Evgeniy.Timofeev
+Views:
+39
+Hinzugefügt am:
+8/9/2021
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-8-release-notes/ BeschreibungAspose.GIS für .NET 21.8-Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=57414b9329fd4cb4a52d8bc3eaaac36e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-21.8-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.8-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.8-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 21.8 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+14
+Dateigröße:
+10.4 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+46
+Hinzugefügt am:
+8/9/2021
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-8-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases--aspose.gis-for-.net-21.9 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/-aspose.gis-for-.net-21.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/-aspose.gis-for-.net-21.9/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 21.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+4
+Dateigröße:
+10.7 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+33
+Hinzugefügt am:
+9/13/2021
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-9-release-notes/ BeschreibungAspose.GIS für die Version .NET 21.9.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=df3e1e49634f4275adcc0cc40c3dbd80&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-21.9-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.9-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.9-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 21.9 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+10.4 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+39
+Hinzugefügt am:
+9/13/2021
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-9-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-21.10 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.10/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 21.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+10.8 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+34
+Hinzugefügt am:
+10/13/2021
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-10-release-notes/ BeschreibungAspose.GIS für .NET 21.10-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4864743249854d4d8768df135a5432cb&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---Neue-Releases--aspose.gis-for-.net-21.10-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/-aspose.gis-for-.net-21.10-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/-aspose.gis-for-.net-21.10-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 21.10 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+10.4 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+40
+Hinzugefügt am:
+10/13/2021
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-10-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-21.11 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-21.11/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 21.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+16
+Dateigröße:
+9.3 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+31
+Hinzugefügt am:
+11/28/2021
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-11-release-notes/ BeschreibungAspose.GIS für .NET 21.11-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a8481a27cf474f71ab285d78c6843b0e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases--aspose.gis-for-.net-21.11-(dlls-only) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/-aspose.gis-for-.net-21.11-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/-aspose.gis-for-.net-21.11-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 21.11 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+9.0 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+41
+Hinzugefügt am:
+11/28/2021
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2021/aspose-gis-for-net-21-11-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-22.1 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-22.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-22.1/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 22.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+9.4 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+24
+Hinzugefügt am:
+1/18/2022
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2022/aspose-gis-for-net-22-1-release-notes/ BeschreibungAspose.GIS für .NET 22.1-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b5976d8f993d468aa0e6e0530a5eebb9&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---Neue-Releases--aspose.gis-for-.net-22.1-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/-aspose.gis-for-.net-22.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/-aspose.gis-for-.net-22.1-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 22.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+16
+Dateigröße:
+9.1 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+29
+Hinzugefügt am:
+1/18/2022
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2022/aspose-gis-for-net-22-1-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-22.3 .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-22.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-22.3/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 22.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+10.1 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+6
+Hinzugefügt am:
+: 2 weeks ago [3/29/2022]
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2022/aspose-gis-for-net-22-3-release-notes/ BeschreibungAspose.GIS für .NET 22.3-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6dd857b35a4f46bea62cc65ed6b223db&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.gis-for-.net-22.3-(nur-dlls) .</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-22.3-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-22.3-dlls-only/</guid><description>&amp;nbsp;
+Aspose.GIS für .NET 22.3 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+9.8 MB Posted By: Evgeniy.Timofeev
+Ansichten:
+7
+Hinzugefügt am:
+: 2 weeks ago [3/29/2022]
+Versionshinweise https://releases.aspose.com/gis/net/release-notes/2022/aspose-gis-for-net-22-3-release-notes/ BeschreibungDiese ZIP-Datei enthält nur die Aspose.GIS für .NET-Assemblys. Die Assemblies sind die gleichen wie im MSI-Installer des Produkts der gleichen Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.GIS-FOR-FAUSNET-22.6</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-22.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-22.6/</guid><description>&amp;nbsp;
+ASSON.GIS für .NET 22.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+10.09MB
+Datum hinzugefügt:
+5/2/2023
+Versionshinweisehttps://releases.aspose.com/gis/net/release-notes/2022/aspose-gis-for-net-22-6-release-notes/
+BeschreibungASSON.GIS für .NET 22.3 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=117c137382a2c2ec33069cd799c77feb-3-8488&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.GIS-FOR-N.NET-22.6- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-22.6-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-22.6-dlls-only/</guid><description>&amp;nbsp;
+ASSON.GIS für .NET 22.6 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+9.79MB
+Datum hinzugefügt:
+5/2/2023
+Versionshinweisehttps://releases.aspose.com/gis/net/release-notes/2022/aspose-gis-for-net-22-6-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSONE.GIS für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=71f4777e298b845abc9cbafd2c00440a-2-8489&amp;single=1", function(data) { $.</description></item><item><title>Downloads --- New Releases-ASSOSPLE.GIS-FOR-N.NE-22.10</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-22.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-22.10/</guid><description>&amp;nbsp;
+Asspos.gis für .net 22.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+10.12MB
+Datum hinzugefügt:
+5/2/2023
+Versionshinweisehttps://releases.aspose.com/gis/net/release-notes/2022/aspose-gis-for-net-22-10-release-notes/
+BeschreibungASSON.GIS für .NET 22.10 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f2be25b4f01ace5aef0d0fcf23b36428-3-8490&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases conpe.gis-for -.net-22.10- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/spose.gis-for-.net-22.10-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/spose.gis-for-.net-22.10-dlls-only/</guid><description>&amp;nbsp;
+Spose.gis für .NET 22.10 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+9.82MB
+Datum hinzugefügt:
+5/2/2023
+Versionshinweisehttps://releases.aspose.com/gis/net/release-notes/2022/aspose-gis-for-net-22-10-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSONE.GIS für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=13aa7406847b7d4d724be14083b60cae-2-8491&amp;single=1", function(data) { $.</description></item><item><title>Downloads --- New Releases-ASSOSPLE.GIS-FOR-N.NE-23.1</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.1/</guid><description>&amp;nbsp;
+Asspos.gis für .net 23.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+10.13MB
+Datum hinzugefügt:
+5/2/2023
+Versionshinweisehttps://releases.aspose.com/gis/net/release-notes/2023/aspose-gis-for-net-23-1-release-notes/
+BeschreibungASSON.GIS für .NET 23.1 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e3be0a9a0500cfb1d4e8dd247492feda-3-8492&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.GIS-for-N.-23.1- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.1-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.1-dlls-only/</guid><description>&amp;nbsp;
+ASSON.GIS für .NET 23.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+9.83MB
+Datum hinzugefügt:
+5/2/2023
+Versionshinweisehttps://releases.aspose.com/gis/net/release-notes/2023/aspose-gis-for-net-23-1-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSONE.GIS für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5e3dec1f03fad947ebd4e5cb4d2fb456-2-8493&amp;single=1", function(data) { $.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.GIS-FOR-.NET-23.2</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.2/</guid><description>&amp;nbsp;
+ASSON.GIS für .NET 23.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+10.13MB
+Datum hinzugefügt:
+27/2/2023
+Versionshinweisehttps://releases.aspose.com/gis/net/release-notes/2023/aspose-gis-for-net-23-2-release-notes/
+BeschreibungASSON.GIS für .NET 23.1 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=eb4ce4ccc6b2d5283b9e94d6ef5c24e3-3-8577&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.GIS-FOR-.NET-23.2- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.2-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.2-dlls-only/</guid><description>&amp;nbsp;
+ASSON.GIS für .NET 23.2 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+9.83MB
+Datum hinzugefügt:
+27/2/2023
+Versionshinweisehttps://releases.aspose.com/gis/net/release-notes/2023/aspose-gis-for-net-23-2-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSONE.GIS für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7de293536cbc479c1388253e8a9387c6-2-8578&amp;single=1", function(data) { $.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.GIS-FOR-.NET-23.3</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.3/</guid><description>&amp;nbsp;
+ASSON.GIS für .NET 23.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+10.14MB
+Datum hinzugefügt:
+2/4/2023
+Versionshinweisehttps://releases.aspose.com/gis/net/release-notes/2023/aspose-gis-for-net-23-3-release-notes/
+BeschreibungASSON.GIS für .NET 23.3 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fe79599e502168b2d96cf7fa1b4bfae7-3-8725&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.GIS-FOR-.NET-23.3- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.3-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.3-dlls-only/</guid><description>&amp;nbsp;
+ASSON.GIS für .NET 23.3 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+9.84MB
+Datum hinzugefügt:
+2/4/2023
+Versionshinweisehttps://releases.aspose.com/gis/net/release-notes/2023/aspose-gis-for-net-23-3-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSONE.GIS für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0f7badd3d4e1da7633cd21397afa8119-2-8726&amp;single=1", function(data) { $.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.GIS-FOR-.NET-23.4</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.4/</guid><description>&amp;nbsp;
+ASSON.GIS für .NET 23.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+10.14MB
+Datum hinzugefügt:
+6/7/2023
+Versionshinweisehttps://releases.aspose.com/gis/net/release-notes/2023/aspose-gis-for-net-23-4-release-notes/
+BeschreibungASSON.GIS für .NET 23.4 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a61d46a5bbcf384d2775703548107bfd-3-9179&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.GIS-FOR-.NET-23.4- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.4-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.4-dlls-only/</guid><description>&amp;nbsp;
+ASSON.GIS für .NET 23.4 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+9.85MB
+Datum hinzugefügt:
+6/7/2023
+Versionshinweisehttps://releases.aspose.com/gis/net/release-notes/2023/aspose-gis-for-net-23-4-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSONE.GIS für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fc831c7609ed87ab653d7a81e7689418-2-9180&amp;single=1", function(data) { $.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.GIS-FOR-.NET-23.5</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.5/</guid><description>&amp;nbsp;
+ASSON.GIS für .NET 23.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+10.14MB
+Datum hinzugefügt:
+6/7/2023
+Versionshinweisehttps://releases.aspose.com/gis/net/release-notes/2023/aspose-gis-for-net-23-5-release-notes/
+BeschreibungASSON.GIS für .NET 23.5 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a0b814232641c6b1177783d90042ca4a-3-9181&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.GIS-FOR-.NET-23.5- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.5-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.5-dlls-only/</guid><description>&amp;nbsp;
+ASSON.GIS für .NET 23.5 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+9.85MB
+Datum hinzugefügt:
+6/7/2023
+Versionshinweisehttps://releases.aspose.com/gis/net/release-notes/2023/aspose-gis-for-net-23-5-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSONE.GIS für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1dc040c6391766091213d9b4e6db11fd-2-9182&amp;single=1", function(data) { $.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.GIS-FOR-.NET-23.6</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.6/</guid><description>&amp;nbsp;
+ASSON.GIS für .NET 23.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+10.14MB
+Datum hinzugefügt:
+6/7/2023
+Versionshinweisehttps://releases.aspose.com/gis/net/release-notes/2023/aspose-gis-for-net-23-6-release-notes/
+BeschreibungASSON.GIS für .NET 23.6 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a61d46a5bbcf384d2775703548107bfd-3-9183&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.GIS-FOR-.NET-23.6- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.6-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.6-dlls-only/</guid><description>&amp;nbsp;
+ASSON.GIS für .NET 23.6 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+9.85MB
+Datum hinzugefügt:
+6/7/2023
+Versionshinweisehttps://releases.aspose.com/gis/net/release-notes/2023/aspose-gis-for-net-23-6-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSONE.GIS für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fc831c7609ed87ab653d7a81e7689418-2-9184&amp;single=1", function(data) { $.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.GIS-FOR-.NET-23.8</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.8/</guid><description>&amp;nbsp;
+ASSON.GIS für .NET 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+10.15MB
+Datum hinzugefügt:
+29/8/2023
+Versionshinweisehttps://docs.aspose.com/gis/net/aspose-gis-for-net-22-8-release-notes/
+BeschreibungASSON.GIS für .NET 23.6 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2d845ba96b48a70591f4fcc61de4a2e8-3-9398&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.GIS-FOR-.NET-23.8- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.8-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.8-dlls-only/</guid><description>&amp;nbsp;
+ASSON.GIS für .NET 23.8 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+9.73MB
+Datum hinzugefügt:
+29/8/2023
+Versionshinweisehttps://releases.aspose.com/gis/net/release-notes/2023/aspose-gis-for-net-23-8-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSONE.GIS für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2ef7f9dc6a05d4c05cf8f8fd8af6dbbb-2-9399&amp;single=1", function(data) { $.</description></item><item><title>Downloads --- NEW Releases-Assible.gis-Layer-Generator-Anwendung</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-layer-generator-application/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-layer-generator-application/</guid><description>&amp;nbsp;
+ASSON.GIS Layer Generator Application
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+5MB
+Datum hinzugefügt:
+19/11/2023
+Versionshinweisehttps://docs.aspose.com/gis/net/vector-layers/
+BeschreibungEs ermöglicht eine Vektorschichtdatei mit zufälliger Geometrie
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8ed7db8356c41f811331a2d7d1cff024-1-9849&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.GIS-FOR-.NET-23.11</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.11/</guid><description>&amp;nbsp;
+ASSON.GIS für .NET 23.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+10.17MB
+Datum hinzugefügt:
+26/11/2023
+Versionshinweisehttps://docs.aspose.com/gis/net/aspose-gis-for-net-22-11-release-notes/
+BeschreibungASSON.GIS für .NET 23.11 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c35101759ec8c4488225ab97466db590-3-9870&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.GIS-FOR-.NET-23.11- (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.11-dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-23.11-dlls-only/</guid><description>&amp;nbsp;
+ASSON.GIS für .NET 23.11 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+9.87MB
+Datum hinzugefügt:
+26/11/2023
+Versionshinweisehttps://releases.aspose.com/gis/net/release-notes/2023/aspose-gis-for-net-23-11-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSONE.GIS für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3abaedf6b3afc77c12c18e464637fe50-2-9871&amp;single=1", function(data) { $.</description></item><item><title>Downloads --- New Releases-ASSOSPLE.GIS-FOR-.NET-24.1-(Nur DLLS)</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-24.1--dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-24.1--dlls-only/</guid><description>&amp;nbsp;
+ASSON.GIS für .NET 24.1 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+9.89MB
+Datum hinzugefügt:
+30/1/2024
+Versionshinweisehttps://releases.aspose.com/gis/net/release-notes/2023/aspose-gis-for-net-23-11-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSONE.GIS für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7612cc5db4166e5ef609dab5f0a53e7e-2-10243&amp;single=1", function(data) { $.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.GIS-FOR-.NET-24.1</title><link>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/gis/net/new-releases/aspose.gis-for-.net-24.1/</guid><description>&amp;nbsp;
+ASSON.GIS für .NET 24.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+10.17MB
+Datum hinzugefügt:
+30/1/2024
+Versionshinweisehttps://releases.aspose.com/gis/net/release-notes/2023/aspose-gis-for-net-23-11-release-notes/
+BeschreibungASSON.GIS für .NET 24.1 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=38ae75ae1d9842e4857ed56c816019c7-3-10244&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

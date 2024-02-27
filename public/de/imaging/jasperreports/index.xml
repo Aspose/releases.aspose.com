@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Berichtsexporteur | Aspose.Imaging für JasperReports on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/imaging/jasperreports/</link><description>Recent content in Berichtsexporteur | Aspose.Imaging für JasperReports on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/imaging/jasperreports/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---Neue-Releases-aspose.imaging-for-jasperreports-20.8 .</title><link>https://releases-qa.aspose.com/de/imaging/jasperreports/new-releases/aspose.imaging-for-jasperreports-20.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/imaging/jasperreports/new-releases/aspose.imaging-for-jasperreports-20.8/</guid><description>&amp;nbsp;
+Aspose.Imaging für JasperReports 20.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+29.3 MB Posted By: aifeigin4aspose
+Ansichten:
+87
+Hinzugefügt am:
+8/19/2020
+Versionshinweise https://docs.aspose.com/imaging/jasperreports/aspose-imaging-for-jasperreports-20-8-release-notes/ BeschreibungDies ist die erste Version von Aspose.Imaging für JasperReports. Jetzt können Sie Berichte aus JasperReports in verschiedene Bilddateiformate exportieren.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---Neue-Releases-aspose.imaging-for-jasperreports-20.9 .</title><link>https://releases-qa.aspose.com/de/imaging/jasperreports/new-releases/aspose.imaging-for-jasperreports-20.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/imaging/jasperreports/new-releases/aspose.imaging-for-jasperreports-20.9/</guid><description>&amp;nbsp;
+Aspose.Imaging für JasperReports 20.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+30.0 MB Posted By: samer.el-khatib4aspose
+Ansichten:
+62
+Hinzugefügt am:
+9/29/2020
+Versionshinweise https://docs.aspose.com/imaging/jasperreports/aspose-imaging-for-jasperreports-20-9-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f3f0463daa6e476eb45d62118a2c74a1&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.imaging-for-jasperreports-20.10 .</title><link>https://releases-qa.aspose.com/de/imaging/jasperreports/new-releases/aspose.imaging-for-jasperreports-20.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/imaging/jasperreports/new-releases/aspose.imaging-for-jasperreports-20.10/</guid><description>&amp;nbsp;
+Aspose.Imaging für JasperReports 20.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+4
+Dateigröße:
+29.4 MB
+Posted By:
+samer.el-khatib4aspose
+Ansichten:
+69
+Hinzugefügt am:
+10/28/2020
+Versionshinweise https://docs.aspose.com/imaging/jasperreports/aspose-imaging-for-jasperreports-20-10-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f53101a8e5ed4d55b6ce28d5a9753930&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases--aspose.imaging-for-jasperreports-21.5 .</title><link>https://releases-qa.aspose.com/de/imaging/jasperreports/new-releases/-aspose.imaging-for-jasperreports-21.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/imaging/jasperreports/new-releases/-aspose.imaging-for-jasperreports-21.5/</guid><description>&amp;nbsp;
+Aspose.Imaging für JasperReports 21.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+4
+Dateigröße:
+29.5 MB Posted By: samer.el-khatib4aspose
+Ansichten:
+61
+Hinzugefügt am:
+5/7/2021
+Versionshinweise https://docs.aspose.com/imaging/jasperreports/aspose-imaging-for-jasperreports-21-5-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=acc62f9e0d7947feb2a7ca4eb80b9265&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

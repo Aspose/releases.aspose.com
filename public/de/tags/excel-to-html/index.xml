@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>excel to HTML on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/tags/excel-to-html/</link><description>Recent content in excel to HTML on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Mon, 12 Dec 2022 06:35:39 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/de/tags/excel-to-html/index.xml" rel="self" type="application/rss+xml"/><item><title>Herunterladen von .NET-DLL-Komponenten zum Verarbeiten von Excel | Aspose.Cells</title><link>https://releases-qa.aspose.com/de/cells/net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/net/</guid><description>Support Forum
+Laden Sie Aspose.Cells herunter, um Tabellenkalkulationen zu verarbeiten Offen
+NuGetPackage Manager im Microsoft Visual Studio®, suchen Sie nach Aspose.CAD und installieren Sie es. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die
+InstallationDokumentationsseite.
+Release-opmerkingen
+Downloaden
+PM&amp;gt;
+Install-Package Aspose.Cells
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License</description></item><item><title>ASSONE.CELLS | Excel -Tabellenkalkulations -Java -Bibliothek aus Excel</title><link>https://releases-qa.aspose.com/de/cells/java/</link><pubDate>Mon, 12 Dec 2022 06:35:39 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/</guid><description>Java -API für Excel -Dateiformate
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Cells for Java ist eine preisgekrönte Excel-Tabellenkalkulations-API, mit der Java-Entwickler die Fähigkeit einbetten können, Excel &amp;amp; reg zu lesen, zu schreiben und zu manipulieren. Tabellenkalkulationen (XLS, XLSX, XLSM, XLSB, XLTX, SpreadsheetML, CSV, ODS), HTML, MHTML, PDF und Bilddatei -Formate in ihre eigenen Java -Anwendungen, ohne sich auf Microsoft Excel &amp;amp; Reg;</description></item><item><title>Downloads --- New Releases-ASSOSPLE.Cells-for -.net-23.8 (Nur DLLS)</title><link>https://releases-qa.aspose.com/de/cells/net/new-releases/aspose.cells-for-.net-23.8dlls-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/net/new-releases/aspose.cells-for-.net-23.8dlls-only/</guid><description>&amp;nbsp;
+ASSONE.CELLs für .NET 23.8 (nur DLLs)
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+60.73MB
+Datum hinzugefügt:
+9/8/2023
+Versionshinweisehttps://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-8-release-notes/
+BeschreibungDiese ZIP -Datei enthält nur die ASSOSE.CELLS für .NET -Assemblys. Die Baugruppen sind die gleichen wie im MSI -Installateur des Produkts derselben Version. Laden Sie dies herunter, wenn Sie ASPOSPE.Cells ohne MSI -Installationsprogramm verwenden möchten. Sie können beispielsweise keine MSI -Installateure auf Mono oder anderen Umgebungen ausführen.</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Cells-for -.net-23.8</title><link>https://releases-qa.aspose.com/de/cells/net/new-releases/aspose.cells-for-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/net/new-releases/aspose.cells-for-.net-23.8/</guid><description>&amp;nbsp;
+ASSONE.CELLS FÜR .NET 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+67.46MB
+Datum hinzugefügt:
+9/8/2023
+Versionshinweisehttps://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-8-release-notes/
+BeschreibungASSONE.CELLS FÜR .NET 23.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=69dfe9921788ec26da05a25047e0d245-14-9311&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>ASSONE.CELLS 22.12 | Verarbeiten Sie Tabellenkalkulationsformate über Java -API</title><link>https://releases-qa.aspose.com/de/cells/java/22-12/</link><pubDate>Mon, 12 Dec 2022 06:35:39 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/22-12/</guid><description>Java -API für Excel -Dateiformate
+Produktseite | Dokumente | Demos | API -Referenz | Beispiele | Blog | Suche | Freie Unterstützung | Vorübergehende Lizenz
+Aspose.Cells for Java ist eine preisgekrönte API von Excel-Tabellenkalkulationen, mit der Java-Entwickler die Fähigkeit einbetten können, Excel &amp;amp; reg zu lesen, zu schreiben und zu manipulieren. Tabellenkalkulationen (XLS, XLSX, XLSM, XLSB, XLTX, SpreadsheetML, CSV, ODS), HTML, MHTML, PDF und Bilddatei -Formate in ihre eigenen Java -Anwendungen, ohne sich auf Microsoft Excel &amp;amp; Reg;</description></item><item><title>Aspose.Cells 23,8 | Prozesstabellenformate via Java API</title><link>https://releases-qa.aspose.com/de/cells/java/23-8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/java/23-8/</guid><description>Java API für Excel-Dateiformate
+Produktseite | Dokumente | Demos | API Referenz | Beispiele | Blog | Suchen | Kostenloser Support | Temporäre Lizenz
+Aspose.Cells for Java ist eine preisgekrönte Excel-Tabellenverarbeitung API, die es Java Entwicklern ermöglicht, die Fähigkeit zum Lesen, Schreiben und Bearbeiten von Excel®-Dateien einzubetten. Tabellenkalkulationen (XLS, XLSX, XLSM, XLSB, XLTX, SpreadsheetML, CSV, ODS), HTML, MHTML, 07611234 81 und Bilddateiformate in ihre eigenen Java Anwendungen, ohne auf Microsoft Excel® angewiesen zu sein.</description></item></channel></rss>

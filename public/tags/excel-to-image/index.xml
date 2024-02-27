@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Excel-to-Image on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/excel-to-image/</link><description>Recent content in Excel-to-Image on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/tags/excel-to-image/index.xml" rel="self" type="application/rss+xml"/><item><title>Download .NET DLL Components to Process Excel | Aspose.Cells</title><link>https://releases-qa.aspose.com/cells/net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/net/</guid><description>Support Forum
+Download Aspose.Cells to Process Spreadsheets Open NuGet Package Manager within the Microsoft Visual Studio&amp;reg;, search for Aspose.Cells and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the Installation documentation page.
+Release Notes
+Download
+PM&amp;gt;
+Install-Package Aspose.Cells
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License</description></item><item><title>Download c++ library for Spreadsheet Processing | Aspose.Cells</title><link>https://releases-qa.aspose.com/cells/cpp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/cpp/</guid><description>Support Forum
+What is Aspose.Cells for C++ Library? Aspose.Cells for C++ is a native C++ library to create, manipulate, process, and convert Microsoft Excel files without needing Microsoft Office or Automation. The C++ Library supports Excel 97-2003 (XLS), Excel 2007-2013/2016 (XLSX, XLSM, XLSB), OpenOffice XML, and other formats such as CSV, TSV, and more.
+Aspose.Cells for C++ Library is a native assembly that can be deployed by simply copying it.</description></item><item><title>Downloads ---New Releases-aspose.cells-for-c++-23.8(windows)</title><link>https://releases-qa.aspose.com/cells/cpp/new-releases/aspose.cells-for-c++-23.8windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/cpp/new-releases/aspose.cells-for-c++-23.8windows/</guid><description>&amp;nbsp;
+Aspose.Cells for C&amp;#43;&amp;#43; 23.8(Windows)
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+61.09MB
+Date Added:
+14/8/2023
+Release Noteshttps://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-windows-23-8-release-notes/
+DescriptionPlease refer to release notes and ReadMe for detail
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b4930d0efb65f33713ed68184ded90d7-13-9327&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item></channel></rss>

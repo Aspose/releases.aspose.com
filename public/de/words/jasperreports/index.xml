@@ -1,0 +1,2003 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Erweiterung zum Exportieren von Berichten im Word-Format | Aspose.Words für JasperReports on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/words/jasperreports/</link><description>Recent content in Erweiterung zum Exportieren von Berichten im Word-Format | Aspose.Words für JasperReports on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/words/jasperreports/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-1.0.0 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-1.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-1.0.0/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 1.0.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+52
+Dateigröße:
+3.2 MB Posted By: DmitryV
+Ansichten:
+853
+Hinzugefügt am:
+4/1/2009
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2009/aspose-words-for-jasperreports-1-0-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=3f2f8bd74b0d487fb7bd28986545b60e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-jasperreports-1.0.1 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-1.0.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-1.0.1/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 1.0.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+39
+Dateigröße:
+3.2 MB Posted By: DmitryV
+Ansichten:
+489
+Hinzugefügt am:
+5/4/2009
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2009/aspose-words-for-jasperreports-1-0-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=66148b11718e452c9fc972b2850e30ee&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-1.1.0 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-1.1.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-1.1.0/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 1.1.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+69
+Dateigröße:
+3.5 MB Posted By: DmitryV
+Ansichten:
+808
+Hinzugefügt am:
+6/17/2009
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2009/aspose-words-for-jasperreports-1-1-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ba2d254cecb340eb80458c3f4b1ae238&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-1.2.0 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-1.2.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-1.2.0/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 1.2.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+14
+Dateigröße:
+3.6 MB Posted By: DmitryV
+Ansichten:
+485
+Hinzugefügt am:
+7/27/2009
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2009/aspose-words-for-jasperreports-1-2-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ba909c9682344593976406d884cc48c4&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-1.2.1 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-1.2.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-1.2.1/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 1.2.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+49
+Dateigröße:
+3.6 MB Posted By: DmitryV
+Ansichten:
+533
+Hinzugefügt am:
+8/10/2009
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2009/aspose-words-for-jasperreports-1-2-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bfe2e5dd783848bbb52d203ea43e9558&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-1.3.0 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-1.3.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-1.3.0/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 1.3.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+261
+Dateigröße:
+3.7 MB Posted By: DmitryV
+Ansichten:
+1213
+Hinzugefügt am:
+9/25/2009
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=03c7ca85e1254974ad070896295042d5&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.words-for-jasperreports-1.3.1 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-1.3.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-1.3.1/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 1.3.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+198
+Dateigröße:
+3.7 MB Posted By: aske012
+Ansichten:
+909
+Hinzugefügt am:
+4/26/2012
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2012/aspose-words-for-jasperreports-1-3-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=59d86966e7db4ef0b56f6eec1e0f6a67&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-1.5.0 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-1.5.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-1.5.0/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 1.5.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+87
+Dateigröße:
+5.2 MB Posted By: buddylancer
+Ansichten:
+491
+Hinzugefügt am:
+7/27/2012
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2012/aspose-words-for-jasperreports-1-5-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5ee1a5811de04852970e8fdf28ca4df4&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases--aspose.words-for-jasperreports-1.7.0 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/-aspose.words-for-jasperreports-1.7.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/-aspose.words-for-jasperreports-1.7.0/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 1.7.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+130
+Dateigröße:
+5.2 MB Posted By: buddylancer
+Ansichten:
+590
+Hinzugefügt am:
+10/26/2012
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2012/aspose-words-for-jasperreports-1-7-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=717fb95c86a64d08b6b44cc64ee21eeb&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-1.8.0 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-1.8.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-1.8.0/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 1.8.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+266
+Dateigröße:
+5.2 MB Posted By: buddylancer
+Ansichten:
+608
+Hinzugefügt am:
+12/25/2012
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=121a5b5b9efb4ed88f944565c8aee638&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-1.9.0 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-1.9.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-1.9.0/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 1.9.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+100
+Dateigröße:
+8.5 MB Posted By: buddylancer
+Ansichten:
+533
+Hinzugefügt am:
+7/16/2013
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2013/aspose-words-for-jasperreports-1-9-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ad8662e752a446c1a28b3c50f704cc2b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-1.10.0 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-1.10.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-1.10.0/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 1.10.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+208
+Dateigröße:
+8.5 MB Posted By: buddylancer
+Ansichten:
+628
+Hinzugefügt am:
+9/9/2013
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2013/aspose-words-for-jasperreports-1-10-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e0ba83d77eeb4d95a1c5c7d60ce4cd6a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-2.0.0 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-2.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-2.0.0/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 2.0.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+224
+Dateigröße:
+14.0 MB Posted By: buddylancer
+Ansichten:
+611
+Hinzugefügt am:
+12/23/2013
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=857f316469b442f4b2cef9bdcd325fee&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-2.1.0 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-2.1.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-2.1.0/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 2.1.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+392
+Dateigröße:
+14.0 MB Posted By: buddylancer
+Ansichten:
+583
+Hinzugefügt am:
+5/26/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f695f83234bd47b3aca14c195d81ef6f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases--aspose.words-for-jasperreports-2.2.0 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/-aspose.words-for-jasperreports-2.2.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/-aspose.words-for-jasperreports-2.2.0/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 2.2.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+182
+Dateigröße:
+18.8 MB Posted By: buddylancer
+Ansichten:
+302
+Hinzugefügt am:
+1/15/2015
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2015/aspose-words-for-jasperreports-2-2-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0759864098814b62bdd5766e34a0e7bc&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-2.3.0 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-2.3.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-2.3.0/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 2.3.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+265
+Dateigröße:
+18.7 MB Posted By: buddylancer
+Ansichten:
+405
+Hinzugefügt am:
+4/20/2015
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2015/aspose-words-for-jasperreports-2-3-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ca1d11224f304f47bf72499893567fca&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-2.4.0 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-2.4.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-2.4.0/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 2.4.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+39
+Dateigröße:
+19.0 MB Posted By: buddylancer
+Ansichten:
+232
+Hinzugefügt am:
+11/19/2015
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2015/aspose-words-for-jasperreports-2-4-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=69368266cfb348da9b93ddac3dca1324&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-2.5.0 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-2.5.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-2.5.0/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 2.5.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+71
+Dateigröße:
+18.8 MB Posted By: buddylancer
+Ansichten:
+147
+Hinzugefügt am:
+12/20/2015
+Versionshinweise http://www.aspose.com/docs/display/wordsjasperreports/Aspose.Words+for+JasperReports+2.5.0+Release+Notes
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5f647b37705b40eeacad22be067ce143&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-2.6.0 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-2.6.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-2.6.0/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 2.6.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+26.4 MB Posted By: faizanbaig
+Ansichten:
+298
+Hinzugefügt am:
+3/29/2016
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2016/aspose-words-for-jasperreports-2-6-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=27777762d1414034bfcb2bac1261eb7f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-2.7.0 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-2.7.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-2.7.0/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 2.7.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+26.4 MB Posted By: buddylancer
+Ansichten:
+335
+Hinzugefügt am:
+5/18/2016
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2016/aspose-words-for-jasperreports-2-7-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c8f9de9703fc424bb57104d2f419428f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-2.7.1 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-2.7.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-2.7.1/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 2.7.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+35
+Dateigröße:
+26.4 MB Posted By: Aufrufe:
+317:
+Date Added:: 2.6.2016:
+:
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2016/aspose-words-for-jasperreports-2-7-1-release-notes/ BeschreibungDiese Version enthält eine Korrektur für WORDSJSP-178.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5cd6a917777a4b06ab845c1779840203&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-2.7.2 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-2.7.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-2.7.2/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 2.7.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+14
+Dateigröße:
+26.6 MB Posted By: Aufrufe:
+208:
+Date Added:: 15.07.2016:
+:
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2016/aspose-words-for-jasperreports-2-7-2-release-notes/ BeschreibungDiese Version enthält 3 Fehlerbehebungen (siehe Versionshinweise).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6abb218861f84e3da81f54a045a5739c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-2.7.3 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-2.7.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-2.7.3/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 2.7.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+15
+Dateigröße:
+26.7 MB Posted By: buddylancer
+Ansichten:
+250
+Hinzugefügt am:
+7/25/2016
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2016/aspose-words-for-jasperreports-2-7-3-release-notes/ BeschreibungDiese Version enthält Hotfix für WORDSJSP-182.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4679cc5c5b294d228e4fd59c7fd45a4e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-2.8.0 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-2.8.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-2.8.0/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 2.8.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+37
+Dateigröße:
+34.0 MB Posted By: buddylancer
+Ansichten:
+522
+Hinzugefügt am:
+8/16/2016
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2016/aspose-words-for-jasperreports-2-8-0-release-notes/ BeschreibungDiese Version enthält Unterstützung für JasperReports 6.3.0 und eine Reihe von Fehlerbehebungen.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d8c055d4d8c04bdba064fb0b5cb02cad&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-2.8.1 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-2.8.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-2.8.1/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 2.8.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+45
+Dateigröße:
+34.0 MB Posted By: buddylancer
+Ansichten:
+535
+Hinzugefügt am:
+9/9/2016
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2016/aspose-words-for-jasperreports-2-8-1-release-notes/ BeschreibungDiese Version enthält Hotfix für WORDSJSP-188 (neue Konfigurationsoption OPTIMIZE_FOOTERS_DISTANCE)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a39269442c4a4fe9a53e018a4e7781ce&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-16.11.0 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-16.11.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-16.11.0/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 16.11.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+22
+Dateigröße:
+33.8 MB Posted By: buddylancer
+Ansichten:
+899
+Hinzugefügt am:
+11/9/2016
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2016/aspose-words-for-jasperreports-16-11-0-release-notes/ BeschreibungDiese Version enthält eine Reihe von Fehlerbehebungen.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=36079f6bb5084aceb8d2336de0acb4cf&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-16.11.1 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-16.11.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-16.11.1/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 16.11.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+21
+Dateigröße:
+33.8 MB Posted By: buddylancer
+Ansichten:
+260
+Hinzugefügt am:
+11/20/2016
+BeschreibungHotfix für WORDSJSP-194 (Neueste Aspose.Words Java 16.11.0- und JasperReport-Bibliotheken sind nicht kompatibel)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=920a8b9fd6a142edb001148d36a48148&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-16.12.0 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-16.12.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-16.12.0/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 16.12.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+22
+Dateigröße:
+34.1 MB Posted By: vadimpo
+Ansichten:
+535
+Hinzugefügt am:
+12/20/2016
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2016/aspose-words-for-jasperreports-16-12-0-release-notes/ BeschreibungEnthält Korrekturen für WORDSJSP-195, 196
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b4071bfce50e4e3695edaf83308ea430&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-17.2.0 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-17.2.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-17.2.0/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 17.2.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+15
+Dateigröße:
+34.1 MB Posted By: vadimpo
+Ansichten:
+640
+Hinzugefügt am:
+2/2/2017
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2017/aspose-words-for-jasperreports-17-2-0-release-notes/ BeschreibungEnthält Korrekturen für WORDSJSP-199, 200
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0ac88e1b82674d7785914d758ce7f999&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-17.3.0 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-17.3.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-17.3.0/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 17.3.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+39
+Dateigröße:
+34.1 MB Posted By: vadimpo
+Ansichten:
+714
+Hinzugefügt am:
+3/6/2017
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2017/aspose-words-for-jasperreports-17-3-0-release-notes/ BeschreibungHauptversion mit vielen Fehlerbehebungen.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9b41e70b131e48e6b425e542d47edafe&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-17.4.0 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-17.4.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-17.4.0/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 17.4.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+29
+Dateigröße:
+33.9 MB Posted By: vadimpo
+Ansichten:
+604
+Hinzugefügt am:
+4/25/2017
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2017/aspose-words-for-jasperreports-17-4-release-notes/ BeschreibungBeinhaltet Fix für WORDSJR-213 (Listenelemente werden nicht in Ausgabe-Doc/Docx exportiert)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7f5eb961bcab4c46ba88dbfe2129029e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-17.6 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-17.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-17.6/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 17.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+34
+Dateigröße:
+33.9 MB Posted By: vadimpo
+Ansichten:
+1308
+Hinzugefügt am:
+6/22/2017
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2017/aspose-words-for-jasperreports-17-6-release-notes/ BeschreibungDiese Version enthält eine Reihe von Fehlerbehebungen und eine neue Funktion.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f35ec080bee1447fa80d3a5fa8e60105&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-17.8 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-17.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-17.8/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 17.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+41
+Dateigröße:
+33.8 MB Posted By: vadimpo
+Ansichten:
+1223
+Hinzugefügt am:
+8/19/2017
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2017/aspose-words-for-jasperreports-17-8-release-notes/ BeschreibungDiese Version enthält Unterstützung für das neueste JasperReports 6.4.0
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=410d0bb3a0214ea382fc3194a1c0c463&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-17.10 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-17.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-17.10/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 17.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+24
+Dateigröße:
+33.7 MB Posted By: vadimpo
+Ansichten:
+1081
+Hinzugefügt am:
+10/26/2017
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2017/aspose-words-for-jasperreports-17-10-release-notes/ BeschreibungBeinhaltet Fix für WORDSJR-224 (JasperReport-Stile werden nicht in Ausgabe-DOCX exportiert)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c64d5149f88440bd9db3026040817025&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-17.11 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-17.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-17.11/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 17.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+16
+Dateigröße:
+41.4 MB Posted By: vadimpo
+Ansichten:
+1095
+Hinzugefügt am:
+11/20/2017
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2017/aspose-words-for-jasperreports-17-11-release-notes/ BeschreibungDiese Version enthält Unterstützung für das neueste JasperReports 6.4.2
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5a87d89ac4ed4b10b745852783719340&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-17.12 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-17.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-17.12/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 17.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+18
+Dateigröße:
+43.6 MB Posted By: vadimpo
+Ansichten:
+987
+Hinzugefügt am:
+12/19/2017
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2017/aspose-words-for-jasperreports-17-12-release-notes/ BeschreibungUpgrade auf die neueste Version von Aspose.Words für Java (17.12)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=61fb6c7e79eb4ae0972af49a75d3f7bc&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-18.1 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-18.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-18.1/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 18.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+34
+Dateigröße:
+44.8 MB Posted By: Aufrufe:
+1245:
+Date Added:: 19.01.2018:
+:
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2018/aspose-words-for-jasperreports-18-1-release-notes/ BeschreibungFehlerbehebung + Upgrade auf die neueste Version von Aspose.Words für Java (18.1).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fb219663b64b416fa9772964b5c37e0f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-18.2 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-18.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-18.2/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 18.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+20
+Dateigröße:
+40.1 MB Posted By: Aufrufe:
+1100:
+Date Added:: 21.02.2018:
+:
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2018/aspose-words-for-jasperreports-18-2-release-notes/ BeschreibungNeue Funktion + Upgrade auf die neueste Version von Aspose.Words für Java (18.2).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cbf2885717ea41a5a990d8d41b2bbdec&amp;single=1", function(data) { $.</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-18.3 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-18.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-18.3/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 18.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+51
+Dateigröße:
+38.4 MB Posted By: vadimpo
+Ansichten:
+2284
+Hinzugefügt am:
+3/27/2018
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2018/aspose-words-for-jasperreports-18-3-release-notes/ BeschreibungEinige Änderungen + Upgrade auf die neueste Version von Aspose.Words für Java (18.3)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ae93ac0e13eb4055b98aa01f4efe0736&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-18.4 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-18.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-18.4/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 18.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+30
+Dateigröße:
+46.1 MB Posted By: vadimpo
+Ansichten:
+1003
+Hinzugefügt am:
+4/27/2018
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2018/aspose-words-for-jasperreports-18-4-release-notes/ BeschreibungEinige Korrekturen + Upgrade auf die neueste Version von Aspose.Words für Java (18.4)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1cd84979e5014f709af6415f3f6078a2&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-18.5 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-18.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-18.5/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 18.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+12
+Dateigröße:
+53.9 MB Posted By: vadimpo
+Ansichten:
+945
+Hinzugefügt am:
+6/1/2018
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2018/aspose-words-for-jasperreports-18-5-release-notes/ BeschreibungUnterstützt den neuesten JasperServer 7.1.0 + einige weitere Updates
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fb89c6811ece417cbfa322481feab7ad&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-18.6 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-18.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-18.6/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 18.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+29
+Dateigröße:
+54.0 MB Posted By: vadimpo
+Ansichten:
+872
+Hinzugefügt am:
+6/27/2018
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2018/aspose-words-for-jasperreports-18-6-release-notes/ BeschreibungUpgrade auf die neueste Version von Aspose.Words für Java (18.6)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d47ef98084a84ccfac5e3b18b51cb49c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-18.7 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-18.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-18.7/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 18.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+20
+Dateigröße:
+54.4 MB Posted By: vadimpo
+Ansichten:
+833
+Hinzugefügt am:
+8/5/2018
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2018/aspose-words-for-jasperreports-18-7-release-notes/ BeschreibungUpgrade auf die neueste Version von Aspose.Words für Java (18.7)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fea078a1ea214cd2b0b7e2f047f53b1b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-18.8 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-18.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-18.8/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 18.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+23
+Dateigröße:
+54.6 MB Posted By: vadimpo
+Ansichten:
+837
+Hinzugefügt am:
+9/5/2018
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2018/aspose-words-for-jasperreports-18-8-release-notes/ BeschreibungEinige Korrekturen + Upgrade auf die neueste Version von Aspose.Words für Java (18.8)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=035f0a8b2d5e49ce873a7706536ad024&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-18.9 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-18.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-18.9/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 18.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+16
+Dateigröße:
+54.7 MB Posted By: vadimpo
+Ansichten:
+812
+Hinzugefügt am:
+10/2/2018
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2018/aspose-words-for-jasperreports-18-9-release-notes/ BeschreibungUpgrade auf die neueste Version von Aspose.Words für Java (18.9)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9159ce4efbbc4e1bb10af0837864af64&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-18.10 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-18.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-18.10/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 18.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+18
+Dateigröße:
+63.9 MB Posted By: vadimpo
+Ansichten:
+1254
+Hinzugefügt am:
+10/26/2018
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2018/aspose-words-for-jasperreports-18-10-release-notes/ BeschreibungEinige Korrekturen + Upgrade auf die neueste Version von Aspose.Words für Java (18.10)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6c6e0e477ce1439f8a9d685c3589b881&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-18.11 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-18.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-18.11/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 18.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+13
+Dateigröße:
+64.0 MB Posted By: vadimpo
+Ansichten:
+1205
+Hinzugefügt am:
+11/15/2018
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2018/aspose-words-for-jasperreports-18-11-release-notes/ BeschreibungEinige Korrekturen + Upgrade auf die neueste Version von Aspose.Words für Java (18.11)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1c43366cf4994c258bf362bc8e1cdf58&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-18.12 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-18.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-18.12/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 18.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+20
+Dateigröße:
+64.1 MB Posted By: vadimpo
+Ansichten:
+1290
+Hinzugefügt am:
+12/25/2018
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2018/aspose-words-for-jasperreports-18-12-release-notes/ BeschreibungEinige Korrekturen + Upgrade auf die neueste Version von Aspose.Words für Java (18.12)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=aefac5e71517462cbe2e187b7bb958de&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-19.1 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-19.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-19.1/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 19.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+83
+Dateigröße:
+64.2 MB Posted By: vadimpo
+Ansichten:
+3897
+Hinzugefügt am:
+2/3/2019
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2019/aspose-words-for-jasperreports-19-1-release-notes/ BeschreibungEinige Updates + Upgrade auf die neueste Version von Aspose.Words für Java (19.1)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b122241e390a4f6ab7da7f9da817c63c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-19.6 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-19.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-19.6/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 19.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+29
+Dateigröße:
+65.6 MB Posted By: vadimpo
+Ansichten:
+1120
+Hinzugefügt am:
+6/20/2019
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2019/aspose-words-for-jasperreports-19-6-release-notes/ BeschreibungEinige Korrekturen + Unterstützung von JasperReports Server 7.2.0 + Upgrade auf die neueste Version von Aspose.Words für Java (19.6)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-19.7 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-19.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-19.7/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 19.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+39
+Dateigröße:
+66.7 MB Posted By: vadimpo
+Ansichten:
+1135
+Hinzugefügt am:
+8/9/2019
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2019/aspose-words-for-jasperreports-19-7-release-notes/ BeschreibungEinige Korrekturen + Upgrade auf die neueste Version von Aspose.Words für Java (19.7)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4e3922b2e2ff45d8897508f0fd3ff074&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-19.10 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-19.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-19.10/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 19.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+21
+Dateigröße:
+67.5 MB Posted By: vadimpo
+Ansichten:
+1020
+Hinzugefügt am:
+10/31/2019
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2019/aspose-words-for-jasperreports-19-10-release-notes/ BeschreibungEinige Korrekturen + Upgrade auf die neueste Version von Aspose.Words für Java (19.10)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0136ee34e69c448a8e579a3a5e6d730a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-19.12 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-19.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-19.12/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 19.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+61
+Dateigröße:
+67.9 MB Posted By: vadimpo
+Ansichten:
+384
+Hinzugefügt am:
+12/20/2019
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2019/aspose-words-for-jasperreports-19-12-release-notes/ BeschreibungEinige Korrekturen + Upgrade auf die neueste Version von Aspose.Words für Java (19.12)
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=467610b25e9f4168a4865aed7139ec86&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-20.4 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-20.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-20.4/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 20.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+28
+Dateigröße:
+48.7 MB Posted By: nixspirit
+Ansichten:
+360
+Hinzugefügt am:
+4/24/2020
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2020/aspose-words-for-jasperreports-20-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=30596b28559c4ee0bce97c90968d5577&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-20.7 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-20.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-20.7/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 20.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+72
+Dateigröße:
+49.0 MB Posted By: nixspirit
+Ansichten:
+445
+Hinzugefügt am:
+7/14/2020
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2020/aspose-words-for-jasperreports-20-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ee6dd8c2b6f54e939de0df0c1bf9cd8d&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-21.3 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-21.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-21.3/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 21.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+50.3 MB Posted By: asidorenko
+Ansichten:
+188
+Hinzugefügt am:
+3/22/2021
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2021/aspose-words-for-jasperreports-21-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d6e7a2439b8f4cfa964d4119ee4e9731&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases--aspose.words-for-jasperreports-21.4 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/-aspose.words-for-jasperreports-21.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/-aspose.words-for-jasperreports-21.4/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 21.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+20
+Dateigröße:
+50.4 MB Posted By: asidorenko
+Ansichten:
+107
+Hinzugefügt am:
+4/22/2021
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2021/aspose-words-for-jasperreports-21-4-release-notes/ BeschreibungEs enthält Aspose.Words für die Version JasperReports 21.4.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c03378a3812f4debb9efc0123bdc78a6&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-21.5 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-21.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-21.5/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 21.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+15
+Dateigröße:
+50.5 MB Posted By: asidorenko
+Ansichten:
+183
+Hinzugefügt am:
+5/24/2021
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2021/aspose-words-for-jasperreports-21-5-release-notes/ BeschreibungEs enthält Aspose.Words für die Version JasperReports 21.5.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1ac63e91bc6247578dea4c1b4ba2d133&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-21.7 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-21.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-21.7/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 21.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+51.4 MB Posted By: asidorenko
+Ansichten:
+171
+Hinzugefügt am:
+7/15/2021
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2021/aspose-words-for-jasperreports-21-7-release-notes/ BeschreibungEs enthält Aspose.Words für die Version JasperReports 21.7.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=27ab1dbca30141de872b3e027bf7f290&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-21.9 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-21.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-21.9/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 21.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+15
+Dateigröße:
+51.6 MB Posted By: asidorenko
+Ansichten:
+199
+Hinzugefügt am:
+9/22/2021
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2021/aspose-words-for-jasperreports-21-9-release-notes/ BeschreibungEs enthält Aspose.Words für die Version JasperReports 21.9.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c164cf53e2a54fd5a4a245b79724caa0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases--aspose.words-for-jasperreports-21.12 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/-aspose.words-for-jasperreports-21.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/-aspose.words-for-jasperreports-21.12/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 21.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+15
+Dateigröße:
+51.8 MB Posted By: asidorenko
+Ansichten:
+52
+Hinzugefügt am:
+12/13/2021
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2021/aspose-words-for-jasperreports-21-12-release-notes/ BeschreibungEs enthält Aspose.Words für die Version JasperReports 21.12.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2cc6cd9d234549efa39ccc942cd1b43a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-22.2 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-22.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-22.2/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 22.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+25
+Dateigröße:
+52.0 MB Posted By: asidorenko
+Ansichten:
+90
+Hinzugefügt am:
+2/18/2022
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2022/aspose-words-for-jasperreports-22-2-release-notes/ BeschreibungEs enthält Aspose.Words für die Version 22.2 von JasperReports und einige Korrekturen
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d949fd001ebf49b7872e75bf66ab1121&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title> Downloads ---New-Releases-aspose.words-for-jasperreports-22.4 .</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-22.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-22.4/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 22.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+51.4 MB Hinzugefügt am:
+: 4 weeks ago [4/22/2022]
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2022/aspose-words-for-jasperreports-22-4-release-notes/ BeschreibungEs enthält Aspose.Words für die Version JasperReports 22.4
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8fe88c7feb264895953282707b8f6810&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---Neuerscheinungen-aspose.words-for-jasperreports-22.5</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-22.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-22.5/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 22.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+51.6 MB
+Hinzugefügt am:
+10/6/2022
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2022/aspose-words-for-jasperreports-22-5-release-notes/
+BeschreibungEs enthält Aspose.Words für die Version JasperReports 22.5
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ee2085c586f2453a883d1566220049fe-1-7495&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neuerscheinungen-aspose.words-for-jasperreports-22.6</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-22.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-22.6/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 22.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+51.62MB
+Hinzugefügt am:
+30/6/2022
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2022/aspose-words-for-jasperreports-22-6-release-notes/
+BeschreibungEs enthält Aspose.Words für die Version JasperReports 22.6
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=aac3b97086cb3a50e7b9aebe7489a3ee-11-7581&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neuerscheinungen-aspose.words-for-jasperreports-22.7</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-22.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-22.7/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 22.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+51.79MB
+Hinzugefügt am:
+22/7/2022
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2022/aspose-words-for-jasperreports-22-7-release-notes/
+BeschreibungEs enthält Aspose.Words für die Version 22.7 von JasperReports
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4b42bc220b13e85cd702fba876d3f9ce-11-7684&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neuerscheinungen-aspose.words-for-jasperreports-22.8</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-22.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-22.8/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 22.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+51.99MB
+Hinzugefügt am:
+26/8/2022
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2022/aspose-words-for-jasperreports-22-8-release-notes/
+BeschreibungEs enthält Aspose.Words für die Version JasperReports 22.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fd46dc20ad0867fb1ce9ee1d2ee6ae6a-11-7803&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neuerscheinungen-aspose.words-for-jasperreports-22.9</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-22.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-22.9/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 22.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+52.07MB
+Hinzugefügt am:
+20/9/2022
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2022/aspose-words-for-jasperreports-22-9-release-notes/
+BeschreibungEs enthält Aspose.Words für die Version JasperReports 22.9
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9c1e446b3d9cdb77f1d0984778b814e1-11-7908&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neuerscheinungen-aspose.words-for-jasperreports-22.10</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-22.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-22.10/</guid><description>&amp;nbsp;
+Aspose.Words für JasperReports 22.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+52.12MB
+Date Added:
+26/10/2022
+Versionshinweise https://releases.aspose.com/words/jasperreports/release-notes/2022/aspose-words-for-jasperreports-22-10-release-notes/
+BeschreibungEs enthält Aspose.Words für die Version 22.10 von JasperReports
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9488b6453669e743fabb01e987c7d4d7-11-8060&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSPOSPEN.Words-for-JasperReports-23.1</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.1/</guid><description>&amp;nbsp;
+ASSOSE.Words für Jasperreports 23.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+52.86MB
+Datum hinzugefügt:
+31/1/2023
+Versionshinweisehttps://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-1-release-notes/
+BeschreibungEs enthält asspose.Words für Jasperreports 23.1 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ca38edb3a8a720edc346430a0a9dcd0e-11-8470&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPLE.Words-for-Jasperreports-23.2</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.2/</guid><description>&amp;nbsp;
+ASSOSE.Words für Jasperreports 23.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+53.04MB
+Datum hinzugefügt:
+2/3/2023
+Versionshinweisehttps://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-2-release-notes/
+BeschreibungEs enthält asspose.Words für Jasperreports 23.2 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=23a3b9d037b66207414e48bf6525d612-11-8606&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Words-For-JasperReports-23.3</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.3/</guid><description>&amp;nbsp;
+ASSOSE.Words für Jasperreports 23.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+53.15MB
+Datum hinzugefügt:
+28/3/2023
+Versionshinweisehttps://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-3-release-notes/
+BeschreibungEs enthält asspose.Words für Jasperreports 23.3 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4b80ce00e83135835085b91483e7ab17-11-8694&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Words-For-JasperReports-23.4</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.4/</guid><description>&amp;nbsp;
+ASSOSE.Words für Jasperreports 23.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+53.22MB
+Datum hinzugefügt:
+21/4/2023
+Versionshinweisehttps://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-4-release-notes/
+BeschreibungEs enthält asspose.Words für Jasperreports 23.4 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b6007416de239f072733e79c12120482-11-8799&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Words-For-Jasperreports-23.5</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.5/</guid><description>&amp;nbsp;
+ASSOSE.Words für Jasperreports 23.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+52.31MB
+Datum hinzugefügt:
+19/5/2023
+Versionshinweisehttps://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-5-release-notes/
+BeschreibungEs enthält asspose.Words für Jasperreports 23.5 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1f290cdc62a730ac96d873e08bf0a2f0-11-8872&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Words-for-Jasperreports-23.6</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.6/</guid><description>&amp;nbsp;
+ASSOSE.Words für Jasperreports 23.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+52.63MB
+Datum hinzugefügt:
+22/6/2023
+Versionshinweisehttps://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-6-release-notes/
+BeschreibungEs enthält asspose.Words für Jasperreports 23.6 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bd9694d05e529f9b2e1cf50d5badc5f4-11-9060&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Words-for-Jasperreports-23.7</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.7/</guid><description>&amp;nbsp;
+ASSOSE.Words für Jasperreports 23.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+52.69MB
+Datum hinzugefügt:
+31/7/2023
+Versionshinweisehttps://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-7-release-notes/
+BeschreibungEs enthält asspose.Words für Jasperreports 23.7 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=38f3e98f3c5766c48ab2396681d186cb-11-9291&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSPOSPEN.Words-for-Jasperreports-23.8</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.8/</guid><description>&amp;nbsp;
+ASSOSE.Words für Jasperreports 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+54.21MB
+Datum hinzugefügt:
+23/8/2023
+Versionshinweisehttps://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-8-release-notes/
+BeschreibungEs enthält asspose.Words für Jasperreports 23.8 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=abc2d710f18bcf9a9ef46b433b7221c6-11-9367&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Words-for-Jasperreports-23.9</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.9/</guid><description>&amp;nbsp;
+ASSOSE.Words für Jasperreports 23.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+54.24MB
+Datum hinzugefügt:
+20/9/2023
+Versionshinweisehttps://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-9-release-notes/
+BeschreibungEs enthält asspose.Words für Jasperreports 23.9 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c07b32ba48e5148b00a62e83fc869909-11-9491&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSPOSPEN.Words-for-Jasperreports-23.10</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.10/</guid><description>&amp;nbsp;
+ASSOSE.Words für Jasperreports 23.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+54.28MB
+Datum hinzugefügt:
+27/10/2023
+Versionshinweisehttps://docs.aspose.com/words/jasperreports/aspose-words-for-jasperreports-23-10-release-notes/
+BeschreibungEs enthält asspose.Words für Jasperreports 23.10 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=827af22c71b51db25f1530d5da2dfe28-11-9678&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Words-for-JasperReports-23.11</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.11/</guid><description>&amp;nbsp;
+ASSOSE.Words für Jasperreports 23.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+55.38MB
+Datum hinzugefügt:
+28/11/2023
+Versionshinweisehttps://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-11-release-notes/
+BeschreibungEs enthält asspose.Words für Jasperreports 23.11 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=af2da5d88e974e7f67a69141757cefce-12-9877&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Words-for-Jasperreports-23.12</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.12/</guid><description>&amp;nbsp;
+ASSOSE.Words für Jasperreports 23.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+55.41MB
+Datum hinzugefügt:
+26/12/2023
+Versionshinweisehttps://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-12-release-notes/
+BeschreibungEs enthält asspose.Words für Jasperreports 23.12 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2eb3ff4a456989a5e287574120ed4c76-12-10067&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPENS.Words-for-Jasperreports-24.1</title><link>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/words/jasperreports/new-releases/aspose.words-for-jasperreports-24.1/</guid><description>&amp;nbsp;
+ASSOSE.Words für Jasperreports 24.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+55.52MB
+Datum hinzugefügt:
+17/1/2024
+Versionshinweisehttps://releases.aspose.com/words/jasperreports/release-notes/2024/aspose-words-for-jasperreports-24-1-release-notes/
+BeschreibungEs enthält asspose.Words für Jasperreports 24.1 Release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=56959b41a8d1824e394bd38f3be53a5d-12-10159&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>

@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python on Releases - aspose.com</title><link>https://releases-qa.aspose.com/tags/python/</link><description>Recent content in Python on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://releases-qa.aspose.com/tags/python/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads ---New Releases-aspose.cells-for-python-via-.net-22.7</title><link>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-22.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-22.7/</guid><description>&amp;nbsp;
+Aspose.Cells for Python via .NET 22.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+137.06MB
+Date Added:
+8/7/2022
+Release Noteshttps://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-7-release-notes/
+DescriptionPlease refer to release notes for detail
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bc70536d8971f66076e6d1d85e5d0c13-28-7620&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.page-for-python-via-.net-24.1.0-windows-x32</title><link>https://releases-qa.aspose.com/page/python-net/new-releases/aspose.page-for-python-via-.net-24.1.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/page/python-net/new-releases/aspose.page-for-python-via-.net-24.1.0-windows-x32/</guid><description>&amp;nbsp;
+Aspose.Page for Python via .NET 24.1.0 Windows x32
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+40.22MB
+Date Added:
+1/2/2024
+Release Noteshttps://releases.aspose.com/page/python-net/release-notes/2024/aspose-page-for-python-via-.net-24-1-release-notes/
+DescriptionIt contains Aspose.Page for Python via .NET 24.1.0, Windows x32 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=24b6347f3700442b7bdc922cfbce3ab1-9-10271&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.finance-for-python-via-.net-23.1.0,-windows-x64</title><link>https://releases-qa.aspose.com/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.1.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.1.0-windows-x64/</guid><description>&amp;nbsp;
+Aspose.Finance for Python via .NET 23.1.0, Windows x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+39.74MB
+Date Added:
+8/6/2023
+Release Noteshttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-1-release-notes/
+DescriptionIt contains the Aspose.Finance for Python via .NET 23.1.0, Windows x64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=72960c8d2459291d69f8d99b4d9542a2-8-8959&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-python-via-net-23.4.0-linux</title><link>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-net-23.4.0-linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-net-23.4.0-linux/</guid><description>&amp;nbsp;
+Aspose.OCR for Python via NET 23.4.0 Linux
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+274.06MB
+Date Added:
+3/5/2023
+Release Noteshttps://releases.aspose.com/ocr/python-net/release-notes/latest/
+DescriptionReady-to-use optical character recognition (OCR) engine
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=edd26f1dc80337a0f0f8136dd768cb50-55-8841&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>PivotTable Expand/Collapse Button Style API for Python Apps</title><link>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-22.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-22.8/</guid><description>&amp;nbsp;
+Aspose.Cells for Python via .NET 22.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+140.36MB
+Date Added:
+5/9/2022
+Release Noteshttps://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-8-release-notes/
+DescriptionPlease refer to release notes and ReadMe for detail
+File Details
+Expand/Collapse Button Style for PivotTable Added the support for the PivotTable expand and collapse button style.
+Copy Row Height Ability to copy row height while processing smart markers of a table.</description></item><item><title>Aspose.3D for Python via .NET</title><link>https://releases-qa.aspose.com/3d/python-net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/</guid><description>Support Forum
+Download Aspose.3D Python Library for Gameware and CAD Please use the following pip command:
+Release Notes
+Download
+&amp;gt;
+pip install aspose-3d
+&amp;nbsp;
+Product Page | Docs | Demos | Blog | Code Samples | Free Support | Temporary License | EULA
+3D Scene Features Create, read, save, import or export a 3D scene. Define metadata for the 3D scene to add asset information.</description></item><item><title>Multiple Tables in .Numbers Worksheet API for Python Apps</title><link>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-22.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-22.9/</guid><description>&amp;nbsp;
+Aspose.Cells for Python via .NET 22.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+140.47MB
+Date Added:
+9/9/2022
+Release Noteshttps://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-9-release-notes/
+DescriptionPlease refer to release notes and ReadMe for detail
+File Details
+Multiple Tables in .Numbers Worksheet Added the support to work with multiple tables in a worksheet of .Numbers.
+Discrete Group Data Support Introduced the support of discrete group data for XLS file.</description></item><item><title>Locale Regional Setting of Legend Labels API for Python Apps</title><link>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-22.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-22.10/</guid><description>&amp;nbsp;
+Aspose.Cells for Python via .NET 22.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+193.03MB
+Date Added:
+20/10/2022
+Release Noteshttps://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-10-release-notes/
+DescriptionPlease refer to release notes and ReadMe for detail
+File Details
+macOS Support Support for macOS.
+Support for CRTX File Format Support has been added for the Office® Chart Template (CRTX) File format.
+Translate Labels as per Locale Settings Legend entries labels&amp;rsquo; translation ability has been added in accordance with the locale or regional settings.</description></item><item><title>Download Python Library to Perform OCR | Aspose.OCR API</title><link>https://releases-qa.aspose.com/ocr/python-net/</link><pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/python-net/</guid><description>Support Forum
+Download Aspose.OCR for Python via .NET for image recognition. Add optical character recognition (OCR) capabilities to your data science, AI, and automation solutions written in Python 3.6 or later. Extract text from photos, scans, PDF documents and other graphical files without having to delve into complex mathematical operations, neural networks, and other technical details.
+Aspose.OCR for Python via .NET can be download here and installed from local file system with the following pip command:
+Release Notes
+Download
+&amp;gt;
+pip install aspose-ocr-python-net &amp;nbsp;</description></item><item><title>Differentiate in CSE &amp; Normal Array Formula API Python Apps</title><link>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-22.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-22.11/</guid><description>&amp;nbsp;
+Aspose.Cells for Python via .NET 22.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+193.07MB
+Date Added:
+14/11/2022
+Release Noteshttps://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-11-release-notes/
+DescriptionPlease refer to release notes and ReadMe for detail
+File Details
+Distinguish Between CSE &amp;amp; Normal Array Formula Ability to distinguish or differentiate between Ctrl+Shift+Enter (CSE) legacy array formula and normal array formula.
+Copying Timeline Support Support has been added for copying timeline.</description></item><item><title>Python Email Library | Aspose.Email for Python via .NET</title><link>https://releases-qa.aspose.com/email/pythonnet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/pythonnet/</guid><description>Support Forum
+Download Aspose.Email Python Programming Component Please use the following pip command:
+Release Notes
+Download
+&amp;gt;
+pip install Aspose.Email-for-Python-via-NET
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License | EULA
+General Email Features Create emails containing plain text as well as HTML. Create alternative message bodies.</description></item><item><title>Downloads ---New Releases-aspose.cells-for-python-via-.net-22.12</title><link>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-22.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-22.12/</guid><description>&amp;nbsp;
+Aspose.Cells for Python via .NET 22.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+193.22MB
+Date Added:
+15/12/2022
+Release Noteshttps://releases.aspose.com/cells/python-net/release-notes/2022/aspose-cells-for-python-net-22-12-release-notes/
+DescriptionPlease refer to release notes and ReadMe for detail
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=996747f7352a9bff213107d136c35702-39-8274&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-python-via-.net-23.7.0,-windows-x64</title><link>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.0-windows-x64/</guid><description>&amp;nbsp;
+Aspose.OCR for Python via .NET 23.7.0, Windows x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+265.72MB
+Date Added:
+11/7/2023
+Release Noteshttps://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-7-0-release-notes/
+DescriptionPDF without images output
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6bb16b27ab35e8d95bcc1dea4d78b132-54-9195&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-python-via-.net-23.1</title><link>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.1/</guid><description>&amp;nbsp;
+Aspose.Cells for Python via .NET 23.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+193.39MB
+Date Added:
+16/1/2023
+Release Noteshttps://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-1-release-notes/
+DescriptionPlease refer to release notes and ReadMe for detail
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9847e800fe83ccbd768bc4fd15cd70d0-39-8391&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-python-via-.net-23.7.0,-windows-x32</title><link>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.0-windows-x32/</guid><description>&amp;nbsp;
+Aspose.OCR for Python via .NET 23.7.0, Windows x32
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+261.7MB
+Date Added:
+11/7/2023
+Release Noteshttps://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-7-0-release-notes/
+DescriptionPDF without images output
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4049430525e853675eac0759208d9420-53-9196&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-python-via-.net-23.2</title><link>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.2/</guid><description>&amp;nbsp;
+Aspose.Cells for Python via .NET 23.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+232.51MB
+Date Added:
+13/2/2023
+Release Noteshttps://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-2-release-notes/
+DescriptionPlease refer to release notes and ReadMe for detail
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=561a99bdd95d7230364f2245022ccae0-47-8509&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-python-via-.net-23.7.0,-linux-x86,-x64</title><link>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.0-linux-x86-x64/</guid><description>&amp;nbsp;
+Aspose.OCR for Python via .NET 23.7.0, Linux x86, x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+274.08MB
+Date Added:
+12/7/2023
+Release Noteshttps://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-7-0-release-notes/
+DescriptionPDF without images output
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6bb5bfe2fa28963e3e4a3e827955b99e-55-9198&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.cells-for-python-via-.net-23.3</title><link>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.3/</guid><description>&amp;nbsp;
+Aspose.Cells for Python via .NET 23.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+234.34MB
+Date Added:
+28/3/2023
+Release Noteshttps://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-3-release-notes/
+DescriptionPlease refer to release notes and ReadMe for detail
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f78ff923b004b9f92e1af127ee2b4997-47-8693&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-python-via-.net-23.7.1,-windows-x32</title><link>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.1-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.1-windows-x32/</guid><description>&amp;nbsp;
+Aspose.OCR for Python via .NET 23.7.1, Windows x32
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+261.74MB
+Date Added:
+25/7/2023
+Release Noteshttps://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-7-1-release-notes/
+Descriptionautomatic_color_inversion
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4228897b5120cc5e6da4dfc8b7a872f4-53-9264&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-python-via-.net-23.4</title><link>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.4/</guid><description>&amp;nbsp;
+Aspose.Cells for Python via .NET 23.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+230.26MB
+Date Added:
+17/4/2023
+Release Noteshttps://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-4-release-notes/
+DescriptionPlease refer to release notes and ReadMe for detail
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=25a33b246dae3a26bd9baeedecb135d2-47-8762&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.finance-for-python-via-.net-23.5.0,-linux-x86,-x64</title><link>https://releases-qa.aspose.com/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.5.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.5.0-linux-x86-x64/</guid><description>&amp;nbsp;
+Aspose.Finance for Python via .NET 23.5.0, Linux x86, x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+50.69MB
+Date Added:
+9/6/2023
+Release Noteshttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-5-release-notes/
+DescriptionIt contains the Aspose.Finance for Python via .NET 23.5.0, Linux x86, x64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d7b3513c28f2cac14c60ab4e8df2dbf6-11-8973&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-python-via-.net-23.7.1,-windows-x64</title><link>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.1-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.1-windows-x64/</guid><description>&amp;nbsp;
+Aspose.OCR for Python via .NET 23.7.1, Windows x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+265.76MB
+Date Added:
+25/7/2023
+Release Noteshttps://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-7-1-release-notes/
+Descriptionautomatic_color_inversion
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=42ca0ee1f9cefa7fe2963b61d2018bef-54-9265&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Aspose.Cells for Python via .NET</title><link>https://releases-qa.aspose.com/cells/python-net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/python-net/</guid><description>Support Forum
+Download Aspose.Cells Python Library for Spreadsheet Processing Aspose.Cells for Python via .NET is a scalable and feature-rich API to process Excel&amp;reg; spreadsheets using Python. API offers Excel&amp;reg; file creation, manipulation, conversion and rendering. Developers can format worksheets, rows, columns or cells to the most granular level, create manipulate chart and pivot tables, render worksheets, charts and specific data ranges to PDF or images, add calculate Excel&amp;reg;'s built-in and custom formulas and much more - all without any dependency on Microsoft Office or Excel&amp;reg; application.</description></item><item><title>Aspose.Diagram for Python via .Net</title><link>https://releases-qa.aspose.com/diagram/python-net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/diagram/python-net/</guid><description>Support Forum
+Download Aspose.Diagram Python Library for Visio Processing Aspose.Diagram for Python via .NET is a scalable and feature-rich API to process visio files using Python. API offers Visio file creation, manipulation, conversion, rendering. Developers can format pages to the most granular level, create and manipulate shape, render pages, shapes to PDF and images, and much more - all without any dependency on Microsoft Office or Visio application.</description></item><item><title>Aspose.Finance for Python via .NET</title><link>https://releases-qa.aspose.com/finance/python-net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/python-net/</guid><description>Support Forum
+Download Aspose.Finance Python Programming Library for XBRL, iXBRL, OFX Formats Aspose.Finance for Python via .NET is a standalone on-premise API consisting of Python classes that allow you to process and manipuate finance-related formats, such as, XBRL, iXBRL and OFX.
+Please use the following pip command:
+Release Notes
+Download
+&amp;gt;
+pip install aspose-finance
+&amp;nbsp;
+Product Page | Docs | Examples | Blog | Search | Free Support | Temporary License</description></item><item><title>Downloads ---New Releases-aspose.cells-for-python-via-.net-23.5</title><link>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.5/</guid><description>&amp;nbsp;
+Aspose.Cells for Python via .NET 23.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+231.26MB
+Date Added:
+2/6/2023
+Release Noteshttps://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-5-release-notes/
+DescriptionPlease refer to release notes and ReadMe for detail
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a4cfcdb68bcf974fd8aa1e34fcfed270-47-8948&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.finance-for-python-via-.net-23.5.0,-windows-x64</title><link>https://releases-qa.aspose.com/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.5.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.5.0-windows-x64/</guid><description>&amp;nbsp;
+Aspose.Finance for Python via .NET 23.5.0, Windows x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+39.74MB
+Date Added:
+10/6/2023
+Release Noteshttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-5-release-notes/
+DescriptionIt contains Aspose.Finance for Python via .NET 23.5.0, Windows x64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=33e87a8651c63b0c9ac39e2c48e9b829-8-8976&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-python-via-.net-23.7.1,-linux-x86,-x64</title><link>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.1-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.1-linux-x86-x64/</guid><description>&amp;nbsp;
+Aspose.OCR for Python via .NET 23.7.1, Linux x86, x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+274.18MB
+Date Added:
+25/7/2023
+Release Noteshttps://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-7-1-release-notes/
+Descriptionautomatic_color_inversion
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0e173972fdda4894a44b7402cfb13384-55-9266&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-python-via-.net-23.6</title><link>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.6/</guid><description>&amp;nbsp;
+Aspose.Cells for Python via .NET 23.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+231.53MB
+Date Added:
+16/6/2023
+Release Noteshttps://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-5-release-notes/
+DescriptionPlease refer to release notes for details
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=94b9c360bb6237cc87c2ee7f82b3f169-47-8984&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.finance-for-python-via-.net-23.5.0,-windows-x32</title><link>https://releases-qa.aspose.com/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.5.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/finance/python-net/new-releases/aspose.finance-for-python-via-.net-23.5.0-windows-x32/</guid><description>&amp;nbsp;
+Aspose.Finance for Python via .NET 23.5.0, Windows x32
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+34.44MB
+Date Added:
+14/6/2023
+Release Noteshttps://releases.aspose.com/finance/python-net/release-notes/2023/aspose-finance-for-python-via-net-23-5-release-notes/
+DescriptionIt contains Aspose.Finance for Python via .NET 23.5.0, Windows x32 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d34f51ecc6c7abd87a3ee219c3e2ba10-7-8981&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-python-via-.net-23.7.1,-macos-x86,-x64</title><link>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.1-macos-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.7.1-macos-x86-x64/</guid><description>&amp;nbsp;
+Aspose.OCR for Python via .NET 23.7.1, MacOS x86, x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+272.81MB
+Date Added:
+26/7/2023
+Release Noteshttps://releases.aspose.com/ocr/python-net/release-notes/2023/aspose-ocr-python-23-7-1-release-notes/
+Descriptionfirst release
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=17cd5f34897952a02b3debe9bd2e80df-55-9273&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-python-via-.net-23.7</title><link>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.7/</guid><description>&amp;nbsp;
+Aspose.Cells for Python via .NET 23.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+232.2MB
+Date Added:
+19/7/2023
+Release Noteshttps://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-7-release-notes/
+DescriptionPlease refer to release notes and ReadMe for detail
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fb40b44de0f9193dfd0659028af3a58c-47-9233&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.ocr-for-python-via-.net-23.8.0,-macos-x86,-x64</title><link>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.8.0-macos-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-23.8.0-macos-x86-x64/</guid><description>&amp;nbsp;
+Aspose.OCR for Python via .NET 23.8.0, MacOS x86, x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+272.85MB
+Date Added:
+16/8/2023
+Release Noteshttps://docs.aspose.com/ocr/python-net/aspose-ocr-python-23-8-0-release-notes/
+DescriptionFix PDF creation
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=174cc5a1a71324a6431d5481bdd0ec25-55-9342&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.cells-for-python-via-.net-23.8</title><link>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.8/</guid><description>&amp;nbsp;
+Aspose.Cells for Python via .NET 23.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+232.26MB
+Date Added:
+14/8/2023
+Release Noteshttps://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-8-release-notes/
+DescriptionPlease refer to release notes and ReadMe for detail
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=499b3ac049068c7948d266b715652b3b-47-9323&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.diagram-for-python-via-.net-23.8</title><link>https://releases-qa.aspose.com/diagram/python-net/new-releases/aspose.diagram-for-python-via-.net-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/diagram/python-net/new-releases/aspose.diagram-for-python-via-.net-23.8/</guid><description>&amp;nbsp;
+Aspose.Diagram for Python via .NET 23.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+179.65MB
+Date Added:
+21/8/2023
+Release Noteshttps://releases.aspose.com/diagram/python-net/release-notes/2023/aspose-diagram-for-python-via-net-23-8-release-notes/
+DescriptionAspose.Diagram for Python via .NET 23.8
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e4139ea3f4ab2080ebd8f6e42a475e96-36-9355&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---New Releases-aspose.3d-for-python-via-.net-23.5.0,-windows-x64</title><link>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.5.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/3d/python-net/new-releases/aspose.3d-for-python-via-.net-23.5.0-windows-x64/</guid><description>&amp;nbsp;
+Aspose.3D for Python via .NET 23.5.0, Windows x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+37.78MB
+Date Added:
+16/6/2023
+Release Noteshttps://releases.aspose.com/3d/python-net/release-notes/2023/aspose-3d-for-python-net-23-5-release-notes/
+DescriptionIt contains Aspose.3D for Python via .NET 23.5.0, Windows x64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=790284208a0937f414473caf966e4256-8-9005&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-python-via-java-22.8</title><link>https://releases-qa.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-22.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-22.8/</guid><description>&amp;nbsp;
+Aspose.BarCode for Python via Java 22.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+11.62MB
+Date Added:
+31/8/2022
+Release Noteshttps://releases.aspose.com/barcode/python-java/release-notes/2022/aspose-barcode-for-python-via-java-22-8-release-notes/
+DescriptionAspose.BarCode for Python via Java 22.8 has been released
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=041526b60002f46523746ffc60a5130f-3-7833&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-python-via-java-22.9</title><link>https://releases-qa.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-22.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-22.9/</guid><description>&amp;nbsp;
+Aspose.BarCode for Python via Java 22.9
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+11.56MB
+Date Added:
+28/9/2022
+Release Noteshttps://releases.aspose.com/barcode/python-java/release-notes/2022/aspose-barcode-for-python-via-java-22-9-release-notes/
+DescriptionAspose.BarCode for Python via Java 22.9 has been released
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0669096803c6a00042e6b020f963bebb-3-7954&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-python-via-java-22.10</title><link>https://releases-qa.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-22.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-22.10/</guid><description>&amp;nbsp;
+Aspose.BarCode for Python via Java 22.10
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+11.56MB
+Date Added:
+22/10/2022
+Release Noteshttps://releases.aspose.com/barcode/python-java/release-notes/2022/aspose-barcode-for-python-via-java-22-10-release-notes/
+DescriptionAspose.BarCode for Python via Java 22.10 has been released
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=84ee71e37bd1978946f636d0be2ccddb-3-8052&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-python-via-java-22.11</title><link>https://releases-qa.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-22.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-22.11/</guid><description>&amp;nbsp;
+Aspose.BarCode for Python via Java 22.11
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+11.69MB
+Date Added:
+27/11/2022
+Release Noteshttps://releases.aspose.com/barcode/python-java/release-notes/2022/aspose-barcode-for-python-via-java-22-11-release-notes/
+DescriptionAspose.BarCode for Python via Java 22.11 has been released
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=acf2eb08bb55d090a12942037788ed01-3-8209&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-python-via-java-22.12</title><link>https://releases-qa.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-22.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-22.12/</guid><description>&amp;nbsp;
+Aspose.BarCode for Python via Java 22.12
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+11.88MB
+Date Added:
+30/12/2022
+Release Noteshttps://releases.aspose.com/barcode/python-java/release-notes/2022/aspose-barcode-for-python-via-java-22-12-release-notes/
+DescriptionAspose.BarCode for Python via Java 22.12 has been released
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=665b53d40b1974eb71aa26e1fe4a0b90-3-8354&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-python-via-java-23.1</title><link>https://releases-qa.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-23.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-23.1/</guid><description>&amp;nbsp;
+Aspose.BarCode for Python via Java 23.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+11.89MB
+Date Added:
+25/1/2023
+Release Noteshttps://releases.aspose.com/barcode/python-java/release-notes/2023/aspose-barcode-for-python-via-java-23-1-release-notes/
+DescriptionAspose.BarCode for Python via Java 23.1 has been released
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=199f21cbe8f7fec1cca8fcc51266ab92-3-8418&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-python-via-java-23.2</title><link>https://releases-qa.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-23.2/</guid><description>&amp;nbsp;
+Aspose.BarCode for Python via Java 23.2
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+12MB
+Date Added:
+28/2/2023
+Release Noteshttps://releases.aspose.com/barcode/python-java/release-notes/2023/aspose-barcode-for-python-via-java-23-2-release-notes/
+DescriptionAspose.BarCode for Python via Java 23.2 has been released
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9de1844cd8a7616b971c8c411e58f4d1-3-8596&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-python-via-java-23.3</title><link>https://releases-qa.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-23.3/</guid><description>&amp;nbsp;
+Aspose.BarCode for Python via Java 23.3
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+14.84MB
+Date Added:
+28/3/2023
+Release Noteshttps://releases.aspose.com/barcode/python-java/release-notes/2023/aspose-barcode-for-python-via-java-23-3-release-notes/
+DescriptionAspose.BarCode for Python via Java 23.3 has been released
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=b155b24a7a0eb73c4465047a8f986854-3-8699&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-python-via-java-23.4</title><link>https://releases-qa.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-23.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-23.4/</guid><description>&amp;nbsp;
+Aspose.BarCode for Python via Java 23.4
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+14.88MB
+Date Added:
+25/4/2023
+Release Noteshttps://releases.aspose.com/barcode/python-java/release-notes/2023/aspose-barcode-for-python-via-java-23-4-release-notes/
+DescriptionAspose.BarCode for Python via Java 23.4 has been released
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8b7ef704a5ff6fe43ecd32a99516bf25-3-8818&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-python-via-java-23.5</title><link>https://releases-qa.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-23.5/</guid><description>&amp;nbsp;
+Aspose.BarCode for Python via Java 23.5
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+12.25MB
+Date Added:
+31/5/2023
+Release Noteshttps://releases.aspose.com/barcode/python-java/release-notes/2023/aspose-barcode-for-python-via-java-23-5-release-notes/
+DescriptionAspose.BarCode for Python via Java 23.5 has been released
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1c3ba7060f74b5a76a6841d91ea51b91-3-8937&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-python-via-java-23.6</title><link>https://releases-qa.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-23.6/</guid><description>&amp;nbsp;
+Aspose.BarCode for Python via Java 23.6
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+14.94MB
+Date Added:
+29/6/2023
+Release Noteshttps://releases.aspose.com/barcode/python-java/release-notes/2023/aspose-barcode-for-python-via-java-23-6-release-notes/
+DescriptionAspose.BarCode for Python via Java 23.6 has been released
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0a9839e56515489a57f6876e253f6abe-3-9151&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.email-for-python-via-.net-23.5.0,-macos-x86,-x64</title><link>https://releases-qa.aspose.com/email/pythonnet/new-releases/aspose.email-for-python-via-.net-23.5.0-macos-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/pythonnet/new-releases/aspose.email-for-python-via-.net-23.5.0-macos-x86-x64/</guid><description>&amp;nbsp;
+Aspose.Email for Python via .NET 23.5.0, macOS x86, x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+63.63MB
+Date Added:
+23/6/2023
+Release Noteshttps://releases.aspose.com/email/pythonnet/release-notes/2023/aspose-email-for-python-via-net-23-5-release-notes/
+DescriptionIt contains Aspose.Email for Python via .NET 23.5.0, macOS x86, x64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8262a7192a56a3dec23615db6e330d1e-13-9120&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-python-via-java-22.8</title><link>https://releases-qa.aspose.com/barcode/nodejs/new-releases/aspose.barcode-for-python-via-java-22.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/nodejs/new-releases/aspose.barcode-for-python-via-java-22.8/</guid><description>&amp;nbsp;
+Aspose.BarCode for Python via Java 22.8
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+11.62MB
+Date Added:
+31/8/2022
+Release Noteshttps://releases.aspose.com/barcode/nodejs/release-notes/2022/aspose-barcode-for-node-js-via-java-22-8-release-notes/
+DescriptionAspose.BarCode for Python via Java 22.8 has been released
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=041526b60002f46523746ffc60a5130f-3-7831&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-python-via-java-23.6.1</title><link>https://releases-qa.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-23.6.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-23.6.1/</guid><description>&amp;nbsp;
+Aspose.BarCode for Python via Java 23.6.1
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+14.94MB
+Date Added:
+5/7/2023
+Release Noteshttps://releases.aspose.com/barcode/python-java/release-notes/2023/aspose-barcode-for-python-via-java-23-6-1-release-notes/
+DescriptionAspose.BarCode for Python via Java 23.6.1 has been released
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=184574dee67c0f56f04d7c7ae745faf6-3-9178&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.email-for-python-via-.net-23.5.0,-linux-x86,-x64</title><link>https://releases-qa.aspose.com/email/pythonnet/new-releases/aspose.email-for-python-via-.net-23.5.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/pythonnet/new-releases/aspose.email-for-python-via-.net-23.5.0-linux-x86-x64/</guid><description>&amp;nbsp;
+Aspose.Email for Python via .NET 23.5.0, Linux x86, x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+70.98MB
+Date Added:
+23/6/2023
+Release Noteshttps://releases.aspose.com/email/pythonnet/release-notes/2023/aspose-email-for-python-via-net-23-5-release-notes/
+DescriptionIt contains Aspose.Email for Python via .NET 23.5.0, Linux x86, x64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=be323b8e98d48551deebfe1946f06bcc-15-9121&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads ---New Releases-aspose.barcode-for-python-via-java-23.7</title><link>https://releases-qa.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-23.7/</guid><description>&amp;nbsp;
+Aspose.BarCode for Python via Java 23.7
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+15.01MB
+Date Added:
+30/7/2023
+Release Noteshttps://releases.aspose.com/barcode/python-java/release-notes/2023/aspose-barcode-for-python-via-java-23-7-release-notes/
+DescriptionAspose.BarCode for Python via Java 23.7 has been released
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=11b92f2b0c1390b8fed6db94c705e34f-4-9283&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads ---New Releases-aspose.email-for-python-via-.net-23.5.0,-windows-x64</title><link>https://releases-qa.aspose.com/email/pythonnet/new-releases/aspose.email-for-python-via-.net-23.5.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/email/pythonnet/new-releases/aspose.email-for-python-via-.net-23.5.0-windows-x64/</guid><description>&amp;nbsp;
+Aspose.Email for Python via .NET 23.5.0, Windows x64
+Download&amp;nbsp;
+Support Forum&amp;nbsp;
+File Details
+Downloads:
+1
+File Size:
+50.03MB
+Date Added:
+23/6/2023
+Release Noteshttps://releases.aspose.com/email/pythonnet/release-notes/2023/aspose-email-for-python-via-net-23-5-release-notes/
+DescriptionIt contains Aspose.Email for Python via .NET 23.5.0, Windows x64 release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c5c9c077514e16f3fc017b909853eca8-11-9122&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item></channel></rss>

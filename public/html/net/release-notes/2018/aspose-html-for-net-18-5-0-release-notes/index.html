@@ -1,0 +1,1256 @@
+<!doctype html><html class=no-js lang=en><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge"><title>Aspose.HTML for .NET 18.5.0 Release Notes</title><meta name=description content="This article contains information about the release notes for Aspose.HTML for .NET 18.5.0."><meta name=viewport content="width=device-width,minimum-scale=1"><link rel=canonical href=https://releases-qa.aspose.com/html/net/release-notes/2018/aspose-html-for-net-18-5-0-release-notes/><link rel=alternate hreflang=x-default href=https://releases-qa.aspose.com/html/net/release-notes/2018/aspose-html-for-net-18-5-0-release-notes/><meta name=robots content="noindex, nofollow"><link rel=apple-touch-icon sizes=180x180 href=/res_repo/apple-touch-icon.png><link rel=icon type=image/png href=/res_repo/favicon-32x32.png sizes=32x32><link rel=icon type=image/png href=/res_repo/favicon-16x16.png sizes=16x16><link rel=mask-icon href=/res_repo/safari-pinned-tab.svg color=#0594cb><meta name=theme-color content="#ffffff"><meta property="og:title" content="Aspose.HTML for .NET 18.5.0 Release Notes "><meta property="og:description" content="This article contains information about the release notes for Aspose.HTML for .NET 18.5.0."><meta property="og:type" content="article"><meta property="og:url" content="https://releases-qa.aspose.com/html/net/release-notes/2018/aspose-html-for-net-18-5-0-release-notes/"><meta itemprop=name content="Aspose.HTML for .NET 18.5.0 Release Notes"><meta itemprop=description content="This article contains information about the release notes for Aspose.HTML for .NET 18.5.0."><meta itemprop=wordCount content="5807"><meta name=twitter:card content="summary"><meta name=twitter:title content="Aspose.HTML for .NET 18.5.0 Release Notes"><meta name=twitter:description content="This article contains information about the release notes for Aspose.HTML for .NET 18.5.0."><link href=/css/bootstrap.css rel=stylesheet type=text/css><script src=https://releases-qa.aspose.com/res_repo/js/jquery-1.10.2.min.js></script></head><body><div id=header></div><div class=downloadpage><div class="container-fluid bcrumb1"><div id=sticky1 class=stickytopheight>&nbsp;</div><div class=container><div class=moduletable><ul id=dvBC class=breadcrumb><li><a href=/>Home</a><span class=divider></span></li><li><a href=/html/>Aspose.HTML Product Family</a><span class=divider></span></li><li><a href=/html/net/>Aspose.HTML for .NET</a><span class=divider></span></li><li><a href=/html/net/release-notes/>Release Notes</a><span class=divider></span></li><li><a href=/html/net/release-notes/2018/>2018</a><span class=divider></span></li><li><a href=/html/net/release-notes/2018/aspose-html-for-net-18-5-0-release-notes/>Aspose.HTML for .NET 18.5.0 Release Notes</a><span class=divider></span></li></ul></div></div></div><div class="container-fluid content2 vpanel-left"><div class=container><div class=row><div class="col-md-3 vpanel tree-section"><p class=list-title>Browse our Products<button type=button class=treeview-toggle> <span class=sr-only>Toggle navigation</span> <span class="icon expand-icon glyphicon glyphicon-hide"></span></button></p><div id=tree class="treeview hidetree"></div></div><div class="col-md-9 lhs1 col-xs-12 mobilehide node-section"><div class=box1><section role=main class="main-container page-package-details"><div class=row><div class="col-sm-9 package-details-main"><h1><strong>Aspose.HTML for .NET 18.5.0 Release Notes</strong></h1><div class="tab-content body-tab-content"><div role=tabpanel class="tab-pane active" id=readme-tab><div class=readme-common><div id=readme-container><p><h2 id=asposehtml-for-net-1850-release-notes>Aspose.HTML for .NET 18.5.0 Release Notes</h2><hr><p>As per regular monthly update process of all APIs being offered by Aspose, we are honored to announce the May release of Aspose.HTML for .NET. In this release, we have increased numbers of supported platforms and our library is available for .NET Core now. Moreover, we have also extended numbers of supported formats. <a href=https://html.spec.whatwg.org/multipage/>W3C HTML Canvas</a> is part of our library now, it supports rendering of HTML Canvas elements as a part of HTML document as well as direct access and manipulation of HTML Canvas 2D Context. Additionally, we have improved CSS engine as result we have increased performance of parsing of CSS documents up to 20 percent.</p><h2 id=improvement-and-changes>Improvement and Changes</h2><table><thead><tr><th style=text-align:left><strong>Key</strong></th><th style=text-align:left><strong>Summary</strong></th><th style=text-align:left><strong>Category</strong></th></tr></thead><tbody><tr><td style=text-align:left>HTMLNET-1081</td><td style=text-align:left>Support for rendering HTML Canvas 2D Context, Level 2</td><td style=text-align:left>Enhancement</td></tr><tr><td style=text-align:left>HTMLNET-1037</td><td style=text-align:left>HTML to PNG - different image quality</td><td style=text-align:left>Bug</td></tr><tr><td style=text-align:left>HTMLNET-1120</td><td style=text-align:left>Parameter is not valid exception</td><td style=text-align:left>Bug</td></tr></tbody></table><h2 id=public-api-changes>Public API changes</h2><h3 id=added-apis>Added APIs:</h3><p>TextOptions has been introduced in order to specify text rendering quality options<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// Represents text rendering options for &lt;see cref=&#34;ImageDevice&#34;/&gt;.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>class</span> <span style=color:#a6e22e>Aspose</span><span style=color:#f92672>.</span><span style=color:#a6e22e>Html</span><span style=color:#f92672>.</span><span style=color:#a6e22e>Rendering</span><span style=color:#f92672>.</span><span style=color:#a6e22e>Image</span><span style=color:#f92672>.</span><span style=color:#a6e22e>TextOptions</span></span></span></code></pre></div></p><p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// Sets or gets &lt;see cref=&#34;System.Drawing.Text.TextRenderingHint&#34;/&gt; which influences text rendering quality. By default this property is &lt;see cref=&#34;System.Drawing.Text.TextRenderingHint.SystemDefault&#34;/&gt;.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>TextRenderingHint TextRenderingHint <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> set<span style=color:#f92672>;</span> <span style=color:#f92672>}</span></span></span></code></pre></div>HTMLCanvasElement provides methods properties for manipulating W3C HTML Canvas layout.<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// The HTMLCanvasElement interface provides properties and methods for manipulating the layout and presentation of canvas elements. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// The HTMLCanvasElement interface also inherits the properties and methods of the HTMLElement interface. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>class</span> <span style=color:#a6e22e>Aspose</span><span style=color:#f92672>.</span><span style=color:#a6e22e>Html</span><span style=color:#f92672>.</span><span style=color:#a6e22e>HTMLCanvasElement</span></span></span></code></pre></div></p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// Returns a drawing context on the canvas, or null if the context ID is not supported. A drawing context lets you draw on the canvas.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// &lt;param name=&#34;contextId&#34;&gt;Is a string containing the context identifier defining the drawing context associated to the canvas&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// &lt;param name=&#34;args&#34;&gt;Context attributes&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// &lt;returns&gt;A RenderingContext&lt;/returns&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>object <span style=color:#a6e22e>GetContext</span><span style=color:#f92672>(</span>string contextId<span style=color:#f92672>,</span> params object<span style=color:#f92672>[]</span> args<span style=color:#f92672>)</span></span></span></code></pre></div><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// returns a data URI containing a representation of the image in the format specified by the type parameter (defaults to PNG). 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// The returned image is in a resolution of 96 dpi.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// &lt;param name=&#34;type&#34;&gt;A string indicating the image format. The default format type is image/png.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// &lt;param name=&#34;encoderOptions&#34;&gt;A Number between 0 and 1 indicating image quality if the requested type is image/jpeg or image/webp.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>string <span style=color:#a6e22e>ToDataURL</span><span style=color:#f92672>(</span>string type<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> encoderOptions<span style=color:#f92672>)</span></span></span></code></pre></div><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// Is a positive integer reflecting the width HTML attribute of the canvas element interpreted in CSS pixels. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// When the attribute is not specified, or if it is set to an invalid value, like a negative, the default value of 300 is used.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>ulong Width<span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> set<span style=color:#f92672>;</span> <span style=color:#f92672>}</span></span></span></code></pre></div><p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// Is a positive integer reflecting the height HTML attribute of the canvas element interpreted in CSS pixels. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// When the attribute is not specified, or if it is set to an invalid value, like a negative, 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// the default value of 150 is used.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>ulong Height<span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> set<span style=color:#f92672>;</span> <span style=color:#f92672>}</span></span></span></code></pre></div>HTML Canvas interfaces based on official specification (<a href=https://html.spec.whatwg.org/multipage/)>https://html.spec.whatwg.org/multipage/)</a>. All interfaces are located in Aspose.Html.Dom.Canvas namespace.<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// The ICanvasRenderingContext2D interface is used for drawing rectangles, text, images and other objects onto the canvas element. It provides the 2D rendering context for the drawing surface of a canvas element.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>interface</span> <span style=color:#a6e22e>ICanvasRenderingContext2D</span> <span style=color:#f92672>:</span> ICanvasDrawingStyles<span style=color:#f92672>,</span> ICanvasPathMethods
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>// back-reference to the canvas
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// A read-only back-reference to the HTMLCanvasElement. Might be null if it is not associated with a canvas element.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    HTMLCanvasElement Canvas <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>// state
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Saves the current drawing style state using a stack so you can revert any change you make to it using restore().
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Save</span><span style=color:#f92672>();</span> <span style=color:#75715e>// push state on state stack
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Restores the drawing style state to the last element on the &#39;state stack&#39; saved by save().
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Restore</span><span style=color:#f92672>();</span> 
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>// transformations (default: transform is the identity matrix)
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Adds a scaling transformation to the canvas units by x horizontally and by y vertically.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;x&#34;&gt;Scaling factor in the horizontal direction.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;y&#34;&gt;Scaling factor in the vertical direction.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Scale</span><span style=color:#f92672>(</span><span style=color:#66d9ef>double</span> x<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> y<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Adds a rotation to the transformation matrix. The angle argument represents a clockwise rotation angle and is expressed in radians.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;angle&#34;&gt;Represents a clockwise rotation angle expressed in radians.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Rotate</span><span style=color:#f92672>(</span><span style=color:#66d9ef>double</span> angle<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Adds a translation transformation by moving the canvas and its origin x horzontally and y vertically on the grid.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;x&#34;&gt;Distance to move in the horizontal direction.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;y&#34;&gt;Distance to move in the vertical direction.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Translate</span><span style=color:#f92672>(</span><span style=color:#66d9ef>double</span> x<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> y<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Multiplies the current transformation matrix with the matrix described by its arguments.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;a&#34;&gt;Horizontal scaling.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;b&#34;&gt;Horizontal skewing.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;c&#34;&gt;Vertical skewing.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;d&#34;&gt;Vertical scaling.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;e&#34;&gt;Horizontal moving.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;f&#34;&gt;Vertical moving.&lt;/param&gt;&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Transform</span><span style=color:#f92672>(</span><span style=color:#66d9ef>double</span> a<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> b<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> c<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> d<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> e<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> f<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Resets the current transform to the identity matrix, and then invokes the transform() method with the same arguments.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;a&#34;&gt;Horizontal scaling.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;b&#34;&gt;Horizontal skewing.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;c&#34;&gt;Vertical skewing.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;d&#34;&gt;Vertical scaling.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;e&#34;&gt;Horizontal moving.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;f&#34;&gt;Vertical moving.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>SetTransform</span><span style=color:#f92672>(</span><span style=color:#66d9ef>double</span> a<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> b<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> c<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> d<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> e<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> f<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Resets the current transform by the identity matrix.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>ResetTransform</span><span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>// compositing
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>///  Alpha value that is applied to shapes and images before they are composited onto the canvas. Default 1.0 (opaque).
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>double</span> GlobalAlpha <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> set<span style=color:#f92672>;</span> <span style=color:#f92672>}</span> 
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// With globalAlpha applied this sets how shapes and images are drawn onto the existing bitmap. Default: (source-over)
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    string GlobalCompositeOperation <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> set<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>// colors and styles (see also the CanvasDrawingStyles interface)
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Color or style to use for the lines around shapes. Default: (black).
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    object StrokeStyle <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> set<span style=color:#f92672>;</span> <span style=color:#f92672>}</span> 
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Color or style to use inside shapes. Default: (black).
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    object FillStyle <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> set<span style=color:#f92672>;</span> <span style=color:#f92672>}</span> 
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Creates a linear gradient along the line given by the coordinates represented by the parameters.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;x0&#34;&gt;The x axis of the coordinate of the start point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;y0&#34;&gt;The y axis of the coordinate of the start point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;x1&#34;&gt;The x axis of the coordinate of the end point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;y1&#34;&gt;The y axis of the coordinate of the end point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;The linear CanvasGradient.&lt;/returns&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    ICanvasGradient <span style=color:#a6e22e>CreateLinearGradient</span><span style=color:#f92672>(</span><span style=color:#66d9ef>double</span> x0<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> y0<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> x1<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> y1<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Creates a radial gradient given by the coordinates of the two circles represented by the parameters.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;x0&#34;&gt;The x axis of the coordinate of the start circle.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;y0&#34;&gt;The y axis of the coordinate of the start circle&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;r0&#34;&gt;The radius of the start circle.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;x1&#34;&gt;The x axis of the coordinate of the end circle.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;y1&#34;&gt;The y axis of the coordinate of the end circle.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;r1&#34;&gt;The radius of the end circle.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;A radial CanvasGradient initialized with the two specified circles.&lt;/returns&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    ICanvasGradient <span style=color:#a6e22e>CreateRadialGradient</span><span style=color:#f92672>(</span><span style=color:#66d9ef>double</span> x0<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> y0<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> r0<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> x1<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> y1<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> r1<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Creates a pattern using the specified image (a CanvasImageSource). 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// It repeats the source in the directions specified by the repetition argument. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;image&#34;&gt;A HTMLImageElement to be used as the image to repeat&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;repetition&#34;&gt;A string indicating how to repeat the image.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;An opaque object describing a pattern.&lt;/returns&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    ICanvasPattern <span style=color:#a6e22e>CreatePattern</span><span style=color:#f92672>(</span>HTMLImageElement image<span style=color:#f92672>,</span> string repetition<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Creates a pattern using the specified image (a CanvasImageSource). 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// It repeats the source in the directions specified by the repetition argument. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;image&#34;&gt;A HTMLCanvasElement to be used as the image to repeat&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;repetition&#34;&gt;A string indicating how to repeat the image.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;An opaque object describing a pattern.&lt;/returns&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    ICanvasPattern <span style=color:#a6e22e>CreatePattern</span><span style=color:#f92672>(</span>HTMLCanvasElement image<span style=color:#f92672>,</span> string repetition<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>// shadows
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Horizontal distance the shadow will be offset. Default 0.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>double</span> ShadowOffsetX <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> set<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Vertical distance the shadow will be offset. Default 0.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>double</span> ShadowOffsetY <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> set<span style=color:#f92672>;</span> <span style=color:#f92672>}</span> 
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Specifies the blurring effect. Default 0
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>double</span> ShadowBlur <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> set<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Color of the shadow. Default fully-transparent black.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    string ShadowColor <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> set<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>// rects
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Sets all pixels in the rectangle defined by starting point (x, y) and size (width, height) to transparent black, erasing any previously drawn content.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;x&#34;&gt;The x axis of the coordinate for the rectangle starting point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;y&#34;&gt;The y axis of the coordinate for the rectangle starting point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;w&#34;&gt;The rectangle&#39;s width.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;h&#34;&gt;The rectangle&#39;s height.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>ClearRect</span><span style=color:#f92672>(</span><span style=color:#66d9ef>double</span> x<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> y<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> w<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> h<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Draws a filled rectangle at (x, y) position whose size is determined by width and height.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;x&#34;&gt;The x axis of the coordinate for the rectangle starting point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;y&#34;&gt;The y axis of the coordinate for the rectangle starting point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;w&#34;&gt;The rectangle&#39;s width.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;h&#34;&gt;The rectangle&#39;s height.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>FillRect</span><span style=color:#f92672>(</span><span style=color:#66d9ef>double</span> x<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> y<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> w<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> h<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Paints a rectangle which has a starting point at (x, y) and has a w width and an h height onto the canvas, using the current stroke style.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;x&#34;&gt;The x axis of the coordinate for the rectangle starting point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;y&#34;&gt;The y axis of the coordinate for the rectangle starting point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;w&#34;&gt;The rectangle&#39;s width.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;h&#34;&gt;The rectangle&#39;s height.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>StrokeRect</span><span style=color:#f92672>(</span><span style=color:#66d9ef>double</span> x<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> y<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> w<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> h<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>// path API (see also CanvasPathMethods)
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Starts a new path by emptying the list of sub-paths. Call this method when you want to create a new path.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>BeginPath</span><span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Fills the subpaths with the current fill style and default algorithm CanvasFillRule.Nonzero.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Fill</span><span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Fills the subpaths with the current fill style.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;fillRule&#34;&gt;The algorithm by which to determine if a point is inside a path or outside a path.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Fill</span><span style=color:#f92672>(</span>CanvasFillRule fillRule<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Fills the subpaths with the current fill style and default algorithm CanvasFillRule.Nonzero.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;path&#34;&gt;A Path2D path to fill.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Fill</span><span style=color:#f92672>(</span>Path2D path<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Fills the subpaths with the current fill style.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;path&#34;&gt;A Path2D path to fill.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;fillRule&#34;&gt;The algorithm by which to determine if a point is inside a path or outside a path.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Fill</span><span style=color:#f92672>(</span>Path2D path<span style=color:#f92672>,</span> CanvasFillRule fillRule<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Strokes the subpaths with the current stroke style.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Stroke</span><span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Strokes the subpaths with the current stroke style.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;path&#34;&gt;A Path2D path to stroke.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Stroke</span><span style=color:#f92672>(</span>Path2D path<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// If a given element is focused, this method draws a focus ring around the current path.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;element&#34;&gt;The element to check whether it is focused or not.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>DrawFocusIfNeeded</span><span style=color:#f92672>(</span>Html<span style=color:#f92672>.</span><span style=color:#a6e22e>Dom</span><span style=color:#f92672>.</span><span style=color:#a6e22e>Element</span> element<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Creates a new clipping region by calculating the intersection of the current clipping region and the area described by the path, using the non-zero winding number rule.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Open subpaths must be implicitly closed when computing the clipping region, without affecting the actual subpaths.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// The new clipping region replaces the current clipping region.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Clip</span><span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Creates a new clipping region by calculating the intersection of the current clipping region and the area described by the path, using the non-zero winding number rule. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Open subpaths must be implicitly closed when computing the clipping region, without affecting the actual subpaths.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// The new clipping region replaces the current clipping region.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;fillRule&#34;&gt;The algorithm by which to determine if a point is inside a path or outside a path&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Clip</span><span style=color:#f92672>(</span>CanvasFillRule fillRule<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Creates a new clipping region by calculating the intersection of the current clipping region and the area described by the path, using the non-zero winding number rule. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Open subpaths must be implicitly closed when computing the clipping region, without affecting the actual subpaths.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// The new clipping region replaces the current clipping region.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;path&#34;&gt;A Path2D path to clip.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;fillRule&#34;&gt;The algorithm by which to determine if a point is inside a path or outside a path.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Clip</span><span style=color:#f92672>(</span>Path2D path<span style=color:#f92672>,</span> CanvasFillRule fillRule<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Reports whether or not the specified point is contained in the current path. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;x&#34;&gt;The X coordinate of the point to check.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;y&#34;&gt;The Y coordinate of the point to check.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;fillRule&#34;&gt;The algorithm by which to determine if a point is inside a path or outside a path.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;Returns true if the point is inside the area contained by the filling of a path, otherwise false.&lt;/returns&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    bool <span style=color:#a6e22e>IsPointInPath</span><span style=color:#f92672>(</span><span style=color:#66d9ef>double</span> x<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> y<span style=color:#f92672>,</span> CanvasFillRule fillRule<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Reports whether or not the specified point is contained in the current path. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;path&#34;&gt;A Path2D path to check.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;x&#34;&gt;The X coordinate of the point to check.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;y&#34;&gt;The Y coordinate of the point to check.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;fillRule&#34;&gt;The algorithm by which to determine if a point is inside a path or outside a path.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;Returns true if the point is inside the area contained by the filling of a path, otherwise false.&lt;/returns&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    bool <span style=color:#a6e22e>IsPointInPath</span><span style=color:#f92672>(</span>Path2D path<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> x<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> y<span style=color:#f92672>,</span> CanvasFillRule fillRule<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Reports whether or not the specified point is inside the area contained by the stroking of a path. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;x&#34;&gt;The X coordinate of the point to check.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;y&#34;&gt;The Y coordinate of the point to check.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;Returns true if the point is inside the area contained by the stroking of a path, otherwise false.&lt;/returns&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    bool <span style=color:#a6e22e>IsPointInStroke</span><span style=color:#f92672>(</span><span style=color:#66d9ef>double</span> x<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> y<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Reports whether or not the specified point is inside the area contained by the stroking of a path. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;path&#34;&gt;A Path2D path to check.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;x&#34;&gt;The X coordinate of the point to check.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;y&#34;&gt;The Y coordinate of the point to check.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;Returns true if the point is inside the area contained by the stroking of a path, otherwise false.&lt;/returns&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    bool <span style=color:#a6e22e>IsPointInStroke</span><span style=color:#f92672>(</span>Path2D path<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> x<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> y<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Draws (fills) a given text at the given (x,y) position.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;text&#34;&gt;The text to draw using the current font, textAlign, textBaseline, and direction values.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;x&#34;&gt;The x axis of the coordinate for the text starting point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;y&#34;&gt;The y axis of the coordinate for the text starting point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;maxWidth&#34;&gt;The maximum width to draw. If specified, and the string is computed to be wider than this width, the font is adjusted to use a more horizontally condensed font (if one is available or if a reasonably readable one can be synthesized by scaling the current font horizontally) or a smaller font.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>FillText</span><span style=color:#f92672>(</span>string text<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> x<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> y<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span><span style=color:#f92672>?</span> maxWidth<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Draws (strokes) a given text at the given (x, y) position.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;text&#34;&gt;The text to draw using the current font, textAlign, textBaseline, and direction values.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;x&#34;&gt;The x axis of the coordinate for the text starting point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;y&#34;&gt;The y axis of the coordinate for the text starting point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;maxWidth&#34;&gt;The maximum width to draw. If specified, and the string is computed to be wider than this width, the font is adjusted to use a more horizontally condensed font (if one is available or if a reasonably readable one can be synthesized by scaling the current font horizontally) or a smaller font.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>StrokeText</span><span style=color:#f92672>(</span>string text<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> x<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> y<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span><span style=color:#f92672>?</span> maxWidth<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Returns a TextMetrics object.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;text&#34;&gt;The text to measure.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;A TextMetrics object.&lt;/returns&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    ITextMetrics <span style=color:#a6e22e>MeasureText</span><span style=color:#f92672>(</span>string text<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>// drawing images
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Draws the specified image.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;image&#34;&gt;The HTMLImageElement to draw into the context.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dx&#34;&gt;The X coordinate in the destination canvas at which to place the top-left corner of the source image.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dy&#34;&gt;The Y coordinate in the destination canvas at which to place the top-left corner of the source image.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>DrawImage</span><span style=color:#f92672>(</span>HTMLImageElement image<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dx<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dy<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Draws the specified image.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;image&#34;&gt;The HTMLCanvasElement to draw into the context.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dx&#34;&gt;The X coordinate in the destination canvas at which to place the top-left corner of the source image.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dy&#34;&gt;The Y coordinate in the destination canvas at which to place the top-left corner of the source image.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>DrawImage</span><span style=color:#f92672>(</span>HTMLCanvasElement image<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dx<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dy<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>///  Draws the specified image.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;image&#34;&gt;The HTMLImageElement to draw into the context.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dx&#34;&gt;The X coordinate in the destination canvas at which to place the top-left corner of the source image.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dy&#34;&gt;The Y coordinate in the destination canvas at which to place the top-left corner of the source image.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dw&#34;&gt;The width to draw the image in the destination canvas. This allows scaling of the drawn image. If not specified, the image is not scaled in width when drawn.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dh&#34;&gt;The height to draw the image in the destination canvas. This allows scaling of the drawn image. If not specified, the image is not scaled in height when drawn.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>DrawImage</span><span style=color:#f92672>(</span>HTMLImageElement image<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dx<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dy<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dw<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dh<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>///  Draws the specified image.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;image&#34;&gt;The HTMLCanvasElement to draw into the context.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dx&#34;&gt;The X coordinate in the destination canvas at which to place the top-left corner of the source image.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dy&#34;&gt;The Y coordinate in the destination canvas at which to place the top-left corner of the source image.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dw&#34;&gt;The width to draw the image in the destination canvas. This allows scaling of the drawn image. If not specified, the image is not scaled in width when drawn.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dh&#34;&gt;The height to draw the image in the destination canvas. This allows scaling of the drawn image. If not specified, the image is not scaled in height when drawn.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>DrawImage</span><span style=color:#f92672>(</span>HTMLCanvasElement image<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dx<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dy<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dw<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dh<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Draws the specified image. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;image&#34;&gt;The HTMLImageElement to draw into the context.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;sx&#34;&gt;The X coordinate of the top left corner of the sub-rectangle of the source image to draw into the destination context.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;sy&#34;&gt;The Y coordinate of the top left corner of the sub-rectangle of the source image to draw into the destination context.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;sw&#34;&gt;The width of the sub-rectangle of the source image to draw into the destination context. If not specified, the entire rectangle from the coordinates specified by sx and sy to the bottom-right corner of the image is used.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;sh&#34;&gt;The height of the sub-rectangle of the source image to draw into the destination context.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dx&#34;&gt;The X coordinate in the destination canvas at which to place the top-left corner of the source image.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dy&#34;&gt;The Y coordinate in the destination canvas at which to place the top-left corner of the source image.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dw&#34;&gt;The width to draw the image in the destination canvas. This allows scaling of the drawn image. If not specified, the image is not scaled in width when drawn.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dh&#34;&gt;The height to draw the image in the destination canvas. This allows scaling of the drawn image. If not specified, the image is not scaled in height when drawn.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>DrawImage</span><span style=color:#f92672>(</span>HTMLImageElement image<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> sx<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> sy<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> sw<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> sh<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dx<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dy<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dw<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dh<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Draws the specified image. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;image&#34;&gt;The HTMLCanvasElement to draw into the context.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;sx&#34;&gt;The X coordinate of the top left corner of the sub-rectangle of the source image to draw into the destination context.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;sy&#34;&gt;The Y coordinate of the top left corner of the sub-rectangle of the source image to draw into the destination context.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;sw&#34;&gt;The width of the sub-rectangle of the source image to draw into the destination context. If not specified, the entire rectangle from the coordinates specified by sx and sy to the bottom-right corner of the image is used.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;sh&#34;&gt;The height of the sub-rectangle of the source image to draw into the destination context.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dx&#34;&gt;The X coordinate in the destination canvas at which to place the top-left corner of the source image.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dy&#34;&gt;The Y coordinate in the destination canvas at which to place the top-left corner of the source image.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dw&#34;&gt;The width to draw the image in the destination canvas. This allows scaling of the drawn image. If not specified, the image is not scaled in width when drawn.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dh&#34;&gt;The height to draw the image in the destination canvas. This allows scaling of the drawn image. If not specified, the image is not scaled in height when drawn.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>DrawImage</span><span style=color:#f92672>(</span>HTMLCanvasElement image<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> sx<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> sy<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> sw<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> sh<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dx<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dy<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dw<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dh<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>// hit regions
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Adds a hit region to the canvas. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// This allows you to make hit detection easier, lets you route events to DOM elements, 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// and makes it possible for users to explore the canvas without seeing it.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;options&#34;&gt;The options argument is optional. When provided, it is an Object which can contain properties.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>AddHitRegion</span><span style=color:#f92672>(</span>Dictionary<span style=color:#f92672>&lt;</span>string<span style=color:#f92672>,</span>string<span style=color:#f92672>&gt;</span> options<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Removes the hit region with the specified id from the canvas.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;id&#34;&gt;A string representing the id of the region that is to be removed.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>RemoveHitRegion</span><span style=color:#f92672>(</span>string id<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Removes all hit regions from the canvas.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>ClearHitRegions</span><span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>// pixel manipulation
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Creates a new, blank ImageData object with the specified dimensions. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// All of the pixels in the new object are transparent black.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;sw&#34;&gt;The width to give the new ImageData object.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;sh&#34;&gt;The height to give the new ImageData object.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;A new ImageData object with the specified width and height. The new object is filled with transparent black pixels.&lt;/returns&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    IImageData <span style=color:#a6e22e>CreateImageData</span><span style=color:#f92672>(</span><span style=color:#66d9ef>double</span> sw<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> sh<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Creates a new, blank ImageData object with the specified dimensions. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// All of the pixels in the new object are transparent black.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;imagedata&#34;&gt;An existing ImageData object from which to copy the width and height. The image itself is not copied.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;A new ImageData object with the specified width and height. The new object is filled with transparent black pixels.&lt;/returns&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    IImageData <span style=color:#a6e22e>CreateImageData</span><span style=color:#f92672>(</span>IImageData imagedata<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Returns an ImageData object representing the underlying pixel data for the area of the canvas denoted by the rectangle which starts at (sx, sy) and has an sw width and sh height.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// This method is not affected by the canvas transformation matrix.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;sx&#34;&gt;The x coordinate of the upper left corner of the rectangle from which the ImageData will be extracted.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;sy&#34;&gt;The y coordinate of the upper left corner of the rectangle from which the ImageData will be extracted.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;sw&#34;&gt;The width of the rectangle from which the ImageData will be extracted.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;sh&#34;&gt;The height of the rectangle from which the ImageData will be extracted.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;An ImageData object containing the image data for the given rectangle of the canvas.&lt;/returns&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    IImageData <span style=color:#a6e22e>GetImageData</span><span style=color:#f92672>(</span><span style=color:#66d9ef>double</span> sx<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> sy<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> sw<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> sh<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Paints data from the given ImageData object onto the bitmap. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// If a dirty rectangle is provided, only the pixels from that rectangle are painted. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// This method is not affected by the canvas transformation matrix.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;imagedata&#34;&gt;An ImageData object containing the array of pixel values.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dx&#34;&gt;Horizontal position (x-coordinate) at which to place the image data in the destination canvas.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dy&#34;&gt;Vertical position (y-coordinate) at which to place the image data in the destination canvas.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>PutImageData</span><span style=color:#f92672>(</span>IImageData imagedata<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dx<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dy<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Paints data from the given ImageData object onto the bitmap. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// If a dirty rectangle is provided, only the pixels from that rectangle are painted. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// This method is not affected by the canvas transformation matrix.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;imagedata&#34;&gt;An ImageData object containing the array of pixel values.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dx&#34;&gt;Horizontal position (x-coordinate) at which to place the image data in the destination canvas.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dy&#34;&gt;Vertical position (y-coordinate) at which to place the image data in the destination canvas.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dirtyX&#34;&gt;Horizontal position (x-coordinate). The x coordinate of the top left hand corner of your Image data. Defaults to 0.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dirtyY&#34;&gt;Vertical position (y-coordinate). The y coordinate of the top left hand corner of your Image data. Defaults to 0.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dirtyWidth&#34;&gt;Width of the rectangle to be painted. Defaults to the width of the image data.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;dirtyHeight&#34;&gt;Height of the rectangle to be painted. Defaults to the height of the image data.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>PutImageData</span><span style=color:#f92672>(</span>IImageData imagedata<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dx<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dy<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dirtyX<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dirtyY<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dirtyWidth<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> dirtyHeight<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span></span></span></code></pre></div></p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// The ICanvasDrawingStyles interface provides methods and properties control how lines are drawn and how text is laid out.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>interface</span> <span style=color:#a6e22e>ICanvasDrawingStyles</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>// line caps/joins
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Width of lines. Default 1.0
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>double</span> LineWidth <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> set<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Type of endings on the end of lines. Possible values: butt (default), round, square.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    string LineCap <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> set<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Defines the type of corners where two lines meet. Possible values: round, bevel, miter (default).
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    string LineJoin <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> set<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Miter limit ratio. Default 10.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>double</span> MiterLimit <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> set<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>// dashed lines
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Sets the current line dash pattern.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;segments&#34;&gt;An Array of numbers which specify distances to alternately draw a line and a gap (in coordinate space units)&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>SetLineDash</span><span style=color:#f92672>(</span><span style=color:#66d9ef>double</span><span style=color:#f92672>[]</span> segments<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Returns the current line dash pattern array containing an even number of non-negative numbers.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;returns&gt;An Array. A list of numbers that specifies distances to alternately draw a line and a gap (in coordinate space units).&lt;/returns&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>double</span><span style=color:#f92672>[]</span> <span style=color:#a6e22e>GetLineDash</span><span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Specifies where to start a dash array on a line.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>double</span> LineDashOffset <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> set<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>// text
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Font setting. Default value 10px sans-serif
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    string Font <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> set<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Text alignment setting. Possible values: start (default), end, left, right or center.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    string TextAlign <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> set<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Baseline alignment setting. Possible values: top, hanging, middle, alphabetic (default), ideographic, bottom.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    string TextBaseline <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> set<span style=color:#f92672>;</span> <span style=color:#f92672>}</span> 
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span></span></span></code></pre></div><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>///  Represents an opaque object describing a gradient.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>interface</span> <span style=color:#a6e22e>ICanvasGradient</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>///  Adds a new stop, defined by an offset and a color, to the gradient.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;offset&#34;&gt;A number between 0 and 1.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;color&#34;&gt;A CSS color&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>AddColorStop</span><span style=color:#f92672>(</span><span style=color:#66d9ef>double</span> offset<span style=color:#f92672>,</span> string color<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span></span></span></code></pre></div><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// The ICanvasPathMethods interface is used to manipulate paths of objects.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>interface</span> <span style=color:#a6e22e>ICanvasPathMethods</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Causes the point of the pen to move back to the start of the current sub-path. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// It tries to draw a straight line from the current point to the start. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// If the shape has already been closed or has only one point, this function does nothing.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>ClosePath</span><span style=color:#f92672>();</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Moves the starting point of a new sub-path to the (x, y) coordinates.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;x&#34;&gt;The x axis of the point&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;y&#34;&gt;The y axis of the point&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>MoveTo</span><span style=color:#f92672>(</span><span style=color:#66d9ef>double</span> x<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> y<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Connects the last point in the subpath to the x, y coordinates with a straight line.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;x&#34;&gt;The x axis of the coordinate for the end of the line.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;y&#34;&gt;The y axis of the coordinate for the end of the line.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>LineTo</span><span style=color:#f92672>(</span><span style=color:#66d9ef>double</span> x<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> y<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Adds a quadratic Bézier curve to the current path.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;cpx&#34;&gt;The x axis of the coordinate for the control point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;cpy&#34;&gt;The y axis of the coordinate for the control point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;x&#34;&gt;The x axis of the coordinate for the end point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;y&#34;&gt;The y axis of the coordinate for the end point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>QuadraticCurveTo</span><span style=color:#f92672>(</span><span style=color:#66d9ef>double</span> cpx<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> cpy<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> x<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> y<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Adds a cubic Bézier curve to the path. It requires three points. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// The first two points are control points and the third one is the end point. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// The starting point is the last point in the current path, 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// which can be changed using moveTo() before creating the Bézier curve.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;cp1x&#34;&gt;The x axis of the coordinate for the first control point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;cp1y&#34;&gt;The y axis of the coordinate for the first control point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;cp2x&#34;&gt;The x axis of the coordinate for the second control point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;cp2y&#34;&gt;The y axis of the coordinate for the second control point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;x&#34;&gt;The x axis of the coordinate for the end point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;y&#34;&gt;The y axis of the coordinate for the end point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>BezierCurveTo</span><span style=color:#f92672>(</span><span style=color:#66d9ef>double</span> cp1x<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> cp1y<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> cp2x<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> cp2y<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> x<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> y<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Adds an arc to the path with the given control points and radius, connected to the previous point by a straight line.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;x1&#34;&gt;x-axis coordinates for the first control point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;y1&#34;&gt;y-axis coordinates for the first control point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;x2&#34;&gt;x-axis coordinates for the second control point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;y2&#34;&gt;y-axis coordinates for the second control point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;radius&#34;&gt;The arc&#39;s radius.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>ArcTo</span><span style=color:#f92672>(</span><span style=color:#66d9ef>double</span> x1<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> y1<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> x2<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> y2<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> radius<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Creates a path for a rectangle at position (x, y) with a size that is determined by width and height.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;x&#34;&gt;The x axis of the coordinate for the rectangle starting point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;y&#34;&gt;The y axis of the coordinate for the rectangle starting point.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;w&#34;&gt;The rectangle&#39;s width.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;h&#34;&gt;The rectangle&#39;s height.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Rect</span><span style=color:#f92672>(</span><span style=color:#66d9ef>double</span> x<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> y<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> w<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> h<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Adds an arc to the path which is centered at (x, y) position with radius r starting at startAngle and ending at endAngle going in the given direction by anticlockwise (defaulting to clockwise).
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;x&#34;&gt;The x coordinate of the arc&#39;s center.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;y&#34;&gt;The y coordinate of the arc&#39;s center.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;radius&#34;&gt;The arc&#39;s radius.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;startAngle&#34;&gt;The angle at which the arc starts, measured clockwise from the positive x axis and expressed in radians.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;endAngle&#34;&gt;The angle at which the arc ends, measured clockwise from the positive x axis and expressed in radians.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Arc</span><span style=color:#f92672>(</span><span style=color:#66d9ef>double</span> x<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> y<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> radius<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> startAngle<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> endAngle<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Adds an arc to the path which is centered at (x, y) position with radius r starting at startAngle and ending at endAngle going in the given direction by anticlockwise (defaulting to clockwise).
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;x&#34;&gt;The x coordinate of the arc&#39;s center.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;y&#34;&gt;The y coordinate of the arc&#39;s center.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;radius&#34;&gt;The arc&#39;s radius.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;startAngle&#34;&gt;The angle at which the arc starts, measured clockwise from the positive x axis and expressed in radians.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;endAngle&#34;&gt;The angle at which the arc ends, measured clockwise from the positive x axis and expressed in radians.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;counterclockwise&#34;&gt;Causes the arc to be drawn counter-clockwise between the two angles. By default it is drawn clockwise.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Arc</span><span style=color:#f92672>(</span><span style=color:#66d9ef>double</span> x<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> y<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> radius<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> startAngle<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> endAngle<span style=color:#f92672>,</span> bool counterclockwise<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>///  Adds an ellipse to the path which is centered at (x, y) position with the radii radiusX and radiusY starting at startAngle
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>///  and ending at endAngle going in the given direction by anticlockwise (defaulting to clockwise).
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;x&#34;&gt;The x axis of the coordinate for the ellipse&#39;s center.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;y&#34;&gt;The y axis of the coordinate for the ellipse&#39;s center.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;radiusX&#34;&gt;The ellipse&#39;s major-axis radius.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;radiusY&#34;&gt;The ellipse&#39;s minor-axis radius.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;rotation&#34;&gt;The rotation for this ellipse, expressed in radians.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;startAngle&#34;&gt;The starting point, measured from the x axis, from which it will be drawn, expressed in radians.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;endAngle&#34;&gt;The end ellipse&#39;s angle to which it will be drawn, expressed in radians.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Ellipse</span><span style=color:#f92672>(</span><span style=color:#66d9ef>double</span> x<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> y<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> radiusX<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> radiusY<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> rotation<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> startAngle<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> endAngle<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>///  Adds an ellipse to the path which is centered at (x, y) position with the radii radiusX and radiusY starting at startAngle
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>///  and ending at endAngle going in the given direction by anticlockwise (defaulting to clockwise).
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;x&#34;&gt;The x axis of the coordinate for the ellipse&#39;s center.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;y&#34;&gt;The y axis of the coordinate for the ellipse&#39;s center.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;radiusX&#34;&gt;The ellipse&#39;s major-axis radius.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;radiusY&#34;&gt;The ellipse&#39;s minor-axis radius.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;rotation&#34;&gt;The rotation for this ellipse, expressed in radians.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;startAngle&#34;&gt;The starting point, measured from the x axis, from which it will be drawn, expressed in radians.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;endAngle&#34;&gt;The end ellipse&#39;s angle to which it will be drawn, expressed in radians.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;param name=&#34;anticlockwise&#34;&gt;An optional boolean which, if true, draws the ellipse anticlockwise (counter-clockwise), otherwise in a clockwise direction.&lt;/param&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>void</span> <span style=color:#a6e22e>Ellipse</span><span style=color:#f92672>(</span><span style=color:#66d9ef>double</span> x<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> y<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> radiusX<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> radiusY<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> rotation<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> startAngle<span style=color:#f92672>,</span> <span style=color:#66d9ef>double</span> endAngle<span style=color:#f92672>,</span> bool anticlockwise<span style=color:#f92672>);</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span></span></span></code></pre></div><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// Represents an opaque object describing a pattern, based on an image, a canvas or a video.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>interface</span> <span style=color:#a6e22e>ICanvasPattern</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span></span></span></code></pre></div><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// Creates an ImageData object from a given Uint8ClampedArray and the size of the image it contains. 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// If no array is given, it creates an image of a black rectangle.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>interface</span> <span style=color:#a6e22e>IImageData</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Is an unsigned long representing the actual width, in pixels, of the ImageData.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    ulong Width <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Is an unsigned long representing the actual height, in pixels, of the ImageData.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    ulong Height <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Is a Uint8ClampedArray representing a one-dimensional array containing the data in the RGBA order, 
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// with integer values between 0 and 255 (included).
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>byte</span><span style=color:#f92672>[]</span> Data <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span></span></span></code></pre></div><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=display:flex><span> <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// Represents the dimension of a text in the canvas.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>interface</span> <span style=color:#a6e22e>ITextMetrics</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>{</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// Is a double giving the calculated width of a segment of inline text in CSS pixels.
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#75715e>/// &lt;/summary&gt;
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>double</span> Width <span style=color:#f92672>{</span> get<span style=color:#f92672>;</span> <span style=color:#f92672>}</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#f92672>}</span></span></span></code></pre></div></p></div></div></div></div><hr></div></div></section></div></div></div></div></div></div><div id=dvHidden style=display:none></div><div id=footer></div><a class=backtop>&nbsp;</a><div id=DynabicMenuFooter></div><script type=text/javascript>const langarray=[]</script><script type=text/javascript>jQuery(document).ready(function(){let e=$(".nested").hide(),t=$(".treeview-animated-element");$(".treeview-animated-items-header").hover(function(){$(this).children.toggleClass("Mydiv")}),$(".treeview-animated-items-header").click(function(){return console.log("mala"),$this=$(this),console.log($this.attr("id")),$target=$this.siblings(".nested"),$pointerPlus=$this.children(".fa-plus"),$pointerMinus=$this.children(".fa-minus"),$pointerPlus.removeClass("fa-plus"),$pointerPlus.addClass("fa-minus"),$pointerMinus.removeClass("fa-minus"),$pointerMinus.addClass("fa-plus"),$this.toggleClass("open"),$target.hasClass("active")?$target.removeClass("active").slideUp():$target.addClass("active").slideDown(),!1})})</script><script>(function(e,s,o,a,t,n,i){e.ContainerizeMenuObject=t,e[t]=e[t]||function(){(e[t].q=e[t].q||[]).push(arguments)},e[t].l=1*new Date,n=s.createElement(o),i=s.getElementsByTagName(o)[0],n.async=1,n.src=a,i.parentNode.append(n)})(window,document,"script","https://menu.containerize.com/scripts/engine.min.js?v=1.0.1","aspose-en")</script><script src=https://releases-qa.aspose.com/res_repo/js/highlight.min.js></script>
+<script src=https://releases-qa.aspose.com/res_repo/js/bootstrap.min.js></script>
+<script src=/js/bundle.min.js></script>
+<script src=/js/dynabic.treeview.js></script>
+<script src=/js/treeviewmanager.js></script>
+<script>hljs.highlightAll()</script><link rel=stylesheet type=text/css href=https://releases-qa.aspose.com/res_repo/css/hugocustom.css><script>$(".btn-showside .mb-5").on("click",function(){$("main .flex .dn.db-l").toggleClass("showsidebar"),$("main .flex .w-100").toggleClass("noscroll")}),$(".btn-showmenu").on("click",function(){$("nav.bg-primary-color-dark").toggleClass("showmenu")}),$(".btn-plain").on("click",function(){$("main .flex .dn.db-l").removeClass("showsidebar"),$("main .flex .dn.db-l").removeClass("showsidebar"),$("nav.bg-primary-color-dark").removeClass("showmenu")}),$(".ss-bar ul li a[data-target]").on("click",function(){$(this).find(".i.fa-angle-down").hasClass("fa-angle-up")?$(this).find("i.fa-angle-down").removeClass("fa-angle-up"):$(this).find("i.fa-angle-down").toggleClass("fa-angle-up")}),$(".btn-showside").on("click",function(){$(".ss-bar").toggleClass("showsidebar")}),$(".btn-plain").on("click",function(){$(".ss-bar").removeClass("showsidebar")})</script><script>$(document).ready(function(){$("div pre").removeAttr("style");var e,t=$(location).attr("hash");"#package-explorer"==t&&(e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]'),e&&e.click()),$('a:has(img[alt="banner"]').click(function(){event.preventDefault();var e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]');e&&e.click()}),$(window).scroll(function(){$(this).scrollTop()>150?$(".backtop").fadeIn():$(".backtop").fadeOut()}),$(".backtop").click(function(){return $("html, body").animate({scrollTop:0},600),!1}),$(".linkshow").on("click",function(){$(this).find("i").toggleClass("fa-minus-square"),$(".linkshowbox").toggleClass("hide")}),document.querySelector("body").addEventListener("click",function(t){if(t.target.classList.contains("searchButton")){$(".ss-bar").removeClass("showsidebar");try{var e=$("input[name=q]").val();gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}if(t.target.classList.contains("fa-search")){$(".ss-bar").removeClass("showsidebar");try{e=$("input[name=q]").val(),gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}},!0)})</script><script>document.querySelectorAll("pre > code").forEach(t=>{const n=t.parentNode.parentNode,e=document.createElement("button");e.classList.add("copy-code"),e.innerHTML="copy";function s(){e.innerHTML="copied!",setTimeout(()=>{e.innerHTML="copy"},2e3)}e.addEventListener("click",o=>{if("clipboard"in navigator){navigator.clipboard.writeText(t.textContent),s();return}const e=document.createRange();e.selectNodeContents(t);const n=window.getSelection();n.removeAllRanges(),n.addRange(e);try{document.execCommand("copy"),s()}catch(e){}n.removeRange(e)}),n.classList.contains("highlight")?n.appendChild(e):n.parentNode.firstChild==n||(t.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName=="TABLE"?t.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(e):t.parentNode.appendChild(e))})</script></body></html>

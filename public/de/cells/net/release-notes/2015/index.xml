@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Release Notes - 2015 on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/cells/net/release-notes/2015/</link><description>Recent content in Release Notes - 2015 on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/cells/net/release-notes/2015/index.xml" rel="self" type="application/rss+xml"/><item><title>Aspose.Cells for .NET 8.6.3 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/net/release-notes/2015/aspose-cells-for-net-8-6-3-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/net/release-notes/2015/aspose-cells-for-net-8-6-3-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for .NET 8.6.3
+Im Folgenden finden Sie eine Liste der Verbesserungen und Änderungen in dieser Version von Aspose.Cells
+1) Aspose.Cells Andere Verbesserungen und Änderungen Neue Eigenschaften (CELLSNET-44084) – HTML-Tags analysieren, während Daten in großen Mengen importiert werden
+(CELLSNET-40889) - Ladeoption: Nur sichtbare Blätter öffnen
+Verbesserungen (CELLSNET-44133) – Unterstützung für Druckseitengröße Thermal 3x11
+(CELLSNET-44095) – Unterstützt das Lesen/Schreiben von extern verknüpften Tabellen.
+(CELLSNET-44093) – Verschleierte Ausnahme, die beim Laden einer ungültigen Arbeitsmappe ausgelöst wird</description></item><item><title>Aspose.Cells for .NET 8.6.2 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/net/release-notes/2015/aspose-cells-for-net-8-6-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/net/release-notes/2015/aspose-cells-for-net-8-6-2-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for .NET 8.6.2
+Im Folgenden finden Sie eine Liste der Verbesserungen und Änderungen in dieser Version von Aspose.Cells
+\1) Aspose.Cells
+Andere Verbesserungen und Änderungen Neue Eigenschaften (CELLSNET-43934) – Unterstützung von intelligenten Markierungen, um eine generische Liste als verschachteltes Objekt zu akzeptieren
+Fehler (CELLSNET-44044) – PivotTable.ShowValuesRow hat keine Auswirkung, nachdem DataField in Spalten verschoben wurde
+(CELLSNET-44043) – Das Öffnen und erneute Speichern einer großen Excel-Datei beschädigt das Dokument</description></item><item><title>Aspose.Cells for .NET 8.6.1 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/net/release-notes/2015/aspose-cells-for-net-8-6-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/net/release-notes/2015/aspose-cells-for-net-8-6-1-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for .NET 8.6.1
+Im Folgenden finden Sie eine Liste der Verbesserungen und Änderungen in dieser Version von Aspose.Cells
+\1) Aspose.Cells
+Andere Verbesserungen und Änderungen Neue Eigenschaften (CELLSNET-43905) – Unterstützung zum Ändern des Zielattributs des HTML-Hyperlinks in „_blank“
+(CELLSNET-43885) – Möglichkeit, den ConnectionString von ExternalConnection vom Typ WebQuery abzurufen
+(CELLSNET-43935) – Ignoriert ausgeblendete Spalten, wenn „ExportTableOptions.PlotVisibleColumns“ auf „true“ gesetzt ist
+(CELLSNET-43925) – Hinzufügen eines Verweises auf VBA-Makros in der Arbeitsmappe</description></item><item><title>Aspose.Cells for .NET 8.6.0 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/net/release-notes/2015/aspose-cells-for-net-8-6-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/net/release-notes/2015/aspose-cells-for-net-8-6-0-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for .NET 8.6.0
+Im Folgenden finden Sie eine Liste der Verbesserungen und Änderungen in dieser Version von Aspose.Cells
+\1) Aspose.Cells
+Andere Verbesserungen und Änderungen Neue Eigenschaften (CELLSNET-43880) – Zuweisen von Makros zu Formularsteuerelementen
+Verbesserungen (CELLSNET-43832) – Worksheet.Shapes.UpdateSelectedValue löst manchmal CellsException aus
+(CELLSNET-43823) – Das Einschließen eines Schriftartenverzeichnisses mit CellsHelper scheint nicht zu funktionieren
+(CELLSNET-43900) – Hyperlink.TextToDisplay wird nicht aktualisiert
+(CELLSNET-43892) - XLSX Die Dokumentgröße nimmt mit jedem Speichern zu</description></item><item><title>Aspose.Cells for .NET 8.5.2 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/net/release-notes/2015/aspose-cells-for-net-8-5-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/net/release-notes/2015/aspose-cells-for-net-8-5-2-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for .NET 8.5.2
+Im Folgenden finden Sie eine Liste der Verbesserungen und Änderungen in dieser Version von Aspose.Cells
+\1) Aspose.Cells
+Andere Verbesserungen und Änderungen Neue Eigenschaften (CELLSNET-43758) – In grafischen Kontext rendern
+Fehler (CELLSNET-43786) – Die Datei ist nach dem Aktualisieren der PivotTable in der Vorlagendatei beschädigt
+(CELLSNET-43594) – PivotField.IsRepeatItemLabels funktionieren nicht in der Pivot-Tabelle
+(CELLSNET-43367) – Problem mit PivotTable.Format() zum Formatieren des PivotField-Headers</description></item><item><title>Aspose.Cells for .NET 8.5.1 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/net/release-notes/2015/aspose-cells-for-net-8-5-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/net/release-notes/2015/aspose-cells-for-net-8-5-1-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for .NET 8.5.1
+Im Folgenden finden Sie eine Liste der Verbesserungen und Änderungen in dieser Version von Aspose.Cells
+1) Aspose.Cells Andere Verbesserungen und Änderungen Neue Eigenschaften (CELLSNET-43703) – ICustomFunction – Rückgabe eines Bereichs anstelle einer einzelnen Zelle
+(CELLSNET-43777) - Cell.GetHeightOfValue() ähnlich Cell.GetWidthOfValue() erforderlich
+Fehler (CELLSNET-43744) – PivotTable wird beim Speichern in PDF nicht aktualisiert
+(CELLSNET-43735) – Die Option „Gebänderte Zeilen“ der Pivot-Tabelle geht verloren</description></item><item><title>Aspose.Cells for .NET 8.5.0 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/net/release-notes/2015/aspose-cells-for-net-8-5-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/net/release-notes/2015/aspose-cells-for-net-8-5-0-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for .NET 8.5.0
+Im Folgenden finden Sie eine Liste der Verbesserungen und Änderungen in dieser Version von Aspose.Cells
+\1) Aspose.Cells
+Andere Verbesserungen und Änderungen Neue Eigenschaften (CELLSNET-43640) – Das benutzerdefinierte Datumsformatmuster g und ge.mm.dd kann nicht gerendert werden
+(CELLSNET-43682) – Die ExportDataTableAsString-Funktion sollte Zellwerte als StringValueWithoutFormat exportieren
+(CELLSNET-41619) - Revision von XLSB in XLSM konvertieren
+(CELLSNET-40366) – So erfahren Sie, ob die Lizenz registriert ist</description></item><item><title>Aspose.Cells for .NET 8.4.2 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/net/release-notes/2015/aspose-cells-for-net-8-4-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/net/release-notes/2015/aspose-cells-for-net-8-4-2-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for .NET 8.4.2
+Im Folgenden finden Sie eine Liste der Verbesserungen und Änderungen in dieser Version von Aspose.Cells
+\1) Aspose.Cells
+Andere Verbesserungen und Änderungen Neue Eigenschaften (CELLSNET-43596) – Neues Modul zum Arbeitsblatt VbaProject hinzugefügt
+(CELLSNET-43569) – Unterstützung der IFNA-Formel/Funktion
+Fehler (CELLSNET-43581) – Text wird aus dem Banner verschoben, wenn die Excel-Datei in PDF konvertiert wird
+(CELLSNET-43639) – Wasserzeichen werden nicht korrekt angezeigt
+(CELLSNET-43645) – Das eingebettete OLE-Objekt kann nicht von XLSX in HTML gespeichert werden</description></item><item><title>Aspose.Cells for .NET 8.4.1 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/net/release-notes/2015/aspose-cells-for-net-8-4-1-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/net/release-notes/2015/aspose-cells-for-net-8-4-1-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for .NET 8.4.1
+Im Folgenden finden Sie eine Liste der Verbesserungen und Änderungen in dieser Version von Aspose.Cells
+\1) Aspose.Cells
+Andere Verbesserungen und Änderungen Neue Eigenschaften (CELLSNET-42514) – Legen Sie die SQL-Datenverbindung fest
+(CELLSNET-43449) – Unterstützung zum Drucken von Kommentaren am Ende des Blatts
+(CELLSNET-43513) – Rich-Text-Funktion für DataLabels von Diagrammen
+Fehler (CELLSNET-43475) – Die Datenansicht der Pivot-Tabelle in HTML korreliert nicht
+(CELLSNET-43474) – Die Pivot-Tabelle wird beim Rendern auf HTML nicht aktualisiert</description></item><item><title>Aspose.Cells for .NET 8.4.0 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/net/release-notes/2015/aspose-cells-for-net-8-4-0-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/net/release-notes/2015/aspose-cells-for-net-8-4-0-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for .NET 8.4.0
+\1) Aspose.Cells
+Andere Verbesserungen und Änderungen Neue Eigenschaften (CELLSNET-43362) – Unterstützung zum Löschen einer PivotTable aus dem Arbeitsblatt
+(CELLSNET-43279) – Inhaltstypeigenschaften werden nicht im XLS-Format angezeigt
+(CELLSNET-43276) – Workbook.ContentTypeProperties.Add(Name, Wert, Typ) ist erforderlich
+Verbesserungen (CELLSNET-43368) – Anpassen der Generierung von CSS beim Speichern von Excel unter HTML
+(CELLSNET-43361) – Das Zahlenformat von Cell kann nach ImportTwoDimensionArray nicht beibehalten werden
+(CELLSNET-43454) - Aspose.</description></item><item><title>Aspose.Cells for .NET 8.3.2 Versionshinweise</title><link>https://releases-qa.aspose.com/de/cells/net/release-notes/2015/aspose-cells-for-net-8-3-2-release-notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/net/release-notes/2015/aspose-cells-for-net-8-3-2-release-notes/</guid><description>Diese Seite enthält Versionshinweise fürAspose.Cells for .NET 8.3.2
+Im Folgenden finden Sie eine Liste der Änderungen in dieser Version von Aspose.Cells.
+\1) Aspose.Cells
+Andere Verbesserungen und Änderungen Neue Eigenschaften (CELLSNET-43214) – Möglichkeit, die absolute Position für das PivotItem anzugeben
+(CELLSNET-43298) – Unterstützung zum automatischen Formatieren von Zellenwerten durch Cells.ImportTwoDimensionArray()
+(CELLSNET-43227) – Geben Sie benutzerdefinierte Trennzeichen an.
+(CELLSNET-43256) - Druckbereich von Seiten
+(CELLSNET-43240) – Ändern Sie die Schriftart nur für die spezifischen Unicode-Zeichen</description></item></channel></rss>

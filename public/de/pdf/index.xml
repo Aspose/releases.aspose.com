@@ -1,0 +1,1865 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PDF-APIs und -Komponenten für Entwickler | Aspose.PDF-Produktfamilie on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/pdf/</link><description>Recent content in PDF-APIs und -Komponenten für Entwickler | Aspose.PDF-Produktfamilie on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Wed, 30 Nov 2022 14:34:18 +0000</lastBuildDate><atom:link href="https://releases-qa.aspose.com/de/pdf/index.xml" rel="self" type="application/rss+xml"/><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-NODE.JS-VIA-C ++-23.11</title><link>https://releases-qa.aspose.com/de/pdf/nodejscpp/new-releases/aspose.pdf-for-node.js-via-c++-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/nodejscpp/new-releases/aspose.pdf-for-node.js-via-c++-23.11/</guid><description>&amp;nbsp;
+ASSON.PDF für node.js über C &amp;#43;&amp;#43; 23.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+45.98MB
+Datum hinzugefügt:
+23/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/nodejscpp/release-notes/2023/aspose_pdf-for-nodejs-cpp-23-11-release-notes/
+BeschreibungASSON.PDF für node.js
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=999818244d3716bb5875fe15b4a4d2a6-10-9865&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-23.1.0, -LINUX-X86, -X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.1.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.1.0-linux-x86-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.1.0, Linux x86, x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+84.73MB
+Datum hinzugefügt:
+21/6/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-1-release-notes/
+BeschreibungEs enthält ASPOSPEN.PDF für Python über .NET 23.1.0, Linux x86, x64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=89c00dd77aed9bb98a927e68554ad4ba-17-9056&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-JAVA-22.7.1</title><link>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-22.7.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-22.7.1/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über Java 22.7.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+64.77MB
+Datum hinzugefügt:
+13/10/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonjava/release-notes/
+BeschreibungASSON.PDF für Python über Java 22.7.1 wurde veröffentlicht.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e241acc911f2eb04481ec509a030c22c-13-9602&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-NODE.JS-VIA-C ++-23.12</title><link>https://releases-qa.aspose.com/de/pdf/nodejscpp/new-releases/aspose.pdf-for-node.js-via-c++-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/nodejscpp/new-releases/aspose.pdf-for-node.js-via-c++-23.12/</guid><description>&amp;nbsp;
+ASSON.PDF für node.js über C &amp;#43;&amp;#43; 23.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+48.22MB
+Datum hinzugefügt:
+24/12/2023
+Versionshinweisehttps://releases.aspose.com/pdf/nodejscpp/release-notes/2023/aspose_pdf-for-nodejs-cpp-23-12-release-notes/
+BeschreibungASSON.PDF für node.js
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e6f4ca13feed24a956288dbf5a34cda1-10-10052&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-23.1.0, -WINDOWS-X32</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.1.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.1.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.1.0, Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+66.21MB
+Datum hinzugefügt:
+21/6/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-1-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.1.0, Windows X32 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=714b05183b9477e965cb53ac6fd0c114-14-9057&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-JAVA-23.4.3</title><link>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.4.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.4.3/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über Java 23.4.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+64.21MB
+Datum hinzugefügt:
+13/10/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonjava/release-notes/
+BeschreibungASSON.PDF für Python über Java 23.4.3 wurde veröffentlicht.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=911f83876aef5479dc6de6f83dce2fe9-13-9603&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSPOSPEN.PDF-FOR-JAVASRIPT-VIA-C ++-23.1</title><link>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.1/</guid><description>&amp;nbsp;
+ASSON.PDF für JavaScript über C &amp;#43;&amp;#43; 23.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+29.18MB
+Datum hinzugefügt:
+31/1/2023
+Versionshinweisehttps://releases.aspose.com/pdf/javascriptcpp/release-notes/2023/aspose_pdf-for-javascript-cpp-23-1-release-notes/
+BeschreibungASSON.PDF für JavaScript über C ++
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cb1a7bdd79c81d3a2f032671cc8e5138-6-8478&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPEN.PDF-FÜR-PYTHON-VIA-JAVA-23.5</title><link>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.5/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über Java 23.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+64.22MB
+Datum hinzugefügt:
+13/10/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonjava/release-notes/
+BeschreibungASSON.PDF für Python über Java 23.5 wurde veröffentlicht.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f128b0645465d895332de4c8a71a75a3-13-9604&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-NODE.JS-VIA-C ++-24.1</title><link>https://releases-qa.aspose.com/de/pdf/nodejscpp/new-releases/aspose.pdf-for-node.js-via-c++-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/nodejscpp/new-releases/aspose.pdf-for-node.js-via-c++-24.1/</guid><description>&amp;nbsp;
+ASSON.PDF für node.js über C &amp;#43;&amp;#43; 24.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+48.23MB
+Datum hinzugefügt:
+26/1/2024
+Versionshinweisehttps://releases.aspose.com/pdf/nodejscpp/release-notes/2024/aspose_pdf-for-nodejs-cpp-24-1-release-notes/
+BeschreibungASSON.PDF für node.js
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bc3f6cb90902a9f4a20dec7a8d4990ab-10-10217&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-23.1.0, -Windows-X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.1.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.1.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.1.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+71.52MB
+Datum hinzugefügt:
+21/6/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-1-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.1.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7efd20984ed3f4045c37e12733b7575f-15-9058&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-JAVASSCIPT-VIA-C ++-23.2</title><link>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.2/</guid><description>&amp;nbsp;
+ASSON.PDF für JavaScript über C &amp;#43;&amp;#43; 23.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+29.44MB
+Datum hinzugefügt:
+28/2/2023
+Versionshinweisehttps://releases.aspose.com/pdf/javascriptcpp/release-notes/2023/aspose_pdf-for-javascript-cpp-23-2-release-notes/
+BeschreibungASSON.PDF für JavaScript über C ++
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=25650f3d71c55c951d183c11640deefd-6-8589&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASPOSPLE.PDF-FOR-PYTHON-VIA-NIA-23.2.0, -LINUX-X86, -X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.2.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.2.0-linux-x86-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.2.0, Linux x86, x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+85.14MB
+Datum hinzugefügt:
+22/6/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-2-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.2.0, Linux x86, x64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=67cefcbe14af8faf6f303e93d6d518f9-18-9091&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-JAVASSCIPT-VIA-C ++-23.3</title><link>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.3/</guid><description>&amp;nbsp;
+ASSON.PDF für JavaScript über C &amp;#43;&amp;#43; 23.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+29.83MB
+Datum hinzugefügt:
+24/3/2023
+Versionshinweisehttps://releases.aspose.com/pdf/javascriptcpp/release-notes/2023/aspose_pdf-for-javascript-cpp-23-3-release-notes/
+BeschreibungASSON.PDF für JavaScript über C ++
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=29d47d4b9aace7cf0cc93cc3efe50a26-6-8680&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-JAVA-23.6</title><link>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.6/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über Java 23.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+64.22MB
+Datum hinzugefügt:
+13/10/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonjava/release-notes/
+BeschreibungASSON.PDF für Python über Java 23.6 wurde veröffentlicht.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=08ed498cf3006c5fde377e9d47f6ca4d-13-9605&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-23.2.0, -Windows-X32</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.2.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.2.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.2.0, Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+66.39MB
+Datum hinzugefügt:
+22/6/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-2-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.2.0, Windows X32 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1e3a84c6e9251ff57d52d27b8de1db44-14-9092&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-JAVASSCIPT-VIA-C ++-23.4</title><link>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.4/</guid><description>&amp;nbsp;
+ASSON.PDF für JavaScript über C &amp;#43;&amp;#43; 23.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+30.13MB
+Datum hinzugefügt:
+25/4/2023
+Versionshinweisehttps://releases.aspose.com/pdf/javascriptcpp/release-notes/2023/aspose_pdf-for-javascript-cpp-23-4-release-notes/
+BeschreibungASSON.PDF für JavaScript über C ++
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ebaa6a429ba0db86ad080a7a44c34d74-7-8817&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-JAVA-23.6.1</title><link>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.6.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.6.1/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über Java 23.6.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+64.22MB
+Datum hinzugefügt:
+13/10/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonjava/release-notes/
+BeschreibungASSON.PDF für Python über Java 23.6.1 wurde veröffentlicht.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=57d776f1a62ad0e163e0223d1149fa61-13-9606&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-JAVASSCIPT-VIA-C ++-23.5</title><link>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.5/</guid><description>&amp;nbsp;
+ASSON.PDF für JavaScript über C &amp;#43;&amp;#43; 23.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+45.01MB
+Datum hinzugefügt:
+29/5/2023
+Versionshinweisehttps://releases.aspose.com/pdf/javascriptcpp/release-notes/2023/aspose_pdf-for-javascript-cpp-23-5-release-notes/
+BeschreibungASSON.PDF für JavaScript über C ++
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=21660febbe7bfec10a281496eb2c3e4d-10-8932&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-JAVA-23.8</title><link>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.8/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über Java 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+64.22MB
+Datum hinzugefügt:
+13/10/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonjava/release-notes/
+BeschreibungASSON.PDF für Python über Java 23.8 wurde veröffentlicht.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fe2669438780785f291f6fb16b94b662-13-9607&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-NIA-N-23.2.0, -Windows-X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.2.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.2.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.2.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+71.73MB
+Datum hinzugefügt:
+22/6/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-2-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.2.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=07db16bfad3f5fc06d896bf128ef81ca-15-9093&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-JAVASSCIPT-VIA-C ++-23.6</title><link>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.6/</guid><description>&amp;nbsp;
+ASSON.PDF für JavaScript über C &amp;#43;&amp;#43; 23.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+45.06MB
+Datum hinzugefügt:
+26/6/2023
+Versionshinweisehttps://releases.aspose.com/pdf/javascriptcpp/release-notes/2023/aspose_pdf-for-javascript-cpp-23-6-release-notes/
+BeschreibungASSON.PDF für JavaScript über C ++
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=cf5a280a883446fa1eb5fced38eb6c65-10-9138&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-JAVA-23.10</title><link>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.10/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über Java 23.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+63.81MB
+Datum hinzugefügt:
+13/10/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonjava/release-notes/
+BeschreibungASSON.PDF für Python über Java 23.10 wurde veröffentlicht.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=979ac79d90823d50e0bae96573bf9c94-13-9608&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-NIA-23.3.0, -LINUX-X86, -X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.3.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.3.0-linux-x86-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.3.0, Linux x86, x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+85.19MB
+Datum hinzugefügt:
+22/6/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-3-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.3.0, Linux x86, x64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e3ce03848ccbb26a57e726c8a43a3eb0-18-9094&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-N-23.3.0, -Windows-X32</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.3.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.3.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.3.0, Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+66.44MB
+Datum hinzugefügt:
+22/6/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-3-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.3.0, Windows X32 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2594633f13f50e3392f91667658a3b3f-14-9095&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-JAVASSCIPT-VIA-C ++-23.7</title><link>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.7/</guid><description>&amp;nbsp;
+ASSON.PDF für JavaScript über C &amp;#43;&amp;#43; 23.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+45.47MB
+Datum hinzugefügt:
+28/7/2023
+Versionshinweisehttps://releases.aspose.com/pdf/javascriptcpp/release-notes/2023/aspose_pdf-for-javascript-cpp-23-7-release-notes/
+BeschreibungASSON.PDF für JavaScript über C ++
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f84f03e1cbd3c4c6a954adce25efc409-10-9281&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-N-23.3.0, -Windows-X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.3.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.3.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.3.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+71.79MB
+Datum hinzugefügt:
+22/6/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-3-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.3.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=15fca3ef80a05a1db09a33d116687cf0-15-9096&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-JAVASSCIPT-VIA-C ++-23.8</title><link>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.8/</guid><description>&amp;nbsp;
+ASSON.PDF für JavaScript über C &amp;#43;&amp;#43; 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+45.63MB
+Datum hinzugefügt:
+30/8/2023
+Versionshinweisehttps://releases.aspose.com/pdf/javascriptcpp/release-notes/2023/aspose_pdf-for-javascript-cpp-23-8-release-notes/
+BeschreibungASSON.PDF für JavaScript über C ++
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9413753e208858b375bfcd7cbdb3c497-10-9407&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-23.4.0, -LINUX-X86, -X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.4.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.4.0-linux-x86-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.4.0, Linux x86, x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+86.28MB
+Datum hinzugefügt:
+22/6/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-4-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.4.0, Linux x86, x64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=19aa8990ac1ae73f672d9cfc3c1bf616-18-9097&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-JAVASSCIPT-VIA-C ++-23.9</title><link>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.9/</guid><description>&amp;nbsp;
+ASSON.PDF für JavaScript über C &amp;#43;&amp;#43; 23.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+45.68MB
+Datum hinzugefügt:
+26/9/2023
+Versionshinweisehttps://releases.aspose.com/pdf/javascriptcpp/release-notes/2023/aspose_pdf-for-javascript-cpp-23-9-release-notes/
+BeschreibungASSON.PDF für JavaScript
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e3f4862c640298f790bf357b9ddefb4d-10-9526&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-JAVASSCIPT-VIA-C ++-23.10</title><link>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.10/</guid><description>&amp;nbsp;
+ASSON.PDF für JavaScript über C &amp;#43;&amp;#43; 23.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+45.74MB
+Datum hinzugefügt:
+27/10/2023
+Versionshinweisehttps://releases.aspose.com/pdf/javascriptcpp/release-notes/2023/aspose_pdf-for-javascript-cpp-23-10-release-notes/
+BeschreibungASSON.PDF für JavaScript
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=654da6314fc87d9331a224fc37b42a0b-10-9674&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-NIA-23.4.0, -Windows-X32</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.4.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.4.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.4.0, Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+67.33MB
+Datum hinzugefügt:
+22/6/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-4-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.4.0, Windows X32 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4e6485db4ecb6f7dc8fa1a1c1f98739f-14-9098&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-JAVASSCIPT-VIA-C ++-23.11</title><link>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.11/</guid><description>&amp;nbsp;
+ASSON.PDF für JavaScript über C &amp;#43;&amp;#43; 23.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+45.85MB
+Datum hinzugefügt:
+24/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/javascriptcpp/release-notes/2023/aspose_pdf-for-javascript-cpp-23-11-release-notes/
+BeschreibungASSON.PDF für JavaScript
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=afd0f4722e0d95a182f15b435a37cad8-10-9866&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-NIA-23.4.0, -Windows-X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.4.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.4.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.4.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+72.68MB
+Datum hinzugefügt:
+22/6/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-4-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.4.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d78dcaeb2c7bb8230c0212fe6b38d5d2-15-9099&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASPOSPLE.PDF-FOR-PYTHON-VIA-NIA-23.5.0, -LINUX-X86, -X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.5.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.5.0-linux-x86-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.5.0, Linux x86, x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+97.78MB
+Datum hinzugefügt:
+22/6/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-5-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.5.0, Linux x86, x64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c09289a2353237621e2051e67302bd03-20-9100&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-JAVASSCIPT-VIA-C ++-23.12</title><link>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-23.12/</guid><description>&amp;nbsp;
+ASSON.PDF für JavaScript über C &amp;#43;&amp;#43; 23.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+48.2MB
+Datum hinzugefügt:
+22/12/2023
+Versionshinweisehttps://releases.aspose.com/pdf/javascriptcpp/release-notes/2023/aspose_pdf-for-javascript-cpp-23-12-release-notes/
+BeschreibungASSON.PDF für JavaScript
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=440ff36d33894e215d1c15ecb35bd0af-10-10038&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-23.5.0, -WINDOWS-X32</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.5.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.5.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.5.0, Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+71.06MB
+Datum hinzugefügt:
+22/6/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-5-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.5.0, Windows X32 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7b217d1697f2c0a8db2d0b38e5a3ff90-15-9101&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-JAVASSCIPT-VIA-C ++-24.1</title><link>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-24.1/</guid><description>&amp;nbsp;
+ASSON.PDF für JavaScript über C &amp;#43;&amp;#43; 24.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+48.21MB
+Datum hinzugefügt:
+24/1/2024
+Versionshinweisehttps://releases.aspose.com/pdf/javascriptcpp/release-notes/2024/aspose_pdf-for-javascript-cpp-24-1-release-notes/
+BeschreibungASSON.PDF für JavaScript
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7111e1caa8ee7d8a14db2df1901f6e08-10-10204&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-1.0.0 .</title><link>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-1.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-1.0.0/</guid><description>&amp;nbsp;
+Aspose.PDF für SharePoint 1.0.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+38
+Dateigröße:
+2.5 MB Posted By: Codewarior
+Ansichten:
+310
+Hinzugefügt am:
+10/14/2011
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7ad554b8bb5b48d8890b650c5afa78aa&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-23.5.0, -WINDOWS-X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.5.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.5.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.5.0, Windows x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+77.69MB
+Datum hinzugefügt:
+22/6/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-5-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.5.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e1b680d841bf779d914b63978cd0b612-16-9102&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-v1.1 .</title><link>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-v1.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-v1.1/</guid><description>&amp;nbsp;
+Aspose.PDF für SharePoint v1.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+51
+Dateigröße:
+3.5 MB Posted By: nausherwan.aslam
+Ansichten:
+463
+Hinzugefügt am:
+11/27/2011
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8bc1346f84094f5ba468d12485f4b53e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-23.6.0, -Windows-X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.6.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.6.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.6.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+77.85MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-6-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.6.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c09a9a29eb7fb14638a2eed74ab22cc1-16-9733&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-v1.3 .</title><link>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-v1.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-v1.3/</guid><description>&amp;nbsp;
+Aspose.PDF für SharePoint v1.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+30
+Dateigröße:
+8.9 MB Posted By: nausherwan.aslam
+Ansichten:
+503
+Hinzugefügt am:
+3/7/2012
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=6441f3a21fac422c959c9d766e948441&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-23.6.0, -LINUX-X86, -X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.6.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.6.0-linux-x86-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.6.0, Linux x86, x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+98.12MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-6-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.6.0, Linux x86, x64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=084c732f5231ce13db5b168a4b423809-20-9734&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-v1.4 .</title><link>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-v1.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-v1.4/</guid><description>&amp;nbsp;
+Aspose.PDF für SharePoint v1.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+63
+Dateigröße:
+9.2 MB Posted By: nausherwan.aslam
+Ansichten:
+390
+Hinzugefügt am:
+4/4/2012
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9ea7775357a740c5b5a921e4063b7a87&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-NIA-23.6.0, -WINDOWS-X32</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.6.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.6.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.6.0, Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+71.19MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-6-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.6.0, Windows X32 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8886f51477b54daa9b61a1d8b540f5e4-15-9735&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-v1.5 .</title><link>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-v1.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-v1.5/</guid><description>&amp;nbsp;
+Aspose.PDF für SharePoint v1.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+121
+Dateigröße:
+9.5 MB Posted By: nausherwan.aslam
+Ansichten:
+433
+Hinzugefügt am:
+8/3/2012
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=12807cd7df694f598dad8b5445630d92&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASPOSPLE.PDF-FOR-PYTHON-VIA-NIA-23.7.0, -LINUX-X86, -X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.7.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.7.0-linux-x86-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.7.0, Linux x86, x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+98.58MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-7-release-notes/
+BeschreibungEs enthält ASPOSPEN.PDF für Python über .NET 23.7.0, Linux x86, x64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=66e5746de2929065bb4162f77d5e875c-20-9736&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-v1.5.1 .</title><link>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-v1.5.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-v1.5.1/</guid><description>&amp;nbsp;
+Aspose.PDF für SharePoint v1.5.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+48
+Dateigröße:
+10.4 MB Posted By: nausherwan.aslam
+Ansichten:
+606
+Hinzugefügt am:
+12/6/2012
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=159825b79dfc4b3e8e373351bb86ee49&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-23.7.0, -Windows-X32</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.7.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.7.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.7.0, Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+71.57MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-7-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.7.0, Windows X32 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ff1824874bc99e63a7a408bc3afa58af-15-9737&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-v1.6 .</title><link>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-v1.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-v1.6/</guid><description>&amp;nbsp;
+Aspose.PDF für SharePoint v1.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+46
+Dateigröße:
+10.4 MB Posted By: nausherwan.aslam
+Ansichten:
+848
+Hinzugefügt am:
+12/23/2012
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4c93213c3f8648a0a4252b8b3ffe33df&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-NIA-23.7.0, -WINDOWS-X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.7.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.7.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.7.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+78.24MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-7-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.7.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bb46e2cd831bc5b4c10ca5a9c93302d1-16-9738&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-1.6.1 .</title><link>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-1.6.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-1.6.1/</guid><description>&amp;nbsp;
+Aspose.PDF für SharePoint 1.6.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+80
+Dateigröße:
+10.4 MB Posted By: tilal.ahmad
+Ansichten:
+802
+Hinzugefügt am:
+1/29/2013
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=21c0715879c84f2baa96d84afd6874a0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-23.8.0, -LINUX-X86, -X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.8.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.8.0-linux-x86-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.8.0, Linux x86, x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+98.58MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-8-release-notes/
+BeschreibungEs enthält ASPOSPEN.PDF für Python über .NET 23.8.0, Linux x86, x64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=00647b2de9de8a68ad219669229fd92f-20-9739&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-1.7 .</title><link>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-1.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-1.7/</guid><description>&amp;nbsp;
+Aspose.PDF für SharePoint 1.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+108
+Dateigröße:
+9.8 MB Posted By: tilal.ahmad
+Ansichten:
+809
+Hinzugefügt am:
+4/7/2013
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ff9aa22912794970839a4bdc64575d9f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-NIA-23.8.0, -WINDOWS-X32</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.8.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.8.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.8.0, Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+71.74MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-8-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.8.0, Windows X32 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=28085e3ec9b3e8c45a07863759584dff-15-9740&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-1.8.0 .</title><link>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-1.8.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-1.8.0/</guid><description>&amp;nbsp;
+Aspose.PDF für SharePoint 1.8.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+308
+Dateigröße:
+17.0 MB Posted By: tilal.ahmad
+Ansichten:
+1120
+Hinzugefügt am:
+7/9/2013
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=37b119e93823414dba5e16f6bafa8ccc&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-NIA-23.8.0, -WINDOWS-X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.8.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.8.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.8.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+78.37MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-8-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.8.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fb44975fb7dc37e2ca21de52f834697b-16-9741&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-1.9.0 .</title><link>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-1.9.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-1.9.0/</guid><description>&amp;nbsp;
+Aspose.PDF für SharePoint 1.9.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+154
+Dateigröße:
+18.6 MB Posted By: kdubinin
+Ansichten:
+965
+Hinzugefügt am:
+3/19/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=888c13a0526f47aa8210b886e077bb19&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASPOSPLE.PDF-FOR-PYTHON-VIA-NIA-23.9.0, -LINUX-X86, -X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.9.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.9.0-linux-x86-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.9.0, Linux x86, x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+98.68MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-9-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.9.0, Linux x86, x64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=665e5e01737a003df20034d37a680c29-20-9742&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-1.9.3 .</title><link>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-1.9.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-1.9.3/</guid><description>&amp;nbsp;
+Aspose.PDF für SharePoint 1.9.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+254
+Dateigröße:
+17.6 MB Posted By: Andrew.N
+Ansichten:
+722
+Hinzugefügt am:
+9/9/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=403806e4e22c4b0ca736fc8e9faf5f69&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-23.9.0, -Windows-X32</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.9.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.9.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.9.0, Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+71.84MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-9-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.9.0, Windows X32 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=20362f387747c1bebdb152a46747336a-15-9743&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-2.0.0 .</title><link>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-2.0.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-2.0.0/</guid><description>&amp;nbsp;
+Aspose.PDF für SharePoint 2.0.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+150
+Dateigröße:
+24.6 MB Posted By: Andrew.N
+Ansichten:
+835
+Hinzugefügt am:
+3/5/2015
+Versionshinweise https://releases.aspose.com/pdf/sharepoint/release-notes/2015/aspose-pdf-for-sharepoint-2-0-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=95cb2aa86c8d43abb5c5066613947e98&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-N-23.9.0, -Windows-X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.9.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.9.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.9.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+78.47MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-9-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.9.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=283c89f6ca9e2b96b8aeb916a9f7c72a-16-9744&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-2.1.0 .</title><link>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-2.1.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-2.1.0/</guid><description>&amp;nbsp;
+Aspose.PDF für SharePoint 2.1.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+96
+Dateigröße:
+24.7 MB Posted By: Andrew.N
+Ansichten:
+723
+Hinzugefügt am:
+8/12/2015
+Versionshinweise https://releases.aspose.com/pdf/sharepoint/release-notes/2015/aspose-pdf-for-sharepoint-2-1-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7c5cdbae4cb94f2b9ee092cca41bd405&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASPOSPLE.PDF-FOR-PYTHON-VIA-NIA-23.10.0, -LINUX-X86, -X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.10.0-linux-x86-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.10.0-linux-x86-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.10.0, Linux x86, x64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+99.54MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-10-release-notes/
+BeschreibungEs enthält ASSON.PDF für Python über .NET 23.10.0, Linux x86, x64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7812b67c49d3eac439d7f05c11d137f7-20-9745&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).</description></item><item><title> Downloads ---New-Releases-aspose.pdf-for-sharepoint-2.2.0 .</title><link>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-2.2.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/sharepoint/new-releases/aspose.pdf-for-sharepoint-2.2.0/</guid><description>&amp;nbsp;
+Aspose.PDF für SharePoint 2.2.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+265
+Dateigröße:
+25.1 MB Posted By: Andrew.N
+Ansichten:
+1536
+Hinzugefügt am:
+12/29/2015
+Versionshinweise https://releases.aspose.com/pdf/sharepoint/release-notes/2015/aspose-pdf-for-sharepoint-2-2-0-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fd010d74716f4ae98d3aad1e1e783389&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-23.10.0, -WINDOWS-X32</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.10.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.10.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.10.0, Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+72.27MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-10-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.10.0, Windows X32 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=30be5008340053d05da8980df0a33de8-15-9746&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-23.10.0, -Windows-X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.10.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.10.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.10.0, Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+78.92MB
+Datum hinzugefügt:
+14/11/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-10-release-notes/
+BeschreibungEs enthält ASPOSPEN.PDF für Python über .NET 23.10.0, Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=94a832a9c04844c1880fc203b6cbda06-16-9747&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-NIA-23.11.0-LINUX-X86-64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.11.0-linux-x86-64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.11.0-linux-x86-64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.11.0 Linux x86-64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+99.88MB
+Datum hinzugefügt:
+8/12/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-11-release-notes/
+BeschreibungEs enthält ASSON.PDF für Python über .NET 23.11.0 Linux X86-64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=841c587fdeaae7590f8766775c344a44-20-9967&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-23.11.0-WINDOWS-X32</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.11.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.11.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.11.0 Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+72.43MB
+Datum hinzugefügt:
+8/12/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-11-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.11.0 Windows X32 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e544d6b860262576f581cac499475480-15-9968&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-N-23.11.0-WINDOWS-X64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.11.0-windows-x64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.11.0-windows-x64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.11.0 Windows X64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+79.11MB
+Datum hinzugefügt:
+8/12/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-11-release-notes/
+BeschreibungEs enthält ASPOSPE.PDF für Python über .NET 23.11.0 Windows X64 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f8f089667f5a8517d5b068adc5fc8eb1-16-9969&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-NIA-23.12.0-LINUX-X86-64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.12.0-linux-x86-64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.12.0-linux-x86-64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.12.0 Linux x86-64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+96.72MB
+Datum hinzugefügt:
+29/12/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-12-release-notes/
+BeschreibungDieses Rad enthält ASPOSPE.PDF für Python über .NET Version 23.12.0, kompatibel mit Python 3 und für Linux -Systeme erstellt, die dem ManyLinux1 -Standard entsprechen, wobei speziell auf die x86_64 -Architektur abzielt.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title>Downloads --- New Releases-ASPOSPLE.PDF-FOR-PYTHON-VIA-NIA-23.12.0-Windows-X32</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.12.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.12.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.12.0 Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+72.81MB
+Datum hinzugefügt:
+29/12/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-12-release-notes/
+BeschreibungDieses Rad enthält asspose.pdf Version 23.12.0, kompatibel mit Python 3 und optimiert für Windows 32-Bit-Systeme.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=528ec20b14fc707b896298ba46cf6464-15-10104&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-NIA-N-23.12.0-Windows-Amd64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.12.0-windows-amd64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-23.12.0-windows-amd64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 23.12.0 Windows AMD64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+78.96MB
+Datum hinzugefügt:
+29/12/2023
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2023/aspose-pdf-for-python-net-23-12-release-notes/
+BeschreibungDieses Rad enthält asspose.pdf Version 23.12.0, kompatibel mit Python 3 und optimiert für Windows 64-Bit-Systeme (AMD64).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f92fd75a3803ecbd41bd258e52b19ea6-16-10105&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-NIA-24.1.0-LINUX-X86-64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-24.1.0-linux-x86-64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-24.1.0-linux-x86-64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 24.1.0 Linux x86-64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+97MB
+Datum hinzugefügt:
+26/1/2024
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2024/aspose-pdf-for-python-net-24-1-release-notes/
+BeschreibungDieses Rad enthält ASPOSPE.PDF für Python über .NET Version 24.1.0, kompatibel mit Python 3 und für Linux -Systeme erstellt, die dem ManyLinux1 -Standard entsprechen, wobei speziell auf die X86_64 -Architektur abzielt.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.</description></item><item><title>Downloads --- New Releases-ASPOSPEN.PDF-FOR-PYTHON-VIA-NIA-N-24.1.0-WINDOWS-X32</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-24.1.0-windows-x32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-24.1.0-windows-x32/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 24.1.0 Windows X32
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+72.95MB
+Datum hinzugefügt:
+26/1/2024
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2024/aspose-pdf-for-python-net-24-1-release-notes/
+BeschreibungDieses Rad enthält asspose.pdf Version 24.1.0, kompatibel mit Python 3 und optimiert für Windows 32-Bit-Systeme.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ca62c93976bfdfdc0b3c95476b934b8a-15-10222&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).</description></item><item><title>Downloads --- New Releases-ASSOSPLE.PDF-FOR-PYTHON-VIA-NIA-N-24.1.0-WINDOWS-AMD64</title><link>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-24.1.0-windows-amd64/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-24.1.0-windows-amd64/</guid><description>&amp;nbsp;
+ASSON.PDF für Python über .NET 24.1.0 Windows AMD64
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+79.11MB
+Datum hinzugefügt:
+26/1/2024
+Versionshinweisehttps://releases.aspose.com/pdf/pythonnet/release-notes/2024/aspose-pdf-for-python-net-24-1-release-notes/
+BeschreibungDieses Rad enthält asspose.pdf Version 24.1.0, kompatibel mit Python 3 und optimiert für Windows 64-Bit-Systeme (AMD64).
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bb98beab26f3183b1657337cb425a055-16-10223&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("</description></item></channel></rss>

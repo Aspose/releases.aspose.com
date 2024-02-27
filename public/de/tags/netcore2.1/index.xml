@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>netcore2.1 on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/tags/netcore2.1/</link><description>Recent content in netcore2.1 on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/tags/netcore2.1/index.xml" rel="self" type="application/rss+xml"/><item><title>Herunterladen von .NET-DLL-Komponenten zum Verarbeiten von Excel | Aspose.Cells</title><link>https://releases-qa.aspose.com/de/cells/net/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/cells/net/</guid><description>Support Forum
+Laden Sie Aspose.Cells herunter, um Tabellenkalkulationen zu verarbeiten Offen
+NuGetPackage Manager im Microsoft Visual Studio®, suchen Sie nach Aspose.CAD und installieren Sie es. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden. Für die detaillierten Anweisungen besuchen Sie bitte die
+InstallationDokumentationsseite.
+Release-opmerkingen
+Downloaden
+PM&amp;gt;
+Install-Package Aspose.Cells
+&amp;nbsp;
+Product Page | Docs | Demos | API Reference | Examples | Blog | Search | Free Support | Temporary License</description></item></channel></rss>

@@ -1,0 +1,156 @@
+<!doctype html><html class=no-js lang=en><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge"><title>Aspose.PSD for .NET 21.3 - Release Notes</title><meta name=description content="Aspose.PSD for .NET 21.3 - Release Notes – the latest updates and fixes."><meta name=viewport content="width=device-width,minimum-scale=1"><link rel=canonical href=https://releases-qa.aspose.com/psd/net/release-notes/2021/aspose-psd-for-net-21-3-release-notes/><link rel=alternate hreflang=x-default href=https://releases-qa.aspose.com/psd/net/release-notes/2021/aspose-psd-for-net-21-3-release-notes/><meta name=robots content="noindex, nofollow"><link rel=apple-touch-icon sizes=180x180 href=/res_repo/apple-touch-icon.png><link rel=icon type=image/png href=/res_repo/favicon-32x32.png sizes=32x32><link rel=icon type=image/png href=/res_repo/favicon-16x16.png sizes=16x16><link rel=mask-icon href=/res_repo/safari-pinned-tab.svg color=#0594cb><meta name=theme-color content="#ffffff"><meta property="og:title" content="Aspose.PSD for .NET 21.3 - Release Notes "><meta property="og:description" content="Aspose.PSD for .NET 21.3 - Release Notes – the latest updates and fixes."><meta property="og:type" content="article"><meta property="og:url" content="https://releases-qa.aspose.com/psd/net/release-notes/2021/aspose-psd-for-net-21-3-release-notes/"><meta itemprop=name content="Aspose.PSD for .NET 21.3 - Release Notes"><meta itemprop=description content="Aspose.PSD for .NET 21.3 - Release Notes – the latest updates and fixes."><meta itemprop=wordCount content="685"><meta name=twitter:card content="summary"><meta name=twitter:title content="Aspose.PSD for .NET 21.3 - Release Notes"><meta name=twitter:description content="Aspose.PSD for .NET 21.3 - Release Notes – the latest updates and fixes."><link href=/css/bootstrap.css rel=stylesheet type=text/css><script src=https://releases-qa.aspose.com/res_repo/js/jquery-1.10.2.min.js></script></head><body><div id=header></div><div class=downloadpage><div class="container-fluid bcrumb1"><div id=sticky1 class=stickytopheight>&nbsp;</div><div class=container><div class=moduletable><ul id=dvBC class=breadcrumb><li><a href=/>Home</a><span class=divider></span></li><li><a href=/psd/>Aspose.PSD Product Family</a><span class=divider></span></li><li><a href=/psd/net/>Aspose.PSD for .NET</a><span class=divider></span></li><li><a href=/psd/net/release-notes/>Release Notes</a><span class=divider></span></li><li><a href=/psd/net/release-notes/2021/>2021</a><span class=divider></span></li><li><a href=/psd/net/release-notes/2021/aspose-psd-for-net-21-3-release-notes/>Aspose.PSD for .NET 21.3 - Release Notes</a><span class=divider></span></li></ul></div></div></div><div class="container-fluid content2 vpanel-left"><div class=container><div class=row><div class="col-md-3 vpanel tree-section"><p class=list-title>Browse our Products<button type=button class=treeview-toggle> <span class=sr-only>Toggle navigation</span> <span class="icon expand-icon glyphicon glyphicon-hide"></span></button></p><div id=tree class="treeview hidetree"></div></div><div class="col-md-9 lhs1 col-xs-12 mobilehide node-section"><div class=box1><section role=main class="main-container page-package-details"><div class=row><div class="col-sm-9 package-details-main"><h1><strong>Aspose.PSD for .NET 21.3 - Release Notes</strong></h1><div class="tab-content body-tab-content"><div role=tabpanel class="tab-pane active" id=readme-tab><div class=readme-common><div id=readme-container><p><div class="alert alert-primary" role=alert>This page contains release notes for <a href=https://www.nuget.org/packages/Aspose.PSD/>Aspose.PSD for .NET 21.3</a></div><table><thead><tr><th style=text-align:left><strong>Key</strong></th><th style=text-align:left><strong>Summary</strong></th><th style=text-align:left><strong>Category</strong></th></tr></thead><tbody><tr><td style=text-align:left>PSDNET-823</td><td style=text-align:left>Add the SectionDividerLayer to improve the experience with layer groups</td><td style=text-align:left>Enhancement</td></tr><tr><td style=text-align:left>PSDNET-694</td><td style=text-align:left>When reading PattResource, width and height was swapped</td><td style=text-align:left>Bug</td></tr><tr><td style=text-align:left>PSDNET-789</td><td style=text-align:left>Incorrect Blending of more than one Layer Effect</td><td style=text-align:left>Bug</td></tr><tr><td style=text-align:left>PSDNET-805</td><td style=text-align:left>Incorrect Blending order and logic when there are more than one Layer Effect</td><td style=text-align:left>Bug</td></tr><tr><td style=text-align:left>PSDNET-842</td><td style=text-align:left>Stroke effect properties not saving to PSD file</td><td style=text-align:left>Bug</td></tr></tbody></table><h2 id=public-api-changes><strong>Public API Changes</strong></h2><h1 id=added-apis><strong>Added APIs:</strong></h1><ul><li>T:Aspose.PSD.FileFormats.Psd.Layers.SectionDividerLayer</li><li>M:Aspose.PSD.FileFormats.Psd.Layers.SectionDividerLayer.GetRelatedLayerGroup</li><li>P:Aspose.PSD.FileFormats.Psd.Layers.SectionDividerLayer.IsVisibleInGroup</li></ul><h1 id=removed-apis><strong>Removed APIs:</strong></h1><ul><li>None</li></ul><h2 id=usage-examples><strong>Usage examples:</strong></h2><p><strong>PSDNET-694. When reading PattResource, width and height was swapped</strong></p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-csharp data-lang=csharp><span style=display:flex><span>            <span style=color:#66d9ef>string</span> sourceFile = <span style=color:#e6db74>&#34;Untitled-1.psd&#34;</span>;
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>string</span> outputFile = <span style=color:#e6db74>&#34;output.png&#34;</span>;
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>using</span> (<span style=color:#66d9ef>var</span> image = (PsdImage)Image.Load(sourceFile))
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>var</span> fillLayer = (FillLayer)image.Layers[<span style=color:#ae81ff>1</span>];
+</span></span><span style=display:flex><span>                fillLayer.Update(); <span style=color:#75715e>// invoke pattern rendering</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                image.Save(outputFile, <span style=color:#66d9ef>new</span> PngOptions());
+</span></span><span style=display:flex><span>            }</span></span></code></pre></div><p><strong>PSDNET-789. Incorrect Blending of more than one Layer Effect</strong></p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-csharp data-lang=csharp><span style=display:flex><span>            <span style=color:#66d9ef>string</span> srcFile = <span style=color:#e6db74>&#34;source_789.psd&#34;</span>;
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>string</span> outputSmartObjectPath = <span style=color:#e6db74>&#34;output789.png&#34;</span>;
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>string</span> outputFile = <span style=color:#e6db74>&#34;output789.psd&#34;</span>;
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>using</span> (PsdImage image = (PsdImage)Image.Load(srcFile, <span style=color:#66d9ef>new</span> PsdLoadOptions() { LoadEffectsResource = <span style=color:#66d9ef>true</span> }))
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>var</span> length = image.Layers.Length;
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>for</span> (<span style=color:#66d9ef>int</span> i = <span style=color:#ae81ff>0</span>; i &lt; length; i++)
+</span></span><span style=display:flex><span>                {
+</span></span><span style=display:flex><span>                    <span style=color:#66d9ef>var</span> smart = image.Layers[i] <span style=color:#66d9ef>as</span> SmartObjectLayer;
+</span></span><span style=display:flex><span>                    <span style=color:#66d9ef>if</span> (smart != <span style=color:#66d9ef>null</span> &amp;&amp; smart.Name == <span style=color:#e6db74>&#34;__D__&#34;</span>)
+</span></span><span style=display:flex><span>                    {
+</span></span><span style=display:flex><span>                        <span style=color:#66d9ef>using</span> (<span style=color:#66d9ef>var</span> stream = <span style=color:#66d9ef>new</span> MemoryStream(smart.Contents))
+</span></span><span style=display:flex><span>                        {
+</span></span><span style=display:flex><span>                            stream.Position = <span style=color:#ae81ff>0</span>;
+</span></span><span style=display:flex><span>                            <span style=color:#66d9ef>using</span> (<span style=color:#66d9ef>var</span> imageInSmart = (PsdImage)Image.Load(stream))
+</span></span><span style=display:flex><span>                            {
+</span></span><span style=display:flex><span>                                <span style=color:#66d9ef>for</span> (<span style=color:#66d9ef>int</span> j = <span style=color:#ae81ff>0</span>; j &lt; imageInSmart.Layers.Length; j++)
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                                {
+</span></span><span style=display:flex><span>                                    <span style=color:#75715e>// Looking for Text Layer</span>
+</span></span><span style=display:flex><span>                                    <span style=color:#66d9ef>var</span> textLayer = imageInSmart.Layers[j] <span style=color:#66d9ef>as</span> TextLayer;
+</span></span><span style=display:flex><span>                                    <span style=color:#66d9ef>if</span> (textLayer != <span style=color:#66d9ef>null</span>)
+</span></span><span style=display:flex><span>                                    {
+</span></span><span style=display:flex><span>                                        <span style=color:#66d9ef>var</span> textData = textLayer.TextData;
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                                        textData.Items[<span style=color:#ae81ff>0</span>].Text = <span style=color:#e6db74>&#34;Best&#34;</span>;
+</span></span><span style=display:flex><span>                                        textData.Items[<span style=color:#ae81ff>0</span>].Style.FontSize = <span style=color:#ae81ff>170</span>;
+</span></span><span style=display:flex><span>                                    }
+</span></span><span style=display:flex><span>                                }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                                smart.ReplaceContents(imageInSmart);
+</span></span><span style=display:flex><span>                            }
+</span></span><span style=display:flex><span>                        }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                        <span style=color:#66d9ef>break</span>;
+</span></span><span style=display:flex><span>                    }
+</span></span><span style=display:flex><span>                }
+</span></span><span style=display:flex><span>                <span style=color:#75715e>// In this way we are saving changed PSD File</span>
+</span></span><span style=display:flex><span>                image.Save(outputSmartObjectPath, <span style=color:#66d9ef>new</span> PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
+</span></span><span style=display:flex><span>                image.Save(outputFile);
+</span></span><span style=display:flex><span>            }</span></span></code></pre></div><p><strong>PSDNET-805. Incorrect Blending order and logic when there are more than one Layer Effect</strong></p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-csharp data-lang=csharp><span style=display:flex><span>            <span style=color:#66d9ef>string</span> sourceFile = <span style=color:#e6db74>&#34;1_200x200.psd&#34;</span>;
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>string</span> contentFile = <span style=color:#e6db74>&#34;Numbers1Best.png&#34;</span>;
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>string</span> outputFilePng = <span style=color:#e6db74>&#34;output.png&#34;</span>;
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>string</span> outputFilePsd = <span style=color:#e6db74>&#34;output.psd&#34;</span>;
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>using</span> (PsdImage image = (PsdImage)Image.Load(sourceFile, <span style=color:#66d9ef>new</span> PsdLoadOptions() { LoadEffectsResource = <span style=color:#66d9ef>true</span> }))
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>var</span> length = image.Layers.Length;
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>for</span> (<span style=color:#66d9ef>int</span> i = <span style=color:#ae81ff>0</span>; i &lt; length; i++)
+</span></span><span style=display:flex><span>                {
+</span></span><span style=display:flex><span>                    <span style=color:#66d9ef>var</span> smart = image.Layers[i] <span style=color:#66d9ef>as</span> SmartObjectLayer;
+</span></span><span style=display:flex><span>                    <span style=color:#66d9ef>if</span> (smart != <span style=color:#66d9ef>null</span> &amp;&amp; smart.Name == <span style=color:#e6db74>&#34;__D__&#34;</span>)
+</span></span><span style=display:flex><span>                    {
+</span></span><span style=display:flex><span>                        smart.ReplaceContents(contentFile);
+</span></span><span style=display:flex><span>                        <span style=color:#66d9ef>break</span>;
+</span></span><span style=display:flex><span>                    }
+</span></span><span style=display:flex><span>                }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                <span style=color:#75715e>//In this way we are saving changed PSD File</span>
+</span></span><span style=display:flex><span>                image.Save(outputFilePng, <span style=color:#66d9ef>new</span> PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
+</span></span><span style=display:flex><span>                image.Save(outputFilePsd);
+</span></span><span style=display:flex><span>            }</span></span></code></pre></div><p><strong>PSDNET-823. Add the SectionDividerLayer to improve the experience with layer groups</strong></p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-csharp data-lang=csharp><span style=display:flex><span>            <span style=color:#75715e>// The following code demonstrates SectionDividerLayer layers and how to get the related to it LayerGroup.</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#75715e>// Layers hierarchy</span>
+</span></span><span style=display:flex><span>            <span style=color:#75715e>//    [0]: &#39;&lt;/Layer group&gt;&#39; SectionDividerLayer for Group 1</span>
+</span></span><span style=display:flex><span>            <span style=color:#75715e>//    [1]: &#39;Layer 1&#39; Regular Layer</span>
+</span></span><span style=display:flex><span>            <span style=color:#75715e>//    [2]: &#39;&lt;/Layer group&gt;&#39; SectionDividerLayer for Group 2</span>
+</span></span><span style=display:flex><span>            <span style=color:#75715e>//    [3]: &#39;&lt;/Layer group&gt;&#39; SectionDividerLayer for Group 3</span>
+</span></span><span style=display:flex><span>            <span style=color:#75715e>//    [4]: &#39;Group 3&#39; GroupLayer</span>
+</span></span><span style=display:flex><span>            <span style=color:#75715e>//    [5]: &#39;Group 2&#39; GroupLayer</span>
+</span></span><span style=display:flex><span>            <span style=color:#75715e>//    [6]: &#39;Group 1&#39; GroupLayer</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>void</span> AssertAreEqual(<span style=color:#66d9ef>object</span> expected, <span style=color:#66d9ef>object</span> actual, <span style=color:#66d9ef>string</span> message = <span style=color:#66d9ef>null</span>)
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>if</span> (!<span style=color:#66d9ef>object</span>.Equals(expected, actual))
+</span></span><span style=display:flex><span>                {
+</span></span><span style=display:flex><span>                    <span style=color:#66d9ef>throw</span> <span style=color:#66d9ef>new</span> FormatException(message ?? <span style=color:#e6db74>&#34;Objects are not equal.&#34;</span>);
+</span></span><span style=display:flex><span>                }
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>using</span> (<span style=color:#66d9ef>var</span> image = <span style=color:#66d9ef>new</span> PsdImage(<span style=color:#ae81ff>100</span>, <span style=color:#ae81ff>100</span>))
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                <span style=color:#75715e>// Creating layers hierarchy</span>
+</span></span><span style=display:flex><span>                <span style=color:#75715e>// Add the LayerGroup &#39;Group 1&#39;</span>
+</span></span><span style=display:flex><span>                LayerGroup group1 = image.AddLayerGroup(<span style=color:#e6db74>&#34;Group 1&#34;</span>, <span style=color:#ae81ff>0</span>, <span style=color:#66d9ef>true</span>);
+</span></span><span style=display:flex><span>                <span style=color:#75715e>// Add regular layer</span>
+</span></span><span style=display:flex><span>                Layer layer1 = <span style=color:#66d9ef>new</span> Layer();
+</span></span><span style=display:flex><span>                layer1.DisplayName = <span style=color:#e6db74>&#34;Layer 1&#34;</span>;
+</span></span><span style=display:flex><span>                group1.AddLayer(layer1);
+</span></span><span style=display:flex><span>                <span style=color:#75715e>// Add the LayerGroup &#39;Group 2&#39;</span>
+</span></span><span style=display:flex><span>                LayerGroup group2 = group1.AddLayerGroup(<span style=color:#e6db74>&#34;Group 2&#34;</span>, <span style=color:#ae81ff>1</span>);
+</span></span><span style=display:flex><span>                <span style=color:#75715e>// Add the LayerGroup &#39;Group 3&#39;</span>
+</span></span><span style=display:flex><span>                LayerGroup group3 = group2.AddLayerGroup(<span style=color:#e6db74>&#34;Group 3&#34;</span>, <span style=color:#ae81ff>0</span>);
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                <span style=color:#75715e>// Gets the SectionDividerLayer&#39;s</span>
+</span></span><span style=display:flex><span>                SectionDividerLayer divider1 = (SectionDividerLayer)image.Layers[<span style=color:#ae81ff>0</span>];
+</span></span><span style=display:flex><span>                SectionDividerLayer divider2 = (SectionDividerLayer)image.Layers[<span style=color:#ae81ff>2</span>];
+</span></span><span style=display:flex><span>                SectionDividerLayer divider3 = (SectionDividerLayer)image.Layers[<span style=color:#ae81ff>3</span>];
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                <span style=color:#75715e>// using the SectionDividerLayer.GetRelatedLayerGroup() method, obtains the related LayerGroup instance.</span>
+</span></span><span style=display:flex><span>                AssertAreEqual(group1.DisplayName, divider1.GetRelatedLayerGroup().DisplayName); <span style=color:#75715e>// the same LayerGroup</span>
+</span></span><span style=display:flex><span>                AssertAreEqual(group2.DisplayName, divider2.GetRelatedLayerGroup().DisplayName); <span style=color:#75715e>// the same LayerGroup</span>
+</span></span><span style=display:flex><span>                AssertAreEqual(group3.DisplayName, divider3.GetRelatedLayerGroup().DisplayName); <span style=color:#75715e>// the same LayerGroup</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                LayerGroup folder1 = divider1.GetRelatedLayerGroup();
+</span></span><span style=display:flex><span>                AssertAreEqual(<span style=color:#ae81ff>5</span>, folder1.Layers.Length); <span style=color:#75715e>// &#39;Group 1&#39; contains 5 layers</span>
+</span></span><span style=display:flex><span>            }</span></span></code></pre></div><p><strong>PSDNET-842. Stroke effect properties not saving to PSD file</strong></p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-csharp data-lang=csharp><span style=display:flex><span>            <span style=color:#66d9ef>void</span> AssertAreEqual(<span style=color:#66d9ef>object</span> expected, <span style=color:#66d9ef>object</span> actual, <span style=color:#66d9ef>string</span> message = <span style=color:#66d9ef>null</span>)
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>if</span> (!<span style=color:#66d9ef>object</span>.Equals(expected, actual))
+</span></span><span style=display:flex><span>                {
+</span></span><span style=display:flex><span>                    <span style=color:#66d9ef>throw</span> <span style=color:#66d9ef>new</span> FormatException(message ?? <span style=color:#e6db74>&#34;Objects are not equal.&#34;</span>);
+</span></span><span style=display:flex><span>                }
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>string</span> srcFile = <span style=color:#e6db74>&#34;badStrokeEffect.psd&#34;</span>;
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>string</span> output = <span style=color:#e6db74>&#34;output.psd&#34;</span>;
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>using</span> (<span style=color:#66d9ef>var</span> image = (PsdImage)Image.Load(srcFile, <span style=color:#66d9ef>new</span> PsdLoadOptions() { LoadEffectsResource = <span style=color:#66d9ef>true</span> }))
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                <span style=color:#66d9ef>var</span> layer1 = <span style=color:#66d9ef>new</span> Layer();
+</span></span><span style=display:flex><span>                image.AddLayer(layer1);
+</span></span><span style=display:flex><span>                layer1.BlendingOptions.AddStroke(FillType.Color); <span style=color:#75715e>// Will not throw ArgumentNullException</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                StrokeEffect strokeEffect = image.Layers[<span style=color:#ae81ff>1</span>].BlendingOptions.AddStroke(FillType.Color);
+</span></span><span style=display:flex><span>                strokeEffect.Size = <span style=color:#ae81ff>10</span>;
+</span></span><span style=display:flex><span>                strokeEffect.Position = StrokePosition.Outside;
+</span></span><span style=display:flex><span>                strokeEffect.Overprint = <span style=color:#66d9ef>true</span>;
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                image.Save(output);
+</span></span><span style=display:flex><span>            }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>            <span style=color:#75715e>// Checks saved values</span>
+</span></span><span style=display:flex><span>            <span style=color:#66d9ef>using</span> (<span style=color:#66d9ef>var</span> image = (PsdImage)Image.Load(output, <span style=color:#66d9ef>new</span> PsdLoadOptions() { LoadEffectsResource = <span style=color:#66d9ef>true</span> }))
+</span></span><span style=display:flex><span>            {
+</span></span><span style=display:flex><span>                StrokeEffect strokeEffect = (StrokeEffect)image.Layers[<span style=color:#ae81ff>1</span>].BlendingOptions.Effects[<span style=color:#ae81ff>0</span>];
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>                AssertAreEqual(<span style=color:#ae81ff>10</span>, strokeEffect.Size);
+</span></span><span style=display:flex><span>                AssertAreEqual(StrokePosition.Outside, strokeEffect.Position);
+</span></span><span style=display:flex><span>                AssertAreEqual(<span style=color:#66d9ef>true</span>, strokeEffect.Overprint);
+</span></span><span style=display:flex><span>            }</span></span></code></pre></div></p></div></div></div></div><hr></div></div></section></div></div></div></div></div></div><div id=dvHidden style=display:none></div><div id=footer></div><a class=backtop>&nbsp;</a><div id=DynabicMenuFooter></div><script type=text/javascript>const langarray=[]</script><script type=text/javascript>jQuery(document).ready(function(){let e=$(".nested").hide(),t=$(".treeview-animated-element");$(".treeview-animated-items-header").hover(function(){$(this).children.toggleClass("Mydiv")}),$(".treeview-animated-items-header").click(function(){return console.log("mala"),$this=$(this),console.log($this.attr("id")),$target=$this.siblings(".nested"),$pointerPlus=$this.children(".fa-plus"),$pointerMinus=$this.children(".fa-minus"),$pointerPlus.removeClass("fa-plus"),$pointerPlus.addClass("fa-minus"),$pointerMinus.removeClass("fa-minus"),$pointerMinus.addClass("fa-plus"),$this.toggleClass("open"),$target.hasClass("active")?$target.removeClass("active").slideUp():$target.addClass("active").slideDown(),!1})})</script><script>(function(e,s,o,a,t,n,i){e.ContainerizeMenuObject=t,e[t]=e[t]||function(){(e[t].q=e[t].q||[]).push(arguments)},e[t].l=1*new Date,n=s.createElement(o),i=s.getElementsByTagName(o)[0],n.async=1,n.src=a,i.parentNode.append(n)})(window,document,"script","https://menu.containerize.com/scripts/engine.min.js?v=1.0.1","aspose-en")</script><script src=https://releases-qa.aspose.com/res_repo/js/highlight.min.js></script>
+<script src=https://releases-qa.aspose.com/res_repo/js/bootstrap.min.js></script>
+<script src=/js/bundle.min.js></script>
+<script src=/js/dynabic.treeview.js></script>
+<script src=/js/treeviewmanager.js></script>
+<script>hljs.highlightAll()</script><link rel=stylesheet type=text/css href=https://releases-qa.aspose.com/res_repo/css/hugocustom.css><script>$(".btn-showside .mb-5").on("click",function(){$("main .flex .dn.db-l").toggleClass("showsidebar"),$("main .flex .w-100").toggleClass("noscroll")}),$(".btn-showmenu").on("click",function(){$("nav.bg-primary-color-dark").toggleClass("showmenu")}),$(".btn-plain").on("click",function(){$("main .flex .dn.db-l").removeClass("showsidebar"),$("main .flex .dn.db-l").removeClass("showsidebar"),$("nav.bg-primary-color-dark").removeClass("showmenu")}),$(".ss-bar ul li a[data-target]").on("click",function(){$(this).find(".i.fa-angle-down").hasClass("fa-angle-up")?$(this).find("i.fa-angle-down").removeClass("fa-angle-up"):$(this).find("i.fa-angle-down").toggleClass("fa-angle-up")}),$(".btn-showside").on("click",function(){$(".ss-bar").toggleClass("showsidebar")}),$(".btn-plain").on("click",function(){$(".ss-bar").removeClass("showsidebar")})</script><script>$(document).ready(function(){$("div pre").removeAttr("style");var e,t=$(location).attr("hash");"#package-explorer"==t&&(e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]'),e&&e.click()),$('a:has(img[alt="banner"]').click(function(){event.preventDefault();var e=document.querySelector('.nav-tabs a[href="#packageexplorer-tab"]');e&&e.click()}),$(window).scroll(function(){$(this).scrollTop()>150?$(".backtop").fadeIn():$(".backtop").fadeOut()}),$(".backtop").click(function(){return $("html, body").animate({scrollTop:0},600),!1}),$(".linkshow").on("click",function(){$(this).find("i").toggleClass("fa-minus-square"),$(".linkshowbox").toggleClass("hide")}),document.querySelector("body").addEventListener("click",function(t){if(t.target.classList.contains("searchButton")){$(".ss-bar").removeClass("showsidebar");try{var e=$("input[name=q]").val();gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}if(t.target.classList.contains("fa-search")){$(".ss-bar").removeClass("showsidebar");try{e=$("input[name=q]").val(),gtag("config","UA-3109235-2",{page_path:"/search/?q="+e})}catch(e){}}},!0)})</script><script>document.querySelectorAll("pre > code").forEach(t=>{const n=t.parentNode.parentNode,e=document.createElement("button");e.classList.add("copy-code"),e.innerHTML="copy";function s(){e.innerHTML="copied!",setTimeout(()=>{e.innerHTML="copy"},2e3)}e.addEventListener("click",o=>{if("clipboard"in navigator){navigator.clipboard.writeText(t.textContent),s();return}const e=document.createRange();e.selectNodeContents(t);const n=window.getSelection();n.removeAllRanges(),n.addRange(e);try{document.execCommand("copy"),s()}catch(e){}n.removeRange(e)}),n.classList.contains("highlight")?n.appendChild(e):n.parentNode.firstChild==n||(t.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName=="TABLE"?t.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(e):t.parentNode.appendChild(e))})</script></body></html>

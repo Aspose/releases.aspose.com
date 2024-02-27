@@ -1,0 +1,1726 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Android PowerPoint-Bibliothek | Aspose.Slides für Android on Releases - aspose.com</title><link>https://releases-qa.aspose.com/de/slides/androidjava/</link><description>Recent content in Android PowerPoint-Bibliothek | Aspose.Slides für Android on Releases - aspose.com</description><generator>Hugo -- gohugo.io</generator><language>de</language><atom:link href="https://releases-qa.aspose.com/de/slides/androidjava/index.xml" rel="self" type="application/rss+xml"/><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-1.1.0 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-1.1.0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-1.1.0/</guid><description>&amp;nbsp;
+Aspose.Slides für Android 1.1.0
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1129
+Dateigröße:
+8.5 MB Posted By: zaheer.tariq
+Ansichten:
+1648
+Hinzugefügt am:
+1/27/2014
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=35789f8d1613488dbebb2fc6815fecfe&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-18.2 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-18.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-18.2/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 18.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+56
+Dateigröße:
+19.9 MB Posted By: victor.krivolap
+Ansichten:
+136
+Hinzugefügt am:
+2/28/2018
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2018/aspose-slides-for-cpp-18-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=899f4361dee4478d9d238b1e363033bf&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-18.9 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-18.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-18.9/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 18.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+14
+Dateigröße:
+25.6 MB Posted By: victor.krivolap
+Ansichten:
+301
+Hinzugefügt am:
+9/30/2018
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2018/aspose-slides-for-cpp-18-9-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1edc2ba4983c4deab7b03a0c8a791aff&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-18.10 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-18.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-18.10/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 18.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+11
+Dateigröße:
+25.8 MB Posted By: victor.krivolap
+Ansichten:
+19
+Hinzugefügt am:
+10/31/2018
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2018/aspose-slides-for-cpp-18-10-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5aa9e71042ae4d97a9de230b07a688c9&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-18.11 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-18.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-18.11/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 18.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+26.2 MB Posted By: victor.krivolap
+Ansichten:
+6
+Hinzugefügt am:
+12/1/2018
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2018/aspose-slides-for-cpp-18-11-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0650509c159948aabbef497bbb1a7b59&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-18.12 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-18.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-18.12/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 18.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+Dateigröße:
+26.2 MB Posted By: victor.krivolap
+Ansichten:
+15
+Hinzugefügt am:
+12/27/2018
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2018/aspose-slides-for-cpp-18-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a843cf77910847d9a17b769c7a1ef11f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-19.1 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-19.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-19.1/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 19.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+26.2 MB Posted By: victor.krivolap
+Ansichten:
+18
+Hinzugefügt am:
+1/30/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=af5c9f202f1c41c08ab2aaa4fa2a55e7&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-19.2 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-19.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-19.2/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 19.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+26.4 MB Posted By: victor.krivolap
+Ansichten:
+22
+Hinzugefügt am:
+2/28/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=bfb9a58bf3b94d75ad54ae997aed19e6&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-19.3 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-19.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-19.3/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 19.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+26.4 MB Posted By: victor.krivolap
+Ansichten:
+15
+Hinzugefügt am:
+4/4/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=920ceb33f43f495e80ee36ace706fb6e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-19.4 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-19.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-19.4/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 19.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+26.5 MB Posted By: victor.krivolap
+Ansichten:
+17
+Hinzugefügt am:
+4/26/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=80b731f968234c78b5f4e589f9fd1d76&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-19.5 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-19.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-19.5/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 19.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+26.5 MB Posted By: stanislav.miroshnichenko1
+Ansichten:
+13
+Hinzugefügt am:
+5/30/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-5-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9c22ead957794e59b1d6eb9bd75a132b&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-19.6 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-19.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-19.6/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 19.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+10
+Dateigröße:
+26.5 MB Posted By: stanislav.miroshnichenko1
+Ansichten:
+58
+Hinzugefügt am:
+6/25/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-6-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=569841533e0749feb019e0eca2c67a41&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases--aspose.slides-for-android-via-java-19.7 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/-aspose.slides-for-android-via-java-19.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/-aspose.slides-for-android-via-java-19.7/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 19.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+26.6 MB Posted By: ptetenko
+Ansichten:
+25
+Hinzugefügt am:
+7/26/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=1f4e4ca79d6e4225a296b3d3a3b3c822&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-19.8 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-19.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-19.8/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 19.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+26.6 MB Posted By: ptetenko
+Ansichten:
+50
+Hinzugefügt am:
+8/28/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-8-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=4e50aff15f354cd8a0c7bdc97aba6ff8&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-19.9 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-19.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-19.9/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 19.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+26.7 MB Posted By: ptetenko
+Ansichten:
+30
+Hinzugefügt am:
+9/17/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-9-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2790b2a32cae4843be3b43514f292e15&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-19.10 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-19.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-19.10/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 19.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+8
+Dateigröße:
+26.8 MB Posted By: ptetenko
+Ansichten:
+34
+Hinzugefügt am:
+10/28/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-10-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=71a42865595948d4997bff42d578e017&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-19.11 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-19.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-19.11/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 19.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+26.8 MB Posted By: ptetenko
+Ansichten:
+28
+Hinzugefügt am:
+11/26/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-11-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=400c97e2ad044f88a9e564faff86d986&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-19.12 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-19.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-19.12/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 19.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+27.2 MB Posted By: ptetenko
+Ansichten:
+29
+Hinzugefügt am:
+12/18/2019
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2019/aspose-slides-for-cpp-19-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9f6c296ec7a94187a2f21cf4e8a0a324&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-20.1 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-20.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-20.1/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 20.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+26.9 MB Posted By: ptetenko
+Ansichten:
+20
+Hinzugefügt am:
+1/21/2020
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2020/aspose-slides-for-cpp-20-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=aafdc57a9b7f428faaf11b7ab35360e5&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-20.2 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-20.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-20.2/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 20.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+27.0 MB Posted By: ptetenko
+Ansichten:
+36
+Hinzugefügt am:
+2/20/2020
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2020/aspose-slides-for-cpp-20-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=73e4575d05e045279c683ff3f68593bc&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-20.3 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-20.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-20.3/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 20.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+6
+Dateigröße:
+28.6 MB Posted By: ptetenko
+Ansichten:
+33
+Hinzugefügt am:
+3/24/2020
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2020/aspose-slides-for-cpp-20-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=eb276b5753b140a8ba101f4ee9e91071&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-20.4 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-20.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-20.4/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 20.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+29.1 MB Posted By: ptetenko
+Ansichten:
+38
+Hinzugefügt am:
+4/28/2020
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2020/aspose-slides-for-cpp-20-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=12562071330c442190801c9abf62f60c&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-20.5 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-20.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-20.5/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 20.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+29.4 MB Posted By: ptetenko
+Ansichten:
+43
+Hinzugefügt am:
+5/25/2020
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2020/aspose-slides-for-cpp-20-5-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0f3fda0f35194f87a5090b20318ac1b7&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-20.6 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-20.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-20.6/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 20.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+29.5 MB Posted By: ptetenko
+Ansichten:
+49
+Hinzugefügt am:
+6/24/2020
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2020/aspose-slides-for-cpp-20-6-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=31d70ff8058f4016949e98b274c7e4b2&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-20.7 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-20.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-20.7/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 20.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+4
+Dateigröße:
+29.6 MB Posted By: ptetenko
+Ansichten:
+43
+Hinzugefügt am:
+7/22/2020
+Versionshinweise https://releases.aspose.com/slides/cpp/release-notes/2020/aspose-slides-for-cpp-20-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2c0927eb3dd845aebcdb0ce8ff47cf55&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-20.8 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-20.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-20.8/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 20.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+29.6 MB Posted By: ptetenko
+Ansichten:
+42
+Hinzugefügt am:
+8/25/2020
+Versionshinweise https://releases.aspose.com/slides/androidjava/release-notes/2020/aspose-slides-for-android-via-java-20-8-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=49e288aeea044459b39d54a4ae5a743f&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-20.9 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-20.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-20.9/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 20.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+29.7 MB Posted By: ptetenko
+Ansichten:
+37
+Hinzugefügt am:
+9/24/2020
+Versionshinweise https://releases.aspose.com/slides/androidjava/release-notes/2020/aspose-slides-for-android-via-java-20-9-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0b26c9baa9554333ac4ecde27d34c194&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-20.10 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-20.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-20.10/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 20.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+9
+Dateigröße:
+29.5 MB Posted By: ptetenko
+Ansichten:
+52
+Hinzugefügt am:
+10/16/2020
+Versionshinweise https://docs.aspose.com/slides/java/aspose-slides-for-android-via-java-20-10-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=511ae244fd5d4f42843f36120ed6b2d6&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-20.11 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-20.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-20.11/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 20.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+30.0 MB Posted By: ptetenko
+Ansichten:
+47
+Hinzugefügt am:
+11/23/2020
+Versionshinweise https://docs.aspose.com/slides/java/aspose-slides-for-android-via-java-20-11-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5eba7f8fae744a2abe458e39311d17c3&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-20.12 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-20.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-20.12/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 20.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+30.2 MB Posted By: ptetenko
+Ansichten:
+53
+Hinzugefügt am:
+12/22/2020
+Versionshinweise https://docs.aspose.com/slides/java/aspose-slides-for-android-via-java-20-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=eb81a54d8f5c4fc4ab183753464dff93&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-21.1 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-21.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-21.1/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 21.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+Dateigröße:
+30.3 MB Posted By: ptetenko
+Ansichten:
+74
+Hinzugefügt am:
+1/25/2021
+Versionshinweise https://releases.aspose.com/slides/androidjava/release-notes/2021/aspose-slides-for-android-via-java-21-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=0dfb72df981a4824b38e8bab934ffdaa&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-21.2 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-21.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-21.2/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 21.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+4
+Dateigröße:
+30.3 MB Posted By: ptetenko
+Ansichten:
+48
+Hinzugefügt am:
+2/19/2021
+Versionshinweise https://releases.aspose.com/slides/androidjava/release-notes/2021/aspose-slides-for-android-via-java-21-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c408537a76bb4310b2ebf5b66ae2bdb0&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-21.3 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-21.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-21.3/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 21.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+30.5 MB Posted By: ptetenko
+Ansichten:
+48
+Hinzugefügt am:
+3/23/2021
+Versionshinweise https://releases.aspose.com/slides/androidjava/release-notes/2021/aspose-slides-for-android-via-java-21-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ad4b547eca7246e68e32e3a94186e8ff&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-21.4 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-21.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-21.4/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 21.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+30.7 MB Posted By: ptetenko
+Ansichten:
+44
+Hinzugefügt am:
+4/19/2021
+Versionshinweise https://releases.aspose.com/slides/androidjava/release-notes/2021/aspose-slides-for-android-via-java-21-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2fb6933de7304973aced206ac49e4fe5&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-21.5 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-21.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-21.5/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 21.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+30.8 MB Posted By: ptetenko
+Ansichten:
+57
+Hinzugefügt am:
+5/19/2021
+Versionshinweise https://releases.aspose.com/slides/androidjava/release-notes/2021/aspose-slides-for-android-via-java-21-5-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=fa1669c13b72471287eef8f62044f8f6&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-21.6 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-21.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-21.6/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 21.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+31.4 MB Posted By: ptetenko
+Ansichten:
+41
+Hinzugefügt am:
+6/18/2021
+Versionshinweise https://releases.aspose.com/slides/androidjava/release-notes/2021/aspose-slides-for-android-via-java-21-6-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=19dc584533a540e1a0cf3f1fb717e602&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-21.7 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-21.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-21.7/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 21.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+0
+Dateigröße:
+31.4 MB Posted By: ptetenko
+Ansichten:
+37
+Hinzugefügt am:
+7/16/2021
+Versionshinweise https://releases.aspose.com/slides/androidjava/release-notes/2021/aspose-slides-for-android-via-java-21-7-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f97544c5cfab41dd8b47eb384702467e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-21.8 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-21.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-21.8/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 21.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+31.5 MB Posted By: ptetenko
+Ansichten:
+36
+Hinzugefügt am:
+8/17/2021
+Versionshinweise https://releases.aspose.com/slides/androidjava/release-notes/2021/aspose-slides-for-android-via-java-21-8-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=50fa7ac62d6e4ded972aefb242be9524&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-21.9 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-21.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-21.9/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 21.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+Dateigröße:
+31.7 MB Posted By: ptetenko
+Ansichten:
+32
+Hinzugefügt am:
+9/21/2021
+Versionshinweise https://releases.aspose.com/slides/androidjava/release-notes/2021/aspose-slides-for-android-via-java-21-9-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=788034fa8199467cb80acfe3a41a13bc&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-21.10 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-21.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-21.10/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 21.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+31.7 MB Posted By: ptetenko
+Ansichten:
+30
+Hinzugefügt am:
+10/14/2021
+Versionshinweise https://docs.aspose.com/slides/androidjava/aspose-slides-for-android-via-java-21-10-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=72c5a35182b24025b3ff4b07b8cbb0c5&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-21.11 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-21.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-21.11/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 21.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+31.8 MB Posted By: ptetenko
+Ansichten:
+21
+Hinzugefügt am:
+11/25/2021
+Versionshinweise https://docs.aspose.com/slides/androidjava/aspose-slides-for-android-via-java-21-11-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=77aa6322449548b88e7186eff13f491e&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-21.12 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-21.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-21.12/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 21.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+32.0 MB Posted By: ptetenko
+Ansichten:
+22
+Hinzugefügt am:
+12/17/2021
+Versionshinweise https://docs.aspose.com/slides/androidjava/aspose-slides-for-android-via-java-21-12-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f4522ed4360842df8bbb3902f3bf4a95&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-22.1 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-22.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-22.1/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 22.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+2
+Dateigröße:
+32.0 MB Posted By: ptetenko
+Ansichten:
+16
+Hinzugefügt am:
+1/24/2022
+Versionshinweise https://releases.aspose.com/slides/androidjava/release-notes/2022/aspose-slides-for-android-via-java-22-1-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=42fb09cb2e494bc986f19507d26b23c7&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-22.2 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-22.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-22.2/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 22.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+7
+Dateigröße:
+32.1 MB Posted By: ptetenko
+Ansichten:
+16
+Hinzugefügt am:
+2/16/2022
+Versionshinweise https://releases.aspose.com/slides/androidjava/release-notes/2022/aspose-slides-for-android-via-java-22-2-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d10e1b23889b49cebcc2aacfe553937a&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-22.3 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-22.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-22.3/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 22.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+31.9 MB Posted By: ptetenko
+Ansichten:
+7
+Hinzugefügt am:
+: 3 weeks ago [3/24/2022]
+Versionshinweise https://releases.aspose.com/slides/androidjava/release-notes/2022/aspose-slides-for-android-via-java-22-3-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=d4c5615e4fe645aabebbf3a3cf093368&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("</description></item><item><title> Downloads ---Neue-Releases-aspose.slides-for-android-via-java-22.4 .</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-22.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-22.4/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 22.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+5
+Dateigröße:
+32.7 MB Hinzugefügt am:
+: 4 weeks ago [4/18/2022]
+Versionshinweise https://releases.aspose.com/slides/androidjava/release-notes/2022/aspose-slides-for-android-via-java-22-4-release-notes/
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7e3acff7656c41aa9cc5fe42ef2e7fba&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.slides-for-android-via-java-22.5</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-22.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-22.5/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 22.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+3
+Dateigröße:
+30.3 MB
+Hinzugefügt am:
+10/6/2022
+Versionshinweise https://releases.aspose.com/slides/androidjava/release-notes/2022/aspose-slides-for-android-via-java-22-5-release-notes/
+BeschreibungEs enthält Aspose.Slides für Android über die Java 22.5-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5b71f91c12054cc69439ac83155c3f80-1-7471&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads ---Neue Releases-aspose.slides-for-android-via-java-22.6</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-22.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-22.6/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 22.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+31.15MB
+Hinzugefügt am:
+27/6/2022
+Versionshinweise https://releases.aspose.com/slides/androidjava/release-notes/2022/aspose-slides-for-android-via-java-22-6-release-notes/
+BeschreibungEs enthält Aspose.Slides für Android über die Java 22.6-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=f8000009d54b1ad7452aa179fb654b4e-7-7568&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.slides-for-android-via-java-22.7</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-22.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-22.7/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 22.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+31.18MB
+Hinzugefügt am:
+19/7/2022
+Versionshinweise https://releases.aspose.com/slides/androidjava/release-notes/2022/aspose-slides-for-android-via-java-22-7-release-notes/
+BeschreibungEs enthält Aspose.Slides für Android über die Java 22.7-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=feb413e8c150b546b49743c4e7badc0a-7-7660&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.slides-for-android-via-java-22.8</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-22.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-22.8/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 22.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+31.28MB
+Hinzugefügt am:
+18/8/2022
+Versionshinweise https://releases.aspose.com/slides/androidjava/release-notes/2022/aspose-slides-for-android-via-java-22-8-release-notes/
+BeschreibungEs enthält Aspose.Slides für Android über die Java 22.8-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5bdaeb27992e060c296e21dce871e4c6-7-7778&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.slides-for-android-via-java-22.9</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-22.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-22.9/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 22.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+31.29MB
+Hinzugefügt am:
+22/9/2022
+Versionshinweise https://releases.aspose.com/slides/androidjava/release-notes/2022/aspose-slides-for-android-via-java-22-9-release-notes/
+BeschreibungEs enthält Aspose.Slides für Android über die Java 22.9-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=42cb9fd791945f9488199729bba441a3-7-7924&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads ---Neue Releases-aspose.slides-for-android-via-java-22.10</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-22.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-22.10/</guid><description>&amp;nbsp;
+Aspose.Slides für Android über Java 22.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+File Size:
+31.37MB
+Date Added:
+19/10/2022
+Versionshinweise https://releases.aspose.com/slides/androidjava/release-notes/2022/aspose-slides-for-android-via-java-22-10-release-notes/
+BeschreibungEs enthält Aspose.Slides für Android über die Java 22.10-Version.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=9d26a6dea125c22233a09b3de75be76c-7-8028&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSISSION.Slides-for-Android-VIA-Java-23.1</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.1/</guid><description>&amp;nbsp;
+ASSON.Slides für Android über Java 23.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+31.3MB
+Datum hinzugefügt:
+26/1/2023
+Versionshinweisehttps://releases.aspose.com/slides/androidjava/release-notes/2023/aspose-slides-for-android-via-java-23-1-release-notes/
+BeschreibungEs enthält ASSOSE.Slides für Android über Java 23.1 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=a618acaa69213b8c52cc60ba1aef138f-7-8434&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSPLE.Slides-for-Android-VIA-Java-23.2</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.2/</guid><description>&amp;nbsp;
+ASSON.Slides für Android über Java 23.2
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+31.59MB
+Datum hinzugefügt:
+20/2/2023
+Versionshinweisehttps://releases.aspose.com/slides/androidjava/release-notes/2023/aspose-slides-for-android-via-java-23-2-release-notes/
+BeschreibungEs enthält ASSOSE.Slides für Android über Java 23.2 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=7e0904b364177793745f0faf74bd63b6-7-8543&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSISSION.Slides-for-Android-VIA-Java-23.3</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.3/</guid><description>&amp;nbsp;
+ASSON.Slides für Android über Java 23.3
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+31.62MB
+Datum hinzugefügt:
+22/3/2023
+Versionshinweisehttps://releases.aspose.com/slides/androidjava/release-notes/2023/aspose-slides-for-android-via-java-23-3-release-notes/
+BeschreibungEs enthält ASSON.Slides für Android über Java 23.3 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=5ba8bcbb186211ced91fc65f5e16ae89-7-8659&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSISSION.Slides-for-Android-VIA-Java-23.4</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.4/</guid><description>&amp;nbsp;
+ASSON.Slides für Android über Java 23.4
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+31.6MB
+Datum hinzugefügt:
+20/4/2023
+Versionshinweisehttps://releases.aspose.com/slides/androidjava/release-notes/2023/aspose-slides-for-android-via-java-23-4-release-notes/
+BeschreibungEs enthält ASSON.Slides für Android über Java 23.4.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8f16336a1e8feda861959fe37fcfc4b8-7-8787&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPEN.Slides-for-Android-VIA-Java-23.5</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.5/</guid><description>&amp;nbsp;
+ASSON.Slides für Android über Java 23.5
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+31.63MB
+Datum hinzugefügt:
+24/5/2023
+Versionshinweisehttps://releases.aspose.com/slides/androidjava/release-notes/2023/aspose-slides-for-android-via-java-23-5-release-notes/
+BeschreibungEs enthält Asposes.slides für Android über Java 23.5 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=ce69f6be1700e0bb0f57385da94b07ca-7-8891&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSISSION.Slides-for-Android-VIA-Java-23.6</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.6/</guid><description>&amp;nbsp;
+ASSON.Slides für Android über Java 23.6
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+31.62MB
+Datum hinzugefügt:
+22/6/2023
+Versionshinweisehttps://releases.aspose.com/slides/androidjava/release-notes/2023/aspose-slides-for-android-via-java-23-6-release-notes/
+BeschreibungEs enthält Asposes.slides für Android über Java 23.6 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=baa2e02291fdfcbb450ef4d279e22859-7-9079&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPEN.Slides-for-Android-VIA-Java-23.7</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.7/</guid><description>&amp;nbsp;
+ASSON.Slides für Android über Java 23.7
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+31.7MB
+Datum hinzugefügt:
+20/7/2023
+Versionshinweisehttps://releases.aspose.com/slides/androidjava/release-notes/2023/aspose-slides-for-android-via-java-23-7-release-notes/
+BeschreibungEs enthält Asposes.slides für Android über Java 23.7 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=e3268e93b0207e8cdef5bc9ff4203b0a-7-9237&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPEN.Slides-for-Android-VIA-Java-23.8</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.8/</guid><description>&amp;nbsp;
+ASSON.Slides für Android über Java 23.8
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+31.72MB
+Datum hinzugefügt:
+23/8/2023
+Versionshinweisehttps://releases.aspose.com/slides/androidjava/release-notes/2023/aspose-slides-for-android-via-java-23-8-release-notes/
+BeschreibungEs enthält Asposes.slides für Android über Java 23.8 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=2e06ca1e40023750025f90336e82dd86-7-9368&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSOSPEN.Slides-for-Android-VIA-Java-23.9</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.9/</guid><description>&amp;nbsp;
+ASSON.Slides für Android über Java 23.9
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+31.69MB
+Datum hinzugefügt:
+25/9/2023
+Versionshinweisehttps://releases.aspose.com/slides/androidjava/release-notes/2023/aspose-slides-for-android-via-java-23-9-release-notes/
+BeschreibungEs enthält Asposes.slides für Android über Java 23.9 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=534360d2cafa7e94884ce5402fa0a8ac-7-9517&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-Android-VIA-Java-23.10</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.10/</guid><description>&amp;nbsp;
+ASSON.Slides für Android über Java 23.10
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+31.75MB
+Datum hinzugefügt:
+18/10/2023
+Versionshinweisehttps://releases.aspose.com/slides/androidjava/release-notes/2023/aspose-slides-for-android-via-java-23-10-release-notes/
+BeschreibungEs enthält ASSON.Slides für Android über Java 23.10 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=59559ad5ff486a699deb98d0ff1acf7a-7-9631&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-Assible.Slides-for-Android-VIA-Java-23.11</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.11/</guid><description>&amp;nbsp;
+ASSON.Slides für Android über Java 23.11
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+31.75MB
+Datum hinzugefügt:
+15/11/2023
+Versionshinweisehttps://releases.aspose.com/slides/androidjava/release-notes/2023/aspose-slides-for-android-via-java-23-11-release-notes/
+BeschreibungEs enthält ASSOSE.Slides für Android über Java 23.11 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=8ee1f3ee6c697df97b300266f9f74967-7-9773&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- NEW Releases-ASSOSPLE.Slides-for-Android-VIA-Java-23.12</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-23.12/</guid><description>&amp;nbsp;
+ASSON.Slides für Android über Java 23.12
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+31.82MB
+Datum hinzugefügt:
+15/12/2023
+Versionshinweisehttps://releases.aspose.com/slides/androidjava/release-notes/2023/aspose-slides-for-android-via-java-23-12-release-notes/
+BeschreibungEs enthält Asposes.slides für Android über Java 23.12 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=c5d37323a6f23adf808c7d652e56323b-7-9995&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item><item><title>Downloads --- Neue Veröffentlichungen-ASSISSION.SLIDES-FOR-ANDROID-VIA-JAVA-24.1</title><link>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-24.1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://releases-qa.aspose.com/de/slides/androidjava/new-releases/aspose.slides-for-android-via-java-24.1/</guid><description>&amp;nbsp;
+ASSON.Slides für Android über Java 24.1
+Downloaden&amp;nbsp;
+Helpforum&amp;nbsp;
+Bestandsdetails
+Downloads:
+1
+Dateigröße:
+31.84MB
+Datum hinzugefügt:
+26/1/2024
+Versionshinweisehttps://releases.aspose.com/slides/androidjava/release-notes/2024/aspose-slides-for-android-via-java-24-1-release-notes/
+BeschreibungEs enthält ASSON.Slides für Android über Java 24.1 Release.
+.downloadcount {
+background-image: url("/images/loading.svg");
+background-repeat: no-repeat;
+background-size: 21px;
+background-position: -2px 10px;
+color: transparent;
+}
+$.getJSON("https:\/\/releases.admin.aspose.com/api/updatecount?path=89981be57b315873586e69dce2176daf-7-10218&amp;single=1", function(data) { $.each(data, function(key, value) {
+$("#dwn-update-"+ key).css({"background":"none"});
+$("#dwn-update-"+ key).css({"color":"#333"});
+$("#dwn-update-"+ key).text(value.download_count);
+$("#added-update-"+ key).text(value.date_added);
+});
+});</description></item></channel></rss>
