@@ -1,0 +1,25 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk18",
+  "artifactId" : "aspose-tasks",
+  "id" : "24-2",
+  "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-tasks-24.2-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "15 MB",
+    "name" : "aspose-tasks-24.2-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "15 MB",
+    "name" : "aspose-tasks-24.2-jdk18.jar",
+    "classifier" : "jdk18"
+  }, {
+    "size" : "395 bytes",
+    "name" : "aspose-tasks-24.2.pom"
+  } ],
+  "releasehDate" : "2024-02-28T17:34:35+00:00",
+  "version" : "24.2",
+  "ReleaseNotes" : "https://releases.aspose.com/tasks/java/release-notes/2024/aspose-tasks-for-java-24-2-release-notes/"
+}
