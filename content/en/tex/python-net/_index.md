@@ -11,7 +11,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "202"
 homepage_package_type: "Pip"
-homepage_package_link: "https://pypi.org/project/aspose-tex/"
+homepage_package_link: "https://pypi.org/project/aspose-tex-net/"
 tags: ['latex-to-pdf', 'latex-to-xps', 'latex-to-svg', 'latex-to-png', 'latex-to-jpeg', 'latex-to-tiff', 'latex-to-bmp', 'tex-to-pdf', 'tex-to-xps', 'tex-to-svg', 'tex-to-png', 'tex-to-jpeg', 'tex-to-tiff', 'tex-to-bmp']
 weight: 4
 ---
@@ -27,11 +27,11 @@ For the detailed instructions please visit the {{< Common/link href="https://doc
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text="" >}}
-       {{< consolebox/textarea id="pip" >}} pip install aspose-tex {{< /consolebox/textarea >}}
+       {{< consolebox/textarea id="pip" >}} pip install aspose-tex-net {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
 
-[Product Page](https://products.aspose.com/tex/python-net/) | [Docs](https://docs.aspose.com/tex/python-net/) | [Demos](https://products.aspose.app/tex/family/) | [Blog](https://blog.aspose.com/categories/aspose.tex-product-family/) | [Code Samples](https://github.com/aspose-tex/) | [Free Support](https://forum.aspose.com/c/tex/) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+[Product Page](https://products.aspose.com/tex/python-net/) | [Docs](https://docs.aspose.com/tex/python-net/) | [Demos](https://products.aspose.app/tex/family/) | [Blog](https://blog.aspose.com/categories/aspose.tex-product-family/) | [Code Samples](https://github.com/aspose-tex/Aspose.TeX-for-Python-.NET/) | [Free Support](https://forum.aspose.com/c/tex/) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 ## Why download Aspose.TeX for Python?
 
