@@ -4,7 +4,7 @@ slug: "aspose-html-for-net-24-2-release-notes"
 linktitle: "Aspose.HTML for .NET 24.2 Release Notes"
 title: "Aspose.HTML for .NET 24.2 Release Notes"
 weight: 110
-description: "In this release, we have improved performance and reduce PDF document processing time. We also improved the quality of the rendering result and implemented enhancements to the conversion algorithm to accurately render tables in the generated PDFs."
+description: "In this release, we have improved performance and reduce PDF document processing time. We also improved the quality of the rendering result and implemented enhancements to the conversion algorithm to accurately render tables in the generated PDFs. Added more advanced functionality for saving documents using the ResourceHandler class, which replaced IOutputStorage."
 type: "repository"
 layout: "release"
 hideChildren: false
@@ -18,7 +18,7 @@ This page contains release notes information for Aspose.HTML for .NET 24.2.
 
 As per the regular monthly update process of all APIs being offered by Aspose, we are honored to announce the February release of Aspose.HTML for .NET.
 
-In this release, we have improved performance and reduce PDF document processing time. We also improved the quality of the rendering result and implemented enhancements to the conversion algorithm to accurately render tables in the generated PDFs.
+In this release, we have improved performance and reduce PDF document processing time. We also improved the quality of the rendering result and implemented enhancements to the conversion algorithm to accurately render tables in the generated PDFs.  Added more advanced functionality for saving documents using the ResourceHandler class, which replaced IOutputStorage.
 
 
 ## **Improvements and Changes**
@@ -145,7 +145,6 @@ namespace Aspose.Html.Saving
     /// <summary>
     /// This class describes a resource and provides methods for processing it.
     /// </summary>
-    [PublicAPI(TargetProduct.ALL)]
     public class Resource
     {
         /// <summary>
