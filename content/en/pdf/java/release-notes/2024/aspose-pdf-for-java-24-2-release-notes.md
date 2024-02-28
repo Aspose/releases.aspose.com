@@ -40,6 +40,9 @@ This page contains release notes information for Aspose.PDF for Java 24.2.
 |PDFJAVA-43575|Regression: Error message “Wrong format of page’s content” when saving some PDFs|Bug|
 |PDFJAVA-42849|Form fileds text rotated when filled|Bug|
 |PDFJAVA-41333|When extracting pages, tags are not extracted|Bug|
+|PDFJAVA-43462|PDF to DOCX/XLSX: Table is split into two|Bug|
+|PDFJAVA-43527|PDF to XLSX: Cells are shifted|Bug|
+|PDFJAVA-43407|PDF to DOCX: Text split over two lines.|Bug|
 
 
 
