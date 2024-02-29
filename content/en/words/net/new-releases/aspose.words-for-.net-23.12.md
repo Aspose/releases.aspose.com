@@ -1,20 +1,18 @@
 ---
-
 title: "Merge Documents, Custom PDF Layouts & WebP Images in C#"
-description: "C# .NET Word API to specify custom page layouts for PDF readers, leverage efficient WebP image support, and seamlessly merge documents into a single file. "
+description: "Download C# .NET Word API to specify custom PDF page layouts, leverage efficient WebP image support, and merge documents into a single file on Windows."
 keywords: ""
 page_type: single_release_page
 folder_link: "/words/net/new-releases/aspose.words-for-.net-23.12/"
 folder_name: "Aspose.Words for .NET 23.12"
 download_link: "/words/net/new-releases/aspose.words-for-.net-23.12/94bbb90b824aa96c8d9e5319cfa7297c-19-9929"
 download_text: "Download"
-intro_text: "It contains Aspose.Words for .NET 23.12 MSI installer"
+intro_text: "It contains Aspose.Words for .NET 23.12 MSI installer."
 image_link: "/resources/img/msi-icon.png"
 download_count: " 4/12/2023 Downloads: 1  Views: 1 "
 file_size: "File Size: 90.54MB"
 parent_path: "words/net"
 section_parent_path: "words/net"
-
 tags: "docx to pdf convert compare create edit word split bmp rtf odt open office html tiff doc dot wordml mobi chm txt md markdown xps svg ps eps postscript pcl epub azw3 png emf jpg gif xlsx mail merge table reporting document"
 release_notes_url: "https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-12-release-notes/"
 weight: 738
@@ -43,7 +41,7 @@ weight: 738
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-12-release-notes/'>https://releases.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Words for .NET 23.12 MSI installer</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Words for .NET 23.12 MSI installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
 
 
@@ -55,7 +53,7 @@ weight: 738
 
 In this release of the C# MS Word API, new public `PageLayout` property is added to the `PdfSaveOptions` class. New public `PdfPageLayout` enumeration has also been introduced.
 
-.NET developers can define the initial page layout for PDF documents opened in PDF readers. By integrating this feature into the C# .NET apps, developers can optimize user experiences and ensure the documents are presented exactly as intended right from the word go. 
+By integrating this feature into the .NET apps, C# developers can define the initial page layout for documents opened in PDF readers.
 
 Please check the following C# coding sample to learn how to customize PDF layout in readers using the C# API: 
 
@@ -76,7 +74,7 @@ doc.Save(ArtifactsDir + "PdfSaveOptions.PageLayout.pdf", saveOptions);
 
 A new public method `Merge(Document[], MergeFormatMode)` has been introduced to the `LowCode.Merger` class in this release.
 
-Streamline the document merging capabilities of your solutions with new ways of joining documents using the .NET API. This intuitive functionality allows you to merge documents in a simplified manner and requires only a few lines of code. 
+This intuitive functionality allows you to merge documents in a simplified manner and requires only a few lines of code. 
 
 The below-given C# code example showcases the use of this method for merging multiple documents in C#:
 
@@ -100,7 +98,7 @@ Assert.AreEqual("Hello first word!\fHello second word!\f", mergedDoc.GetText());
 
 This release brings a new addition in the form of WebP image support in the `DocumentBuilder` class. 
 
-Enhance your .NET word-processing apps with the ability to effortlessly read and add .WEBP images to your Word (.DOCX) documents. This feature enables you to expand the feature set and optimize the applications by unlocking more possibilities to increase the visual appeal of your Word documents.
+Optimize your C# solutions and effortlessly read and add .WEBP images to the Word (.DOCX) documents in .NET Standard & .NET6+.
 
 The following C# sample code shares how to insert WebP images in .NET Word documents:
 
