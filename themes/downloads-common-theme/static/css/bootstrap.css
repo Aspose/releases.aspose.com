@@ -3,7 +3,8 @@ html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:1
 @media (min-width: 621px) and (max-width: 1024px){.downloadfilebody .col-sm-1 img {height: auto;}}
 
 /* Custom CSS for <details> section and h3 colors */
- summary::before{content: "\f0d7"; font-family: FontAwesome;padding-right: 10px; transition: transform 0.3s ease; }
- details[open] > summary::before {content: "\f0d8"; }
-.alert-secondary summary{background: #87ceeb44;border: 1px solid transparent;border-radius: 0.25rem;padding: 0.75rem 1.25rem;}details[open] summary{margin-bottom:10px;}.page-package-details h3, h4, h5{color:#0593cb;}
+summary::before{content: "\f0d7"; font-family: FontAwesome;padding-right: 10px; transition: transform 0.3s ease; }
+details[open] > summary::before {content: "\f0d8"; }
+summary{background: #87ceeb44;border: 1px solid transparent;border-radius: 0.25rem;padding: 0.75rem 1.25rem;}
+details[open] summary{margin-bottom:10px;}.page-package-details h3, h4, h5{color:#0593cb;}
   
