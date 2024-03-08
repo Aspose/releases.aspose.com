@@ -204,7 +204,7 @@ Please use corresponding properties of FormulaSettings instead.
 
 Please use DataLabels.SeparatorType and corresponding enum DataLabelsSeparatorType instead.
 
-### **Obsoleted?OdsSaveOptions.IsStrictSchema11?property.**
+### **Obsoleted OdsSaveOptions.IsStrictSchema11 property.**
 
 Use OdsSaveOptions.OdfStrictVersion property instead. 
 
@@ -220,11 +220,11 @@ Represents the merge type for empty TD element when exporting file to html.
 
 The option to merge contiguous empty cells(empty td elements).
 
-### **Obsoleted?HtmlSaveOptions.MergeEmptyTdForcely?property.**
+### **Obsoleted HtmlSaveOptions.MergeEmptyTdForcely property.**
 
 Use HtmlSaveOptions.MergeEmptyTdType property instead. 
 
-### **Adds TickLabelAlignmentType?enum.**
+### **Adds TickLabelAlignmentType enum.**
 
 Represents the text alignment type for the tick labels on the axis.
 
@@ -236,3 +236,6 @@ Gets and sets how to align the tick labels of the axis.
 
 AZW3 format.
 
+### **Adds PivotItem.IsMissing property.**
+
+Indicates whether this item does not exist in the data source of pivot table.
