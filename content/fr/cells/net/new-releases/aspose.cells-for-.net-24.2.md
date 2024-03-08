@@ -1,6 +1,6 @@
 ---
 
-title: "Téléchargements --- Nouvelles versions-aspose.Cells-for-.net-24.2"
+title: "Téléchargements --- Nouvelles versions-aspose.Cells-for-.net-244.2"
 description: " "
 keywords: ""
 page_type: single_release_page
@@ -10,7 +10,7 @@ download_link: "/cells/net/new-releases/aspose.cells-for-.net-24.2/46fa9e5c22a9d
 download_text: "Télécharger"
 intro_text: "Aspose.cells pour .net 24.2"
 image_link: "/resources/img/msi-icon.png"
-download_count: " 5/2/2024 Téléchargers: 1  Views: 1 "
+download_count: " 5/2/2024 Téléchargers: 1554  Views: 1 "
 file_size: "File Size: 92.6MB"
 parent_path: "cells/net"
 section_parent_path: "cells/net"
@@ -31,7 +31,7 @@ weight: 705
     {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Téléchargers: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-46fa9e5c22a9d9251ab8d968a14288ed-19-10297" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-46fa9e5c22a9d9251ab8d968a14288ed-19-10297" >}} 1554 {{< /Common/li >}}
       {{< Common/li >}} Taille du fichier: {{< /Common/li >}}
       {{< Common/li id="size-update-46fa9e5c22a9d9251ab8d968a14288ed-19-10297" >}} 92.6MB {{< /Common/li >}}
 
