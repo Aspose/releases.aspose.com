@@ -124,31 +124,15 @@ Please use AbstractCalculationEngine and CalculationOptions.CustomEngine instead
   Worksheet.CalculateFormula(bool, bool, ICustomFunction)
   Cell.Calculate(bool, ICustomFunction)
 
-### **Removes obsolete method Cells.getCell(int row, int column). [JAVAONLY]**
-
-Please use Cells.get(int row, int column) instead.
-
-### **Removes obsolete methods Cells.getRow(int rowIndex)/getColumn(int columnIndex). [JAVAONLY]**
-
-Please use Cells.getRows().get(int rowIndex)/Cells.getColumns().get(int columnIndex) instead.
-
-### **Removes obsolete methods Area.isVisible()/isAuto()/setAuto(bool). [JAVAONLY]**
-
-Please use Area.Formatting property instead.
-
-### **Removes obsolete methods Axis.isAutoCross()/setAutoCross()/isCrossAtMax()/setCrossAtMax(bool). [JAVAONLY]**
-
-Please use Axis.CrossType property instead.
-
-### **Obsolete method Cells.GetCell(int row, int column). [NETONLY]**
+### **Obsolete method Cells.GetCell(int row, int column).**
 
 Please use Cells.CheckCell(int row, int column) instead.
 
-### **Obsolete method Cells.GetRow(int rowIndex). [NETONLY]**
+### **Obsolete method Cells.GetRow(int rowIndex).**
 
 Please use Cells.CheckRow(int rowIndex) instead.
 
-### **Removes obsolete methods of importing data for Cells. [NETONLY]**
+### **Removes obsolete methods of importing data for Cells.**
 
 Please use ImportData(IDataReader, int, int, ImportTableOptions) instead of below methods:
   Import(IDataReader, int, int, ImportTableOptions)
