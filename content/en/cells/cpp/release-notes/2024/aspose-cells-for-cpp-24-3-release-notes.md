@@ -68,15 +68,15 @@ This page contains release notes for Aspose.Cells for C++ 24.3.
 
 The following is a list of any changes made to the public API such as added, renamed, removed or deprecated members as well as any non-backward compatible change made to Aspose.Cells for C++. If you have concerns about any change listed, please raise it on the Aspose.Cells support forum.
 
-### **Obsolete method GetCell(int32_t row, int32_t column) of Cells.**
+### **Obsoletes GetCell(int32_t row, int32_t column) method in Cells.**
 
 Please use CheckCell(int32_t row, int32_t column) instead.
 
-### **Obsolete method GetRow(int32_t row) of Cells.**
+### **Obsoletes GetRow(int32_t row) method in Cells.**
 
 Please use CheckRow(int32_t row) instead.
 
-### **Obsoleted IsStrictSchema11/SetIsStrictSchema11 methods of OdsSaveOptions.**
+### **Obsoletes IsStrictSchema11/SetIsStrictSchema11 methods in OdsSaveOptions.**
 
 Use GetOdfStrictVersion/SetOdfStrictVersion instead. 
 
@@ -92,7 +92,7 @@ Represents the merge type for empty TD element when exporting file to html.
 
 The option to merge contiguous empty cells(empty td elements).
 
-### **Obsoleted GetMergeEmptyTdForcely/SetMergeEmptyTdForcely methods of HtmlSaveOptions.**
+### **Obsoletes GetMergeEmptyTdForcely/SetMergeEmptyTdForcely methods in HtmlSaveOptions.**
 
 Use GetMergeEmptyTdType/SetMergeEmptyTdType instead. 
 
