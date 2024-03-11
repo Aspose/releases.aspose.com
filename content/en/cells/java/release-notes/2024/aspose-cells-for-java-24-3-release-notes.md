@@ -68,10 +68,12 @@ Please use FilterColumn.IsDropdownVisible property instead.
 ### **Removes obsolete class ICustomFunction and related apis referencing to it.**
 
 Please use AbstractCalculationEngine and CalculationOptions.CustomEngine instead for:
-  CalculationOptions.CustomFunction
-  Workbook.CalculateFormula(bool, ICustomFunction)
-  Worksheet.CalculateFormula(bool, bool, ICustomFunction)
-  Cell.Calculate(bool, ICustomFunction)
+```
+CalculationOptions.CustomFunction
+Workbook.CalculateFormula(bool, ICustomFunction)
+Worksheet.CalculateFormula(bool, bool, ICustomFunction)
+Cell.Calculate(bool, ICustomFunction)
+```
 
 ### **Removes obsolete method Cells.getCell(int row, int column).**
 
@@ -91,18 +93,20 @@ Please use Axis.CrossType property instead.
 
 ### **Removes obsolete properties about formula for WorkbookSettings.**
 
-  ParsingFormulaOnOpen
-  PrecisionAsDisplayed
-  ReCalculateOnOpen
-  CreateCalcChain
-  ForceFullCalculate
-  Iteration
-  MaxIteration
-  MaxChange
-  CalcMode
-  CalculationId
-  CalcStackSize
-  RecalculateBeforeSave
+```
+ParsingFormulaOnOpen
+PrecisionAsDisplayed
+ReCalculateOnOpen
+CreateCalcChain
+ForceFullCalculate
+Iteration
+MaxIteration
+MaxChange
+CalcMode
+CalculationId
+CalcStackSize
+RecalculateBeforeSave
+```
 Please use corresponding properties of FormulaSettings instead.
 
 ### **Removes obsolete property DataLabels.Separator and corresponding enum DataLablesSeparatorType.**

@@ -119,10 +119,12 @@ Please use FilterColumn.IsDropdownVisible property instead.
 ### **Removes obsolete class ICustomFunction and related apis referencing to it.**
 
 Please use AbstractCalculationEngine and CalculationOptions.CustomEngine instead for:
-  CalculationOptions.CustomFunction
-  Workbook.CalculateFormula(bool, ICustomFunction)
-  Worksheet.CalculateFormula(bool, bool, ICustomFunction)
-  Cell.Calculate(bool, ICustomFunction)
+```
+CalculationOptions.CustomFunction
+Workbook.CalculateFormula(bool, ICustomFunction)
+Worksheet.CalculateFormula(bool, bool, ICustomFunction)
+Cell.Calculate(bool, ICustomFunction)
+```
 
 ### **Obsolete method Cells.GetCell(int row, int column).**
 
@@ -135,53 +137,61 @@ Please use Cells.CheckRow(int rowIndex) instead.
 ### **Removes obsolete methods of importing data for Cells.**
 
 Please use ImportData(IDataReader, int, int, ImportTableOptions) instead of below methods:
-  Import(IDataReader, int, int, ImportTableOptions)
-  ImportFromDataReader(SqlDataReader, int, int, bool)
-  ImportDataReader(SqlDataReader, int, int, bool)
-  ImportFromDataReader(SqlDataReader, bool, int, int, bool)
-  ImportDataReader(SqlDataReader, bool, int, int, bool)
-  ImportFromDataReader(SqlDataReader, bool, int, int, bool, string, bool)
-  ImportDataReader(SqlDataReader, bool, int, int, bool, string, bool)
-  ImportFromDataReader(OleDbDataReader, bool, int, int, bool, string, bool)
-  ImportDataReader(OleDbDataReader, bool, int, int, bool, string, bool)
-  ImportFromDataReader(OleDbDataReader, bool, int, int, bool)
-  ImportDataReader(OleDbDataReader, bool, int, int, bool)
-  ImportFromDataReader(OleDbDataReader, int, int, bool)
-  ImportDataReader(OleDbDataReader, int, int, bool)
-  ImportDataReader(IDataReader, bool, int, int, bool, string, bool)
+```
+Import(IDataReader, int, int, ImportTableOptions)
+ImportFromDataReader(SqlDataReader, int, int, bool)
+ImportDataReader(SqlDataReader, int, int, bool)
+ImportFromDataReader(SqlDataReader, bool, int, int, bool)
+ImportDataReader(SqlDataReader, bool, int, int, bool)
+ImportFromDataReader(SqlDataReader, bool, int, int, bool, string, bool)
+ImportDataReader(SqlDataReader, bool, int, int, bool, string, bool)
+ImportFromDataReader(OleDbDataReader, bool, int, int, bool, string, bool)
+ImportDataReader(OleDbDataReader, bool, int, int, bool, string, bool)
+ImportFromDataReader(OleDbDataReader, bool, int, int, bool)
+ImportDataReader(OleDbDataReader, bool, int, int, bool)
+ImportFromDataReader(OleDbDataReader, int, int, bool)
+ImportDataReader(OleDbDataReader, int, int, bool)
+ImportDataReader(IDataReader, bool, int, int, bool, string, bool)
+```
 
 Please use ImportData(DataTable, int, int, ImportTableOptions) instead of below methods:
-  ImportDataTable(DataTable, bool, string)
-  ImportDataTable(DataTable, bool, int, int, bool, bool)
-  ImportDataTable(DataTable, bool, int, int)
-  ImportDataTable(DataTable, bool, int, int, bool)
-  ImportDataTable(DataTable, bool, int, int, int, int)
-  ImportDataTable(DataTable, bool, int, int, int, int, bool, string)
-  ImportDataTable(DataTable, bool, int, int, int, int, bool, string, bool)
-  ImportDataTable(DataTable, bool, int, int, int, int, bool)
+```
+ImportDataTable(DataTable, bool, string)
+ImportDataTable(DataTable, bool, int, int, bool, bool)
+ImportDataTable(DataTable, bool, int, int)
+ImportDataTable(DataTable, bool, int, int, bool)
+ImportDataTable(DataTable, bool, int, int, int, int)
+ImportDataTable(DataTable, bool, int, int, int, int, bool, string)
+ImportDataTable(DataTable, bool, int, int, int, int, bool, string, bool)
+ImportDataTable(DataTable, bool, int, int, int, int, bool)
+```
 
 Please use ImportData(DataView, int, int, ImportTableOptions) instead of below methods(If IsFieldNameShown parameter has not been specified in the old methods, please specify it as false for ImportTableOptions for the new method):
-  ImportDataView(DataView, int, int, bool)
-  ImportDataView(DataView, int, int, int, int)
-  ImportDataView(DataView, bool, int, int, bool)
-  ImportDataView(DataView, int, int, int, int, bool)
-  ImportDataView(DataView, bool, int, int, int, int, bool)
-  ImportDataView(DataView, bool, int, int, int, int, bool, string)
+```
+ImportDataView(DataView, int, int, bool)
+ImportDataView(DataView, int, int, int, int)
+ImportDataView(DataView, bool, int, int, bool)
+ImportDataView(DataView, int, int, int, int, bool)
+ImportDataView(DataView, bool, int, int, int, int, bool)
+ImportDataView(DataView, bool, int, int, int, int, bool, string)
+```
 
 ### **Removes obsolete properties about formula for WorkbookSettings.**
 
-  ParsingFormulaOnOpen
-  PrecisionAsDisplayed
-  ReCalculateOnOpen
-  CreateCalcChain
-  ForceFullCalculate
-  Iteration
-  MaxIteration
-  MaxChange
-  CalcMode
-  CalculationId
-  CalcStackSize
-  RecalculateBeforeSave
+```
+ParsingFormulaOnOpen
+PrecisionAsDisplayed
+ReCalculateOnOpen
+CreateCalcChain
+ForceFullCalculate
+Iteration
+MaxIteration
+MaxChange
+CalcMode
+CalculationId
+CalcStackSize
+RecalculateBeforeSave
+```
 Please use corresponding properties of FormulaSettings instead.
 
 ### **Removes obsolete property DataLabels.Separator and corresponding enum DataLablesSeparatorType.**
