@@ -3,7 +3,7 @@ id: aspose-imaging-for-net-24-2-release-notes
 slug: aspose-imaging-for-net-24-2-release-notes
 linktitle: Aspose.Imaging for .NET 24.2 - Release notes
 title: Aspose.Imaging for .NET 24.2 - Release notes
-weight: 46
+weight: 50
 description: Aspose.Imaging for .NET 24.2 - Release notes the latest updates and fixes.
 type: repository
 layout: release
