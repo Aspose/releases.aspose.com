@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-imaging",
+  "id" : "24-3",
+  "packageFiles" : [ {
+    "size" : "7 MB",
+    "name" : "aspose-imaging-24.3-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "21 MB",
+    "name" : "aspose-imaging-24.3-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "733 bytes",
+    "name" : "aspose-imaging-24.3.pom"
+  } ],
+  "releasehDate" : "2024-03-11T14:42:11+00:00",
+  "version" : "24.3",
+  "ReleaseNotes" : "https://releases.aspose.com/imaging/java/release-notes/2024/aspose-imaging-for-java-24-3-release-notes/"
+}
