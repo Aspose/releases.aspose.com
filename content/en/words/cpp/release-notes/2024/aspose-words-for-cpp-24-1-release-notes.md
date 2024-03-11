@@ -31,12 +31,11 @@ Using CMake, library selection is fully automatic. You can see an example of thi
 
 ## Major Features
 
-There are 95 improvements and fixes in this regular monthly release. The most notable are:
+There are 93 improvements and fixes in this regular monthly release. The most notable are:
 
 - Introduced the capability to modify the text of the TextBox OLE control.
 - Included new public properties to manage stroke colors.
 - Implemented the Bibliography Sources public API.
-- Provided an API to limit access to type members using template syntax for the LINQ Reporting Engine.
 
 ## Full List of Issues Covering all Changes in this Release
 
@@ -46,98 +45,96 @@ There are 95 improvements and fixes in this regular monthly release. The most no
 1. Consider adding support for SVG 2 color syntax
 2. Consider providing a feature to remove DRM (digital rights management) from Kindle books
 3. Consider providing an ability to set values of OLE controls
-4. LINQ Reporting Engine - Provide forbidding using of members for a configurable set of types in template expressions
-5. LINQ Reporting Engine - Provide a way to restrict access to members of certain types within templates
-6. Text position is changed after conversion from DOC to PDF
-7. Incorrect number of lines returned from Paragraphs
-8. Implement Bibliography Sources public API
-9. Provide ChartLegend.Font property
-10. Consider adding an ability to specify custom formatting tags for basic formatting in Markdown
-11. Support standard page sizes of ISO/IEC 29500 SpreadsheetML when saving as XLSX
-12. Allow setting border color as ThemeColor
-13. Document.Print does not print ActiveX controls (radio button, checkboxes and combobox)
-14. RGBA color is not handled upon importing HTML
-15. DOCX merging issue
-16. Using ByHtmlTags didn't work
-17. HTML injected into SVG is not handled by Aspose.Words
-18. List item is improperly formatted after import from HTML
-19. Pdf2Word. System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values
-20. Incorrect height of the wrapping Math formula
-21. FileCorruptedException: 'The document appears to be corrupted and cannot be loaded.'
-22. Page numbering problem while merging DOCX
-23. Find out the issue with DOCX merging
-24. Merging issue upon append two documents
-25. DOCX to DOCX merging issue
-26. ODT to ODT merging issue
-27. stroke-dasharray is lost after inserting SVG using LINQ Reporting engine
-28. Two images are overlapped on the first page
-29. Page count is incorrect on .NET Standard
-30. DOCX to HTML: System.ArgumentException: The reference node is not a child of this node
-31. Issue with comparer function
-32. Moved text is marked as delete/insert revisions after comparing documents
-33. PDF document is detected as TXT. After fixing detector, some text is not read from PDF
-34. Pdf2Word. System.InvalidOperationException : Pdf corrupt. Rotate value must be a multiple of 90
-35. DOCX to PDF conversion issue with Hebrew text rendering
-36. Antialiasing is not used for text reflection effect rendering
-37. Text in shapes is truncated after rendering
-38. Line breaks are not correct in PDF
-39. Chinese text is moved to next page in output HtmlFixed
-40. Document.PageCount returns wrong value
-41. Incorrect result of LayoutCollector when used with Chinese text (font : SimSun)
-42. After render the out document differs from the original. (Japanese characters)
-43. Line in Table Cell partially visible in rendered document
-44. Incorrect line wrapping due to the enabled compressed punctuation option
-45. Document comparison shows unchanged revision
-46. Heading 3 paragraph is not applied to the paragraph after comparing documents
-47. Pdf2Word: missing graphics
-48. Incorrect metrics cause incorrect table cell width on conversion to PDF
-49. Bookmarks are lost after merging documents
-50. Scaling is incorrect upon rendering shape to EMF
-51. Loading RTF: FileCorruptedException
-52. The WrapIndent property of Math ML settings is not taken into account
-53. Custom XML part is not updated when nodes are inserted into mapped SDT if document is loaded from stream
-54. FitText incorrectly read from RTF document
-55. OutOfMemoryException is thrown upon getting revision group
-56. Images are lost after rendering document
-57. Shape position is changed after open/save document
-58. Ignore SmartTag comparison
-59. Provide version for MacOS M1
-60. Image color is inverted when RtfSaveOptions.SaveImagesAsWmf is set to true
-61. Part of the content is lost when converting RTF to HTML
-62. Table layout does not match DOCX after rendering.
-63. Incorrect wrapping of a Math formula if it contains multiple equal signs
-64. Equation wrapping is incorrect in multicolumn section after rendering
-65. Equation in table cell is wrapped improperly and is cut at the right
-66. MathML is wrapped improperly upon rendering
-67. UnauthorizedAccessException is thrown upon creating CertificateHolder from read-only protected file
-68. BadReadException occurs on extracting OLE object
-69. Comparing Chinese document does not give the same result as MS Word
-70. IndexOutOfRangeException occurs on conversion to PDF
-71. Footnote mark font is wrong when footnote mark has w:rtl attribute
-72. Images are scaled down even if HtmlSaveOptions.ScaleImageToShapeSize is set to false
-73. Multi-level list is not exported to HTML using HTML tags even if Export ListLabels.ByHtmlTags is specified
-74. FileCorruptedException is thrown upon loading EPUB document
-75. Add Stroke.ThemeColor
-76. DOCX to PDF: Formatting distorted
-77. Exception is thrown when exporting to HTML
-78. Add support for before pseudo-element bullets, when ExportListLabels.ByHtmlTags save option is used
-79. Strike-through formatting of list marker is applied also to list item text after conversion to HTML
-80. Math operators with nor setting are not used as Line Break in Math formula
-81. Document.Print does not render ActiveX (Forms.ComboBox)
-82. Incorrect comparing results for charts
-83. Footnote mark positions is incorrect after rendering RTL document
-84. Wrong result when save DOCX to PNG
-85. Explicitly set cell background color resets background from table style of previous cells in the row
-86. Unrecognized character is shown after rendering document with embedded fonts
-87. PDF export compliance: Inaccurate pdf version
-88. Chinese CHM is not loaded properly
-89. TOC formatting is lost when KeepSourceFormatting is used to append document
-90. Bullets are rendered in smaller size in HtmlFixed that in the original document
-91. Image size is differing by one pixel from the original in HTML
-92. Output document of PdfReaderPlugin differs from Document constructor
-93. Text is marked as move revisions upon comparing documents
-94. Implement Stroke.Fill.ForeTintAndShade method
-95. Image inside produced svg file darker than in original image on linux/macOS
+4. Text position is changed after conversion from DOC to PDF
+5. Incorrect number of lines returned from Paragraphs
+6. Implement Bibliography Sources public API
+7. Provide ChartLegend.Font property
+8. Consider adding an ability to specify custom formatting tags for basic formatting in Markdown
+9. Support standard page sizes of ISO/IEC 29500 SpreadsheetML when saving as XLSX
+10. Allow setting border color as ThemeColor
+11. Document.Print does not print ActiveX controls (radio button, checkboxes and combobox)
+12. RGBA color is not handled upon importing HTML
+13. DOCX merging issue
+14. Using ByHtmlTags didn't work
+15. HTML injected into SVG is not handled by Aspose.Words
+16. List item is improperly formatted after import from HTML
+17. Pdf2Word. System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values
+18. Incorrect height of the wrapping Math formula
+19. FileCorruptedException: 'The document appears to be corrupted and cannot be loaded.'
+20. Page numbering problem while merging DOCX
+21. Find out the issue with DOCX merging
+22. Merging issue upon append two documents
+23. DOCX to DOCX merging issue
+24. ODT to ODT merging issue
+25. stroke-dasharray is lost after inserting SVG using LINQ Reporting engine
+26. Two images are overlapped on the first page
+27. Page count is incorrect on .NET Standard
+28. DOCX to HTML: System.ArgumentException: The reference node is not a child of this node
+29. Issue with comparer function
+30. Moved text is marked as delete/insert revisions after comparing documents
+31. PDF document is detected as TXT. After fixing detector, some text is not read from PDF
+32. Pdf2Word. System.InvalidOperationException : Pdf corrupt. Rotate value must be a multiple of 90
+33. DOCX to PDF conversion issue with Hebrew text rendering
+34. Antialiasing is not used for text reflection effect rendering
+35. Text in shapes is truncated after rendering
+36. Line breaks are not correct in PDF
+37. Chinese text is moved to next page in output HtmlFixed
+38. Document.PageCount returns wrong value
+39. Incorrect result of LayoutCollector when used with Chinese text (font : SimSun)
+40. After render the out document differs from the original. (Japanese characters)
+41. Line in Table Cell partially visible in rendered document
+42. Incorrect line wrapping due to the enabled compressed punctuation option
+43. Document comparison shows unchanged revision
+44. Heading 3 paragraph is not applied to the paragraph after comparing documents
+45. Pdf2Word: missing graphics
+46. Incorrect metrics cause incorrect table cell width on conversion to PDF
+47. Bookmarks are lost after merging documents
+48. Scaling is incorrect upon rendering shape to EMF
+49. Loading RTF: FileCorruptedException
+50. The WrapIndent property of Math ML settings is not taken into account
+51. Custom XML part is not updated when nodes are inserted into mapped SDT if document is loaded from stream
+52. FitText incorrectly read from RTF document
+53. OutOfMemoryException is thrown upon getting revision group
+54. Images are lost after rendering document
+55. Shape position is changed after open/save document
+56. Ignore SmartTag comparison
+57. Provide version for MacOS M1
+58. Image color is inverted when RtfSaveOptions.SaveImagesAsWmf is set to true
+59. Part of the content is lost when converting RTF to HTML
+60. Table layout does not match DOCX after rendering.
+61. Incorrect wrapping of a Math formula if it contains multiple equal signs
+62. Equation wrapping is incorrect in multicolumn section after rendering
+63. Equation in table cell is wrapped improperly and is cut at the right
+64. MathML is wrapped improperly upon rendering
+65. UnauthorizedAccessException is thrown upon creating CertificateHolder from read-only protected file
+66. BadReadException occurs on extracting OLE object
+67. Comparing Chinese document does not give the same result as MS Word
+68. IndexOutOfRangeException occurs on conversion to PDF
+69. Footnote mark font is wrong when footnote mark has w:rtl attribute
+70. Images are scaled down even if HtmlSaveOptions.ScaleImageToShapeSize is set to false
+71. Multi-level list is not exported to HTML using HTML tags even if Export ListLabels.ByHtmlTags is specified
+72. FileCorruptedException is thrown upon loading EPUB document
+73. Add Stroke.ThemeColor
+74. DOCX to PDF: Formatting distorted
+75. Exception is thrown when exporting to HTML
+76. Add support for before pseudo-element bullets, when ExportListLabels.ByHtmlTags save option is used
+77. Strike-through formatting of list marker is applied also to list item text after conversion to HTML
+78. Math operators with nor setting are not used as Line Break in Math formula
+79. Document.Print does not render ActiveX (Forms.ComboBox)
+80. Incorrect comparing results for charts
+81. Footnote mark positions is incorrect after rendering RTL document
+82. Wrong result when save DOCX to PNG
+83. Explicitly set cell background color resets background from table style of previous cells in the row
+84. Unrecognized character is shown after rendering document with embedded fonts
+85. PDF export compliance: Inaccurate pdf version
+86. Chinese CHM is not loaded properly
+87. TOC formatting is lost when KeepSourceFormatting is used to append document
+88. Bullets are rendered in smaller size in HtmlFixed that in the original document
+89. Image size is differing by one pixel from the original in HTML
+90. Output document of PdfReaderPlugin differs from Document constructor
+91. Text is marked as move revisions upon comparing documents
+92. Implement Stroke.Fill.ForeTintAndShade method
+93. Image inside produced svg file darker than in original image on linux/macOS
 
 </details>
 {{% /alert %}}
