@@ -3,7 +3,7 @@ id: aspose-imaging-for-java-24-2-release-notes
 slug: aspose-imaging-for-java-24-2-release-notes
 linktitle: Aspose.Imaging for JAVA 24.2 - Release notes
 title: Aspose.Imaging for JAVA 24.2 - Release notes
-weight: 50
+weight: 46
 description: Aspose.Imaging for JAVA 24.2 - Release notes the latest updates and fixes.
 type: repository
 layout: release
