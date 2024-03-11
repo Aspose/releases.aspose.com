@@ -14,7 +14,7 @@ menuItemWithNoContent: false
 ---
 
 ## Competitive features:
-
+Updated base classes and options descriptions with user-friendly texts
 
 | **Key**         | **Summary**                                                                                                                                                              | **Category** |
 |-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
