@@ -21,14 +21,13 @@ This page contains release notes for [Aspose.Words for C++ 24.2](https://www.nug
 
 ## Major Features
 
-There are 81 improvements and fixes in this regular monthly release. The most notable are:
+There are 79 improvements and fixes in this regular monthly release. The most notable are:
 
 - Introduced new public properties for enhanced style management.
 - Added the capability to specify SvgSaveOptions during rendering using ShapeRenderer.Save() and OfficeMathRenderer.Save() methods.
 - Enhanced functionality to retrieve the actual text of reference marks for footnotes and endnotes.
 - Continued extending the DrawingML Chart API capabilities.
 - Added an ability to preserve empty lines while loading Markdown files.
-- Enabled compatibility with Word 2016 charts for LINQ Reporting Engine.
 
 ## Full List of Issues Covering all Changes in this Release
 
@@ -39,83 +38,81 @@ There are 81 improvements and fixes in this regular monthly release. The most no
 2. Preserving Document Structure Post Content Control Removal
 3. Provide an ability to get/set styles priority
 4. Provide an ability to show/hide styles
-5. Support working with treemap and sunburst charts for LINQ Reporting Engine
-6. Allow passing SvgSaveOptions into ShapeRenderer.Save and OfficeMathRenderer.Save methods
-7. Font Control in Bar Chart
-8. StructuredDocumentTagRangeStart class Appearance property
-9. Errors with dates of 1900 year in charts
-10. Without explicitly specifying 'LoadFormat.Markdown', Aspose.Words cannot determine the MD format in the user's MD file
-11. Text is lost after converting RTF to HTML
-12. Aspose.Words produces a invalid DOCX document
-13. Remove implicit call of Document.UpdateActualReferenceMarks from Footnote.ActualReferenceMark
-14. Equations are cut off when saving to PDF
-15. Table formatting is broken after open/save DOCX file
-16. Importing SVG file into document results with shifted head arrow
-17. Formatting missing for the custom bullet point(s)
-18. Make refactoring of MOBI/AZW3 import/export
-19. Href and target attributes of hyperlink is changed after inserting to document and saving to HTML
-20. FieldHyperlink.ScreenTip returns truncated value
-21. ArgumentException is thrown upon comparing document
-22. Vertical position of text in cell is wrong
-23. Table layout is changed after rendering
-24. Chinese text is improperly distributed after rendering
-25. FileCorruptedException is thrown upon loading DOC document
-26. Formatting of the document is broken after PDF to DOCX conversion
-27. DOCX to MD: Text after image is not indented
-28. Line break is added at the end of block level SDT
-29. System.Drawing.Image throws exceptions after using it in ImageData.SetImage
-30. Aspose.Words.FileCorruptedException is thrown while importing DOC
-31. FileCorruptedException while loading DOC
-32. FileCorruptedException is thrown upon loading DOC document
-33. Plain SDT is incorrectly inserted during comparison
-34. DOCX Content not Displayed on the Same Page in HTML FIXED Format
-35. DOCX to HtmlFixed conversion issue with shape (image) position
-36. Some content pushed to previous page in HTML_FIXED
-37. A line pushed to next page in PDF
-38. Line break not respected in PDF
-39. Content is pushed to the beginning of next line in PDF
-40. Comments content is marked as a revision after comparing document
-41. Stamp misplaced in Html Fixed
-42. Overlapped content and reduced number of pages when saving to PDF
-43. NullReferenceException is thrown when using ToString method on a cell with nested table and PreserveTableLayout option
-44. Content of first page spans across two pages during ODT to DOCX conversion
-45. Heading style formatting is lost after open/save document
-46. Spacing before semicolon is less then expected
-47. DOCX to MD: Multi-line remarks issue
-48. DOCX to MD: Examples block not converted correctly
-49. DOCX to MD: Indentations not working correctly
-50. ArgumentOutOfRangeException is thrown upon updating page layout in Linux
-51. Hidden content becomes visible in output PDF
-52. The combination of a comma and nine spaces is used as line break in MathFormula
-53. Page number is incorrect after rendering document
-54. Add resilience by ignoring Spaces at start/end of each Row during Markdown Table import
-55. Proxy error(ArgumentOutOfRangeException) occurs upon converting OfficeMath to html string in linux
-56. Table formatting is broken after open/save DOC file
-57. Characters overlap in Chinese text
-58. Links don't work in AZW3/MOBI documents generated with HtmlVersion.Html5
-59. LINQ Reporting Engine - Unexpected image resizing while inserting HTML
-60. Position of page numbers in TOC is shifted after rendering
-61. Images are scaled down even if HtmlSaveOptions.ScaleImageToShapeSize is set to false
-62. The "Slash" should be used as LineBreak in Math formula
-63. Empty lines are lost after importing MD document
-64. Text misaligned in uppercase roman styled list when is aligned to Left
-65. Number of Pages reduced during rendering DOCX to PDF
-66. Content moves to next pages in PDF
-67. Extra whitespaces are added to merge field value after formatting number
-68. Forward text is not inserted after executing mail merge
-69. DOCX to HTML: Single page converted to multiple pages
-70. Memory leak upon creating document.
-71. Table Border Lost for Inline Component
-72. Nested content controls CXP is not updating
-73. DOCX to PDF: Chinese characters not rendered correctly
-74. JPEG image is loaded as TXT document by Aspose.Words
-75. DOCX to PDF conversion issue with row height
-76. Number format is incorrect when "fr-BE" culture is used.
-77. DOC to PCL: Saving using MemoryStream incorrectly rendered
-78. System.InvalidCastException occurs during comparing Word documents
-79. Consider adding an option to preserve empty paragraphs upon exporting to MD
-80. Formatting of document is incorrect after PDF to DOCX conversion
-81. Pdf2Word.PdfImageBuilder throws IndexOutOfRangeException
+5. Allow passing SvgSaveOptions into ShapeRenderer.Save and OfficeMathRenderer.Save methods
+6. Font Control in Bar Chart
+7. StructuredDocumentTagRangeStart class Appearance property
+8. Errors with dates of 1900 year in charts
+9. Without explicitly specifying 'LoadFormat.Markdown', Aspose.Words cannot determine the MD format in the user's MD file
+10. Text is lost after converting RTF to HTML
+11. Aspose.Words produces a invalid DOCX document
+12. Remove implicit call of Document.UpdateActualReferenceMarks from Footnote.ActualReferenceMark
+13. Equations are cut off when saving to PDF
+14. Table formatting is broken after open/save DOCX file
+15. Importing SVG file into document results with shifted head arrow
+16. Formatting missing for the custom bullet point(s)
+17. Make refactoring of MOBI/AZW3 import/export
+18. Href and target attributes of hyperlink is changed after inserting to document and saving to HTML
+19. FieldHyperlink.ScreenTip returns truncated value
+20. ArgumentException is thrown upon comparing document
+21. Vertical position of text in cell is wrong
+22. Table layout is changed after rendering
+23. Chinese text is improperly distributed after rendering
+24. FileCorruptedException is thrown upon loading DOC document
+25. Formatting of the document is broken after PDF to DOCX conversion
+26. DOCX to MD: Text after image is not indented
+27. Line break is added at the end of block level SDT
+28. System.Drawing.Image throws exceptions after using it in ImageData.SetImage
+29. Aspose.Words.FileCorruptedException is thrown while importing DOC
+30. FileCorruptedException while loading DOC
+31. FileCorruptedException is thrown upon loading DOC document
+32. Plain SDT is incorrectly inserted during comparison
+33. DOCX Content not Displayed on the Same Page in HTML FIXED Format
+34. DOCX to HtmlFixed conversion issue with shape (image) position
+35. Some content pushed to previous page in HTML_FIXED
+36. A line pushed to next page in PDF
+37. Line break not respected in PDF
+38. Content is pushed to the beginning of next line in PDF
+39. Comments content is marked as a revision after comparing document
+40. Stamp misplaced in Html Fixed
+41. Overlapped content and reduced number of pages when saving to PDF
+42. NullReferenceException is thrown when using ToString method on a cell with nested table and PreserveTableLayout option
+43. Content of first page spans across two pages during ODT to DOCX conversion
+44. Heading style formatting is lost after open/save document
+45. Spacing before semicolon is less then expected
+46. DOCX to MD: Multi-line remarks issue
+47. DOCX to MD: Examples block not converted correctly
+48. DOCX to MD: Indentations not working correctly
+49. ArgumentOutOfRangeException is thrown upon updating page layout in Linux
+50. Hidden content becomes visible in output PDF
+51. The combination of a comma and nine spaces is used as line break in MathFormula
+52. Page number is incorrect after rendering document
+53. Add resilience by ignoring Spaces at start/end of each Row during Markdown Table import
+54. Proxy error(ArgumentOutOfRangeException) occurs upon converting OfficeMath to html string in linux
+55. Table formatting is broken after open/save DOC file
+56. Characters overlap in Chinese text
+57. Links don't work in AZW3/MOBI documents generated with HtmlVersion.Html5
+58. Position of page numbers in TOC is shifted after rendering
+59. Images are scaled down even if HtmlSaveOptions.ScaleImageToShapeSize is set to false
+60. The "Slash" should be used as LineBreak in Math formula
+61. Empty lines are lost after importing MD document
+62. Text misaligned in uppercase roman styled list when is aligned to Left
+63. Number of Pages reduced during rendering DOCX to PDF
+64. Content moves to next pages in PDF
+65. Extra whitespaces are added to merge field value after formatting number
+66. Forward text is not inserted after executing mail merge
+67. DOCX to HTML: Single page converted to multiple pages
+68. Memory leak upon creating document.
+69. Table Border Lost for Inline Component
+70. Nested content controls CXP is not updating
+71. DOCX to PDF: Chinese characters not rendered correctly
+72. JPEG image is loaded as TXT document by Aspose.Words
+73. DOCX to PDF conversion issue with row height
+74. Number format is incorrect when "fr-BE" culture is used.
+75. DOC to PCL: Saving using MemoryStream incorrectly rendered
+76. System.InvalidCastException occurs during comparing Word documents
+77. Consider adding an option to preserve empty paragraphs upon exporting to MD
+78. Formatting of document is incorrect after PDF to DOCX conversion
+79. Pdf2Word.PdfImageBuilder throws IndexOutOfRangeException
 
 </details>
 {{% /alert %}}
