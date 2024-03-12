@@ -15,11 +15,11 @@ menuItemWithNoContent: false
 
 ## Aspose.TeX 24.3 for Java has been released!
 
-eTeX's page building optimization has been implemented.
+*eTeX*'s page building optimization has been implemented.
 
 | Key | Summary | Category |
 |---|---|---|
-| TEXNET-319 | Implement eTeX's page building optimization | Enhancement |
+| TEXNET-319 | Implement *eTeX*'s page building optimization | Enhancement |
 
 ## Public API
 ### Added APIs
