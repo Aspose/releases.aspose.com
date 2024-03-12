@@ -3,6 +3,18 @@
   "artifactId" : "aspose-cells",
   "id" : "24-3",
   "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-cells-24.3-android.via.java-javadoc.jar",
+    "classifier" : "android.via.java-javadoc"
+  }, {
+    "size" : "1 MB",
+    "name" : "aspose-cells-24.3-android.via.java-resources.jar",
+    "classifier" : "android.via.java-resources"
+  }, {
+    "size" : "7 MB",
+    "name" : "aspose-cells-24.3-android.via.java.jar",
+    "classifier" : "android.via.java"
+  }, {
     "size" : "7 MB",
     "name" : "aspose-cells-24.3-gridweb-jakarta.jar",
     "classifier" : "gridweb-jakarta"
@@ -29,7 +41,7 @@
     "size" : "388 bytes",
     "name" : "aspose-cells-24.3.pom"
   } ],
-  "releasehDate" : "2024-03-11T10:58:38+00:00",
+  "releasehDate" : "2024-03-12T09:11:14+00:00",
   "version" : "24.3",
   "ReleaseNotes" : "https://releases.aspose.com/cells/java/release-notes/2024/aspose-cells-for-java-24-3-release-notes/"
 }
