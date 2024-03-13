@@ -4,7 +4,7 @@ title: "Downloads ---New Releases-aspose.email-for-python-via-.net-24.3.0-window
 description: " "
 keywords: ""
 page_type: single_release_page
-folder_link: "/email/net/new-releases/aspose.email-for-python-via-.net-24.3.0-windows-x64/"
+folder_link: "/email/pythonnet/new-releases/aspose.email-for-python-via-.net-24.3.0-windows-x64/"
 folder_name: "Aspose.Email for Python via .NET 24.3.0 Windows x64"
 download_link: "/email/net/new-releases/aspose.email-for-python-via-.net-24.3.0-windows-x64/39c8f8c5f253b95694a63e8787353d09-11-10491"
 download_text: "Download"
@@ -12,8 +12,8 @@ intro_text: "It contains Aspose.Email for Python via .NET 24.3.0, Windows x64 re
 image_link: "/resources/img/random-file-icon.png"
 download_count: " 12/3/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 50.27MB"
-parent_path: "email/net"
-section_parent_path: "email/net"
+parent_path: "email/pythonnet"
+section_parent_path: "email/pythonnet"
 
 tags: ""
 release_notes_url: "https://releases.aspose.com/email/pythonnet/release-notes/2024/aspose-email-for-python-via-net-24-3-release-notes/"
