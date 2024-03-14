@@ -19,9 +19,6 @@ This page contains release notes for [ Aspose.Slides for .NET 24.3](https://www.
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
 |SLIDESNET-44173|PPTX to PDF/A in FIPS Compliant Environment: Windows Platform FIPS Cryptographic Validation Error|Investigation|<https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/>
-|SLIDESNET-44172|Creating a combination Chart (Custered Column + Line)|Investigation|
-|SLIDESNET-44131|Hyperlink mixup between URL and displayed text |Investigation|<https://docs.aspose.com/slides/net/manage-hyperlinks/>
-|SLIDESNET-42943|Inconsistent dimensions of WMF image reported by various interfaces|Investigation|<https://docs.aspose.com/slides/net/picture-frame/ Tags: category:Metafiles - EMF&EMF+, 2024/08>
 |SLIDESNET-44447|Hyperlinks in the exported PDF are shifted to the right|Enhancement|<https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/>
 |SLIDESNET-44448|Saving the presentation to a PPT hangs|Bug|<https://docs.aspose.com/slides/net/save-presentation/>
 |SLIDESNET-44444|Shape is cropped when saving it as an SVG image|Bug|<https://docs.aspose.com/slides/net/render-a-slide-as-an-svg-image/>
@@ -30,7 +27,6 @@ This page contains release notes for [ Aspose.Slides for .NET 24.3](https://www.
 |SLIDESNET-44434|Some text is not displayed in the output SVG image|Bug|<https://docs.aspose.com/slides/net/render-a-slide-as-an-svg-image/>
 |SLIDESNET-44428|FontsManager.GetSubstitutions method throws KeyNotFoundException|Bug|<https://docs.aspose.com/slides/net/font-substitution/>
 |SLIDESNET-44426|wk: Exception when getting thumbnail from the shape|Bug|<https://docs.aspose.com/slides/net/create-shape-thumbnails/>
-|SLIDESNET-44419|wk: getBullet().getHeight returns negative values|Bug|<https://docs.aspose.com/slides/net/manage-bullet-and-numbered-lists/>
 |SLIDESNET-44417|Function NUMBERVALUE is not supported|Bug|
 |SLIDESNET-44416|Header/Footer text is out of bounds when exporting PPTX to PDF|Bug|<https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/>
 |SLIDESNET-44411|Name of the embedded Excel sheet is changed in exported PDF|Bug|<https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/>
@@ -39,7 +35,6 @@ This page contains release notes for [ Aspose.Slides for .NET 24.3](https://www.
 |SLIDESNET-44402|Regression: PPTX to PDF: Chart renders out of bounds|Bug|<https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/>
 |SLIDESNET-44398|FontsLoader static class does not release custom fonts after ClearCache method call|Bug|<https://docs.aspose.com/slides/net/custom-font/#load-custom-fonts>
 |SLIDESNET-44378|Failed to read password protected PPTX file|Bug|<https://docs.aspose.com/slides/net/password-protected-presentation/>
-|SLIDESNET-44377|The paragraph width is smaller than expected on Ubuntu|Bug|<https://docs.aspose.com/slides/net/paragraph/#get-paragraph-and-portion-coordinates-in-textframe>
 |SLIDESNET-44363|NullReferenceException occurs when loading the PPT file|Bug|<https://docs.aspose.com/slides/net/open-presentation/>
 |SLIDESNET-44356|File name of OLE object is displayed incorrectly in exported PDF document|Bug|<https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/>
 |SLIDESNET-44330|Text in PDF is getting very small when converting from PPTX graphics|Bug|<https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/>
@@ -47,7 +42,6 @@ This page contains release notes for [ Aspose.Slides for .NET 24.3](https://www.
 |SLIDESNET-44324|Text and shadow are displayed incorrectly when converting slides to images|Bug|<https://docs.aspose.com/slides/net/convert-powerpoint-to-png/>
 |SLIDESNET-43674|The IHyperlink.ExternalUrl property shows the wrong value|Bug|<https://reference.aspose.com/slides/net/aspose.slides/ihyperlink/externalurl/>
 |SLIDESNET-43089|Icon titles of embedded documents are distorted when converting PPTX to PDF|Bug|<https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/>
-|SLIDESNET-42933|Exporting vector images from presentations throws ArgumentNullException|Bug|<https://docs.aspose.com/slides/net/picture-frame/>
 
 ## Public API Changes ##
 
