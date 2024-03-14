@@ -3,7 +3,7 @@ id: "aspose-tex-for-python-net-24-2-release-notes"
 slug: "aspose-tex-for-python-net-24-2-release-notes"
 linktitle: "Aspose.TeX for Python via .NET 24.2 Release Notes"
 title: "Aspose.TeX for Python via .NET 24.2 Release Notes"
-weight: 90
+weight: 20
 description: "Python API Solution for developers to manipulate and process TeX and LaTeX files. Release Notes of Aspose.TeX API solution for Python | Release 2024.02"
 type: "repository"
 layout: "release"
