@@ -17,7 +17,6 @@ menuItemWithNoContent: false
 
 *eTeX*'s page building optimization has been implemented.
 
-
 | Key | Summary | Category |
 |---|---|---|
 | TEXNET-319 | Implement *eTeX*'s page building optimization | Enhancement |
