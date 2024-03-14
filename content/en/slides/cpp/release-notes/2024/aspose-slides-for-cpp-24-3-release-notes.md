@@ -38,7 +38,7 @@ PowerPoint behaves specifically for links and their corresponding text in a port
 
 How the original link is lost:
 
-![How the original link is lost:](hyperlinks1.png)
+![How the original link is lost:](../hyperlinks1.png)
 
 Example:
 
