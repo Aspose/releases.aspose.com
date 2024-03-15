@@ -1,7 +1,7 @@
 ---
 
-title: "Control PDF Layout, WebP Support in Aspose.Words C++ 23.12"
-description: "Download Aspose.Words for C++ 23.12 and add PDF layout control, ZIP64 handling, WebP image support & more to your Word document manipulation apps."
+title: "Control Page Layout, WebP Support in Aspose.Words C++ 23.12"
+description: "Download Aspose.Words for C++ 23.12 and add page layout control, ZIP64 handling, WebP image support & more to your Word document manipulation apps."
 keywords: ""
 page_type: single_release_page
 folder_link: "/words/cpp/new-releases/aspose.words-for-c++-23.12/"
@@ -50,12 +50,12 @@ weight: 224
 {{< Common/wrapper class="HTMLDescription">}}
 {{% Releases/ReleasesFileFeatures %}}
 
-### Control PDF Page Layout
+### Control Page Layout
 
 - A new public property `PageLayout` is added to the [`PdfSaveOptions`](https://reference.aspose.com/words/cpp/aspose.words.saving/pdfsaveoptions/) class in this release of the Aspose.Words for C++ API.
 - `PdfPageLayout` is the new pulic enumeration introduced in this release.
 
-Using this property, you can specify the initial page layout to be used when a PDF document is opened in a PDF reader.
+Using this property, you can specify the initial page layout to be used when a document is opened in a PDF reader.
 
 *[Source\*](https://releases.aspose.com/words/cpp/release-notes/2023/aspose-words-for-cpp-23-12-release-notes/)*
 
