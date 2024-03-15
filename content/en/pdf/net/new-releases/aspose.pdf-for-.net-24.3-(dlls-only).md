@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-.net-24.3-(dlls-only)"
-description: " "
+title: "Convert PDFs, Tables, Text: C# PDF API 24.3 (Download DLLs)"
+description: "Supercharge PDF processing in your C# .NET apps with enhanced PDF conversion, text handling, and PDF/A support. Download C# PDF API 24.3 DLLs now."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/net/new-releases/aspose.pdf-for-.net-24.3-(dlls-only)/"
@@ -45,6 +45,46 @@ weight: 871
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.PDF for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.PDF without the MSI installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Empower your app development workflows in .NET to deliver essential components for streamlined PDF processing. Aspose.PDF for .NET API offers lightweight and efficient solutions for developers to implement a wealth of new features and enhancements and empower C# solutions.
+
+### Enhanced PDF/A Compliance
+
+A refined new PDF/A converter plugin simplifies PDF conversion, ensuring your documents adhere to archiving standards.
+
+### Effortless Table Extraction
+
+Convert PDF tables to Markdown format easily with the new table to Markdown converter functionality in this release of Aspose.PDF for .NET API.
+
+### Asynchronous PDF Saving 
+
+Save time and effort with asynchronous PDF document saving, allowing your C# applications to remain responsive while processing large files.
+
+### Performance Optimizations
+
+Significant performance improvements have been introduced in this release for JPEG rasterization and image extraction, streamlining your PDF processing tasks.
+
+### Advanced Text Handling 
+
+Optimized word wrapping in TextStamp objects and the ability to replace multiple phrases within a document offers better text manipulation experience.
+
+### Bug Fixes and Enhancements
+
+Numerous bug fixes address reported issues, including conversion errors, memory leaks, and image rendering problems, for a more robust .NET PDF processing experience.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for .NET 24.3 Release Notes](https://releases.aspose.com/pdf/net/release-notes/2024/aspose-pdf-for-net-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

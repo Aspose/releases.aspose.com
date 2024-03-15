@@ -1,6 +1,6 @@
 ---
-title: "Merge Documents, Custom PDF Layouts & WebP Images in C#"
-description: "Download C# .NET Word API to specify custom PDF page layouts, leverage efficient WebP image support, and merge documents into a single file on Windows."
+title: "Merge Documents, Custom Page Layouts & WebP Images in C#"
+description: "Download C# .NET Word API to specify custom page layouts, leverage efficient WebP image support, and merge documents into a single file on Windows."
 keywords: ""
 page_type: single_release_page
 folder_link: "/words/net/new-releases/aspose.words-for-.net-23.12/"
@@ -49,13 +49,13 @@ weight: 738
 {{< Common/wrapper class="HTMLDescription">}}
 {{% Releases/ReleasesFileFeatures %}}
 
-### Custom PDF Page Layout Specification in PDF Readers
+### Custom Page Layout Specification in PDF Readers
 
 In this release of the C# MS Word API, new public `PageLayout` property is added to the `PdfSaveOptions` class. New public `PdfPageLayout` enumeration has also been introduced.
 
 By integrating this feature into the .NET apps, C# developers can define the initial page layout for documents opened in PDF readers.
 
-Please check the following C# coding sample to learn how to customize PDF layout in readers using the C# API: 
+Please check the following C# coding sample to learn how to customize layout in readers using the C# API: 
 
 ```C# 
 // For complete examples and data files, please go to https://github.com/aspose-words/Aspose.Words-for-.NET.git.
