@@ -1,7 +1,7 @@
 ---
-title: Aspose.OCR | Image Character Recognition Java Class Library
+title: Optical Character Recognition for Java | Aspose.OCR API
 linktitle: "Aspose.OCR for Java"
-description: Java class library to perform optical character recognition (OCR) on JPEG, PNG, GIF, BMP & TIFF images. Extract English, French, Spanish & Portuguese via OCR.
+description: Add optical character recognition (OCR) capabilities to your cross-platform applications with a few lines of Java code.
 layout: packages
 type: repository
 categories:
@@ -45,7 +45,7 @@ keywords:
 - text detection
 weight: 02	#rem
 family_listing_page_title: "Aspose.OCR for Java"
-family_listing_page_description: "Aspose.OCR for Java is an optical character API that allows developers to add OCR functionality to their Java applications without requiring any additional tool or API. Aspose.OCR for Java allows extracting text from images having different fonts and styles - saving the time and effort involved in developing an OCR solution from scratch."
+family_listing_page_description: "Add optical character recognition (OCR) capabilities to your cross-platform applications with a few lines of Java code."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/ocr/272x272/aspose_ocr-for-java-min.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -125,67 +125,61 @@ packages_refs:
 
 [Product Page](https://products.aspose.com/ocr/java) | [Docs](https://docs.aspose.com/ocr/java/) | [Demos](https://products.aspose.app/ocr/family) | [API Reference](https://apireference.aspose.com/ocr/java) | [Examples](https://github.com/aspose-ocr/Aspose.OCR-for-Java) | [Blog](https://blog.aspose.com/category/ocr/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/ocr) | [Temporary License](https://purchase.aspose.com/temporary-license)
 
-[Aspose.OCR for Java](https://products.aspose.com/ocr/java) is a character and optical mark recognition API that allows developers to add OCR functionality in their applications. It provides a simple set of classes for controlling character recognition.
+Aspose.OCR for Java offers a developer-friendly API for optical character recognition that can work an any platform that supports Java. With just a few lines of code, you can integrate OCR features into your desktop solutions and services that can work an any device. Extract text from scans, photos, and screenshots, convert scanned pages into searchable, indexable PDFs, and perform text search and comparison on images.
 
-## Convert Image to Text via Java
+## Features and benefits
 
-- Read characters from images.
-- Support for JPG, PNG, GIF, BMP and TIFF image file formats for OCR.
-- Support for English, French, Spanish and Portuguese.
-- Read popular fonts including Arial, Times New Roman, Courier New, Verdana, Tahoma and Calibri.
-- Support for regular, bold and italic font styles.
-- Scan the whole image or any part of the image.
-- Scan rotated images.
-- Can apply different noise removal filters before image recognition.
-- Extract optical marked elements from Scanned images.
-- Support for various optical marked elements such as Check Box, Choice Box, Grid, Barcode & OCR.
+- **Global applications** - supporting over 130 languages, the library allows you to recognize texts in Latin, Cyrillic and Asian scrips.
+- **Read everything** - retrieve text from any file obtained through a scanner or camera, and process images directly from web links.
+- **Reliable results** - achieve the highest recognition accuracy for all images, including those that are out-of-focus, rotated, distorted, and noisy.
+- **Batch processing** - bulk-recognize all images from folders and archives; read multi-page PDF documents, TIFF images and DjVu files.
+- **Layout detection** - identify and categorize content blocks in images to ensure the correct order of extracted text, regardless of layout.
+- **Suitable for any content** - image preprocessing and customizable document structure detection enable text extraction from virtually any image, ranging from high-quality scans to street photos.
+- **Optimized** - the library balances recognition speed, quality, and resource utilization for each specific use case.
+- **Easy to use** - you only need a few lines of code to convert image to text, create a searchable PDF, save recognition results to document, and many more.
+- **Modular** - keep your application lean and modular by selectively adding advanced features from our [resource repository](https://github.com/aspose-ocr/resources).
 
-## Supported Characters
+### Supported file formats
 
-|   |   |   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|---|
-| space | ! | " | # | $ | % | & | ' | ( | ) |
-| * | + | , | - | . | / | 0 | 1 | 2 | 3 |
-| 4 | 5 | 6 | 7 | 8 | 9 | : | ; | < | = |
-| > | ? | @ | [ | \ | ] | _ | ` | { | \| |
-| } | ~ | A | B | C | D | E | F | G | H |
-| I | J | K | L | M | N | O | P | Q | R |
-| S | T | U | V | W | X | Y | Z | a | b |
-| c | d | e | f | g | h | i | j | k | l |
-| m | n | o | p | q | r | s | t | u | v |
-| w | x | y | z | Â | À | Á | Ã | Ä | Æ |
-| Ç | È | É | Ê | Ë | Ì | Í | Î | Ï | Ñ |
-| Ò | Ó | Ô | Õ | Ö | Ù | Ú | Û | Ü | ẞ |
-| ß | à | á | â | ã | ä | æ | ç | è | é |
-| ê | ë | ì | í | î | ï | ñ | ò | ó | ô |
-| õ | ö | ù | ú | û | ü | ÿ | Œ | œ | Ÿ |
-## Load Images for OCR
+- **.PDF** - Portable Document Format
+- **.JPG** - JPEG, the most popular format for smartphone photos
+- **.PNG** - Portable Network Graphics, 24-bit with transparency
+- **.TIFF** - Tag Image File Format, commonly used for high quality scanning
+- **.GIF** - Graphics Interchange Format, limited to 256 colors
+- **.BMP** - Bitmap image file
+- **.WBMP** - Monochrome graphics file optimized for mobile devices
 
-**Raster Formats:** JPEG, PNG, GIF, BMP, TIFF
+Multi-page PDF documents and TIFF images are fully supported.
 
-## Supported Environments
+## Supported platforms
 
-- **Microsoft Windows:** Windows Desktop & Server (x86, x64)
-- **macOS:** Mac OS X
-- **Linux:** Ubuntu, OpenSUSE, CentOS, and others
-- **Java Versions:** `J2SE 6.0 (1.6)` or above
+- **Microsoft Windows:** Windows Desktop & Server (both x86 and x64)
+- **macOS**
+- **Linux:** Ubuntu, OpenSUSE, CentOS, and other Linux distributives
+
+The system must support Java 2 Platform, Standard Edition (J2SE) 6.0 (1.6) or later.
 
 ## Get Started
 
-Aspose.OCR Java APIs are hosted at the [Aspose Repository](https://releases.aspose.com/ocr/java/). You can easily use Aspose.OCR for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.OCR for Java from Maven Repository](https://docs.aspose.com/ocr/java/installation/) documentation page.
+Aspose.OCR for Java API is hosted on the Maven repository or can be installed from the local package. For the detailed instructions, visit [Installation](https://docs.aspose.com/ocr/java/installation/) article in online documentation.
 
-## Extract Text from Specific Areas on Image
+## Convert image to text
 
 ```java
-// create API instance
+// Initialize Aspose.OCR recognition API
 AsposeOCR api = new AsposeOCR();
-// prepare rectangles with texts.
-ArrayList rectArray = new ArrayList();
-rectArray.add(new Rectangle(138, 352, 2033, 537));
-rectArray.add(new Rectangle(147, 890, 2033, 1157));
-String result = api.RecognizePage("template.png", rectArray);
-
-System.out.println("Result with rect: " + result);
+RecognitionSettings recognitionSettings = new RecognitionSettings();
+// Add image to the recognition batch
+OcrInput source = new OcrInput(InputType.SingleImage);
+source.add("image.png");
+// Specify recognition language
+RecognitionSettings recognitionSettings = new RecognitionSettings();
+recognitionSettings.setLanguage(Language.ExtLatin);
+// Extract text from image
+ArrayList<RecognitionResult> results = api.Recognize(source, recognitionSettings);
+System.out.println(result[0].recognition_text);
 ```
+
+Read the [Developer Reference](https://docs.aspose.com/ocr/java/developer-reference/) for details on developing advanced applications with Aspose.OCR for Java.
 
 [Product Page](https://products.aspose.com/ocr/java) | [Docs](https://docs.aspose.com/ocr/java/) | [Demos](https://products.aspose.app/ocr/family) | [API Reference](https://apireference.aspose.com/ocr/java) | [Examples](https://github.com/aspose-ocr/Aspose.OCR-for-Java) | [Blog](https://blog.aspose.com/category/ocr/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/ocr) | [Temporary License](https://purchase.aspose.com/temporary-license)
