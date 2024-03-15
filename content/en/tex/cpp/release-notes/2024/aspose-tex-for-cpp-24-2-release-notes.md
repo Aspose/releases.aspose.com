@@ -19,7 +19,7 @@ Aspose.TeX for C++ 24.2 is ready for use with Aspose C++ products ver 24.2.
  * Support for storing and retrieving *eTeX*'s discarded items has been implemented.
  * Support for *eTeX*'s additional registers and marks has been implemented.
 
-For more details, see [Aspose.TeX for .NET 24.2](https://releases.aspose.com/tex/net/release-notes/2023/aspose-tex-for-net-24-2-release-notes/).
+For more details, see [Aspose.TeX for .NET 24.2](https://releases.aspose.com/tex/net/release-notes/2024/aspose-tex-for-net-24-2-release-notes/).
 
 ## Public API
 ### Added APIs
