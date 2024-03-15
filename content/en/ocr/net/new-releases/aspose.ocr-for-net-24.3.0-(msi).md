@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/net/new-releases/aspose.ocr-for-net-24.3.0-(msi)/"
 folder_name: "Aspose.OCR for NET 24.3.0 (msi)"
-download_link: "/ocr/net/new-releases/aspose.ocr-for-net-24.3.0-(msi)/c0c072c64c29c520fb843a836f09bd87-26-10495"
+download_link: "/ocr/net/new-releases/aspose.ocr-for-net-24.3.0-(msi)/3a6159023efb14939b44390d1c638be9-26-10495"
 download_text: "Download"
 intro_text: "The list of supported languages has been expanded to 135 languages."
 image_link: "/resources/img/msi-icon.png"
@@ -24,19 +24,19 @@ weight: 343
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.OCR for NET 24.3.0 (msi)" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/ocr/net/new-releases/aspose.ocr-for-net-24.3.0-(msi)/c0c072c64c29c520fb843a836f09bd87-26-10495" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/ocr/net/new-releases/aspose.ocr-for-net-24.3.0-(msi)/3a6159023efb14939b44390d1c638be9-26-10495" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/ocr" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-c0c072c64c29c520fb843a836f09bd87-26-10495" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-3a6159023efb14939b44390d1c638be9-26-10495" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
-      {{< Common/li id="size-update-c0c072c64c29c520fb843a836f09bd87-26-10495" >}} 127.62MB {{< /Common/li >}}
+      {{< Common/li id="size-update-3a6159023efb14939b44390d1c638be9-26-10495" >}} 127.62MB {{< /Common/li >}}
 
       {{< Common/li >}} Date Added: {{< /Common/li >}}
-      {{< Common/li id="added-update-c0c072c64c29c520fb843a836f09bd87-26-10495" >}}14/3/2024 {{< /Common/li >}}
+      {{< Common/li id="added-update-3a6159023efb14939b44390d1c638be9-26-10495" >}}14/3/2024 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
@@ -47,5 +47,3 @@ weight: 343
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
-
-
