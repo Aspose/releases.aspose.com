@@ -25,6 +25,10 @@ This page contains release notes for [Aspose.Slides for Python via .NET 24.3](ht
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
 |SLIDESPYNET-161|Use Aspose.Slides for Net 24.3 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-3-release-notes/>|
+|SLIDESPYNET-100|Support for macOS Ventura|Enhancement||
+|SLIDESPYNET-118|Supporting Mac Ventura 13|Investigation||
+|SLIDESPYNET-49|Add support for arm64 for macOS|Feature|<https://releases.aspose.com/slides/python-net/release-notes/2023/aspose-slides-for-python-net-23-12-release-notes/>|
+|SLIDESPYNET-134|Date axis in a chart does not work correctly|Bug|<https://docs.aspose.com/slides/python-net/chart-axis/>|
 
 ## Public API Changes
 
