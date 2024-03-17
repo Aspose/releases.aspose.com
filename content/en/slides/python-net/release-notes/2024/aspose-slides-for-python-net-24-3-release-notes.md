@@ -46,6 +46,6 @@ import aspose.slides as slides
 with slides.Presentation("pres.pptx") as presentation:
     portion = presentation.slides[0].shapes[1].text_frame.paragraphs[0].portions[0]
 
-    external_url = portion.portion_format.as_i_hyperlink_container.hyperlink_click.external_url  # fake
-    external_url_original = portion.portion_format.as_i_hyperlink_container.hyperlink_click.external_url_original  # real
+    external_url = portion.portion_format.hyperlink_click.external_url  # fake
+    external_url_original = portion.portion_format.hyperlink_click.external_url_original  # real
 ```
