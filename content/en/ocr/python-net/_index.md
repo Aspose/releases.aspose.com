@@ -1,10 +1,10 @@
 ---
-title: "Download Python Library to Perform OCR | Aspose.OCR API"
-description:  "Download Text Extraction Python Library for English, French, Spanish & Portuguese character & text recognition from raster images via on-premise  Python via .NET API."
+title: "Download OCR library for Python | Aspose.OCR API"
+description:  "Add optical character recognition (OCR) functionality to your Python applications for desktop and cloud. Extract text from scans, screenshots, pictures from the web, or even photos from your smartphone, returning results that can be aggregated, analyzed or saved to disk."
 linktitle: "Aspose.OCR for Python via .NET"
-keywords:  "Python OCR,OCR English,OCR French,OCR Spanish"
+keywords:  "Python, OCR, recognize, analyze, cross-platform, notebook"
 family_listing_page_title:  "Aspose.OCR for Python via .NET"
-family_listing_page_description:  "Download Text Extraction Python Library for English, French, Spanish & Portuguese character & text recognition from raster images via on-premise Python via .NET API."
+family_listing_page_description:  "Add optical character recognition (OCR) functionality to your Python applications for desktop and cloud. Extract text from scans, screenshots, pictures from the web, or even photos from your smartphone, returning results that can be aggregated, analyzed or saved to disk."
 family_listing_page_iconurl:  "https://releases.aspose.com/images/aspose/aspose_ocr-for-python.png"
 homepage_package_type: "Pip"
 homepage_package_link: "https://pypi.org/project/aspose-ocr-python-net"
@@ -35,43 +35,67 @@ Aspose.OCR for Python via .NET can be download here and installed from local fil
 
 [Product Page](https://products.aspose.com/ocr/python-net/) | [Docs](https://docs.aspose.com/ocr/python-net/) | [Demos](https://products.aspose.app/ocr/family/) | [Blog](https://blog.aspose.com/categories/aspose.ocr-product-family/) | [Code Samples](https://docs.aspose.com/ocr/python-net/getting-started/) | [Free Support](https://forum.aspose.com/c/ocr/16) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
-## Key features
+Add optical character recognition (OCR) to your Python notebooks, analytical applications and cloud services with a few lines of code. Effortlessly transform images into machine-readable text and generate searchable PDFs from scanned pages on any platform.
 
-- Recognizes text in 28 languages based on Latin, Cyrillic and Asian scrips, including texts in mixed languages.
-- Accurately extracts texts regardless of the original image quality - work with rotated, distorted and noisy pictures and photos.
-- Supports most file formats you can get from a scanner or camera, as well as web links.
-- Automatically corrects spelling errors to further improve the results without manual intervention.
-- Reads multi-page documents, folders, and even ZIP archives in bulk and returns results in the most popular document and data exchange formats.
+## Features you would like
+
+- **Global applications** - supporting over 130 languages, the library allows you to recognize texts in Latin, Cyrillic and Asian scrips.
+- **Read everything** - retrieve text from any file obtained through a scanner or camera, and process images directly from web links.
+- **Reliable results** - achieve the highest recognition accuracy for all images, including those that are out-of-focus, rotated, distorted, and noisy.
+- **Batch processing** - bulk-recognize all images from folders and archives; read multi-page PDF documents, TIFF images and DjVu files.
+- **Layout detection** - identify and categorize content blocks in images to ensure the correct order of extracted text, regardless of layout.
+- **Suitable for any content** - image preprocessing and customizable document structure detection enable text extraction from virtually any image, ranging from high-quality scans to street photos.
+- **Optimized** - the library balances recognition speed, quality, and resource utilization for each specific use case.
+- **Easy to use** - you only need a few lines of code to convert image to text, create a searchable PDF, save recognition results to document, and many more.
+
+### Supported file formats
+
+- **.PDF** - Portable Document Format
+- **.JPG** - JPEG, the most popular format for smartphone photos
+- **.PNG** - Portable Network Graphics, 24-bit with transparency
+- **.TIFF** - Tag Image File Format, commonly used for high quality scanning
+- **.GIF** - Graphics Interchange Format, limited to 256 colors
+- **.BMP** - Bitmap image file
+- **.DJVU** - DjVu, primarily designed for scanned documents, containing a combination of text, line drawings, indexed color images, and photographs
+
+Multi-page PDF documents, TIFF and DjVu images are fully supported.
+
+### System requirements
+
+- Microsoft Windows 7 or later
+- Microsoft Windows Server 2008 R2 SP1 or later
+- macOS Mojave version 10.14 or later, x64  
+  MacOS ARM (Apple Silicon) platform is fully supported
+- Any Linux x64, such as Ubuntu, OpenSUSE or CentOS
+
+Despite of "via .NET" in the name, the library does not require .NET Runtime to be installed on the target host. All required dependencies are already built into the distributive package.
+
 ### Code snippet
 
-**Aspose.OCR for Python via .NET** is extremely easy to use, regardless of the application's scale and complexity. Let's try to create a very simple application that can extract text from images and output it to the console.
+**Aspose.OCR for Python via .NET** is extremely easy to get started and very fast to master. The example below demonstrates how to build a bare minimum Python console application for extracting text from an image in just **7** lines of code.
 
-1. Install  the latest version of the *aspose-ocr* package using pip.
-2. Import `aspose.ocr` module into the application.
-3. Create an instance of `AsposeOcr` class.
-4. Create an instance of `OcrInput` class and add one or more images to it.
+1. [Install](https://docs.aspose.com/ocr/python-net/installation/) the latest Aspose.OCR for Python via .NET package using _pip_.
+2. Import `aspose.ocr` module.
+3. Create an instance of Aspose.OCR API.
+4. Add one or more images to the recognition batch.
 5. Extract text from the image using `Recognize` method.
-6. Output the extracted text to the console.
-
-Full code:
 
 ```python
 import aspose.ocr as ocr
 
-# Initialize OCR engine
+# Instantiate Aspose.OCR API
 api = AsposeOcr()
 
-# Initialize OCR input
+# Add image to the recognition batch
 input = OcrInput(InputType.SINGLE_IMAGE)
-input.add("1.png")
-input.add("2.jpg")
+input.add("source.png")
 
-# Recognize images
+# Recognize the image
 result = api.recognize(input)
 
-# Print result
+# Print recognition result
 print(result[0].recognition_text)
-print(result[1].recognition_text)
+input("Press Enter to continue...")
 ```
 
 {{< Tags/TagsWrapper >}}

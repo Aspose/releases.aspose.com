@@ -2,7 +2,7 @@
 id: "aspose-ocr-for-net-latest-release-notes"
 slug: "latest"
 weight: 1
-date: "2024-02-27"
+date: "2024-03-14"
 author: "Vladimir Lapin"
 type: docs
 type: "repository"
@@ -18,168 +18,242 @@ keywords:
 ---
 
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OCR for .NET 24.2.0 (February 2024)**](https://www.nuget.org/packages/Aspose.OCR/24.2.0) release.
+This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OCR for .NET 24.3.0 (March 2024)**](https://www.nuget.org/packages/Aspose.OCR/24.3.0) release.
 
 GPU version: **23.10.1**
+{{% /alert %}}
+
+## Deprecation warning
+
+{{% alert color="caution" %}}
+The release 24.3.0 updates the codes of some recognition languages to align with ISO 639-2 standard.
+
+To make it easier to upgrade your code, we have kept all legacy values, but marked them as deprecated. All of your existing code will continue to work and you can even make minor updates to it, but be aware that all deprecated language codes are scheduled to be removed in release **25.1.0 (January 2025)**.
+
+**Time to deprecation: 9 months left.**
 {{% /alert %}}
 
 ## What was changed
 
 Key | Summary | Category
 --- | ------- | --------
-OCRNET&#8209;791 | Advanced OCR features are now selectively downloaded as needed. | New feature
-OCRNET&#8209;793 | Significantly improved PDF recognition. | Enhancement
+OCRNET&#8209;801 | The library can now extract texts in **133** languages and automatically detect Extended Latin and Cyrillic texts without specifying the language. | Enhancement
+OCRNET&#8209;801 | Some legacy language codes were deprecated. See details in **Deprecated APIs** section.  | Enhancement
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OCR for .NET 24.2.0** that may affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OCR for .NET 24.3.0** that may affect the code of existing applications.
 
 ### Added public APIs:
 
-The major change introduced in **Aspose.OCR for .NET 24.2.0** is that the distributive now offers basic recognition capabilities only. Additional features can be added via downloadable resources, freely available in our [online repository](https://github.com/aspose-ocr/resources).
-
-This approach allows you to selectively choose which features you need for your project, keeping your codebase lean and modular.
-
-By default, Aspose.OCR for .NET automatically downloads the required resources as needed, saving you time and effort in managing dependencies. However, you have the option to manually manage the resources for your project using the static methods of `Aspose.OCR.Resources` class:
-
-{{% alert color="primary" %}}
-The automatic download of the resource may take some time depending on the speed of your Internet connection. This will result in increased processing time on the first call to a method that depends on the downloaded resource.
-{{% /alert %}}
-
-#### `Aspose.OCR.Resources.SetRepository()` method
-
-Allows you to specify the URL of the online repository from which Aspose.OCR for .NET resources will be downloaded. You can provide any of the following:
-
-- A link to the root directory of the branch in a public GitHub repository in form `https://github.com/{project}/{repository}/blob/{branch}/`.  
-  The default repository is https://github.com/aspose-ocr/resources/blob/main.
-- A link to the directory on a web site (either intranet or public). For example `http://localhost/aspose-ocr-resources`.
-- HTTP link to the directory on a publicly accessible S3 bucket or other online storage which supports web (HTTP/HTTPS) access.
-
-{{% alert color="primary" %}}
-- Aspose.OCR for .NET does not support authentication. The link you provide must be freely accessible to the application without providing credentials.
-- The application must be allowed outbound HTTP access to the URL in the firewall.
-{{% /alert %}}
-
-By default, the resources are downloaded from https://github.com/aspose-ocr/resources/.
-
-#### `Aspose.OCR.Resources.GetRepository()` method
-
-Returns the URL of the online repository from which Aspose.OCR for .NET resources are downloaded.
-
-#### `Aspose.OCR.Resources.AllowAutomaticDownloads()` method
-
-Allow (`true`) or block (`false`) automatic downloading of required resources from the online repository. By default, Aspose.OCR for .NET automatically downloads the required resources as needed.
-
-If you do not want your application to access the Internet at runtime, manually download all required resources from our [repository](https://github.com/aspose-ocr/resources) and call `Aspose.OCR.Resources.AllowAutomaticDownloads(false)`. 
-
-{{% alert color="primary" %}}
-Do not forget to include a directory with downloaded resources in your distributive, otherwise the related functionality will fail.
-{{% /alert %}}
-
-#### `Aspose.OCR.Resources.ListRemote()` method
-
-Returns the list of all compatible resources from the online repository as a string array.
-
-#### `Aspose.OCR.Resources.SetLocalPath()` method
-
-Allows you to specify an absolute or relative path to the directory where the resources will be downloaded. Pass `false` to the `create` parameter to prevent the directory from being created automatically.
-
-By default, the resources will be downloaded into the _aspose_data_ subdirectory in the application's working directory.
-
-#### `Aspose.OCR.Resources.GetLocalPath()` method
-
-Returns the full path to the local directory where the resources will be downloaded.
-
-#### `Aspose.OCR.Resources.ListLocal()` method
-
-Returns the list of all Aspose.OCR resources stored in the local directory as a string array.
-
-#### `Aspose.OCR.Resources.FetchAll()` method
-
-Download [all resources](https://github.com/aspose-ocr/resources?tab=readme-ov-file#resources) compatible with the current version of Aspose.OCR for .NET from the online repository. The existing resource files will be overwritten.
-
-{{% alert color="primary" %}}
-This may require several hundred megabytes of hard drive space and consume Internet traffic. We recommend downloading only the resources you need, or allow Aspose.OCR .NET to automatically manage resources.
-{{% /alert %}}
-
-#### `Aspose.OCR.Resources.FetchResources()` method
-
-Download one or more resources specified in the `names` parameter from the online repository. Existing resources will be overwritten.
-
-Use `Aspose.OCR.Resources.ListRemote()` method to get the full list of resource names, compatible with the current release of Aspose.OCR .NET.
-
-#### `Aspose.OCR.Resources.FetchResource()` method
-
-Download a specific resource from the online repository. If the resource has already been downloaded, it will be overwritten.
-
-Use `Aspose.OCR.Resources.ListRemote()` method to get the full list of resource names, compatible with the current release of Aspose.OCR .NET.
-
-#### `Aspose.OCR.Resources.RemoveLocal()` method
-
-Delete a locally stored resource.
-
-Use `Aspose.OCR.Resources.ListLocal()` method to get the full list of locally downloaded resources.
+_No changes._
 
 ### Updated public APIs:
 
-_No changes._
+The following public APIs have been introduced in this release:
 
-### Removed public APIs:
-
-_No changes._
-
-## Changes in application logic
+#### `Aspose.OCR.Language`
 
 {{% alert color="info" %}}
 **Compatibility: fully backward compatible.** See details below.
 {{% /alert %}}
 
-PDF recognition has been significantly redesigned. Now all page content is pre-rendered as a single image, which is recognized as a whole rather than as a collection of images. As a result, Aspose.OCR for .NET can extract all types of textual content on a page, including machine-readable characters, vector images, pictures, and so on.
+Aspose.OCR for .NET greatly expands the number of languages supported. We have added a total of 135 languages based on Latin, Cyrillic, Chinese and Indic scripts:
 
-All related operations are performed in the background, so you do not need to perform any additional processing. However, it slightly changes the behavior and output of certain methods:
+Value | Alphabet
+----- | --------
+`Aspose.OCR.Language.ExtLatin` | All supported Latin characters and diacritics (auto-detect)
+`Aspose.OCR.Language.Cyrillic` | All supported Cyrillic characters (auto-detect)
+`Aspose.OCR.Language.Afr` | Afrikaans
+`Aspose.OCR.Language.Aln` | Albanian
+`Aspose.OCR.Language.Awa` | Awadhi
+`Aspose.OCR.Language.Azb` | Azerbaijani (Azeri)
+`Aspose.OCR.Language.Bcl` | Bikol
+`Aspose.OCR.Language.Bel` | Belarusan (Belorussian)
+`Aspose.OCR.Language.Bem` | Bemba (Chibemba)
+`Aspose.OCR.Language.Bew` | Betawi
+`Aspose.OCR.Language.Bgc` | Haryanvi
+`Aspose.OCR.Language.Bho` | Bhojpuri
+`Aspose.OCR.Language.Bhr` | Malagasy
+`Aspose.OCR.Language.Bjj` | Kanauji
+`Aspose.OCR.Language.Bos` | Bosnian
+`Aspose.OCR.Language.Bul` | Bulgarian
+`Aspose.OCR.Language.Cat` | Catalan
+`Aspose.OCR.Language.Ccx` | Zhuang
+`Aspose.OCR.Language.Cdo` | Min Dong
+`Aspose.OCR.Language.Ceb` | Cebuano
+`Aspose.OCR.Language.Ces` | Czech
+`Aspose.OCR.Language.Che` | Chechen
+`Aspose.OCR.Language.Cmn` | Mandarin (Chinese)
+`Aspose.OCR.Language.Cpx` | Pu-Xian
+`Aspose.OCR.Language.Dan` | Danish
+`Aspose.OCR.Language.Deu` | German
+`Aspose.OCR.Language.Dhd` | Dhundari
+`Aspose.OCR.Language.Diq` | Dimli
+`Aspose.OCR.Language.Doc` | Dong
+`Aspose.OCR.Language.Eng` | English
+`Aspose.OCR.Language.Est` | Estonian
+`Aspose.OCR.Language.Fin` | Finnish
+`Aspose.OCR.Language.Fra` | French
+`Aspose.OCR.Language.Gan` | Gan
+`Aspose.OCR.Language.Gax` | Oromo
+`Aspose.OCR.Language.Gbm` | Garhwali
+`Aspose.OCR.Language.Glg` | Galician
+`Aspose.OCR.Language.Glk` | Gilaki
+`Aspose.OCR.Language.Guz` | Gusii
+`Aspose.OCR.Language.Hak` | Hakka
+`Aspose.OCR.Language.Hau` | Hausa
+`Aspose.OCR.Language.Hbs` | Serbo-Croatian (Latin)
+`Aspose.OCR.Language.Hil` | Hiligaynon
+`Aspose.OCR.Language.Hin` | Hindi
+`Aspose.OCR.Language.Hmn` | Hmong
+`Aspose.OCR.Language.Hne` | Chattisgarhi (Laria, Khaltahi)
+`Aspose.OCR.Language.Hrv` | Croatian
+`Aspose.OCR.Language.Hsn` | Xiang
+`Aspose.OCR.Language.Hun` | Hungarian (Magyar)
+`Aspose.OCR.Language.Ilo` | Ilocano
+`Aspose.OCR.Language.Ind` | Indonesian
+`Aspose.OCR.Language.Ita` | Italian
+`Aspose.OCR.Language.Kaz` | Kazakh
+`Aspose.OCR.Language.Kbd` | Kabardian
+`Aspose.OCR.Language.Kfy` | Kumauni
+`Aspose.OCR.Language.Kin` | Rwanda
+`Aspose.OCR.Language.Kln` | Nandi
+`Aspose.OCR.Language.Kmr` | Kurdish (Kurmanji)
+`Aspose.OCR.Language.Knc` | Kanuri
+`Aspose.OCR.Language.Knn` | Konkani
+`Aspose.OCR.Language.Kon` | Kikongo
+`Aspose.OCR.Language.Latin` | Latin
+`Aspose.OCR.Language.Lav` | Latvian
+`Aspose.OCR.Language.Lit` | Lithuanian
+`Aspose.OCR.Language.Lmn` | Lamani (Lambadi)
+`Aspose.OCR.Language.Lnc` | Occitan
+`Aspose.OCR.Language.Luo` | Luo
+`Aspose.OCR.Language.Mag` | Magahi
+`Aspose.OCR.Language.Mai` | Maithili
+`Aspose.OCR.Language.Mak` | Makassar (Makasar)
+`Aspose.OCR.Language.Mar` | Marathi
+`Aspose.OCR.Language.Mer` | Meru
+`Aspose.OCR.Language.Min` | Minangkabau
+`Aspose.OCR.Language.Mly` | Malay (Melayu)
+`Aspose.OCR.Language.Mnp` | Min Bei
+`Aspose.OCR.Language.Mtq` | Muong
+`Aspose.OCR.Language.Mtr` | Mewari
+`Aspose.OCR.Language.Mui` | Musi
+`Aspose.OCR.Language.Mup` | Malvi
+`Aspose.OCR.Language.Nan` | Min Nan
+`Aspose.OCR.Language.Nbl` | Ndebele
+`Aspose.OCR.Language.Nds` | Low German
+`Aspose.OCR.Language.Nep` | Nepali
+`Aspose.OCR.Language.Nld` | Dutch
+`Aspose.OCR.Language.Nor` | Norwegian
+`Aspose.OCR.Language.Nso` | Sotho (Northern)
+`Aspose.OCR.Language.Nya` | Chichewa (Chewa, Nyanja)
+`Aspose.OCR.Language.Pag` | Pangasinan
+`Aspose.OCR.Language.Pam` | Kapampangan
+`Aspose.OCR.Language.Pcc` | Bouyei (Buyi, Giáy)
+`Aspose.OCR.Language.Plm` | Palembang
+`Aspose.OCR.Language.Pol` | Polish
+`Aspose.OCR.Language.Por` | Portuguese
+`Aspose.OCR.Language.Quc` | K'iche'
+`Aspose.OCR.Language.Qxa` | Quechua
+`Aspose.OCR.Language.Rjb` | Rajbanshi
+`Aspose.OCR.Language.Ron` | Romanian
+`Aspose.OCR.Language.Ruf` | Luguru
+`Aspose.OCR.Language.Rus` | Russian
+`Aspose.OCR.Language.Rwr` | Marwari
+`Aspose.OCR.Language.Sas` | Sasak
+`Aspose.OCR.Language.Slk` | Slovak
+`Aspose.OCR.Language.Slv` | Slovene (Slovenian)
+`Aspose.OCR.Language.Sna` | Shona (Karanga)
+`Aspose.OCR.Language.Som` | Somali
+`Aspose.OCR.Language.Sot` | Sotho (Southern)
+`Aspose.OCR.Language.Spa` | Spanish
+`Aspose.OCR.Language.Srp` | Serbian (Cyrillic)
+`Aspose.OCR.Language.Srr` | Serer-Sine
+`Aspose.OCR.Language.Ssw` | Swati (Swazi)
+`Aspose.OCR.Language.Suk` | Sukuma
+`Aspose.OCR.Language.Sun` | Sundanese (Sunda)
+`Aspose.OCR.Language.Swe` | Swedish
+`Aspose.OCR.Language.Swh` | Swahili
+`Aspose.OCR.Language.Tgl` | Tagalog (Pilipino)
+`Aspose.OCR.Language.Toi` | Tonga
+`Aspose.OCR.Language.Tsn` | Tswana
+`Aspose.OCR.Language.Tso` | Tsonga
+`Aspose.OCR.Language.Tuk` | Turkmen
+`Aspose.OCR.Language.Tum` | Tumbuka
+`Aspose.OCR.Language.Tur` | Turkish
+`Aspose.OCR.Language.Ukr` | Ukrainian
+`Aspose.OCR.Language.Umb` | Umbundu
+`Aspose.OCR.Language.Vie` | Vietnamese
+`Aspose.OCR.Language.Vmw` | Makua (Makhuwa)
+`Aspose.OCR.Language.Wal` | Wolaytta
+`Aspose.OCR.Language.War` | Waray-Waray
+`Aspose.OCR.Language.Wbr` | Wagdi
+`Aspose.OCR.Language.Wtm` | Mewati
+`Aspose.OCR.Language.Wuu` | Wu (Changzhou)
+`Aspose.OCR.Language.Xho` | Xhosa
+`Aspose.OCR.Language.Yao` | Yao
+`Aspose.OCR.Language.Yor` | Yoruba
+`Aspose.OCR.Language.Yue` | Cantonese
+`Aspose.OCR.Language.Zul` | Zulu
 
-- All [image preprocessing](https://docs.aspose.com/ocr/net/image-processing/) is applied to the whole page rather than separate images on a page.
-- Images saved on disk with `Save()` [method](https://docs.aspose.com/ocr/net/image-processing/#previewing-and-saving-processed-images) now include entire PDF pages.
-- `OcrInput` object returned by `Render()` or `Save()` [methods](https://docs.aspose.com/ocr/net/image-processing/#previewing-and-saving-processed-images) contains the number of images equal to the number of pages in the original PDF document.
-- The number of `Aspose.OCR.RecognitionResult` objects returned from recognition methods now equals to the number of pages in the original PDF.
+### Removed public APIs:
+
+_No changes._
+
+### Deprecated APIs
+
+The following public APIs have been marked as deprecated and will be removed in **25.1.0 (January 2025)** release:
+
+#### `Aspose.OCR.Language.None`
+
+Use `Aspose.OCR.Language.ExtLatin` to automatically detect any Latin characters and diacritics.
+
+#### `Aspose.OCR.Language.Chi`
+
+Use one of the following languages depending on the actual language of the text:
+
+- `Aspose.OCR.Language.Cmn` (Mandarin)
+- `Aspose.OCR.Language.Wuu` (Wu)
+- `Aspose.OCR.Language.Yue` (Cantonese)
+- `Aspose.OCR.Language.Nan` (Min Nan)
+- `Aspose.OCR.Language.Hsn` (Xiang)
+- `Aspose.OCR.Language.Hak` (Hakka)
+- `Aspose.OCR.Language.Gan` (Gan)
+
+#### `Aspose.OCR.Language.Cze`
+
+Use `Aspose.OCR.Language.Ces` for recognizing Czech texts.
+
+#### `Aspose.OCR.Language.Dum`
+
+Use `Aspose.OCR.Language.Nld` for recognizing Dutch texts.
+
+#### `Aspose.OCR.Language.Srp_hrv`
+
+Use `Aspose.OCR.Language.Hbs` for recognizing Serbo-Croatian texts (based on Latin alphabet).
+
+#### `Aspose.OCR.Language.Rum`
+
+Use `Aspose.OCR.Language.Ron` for recognizing Romanian texts.
 
 ## Examples
 
 The code samples below illustrate the changes introduced in this release:
 
-### Cyrillic characters recognition
+### Auto-detect Extended Latin characters
 
 ```csharp
-// Download Hindi OCR model to "aspose/ocr" directory in the application working directory
-Aspose.OCR.Resources.SetLocalPath("aspose/ocr");
-Aspose.OCR.Resources.FetchResource("aspose-ocr-cyrillic-v1");
 // Initialize Aspose.OCR for .NET recognition API
 Aspose.OCR.AsposeOcr recognitionEngine = new Aspose.OCR.AsposeOcr();
-// Add images to OcrInput object
+// Add image
 Aspose.OCR.OcrInput input = new Aspose.OCR.OcrInput(Aspose.OCR.InputType.SingleImage);
-input.Add("source1.png");
-input.Add("source2.jpg");
+input.Add("source.png");
 // Set recognition language
 Aspose.OCR.RecognitionSettings recognitionSettings = new Aspose.OCR.RecognitionSettings();
-recognitionSettings.Language = Aspose.OCR.Language.Ukr;
+recognitionSettings.Language = Aspose.OCR.Language.ExtLatin;
 // Recognize image
 List<Aspose.OCR.RecognitionResult> results = recognitionEngine.Recognize(input, recognitionSettings);
-foreach(Aspose.OCR.RecognitionResult result in results)
-{
-	Console.WriteLine(result.RecognitionText);
-}
-```
-
-### Use manually downloaded resources
-
-1. Create _aspose\\ocr_ folder in the application's working directory.
-2. Download https://github.com/aspose-ocr/resources/blob/main/aspose-ocr-cyrillic-v1.ocr file to the _aspose\\ocr_ folder.
-3. Block automatic resource downloading in the code.
-
-```csharp
-Resources.SetLocalPath("aspose/ocr");
-Resources.AllowAutomaticDownloads(false);
-// Set recognition language
-Aspose.OCR.RecognitionSettings recognitionSettings = new Aspose.OCR.RecognitionSettings();
-recognitionSettings.Language = Aspose.OCR.Language.Ukr;
+Console.WriteLine(results[0].RecognitionText);
 ```

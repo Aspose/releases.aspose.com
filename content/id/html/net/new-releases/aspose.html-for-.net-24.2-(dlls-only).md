@@ -1,16 +1,16 @@
 ---
 
-title: "Unduhan --- rilis baru-aspose.html-for-.net-24.2- (hanya-dlls)"
+title: "Unduhan ---Rilis Baru-aspose.html-for-.net-24.2-(khusus dll)"
 description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/html/net/new-releases/aspose.html-for-.net-24.2-(dlls-only)/"
-folder_name: "Aspose.html untuk .net 24.2 (hanya DLL)"
+folder_name: "Aspose.HTML untuk .NET 24.2 (khusus DLL)"
 download_link: "/html/net/new-releases/aspose.html-for-.net-24.2-(dlls-only)/fd58ebe40286f0414e59f11a321a6d5c-1-10392"
 download_text: "Unduh"
-intro_text: "File zip ini hanya berisi aspose.html untuk rakitan .net. Rakitannya sama seperti di penginstal MSI dari produk dari versi yang sama. Unduh ini jika Anda ingin menggunakan Aspose.html tanpa penginstal MSI, mis. Anda tidak dapat menjalankan penginstal MSI di mono. Unduhan zip ini tidak berisi dokumentasi pengguna dalam format bantuan Microsoft yang termasuk dalam penginstal MSI."
+intro_text: "File ZIP ini hanya berisi Aspose.HTML untuk rakitan .NET. Rakitannya sama seperti pada penginstal MSI produk dengan versi yang sama. Unduh ini jika Anda ingin menggunakan Aspose.HTML tanpa penginstal MSI, yaitu Anda tidak dapat menjalankan penginstal MSI di Mono. Unduhan ZIP ini tidak berisi dokumentasi pengguna dalam format Bantuan Microsoft yang disertakan dalam penginstal MSI."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 28/2/2024 Unduhs: 1  Views: 1 "
+download_count: " 28/2/2024 Unduhs: 26  Views: 1 "
 file_size: "File Size: 4.3MB"
 parent_path: "html/net"
 section_parent_path: "html/net"
@@ -22,7 +22,7 @@ weight: 274
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.html untuk .net 24.2 (hanya DLL)" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.HTML untuk .NET 24.2 (khusus DLL)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Unduh" link="/html/net/new-releases/aspose.html-for-.net-24.2-(dlls-only)/fd58ebe40286f0414e59f11a321a6d5c-1-10392" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/html" >}}
@@ -31,7 +31,7 @@ weight: 274
     {{< Releases/ReleasesHeading h4txt="Detail File">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Unduhs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-fd58ebe40286f0414e59f11a321a6d5c-1-10392" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-fd58ebe40286f0414e59f11a321a6d5c-1-10392" >}} 26 {{< /Common/li >}}
       {{< Common/li >}} Ukuran file: {{< /Common/li >}}
       {{< Common/li id="size-update-fd58ebe40286f0414e59f11a321a6d5c-1-10392" >}} 4.3MB {{< /Common/li >}}
 
@@ -43,7 +43,7 @@ weight: 274
       <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-2-release-notes/'>https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Keterangan</h4><div class="HTMLDescription">File zip ini hanya berisi aspose.html untuk rakitan .net. Rakitannya sama seperti di penginstal MSI dari produk dari versi yang sama. Unduh ini jika Anda ingin menggunakan Aspose.html tanpa penginstal MSI, mis. Anda tidak dapat menjalankan penginstal MSI di mono. Unduhan zip ini tidak berisi dokumentasi pengguna dalam format bantuan Microsoft yang termasuk dalam penginstal MSI.</div>
+      <h4>Keterangan</h4><div class="HTMLDescription">File ZIP ini hanya berisi Aspose.HTML untuk rakitan .NET. Rakitannya sama seperti pada penginstal MSI produk dengan versi yang sama. Unduh ini jika Anda ingin menggunakan Aspose.HTML tanpa penginstal MSI, yaitu Anda tidak dapat menjalankan penginstal MSI di Mono. Unduhan ZIP ini tidak berisi dokumentasi pengguna dalam format Bantuan Microsoft yang disertakan dalam penginstal MSI.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

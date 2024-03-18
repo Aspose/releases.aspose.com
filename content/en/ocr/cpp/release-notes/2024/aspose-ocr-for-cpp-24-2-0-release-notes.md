@@ -5,7 +5,7 @@ slug: "aspose-ocr-for-cpp-24-2-0-release-notes"
 linktitle: "Aspose.OCR for C++ 24.2.0 - Release Notes"
 title: "Aspose.OCR for C++ 24.2.0 - Release Notes"
 author: "Vladimir Lapin"
-weight: 121
+weight: 111
 description: "A summary of recent changes, enhancements and bug fixes in Aspose.OCR for C++ 24.2.0 (February 2024) release."
 type: "repository"
 layout: "release"

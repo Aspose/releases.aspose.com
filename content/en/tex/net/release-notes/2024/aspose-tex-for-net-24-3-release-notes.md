@@ -3,7 +3,7 @@ id: "aspose-tex-for-net-24-3-release-notes"
 slug: "aspose-tex-for-net-24-3-release-notes"
 linktitle: "Aspose.TeX for .NET 24.3 Release Notes"
 title: "Aspose.TeX for .NET 24.3 Release Notes"
-weight: 20
+weight: 19
 description: "C# .NET API Solution for developers to manipulate and process TeX and LaTeX files. Release Notes of Aspose.TeX API solution for .NET | Release 2024.03"
 type: "repository"
 layout: "release"
@@ -16,7 +16,6 @@ menuItemWithNoContent: false
 ## Aspose.TeX 24.3 for .NET has been released!
 
 *eTeX*'s page building optimization has been implemented.
-
 
 | Key | Summary | Category |
 |---|---|---|

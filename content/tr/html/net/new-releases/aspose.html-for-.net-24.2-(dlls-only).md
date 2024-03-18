@@ -1,16 +1,16 @@
 ---
 
-title: "İndirmeler --- Yeni sürümler -posoz.html--for-.net-244.2- (sadece DLLS)"
+title: "İndirilenler ---Yeni Çıkanlar-aspose.html-for-.net-24.2-(dlls-only)"
 description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/html/net/new-releases/aspose.html-for-.net-24.2-(dlls-only)/"
-folder_name: ".NET 24.2 için aspose.html (yalnızca DLLS)"
+folder_name: "Aspose.HTML for .NET 24.2 (yalnızca DLL'ler)"
 download_link: "/html/net/new-releases/aspose.html-for-.net-24.2-(dlls-only)/fd58ebe40286f0414e59f11a321a6d5c-1-10392"
 download_text: "İndirmek"
-intro_text: "Bu zip dosyası, .NET düzenekleri için yalnızca aspose.html içerir. Montajlar, aynı sürümün ürününün MSI yükleyicisiyle aynıdır. MSI yükleyicisi olmadan aspose.html kullanmak istiyorsanız bunu indirin, yani MSI yükleyicilerini mono üzerinde çalıştıramazsınız. Bu Zip İndirme, MSI yükleyicisine dahil edilen Microsoft Yardım formatında kullanıcı belgelerini içermez."
+intro_text: "Bu ZIP dosyası yalnızca Aspose.HTML for .NET derlemelerini içerir. Montajlar, aynı sürümdeki ürünün MSI yükleyicisindekilerle aynıdır. Aspose.HTML'yi MSI yükleyicisi olmadan kullanmak istiyorsanız, yani MSI yükleyicilerini Mono'da çalıştıramıyorsanız bunu indirin. Bu ZIP indirmesi, MSI yükleyicisinde bulunan Microsoft Yardım formatındaki kullanıcı belgelerini içermez."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 28/2/2024 İndirmeks: 1  Views: 1 "
+download_count: " 28/2/2024 İndirmeks: 26  Views: 1 "
 file_size: "File Size: 4.3MB"
 parent_path: "html/net"
 section_parent_path: "html/net"
@@ -22,7 +22,7 @@ weight: 274
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt=".NET 24.2 için aspose.html (yalnızca DLLS)" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.HTML for .NET 24.2 (yalnızca DLL'ler)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="İndirmek" link="/html/net/new-releases/aspose.html-for-.net-24.2-(dlls-only)/fd58ebe40286f0414e59f11a321a6d5c-1-10392" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/html" >}}
@@ -31,7 +31,7 @@ weight: 274
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} İndirmeks: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-fd58ebe40286f0414e59f11a321a6d5c-1-10392" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-fd58ebe40286f0414e59f11a321a6d5c-1-10392" >}} 26 {{< /Common/li >}}
       {{< Common/li >}} Dosya boyutu: {{< /Common/li >}}
       {{< Common/li id="size-update-fd58ebe40286f0414e59f11a321a6d5c-1-10392" >}} 4.3MB {{< /Common/li >}}
 
@@ -43,7 +43,7 @@ weight: 274
       <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-2-release-notes/'>https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Tanım</h4><div class="HTMLDescription">Bu zip dosyası, .NET düzenekleri için yalnızca aspose.html içerir. Montajlar, aynı sürümün ürününün MSI yükleyicisiyle aynıdır. MSI yükleyicisi olmadan aspose.html kullanmak istiyorsanız bunu indirin, yani MSI yükleyicilerini mono üzerinde çalıştıramazsınız. Bu Zip İndirme, MSI yükleyicisine dahil edilen Microsoft Yardım formatında kullanıcı belgelerini içermez.</div>
+      <h4>Tanım</h4><div class="HTMLDescription">Bu ZIP dosyası yalnızca Aspose.HTML for .NET derlemelerini içerir. Montajlar, aynı sürümdeki ürünün MSI yükleyicisindekilerle aynıdır. Aspose.HTML'yi MSI yükleyicisi olmadan kullanmak istiyorsanız, yani MSI yükleyicilerini Mono'da çalıştıramıyorsanız bunu indirin. Bu ZIP indirmesi, MSI yükleyicisinde bulunan Microsoft Yardım formatındaki kullanıcı belgelerini içermez.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
