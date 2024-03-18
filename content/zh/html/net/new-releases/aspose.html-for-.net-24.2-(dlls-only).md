@@ -1,16 +1,16 @@
 ---
 
-title: "下载---新版本 -  aspose.html-for-.net-24.2-（仅dlls-）"
+title: "下载 ---新版本-aspose.html-for-.net-24.2-（仅限 dll）"
 description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/html/net/new-releases/aspose.html-for-.net-24.2-(dlls-only)/"
-folder_name: ".NET 24.2（仅DLL）Aspose.html"
+folder_name: "Aspose.HTML for .NET 24.2（仅限 DLL）"
 download_link: "/html/net/new-releases/aspose.html-for-.net-24.2-(dlls-only)/fd58ebe40286f0414e59f11a321a6d5c-1-10392"
 download_text: "下载"
-intro_text: "该zip文件仅包含.net组件的aspose.html。组件与同一版本的产品的MSI安装程序相同。如果您想在没有MSI安装程序的情况下使用Aspose.html，则下载此下载，即您无法在单声道上运行MSI安装程序。此ZIP下载不包含MISI安装程序中包含的Microsoft帮助格式的用户文档。"
+intro_text: "此 ZIP 文件仅包含 Aspose.HTML for .NET 程序集。这些程序集与同一版本产品的 MSI 安装程序中的程序集相同。如果您想在没有 MSI 安装程序的情况下使用 Aspose.HTML，即无法在 Mono 上运行 MSI 安装程序，请下载此文件。此 ZIP 下载不包含 MSI 安装程序中包含的 Microsoft 帮助格式的用户文档。"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 28/2/2024 下载s: 1  Views: 1 "
+download_count: " 28/2/2024 下载s: 26  Views: 1 "
 file_size: "File Size: 4.3MB"
 parent_path: "html/net"
 section_parent_path: "html/net"
@@ -22,7 +22,7 @@ weight: 274
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt=".NET 24.2（仅DLL）Aspose.html" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.HTML for .NET 24.2（仅限 DLL）" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="下载" link="/html/net/new-releases/aspose.html-for-.net-24.2-(dlls-only)/fd58ebe40286f0414e59f11a321a6d5c-1-10392" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/html" >}}
@@ -31,7 +31,7 @@ weight: 274
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} 下载s: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-fd58ebe40286f0414e59f11a321a6d5c-1-10392" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-fd58ebe40286f0414e59f11a321a6d5c-1-10392" >}} 26 {{< /Common/li >}}
       {{< Common/li >}} 文件大小: {{< /Common/li >}}
       {{< Common/li id="size-update-fd58ebe40286f0414e59f11a321a6d5c-1-10392" >}} 4.3MB {{< /Common/li >}}
 
@@ -43,7 +43,7 @@ weight: 274
       <h4>发行说明</h4><div><a href='https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-2-release-notes/'>https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>描述</h4><div class="HTMLDescription">该zip文件仅包含.net组件的aspose.html。组件与同一版本的产品的MSI安装程序相同。如果您想在没有MSI安装程序的情况下使用Aspose.html，则下载此下载，即您无法在单声道上运行MSI安装程序。此ZIP下载不包含MISI安装程序中包含的Microsoft帮助格式的用户文档。</div>
+      <h4>描述</h4><div class="HTMLDescription">此 ZIP 文件仅包含 Aspose.HTML for .NET 程序集。这些程序集与同一版本产品的 MSI 安装程序中的程序集相同。如果您想在没有 MSI 安装程序的情况下使用 Aspose.HTML，即无法在 Mono 上运行 MSI 安装程序，请下载此文件。此 ZIP 下载不包含 MSI 安装程序中包含的 Microsoft 帮助格式的用户文档。</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
