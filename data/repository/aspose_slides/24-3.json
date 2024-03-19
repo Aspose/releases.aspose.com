@@ -4,6 +4,21 @@
   "artifactId" : "aspose-slides",
   "id" : "24-3",
   "packageFiles" : [ {
+    "size" : "4 MB",
+    "name" : "aspose-slides-24.3-android.via.java-javadoc.jar",
+    "classifier" : "android.via.java-javadoc"
+  }, {
+    "size" : "30 MB",
+    "name" : "aspose-slides-24.3-android.via.java.jar",
+    "classifier" : "android.via.java"
+  }, {
+    "size" : "1 KB",
+    "name" : "aspose-slides-24.3-android.via.java.pom"
+  }, {
+    "size" : "3 MB",
+    "name" : "aspose-slides-24.3-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
     "size" : "29 MB",
     "name" : "aspose-slides-24.3-jdk16.jar",
     "classifier" : "jdk16"
@@ -11,7 +26,7 @@
     "size" : "395 bytes",
     "name" : "aspose-slides-24.3.pom"
   } ],
-  "releasehDate" : "2024-03-19T14:42:03+00:00",
+  "releasehDate" : "2024-03-19T14:44:39+00:00",
   "version" : "24.3",
   "ReleaseNotes" : "https://releases.aspose.com/slides/java/release-notes/2024/aspose-slides-for-java-24-3-release-notes/"
 }
