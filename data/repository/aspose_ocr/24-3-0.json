@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-ocr",
+  "id" : "24-3-0",
+  "packageFiles" : [ {
+    "size" : "284 KB",
+    "name" : "aspose-ocr-24.3.0-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "83 MB",
+    "name" : "aspose-ocr-24.3.0.jar"
+  }, {
+    "size" : "1 KB",
+    "name" : "aspose-ocr-24.3.0.pom"
+  } ],
+  "releasehDate" : "2024-03-19T21:13:19+00:00",
+  "version" : "24.3.0",
+  "ReleaseNotes" : "https://releases.aspose.com/ocr/java/release-notes/2024/aspose-ocr-for-java-24-3-0-release-notes/"
+}
