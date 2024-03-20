@@ -10,7 +10,7 @@ download_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-24.3-macos/d4de7a93d3e8
 download_text: "ダウンロード"
 intro_text: "Aspose.PDF (C++ macOS バージョン用)"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 20/3/2024 ダウンロードs: 1  Views: 1 "
+download_count: " 20/3/2024 ダウンロードs: 2  Views: 1 "
 file_size: "File Size: 218.65MB"
 parent_path: "pdf/cpp"
 section_parent_path: "pdf/cpp"
@@ -31,7 +31,7 @@ weight: 210
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} ダウンロードs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-d4de7a93d3e8cb4ec1ebcd4e09bf8015-44-10504" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-d4de7a93d3e8cb4ec1ebcd4e09bf8015-44-10504" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} ファイルサイズ: {{< /Common/li >}}
       {{< Common/li id="size-update-d4de7a93d3e8cb4ec1ebcd4e09bf8015-44-10504" >}} 218.65MB {{< /Common/li >}}
 
