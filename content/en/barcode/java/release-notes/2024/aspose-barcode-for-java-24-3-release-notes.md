@@ -31,7 +31,6 @@ This page contains release notes information for [Aspose.BarCode for Java 24.3](
 ### New SVG parameters API:
 
 - method com.aspose.barcode.generation.BaseGenerationParameters.getImage():ImageParameters
-- method com.aspose.barcode.generation.BaseGenerationParameters.setImage(ImageParameters)
 - class com.aspose.barcode.generation.ImageParameters
 - method com.aspose.barcode.generation.ImageParameters.getSvg():SvgParameters
 - method com.aspose.barcode.generation.ImageParameters.setSvg(SvgParameters)
