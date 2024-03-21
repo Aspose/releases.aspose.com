@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-c++-24.1-linux"
-description: " "
+title: "PDF API for C++ 24.1: FDF Annotations & PDF Loading (Linux)"
+description: "Empower your C++ PDF manipulation apps with FDF annotations & streamlined PDF documents loading. Download Aspose.PDF for C++ 24.1 on Linux today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-24.1-linux/"
@@ -43,8 +43,30 @@ weight: 205
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-1-release-notes/'>https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Linux version</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for C++ 24.1 Linux version.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+  {{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### FDF Annotation Support
+
+Version C++ 24.1 of the PDF API introduces FDF annotation support, enabling seamless import of annotations from FDF (Forms Data Format) files into your PDF documents. This streamlines the integration of external annotation data and allows a more efficient development workflow.
+
+### Improved Loading Flexibility
+
+You can better manage the loading process of PDF documents and customize settings by specifying load options, providing flexibility in handing PDFs in your C++ applications.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for C++ 24.1 Release Notes](https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
