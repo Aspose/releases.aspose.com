@@ -5,13 +5,16 @@
   "id" : "24-3",
   "packageFiles" : [ {
     "size" : "14 MB",
+    "name" : "aspose-barcode-24.3-java.zip"
+  }, {
+    "size" : "14 MB",
     "name" : "aspose-barcode-24.3-jdk18.jar",
     "classifier" : "jdk18"
   }, {
-    "size" : "397 bytes",
+    "size" : "426 bytes",
     "name" : "aspose-barcode-24.3.pom"
   } ],
-  "releasehDate" : "2024-03-21T11:06:02+00:00",
+  "releasehDate" : "2024-03-21T11:07:26+00:00",
   "version" : "24.3",
   "ReleaseNotes" : "https://releases.aspose.com/barcode/java/release-notes/2024/aspose-barcode-for-java-24-3-release-notes/"
 }
