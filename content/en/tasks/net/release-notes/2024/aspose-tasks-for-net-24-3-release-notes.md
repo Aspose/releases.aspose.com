@@ -34,5 +34,5 @@ This page contains release notes information for [Aspose.Tasks for .Net 24.3](ht
 
 |**The following public methods and properties were added:**|**Description**|
 | :- | :- |
-| Aspose.Tasks.Calendar.Guid | Gets or sets calendar's Guid. |
+| Aspose.Tasks.Calendar.Guid | Gets calendar's Guid. |
 
