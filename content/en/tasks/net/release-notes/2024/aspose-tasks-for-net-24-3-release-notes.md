@@ -25,6 +25,7 @@ This page contains release notes information for [Aspose.Tasks for .Net 24.3](ht
 | :- | :- | :- |
 | TASKSNET-11118 | Fix reading of MPP file with non-standard structure saved by MS Project version 16.0.16924.20150 | Bug |
 | TASKSNET-11116 | Fix reading of task and resource Guids from XML format | Bug |
+| TASKSNET-11100 | Fix writing of TimephasedData for assignment of material resource | Bug |
 | TASKSNET-11113 | Fix empty Assignments guids when project is saved to MPP and XML repeatedly | Bug |
 | TASKSNET-11110 | Fix calculation of the dependent properties when task PercentComplete is set to 100% | Bug |
 | TASKSNET-11079 | Fix inability to set ActualFinish for tasks with zero duration | Bug |
