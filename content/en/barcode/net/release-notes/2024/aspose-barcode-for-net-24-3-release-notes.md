@@ -19,7 +19,8 @@ keywords:
 - "release"
 - "changelog"
 - "QR"
-- "HanXin"
+- "Aztec"
+- "PDF417"
 menuItemWithNoContent: false
 ---
 
