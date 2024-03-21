@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-.net-24.2-(dlls-only)"
-description: " "
+title: "DjVu & CDR Formats, Extract Images: C# Apps API 24.2 (DLLs)"
+description: "Build versatile PDF apps with DjVu/CDR support, advanced image extraction & XPS conversion features using Aspose.PDF for .NET 24.2. Download DLLs now."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/net/new-releases/aspose.pdf-for-.net-24.2-(dlls-only)/"
@@ -43,8 +43,48 @@ weight: 869
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/net/release-notes/2024/aspose-pdf-for-net-24-2-release-notes/'>https://releases.aspose.com/pdf/net/release-notes/2024/aspose-pdf-for-net-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.PDF for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.PDF without the MSI installer.</div>
+      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.PDF for .NET 24.2 assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.PDF without the MSI installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+  {{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+C# developers, experience the power of Aspose.PDF for .NET 24.2 version which is packed with features and enhancements designed to supercharge your .NET PDF development workflow. Integrate them effortlessly into your C# PDF applications and experience a whole new level of efficiency.
+
+### Expanded File Format Support
+
+Support for DjVu (.djvu) and CDR (.cdr) file formats has been introduced in this release, enabling seamless conversion and manipulation within your applications.
+
+### Image Extraction
+
+Extract superior quality images during PDF to Markdown conversions, enriching your output and visual fidelity. 
+
+### XPS and HTML Conversion Advancements 
+
+With this release of the PDF API, you can maintain text selectability in XPS conversions and leverage CSS enhancements for more control over HTML to PDF outputs.
+
+### Annotations Review
+
+Manage review status for comments within text annotations, providing greater flexibility for collaborative workflows within your C# solutions.
+
+### Improved Printing Accuracy 
+
+Ensure accurate paper source selection and optimized printing workflows for the output PDF document and the resultant file in PDF to XPS conversions.
+
+### Comprehensive Bug Fixes
+
+App developers can experience a smoother development journey with a multitude of bug fixes addressing various functionalities.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for .NET 24.2 Release Notes](https://releases.aspose.com/pdf/net/release-notes/2024/aspose-pdf-for-net-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

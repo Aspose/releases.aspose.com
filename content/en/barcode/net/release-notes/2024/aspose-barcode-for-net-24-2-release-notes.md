@@ -5,7 +5,7 @@ slug: "aspose-barcode-for-net-24-2-release-notes"
 linktitle: "Aspose.BarCode for .NET 24.2 Release Notes"
 title: "Aspose.BarCode for .NET 24.2 Release Notes"
 author: "Konstantin Alkhimov"
-weight: 112
+weight: 110
 description: "A summary of recent changes, enhancements and bug fixes in Aspose.BarCode for .NET 24.2.0 (February 2024) release."
 type: "repository"
 layout: "release"
