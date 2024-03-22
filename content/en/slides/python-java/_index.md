@@ -29,7 +29,7 @@ Please use the following {{< Common/link href="https://pypi.org/project/aspose-s
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}
-       {{< consolebox/textarea id="pip" >}} pip install aspose.slides {{< /consolebox/textarea >}}
+       {{< consolebox/textarea id="pip" >}} pip install aspose-slides-java {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
 
