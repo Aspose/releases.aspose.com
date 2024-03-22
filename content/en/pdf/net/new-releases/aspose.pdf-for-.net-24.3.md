@@ -43,14 +43,14 @@ weight: 872
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/net/release-notes/2024/aspose-pdf-for-net-24-3-release-notes/'>https://releases.aspose.com/pdf/net/release-notes/2024/aspose-pdf-for-net-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.PDF for .NET 24.3 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.PDF for .NET 24.3 release MSI installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Notable Features">}}
 {{< Common/wrapper class="HTMLDescription">}}
 {{% Releases/ReleasesFileFeatures %}}
 
-Empower your app development workflows in .NET to deliver essential components for streamlined PDF processing. Aspose.PDF for .NET API offers lightweight and efficient solutions for developers to implement a wealth of new features and enhancements and empower C# solutions.
+Empower your app development workflows in .NET to deliver essential components for streamlined PDF processing. Aspose.PDF for .NET API 24.3 version release offers lightweight and efficient solutions for developers to implement a wealth of new features and enhancements and boost C# solutions.
 
 ### Enhanced PDF/A Compliance
 
