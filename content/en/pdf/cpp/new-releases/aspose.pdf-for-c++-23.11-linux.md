@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-c++-23.11-linux"
-description: " "
+title: "Merge PDFs, Replace Text with C++ PDF Library 23.11 (Linux)"
+description: "Download Aspose.PDF for C++ 23.11 to experience improved PDF manipulation with new color depth options, PDF merger, and text replacement on Linux."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-23.11-linux/"
@@ -43,8 +43,38 @@ weight: 199
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-11-release-notes/'>https://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Linux version</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for C++ 23.11 Linux version.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### PDF Merger Enhancements
+
+Effortlessly combine multiple PDFs into a single document using the new `Merge` and `MergeDocuments` methods to augment your C++ PDF manipulation apps.
+
+### Text Replacement and Adjustments
+
+Achieve control over text placement within PDF documents with the introduction of `RightAdjustment` and `LeftAdjustment` properties in the `TextReplaceOptions` class in this release of C++ PDF library.
+
+### Improved Color Depth
+
+This version enables superior image quality in your PDFs via better color depth control with the help of the newly introduced `Format24bpp`. 
+
+### Optimized Public API
+
+With the addition of various new classes and methods, developers can integrate more features into their C++ apps and take PDF processing to the next level using Aspose.PDF for C++ 23.11.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for C++ 23.11 Release Notes](https://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-11-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

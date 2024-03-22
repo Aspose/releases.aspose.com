@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-c++-23.10-linux"
-description: " "
+title: "HTML Export, PDF Transparency in C++ PDF API 23.10 (Linux)"
+description: "Build powerful C++ apps with PDF transparency flattening, signature hashing & optimized PDF to HTML export. Download Aspose.PDF C++ 23.10 on Linux."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-23.10-linux/"
@@ -43,8 +43,38 @@ weight: 196
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-10-release-notes/'>https://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Linux version</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for C++ 23.10 Linux version.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### PDF Transparency Management
+
+The newly added `FlattenTransparency()` method simplifies handling transparent elements within PDF documents in this release of the C++ library for PDF.
+
+### Customizable Signature Hashing
+
+Developers can implement custom signature hashing algorithms for secure PDF signing workflows using Aspose.PDF for C++ 23.10. 
+
+### PDF to HTML Rendering
+
+Optimize the export workflow while rendering PDF to HTML by controlling the font size and enhancing your C++ PDF conversion apps. 
+
+### Advanced Text Measurement
+
+The `MeasureHeight` methods in `TextFragmentState` and `TextState` offer improved accuracy for calculating text height within a PDF document.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for C++ 23.10 Release Notes](https://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-10-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

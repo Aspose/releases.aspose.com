@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-c++-24.3-macos"
-description: " "
+title: "Process PDFs, Format Text with C++ PDF Library 24.3 (macOS)"
+description: "Supercharge PDF processing apps with Aspose.PDF C++ 24.3 on macOS. Discover new text formatting options, optimized performance & more. Download now."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-24.3-macos/"
@@ -43,8 +43,38 @@ weight: 210
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-3-release-notes/'>https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for C++ macOS version</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for C++ 24.3 macOS version.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Performance Enhancements
+
+Different enhancements have been added to this release of the C++ PDF native library that optimize PDF conversion to other formats by caching font glyphs to boost speed.
+
+### Memory Leak Fixes
+
+Issues related to memory leaks encountered during PDF conversion are resolved, ensuring optimal resource management.
+
+### Improved Text Formatting
+
+New text formatting options are introduced in this release, providing refined word wrapping and a polished appearance for your PDF content.
+
+### Expanded API Functionality
+
+The addition of new APIs empower developers to execute JavaScript actions within PDF forms, set image bitmap sizes, and compare absorbed table, row, and cell elements for advanced PDF manipulation in C++.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for C++ 24.3 Release Notes](https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
