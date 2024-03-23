@@ -8,9 +8,9 @@ folder_link: "/tasks/net/new-releases/aspose.tasks-for-.net-24.3-(dlls-only)/"
 folder_name: "Aspose.Tasks for .NET 24.3（仅限 DLL）"
 download_link: "/tasks/net/new-releases/aspose.tasks-for-.net-24.3-(dlls-only)/0bfdceb2029ff0eb3268ce33d0b9ce03-5-10508"
 download_text: "下载"
-intro_text: "t 包含 Aspose.Tasks for .NET 24.3（仅限 DLL）版本。"
+intro_text: "它包含 Aspose.Tasks for .NET 24.3（仅限 DLL）版本。"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 20/3/2024 下载s: 1  Views: 1 "
+download_count: " 20/3/2024 下载s: 64  Views: 1 "
 file_size: "File Size: 22.69MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
@@ -31,7 +31,7 @@ weight: 517
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} 下载s: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-0bfdceb2029ff0eb3268ce33d0b9ce03-5-10508" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-0bfdceb2029ff0eb3268ce33d0b9ce03-5-10508" >}} 64 {{< /Common/li >}}
       {{< Common/li >}} 文件大小: {{< /Common/li >}}
       {{< Common/li id="size-update-0bfdceb2029ff0eb3268ce33d0b9ce03-5-10508" >}} 22.69MB {{< /Common/li >}}
 
@@ -43,7 +43,7 @@ weight: 517
       <h4>发行说明</h4><div><a href='https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-3-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>描述</h4><div class="HTMLDescription">t 包含 Aspose.Tasks for .NET 24.3（仅限 DLL）版本。</div>
+      <h4>描述</h4><div class="HTMLDescription">它包含 Aspose.Tasks for .NET 24.3（仅限 DLL）版本。</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

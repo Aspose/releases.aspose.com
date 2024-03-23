@@ -10,7 +10,7 @@ download_link: "/tasks/net/new-releases/aspose.tasks-for-.net-24.3-(dlls-only)/0
 download_text: "İndirmek"
 intro_text: "Aspose.Tasks for .NET 24.3 (Yalnızca DLL'ler) sürümünü içerir."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 20/3/2024 İndirmeks: 1  Views: 1 "
+download_count: " 20/3/2024 İndirmeks: 64  Views: 1 "
 file_size: "File Size: 22.69MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
@@ -31,7 +31,7 @@ weight: 517
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} İndirmeks: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-0bfdceb2029ff0eb3268ce33d0b9ce03-5-10508" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-0bfdceb2029ff0eb3268ce33d0b9ce03-5-10508" >}} 64 {{< /Common/li >}}
       {{< Common/li >}} Dosya boyutu: {{< /Common/li >}}
       {{< Common/li id="size-update-0bfdceb2029ff0eb3268ce33d0b9ce03-5-10508" >}} 22.69MB {{< /Common/li >}}
 

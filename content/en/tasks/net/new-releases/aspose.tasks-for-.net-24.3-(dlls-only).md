@@ -8,9 +8,9 @@ folder_link: "/tasks/net/new-releases/aspose.tasks-for-.net-24.3-(dlls-only)/"
 folder_name: "Aspose.Tasks for .NET 24.3 (DLLs Only)"
 download_link: "/tasks/net/new-releases/aspose.tasks-for-.net-24.3-(dlls-only)/0bfdceb2029ff0eb3268ce33d0b9ce03-5-10508"
 download_text: "Download"
-intro_text: "t contains Aspose.Tasks for .NET 24.3 (DLLs Only) release."
+intro_text: "It contains Aspose.Tasks for .NET 24.3 (DLLs Only) release."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 20/3/2024 Downloads: 1  Views: 1 "
+download_count: " 20/3/2024 Downloads: 64  Views: 1 "
 file_size: "File Size: 22.69MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
@@ -31,7 +31,7 @@ weight: 517
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-0bfdceb2029ff0eb3268ce33d0b9ce03-5-10508" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-0bfdceb2029ff0eb3268ce33d0b9ce03-5-10508" >}} 64 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
       {{< Common/li id="size-update-0bfdceb2029ff0eb3268ce33d0b9ce03-5-10508" >}} 22.69MB {{< /Common/li >}}
 
@@ -43,7 +43,7 @@ weight: 517
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-3-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">t contains Aspose.Tasks for .NET 24.3 (DLLs Only) release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for .NET 24.3 (DLLs Only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
