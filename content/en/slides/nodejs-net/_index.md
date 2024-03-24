@@ -53,19 +53,13 @@ aspose.slides is available on NPM as the  {{< Common/link href="https://www.npmj
 <!-- /ProductPageContent-->
 
 <!-- ReleasesListProductPage-->
-{{< Common/h1 text="Aspose.Slides for Node.js via .NET" >}}
-        {{< Common/paragraph>}}
-        {{< Common/ul>}}
-        {{< Common/li >}} {{< /Common/li >}}
-        {{< /Common/ul>}}
-        {{< /Common/paragraph>}}
-        {{< Common/hr >}}
+{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="slides" product="nodejs-net" >}}
+<!-- /ReleasesListProductPage-->
+
+{{< /ProductPageWrapper >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 <!-- /ProductPageContent-->
 
-<!-- ReleasesListProductPage-->
-{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="slides" product="nodejs-net" >}}
-<!-- /ReleasesListProductPage-->
 
 {{< /ProductPageWrapper >}}
