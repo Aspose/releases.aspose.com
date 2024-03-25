@@ -6,11 +6,11 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-24.3-macos-arm64/"
 folder_name: "Aspose.Slides para Python a través de .NET 24.3 MacOS ARM64"
-download_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-24.3-macos-arm64/b4c5d55e435461047b7534c863c38523-11-10455"
+download_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-24.3-macos-arm64/b4c5d55e435461047b7534c863c38523-11-10531"
 download_text: "Descargar"
 intro_text: "API de Python para manipulación de presentaciones"
 image_link: "/resources/img/random-file-icon.png"
-download_count: " 17/3/2024 Descargars: 1  Views: 1 "
+download_count: " 25/3/2024 Descargars: 1  Views: 1 "
 file_size: "File Size: 52.86MB"
 parent_path: "slides/python-net"
 section_parent_path: "slides/python-net"
@@ -24,19 +24,19 @@ weight: 89
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Slides para Python a través de .NET 24.3 MacOS ARM64" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Descargar" link="/slides/python-net/new-releases/aspose.slides-for-python-via-.net-24.3-macos-arm64/b4c5d55e435461047b7534c863c38523-11-10455" >}}
+    {{< Releases/ReleasesSingleButtons text="Descargar" link="/slides/python-net/new-releases/aspose.slides-for-python-via-.net-24.3-macos-arm64/b4c5d55e435461047b7534c863c38523-11-10531" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/slides" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="detalles del archivo">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Descargars: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-b4c5d55e435461047b7534c863c38523-11-10455" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-b4c5d55e435461047b7534c863c38523-11-10531" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Tamaño del archivo: {{< /Common/li >}}
-      {{< Common/li id="size-update-b4c5d55e435461047b7534c863c38523-11-10455" >}} 52.86MB {{< /Common/li >}}
+      {{< Common/li id="size-update-b4c5d55e435461047b7534c863c38523-11-10531" >}} 52.86MB {{< /Common/li >}}
 
       {{< Common/li >}} Fecha Agregada: {{< /Common/li >}}
-      {{< Common/li id="added-update-b4c5d55e435461047b7534c863c38523-11-10455" >}}17/3/2024 {{< /Common/li >}}
+      {{< Common/li id="added-update-b4c5d55e435461047b7534c863c38523-11-10531" >}}25/3/2024 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
