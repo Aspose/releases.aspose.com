@@ -10,7 +10,7 @@ download_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-24.3/7262789dd0d355b533
 download_text: "Descargar"
 intro_text: "Aspose.PDF para la biblioteca nativa de C++"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 20/3/2024 Descargars: 1  Views: 1 "
+download_count: " 20/3/2024 Descargars: 13  Views: 1 "
 file_size: "File Size: 465.22MB"
 parent_path: "pdf/cpp"
 section_parent_path: "pdf/cpp"
@@ -31,7 +31,7 @@ weight: 211
     {{< Releases/ReleasesHeading h4txt="detalles del archivo">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Descargars: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-7262789dd0d355b53379ba8b2b91ce15-94-10505" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-7262789dd0d355b53379ba8b2b91ce15-94-10505" >}} 13 {{< /Common/li >}}
       {{< Common/li >}} Tamaño del archivo: {{< /Common/li >}}
       {{< Common/li id="size-update-7262789dd0d355b53379ba8b2b91ce15-94-10505" >}} 465.22MB {{< /Common/li >}}
 
