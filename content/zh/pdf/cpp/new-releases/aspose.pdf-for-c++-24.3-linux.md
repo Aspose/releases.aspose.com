@@ -10,7 +10,7 @@ download_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-24.3-linux/c9800298cc01
 download_text: "下载"
 intro_text: "Linux版本"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 20/3/2024 下载s: 1  Views: 1 "
+download_count: " 20/3/2024 下载s: 38  Views: 1 "
 file_size: "File Size: 116.71MB"
 parent_path: "pdf/cpp"
 section_parent_path: "pdf/cpp"
@@ -31,7 +31,7 @@ weight: 212
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} 下载s: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-c9800298cc013bb9da2211c08747da0d-24-10506" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-c9800298cc013bb9da2211c08747da0d-24-10506" >}} 38 {{< /Common/li >}}
       {{< Common/li >}} 文件大小: {{< /Common/li >}}
       {{< Common/li id="size-update-c9800298cc013bb9da2211c08747da0d-24-10506" >}} 116.71MB {{< /Common/li >}}
 
