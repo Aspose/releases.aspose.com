@@ -1,16 +1,16 @@
 ---
 
-title: "Téléchargements --- Nouvelles sorties-aspose.svg-for-.net-244.3.0- (DLLS-Only)"
+title: "Téléchargements ---Nouvelles versions-aspose.svg-for-.net-24.3.0-(dll uniquement)"
 description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/svg/net/new-releases/aspose.svg-for-.net-24.3.0-(dlls-only)/"
-folder_name: "Aspose.svg pour .net 24.3.0 (DLLS uniquement)"
-download_link: "/svg/net/new-releases/aspose.svg-for-.net-24.3.0-(dlls-only)/3a7f86c99f75a6fd973e828b148988af-1-10433"
+folder_name: "Aspose.SVG pour .NET 24.3.0 (DLL uniquement)"
+download_link: "/svg/net/new-releases/aspose.svg-for-.net-24.3.0-(dlls-only)/3a7f86c99f75a6fd973e828b148988af-1-10525"
 download_text: "Télécharger"
-intro_text: "Ce fichier zip ne contient que les assemblages ASPOSE.SVG pour .NET. Les assemblages sont les mêmes que dans le programme d'installation MSI du produit de la même version. Téléchargez ceci si vous souhaitez utiliser Aspose.svg sans le programme d'installation MSI, c'est-à-dire que vous ne pouvez pas exécuter les installateurs MSI sur Mono. Ce téléchargement zip ne contient pas la documentation utilisateur dans le format d'aide Microsoft qui est inclus dans l'installateur MSI."
+intro_text: "Ce fichier ZIP contient uniquement les assemblys Aspose.SVG pour .NET. Les assemblys sont les mêmes que dans l'installateur MSI du produit de la même version. Téléchargez-le si vous souhaitez utiliser Aspose.SVG sans le programme d'installation MSI, c'est-à-dire que vous ne pouvez pas exécuter les programmes d'installation MSI sur Mono. Ce téléchargement ZIP ne contient pas la documentation utilisateur au format d'aide Microsoft incluse dans le programme d'installation MSI."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 6/3/2024 Téléchargers: 1  Views: 1 "
+download_count: " 25/3/2024 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 3.93MB"
 parent_path: "svg/net"
 section_parent_path: "svg/net"
@@ -22,28 +22,28 @@ weight: 152
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.svg pour .net 24.3.0 (DLLS uniquement)" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.SVG pour .NET 24.3.0 (DLL uniquement)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Télécharger" link="/svg/net/new-releases/aspose.svg-for-.net-24.3.0-(dlls-only)/3a7f86c99f75a6fd973e828b148988af-1-10433" >}}
+    {{< Releases/ReleasesSingleButtons text="Télécharger" link="/svg/net/new-releases/aspose.svg-for-.net-24.3.0-(dlls-only)/3a7f86c99f75a6fd973e828b148988af-1-10525" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/svg" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Téléchargers: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-3a7f86c99f75a6fd973e828b148988af-1-10433" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-3a7f86c99f75a6fd973e828b148988af-1-10525" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Taille du fichier: {{< /Common/li >}}
-      {{< Common/li id="size-update-3a7f86c99f75a6fd973e828b148988af-1-10433" >}} 3.93MB {{< /Common/li >}}
+      {{< Common/li id="size-update-3a7f86c99f75a6fd973e828b148988af-1-10525" >}} 3.93MB {{< /Common/li >}}
 
       {{< Common/li >}} date ajoutée: {{< /Common/li >}}
-      {{< Common/li id="added-update-3a7f86c99f75a6fd973e828b148988af-1-10433" >}}6/3/2024 {{< /Common/li >}}
+      {{< Common/li id="added-update-3a7f86c99f75a6fd973e828b148988af-1-10525" >}}25/3/2024 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Notes de version</h4><div><a href='https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-3-release-notes/'>https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>La description</h4><div class="HTMLDescription">Ce fichier zip ne contient que les assemblages ASPOSE.SVG pour .NET. Les assemblages sont les mêmes que dans le programme d'installation MSI du produit de la même version. Téléchargez ceci si vous souhaitez utiliser Aspose.svg sans le programme d'installation MSI, c'est-à-dire que vous ne pouvez pas exécuter les installateurs MSI sur Mono. Ce téléchargement zip ne contient pas la documentation utilisateur dans le format d'aide Microsoft qui est inclus dans l'installateur MSI.</div>
+      <h4>La description</h4><div class="HTMLDescription">Ce fichier ZIP contient uniquement les assemblys Aspose.SVG pour .NET. Les assemblys sont les mêmes que dans l'installateur MSI du produit de la même version. Téléchargez-le si vous souhaitez utiliser Aspose.SVG sans le programme d'installation MSI, c'est-à-dire que vous ne pouvez pas exécuter les programmes d'installation MSI sur Mono. Ce téléchargement ZIP ne contient pas la documentation utilisateur au format d'aide Microsoft incluse dans le programme d'installation MSI.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
