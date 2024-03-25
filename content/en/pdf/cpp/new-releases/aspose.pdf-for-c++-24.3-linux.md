@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-24.3-linux/"
 folder_name: "Aspose.PDF for C++ 24.3 Linux"
-download_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-24.3-linux/c9800298cc013bb9da2211c08747da0d-24-10457"
+download_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-24.3-linux/c9800298cc013bb9da2211c08747da0d-24-10506"
 download_text: "Download"
 intro_text: "Linux version"
 image_link: "/resources/img/zip-icon.png"
