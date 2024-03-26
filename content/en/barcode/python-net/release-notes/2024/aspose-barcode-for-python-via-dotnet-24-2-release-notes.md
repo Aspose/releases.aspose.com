@@ -3,7 +3,7 @@ id: "aspose-barcode-for-python-via-dotnet-24-2-release-notes"
 slug: "aspose-barcode-for-python-via-dotnet-24-2-release-notes"
 linktitle: "Aspose.BarCode for Python via .NET 24.2"
 title: "Aspose.BarCode for Python via .NET 24.2"
-weight: 1
+weight: 190
 description: "Aspose.BarCode for Python via .NET 24.2 – the latest updates and fixes."
 type: "repository"
 layout: "release"
