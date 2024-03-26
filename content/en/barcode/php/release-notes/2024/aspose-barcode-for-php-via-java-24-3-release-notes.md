@@ -3,7 +3,7 @@ id: "aspose-barcode-for-php-via-java-24_3-release-notes"
 slug: "aspose-barcode-for-php-via-java-24_3-release-notes"
 linktitle: "Aspose.BarCode for PHP via Java 24.3"
 title: "Aspose.BarCode for PHP via Java 24.3"
-weight: 9800
+weight: 9600
 description: "Aspose.BarCode for PHP via Java 24.3 – the latest updates and fixes."
 type: "repository"
 layout: "release"
