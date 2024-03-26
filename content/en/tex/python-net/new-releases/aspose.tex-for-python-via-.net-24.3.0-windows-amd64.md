@@ -6,11 +6,11 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/tex/python-net/new-releases/aspose.tex-for-python-via-.net-24.3.0-windows-amd64/"
 folder_name: "Aspose.TeX for Python via .NET 24.3.0 Windows AMD64"
-download_link: "/tex/python-net/new-releases/aspose.tex-for-python-via-.net-24.3.0-windows-amd64/ade9f2cfc99e075e6b78bb944b23245b-10-10441"
+download_link: "/tex/python-net/new-releases/aspose.tex-for-python-via-.net-24.3.0-windows-amd64/d61f1ea33d72566711bdcd2acea01ddf-10-10539"
 download_text: "Download"
 intro_text: "This wheel contains Aspose.TeX version 24.3.0, compatible with Python 3, and optimized for Windows 64-bit systems (AMD64)."
 image_link: "/resources/img/random-file-icon.png"
-download_count: " 14/3/2024 Downloads: 1  Views: 1 "
+download_count: " 26/3/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 46.56MB"
 parent_path: "tex/python-net"
 section_parent_path: "tex/python-net"
@@ -24,19 +24,19 @@ weight: 3
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.TeX for Python via .NET 24.3.0 Windows AMD64" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/tex/python-net/new-releases/aspose.tex-for-python-via-.net-24.3.0-windows-amd64/ade9f2cfc99e075e6b78bb944b23245b-10-10441" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/tex/python-net/new-releases/aspose.tex-for-python-via-.net-24.3.0-windows-amd64/d61f1ea33d72566711bdcd2acea01ddf-10-10539" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/tex" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-ade9f2cfc99e075e6b78bb944b23245b-10-10441" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-d61f1ea33d72566711bdcd2acea01ddf-10-10539" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
-      {{< Common/li id="size-update-ade9f2cfc99e075e6b78bb944b23245b-10-10441" >}} 46.56MB {{< /Common/li >}}
+      {{< Common/li id="size-update-d61f1ea33d72566711bdcd2acea01ddf-10-10539" >}} 46.56MB {{< /Common/li >}}
 
       {{< Common/li >}} Date Added: {{< /Common/li >}}
-      {{< Common/li id="added-update-ade9f2cfc99e075e6b78bb944b23245b-10-10441" >}}14/3/2024 {{< /Common/li >}}
+      {{< Common/li id="added-update-d61f1ea33d72566711bdcd2acea01ddf-10-10539" >}}26/3/2024 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
