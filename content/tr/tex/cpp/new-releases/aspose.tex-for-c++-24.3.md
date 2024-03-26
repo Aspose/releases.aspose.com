@@ -6,11 +6,11 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/tex/cpp/new-releases/aspose.tex-for-c++-24.3/"
 folder_name: "C++ 24.3 için Aspose.TeX"
-download_link: "/tex/cpp/new-releases/aspose.tex-for-c++-24.3/aa1017e993296bdd05e832c9ef6133cd-43-10445"
+download_link: "/tex/cpp/new-releases/aspose.tex-for-c++-24.3/aa1017e993296bdd05e832c9ef6133cd-43-10536"
 download_text: "İndirmek"
 intro_text: "Aspose.TeX for C++ 24.3 yerel kütüphanesi"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 15/3/2024 İndirmeks: 1  Views: 1 "
+download_count: " 26/3/2024 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 212.99MB"
 parent_path: "tex/cpp"
 section_parent_path: "tex/cpp"
@@ -24,19 +24,19 @@ weight: 102
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="C++ 24.3 için Aspose.TeX" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="İndirmek" link="/tex/cpp/new-releases/aspose.tex-for-c++-24.3/aa1017e993296bdd05e832c9ef6133cd-43-10445" >}}
+    {{< Releases/ReleasesSingleButtons text="İndirmek" link="/tex/cpp/new-releases/aspose.tex-for-c++-24.3/aa1017e993296bdd05e832c9ef6133cd-43-10536" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/tex" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} İndirmeks: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-aa1017e993296bdd05e832c9ef6133cd-43-10445" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-aa1017e993296bdd05e832c9ef6133cd-43-10536" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Dosya boyutu: {{< /Common/li >}}
-      {{< Common/li id="size-update-aa1017e993296bdd05e832c9ef6133cd-43-10445" >}} 212.99MB {{< /Common/li >}}
+      {{< Common/li id="size-update-aa1017e993296bdd05e832c9ef6133cd-43-10536" >}} 212.99MB {{< /Common/li >}}
 
       {{< Common/li >}} Ekleme Tarihi: {{< /Common/li >}}
-      {{< Common/li id="added-update-aa1017e993296bdd05e832c9ef6133cd-43-10445" >}}15/3/2024 {{< /Common/li >}}
+      {{< Common/li id="added-update-aa1017e993296bdd05e832c9ef6133cd-43-10536" >}}26/3/2024 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
