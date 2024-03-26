@@ -1,16 +1,16 @@
 ---
 
-title: "Загрузки --- Новые релизы-"
+title: "Загрузки ---Новые выпуски-aspose.tex-for-python-via-.net-24.3.0-windows-x32"
 description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/tex/python-net/new-releases/aspose.tex-for-python-via-.net-24.3.0-windows-x32/"
-folder_name: "Aspose.tex для python через .net 24.3.0 Windows x32"
-download_link: "/tex/python-net/new-releases/aspose.tex-for-python-via-.net-24.3.0-windows-x32/c54332ab64e1f8265ee41d3b54931162-9-10442"
+folder_name: "Aspose.TeX для Python через .NET 24.3.0 Windows x32"
+download_link: "/tex/python-net/new-releases/aspose.tex-for-python-via-.net-24.3.0-windows-x32/89abb0dd31726cf2a6860f95cf51174e-9-10540"
 download_text: "Скачать"
-intro_text: "Он содержит Aspose.tex для Python через .NET 24.3.0, выпуск Windows X32."
+intro_text: "Он содержит Aspose.TeX для Python через .NET 24.3.0, выпуск Windows x32."
 image_link: "/resources/img/random-file-icon.png"
-download_count: " 14/3/2024 Скачатьs: 1  Views: 1 "
+download_count: " 26/3/2024 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 42.21MB"
 parent_path: "tex/python-net"
 section_parent_path: "tex/python-net"
@@ -22,28 +22,28 @@ weight: 4
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.tex для python через .net 24.3.0 Windows x32" imagelink="/resources/img/random-file-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.TeX для Python через .NET 24.3.0 Windows x32" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Скачать" link="/tex/python-net/new-releases/aspose.tex-for-python-via-.net-24.3.0-windows-x32/c54332ab64e1f8265ee41d3b54931162-9-10442" >}}
+    {{< Releases/ReleasesSingleButtons text="Скачать" link="/tex/python-net/new-releases/aspose.tex-for-python-via-.net-24.3.0-windows-x32/89abb0dd31726cf2a6860f95cf51174e-9-10540" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/tex" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Детали файла">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Скачатьs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-c54332ab64e1f8265ee41d3b54931162-9-10442" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-89abb0dd31726cf2a6860f95cf51174e-9-10540" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Размер файла: {{< /Common/li >}}
-      {{< Common/li id="size-update-c54332ab64e1f8265ee41d3b54931162-9-10442" >}} 42.21MB {{< /Common/li >}}
+      {{< Common/li id="size-update-89abb0dd31726cf2a6860f95cf51174e-9-10540" >}} 42.21MB {{< /Common/li >}}
 
       {{< Common/li >}} Дата добавления: {{< /Common/li >}}
-      {{< Common/li id="added-update-c54332ab64e1f8265ee41d3b54931162-9-10442" >}}14/3/2024 {{< /Common/li >}}
+      {{< Common/li id="added-update-89abb0dd31726cf2a6860f95cf51174e-9-10540" >}}26/3/2024 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/tex/python-net/release-notes/2024/aspose-tex-for-python-net-24-3-release-notes/'>https://releases.aspose.com/tex/python-net/release-notes/2024/aspose-tex-for-python-net-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Описание</h4><div class="HTMLDescription">Он содержит Aspose.tex для Python через .NET 24.3.0, выпуск Windows X32.</div>
+      <h4>Описание</h4><div class="HTMLDescription">Он содержит Aspose.TeX для Python через .NET 24.3.0, выпуск Windows x32.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
