@@ -35,6 +35,8 @@ This page contains release notes information for [Aspose.BarCode for Java 24.3](
 - method com.aspose.barcode.generation.ImageParameters.getSvg():SvgParameters
 - method com.aspose.barcode.generation.ImageParameters.setSvg(SvgParameters)
 - class com.aspose.barcode.generation.SvgParameters
-- method com.aspose.barcode.generation.SvgParameters.IsExplicitSizeInPixels():boolean
+- method com.aspose.barcode.generation.SvgParameters.isExplicitSizeInPixels():boolean
+- method com.aspose.barcode.generation.SvgParameters.setExplicitSizeInPixels(boolean)
 - method com.aspose.barcode.generation.SvgParameters.isTextDrawnInTextElement():boolean
+- method com.aspose.barcode.generation.SvgParameters.setTextDrawnInTextElement(boolean)
     
