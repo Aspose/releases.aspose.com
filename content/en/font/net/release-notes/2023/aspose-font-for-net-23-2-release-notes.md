@@ -3,7 +3,7 @@ id: "aspose-font-for-net-23-2-release-notes"
 slug: "aspose-font-for-net-23-2-release-notes"
 linktitle: "Aspose.Font for .NET 23.2 Release Notes"
 title: "Aspose.Font for .NET 23.2 Release Notes"
-description: This page contains new Aspose.Font for .NET features, enhancement, and bug fixes in 2022, version 23.2.
+description: This page contains new Aspose.Font for .NET features, enhancement, and bug fixes in 2023, version 23.2.
 productName: "Aspose.Font for .NET"
 weight: 99
 type: "repository"
