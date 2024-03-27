@@ -30,10 +30,10 @@ This page contains release notes information for [Aspose.BarCode for Node.js via
 ## **Public API and Backward Incompatible Changes**
 ### New SVG parameters API:
 
-- added method Generation.BaseGenerationParameters.getImage()
+- added method Generation.BaseGenerationParameters.getImage():ImageParameters
 - added class Generation.ImageParameters
-- added method Generation.ImageParameters.getSvg()
-- added method Generation.ImageParameters.setSvg(value)
+- added method Generation.ImageParameters.getSvg():SvgParameters
+- added method Generation.ImageParameters.setSvg(SvgParameters)
 - added class Generation.SvgParameters
 - added method Generation.SvgParameters.isExplicitSizeInPixels():boolean
 - added method Generation.SvgParameters.setExplicitSizeInPixels(boolean)
