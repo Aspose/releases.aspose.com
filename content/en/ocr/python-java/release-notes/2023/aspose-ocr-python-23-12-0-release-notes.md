@@ -19,7 +19,7 @@ keywords:
 ---
 
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for Python via .NET 23.12.0 (December 2023)** release.
+This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for Python via Java 23.12.0 (December 2023)** release.
 {{% /alert %}}
 
 ## What was changed
