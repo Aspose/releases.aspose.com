@@ -56,8 +56,8 @@ Aspose.PDF for Reporting Services is a report rendering extension that seamlessl
 - Rectangles
 - Lines
 - Sub Report
-- Gauge panel (RS2008)
-- Tablix (RS2008)
+- Gauge panel
+- Tablix
 
 ### Supported Report Parameters
 
@@ -70,7 +70,7 @@ Aspose.PDF for Reporting Services is a report rendering extension that seamlessl
 - Page margin size
 - XMP Metadata
 - Debug Information
-- PDF_A Conformance
+- PDF/A Conformance
 - List Section
 - Page Rotating Angle
 - Compression
@@ -85,13 +85,11 @@ Aspose.PDF for Reporting Services is a report rendering extension that seamlessl
 
 ### Supported Platforms
 
-- Microsoft SQL Server 2000 Reporting Services
-- Microsoft SQL Server 2005 Reporting Services
-- Microsoft SQL Server 2008 Reporting Services
-- Microsoft SQL Server 2012 Reporting Services
 - Microsoft SQL Server 2016 Reporting Services
-- Aspose.PDF for Reporting Services2000/2005 needs .NET Framework 2.0
-- Aspose.PDF for Reporting Services2008 needs .NET Framework 3.5
+- Microsoft SQL Server 2017 Reporting Services
+- Microsoft SQL Server 2019 Reporting Services
+- Microsoft SQL Server 2022 Reporting Services
+- Aspose.PDF for Reporting Services requires .NET Framework 4.8.1
 
 {{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
