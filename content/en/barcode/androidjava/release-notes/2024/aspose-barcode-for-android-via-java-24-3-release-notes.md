@@ -22,6 +22,5 @@ This page contains release notes information for [Aspose.BarCode for Android via
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-||BARCODENET-38283|Add improvements to barcode generation in SVG format|Enhancement|
 |BARCODENET-38802|Add support of new QualitySettings structure to HanXin barcode engine|Enhancement|
 |BARCODENET-38805|Add support of new QualitySettings structure to QR barcode engine|Enhancement|
