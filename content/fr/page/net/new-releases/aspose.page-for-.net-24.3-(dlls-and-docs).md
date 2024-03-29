@@ -6,12 +6,12 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/page/net/new-releases/aspose.page-for-.net-24.3-(dlls-and-docs)/"
 folder_name: "Aspose.Page pour .NET 24.3 (DLL et documents)"
-download_link: "/page/net/new-releases/aspose.page-for-.net-24.3-(dlls-and-docs)/ade83c38077552ebe293404460509ada-5-10563"
+download_link: "/page/net/new-releases/aspose.page-for-.net-24.3-(dlls-and-docs)/14de6e6832cfcfba971250679a39fd8b-5-10563"
 download_text: "Télécharger"
 intro_text: "Nous sommes heureux d'annoncer une nouvelle version d'Aspose.Page pour .Net."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 29/3/2024 Téléchargers: 1  Views: 1 "
-file_size: "File Size: 23.93MB"
+download_count: " 29/3/2024 Téléchargers: 2  Views: 1 "
+file_size: "File Size: 23.91MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
 
@@ -24,19 +24,19 @@ weight: 146
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Page pour .NET 24.3 (DLL et documents)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Télécharger" link="/page/net/new-releases/aspose.page-for-.net-24.3-(dlls-and-docs)/ade83c38077552ebe293404460509ada-5-10563" >}}
+    {{< Releases/ReleasesSingleButtons text="Télécharger" link="/page/net/new-releases/aspose.page-for-.net-24.3-(dlls-and-docs)/14de6e6832cfcfba971250679a39fd8b-5-10563" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/page" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Téléchargers: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-ade83c38077552ebe293404460509ada-5-10563" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-14de6e6832cfcfba971250679a39fd8b-5-10563" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} Taille du fichier: {{< /Common/li >}}
-      {{< Common/li id="size-update-ade83c38077552ebe293404460509ada-5-10563" >}} 23.93MB {{< /Common/li >}}
+      {{< Common/li id="size-update-14de6e6832cfcfba971250679a39fd8b-5-10563" >}} 23.91MB {{< /Common/li >}}
 
       {{< Common/li >}} date ajoutée: {{< /Common/li >}}
-      {{< Common/li id="added-update-ade83c38077552ebe293404460509ada-5-10563" >}}29/3/2024 {{< /Common/li >}}
+      {{< Common/li id="added-update-14de6e6832cfcfba971250679a39fd8b-5-10563" >}}29/3/2024 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
