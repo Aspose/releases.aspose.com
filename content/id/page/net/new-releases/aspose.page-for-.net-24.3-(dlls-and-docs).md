@@ -6,12 +6,12 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/page/net/new-releases/aspose.page-for-.net-24.3-(dlls-and-docs)/"
 folder_name: "Aspose.Page untuk .NET 24.3 (DLL dan dokumen)"
-download_link: "/page/net/new-releases/aspose.page-for-.net-24.3-(dlls-and-docs)/ade83c38077552ebe293404460509ada-5-10563"
+download_link: "/page/net/new-releases/aspose.page-for-.net-24.3-(dlls-and-docs)/14de6e6832cfcfba971250679a39fd8b-5-10563"
 download_text: "Unduh"
 intro_text: "Kami dengan senang hati mengumumkan versi baru Aspose.Page untuk .Net."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 29/3/2024 Unduhs: 1  Views: 1 "
-file_size: "File Size: 23.93MB"
+download_count: " 29/3/2024 Unduhs: 2  Views: 1 "
+file_size: "File Size: 23.91MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
 
@@ -24,19 +24,19 @@ weight: 146
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Page untuk .NET 24.3 (DLL dan dokumen)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Unduh" link="/page/net/new-releases/aspose.page-for-.net-24.3-(dlls-and-docs)/ade83c38077552ebe293404460509ada-5-10563" >}}
+    {{< Releases/ReleasesSingleButtons text="Unduh" link="/page/net/new-releases/aspose.page-for-.net-24.3-(dlls-and-docs)/14de6e6832cfcfba971250679a39fd8b-5-10563" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/page" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detail File">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Unduhs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-ade83c38077552ebe293404460509ada-5-10563" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-14de6e6832cfcfba971250679a39fd8b-5-10563" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} Ukuran file: {{< /Common/li >}}
-      {{< Common/li id="size-update-ade83c38077552ebe293404460509ada-5-10563" >}} 23.93MB {{< /Common/li >}}
+      {{< Common/li id="size-update-14de6e6832cfcfba971250679a39fd8b-5-10563" >}} 23.91MB {{< /Common/li >}}
 
       {{< Common/li >}} Tanggal Ditambahkan: {{< /Common/li >}}
-      {{< Common/li id="added-update-ade83c38077552ebe293404460509ada-5-10563" >}}29/3/2024 {{< /Common/li >}}
+      {{< Common/li id="added-update-14de6e6832cfcfba971250679a39fd8b-5-10563" >}}29/3/2024 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
