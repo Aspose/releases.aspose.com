@@ -45,6 +45,44 @@ weight: 119
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Cells for C++ version 24.1 (Windows). For more information, see the release notes and readme file.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### New Features
+
+- Add custom styles during HTML export (CELLSNET-54605)
+- Implement digital signatures for workbooks & VBA (CELLSCPP-1028)
+- Save workbooks as TIFF image files within C++ Spreadsheet Apps on Windows (CELLSCPP-1029)
+- Build for Windows x86 (CELLSCPP-1027)
+
+### Enhancements
+
+- Improved R/W pivot data minimum and maximum values in XLSX files (CELLSNET-54843)
+- Support autofill directions including right-to-left and bottom-up (CELLSNET-54869)
+- Show active sheet background in tab bar (CELLSNET-54907)
+
+### Bug Fixes
+
+- Resolved image orientation issues during Excel to PDF conversion in C++ (CELLSNET-47789)
+- Comment text color loss in PDF export issue is fixed (CELLSNET-54213)
+- DataSorter right-to-left sorting issues have been addressed (CELLSNET-54736)
+- Fixed data validation and formulas evaluation processing in Excel files (CELLSNET-54618)
+- Data loss when converting XLSX to PPTX in C++ (CELLSNET-54778)
+- Password verification not working (CELLSNET-54922)
+- Incorrect picture width while inserting TIFF image to worksheet in .NET 6.0 (CELLSNET-54870)
+
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for C++ 24.1 Release Notes](https://releases.aspose.com/cells/cpp/release-notes/2024/aspose-cells-for-cpp-windows-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
