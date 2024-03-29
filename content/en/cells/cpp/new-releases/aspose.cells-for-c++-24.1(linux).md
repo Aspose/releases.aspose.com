@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-c++-24.1(linux)"
-description: " "
+title: "Aspose.Cells for C++ API 24.1: Boost Spreadsheets on Linux"
+description: "Enhance your Linux C++ apps with Aspose.Cells for C++ 24.1. Utilize custom HTML export styles, formula handling, and TIFF image support. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/cpp/new-releases/aspose.cells-for-c++-24.1(linux)/"
@@ -45,6 +45,41 @@ weight: 120
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for C++ 24.1(Linux)</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### New Features
+
+- Keeping header row in each worksheet during CSV to Excel conversion (CELLSNET-54219)
+- Added support for autofill within the merge area on Linux (CELLSNET-54837)
+- Add digital signatures for workbooks & VBA in C++ Excel manipulation apps (CELLSCPP-1028)
+
+### Enhancements
+
+- Enhanced Formula Handling for Large `SetDynamicArrayFormulas` (CELLSNET-54790)
+- Show background of the active sheet in tab bar (CELLSNET-54907)
+- Support for throwing an exception while trying to open a crashed file (CELLSNET-54942)
+
+
+### Bug Fixes
+
+- Fixed the issue with pivot table and pivot chart addition corrupting the Excel file (CELLSNET-54902)
+- Incorrect cell value after filter cancellation in Slicer filtering (CELLSNET-54826)
+- Orientation of image while converting Excel to PDF documents (CELLSNET-47789)
+- DataSorter right-to-left sorting issues have been addressed (CELLSNET-54736)
+
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for C++ 24.1 Release Notes](https://releases.aspose.com/cells/cpp/release-notes/2024/aspose-cells-for-cpp-linux-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

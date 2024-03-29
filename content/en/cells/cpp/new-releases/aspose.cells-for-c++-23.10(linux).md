@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-c++-23.10(linux)"
-description: " "
+title: "Aspose.Cells C++ 23.10 - Enhance Spreadsheets on Windows"
+description: "Unleash the power of spreadsheets in your Linux C++ projects! Download Aspose.Cells for C++ 23.10 with .NET feature parity and improved PDF conversions."
 keywords: " "
 page_type: single_release_page
 folder_link: "/cells/cpp/new-releases/aspose.cells-for-c++-23.10(linux)/"
@@ -43,8 +43,30 @@ weight: 112
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-linux-23-10-release-notes/'>https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-linux-23-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Please refer to release notes and ReadMe for detail</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Cells for C++ version 23.10 (Linux). For more information, see the release notes and readme file.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Streamlined Development
+
+Aspose.Cells for C++ 23.10 aligns with the .NET version, simplifying development for cross-platform applications on Linux.
+
+### Reliable PDF Export
+
+Developers can experience seamless data export while converting Excel to PDF after a bug related to the process was fixed in this release of the C++ Excel API.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for C++ 23.10 Release Notes](https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-linux-23-10-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
