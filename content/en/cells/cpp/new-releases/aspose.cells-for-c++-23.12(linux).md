@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-c++-23.12(linux)"
-description: " "
+title: "Aspose.Cells C++ 23.12: Empower Your C# Excel Apps on Linux"
+description: "Aspose.Cells C++ 23.12 delivers a streamlined API for C++ developers on Linux. Leverage improved syntax, object creation & more. Download Excel API today!"
 keywords: " "
 page_type: single_release_page
 folder_link: "/cells/cpp/new-releases/aspose.cells-for-c++-23.12(linux)/"
@@ -45,6 +45,41 @@ weight: 118
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Cells for C++ version 23.12 (Linux). For more information, see the release notes and readme file.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Write Cleaner, More Modern C++ Code
+
+The latest update to Aspose.Cells for C++ brings a refresh to object interaction and initialization. This means your code will be easier to read and maintain, adhering more closely to the C++ standards you're familiar with on Linux.
+
+### Effortless Object Access
+
+Version 23.12 of the C# API replaces `GetObjectByIndex` with the intuitive `Get(int)` method, allowing you to effortlessly retrieve objects from collections with a syntax that feels natural in C++.
+
+### Improved Clarity with Interface Naming
+
+We've fine-tuned the naming conventions for interfaces, making them slightly more descriptive for better understanding. For instance, `GetIWorksheets` has been streamlined to `GetWorksheets`.
+
+### Enhanced String Handling
+
+This update introduces new interfaces specifically designed for working with strings within your C++ Excel applications. For example, you can now use `Shape::AddHyperlink(const char16_t* address)` for effortless hyperlink creation.
+
+### More Highlights
+
+- **Support fo TIFF Images:** TIFF generation is currently not supported in this version. Please feel free to explore alternative formats while exporting to images.
+- **User-defined Formula Update:** The functionality for user-defined formulas has undergone some changes. The `ICustomFunction` base class has been replaced with `AbstractCalculationEngine`, and its related functions are still under development. We recommend using them with caution for now.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for C++ 23.12 Release Notes](https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-linux-23-12-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
