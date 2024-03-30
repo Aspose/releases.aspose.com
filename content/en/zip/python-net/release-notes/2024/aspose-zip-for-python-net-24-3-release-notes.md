@@ -1,0 +1,42 @@
+---
+id: "aspose-zip-for-python-net-24-3-release-notes"
+slug: "aspose-zip-for-python-net-24-3-release-notes"
+linktitle: "Aspose.ZIP for Pyjon via .NET 24.3 Release Notes"
+title: "Aspose.ZIP for Python via .NET 24.3 Release Notes"
+weight: 14
+description: "Aspose.ZIP for Python via .NET 24.3 Release Notes – the latest updates and fixes."
+type: "repository"
+layout: "release"
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.ZIP for Python via .NET 24.3 Release Notes"
+menuItemWithNoContent: false
+tags: ['Zip', 'compression', 'decompression', 'encryption', 'decryption', 'deflate', 'sfx', 'self-extracted', 'self-extractor', 'pack', 'unpack', 'compress', 'decompress', 'encrypt', 'decrypt', 'extract', 'ZipCrypto', 'bzip2', 'PPMd', 'cpio', 'tar', 'untar', 'gnu-tar', 'shar', 'gzip', 'lzip', 'LZMA', '7z', 'LZMA2', 'RAR', 'RAR4', 'RAR5', 'cab', 'wim', 'xar', 'xz', 'snappy', 'Z']
+---
+
+{{% alert color="primary" %}} 
+
+This page contains release notes information for [Aspose.ZIP for Python via .NET 24.3](https://pypi.org/project/aspose-zip/24.3.0/).
+
+{{% /alert %}} 
+## **All Changes**
+
+|**Key**|**Summary**|**Issue Type**|
+| :- | :- | :- |
+|ZIPNET-1136|Introduce Zstandard archive format.|Feature|
+|ZIPNET-1134|Cpio combinations with various compression methods.|Feature|
+
+## **Public API and Backwards Incompatible Changes**
+|**The following public types were added:**|**Description**|
+| :- | :- |
+|Aspose.Zip.Zstandard.ZstandardArchive|A class representing Zstandard archive file.|
+|**The following public methods and properties were added:**|**Description**|
+| :- | :- |
+|Aspose.Zip.Cpio.CpioArchive.SaveLzipped(...)|Saves archive to the stream with lzip compression.|
+|Aspose.Zip.Cpio.CpioArchive.SaveLZMACompressed(...)|Saves archive to the stream with LZMA compression.|
+|Aspose.Zip.Cpio.CpioArchive.SaveZCompressed(...)|Saves archive to the stream with Z compression.|
+|Aspose.Zip.Cpio.CpioArchive.SaveZstandard(...)|Saves archive to the stream with Zstandard compression.|
+|Aspose.Zip.Zstandard.ZstandardArchive.SetSource(...)|Sets the content to be compressed within the archive.|
+|Aspose.Zip.Zstandard.ZstandardArchive.Open()|Opens the archive for extraction and provides a stream with archive content.|
+|Aspose.Zip.Zstandard.ZstandardArchive.Save(...)|Saves archive to the stream provided.|
+|Aspose.Zip.Zstandard.ZstandardArchive.ExtractToDirectory (...)|Extracts content of the archive to the directory provided.|
