@@ -41,16 +41,19 @@ Added the ability to load fonts from another source when the font is replaced wh
 - Aspose::Pub::PubToPdfConversionOptions
 
  Constructors
+
 Aspose::Pub::PubToPdfConversionOptions
 PubToPdfConversionOptions (System::ArrayPtr&lt; System::SharedPtr&lt; FontSubstitution &gt;&gt;)
 Aspose::Pub::PubToPdfConversionOptions(System::ArrayPtr&lt; System::SharedPtr&lt; FontSource &gt;&gt;)
 Aspose::Pub::PubToPdfConversionOptions((System::ArrayPtr&lt; System::SharedPtr&lt; FontSubstitution &gt;&gt; fontSubstitutions, System::ArrayPtr&lt; System::SharedPtr&lt; FontSource &gt;&gt; )
 
  Properties
+
 Aspose::Pub::PubToPdfConversionOptions::get_FontSubstitutions ()
 Aspose::Pub::PubToPdfConversionOptions::get_FontSources ()
 
  Methods
+
 Aspose::Pub::PubToPdfConversionOptions::AddFontSubstitution(System::SharedPtr&lt; FontSubstitution &gt;)
 Aspose::Pub::PubToPdfConversionOptions::AddFontSource(System::SharedPtr&lt; FontSource &gt;)
 
@@ -58,9 +61,11 @@ Aspose::Pub::PubToPdfConversionOptions::AddFontSource(System::SharedPtr&lt; Font
 - Aspose::Pub::FontSubstitution
 
  Constructors
+
 Aspose::Pub::FontSubstitution(System::String originalFontName, System::String substitutionFontName, bool )
 
  Properties
+
 Aspose::Pub::FontSubstitution::get_OriginalFontName ()
 Aspose::Pub::FontSubstitution::get_SubstitutionFontName ()
 Aspose::Pub::FontSubstitution::get_ReplaceAlways ()
@@ -68,18 +73,22 @@ Aspose::Pub::FontSubstitution::get_ReplaceAlways ()
 - Aspose::Pub::FontSource
 
  Constructors
+
 Aspose::Pub::FontSource
 
 - Aspose::Pub::FolderFontSource
 
  Constructors
+
 Aspose::Pub::FolderFontSource(System::String)
 
  Properties
+
 Aspose::Pub::FolderFontSource::get_FolderPath ()
 Aspose::Pub::FolderFontSource::set_FolderPath (System::String)
 
  Methods
+
 Aspose::Pub::FolderFontSource::Equals(System::SharedPtr&lt; System::Object &gt; )
 
 
@@ -87,6 +96,7 @@ Aspose::Pub::FolderFontSource::Equals(System::SharedPtr&lt; System::Object &gt; 
 - Aspose::Pub::IPubConverter
 
  Methods
+
 Aspose::Pub::IPubConverter::ConvertToFormat(System::SharedPtr&lt; Document &gt; , System::String , PubExportFormats)
 
 #### **Added Enumerations**
