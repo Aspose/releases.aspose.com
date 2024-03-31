@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-c++-23.12-macos"
-description: " "
+title: "C++ PDF API 23.12: Set Transparency, PDF to Word (macOS)"
+description: "Integrate enhanced PDF to Word conversion, set text transparency, and more into your C++ apps with Aspose.PDF for C++ 23.12. Download on macOS now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-23.12-macos/"
@@ -43,8 +43,36 @@ weight: 203
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-12-release-notes/'>https://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for C++ macOS version</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for C++ 23.12 macOS version.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Enhanced PDF to Word Conversion
+
+Experience improved accuracy and formatting when converting PDF documents to Word (PDF to DOCX) format using this version of Aspose.PDF for C++.
+
+### Text Transparency
+
+Effortlessly set text transparency levels and optimize PDF manipulation workflows with the native C++ library.
+
+### Other Highlights
+
+- **Signature removal:** This release includes fixes allowing you to seamlessly remove signatures from your PDF documents.
+- **PDF background change:** You can change the background of specific regions within a PDF document page.
+- **Markdown generation:** Generate well-formatted markdown files from your PDFs with advanced control over styling and content.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for C++ 23.12 Release Notes](https://releases.aspose.com/pdf/cpp/release-notes/2023/aspose-pdf-for-cpp-23-12-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

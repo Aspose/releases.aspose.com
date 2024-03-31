@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-.net-23.11.1-(dlls-only)"
-description: " "
+title: "PDF API for .NET 23.11.1: Hidden Text, File Size, PDF/A (DLLs)"
+description: "Improved hidden text management in PDFs, optimized PDF/A conversions, file size reduction & bug fixes in Aspose.PDF .NET 23.11.1. Download DLLs today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/net/new-releases/aspose.pdf-for-.net-23.11.1-(dlls-only)/"
@@ -43,8 +43,41 @@ weight: 863
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-11-release-notes/'>https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.PDF for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.PDF without the MSI installer.</div>
+      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.PDF for .NET 23.11.1 assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.PDF without the MSI installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Integrate advanced PDF manipulation functionalities into your C# PDF apps, such as handling hidden text in PDF files, PDF/A conversion optimizations, better compliance, and more, with Aspose.PDF for .NET 23.11.1 version release. 
+
+### Hidden Text Management
+
+This version of the C# API allows you to remove hidden text within PDF files for cleaner document versions. You can choose to ignore or detect hidden text during processing.
+
+### PDF/A Conversion
+
+Experience improved PDF/A conversion for robust adherence to PDF/A compliance standards and file size reduction when converting PDF to PDF/A formats. 
+
+### PDF Processing Enhancements 
+
+You can benefit from different fixes addressing a range of PDF processing functionalities, such as:
+- Improved handling of various PDF elements like checkboxes, page trees, and text formatting.
+- Memory optimization for smoother processing of PDFs.
+- Text search and replace functionality for more accurate results.
+- Enhanced memory management during PDF processing.
+- Fixed issues affecting specific conversion formats like PDF to DOCX and PDF to Image.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for .NET 23.11.1 Release Notes](https://releases.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-11-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

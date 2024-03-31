@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-c++-23.11(windows)"
-description: " "
+title: "Aspose.Cells C++ API 23.11: .NET Sync Support on Windows"
+description: "Upgrade your C++ applications with spreadsheet capabilities. Download Aspose.Cells for C++ 23.11 version release to leverage .NET sync features on Windows."
 keywords: " "
 page_type: single_release_page
 folder_link: "/cells/cpp/new-releases/aspose.cells-for-c++-23.11(windows)/"
@@ -43,8 +43,28 @@ weight: 115
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-windows-23-11-release-notes/'>https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-windows-23-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Please refer to release notes and ReadMe for detail</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Cells for C++ version 23.11 (Windows). Please refer to release notes and ReadMe for details.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+C++ developers can use Aspose.Cells for C++ 23.11 for seamless integration with Windows development environments, providing a familiar experience for developers accustomed to the .NET framework. Handle complex spreadsheet operations and focus on core functionalities with ease.
+
+### Improved Functionality
+
+This release of the C# Excel API incorporates sync features previously available in the .NET version, enhancing data management capabilities within your C++ applications.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for C++ 23.11 Release Notes](https://releases.aspose.com/cells/cpp/release-notes/2023/aspose-cells-for-cpp-windows-23-11-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

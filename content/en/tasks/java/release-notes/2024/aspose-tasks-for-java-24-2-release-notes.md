@@ -36,7 +36,7 @@ This page contains release notes information for [Aspose.Tasks for Java 24.2](ht
 | :- | :- |
 | com.aspose.tasks.SaveOptions.isPortrait() | Gets a value indicating whether the page orientation is portrait; returns false if the page orientation is landscape. |
 | com.aspose.tasks.SaveOptions.setPortrait( `boolean` ) | Sets a value indicating whether the page orientation is portrait; returns false if the page orientation is landscape. |
-| com.aspose.tasks.WeekDay.#ctor( `com.aspose.tasks.DayType` , `com.aspose.tasks.WorkingTime[]` ) | Initializes a new instance of the <see cref="T:com.aspose.tasks.WeekDay" /> class with the specified day type and working time periods. |
+| com.aspose.tasks.WeekDay.#ctor( `com.aspose.tasks.DayType` , `com.aspose.tasks.WorkingTime[]` ) | Initializes a new instance of the `com.aspose.tasks.WeekDay` class with the specified day type and working time periods. |
 | com.aspose.tasks.FilterCriteria.IsValueAField( `int index` ) | Gets whether the value at the index is a field reference, not a constant value. |
 | com.aspose.tasks.FilterCriteria.setValueByField( `int index` , `int value` ) | Sets the field at the index whose value will be compared with the value of the field specified by FieldName. |
 | com.aspose.tasks.FilterCriteria.setValue( `Object` ) | Sets the object value to compare with the value of the field specified by FieldName. |

@@ -31,11 +31,11 @@ menuItemWithNoContent: false
 
 ### Added APIs:
 
-Please see corresponding cumulative [API changes for Aspose.Imaging for .NET 24.2](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-24-2-release-notes/) version
+Please see corresponding cumulative [API changes for Aspose.Imaging for .NET 24.2](https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-2-release-notes/) version
 
 ### Removed APIs:
 
-Please see corresponding cumulative [API changes for Aspose.Imaging for .NET 24.2](https://docs.aspose.com/imaging/net/aspose-imaging-for-net-24-2-release-notes/) version
+Please see corresponding cumulative [API changes for Aspose.Imaging for .NET 24.2](https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-2-release-notes/) version
 
 ## Usage Examples:
 

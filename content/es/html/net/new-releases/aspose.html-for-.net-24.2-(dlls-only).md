@@ -1,16 +1,16 @@
 ---
 
-title: "Descargas --- Nuevas comunicadas-asase.html-for-.net-24.2- (Dlls-solo)"
+title: "Descargas ---Nuevas versiones-aspose.html-for-.net-24.2-(dlls-only)"
 description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/html/net/new-releases/aspose.html-for-.net-24.2-(dlls-only)/"
-folder_name: "Aspose.html para .NET 24.2 (solo DLLS)"
+folder_name: "Aspose.HTML para .NET 24.2 (solo archivos DLL)"
 download_link: "/html/net/new-releases/aspose.html-for-.net-24.2-(dlls-only)/fd58ebe40286f0414e59f11a321a6d5c-1-10392"
 download_text: "Descargar"
-intro_text: "Este archivo zip contiene solo el aspose.html para los ensamblados .NET. Los conjuntos son los mismos que en el instalador MSI del producto de la misma versión. Descargue esto si desea usar Aspose.html sin el instalador MSI, es decir, no puede ejecutar instaladores MSI en Mono. Esta descarga zip no contiene la documentación del usuario en el formato de ayuda de Microsoft que se incluye en el instalador MSI."
+intro_text: "Este archivo ZIP contiene solo Aspose.HTML para ensamblados .NET. Los ensamblajes son los mismos que en el instalador MSI del producto de la misma versión. Descargue esto si desea utilizar Aspose.HTML sin el instalador MSI, es decir, no puede ejecutar instaladores MSI en Mono. Esta descarga ZIP no contiene la documentación del usuario en formato de Ayuda de Microsoft que se incluye en el instalador de MSI."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 28/2/2024 Descargars: 1  Views: 1 "
+download_count: " 28/2/2024 Descargars: 26  Views: 1 "
 file_size: "File Size: 4.3MB"
 parent_path: "html/net"
 section_parent_path: "html/net"
@@ -22,7 +22,7 @@ weight: 274
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.html para .NET 24.2 (solo DLLS)" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.HTML para .NET 24.2 (solo archivos DLL)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Descargar" link="/html/net/new-releases/aspose.html-for-.net-24.2-(dlls-only)/fd58ebe40286f0414e59f11a321a6d5c-1-10392" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/html" >}}
@@ -31,7 +31,7 @@ weight: 274
     {{< Releases/ReleasesHeading h4txt="detalles del archivo">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Descargars: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-fd58ebe40286f0414e59f11a321a6d5c-1-10392" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-fd58ebe40286f0414e59f11a321a6d5c-1-10392" >}} 26 {{< /Common/li >}}
       {{< Common/li >}} Tamaño del archivo: {{< /Common/li >}}
       {{< Common/li id="size-update-fd58ebe40286f0414e59f11a321a6d5c-1-10392" >}} 4.3MB {{< /Common/li >}}
 
@@ -43,7 +43,7 @@ weight: 274
       <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-2-release-notes/'>https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Descripción</h4><div class="HTMLDescription">Este archivo zip contiene solo el aspose.html para los ensamblados .NET. Los conjuntos son los mismos que en el instalador MSI del producto de la misma versión. Descargue esto si desea usar Aspose.html sin el instalador MSI, es decir, no puede ejecutar instaladores MSI en Mono. Esta descarga zip no contiene la documentación del usuario en el formato de ayuda de Microsoft que se incluye en el instalador MSI.</div>
+      <h4>Descripción</h4><div class="HTMLDescription">Este archivo ZIP contiene solo Aspose.HTML para ensamblados .NET. Los ensamblajes son los mismos que en el instalador MSI del producto de la misma versión. Descargue esto si desea utilizar Aspose.HTML sin el instalador MSI, es decir, no puede ejecutar instaladores MSI en Mono. Esta descarga ZIP no contiene la documentación del usuario en formato de Ayuda de Microsoft que se incluye en el instalador de MSI.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -1,10 +1,9 @@
 ---
-
-title: "Download Python Library to Perform OCR | Aspose.OCR API"
-description:  "Download Text Extraction Python Library for English, French, Spanish & Portuguese character & text recognition from raster images via on-premise Python via Java API."
+title: "Download cross-platform Python OCR library | Aspose.OCR API"
+description:  "Add optical character recognition (OCR) capabilities to any platform where Python and Java are available without installing any additional software or changing the code."
 keywords:  "Aspose,Aspose.OCR,Python,Java,Library,PDF,OCR,TIFF,PNG,BMP,JPEG,Image,recognition,MacOS,Windows,Linux,PIP"
 family_listing_page_title:  "Aspose.OCR for Python via Java"
-family_listing_page_description:  "Download Text Extraction Python Library for English, French, Spanish & Portuguese character & text recognition from raster images via on-premise Python via Java API."
+family_listing_page_description:  "Add optical character recognition (OCR) capabilities to any platform where Python and Java are available without installing any additional software or changing the code."
 family_listing_page_iconurl:  "https://releases.aspose.com/images/aspose/aspose_ocr-for-python-java.png"
 weight: 8
 homepage_package_type: "Pip"
@@ -15,16 +14,16 @@ homepage_package_link: "https://pypi.org/project/aspose-ocr-python-java"
 
 {{< Common/h3 text="Download Aspose.OCR for Python via Java for image recognition."  >}}
 {{< Common/paragraph class="package-instructions">}}
-Add optical character recognition (OCR) capabilities to your data science, AI, and automation solutions written in Python 3.6 or later. Extract text from photos, scans, PDF documents and other graphical files without having to delve into complex mathematical operations, neural networks, and other technical details.{{< /Common/paragraph>}}
+Search and extract text from scans, photos, PDF documents, screenshots and other graphical files on any platform with Python 3.6 and Java Runtime Environment (JRE) 8. You can use the same library regardless of the operating system and do not have to adjust the code.
+{{< /Common/paragraph>}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose.OCR for Python via Java can be download here and installed from local file system with the following {{< Common/link href="https://pypi.org/project/aspose-ocr-python-java/" text="pip"  >}} command:
+Aspose.OCR for Python via Java can be installed from a local file or form PyPi with the following {{< Common/link href="https://pypi.org/project/aspose-ocr-python-java/" text="pip"  >}} command:
 {{< Common/release-notes-link family="ocr" product="python-java" href="https://releases.aspose.com/ocr/python-java/release-notes/" text="https://releases.aspose.com/ocr/python-java/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}
        {{< consolebox/textarea id="pip" >}} pip install aspose-ocr-python-java {{< /consolebox/textarea >}}       
 {{< /consolebox/consoleboxwrapper >}}
-
 {{< consolebox/consoleboxwrapper id="pip1" >}}
        {{< consolebox/spantext text=" " >}}
        {{< consolebox/textarea id="pip1" >}} pip install <downloaded-package-path> {{< /consolebox/textarea >}}       
@@ -36,11 +35,27 @@ Aspose.OCR for Python via Java can be download here and installed from local fil
 
 ## Key features
 
-- Recognizes text in 28 languages based on Latin, Cyrillic and Asian scrips, including texts in mixed languages.
-- Accurately extracts texts regardless of the original image quality - work with rotated, distorted and noisy pictures and photos.
-- Supports most file formats you can get from a scanner or camera, as well as web links.
-- Automatically corrects spelling errors to further improve the results without manual intervention.
-- Reads multi-page documents, folders, and even ZIP archives in bulk and returns results in the most popular document and data exchange formats.
+- **Global applications** - supporting over 130 languages, the library allows you to recognize texts in Latin, Cyrillic and Asian scrips.
+- **Read everything** - retrieve text from any file obtained through a scanner or camera, and process images directly from web links.
+- **Reliable results** - achieve the highest recognition accuracy for all images, including those that are out-of-focus, rotated, distorted, and noisy.
+- **Batch processing** - bulk-recognize all images from folders and archives; read multi-page PDF documents, TIFF images and DjVu files.
+- **Layout detection** - identify and categorize content blocks in images to ensure the correct order of extracted text, regardless of layout.
+- **Suitable for any content** - image preprocessing and customizable document structure detection enable text extraction from virtually any image, ranging from high-quality scans to street photos.
+- **Universal** - use the same code and one library package on any platform.
+- **Optimized** - the library balances recognition speed, quality, and resource utilization for each specific use case.
+
+### Supported file formats
+
+- **.PDF** - Portable Document Format
+- **.JPG** - JPEG, the most popular format for smartphone photos
+- **.PNG** - Portable Network Graphics, 24-bit with transparency
+- **.TIFF** - Tag Image File Format, commonly used for high quality scanning
+- **.GIF** - Graphics Interchange Format, limited to 256 colors
+- **.BMP** - Bitmap image file
+- **.WBMP** - Monochrome graphics file optimized for mobile devices
+
+Multi-page PDF documents and TIFF images are fully supported.
+
 ### Code snippet
 
 **Aspose.OCR for Python via Java** is extremely easy to use, regardless of the application's scale and complexity. Let's try to create a very simple application that can extract text from images and output it to the console.

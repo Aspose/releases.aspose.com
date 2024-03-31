@@ -90,6 +90,7 @@ productLink: https://products.aspose.com/slides/java/
 releaseNotesLink: https://releases.aspose.com/slides/java/release-notes/
 dataFolder: aspose_slides
 packages_refs:
+- "24-3"
 - "23-7-1"
 - "24-2"
 - "24-1"

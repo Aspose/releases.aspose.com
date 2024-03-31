@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-.net-23.10(dlls-only)"
-description: " "
+title: "Hyperlinks, Formulas & More: C# Excel Files API 23.10 (DLLs)"
+description: "Empower C# spreadsheets apps with Aspose.Cells 23.10 which includes hyperlink management, sheet copy & formula improvements. Download DLLs today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/net/new-releases/aspose.cells-for-.net-23.10(dlls-only)/"
@@ -43,8 +43,54 @@ weight: 696
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-10-release-notes/'>https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.Cells for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.Cells without the MSI installer, for example, you might not run MSI installers on Mono or some other environments. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer.</div>
+      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.Cells for .NET 23.10 assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.Cells without the MSI installer, for example, you might not run MSI installers on Mono or some other environments. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Simplified Hyperlinking
+
+With this release of Aspose.Cells for .NET, you can directly set hyperlinks on ranges for improved navigation.
+
+### Streamlined Copying of Worksheets
+
+Copy multiple worksheets at once while maintaining dependencies to further enhance your .NET spreadsheet manipulation workflows. 
+
+### Formula Optimizations
+
+Experience better performance when setting formulas with sheet references for large datasets within your C# apps.
+
+### Customized Worksheet Names
+
+Set customized worksheet names for your automatically inserted worksheets.
+
+### Bug Fixes
+
+Important bug fixes in this version of the .NET API include nested XLOOKUP formulas, date and time functions, chart rendering, and more.
+
+
+### Public API and Backward Incompatible Changes
+
+### Added API Members
+
+We have added several properties, and methods in this release. Some of these are:
+- GlobalizationSettings.GetDefaultSheetName() method
+- Range.IsBlank() method
+- Range.AddHyperlink(String,String,String) method
+- VbaModuleCollection.AddUserForm() method
+- MsoFormatPicture.TopCropInch/BottomCropInch/LeftCropInch/RightCropInch properties
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for .NET 23.10 Release Notes](https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-10-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

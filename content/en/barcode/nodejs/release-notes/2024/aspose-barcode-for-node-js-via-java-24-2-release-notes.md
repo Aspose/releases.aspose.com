@@ -35,11 +35,11 @@ This page contains release notes information for [Aspose.BarCode for Node.js via
 ### QualitySettings API
 
 Added new enums:
-- Recognition.XDimensionMode (constants AUTO,SMALL,NORMAL,LARGE,USE_MINIMAL_X_DIMENSION),
-- Recognition.BarcodeQualityMode (constants HIGH/NORMAL/LOW),
-- Recognition.DeconvolutionMode (constants FAST/NORMAL/SLOW),
-- Recognition.InverseImageMode (constants AUTO/DISABLED/ENABLED),
-- Recognition.ComplexBackgroundMode (constants AUTO/DISABLED/ENABLED).
+- Recognition.XDimensionMode (values AUTO,SMALL,NORMAL,LARGE,USE_MINIMAL_X_DIMENSION),
+- Recognition.BarcodeQualityMode (values HIGH/NORMAL/LOW),
+- Recognition.DeconvolutionMode (values FAST/NORMAL/SLOW),
+- Recognition.InverseImageMode (values AUTO/DISABLED/ENABLED),
+- Recognition.ComplexBackgroundMode (values AUTO/DISABLED/ENABLED).
 
 Added new Recognition.QualitySettings methods:
 - setXDimension(value) - Recognition mode which sets size (from 1 to infinity) of barcode minimal element: matrix cell or bar.
@@ -101,8 +101,8 @@ Following QualitySettings API members were removed:
 
 ### Micro QR and rMQR codes
 Added enums
-Generation.MicroQRVersion (constants AUTO,M1,M2,M3,M4)
-Generation.RectMicroQRVersion (constants AUTO,R7x43,R7x59,R7x77,R7x99,R7x139,R9x43,R9x59,R9x77,R9x99,R9x139,R11x27,R11x43,R11x59,R11x77,R11x99,R11x139,R13x27,R13x43,R13x59,R13x77,R13x99,R13x139,R15x43,R15x59,R15x77,R15x99,R15x139,R17x43,R17x59,R17x77,R17x99,R17x139 )
+Generation.MicroQRVersion (values AUTO,M1,M2,M3,M4)
+Generation.RectMicroQRVersion (values AUTO,R7x43,R7x59,R7x77,R7x99,R7x139,R9x43,R9x59,R9x77,R9x99,R9x139,R11x27,R11x43,R11x59,R11x77,R11x99,R11x139,R13x27,R13x43,R13x59,R13x77,R13x99,R13x139,R15x43,R15x59,R15x77,R15x99,R15x139,R17x43,R17x59,R17x77,R17x99,R17x139 )
 Following members were added to class Recognition.DecodeType
 const RECT_MICRO_QR
 const MICRO_QR

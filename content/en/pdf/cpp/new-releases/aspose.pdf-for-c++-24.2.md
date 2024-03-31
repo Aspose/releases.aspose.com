@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-c++-24.2"
-description: " "
+title: "Refined Document Reading, Annotations: Aspose.PDF C++ 24.2"
+description: "Refined JPXDecoder, handling of broken PDF documents, improved annotations & more to boost C++ PDF development. Download Aspose.PDF C++ 24.2 now."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-24.2/"
@@ -43,8 +43,38 @@ weight: 207
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-2-release-notes/'>https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for C++ native library</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for C++ native library 24.2 version.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### JPXDecoder Performance
+
+Experience faster processing of JPEG 2000 images embedded within PDFs using this release of the Aspose.PDF for C++ native library. 
+
+### Robust PDF Handling
+
+This version supports reading and handling documents with structural issues in your C++ PDF document processing apps.
+
+### Refined Annotations
+
+New additions to the C++ library empower developers to control annotation states including setting review/marked states and retrieving state information.
+
+### Graphic State Management
+
+The new [`GraphicState`](https://reference.aspose.com/pdf/cpp/class/aspose.pdf.vector.graphic_state/) class provides a dedicated space for managing graphic element states within your C++ code.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for C++ 24.2 Release Notes](https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

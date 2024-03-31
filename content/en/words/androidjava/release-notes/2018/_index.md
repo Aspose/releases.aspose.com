@@ -3,7 +3,7 @@ id: "release-notes-2018"
 linktitle: "2018"
 title: "Release Notes - 2018"
 productName: "Aspose.Words for Android via Java"
-weight: 6
+weight: 90
 description: "This section contains the release notes of Aspose.Words for Android via Java for the year 2018. In these release notes, we are publishing the list of issues that have been fixed in the current version, as well as any public API and behavioral changes."
 type: "repository"
 layout: "releases"

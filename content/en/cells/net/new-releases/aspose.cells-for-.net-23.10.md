@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-.net-23.10"
-description: " "
+title: "Hyperlinks, Formulas & More: C# Excel Files API 23.10 (MSI)"
+description: "Empower C# spreadsheets apps with Aspose.Cells 23.10 which includes hyperlink management, sheet copy & formula improvements. Download MSI installer!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/net/new-releases/aspose.cells-for-.net-23.10/"
@@ -43,8 +43,54 @@ weight: 697
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-10-release-notes/'>https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for .NET 23.10</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for .NET 23.10 version MSI installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Hyperlink Management
+
+Easily add hyperlinks to ranges within your spreadsheets with the help of the C# Excel Files API 23.10 release.
+
+### Efficient Sheet Copying
+
+Developers can copy multiple worksheets simultaneously while preserving dependencies in their .NET spreadsheet manipulation apps.
+
+### Formula Enhancements
+
+Improved performance for setting formulas with sheet references for large datasets ensures optimized efficiency.
+
+### Custom Sheet Names
+
+The ability to set custom sheet names for automatically added worksheets is also added to this release of Aspose.Cells for .NET.
+
+### Bug Fixes
+
+We have resolved the problems with nested XLOOKUP formulas, the WORKDAY function, cell formatting, chart rendering, and more.
+
+
+### Public API and Backward Incompatible Changes
+
+### Added API Members
+
+We have added several properties, and methods in this release. Some of these are:
+- GlobalizationSettings.GetDefaultSheetName() method
+- Range.IsBlank() method
+- Range.AddHyperlink(String,String,String) method
+- VbaModuleCollection.AddUserForm() method
+- MsoFormatPicture.TopCropInch/BottomCropInch/LeftCropInch/RightCropInch properties
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for .NET 23.10 Release Notes](https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-10-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
