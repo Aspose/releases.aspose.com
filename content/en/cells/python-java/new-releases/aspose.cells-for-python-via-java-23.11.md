@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-python-via-java-23.11"
-description: " "
+title: "PDF 1.5/1.6 Support, Default Font Color: Python Excel API 23.11"
+description: "Integrate PDF 1.5/1.6 support, default font color setting & formula calculation control in HTML export in Python apps. Download Aspose.Cells Python Java 23.11."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/python-java/new-releases/aspose.cells-for-python-via-java-23.11/"
@@ -43,8 +43,62 @@ weight: 37
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-11-release-notes/'>https://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for Python via Java 23.11</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for Python via Java 23.11 version.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Various improvements and bug fixes are in focus in version 23.11 of the Python Excel API. It introduces support for generating PDFs compliant with versions 1.5 and 1.6, addressing a common developer need. Additionally, we've added enhancements to formula calculations, pivot tables, and HTML conversion, ensuring a more robust spreadsheet processing experience.
+
+### Key Highlights
+
+- **Enhanced PDF Compatibility:** Programatically generate PDFs compatible with PDF versions 1.5 and 1.6 within your Python Excel to PDF conversion apps.
+- **Default Font Color:** Developers can apply the default font color by choosing a final static color. 
+- **Control Over Formula Calculation:** A `CalculateFormula` property is added for controlling formula recalculation during HTML saving.
+- **HTML Conversion Upgrades:** Different issues related to the content display, data display errors, and date format inconsistencies have been addressed.
+
+### Other Highlights
+
+- **`PivotGlobalizationSettings`:** We have added new methods to retrieve localized date/time text for pivot tables.
+- **`PivotFieldGroupSettings`:** A new class and related properties for managing pivot field groups is introduced.
+- **Optimized Ranges:** `AddHyperlink()` method for is added for creating hyperlinks within ranges.
+- **Bug Fixes:** We have implemented numerous fixes and improvements in formula calculation, LOOKUP function behavior, sheet-to-image rendering, and more.
+
+
+### Public API and Backwards Incompatible Changes
+
+### Added API Members
+
+We have added several classes, methods and properties in this version. Some of these are:
+
+- CustomPiovtFieldGroupItem and PivotDiscreteGroupSettings classes
+- PivotNumbericRangeGroupSettings class
+- ImageOrPrintOptions.EmfRenderSetting property
+- PdfCompliance.Pdf14, Pdf15, Pdf16, Pdf17 enum
+- Range.AddHyperlink() method
+- CellsHelper.NeedQuoteInFormula() method
+- HtmlSaveOptions.CalculateFormula property
+
+### Obsolete API Members
+
+We have made several methods and properties obsolete in this version. Some of these are:
+
+- PivotTable.SetUngroup() method is obsolete, use PivotField.Ungroup() method instead
+- PivotTable.SetAutoGroupField() and SetManualGroupField() methods
+- Legend.LegendEntriesLabels property is obsolete, use Legend.GetLegendLabels() method instead
+- PdfCompliance.None enum
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for Python via Java 23.11 Release Notes](https://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-11-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

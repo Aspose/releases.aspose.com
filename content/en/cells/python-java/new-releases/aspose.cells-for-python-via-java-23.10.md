@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-python-via-java-23.10"
-description: " "
+title: "Custom Sheet Names, Picture Cropping: Excel Apps API 23.10"
+description: "Upgrade your Python Excel development with Aspose.Cells for Python Java 23.10. Download now to explore custom sheet names, picture cropping, and more."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/python-java/new-releases/aspose.cells-for-python-via-java-23.10/"
@@ -43,8 +43,41 @@ weight: 36
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-10-release-notes/'>https://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for Python via Java 23.10</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for Python via Java 23.10 version.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Key Highlights
+
+- **Custom Sheet Names:** Generate worksheets with user-defined names using the new `GlobalizationSettings.GetDefaultSheetName()` method with the Excel Apps API 23.10.
+- **Picture Cropping:** Control the size and position of cropped images within your Python spreadsheets with the newly added `MsoFormatPicture` properties.
+- **Range Hyperlinking:** Create hyperlinks within specific ranges using the `Range.AddHyperlink()` method.
+- **VBA User Forms:** Developers can add user forms to their VBA projects with the `VbaModuleCollection.AddUserForm()` method.
+- **Worksheet Batch Copying:** Simplify your workflow by copying multiple worksheets at once with the `WorksheetCollection.AddCopy()` method.
+
+### Bug Fixes
+
+We have fixed numerous bugs in this release of Aspose.Cells for Python via Java API. Some of these are:
+
+- Vertical text positioning and rendering in PDFs.
+- Formula calculation errors and regression.
+- Decimal rounding and extra spaces in specific regions.
+- Chart appearance and data label preservation during conversion.
+- Cell content display in HTML output for various locales.
+- Worksheet cell reflection in HTML with "Shrink to fit" option.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for Python via Java 23.10 Release Notes](https://releases.aspose.com/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-23-10-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

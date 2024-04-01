@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-python-via-.net-24.3.0-linux-x86-64bit"
-description: " "
+title: "Power Up Spreadsheets in Python: Excel Apps API 24.3 (Linux)"
+description: "Aspose.Cells Python via .NET 24.3 empowers Python on Linux with grid filtering, rich text editing, and essential spreadsheet processing improvements."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/python-net/new-releases/aspose.cells-for-python-via-.net-24.3.0-linux-x86-64bit/"
@@ -43,8 +43,42 @@ weight: 36
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/python-net/release-notes/2024/aspose-cells-for-python-net-24-3-release-notes/'>https://releases.aspose.com/cells/python-net/release-notes/2024/aspose-cells-for-python-net-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Please refer to release notes and ReadMe for detail</div>
+      <h4>Description</h4><div class="HTMLDescription">This page contains Aspose.Cells for Python via .NET version 24.3.0, built for Linux. Please refer to the release notes and ReadMe for more details.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Improved Grid Filtering
+
+You can implement top 10, date, and text filters within `GridDesktop` to refine data exploration in your Python applications on Linux with Aspose.Cells for Python via .NET 24.3.0.
+
+### Rich Text Editing Support
+
+Integrate rich text editing capabilities directly in cells, boosting user interaction with spreadsheets.
+
+### `EVALUATE` Function Addition
+
+The addition of support for the `EVALUATE` function empowers users to effortlessly perform advanced calculations. This enhancement further strengthens users' abilities to efficiently manage complex spreadsheet functionality.
+
+### Improved Excel to ODS Conversion
+
+Experience seamless conversion of Excel spreadsheets to the OpenDocument Format (ODF) 1.3 standard, enhancing compatibility within your Excel processing apps in Python.
+
+### Bug Fixes and Enhancements
+
+This release of Aspose.Cells for Python via .NET includes numerous bug fixes aimed at ensuring a smoother development experience and improving API features and working.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for Python via .NET 24.3.0 Release Notes](https://releases.aspose.com/cells/python-net/release-notes/2024/aspose-cells-for-python-net-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
