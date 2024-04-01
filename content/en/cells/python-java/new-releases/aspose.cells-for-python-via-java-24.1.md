@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-python-via-java-24.1"
-description: " "
+title: "Mobile-friendly HTML Reports: Aspose.Cells Python Java 24.1"
+description: "Python developers can download Aspose.Cells Python Java 24.1 to integrate JSON data source for smart markers & generate mobile-friendly HTML reports."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/python-java/new-releases/aspose.cells-for-python-via-java-24.1/"
@@ -43,8 +43,51 @@ weight: 39
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/python-java/release-notes/2024/aspose-cells-for-python-via-java-24-1-release-notes/'>https://releases.aspose.com/cells/python-java/release-notes/2024/aspose-cells-for-python-via-java-24-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for Python via Java 24.1</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for Python via Java 24.1 version.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Build Python spreadsheet manipulation apps offering accurate formula calculation, improved text rendering in images, enhanced HTML conversion, and more using this release of the Python spreadsheet manipulation API.
+
+### Highlighted Sheet Tabs in Mobile HTML
+
+Aspose.Cells for Python via Java 24.1 generates mobile-friendly HTML reports with highlighted sheet tabs, improving navigation on smartphones and tablets.
+
+### JSON as Smart Marker Data Source
+
+Support for using JSON files as data sources for Smart Markers has been introduced in this update, which allows you to integrate dynamic data from JSON effortlessly into your Excel reports.
+
+### Other Highlights
+
+- **Accurate Formula Calculation:** In this release of the Python API, improved formula calculation accuracy is added.
+- **Text Rendering Inside Images:** Enhanced rendering of text inside shapes during Excel to image conversion is introduced.
+- **Improved Excel to HTML Export:** We corrected issues with the text color when saving Excel files to HTML format within the Python Excel processing apps.
+- **Reduced File Size and EMF Export:** The problem with data corruption in generated XLS files with linked chart source has been addressed in this version. 
+
+### Public API and Backwards Incompatible Changes
+
+### Added API Members
+
+We have added several methods and properties in this version. Some of these are:
+
+- TxtLoadOptions.MaxRowCount/MaxColumnCount properties
+- TxtLoadOptions.HeaderRowsCount/HeaderColumnsCount properties
+- HtmlSaveOptions.CssStyles property
+- PivotField.GroupBy(double,bool) methods
+- ExportTableOptions.AllowDBNull property
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for Python via Java 24.1 Release Notes](https://releases.aspose.com/cells/python-java/release-notes/2024/aspose-cells-for-python-via-java-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
