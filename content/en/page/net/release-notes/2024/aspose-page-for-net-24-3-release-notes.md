@@ -9,7 +9,7 @@ type: "repository"
 layout: "release"
 hideChildren: false
 toc: false
-family_listing_page_title: "Aspose.Page for .NET 24.2 Release Notes"
+family_listing_page_title: "Aspose.Page for .NET 24.3 Release Notes"
 menuItemWithNoContent: false
 ---
 
