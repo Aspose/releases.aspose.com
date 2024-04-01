@@ -10,7 +10,7 @@ download_link: "/pdf/net/new-releases/aspose.pdf-for-.net-24.3/1dac8297b8e9d8516
 download_text: "Κατεβάστε"
 intro_text: "Περιέχει Aspose.PDF για έκδοση .NET 24.3."
 image_link: "/resources/img/msi-icon.png"
-download_count: " 21/3/2024 Κατεβάστεs: 1  Views: 1 "
+download_count: " 21/3/2024 Κατεβάστεs: 17  Views: 1 "
 file_size: "File Size: 177.61MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
@@ -31,7 +31,7 @@ weight: 872
     {{< Releases/ReleasesHeading h4txt="Λεπτομέρειες αρχείου">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Κατεβάστεs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-1dac8297b8e9d8516206cb08ae065962-36-10516" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-1dac8297b8e9d8516206cb08ae065962-36-10516" >}} 17 {{< /Common/li >}}
       {{< Common/li >}} Μέγεθος αρχείου: {{< /Common/li >}}
       {{< Common/li id="size-update-1dac8297b8e9d8516206cb08ae065962-36-10516" >}} 177.61MB {{< /Common/li >}}
 
