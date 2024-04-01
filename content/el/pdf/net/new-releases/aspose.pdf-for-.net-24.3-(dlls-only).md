@@ -10,7 +10,7 @@ download_link: "/pdf/net/new-releases/aspose.pdf-for-.net-24.3-(dlls-only)/6b6f5
 download_text: "Κατεβάστε"
 intro_text: "Αυτό το αρχείο ZIP περιέχει μόνο το Aspose.PDF για συγκροτήσεις .NET. Τα συγκροτήματα είναι τα ίδια όπως στο πρόγραμμα εγκατάστασης MSI του προϊόντος της ίδιας έκδοσης. Κάντε λήψη αυτού εάν θέλετε να χρησιμοποιήσετε το Aspose.PDF χωρίς το πρόγραμμα εγκατάστασης MSI."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 21/3/2024 Κατεβάστεs: 1  Views: 1 "
+download_count: " 21/3/2024 Κατεβάστεs: 8  Views: 1 "
 file_size: "File Size: 177.47MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
@@ -31,7 +31,7 @@ weight: 871
     {{< Releases/ReleasesHeading h4txt="Λεπτομέρειες αρχείου">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Κατεβάστεs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-6b6f5735e9beede105dc185b896e206d-36-10515" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-6b6f5735e9beede105dc185b896e206d-36-10515" >}} 8 {{< /Common/li >}}
       {{< Common/li >}} Μέγεθος αρχείου: {{< /Common/li >}}
       {{< Common/li id="size-update-6b6f5735e9beede105dc185b896e206d-36-10515" >}} 177.47MB {{< /Common/li >}}
 
