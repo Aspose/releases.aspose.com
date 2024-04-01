@@ -269,7 +269,6 @@ P:Aspose.Page.XPS.Presentation.Image.ImageDevice.Stroke
 P:Aspose.Page.XPS.Presentation.Image.ImageDevice.Paint
 P:Aspose.Page.XPS.Presentation.Image.ImageDevice.OpacityMask
 P:Aspose.Page.XPS.Presentation.Image.ImageDevice.Font
-P:Aspose.Page.XPS.Presentation.Image.ImageDevice.Result
 P:Aspose.Page.XPS.Presentation.Image.ImageDevice.CurrentPageNumber
 P:Aspose.Page.XPS.Presentation.Image.ImageDevice.CurrentRelativePageNumber
 M:Aspose.Page.XPS.Presentation.Image.ImageDevice.ReNew
