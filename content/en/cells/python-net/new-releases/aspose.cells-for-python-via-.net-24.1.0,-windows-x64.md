@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-python-via-.net-24.1.0,-windows-x64"
-description: " "
+title: "Aspose.Cells 24.1: Convert CSV, .NET 8 in Python (Win x64)"
+description: "Boost spreadsheet manipulation in Python apps on Windows x64. Download Aspose.Cells Python .NET 24.1 for CSV conversion, .NET 8 support, autofill & more."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/python-net/new-releases/aspose.cells-for-python-via-.net-24.1.0,-windows-x64/"
@@ -43,8 +43,44 @@ weight: 28
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/python-net/release-notes/2024/aspose-cells-for-python-net-24-1-release-notes/'>https://releases.aspose.com/cells/python-net/release-notes/2024/aspose-cells-for-python-net-24-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">For Windows 64bit</div>
+      <h4>Description</h4><div class="HTMLDescription">This page contains Aspose.Cells for Python via .NET version 24.1.0, built for Windows 64-bit. Please refer to the release notes and ReadMe for more details.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Effortless CSV to Excel Conversion
+
+This release of the Python Excel API enables maintaining header rows in each worksheet when converting CSV files to Excel with the new feature and streamlines data migration.
+
+### Embrace .NET 8
+
+Leverage the latest .NET 8 advancements in your Python applications seamlessly with the enhanced compatibility introduced in Aspose.Cells for Python via .NET 24.1.0.
+
+### Intelligent Autofill in GridDesktop
+
+Simplify data entry with the powerful autofill functionality within `GridDesktop` to seamlessly boost productivity.
+
+### Customizable HTML Exports
+
+Gain control over exported HTML styles on Windows x64, allowing you to tailor the look and feel of your reports.
+
+### Additional Updates
+- Autofill enhancements for merge areas and right-to-left/bottom-to-up data filling.
+- Improved handling of large dynamic array formulas and pivot field manipulation.
+- Enhanced rendering of active sheet background and support for throwing exceptions when opening corrupted files.
+- Bug fixes addressing image orientation, SVG conversion, comment text color, textbox autosizing, data sorting, formula calculations, shape resizing, file opening, formula bar behavior, picture width, data loss during conversion, pivot table filtering, and more.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for Python via .NET 24.1.0 Release Notes](https://releases.aspose.com/cells/python-net/release-notes/2024/aspose-cells-for-python-net-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

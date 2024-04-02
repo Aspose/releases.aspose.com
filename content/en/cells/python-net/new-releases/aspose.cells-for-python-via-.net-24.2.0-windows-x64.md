@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-python-via-.net-24.2.0-windows-x64"
-description: " "
+title: "Python Spreadsheets API 24.2: Sort Data Sets, Filters (Win x64)"
+description: "Unleash the potential of spreadsheets in Python! Aspose.Cells Python .NET 24.2 offers data handling, performance & UI updates. Download on Windows (x64)."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/python-net/new-releases/aspose.cells-for-python-via-.net-24.2.0-windows-x64/"
@@ -43,8 +43,46 @@ weight: 33
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/python-net/release-notes/2024/aspose-cells-for-python-net-24-2-release-notes/'>https://releases.aspose.com/cells/python-net/release-notes/2024/aspose-cells-for-python-net-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">For Windows 64bit</div>
+      <h4>Description</h4><div class="HTMLDescription">This page contains Aspose.Cells for Python via .NET version 24.2.0, built for Windows 64-bit architecture. Please refer to the release notes for more details.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Enhanced Data Analysis
+
+Leverage new functions like TOROW and TOCOL for powerful data analysis within your Python applications using the spreadsheet API 24.2.0 version.
+
+### Improved Filtering & Sorting
+
+Developers can experience faster performance when sorting large datasets and leverage keyword search for filter lists in `GridDesktop`.
+
+### Richer User Experience
+
+Enable users to easily convert text stored as numbers with the "convert to number" menu option in `GridDesktop` within your Python Excel manipulation apps.
+
+### OXPS Format Support
+
+Aspose.Cells for Python via .NET can now detect the OXPS format. With this enhancement, users can now seamlessly work with OXPS files, expanding the versatility and compatibility of their Python Excel processing applications.
+
+### Cell Formatting
+
+This version includes enhanced cell formatting and conditional formatting features for Python developers on Windows x64.
+
+### Bug Fixes
+
+Numerous bug fixes for formula manipulation, chart rendering, and grid controls are implemented in this release.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for Python via .NET 24.2.0 Release Notes](https://releases.aspose.com/cells/python-net/release-notes/2024/aspose-cells-for-python-net-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

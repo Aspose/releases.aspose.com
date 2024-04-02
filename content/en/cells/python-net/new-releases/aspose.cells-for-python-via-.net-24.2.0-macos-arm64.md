@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-python-via-.net-24.2.0-macos-arm64"
-description: " "
+title: "Python Spreadsheet API 24.2: Excel Automation on macOS M1"
+description: "Automate spreadsheet tasks in Python on macOS M1. Aspose.Cells for Python via .NET 24.2 delivers data sorting, filtering, formatting & more. Download today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/python-net/new-releases/aspose.cells-for-python-via-.net-24.2.0-macos-arm64/"
@@ -43,8 +43,38 @@ weight: 29
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/python-net/release-notes/2024/aspose-cells-for-python-net-24-2-release-notes/'>https://releases.aspose.com/cells/python-net/release-notes/2024/aspose-cells-for-python-net-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">For MacOS ARM</div>
+      <h4>Description</h4><div class="HTMLDescription">This page contains Aspose.Cells for Python via .NET version 24.2.0, built for macOS M1 architecture. Please refer to the release notes for more details.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Data Analysis Tools
+
+Harness the capabilities of the new TOROW/TOCOL functions to conduct robust data analysis within your Python apps running macOS M1.
+
+### Enhanced Data Manipulation
+
+Facilitate seamless copying and pasting of image and HTML content to `GridDesktop`, enriching data manipulation abilities with the Python spreadsheet processing API 24.2.0 version.
+
+### OXPS Format Support
+
+We've introduced support for detecting the OXPS file format, enabling smooth integration with your spreadsheet solutions.
+
+### Bug Fixes and Enhancements
+
+We've resolved various problems with different API features to boost performance, thereby improving the overall user experience.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for Python via .NET 24.2.0 Release Notes](https://releases.aspose.com/cells/python-net/release-notes/2024/aspose-cells-for-python-net-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
