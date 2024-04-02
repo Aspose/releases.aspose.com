@@ -6,12 +6,12 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/page/net/new-releases/aspose.page-for-.net-24.3-(dlls-and-docs)/"
 folder_name: "Aspose.Page para .NET 24.3 (DLLs e documentos)"
-download_link: "/page/net/new-releases/aspose.page-for-.net-24.3-(dlls-and-docs)/5c50cb9de627171c8cb5280199990b92-5-10563"
+download_link: "/page/net/new-releases/aspose.page-for-.net-24.3-(dlls-and-docs)/39a700807b2fa852bdb843893d64c0e6-5-10563"
 download_text: "Download"
 intro_text: "Temos o prazer de anunciar uma nova versão do Aspose.Page para .Net."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 29/3/2024 Downloads: 2  Views: 1 "
-file_size: "File Size: 23.95MB"
+download_count: " 29/3/2024 Downloads: 3  Views: 1 "
+file_size: "File Size: 23.96MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
 
@@ -24,19 +24,19 @@ weight: 146
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Page para .NET 24.3 (DLLs e documentos)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/page/net/new-releases/aspose.page-for-.net-24.3-(dlls-and-docs)/5c50cb9de627171c8cb5280199990b92-5-10563" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/page/net/new-releases/aspose.page-for-.net-24.3-(dlls-and-docs)/39a700807b2fa852bdb843893d64c0e6-5-10563" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/page" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detalhes do arquivo">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-5c50cb9de627171c8cb5280199990b92-5-10563" >}} 2 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-39a700807b2fa852bdb843893d64c0e6-5-10563" >}} 3 {{< /Common/li >}}
       {{< Common/li >}} Tamanho do arquivo: {{< /Common/li >}}
-      {{< Common/li id="size-update-5c50cb9de627171c8cb5280199990b92-5-10563" >}} 23.95MB {{< /Common/li >}}
+      {{< Common/li id="size-update-39a700807b2fa852bdb843893d64c0e6-5-10563" >}} 23.96MB {{< /Common/li >}}
 
       {{< Common/li >}} data adicionada: {{< /Common/li >}}
-      {{< Common/li id="added-update-5c50cb9de627171c8cb5280199990b92-5-10563" >}}29/3/2024 {{< /Common/li >}}
+      {{< Common/li id="added-update-39a700807b2fa852bdb843893d64c0e6-5-10563" >}}29/3/2024 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
