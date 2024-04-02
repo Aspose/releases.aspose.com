@@ -133,17 +133,291 @@ There are 91 improvements and fixes in this regular monthly release. The most no
 
 This section lists public API changes that were introduced in Aspose.Words 24.4. It includes not only new and obsoleted public methods, but also a description of any changes in the behavior behind the scenes in Aspose.Words which may affect existing code. Any behavior introduced that could be seen as regression and modifies the existing behavior is especially important and is documented here.
 
-### <span style="color: #0593cb;">Updated Rendering Core for TIFF Image Format.</span>
+### Added an ability to work with Glow effect of a shape
 
-Related issue: WORDSNET-26554
+Related issue: WORDSNET-26670
 
-The rendering core for TIFF images has been upgraded, improving its functionality and performance. This update adds support for reading TIFF images with JPEG and Old JPEG compression types, and substantially improves the quality of both reading and writing operations.
+Implemented new public class in **Aspose.Words.Drawing** namespace:
+{{< highlight csharp >}}
+/// <summary>
+/// Represents the glow formatting for an object.
+/// </summary>
+/// <remarks>
+/// <p>Use the <see cref="ShapeBase.Glow"/> property to access glow properties of an object.
+/// You do not create instances of the <see cref="GlowFormat"/> class directly.</p>
+/// </remarks>
+public class GlowFormat
+{{< /highlight >}}
 
-Please note that while significant enhancements have been made, there are still some technical limitations. Some TIFF files with high bits per pixel (bpp) may not be fully supported.
+with new public members:
+{{< highlight csharp >}}
+/// <summary>
+/// Removes <see cref="GlowFormat"/> from the parent object.
+/// </summary>
+public void Remove()
+/// <summary>
+/// Gets or sets a <see cref="System.Drawing.Color"/> object that represents the color for a glow effect.
+/// The default value is <see cref="System.Drawing.Color.Black"/>.
+/// </summary>
+public Color Color {get; set}
+/// <summary>
+/// Gets or sets the degree of transparency for the glow effect as a value between 0.0 (opaque) and 1.0 (clear).
+/// The default value is 0.0.
+/// </summary>
+public double Transparency {get; set}
+/// <summary>
+/// Gets or sets a double value that represents the length of the radius for a glow effect in points (pt).
+/// The default value is 0.0.
+/// </summary>
+public double Radius {get; set}
+{{< /highlight >}}
 
-This use case explains how use different TiffCompression types:
-{{< gist "aspose-words-gists" "0e50f625c0e76c25844c7e77ffa31057" "tiff-image-compression.cs" >}}
+Also added new public property to **ShapeBase** class:
+{{< highlight csharp >}}
+/// <summary>
+/// Gets glow formatting for the shape.
+/// </summary>
+public GlowFormat Glow {get;}
+{{< /highlight >}}
 
-### <span style="color: #0593cb;">HtmlSaveOptions.Encoding save option no longer has any effect on MOBI/AZW3 export.</span>
+This use case explains how to work with the glow of a shape:
+{{< gist "aspose-words-gists" "5f20ac02cb42c6b08481aa1c5b0cd3db" "glow.cs" >}}
 
-Now for MOBI/AZW3 export HtmlSaveOptions.Encoding save option always has default value and MOBI and AZW3 documents are always saved with UTF-8 (without BOM) encoding.
+### Added an ability to work with Reflection effect of a shape
+
+Related issue: WORDSNET-26671
+
+Implemented new public class in **Aspose.Words.Drawing** namespace:
+{{< highlight csharp >}}
+/// <summary>
+/// Represents the reflection formatting for an object.
+/// </summary>
+/// <remarks>
+/// <p>Use the <see cref="ShapeBase.Reflection"/> property to access reflection properties of an object.
+/// You do not create instances of the <see cref="ReflectionFormat"/> class directly.</p>
+/// </remarks>
+public class ReflectionFormat
+{{< /highlight >}}
+
+with new public members:
+{{< highlight csharp >}}
+/// <summary>
+/// Removes <see cref="ReflectionFormat"/> from the parent object.
+/// </summary>
+public void Remove()
+/// <summary>
+/// Gets or sets a double value that specifies the degree of blur effect applied to the reflection effect in points.
+/// The default value is 0.0.
+/// </summary>
+public double Blur {get; set}
+/// <summary>
+/// Gets or sets a double value that specifies the amount of separation of the reflected image from the object in points.
+/// The default value is 0.0.
+/// </summary>
+public double Distance {get; set}
+/// <summary>
+/// Gets or sets a double value between 0.0 and 1.0 representing the size of the reflection
+/// as a percentage of the reflected object.
+/// The default value is 0.0.
+/// </summary>
+public double Size {get; set}
+/// <summary>
+/// Gets or sets a double value between 0.0 (opaque) and 1.0 (clear) representing the degree
+/// of transparency for the reflection effect.
+/// The default value is 0.0.
+/// </summary>
+public double Transparency {get; set}
+{{< /highlight >}}
+
+Also added new public property to ShapeBase class:
+{{< highlight csharp >}}
+/// <summary>
+/// Gets reflection formatting for the shape.
+/// </summary>
+public ReflectionFormat Reflection {get;}
+{{< /highlight >}}
+
+This use case explains how to work with the reflection of a shape:
+{{< gist "aspose-words-gists" "5f20ac02cb42c6b08481aa1c5b0cd3db" "reflection.cs" >}}
+
+### Added a public property setter for Style.LinkedStyleName
+
+Related issue: WORDSNET-24691
+
+A public property setter for LinkedStyleName has been added to Style class:
+{{< highlight csharp >}}
+/// <summary>
+/// Gets/sets the name of the <see cref="Style"/> linked to this one. Returns empty string if no styles are linked.
+/// </summary>
+/// <remarks>
+/// <para>It is only allowed to link the paragraph style to the character style and vice versa.</para>
+/// <para>Setting LinkedStyleName for the current style automatically leads to setting LinkedStyleName for the linked style.</para>
+/// <para>Assigning the empty string is equivalent to unlinking the previously linked style.</para>
+/// </remarks>
+public string LinkedStyleName { get; set; }
+{{< /highlight >}}
+
+This use case explains how to set LinkedStyleName property of the paragraph and character styles:
+{{< gist "aspose-words-gists" "5f20ac02cb42c6b08481aa1c5b0cd3db" "linked-style-name.cs" >}}
+
+### Added new SaveFormat.WebP for .Net Framework v4.6.2, NetStandard 2.0, .NET 5/6/7 and above
+
+Related issue: WORDSNET-26707
+
+Previously, support for reading WebP images was added for .NET Standard assemblies. Now, support for the WebP format is also available for .NET Framework v4.6.2 assemblies. Furthermore, WebP has been added to the list of available saving formats. This enables reading and inserting WebP images into documents, as well as saving in the WebP format.
+
+Please note that the WebP format is only available in .NET Standard and .NET Framework v4.6.2 and above; it will not be supported in .NET Framework v4 and v3.5 assemblies.
+
+Known issues: Animated WebP (VP8X) images are not supported and will be converted to static images.
+
+{{< highlight csharp >}}
+/// <summary>
+/// Indicates the format in which the document is saved.
+/// </summary>
+public enum SaveFormat
+{
+    ...,
+    /// <summary>
+    /// Renders a page of the document and saves it as a WebP file.
+    /// </summary>
+    WebP,
+    ...
+}
+{{< /highlight >}}
+
+### Added public Format properties to Chart, ChartTitle, ChartAxisTitle and ChartLegend classes
+
+Related issue: WORDSNET-26569
+
+Public **Format** properties of the **ChartFormat** type have been added to the **Chart**, **ChartTitle**, **ChartAxisTitle** and **ChartLegend** classes.
+{{< highlight csharp >}}
+public class Chart
+{
+    /// <summary>
+    /// Provides access to fill and line formatting of the chart.
+    /// </summary>
+    public ChartFormat Format { get; }
+
+    ...
+}
+
+public class ChartTitle
+{
+    /// <summary>
+    /// Provides access to fill and line formatting of the chart title.
+    /// </summary>
+    public ChartFormat Format { get; }
+
+    ...
+}
+
+public class ChartAxisTitle
+{
+    /// <summary>
+    /// Provides access to fill and line formatting of the axis title.
+    /// </summary>
+    public ChartFormat Format { get; }
+
+    ...
+}
+
+public class ChartLegend
+{
+    /// <summary>
+    /// Provides access to fill and line formatting of the legend.
+    /// </summary>
+    public ChartFormat Format { get; }
+
+    ...
+}
+{{< /highlight >}}
+
+This use case explains how to set background color for chart, chart title, axis title and legend:
+{{< gist "aspose-words-gists" "5f20ac02cb42c6b08481aa1c5b0cd3db" "chart-format.cs" >}}
+
+### Added public property HtmlLoadOptions.SupportFontFaceRules
+
+Related issue: WORDSNET-8059
+
+A new public property **SupportFontFaceRules** has been added to class **HtmlLoadOptions**:
+{{< highlight csharp >}}
+/// <summary>
+/// Gets or sets a value indicating whether to support @font-face rules and whether to load declared fonts.
+/// Default value is <c>false</c>.
+/// </summary>
+/// <remarks>
+/// <para>
+/// If this option is enabled, fonts declared in @font-face rules are loaded and embedded into the resulting document's
+/// font definitions (see <see cref="DocumentBase.FontInfos"/>). This makes the loaded fonts available for rendering but
+/// doesn't automatically enable embedding of the fonts upon saving. In order to save the document with loaded fonts,
+/// the <see cref="FontInfoCollection.EmbedTrueTypeFonts"/> property of the <see cref="DocumentBase.FontInfos"/>
+/// collection should be set to <c>true</c>.
+/// </para>
+/// <para>
+/// Supported font formats are TTF, EOT, and WOFF.
+/// </para>
+/// <para>
+/// @font-face rules are not supported when loading SVG images.
+/// </para>
+/// </remarks>
+public bool SupportFontFaceRules { get; set; }
+{{< /highlight >}}
+
+This use case explains how to use **SupportFontFaceRules** option:
+{{< gist "aspose-words-gists" "5f20ac02cb42c6b08481aa1c5b0cd3db" "font-face-rules.cs" >}}
+
+### Added public property ParagraphFormat.MirrorIndents
+
+Related issue: WORDSNET-26172
+
+A new public property **MirrorIndents** has been added to class **ParagraphFormat**:
+{{< highlight csharp >}}
+/// <summary>
+/// Gets or sets a flag indicating whether the left and right indents are of the same width.
+/// </summary>
+public bool MirrorIndents { get; set; }
+{{< /highlight >}}
+
+This use case explains how to use **MirrorIndents**:
+{{< gist "aspose-words-gists" "5f20ac02cb42c6b08481aa1c5b0cd3db" "mirror-indents.cs" >}}
+
+### Provided sign document option in SaveOptions
+
+Related issue: WORDSNET-25896
+
+Implemented new public class in **Aspose.Words.Saving** namespace:
+{{< highlight csharp >}}
+/// <summary>
+/// Contains details for signing a document with a digital signature.
+/// </summary>
+public class DigitalSignatureDetails
+{{< /highlight >}}
+
+with new public members:
+{{< highlight csharp >}}
+/// <summary>
+/// Initializes a new instance of <see cref="DigitalSignatureDetails"/> class.
+/// </summary>
+/// <param name="certificateHolder">A certificate holder which contains the certificate itself.</param>
+/// <param name="signOptions">Signature options to use for signing a document.</param>
+public DigitalSignatureDetails(CertificateHolder certificateHolder, SignOptions signOptions)
+/// <summary>
+/// Gets or sets a <see cref="CertificateHolder"/> object that contains the certificate used to sign a document.
+/// </summary>
+public CertificateHolder CertificateHolder { get; set; }
+/// <summary>
+/// Gets or sets a <see cref="SignOptions"/> object used to sign a document.
+/// </summary>
+public SignOptions SignOptions { get; set; }
+{{< /highlight >}}
+
+Also added new public property to **OoxmlSaveOptions**, **DocSaveOptions** and **OdtSaveOptions** classes:
+{{< highlight csharp >}}
+/// <summary>
+/// Gets or sets <see cref="Aspose.Words.Saving.DigitalSignatureDetails"/> object used to sign a document.
+/// </summary>
+public DigitalSignatureDetails DigitalSignatureDetails { get; set; }
+{{< /highlight >}}
+
+This use case explains how to to specify signature options while saving document:
+{{< gist "aspose-words-gists" "5f20ac02cb42c6b08481aa1c5b0cd3db" "digital-signature.cs" >}}
