@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-python-via-.net-23.12.0,-macos-arm64"
-description: " "
+title: "Powerful Excel Processing Python API 23.12 (macOS ARM64)"
+description: "Refine your Python projects on macOS (ARM64) with Aspose.Cells Python .NET 23.12. Download for improved PDF/A compliance, PivotTable features & more."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.12.0,-macos-arm64/"
@@ -43,8 +43,42 @@ weight: 19
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-12-release-notes/'>https://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">For MacOS ARM</div>
+      <h4>Description</h4><div class="HTMLDescription">This page contains Aspose.Cells for Python via .NET version 23.12.0, built for macOS ARM64. Please refer to the release notes for more details.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Future-Proof Archiving on Apple Silicon
+
+This update empowers you to create PDF documents that adhere to various PDF/A ISO standards (PDF/A-2a, PDF/A-2b, PDF/A-2u, PDF/A-3a, PDF/A-3b, and PDF/A-3u) – ideal for long-term archiving on your macOS ARM64 machines.
+
+### Supercharge PivotTable Analysis
+
+Aspose.Cells for Python via .NET 23.12.0 ensures data precision during `PivotTable` operations, allowing you to calculate distinct groupings and analyze them effectively. This significantly enhances the data analysis capabilities within your spreadsheet applications running on macOS ARM64.
+
+### Streamlined User Experience
+
+This release tackles data validation issues within `GridWeb` and sheet name rendering problems on mobile devices, delivering a more refined user experience for Python developers.
+
+### Accurate Excel Conversions
+
+We've ironed out various conversion inconsistencies when exporting Excel files to different formats, such as Word, HTML, and PPTX, while using the powerful Excel Processing Python API.
+
+### Expanded Stability
+
+Experience a multitude of additional enhancements and bug fixes designed to improve cross-platform rendering, file handling, and formula evaluation on macOS M1 architecture. 
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for Python via .NET 23.12.0 Release Notes](https://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-12-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-python-via-.net-23.12.0,-linux-x86,-x64"
-description: " "
+title: "PDF Compliance, PivotTable: Excel Python API 23.12 for Linux"
+description: "Boost Python development on Linux with Aspose.Cells Python .NET 23.12. Discover enhancements in PDF/A compliance, PivotTables, data validation & more."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/python-net/new-releases/aspose.cells-for-python-via-.net-23.12.0,-linux-x86,-x64/"
@@ -43,8 +43,38 @@ weight: 21
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-12-release-notes/'>https://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">For Linux</div>
+      <h4>Description</h4><div class="HTMLDescription">This page contains Aspose.Cells for Python via .NET version 23.12.0, built for the Linux platform. Please refer to the release notes and ReadMe for more details.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### PDF/A Compliance on Linux
+
+This update empowers you to create PDF documents (during Excel to PDF export) that adhere to various PDF/A ISO standards (PDF/A-2a, PDF/A-2b, PDF/A-2u, PDF/A-3a, PDF/A-3b, and PDF/A-3u) – perfect for long-term archiving on your Linux system.
+
+### Effortless Data Management
+
+Automatic data validation settings and enhanced handling of missing data during `PivotTable` refreshes contribute to a streamlined workflow for developers using the Excel Python API version 23.12.0.
+
+### Smoother Mobile Viewing
+
+This release tackles sheet name rendering issues on mobile devices, delivering a more refined user experience. Additionally, formula bar problems have been addressed for a more seamless workflow.
+
+### Strengthened PivotTable Analysis
+
+Experience enhanced data accuracy during `PivotTable` operations, allowing you to calculate distinct groupings and export them as lists. This significantly bolsters the data analysis capabilities within your spreadsheet processing apps.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for Python via .NET 23.12.0 Release Notes](https://releases.aspose.com/cells/python-net/release-notes/2023/aspose-cells-for-python-net-23-12-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
