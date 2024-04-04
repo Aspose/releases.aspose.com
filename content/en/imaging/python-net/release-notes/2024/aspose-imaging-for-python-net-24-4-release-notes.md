@@ -115,7 +115,6 @@ Method    aspose.imaging.imagefilters.ComplexUtils.Complex.parse(s: str)
 Method    aspose.imaging.imagefilters.ComplexUtils.Complex.sin(a)
 
 Method    aspose.imaging.imagefilters.ComplexUtils.Complex.sqrt(a)
-(aspose.imaging.imagefilters.ComplexUtils.Complex)
 
 Method    aspose.imaging.imagefilters.ComplexUtils.Complex.subtract(a, b)
 
