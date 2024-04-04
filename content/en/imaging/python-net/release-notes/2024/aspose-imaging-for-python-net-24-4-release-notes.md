@@ -1,7 +1,7 @@
 ---
 id: aspose-imaging-for-net-24-4-release-notes
 slug: aspose-imaging-for-net-24-4-release-notes
-linktitle: Aspose.Imaging for Python via .NET 24.4 - Release notes
+linktitle: Aspose.Imaging for Python via .NET 24.4 - Release notes
 title: Aspose.Imaging for Python via .NET 24.4 - Release notes
 weight: 46
 description: Aspose.Imaging for Python via .NET 24.4 - Release notes the latest updates and fixes.

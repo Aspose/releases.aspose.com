@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-.net-24.1"
-description: " "
+title: "Empower .NET Projects with Task Management API 24.1 (MSI)"
+description: "Aspose.Tasks for .NET 24.1 empowers your C# apps with graphical indicator handling, optimized MPP file processing & more features. Download MSI now."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/net/new-releases/aspose.tasks-for-.net-24.1/"
@@ -43,8 +43,38 @@ weight: 512
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-1-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains MSI with Aspose.Tasks for .NET 24.1 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains MSI of Aspose.Tasks for .NET 24.1 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Effortlessly manage project tasks and resources with the latest Aspose.Tasks for .NET 24.1 (MSI). This release delivers graphical indicator preservation, improved MPP file handling, and bug fixes for a seamless development experience on Windows.
+
+### Key Highlights
+
+- **Accurate Visualizations:** Existing graphical indicators are now maintained when opening and saving MPP files, ensuring consistent project visuals with the C# task management API.
+- **Enhanced MPP Compatibility:** We have improved the reading and writing of `ExternalTaskId` and `ExternalTaskUid` in this release for robust project data management.
+- **Streamlined Resource Management:** Aspose.Tasks for .NET 24.1 includes a fix to resolve an issue causing an extra empty resource to appear when opening MPP9 files.
+
+### Public API and Backwards Incompatible Changes
+
+### Added API Members
+
+We have added different new methods and properties in this release which are shared below:
+- Aspose.Tasks.FilterCriteria.IsFieldValue
+- Aspose.Tasks.FilterCriteria.SetValueField(Aspose.Tasks.Field)
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for .NET 24.1 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

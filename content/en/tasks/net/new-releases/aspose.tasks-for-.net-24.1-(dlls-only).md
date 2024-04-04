@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-.net-24.1-(dlls-only)"
-description: " "
+title: "Empower .NET Projects with Task Management API 24.1 (DLLs)"
+description: "Aspose.Tasks for .NET 24.1 empowers your C# apps with graphical indicator handling, optimized MPP file processing & more features. Download DLLs now."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/net/new-releases/aspose.tasks-for-.net-24.1-(dlls-only)/"
@@ -45,6 +45,36 @@ weight: 513
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for .NET 24.1 (DLLs Only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Unleash the power of Aspose.Tasks for .NET 24.1 (DLLs Only) for efficient project management in your .NET apps. Enjoy better visuals, optimized MPP file handling, and essential bug fixes with this version.
+
+### Key Highlights
+
+- **Preserved Visual Cues:** Graphical indicators are now accurately retained when opening and saving MPP files, enhancing project clarity.
+- **Streamlined MPP Support:** Reading and writing of `ExternalTaskId` and `ExternalTaskUid` is now more efficient which ensures data integrity while using the C# task management API.
+- **Efficient Resource Management:** This release eliminates the issue of extra empty resources appearing when opening MPP9 files, resulting in a smoother development experience.
+
+### Public API and Backwards Incompatible Changes
+
+### Added API Members
+
+We have added different new methods and properties in this release which are shared below:
+- Aspose.Tasks.FilterCriteria.IsFieldValue
+- Aspose.Tasks.FilterCriteria.SetValueField(Aspose.Tasks.Field)
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for .NET 24.1 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
