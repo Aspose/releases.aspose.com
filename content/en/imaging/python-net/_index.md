@@ -72,12 +72,14 @@ Please visit [Supported File Formats](https://docs.aspose.com/imaging/python-net
 
 ### System Requirements
 
-Aspose.Imaging for Python via .NET supports Windows 64-bit, Linux 64-bit operating systems where Python 3.5 or later is installed.
+Aspose.Imaging for Python via .NET supports Windows 32,64-bit, Linux 64-bit, macOS 64-bit operating systems where Python 3.5 or later is installed.
 
 ### Supported Operating Systems
 
 **Microsoft Windows:** Windows Desktop & Server (`x64`)\
 **Linux:** Ubuntu, OpenSUSE, CentOS, and others.
+**macOS x64:** since macOS 10.14 (Mojave)
+**macOS arm64:** since macOS 11 (Big Sur)
 
 {{< Common/hr >}}
 

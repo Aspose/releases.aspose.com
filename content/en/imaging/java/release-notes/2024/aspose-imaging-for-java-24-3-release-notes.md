@@ -36,7 +36,7 @@ Please see corresponding cumulative [API changes for Aspose.Imaging for .NET 24.
 
 **IMAGINGJAVA-8678 Aspose.Imaging 23.9: Converting a tiff with different horizontal and vertical resolutions to PDF produces a stretched result**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 String inputPath = "6735.tif";
 String outputPath = inputPath + ".pdf";
@@ -53,7 +53,7 @@ try (RasterImage image = (RasterImage) Image.load(inputPath))
 
 **IMAGINGJAVA-8669 Unauthorized access exception**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 // Code below does not throw UnauthorizedAccessException on loading a read-only image file
 try (Image image = Image.load("read-only-png.png"))
@@ -65,7 +65,7 @@ try (Image image = Image.load("read-only-png.png"))
 
 **IMAGINGJAVA-8637 SVG image saving problem on Linux**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("image7.emf")) {
    image.save("output.svg", new SvgOptions());

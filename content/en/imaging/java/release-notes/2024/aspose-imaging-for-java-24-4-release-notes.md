@@ -42,7 +42,7 @@ Please see corresponding cumulative [API changes for Aspose.Imaging for .NET 24.
 
 **IMAGINGJAVA-8702 Crashing Java 21 with EXCEPTION_ACCESS_VIOLATION**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 import com.aspose.imaging.Image;
 import com.aspose.imaging.fileformats.tiff.TiffImage;
@@ -66,7 +66,7 @@ public class ImageLoadTiff {
 
 **IMAGINGJAVA-8701 DJVU to PDF: First page is blank**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (DjvuImage image = (DjvuImage)Image.load("Sample1.djvu"))
 {
@@ -77,7 +77,7 @@ try (DjvuImage image = (DjvuImage)Image.load("Sample1.djvu"))
 
 **IMAGINGJAVA-8700 Fix PS (EPS) file export**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("input.ps"))
 {
@@ -88,7 +88,7 @@ try (Image image = Image.load("input.ps"))
 
 **IMAGINGJAVA-8691 EMF to PDF conversion: text doesn't wrap**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (EmfImage emfImage = (EmfImage) Image.load("50123_pg1.emf"))
 {
@@ -101,7 +101,7 @@ try (EmfImage emfImage = (EmfImage) Image.load("50123_pg1.emf"))
 
 **IMAGINGJAVA-8688 Cannot convert the CDR image to DXF format**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("Laser Cut Christmas Gift New Year Night Lamp CDR File.cdr"))
 {
@@ -123,7 +123,7 @@ More details: https://docs.aspose.com/imaging/net/supported-file-formats/
 
 **IMAGINGJAVA-8687 Support PNG loading with unexpected EOF & PNG loader optimization**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("input.png"))
 {
@@ -134,7 +134,7 @@ try (Image image = Image.load("input.png"))
 
 **IMAGINGJAVA-8686 Add options of modifying Dicom tags to the public API**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (DicomImage image = (DicomImage)Image.load("ttfm.dcm"))
 {
@@ -149,7 +149,7 @@ try (DicomImage image = (DicomImage)Image.load("ttfm.dcm"))
 
 **IMAGINGJAVA-8668 EPS -> SVG: NotImplementedException The method or operation is not implemented**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("input.eps"))
 {
@@ -160,7 +160,7 @@ try (Image image = Image.load("input.eps"))
 
 **IMAGINGJAVA-8618 ArgumentNullException while exporting a loaded PNG with 64 bpp into PNG with 32 bpp**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("input.eps"))
 {

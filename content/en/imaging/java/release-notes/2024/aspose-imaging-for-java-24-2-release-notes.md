@@ -41,7 +41,7 @@ Please see corresponding cumulative [API changes for Aspose.Imaging for .NET 24.
 
 **IMAGINGJAVA-8661 Error converting the EPS image to PDF**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try(Image image = Image.load("graph1.eps"))
 {
@@ -52,7 +52,7 @@ try(Image image = Image.load("graph1.eps"))
 
 **IMAGINGJAVA-8660 Eps to Jpg export issue**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try(Image image = Image.load("input.eps"))
 {
@@ -63,7 +63,7 @@ try(Image image = Image.load("input.eps"))
 
 **IMAGINGJAVA-8659 Cannot open the EPS image**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try(Image image = Image.load("input.eps"))
 {
@@ -74,7 +74,7 @@ try(Image image = Image.load("input.eps"))
 
 **IMAGINGJAVA-8656 Support of kernel filter**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 import com.aspose.imaging.Image;
 import com.aspose.imaging.RasterImage;
@@ -196,7 +196,7 @@ outputs.forEach(p -> new File(p).delete());
 
 **IMAGINGJAVA-8645 Optimization memory usage when rendering vector formats. Using step-by-step load/render each record**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 final double toMb = 1d / (1024 * 1024);
 String baseFolder = "C:\\Data\\";
@@ -249,7 +249,7 @@ for(String str : results)
 
 **IMAGINGJAVA-8640 MSO file is recognized as SVG image**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try(Image image = Image.load("file.mso")) // throws exception for an undefined file format
 {
@@ -260,7 +260,7 @@ try(Image image = Image.load("file.mso")) // throws exception for an undefined f
 
 **IMAGINGJAVA-8639 VSIX file recognized as svg**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try(Image image = Image.load("VSIX.vsix")) // throws exception for an undefined file format
 {
