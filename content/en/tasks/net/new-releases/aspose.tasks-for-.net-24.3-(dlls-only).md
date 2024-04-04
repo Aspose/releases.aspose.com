@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-.net-24.3-(dlls-only)"
-description: " "
+title: "Aspose.Tasks .NET 24.3 (DLLs) - Easy Project Management API"
+description: "Integrate project management features efficiently with Aspose.Tasks for .NET 24.3 (DLLs). Download now and leverage bug fixes and new API enhancements."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/net/new-releases/aspose.tasks-for-.net-24.3-(dlls-only)/"
@@ -45,6 +45,36 @@ weight: 517
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for .NET 24.3 (DLLs Only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Aspose.Tasks for .NET 24.3 empowers you with improved project management capabilities through downloadable DLLs. This release offers bug fixes and a new public API, allowing for seamless integration into your existing .NET development environment.
+
+### Key Improvements
+
+- **Improved MS Project 16.0 Support:** Aspose.Tasks for .NET 24.3 offers better compatibility with MPP files created in Microsoft Project 16.0. This means smoother opening and working with these files directly through your application's code.
+- **Accurate Task & Resource Data (XML):** This update ensures precise handling of task and resource GUIDs (unique identifiers) within XML files. This eliminates potential data inconsistencies when working with project data in this format.
+- **Enhanced Material Resource Management:** Aspose.Tasks now handles time-phased data for material resources more efficiently. This allows for better planning and allocation of materials throughout your project.
+- **Consistent Assignment IDs Across Formats:** Assignment GUIDs (unique identifiers for task assignments) are now maintained consistently when saving projects between MPP and XML formats using the Aspose.Tasks for .NET 24.3 DLLs.
+- **Accurate Calculations for Completed Tasks:** Calculations of dependent properties, which determine how completing one task affects others, are now more accurate, especially for tasks marked as 100% complete.
+- **Greater Control over Zero-Duration Tasks:** With this update, you can set "Actual Finish" dates even for tasks with zero duration. This provides a more complete picture of your project schedule.
+
+### Public API and Backwards Incompatible Changes
+
+### New Public API
+- We have introduced `Aspose.Tasks.Calendar.Guid` in this release of the project management API.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for .NET 24.3 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

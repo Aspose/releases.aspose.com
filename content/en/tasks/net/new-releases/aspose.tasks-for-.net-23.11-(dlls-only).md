@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-.net-23.11-(dlls-only)"
-description: " "
+title: "Manage Project Files & Tasks: Aspose.Tasks .NET 23.11 (DLLs)"
+description: "Easily manage project files, gain task status insights & unlock time-phased work analysis in your C# apps using Aspose.Tasks .NET 23.11. Download DLLs now."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/net/new-releases/aspose.tasks-for-.net-23.11-(dlls-only)/"
@@ -45,6 +45,37 @@ weight: 509
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for .NET 23.11 (DLLs Only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Developers seeking a streamlined approach to project management within their .NET applications can leverage Aspose.Tasks for .NET 23.11 (DLLs-only package). This release offers core functionalities like time-phased work calculations, task status access, and more.
+
+### Key Highlights
+
+- **Time-Phased Work Calculations:** Say goodbye to complex calculations with Aspose.Tasks for .NET 24.3 which lets you easily calculate assignment work for specific date ranges. This simplifies resource allocation and cost estimation within your C# task management solutions.
+- **Task Completion at a Glance:** Keep your finger on the pulse of your project with this update. You can get a clear and immediate view of task completion status, making project tracking and progress monitoring a breeze.
+- **Streamline your Workflow:** Developers can write project calendar GUIDs to MPP files. This ensures seamless data exchange and avoids potential compatibility issues.
+- **Lightweight & Efficient:** The DLLs-based distribution provides a more lightweight solution for integration into your .NET projects. 
+
+### Public API and Backwards Incompatible Changes
+
+### Added API Members
+
+We have added the following methods and properties in this release: 
+- Aspose.Tasks.ResourceAssignment.GetTimephasedWork(DateTime, DateTime, TimephasedDataType)
+- Aspose.Tasks.Task.Status
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for .NET 23.11 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2023/aspose-tasks-for-net-23-11-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
