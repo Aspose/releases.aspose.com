@@ -1,8 +1,13 @@
 {
   "groupId" : "com.aspose",
+  "classifier" : "jdk17",
   "artifactId" : "aspose-html",
   "id" : "24-4",
   "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-html-24.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
     "size" : "32 MB",
     "name" : "aspose-html-24.4-jdk1.8.jar",
     "classifier" : "jdk1.8"
@@ -11,10 +16,14 @@
     "name" : "aspose-html-24.4-jdk11.jar",
     "classifier" : "jdk11"
   }, {
+    "size" : "32 MB",
+    "name" : "aspose-html-24.4-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
     "size" : "394 bytes",
     "name" : "aspose-html-24.4.pom"
   } ],
-  "releasehDate" : "2024-04-04T11:57:55+00:00",
+  "releasehDate" : "2024-04-04T12:00:13+00:00",
   "version" : "24.4",
   "ReleaseNotes" : "https://releases.aspose.com/html/java/release-notes/2024/aspose-html-for-java-24-4-release-notes/"
 }
