@@ -1,15 +1,15 @@
 ---
-id: "aspose-html-for-java-24-3-release-notes"
-slug: "aspose-html-for-java-24-3-release-notes"
-linktitle: "Aspose.HTML for Java 24.3 Release Notes"
-title: "Aspose.HTML for Java 24.3 Release Notes"
+id: "aspose-html-for-java-24-4-release-notes"
+slug: "aspose-html-for-java-24-4-release-notes"
+linktitle: "Aspose.HTML for Java 24.4 Release Notes"
+title: "Aspose.HTML for Java 24.4 Release Notes"
 weight: 65
-description: "This article contains release notes information for Aspose.HTML for .Java 24.3."
+description: "This article contains release notes information for Aspose.HTML for .Java 24.4."
 type: "repository"
 layout: "release"
 hideChildren: false
 toc: false
-family_listing_page_title: "Aspose.HTML for Java 24.3 Release Notes"
+family_listing_page_title: "Aspose.HTML for Java 24.4 Release Notes"
 menuItemWithNoContent: false
 ---
 
