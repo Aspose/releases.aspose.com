@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-c++-24.1-macos"
-description: " "
+title: "Aspose.Tasks C++ 24.1: Easily Process MPP Files on macOS"
+description: "Mac developers, upgrade to Aspose.Tasks for C++ 24.1 and benefit from improved MPP file handling, API enhancements & more for your C++ apps on macOS."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-24.1-macos/"
@@ -43,8 +43,37 @@ weight: 200
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-1-release-notes/'>https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 24.1 release for MacOS</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 24.1 release for macOS.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Aspose.Tasks for C++ 24.1 streamlines MPP management for C++ developers on macOS. This release focuses on improving data integrity and providing a more robust development experience.
+
+### Key Highlights
+
+- **MPP File Management:** This update streamlines how you work with MPP files on macOS. You can now be confident in the accurate handling of visual indicators and external task IDs within your project data.
+- **Bug Fixes and Improvements:** Aspose.Tasks for C++ introduces a set of new API methods, properties, and bug fixes tailored to enhance your MPP file processing capabilities on macOS.
+
+### Public API and Backwards Incompatible Changes
+
+### Added API Members
+
+We have added different new methods and properties in this release which are shared below:
+- Aspose.Tasks.FilterCriteria.IsFieldValue
+- Aspose.Tasks.FilterCriteria.SetValueField(Aspose.Tasks.Field)
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for C++ 24.1 Release Notes](https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

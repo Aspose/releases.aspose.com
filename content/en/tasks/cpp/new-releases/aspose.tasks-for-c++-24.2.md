@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-c++-24.2"
-description: " "
+title: "Control Page Orientation & Filters with Aspose.Tasks C++ 24.2"
+description: "Download Aspose.Tasks C++ 24.2 to explore new features like page orientation control, MPP file & filter property enhancements on Windows, Linux, or macOS."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-24.2/"
@@ -43,8 +43,62 @@ weight: 208
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-2-release-notes/'>https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 24.2 release for Windows/Linux/MacOS</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 24.2 release for Windows/Linux/macOS.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+This release of Aspose.Tasks for C++ 24.2 brings exciting enhancements for developers working with project management data. We've introduced new functionalities and addressed critical bugs to streamline your development process on Windows, Linux, or macOS.
+
+### Key Highlights
+
+- **Control Page Orientation:** Gain finer control over project output with the new `IsPortrait` property in `SaveOptions`. Specify portrait or landscape orientation for PDF, HTML, and image formats.
+- **Enhanced Filter Properties:** Users can experience improved handling of `Filter.Name` property length limitations ensures flexibility when defining project filters using the C++ project management API.
+- **Improved MPP File Handling:** We have resolved issues related to timephased data reading and interval filter criteria writing for specific MPP files this update.
+- **Bug Fixes:** Additional bug fixes including writing of filter criteria with field references and the `Filter.ShowRelatedSummaryRows` flag for MPP files have been addressed in Aspose.Tasks for C++ 24.2.
+
+### Code Example
+This C++ code sample demonstrates how to set the page orientation for the output PDF document to portrait mode using the `IsPortrait` property: 
+
+```C++
+auto project = System::MakeObject<Project>(System::String(u"test.mpp"));
+auto saveOptions = System::MakeObject<PdfSaveOptions>();
+saveOptions->set_PageSize(PageSize->A4);
+saveOptions->set_IsPortrait(true);
+project->Save(u"output.pdf", saveOptions);
+
+
+```
+*[Source\*](https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-2-release-notes/)*
+
+### Public API and Backwards Incompatible Changes
+
+### Added API Members
+
+We have added different new methods and properties in this release which are shared below:
+- Aspose.Tasks.Saving.SaveOptions.IsPortrait
+- Aspose.Tasks.WeekDay.#ctor(Aspose.Tasks.DayType,Aspose.Tasks.WorkingTime[])
+
+### Removed API Members
+
+We have removed different methods and properties in this release. Some of which are:
+- Aspose.Tasks.Saving.HtmlSaveOptions.DefaultFontName
+- Aspose.Tasks.Saving.HtmlSaveOptions.FontResolveCallback
+- Aspose.Tasks.Saving.ImageSaveOptions.DefaultFontName
+- Aspose.Tasks.Saving.PdfSaveOptions.DefaultFontName
+- Aspose.Tasks.Saving.PdfSaveOptions.UseProjectDefaultFont
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for C++ 24.2 Release Notes](https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

@@ -84,7 +84,7 @@ We have added different new methods and properties in this release which are sha
 
 ### Removed API Members
 
-We have removed different new methods and properties in this release. Some of which are:
+We have removed different methods and properties in this release. Some of which are:
 - Aspose.Tasks.Saving.HtmlSaveOptions.DefaultFontName
 - Aspose.Tasks.Saving.HtmlSaveOptions.UseProjectDefaultFont
 - Aspose.Tasks.Saving.ImageSaveOptions.DefaultFontName

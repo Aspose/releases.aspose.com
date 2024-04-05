@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-c++-24.2-linux"
-description: " "
+title: "Control Page Orientation with Linux C++ Project Files API 24.2"
+description: "Aspose.Tasks C++ 24.2 offers better project data processing for your C++ apps. Control page orientation, manage filters, & more. Download on Linux now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-24.2-linux/"
@@ -43,8 +43,62 @@ weight: 206
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-2-release-notes/'>https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 24.2 release for Linux</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 24.2 release for Linux.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+The Linux version of Aspose.Tasks for C++ 24.2 delivers valuable enhancements for Linux developers working with project management tasks in their C++ applications.
+
+### Key Highlights
+
+- **Control Project Output Settings:** Take control of how your project information appears when exported on Linux. Aspose.Tasks for C++ 24.3 introduces the new `IsPortrait` property in `SaveOptions`, allowing you to choose portrait or landscape orientation for your exported PDF, HTML, and image files.
+- **Streamline Filter Definitions:** Developers can utilize enhanced ability to define project filters using the C++ project files API on Linux. We've improved the handling of `Filter.Name` property length limitations, ensuring you can create descriptive and informative filter names to fit your specific needs.
+- **Enhanced MPP Files Manipulation:** The problems encountered when reading time-phased data and writing interval filter criteria for MPP files are fixed in this release. It translates to smoother data processing and precise filtering within your Linux applications.
+- **Increased Stability and Performance:** Several bug fixes are included in this update to further improve the reliability and performance of the C++ API. 
+
+### Code Example
+This C++ code sample demonstrates how to set the page orientation for the output PDF document to portrait mode using the `IsPortrait` property: 
+
+```C++
+auto project = System::MakeObject<Project>(System::String(u"test.mpp"));
+auto saveOptions = System::MakeObject<PdfSaveOptions>();
+saveOptions->set_PageSize(PageSize->A4);
+saveOptions->set_IsPortrait(true);
+project->Save(u"output.pdf", saveOptions);
+
+
+```
+*[Source\*](https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-2-release-notes/)*
+
+### Public API and Backwards Incompatible Changes
+
+### Added API Members
+
+We have added different new methods and properties in this release which are shared below:
+- Aspose.Tasks.Saving.SaveOptions.IsPortrait
+- Aspose.Tasks.WeekDay.#ctor(Aspose.Tasks.DayType,Aspose.Tasks.WorkingTime[])
+
+### Removed API Members
+
+We have removed different methods and properties in this release. Some of which are:
+- Aspose.Tasks.Saving.HtmlSaveOptions.DefaultFontName
+- Aspose.Tasks.Saving.HtmlSaveOptions.FontResolveCallback
+- Aspose.Tasks.Saving.ImageSaveOptions.DefaultFontName
+- Aspose.Tasks.Saving.PdfSaveOptions.DefaultFontName
+- Aspose.Tasks.Saving.PdfSaveOptions.UseProjectDefaultFont
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for C++ 24.2 Release Notes](https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-c++-24.3"
-description: " "
+title: "Manage Tasks, MPP Files: Download Aspose.Tasks C++ 24.3"
+description: "Boost your C++ apps with improved MPP file handling, task & resource management, and more in Aspose.Tasks for C++ API 24.3 release. Download today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-24.3/"
@@ -45,6 +45,34 @@ weight: 212
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 24.3 release for Windows/Linux/MacOS</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+This update of Aspose.Tasks for C++ empowers developers with a range of improvements for streamlined project management within their C++ applications on Windows, Linux, and macOS platforms.
+
+### Key Highlights
+
+- **Enhanced MPP File Handling:** Aspose.Tasks for C++ 24.3 tackles non-standard MPP file structures created by MS Project 16 to ensure seamless data processing.
+- **Robust Task & Resource Management:** Developers can experience improved handling of tasks and resource Guids within XML formats and strengthen data integrity using the C++ project management API.
+- **Accurate Timephased Data Management:** Precise handling of timephased data for material resource assignments enhances project planning accuracy.
+- **Optimized Project Saving:** You can effectively maintain data consistency as repetitive saving to MPP and XML formats no longer results in empty assignment Guids.
+
+### Additional Updates
+
+- Accuracy of calculation of dependent properties for tasks with 100% completion is optimized.
+- Setting `ActualFinish` for tasks with zero duration is supported.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for C++ 24.3 Release Notes](https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
