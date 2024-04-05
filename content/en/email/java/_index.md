@@ -75,6 +75,7 @@ productLink: https://products.aspose.com/email/java/
 releaseNotesLink: https://releases.aspose.com/email/java/release-notes/
 dataFolder: aspose_email
 packages_refs:
+- "24-3"
 - "24-2"
 - "24-1"
 - "23-12"
