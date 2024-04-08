@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-python-via-.net-24.2-linux-x86-64"
-description: " "
+title: "MS Project Files API 24.2: Power Up Python .NET Apps (Linux)"
+description: "Utilize the latest enhancements in Aspose.Tasks Python via .NET 24.2 for seamless project export control & improved filters in Python apps. Download on Linux!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-24.2-linux-x86-64/"
@@ -43,8 +43,73 @@ weight: 49
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-2-release-notes/'>https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for Python via .NET 24.2 linux only binaries</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for Python via .NET 24.2 Linux-only binaries.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Python developers can upgrade to Aspose.Tasks for Python via .NET 24.2 and streamline Python development tasks pertaining to Microsoft Project (MPP) files on Linux systems. 
+
+### Orientation Control in Exported Documents
+
+In version 24.2 of the Python API, developers gain greater control over the orientation (portrait/landscape) of exported project documents using the newly introduced `IsPortrait` property within `SaveOptions`.
+
+### Refined Filter Management
+
+This release tackles issues concerning the length of filter names by enhancing the `Filter.Name` property, thereby optimizing workflows for manipulating MPP files within Linux environments.
+
+### Integrity of Time-phased Data
+
+Developers can now expect heightened accuracy when parsing time-phased data in Python solutions, which bolsters the integrity of their data processing workflows.
+
+### Feature Enrichments and Bug Fixes
+
+This update incorporates various enhancements and fixes pertaining to API functionalities, promising a more robust and dependable user experience specifically tailored for the Linux platform.
+
+### Code Example
+Below, you'll find a Python code snippet illustrating the utilization of the `IsPortrait` property:
+
+```Python
+import aspose.tasks as tsk
+
+project = tsk.Project("test.mpp")
+options = tsk.saving.PdfSaveOptions()
+options.page_size = tsk.visualization.PageSize.A4
+options.is_portrait = True
+project.save("output.pdf", options)
+
+
+```
+*[Source\*](https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-2-release-notes/)*
+
+### Public API and Backwards Incompatible Changes
+
+### Added API Members
+
+We have added different new methods and properties in this release which are shared below:
+- Aspose.Tasks.Saving.SaveOptions.IsPortrait
+- Aspose.Tasks.WeekDay.#ctor(Aspose.Tasks.DayType,Aspose.Tasks.WorkingTime[])
+
+### Removed API Members
+
+We have removed different methods and properties in this release. Some of which are:
+- Aspose.Tasks.Saving.HtmlSaveOptions.DefaultFontName
+- Aspose.Tasks.Saving.HtmlSaveOptions.UseProjectDefaultFont
+- Aspose.Tasks.Saving.ImageSaveOptions.DefaultFontName
+- Aspose.Tasks.Saving.ImageSaveOptions.UseProjectDefaultFont
+- Aspose.Tasks.Saving.ImageSaveOptions.FontResolveCallback
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for Python via .NET 24.2 Release Notes](https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-python-via-.net-24.3-linux-x86-64"
-description: " "
+title: "Aspose.Tasks Python .NET (24.3): MPP Files, GUID on Linux"
+description: "Unleash the potential of Aspose.Tasks Python .NET 24.3 in Python projects on Linux. Improved MPP file reading, GUID & new calendar API. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-24.3-linux-x86-64/"
@@ -43,8 +43,40 @@ weight: 53
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-3-release-notes/'>https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for Python via .NET 24.3 Linux only binaries</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for Python via .NET 24.3 Linux-only binaries.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+This exciting update brings a wealth of new features and improvements to empower Python developers on Linux machines. Now you can seamlessly integrate powerful project management capabilities into your Python applications.
+
+### Universal MPP File Support
+
+We've enhanced handling of non-standard MPP file structures created by MS Project 16.0. This means your Python applications on Linux, can now process a wider range of project files with ease.
+
+### Accuracy in Task & Resource Guidance
+
+With version 24.3 of the Python MS Project API, you can ensure accurate reading of task and resource GUIDs in XML format. This helps maintain data integrity, giving you confidence in your project data.
+
+### Optimized Time-phased Data Management
+
+Developers can efficiently write time-phased data for material resource assignment, which enables smoother MPP file management workflows.
+
+### Improved Efficiency
+
+Benefit from various bug fixes addressing performance issues such as `PercentComplete` calculations, `ActualFinish` settings, and more.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for Python via .NET 24.3 Release Notes](https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

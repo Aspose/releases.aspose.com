@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-python-via-.net-24.3-windows-x32"
-description: " "
+title: "Aspose.Tasks Python .NET (24.3): MPP Files, GUID on Win x32"
+description: "Streamline MS Project interaction in Python apps with Aspose.Tasks Python .NET 24.3. Download now for MPP file reading & GUID handling on Windows 32-bit."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-24.3-windows-x32/"
@@ -43,8 +43,40 @@ weight: 54
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-3-release-notes/'>https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for Python via .NET 24.3 Win32 only binaries</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for Python via .NET 24.3 Windows 32-bit only binaries.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+This latest release of Aspose.Tasks for Python via .NET 24.3 brings exciting new features and improvements for Python developers working on Windows 32-bit machines. It empowers you to integrate powerful project management capabilities into your apps.
+
+### Broader MPP File Support
+
+We've improved handling of non-standard MPP file structures created by MS Project 16.0. This means your Python applications can now process a wider range of project files, for your Windows x32 architecture.
+
+### Accurate Task & Resource GUIDs
+
+This version 24.3 of the project management API ensures accurate reading of task and resource GUIDs in XML format. This helps maintain data integrity across different systems.
+
+### Management of Time-phased
+
+Developers can efficiently write time-phased data for assignments of material resources. This translates to smoother MPP file management workflows on Windows 32-bit systems.
+
+### Calendar Access Improvements
+
+The new `Aspose.Tasks.Calendar.Guid` property allows you to fetch calendar GUIDs within your Python applications. 
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for Python via .NET 24.3 Release Notes](https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

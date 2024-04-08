@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-python-via-.net-24.1-windows-x64"
-description: " "
+title: "Enhanced MPP Processing on Win x64: Python Apps API 24.1"
+description: "Easily streamline project management tasks in Python apps with improved MPP file handling in Aspose.Tasks Python via .NET 24.1 for Win x64. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-24.1-windows-x64/"
@@ -43,8 +43,39 @@ weight: 47
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-1-release-notes/'>https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for Python via .NET 24.1 Win64 only binaries</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for Python via .NET 24.1 Win64 only binaries.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+This release of Aspose.Tasks for Python via .NET 24.1 brings exciting enhancements for developers working with MPP files in their Python applications on Windows 64-bit architecture. 
+
+### Key Highlights
+
+- **Preserved Graphical Indicators:** It ensures existing graphical indicators remain intact when opening and saving MPP files using the Python apps API.
+- **Accurate External Task Data:** We have addressed issues related to reading and writing `ExternalTaskId` and `ExternalTaskUid` information in this release.
+- **Eliminated Extra Resource:** Developers can experience optimized API usage as we have fixed the issue causing an additional empty resource to appear when opening MPP9 files.
+- **Enhanced Cost Variance Calculation:** This feature of Aspose.Tasks for Python via .NET 24.1 provides accurate `Rsc.CostVariance` calculation for specific MPP file versions.
+
+### Public API and Backwards Incompatible Changes
+
+### Added API Members
+
+We have added different new methods and properties in this release which are shared below:
+- Aspose.Tasks.FilterCriteria.IsFieldValue
+- Aspose.Tasks.FilterCriteria.SetValueField(Aspose.Tasks.Field)
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for Python via .NET 24.1 Release Notes](https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
