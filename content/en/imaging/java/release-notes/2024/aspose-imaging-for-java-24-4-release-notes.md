@@ -138,10 +138,10 @@ try (Image image = Image.load("input.png"))
 
 try (DicomImage image = (DicomImage)Image.load("ttfm.dcm"))
 {
-    image.getFileInfo().updateTag("Patient's Name", "Test Patient");
+    image.getFileInfo().updateTagAt(33, "Test Patient"); // "Patient's Name"
     image.getFileInfo().addTag("Angular View Vector", 234);
-    image.getFileInfo().removeTag("Station Name");
-    
+    image.getFileInfo().removeTagAt(29); // "Station Name"
+
     image.save("output.dcm");
 }
 

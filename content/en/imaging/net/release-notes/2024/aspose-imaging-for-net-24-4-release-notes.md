@@ -143,10 +143,10 @@ image.Save(@"output.png");
 
 using (DicomImage image = (DicomImage)Image.Load("ttfm.dcm"))
 {
-    image.FileInfo.UpdateTag("Patient's Name", "Test Patient");
+    image.FileInfo.UpdateTagAt(33, "Test Patient"); // "Patient's Name"
     image.FileInfo.AddTag("Angular View Vector", 234);
-    image.FileInfo.RemoveTag("Station Name");
-    
+    image.FileInfo.RemoveTagAt(29); // "Station Name"
+
     image.Save("output.dcm");
 }
 
