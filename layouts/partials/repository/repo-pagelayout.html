@@ -24,10 +24,10 @@
               {{ end }}
 
 
-<section role="main" class="main-container page-package-details">
-        <div class="row">
+<!--<section role="main" class="main-container page-package-details">-->
+        
 
-          <div class="col-sm-9 package-details-main">
+          <!--<div class="package-details-main">-->
             {{ $p := . }}
             {{ range  first 1 (sort $releases ".releasehDate" "desc") }}
             <div class="package-header">
@@ -37,14 +37,10 @@
                                     <!-- <img class="package-icon img-responsive" aria-hidden="true" alt=""
                                        src="/res_repo/img/groupdocs{{ lower (replace  (replace  $.context.RelPermalink "/" "_") "_java_" "-for-java") }}.png" />
                                     -->
-                                    {{ if $.context.Page.IsTranslated }}
-                                      {{$lang := print "/" $.context.Language.Params.languageCode}}
-                                         <img class="package-icon img-responsive" aria-hidden="true" alt=""
-                                            src="/res_repo/img/aspose{{ lower (replace (replace (replace  $.context.RelPermalink $lang "") "/" "_") "_java_" "-for-java") }}.png" />
-                                    {{ else }}
-                                    <img class="package-icon img-responsive" aria-hidden="true" alt=""
+                                    <!-- @am modified fix path for multilingual -->
+                                    <img class="package-icon img-responsive" aria-hidden="true" alt="Aspose" width="40px" height="40px"
                                        src="/res_repo/img/aspose{{ lower (replace  (replace  $.context.RelPermalink "/" "_") "_java_" "-for-java") }}.png" />
-                                    {{ end }}
+                                    <!-- @am /modified fix path for multilingual -->
                                     </span>
 
                                     <span class="title" tabindex="0">
@@ -210,7 +206,7 @@ implementation group: '{{ .groupId }}', name: '{{ .artifactId }}', classifier: '
         <div role="tabpanel" class="tab-pane active" id="readme-tab">
                  <div class="readme-common">
                     <div id="readme-container">
-                       <p>{{ .context.Content }}</p>
+                       {{ .context.Content }}
                     </div>
                  </div>
               </div> <!-- end of readme-tab -->
@@ -263,7 +259,7 @@ implementation group: '{{ .groupId }}', name: '{{ .artifactId }}', classifier: '
             {{ end }}
       {{ end }}
 
-  </div> <!-- end of package-details-main -->
+  <!--</div>--> <!-- end of package-details-main -->
 
 <!--
    {{ $p := . }}
@@ -342,4 +338,4 @@ implementation group: '{{ .groupId }}', name: '{{ .artifactId }}', classifier: '
        {{ end }}
 
 -->
-          </div></section>
+          <!--</section>-->
