@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-.net-23.10"
-description: " "
+title: "C# Presentations API 23.10: Enhance PPTX, ODP & TIFF (MSI)"
+description: "Upgrade your C# apps with Aspose.Slides .NET 23.10. Enhance PPTX to PDF/JPG/TIFF conversion, fix animations & ODP charts. Download MSI installer now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/net/new-releases/aspose.slides-for-.net-23.10/"
@@ -43,8 +43,73 @@ weight: 777
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-10-release-notes/'>https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for .NET 23.10 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for .NET 23.10 release (MSI).</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Developers working on MS PowerPoint solutions on the .NET platform can utilize Aspose.Slides for .NET 23.10 (MSI installer) to streamline their presentation processing tasks in C# applications. This release delivers a range of enhancements and bug fixes.
+
+### Key Highlights
+
+- **Enhanced Conversion:** You can experience improved accuracy when converting PPTX presentations to PDF, JPG, and TIFF formats. Upgrades to the conversion functionality include reduced image blur, fixed content rendering, and more.
+- **ODP 3D Chart Support:** Seamlessly work with and convert ODP presentations containing 3D charts seamlessly within your C# .NET applications.
+- **New Ink Management API:** We have introduced the new `InkBrush` and `InkTrace` classes for advanced manipulation of ink objects in presentations in Aspose.Slides for .NET 23.10 version.
+- **Additional Bug Fixes:** Various issues related to slide cloning, placeholder behavior, and text formatting have been resolved in this update.
+
+### Additional Updates
+
+- You can convert ODP files containing 3D charts, ensuring that intricate visual elements are accurately preserved throughout the conversion process.
+- Another important enhancement is the ability to retrieve the number of lines in a paragraph.
+- We've augmented the functionality to retrieve the visual size of Ink shapes within presentations. 
+- Notable modifications to the public API have been introduced, specifically within the `TiffOptions` module. 
+
+### Get The Number of Lines in a Paragraph
+
+The following C# code showcases how to retrieve the number of lines in a paragraph using the `Paragraph.GetLinesCount` method: 
+
+```C#
+using (Presentation pres = new Presentation())
+{
+    ISlide sld = pres.Slides[0];
+    IAutoShape ashp = sld.Shapes.AddAutoShape(ShapeType.Rectangle, 150, 75, 150, 50);
+    IParagraph para = ashp.TextFrame.Paragraphs[0];
+    IPortion portion = para.Portions[0];
+    portion.Text = "Aspose Paragraph GetLinesCount() Example";
+    Console.WriteLine("Lines Count = {0}", para.GetLinesCount());
+}
+
+```
+*[Source\*](https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-10-release-notes/)*
+
+
+### Upgraded Ink Management API
+
+With the newly added `InkBrush` and `InkTrace` classes, it is easier to manage the relevant functionality within your .NET apps. The following C# sample code illustrates the usage of these classes:
+
+
+```C#
+using (Presentation pres = new Presentation("pres.pptx"))
+{
+    IInk ink = (IInk)pres.Slides[0].Shapes[0];
+    IInkTrace[] traces = ink.Traces;
+    IInkBrush brush = traces[0].Brush;
+}
+
+```
+*[Source\*](https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-10-release-notes/)*
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for .NET 23.10 Release Notes](https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-10-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

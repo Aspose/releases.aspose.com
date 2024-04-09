@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-.net-24.3"
-description: " "
+title: "Aspose.Slides for .NET 24.3 (MSI): PDF Export, SVG Rendering"
+description: "Streamline presentations with Aspose.Slides .NET 24.3. Flawless PPTX to PDF/A conversion, refined SVG output & more for C# developers. Download MSI."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/net/new-releases/aspose.slides-for-.net-24.3/"
@@ -43,8 +43,53 @@ weight: 787
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-3-release-notes/'>https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for .NET 24.3 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for .NET 24.3 release (MSI).</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Aspose.Slides for .NET 24.3 (MSI installer) empower developers with an advanced set of enhancements to optimize the presentation processing workflows. This update introduces support for FIPS-compliant PDF/A generation in PPTX conversions, addresses numerous bugs, and contains other updates for a more efficient development experience.
+
+### Key Highlights
+
+- **Flawless FIPS-compliant PDF/A conversion:** This release introduces adherence to FIPS 140-2 security standards for use in government and highly regulated environments (PPTX to PDF/A).
+- **Enhanced SVG rendering:** Developers can witness significant improvements in the accuracy of shapes and text elements when exporting presentations to SVG format within their C# presentation processing apps.
+- **Streamlined hyperlink management:** A new property `IHyperlink.ExternalUrlOriginal` is introduced in this update, allowing users to access the original URL associated with a hyperlink, independent of any display text formatting applied within the PowerPoint presentation.
+- **Numerous bug fixes:** We have addressed various issues reported by our valued users, including text inversion in PDFs, font substitution errors, and shape cropping inconsistencies during SVG export.
+
+### Other Updates
+
+- Resolved issues with hyperlink positioning during PDF export.
+- Enhanced handling of embedded Excel sheet names within exported PDFs.
+- Improved font size and color preservation during PPTX to PDF conversion.
+
+### Retain Original Hyperlink Value
+
+The following C# coding sample illustrates how to use `IHyperlink.ExternalUrlOriginal` property, which helps retain the hyperlink text in PowerPoint presentations:
+
+```C#
+using (var presentation = new Presentation("pres.pptx"))
+{
+    var portion = ((AutoShape)presentation.Slides[0].Shapes[1]).TextFrame.Paragraphs[0].Portions[0];
+    
+    var externalUrll = portion.PortionFormat.AsIHyperlinkContainer.HyperlinkClick.ExternalUrl; // fake
+    var externalUrlOriginal = portion.PortionFormat.AsIHyperlinkContainer.HyperlinkClick.ExternalUrlOriginal; // real
+}
+
+```
+*[Source\*](https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-3-release-notes/)*
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for .NET 24.3 Release Notes](https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
