@@ -129,3 +129,10 @@ Supports detecting the WebP image.
 
 Customize the options of refreshing pivot table.
 
+### **Adds RefreshPivotTables method in Worksheet.**
+
+Customize the options of refreshing pivot tables in the worksheet.
+
+### **Adds RefreshPivotTables method in WorksheetCollection.**
+
+Customize the options of refreshing pivot tables in the workbook.
