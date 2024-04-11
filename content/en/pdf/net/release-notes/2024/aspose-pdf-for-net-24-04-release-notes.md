@@ -88,7 +88,6 @@ This page contains release notes information for Aspose.PDF for .NET 24.4.
 |PDFNET-42854|XFA form to Standard: All data disappears|Bug|
 |PDFNET-49259|PDF to HTML - The background is not rendering properly|Bug|
 |PDFNET-50198|The font size of superscripts does not decrease and pages grayed out when converting PS to PDF|Bug|
-|PDFNET-54937|Aspose.PDF 23.6 is slower compared to 22.2 when converting PDF to HTML|Bug|
 |PDFNET-55652|The operation of converting XFA forms to Standard format hangs|Bug|
 
 ## Public API and Backward Incompatible Changes
