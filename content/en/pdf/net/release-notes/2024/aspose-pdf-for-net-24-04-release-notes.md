@@ -34,8 +34,8 @@ This page contains release notes information for Aspose.PDF for .NET 24.4.
 |PDFNET-56076|Improve subscript or superscript detection in text|Enhancement|
 |PDFNET-56205|Converting subscript and superscript styles to PDF converter to Markdown|Enhancement|
 |PDFNET-56206|Improve ParagraphAbsorber processing for several cases|Enhancement|
-|PDFNET-56299|ParagraphAbsorber splits a paragraph into two|Enhancement|
-|PDFNET-56741|Converting a file to format PDF/A-3b increases the size|Enhancement|
+|PDFNET-56299|Improve paragraph processing for CJK languages|Enhancement|
+|PDFNET-56741|Add file size optimization option to PDF/A conversion|Enhancement|
 |PDFNET-56768|Implement property NewWindow for FileHyperlink|Enhancement|
 |PDFNET-56950|Unable to find different printing-related issues while upgrading from older Aspose.PDF version|Enhancement|
 |PDFNET-47541|Document Flattening causes field value changes and document issues|Bug|
