@@ -1,0 +1,35 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-cells",
+  "id" : "24-4",
+  "packageFiles" : [ {
+    "size" : "7 MB",
+    "name" : "aspose-cells-24.4-gridweb-jakarta.jar",
+    "classifier" : "gridweb-jakarta"
+  }, {
+    "size" : "473 KB",
+    "name" : "aspose-cells-24.4-gridweb-javadoc.jar",
+    "classifier" : "gridweb-javadoc"
+  }, {
+    "size" : "113 KB",
+    "name" : "aspose-cells-24.4-gridweb-resources.jar",
+    "classifier" : "gridweb-resources"
+  }, {
+    "size" : "7 MB",
+    "name" : "aspose-cells-24.4-gridweb.jar",
+    "classifier" : "gridweb"
+  }, {
+    "size" : "2 MB",
+    "name" : "aspose-cells-24.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "8 MB",
+    "name" : "aspose-cells-24.4.jar"
+  }, {
+    "size" : "388 bytes",
+    "name" : "aspose-cells-24.4.pom"
+  } ],
+  "releasehDate" : "2024-04-10T11:04:31+00:00",
+  "version" : "24.4",
+  "ReleaseNotes" : "https://releases.aspose.com/cells/java/release-notes/2024/aspose-cells-for-java-24-4-release-notes/"
+}

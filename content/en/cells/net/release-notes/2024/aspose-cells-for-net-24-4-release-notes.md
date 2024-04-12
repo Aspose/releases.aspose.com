@@ -121,7 +121,7 @@ Indicates whether to hide overflow text when the cell format is set to wrap text
 
 ### **Adds PdfSaveOptions.EmbedAttachments property.**
 
-Indicates whether embedding Ole objects as attchment when converting Excel to pdf
+Indicates whether embedding Ole objects as attachments when converting Excel to pdf
 
 ### **Adds Cells.GetColumnOriginalWidthPoint() method.**
 
@@ -129,7 +129,7 @@ Gets the original width of the hidden column.
 
 ### **Adds ExternalLink.PathType property.**
 
-Gets the relation ship type of the external link.
+Gets the relationship type of the external link.
 
 ### **Adds enum FileFormatType.WebP**
 
@@ -147,3 +147,14 @@ Customize the options of refreshing pivot tables in the worksheet.
 
 Customize the options of refreshing pivot tables in the workbook.
 
+### **Adds classes GridFontUnderlineType in GridDesktop.**
+
+Enumerates the font underline types.
+
+### **Adds GridFont.Underline property in GridDesktop.**
+
+Gets or sets the font underline type.
+
+### **Adds GridWorkbookSettings.PreservePaddingSpaces property in GridWeb.**
+
+Gets or sets whether preserve those spaces and line breaks that are padded between formula tokens while getting and setting formulas. Default value is false.

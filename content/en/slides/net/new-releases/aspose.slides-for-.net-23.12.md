@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-.net-23.12"
-description: " "
+title: "Boost Performance & Control: Aspose.Slides .NET 23.12 (MSI)"
+description: "Supercharge presentations with Aspose.Slides .NET 23.12! Experience a 3x runtime improvement, 'Delete Cropped Areas' feature & more. Download MSI now."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/net/new-releases/aspose.slides-for-.net-23.12/"
@@ -43,8 +43,97 @@ weight: 781
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-12-release-notes/'>https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for .NET 23.12 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for .NET 23.12 release (MSI).</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Aspose.Slides for .NET 23.12 (MSI) is here for C# developers to streamline the PowerPoint presentation generation process. This update delivers a significant performance boost (3x runtime increase) alongside valuable new features and bug fixes.
+
+### Key Highlights
+
+- **3x Runtime Performance Improvement:** Developers working on .NET presentation processing solutions can experience a dramatic boost in speed and performance.
+- **Handout Presentation Export Layout:** Easily create handout presentations with various layouts, mimicking PowerPoint's "Print as Handouts" functionality with Aspose.Slides for .NET 23.12.
+- **Ink Options:** Gain greater control over the appearance of ink objects in exported presentations with options to hide ink or define opacity.
+- **Delete Cropped Picture Areas:** You can reduce presentation size by removing unnecessary cropped areas from pictures within presentations.
+- **`Shape.IsDecorative` Property:** Easily set decorative shapes for improved accessibility and semantic representation.
+
+### Additional Updates
+
+- We have adddressed numerous bugs related to opening presentations, converting presentations to various formats, and chart rendering in this release of the C# PowerPoint API.
+- Deprecated properties have been removed in favor of alternatives for a cleaner API.
+
+### Print Presentations as Handouts
+
+This C# code example illustrates how to render presentations as handouts:
+
+```C#
+using (Presentation pres = new Presentation("pres.pptx"))
+{
+    RenderingOptions options = new RenderingOptions
+    {
+        SlidesLayoutOptions = new HandoutLayoutingOptions
+        {
+            Handout = HandoutType.Handouts4Horizontal,
+            PrintSlideNumbers = false
+        }
+    };
+    
+    Bitmap[] handoutSlides = pres.GetThumbnails(options);
+    for (var index = 0; index < handoutSlides.Length; index++)
+    {
+        var handoutSllide = handoutSlides[index];
+        handoutSllide.Save($"handout-{index}.png");
+    }
+}
+
+
+```
+*[Source\*](https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-12-release-notes/)*
+
+
+### Control Ink Objects Look and Feel
+
+The following C# code snippet demonstrates how to use the newly added `InkOptions` class for controlling the look of the Ink objects:
+
+
+```C#
+using (Presentation pres = new Presentation("pres.pptx"))
+{
+    PdfOptions options = new PdfOptions();
+    options.InkOptions.HideInk = true;
+
+    pres.Save("pres.pdf", SaveFormat.Pdf, options);
+}
+
+```
+*[Source\*](https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-12-release-notes/)*
+
+### Set Decorative Shapes
+
+Please refer to the below-given code example to learn how to use the `Shape.IsDecorative` to set decorative shapes:
+
+
+```C#
+using (Presentation pres = new Presentation("sample.pptx"))
+{
+    pres.Slides[0].Shapes[0].IsDecorative = true;
+}
+
+```
+*[Source\*](https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-12-release-notes/)*
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for .NET 23.12 Release Notes](https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-12-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

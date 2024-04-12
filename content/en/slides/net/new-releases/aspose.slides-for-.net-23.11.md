@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-.net-23.11"
-description: " "
+title: "Aspose.Slides .NET 23.11: Improved Stability & Rendering (MSI)"
+description: "Download Aspose.Slides for .NET 23.11 (MSI) to enhance presentation processing with bug fixes, improved memory management, and rendering accuracy."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/net/new-releases/aspose.slides-for-.net-23.11/"
@@ -43,8 +43,31 @@ weight: 779
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-11-release-notes/'>https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for .NET 23.11 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for .NET 23.11 release (MSI).</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Upgrade your presentations with the latest Aspose.Slides for .NET 23.11 release on Windows with the MSI installer. This update delivers a range of enhancements and bug fixes to streamline your development workflow.
+
+### Key Highlights
+
+- **Enhanced Memory Management:** Improved memory handling when using Aspose.Slides with .NET Core ensures optimal resource utilization.
+- **Accurate Conversions:** Experience better rendering of presentations with fixes for incorrect paragraph coordinates, accurate group shape rendering in PNG exports, and proper SVG to EMF conversion. with Aspose.Slides for .NET 23.11. 
+- **NuGet Package:** A cross-platform NuGet package is introduced for the C# presentations API for developers looking to integrate PowerPoint functionality into their .NET solutions.
+- **Enhancements and Bug Fixes:** We have incorporated various enhancements and addressed numerous bugs including incorrect paragraph coordinates retrieval, corrupted presentations, chart data manipulation problems, and rendering inconsistencies during conversions.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for .NET 23.11 Release Notes](https://releases.aspose.com/slides/net/release-notes/2023/aspose-slides-for-net-23-11-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
