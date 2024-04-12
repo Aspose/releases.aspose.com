@@ -64,15 +64,15 @@ Added new classes and enums:
 
 The following methods and properties are decared as obsolete and will be removed in version 24.8. 
 
-#### Presentation
+### Presentation
 | Method Signature                               | Replacement Method Signature                             |
 |-----------------------------------------------|---------------------------------------------------------|
-| public Bitmap[] GetThumbnails(IRenderingOptions options) | GetImages(IRenderingOptions options)                   |
-| public Bitmap[] GetThumbnails(IRenderingOptions options, int[] slides) | GetImages(IRenderingOptions options, int[] slides)   |
-| public Bitmap[] GetThumbnails(IRenderingOptions options, float scaleX, float scaleY) | GetImages(IRenderingOptions options, float scaleX, float scaleY) |
-| public Bitmap[] GetThumbnails(IRenderingOptions options, int[] slides, float scaleX, float scaleY) | GetImages(IRenderingOptions options, int[] slides, float scaleX, float scaleY) |
-| public Bitmap[] GetThumbnails(IRenderingOptions options, Size imageSize) | GetImages(IRenderingOptions options, Size imageSize) |
-| public Bitmap[] GetThumbnails(IRenderingOptions options, int[] slides, Size imageSize) | GetImages(IRenderingOptions options, int[] slides, Size imageSize) |
+| public Bitmap[] GetThumbnails(IRenderingOptions options) | [GetImages(IRenderingOptions options)](https://reference.aspose.com/slides/net/aspose.slides/presentation/getimages#getimages)                   |
+| public Bitmap[] GetThumbnails(IRenderingOptions options, int[] slides) | [GetImages(IRenderingOptions options, int[] slides)](https://reference.aspose.com/slides/net/aspose.slides/presentation/getimages#getimages_1)   |
+| public Bitmap[] GetThumbnails(IRenderingOptions options, float scaleX, float scaleY) | [GetImages(IRenderingOptions options, float scaleX, float scaleY)](https://reference.aspose.com/slides/net/aspose.slides/presentation/getimages#getimages_4) |
+| public Bitmap[] GetThumbnails(IRenderingOptions options, int[] slides, float scaleX, float scaleY) | [GetImages(IRenderingOptions options, int[] slides, float scaleX, float scaleY)](https://reference.aspose.com/slides/net/aspose.slides/presentation/getimages#getimages_2) |
+| public Bitmap[] GetThumbnails(IRenderingOptions options, Size imageSize) | [GetImages(IRenderingOptions options, Size imageSize)]() |
+| public Bitmap[] GetThumbnails(IRenderingOptions options, int[] slides, Size imageSize) | [GetImages(IRenderingOptions options, int[] slides, Size imageSize)](https://reference.aspose.com/slides/net/aspose.slides/presentation/getimages#getimages_3) |
 | public void Save(string fname, SaveFormat format, HttpResponse response, bool showInline) | Will be deleted completely |
 | public void Save(string fname, SaveFormat format, ISaveOptions options, HttpResponse response, bool showInline) | Will be deleted completely |
 | public void Print()                           | Will be deleted completely                               |
@@ -80,70 +80,57 @@ The following methods and properties are decared as obsolete and will be removed
 | public void Print(string printerName)         | Will be deleted completely                               |
 | public void Print(PrinterSettings printerSettings, string presName) | Will be deleted completely                          |
 
-
-#### Shape
+### Shape
 | Method Signature                                                      | Replacement Method Signature                                       |
 |----------------------------------------------------------------------|-------------------------------------------------------------------|
-| public Bitmap GetThumbnail()                                          | GetImage                                                           |
-| public Bitmap GetThumbnail(ShapeThumbnailBounds bounds, float scaleX, float scaleY) | GetImage(ShapeThumbnailBounds bounds, float scaleX, float scaleY) |
+| public Bitmap GetThumbnail()                                          | [GetImage](https://reference.aspose.com/slides/net/aspose.slides/shape/getimage#getimage)                                                           |
+| public Bitmap GetThumbnail(ShapeThumbnailBounds bounds, float scaleX, float scaleY) | [GetImage(ShapeThumbnailBounds bounds, float scaleX, float scaleY)](https://reference.aspose.com/slides/net/aspose.slides/shape/getimage#getimage_1) |
 
-
-#### Slide
+### Slide
 | Method Signature                                                      | Replacement Method Signature                                           |
 |----------------------------------------------------------------------|-----------------------------------------------------------------------|
-| public Bitmap GetThumbnail(float scaleX, float scaleY)                | GetImage(float scaleX, float scaleY)                                 |
-| public Bitmap GetThumbnail()                                         | GetImage                                                              |
-| public Bitmap GetThumbnail(IRenderingOptions options)                | GetImage(IRenderingOptions options)                                  |
-| public Bitmap GetThumbnail(Size imageSize)                           | GetImage(Size imageSize)                                             |
-| public Bitmap GetThumbnail(ITiffOptions options)                    | GetImage(ITiffOptions options)                                       |
-| public Bitmap GetThumbnail(IRenderingOptions options, float scaleX, float scaleY) | GetImage(IRenderingOptions options, float scaleX, float scaleY) |
-| public Bitmap GetThumbnail(IRenderingOptions options, Size imageSize) | GetImage(IRenderingOptions options, Size imageSize)               |
+| public Bitmap GetThumbnail(float scaleX, float scaleY)                | [GetImage(float scaleX, float scaleY)](https://reference.aspose.com/slides/net/aspose.slides/slide/getimage#getimage_5)                                 |
+| public Bitmap GetThumbnail()                                         | [GetImage](https://reference.aspose.com/slides/net/aspose.slides/slide/getimage#getimage)                                                              |
+| public Bitmap GetThumbnail(IRenderingOptions options)                | [GetImage(IRenderingOptions options)](https://reference.aspose.com/slides/net/aspose.slides/slide/getimage#getimage_1)                                  |
+| public Bitmap GetThumbnail(Size imageSize)                           | [GetImage(Size imageSize)](https://reference.aspose.com/slides/net/aspose.slides/slide/getimage#getimage_6)                                             |
+| public Bitmap GetThumbnail(ITiffOptions options)                    | [GetImage(ITiffOptions options)](https://reference.aspose.com/slides/net/aspose.slides/slide/getimage#getimage_4)                                      |
+| public Bitmap GetThumbnail(IRenderingOptions options, float scaleX, float scaleY) | [GetImage(IRenderingOptions options, float scaleX, float scaleY)](https://reference.aspose.com/slides/net/aspose.slides/slide/getimage#getimage_2) |
+| public Bitmap GetThumbnail(IRenderingOptions options, Size imageSize) | [GetImage(IRenderingOptions options, Size imageSize)](https://reference.aspose.com/slides/net/aspose.slides/slide/getimage#getimage_3)               |
 | public void RenderToGraphics(IRenderingOptions options, Graphics graphics) | Will be deleted completely                                       |
 | public void RenderToGraphics(IRenderingOptions options, Graphics graphics, float scaleX, float scaleY) | Will be deleted completely                             |
 | public void RenderToGraphics(IRenderingOptions options, Graphics graphics, Size renderingSize) | Will be deleted completely                                    |
 
-
-#### IMarkdownImageSaver
-| Method Signature                 | Replacement Method Signature           |
-|----------------------------------|----------------------------------------|
-| string SaveImage(Image image)   | SaveImage(IImage image)               |
-| public string SaveImage(Image image) | SaveImage(IImage image)               |
-
-
-#### WebOutput
+#### Output
 | Method Signature                                                | Replacement Method Signature                                |
 |-----------------------------------------------------------------|-------------------------------------------------------------|
-| public IOutputFile Add(string path, Image image)               | Add(string path, IImage image)                              |
+| public IOutputFile Add(string path, Image image)               | [Add(string path, IImage image)](https://reference.aspose.com/slides/net/aspose.slides.export.web/output/add#add_1)                               |
 
-
-#### ImageCollection
+### ImageCollection
 | Method Signature                          | Replacement Method Signature               |
 |-------------------------------------------|--------------------------------------------|
-| IPPImage AddImage(Image image)           | AddImage(IImage image)                     |
+| IPPImage AddImage(Image image)           | [AddImage(IImage image)](https://reference.aspose.com/slides/net/aspose.slides/imagecollection/addimage#addimage)                      |
 
-#### ImageWrapperFactory
+### ImageWrapperFactory
 | Method Signature                                         | Replacement Method Signature                            |
 |----------------------------------------------------------|---------------------------------------------------------|
-| IImageWrapper CreateImageWrapper(Image image)           | CreateImageWrapper(IImage image)                       |
+| IImageWrapper CreateImageWrapper(Image image)           | [CreateImageWrapper(IImage image)](https://reference.aspose.com/slides/net/aspose.slides/imagewrapperfactory/createimagewrapper#createimagewrapper)                        |
 
-#### PPImage
+### PPImage
 | Method/Property Signature                     | Replacement Method Signature   |
 |--------------------------------------|-----------------------------------------|
-| void ReplaceImage(Image newImage)   | ReplaceImage(IImage newImage)           |
-| Image SystemImage { get; }          | IImage Image { get; }                   |
+| void ReplaceImage(Image newImage)   | [ReplaceImage(IImage newImage)](https://reference.aspose.com/slides/net/aspose.slides/ppimage/replaceimage#replaceimage)            |
+| Image SystemImage { get; }          | [IImage Image { get; }](https://reference.aspose.com/slides/net/aspose.slides/ppimage/image)                    |
 
-
-#### PatternFormat
+### PatternFormat
 | Method Signature                                          | Replacement Method Signature                        |
 |-----------------------------------------------------------|-----------------------------------------------------|
-| Bitmap GetTileImage(Color background, Color foreground)   | GetTile(Color background, Color foreground)         |
-| Bitmap GetTileImage(Color styleColor)                     | GetTile(Color styleColor)                           |
+| Bitmap GetTileImage(Color background, Color foreground)   | [GetTile(Color background, Color foreground)](https://reference.aspose.com/slides/net/aspose.slides/patternformat/gettile#gettile_1)         |
+| Bitmap GetTileImage(Color styleColor)                     | [GetTile(Color styleColor)](https://reference.aspose.com/slides/net/aspose.slides/patternformat/gettile#gettile)                           |
 
-
-#### PatternFormatEffectiveData
+### IPatternFormatEffectiveData
 | Method Signature                                          | Replacement Method Signature                        |
 |-----------------------------------------------------------|-----------------------------------------------------|
-| Bitmap GetTileImage(Color background, Color foreground)   | GetTileIImage(SlidesImage image)                    |
+| Bitmap GetTileImage(Color background, Color foreground)   | [GetTileIImage(SlidesImage image)](https://reference.aspose.com/slides/net/aspose.slides/ipatternformateffectivedata/gettileiimage)  
 
 ## PdfOptions.RasterizeUnsupportedFontStyles property added
 
