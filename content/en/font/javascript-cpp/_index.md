@@ -1,13 +1,14 @@
 ---
-
 title: "Aspose.Font JavaScript processing API"
 description:  "Aspose.Font JavaScript processing API for convert font, working with metadata, rendering"
 keywords:  "Font JavaScript convert metadata rendering"
 family_listing_page_title:  "Aspose.Font for Javascript via C++"
 family_listing_page_description:  "A native JavaScript Library that allows manipulation of font types including CFF, TTF, TrueType, OpenType & Type1 fonts."
 family_listing_page_iconurl:  "https://docs.aspose.com/font/icons/aspose_font-for-javascript-cpp.svg"
-weight: 5
-
+family_listing_page_selfHosted: "1"
+family_listing_page_type: "1"
+family_listing_page_venture: "4"
+weight: 4
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/font/41" linktext="Support Forum" >}}
