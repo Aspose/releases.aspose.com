@@ -18,7 +18,7 @@ This page contains release notes for [Aspose.Cells for Java 24.4](https://releas
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|CELLSJAVA-45821|Support inserting in-cell picture into Excel|New Feature
+|CELLSJAVA-45821|Support to place picture into cell("Place in Cell" operation for picture in ms excel)|New Feature
 |CELLSJAVA-45881|Support getting original column width|New Feature
 |CELLSJAVA-45903|Issue with copying images and shapes from one Excel file to another|Bug
 |CELLSJAVA-45906|Full width characters not converted to half width characters when converting files to PDF|Bug
