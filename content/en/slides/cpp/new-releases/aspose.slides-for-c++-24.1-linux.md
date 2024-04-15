@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-c++-24.1-linux"
-description: " "
+title: "Convert to PDF, Render Fonts (Linux): Aspose.Slides C++ 24.1"
+description: "Get crystal-clear font rendering, detect tables in PDF import & explore compatibility enhancements with Aspose.Slides for C++ 24.1 on Linux. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/cpp/new-releases/aspose.slides-for-c++-24.1-linux/"
@@ -45,6 +45,46 @@ weight: 231
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for C++ 24.1 Linux release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Ensure flawless presentation creation on Linux with Aspose.Slides for C++ 24.1. This update enables developers to experience smooth font rendering, enhanced compatibility with the .NET 24.1 version, and more.
+
+### Key Highlights
+- **Accurate Font Rendering on Linux:** Aspose.Slides for C++ 24.1 includes optimized font rendering functionality, which ensures embedded fonts are displayed correctly within presentations.
+- **Import PDFs with Tables:** We have added a new method, 'PdfImportOptions::set_DetectTables()', to this release of the C++ PowerPoint API, which enables automatic detection and import of the tables in PDF documents.
+- **Compatibility Boost:** With Aspose.Slides for C++ 24.1 version, developers can experience enhanced compatibility with features introduced in Aspose.Slides for .NET 24.1.
+
+
+### Table Detection in PDFs
+
+This C++ code snippet illustrates how you can detect and import tables while importing PDF documents with the help of the newly added `PdfImportOptions::set_DetectTables()` method on Linux:
+
+```C++
+System::SharedPtr<Presentation> pres = System::MakeObject<Presentation>();
+System::SharedPtr<System::IO::Stream> stream = System::MakeObject<System::IO::FileStream>(
+    u"document.pdf", System::IO::FileMode::Open, System::IO::FileAccess::Read, System::IO::FileShare::Read);
+
+System::SharedPtr<PdfImportOptions> options = System::MakeObject<PdfImportOptions>();
+options->set_DetectTables(true);
+
+pres->get_Slides()->AddFromPdf(stream, options);
+pres->Save(u"fromPdfDocument.pptx", SaveFormat::Pptx);
+
+```
+*[Source\*](https://releases.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-1-release-notes/)*
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for C++ 24.1 Release Notes](https://releases.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
