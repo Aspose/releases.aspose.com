@@ -1,4 +1,4 @@
---
+---
 id: "aspose-slides-for-net-24-4-release-notes"
 slug: "aspose-slides-for-net-24-4-release-notes"
 linktitle: "Aspose.Slides for .NET 24.4 Release Notes"
@@ -8,7 +8,7 @@ description: "Aspose.Slides for .NET 24.4 Release Notes – the latest updates a
 type: "repository"
 layout: "release"
 family_listing_page_title: "Aspose.Slides for .NET 24.4 Release Notes"
---
+---
 
 {{% alert color="primary" %}}
 
