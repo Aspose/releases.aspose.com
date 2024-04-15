@@ -47,7 +47,7 @@ This page contains release notes for [ Aspose.Slides for .NET 24.4](https://www.
 
 To gradually move away from using System.Drawing dependencies in the public API, starting with version 24.4 we are starting the transition to the new Modern API.
 
-** This means that all public API members that have the following classes in their signature will be removed in version 24.8: **
+This means that all public API members that have the following classes in their signature will be removed in version 24.8:
 - [Graphics](https://learn.microsoft.com/en-us/dotnet/api/system.drawing.graphics)
 - [Image](https://learn.microsoft.com/en-us/dotnet/api/system.drawing.image)
 - [Bitmap](https://learn.microsoft.com/en-us/dotnet/api/system.drawing.bitmap)
@@ -172,7 +172,7 @@ Instead of ZoomObject.Image, use the ZoomObject.ZoomImage property:
 using (Presentation pres = new Presentation("pres.pptx"))
 {
     IZoomFrame zoomFrame = pres.Slides[0].Shapes.AddZoomFrame(150, 20, 50, 50, pres.Slides[1]);
-    IPPImage image = pres.Images.AddImage(Image.FromFile("image.png"));
+    IPPImage image = pres.Images.AddImage(Images.FromFile("image.png"));
     zoomFrame.ZoomImage = image;
 }
 ```
