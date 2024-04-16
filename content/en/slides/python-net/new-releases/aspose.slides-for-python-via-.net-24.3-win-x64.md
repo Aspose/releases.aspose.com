@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-python-via-.net-24.3-win-x64"
-description: " "
+title: "Enrich Presentations on Win x64 | Aspose.Slides Python 24.3"
+description: "Download Aspose.Slides Python .NET 24.3 for Windows x64 to enrich your Python presentations with improved PDF export, .NET 24.3 feature support & more!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-24.3-win-x64/"
@@ -43,8 +43,48 @@ weight: 85
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-3-release-notes/'>https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Presentation Manipulation Python API</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for Python via .NET 24.3 Windows x64 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+This update of Aspose.Slides for Python via .NET brings exciting enhancements and valuable improvements to streamline your presentation processing workflows in Python on Windows 64-bit architecture.
+
+### Key Highlights
+- **Accurate PDF Exports:** With this release of the presentation manipulation Python API, you can ensure hyperlinks in exported PDFs remain in their correct positions.
+- **Leverage .NET 24.3 Features:** Developers can take advantage of the latest functionalities available in Aspose.Slides for .NET 24.3 with improved compatibility offered in Aspose.Slides for Python via .NET 24.3 version.
+- **Updated Charts Functionality:** We have resolved an issue in this update where the date axis in charts might not function correctly.
+
+
+### Retain Original Hyperlink Text 
+
+This Python code sample demonstrates the usage of the newly introduced `IHyperlink.external_url_original` property that helps retrain the original hyperlink text in PowerPoint presentations on Windows x64: 
+
+```Python
+import aspose.slides as slides
+
+with slides.Presentation("pres.pptx") as presentation:
+    portion = presentation.slides[0].shapes[1].text_frame.paragraphs[0].portions[0]
+
+    external_url = portion.portion_format.hyperlink_click.external_url  # fake
+    external_url_original = portion.portion_format.hyperlink_click.external_url_original  # real
+
+
+```
+*[Source\*](https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-3-release-notes/)*
+
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for Python via .NET 24.3 Release Notes](https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

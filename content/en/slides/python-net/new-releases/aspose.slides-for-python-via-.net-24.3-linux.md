@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-python-via-.net-24.3-linux"
-description: " "
+title: "Boost Presentation Apps on Linux | Aspose.Slides Python 24.3"
+description: "Aspose.Slides Python .NET 24.3 for Linux empowers developers with improved PDF export functionality, .NET 24.3 compatibility & more. Get started today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-24.3-linux/"
@@ -43,8 +43,48 @@ weight: 87
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-3-release-notes/'>https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Presentation Manipulation Python API</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for Python via .NET 24.3 Linux release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+You can develop feature-rich PowerPoint presentation manipulation apps on Linux with Aspose.Slides for Python via .NET 24.3 release. It enables you to boost your presentation processing workflows in Python with exciting new features and valuable improvements.
+
+### Key Highlights
+- **Enhanced .NET 24.3 Compatibility:** Seamlessly utilize the newest .NET 24.3 features within your Python projects using this update of the Aspose.Slides for Python via .NET API.
+- **Improved Chart Rendering:** We have addressed date axis malfunctioning in charts for a more accurate presentation experience on Linux. 
+- **PDF Export Upgrades:** This release offers an optimized PDF export experience for developers, who can ensure hyperlinks in output PDFs remain in their correct positions.
+
+
+### Retain Original Hyperlink Text 
+
+This Python code sample demonstrates the usage of the newly introduced `IHyperlink.external_url_original` property that helps retrain the original hyperlink text in PowerPoint presentations on Linux: 
+
+```Python
+import aspose.slides as slides
+
+with slides.Presentation("pres.pptx") as presentation:
+    portion = presentation.slides[0].shapes[1].text_frame.paragraphs[0].portions[0]
+
+    external_url = portion.portion_format.hyperlink_click.external_url  # fake
+    external_url_original = portion.portion_format.hyperlink_click.external_url_original  # real
+
+
+```
+*[Source\*](https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-3-release-notes/)*
+
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for Python via .NET 24.3 Release Notes](https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
