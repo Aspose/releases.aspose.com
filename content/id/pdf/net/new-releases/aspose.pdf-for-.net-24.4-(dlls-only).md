@@ -10,7 +10,7 @@ download_link: "/pdf/net/new-releases/aspose.pdf-for-.net-24.4-(dlls-only)/8149b
 download_text: "Unduh"
 intro_text: "File ZIP ini hanya berisi rakitan Aspose.PDF untuk .NET. Rakitannya sama seperti pada penginstal MSI produk dengan versi yang sama. Unduh ini jika Anda ingin menggunakan Aspose.PDF tanpa penginstal MSI."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 11/4/2024 Unduhs: 1  Views: 1 "
+download_count: " 11/4/2024 Unduhs: 19  Views: 1 "
 file_size: "File Size: 144.03MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
@@ -31,7 +31,7 @@ weight: 873
     {{< Releases/ReleasesHeading h4txt="Detail File">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Unduhs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-8149b8cf3c4a6bc629a7c8eeed790261-29-10661" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-8149b8cf3c4a6bc629a7c8eeed790261-29-10661" >}} 19 {{< /Common/li >}}
       {{< Common/li >}} Ukuran file: {{< /Common/li >}}
       {{< Common/li id="size-update-8149b8cf3c4a6bc629a7c8eeed790261-29-10661" >}} 144.03MB {{< /Common/li >}}
 

@@ -8,9 +8,9 @@ folder_link: "/pdf/net/new-releases/aspose.pdf-for-.net-24.4-(dlls-only)/"
 folder_name: "Aspose.PDF para .NET 24.4 (somente DLLs)"
 download_link: "/pdf/net/new-releases/aspose.pdf-for-.net-24.4-(dlls-only)/8149b8cf3c4a6bc629a7c8eeed790261-29-10661"
 download_text: "Download"
-intro_text: "Este arquivo ZIP contém apenas os assemblies Aspose.PDF para .NET. As montagens são as mesmas do instalador MSI do produto da mesma versão. Baixe-o se quiser usar o Aspose.PDF sem o instalador MSI."
+intro_text: "Este arquivo ZIP contém apenas os assemblies Aspose.PDF para .NET. As montagens são as mesmas do instalador MSI do produto da mesma versão. Baixe isto se quiser usar o Aspose.PDF sem o instalador MSI."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 11/4/2024 Downloads: 1  Views: 1 "
+download_count: " 11/4/2024 Downloads: 19  Views: 1 "
 file_size: "File Size: 144.03MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
@@ -31,7 +31,7 @@ weight: 873
     {{< Releases/ReleasesHeading h4txt="Detalhes do arquivo">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-8149b8cf3c4a6bc629a7c8eeed790261-29-10661" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-8149b8cf3c4a6bc629a7c8eeed790261-29-10661" >}} 19 {{< /Common/li >}}
       {{< Common/li >}} Tamanho do arquivo: {{< /Common/li >}}
       {{< Common/li id="size-update-8149b8cf3c4a6bc629a7c8eeed790261-29-10661" >}} 144.03MB {{< /Common/li >}}
 
@@ -43,7 +43,7 @@ weight: 873
       <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/pdf/net/release-notes/2024/aspose-pdf-for-net-24-4-release-notes/'>https://releases.aspose.com/pdf/net/release-notes/2024/aspose-pdf-for-net-24-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Descrição</h4><div class="HTMLDescription">Este arquivo ZIP contém apenas os assemblies Aspose.PDF para .NET. As montagens são as mesmas do instalador MSI do produto da mesma versão. Baixe-o se quiser usar o Aspose.PDF sem o instalador MSI.</div>
+      <h4>Descrição</h4><div class="HTMLDescription">Este arquivo ZIP contém apenas os assemblies Aspose.PDF para .NET. As montagens são as mesmas do instalador MSI do produto da mesma versão. Baixe isto se quiser usar o Aspose.PDF sem o instalador MSI.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
