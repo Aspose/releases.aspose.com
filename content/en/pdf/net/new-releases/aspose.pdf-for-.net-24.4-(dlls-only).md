@@ -17,7 +17,7 @@ section_parent_path: "pdf/net"
 
 tags: ""
 release_notes_url: "https://releases.aspose.com/pdf/net/release-notes/2024/aspose-pdf-for-net-24-4-release-notes/"
-weight: 873
+weight: 874
 
 ---
 
