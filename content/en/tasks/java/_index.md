@@ -54,6 +54,7 @@ productLink: https://products.aspose.com/tasks/java/
 releaseNotesLink: https://releases.aspose.com/tasks/java/release-notes/
 dataFolder: aspose_tasks
 packages_refs:
+- "24-4"
 - "24-3"
 - "24-2"
 - "24-1"
