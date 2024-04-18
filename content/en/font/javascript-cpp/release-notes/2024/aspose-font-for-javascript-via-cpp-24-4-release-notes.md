@@ -2,7 +2,7 @@
 id: "aspose-font-for-javascript-via-cpp-24-4-release-notes"
 slug: "aspose-font-for-javascript-via-cpp-24-4-release-notes"
 linktitle: "Aspose.Font for JavaScript via C++ 24.4 Release Notes"
-title: "Aspose.Font for JavaScript via C++ 24.1 Release Notes"
+title: "Aspose.Font for JavaScript via C++ 24.4 Release Notes"
 description: Javascript APIs to manipulate font files. This page contains new Aspose.Font for JavaScript via C++ features, enhancement, and bug fixes in 2024, version 24.4.
 productName: "Aspose.Font for JavaScript via C++"
 weight: 100
