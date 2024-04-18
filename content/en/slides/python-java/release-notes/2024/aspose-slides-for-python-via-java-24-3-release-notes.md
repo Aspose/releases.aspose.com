@@ -18,7 +18,7 @@ This page contains release notes for [Aspose.Slides for Python via Java](https:/
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-||[Use Aspose.Slides for Java 24.3 features](/slides/java/release-notes/2024/aspose-slides-for-java-24-3-release-notes/)|Enhancement|
+|SLIDESPYJAVA-25|[Use Aspose.Slides for Java 24.3 features](/slides/java/release-notes/2024/aspose-slides-for-java-24-3-release-notes/)|Enhancement|
 
 
 ## Public API Changes ##
