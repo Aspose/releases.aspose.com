@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/net/new-releases/aspose.pdf-for-.net-24.3/"
 folder_name: "Aspose.PDF for .NET 24.3"
-download_link: "/pdf/net/new-releases/aspose.pdf-for-.net-24.3/1dac8297b8e9d8516206cb08ae065962-36-10440"
+download_link: "/pdf/net/new-releases/aspose.pdf-for-.net-24.3/1dac8297b8e9d8516206cb08ae065962-36-10516"
 download_text: "Download"
 intro_text: "It contains Aspose.PDF for .NET 24.3 release."
 image_link: "/resources/img/msi-icon.png"
@@ -24,14 +24,14 @@ weight: 872
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.PDF for .NET 24.3" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/pdf/net/new-releases/aspose.pdf-for-.net-24.3/1dac8297b8e9d8516206cb08ae065962-36-10440" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/pdf/net/new-releases/aspose.pdf-for-.net-24.3/1dac8297b8e9d8516206cb08ae065962-36-10516" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-1dac8297b8e9d8516206cb08ae065962-36-10440" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-1dac8297b8e9d8516206cb08ae065962-36-10516" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
       {{< Common/li id="size-update-1dac8297b8e9d8516206cb08ae065962-36-10440" >}} 177.61MB {{< /Common/li >}}
 
