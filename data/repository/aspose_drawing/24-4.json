@@ -1,0 +1,20 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-drawing",
+  "id" : "24-4",
+  "packageFiles" : [ {
+    "size" : "989 KB",
+    "name" : "aspose-drawing-24.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "15 MB",
+    "name" : "aspose-drawing-24.4-jdk18.jar",
+    "classifier" : "jdk18"
+  }, {
+    "size" : "775 bytes",
+    "name" : "aspose-drawing-24.4.pom"
+  } ],
+  "releasehDate" : "2024-04-18T15:52:59+00:00",
+  "version" : "24.4",
+  "ReleaseNotes" : "https://releases.aspose.com/drawing/java/release-notes/2024/aspose-drawing-for-java-24-4-release-notes/"
+}
