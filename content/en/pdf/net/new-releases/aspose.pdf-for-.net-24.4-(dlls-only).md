@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-.net-24.4-(dlls-only)"
-description: " "
+title: "Clipping Mask, 24-bit Colors & More: C# PDF API 24.4 (DLLs)"
+description: "Streamline your PDF workflows with Aspose.PDF .NET 24.4. Apply clipping masks to images, use 24-bit colors, PDF/A conversion & more. Download DLLs now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/net/new-releases/aspose.pdf-for-.net-24.4-(dlls-only)/"
@@ -45,6 +45,58 @@ weight: 874
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.PDF for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.PDF without the MSI installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+The Aspose.PDF for .NET 24.4 (DLLs only) package provides developers with the core libraries needed to leverage the latest PDF processing features within their .NET document processing solutions. This lightweight option is ideal for scenarios where a full installation is not required.
+
+### Optimized Printing with Paper Source Selection
+
+You can now gain more control over the printing process by selecting the paper source based on the PDF page size through the .NET API.
+
+### Apply Clipping Masks to Images
+
+This update to the C# PDF API empowers developers to apply clipping masks to images for a clean and precise look. 
+
+### Dashed Annotation Rectangles
+
+Developers can now create annotation rectangles with various dashed line styles for improved visual communication. 
+
+### Improved Broken Document Handling
+
+Aspose.PDF for .NET 24.4 can gracefully handle and process broken documents, preventing application hangups.
+
+### 24-Bit Color Support
+
+Expanded color depth options are added in this update with the introduction of 24-bit color support in the `ColorDepth` enumeration.
+
+### Asynchronous DOCX Saving
+
+Version 24.4 of the C# apps API lets you save your PDF documents to DOCX format asynchronously for a more responsive user experience.
+
+### Subscript and Superscript Enhancements
+
+Experience improved detection and conversion of subscript and superscript styles in text extraction and conversion to Markdown format.
+
+### PDF/A File Size Optimization
+
+Seamlessly reduce the file size of your PDF/A compliant documents with a new optimization option.
+
+### Bug Fixes
+
+We have addressed a range of bugs in this update, impacting document flattening, XFA to standard PDF conversion, text extraction, PDF/A conversion, image handling, and more.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for .NET 24.4 Release Notes](https://releases.aspose.com/pdf/net/release-notes/2024/aspose-pdf-for-net-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}} 
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
