@@ -3,7 +3,7 @@ id: "aspose-cad-for-java-23-9-release-notes"
 slug: "aspose-cad-for-java-23-9-release-notes"
 linktitle: "Aspose.CAD for Java 23.9 - Release Notes"
 title: "Aspose.CAD for Java 23.9 - Release Notes"
-weight: 3
+weight: 4
 description: "Aspose.CAD for Java 23.9 - Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"

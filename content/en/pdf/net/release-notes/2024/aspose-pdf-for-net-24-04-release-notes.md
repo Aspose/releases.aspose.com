@@ -162,4 +162,9 @@ This page contains release notes information for Aspose.PDF for .NET 24.4.
 ### Removed APIs
 * Method: Aspose.Pdf.Devices.DocumentDevice.BinarizeBradley(System.IO.Stream,System.IO.Stream,System.Double) System.Void
 
+### Discontinued Features
+* Support for .NET Framework 4.0 has been discontinued.
+
+
+
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-c++-24.3-windows"
-description: " "
+title: "Enhance Presentations on Windows: Aspose.Slides C++ 24.3"
+description: "Enhance PowerPoint presentations in C++ apps on Windows. Download Aspose.Slides C++ 24.3 with hyperlink improvements, .NET 24.3 compatibility & more."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/cpp/new-releases/aspose.slides-for-c++-24.3-windows/"
@@ -45,6 +45,50 @@ weight: 236
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for C++ 24.3 Windows release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+You can elevate your C++ presentation development workflows with Aspose.Slides for C++ 24.3 on Windows. This update enables you to export hyperlinks accurately in PDFs, ensures compatibility with the newest features in the .NET 24.3 version, and more.
+
+### Accurate Hyperlink Export
+
+We have resolved the issue causing hyperlinks to shift right in exported PDFs. Now, your presentations maintain consistent and reliable links while using the C++ PowerPoint apps API.
+
+### Leverage .NET 24.3 Features
+
+You can expand your development capabilities with Aspose.Slides for C++ 24.3, which grants access to the latest enhancements introduced in Aspose.Slides for .NET 24.3.
+
+### Additional Updates
+- `IHyperlink::get_ExternalUrlOriginal()` method added to this release allows you to retrieve the original hyperlink URL.
+
+### Code Example
+
+This C++ code example demonstrates the usage of the newly introduced `IHyperlink::get_ExternalUrlOriginal()` method: 
+
+```C++
+auto presentation = System::MakeObject<Presentation>(u"pres.pptx");
+
+auto portion = (System::ExplicitCast<Aspose::Slides::AutoShape>(presentation->get_Slide(0)->get_Shape(1)))->get_TextFrame()->get_Paragraph(0)->get_Portion(0);
+
+auto externalUrl = portion->get_PortionFormat()->get_HyperlinkClick()->get_ExternalUrl(); // fake URL
+
+auto externalUrlOriginal = portion->get_PortionFormat()->get_HyperlinkClick()->get_ExternalUrlOriginal(); // real URL
+
+
+```
+*[Source\*](https://releases.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-3-release-notes/)*
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for C++ 24.3 Release Notes](https://releases.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

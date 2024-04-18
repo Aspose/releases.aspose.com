@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-python-via-.net-24.1-linux"
-description: " "
+title: "Python Presentations API 24.1 (Linux): Tables, Convert PPTX"
+description: "Create and manage presentations in Python apps on Linux with Aspose.Slides Python .NET 24.1. PowerPoint to PDF, font rendering & more. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-24.1-linux/"
@@ -43,8 +43,47 @@ weight: 77
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-1-release-notes/'>https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Presentation Manipulation Python API</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for Python via .NET 24.1 Linux release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Great news for Linux developers! Aspose.Slides for Python via .NET 24.1 empowers you to work with presentations with improved accuracy within your Python apps without needing Microsoft PowerPoint.
+
+### Key Highlights
+
+- **Automatic PDF Table Detection:** You can now build apps that automatically find and import tables directly from PDF documents into your presentations using the latest release of the Python presentation API.
+- **Optimized PDF to PPTX Conversion:** Aspose.Slides for Python via .NET 24.1 fixes the issue where individual text boxes weren't always extracted correctly during PDF to PPTX conversion.
+- **Improved Font Rendering:** Embedded fonts render correctly on Linux systems with version 24.1 of Aspose.Slides for Python via .NET, ensuring consistent presentation appearance.
+
+### Insert Tables from PDFs to PowerPoint Slides
+
+The newly added `PdfImportOptions.detect_tables` import option in version 24.1 of the Python API ensures that you can detect and import tables within the imported PDF document to your PowerPoint presentation slides on Linux. Please refer to the following Python coding example to learn more about its usage:
+
+```Python
+import aspose.slides as slides
+import aspose.pyio as io
+
+with slides.Presentation() as pres, open("document.pdf", "rb") as stream:
+    pdf_import_options = slides.importing.PdfImportOptions()
+    pdf_import_options.detect_tables = True
+    pres.slides.add_from_pdf(stream, pdf_import_options)
+    pres.save("fromPdfDocument.pptx", slides.export.SaveFormat.PPTX)
+
+```
+*[Source\*](https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-1-release-notes/)*
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for Python via .NET 24.1 Release Notes](https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
