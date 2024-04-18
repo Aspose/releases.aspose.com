@@ -139,3 +139,7 @@ var image = pres.getImages().addImage(aspose.slides.Images.fromFile("image.png")
 zoomFrame.setZoomImage(image);
 pres.dispose();
 ```
+
+### ForEach_ class renamed to ForEach
+
+To be consistent with other Slides APIs the ForEach_ class has been renamed to ForEach.
