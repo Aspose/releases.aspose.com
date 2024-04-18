@@ -12,6 +12,7 @@ releaseNotesLink: https://releases.aspose.com/cad/java/release-notes/
 dataFolder: aspose_cad
 publishDate: "2023-11-23T16:17:07+00:00"
 packages_refs:
+- "23-12"
 - "23-11"
 - "23-10"
 - "23-9"
