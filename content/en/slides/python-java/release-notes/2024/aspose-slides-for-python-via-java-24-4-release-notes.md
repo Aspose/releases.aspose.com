@@ -125,9 +125,9 @@ Example:
 ```python
 pres = Presentation("demo.pptx");
 
-pdfOptions = PptxOptions();
-pdfOptions.setZip64Mode(Zip64Mode.Always);
-pres.save("demo-zip64.pptx", SaveFormat.Pptx, pdfOptions);
+pptxOptions = PptxOptions();
+pptxOptions.setZip64Mode(Zip64Mode.Always);
+pres.save("demo-zip64.pptx", SaveFormat.Pptx, pptxOptions);
 
 pres.dispose();
 ```

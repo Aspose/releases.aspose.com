@@ -125,9 +125,9 @@ Example:
 ```php
 $pres = new Presentation("demo.pptx");
 
-$pdfOptions = new PptxOptions();
-$pdfOptions->setZip64Mode(Zip64Mode::Always);
-$pres->save("demo-zip64.pptx", SaveFormat::Pptx, $pdfOptions);
+$pptxOptions = new PptxOptions();
+$pptxOptions->setZip64Mode(Zip64Mode::Always);
+$pres->save("demo-zip64.pptx", SaveFormat::Pptx, $pptxOptions);
 
 $pres->dispose();
 ```

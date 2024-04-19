@@ -122,9 +122,9 @@ Example:
 
 ```javascript
 var pres = new aspose.slides.Presentation("demo.pptx");
-var pdfOptions = new aspose.slides.PptxOptions();
-pdfOptions.setZip64Mode(aspose.slides.Zip64Mode.Always);
-pres.save("demo-zip64.pptx", aspose.slides.SaveFormat.Pptx, pdfOptions);
+var pptxOptions = new aspose.slides.PptxOptions();
+pptxOptions.setZip64Mode(aspose.slides.Zip64Mode.Always);
+pres.save("demo-zip64.pptx", aspose.slides.SaveFormat.Pptx, pptxOptions);
 pres.dispose();
 ```
 

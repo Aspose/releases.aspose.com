@@ -126,9 +126,9 @@ Example:
 ```java
 Presentation pres = new Presentation("demo.pptx");
 try {
-    PptxOptions pdfOptions = new PptxOptions();
-    pdfOptions.setZip64Mode(Zip64Mode.Always);
-    pres.save("demo-zip64.pptx", SaveFormat.Pptx, pdfOptions);
+    PptxOptions pptxOptions = new PptxOptions();
+    pptxOptions.setZip64Mode(Zip64Mode.Always);
+    pres.save("demo-zip64.pptx", SaveFormat.Pptx, pptxOptions);
 } finally {
     if (pres != null) pres.dispose();
 }
