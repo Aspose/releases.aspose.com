@@ -16,7 +16,8 @@ This page contains release notes information for Aspose.Drawing for Java 24.4.
 {{% /alert %}}
 ## **Improvements and Changes**
 
-- Improved performance and memory use (DRAWINGJAVA-112)
+- Improved performance and memory use (DRAWINGJAVA-111)
+- Added new constructor for Metafile(com.aspose.drawing.system.io.Stream,int) (DRAWINGJAVA-112)
 - Added pen dash pattern initialization on setting pen dash style (DRAWINGNET-1508)
 - Added a null check throwing ArgumentException to the LinearGradientbrush.InterpolationColors getter (DRAWINGNET-1507)
 - Added the input matrix validation when setting Graphics.Transform (DRAWINGNET-1514)
