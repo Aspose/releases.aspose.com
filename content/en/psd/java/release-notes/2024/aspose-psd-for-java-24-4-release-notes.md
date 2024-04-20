@@ -15,13 +15,13 @@ menuItemWithNoContent: false
 
 {{% alert color="primary" %}} This page contains release notes for [Aspose.PSD for Java 24.4](https://releases.aspose.com/psd/java/24-4/) {{% /alert %}}
 
-| **Key**     | **Summary**                                                                                           | **Category** |
-|:------------|:------------------------------------------------------------------------------------------------------|:-------------|
-| PSDJAVA-610 | Setting the License for Aspose.PSD for Java leads to exception if it made more than one time          | Bug          |
-| PSDJAVA-611 | [AI Format] Add XObjectForm resource handling                                                         | Feature      |
-| PSDJAVA-612 | Add Constructor for the ShapeLayer                                                                    | Feature      |
-| PSDJAVA-613 | Fix conversion of Psd file from RGB to CMYK                                                           | Bug          |
-| PSDJAVA-614 | Specific PSD file can not be exported using Aspose.PSD                                                | Bug          |
+| **Key**     | **Summary**                                                                                  | **Category** |
+|:------------|:---------------------------------------------------------------------------------------------|:-------------|
+| PSDJAVA-610 | Setting the License for Aspose.PSD for Java leads to exception if it made more than one time | Bug          |
+| PSDJAVA-611 | [AI Format] Add XObjectForm resource handling                                                | Feature      |
+| PSDJAVA-612 | Add Constructor for the ShapeLayer                                                           | Feature      |
+| PSDJAVA-613 | Fix conversion of Psd file from RGB to CMYK                                                  | Bug          |
+| PSDJAVA-614 | Specific PSD file can not be exported using Aspose.PSD                                       | Bug          |
 
 # **Public API Changes**
 # **Added APIs:**
@@ -33,8 +33,6 @@ menuItemWithNoContent: false
 - None
 
 # **Usage examples:**
-
-**PSDJAVA-604. PSD File after the converting from 8 bit to 16 bit became unreadable**
 
 **PSDJAVA-610. Setting the License for Aspose.PSD for Java leads to exception if it made more than one time**
 
