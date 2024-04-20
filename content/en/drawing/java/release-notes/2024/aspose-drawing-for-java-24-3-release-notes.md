@@ -3,7 +3,7 @@ id: "aspose-drawing-for-java-24-3-release-notes"
 slug: "aspose-drawing-for-java-24-3-release-notes"
 linktitle: "Aspose.Drawing for Java 24.3 Release Notes"
 title: "Aspose.Drawing for Java 24.3 Release Notes"
-weight: 10
+weight: 16
 description: "Aspose.Drawing for Java 24.3 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
