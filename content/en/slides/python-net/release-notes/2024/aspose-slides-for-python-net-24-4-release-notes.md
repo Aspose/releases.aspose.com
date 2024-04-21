@@ -176,7 +176,7 @@ import aspose.slides as slides
 
 with slides.Presentation("demo.pptx") as pres:
     pptx_options = slides.export.PptxOptions()
-    pptx_options.zip64_mode = slides.Zip64Mode.ALWAYS
+    pptx_options.zip64_mode = slides.export.Zip64Mode.ALWAYS
     pres.save("demo-zip64.pptx", slides.export.SaveFormat.PPTX, pptx_options)
 ```
 
