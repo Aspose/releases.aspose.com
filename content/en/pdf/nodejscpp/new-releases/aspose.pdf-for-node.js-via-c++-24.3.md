@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-node.js-via-c++-24.3"
-description: " "
+title: "Convert Images to PDF: Aspose.PDF Node.js via C++ 24.3"
+description: "Boost Node.js development with Aspose.PDF Node.js via C++ 24.3! Easily convert images (BMP, JPEG, PNG, TIFF, GIF) to PDFs in your apps. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/nodejscpp/new-releases/aspose.pdf-for-node.js-via-c++-24.3/"
@@ -43,8 +43,34 @@ weight: 5
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/nodejscpp/release-notes/2024/aspose_pdf-for-nodejs-cpp-24-3-release-notes/'>https://releases.aspose.com/pdf/nodejscpp/release-notes/2024/aspose_pdf-for-nodejs-cpp-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for Node.js</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for Node.js via C++ 24.3.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Node.js developers can integrate a powerful new capability into their PDF document processing apps. Aspose.PDF for Node.js via C++ 24.3 enables converting images to PDF documents in your Node.js solutions with C++ integration.
+
+### Image to PDF Conversion in Node.js
+
+With version 24.3 of Aspose.PDF for Node.js via C++ API, developers can use the `AsposePdfFromImage` function to effortlessly transform various image formats such as BMP, JPEG, PNG, TIFF, and GIF into high-quality PDF files. By leveraging this feature, you can create professional-looking reports or any document requiring image integration.
+
+### Improved Efficiency
+
+You can gain enhanced productivity with direct image processing within your Node.js projects using this version.
+
+Get started with Aspose.PDF for Node.js via C++ 24.3 by downloading it from the downloads page.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for Node.js via C++ 24.3 Release Notes](https://releases.aspose.com/pdf/nodejscpp/release-notes/2024/aspose_pdf-for-nodejs-cpp-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

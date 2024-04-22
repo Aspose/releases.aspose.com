@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-node.js-via-c++-24.2"
-description: " "
+title: "New Export Options for PDF Workflows: Node.js PDF API 24.2"
+description: "This update introduces robust PDF export functionalities for AcroForm data in FDF, XFDF & XML formats. Download Aspose.PDF for Node.js via C++ 24.2 now."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/nodejscpp/new-releases/aspose.pdf-for-node.js-via-c++-24.2/"
@@ -43,8 +43,35 @@ weight: 4
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/nodejscpp/release-notes/2024/aspose_pdf-for-nodejs-cpp-24-2-release-notes/'>https://releases.aspose.com/pdf/nodejscpp/release-notes/2024/aspose_pdf-for-nodejs-cpp-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for Node.js</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for Node.js via C++ 24.2.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+You can enhance your Node.js apps with the efficient data export and text manipulation capabilities available in Aspose.PDF for Node.js via C++ 24.2.
+
+### Convert From PDF Functions
+
+- `AsposePdfExportFdf` - Developers can easily export AcroForm data from a PDF file to FDF format with this Node.js PDF API release.
+- `AsposePdfExportXfdf` - This newly added function allows exporting AcroForm data from a PDF file to XFDF format.
+- `AsposePdfExportXml` - Aspose.PDF for Node.js via C++ 24.2 enables AcroForm data export from a PDF file to XML format.
+
+### Organize PDF functions
+
+- `AsposePdfReplaceText` - You can now replace text within a PDF document using this new addition.
+- `AsposePdfFindText` - With this release, users can locate specific text within a PDF file in Node.js.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for Node.js via C++ 24.2 Release Notes](https://releases.aspose.com/pdf/nodejscpp/release-notes/2024/aspose_pdf-for-nodejs-cpp-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
