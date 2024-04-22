@@ -132,6 +132,19 @@ The following methods and properties are decared as obsolete and will be removed
 |-----------------------------------------------------------|-----------------------------------------------------|
 | Bitmap GetTileImage(Color background, Color foreground)   | [GetTileIImage(SlidesImage image)](https://reference.aspose.com/slides/net/aspose.slides/ipatternformateffectivedata/gettileiimage)  
 
+## Save Presentation in PowerPoint XML Presentation format - SaveFormat.Xml enum member added
+
+Added the new feature to save a presentation in XML format - using the new enum member SaveFormat.Xml.
+
+Example:
+
+``` csharp
+using (Presentation pres = new Presentation())
+{
+    pres.Save("pres.xml", SaveFormat.Xml);
+}
+```
+
 ## PdfOptions.RasterizeUnsupportedFontStyles property added
 
 Added a new property PdfOptions.RasterizeUnsupportedFontStyles which indicates whether text should be rasterized as a bitmap and saved to PDF when the font does not support bold styling. This approach can enhance the quality of text in the resulting PDF for certain fonts.
