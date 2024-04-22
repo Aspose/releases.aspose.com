@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-c++-24.4(linux)"
-description: " "
+title: "ChartX & OLE Object Conversion: C++ Excel API 24.4 (Linux)"
+description: "Leverage the power of Aspose.Cells C++ 24.4 on Linux. Download now for ChartX & OLE object conversion, and streamlined spreadsheet development."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/cpp/new-releases/aspose.cells-for-c++-24.4(linux)/"
@@ -45,6 +45,38 @@ weight: 129
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Cells for C++ version 24.4 (Linux). For more information, see the release notes and readme file.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Aspose.Cells for C++ 24.4 introduces advanced features and improvements for spreadsheet enthusiasts working on the Linux platform which they can integrate into their existing Excel manipulation apps or create new ones from scratch. 
+
+### New Features
+
+- **Enhanced Image Handling:** Effortlessly convert ChartX to images, embed attachments when converting OLE objects to PDF, and inject images within XLSB files on Linux.
+- **Advanced Exporting for Numbers Files:** Take control over your numbers exports on Linux with this update which allows you to hide rows and columns, merge cells, and export charts during the conversion process to XLSX format.
+- **Web Integration and Interrupt Monitoring:** Stay in charge of long-running operations with the new `SystemTimeInterruptMonitor` class which empowers you to monitor and interrupt them as needed. 
+
+
+### Enhancements
+- Export cell ranges to JSON as an array of arrays.
+- Determine the validity of external links using the `Type` property in Aspose.Cells for C++ 24.4.
+- Experience advanced formula processing by treating empty formula results as blank cells when deleting rows/columns and support copying Dynamic Array Formulas.
+- With this update, you can retrieve the metadata of the web image files for greater control over web-based content on Linux.
+
+### Bug Fixes
+Various bugs and issues related to PDF generation, formula calculation, Excel to various format conversions, and more have been addressed in this version.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for C++ 24.4 Release Notes](https://releases.aspose.com/cells/cpp/release-notes/2024/aspose-cells-for-cpp-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
