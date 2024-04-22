@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-python-via-java-24.4"
-description: " "
+title: "Insert Pictures, Get Column Width: Aspose.Cells Python 24.4"
+description: "This release brings new inserting pictures and getting column width features, along with enhancements & fixes. Download Aspose.Cells Python Java 24.4 now."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/python-java/new-releases/aspose.cells-for-python-via-java-24.4/"
@@ -43,8 +43,64 @@ weight: 42
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/python-java/release-notes/2024/aspose-cells-for-python-via-java-24-4-release-notes/'>https://releases.aspose.com/cells/python-java/release-notes/2024/aspose-cells-for-python-via-java-24-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for Python via Java 24.4</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for Python via Java 24.4.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Great news for Python developers! We are pleased to announce the release of Aspose.Cells for Python via Java 24.4, which delivers exciting new features, enhancements, and bug fixes for your Python Excel processing solutions.
+
+### New Features
+
+- **Insert Pictures into Cells:** We have added a new feature for developers to effortlessly embed pictures directly within the Excel cells. 
+- **Retrieve Original Column Width:** Version 24.4 of the Python Excel API lets you gain precise control over column layouts by accessing the original width of columns.
+
+### Enhancements
+
+- Aspose.Cells for Python via Java 24.4 enables improved image and shape copying between Excel files for efficient data manipulation.
+- Accurately convert full-width characters to half-width characters during Excel to PDF export in Python.
+- Experience improved chart rendering while saving charts as EMF images as we have resolved the dotted line conversion issue.
+- We have incorporated enhanced row height calculations and rotated text elements rendering in this version which can help you augment the Excel to HTML conversion workflows.
+- Version 24.4 of the Python Excel manipulation API also includes improved cell data positioning during HTML conversions.
+- You can now make full use of the enhanced text-wrapping functionality with no text overlapping.
+- Enjoy greater control over the pivot table refresh workflow with the new PivotTableRefreshOption parameter.
+
+
+### Bug Fixes
+
+Numerous bugs have been resolved in Aspose.Cells for Python via Java 24.4 related to validation overwriting during range copy, text size/shadow issues in XLS format resaving, formula padding spaces, data loss scenarios in HTML conversion, and more.
+
+### Public API and Backwards Incompatible Changes
+
+### Added API Members
+
+We have added several classes, methods, and properties in this version. Some of these are:
+- SystemTimeInterruptMonitor and ThreadInterruptMonitor classes
+- DeleteBlankOptions class
+- HtmlTableLoadOption.TableToListObject and HtmlTableLoadOptionCollection.TableToListObject properties
+- HtmlTableLoadOptionCollection.Add(…) method
+- Cells.GetColumnOriginalWidthPoint() method
+- FileFormatType.WebP enum
+- PivotTable.RefreshData(PivotTableRefreshOption) method
+- GridWorkbookSettings.PreservePaddingSpaces property in `GridWeb`
+- PdfSaveOptions.EmbedAttachments property
+
+### Removed API Members
+
+We have removed the following API members in this release:
+- Worksheet.SparklineGroupCollection obsolete property (use Worksheet.SparklineGroups property instead)
+- Worksheet.SetBackground(byte[]) obsolete method (use Worksheet.BackgroundImage property instead)
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for Python via Java 24.4 Release Notes](https://releases.aspose.com/cells/python-java/release-notes/2024/aspose-cells-for-python-via-java-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
