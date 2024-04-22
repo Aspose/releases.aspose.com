@@ -30,8 +30,8 @@ This page contains release notes for [Aspose.Slides for Python via .NET 24.4](ht
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
 |SLIDESPYNET-164|Use Aspose.Slides for Net 24.4 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-4-release-notes/>|
+|SLIDESPYNET-131|Converting math equations to LaTeX|Feature||
 |SLIDESPYNET-121|Aspose.Slides for Python creates a corrupted presentation|Bug||
-|SLIDESPYNET-148|The paragraph width is smaller than expected on Ubuntu|Bug||
 
 ## Public API Changes
 
@@ -80,8 +80,8 @@ The following methods and properties are declared as obsolete and will be remove
 |get_thumbnail()|[get_image()](https://reference.aspose.com/slides/python-net/aspose.slides/slide/get_image/#)|
 |get_thumbnail(scale_x, scale_y)|[get_image(scale_x, scale_y)](https://reference.aspose.com/slides/python-net/aspose.slides/slide/get_image/#float-float)|
 |get_thumbnail(image_size)|[get_image(image_size)](https://reference.aspose.com/slides/python-net/aspose.slides/slide/get_image/#asposepydrawingsize)|
-|get_thumbnail(options)|[get_image(options: `aspose.slides.export.ITiffOptions`)](https://reference.aspose.com/slides/python-net/aspose.slides/slide/get_image/#asposeslidesexportitiffoptions)|
-|get_thumbnail(options)|[get_image(options: `aspose.slides.export.IRenderingOptions`)](https://reference.aspose.com/slides/python-net/aspose.slides/slide/get_image/#asposeslidesexportirenderingoptions)|
+|get_thumbnail(options)|[get_image(options: `ITiffOptions`)](https://reference.aspose.com/slides/python-net/aspose.slides/slide/get_image/#asposeslidesexportitiffoptions)|
+|get_thumbnail(options)|[get_image(options: `IRenderingOptions`)](https://reference.aspose.com/slides/python-net/aspose.slides/slide/get_image/#asposeslidesexportirenderingoptions)|
 |get_thumbnail(options, scale_x, scale_y)|[get_image(options, scale_x, scale_y)](https://reference.aspose.com/slides/python-net/aspose.slides/slide/get_image/#asposeslidesexportirenderingoptions-float-float)|
 |get_thumbnail(options, image_size)|[get_image(options, image_size)](https://reference.aspose.com/slides/python-net/aspose.slides/slide/get_image/#asposeslidesexportirenderingoptions-asposepydrawingsize)|
 |render_to_graphics(options, graphics)|Will be deleted completely|
@@ -108,7 +108,7 @@ The following methods and properties are declared as obsolete and will be remove
 #### ImageWrapperFactory Class
 |Method Signature|Replacement Method Signature|
 | :- | :- |
-|create_image_wrapper(image: `aspose.pydrawing.Image`)|[create_image_wrapper(image: `aspose.slides.IImage`)](https://reference.aspose.com/slides/python-net/aspose.slides/iimagewrapperfactory/create_image_wrapper/#iimage)|
+|create_image_wrapper(image: `aspose.pydrawing.Image`)|[create_image_wrapper(image: `IImage`)](https://reference.aspose.com/slides/python-net/aspose.slides/iimagewrapperfactory/create_image_wrapper/#iimage)|
 
 #### PatternFormat Class
 |Method Signature|Replacement Method Signature|
@@ -124,7 +124,7 @@ The following methods and properties are declared as obsolete and will be remove
 #### Output Class
 |Method Signature|Replacement Method Signature|
 | :- | :- |
-|add(path, image: `aspose.pydrawing.Image`)|[add(path, image: `aspose.slides.IImage`)](https://reference.aspose.com/slides/python-net/aspose.slides.export.web/output/add/#str-iimage)|
+|add(path, image: `aspose.pydrawing.Image`)|[add(path, image: `IImage`)](https://reference.aspose.com/slides/python-net/aspose.slides.export.web/output/add/#str-iimage)|
 
 ### Convert PowerPoint Presentation to video with animations and transitions
 
@@ -189,6 +189,6 @@ import aspose.slides as slides
 
 with slides.Presentation("pres.pptx") as pres:
     zoom_frame = pres.slides[0].shapes.add_zoom_frame(150, 20, 50, 50, pres.slides[1])
-    image = pres.images.add_image(slides.Images.from_file("image.png))
+    image = pres.images.add_image(slides.Images.from_file("image.png"))
     zoom_frame.zoom_image = image
 ```
