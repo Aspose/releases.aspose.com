@@ -28,11 +28,11 @@ Support for converting **SVG** fonts to **TrueType** format has been added.
 ## Public API and Backwards Incompatible Changes
 
 ### Added APIs
-* Class **Aspose.Font.Exceptions.SvgConversionException**
-* Constructor *Aspose.Font.Exceptions.SvgConversionException*
-* Constructor *Aspose.Font.Exceptions.SvgConversionException(System.String)*
-* Constructor *Aspose.Font.Exceptions.SvgConversionException(System.String,System.Exception)*
-* Constructor *Aspose.Font.Exceptions.SvgConversionException(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)*
+* Class [**Aspose.Font.Exceptions.SvgConversionException**](https://reference.aspose.com/font/net/aspose.font.exceptions/fontconversionexception/)
+* Constructor [*Aspose.Font.Exceptions.SvgConversionException*](https://reference.aspose.com/font/net/aspose.font.exceptions/fontconversionexception/fontconversionexception/#constructor)
+* Constructor [*Aspose.Font.Exceptions.SvgConversionException(System.String)*](https://reference.aspose.com/font/net/aspose.font.exceptions/fontconversionexception/fontconversionexception/#constructor_2)
+* Constructor [*Aspose.Font.Exceptions.SvgConversionException(System.String,System.Exception)*](https://reference.aspose.com/font/net/aspose.font.exceptions/fontconversionexception/fontconversionexception/#constructor_3)
+* Constructor [*Aspose.Font.Exceptions.SvgConversionException(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)*](https://reference.aspose.com/font/net/aspose.font.exceptions/fontconversionexception/fontconversionexception/#constructor_1)
 ## Got Queries?
 
 If you have any query related to Aspose.Font for .NET API, please feel free to write to reach us on [Aspose.Font forum](https://forum.aspose.com/c/font/). We'll be glad to assist you with your inquiries.
