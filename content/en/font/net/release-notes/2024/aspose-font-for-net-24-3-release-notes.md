@@ -30,9 +30,9 @@ Added the ability to measure text represented by an array of character codes. Ad
 ## Public API and Backwards Incompatible Changes
 
 ### Added APIs
-* Method **Aspose.Font.Renderers.RenderingUtils.DrawText(Aspose.Font.Font,Aspose.Font.Glyphs.GlyphId[],System.Double)**
-* Method **Aspose.Font.Renderers.RenderingUtils.DrawText(Aspose.Font.Font,Aspose.Font.Glyphs.GlyphId[],System.Double,Aspose.Font.Renderers.RenderingUtils.LineSpacingType,System.Int32,System.Int32)**
-* Method **Aspose.Font.Ttf.TtfFontMetrics.MeasureString(System.UInt32[],System.Double)**
+* Method [Aspose.Font.Renderers.RenderingUtils.DrawText(Aspose.Font.Font,Aspose.Font.Glyphs.GlyphId[],System.Double)](https://reference.aspose.com/font/net/aspose.font.renderers/renderingutils/drawtext/#drawtext)
+* Method [Aspose.Font.Renderers.RenderingUtils.DrawText(Aspose.Font.Font,Aspose.Font.Glyphs.GlyphId[],System.Double,Aspose.Font.Renderers.RenderingUtils.LineSpacingType,System.Int32,System.Int32)](https://reference.aspose.com/font/net/aspose.font.renderers/renderingutils/drawtext/#drawtext_1)
+* Method <BR>[Aspose.Font.Ttf.TtfFontMetrics.MeasureString(System.UInt32[],System.Double)](https://reference.aspose.com/font/net/aspose.font.ttf/ttffontmetrics/measurestring/#measurestring_1)
 
 
 ## Got Queries?

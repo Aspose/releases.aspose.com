@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.email-for-.net-24.2-(dlls-only)"
-description: " "
+title: "C# Email Apps API 24.2: Enhanced PST & OLM Support (DLLs)"
+description: "Download Aspose.Email for .NET 24.2 DLLs-only package for improved PST folder validation and category color retrieval from OLM files. Get started today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/email/net/new-releases/aspose.email-for-.net-24.2-(dlls-only)/"
@@ -43,8 +43,90 @@ weight: 588
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/email/net/release-notes/2024/aspose-email-for-net-24-2-release-notes/'>https://releases.aspose.com/email/net/release-notes/2024/aspose-email-for-net-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for .NET 24.2 (Dlls only) release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for .NET 24.2 (DLLs-only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Optimized Validation of PST Folder
+
+Aspose.Email for .NET 24.2 lets C# developers enforce container class matching while adding folders to PST files for improved data integrity. The following C# coding sample showcases how to use the newly added `EnforceContainerClassMatching` property of the `FolderCreationOptions` class for this purpose:
+
+```C#
+using (var pst = PersonalStorage.Create("storage.pst", FileFormatVersion.Unicode))
+{
+    // Create a standard Contacts folder with the IPF.Contacts container class.
+    var contacts = pst.CreatePredefinedFolder("Contacts", StandardIpmFolder.Contacts);
+    
+    // An exception will not arise. EnforceContainerClassMatching is false by default.
+    contacts.AddSubFolder("Subfolder1", "IPF.Note");
+    
+    // An exception will occur as the container class of the subfolder being added (IPF.Note) 
+    // does not match the container class of the parent folder (IPF.Contact).
+    contacts.AddSubFolder("Subfolder3", new FolderCreationOptions {EnforceContainerClassMatching = true, ContainerClass = "IPF.Note"});
+}
+
+```
+*[Source\*](https://releases.aspose.com/email/net/release-notes/2024/aspose-email-for-net-24-2-release-notes/)*
+
+### Fetch Category Colors from OLM
+
+With this update to the C# Email apps API, users can access category colors associated with Outlook items stored in OLM files. The following C# code examples provide more reference for users. 
+
+Here's how you can get all categories from OLM storage:
+
+```C#
+
+using (var olm = OlmStorage.FromFile("storage.olm"))
+{
+    var categories = olm.GetCategories();
+    
+    foreach (var category in categories)
+    {
+        Console.WriteLine($"Category name: {category.Name}");
+        
+		//Color is represented as a hexadecimal value: #rrggbb
+        Console.WriteLine($"Category color: {category.Color}");
+    }
+}
+
+```
+*[Source\*](https://releases.aspose.com/email/net/release-notes/2024/aspose-email-for-net-24-2-release-notes/)*
+
+And the following code snippet how to obtain a message category color:
+
+```C#
+
+foreach (var msg in olm.EnumerateMessages(folder))
+{
+    if (msg.Categories != null)
+    {
+        foreach (var msgCategory in msg.Categories)
+        {
+            Console.WriteLine($"Category name: {msgCategory}");
+            var categoryColor = cat.First(c => c.Name.Equals(msgCategory, StringComparison.OrdinalIgnoreCase)).Color;
+            Console.WriteLine($"Category color: {categoryColor}");
+        }
+    }
+}
+
+```
+*[Source\*](https://releases.aspose.com/email/net/release-notes/2024/aspose-email-for-net-24-2-release-notes/)*
+
+### Bug Fixes
+Several bugs and issues have been addressed in this version of the .NET API, improving stability and the overall user experience.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Email for .NET 24.2 Release Notes](https://releases.aspose.com/email/net/release-notes/2024/aspose-email-for-net-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

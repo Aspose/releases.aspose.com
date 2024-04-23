@@ -49,14 +49,14 @@ Support for the **Morse code** encoding has been added.
 * Method [*Aspose.Font.TextUtils.IMorseEncoder.Encode(System.String,Aspose.Font.TextUtils.MorseAlphabets,System.Char,System.Char)*](https://reference.aspose.com/font/net/aspose.font.textutils/imorseencoder/encode/#encode)
 * Method [*Aspose.Font.TextUtils.IMorseEncoder.Encode(System.String,System.Char,System.Char)*](https://reference.aspose.com/font/net/aspose.font.textutils/imorseencoder/encode/#encode_1)
 * Enumeration [**Aspose.Font.TextUtils.MorseAlphabets**](https://reference.aspose.com/font/net/aspose.font.textutils/morsealphabets/)
-* Enumeration member *Aspose.Font.TextUtils.MorseAlphabets.Latin*
-* Enumeration member *Aspose.Font.TextUtils.MorseAlphabets.Greek*
-* Enumeration member *Aspose.Font.TextUtils.MorseAlphabets.Cyrillic*
-* Enumeration member *Aspose.Font.TextUtils.MorseAlphabets.Hebrew*
-* Enumeration member *Aspose.Font.TextUtils.MorseAlphabets.Arabic*
-* Enumeration member *Aspose.Font.TextUtils.MorseAlphabets.Portuguese*
-* Enumeration member *Aspose.Font.TextUtils.MorseAlphabets.Kurdish*
-* Enumeration member *Aspose.Font.TextUtils.MorseAlphabets.Persian*
+* Enumeration member **Aspose.Font.TextUtils.MorseAlphabets.Latin**
+* Enumeration member **Aspose.Font.TextUtils.MorseAlphabets.Greek**
+* Enumeration member **Aspose.Font.TextUtils.MorseAlphabets.Cyrillic**
+* Enumeration member **Aspose.Font.TextUtils.MorseAlphabets.Hebrew**
+* Enumeration member **Aspose.Font.TextUtils.MorseAlphabets.Arabic**
+* Enumeration member **Aspose.Font.TextUtils.MorseAlphabets.Portuguese**
+* Enumeration member **Aspose.Font.TextUtils.MorseAlphabets.Kurdish**
+* Enumeration member **Aspose.Font.TextUtils.MorseAlphabets.Persian**
 * Class [**Aspose.Font.Exceptions.LicenseRestrictionException**](https://reference.aspose.com/font/net/aspose.font.exceptions/licenserestrictionexception/)
 * Constructor [*Aspose.Font.Exceptions.LicenseRestrictionException*](https://reference.aspose.com/font/net/aspose.font.exceptions/licenserestrictionexception/licenserestrictionexception/#constructor)
 * Constructor [*Aspose.Font.Exceptions.LicenseRestrictionException(System.String)*](https://reference.aspose.com/font/net/aspose.font.exceptions/licenserestrictionexception/licenserestrictionexception/#constructor_2)

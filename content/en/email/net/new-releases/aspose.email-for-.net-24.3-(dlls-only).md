@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.email-for-.net-24.3-(dlls-only)"
-description: " "
+title: "Aspose.Email .NET 24.3: MS Graph Contacts, Calendar (DLLs)"
+description: "Update your email  processing applications with latest features! Download Aspose.Email .NET 24.3 DLLs-only package for new MS Graph APIs & bug fixes."
 keywords: ""
 page_type: single_release_page
 folder_link: "/email/net/new-releases/aspose.email-for-.net-24.3-(dlls-only)/"
@@ -43,8 +43,89 @@ weight: 590
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/email/net/release-notes/2024/aspose-email-for-net-24-3-release-notes/'>https://releases.aspose.com/email/net/release-notes/2024/aspose-email-for-net-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for .NET 24.3 (Dlls only) release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for .NET 24.3 (Dlls-only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Upgraded Microsoft Graph Integration
+
+Aspose.Email for .NET 24.3 enables managing contacts and calendar data seamlessly with the new API additions to access, create, update, and list contacts and calendar items.
+
+This C# code example demonstrates how you can manage contacts in your email processing apps: 
+
+```C#
+// List Contacts
+MapiContactCollection contacts = graphClient.ListContacts("contactFolderId");
+
+// Fetch Contact
+MapiContact contact = graphClient.FetchContact("contactId");
+
+// Create Contact
+MapiContact newContact = new MapiContact("Jane Smith", "jane.smith@example.com", "XYZ Corporation", "777-888-999");
+
+MapiContact createdContact = graphClient.CreateContact("contactFolderId", newContact);
+
+// Update Contact
+createdContact.Telephones.PrimaryTelephoneNumber = "888-888-999";
+
+MapiContact updatedContact = graphClient.UpdateContact(createdContact);
+
+```
+*[Source\*](https://releases.aspose.com/email/net/release-notes/2024/aspose-email-for-net-24-3-release-notes/)*
+
+And the following code snippet illustrates how to manage calender items within your C# emailing solutions: 
+
+```C#
+
+// List Calendars
+CalendarInfoCollection calendars = graphClient.ListCalendars();
+
+// List Calendar Items
+MapiCalendarCollection calendarItems = graphClient.ListCalendarItems("calendarId");
+
+// Fetch Calendar Item
+MapiCalendar calendarItem = graphClient.FetchCalendarItem("calendarItemId");
+
+// Create Calendar Item
+MapiCalendar newCalendarItem = new MapiCalendar(
+    location: "Conference Room",
+    summary: "Team Meeting",
+    description: "Discuss project status and updates.",
+    startDate: startDate,
+    endDate: endDate
+);
+
+MapiCalendar createdCalendarItem = graphClient.CreateCalendarItem("calendarId", newCalendarItem);
+
+// Update Calendar Item
+createdCalendarItem.Location = "Zoom Meeting";
+MapiCalendar updatedCalendarItem = graphClient.UpdateCalendarItem(createdCalendarItem);
+
+```
+*[Source\*](https://releases.aspose.com/email/net/release-notes/2024/aspose-email-for-net-24-3-release-notes/)*
+
+### Other Highlights
+
+- Added a fix for the `MailMessage.Load` hanging issue (EMAILNET-41303).
+- Improved validation of EMLX files by `MessageValidator` (EMAILNET-41299).
+- The unexpected `WeekDay` conversion errors are fixed (EMAILNET-41301).
+- The null `TimeZone` value problem during appointment loading has been addressed (EMAILNET-41309).
+- The `ArgumentNullException` while opening VCF files is resolved (EMAILNET-41304).
+- This release ensures `BYSETPOS` rule compatibility with other BYxxx rules (EMAILNET-41300).
+
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Email for .NET 24.3 Release Notes](https://releases.aspose.com/email/net/release-notes/2024/aspose-email-for-net-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
