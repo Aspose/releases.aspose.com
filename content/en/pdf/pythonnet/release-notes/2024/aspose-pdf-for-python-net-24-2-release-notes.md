@@ -22,7 +22,7 @@ This page contains release notes information for Aspose PDF for Python via .NET 
 
 ## Improvements and Changes
 
-- [See Aspose.PDF for .NET 24.2](/pdf/net/release-notes/2024/aspose-pdf-for-net-24-02-release-notes/)
+- [See Aspose.PDF for .NET 24.2](/pdf/net/release-notes/2024/aspose-pdf-for-net-24-2-release-notes/)
 
 ## Public API and Backward Incompatible Changes
 
