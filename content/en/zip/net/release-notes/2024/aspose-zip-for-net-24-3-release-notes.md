@@ -30,7 +30,6 @@ This page contains release notes information for [Aspose.ZIP for .NET 24.3](http
 | :- | :- |
 |Aspose.Zip.Zstandard.ZstandardArchive|A class representing Zstandard archive file.|
 |**The following public methods and properties were added:**|**Description**|
-| :- | :- |
 |Aspose.Zip.Cpio.CpioArchive.SaveLzipped(...)|Saves archive to the stream with lzip compression.|
 |Aspose.Zip.Cpio.CpioArchive.SaveLZMACompressed(...)|Saves archive to the stream with LZMA compression.|
 |Aspose.Zip.Cpio.CpioArchive.SaveZCompressed(...)|Saves archive to the stream with Z compression.|
