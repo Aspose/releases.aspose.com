@@ -54,7 +54,7 @@ weight: 89
 
 C++ developers can utilize Aspose.Email for C++ 24.2 to implement an optimized naming convention for resource folders associated with saved HTML emails. This update helps in enhancing compatibility and avoiding potential issues. A file saved as 'target.html' will now have a resource folder named 'target_files'. Please check out the following code sample to test this new feature.
 
-```C#
+```C++
 auto msg = MapiMessage::Load(sourceFileName);
 
 auto htmlSaveOptions = System::CreateObject<HtmlSaveOptions>();

@@ -52,9 +52,9 @@ weight: 90
 
 ### Enhanced PST Folder Management
 
-With the latest update to Aspose.Email for C++ API (24.3), C# developers can utilize the newly added `EnforceContainerClassMatching` property in the `FolderCreationOptions` class and ensure consistent folder hierarchy in PST files. The C# code example shared below illustrates the new API member's usage:
+With the latest update to Aspose.Email for C++ API (24.3), C++ developers can utilize the newly added `EnforceContainerClassMatching` property in the `FolderCreationOptions` class and ensure consistent folder hierarchy in PST files. The C++ code example shared below illustrates the new API member's usage:
 
-```C#
+```C++
 auto pst = PersonalStorage::Create(ms, FileFormatVersion::Unicode);
 
 // Create a standard Contacts folder with the IPF.Contacts container class.
@@ -77,9 +77,9 @@ contacts->AddSubFolder(u"Subfolder3", options);
 ### Extract Outlook Category Colors from OLM Files
 Developers can now extract category colors associated with Outlook items stored in OLM files using the newly introduced `OlmItemCategory` class and the `GetCategories` method of the `OlmStorage` class. 
 
-This C# coding example demonstrates obtaining a categories list from OML storage:
+This C++ coding example demonstrates obtaining a categories list from OML storage:
 
-```C#
+```C++
 auto olm = OlmStorage::FromFile(u"storage.olm"))
 
 auto categories = olm.GetCategories();
@@ -96,7 +96,7 @@ for (auto category : System::IterateOver(categories))
 
 The following sample code shows how to fetch the color of the message category:
 
-```C#
+```C++
 
 for (auto&& msg : System::IterateOver(olm->EnumerateMessages(folder)))
 {

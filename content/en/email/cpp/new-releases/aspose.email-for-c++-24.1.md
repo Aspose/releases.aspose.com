@@ -52,9 +52,9 @@ weight: 88
 
 ### Save Email Messages as HTML with Relative Paths
 
-You can gain more flexibility when exporting emails to HTML format with Aspose.Email for C++ 24.1. This version enables specifying relative paths for embedded resources to ensure emails render correctly regardless of the hosting environment's file structure. This C# code example highlights the usage of the newly added `HtmlSaveOptions::set_UseRelativePathToResources()` property to set the default relative path.
+You can gain more flexibility when exporting emails to HTML format with Aspose.Email for C++ 24.1. This version enables specifying relative paths for embedded resources to ensure emails render correctly regardless of the hosting environment's file structure. This C++ code example highlights the usage of the newly added `HtmlSaveOptions::set_UseRelativePathToResources()` property to set the default relative path.
 
-```C#
+```C++
 auto msg = MapiMessage::Load(sourceFileName);
 
 auto htmlSaveOptions = System::CreateObject<HtmlSaveOptions>();
@@ -69,9 +69,9 @@ msg->Save(Path::Combine(u"target.html"), htmlSaveOptions);
 
 ### Improved Code Maintainability
 
-With the latest version of the C# email apps API, developers can leverage the `ResourceHtmlRendering` event for greater control over resource paths. It allows developers to define custom paths for attachments and other resources within the event handler. The following sample code shows how to use the new addition within your C# solutions:
+With the latest version of the C++ email apps API, developers can leverage the `ResourceHtmlRendering` event for greater control over resource paths. It allows developers to define custom paths for attachments and other resources within the event handler. The following sample code shows how to use the new addition within your C++ solutions:
 
-```C#
+```C++
 auto msg = MapiMessage::Load(sourceFileName);
 auto htmlSaveOptions = System::CreateObject<HtmlSaveOptions>();
 
