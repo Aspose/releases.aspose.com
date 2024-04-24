@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.email-for-c++-24.1"
-description: " "
+title: "Export HTML with Relative Paths in C++: Email Apps API 24.1"
+description: "Upgrade your email apps in C++ seamlessly and save email messages as HTML with controllable resource paths using Aspose.Email C++ 24.1. Download now."
 keywords: ""
 page_type: single_release_page
 folder_link: "/email/cpp/new-releases/aspose.email-for-c++-24.1/"
@@ -45,6 +45,65 @@ weight: 88
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for C++ 24.1 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Save Email Messages as HTML with Relative Paths
+
+You can gain more flexibility when exporting emails to HTML format with Aspose.Email for C++ 24.1. This version enables specifying relative paths for embedded resources to ensure emails render correctly regardless of the hosting environment's file structure. This C++ code example highlights the usage of the newly added `HtmlSaveOptions::set_UseRelativePathToResources()` property to set the default relative path.
+
+```C++
+auto msg = MapiMessage::Load(sourceFileName);
+
+auto htmlSaveOptions = System::CreateObject<HtmlSaveOptions>();
+
+htmlSaveOptions->set_ResourceRenderingMode(ResourceRenderingMode::SaveToFile);
+htmlSaveOptions->set_UseRelativePathToResources(true);
+
+msg->Save(Path::Combine(u"target.html"), htmlSaveOptions);
+
+```
+*[Source\*](https://releases.aspose.com/email/cpp/release-notes/2024/aspose-email-for-cpp-24-1-release-notes/)*
+
+### Improved Code Maintainability
+
+With the latest version of the C++ email apps API, developers can leverage the `ResourceHtmlRendering` event for greater control over resource paths. It allows developers to define custom paths for attachments and other resources within the event handler. The following sample code shows how to use the new addition within your C++ solutions:
+
+```C++
+auto msg = MapiMessage::Load(sourceFileName);
+auto htmlSaveOptions = System::CreateObject<HtmlSaveOptions>();
+
+htmlSaveOptions->set_ResourceRenderingMode(ResourceRenderingMode::SaveToFile);
+htmlSaveOptions->set_UseRelativePathToResources(true);
+
+auto handler = [](SharedPtr<Object> o, SharedPtr<ResourceHtmlRenderingEventArgs> args)
+{
+    if (System::ObjectExt::Is<AttachmentBase>(o))
+    {
+        auto attachment = System::ExplicitCast<AttachmentBase>(o);
+        // Since UseRelativePathToResources = true, you should assign a relative path to the PathToResourceFile property.
+        args->set_PathToResourceFile(u"images\\"+ attachment->get_ContentType()->get_Name()) = $@"images\{attachment.ContentType.Name}";
+    }
+}
+
+htmlSaveOptions->ResourceHtmlRendering.connect(handler);
+
+msg->Save(Path::Combine(u"A Day in the Park.html"), htmlSaveOptions);
+
+```
+*[Source\*](https://releases.aspose.com/email/cpp/release-notes/2024/aspose-email-for-cpp-24-1-release-notes/)*
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Email for C++ 24.1 Release Notes](https://releases.aspose.com/email/cpp/release-notes/2024/aspose-email-for-cpp-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
