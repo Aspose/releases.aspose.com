@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.email-for-.net-24.1"
-description: " "
+title: "Aspose.Email .NET 24.1: Improved HTML Export Options (MSI)"
+description: "C# developers can enhance email processing in .NET apps with Aspose.Email .NET 24.1. Download MSI to improve resource handling for HTML export & more."
 keywords: ""
 page_type: single_release_page
 folder_link: "/email/net/new-releases/aspose.email-for-.net-24.1/"
@@ -43,8 +43,44 @@ weight: 585
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/email/net/release-notes/2024/aspose-email-for-net-24-1-release-notes/'>https://releases.aspose.com/email/net/release-notes/2024/aspose-email-for-net-24-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for .NET 24.1 release</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for .NET 24.1 release (MSI installer).</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Improved Resource Folder Naming for HTML Export
+
+Aspose.Email for .NET 24.1 introduces better compatibility when saving email messages as HTML with embedded resources. We have improved the naming convention of the resource folders. For instance, in the following C# coding example, if you save the HTML file as 'target.html', the associated (default) resource directory name will be 'target_files'.
+
+```C#
+var msg = MapiMessage.Load(sourceFileName);
+
+var htmlSaveOptions = new HtmlSaveOptions
+{
+    ResourceRenderingMode = ResourceRenderingMode.SaveToFile,
+    UseRelativePathToResources = true
+};
+
+msg.Save(Path.Combine("target.html"), htmlSaveOptions);
+
+```
+*[Source\*](https://releases.aspose.com/email/net/release-notes/2024/aspose-email-for-net-24-1-release-notes/)*
+
+### Bug Fixes
+
+This update to the C# email processing API includes important bug fixes related to relative recurrence parsing, UTF-7 encoding, attachment name and extension, and MSG to MHTML rendering.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Email for .NET 24.1 Release Notes](https://releases.aspose.com/email/net/release-notes/2024/aspose-email-for-net-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
