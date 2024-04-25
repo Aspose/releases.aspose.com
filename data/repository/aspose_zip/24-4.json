@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-zip",
+  "id" : "24-4",
+  "packageFiles" : [ {
+    "size" : "803 KB",
+    "name" : "aspose-zip-24.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "6 MB",
+    "name" : "aspose-zip-24.4.jar"
+  }, {
+    "size" : "393 bytes",
+    "name" : "aspose-zip-24.4.pom"
+  } ],
+  "releasehDate" : "2024-04-25T13:38:24+00:00",
+  "version" : "24.4",
+  "ReleaseNotes" : "https://releases.aspose.com/zip/java/release-notes/2024/aspose-zip-for-java-24-4-release-notes/"
+}
