@@ -7,8 +7,6 @@ linktitle: "Aspose.PDF for Python via C++"
 family_listing_page_title:  "Aspose.PDF for Python via C++"
 family_listing_page_description:  "Aspose.PDF for Python via C++ is a easy and secure toolkit used to work with PDF directly."
 family_listing_page_iconurl:  "https://products.aspose.com/pdf/images/aspose_pdf-for-python-cpp.svg"
-homepage_package_type: "GitHub"
-homepage_package_link: "https://github.com/aspose-pdf/Aspose.PDF-for-JavaScript-via-CPP"
 weight: 11
 
 ---
