@@ -1,5 +1,5 @@
 ---
-date: "2024-04-11"
+date: "2024-04-25"
 author: "Vladimir Lapin"
 id: "aspose-omr-for-net-24-4-0-hw-release-notes"
 slug: "aspose-omr-for-net-24-4-0-hw-release-notes"
@@ -29,6 +29,7 @@ This article contains a summary of recent changes, enhancements and bug fixes in
 
 Key | Summary | Category
 --- | ------- | --------
+OMRNET&#8209;994 | Improved handwritten recognition accuracy. | Enhancement
 OMRNET&#8209;990 | Handwritten text recognition now more accurately interprets empty cells. | Fix
 
 ## Public API changes and backwards compatibility
