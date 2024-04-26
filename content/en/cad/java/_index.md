@@ -24,6 +24,7 @@ releaseNotesLink: https://releases.aspose.com/cad/java/release-notes/
 dataFolder: aspose_cad
 publishDate: "2024-1-23T16:17:07+00:00"
 packages_refs:
+- "24-2"
 - "24-1"
 - "23-12"
 - "23-11"
