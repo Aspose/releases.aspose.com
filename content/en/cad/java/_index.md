@@ -1,5 +1,5 @@
 ---
-title: Aspose.CAD Java 23.12 | CAD and BIM Processing Conversion Java API SDK
+title: Aspose.CAD Java 24.1 | CAD and BIM Processing Conversion Java API SDK
 linktitle: "Aspose.CAD for Java"
 description: Java class library to render, edit, report & convert CAD and BIM drawings within your Apps. Supports 3D solids, conic, sphere, torus, cylinder, box, & wedge, etc.
 layout: packages
@@ -22,7 +22,7 @@ forumLink: https://forum.aspose.com/c/cad/19
 productLink: https://products.aspose.com/cad/java/
 releaseNotesLink: https://releases.aspose.com/cad/java/release-notes/
 dataFolder: aspose_cad
-publishDate: "2023-12-23T16:17:07+00:00"
+publishDate: "2024-1-23T16:17:07+00:00"
 packages_refs:
 - "24-1"
 - "23-12"
@@ -72,6 +72,21 @@ packages_refs:
 - "20-4"
 - "20-3"
 - "20-1"
+- "19-9"
+- "19-7"
+- "19-5"
+- "19-2"
+- "18-12"
+- "18-8"
+- "18-3"
+- "17-12"
+- "17-9"
+- "17-4"
+- "17-02"
+- "16-12-1"
+- "16-12"
+- "1-1-0"
+- "1-0"
 ---
 
 # CAD File Conversion API for Java
@@ -79,8 +94,8 @@ packages_refs:
 [![banner](../aspose_cad-for-java-banner.png)](./)
 [Product Page](https://products.aspose.com/cad/java) | [Docs](https://docs.aspose.com/cad/java/) | [Demos](https://products.aspose.app/cad/family) | [API Reference](https://apireference.aspose.com/cad/java) | [Examples](https://github.com/aspose-cad/Aspose.CAD-for-Java) | [Blog](https://blog.aspose.com/category/cad/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cad) | [Temporary License](https://purchase.aspose.com/temporary-license)
 
-[Aspose.CAD for Java](https://products.aspose.com/cad/java) allows developers to export and convert CAD and BIM drawing files like DWG, DXF, DWT, STL, OBJ, DGN, DAE and others to PDF, Vector and Raster images. It is a native API and does not require AutoCAD or any other software to be installed. You can also convert the selected layers and layouts from the CAD files. The conversion to PDF and Raster images is of very high quality.
-Please read [release notes for Aspose.CAD Java 23.12](https://releases.aspose.com/cad/java/release-notes/2023/aspose-cad-for-java-23-12-release-notes/) to know what is improved on the latest version.
+[Aspose.CAD for Java](https://products.aspose.com/cad/java) allows developers to export and convert CAD and BIM drawing files like DWG, DXF, DWT, DAE and others to PDF, Vector and Raster images. It is a native API and does not require AutoCAD or any other software to be installed. You can also convert the selected layers and layouts from the CAD files. The conversion to PDF and Raster images is of very high quality.
+Please read [release notes for Aspose.CAD Java 24.1](https://releases.aspose.com/cad/java/release-notes/2024/aspose-cad-for-java-24-1-release-notes/) to know what is improved on the latest version.
 
 ## CAD File Processing
 
