@@ -89,6 +89,7 @@ Aspose.PDF for Reporting Services is a report rendering extension that seamlessl
 - Microsoft SQL Server 2017 Reporting Services
 - Microsoft SQL Server 2019 Reporting Services
 - Microsoft SQL Server 2022 Reporting Services
+- Microsoft Power BI Report Server
 - Aspose.PDF for Reporting Services requires .NET Framework 4.8.1
 
 {{< Tags/TagsWrapper >}}
