@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-python-via-java-24.3"
-description: " "
+title: "Manage Hyperlinks in PowerPoint Presentation: Python API 24.3"
+description: "Download Aspose.Slides Python via Java 24.3 and work with enhanced hyperlink management and Java API compatibility in your Python apps. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/python-java/new-releases/aspose.slides-for-python-via-java-24.3/"
@@ -45,6 +45,46 @@ weight: 1
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for Python via Java 24.3 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Enhanced Hyperlink Management
+
+The new `IHyperlink.ExternalUrlOriginal` property introduced in Aspose.Slides for Python via Java 24.3 allows developers to access the original URL associated with a hyperlink even if it differs from the displayed text. This feature empowers Python developers to create presentations with more control over hyperlink behavior.
+
+Please check out this code example to learn about the property usage.
+
+```Python
+from asposeslides.api import Presentation
+
+presentation = Presentation("pres.pptx")
+portion = presentation.getSlides().get_Item(0).getShapes().get_Item(1).getTextFrame().getParagraphs().get_Item(0).getPortions().get_Item(0)
+
+externalUrl = portion.getPortionFormat().getHyperlinkClick().getExternalUrl() # fake
+externalUrlOriginal = portion.getPortionFormat().getHyperlinkClick().getExternalUrlOriginal() # real
+
+print(externalUrl)
+print(externalUrlOriginal)
+
+```
+*[Source\*](https://releases.aspose.com/slides/python-java/release-notes/2024/aspose-slides-for-python-via-java-24-3-release-notes/)*
+
+
+### Java API Compatibility
+
+Developers can experience better API compatibility by utilizing the feature set of the Java API 24.3 version while building presentation processing apps using the Python API 24.3 release.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for Python via Java 24.3 Release Notes](https://releases.aspose.com/slides/python-java/release-notes/2024/aspose-slides-for-python-via-java-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

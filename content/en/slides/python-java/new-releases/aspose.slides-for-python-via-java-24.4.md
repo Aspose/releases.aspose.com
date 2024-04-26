@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-python-via-java-24.4"
-description: " "
+title: "Aspose.Slides Python 24.4: Updated API, ZIP64 Support & More"
+description: "Leverage modern API enhancements in Aspose.Slides Python via Java 24.4. Rasterize fonts, improved image handling & ZIP64 format support. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/python-java/new-releases/aspose.slides-for-python-via-java-24.4/"
@@ -45,6 +45,61 @@ weight: 2
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for Python via Java 24.4 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Modern API Introduction
+
+Aspose.Slides for Python via Java 24.4 introduces a future-proof API replacing legacy `java.awt` dependencies and providing a cleaner and more efficient approach to presentation processing. Some of the newly added API members are:
+
+- `IImage` class represents the raster or vector image.
+- `ImageFormat` class represents the file format of the image.
+- `Images` - static class having methods to instantiate IImage.
+
+### ZIP64 Format Support
+
+Developers can leverage the new `PptxOptions.Zip64Mode` property to save presentations in the ZIP64 format for larger files. Please check out the following Python code example to learn about the property usage:
+
+```Python
+pres = Presentation("demo.pptx");
+
+pptxOptions = PptxOptions();
+pptxOptions.setZip64Mode(Zip64Mode.Always);
+pres.save("demo-zip64.pptx", SaveFormat.Pptx, pptxOptions);
+
+pres.dispose();
+
+```
+*[Source\*](https://releases.aspose.com/slides/python-java/release-notes/2024/aspose-slides-for-python-via-java-24-4-release-notes/)*
+
+
+### Improved PDF Font Rendering
+
+The `PdfOptions.RasterizeUnsupportedFontStyles` property introduced in this version of the Python API enhances the quality of text in PDFs for specific fonts. The following sample code highlights the property usage:
+
+```Python
+pres = Presentation();
+
+pdfOptions = PdfOptions();
+pdfOptions.setRasterizeUnsupportedFontStyles(True);
+pres.save("pres.pdf", SaveFormat.Pdf, pdfOptions);
+
+pres.dispose();
+
+```
+*[Source\*](https://releases.aspose.com/slides/python-java/release-notes/2024/aspose-slides-for-python-via-java-24-4-release-notes/)*
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for Python via Java 24.4 Release Notes](https://releases.aspose.com/slides/python-java/release-notes/2024/aspose-slides-for-python-via-java-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
