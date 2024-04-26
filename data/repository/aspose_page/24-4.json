@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-page",
+  "id" : "24-4",
+  "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-page-24.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "16 MB",
+    "name" : "aspose-page-24.4.jar"
+  }, {
+    "size" : "393 bytes",
+    "name" : "aspose-page-24.4.pom"
+  } ],
+  "releasehDate" : "2024-04-26T04:06:11+00:00",
+  "version" : "24.4",
+  "ReleaseNotes" : "https://releases.aspose.com/page/java/release-notes/2024/aspose-page-for-java-24-4-release-notes/"
+}
