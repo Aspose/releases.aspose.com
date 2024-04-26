@@ -1,14 +1,14 @@
 ---
-id: "aspose-pdf-for-reporting-services-24-3-release-notes"
-slug: "aspose-pdf-for-reporting-services-24-3-release-notes"
-linktitle: "Aspose.PDF for Reporting Services 24.3 Release Notes"
-title: "Aspose.PDF for Reporting Services 24.3 Release Notes"
+id: "aspose-pdf-for-reporting-services-24-4-release-notes"
+slug: "aspose-pdf-for-reporting-services-24-4-release-notes"
+linktitle: "Aspose.PDF for Reporting Services 24.4 Release Notes"
+title: "Aspose.PDF for Reporting Services 24.4 Release Notes"
 weight: 10
-description: "Aspose.PDF for Reporting Services 24.3 Release Notes – the latest updates and fixes."
+description: "Aspose.PDF for Reporting Services 24.4 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
-family_listing_page_title: "Aspose.PDF for Reporting Services 24.3 Release Notes"
-lastmod: "2024-03-28"
+family_listing_page_title: "Aspose.PDF for Reporting Services 24.4 Release Notes"
+lastmod: "2024-04-26"
 ---
 
 {{% alert color="primary" %}}
