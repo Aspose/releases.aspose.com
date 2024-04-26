@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-cad",
+  "id" : "20-11",
+  "packageFiles" : [ {
+    "size" : "3.45 MB",
+    "name" : "aspose-cad-20.11-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "27.12 MB",
+    "name" : "aspose-cad-20.11.jar"
+  }, {
+    "size" : "447 bytes",
+    "name" : "aspose-cad-20.11.pom"
+  } ],
+  "releasehDate" : "2020-12-10T00:00:00+00:00",
+  "version" : "20.11",
+  "ReleaseNotes" : "https://releases.aspose.com/cad/java/release-notes/2020/aspose-cad-for-java-20-11-release-notes/"
+}

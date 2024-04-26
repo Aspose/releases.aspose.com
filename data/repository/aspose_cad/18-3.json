@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-cad",
+  "id" : "18-3",
+  "packageFiles" : [ {
+    "size" : "4.43 MB",
+    "name" : "aspose-cad-18.3-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "36.37 MB",
+    "name" : "aspose-cad-18.3-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "451 bytes",
+    "name" : "aspose-cad-18.3.pom"
+  } ],
+  "releasehDate" : "2018-03-28T00:00:00+00:00",
+  "version" : "18.3",
+  "ReleaseNotes" : "https://releases.aspose.com/cad/java/release-notes/2018/aspose-cad-for-java-18-3-release-notes/"
+}

@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-cad",
+  "id" : "19-9",
+  "packageFiles" : [ {
+    "size" : "3.45 MB",
+    "name" : "aspose-cad-19.9-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "25.91 MB",
+    "name" : "aspose-cad-19.9.jar"
+  }, {
+    "size" : "451 bytes",
+    "name" : "aspose-cad-19.9.pom"
+  } ],
+  "releasehDate" : "2019-10-07T00:00:00+00:00",
+  "version" : "19.9",
+  "ReleaseNotes" : "https://releases.aspose.com/cad/java/release-notes/2019/aspose-cad-for-java-19-9-release-notes/"
+}

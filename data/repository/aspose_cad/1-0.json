@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-cad",
+  "id" : "1-0",
+  "packageFiles" : [ {
+    "size" : "2.57 MB",
+    "name" : "aspose-cad-1.0-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "12.99 MB",
+    "name" : "aspose-cad-1.0-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "450 bytes",
+    "name" : "aspose-cad-1.0.pom"
+  } ],
+  "releasehDate" : "2016-07-29T00:00:00+00:00",
+  "version" : "1.0",
+  "ReleaseNotes" : "https://releases.aspose.com/cad/java/release-notes/2016/aspose-cad-for-java-1-0-0-release-notes/"
+}

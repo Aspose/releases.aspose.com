@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-cad",
+  "id" : "18-12",
+  "packageFiles" : [ {
+    "size" : "3.20 MB",
+    "name" : "aspose-cad-18.12-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "25.51 MB",
+    "name" : "aspose-cad-18.12.jar"
+  }, {
+    "size" : "452 bytes",
+    "name" : "aspose-cad-18.12.pom"
+  } ],
+  "releasehDate" : "2019-03-05T00:00:00+00:00",
+  "version" : "18.12",
+  "ReleaseNotes" : "https://releases.aspose.com/cad/java/release-notes/2018/aspose-cad-for-java-18-12-release-notes/"
+}

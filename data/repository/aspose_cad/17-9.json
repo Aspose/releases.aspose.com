@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-cad",
+  "id" : "17-9",
+  "packageFiles" : [ {
+    "size" : "3.63 MB",
+    "name" : "aspose-cad-17.9-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "14.75 MB",
+    "name" : "aspose-cad-17.9-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "451 bytes",
+    "name" : "aspose-cad-17.9.pom"
+  } ],
+  "releasehDate" : "2017-09-27T00:00:00+00:00",
+  "version" : "17.9",
+  "ReleaseNotes" : "https://releases.aspose.com/cad/java/release-notes/2017/aspose-cad-for-java-17-9-release-notes/"
+}

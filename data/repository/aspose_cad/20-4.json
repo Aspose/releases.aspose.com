@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-cad",
+  "id" : "20-4",
+  "packageFiles" : [ {
+    "size" : "3.47 MB",
+    "name" : "aspose-cad-20.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "26.81 MB",
+    "name" : "aspose-cad-20.4.jar"
+  }, {
+    "size" : "446 bytes",
+    "name" : "aspose-cad-20.4.pom"
+  } ],
+  "releasehDate" : "2020-05-08T00:00:00+00:00",
+  "version" : "20.4",
+  "ReleaseNotes" : "https://releases.aspose.com/cad/java/release-notes/2020/aspose-cad-for-java-20-4-release-notes/"
+}
