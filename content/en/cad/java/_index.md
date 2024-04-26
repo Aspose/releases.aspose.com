@@ -23,6 +23,7 @@ productLink: https://products.aspose.com/cad/java/
 releaseNotesLink: https://releases.aspose.com/cad/java/release-notes/
 dataFolder: aspose_cad
 packages_refs:
+- "24-3"
 - "24-2"
 - "24-1"
 - "23-12"
