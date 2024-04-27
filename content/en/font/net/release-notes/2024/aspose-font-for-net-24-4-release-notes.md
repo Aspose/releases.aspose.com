@@ -30,11 +30,11 @@ Fixed *IndexOutOfRange* exception when converting **CFF** font to **SVG** format
 ## Public API and Backwards Incompatible Changes
 
 ### Added APIs
-* Class **Aspose.Font.Exceptions.IncorrectFontDataException**
-* Constructor *Aspose.Font.Exceptions.IncorrectFontDataException*
-* Constructor *Aspose.Font.Exceptions.IncorrectFontDataException(System.String)*
-* Constructor *Aspose.Font.Exceptions.IncorrectFontDataException(System.String,System.Exception)*
-* Constructor *Aspose.Font.Exceptions.IncorrectFontDataException(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)*
+* Class [**Aspose.Font.Exceptions.IncorrectFontDataException**](https://reference.aspose.com/font/net/aspose.font.exceptions/incorrectfontdataexception/)
+* Constructor [*Aspose.Font.Exceptions.IncorrectFontDataException*](https://reference.aspose.com/font/net/aspose.font.exceptions/incorrectfontdataexception/incorrectfontdataexception/#constructor)
+* Constructor [*Aspose.Font.Exceptions.IncorrectFontDataException(System.String)*](https://reference.aspose.com/font/net/aspose.font.exceptions/incorrectfontdataexception/incorrectfontdataexception/#constructor_2)
+* Constructor [*Aspose.Font.Exceptions.IncorrectFontDataException(System.String,System.Exception)*](https://reference.aspose.com/font/net/aspose.font.exceptions/incorrectfontdataexception/incorrectfontdataexception/#constructor_3)
+* Constructor [*Aspose.Font.Exceptions.IncorrectFontDataException(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)*](https://reference.aspose.com/font/net/aspose.font.exceptions/incorrectfontdataexception/incorrectfontdataexception/#constructor_1)
 
 ## Got Queries?
 If you have any query related to Aspose.Font for .NET API, please feel free to write to reach us on [Aspose.Font forum](https://forum.aspose.com/c/font/). We'll be glad to assist you with your inquiries.
