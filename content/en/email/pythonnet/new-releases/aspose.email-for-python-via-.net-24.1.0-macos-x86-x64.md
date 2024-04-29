@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.email-for-python-via-.net-24.1.0-macos-x86-x64"
-description: " "
+title: "Improved Folder Naming: Python Email API 24.1 (macOS x64)"
+description: "Download Aspose.Email for Python via .NET 24.1.0 on macOS x64 and upgrade your Python apps with improved folder naming, parsing & MHTML generation."
 keywords: ""
 page_type: single_release_page
 folder_link: "/email/pythonnet/new-releases/aspose.email-for-python-via-.net-24.1.0-macos-x86-x64/"
@@ -45,6 +45,36 @@ weight: 68
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for Python via .NET 24.1.0, macOS x86, x64 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Enhanced Folder Naming
+
+With Aspose.Email for Python via .NET 24.1.0, you can utilize the enhanced naming scheme for resource folders when saving email messages with embedded resources as HTML and expanding the compatibility of the emailing apps on macOS x64 systems.
+
+### Generate MHTML from MSG Files
+
+We have upgraded the MHTML generation from MSG file functionality in this update to the Python email apps API, allowing the users to build upon the capabilities of their emailing solutions in Python.
+
+### Read UTF-7 Encoded Emails
+
+You can now seamlessly read UTF-7 encoded emails and optimize your email manipulation workflows on macOS x64 machines.
+
+### Fixed Issues
+
+We have fixed various bugs and issues in this version to ensure that you enjoy a smooth API usage experience.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Email for Python via .NET 24.1.0 Release Notes](https://releases.aspose.com/email/pythonnet/release-notes/2024/aspose-email-for-python-via-net-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
