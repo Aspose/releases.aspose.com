@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-node.js-via-.net-24.3"
-description: " "
+title: "Advanced Presentation Processing: Aspose.Slides Node.js 24.3"
+description: "Aspose.Slides Node.js via .NET 24.3 brings the power of the .NET API 24.3 to Node.js apps. Download now to process presentations without MS PowerPoint."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/nodejs-net/new-releases/aspose.slides-for-node.js-via-.net-24.3/"
@@ -45,6 +45,33 @@ weight: 1
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for Node.js via .NET 24.3 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Enhanced Functionality
+
+With Aspose.Slides for Node.js via .NET 24.3, developers can benefit from all the features and enhancements introduced in Aspose.Slides .NET 24.3 and expanding their development capabilities.
+
+### Important Features
+
+- **Create presentations from scratch:** Build presentations with slides, shapes, text, charts, tables, and more.
+- **Seamlessly edit existing presentations:** Edit content, format elements, and apply visual enhancements.
+- **Accurate conversion between formats:** Convert presentations between PPT, PPTX, PDF, HTML, and other popular formats.
+
+### Download The API
+
+Download Aspose.Slides for Node.js via .NET 24.3 today and explore the possibilities of presentation automation in your Node.js projects without any MS PowerPoint dependencies.
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for Node.js via .NET 24.3 Release Notes](https://releases.aspose.com/slides/nodejs-net/release-notes/2024/aspose-slides-for-nodejs-via-net-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

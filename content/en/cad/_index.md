@@ -1,7 +1,7 @@
 ---
-title: "AutoCAD Drawing & Rendering APIs | Aspose.CAD Product Family"
-description: "Download .NET & Java libraries to build applications that can process & convert CAD drawings including the ones created with AutoCAD. "
-keywords: "CAD API "
+title: "CAD Drawing & Rendering SDK and APIs | Aspose.CAD Product Family"
+description: "Download .NET, Java, Python or JavaScript libraries to build applications that can process & convert CAD drawings including the ones created with AutoCAD"
+keywords: "CAD API and SDK"
 linktitle: "Aspose.CAD Product Family"
 family_listing_page_title: "Aspose.CAD Product Family"
 family_listing_page_description: ""
