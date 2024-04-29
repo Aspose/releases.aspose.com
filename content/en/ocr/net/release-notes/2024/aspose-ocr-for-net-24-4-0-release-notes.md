@@ -69,7 +69,7 @@ Value          | Alphabet
 `Aspose.OCR.Language.Ara` | Arabic
 
 {{% alert color="primary" %}}
-Arabic text recognition requires **aspose-ocr-arabic-v1** OCR feature to be [installed](https://docs.aspose.com/ocr/java/modules/).
+Arabic text recognition requires **aspose-ocr-arabic-v1** OCR feature to be [installed](https://docs.aspose.com/ocr/net/modules/).
 {{% /alert %}}
 
 #### `Recognize(OcrInput images, RecognitionSettings settings, CancellationToken cancellationToken)`

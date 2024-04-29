@@ -1,20 +1,24 @@
 ---
-id: "aspose-ocr-for-java-latest-release-notes"
-slug: "latest"
-weight: 1
 date: "2024-04-26"
+id: "aspose-ocr-for-java-24-4-1-release-notes"
+slug: "aspose-ocr-for-java-24-4-1-release-notes"
+linktitle: "Aspose.OCR for Java 24.4.1 - Release Notes"
+title: "Aspose.OCR for Java 24.4.1 - Release Notes"
 author: "Vladimir Lapin"
+weight: 93
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OCR for Java 24.4.1 (April 2024) release."
 type: "repository"
 layout: "release"
-title: Latest release
-linktitle: "Latest release"
-description: A summary of recent changes, enhancements and bug fixes in the latest release of Aspose.OCR for Java.
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OCR for Java 24.4.1 - Release Notes"
 keywords:
-- latest
-- patch
-- new
-- release
-- changelog
+- "2024"
+- "April"
+- "new"
+- "release"
+- "changelog"
+menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
