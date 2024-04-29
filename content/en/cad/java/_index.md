@@ -1,33 +1,35 @@
 ---
-title: Aspose.CAD Java 23.8 | CAD and BIM Processing Conversion Java API SDK
+title: Aspose.CAD Java 24.3 | CAD and BIM Processing Conversion Java API SDK
 linktitle: "Aspose.CAD for Java"
 description: Java class library to render, edit, report & convert CAD and BIM drawings within your Apps. Supports 3D solids, conic, sphere, torus, cylinder, box, & wedge, etc.
 layout: packages
 type: repository
 categories:
   - fundamentals
-keywords: [ "Aspose CAD", "Aspose Java API", "cad java library", "cad java class",
-"DWG", "DXF", "DXB", "DWT", "DGN", "IFC", "IGES", "STL", "DWT", "PLT", "DWF", "DWFx",
-"DAE", "CF2", "OBJ", "3DS", "U3D", "PDF", "TIFF", "JPEG", "PNG", "GIF", "BMP", "PSD",
-"Maven", "Windows", "Linux", "Mac", "J2SE", "drawing", "cad drawing", "raster image",
-"export 3D", "cad layout", "mesh model", "ATTRIB", "MTEXT", "3D solids", "conic", "sphere",
-"torus", "cylinder", "box", "wedge", "wired models", "3D faces", "Unix" ]
+keywords: ["Aspose CAD", "Aspose Java API", "cad java library", "cad java class", "DWG", "DXF", "DXB", "DWT", "DGN", "IFC", "IGES", "STL", "DWT", "PLT", "DWF", "DWFx", "DAE", "CF2", "OBJ", "3DS", "U3D", DXB, Collada, STP, "PDF", "TIFF", "JPEG", "PNG", "GIF", "BMP", "PSD", "Maven", "Windows", "Linux", "Mac", "J2SE", "drawing", "cad drawing", "raster image", "export 3D", "cad layout", "mesh model", "ATTRIB", "MTEXT", "3D solids", "conic", "sphere", "torus", "cylinder", "box", "wedge", "wired models", "3D faces", "Unix"]
 family_listing_page_title: "Aspose.CAD for Java"
-family_listing_page_description: "Aspose.CAD for Java allows developers to convert CAD and BIM drawings like DWG, DXF, DGN, DWF, DWFx, Collada(DAE), IFC, IGS, IGES, STL, DWT, CF2, CF2, OBJ  files to PDF, SVG, WMF and Raster images. It is a native API and does not require AutoCAD or any other software to be installed."
-family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java-min.png"
+family_listing_page_description: "Aspose.CAD for Java is an advanced Java CAD processing API and SDK allows to perform a wide range of CAD and BIM drawings processing tasks directly within your Java applications."
+family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
 family_listing_page_venture: "4"
-family_listing_page_package: "11"
+family_listing_page_package: "3"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-cad/"
-tags: ["Aspose Total", "Aspose CAD", "Aspose Java API", "cad java library", "cad java class", "DWG", "DXF", "DGN", "IFC", "IGES", "STL", "DWT", "PLT", "DWF", "DWFx", "CF2", "OBJ", "PDF", "TIFF", "JPEG", "PNG", "GIF", "BMP", "Maven", "Windows", "Linux", "Mac", "J2SE", "drawing", "cad drawing", "raster image", "export 3D", "autocad", "cad layout", "mesh model", "ATTRIB", "MTEXT", "3D solids", "conic", "sphere", "torus", "cylinder", "box", "wedge", "wired models", "3D faces", "Unix"]
-weight: 2	#rem
+tags: ["Aspose Total", "Aspose CAD", "Aspose Java API", "cad java library", "cad java class", "DWG", "DXF", "DAE", "DGN", "IFC", "IGES", "STL", "DWT", "PLT", "DWF", "DWFx", "CF2", "OBJ", "U3D", "3DS", DXB, Collada, STP, "PDF", "TIFF", "JPEG", "PNG", "GIF", "BMP", "Maven", "Windows", "Linux", "Mac", "J2SE", "drawing", "cad drawing", "raster image", "export 3D", "autocad", "cad layout", "mesh model", "ATTRIB", "MTEXT", "3D solids", "conic", "sphere", "torus", "cylinder", "box", "wedge", "wired models", "3D faces", "Unix"]
+weight: 02	#rem
 forumLink: https://forum.aspose.com/c/cad/19
 productLink: https://products.aspose.com/cad/java/
 releaseNotesLink: https://releases.aspose.com/cad/java/release-notes/
 dataFolder: aspose_cad
 packages_refs:
+- "24-3"
+- "24-2"
+- "24-1"
+- "23-12"
+- "23-11"
+- "23-10"
+- "23-9"
 - "23-8"
 - "23-7"
 - "23-6"
@@ -90,11 +92,11 @@ packages_refs:
 
 # CAD File Conversion API for Java
 
-{{< repository/extract-package-explore-link imgsrc=/res_repo/img/compress/aspose_cad-for-java-banner.png >}}
+[![banner](../aspose_cad-for-java-banner.png)](./)
 [Product Page](https://products.aspose.com/cad/java) | [Docs](https://docs.aspose.com/cad/java/) | [Demos](https://products.aspose.app/cad/family) | [API Reference](https://apireference.aspose.com/cad/java) | [Examples](https://github.com/aspose-cad/Aspose.CAD-for-Java) | [Blog](https://blog.aspose.com/category/cad/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cad) | [Temporary License](https://purchase.aspose.com/temporary-license)
 
-[Aspose.CAD for Java](https://products.aspose.com/cad/java) allows developers to export and convert CAD and BIM drawing files like DWG, DXF, DWT, DAE and others to PDF, Vector and Raster images. It is a native API and does not require AutoCAD or any other software to be installed. You can also convert the selected layers and layouts from the CAD files. The conversion to PDF and Raster images is of very high quality.
-Please read [release notes for Aspose.CAD Java 23.8](https://releases.aspose.com/cad/java/release-notes/2023/aspose-cad-for-java-23-8-release-notes/) to know what is improved on the latest version.
+[Aspose.CAD for Java](https://products.aspose.com/cad/java) allows developers to export and convert CAD and BIM drawing files like DWG, DXF, DWT, STL, OBJ, DGN, DAE and others to PDF, Vector and Raster images. It is a native API and does not require AutoCAD or any other software to be installed. You can also convert the selected layers and layouts from the CAD files. The conversion to PDF and Raster images is of very high quality.
+Please read [release notes for Aspose.CAD Java 24.3](https://releases.aspose.com/cad/java/release-notes/2024/aspose-cad-for-java-24-3-release-notes/) to know what is improved on the latest version.
 
 ## CAD File Processing
 

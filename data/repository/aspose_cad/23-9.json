@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-cad",
+  "id" : "23-9",
+  "packageFiles" : [ {
+    "size" : "20 MB",
+    "name" : "aspose-cad-23.9-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "35 MB",
+    "name" : "aspose-cad-23.9.jar"
+  }, {
+    "size" : "836 bytes",
+    "name" : "aspose-cad-23.9.pom"
+  } ],
+  "releasehDate" : "2023-11-28T18:05:53+00:00",
+  "version" : "23.9",
+  "ReleaseNotes" : "https://releases.aspose.com/cad/java/release-notes/2023/aspose-cad-for-java-23-9-release-notes/"
+}

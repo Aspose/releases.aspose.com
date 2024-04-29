@@ -1,0 +1,15 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-cad",
+  "id" : "23-11",
+  "packageFiles" : [ {
+    "size" : "36 MB",
+    "name" : "aspose-cad-23.11.jar"
+  }, {
+    "size" : "837 bytes",
+    "name" : "aspose-cad-23.11.pom"
+  } ],
+  "releasehDate" : "2024-04-17T21:53:11+00:00",
+  "version" : "23.11",
+  "ReleaseNotes" : "https://releases.aspose.com/cad/java/release-notes/2024/aspose-cad-for-java-23-11-release-notes/"
+}
