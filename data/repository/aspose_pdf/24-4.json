@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-pdf",
+  "id" : "24-4",
+  "packageFiles" : [ {
+    "size" : "5 MB",
+    "name" : "aspose-pdf-24.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "78 MB",
+    "name" : "aspose-pdf-24.4.jar"
+  }, {
+    "size" : "452 bytes",
+    "name" : "aspose-pdf-24.4.pom"
+  } ],
+  "releasehDate" : "2024-04-29T23:20:48+00:00",
+  "version" : "24.4",
+  "ReleaseNotes" : "https://releases.aspose.com/pdf/java/release-notes/2024/aspose-pdf-for-java-24-4-release-notes/"
+}
