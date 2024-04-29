@@ -3,7 +3,7 @@ id: "aspose-barcode-for-python-via-java-24-4-release-notes"
 slug: "aspose-barcode-for-python-via-java-24-4-release-notes"
 linktitle: "Aspose.BarCode for Python via Java 24.4"
 title: "Aspose.BarCode for Python via Java 24.4"
-weight: 960
+weight: 940
 description: "Aspose.BarCode for Python via Java 24.4 – the latest updates and fixes."
 type: "repository"
 layout: "release"
