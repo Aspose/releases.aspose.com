@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-php-via-java-23.11"
-description: " "
+title: "Aspose.Cells PHP 23.11: Optimized Flexibility, Rendering Power"
+description: "With Aspose.Cells PHP via Java 23.11, you can augment PHP apps with new PDF versions (1.5 & 1.6) support & formula calculations in HTML. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/php/new-releases/aspose.cells-for-php-via-java-23.11/"
@@ -43,8 +43,42 @@ weight: 47
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/php/release-notes/2023/aspose-cells-for-php-via-java-23-11-release-notes/'>https://releases.aspose.com/cells/php/release-notes/2023/aspose-cells-for-php-via-java-23-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for PHP via Java 23.11</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for PHP via Java 23.11.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Enhanced PDF Rendering
+
+Easily generate documents compatible with PDF versions 1.5 and 1.6 using version 23.11 of the Aspose.Cells for PHP via Java API.
+
+### Control Formula Calculation in HTML Exports
+
+We have optimized HTML export options in this release, allowing you to choose whether to recalculate formulas for accurate data in your HTML files.
+
+### Select Default Font Color
+
+In the latest update, we have introduced the ability to finalize the default font color within our Excel processing apps.
+
+### Improved HTML Conversions
+
+PHP developers can now experience better handling of cell content, data display, and border rendering during HTML conversion.
+
+### Fixed Issues
+
+This release addresses different issues related to date calculations, pivot tables, and licensing, ensuring a smoother workflow.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for PHP via Java 23.11 Release Notes](https://releases.aspose.com/cells/php/release-notes/2023/aspose-cells-for-php-via-java-23-11-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
