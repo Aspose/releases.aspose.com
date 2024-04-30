@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-c++-24.4-macos"
-description: " "
+title: "Supercharge Your PDF Apps on macOS | Native C++ API v24.4"
+description: "Enhance your C++ development on macOS with Aspose.PDF for C++ 24.4! Download & explore new features, bug fixes & more for efficient PDF handling."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-24.4-macos/"
@@ -43,8 +43,38 @@ weight: 215
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-4-release-notes/'>https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for C++ macOS version</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for C++ 24.4 macOS version release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Form Handling Improvements
+
+With the latest release of the native C++ library, developers can utilize the new APIs for exporting and importing form data in JSON format. This functionality enables the developers to supercharge form management within the PDF manipulation apps.
+
+### Easily Load SVG Images
+
+Effortlessly handle SVG images and upgrade your PDFs with the integration of this feature on macOS systems.
+
+### Extracting Text From PDFs
+
+Aspose.PDF for C++ 24.4 lets you easily extract text with the `ParagraphAbsorber` class and options, offering better control over text extraction from PDF documents.
+
+### Other Updates and Fixes
+
+We have also introduced various enhancements and bug fixes in this API release, allowing you to enjoy a stable and reliable API usage experience.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for C++ 24.4 Release Notes](https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
