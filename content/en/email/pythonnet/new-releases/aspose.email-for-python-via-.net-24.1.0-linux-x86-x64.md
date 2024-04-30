@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.email-for-python-via-.net-24.1.0-linux-x86-x64"
-description: " "
+title: "Improved Folder Naming | Python Email Apps API 24.1 (Linux)"
+description: "Aspose.Email for Python .NET 24.1.0 delivers various features and improvements on Linux such as UTF-7 encoding & improved folder naming. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/email/pythonnet/new-releases/aspose.email-for-python-via-.net-24.1.0-linux-x86-x64/"
@@ -45,6 +45,36 @@ weight: 70
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for Python via .NET 24.1.0, Linux x86, x64 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Resource Folder Naming Improvements
+
+Aspose.Email for Python via .NET 24.1.0 delivers an upgraded naming scheme for resource folders when saving email messages as HTML with embedded resources. With this functionality, developers can enhance the compatibility of the emailing apps on Linux machines.
+
+### MSG to MHTML Conversion
+
+You can effortlessly convert MSG to MHTML in your email conversion apps using version 24.1.0 of the Python email apps API. 
+
+### Easily Handle UTF-7 Encoding
+
+The issues related to reading UTF-7 encoded emails have been effectively resolved in this update, elevating your email manipulation workflows. 
+
+### Resolved Issues
+
+We have resolved different issues in this API version to ensure a smooth user experience for you on Linux. 
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Email for Python via .NET 24.1.0 Release Notes](https://releases.aspose.com/email/pythonnet/release-notes/2024/aspose-email-for-python-via-net-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.email-for-python-via-.net-24.1.0-windows-x64"
-description: " "
+title: "Improved Folder Naming: Python Email Apps API 24.1 (Win x64)"
+description: "Enhanced email processing in Python! Download Aspose.Email Python .NET 24.1.0 on Win x64 for improved resource naming, parsing & MHTML generation."
 keywords: ""
 page_type: single_release_page
 folder_link: "/email/pythonnet/new-releases/aspose.email-for-python-via-.net-24.1.0-windows-x64/"
@@ -45,6 +45,36 @@ weight: 71
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for Python via .NET 24.1.0, Windows x64 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Improved Resource Folder Naming for HTML Saving
+
+Aspose.Email now offers a revised naming scheme for resource folders while saving email messages as HTML with embedded resources. This functionality enhances the compatibility of your emailing apps on Windows x64.
+
+### Enhanced MHTML Generation
+
+Version 24.1.0 of the Python email apps API enables optimized MSG to MHTML generation and enhances your Python conversion solutions. 
+
+### UTF-7 Encoding Handling
+
+We have addressed the issues encountered while reading UTF-7 encoded emails and effortlessly augment your email manipulation workflows.
+
+### Bug Fixes
+
+The latest update to our API includes various bug fixes offering stability and a great user experience.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Email for Python via .NET 24.1.0 Release Notes](https://releases.aspose.com/email/pythonnet/release-notes/2024/aspose-email-for-python-via-net-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

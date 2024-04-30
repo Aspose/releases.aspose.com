@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-node.js-via-java-24.3"
-description: " "
+title: "Node.js Presentation API 24.3: Manage Hyperlinks in Your Apps"
+description: "Uncover the original URL in PowerPoint-modified hyperlinks with Aspose.Slides Node.js Java 24.3. Download now & unlock advanced presentation manipulation."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-24.3/"
@@ -45,6 +45,42 @@ weight: 8
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for Node.js via Java 24.3 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Advanced Hyperlink Management
+
+You can gain access to the original external URL associated with a hyperlink with Aspose.Slides for Node.js via Java 24.4, even if PowerPoint modifies it for display purposes. This feature allows for more accurate manipulation and retrieval of hyperlink data in your presentations. 
+
+This code example illustrates how to access the original external hyperlink using the newly added `IHyperlink.ExternalUrlOriginal` property.
+
+```java
+var presentation = new aspose.slides.Presentation("pres.pptx");
+var portion = presentation.getSlides().get_Item(0).getShapes().get_Item(1).getTextFrame().getParagraphs().get_Item(0).getPortions().get_Item(0);
+
+var externalUrl = portion.getPortionFormat().getHyperlinkClick().getExternalUrl(); // fake
+var externalUrlOriginal = portion.getPortionFormat().getHyperlinkClick().getExternalUrlOriginal(); // real
+
+console.log(externalUrl);
+console.log(externalUrlOriginal);
+
+```
+*[Source\*](https://releases.aspose.com/slides/nodejs-java/release-notes/2024/aspose-slides-for-nodejs-via-java-24-3-release-notes/)*
+
+
+Upgrade your Node.js development environment with Aspose.Slides for Node.js via Java 24.3 and get started with PowerPoint document processing today.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for Node.js via Java 24.3 Release Notes](https://releases.aspose.com/slides/nodejs-java/release-notes/2024/aspose-slides-for-nodejs-via-java-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

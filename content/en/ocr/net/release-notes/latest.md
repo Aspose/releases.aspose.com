@@ -2,7 +2,7 @@
 id: "aspose-ocr-for-net-latest-release-notes"
 slug: "latest"
 weight: 1
-date: "2024-04-22"
+date: "2024-04-26"
 author: "Vladimir Lapin"
 type: docs
 type: "repository"
@@ -18,7 +18,7 @@ keywords:
 ---
 
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OCR for .NET 24.4.1 (April 2024)**](https://www.nuget.org/packages/Aspose.OCR/24.4.1) release.
+This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OCR for .NET 24.4.2 (April 2024)**](https://www.nuget.org/packages/Aspose.OCR/24.4.2) release.
 
 GPU version: **23.10.1**
 {{% /alert %}}
@@ -37,12 +37,14 @@ To make it easier to upgrade your code, we have kept all legacy values, but mark
 
 Key | Summary | Category
 --- | ------- | --------
-OCRNET&#8209;806 | Improved saving of recognition results as searchable PDFs. | Enhancement
-OCRNET&#8209;826 | Improved [`DetectAreasMode.PHOTO`](https://docs.aspose.com/ocr/net/areas-detection/photo/) document areas detection mode. | Enhancement
+OCRNET&#8209;831 | Added Persian (Farsi) language recognition and recognition of texts in mixed Persian/English. | New feature
+OCRNET&#8209;831 | Added Urdu language recognition and recognition of texts in mixed Persian/English. | New feature
+OCRNET&#8209;831 | Added Uyghur language recognition and recognition of texts in mixed Persian/English. | New feature
+OCRNET&#8209;831 | Improved Arabic text recognition. | Enhancement
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OCR for .NET 24.4.1** that may affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OCR for .NET 24.4.2** that may affect the code of existing applications.
 
 ### Added public APIs:
 
@@ -50,8 +52,46 @@ _No changes._
 
 ### Updated public APIs:
 
-_No changes_
+The following public APIs have been introduced in this release:
+
+#### `Aspose.OCR.Language`
+
+{{% alert color="info" %}}
+**Compatibility: fully backward compatible.**
+{{% /alert %}}
+
+Aspose.OCR for .NET can now recognize 3 new alphabets, including texts in mixed languages:
+
+Value                     | Alphabet
+------------------------- | --------
+`Aspose.OCR.Language.Pes` | Persian (Farsi) and English
+`Aspose.OCR.Language.Uig` | Uyghur and English
+`Aspose.OCR.Language.Urd` | Urdu and English
+
+{{% alert color="primary" %}}
+To support the above-mentioned languages, [install](https://docs.aspose.com/ocr/net/modules/) **aspose-ocr-arabic-v1** OCR feature.
+{{% /alert %}}
 
 ### Removed public APIs:
 
 _No changes._
+
+## Examples
+
+The code samples below illustrate the changes introduced in this release:
+
+### Recognize Persian text
+
+```csharp
+// Initialize Aspose.OCR for .NET recognition API
+Aspose.OCR.AsposeOcr recognitionEngine = new Aspose.OCR.AsposeOcr();
+// Add image
+Aspose.OCR.OcrInput input = new Aspose.OCR.OcrInput(Aspose.OCR.InputType.SingleImage);
+input.Add("source.png");
+// Set recognition language
+Aspose.OCR.RecognitionSettings recognitionSettings = new Aspose.OCR.RecognitionSettings();
+recognitionSettings.Language = Aspose.OCR.Language.Pes;
+// Recognize image
+List<Aspose.OCR.RecognitionResult> results = recognitionEngine.Recognize(input, recognitionSettings);
+Console.WriteLine(results[0].RecognitionText);
+```

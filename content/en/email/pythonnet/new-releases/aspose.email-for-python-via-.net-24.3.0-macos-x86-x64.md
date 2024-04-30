@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.email-for-python-via-.net-24.3.0-macos-x86-x64"
-description: " "
+title: "PST Files, OLM Color | Aspose.Email Python 24.3 (macOS x64)"
+description: "Enhance Outlook PST management & retrieve category colors from OLM files on macOS x64 with Aspose.Email for Python via .NET 24.3.0. Download Now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/email/pythonnet/new-releases/aspose.email-for-python-via-.net-24.3.0-macos-x86-x64/"
@@ -45,6 +45,34 @@ weight: 72
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for Python via .NET 24.3.0, macOS x86, x64 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Great news for developers using Python and Aspose.Email for Python via .NET on macOS x64 machines! Version 24.3.0 delivers valuable improvements for managing Outlook data along with essential bug fixes.
+
+### Container Class Matching for PST Folders
+
+With the introduction of the `EnforceContainerClassMatching` property in `FolderCreationOptions` in this API update, developers can seamlessly control the handling of PST data by preventing mismatches in container classes while adding folders to PST.
+
+### Category Color Extraction from OLM
+
+Build feature-rich solutions that can retrieve category colors associated with Outlook items stored in OLM files. The new `OlmItemCategory` class and `GetCategories` method within `OlmStorage` provided in Aspose.Email for Python via .NET 24.3.0 help streamline the process on macOS x64 machines.
+
+### Fixed Issues
+
+This version delivers different bug fixes related to message body retrieval in `MapiMessage` objects, ICS file import, message file encoding detection, and appointment saving to ICS format.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Email for Python via .NET 24.3.0 Release Notes](https://releases.aspose.com/email/pythonnet/release-notes/2024/aspose-email-for-python-via-net-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

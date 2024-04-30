@@ -2,7 +2,7 @@
 id: "aspose-ocr-for-java-latest-release-notes"
 slug: "latest"
 weight: 1
-date: "2024-04-11"
+date: "2024-04-26"
 author: "Vladimir Lapin"
 type: "repository"
 layout: "release"
@@ -18,7 +18,7 @@ keywords:
 ---
 
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for Java 24.4.0 (April 2024)** release.
+This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for Java 24.4.1 (April 2024)** release.
 
 GPU version: **24.2.0**
 {{% /alert %}}
@@ -26,7 +26,7 @@ GPU version: **24.2.0**
 ## Deprecation warning
 
 {{% alert color="caution" %}}
-The release 24.4.0 updates the codes of some recognition languages to align with ISO 639-2 standard.
+The release 24.3.0 updates the codes of some recognition languages to align with ISO 639-2 standard.
 
 To make it easier to upgrade your code, we have kept all legacy values, but marked them as deprecated. All of your existing code will continue to work and you can even make minor updates to it, but be aware that all deprecated language codes are scheduled to be removed in release **25.1.0 (January 2025)**.
 
@@ -37,40 +37,40 @@ To make it easier to upgrade your code, we have kept all legacy values, but mark
 
 Key | Summary | Category
 --- | ------- | --------
-OCRJAVA&#8209;362 | Added recognition of Arabic text. | New feature
-OCRJAVA&#8209;363 | Saving multi-page recognition results into `OutputStream` object. | New feature
-OCRJAVA&#8209;364<br />OCRJAVA&#8209;366 | Improved saving of recognition results as searchable PDFs. | Enhancement
+OCRJAVA&#8209;369 | Added Persian (Farsi) language recognition and recognition of texts in mixed Persian/English. | New feature
+OCRJAVA&#8209;369 | Added Urdu language recognition and recognition of texts in mixed Persian/English. | New feature
+OCRJAVA&#8209;369 | Added Uyghur language recognition and recognition of texts in mixed Persian/English. | New feature
+OCRJAVA&#8209;369 | Improved Arabic text recognition. | Enhancement
+OCRJAVA&#8209;370 | Improved [`DetectAreasMode.PHOTO`](https://docs.aspose.com/ocr/java/areas-detection/photo/) document areas detection mode. | Enhancement
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OCR for Java 24.4.0** that may affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OCR for Java 24.4.1** that may affect the code of existing applications.
 
 ### Added public APIs:
 
-The following public APIs have been introduced in **Aspose.OCR for Java 24.1.0** release:
-
-#### `SaveMultipageDocument(stream, format, results)` method
-
-This method allows to save multi-page recognition results (searchable PDF, Microsoft Word) recognition results into `OutputStream` object.
+_No changes_
 
 ### Updated public APIs:
 
-The following public APIs have been changed in **Aspose.OCR for Java 24.4.0** release:
+The following public APIs have been changed in **Aspose.OCR for Java 24.4.1** release:
 
 #### `Language` enumeration
 
 {{% alert color="info" %}}
-**Compatibility: fully backward compatible.** See details below.
+**Compatibility: fully backward compatible.**
 {{% /alert %}}
 
-Aspose.OCR for Java can now recognize Arabic texts:
+Aspose.OCR for Java can now recognize 3 new alphabets, including texts in mixed languages:
 
 Value          | Alphabet
 -------------- | --------
-`Language.Ara` | Arabic
+`Language.Pes` | Persian (Farsi) and English
+`Language.Uig` | Uyghur and English
+`Language.Urd` | Urdu and English
 
 {{% alert color="primary" %}}
-Arabic text recognition requires **aspose-ocr-arabic-v1** OCR feature to be [installed](https://docs.aspose.com/ocr/java/modules/).
+To support the above-mentioned languages, [install](https://docs.aspose.com/ocr/java/modules/) **aspose-ocr-arabic-v1** OCR feature.
 {{% /alert %}}
 
 ### Removed public APIs:
@@ -81,7 +81,7 @@ _No changes._
 
 The code samples below illustrate the changes introduced in this release:
 
-### Arabic text recognition
+### Persian text recognition
 
 ```java
 // Initialize Aspose.OCR recognition API
@@ -91,22 +91,8 @@ OcrInput source = new OcrInput(InputType.SingleImage);
 source.add("image.png");
 // Specify recognition language
 RecognitionSettings recognitionSettings = new RecognitionSettings();
-recognitionSettings.setLanguage(Language.Ara);
+recognitionSettings.setLanguage(Language.Pes);
 // Extract text from image
 ArrayList<RecognitionResult> results = api.Recognize(source, recognitionSettings);
 System.out.println(result[0].recognition_text);
-```
-
-### Saving recognition results into stream
-
-```java
-// Initialize Aspose.OCR recognition API
-AsposeOCR api = new AsposeOCR();
-// Add scanned PDF to the recognition batch
-OcrInput source = new OcrInput(InputType.PDF);
-source.add("scan.pdf");
-// Saving searchable PDF into stream
-ArrayList<RecognitionResult> results = api.Recognize(source);
-OutputStream stream = new ByteArrayOutputStream();
-AsposeOCR.SaveMultipageDocument(stream, Format.Pdf, results);
 ```

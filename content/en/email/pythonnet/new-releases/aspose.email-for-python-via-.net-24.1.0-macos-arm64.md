@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.email-for-python-via-.net-24.1.0-macos-arm64"
-description: " "
+title: "Improved Folder Naming: Python Email API 24.1 (macOS M1)"
+description: "Download Aspose.Email for Python via .NET 24.1.0 on macOS M1 and upgrade your Python apps with improved folder naming, parsing & MHTML generation."
 keywords: ""
 page_type: single_release_page
 folder_link: "/email/pythonnet/new-releases/aspose.email-for-python-via-.net-24.1.0-macos-arm64/"
@@ -45,6 +45,36 @@ weight: 69
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for Python via .NET 24.1.0, macOS ARM64 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Optimized Folder Naming
+
+With Aspose.Email for Python via .NET 24.1.0, you can make full use of the updated naming scheme for resource folders when saving email messages with embedded resources as HTML. This functionality enables developers to enhance the compatibility of the emailing apps on macOS ARM64/M1 systems.
+
+### MSG to MHTML Conversion Made Easy
+
+Upgrade your email conversion solutions with the ability to save MSG files as MHTML using this update to the Python email apps API.
+
+### Manage UTF-7 Encoding
+
+We have taken care of the problems related to reading UTF-7 encoded emails in this update to augment your email manipulation workflows.
+
+### Fixed Issues
+
+We have fixed various bugs and issues in this version to ensure that you enjoy a smooth API usage experience.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Email for Python via .NET 24.1.0 Release Notes](https://releases.aspose.com/email/pythonnet/release-notes/2024/aspose-email-for-python-via-net-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

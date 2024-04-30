@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-php-via-java-24.3"
-description: " "
+title: "Streamlined HTML Export & Rendering: Aspose.Cells PHP 24.3"
+description: "PHP developers can use optimized Excel to HTML conversion, improved control, better rendering & more with Aspose.Cells PHP via Java 24.3. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/php/new-releases/aspose.cells-for-php-via-java-24.3/"
@@ -43,8 +43,43 @@ weight: 51
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/php/release-notes/2024/aspose-cells-for-php-via-java-24-3-release-notes/'>https://releases.aspose.com/cells/php/release-notes/2024/aspose-cells-for-php-via-java-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for PHP via Java 24.3</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for PHP via Java 24.3.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+
+### Improved HTML Export
+
+Aspose.Cells for PHP via Java 24.3 enhances your HTML export capabilities with new features like specifying default folders and improved handling of empty cells.
+
+### Faster Saving Process
+
+PHP developers can now experience a more responsive saving process and streamline working with large HTML files.
+
+### Enhanced Rendering
+
+With the latest update, you will get an accurate rendering of text characters and chart elements when converting Excel spreadsheets to PDF.
+
+### Farewell to Outdated APIs
+
+We have removed several of obsolete APIs to simplify the development experience and promote the use of current best practices.
+
+### Bug Fixes
+
+Numerous issues related to characters shifting upwards in generated PDFs, formatting, formulas in the pivot table field, and handling of chart areas in exported PDFs and PNG files have been resolved.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for PHP via Java 24.3 Release Notes](https://releases.aspose.com/cells/php/release-notes/2024/aspose-cells-for-php-via-java-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

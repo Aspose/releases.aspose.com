@@ -27,7 +27,7 @@ This page contains release notes information for [Aspose.BarCode for Java 24.4](
 |BARCODENET-38936| Error with Pdf417 recognition                                                                                         | Bug          |
 |BARCODENET-38929| Add support of new QualitySettings structure to Aztec barcode engine                                                  | Enhancement  |
 |BARCODEJAVA-1796| Aspose.Barcode 24.2 for Java com.aspose.barcode.complexbarcode.MaxiCodeStructuredCodetext.setPostalCode() is not public| Bug          |
-|BARCODEJAVA-1796| Improve the performance of the product| Enhancement|          |
+|BARCODEJAVA-1798| Improve the performance of the product| Enhancement|          |
 
 ## Public API changes and backwards compatibility
 Added method com.aspose.barcode.complexbarcode.MaxiCodeStructuredCodetext.setPostalCode(String)
