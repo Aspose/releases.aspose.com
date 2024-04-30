@@ -37,4 +37,4 @@ Please copy **ONLY ONE** jar library according to the version of installed Jas
 
 |Key|Summary|Category|
 | :- | :- | :- |
-| WORDSJR-370 | Upgrade to the latest version of [Aspose.Words for Java (24.4)](/words/java/release-notes/2023/aspose-words-for-java-24-4-release-notes/) | New feature |
+| WORDSJR-370 | Upgrade to the latest version of [Aspose.Words for Java (24.4)](/words/java/release-notes/2024/aspose-words-for-java-24-4-release-notes/) | New feature |
