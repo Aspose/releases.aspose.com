@@ -55,6 +55,7 @@ productLink: https://products.aspose.com/note/java/
 releaseNotesLink: https://releases.aspose.com/note/java/release-notes/
 dataFolder: aspose_note
 packages_refs:
+- "24-4"
 - "23-11"
 - "23-9"
 - "23-7"
