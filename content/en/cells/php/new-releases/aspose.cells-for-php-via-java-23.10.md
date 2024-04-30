@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-php-via-java-23.10"
-description: " "
+title: "Empower Spreadsheet Processing Apps: PHP Excel API 23.10"
+description: "Download Aspose.Cells for PHP via Java 23.10 which includes bug fixes for Excel to PDF conversion, chart rendering, and more enhancements for developers."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/php/new-releases/aspose.cells-for-php-via-java-23.10/"
@@ -43,8 +43,49 @@ weight: 46
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/php/release-notes/2023/aspose-cells-for-php-via-java-23-10-release-notes/'>https://releases.aspose.com/cells/php/release-notes/2023/aspose-cells-for-php-via-java-23-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for PHP via Java 23.10</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for PHP via Java 23.10.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Improved Rendering Accuracy 
+
+Aspose.Cells for PHP via Java 23.10 brings enhanced rendering of vertical text, charts, and cell data in various output formats like PDF and HTML.
+
+### Streamlined Data Handling 
+
+We have ensured proper handling of numeric values with specific locales and cell data offset during conversions in this PHP Excel API release.
+
+### Enhanced Formula Calculation
+
+The latest update includes optimized formula calculation by resolving issues causing calculation hangups and inaccurate decimal rounding.
+
+### Bug Fixes
+
+Various bugs and issues related to vertical text positioning, rounded rectangle rendering in PDF conversion, formula calculation issues, and data formatting discrepancies have been resolved.
+
+### Public API Changes
+
+In this release, we have introduced new methods for: 
+
+- Setting default sheet names for automatically added worksheets (GlobalizationSettings.GetDefaultSheetName())
+- Cropping pictures in inches (MsoFormatPicture properties)
+- Checking if a range is empty (Range.IsBlank())
+- Adding hyperlinks to ranges (Range.AddHyperlink())
+- Creating user forms in VBA projects (VbaModuleCollection.AddUserForm())
+- Copying multiple worksheets together (WorksheetCollection.AddCopy())
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for PHP via Java 23.10 Release Notes](https://releases.aspose.com/cells/php/release-notes/2023/aspose-cells-for-php-via-java-23-10-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

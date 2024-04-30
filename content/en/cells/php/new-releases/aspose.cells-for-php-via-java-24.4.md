@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-php-via-java-24.4"
-description: " "
+title: "Enhance Excel Apps in PHP | Spreadsheet Processing API 24.4"
+description: "Boost your PHP apps with effortless Excel processing! Aspose.Cells PHP via Java 24.4 delivers image insertion, column width retrieval & more. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/php/new-releases/aspose.cells-for-php-via-java-24.4/"
@@ -43,8 +43,47 @@ weight: 52
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/php/release-notes/2024/aspose-cells-for-php-via-java-24-4-release-notes/'>https://releases.aspose.com/cells/php/release-notes/2024/aspose-cells-for-php-via-java-24-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for PHP via Java 24.4</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for PHP via Java 24.4.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+
+### Effortlessly Embed Images in Cells
+
+Aspose.Cells for PHP via Java 24.4 enables seamless image insertion directly into cells and streamlines your Excel file creation process.
+
+### Retrieve Original Column Widths
+
+You can now gain precise control over column dimensions with the new `Cells.GetColumnOriginalWidthPoint()` method and enhance your Excel apps in PHP.
+
+### Enhanced Excel File Handling
+
+With the latest update to the spreadsheet processing API, you will experience improved reliability when copying images and shapes between Excel files.
+
+### API Enhancements
+
+This release removed several obsolete properties and methods in favor of their more current counterparts. We have introduced several new properties and methods for improved control over HTML table loading, saving options, and retrieving column width information.
+
+### Bug Fixes
+
+- Character conversion during PDF generation (CELLSJAVA-45906)
+- Chart formatting (CELLSJAVA-45870)
+- HTML conversion accuracy (CELLSJAVA-45874, CELLSJAVA-45892, CELLSJAVA-45897, CELLSJAVA-45899, CELLSJAVA-45902)
+- Pivot table functionality (CELLSJAVA-45864, CELLSJAVA-45879)
+- Data integrity during HTML conversion (CELLSJAVA-45915)
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for PHP via Java 24.4 Release Notes](https://releases.aspose.com/cells/php/release-notes/2024/aspose-cells-for-php-via-java-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

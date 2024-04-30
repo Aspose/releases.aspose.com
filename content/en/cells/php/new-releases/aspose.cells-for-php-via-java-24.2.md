@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-php-via-java-24.2"
-description: " "
+title: "Formula Calculation & EMF Files | PHP Spreadsheets API 24.2"
+description: "Upgrade PHP apps with powerful Excel processing! Aspose.Cells PHP via Java 24.2 brings reduced EMF file size, formula calculation & more. Download now! "
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/php/new-releases/aspose.cells-for-php-via-java-24.2/"
@@ -43,8 +43,39 @@ weight: 50
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/php/release-notes/2024/aspose-cells-for-php-via-java-24-2-release-notes/'>https://releases.aspose.com/cells/php/release-notes/2024/aspose-cells-for-php-via-java-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for PHP via Java 24.2</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for PHP via Java 24.2.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+
+### Reduced EMF File Size
+
+Version 24.2 of the PHP spreadsheets API enables exporting Excel sheets to EMF format with significantly smaller file sizes, helping in optimizing storage and transmission.
+
+### Improved XLT Rendering
+
+PHP developers will now enjoy accurate rendering of drawings and text when converting XLT files (Excel Template) to PDF.
+
+### Optimized Formula Calculation
+
+With the latest update to Aspose.Cells for PHP via Java, you can get accurate results from formula calculations and ensure data integrity in your PHP apps.
+
+### Multiple Bug Fixes
+
+This release includes various bug fixes for HTML rendering, conditional formatting, and chart axis labels, providing a more stable development experience.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for PHP via Java 24.2 Release Notes](https://releases.aspose.com/cells/php/release-notes/2024/aspose-cells-for-php-via-java-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
