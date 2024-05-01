@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-node.js-via-java-23.12"
-description: " "
+title: "Build Powerful Excel Apps with Node.js Spreadsheet API v23.12"
+description: "Aspose.Cells Node.js via Java 23.12 empowers Node.js developers with new features like MAKEARRAY function & style information retrieval. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/nodejs/new-releases/aspose.cells-for-node.js-via-java-23.12/"
@@ -43,8 +43,42 @@ weight: 38
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/nodejs/release-notes/2023/aspose-cells-for-node-js-via-java-23-12-release-notes/'>https://releases.aspose.com/cells/nodejs/release-notes/2023/aspose-cells-for-node-js-via-java-23-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for Node.js via Java 23.12</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for Node.js via Java 23.12 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Array Creation Ability
+
+The introduction of the `MAKEARRAY` function in version 23.12 of the Node.js spreadsheet API simplifies array creation within spreadsheets.
+
+### Dynamic Data Sourcing
+
+Developers can effectively leverage JSON as a data source for smart markers to enable a flexible content population workflow.
+
+### Style Insights
+
+The latest update to Aspose.Cells for Node.js via Java enables gaining valuable insights into styles with the ability to retrieve "Style Includes" information.
+
+### Performance Boost
+
+You can calculate shared formulas recursively and experience significantly improved performance.
+
+### Empower Your Spreadsheets
+
+Aspose.Cells for Node.js via Java 23.12 delivers a host of improvements and upgrades for you to build powerful Excel processing apps. This release addresses various bugs related to formula calculations, file conversions, and more.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for Node.js via Java 23.12 Release Notes](https://releases.aspose.com/cells/nodejs/release-notes/2023/aspose-cells-for-node-js-via-java-23-12-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
