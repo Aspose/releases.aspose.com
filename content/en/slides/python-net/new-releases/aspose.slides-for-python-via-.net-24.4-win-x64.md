@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-python-via-.net-24.4-win-x64"
-description: " "
+title: "ZIP64, Video Conversion: Aspose.Slides Python 24.4 (Win x64)"
+description: "Unleash the power of PowerPoint manipulation with ZIP64 support, convert to video & more on Windows x64. Download Aspose.Slides Python .NET 24.4 now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-24.4-win-x64/"
@@ -43,8 +43,73 @@ weight: 90
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-4-release-notes/'>https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Presentation Manipulation Python API</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Slides for Python via .NET 24.4 release for Windows 64-bit systems.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+This release of Aspose.Slides for Python via .NET 24.4 includes different new features and enhancements that empower your presentation apps on Windows x64 machines.
+
+### ZIP64 Support for Presentations
+
+The latest update to our PowerPoint API enables saving large presentations exceeding 4GB in ZIP64 format for broader compatibility using the newly added `PptxOptions.zip64_mode` property. This Python code example illustrates how to apply ZIP64 compression using the new property.
+
+```Python
+import aspose.slides as slides
+
+with slides.Presentation("demo.pptx") as pres:
+    pptx_options = slides.export.PptxOptions()
+    pptx_options.zip_64_mode = slides.export.Zip64Mode.ALWAYS
+    pres.save("demo-zip64.pptx", slides.export.SaveFormat.PPTX, pptx_options)
+
+```
+*[Source\*](https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-4-release-notes/)*
+
+### Seamless Video Conversion
+
+Python developers can now build PowerPoint conversion apps to seamlessly convert presentations to video with animations and transitions within their apps running on Windows 64-bit systems using the new `PresentationEnumerableFramesGenerator` class and the `enumerate_frames` method of this class. Please check out the following sample code to learn more about this feature.
+
+```Python
+import aspose.slides as slides
+
+fps = 30
+
+with slides.Presentation("animated.pptx") as presentation:
+    with slides.export.PresentationEnumerableFramesGenerator(presentation, fps) as frames_generator:
+        for frame_args in frames_generator.enumerate_frames(presentation.slides):
+            frame_args.get_frame().save("frame_{}.png".format(frame_args.frames_generator.frame_index))
+```
+*[Source\*](https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-4-release-notes/)*
+
+### Modern API Transition
+
+We have introduced a future-proof and modern API with reduced dependencies on various `aspose.pydrawing` classes. A few new API members have been incorporated into the updated API, such as `IImage`, `ImageFormat`, and `Images`, which offer advanced image processing functionality. 
+
+### Enhanced PDF Export
+
+With this release, you can ensure high-fidelity text rendering in PDFs with the `PdfOptions.rasterize_unsupported_font_styles` property. This property helps you rasterize the fonts with bold styling and save them to PDF, as demonstrated in the following sample code.
+
+```Python
+import aspose.slides as slides
+
+with slides.Presentation() as pres:
+    pdf_options = slides.export.PdfOptions()
+    pdf_options.rasterize_unsupported_font_styles = True
+    pres.save("pres.pdf", slides.export.SaveFormat.PDF, pdf_options)
+```
+*[Source\*](https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-4-release-notes/)*
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for Python via .NET 24.4 Release Notes](https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
