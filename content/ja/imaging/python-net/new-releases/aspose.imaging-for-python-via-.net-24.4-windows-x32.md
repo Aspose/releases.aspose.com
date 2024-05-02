@@ -10,7 +10,7 @@ download_link: "/imaging/python-net/new-releases/aspose.imaging-for-python-via-.
 download_text: "ダウンロード"
 intro_text: ".NET 24.4、Windows x32 リリースを介した Python 用の Aspose.Imaging が含まれています"
 image_link: "/resources/img/random-file-icon.png"
-download_count: " 4/4/2024 ダウンロードs: 1  Views: 1 "
+download_count: " 4/4/2024 ダウンロードs: 2  Views: 1 "
 file_size: "File Size: 53.88MB"
 parent_path: "imaging/python-net"
 section_parent_path: "imaging/python-net"
@@ -31,7 +31,7 @@ weight: 16
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} ダウンロードs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-d14b1bbf2ea52e1e819e0dc6c974e075-11-10606" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-d14b1bbf2ea52e1e819e0dc6c974e075-11-10606" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} ファイルサイズ: {{< /Common/li >}}
       {{< Common/li id="size-update-d14b1bbf2ea52e1e819e0dc6c974e075-11-10606" >}} 53.88MB {{< /Common/li >}}
 

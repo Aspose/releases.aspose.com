@@ -10,7 +10,7 @@ download_link: "/imaging/python-net/new-releases/aspose.imaging-for-python-via-.
 download_text: "İndirmek"
 intro_text: "Aspose.Imagingfor Python via .NET 24.4, Windows x32 sürümünü içerir"
 image_link: "/resources/img/random-file-icon.png"
-download_count: " 4/4/2024 İndirmeks: 1  Views: 1 "
+download_count: " 4/4/2024 İndirmeks: 2  Views: 1 "
 file_size: "File Size: 53.88MB"
 parent_path: "imaging/python-net"
 section_parent_path: "imaging/python-net"
@@ -31,7 +31,7 @@ weight: 16
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} İndirmeks: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-d14b1bbf2ea52e1e819e0dc6c974e075-11-10606" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-d14b1bbf2ea52e1e819e0dc6c974e075-11-10606" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} Dosya boyutu: {{< /Common/li >}}
       {{< Common/li id="size-update-d14b1bbf2ea52e1e819e0dc6c974e075-11-10606" >}} 53.88MB {{< /Common/li >}}
 
