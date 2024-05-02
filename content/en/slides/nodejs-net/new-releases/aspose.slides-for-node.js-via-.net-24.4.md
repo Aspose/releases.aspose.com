@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-node.js-via-.net-24.4"
-description: " "
+title: "XML Export, ZIP64 Support & More: Aspose.Slides Node.js 24.4"
+description: "Download Aspose.Slides for Node.js via .NET 24.4 and upgrade your PowerPoint apps with ZIP64 format support, export presentations to XML & a modern API."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/nodejs-net/new-releases/aspose.slides-for-node.js-via-.net-24.4/"
@@ -45,6 +45,44 @@ weight: 2
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for Node.js via .NET 24.4 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### An Updated API
+
+We are transitioning to a modern Aspose.Slides API that will gradually replace dependencies on `System.Drawing` for a more streamlined development experience. New classes and enums like `IImage`, `ImageFormat`, and `Images` facilitate image handling within the updated API.
+
+### ZIP64 Support for Presentations
+
+With the help of the newly added `PptxOptions.Zip64Mode` in Aspose.Slides for Node.js via .NET 24.4, developers can save presentations in ZIP64 format for presentations exceeding the limitations of traditional ZIP formats.
+
+### XML Presentation Export
+
+You can easily export your presentations to the PowerPoint XML format with the help of the new `SaveFormat.Xml` enum member.
+
+### Improved Text Extraction
+
+Experience accurate text extraction from group shapes when converting presentations to various formats using the latest release of the Node.js presentation API.
+
+### Detect Password-Protected Macros
+
+The ability to detect if presentation macros are password-protected has been introduced.
+
+### Bug Fixes
+
+In this version of Aspose.Slides for Node.js via .NET, numerous bug fixes address issues related to comments, thumbnails, tables, charts, text extraction, and image handling during presentation processing.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for Node.js via .NET 24.4 Release Notes](https://releases.aspose.com/slides/nodejs-net/release-notes/2024/aspose-slides-for-nodejs-via-net-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
