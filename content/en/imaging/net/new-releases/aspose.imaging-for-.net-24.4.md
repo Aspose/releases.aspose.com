@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.imaging-for-.net-24.4"
-description: " "
+title: "DICOM Tags, PNG & EPS Upgrades | C# Image API 24.4 (MSI)"
+description: "Empower your C# imaging apps with options to modify DICOM tags, improved PNG loading & EPS export. Download Aspose.Imaging for .NET 24.4 MSI today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/imaging/net/new-releases/aspose.imaging-for-.net-24.4/"
@@ -43,8 +43,69 @@ weight: 379
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-4-release-notes/'>https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Imaging for .NET 24.4 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Imaging for .NET 24.4 release (MSI installer).</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### DICOM Tags Editing
+
+This release of the C# image API includes the ability to modify DICOM tags using the public API and empowers developers to manage medical image data effectively. This code example highlights how to modify DICOM tags within your C# apps:
+
+```C#
+using (DicomImage image = (DicomImage)Image.Load("ttfm.dcm"))
+{
+    image.FileInfo.UpdateTagAt(33, "Test Patient"); // "Patient's Name"
+    image.FileInfo.AddTag("Angular View Vector", 234);
+    image.FileInfo.RemoveTagAt(29); // "Station Name"
+
+    image.Save("output.dcm");
+}
+
+```
+*[Source\*](https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-4-release-notes/)*
+
+
+### EMF to PDF Text Wrapping
+
+Aspose.Imaging for .NET 24.4 offers text wrapping functionality for optimized EMF to PDF conversion and ensures proper text rendering in the output PDF, as illustrated in the following coding snippet:
+
+```C#
+ using (var emfImage = (EmfImage)Aspose.Imaging.Image.Load("D:\\50123_pg1.emf"))
+ {
+     // The original canvas is too large, resize to A4, 72 DPI
+     emfImage.ResizeCanvas(new Imaging.Rectangle(0, 0, 595, 842));
+     emfImage.Save("D:\\50123_pg1.pdf");
+ }
+
+```
+*[Source\*](https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-4-release-notes/)*
+
+### Enhanced Exports
+
+We have implemented various enhancements in this release for improved document export capability. This allows improved EPS to SVG export by removing processing errors and provides a significant performance boost for large SVG exports. Additional improvements for PS (EPS) file export ensure accurate results.
+
+### Optimized PNG Loading
+
+Efficiently handle the loading or reading of PNG files and enhance image processing stability within your C# imaging apps.
+
+### New API Additions
+
+A collection of new APIs added with this update empowers developers to achieve more with Aspose.Imaging for .NET. These include methods for getting serialized streams, updating containers, and managing DICOM image information.
+
+Download the MSI installer for version 24.4 of our .NET imaging API today and start developing feature-rich image processing solutions.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Imaging for .NET 24.4 Release Notes](https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
