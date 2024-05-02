@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-php-via-java-24.3"
-description: " "
+title: "Aspose.Slides PHP (24.3) | Improved Hyperlink Access & More"
+description: "Aspose.Slides for PHP via Java 24.3 empowers developers with a refined approach to hyperlink management and includes various bug fixes. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/php-java/new-releases/aspose.slides-for-php-via-java-24.3/"
@@ -45,6 +45,43 @@ weight: 23
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for PHP via Java 24.3 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Enhanced Hyperlink Management
+
+The new `IHyperlink.ExternalUrlOriginal` property introduced in Aspose.Slides for PHP via Java 24.3 provides developers with the ability to retrieve the original URL assigned to a hyperlink. Please check out the following PHP sample code to learn more about the property usage:
+
+```PHP
+$presentation = new Presentation("pres.pptx");
+
+$portion = $presentation->getSlides()->get_Item(0)->getShapes()->get_Item(1)->getTextFrame()->getParagraphs()->get_Item(0)->getPortions()->get_Item(0);
+
+$externalUrl = $portion->getPortionFormat()->getHyperlinkClick()->getExternalUrl(); // fake
+$externalUrlOriginal = $portion->getPortionFormat()->getHyperlinkClick()->getExternalUrlOriginal(); // real
+
+echo $externalUrl . "\n";
+echo $externalUrlOriginal . "\n";
+
+```
+*[Source\*](https://releases.aspose.com/slides/php-java/release-notes/2024/aspose-slides-for-php-via-java-24-3-release-notes/)*
+
+
+### Bug Fixes and Enhancements
+
+This release of the PHP PowerPoint API incorporates different bug fixes to improve overall stability and performance for developers.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for PHP via Java 24.3 Release Notes](https://releases.aspose.com/slides/php-java/release-notes/2024/aspose-slides-for-php-via-java-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-php-via-java-23.11"
-description: " "
+title: "PDF generation, SVG conversion with Aspose.Slides PHP 23.11"
+description: "Download Aspose.Slides for PHP via Java 23.11 and add PDF generation, SVG conversion, cell splitting & more to your PHP presentation processing apps."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/php-java/new-releases/aspose.slides-for-php-via-java-23.11/"
@@ -45,6 +45,40 @@ weight: 19
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for PHP via Java 23.11 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Improved Image Rendering in PDF Exports
+
+We have enhanced EMF image rendering in Aspose.Slides for PHP via Java 23.11 by fixing issues related to the print preview functionality for generated PDF documents.
+
+### Enhanced Paragraph Coordinate Retrieval
+
+The coordinates of paragraphs are now returned accurately which ensures proper positioning during presentation manipulation.
+
+### Accurate SVG to EMF Conversion
+
+Developers can experience conversion accuracy with text and background elements preserved during SVG to EMF conversion and maintain presentation fidelity.
+
+### Table Cell Splitting and Centering
+
+With the latest update to the PHP API, users can split a cell within a table and retrieve its precise center for further customization.
+
+### Bug Fixes
+
+This release delivers various bug fixes related to unexpected background changes during file loading/saving, missing underline formatting in converted presentations, and `NullPointerExceptions` during PPTX to ODP conversion. 
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for PHP via Java 23.11 Release Notes](https://releases.aspose.com/slides/php-java/release-notes/2023/aspose-slides-for-php-via-java-23-11-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

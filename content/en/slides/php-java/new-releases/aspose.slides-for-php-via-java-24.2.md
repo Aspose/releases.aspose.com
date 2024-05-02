@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-php-via-java-24.2"
-description: " "
+title: "Convert Math to LaTeX in Your PHP Apps | Aspose.Slides 24.2"
+description: "Experience improved presentation processing in Aspose.Slides PHP Java 24.2. Convert math equations to LaTeX & export comments in HTML5. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/php-java/new-releases/aspose.slides-for-php-via-java-24.2/"
@@ -45,6 +45,64 @@ weight: 22
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for PHP via Java 24.2 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Convert Math Equations to LaTex
+
+A new `IMathParagraph.toLatex` method was added to Aspose.Slides for PHP via Java 24.2, which allows seamless conversion of math text within your presentations to LaTex format. This code example demonstrates the feature usage:
+
+```PHP
+$pres = new Presentation();
+$slide = $pres->getSlides()->get_Item(0);
+$shape = $slide->getShapes()->addMathShape(50, 50, 200, 200);
+$mathParagraph = $shape->getTextFrame()->getParagraphs()->get_Item(0)->getPortions()->get_Item(0)->getMathParagraph();
+
+$mathTextA = new MathematicalText("a");
+$mathTextB = new MathematicalText("b");
+$mathParagraph->add($mathTextA->join("+")->join($mathTextB->join("=")->join(new MathematicalText("c"))));
+$mathLatex = $mathParagraph->toLatex();
+
+echo $mathLatex;
+
+
+```
+*[Source\*](https://releases.aspose.com/slides/php-java/release-notes/2024/aspose-slides-for-php-via-java-24-2-release-notes/)*
+
+
+### Enhanced HTML5 Export with Comments
+
+The `Html5Options.NotesCommentsLayouting` property in the latest update to the PHP API enables exporting presentations with comments in HTML5 format, offering a richer user experience for your presentation processing apps. The following sample code highlights property usage:
+
+```PHP
+$pres = new Presentation("test.pptx");
+$notesCommentsLayoutingOptions = new NotesCommentsLayoutingOptions();
+$notesCommentsLayoutingOptions->setNotesPosition(NotesPositions::BottomTruncated);
+$html5Options = new Html5Options();
+$html5Options->setNotesCommentsLayouting($notesCommentsLayoutingOptions);
+$html5Options->setOutputPath("test_pptx");
+
+$pres->save("index.html", SaveFormat::Html5, $html5Options);
+
+
+```
+*[Source\*](https://releases.aspose.com/slides/php-java/release-notes/2024/aspose-slides-for-php-via-java-24-2-release-notes/)*
+
+### Improved Rendering and Bug Fixes
+
+Developers can now experience enhanced rendering accuracy for charts in converted PNG images. Furthermore, we have fixed various bugs related to PPTX/ODP conversion, chart display, and shape effects.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for PHP via Java 24.2 Release Notes](https://releases.aspose.com/slides/php-java/release-notes/2024/aspose-slides-for-php-via-java-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
