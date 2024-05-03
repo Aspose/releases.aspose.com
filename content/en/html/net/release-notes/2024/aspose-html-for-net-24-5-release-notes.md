@@ -42,13 +42,13 @@ namespace Aspose.Html.Dom.Svg
     /// </summary>
     /// <seealso cref="Dom.Document" />
     /// <seealso cref="Dom.Events.IDocumentEvent" />
-    public class SVGDocument {
+    public class SVGDocument
     {
         Aspose.Html.Dom.Svg.SVGDocument.Save(Aspose.Html.IO.IOutputStorage);
 
         Aspose.Html.Dom.Svg.SVGDocument.Save(Aspose.Html.IO.IOutputStorage,Aspose.Html.Dom.Svg.Saving.SVGSaveFormat);
 
-        Aspose.Html.Dom.Svg.SVGDocument.Save(Aspose.Html.IO.IOutputStorage,Aspose.Html.Dom.Svg.Saving.SVGSaveOptions)
+        Aspose.Html.Dom.Svg.SVGDocument.Save(Aspose.Html.IO.IOutputStorage,Aspose.Html.Dom.Svg.Saving.SVGSaveOptions);
     }
 }
 
@@ -69,7 +69,7 @@ namespace Aspose.Html
     /// </summary>
     public class HTMLDocument
     {
-        Aspose.Html.HTMLDocument.Save(Aspose.Html.IO.IOutputStorage)
+        Aspose.Html.HTMLDocument.Save(Aspose.Html.IO.IOutputStorage);
 
         Aspose.Html.HTMLDocument.Save(Aspose.Html.IO.IOutputStorage,Aspose.Html.Saving.HTMLSaveFormat);
 
