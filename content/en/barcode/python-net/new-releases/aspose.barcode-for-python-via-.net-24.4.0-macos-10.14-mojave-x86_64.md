@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-python-via-.net-24.4.0-macos-10.14-mojave-x86_64"
-description: " "
+title: "QR Code Detection (macOS  x64): Python Barcode API 24.4"
+description: "Add Unicode character detection in QR codes & DataMatrix barcode generation to your apps on macOS x64. Download Aspose.BarCode Python .NET 24.4 now."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/python-net/new-releases/aspose.barcode-for-python-via-.net-24.4.0-macos-10.14-mojave-x86_64/"
@@ -45,6 +45,39 @@ weight: 42
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This wheel contains Aspose.BarCode for Python via .NET version 24.4.0, built for macOS 10.14 (Mojave) and targeting the x86_64 architecture.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Python developers working on macOS x64 systems can utilize the updated QR code reading and DataMatrix generation features added to Aspose.BarCode for Python via .NET 24.4.0 and optimize their development workflows.
+
+### Support for Unicode Character Detection in QR Codes
+
+We have added support for detecting Unicode characters in QR codes to the latest version of the Python barcode API. With this feature, you can build barcode and QR code recognition apps targeting macOS x64 systems with an expanded feature set.
+
+### Recognize DataMatrix Barcodes on Apple Mac
+
+You can get your hands on enhanced `DataMatrix` barcode recognition functionality with the new `QualitySettings` structure in this release of the Aspose.BarCode for Python via .NET API.
+
+### Bug Fixes
+
+Various bug fixes have also been added to this release of the Python API.
+- QR code recognition test failed on .NET Core issue is fixed (BARCODENET-38963).
+- Fixed Reed-Solomon error encoding for `DotCode` barcodes (BARCODENET-38962).
+- Resolved the `BarCodeReader` detected unexpected `DecodeType` issue (BARCODENET-38943).
+- `DotCode` is generated with an incorrect size (BARCODENET-38969).
+- Fixed wide bars width of start-stop patterns for `Standard2of5` and `IATA2of5` encoders (BARCODENET-38961).
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for Python via .NET 24.4.0 Release Notes](https://releases.aspose.com/barcode/python-net/release-notes/2024/aspose-barcode-for-python-via-dotnet-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
