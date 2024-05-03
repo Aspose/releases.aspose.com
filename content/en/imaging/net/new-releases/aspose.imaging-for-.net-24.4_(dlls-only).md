@@ -83,7 +83,7 @@ Aspose.Imaging for .NET 24.4 provides text wrapping functionality for optimized 
 ```
 *[Source\*](https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-4-release-notes/)*
 
-### Optimied Exports
+### Optimized Exports
 
 The latest release of the C# API brings different enhancements for updated document export functionality. Developers can enjoy improved EPS to SVG exports by removing processing errors and experiencing a significant performance boost for large SVG exports. Additional improvements for PS (EPS) file export ensure accurate results.
 

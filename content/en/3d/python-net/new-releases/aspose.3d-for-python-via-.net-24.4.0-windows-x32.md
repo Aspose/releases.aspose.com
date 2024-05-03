@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.3d-for-python-via-.net-24.4.0-windows-x32"
-description: " "
+title: "Import Blender 3D Files on Win x32 with Aspose.3D Python 24.4"
+description: "Download Aspose.3D for Python via .NET 24.4 and enhance 3D workflows with new Blender file import support & DXF to GLTF conversion on Windows x32."
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/python-net/new-releases/aspose.3d-for-python-via-.net-24.4.0-windows-x32/"
@@ -45,6 +45,30 @@ weight: 63
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for Python via .NET 24.4.0 Windows x32.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+The latest release of Aspose.3D for Python via .NET brings an exciting new feature and other enhancements for Python developers working on Windows 32-bit systems.
+
+### Introducing Support for Blender File Import
+
+We are glad to announce that you can import Blender 3D files with Aspose.3D for Python via .NET 24.4.0. It enables the seamless import of 3D models created with the popular Blender software and takes your 3D file-processing apps to the next level.
+
+### Improved DXF to GLTF Conversion
+
+You can now experience enhanced DXF file handling during conversion to GLTF format on Windows x32 machines.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.3D for Python via .NET 24.4.0 Release Notes](https://releases.aspose.com/3d/python-net/release-notes/2024/aspose-3d-for-python-net-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

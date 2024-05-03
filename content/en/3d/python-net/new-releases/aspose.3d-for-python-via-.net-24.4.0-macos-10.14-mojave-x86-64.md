@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.3d-for-python-via-.net-24.4.0-macos-10.14-mojave-x86-64"
-description: " "
+title: "Import Blender 3D Files on macOS x64: Aspose.3D Python 24.4"
+description: "Enhance your Mac development with Aspose.3D Python via .NET 24.4. Leverage new Blender  file import & improved DXF to GLTF conversion. Download now! "
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/python-net/new-releases/aspose.3d-for-python-via-.net-24.4.0-macos-10.14-mojave-x86-64/"
@@ -45,6 +45,30 @@ weight: 62
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for Python via .NET 24.4.0 macOS 10.14 Mojave x86-64.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Aspose.3D for Python via .NET 24.4.0 includes new features and improvements for Python developers working on macOS x64 systems.
+
+### Support for Blender File Import
+
+With the latest update to our 3D API, you can seamlessly import 3D files made with the Blender software. This newly added capability allows you to take your Python 3D app running on macOS x64 machines to the next level.
+
+### DXF to GLTF Conversion Improvements
+
+Aspose.3D for Python via .NET 24.4.0 enables improved DXF file handling while converting to GLTF format on your Apple Mac.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.3D for Python via .NET 24.4.0 Release Notes](https://releases.aspose.com/3d/python-net/release-notes/2024/aspose-3d-for-python-net-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
