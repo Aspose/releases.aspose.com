@@ -21,7 +21,7 @@ This page contains release notes for [Aspose.Words for .NET 24.5](https://www.nu
 
 ## Major Features
 
-There are 115 improvements and fixes in this regular monthly release. The most notable are:
+There are 116 improvements and fixes in this regular monthly release. The most notable are:
 
 - Included .NET 7.0/8.0 assemblies in the Aspose.Words NuGet package.
 - Implemented a function to eliminate empty pages from the document.
@@ -59,6 +59,7 @@ There are 115 improvements and fixes in this regular monthly release. The most n
 |WORDSNET-26898|Add .NET 8.0 assemblies to the release build|New Feature
 |WORDSNET-26701|Implement a two-color gradient rendering with interpolation based on splines|New Feature
 |WORDSNET-26867|Implement DML gamma and inverseGamma color modifiers|New Feature
+|WORDSNET-25746|Add Complex Controls to Shapes|New Feature
 |WORDSNET-13167|Support creation of Combo Charts or Dual-Axis Charts|Enhancement
 |WORDSNET-19242|Combo Charts or Dual-Axis Charts in document|Enhancement
 |WORDSNET-15383|DOCX to PDF conversion issue with cell's text|Enhancement
