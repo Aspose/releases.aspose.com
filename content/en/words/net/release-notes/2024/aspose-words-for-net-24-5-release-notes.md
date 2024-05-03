@@ -430,7 +430,6 @@ A new public property **HasMacros** has been added to class **FileFormatInfo**:
 /// Returns <c>true</c> if this document contains a VBA macros.
 /// </summary>
 public bool HasMacros { get; }
-}
 {{< /highlight >}}
 
 This use case explains how to check for the presence of VBA macros without loading the document:
