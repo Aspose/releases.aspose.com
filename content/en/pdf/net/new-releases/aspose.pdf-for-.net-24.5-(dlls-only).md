@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-.net-24.5-(dlls-only)"
-description: " "
+title: "C# PDF API 24.5 (DLLs): Powerful Library to Boost Productivity"
+description: "Integrate PDF processing features into .NET projects. Download Aspose.PDF .NET 24.5 DLLs package & add layer management, printer marks & more in PDFs."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/net/new-releases/aspose.pdf-for-.net-24.5-(dlls-only)/"
@@ -45,6 +45,46 @@ weight: 877
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.PDF for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.PDF without the MSI installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Take your .NET PDF processing solutions to the next level with Aspose.PDF for .NET 24.5. Download the DLLs-only package of the latest library release and add a range of exciting new features and enhancements to your C# apps. 
+
+### Enhanced PDF Annotation
+
+By adding industry-standard printer marks (trim, bleed, and registration) to your PDF documents with this update to the C# PDF API, you can generate a professional outlook for your PDFs. 
+
+### Manage Layered PDFs
+
+Aspose.PDF for .NET 24.5 enables efficient control of the layered PDF documents with the ability to merge all layers into one, extract individual layers for separate use, and lock or unlock layers for focused editing.
+
+### Simplified SVG Extraction
+
+You can extract vector graphics elements from their PDFs with greater precision using this API release and save each detected path as a single SVG file for optimal usability. It is now possible to convert specific vector graphics elements within a PDF to SVG format. 
+
+### Improved Functionality
+
+Version 24.5 of the C# API lets you boost productivity with various improvements, such as the capability to monitor the progress of PDF to DOCX conversion, improved handling of non-seekable streams, and more.
+
+### Resolved Issues
+
+We have fixed various problems and added bug fixes in this update related to PDF layer handling, page numbering, document conversion, and more. 
+
+### Public API and Backward Incompatible Changes
+
+Many new methods and classes have been added to support the new features, while different API members have been removed, offering a powerful API usage experience.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for .NET 24.5 Release Notes](https://releases.aspose.com/pdf/net/release-notes/2024/aspose-pdf-for-net-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.finance-for-python-via-.net-24.4.0-windows-32-bit"
-description: " "
+title: "Convert OFX to Excel: Aspose.Finance Python API 24.4 (Win32)"
+description: "Boost Python financial data processing on Windows x32. Download Aspose.Finance for Python via .NET 24.4 for improved OFX to Excel & CSV conversion."
 keywords: ""
 page_type: single_release_page
 folder_link: "/finance/python-net/new-releases/aspose.finance-for-python-via-.net-24.4.0-windows-32-bit/"
@@ -45,6 +45,26 @@ weight: 46
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This package delivers Aspose.Finance for Python via .NET version 24.4.0 for Windows 32-bit, crafted for efficient finance document processing.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Developers can integrate financial data manipulation and conversion capabilities into their apps running on Windows 32-bit systems with Aspose.Finance for Python via .NET 24.4 release.
+
+### OFX Conversion to Excel and CSV
+
+The latest version of the Python API lets you upgrade your Python apps with the ability to seamlessly convert financial data in OFX format to both Excel and CSV file formats and optimize financial data analysis workflows.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Finance for Python via .NET 24.4.0 Release Notes](https://releases.aspose.com/finance/python-net/release-notes/2024/aspose-finance-for-python-via-net-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
