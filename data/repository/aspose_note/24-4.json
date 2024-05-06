@@ -4,7 +4,7 @@
   "artifactId" : "aspose-note",
   "id" : "24-4",
   "packageFiles" : [ {
-    "size" : "531 KB",
+    "size" : "530 KB",
     "name" : "aspose-note-24.4-javadoc.jar",
     "classifier" : "javadoc"
   }, {
@@ -15,7 +15,7 @@
     "size" : "393 bytes",
     "name" : "aspose-note-24.4.pom"
   } ],
-  "releasehDate" : "2024-05-03T16:41:38+00:00",
+  "releasehDate" : "2024-05-06T08:28:50+00:00",
   "version" : "24.4",
   "ReleaseNotes" : "https://releases.aspose.com/note/java/release-notes/2024/aspose-note-for-java-24-4-release-notes/"
 }
