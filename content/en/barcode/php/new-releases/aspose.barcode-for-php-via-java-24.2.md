@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-php-via-java-24.2"
-description: " "
+title: "Aspose.BarCode PHP 24.2: Micro QR, rMQR Barcode & More"
+description: "Upgrade to Aspose.BarCode PHP via Java 24.2 and gain Micro QR & rMQR barcode support, improved quality control & fixes. Download and get started today."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/php/new-releases/aspose.barcode-for-php-via-java-24.2/"
@@ -43,8 +43,50 @@ weight: 69
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/php/release-notes/2024/aspose-barcode-for-php-via-java-24_2-release-notes/'>https://releases.aspose.com/barcode/php/release-notes/2024/aspose-barcode-for-php-via-java-24_2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for PHP via Java 24.2 has been released</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for PHP via Java 24.2 has been released.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+This release of Aspose.BarCode for PHP via Java enables flawless barcode generation and recognition and supports two new barcode types for PHP developers.
+
+### Micro QR & rMQR Barcode Support
+
+You can now generate and recognize Micro QR and rMQR barcodes within your PHP applications and expand your barcode processing capabilities. This code example highlights generating and recognizing the Micro QR code.
+
+```php
+        $codetext = "Aspose";
+        $generator = new BarcodeGenerator(EncodeTypes::MICRO_QR, $codetext);
+        $generator->getParameters()->getBarcode()->getQR()->setMicroQrVersion(MicroQRVersion::M4);
+        $image = $generator->generateBarCodeImage(BarCodeImageFormat::PNG);
+        $reader = new BarCodeReader($image, null, DecodeType::MICRO_QR);
+        $barCodeResults = $reader->readBarCodes();
+        println('CodeText:' . $barCodeResults[0]->getCodeText());
+        println('CodeType: ' . $barCodeResults[0]->getCodeTypeName());
+
+```
+*[Source\*](https://releases.aspose.com/barcode/php/release-notes/2024/aspose-barcode-for-php-via-java-24_2-release-notes/)*
+
+
+### Enhanced `QualitySettings` API
+
+We have improved the `QualitySettings` API with this update of Aspose.BarCode for PHP via Java. It now offers more control over barcode recognition quality with new presets and methods.
+
+### Bug Fixes
+
+Version 24.3 of the barcode API resolves issues related to `DotCode` barcode recognition, license engine character handling, and barcode recognition in specific image formats.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for PHP via Java 24.2 Release Notes](https://releases.aspose.com/barcode/php/release-notes/2024/aspose-barcode-for-php-via-java-24_2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

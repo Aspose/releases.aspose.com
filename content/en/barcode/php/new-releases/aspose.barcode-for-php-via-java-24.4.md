@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-php-via-java-24.4"
-description: " "
+title: "PHP Barcode API 24.4: Improved Recognition & Performance"
+description: "Enhance barcode recognition in your PHP apps. Aspose.BarCode PHP via Java 24.4 tackles QR code & Aztec barcode issues. Download the latest version now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/php/new-releases/aspose.barcode-for-php-via-java-24.4/"
@@ -43,8 +43,40 @@ weight: 71
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/php/release-notes/2024/aspose-barcode-for-php-via-java-24-4-release-notes/'>https://releases.aspose.com/barcode/php/release-notes/2024/aspose-barcode-for-php-via-java-24-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for PHP via Java 24.4 has been released</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for PHP via Java 24.4 has been released.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+We are pleased to announce the release of Aspose.BarCode for PHP via Java 24.4. This update allows PHP developers to use optimized barcode recognition capabilities and upgrade their barcode processing apps.
+
+### Enhanced QR Code Recognition
+
+This release of the PHP barcode API addresses issues with recognizing QR codes featuring rounded targets or darkened or lightened right or bottom sides.
+
+### Improved Aztec Barcode Handling
+
+We have introduced support for the new `QualitySettings` structure in this update within the Aztec barcode engine for better quality control.
+
+### Performance Optimizations
+
+Developers can enjoy overall performance enhancements for seamless integration within their PHP apps.
+
+### Bug Fixes
+
+Various issues with QR code recognition related to rounded targets, darkened or lightened sides, and Pdf417 barcodes have been fixed in the latest update to Aspose.BarCode for PHP via Java API.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for PHP via Java 24.4 Release Notes](https://releases.aspose.com/barcode/php/release-notes/2024/aspose-barcode-for-php-via-java-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

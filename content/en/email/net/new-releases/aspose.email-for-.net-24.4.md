@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.email-for-.net-24.4"
-description: " "
+title: "Enhanced Mbox, Signatures & More: C# Email API 24.4 (MSI)"
+description: "Integrate Aspose.Email for .NET 24.4 functionalities into your .NET projects. Improved Mbox splitting, signature attachment & bug fixes. Download MSI now."
 keywords: ""
 page_type: single_release_page
 folder_link: "/email/net/new-releases/aspose.email-for-.net-24.4/"
@@ -43,8 +43,37 @@ weight: 591
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/email/net/release-notes/2024/aspose-email-for-net-24-4-release-notes/'>https://releases.aspose.com/email/net/release-notes/2024/aspose-email-for-net-24-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for .NET 24.4 release</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for .NET 24.4 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Enhanced Mbox Splitting
+
+Aspose.Email for .NET 24.4 delivers improved `MboxStorageReader.SplitInto` method for better efficiency in your C# email processing apps.
+
+### Signature Attachment
+
+Developers can now attach signatures while saving email messages and upgrade their .NET email manipulation workflows.
+
+### Version Control for Contact Files
+
+Effortlessly control the version of the contacts files when saving with `MapiDistributionListSaveOptions` with this update to the C# email API.
+
+### Bug Fixes
+We have resolved issues with ICS to `MapiMessage` conversion, attachment visibility in HTML, EWS Client Contacts API updates, EML file loading, and date calculations for recurring `MapiTasks`.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Email for .NET 24.4 Release Notes](https://releases.aspose.com/email/net/release-notes/2024/aspose-email-for-net-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
