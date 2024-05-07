@@ -67,6 +67,12 @@ XPS, EPS, PS
 **Animation:** GIF\
 **Image:** BMP, TIFF, JPEG, PNG
 
+## Platform Independence
+
+Aspose.Page for .NET can be integrated with any kind of ASP.NET Web Application or a Windows Application. 
+
+> For Linux, MacOS and other non-Windows operation systems we offer to use separate [Aspose.Page.Drawing](https://www.nuget.org/packages/Aspose.Page.Drawing) package. It uses Aspose.Drawing backend instead of System.Drawing system library.
+
 {{< Common/hr >}}
 
 {{< Tags/TagsWrapper >}}
