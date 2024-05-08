@@ -48,7 +48,7 @@ This page contains release notes for [ Aspose.Slides for .NET 24.5](https://www.
 |SLIDESNET-43831|Converting PPTX to HTML5 causes InvalidOperationException|Bug|<https://docs.aspose.com/slides/net/export-to-html5/>
 |SLIDESNET-43473|"SolidFillColor is unavailable" error appears when converting PPTX to HTML5|Bug|<https://docs.aspose.com/slides/net/export-to-html5/>
 |SLIDESNET-43369|Converting PPT to HTML5 throws ArgumentOutOfRangeException|Bug|<https://docs.aspose.com/slides/net/export-to-html5/>
-|SLIDESNET-43075|3D effects are displayed incorrectly when converting PPTX to PDF|Bug|< https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/>
+|SLIDESNET-43075|3D effects are displayed incorrectly when converting PPTX to PDF|Bug|<https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/>
 |SLIDESNET-42917|PPT to PPT: target file is not consistent with the source file|Bug|<https://docs.aspose.com/slides/net/save-presentation/>
 
 ## Public API Changes ##
