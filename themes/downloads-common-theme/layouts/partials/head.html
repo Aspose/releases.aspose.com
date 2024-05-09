@@ -3,7 +3,8 @@
 {{ $faviconfolder :=.Site.Params.faviconfolder }}
 {{$currentcontentpath := print $faviconfolder "/" $CurrentSection}}
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 {{ $generator :=.Site.Params.generator }}
 {{ if $generator }}
     <meta name="generator" content="{{ $generator }}" />
@@ -115,24 +116,7 @@
 {{ end }}
 
 
-<!-- Common CSS -->
-{{ if .IsHome }}
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" type="text/css" />
-<link rel="stylesheet" href="/css/bootstrap-home.css" type="text/css" />
-<link rel="stylesheet" href="/css/common.css?v0.30" type="text/css" />
-<link rel="stylesheet" href="/css/releases-template.css?v1.1" type="text/css" />
-
-{{else}}
-<link href="/css/bundle.min.css" rel="stylesheet" type="text/css" />
-<link href="/css/bootstrap.css" rel="stylesheet" type="text/css" preload/>
-
-<link href="/css/navigation-minify.css" rel="stylesheet" type="text/css" />
-<link href="/css/Merriweather.css" rel="stylesheet" type="text/css" />
-<link href="/css/Titillium.css" rel="stylesheet" type="text/css" />
-<link href="/css/opensans.css" rel="stylesheet" type="text/css" />
-
-{{end}}
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  
 
 
 <style type="text/css">
@@ -164,8 +148,11 @@
     }
 
 </style>
-<!-- /Common CSS -->
+ 
+  
 
+
+    
 <script type="text/javascript">
 const langarray = [];
 {{ if .Page.IsTranslated }}
