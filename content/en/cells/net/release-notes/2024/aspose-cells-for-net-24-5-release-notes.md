@@ -23,6 +23,8 @@ This page contains release notes for [Aspose.Cells for .NET 24.5](https://www.nu
 |CELLSNET-55475|Support XOR function|New Feature
 |CELLSNET-55521|Transpose data of the range|New Feature
 |CELLSNET-55531|Support obtaining properties of advanced filtering settings|New Feature
+|CELLSGRIDJS-997|Add the ability to copy styles to autofill|New Feature
+|CELLSGRIDJS-969|Support chart color setting|New Feature
 |CELLSNET-55494|Support determining whether the ReferredArea is a entire row or a entire column|Enhancement
 |CELLSNET-55640|Floor function returns #NUM! for negative number|Enhancement
 |CELLSNET-55252|Export metadata of cell into pdf , image and html|Enhancement
@@ -59,6 +61,9 @@ This page contains release notes for [Aspose.Cells for .NET 24.5](https://www.nu
 |CELLSNET-55526|Extra rows are inserted while adding a list object without header rows|Bug
 |CELLSNET-55530|Unable to copy data to the specified area after calling Worksheet.AdvancedFilter|Bug
 |CELLSNET-55543|Chart formatting is changed on worksheet copy|Bug
+|CELLSGRIDJS-1087|After edit cell value to empty string ,the server side cell in workbook still have value|Bug
+|CELLSGRIDJS-1086|The autofill data in UI does not keep same with server side workbook|Bug
+|CELLSGRIDJS-1092|Raise exception when do autofill action|Bug
 |CELLSNET-55560|NullReferenceException occurs when calling CalculateFormula method|Exception
 |CELLSNET-55573|Exception occurred while deleting cache folder|Exception
 |CELLSNET-55652|Formula "TEXTAFTER" throws NullReferenceException|Exception
