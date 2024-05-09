@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-.net-24.4-(dlls-only)"
-description: " "
+title: "C# BarCode API 24.4: Enhanced QR Codes, DataMatrix (DLLs)"
+description: "Upgrade to Aspose.BarCode .NET 24.4 for improved QR code recognition, DataMatrix quality control, DotCode accuracy & more. Download DLLs package now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/net/new-releases/aspose.barcode-for-.net-24.4-(dlls-only)/"
@@ -43,8 +43,40 @@ weight: 599
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-4-release-notes/'>https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 24.4 (DLLs Only) release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 24.4 (DLLs-only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+We are glad to announce Aspose.BarCode for .NET 24.4 release. The DLLs-only package for the latest version of the .NET API offers optimized QR code processing, DataMatrix generation, and bug fixes to improve overall barcode accuracy.
+
+### Improved QR Code Recognition
+
+You can now work with improved detection of Unicode characters within QR codes for broader compatibility.
+
+### Quality Control of `DataMatrix` 
+
+Using the newly added `QualitySettings` structure in the most recent update to the C# barcode API, .NET developers can empower your apps with enhanced `DataMatrix` barcode generation quality.
+
+### Accurate `DotCode` Barcodes
+
+Aspose.BarCode for .NET 24.4 includes fixes for Reed-Solomon error encoding and size calculations ensuring accurate `DotCode` barcodes.
+
+### Bug Squashing
+
+We have resolved multiple issues with `Standard2of5`, `IATA2of5`, QR code recognition, and unexpected `DecodeType` detection in this API release.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for .NET 24.4 Release Notes](https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

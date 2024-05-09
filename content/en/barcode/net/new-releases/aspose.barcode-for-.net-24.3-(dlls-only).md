@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-.net-24.3-(dlls-only)"
-description: " "
+title: "Aspose.BarCode .NET 24.3: Aztec Barcode, API Updates (DLLs)"
+description: "Integrate barcode recognition & generation seamlessly into your .NET apps with Aspose.BarCode for .NET 24.3 DLLs package. Download and get started now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/net/new-releases/aspose.barcode-for-.net-24.3-(dlls-only)/"
@@ -43,8 +43,40 @@ weight: 599
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-3-release-notes/'>https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 24.3 (DLLs Only) release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 24.3 (DLLs-only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Aspose.BarCode for .NET 24.3 includes improvements for your .NET applications and offers enhanced barcode recognition capabilities for QR and Aztec codes and valuable public API updates. Get the DLLs-only package of the library and start developing barcode processing apps today!
+
+### Barcode Recognition Improvements
+
+The .NET barcode API now provides better QR code recognition for QR codes having rounded targets, darkened/lightened right or bottom sides, and Pdf417 barcodes.
+
+### Updated Aztec Barcode Engine
+
+This release delivers a new `QualitySettings` structure providing more control to C# developers over Aztec barcode generation.
+
+### Updates to The Public API
+
+We have added `XmlSerializationAttribute` and `XmlSerializationType` API members to the public API to help enhance code serialization.
+
+### Bug Fixes
+
+Several problems have been resolved in the latest .NET API release addressing reported problems with QR code and Pdf417 recognition.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for .NET 24.3 Release Notes](https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

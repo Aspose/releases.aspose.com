@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-.net-24.1-(dlls-only)"
-description: " "
+title: "Read & Generate rMQR Barcodes: C# Barcode API 24.1 (DLLs)"
+description: "Upgrade your barcode apps with rMQR code support, improved quality settings API, & bug fixes. Download Aspose.BarCode for .NET 24.1 DLLs package today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/net/new-releases/aspose.barcode-for-.net-24.1-(dlls-only)/"
@@ -43,8 +43,53 @@ weight: 594
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-1-release-notes/'>https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 24.1 (DLLs Only) release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 24.1 (DLLs-only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Developers can utilize the improved barcode quality recognition and support for Micro QR and rMQR codes added to Aspose.BarCode for .NET 24.1 and upgrade their C#, VB.NET barcode processing apps. Get started by downloading the DLLs-only package of this API release.
+
+### Read and Generate Micro QR & rMQR Barcodes
+
+You can easily decode and encode Micro QR and rMQR barcode types with this release of the C# barcode API and expand your application's barcode capabilities. This code example demonstrates how to read and generate rMQR codes using C#:
+
+```c#
+
+var codetext = "Aspose";
+using (var generator = new BarcodeGenerator(EncodeTypes.RectMicroQR, codetext))
+{
+	generator.Parameters.Barcode.QR.RectMicroQrVersion = RectMicroQRVersion.R11x77;
+	var image = generator.GenerateBarCodeImage();
+	using (var reader = new BarCodeReader(image, DecodeType.RectMicroQR))
+	{
+		reader.ReadBarCodes();
+		Console.WriteLine("Codetext: {0}", reader.FoundBarCodes[0].CodeText);
+	}
+}
+
+```
+*[Source\*](https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-1-release-notes/)*
+
+### High Quality Barcode Recognition
+
+With the latest API release, you can experience precise control over barcode recognition quality, allowing you to tailor performance for specific needs.
+
+### Bug Fixes
+
+Aspose.BarCode for .NET 24.1 addresses various reported problems to ensure a smoother app development experience.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for .NET 24.1 Release Notes](https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

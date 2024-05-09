@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-python-via-java-24.2"
-description: " "
+title: "Python Barcode API 24.2: Improved Recognition, rMQR Support"
+description: "Upgrade to Aspose.BarCode Python via Java 24.2 and for improved barcode recognition with new QualitySettings API, rMQR barcode & more. Download now."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-24.2/"
@@ -43,8 +43,51 @@ weight: 51
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/python-java/release-notes/2024/aspose-barcode-for-python-via-java-24-2-release-notes/'>https://releases.aspose.com/barcode/python-java/release-notes/2024/aspose-barcode-for-python-via-java-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Python via Java 24.2 has been released</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Python via Java 24.2 has been released.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Support for rMQR Barcodes
+
+Aspose.BarCode for Python via Java 24.2 supports generating and recognizing rMQR (Micro QR) barcodes within your Python barcode processing solutions and expands their barcode symbology capabilities. The following Python code example showcases the recognition and generation of the rMQR barcodes.
+
+```python
+
+def example1(self):
+  codetext = "Aspose"
+  generator = Generation.BarcodeGenerator(Generation.EncodeTypes.RECT_MICRO_QR, codetext)
+  generator.getParameters().getBarcode().getCodeTextParameters().setLocation(Generation.CodeLocation.BELOW)
+  generator.getParameters().getBarcode().getQR().setRectMicroQrVersion(Generation.RectMicroQRVersion.R11x77)
+  image = generator.generateBarCodeImage()
+  reader = Recognition.BarCodeReader(image, None, Recognition.DecodeType.RECT_MICRO_QR)
+  barCodeResults = reader.readBarCodes()
+  barCodeResult = barCodeResults[0]
+  print('CodeText:' + barCodeResult.getCodeText())
+  print('CodeType: ' + barCodeResult.getCodeTypeName())
+
+```
+*[Source\*](https://releases.aspose.com/barcode/python-java/release-notes/2024/aspose-barcode-for-python-via-java-24-2-release-notes/)*
+
+### Enhanced Barcode Recognition Quality
+
+The new `QualitySettings` API provides more control over barcode recognition for various scenarios, including low-quality barcodes and complex backgrounds.
+
+### Improvements and Bug Fixes
+
+We have resolved issues related to `DotCode` barcode detection, license engine handling non-ASCII characters, and barcode label rendering for specific types in this Python barcode API release so that you can enjoy a great usage experience regardless of your OS or platform.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for Python via Java 24.2 Release Notes](https://releases.aspose.com/barcode/python-java/release-notes/2024/aspose-barcode-for-python-via-java-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

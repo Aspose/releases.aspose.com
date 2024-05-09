@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-python-via-java-24.3"
-description: " "
+title: "Generate SVG Barcodes in Python Apps: Aspose.BarCode 24.3"
+description: "Generate and read barcodes in Python with improved SVG support and HanXin & QR codes quality. Download Aspose.BarCode for Python via Java 24.3 now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-24.3/"
@@ -43,8 +43,50 @@ weight: 52
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/python-java/release-notes/2024/aspose-barcode-for-python-via-java-24-3-release-notes/'>https://releases.aspose.com/barcode/python-java/release-notes/2024/aspose-barcode-for-python-via-java-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Python via Java 24.3 has been released</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Python via Java 24.3 has been released.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Enhanced SVG Barcode Generation
+
+Experience improved rendering and customization options when generating barcodes in SVG format with Aspose.BarCode for Python via Java 24.3. Take your Python barcode processing apps to the next level with the latest updates to our barcode API.
+
+### New Quality Settings for HanXin & QR Codes
+
+Python developers can fine-tune the quality of their HanXin and QR barcodes with the addition of the new `QualitySettings` structures.
+
+### Improved Error Handling
+
+With this release, you can benefit from clearer error messages in case of incorrect parameter usage.
+
+### New APIs and Backward Incompatible Changes
+
+### New SVG Parameters API
+
+This release introduces new APIs related to SVG generation, providing more control over the output format.
+
+- `Generation.BaseGenerationParameters.getImage()`: Retrieves ImageParameters object.
+- `Generation.ImageParameters`: Represents image generation parameters.
+- `Generation.ImageParameters.getSvg()`: Retrieves SvgParameters object.
+- `Generation.ImageParameters.setSvg(SvgParameters)`: Sets SvgParameters for the image.
+- `Generation.SvgParameters`: Represents SVG-specific generation parameters.
+- `Generation.SvgParameters.isExplicitSizeInPixels()`: Checks if explicit size is set in pixels.
+- `Generation.SvgParameters.setExplicitSizeInPixels(bool)`: Sets whether the size should be explicit in pixels.
+- `Generation.SvgParameters.isTextDrawnInTextElement()`: Checks if the text is drawn in a text element.
+- `Generation.SvgParameters.setTextDrawnInTextElement(bool)`: Sets whether text should be drawn in a text element.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for Python via Java 24.3 Release Notes](https://releases.aspose.com/barcode/python-java/release-notes/2024/aspose-barcode-for-python-via-java-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-python-via-java-24.4"
-description: " "
+title: "Aspose.BarCode Python 24.4: Enhanced Barcode Recognition"
+description: "Download Aspose.BarCode Python via Java 24.4 today to get improved QR code & PDF417 recognition & performance enhancements to Aztec barcode engine. "
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-24.4/"
@@ -43,8 +43,38 @@ weight: 53
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/python-java/release-notes/2024/aspose-barcode-for-python-via-java-24-4-release-notes/'>https://releases.aspose.com/barcode/python-java/release-notes/2024/aspose-barcode-for-python-via-java-24-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Python via Java 24.4 has been released</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Python via Java 24.4 has been released.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Enhanced QR Code & PDF417 Recognition
+
+Aspose.BarCode for Python via Java 24.4 delivers improved accuracy for recognizing QR codes with rounded targets and those with darkened/lightened right or bottom sides. Additionally, PDF417 recognition has been addressed.
+
+### Performance Optimization
+
+.NET developers will experience faster barcode processing and improved structure for the Aztec barcode engine owing to the performance enhancements across the product in this API release.
+
+### Innovative Postal Code Feature
+
+Easily set postal codes for `MaxiCode` barcodes using the upgraded `ComplexBarcode.MaxiCodeStructuredCodetext.setPostalCode` method.
+
+### Bug Fixes
+
+We have resolved issues related to specific barcode recognition scenarios and API accessibility so that you can enjoy a seamless user experience on a platform of your choice.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for Python via Java 24.4 Release Notes](https://releases.aspose.com/barcode/python-java/release-notes/2024/aspose-barcode-for-python-via-java-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

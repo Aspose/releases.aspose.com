@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-.net-24.3"
-description: " "
+title: "Aspose.BarCode .NET 24.3: Aztec Barcodes, API Updates (MSI)"
+description: "Enhance barcode recognition (QR, Pdf417) & add XML serialization attributes in Aspose.BarCode for .NET 24.3. Download MSI installer for .NET projects."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/net/new-releases/aspose.barcode-for-.net-24.3/"
@@ -43,8 +43,40 @@ weight: 598
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-3-release-notes/'>https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 24.3 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 24.3 release (MSI installer).</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Aspose.BarCode for .NET 24.3 brings exciting improvements for .NET developers, such as enhanced barcode recognition capabilities for QR and Aztec codes, alongside valuable public API updates. Get the MSI installer of the API and start developing barcode processing apps today!
+
+### Improved Barcode Recognition
+
+The C# barcode API now offers better recognition of QR codes with rounded targets, darkened/lightened right or bottom sides, and Pdf417 barcodes.
+
+### Enhanced Aztec Barcode Engine
+
+A new `QualitySettings` structure in this release provides more control over Aztec barcode generation.
+
+### Public API Updates
+
+In this release, we added `XmlSerializationAttribute` and `XmlSerializationType` to the public API to help enhance code serialization.
+
+### Bug Fixes
+
+Various issues have been fixed in this release addressing reported problems with QR code and Pdf417 recognition.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for .NET 24.3 Release Notes](https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

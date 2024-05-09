@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-.net-24.2"
-description: " "
+title: "Export Barcodes to SVG Files: C# BarCode Apps API 24.2 (MSI)"
+description: "Download Aspose.BarCode .NET 24.2 (MSI) & gain improved SVG barcode generation & control over HanXin/QR code quality. Start enhancing your .NET apps!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/net/new-releases/aspose.barcode-for-.net-24.2/"
@@ -43,8 +43,40 @@ weight: 596
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-2-release-notes/'>https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 24.2 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 24.2 release (MSI installer).</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Great news for .NET developers! Aspose.BarCode for .NET 24.2 is now available and it delivers enhancements for SVG and QR code generation, empowering you to create high-fidelity barcodes for your .NET applications. Download the MSI installer to get started.
+
+### Enhanced SVG Export
+
+The latest update to the C# barcode apps API enables the generation of cleaner and more precise SVG barcodes with new SVG export parameters.
+
+### Greater Customization
+
+C# developers can enjoy greater control over explicit size and text placement within SVG barcodes using the new `IsExplicitSizeInPixels` and `IsTextDrawnInTextElement` properties.
+
+### Better Quality Barcodes
+
+Aspose.BarCode for .NET 24.4 lets you generate high-quality barcodes using the new quality settings structure for HanXin and QR code engines.
+
+### Fixed Bugs
+
+This release addresses minor bugs to ensure optimal performance and a great API usage experience.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for .NET 24.2 Release Notes](https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
