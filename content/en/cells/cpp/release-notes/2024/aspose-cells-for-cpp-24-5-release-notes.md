@@ -1,19 +1,19 @@
 ---
-id: "aspose-cells-for-net-24-5-release-notes"
-slug: "aspose-cells-for-net-24-5-release-notes"
-linktitle: "Aspose.Cells for .NET 24.5 Release Notes"
-title: "Aspose.Cells for .NET 24.5 Release Notes"
+id: "aspose-cells-for-cpp-24-5-release-notes"
+slug: "aspose-cells-for-cpp-24-5-release-notes"
+linktitle: "Aspose.Cells for CPP 24.5 Release Notes"
+title: "Aspose.Cells for CPP 24.5 Release Notes"
 weight: 8
-description: "Aspose.Cells for .Net 24.5 Release Notes - the latest enhancements, new features, and fixes. "
+description: "Aspose.Cells for CPP 24.5 Release Notes – the latest enhancements, new features, and fixes."
 type: "repository"
 layout: "release"
-family_listing_page_title: "Aspose.Cells for .NET 24.5 Release Notes"
-keywords: "Aspose.Cells for .Net 24.5 Release Notes, Aspose.Cells for .Net 24.5 updates and fixes"
+family_listing_page_title: "Aspose.Cells for CPP 24.5 Release Notes"
+keywords: "Aspose.Cells for CPP 24.5 Release Notes, Aspose.Cells for CPP 24.5 updates and fixes"
 ---
 
 {{% alert color="primary" %}}
 
-This page contains release notes for [Aspose.Cells for .NET 24.5](https://www.nuget.org/packages/Aspose.Cells/24.5.0).
+This page contains release notes for Aspose.Cells for C++ 24.5.
 
 {{% /alert %}}
 
@@ -23,14 +23,13 @@ This page contains release notes for [Aspose.Cells for .NET 24.5](https://www.nu
 |CELLSNET-55475|Support XOR function|New Feature
 |CELLSNET-55521|Transpose data of the range|New Feature
 |CELLSNET-55531|Support obtaining properties of advanced filtering settings|New Feature
-|CELLSGRIDJS-997|Add the ability to copy styles to autofill|New Feature
-|CELLSGRIDJS-969|Support chart color setting|New Feature
 |CELLSNET-55494|Support determining whether the ReferredArea is a entire row or a entire column|Enhancement
 |CELLSNET-55640|Floor function returns #NUM! for negative number|Enhancement
 |CELLSNET-55252|Export metadata of cell into pdf , image and html|Enhancement
 |CELLSNET-55497|Process font RGBA color with style background color|Enhancement
 |CELLSNET-55498|Remove picture in cell when set value to the cell|Enhancement
 |CELLSNET-55574|Some formats are not yet supported when converting LoadFormat to extension|Enhancement
+|CELLSCPP-1073|ArgumentException thrown on startup|Bug
 |CELLSNET-55454|Missing or incorrect SmartArt inner shape properties|Bug
 |CELLSNET-55511|Asian line break issue for shapes when rendering Excel file to PDF|Bug
 |CELLSNET-55518|Fix the issue where the text box height was incorrect when the text was in Japanese.|Bug
@@ -47,9 +46,6 @@ This page contains release notes for [Aspose.Cells for .NET 24.5](https://www.nu
 |CELLSNET-55408|Text with the same font displays differently when converting chart to image|Bug
 |CELLSNET-55442|Excel Combo chart control rendering to an Image reduces width to 50% of the original Excel range|Bug
 |CELLSNET-55559|The chart title is not rendered correct when set FarEastName and LatinName at the same time|Bug
-|CELLSNET-55613|Can not display conditonal formatting colour scales in GridWeb|Bug
-|CELLSGRIDJS-1076|Fail to display two gradient color for some cells|Bug
-|CELLSGRIDJS-1082|Image load status is not correct in the demo project for highlight|Bug
 |CELLSNET-55473|Image in header is lost when saving Excel file as PDF |Bug
 |CELLSNET-55510|Excel page splitted to two PDF pages|Bug
 |CELLSNET-55512|Excel to PDF does not maintain last row on print-preview page|Bug
@@ -61,9 +57,6 @@ This page contains release notes for [Aspose.Cells for .NET 24.5](https://www.nu
 |CELLSNET-55526|Extra rows are inserted while adding a list object without header rows|Bug
 |CELLSNET-55530|Unable to copy data to the specified area after calling Worksheet.AdvancedFilter|Bug
 |CELLSNET-55543|Chart formatting is changed on worksheet copy|Bug
-|CELLSGRIDJS-1087|After edit cell value to empty string ,the server side cell in workbook still have value|Bug
-|CELLSGRIDJS-1086|The autofill data in UI does not keep same with server side workbook|Bug
-|CELLSGRIDJS-1092|Raise exception when do autofill action|Bug
 |CELLSNET-55560|NullReferenceException occurs when calling CalculateFormula method|Exception
 |CELLSNET-55573|Exception occurred while deleting cache folder|Exception
 |CELLSNET-55652|Formula "TEXTAFTER" throws NullReferenceException|Exception
@@ -71,27 +64,39 @@ This page contains release notes for [Aspose.Cells for .NET 24.5](https://www.nu
 
 ## **Public API and Backwards Incompatible Changes**
 
-The following is a list of any changes made to the public API such as added, renamed, removed or deprecated members as well as any non-backward compatible change made to Aspose.Cells for .NET. If you have concerns about any change listed, please raise it on the Aspose.Cells support forum.
+The following is a list of any changes made to the public API such as added, renamed, removed or deprecated members as well as any non-backward compatible change made to Aspose.Cells for C++. If you have concerns about any change listed, please raise it on the Aspose.Cells support forum.
 
-### **Changes the returned value of FileFormatUtil.LoadFormatToExtension(LoadFormat.TabDelimited).**
+### **Changes the returned value of FileFormatUtil::LoadFormatToExtension(LoadFormat::TabDelimited)**
 
 In old versions, we returned "txt" for tab delimited text file. From 24.5, we return the most specific extension of "tsv" for it.
 
-### **Adds properties ReferredArea.IsEntireRow/IsEntireColumn.**
+### **Adds IsEntireRow/IsEntireColumn methods in ReferredArea.**
 
 Indicates whether the area reference is entire row or column.
 
-### **Adds properties DefaultStyleSettings.BuiltInPreference and WorkbookSettings.DefaultStyleSettings.**
+### **Adds GetBuiltInPreference/SetBuiltInPreference methods in DefaultStyleSettings and GetDefaultStyleSettings method in WorkbookSettings.**
 
 Indicates which property should be used to format values when the used style defines both built-in number and custom pattern.
 
-### **Adds HtmlSaveOptions.AddGenericFont property.**
+### **Adds GetAddGenericFont/SetAddGenericFont methods in HtmlSaveOptions.**
 
-Indicates whether to add a generic font to CSS font-family when saving file to html.
+Indicates whether to add a generic font to CSS font-family saving file to html.
 
-### **Adds HtmlSaveOptions.IsBorderCollapsed property.**
+### **Adds IsBorderCollapsed/SetIsBorderCollapsed methods in HtmlSaveOptions.**
 
 Indicates whether the table borders are collapsed when saving file to html.
+
+### **Adds AdvancedFilter class.**
+
+Gets the settings of advanced filter.
+
+### **Add CellsUnitType  enum.**
+
+Represents the unit type.
+
+### **Add CellsUnitType enum.**
+
+Specifies the unit of measurement.
 
 ### **Adds Range.UnionRanges() method and obsoletes Range.UnionRang() method.**
 
@@ -101,27 +106,28 @@ Uses Range.UnionRanges() method instead.
 
 Transposes the row to column of the range.
 
-### **Adds AdvancedFilter class.**
-
-Represents the settings of advanced filter.
-
-### **Adds Worksheet.GetAdvancedFilter(Int32,Boolean,CellsUnitType) method.**
-
-Gets the settings of advanced filter.
-
-### **Add CellsUnitType enum.**
-
-Represents the unit type.
-
 ### **Adds Cells.GetRowHeight(Int32,Boolean,CellsUnitType) method and obsoletes Cells.GetRowOriginalHeightPoint() method.**
 
 Gets the height of the row in unit of type.
 
-### **Adds GetColumnWidth(Int32,Boolean,CellsUnitType) method.**
+### **Adds GetColumnWidth(Int32,Boolean,CellsUnitType) method method**
 
 Gets the width of the column in unit of type.
 
-### **Obsolets Cells.GetColumnOriginalWidthPoint(Int32), GetColumnWidthPixel(Int32,Boolean) and GetColumnWidthInch(Int32) methods.**
+### **Obsolets Cells.GetColumnOriginalWidthPoint(Int32), GetColumnWidthPixel(Int32,Boolean) and  GetColumnWidthInch(Int32) methods.**
 
-Uses Cells.GetColumnWidth(Int32,Boolean,CellsUnitType) method instead.
+Uses Cells.GetRowHeight(Int32,Boolean,CellsUnitType) method instead.
+
+### **Adds GetAdvancedFilter method in Worksheet**
+
+Gets the settings of advanced filter.
+
+### **Adds GetPosition method in PivotItem**
+
+Gets the position index in all the PivotItems,not the PivotItems under the same parent node.
+
+### **Adds GetPositionInSameParentNode method in PivotItem**
+
+Gets the position index in PivotItems under the same parent node.
+
 
