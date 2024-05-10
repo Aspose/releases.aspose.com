@@ -1,4 +1,4 @@
 {{ $id := .Get "id" }}
-<textarea id="{{$id}}" class="copyboard" readonly="">
+<textarea id="{{$id}}" class="copyboard" readonly=""  aria-labelledby="Copy to Clipboard">
     {{ .Inner }}
 </textarea>

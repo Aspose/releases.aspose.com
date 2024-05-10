@@ -10,6 +10,7 @@
     color: transparent;
     }
 </style>
+
 {{$download_link := print .Page.Params.download_link "/"}}
 {{ $lastUrlElement := index (last 1 (split (delimit (split $download_link "/") "," "") ",")) 0 }}
 
