@@ -21,7 +21,7 @@
           <div class="col-md-12">
             <div class="panel-body downloadfilebody">
               <div class="col-sm-1 zipiconbox">
-                <img src="{{ replaceRE "(\\s)" ""  (.Params.image_link) }}" alt="Icons" />
+                <img src="{{ replaceRE "(\\s)" ""  (.Params.image_link) }}" width="50" height="50" alt="Icons" />
               </div>
               <div class="col-sm-8 downloadcontent">
                 <h3><a href="{{ .Permalink }}">{{ .Params.folder_name }}</a></h3>
@@ -252,7 +252,7 @@
     {{ .Params.parent_path }} | {{ .}}
 {{end}}
 {{end}}</p> -->
-
+ 
 <script type="text/javascript">
    
   $.getJSON("{{.Site.Params.backendURL}}/api/updatecount?path={{$parent_path}}", function(data) { 
@@ -268,12 +268,15 @@
             
         });
   });
-  $(document).ready( function() {
-    $('.loadmorediv').simpleLoadMore({
-      item: '.col-md-12',
-      count: 10,
+  
+    //$(document).ready( function() {
+    //$('.loadmorediv').simpleLoadMore({
+      //item: '.col-md-12',
+      //count: 10,
       // itemsToLoad: 10,
-      btnHTML: '<a style="margin-left: 15px;" href="#" class="btn btn-primary load-more__btn"> {{ i18n "Show_More_Files" }}... </a>'
-    });
- });
+     // btnHTML: '<a style="margin-left: 15px;" href="#" class="btn btn-primary load-more__btn"> {{ i18n "Show_More_Files" }}... </a>'
+   // });
+ //});  
+  
+
 </script>
