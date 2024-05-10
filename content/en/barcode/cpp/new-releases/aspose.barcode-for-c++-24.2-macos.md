@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-c++-24.2-macos"
-description: " "
+title: "Generate Barcode in SVG | Aspose.BarCode C++ 24.2 (macOS)"
+description: "Supercharge C++ barcode apps on macOS! Download Aspose.BarCode C++ 24.2 for better SVG output & new barcode quality options in your barcode apps."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/cpp/new-releases/aspose.barcode-for-c++-24.2-macos/"
@@ -45,6 +45,28 @@ weight: 114
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for C++ 24.2 MacOS release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Generate Barcodes in SVG Format
+
+With Aspose.BarCode for C++ 24.2 release, you can generate barcodes in SVG format with improved quality and fidelity. This feature lets you take your barcode processing applications running on macOS machines to the next level.
+
+### Optimized Quality Settings for HanXin & QR Codes
+
+The latest update to the C++ API allows finer control over barcode quality for HanXin and QR codes with the new `QualitySettings` structure.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for C++ 24.2 Release Notes](https://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

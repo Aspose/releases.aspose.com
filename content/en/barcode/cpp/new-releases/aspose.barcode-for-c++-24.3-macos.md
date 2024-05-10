@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-c++-24.3-macos"
-description: " "
+title: "C++ Barcode API 24.3: Updated Aztec Barcode Engine (macOS)"
+description: "Elevate barcode processing in C++ apps for macOS with Aspose.BarCode C++ 24.3. Improved QR recognition, new Aztec quality settings. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/cpp/new-releases/aspose.barcode-for-c++-24.3-macos/"
@@ -45,6 +45,32 @@ weight: 117
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for C++ 24.3 MacOS release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Supercharge Barcode Recognition on macOS
+
+With Aspose.BarCode for C++ 24.3, you can experience enhanced accuracy for QR code recognition with variations and Pdf417 barcodes within your barcode processing apps running on macOS machines.
+
+### Quality Settings for Aztec Barcodes
+
+The latest update to the C++ barcode API allows macOS developers to get better control over Aztec barcode generation with the introduction of the `QualitySettings` structure.
+
+### A Stable Public API
+
+We have introduced various changes to this release to improve stability and ensure seamless integration into your existing projects on macOS.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for C++ 24.3 Release Notes](https://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

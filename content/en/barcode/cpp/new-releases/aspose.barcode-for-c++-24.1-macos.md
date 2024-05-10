@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-c++-24.1-macos"
-description: " "
+title: "Micro QR/rMQR Code in C++ Apps: BarCode API 24.1 (macOS)"
+description: "Aspose.BarCode C++ 24.1 empowers developers with improved barcode recognition abilities and support for Micro QR & rMQR codes. Download on macOS!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/cpp/new-releases/aspose.barcode-for-c++-24.1-macos/"
@@ -45,6 +45,46 @@ weight: 111
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for C++ 24.1 MacOS release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Micro QR & rMQR Code Reading and Generation
+
+Aspose.BarCode for C++ 24.1 C++ enables recognizing and generating Micro QR and rMQR barcodes on macOS. Developers can expand the potential of their barcode processing solutions with the ability to encode and decode Micro QR and rMQR codes. This example highlights the generation and recognition of the Micro QR code:
+
+```c++
+
+System::String codetext = u"Aspose";
+auto generator = System::MakeObject<BarcodeGenerator>(EncodeTypes::MicroQR, codetext);
+
+generator->get_Parameters()->get_Barcode()->get_QR()->set_MicroQRVersion(MicroQRVersion::M4);
+auto image = generator->GenerateBarCodeImage();
+auto reader = System::MakeObject<BarCodeReader>(image, DecodeType::MicroQR);
+
+System::Console::WriteLine(System::String(u"Codetext: ") + reader->get_FoundBarCodes()[0]->get_CodeText());
+
+```
+*[Source\*](https://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-1-release-notes/)*
+
+### Enhanced Recognition with Improved Quality Settings
+
+The new quality settings added in the latest barcode API release let you optimize barcode recognition for various scenarios, ranging from high-quality codes to damaged ones.
+
+### Bug Fixes and Improvements
+
+We have addressed essential bug fixes and enhancements in this release for a more robust development experience and a stable codebase.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for C++ 24.1 Release Notes](https://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

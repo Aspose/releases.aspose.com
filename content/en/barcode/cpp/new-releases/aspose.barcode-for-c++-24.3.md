@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-c++-24.3"
-description: " "
+title: "C++ Barcode API 24.3: Improved Recognition, Aztec Quality"
+description: "Boost barcode processing in your C++ apps with Aspose.BarCode C++ 24.3. Improved QR & Pdf417 recognition, new Aztec quality settings. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/cpp/new-releases/aspose.barcode-for-c++-24.3/"
@@ -45,6 +45,32 @@ weight: 119
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for C++ 24.3 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Improved Barcode Recognition
+
+Aspose.BarCode for C++ 24.3 provides enhanced accuracy for recognizing QR codes with variations and Pdf417 barcodes within your barcode processing apps.
+
+### New Aztec Barcode Quality Settings
+
+Using the latest release of the C++ barcode API, developers can gain finer control over Aztec barcode generation with the introduction of the `QualitySettings` structure.
+
+### Public API Stability
+
+This release brings various changes to improve stability and ensure seamless integration into existing projects.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for C++ 24.3 Release Notes](https://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
