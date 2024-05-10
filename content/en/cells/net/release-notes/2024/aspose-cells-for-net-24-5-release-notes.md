@@ -73,7 +73,7 @@ This page contains release notes for [Aspose.Cells for .NET 24.5](https://www.nu
 
 The following is a list of any changes made to the public API such as added, renamed, removed or deprecated members as well as any non-backward compatible change made to Aspose.Cells for .NET. If you have concerns about any change listed, please raise it on the Aspose.Cells support forum.
 
-### **Changes the returned value of FileFormatUtil.LoadFormatToExtension(LoadFormat.TabDelimited)**
+### **Changes the returned value of FileFormatUtil.LoadFormatToExtension(LoadFormat.TabDelimited).**
 
 In old versions, we returned "txt" for tab delimited text file. From 24.5, we return the most specific extension of "tsv" for it.
 
@@ -93,14 +93,6 @@ Indicates whether to add a generic font to CSS font-family when saving file to h
 
 Indicates whether the table borders are collapsed when saving file to html.
 
-### **Adds AdvancedFilter class.**
-
-Gets the settings of advanced filter.
-
-### **Add CellsUnitType  enum.**
-
-Represents the unit type.
-
 ### **Adds Range.UnionRanges() method and obsoletes Range.UnionRang() method.**
 
 Uses Range.UnionRanges() method instead.
@@ -109,15 +101,27 @@ Uses Range.UnionRanges() method instead.
 
 Transposes the row to column of the range.
 
+### **Adds AdvancedFilter class.**
+
+Represents the settings of advanced filter.
+
+### **Adds Worksheet.GetAdvancedFilter(Int32,Boolean,CellsUnitType) method.**
+
+Gets the settings of advanced filter.
+
+### **Add CellsUnitType enum.**
+
+Represents the unit type.
+
 ### **Adds Cells.GetRowHeight(Int32,Boolean,CellsUnitType) method and obsoletes Cells.GetRowOriginalHeightPoint() method.**
 
 Gets the height of the row in unit of type.
 
-### **Adds GetColumnWidth(Int32,Boolean,CellsUnitType) method method**
+### **Adds GetColumnWidth(Int32,Boolean,CellsUnitType) method.**
 
 Gets the width of the column in unit of type.
 
-### **Obsolets Cells.GetColumnOriginalWidthPoint(Int32), GetColumnWidthPixel(Int32,Boolean) and  GetColumnWidthInch(Int32) methods.**
+### **Obsolets Cells.GetColumnOriginalWidthPoint(Int32), GetColumnWidthPixel(Int32,Boolean) and GetColumnWidthInch(Int32) methods.**
 
-Uses Cells.GetRowHeight(Int32,Boolean,CellsUnitType) method instead.
+Uses Cells.GetColumnWidth(Int32,Boolean,CellsUnitType) method instead.
 
