@@ -16,6 +16,11 @@ This page contains release notes for [Aspose.Slides for C++ 24.4](https://www.nu
 
 {{% /alert %}} 
 
+## Supported Platforms
+- Aspose.Slides for C++ for Windows x64/x86 (Microsoft Visual Studio 2017 or later).
+- Aspose.Slides for C++ for Linux (Clang 3.9 or later, GCC 6.1 or later, glibc 2.23 or later).
+- Aspose.Slides for C++ for macOS x86_64/ARM64 (Xcode 13.4 or later).
+
 ## New Features and Enhancements
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
