@@ -87,7 +87,7 @@ Indicates which property should be used to format values when the used style def
 
 ### **Adds HtmlSaveOptions.AddGenericFont property.**
 
-Indicates whether to add a generic font to CSS font-family saving file to html.
+Indicates whether to add a generic font to CSS font-family when saving file to html.
 
 ### **Adds HtmlSaveOptions.IsBorderCollapsed property.**
 
