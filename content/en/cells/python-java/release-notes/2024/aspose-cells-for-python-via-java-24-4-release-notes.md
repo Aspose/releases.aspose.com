@@ -3,7 +3,7 @@ id: "aspose-cells-for-python-via-java-24-4-release-notes"
 slug: "aspose-cells-for-python-via-java-24-4-release-notes"
 linktitle: "Aspose.Cells for Python via Java 24.4 Release Notes"
 title: "Aspose.Cells for Python via Java 24.4 Release Notes"
-weight: 10
+weight: 9
 description: "Aspose.Cells for Python via Java 24.4 Release Notes – the latest enhancements, new features, and fixes."
 type: "repository"
 layout: "release"
