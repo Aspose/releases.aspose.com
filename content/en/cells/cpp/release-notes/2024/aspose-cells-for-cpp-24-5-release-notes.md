@@ -94,10 +94,6 @@ Gets the settings of advanced filter.
 
 Represents the unit type.
 
-### **Add CellsUnitType enum.**
-
-Specifies the unit of measurement.
-
 ### **Adds Range.UnionRanges() method and obsoletes Range.UnionRang() method.**
 
 Uses Range.UnionRanges() method instead.
