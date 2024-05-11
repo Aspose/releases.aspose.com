@@ -21,7 +21,7 @@
           <div class="col-md-12">
             <div class="panel-body downloadfilebody">
               <div class="col-sm-1 zipiconbox">
-                <img src="{{ replaceRE "(\\s)" ""  (.Params.image_link) }}" />
+                <img src="{{ replaceRE "(\\s)" ""  (.Params.image_link) }}" width="50" height="50" alt="Icons" />
               </div>
               <div class="col-sm-8 downloadcontent">
                 <h3><a href="{{ .Permalink }}">{{ .Params.folder_name }}</a></h3>
@@ -42,7 +42,7 @@
                 {{$backendURL := print (replaceRE "(\\s)" ""  (.Site.Params.backendURL) ) "" (replaceRE "(\\s)" ""  (.Params.download_link))  }}
                 <!--<a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
                   <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>-->
-                  <a onclick="downloadrelease('{{ .Params.download_link }}')" class="btn btn-primary dwnam3">
+                  <a onclick="downloadrelease('{{ .Params.download_link }}')" class="btn btn-primary dwnam3"  href="#" title="Download">
                     <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ i18n "Download" }}</a>
                 <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ i18n "File_Size" }}: {{ replace .Params.file_size "File Size:" "" }}  </p>
               </div>
@@ -57,7 +57,7 @@
                   <div class="col-md-12">
                     <div class="panel-body downloadfilebody">
                       <div class="col-sm-1 zipiconbox">
-                        <img src="{{ replaceRE "(\\s)" ""  (.Params.image_link) }}" />
+                        <img src="{{ replaceRE "(\\s)" ""  (.Params.image_link) }}" width="50" height="50" alt="Icons" />
                       </div>
                       <div class="col-sm-8 downloadcontent">
                         <h3><a href="{{ .Permalink }}">{{ .Params.folder_name }}</a></h3>
@@ -78,7 +78,7 @@
                         {{$backendURL := print (replaceRE "(\\s)" ""  (.Site.Params.backendURL) ) "" (replaceRE "(\\s)" ""  (.Params.download_link))  }}
                         <!--<a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
                           <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>-->
-                          <a onclick="downloadrelease('{{ .Params.download_link }}')" class="btn btn-primary dwnam3">
+                          <a onclick="downloadrelease('{{ .Params.download_link }}')" class="btn btn-primary dwnam3"  href="#" title="Download" >
                             <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ i18n "Download" }}</a>
                         <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ i18n "File_Size" }}: {{ replace .Params.file_size "File Size:" "" }} </p>
                       </div>
@@ -94,7 +94,7 @@
                 <div class="col-md-12">
                   <div class="panel-body downloadfilebody">
                     <div class="col-sm-1 zipiconbox">
-                      <img src="{{ replaceRE "(\\s)" ""  (.Params.image_link) }}" />
+                      <img src="{{ replaceRE "(\\s)" ""  (.Params.image_link) }}" width="50" height="50" alt="Icons" />
                     </div>
                     <div class="col-sm-8 downloadcontent">
                       <h3><a href="{{ .Permalink }}">{{ .Params.folder_name }}</a></h3>
@@ -115,7 +115,7 @@
                       {{$backendURL := print (replaceRE "(\\s)" ""  (.Site.Params.backendURL) ) "" (replaceRE "(\\s)" ""  (.Params.download_link))  }}
                       <!--<a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
                         <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>-->
-                        <a onclick="downloadrelease('{{ .Params.download_link }}')" class="btn btn-primary dwnam3">
+                        <a onclick="downloadrelease('{{ .Params.download_link }}')" class="btn btn-primary dwnam3"  href="#" title="Download" >
                           <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ i18n "Download" }}</a>
                       <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ i18n "File_Size" }}: {{ replace .Params.file_size "File Size:" "" }} </p>
                     </div>
@@ -135,7 +135,7 @@
         <div class="col-md-12">
           <div class="panel-body downloadfilebody">
             <div class="col-sm-1 zipiconbox">
-              <img src="{{ replaceRE "(\\s)" ""  (.Params.image_link) }}" />
+              <img src="{{ replaceRE "(\\s)" ""  (.Params.image_link) }}" width="50" height="50" alt="Icons" />
             </div>
             <div class="col-sm-8 downloadcontent">
               <h3><a href="{{ .Permalink }}">{{ .Params.folder_name }}</a></h3>
@@ -156,7 +156,7 @@
               {{$backendURL := print (replaceRE "(\\s)" ""  (.Site.Params.backendURL) ) "" (replaceRE "(\\s)" ""  (.Params.download_link))  }}
               <!--<a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
                 <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>-->
-                <a onclick="downloadrelease('{{ .Params.download_link }}')" class="btn btn-primary dwnam3">
+                <a onclick="downloadrelease('{{ .Params.download_link }}')" class="btn btn-primary dwnam3"  href="#" title="Download" >
                   <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ i18n "Download" }}</a>
               <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ i18n "File_Size" }}: {{ replace .Params.file_size "File Size:" "" }} </p>
             </div>
@@ -171,7 +171,7 @@
                   <div class="col-md-12">
                     <div class="panel-body downloadfilebody">
                       <div class="col-sm-1 zipiconbox">
-                        <img src="{{ replaceRE "(\\s)" ""  (.Params.image_link) }}" />
+                        <img src="{{ replaceRE "(\\s)" ""  (.Params.image_link) }}" width="50" height="50" alt="Icons" />
                       </div>
                       <div class="col-sm-8 downloadcontent">
                         <h3><a href="{{ .Permalink }}">{{ .Params.folder_name }}</a></h3>
@@ -192,7 +192,7 @@
                         {{$backendURL := print (replaceRE "(\\s)" ""  (.Site.Params.backendURL) ) "" (replaceRE "(\\s)" ""  (.Params.download_link))  }}
                           <!--<a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
                           <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>-->
-                          <a onclick="downloadrelease('{{ .Params.download_link }}')" class="btn btn-primary dwnam3">
+                          <a onclick="downloadrelease('{{ .Params.download_link }}')" class="btn btn-primary dwnam3"  href="#" title="Download" >
                             <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ i18n "Download" }}</a>
                         <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ i18n "File_Size" }}: {{ replace .Params.file_size "File Size:" "" }} </p>
                       </div>
@@ -210,7 +210,7 @@
         <div class="col-md-12">
           <div class="panel-body downloadfilebody">
             <div class="col-sm-1 zipiconbox">
-              <img src="{{ replaceRE "(\\s)" ""  (.Params.image_link) }}" />
+              <img src="{{ replaceRE "(\\s)" ""  (.Params.image_link) }}" width="50" height="50" alt="Icons" />
             </div>
             <div class="col-sm-8 downloadcontent">
               <h3><a href="{{ .Permalink }}">{{ .Params.folder_name }}</a></h3>
@@ -231,7 +231,7 @@
               {{$backendURL := print (replaceRE "(\\s)" ""  (.Site.Params.backendURL) ) "" (replaceRE "(\\s)" ""  (.Params.download_link))  }}
               <!--<a href="{{ $backendURL }}" class="btn btn-primary dwnam3">
                 <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ .Params.download_text }}</a>-->
-                <a onclick="downloadrelease('{{ .Params.download_link }}')" class="btn btn-primary dwnam3">
+                <a onclick="downloadrelease('{{ .Params.download_link }}')" class="btn btn-primary dwnam3"  href="#" title="Download" >
                   <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i>{{ i18n "Download" }}</a>
               <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> {{ i18n "File_Size" }}: {{ replace .Params.file_size "File Size:" "" }} </p>
             </div>
@@ -252,7 +252,7 @@
     {{ .Params.parent_path }} | {{ .}}
 {{end}}
 {{end}}</p> -->
-
+ 
 <script type="text/javascript">
    
   $.getJSON("{{.Site.Params.backendURL}}/api/updatecount?path={{$parent_path}}", function(data) { 
@@ -268,12 +268,15 @@
             
         });
   });
-  $(document).ready( function() {
-    $('.loadmorediv').simpleLoadMore({
-      item: '.col-md-12',
-      count: 10,
+  
+    //$(document).ready( function() {
+    //$('.loadmorediv').simpleLoadMore({
+      //item: '.col-md-12',
+      //count: 10,
       // itemsToLoad: 10,
-      btnHTML: '<a style="margin-left: 15px;" href="#" class="btn btn-primary load-more__btn"> {{ i18n "Show_More_Files" }}... </a>'
-    });
- });
+     // btnHTML: '<a style="margin-left: 15px;" href="#" class="btn btn-primary load-more__btn"> {{ i18n "Show_More_Files" }}... </a>'
+   // });
+ //});  
+  
+
 </script>

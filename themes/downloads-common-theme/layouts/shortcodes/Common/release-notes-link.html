@@ -18,6 +18,6 @@
 <!--<a href='{{ $backendURL }}'  class="btn btn-primary dwnam3">
 <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i> Download</a>-->
 {{ if (not (eq ($.Scratch.Get "latest_release_download_link") "")) }}
-<a onclick="downloadrelease('{{ $.Scratch.Get "latest_release_download_link" }}')"  class="btn btn-primary dwnam3"><i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i> {{ i18n "Download" }} </a>
+<a onclick="downloadrelease('{{ $.Scratch.Get "latest_release_download_link" }}')" href="#" title="Download" class="btn btn-primary dwnam3"><i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i> {{ i18n "Download" }} </a>
 {{ end }}
 </div>

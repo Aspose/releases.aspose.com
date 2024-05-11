@@ -165,3 +165,4 @@ rewrite /(.*)/ocr/java/redestinations/(.*) https://releases.aspose.com/ocr/java/
 rewrite /(.*)/ocr/net/resources/(.*) https://releases.aspose.com/ocr/net/ permanent;
 rewrite /(.*)/ocr/net/redestinations/(.*) https://releases.aspose.com/ocr/net/ permanent;
 rewrite /(.*)/pdf/net/examples/(.*) https://releases.aspose.com/pdf/net/ permanent;
+
