@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-.net-24.5.1-(dlls-only)"
-description: " "
+title: "Aspose.PDF .NET 24.5.1: Enhanced Rendering & Fixes (DLLs)"
+description: "Integrate Aspose.PDF for .NET 24.5.1 seamlessly into your C# PDF apps. Download the DLLs-only package for a lightweight solution and leverage new fixes."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/net/new-releases/aspose.pdf-for-.net-24.5.1-(dlls-only)/"
@@ -43,8 +43,32 @@ weight: 880
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/net/release-notes/2024/aspose-pdf-for-net-24-5-1-release-notes/'>https://releases.aspose.com/pdf/net/release-notes/2024/aspose-pdf-for-net-24-5-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.PDF for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.PDF without the MSI installer.</div>
+      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.PDF for .NET 24.5.1 assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.PDF without the MSI installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+The Aspose.PDF for .NET 24.5.1 (DLLs-only) package delivers a focused update, resolving a critical regression that prevented generated PDFs from displaying correctly in PDF.js viewers.
+
+### Optimized PDF Rendering
+
+By improving compatibility with the PDF.js viewer, we have ensured smooth PDF document rendering in the latest C# PDF API update.
+
+### Fixed Critical Bugs
+
+We have resolved the regression-related issues in Aspose.PDF for .NET 24.5.1 that caused PDF display problems, offering a high-fidelity display of PDF documents within your PDF processing solutions.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for .NET 24.5.1 Release Notes](https://releases.aspose.com/pdf/net/release-notes/2024/aspose-pdf-for-net-24-5-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

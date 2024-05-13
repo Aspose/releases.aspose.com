@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-.net-24.5.1"
-description: " "
+title: "Aspose.PDF .NET 24.5.1: Enhanced Rendering and Fixes (MSI)"
+description: "Enhance PDF rendering for seamless viewing in PDF.js using Aspose.PDF for .NET 24.5.1. Download the MSI installer for bug fixes and improved compatibility."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/net/new-releases/aspose.pdf-for-.net-24.5.1/"
@@ -43,8 +43,32 @@ weight: 881
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/net/release-notes/2024/aspose-pdf-for-net-24-5-1-release-notes/'>https://releases.aspose.com/pdf/net/release-notes/2024/aspose-pdf-for-net-24-5-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.PDF for .NET 24.5.1 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.PDF for .NET 24.5.1 release (MSI installer).</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+This release of Aspose.PDF for .NET 24.5.1 addresses a critical bug related to regression that impacted PDF rendering in the PDF.js viewer. Developers can now ensure their apps display PDFs flawlessly by downloading the MSI installer of this version.
+
+### Enhanced PDF Rendering
+
+We have improved compatibility with the PDF.js viewer for smooth rendering in the latest C# PDF API update.
+
+### Critical Bug Fixes
+
+The problem related to the regression bug that caused PDF display issues has been fixed in Aspose.PDF for .NET 24.5.1, offering a high-fidelity display of PDF documents within your PDF processing solutions.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for .NET 24.5.1 Release Notes](https://releases.aspose.com/pdf/net/release-notes/2024/aspose-pdf-for-net-24-5-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
