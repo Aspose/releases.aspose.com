@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-.net-24.5"
-description: " "
+title: "C# PowerPoint API 24.5: Transparency, Fonts, Conversion (MSI)"
+description: "Boost C# presentation apps with Aspose.Slides .NET 24.5! Get new features like table transparency & chart data label formatting control. Download MSI now."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/net/new-releases/aspose.slides-for-.net-24.5/"
@@ -43,8 +43,56 @@ weight: 791
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-5-release-notes/'>https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for .NET 24.5 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for .NET 24.5 release (MSI installer).</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.Slides for .NET 24.5 helps developers improve presentation creation, manipulation, and conversion capabilities. By downloading the MSI installer of this release, developers can use new features for enhanced control over table transparency and chart data label formatting.
+
+### Enhanced Table Formatting
+
+The C# PowerPoint API version 24.5 supports controlling the transparency of table fill colors using the new `Transparency` property in `ICellFormat` and `ITableFormat`. The following code example highlights how to use the new property in C#:
+
+```c#
+
+using (Presentation presentation = new Presentation("pres.pptx"))
+{
+    ITable table = (ITable)presentation.Slides[0].Shapes[0];
+    table.TableFormat.Transparency = 0.5f;
+}
+
+```
+*[Source\*](https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-5-release-notes/)*
+
+
+### Improved Chart Formatting
+
+Maintaining chart formatting while saving the presentations within your .NET applications is now supported in Aspose.Slides for .NET.
+
+### Streamlined Conversions
+
+.NET developers can experience better handling of charts, images, and text elements during conversions using this update to the C# API.
+
+### Set Default Font Size
+
+Aspose.Slides for .NET version 24.5 allows users to set the default font size for text boxes across the presentation slides.
+
+### Resolved Issues
+
+Numerous problems related to PPTX/ODP conversions, memory usage, and image rendering have been resolved in the latest release of Aspose.Slides for .NET.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for .NET 24.5 Release Notes](https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

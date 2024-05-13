@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-c++-24.5(linux)"
-description: " "
+title: "Supercharge Your Spreadsheets in C++ | Excel API 24.5 (Linux)"
+description: "Take control of spreadsheets on Linux with Aspose.Cells for C++ 24.5. Download and discover XMATCH, data transposing, cell formatting precision, and more!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/cpp/new-releases/aspose.cells-for-c++-24.5(linux)/"
@@ -45,6 +45,42 @@ weight: 132
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Cells for C++ version 24.5 (Linux). For more information, see the release notes and readme file.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Harness the power of Aspose.Cells for C++ 24.5 on Linux and unlock a world of possibilities for your spreadsheet processing endeavors. This update introduces a host of new features and upgrades designed to elevate developer productivity.
+
+### Support for XMATCH and XOR Functions
+
+Using the power of `XMATCH` and `XOR` functions, you can now perform efficient data analysis in spreadsheet processing solutions.
+
+### Data Handling Improvements
+
+Aspose.Cells for C++ 24.5 allows effortless transpose data ranges and extract advanced filtering settings in your Excel apps running on Linux OS.
+
+### Supercharge Rendering & Export
+
+The latest update to the C++ Excel API enables developers to exert greater control over cell formatting and metadata export for various file formats.
+
+### Bug Fixes & Enhancements
+
+Various bugs were fixed and enhancements added in this C++ API release allow users to experience a more robust and efficient library on Linux systems.
+
+### Public API and Backwards Incompatible Changes
+
+Aspose.Cells for C++ 24.5 release brings numerous changes to the public API as we have added, updated, and deprecated API members ensuring a great user experience.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for C++ 24.5 Release Notes](https://releases.aspose.com/cells/cpp/release-notes/2024/aspose-cells-for-cpp-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

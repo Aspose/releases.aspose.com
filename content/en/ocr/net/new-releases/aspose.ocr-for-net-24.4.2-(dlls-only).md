@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.ocr-for-net-24.4.2-(dlls-only)"
-description: " "
+title: "Supercharge Your Apps with Aspose.OCR .NET 24.4.2 (DLLs)"
+description: "Enhance .NET apps with Aspose.OCR .NET 24.4.2 (DLLs-only). Download now for new language support (Persian, Urdu, Uyghur) & improved OCR accuracy."
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/net/new-releases/aspose.ocr-for-net-24.4.2-(dlls-only)/"
@@ -43,8 +43,56 @@ weight: 352
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-4-2-release-notes/'>https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-4-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Persian, Urdu, Uyghur</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.OCR for .NET 24.4.2 release (DLLs-only).</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+The DLLs-only package of Aspose.OCR for .NET 24.4.2 offers new features, enhancements, and bug fixes to help you take your .NET OCR applications to the next level.
+
+### More Languages Supported
+
+You can easily recognize text in Persian (Farsi), Urdu, and Uyghur languages with the latest update to the C# OCR API, along with mixed-language scenarios with English. The following C# code example showcases how to recognize text in the Persian language:
+
+```c#
+
+// Initialize Aspose.OCR for .NET recognition API
+Aspose.OCR.AsposeOcr recognitionEngine = new Aspose.OCR.AsposeOcr();
+// Add image
+Aspose.OCR.OcrInput input = new Aspose.OCR.OcrInput(Aspose.OCR.InputType.SingleImage);
+input.Add("source.png");
+// Set recognition language
+Aspose.OCR.RecognitionSettings recognitionSettings = new Aspose.OCR.RecognitionSettings();
+recognitionSettings.Language = Aspose.OCR.Language.Pes;
+// Recognize image
+List<Aspose.OCR.RecognitionResult> results = recognitionEngine.Recognize(input, recognitionSettings);
+Console.WriteLine(results[0].RecognitionText);
+
+```
+*[Source\*](https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-4-2-release-notes/)*
+
+
+### Improved Arabic Text Recognition
+
+Experience improved accuracy while processing Arabic text documents using the Aspose.OCR for .NET API and enhance the capabilities of your OCR applications.
+
+### Code Migration Simplified
+
+The latest release of the .NET API ensures all existing code continues functioning with clear deprecation warnings for future language code updates.
+
+
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.OCR for .NET 24.4.2 Release Notes](https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-4-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
