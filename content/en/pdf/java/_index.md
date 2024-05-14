@@ -122,7 +122,7 @@ family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Them
 tags: ["Aspose Total", "Aspose PDF", "Aspose Java API", "pdf java library", "pdf java class", "Maven", "PDF", "CGM", "EPUB", "HTML", "TeX", "MHT", "PCL", "PS", "Postscript", "SVG", "XML", "XPS", "XSLFO", "MD", "Markdown", "XLS", "XLSX", "PPTX", "DOC", "DOCX", "MobiXML", "JPEG", "EMF", "PNG", "BMP", "GIF", "TIFF", "Text", "document compression", "table creation", "graph", "font", "bookmark", "data source", "attachment", "annotation", "export", "print", "font", "image", "form", "stamp", "watermark", "link", "security", "signature", "TrueType", "CJK", "Unicode", "CMYK", "PDFA", "XML", "FDF", "XFDF", "stamp", "watermark", "Windows", "Linux", "Mac", "J2SE", "extract text", "text extraction", "PDF to DOC", "PDF to DOCX", "PDF to XLS", "PDF to XLSX", "PDF to PPTX", "HTML to PDF", "MHTML to PDF", "PDF to HTML", "BMP to PDF", "CGM to PDF", "DICOM to PDF", "EMF to PDF", "JPG to PDF", "PNG to PDF", "SVG to PDF", "TIFF to PDF", "PDF to TIFF", "PDF to SVG", "EPUB to PDF", "Markdown to PDF", "MD to PDF", "PCL to PDF", "TXT to PDF", "XPS to PDF", "PS to PDF", "Postscript to PDF", "XML to PDF", "XSLFO to PDF", "LaTeX to PDF", "TeX to PDF", "PDF to EPUB", "PDF to LaTeX", "PDF to TeX", "PDF to TXT", "PDF to XPS", "PDF to PDF A_1b", "PDF to PDF A_3b", "PDF to PDF A_3a", "PDF to PDF A_2a", "PDF to PDF A_3U", "PDFA to PDF"]
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-pdf/"
-weight: 02	#rem
+weight: 2	
 forumLink: https://forum.aspose.com/c/pdf/10
 productLink: https://products.aspose.com/pdf/java/
 releaseNotesLink: https://releases.aspose.com/pdf/java/release-notes/
