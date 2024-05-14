@@ -12,7 +12,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "280"
 homepage_package_type: "Pip"
 homepage_package_link: "https://pypi.org/project/aspose-pdf-for-python-via-java/"
-weight:  10
+weight: 9
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/pdf" linktext=" Support Forum " >}}

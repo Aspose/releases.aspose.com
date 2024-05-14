@@ -14,7 +14,6 @@ family_listing_page_package: "280"
 homepage_package_type: "NPM"
 homepage_package_link: "https://www.npmjs.com/package/asposepdfnodejs"
 weight: 12
-
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/pdf/10" linktext="Support Forum" >}}

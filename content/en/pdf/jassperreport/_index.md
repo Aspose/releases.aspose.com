@@ -11,7 +11,7 @@ family_listing_page_type: "2"
 family_listing_page_venture: "4"
 family_listing_page_package: ""
 tags: ['Aspose', 'Aspose.PDF', 'Aspose.Total', 'PDF', 'JRXML', 'PDF', 'PDFA', 'PPTX', 'JasperReports', 'JasperServer', 'report', 'export', 'table', 'chart', 'extension', 'conversion']
-weight:  7
+weight: 7
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/pdf" linktext=" Support Forum " >}}

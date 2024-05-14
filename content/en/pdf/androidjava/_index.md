@@ -12,7 +12,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "51"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-pdf-android-via-java/"
-weight:  4
+weight: 4
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/pdf" linktext=" Support Forum " >}}
