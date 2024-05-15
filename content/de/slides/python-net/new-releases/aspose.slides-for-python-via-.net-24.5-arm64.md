@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-24.5-arm64/"
-folder_name: "Aspose.Slides für Python über .NET 24.5 ARM64"
+folder_name: "Aspose.Slides für Python über .NET 24.5 MacOS ARM64"
 download_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-24.5-arm64/54d6d3f83060ca9d53888982ac470593-11-10859"
 download_text: "Download"
 intro_text: "Python-API zur Präsentationsmanipulation"
@@ -22,7 +22,7 @@ weight: 99
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Slides für Python über .NET 24.5 ARM64" imagelink="/resources/img/random-file-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Slides für Python über .NET 24.5 MacOS ARM64" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/slides/python-net/new-releases/aspose.slides-for-python-via-.net-24.5-arm64/54d6d3f83060ca9d53888982ac470593-11-10859" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/slides" >}}
