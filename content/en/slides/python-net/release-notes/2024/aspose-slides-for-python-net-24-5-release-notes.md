@@ -38,7 +38,7 @@ The following methods and properties are declared as obsolete and will be remove
 - [`ShapeUtil.graphics_path_to_geometry_path`](https://reference.aspose.com/slides/python-net/aspose.slides.util/shapeutil/graphics_path_to_geometry_path/#asposepydrawingdrawing2dgraphicspath)
 - [`ShapeUtil.geometry_path_to_graphics_path`](https://reference.aspose.com/slides/python-net/aspose.slides.util/shapeutil/geometry_path_to_graphics_path/#igeometrypath)
 
-### EnumerableFrameArgs.get_frame() return value type replaced to `IImage`
+### EnumerableFrameArgs.get_frame() return value type replaced to IImage
 
 The return type of the [`get_frame`](https://reference.aspose.com/slides/python-net/aspose.slides.export/enumerableframeargs/get_frame/#) method for the [`EnumerableFrameArgs`](https://reference.aspose.com/slides/python-net/aspose.slides.export/enumerableframeargs/) class was replaced to [`IImage`](https://reference.aspose.com/slides/python-net/aspose.slides/iimage/) from `Bitmap`. This is required as a part of the Modern API transition.
 
