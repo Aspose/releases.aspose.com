@@ -78,7 +78,7 @@ rewrite ^/repo/com/vpsoft/rms/vpsoft-rms-parent/9.4.0-RELEASE/vpsoft-rms-parent-
 rewrite ^/releases-qa.aspose.com/sitemap-3d.xml$ https://releases-qa.aspose.com/en/sitemap-3d.xml permanent;
 rewrite ^/slides/cpp/release-notes/2024/aspose-slides-for-net-24-4-release-notes/$ https://releases-qa.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-4-release-notes/ permanent;
 rewrite ^/tex/net/tex/net/$ https://releases-qa.aspose.com/tex/net/ permanent;
-rewrite ^/words/net.$ https://releases-qa.aspose.com/words/net/ permanent;
+# rewrite ^/words/net.$ https://releases-qa.aspose.com/words/net/ permanent;
 rewrite ^/words/python.$ https://releases-qa.aspose.com/words/python/ permanent;
 rewrite ^//repo/$ https://releases-qa.aspose.com/java/repo/ permanent;
 rewrite ^/3d/net/new-releases/aspose.3d-for-.net-24.3driveboots$ https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-24.3/ permanent;
