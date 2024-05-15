@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.3d-for-.net-24.4-(dlls-only)"
-description: " "
+title: "Aspose.3D .NET 24.4 (DLLs) - Add Blender Imports to 3D Apps"
+description: "Extend your .NET development capabilities with Blender support in Aspose.3D .NET 24.4. Download the DLLs package for a lightweight & efficient solution."
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-24.4-(dlls-only)/"
@@ -43,8 +43,36 @@ weight: 360
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-4-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 24.4 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 24.4 release (DLLs-only).</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+The Aspose.3D for .NET 24.4 (DLLs-only package) offers a streamlined solution for developers seeking to integrate Blender imports into their .NET projects. 
+
+### Announcing Blender Support
+
+With Blender support, C# developers can take their 3D file processing apps to the next level and import Blender models directly into their solutions.
+
+### Upgraded DXF to glTF Conversion
+
+This update to the 3D C# API includes improved handling of DXF files, and enhances DXF to glTF conversion.
+
+### Public API Changes
+
+To facilitate seamless Blender integration, we have added the relevant file format, `Blender`, to the existing class `Aspose.ThreeD.FileFormat`.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.3D for .NET 24.4 Release Notes](https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.note-for-.net-24.2-(dlls-only)"
-description: " "
+title: "Aspose.Note .NET 24.2 (DLLs) - Rich Text, Image Replacement"
+description: "Empower C# apps with efficient OneNote manipulation. Download Aspose.Note .NET 24.2 (DLLs package) for richer RichText handling & image replacement."
 keywords: ""
 page_type: single_release_page
 folder_link: "/note/net/new-releases/aspose.note-for-.net-24.2-(dlls-only)/"
@@ -43,8 +43,32 @@ weight: 207
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/note/net/release-notes/2024/aspose-note-for-net-24-2-release-notes/'>https://releases.aspose.com/note/net/release-notes/2024/aspose-note-for-net-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Note for .NET 24.2 (Dlls Only) release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Note for .NET 24.2 (DLLs-only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+.NET developers can utilize Aspose.Note for .NET 24.2 (DLLs-only package) to integrate improved OneNote processing capabilities into their solutions. Work with new properties for RichText elements, and other features on a platform of your choice.
+
+### Rich Text Improvements
+
+Effortlessly extract valuable information like titles, dates, and times from `RichText` elements with the newly introduced `IsTitleText`, `IsTitleDate`, and `IsTitleTime` properties in this API version.
+
+### Optimized Image Replacement
+
+With the latest C# OneNote API update, you can replace entire images in a OneNote file with a single call using the enhanced `Image.Replace` method.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Note for .NET 24.2 Release Notes](https://releases.aspose.com/note/net/release-notes/2024/aspose-note-for-net-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

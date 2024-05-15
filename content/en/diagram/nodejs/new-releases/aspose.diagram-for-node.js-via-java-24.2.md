@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.diagram-for-node.js-via-java-24.2"
-description: " "
+title: "Visio Diagrams API 24.2: Updated SVG Conversion in Node.js"
+description: "Streamline your Visio diagram apps. Aspose.Diagram Node.js via Java 24.2 fixes text layout in VSDX to SVG conversion & gradient fill issues. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-24.2/"
@@ -43,8 +43,36 @@ weight: 40
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/diagram/nodejs/release-notes/2024/aspose-diagram-for-node-js-via-java-24-2-release-notes/'>https://releases.aspose.com/diagram/nodejs/release-notes/2024/aspose-diagram-for-node-js-via-java-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Node.js via Java 24.2</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Node.js via Java 24.2.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+This update of Aspose.Diagram for Node.js via Java enables developers to create, edit, and convert diagrams within their Node.js applications. It resolves text layout and gradient fill problems during VSDX to SVG conversions, enhancing the overall diagramming experience.
+
+### VSDX to SVG Conversion in Node.js
+
+Version 24.2 of the Visio Diagrams API addresses text layout issues and ensures accurate representation of text elements when converting VSDX diagrams to SVG format.
+
+### Enhanced Gradient Fill Support
+
+Gradient fills are now preserved correctly during VSDX to SVG conversions, offering a cleaner representation of the original diagram within your Visio document processing solutions.
+
+### Corrected Icon Rendering
+
+We have taken care of the minor visual inconsistencies with icons displayed on the top left and right corners of the diagram. Aspose.Diagram for Node.js via Java 24.2 ensures the icons are displayed correctly.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Diagram for Node.js via Java 24.2 Release Notes](https://releases.aspose.com/diagram/nodejs/release-notes/2024/aspose-diagram-for-node-js-via-java-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

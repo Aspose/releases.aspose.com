@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.diagram-for-node.js-via-java-24.4"
-description: " "
+title: "Aspose.Diagram Node.js 24.4: Improved VSD Import & Footers"
+description: "Download Aspose.Diagram Node.js via Java 24.4 for enhanced VSD import, fixed footer rendering in trial versions, & corrected connector rule endpoint values."
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-24.4/"
@@ -45,6 +45,34 @@ weight: 42
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Node.js via Java 24.4</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+This release of Aspose.Diagram for Node.js via Java 24.4 focuses on improving stability and addressing reported issues. 
+
+### Improved VSD Import
+
+We have resolved the issues with missing text from imported VSD files to give our users an optimized diagram processing experience in Node.js.
+
+### Correct Footer Rendering
+
+The latest update to the MS Visio API delivers a fix for incorrect footer display in Visio files generated using the trial version.
+
+### Accurate Connector Rule Endpoints
+
+Aspose.Diagram for Node.js via Java 24.4 includes an update where the connector rule endpoints now return the correct value.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Diagram for Node.js via Java 24.4 Release Notes](https://releases.aspose.com/diagram/nodejs/release-notes/2024/aspose-diagram-for-node-js-via-java-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

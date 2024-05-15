@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.diagram-for-node.js-via-java-24.1"
-description: " "
+title: "Streamline Visio Workflows in Node.js with Aspose.Diagram 24.1"
+description: "Integrate optimized diagram loading, accurate PNG export & Visio to VSDX conversions to your apps using Aspose.Diagram Node.js Java 24.1. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-24.1/"
@@ -43,8 +43,36 @@ weight: 39
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/diagram/nodejs/release-notes/2024/aspose-diagram-for-node-js-via-java-24-1-release-notes/'>https://releases.aspose.com/diagram/nodejs/release-notes/2024/aspose-diagram-for-node-js-via-java-24-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Node.js via Java 24.1</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Node.js via Java 24.1.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Great news for Node.js developers! Aspose.Diagram for Node.js via Java 24.1 has been released, and it brings exciting enhancements and resolves critical bugs to elevate your diagramming experience.
+
+### Streamlined Font Handling
+
+Experience improved diagram loading with this API release, and ensure proper handling of fonts within the diagrams.
+
+### Accurate VSD to VSDX Conversion
+
+Supercharge Visio workflows in Node.js diagram apps with optimized VSD to VSDX conversions. This functionality enhances the capabilities of your Microsoft Visio conversion solutions.
+
+### Flawless PNG Saving
+
+Aspose.Diagram for Node.js via Java 24.1 caters to the issues causing loss of data in the right half of diagrams when saving them as PNG images.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Diagram for Node.js via Java 24.1 Release Notes](https://releases.aspose.com/diagram/nodejs/release-notes/2024/aspose-diagram-for-node-js-via-java-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

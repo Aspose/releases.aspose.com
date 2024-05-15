@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.3d-for-.net-24.3-(dlls-only)"
-description: " "
+title: "Mesh Optimization, File Systems | C# 3D Apps API 24.3 (DLLs)"
+description: "Enjoy optimized mesh memory usage, create new file systems & improve FBX import in your C# 3D apps. Download Aspose.3D for .NET 24.3 (DLLs-only) now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-24.3-(dlls-only)/"
@@ -43,8 +43,53 @@ weight: 358
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-3-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 24.3 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 24.3 release (DLLs-only).</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Elevate your .NET development experience with Aspose.3D for .NET 24.3 (DLLs-only package). This update equips you with advanced mesh optimization and flexible file system management.
+
+### Mesh Optimization Enhancements
+
+.NET developers can experience finer control over tolerance levels for control points, normals, and UVs, enabling efficient memory usage with the new `Mesh.Optimize` method.
+
+### FBX Compatibility
+
+The latest update to the C# 3D apps API lets you reconstruct PBR materials from FBX files with non-standard definitions and expand import functionality.
+
+### File System APIs
+
+Seamlessly create local, memory-based, or dummy file systems for streamlined file operations within your 3D document processing solutions. The following code example highlights this functionality in C#:
+
+```c#
+
+    var inputFile = "input.fbx";
+    var format = FileFormat.Detect(inputFile);
+    //create a load options instance and specify a local file system
+    var opt = format.CreateLoadOptions();
+    opt.FileSystem = FileSystem.CreateLocalFileSystem("textures/");
+    //load the file
+    var scene = Scene.FromFile(inputFile, opt);
+
+```
+*[Source\*](https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-3-release-notes/)*
+
+### Changes to the Public API
+
+We have introduced various new API members and removed a few others to enhance the overall user experience and stability for .NET developers.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.3D for .NET 24.3 Release Notes](https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
