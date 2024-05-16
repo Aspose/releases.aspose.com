@@ -67,6 +67,7 @@ rewrite (.*)/java/new-releases/.* https://releases-qa.aspose.com$1/java/ permane
 rewrite (.*)/java/new-releases$ https://releases-qa.aspose.com$1/java/ permanent;
 
 # New redirects added for releases.aspose.com URLs.
+rewrite ^/cad/java/"$ https://releases-qa.aspose.com/cad/java/ permanent;
 rewrite ^/plugins/aspose-barcode/eclipse/barcode-maven/20.10/site.xml$ https://releases-qa.aspose.com/ permanent;
 rewrite ^/java/repo$ https://releases-qa.aspose.com/java/repo/ permanent;
 rewrite ^/slides/java/2$ https://releases-qa.aspose.com/slides/java/ permanent;
@@ -79,7 +80,7 @@ rewrite ^/releases-qa.aspose.com/sitemap-3d.xml$ https://releases-qa.aspose.com/
 rewrite ^/slides/cpp/release-notes/2024/aspose-slides-for-net-24-4-release-notes/$ https://releases-qa.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-4-release-notes/ permanent;
 rewrite ^/tex/net/tex/net/$ https://releases-qa.aspose.com/tex/net/ permanent;
 # rewrite ^/words/net.$ https://releases-qa.aspose.com/words/net/ permanent;
-rewrite ^/words/python.$ https://releases-qa.aspose.com/words/python/ permanent;
+# rewrite ^/words/python.$ https://releases-qa.aspose.com/words/python/ permanent;
 rewrite ^//repo/$ https://releases-qa.aspose.com/java/repo/ permanent;
 rewrite ^/3d/net/new-releases/aspose.3d-for-.net-24.3driveboots$ https://releases-qa.aspose.com/3d/net/new-releases/aspose.3d-for-.net-24.3/ permanent;
 rewrite ^/API/$ https://releases-qa.aspose.com/ permanent;
