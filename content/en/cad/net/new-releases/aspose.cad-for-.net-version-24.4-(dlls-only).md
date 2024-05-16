@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cad-for-.net-version-24.4-(dlls-only)"
-description: " "
+title: "Supercharge CAD Workflows | Aspose.CAD .NET 24.4 (DLLs)"
+description: "Unleash new features for DWG/DXF conversion, PDF optimization & vectorization. Download Aspose.CAD .NET 24.4 (DLLs package) and empower your apps."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cad/net/new-releases/aspose.cad-for-.net-version-24.4-(dlls-only)/"
@@ -45,6 +45,42 @@ weight: 227
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.CAD for .NET assemblies v24.4. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.CAD for .NET without the MSI installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Developers can use the DLLs-only package of Aspose.CAD for .NET 24.4 to integrate a range of enhancements for superior CAD manipulation within C# applications on a platform of their choice.
+
+### Seamless Vectorization
+
+Convert bitmap drawings (JPG, etc.) to clean and editable vector formats (SVG) using the enhanced paper-to-CAD functionality in this C# CAD API release.
+
+### Optimized DWG/DXF Processing
+
+Experience smoother DWG/DXF processing with upgraded DGN V8 files loading, hidden entities handling, and ensuring accurate insert entity export.
+
+### Streamlined PDF Generation
+
+Supercharge your CAD solutions by integrating optimized PDF generation functionality with faster conversion times and better handling of complex drawings.
+
+### Improved DWF/DWFX Support
+
+Aspose.CAD for .NET 24.4 now helps you load specific page sizes and page numbers within DWF/DWFX files.
+
+### Additional Enhancements
+
+Several bugs have been fixed and enhancements added that deliver a more robust and efficient CAD experience on the .NET platform.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.CAD for .NET 24.4 Release Notes](https://releases.aspose.com/cad/net/release-notes/2024/aspose-cad-for-net-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

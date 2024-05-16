@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.3d-for-python-via-.net-24.2.0-linux-x86-64"
-description: " "
+title: ".NET 8.0 Support, glTF Conversion: Python 3D API 24.2 (Linux)"
+description: "Download Aspose.3D Python via .NET 24.2.0 on Linux for improved OBJ to GLTF conversion, .NET 8.0 support, and more. Enhance your 3D apps now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/python-net/new-releases/aspose.3d-for-python-via-.net-24.2.0-linux-x86-64/"
@@ -45,6 +45,61 @@ weight: 60
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for Python via .NET 24.2.0 Linux x86-64.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Linux developers can integrate the features introduced in Aspose.3D for Python via .NET 24.2.0 to upgrade their 3D document processing apps running on Linux.
+
+### OBJ to glTF Conversion Enhancements
+
+Effortlessly manage large OBJ files when converting them to the glTF file format. With this Python 3D API version, you can convert your OBJ files to glTF format accurately.
+
+### Introducing .NET 8.0 Support for Linux
+
+Aspose.3D for Python via .NET 24.2.0 includes .NET 8.0 framework support which enables Python developers to develop 3D apps for Linux systems by targeting their favorite framework and enhancing compatibility.
+
+### FBX Export Updates
+
+FBX export functionality has been upgraded in this API release. It now possesses transformation data for skeleton nodes, which ensures accurate representation.
+
+### Supercharged TriMesh Functionality
+
+The new `add_triangle()` function in the latest release for Linux machines provides finer control over `TriMesh` objects by providing manual triangle addition.
+
+### Triangulate the Mesh With Ease
+
+Streamline mesh manipulation using the newly added `triangulate()` function in the `Mesh` class by automatically converting polygons into triangles. The following code example highlights the method usage:
+
+```python
+
+# The plane mesh has only one polygon with 4 control points
+mesh = Plane().to_mesh()
+# After triangulated, the new mesh's rectangle will become 2 triangles.
+triangulated = mesh.triangulate()
+
+```
+*[Source\*](https://releases.aspose.com/3d/python-net/release-notes/2024/aspose-3d-for-python-net-24-2-release-notes/)*
+
+
+### Bug Fixes
+
+- GLTF Import Enhancements (THREEDNET-1494): Added support for the KHR_mesh_quantization extension for optimized GLTF imports.
+- GLB to FBX Animation Export Fix (THREEDNET-1495): Resolved an issue that caused Slerp failures during animation export from GLB to FBX.
+- Maya Importer Stability (THREEDNET-1496): Fixed a bug that could halt the Maya importer when encountering unsupported attribute types.
+- USD Import Improvements (THREEDNET-1497): Enhanced handling of USD files with primitives lacking valid property values.
+- 3MF Build Element Fix (THREEDNET-1498): Resolved an issue with external references in the build element of 3MF files.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.3D for Python via .NET 24.2.0 Release Notes](https://releases.aspose.com/3d/python-net/release-notes/2024/aspose-3d-for-python-net-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

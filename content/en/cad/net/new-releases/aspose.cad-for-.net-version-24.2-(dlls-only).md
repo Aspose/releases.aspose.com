@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cad-for-.net-version-24.2-(dlls-only)"
-description: " "
+title: "Updated CAD Processing, Export in .NET: CAD API 24.2 (DLLs)"
+description: "Enhance C# apps with Aspose.CAD .NET 24.2 (DLLs-only). Leverage blind watermarks, direct DWF export, SVG to OBJ conversion & more. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/cad/net/new-releases/aspose.cad-for-.net-version-24.2-(dlls-only)/"
@@ -45,6 +45,38 @@ weight: 223
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.CAD for .NET assemblies v24.2. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.CAD for .NET without the MSI installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Looking to streamline your .NET development workflow? Aspose.CAD for .NET 24.2 (DLLs-only) provides a lightweight download option with all the core functionalities of the latest release.
+
+### DWG/DWF Processing Upgrades
+
+The C# CAD API now offers enhanced handling of blind watermarks in DWF files, support for reading CFB format files, and better extraction of BMP images from OLE streams.
+
+### New Additions to The Export Options
+
+Aspose.CAD for .NET 24.2 allows you to directly export DWF files to DWF as well as DWFX files to DWF using the ePlot interface.
+
+### Updated Rendering and Conversion
+
+We have added enhanced support for dashed line styles, SHX fonts, 3D model positioning in PDFs, and SVG to DWG/OBJ conversion in the latest .NET API update.
+
+### More Improvements and Fixes
+
+Various enhancements and issues related to parallel DWF to PDF conversion, dimension background fill implementation, and DWG/DWF file opening and saving have been resolved.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.CAD for .NET 24.2 Release Notes](https://releases.aspose.com/cad/net/release-notes/2024/aspose-cad-for-net-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

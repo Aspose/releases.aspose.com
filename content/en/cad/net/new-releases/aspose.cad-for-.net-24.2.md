@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cad-for-.net-24.2"
-description: " "
+title: "Optimized CAD Processing, Export in .NET: CAD API 24.2 (MSI)"
+description: "Enhance C# development with Aspose.CAD .NET 24.2 (MSI). Leverage blind watermarks, direct DWF export, SVG to OBJ conversion & more. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/cad/net/new-releases/aspose.cad-for-.net-24.2/"
@@ -43,8 +43,40 @@ weight: 222
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cad/net/release-notes/2024/aspose-cad-for-net-24-2-release-notes/'>https://releases.aspose.com/cad/net/release-notes/2024/aspose-cad-for-net-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Contains MSI installer for full product installation of Aspose.CAD for .NET v24.2</div>
+      <h4>Description</h4><div class="HTMLDescription">Contains MSI installer for full product installation of Aspose.CAD for .NET v24.2.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Upgrade your C# apps with the latest Aspose.CAD for .NET 24.2 (MSI installer) release! This release equips developers with improved DWG/DWF processing capabilities, new export options, and more.
+
+### Enhanced DWG/DWF Processing
+
+The latest CAD API update offers improved handling of blind watermarks in DWF files, support for reading CFB format files, and better extraction of BMP images from OLE streams.
+
+### New Export Options
+
+You can directly export DWF files to DWF as well as DWFX files to DWF using the ePlot interface in Aspose.CAD for .NET 24.2.
+
+### Improved Rendering and Conversion
+
+With this .NET API version, we have added enhanced support for dashed line styles, SHX fonts, 3D model positioning in PDFs, and SVG to DWG/OBJ conversion.
+
+### More Improvements and Fixes
+
+Various enhancements and issues related to parallel DWF to PDF conversion, dimension background fill implementation, and DWG/DWF file opening and saving have been resolved.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.CAD for .NET 24.2 Release Notes](https://releases.aspose.com/cad/net/release-notes/2024/aspose-cad-for-net-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
