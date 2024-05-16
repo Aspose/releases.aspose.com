@@ -1,20 +1,21 @@
 ---
+
 title: "SVG Processing APIs | Aspose.SVG Product Family"
-description: "Download .NET, Java, C++ & Android libraries to create, manipulate, convert & render SVG images. Family also includes extension, solution & exporter for Reporting Services, SharePoint & JasperReports. "
-keywords: "SVG API, SVG Library "
-linktitle: "Aspose.SVG for Python via .NET"
-family_listing_page_title: "Aspose.SVG for Python via .NET"
-family_listing_page_description: "Aspose.SVG for Python via .NET is an advanced SVG Processing API that enables you to perform a wide range of SVG processing tasks directly within your applications."
-family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/svg/272x272/aspose_svg-for-net.png"
-family_listing_page_selfHosted: "1"
-family_listing_page_type: "1"
-family_listing_page_venture: "4"
-family_listing_page_package: "280"
-homepage_package_type: "Pip"
-homepage_package_link: "https://pypi.org/project/aspose-svg/"
-weight:  7
+description:  "Download .NET, Java, C++ & Android libraries to create, manipulate, convert & render SVG images. Family also includes extension, solution & exporter for Reporting Services, SharePoint & JasperReports."
+keywords:  "SVG API, SVG Library"
+family_listing_page_title:  "Aspose.SVG for Python via .NET"
+family_listing_page_description:  "Aspose.SVG for Python via .NET is an advanced SVG Processing API that enables you to perform a wide range of SVG processing tasks directly within your applications."
+family_listing_page_iconurl:  "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/svg/272x272/aspose_svg-for-net.png"
+weight: 7
+
 ---
 
+{{< dbToolbar link="https://forum.aspose.com/c/svg/42" linktext="Support Forum" >}}
+
+{{< ProductPageWrapper >}}
+<!-- ProductPageContent-->
+{{< Common/wrapper class="col-md-12" >}}
+{{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< dbToolbar link="https://forum.aspose.com/c/svg" linktext=" Support Forum " >}}
 
 {{< Common/h3 text="Download Aspose.SVG Python Library for SVG Processing"  >}}
@@ -49,4 +50,13 @@ You can easily use  <b>aspose-svg</b> for Python from  {{< Common/link href="htt
    {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="svg" product="python" >}}
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
+{{< /ProductPageWrapper >}}
+{{< /Common/wrapper >}}
+{{< /Common/wrapper >}}
+<!-- /ProductPageContent-->
+
+<!-- ReleasesListProductPage-->
+{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="svg" product="python" >}}
+<!-- /ReleasesListProductPage-->
+
 {{< /ProductPageWrapper >}}
