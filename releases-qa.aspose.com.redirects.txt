@@ -199,5 +199,6 @@ rewrite ^/zh/words/androidjava/new-releases/aspose.words-for-java-23.12/$ https:
 rewrite ^/zip/password-recovery$ https://releases-qa.aspose.com/zip/ permanent;
 rewrite ^/zip/password-recovery/7.zip$ https://releases-qa.aspose.com/zip/ permanent;
 rewrite ^/words/java\)$ https://releases.aspose.com/words/java/ permanent;
+rewrite ^/words/java/\)$ https://releases.aspose.com/words/java/ permanent;
 rewrite ^/words/python/\)$ https://releases.aspose.com/words/python/ permanent;
 
