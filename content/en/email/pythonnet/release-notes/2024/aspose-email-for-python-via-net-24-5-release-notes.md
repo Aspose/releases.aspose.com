@@ -1,5 +1,5 @@
 ---
-id: "aspose-email-for-python-via-net-24-4-release-notes"
+id: "aspose-email-for-python-via-net-24-5-release-notes"
 slug: "aspose-email-for-python-via-net-24-5-release-notes"
 linktitle: "Aspose.Email for Python via .NET 24.5 Release Notes"
 title: "Aspose.Email for Python via .NET 24.5 Release Notes"
