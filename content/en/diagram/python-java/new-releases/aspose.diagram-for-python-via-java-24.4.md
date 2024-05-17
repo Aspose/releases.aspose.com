@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.diagram-for-python-via-java-24.4"
-description: " "
+title: "Aspose.Diagram Python 24.4: Optimized Visio Import & More"
+description: "Upgrade your Python apps! Aspose.Diagram Python via Java 24.4 improves Visio import/export, footer management & brings connector rule fix. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/python-java/new-releases/aspose.diagram-for-python-via-java-24.4/"
@@ -43,8 +43,36 @@ weight: 32
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/diagram/python-java/release-notes/2024/aspose-diagram-for-python-via-java-24-4-release-notes/'>https://releases.aspose.com/diagram/python-java/release-notes/2024/aspose-diagram-for-python-via-java-24-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Python via Java 24.4</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Python via Java 24.4.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+### Optimized Visio Import
+
+Aspose.Diagram for Python via Java 24.4 brings accurate import of VSD files including text elements and ensures data fidelity in your diagrams.
+
+### Accurate Footers
+
+Footers are now displayed correctly in Visio files generated using the trial version of the Python Visio document processing API.
+
+### Precise Connector Rules
+
+With the latest version, connector rule endpoints return the expected values, eliminating potential errors in your diagrams.
+
+Download Aspose.Diagram for Python via Java 24.4 and start building high-performance Visio manipulation solutions!
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Diagram for Python via Java 24.4 Release Notes](https://releases.aspose.com/diagram/python-java/release-notes/2024/aspose-diagram-for-python-via-java-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

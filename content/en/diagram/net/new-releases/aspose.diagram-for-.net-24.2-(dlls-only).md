@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.diagram-for-.net-24.2-(dlls-only)"
-description: " "
+title: "Aspose.Diagram .NET 24.2: Optimized Group Handling (DLLs)"
+description: "Build feature-rich C# diagram processing apps with improved group handling, line rendering, and PDF export. Download Aspose.Diagram .NET 24.2 DLLs today."
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/net/new-releases/aspose.diagram-for-.net-24.2-(dlls-only)/"
@@ -43,8 +43,33 @@ weight: 511
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-2-release-notes/'>https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for .NET 24.2 (DLLs Only)</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for .NET 24.2 (DLLs-only)</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.Diagram for .NET 24.2 (DLLs-only package) is here! This update brings essential enhancements for working with Visio diagrams in your .NET applications, on any platform. 
+
+### Key Highlights
+
+- **Enhanced Group Handling:** Experience enhanced management of shapes as they will now connect properly within multi-level groups.
+- **Updated Line Rendering:** Line rendering in Aspose.Diagram for .NET 24.2 has been improved and it now removes unnecessary line breaks and keeps them within a frame.
+- **Fixed Formula Setting:** The latest update to the .NET API includes fixes for setting formulas within groups.
+- **Encoding of Cyrillic Characters:** Encode Cyrillic characters during VSD to VSDX import with the .NET Visio processing API.
+- **Optimized PDF Export:** PDF export functionality is optimized as we have eliminated “Ghost-Link” artifacts appearing in red-marked sections during VSDX to PDF conversion.
+- **Bug Fixes:** Aspose.Diagram for .NET 24.2 release also includes various bug fixes to improve overall stability and performance.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Diagram for .NET 24.2 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

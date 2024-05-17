@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.diagram-for-python-via-java-24.2"
-description: " "
+title: "Enhanced VSDX to SVG Conversion - Diagram Python API 24.2"
+description: "Improved VSDX to SVG conversion, preserved gradient fills & icon placement are added to this release. Download Aspose.Diagram Python Java 24.2 now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/python-java/new-releases/aspose.diagram-for-python-via-java-24.2/"
@@ -43,8 +43,40 @@ weight: 30
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/diagram/python-java/release-notes/2024/aspose-diagram-for-python-via-java-24-2-release-notes/'>https://releases.aspose.com/diagram/python-java/release-notes/2024/aspose-diagram-for-python-via-java-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Python via Java 24.2</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Python via Java 24.2.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+### Accurate VSDX to SVG Conversion
+
+Aspose.Diagram for Python via Java 24.2 streamlines VSDX to SVG conversion by resolving text layout issues and accurately representing gradient fills.
+
+### Improved Text Rendering: 
+
+Text elements within VSDX diagrams are now converted to SVG with proper layout without any inconsistencies.
+
+### Preserved Gradient Fills
+
+With the latest Python diagram API release, gradient fills applied to shapes in VSDX diagrams are maintained during the conversion process resulting in refined SVG representations.
+
+### Corrected Icon Placement
+
+The issues related to the positioning of icons on the top left and right corners of diagrams have been addressed in this API version.
+
+Download Aspose.Diagram for Python via Java 24.2 and enhance Visio diagram processing capabilities in your Python app.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Diagram for Python via Java 24.2 Release Notes](https://releases.aspose.com/diagram/python-java/release-notes/2024/aspose-diagram-for-python-via-java-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

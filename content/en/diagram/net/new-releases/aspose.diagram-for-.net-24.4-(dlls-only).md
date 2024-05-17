@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.diagram-for-.net-24.4-(dlls-only)"
-description: " "
+title: "C# Diagram API 24.4: Convert to PNG, .NET 8.0 Support (DLLs)"
+description: "Easily add improved VSDX to PNG conversion, .NET 8.0 support & more to your C# Visio apps. Download Aspose.Diagram .NET 24.4 (DLLs package) today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/net/new-releases/aspose.diagram-for-.net-24.4-(dlls-only)/"
@@ -43,8 +43,44 @@ weight: 515
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-4-release-notes/'>https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for .NET 24.4 (DLLs Only)</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for .NET 24.4 (DLLs-only).</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+This release provides the Aspose.Diagram for .NET 24.4 library in DLL format for a more streamlined download experience. It offers improved conversion accuracy and resolves various issues encountered during Visio file processing.
+
+### .NET 8.0 Support for App Development
+
+Support for the .NET 8.0 framework enables you to integrate Aspose.Diagram features with your existing .NET development environment.
+
+### Convert VSDX to PNG Images
+
+Our API equips developers with flawless image conversion features by fixing the issues related to shade colors in shapes rendering incorrectly while converting VSDX to PNG.
+
+### Optimized Text Rendering
+
+C# diagram API 24.4 allows processing Visio files with consistent text rendering.
+
+### Image Handling Enhancements
+
+Accurately display your images after conversion within your .NET diagram processing apps, as we have fixed the problems related to image processing.
+
+### Visio Import/Export Bug Fixes
+
+Aspose.Diagram for .NET 24.4 resolves several bugs related to missing shapes, incorrect page title encoding, connector visibility, auto-layout functionality, and character encoding during VSD to VSDX conversion.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Diagram for .NET 24.4 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.diagram-for-.net-24.2"
-description: " "
+title: "Aspose.Diagram .NET 24.2: Optimized Group Handling (MSI)"
+description: "Build feature-rich C# diagram processing apps with improved group handling, line rendering, and PDF export. Download Aspose.Diagram .NET 24.2 MSI today."
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/net/new-releases/aspose.diagram-for-.net-24.2/"
@@ -43,8 +43,33 @@ weight: 510
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-2-release-notes/'>https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Msi for Aspose.Diagram for .NET 24.2</div>
+      <h4>Description</h4><div class="HTMLDescription">MSI for Aspose.Diagram for .NET 24.2.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.Diagram for .NET 24.2 (MSI installer) brings several improvements and bug fixes to enhance your Visio diagram processing capabilities.
+
+### Key Highlights
+
+- **Optimized Group Handling:** This upgrade ensures shapes connect properly within multi-level groups.
+- **Improved Line Rendering:** We have improved line rendering in Aspose.Diagram for .NET 24.2 and it now removes unnecessary line breaks and keeps them within frame.
+- **Formula Setting Fix:** The issues with setting formulas within groups have been resolved.
+- **Cyrillic Character Encoding:** Accurate encoding of Cyrillic characters during VSD to VSDX import is now available in .NET Visio processing API.
+- **PDF Export Enhancement:** Experience improved PDF export functionality as we have eliminated "Ghost-Link" artifacts appearing in red marked sections during VSDX to PDF conversion.
+- **Bug Fixes:** Aspose.Diagram for .NET 24.2 release also includes various bug fixes to improve overall stability and performance.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Diagram for .NET 24.2 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

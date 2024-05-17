@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.3d-for-node.js-via-java-24.4"
-description: " "
+title: "Aspose.3D Node.js 24.4 - Import Blender Models, Convert DXF"
+description: "Boost your 3D workflows with Aspose.3D Node.js via Java 24.4. Enjoy Blender support & improved DXF to glTF conversion. Download now and start exploring!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/nodejs-java/new-releases/aspose.3d-for-node.js-via-java-24.4/"
@@ -43,8 +43,37 @@ weight: 5
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/3d/nodejs-java/release-notes/2024/aspose-3d-for-node-js-via-java-24-4-release-notes/'>https://releases.aspose.com/3d/nodejs-java/release-notes/2024/aspose-3d-for-node-js-via-java-24-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.3D for Node.js via Java 24.4</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.3D for Node.js via Java 24.4.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+### New Feature - Blender Import Support
+
+Aspose.3D for Node.js via Java now seamlessly imports Blender models, expanding your 3D model processing capabilities within your Node.js applications.
+
+### Enhanced DXF to glTF Conversion
+
+With this Python 3D API release, you can experience improved handling of DXF files during conversion to glTF format, ensuring better compatibility and accuracy.
+
+### API Changes
+
+The `com.aspose.threed.FileFormat` class welcomes a new member in this API version, `BLENDER`, reflecting the newly introduced Blender import functionality.
+
+
+Aspose.3D for Node.js via Java 24.4 upgrades your 3D development workflows with Blender import support and enhanced DXF conversions. Download the update and explore the possibilities!
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.3D for Node.js via Java 24.4 Release Notes](https://releases.aspose.com/3d/nodejs-java/release-notes/2024/aspose-3d-for-node-js-via-java-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

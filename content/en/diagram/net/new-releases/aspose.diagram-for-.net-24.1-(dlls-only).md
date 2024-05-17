@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.diagram-for-.net-24.1-(dlls-only)"
-description: " "
+title: ".NET 6 Support, Manage Shapes in C#: Visio API 24.1 (DLLs)"
+description: "Upgrade to Aspose.Diagram .NET 24.1 and leverage support for .NET 6 applications. Resolve shape conversion & formula bugs. Download DLLs package now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/net/new-releases/aspose.diagram-for-.net-24.1-(dlls-only)/"
@@ -43,8 +43,38 @@ weight: 509
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-1-release-notes/'>https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.Diagram for .NET assemblies</div>
+      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.Diagram for .NET 24.1 assemblies.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+The DLLs-only package of Aspose.Diagram for .NET 24.1 offers valuable enhancements and bug fixes to optimize your diagramming capabilities within the .NET solutions.
+
+### Key Highlights
+
+- **Upgraded .NET 6 Support:** Effortlessly integrate Aspose.Diagram capabilities into .NET 6 applications, and utilize its powerful diagramming features in your latest projects.
+
+### Bug Fixes
+
+We have fixed several issues in version 24.1 of Aspose.Diagram for .NET:
+
+- **Shape Flipping Corrected (DIAGRAMNET-53239):** The issue causing shapes to be flipped wrongly during VSD to VSDX conversion has been resolved in this C# Visio API update.
+- **Visibility of Hidden Masters (DIAGRAMNET-53240):** Masters hidden in VSS files are no longer incorrectly displayed after converting to VSSX format.
+- **Better LocPinY Handling (DIAGRAMNET-53242):** Manage the `LocPinY` property and ensure proper positioning of elements within diagrams.
+- **Retain Shape Formulas (DIAGRAMNET-53243):** Grouping shapes no longer leads to formula loss, maintaining data integrity within your diagrams.
+- **Shape Height Calculation Accuracy (DIAGRAMNET-53244):** Shape heights are now calculated precisely, resulting in visually accurate representations.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Diagram for .NET 24.1 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
