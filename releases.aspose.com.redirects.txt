@@ -167,7 +167,7 @@ rewrite /(.*)/ocr/net/redestinations/(.*) https://releases.aspose.com/ocr/net/ p
 rewrite /(.*)/pdf/net/examples/(.*) https://releases.aspose.com/pdf/net/ permanent;
 
 # New redirects added for releases.aspose.com URLs.
-rewrite ^/cad/java/"$ https://releases.aspose.com/cad/java/ permanent;
+rewrite ^/cad/java/\"$ https://releases.aspose.com/cad/java/ permanent;
 rewrite ^/plugins/aspose-barcode/eclipse/barcode-maven/20.10/site.xml$ https://releases.aspose.com/ permanent;
 rewrite ^/java/repo$ https://releases.aspose.com/java/repo/ permanent;
 rewrite ^/slides/java/2$ https://releases.aspose.com/slides/java/ permanent;
@@ -179,8 +179,8 @@ rewrite ^/repo/com/vpsoft/rms/vpsoft-rms-parent/9.4.0-RELEASE/vpsoft-rms-parent-
 rewrite ^/releases.aspose.com/sitemap-3d.xml$ https://releases.aspose.com/en/sitemap-3d.xml permanent;
 rewrite ^/slides/cpp/release-notes/2024/aspose-slides-for-net-24-4-release-notes/$ https://releases.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-4-release-notes/ permanent;
 rewrite ^/tex/net/tex/net/$ https://releases.aspose.com/tex/net/ permanent;
-# rewrite ^/words/net.$ https://releases.aspose.com/words/net/ permanent;
-# rewrite ^/words/python.$ https://releases.aspose.com/words/python/ permanent;
+rewrite ^/words/net\.$ https://releases.aspose.com/words/net/ permanent;
+rewrite ^/words/python\.$ https://releases.aspose.com/words/python/ permanent;
 rewrite ^//repo/$ https://releases.aspose.com/java/repo/ permanent;
 rewrite ^/3d/net/new-releases/aspose.3d-for-.net-24.3driveboots$ https://releases.aspose.com/3d/net/new-releases/aspose.3d-for-.net-24.3/ permanent;
 rewrite ^/API/$ https://releases.aspose.com/ permanent;
@@ -209,7 +209,7 @@ rewrite ^/cells/net/release-notes/2024/aspose-email-for-net-22-9-release-notes/$
 rewrite ^/cells/net/release-notes/2024/aspose-pdf-for-net-24-3-release-notes/$ https://releases.aspose.com/cells/net/release-notes/2024/aspose-cells-for-net-24-3-release-notes/ permanent;
 rewrite ^/cells/net/release-notes/2024/aspose-words-for-net-24-4-release-notes/$ https://releases.aspose.com/cells/net/release-notes/2024/aspose-cells-for-net-24-4-release-notes/ permanent;
 rewrite ^/cells/net/release-notes/2025/$ https://releases.aspose.com/cells/net/release-notes/ permanent;
-rewrite ^/cells/python-net/？$ https://releases.aspose.com/cells/python-net/ permanent;
+rewrite ^/cells/python-net/\？$ https://releases.aspose.com/cells/python-net/ permanent;
 rewrite ^/cells/python/new-releases/aspose.cells-for-python$ https://releases.aspose.com/cells/ permanent;
 rewrite ^/cells/python/new-releases/aspose.cells-for-python-24$ https://releases.aspose.com/cells/ permanent;
 rewrite ^/com/aspose/aspose-slides$ https://releases.aspose.com/java/repo/com/aspose/aspose-slides/ permanent;
@@ -221,7 +221,7 @@ rewrite ^/font/javascriptcpp$ https://releases.aspose.com/font/javascript-cpp/ p
 rewrite ^/gis/net/release-notes/2024/$ https://releases.aspose.com/gis/net/release-notes/ permanent;
 rewrite ^/java/aspose/aspose-ocr/24.1.0/aspose-ocr-24.1.0.pom$ https://releases.aspose.com/java/repo/com/aspose/aspose-ocr/24.1.0/aspose-ocr-24.1.0.pom permanent;
 rewrite ^/java/r$ https://releases.aspose.com/java/repo/ permanent;
-rewrite ^/java/repo'$ https://releases.aspose.com/java/repo/ permanent;
+rewrite ^/java/repo\'$ https://releases.aspose.com/java/repo/ permanent;
 rewrite ^/list/repo/com/aspose/$ https://releases.aspose.com/java/repo/com/aspose/ permanent;
 rewrite ^/net/$ https://releases.aspose.com/ permanent;
 rewrite ^/ocr/java/23-10/$ https://releases.aspose.com/ocr/java/23-10-0/ permanent;
@@ -298,3 +298,6 @@ rewrite ^/zh/cad/java/23-09/$ https://releases.aspose.com/zh/cad/java/ permanent
 rewrite ^/zh/words/androidjava/new-releases/aspose.words-for-java-23.12/$ https://releases.aspose.com/zh/words/androidjava/new-releases/aspose.words-for-android-via-java-23.12/ permanent;
 rewrite ^/zip/password-recovery$ https://releases.aspose.com/zip/ permanent;
 rewrite ^/zip/password-recovery/7.zip$ https://releases.aspose.com/zip/ permanent;
+rewrite ^/words/java\)$ https://releases.aspose.com/words/java/ permanent;
+rewrite ^/words/java/\)$ https://releases.aspose.com/words/java/ permanent;
+rewrite ^/words/python/\)$ https://releases.aspose.com/words/python/ permanent;
