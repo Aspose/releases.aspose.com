@@ -20,7 +20,7 @@ keywords:
 - "changelog"
 - "Han Xin"
 - "CODABAR"
-- "ECI"
+- "Encoding"
 menuItemWithNoContent: false
 ---
 
@@ -103,5 +103,5 @@ Following API members were marked 'obsolete' and will be removed in future relea
 - field DataMatrixEncodeMode.ExtendedCodetext
 - field DotCodeEncodeMode.ExtendedCodetext
 - field MaxiCodeEncodeMode.ExtendedCodetext
-- field QREncodeMode.ExtendedCodetext	
+- field QREncodeMode.ExtendedCodetext
 		
