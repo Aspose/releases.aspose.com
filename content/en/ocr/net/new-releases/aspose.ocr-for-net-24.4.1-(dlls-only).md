@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.ocr-for-net-24.4.1-(dlls-only)"
-description: " "
+title: "C# OCR API 24.4.1 (DLL): Updated PDF Export, Area Detection"
+description: "Upgraded PDF saving & document area detection are added to Aspose.OCR for .NET 24.4.1. Download the DLLs package now & enhance your C# OCR apps."
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/net/new-releases/aspose.ocr-for-net-24.4.1-(dlls-only)/"
@@ -43,8 +43,32 @@ weight: 350
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-4-1-release-notes/'>https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-4-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">searchable PDF, PHOTO mode</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.OCR for .NET 24.4.1 (DLLs-only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.OCR for .NET 24.4.1 provides improvements for developers integrating OCR functionalities into their C# apps. This release offers the library as DLLs for flexibility in working with the API across multiple platforms.
+
+### Upgraded Searchable PDF Saving 
+
+The latest C# OCR API release brings upgraded functionality for saving recognized text as searchable PDFs and helps improve information accessibility.
+
+### Improved Document Area Detection
+
+Enhanced accuracy for document area detection in photo mode is another important update in version 24.4.1 of the Aspose.OCR for .NET API. This feature delivers improved text extraction from image sources.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.OCR for .NET 24.4.1 Release Notes](https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-4-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

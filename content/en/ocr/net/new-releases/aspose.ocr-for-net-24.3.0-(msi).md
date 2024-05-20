@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.ocr-for-net-24.3.0-(msi)"
-description: " "
+title: "Broader Language Support in .NET Apps: OCR API 24.3.0 (MSI)"
+description: "Boost OCR accuracy & unlock 135 languages in your C# .NET projects. Download Aspose.OCR .NET 24.3.0 (MSI) and integrate powerful OCR functionalities."
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/net/new-releases/aspose.ocr-for-net-24.3.0-(msi)/"
@@ -43,7 +43,57 @@ weight: 343
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-3-0-release-notes/'>https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-3-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">The list of supported languages has been expanded to 135 languages.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.OCR for .NET 24.3.0 (MSI installer) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.OCR for .NET 24.3.0 brings exciting enhancements to elevate your Optical Character Recognition (OCR) experiences and build powerful .NET solutions.
+
+### Broader Language Support
+
+The latest OCR API version includes the ability to effortlessly recognize text in a staggering 135 languages, including Latin, Cyrillic, Chinese, and Indic scripts.
+
+### Enhanced OCR Accuracy
+
+Developers working on C# OCR applications can experience improved text recognition accuracy across various languages, including Cyrillic, Latin, Extended Latin, and more.
+
+### Automatic Language Detection
+
+This release of the Aspose.OCR for .NET API simplifies development by automatically detecting extended Latin and Cyrillic characters without manual language specification. The following code example demonstrates the feature usage in C#:
+
+```c#
+
+// Initialize Aspose.OCR for .NET recognition API
+Aspose.OCR.AsposeOcr recognitionEngine = new Aspose.OCR.AsposeOcr();
+// Add image
+Aspose.OCR.OcrInput input = new Aspose.OCR.OcrInput(Aspose.OCR.InputType.SingleImage);
+input.Add("source.png");
+// Set recognition language
+Aspose.OCR.RecognitionSettings recognitionSettings = new Aspose.OCR.RecognitionSettings();
+recognitionSettings.Language = Aspose.OCR.Language.ExtLatin;
+// Recognize image
+List<Aspose.OCR.RecognitionResult> results = recognitionEngine.Recognize(input, recognitionSettings);
+Console.WriteLine(results[0].RecognitionText);
+
+```
+*[Source\*](https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-3-0-release-notes/)*
+
+
+### Deprecated Language Codes
+
+You can easily upgrade existing applications with minimal code changes. Deprecated language codes are preserved for a smooth transition (removal scheduled for January 2025). 
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.OCR for .NET 24.3.0 Release Notes](https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-3-0-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
