@@ -86,15 +86,15 @@ Following QualitySettings API memebrs were removed:
 - UseOldBarcodeDetector,
 - AllowAdditionalRestorations,
 - AllowOneDWipedBarsRestoration,
-- DetectorSettings,
-- DetectorSettings.ScanWindowSizes,
-- DetectorSettings.SimilarityCoef,
-- DetectorSettings.RegionLikelihoodThresholdPercent,
-- DetectorSettings.SkipDiagonalSearch,
-- DetectorSettings.HighPerformance,
-- DetectorSettings.NormalQuality,
-- DetectorSettings.HighQuality,
-- DetectorSettings.MaxQuality.
+- BarcodeSvmDetectorSettings,
+- BarcodeSvmDetectorSettings.ScanWindowSizes,
+- BarcodeSvmDetectorSettings.SimilarityCoef,
+- BarcodeSvmDetectorSettings.RegionLikelihoodThresholdPercent,
+- BarcodeSvmDetectorSettings.SkipDiagonalSearch,
+- BarcodeSvmDetectorSettings.HighPerformance,
+- BarcodeSvmDetectorSettings.NormalQuality,
+- BarcodeSvmDetectorSettings.HighQuality,
+- BarcodeSvmDetectorSettings.MaxQuality.
 
 ### Micro QR and rMQR codes
 RectMicroQR and MicroQR barcode types were added to DecodeType and EncodeTypes.
@@ -105,12 +105,13 @@ Sample RectMicroQR generation and recognition code:
 var codetext = "Aspose";
 using (var generator = new BarcodeGenerator(EncodeTypes.RectMicroQR, codetext))
 {
-    generator.Parameters.Barcode.QR.RectMicroQRVersion = R11x77;
-    var image = generator.GenerateBarCodeImage();
-    using (var reader = new BarCodeReader(image, DecodeType.RectMicroQR))
-    {
-        Console.WriteLine("Codetext: {0}", reader.FoundBarCodes[0].CodeText);
-    }
+	generator.Parameters.Barcode.QR.RectMicroQrVersion = RectMicroQRVersion.R11x77;
+	var image = generator.GenerateBarCodeImage();
+	using (var reader = new BarCodeReader(image, DecodeType.RectMicroQR))
+	{
+		reader.ReadBarCodes();
+		Console.WriteLine("Codetext: {0}", reader.FoundBarCodes[0].CodeText);
+	}
 }
 ```
 
@@ -119,11 +120,12 @@ Sample MicroQR generation and recognition code:
 var codetext = "Aspose";
 using (var generator = new BarcodeGenerator(EncodeTypes.MicroQR, codetext))
 {
-    generator.Parameters.Barcode.QR.MicroQRVersion = M4;
-    var image = generator.GenerateBarCodeImage();
-    using (var reader = new BarCodeReader(image, DecodeType.MicroQR))
-    {
-        Console.WriteLine("Codetext: {0}", reader.FoundBarCodes[0].CodeText);
-    }
+	generator.Parameters.Barcode.QR.MicroQRVersion = MicroQRVersion.M4;
+	var image = generator.GenerateBarCodeImage();
+	using (var reader = new BarCodeReader(image, DecodeType.MicroQR))
+	{
+		reader.ReadBarCodes();
+		Console.WriteLine("Codetext: {0}", reader.FoundBarCodes[0].CodeText);
+	}
 }
 ```
