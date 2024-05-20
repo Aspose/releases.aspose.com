@@ -13,7 +13,7 @@
 {{$backendURL := print (replaceRE "(\\s)" ""  (.Site.Params.backendURL) ) "" (replaceRE "(\\s)" ""  ($.Scratch.Get "latest_release_download_link"))  }}
 <div class="downloadandnotes">
 {{ if (not (eq ($.Scratch.Get "latest_release_notes_url") "")) }}
-<a class="release-notes-link-latest btn btn-primary dwnam3" href='{{ $.Scratch.Get "latest_release_notes_url" }}'>{{ i18n "Release_Notes" }}</a>
+<a class="release-notes-link-latest btn btn-primary" href='{{ $.Scratch.Get "latest_release_notes_url" }}'>{{ i18n "Release_Notes" }}</a>
 {{ end }}
 <!--<a href='{{ $backendURL }}'  class="btn btn-primary dwnam3">
 <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i> Download</a>-->
