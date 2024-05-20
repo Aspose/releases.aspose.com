@@ -1,7 +1,7 @@
 ---
 title: "Python SDK for CAD and BIM Files Processing | Aspose.CAD Product Family"
-description: "Download Aspose.CAD Python SDK to create, edit, convert & render CAD and BIM drawings of various file formats: SVG, DWG, DGN, DXF, IFC, STL, DWF, IGS, PLT, DWT, CF2, OBJ, FBX, DWFX, DAE, DXB, STP, CGM, GLB, GLTF, U3D, 3DS. Family also includes extension, solution & exporter for .NET, JavaScript, Java and JasperReports."
-keywords: "Python, CAD, BIM, API, SDK, Library, SVG, DWG, DGN, DXF, IFC, STL, DWF, IGS, PLT, DWT, CF2, OBJ, FBX, DWFX, DAE, DXB, STP, CGM, GLB, GLTF, U3D, 3DS"
+description: "Download Aspose.CAD Python SDK to create, edit, convert & render CAD and BIM drawings of various file formats: DWG, DXF, DRACO(DRC), DGN, DWF, DWFx, IFC, IGS(IGES), STL, DWT, FBX, PLT, CF2, OBJ, 3DS, STP, DXB, U3D, COLLADA(DAE), STEP(STP), CGM, GLB, GLTF, SVG, WMF, EMF, PDF. Family also includes extension, solution & exporter for .NET, JavaScript, Java and JasperReports."
+keywords: "Python, CAD, BIM, API, SDK, Library, DWG, DXF, DRACO(DRC), DGN, DWF, DWFx, IFC, IGS(IGES), STL, DWT, FBX, PLT, CF2, OBJ, 3DS, STP, DXB, U3D, COLLADA(DAE), STEP(STP), CGM, GLB, GLTF"
 linktitle: "Aspose.CAD for Python via .NET"
 family_listing_page_title: "Aspose.CAD for Python via .NET"
 family_listing_page_description: "Aspose.CAD for Python via .NET is an advanced CAD and BIM files SDK processing library that provides enhanced API to perform a wide range of tasks directly within Python applications."
@@ -32,7 +32,7 @@ You can easily use Aspose.CAD for Python via .NET from  {{< Common/link href="ht
 
 ## Features
 
-- Supports the latest versions of DWG, DWF, DWFX, DWT, DGN, STL, OBJ, STL, CF2, IGES(IGS), IFC, DXB, PLT, COLLADA(DAE), STEP(STP) & DXF formats.
+- Supports the latest versions of DWG, DXF, DRACO(DRC), DGN, DWF, DWFx, IFC, IGS(IGES), STL, DWT, FBX, PLT, CF2, OBJ, 3DS, STP, DXB, U3D, COLLADA(DAE), STEP(STP), CGM, GLB, GLTF formats.
 - Convert CAD to PDF.
 - Convert CAD to images.
 - Track files processing progress.
@@ -60,10 +60,10 @@ You can easily use Aspose.CAD for Python via .NET from  {{< Common/link href="ht
 
 ### Supported Read & Write CAD Formats
 
-**AutoCAD®:** DXF (Write feature is partially supported)
+**AutoCAD®:** DXF (Write feature is partially supported)\
 **3D Geometry:** OBJ\
 **GL Binary:** GLTF/GLB\
-**Scalable Vector Graphics:** SVG
+**Scalable Vector Graphics:** SVG\
 **Others:** FBX, STEP(STP)
 
 ### Save CAD files As
