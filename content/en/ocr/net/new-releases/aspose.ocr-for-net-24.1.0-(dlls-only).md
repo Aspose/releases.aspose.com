@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.ocr-for-net-24.1.0-(dlls-only)"
-description: " "
+title: "Sharper Searchable PDFs in C# | .NET OCR API 24.1.0 (DLLs)"
+description: "Supercharge your C# OCR development experience with Aspose.OCR .NET 24.1.0. Leverage improvements for searchable PDFs & more. Download DLLs now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/net/new-releases/aspose.ocr-for-net-24.1.0-(dlls-only)/"
@@ -16,7 +16,7 @@ parent_path: "ocr/net"
 section_parent_path: "ocr/net"
 
 tags: "OCR, NET"
-release_notes_url: "https://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-24-1-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-1-0-release-notes/"
 weight: 340
 
 ---
@@ -40,11 +40,35 @@ weight: 340
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-24-1-0-release-notes/'>https://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-24-1-0-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-1-0-release-notes/'>https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-1-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Fix PDF creation, text-finder plugin</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.OCR for .NET 24.1.0 (DLLs-only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+C# developers can optimize their workflows with the Aspose.OCR for .NET 24.1.0 (DLLs-only) release. This update focuses on enhancing searchable PDFs, providing a more efficient development experience.
+
+### Enhanced Searchable PDFs
+
+Add sharper searchable PDFs to your optical character recognition (OCR) workflows with the latest .NET OCR API update. It provides improved text overlay positioning and optimizes your exported PDFs' searchability.
+
+### Dark Area Rendering Accuracy
+
+The issues related to the dark areas in background images getting rendered with inverted colors have been resolved in version 24.1.0 of Aspose.OCR for .NET.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.OCR for .NET 24.1.0 Release Notes](https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-1-0-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
