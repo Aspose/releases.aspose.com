@@ -40,7 +40,7 @@ weight: 7
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cad/python-net/release-notes/2023/aspose-cad-for-python-23-6-release-notes/'>https://releases.aspose.com/cad/python-net/release-notes/2024/aspose-cad-for-python-23-6-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cad/python-net/release-notes/2023/aspose-cad-for-python-23-6-release-notes/'>https://releases.aspose.com/cad/python-net/release-notes/2023/aspose-cad-for-python-23-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This wheel contains Aspose.CAD for Python via .NET version 23.6.0, built for Windows and targeting the AMD64 architecture.</div>
