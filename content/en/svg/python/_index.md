@@ -1,27 +1,30 @@
 ---
 
 title: "SVG Processing APIs | Aspose.SVG Product Family"
+linktitle: "Aspose.SVG for Python via .NET"
 description:  "Download .NET, Java, C++ & Android libraries to create, manipulate, convert & render SVG images. Family also includes extension, solution & exporter for Reporting Services, SharePoint & JasperReports."
 keywords:  "SVG API, SVG Library"
 family_listing_page_title:  "Aspose.SVG for Python via .NET"
 family_listing_page_description:  "Aspose.SVG for Python via .NET is an advanced SVG Processing API that enables you to perform a wide range of SVG processing tasks directly within your applications."
 family_listing_page_iconurl:  "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/svg/272x272/aspose_svg-for-net.png"
-weight: 7
+family_listing_page_selfHosted: "1"
+family_listing_page_type: "1"
+family_listing_page_venture: "4"
+family_listing_page_package: "198"
+homepage_package_type: "Pip"
+homepage_package_link: "https://pypi.org/project/aspose-svg/"
+weight: 2
 
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/svg/42" linktext="Support Forum" >}}
 
-{{< ProductPageWrapper >}}
-<!-- ProductPageContent-->
-{{< Common/wrapper class="col-md-12" >}}
-{{< Common/wrapper class="panel-body downloadfilebody" >}}
-{{< dbToolbar link="https://forum.aspose.com/c/svg" linktext=" Support Forum " >}}
+
 
 {{< Common/h3 text="Download Aspose.SVG Python Library for SVG Processing"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.SVG for Python via .NET enables creating, editing, rendering, and converting SVGs to formats like PNG, PDF, and more, excelling in image vectorization. Perfect for developing SVG tools.
-You can easily use  <b>aspose-svg</b> for Python from  {{< Common/link href="https://pypi.org/project/aspose-svg/" text="pip"  >}} with the following command.
+You can easily use  <b>aspose-svg</b> for Python from  {{< Common/link href="https://pypi.org/project/aspose-svg/" text="Pip"  >}} with the following command.
 {{< Common/release-notes-link family="svg" product="python" href="https://releases.aspose.com/svg/python/release-notes/" text="https://releases.aspose.com/svg/python/release-notes/"  >}}
 
 {{< /Common/paragraph>}}
@@ -50,13 +53,5 @@ You can easily use  <b>aspose-svg</b> for Python from  {{< Common/link href="htt
    {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="svg" product="python" >}}
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
-{{< /ProductPageWrapper >}}
-{{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
-<!-- /ProductPageContent-->
-
-<!-- ReleasesListProductPage-->
-{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="svg" product="python" >}}
-<!-- /ReleasesListProductPage-->
 
 {{< /ProductPageWrapper >}}
