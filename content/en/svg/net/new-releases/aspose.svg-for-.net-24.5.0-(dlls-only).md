@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.svg-for-.net-24.5.0-(dlls-only)"
-description: " "
+title: "Aspose.SVG .NET 24.5.0: SVG Rendering & Text Ellipsis (DLLs)"
+description: "Can't use MSI installers? Download Aspose.SVG .NET 24.5.0 (DLLs) for Mono environments. Enhance SVG workflows with text ellipsis & SkiaSharp updates."
 keywords: ""
 page_type: single_release_page
 folder_link: "/svg/net/new-releases/aspose.svg-for-.net-24.5.0-(dlls-only)/"
@@ -43,8 +43,40 @@ weight: 156
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-5-release-notes/'>https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.SVG for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.SVG without the MSI installer, i.e. you cannot run MSI installers on Mono. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer.</div>
+      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.SVG for .NET 24.5.0 assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.SVG without the MSI installer, i.e. you cannot run MSI installers on Mono. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Great news for .NET developers! We are excited to announce the release of Aspose.SVG for .NET 24.5.0 (DLLs-only package), which introduces valuable enhancements for developers working with SVG graphics in C# and VB.NET applications on any platform.
+
+### Support for Text Overflow Ellipsis 
+
+The latest C# SVG processing API update helps you render text exceeding container boundaries with ellipsis according to W3C specifications and ensures cleaner SVG to PNG conversions.
+
+### Updated `SkiaSharp` Module
+
+With this release, the `Aspose.SVG.Drawing.SkiaSharp` module utilizes `SkiaSharp` version 2.88.8 to provide improved stability, performance, and compatibility with the latest rendering enhancements.
+
+### `SkiaSharp` Rendering Upgrades
+
+Aspose.SVG for .NET 24.5.0 delivers improved text rendering accuracy for italic and bold styles within SVGs, ensuring a closer match between rendered elements and their specified styles.
+
+### Bug Fixes
+
+We have addressed issues related to `SkiaModule` where page size settings caused inconsistencies when rendering directly to `SKCanvas`. The module now correctly adjusts to the standard 96 dpi resolution when page sizes are set in pixels.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.SVG for .NET 24.5.0 Release Notes](https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

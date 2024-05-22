@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.svg-for-.net-24.4.0-(dlls-only)"
-description: " "
+title: ".NET SVG Library 24.4.0 | Render to SKCanvas & More (DLLs)"
+description: "Streamline SVG workflows! Download Aspose.SVG .NET 24.4.0 DLLs package for rendering to SKCanvas, improved font size processing, SkiaSharp rendering."
 keywords: ""
 page_type: single_release_page
 folder_link: "/svg/net/new-releases/aspose.svg-for-.net-24.4.0-(dlls-only)/"
@@ -43,8 +43,107 @@ weight: 154
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-4-release-notes/'>https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.SVG for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.SVG without the MSI installer, i.e. you cannot run MSI installers on Mono. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer.</div>
+      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.SVG for .NET 24.4.0 assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.SVG without the MSI installer, i.e. you cannot run MSI installers on Mono. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+The DLLs-only package of Aspose.SVG for .NET 24.4.0 allows developers to integrate enhanced SVG rendering capabilities into their SVG processing with `SkiaSharp` on any platform. 
+
+### Render to SKCanvas Directly
+
+Add direct rendering to `SKCanvas` within the C# apps using this release of the .NET SVG library. It facilitates a more efficient and integrated workflow with `SkiaSharp`. This enhancement offers greater flexibility for developers utilizing SkiaSharp’s drawing features. 
+
+The following code example demonstrates creating a `SKSurface`-based canvas, rendering directly onto it, and saving it to an image:
+
+```c#
+
+var surfaceProvider = new GenericSkiaCanvasProvider<SKSurface>(
+    size =>
+    {
+        var surface = SKSurface.Create(new SKImageInfo((int)size.Width, (int)size.Height, SKColorType.Rgba8888, SKAlphaType.Unpremul));
+        return Tuple.Create(surface.Canvas, surface);
+    },
+    surface =>
+    {
+        using (var image = surface.Snapshot())
+        using (var data = image.Encode(SKEncodedImageFormat.Png, 100))
+        {
+            using (var stream = File.OpenWrite(Path.Combine(OutputFolder, "surface_output.png")))
+            {
+                data.SaveTo(stream);
+            }
+        }
+        surface.Dispose();
+    }
+);
+
+var options = new Aspose.Svg.Rendering.RenderingOptions { PageSetup = { Sizing = SizingType.FitContent } };
+using (var document = new SVGDocument(Path.Combine(InputFolder, "test.svg")))
+using (var device = new SkiaCanvasDevice(options, surfaceProvider))
+{
+    document.RenderTo(device);
+}
+
+```
+*[Source\*](https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-4-release-notes/)*
+
+### Vector-based Recording for Your Apps
+
+You can effortlessly add vector-based recording to your .NET SVG processing apps and generate quality SVG rendering outputs. This C# code sample shows how to add this capability to your SVG apps using `SKPictureRecorder`. 
+
+```c#
+
+var recorderProvider = new GenericSkiaCanvasProvider<SKPictureRecorder>(
+    size =>
+    {
+        var recorder = new SKPictureRecorder();
+        var canvas = recorder.BeginRecording(new SKRect(0, 0, size.Width, size.Height));
+        return Tuple.Create(canvas, recorder);
+    },
+    recorder =>
+    {
+        using (var picture = recorder.EndRecording())
+        using (var image = SKImage.FromPicture(picture, new SKSizeI((int)picture.CullRect.Width, (int)picture.CullRect.Height)))
+        using (var data = image.Encode(SKEncodedImageFormat.Png, 100))
+        {
+            using (var stream = File.OpenWrite(Path.Combine(OutputFolder, "recorder_output.png")))
+            {
+                data.SaveTo(stream);
+            }
+        }
+    }
+);
+
+var options = new Aspose.Svg.Rendering.RenderingOptions { PageSetup = { Sizing = SizingType.FitContent } };
+using (var document = new SVGDocument(Path.Combine(InputFolder, "test.svg")))
+using (var device = new SkiaCanvasDevice(options, recorderProvider))
+{
+    document.RenderTo(device);
+}
+
+```
+*[Source\*](https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-4-release-notes/)*
+
+### Upgraded SVG Builder API
+
+Version 24.4.0 of Aspose.SVG for .NET delivers an updated SVG Builder API to process the font-size attribute accurately and ensure consistent rendering that aligns with SVG standards. 
+
+### Improved `SkiaSharp` Rendering
+
+The SVG processing library now includes enhanced `SkiaSharp`-based SVG rendering, focusing on accurate font styles for italic and bold text.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.SVG for .NET 24.4.0 Release Notes](https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

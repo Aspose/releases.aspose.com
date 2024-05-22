@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.svg-for-.net-24.3.0-(dlls-only)"
-description: " "
+title: "Manage SVG Resources in .NET | C# SVG API 24.3.0 (DLLs)"
+description: "Integrate better SVG processing & resource management into your C# & VB.NET projects. Download Aspose.SVG .NET 24.3.0 (DLLs-only) & get started now."
 keywords: ""
 page_type: single_release_page
 folder_link: "/svg/net/new-releases/aspose.svg-for-.net-24.3.0-(dlls-only)/"
@@ -43,8 +43,51 @@ weight: 152
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-3-release-notes/'>https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.SVG for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.SVG without the MSI installer, i.e. you cannot run MSI installers on Mono. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer.</div>
+      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.SVG for .NET 24.3.0 assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.SVG without the MSI installer, i.e. you cannot run MSI installers on Mono. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.SVG for .NET 24.3.0 (DLLs-only package) delivers a set of improvements designed to streamline SVG processing within your C# .NET projects.
+
+### SVG Text Rendering Accuracy
+
+Integrate consistent baseline alignment for SVG text element functionality into your C# apps and ensure precise rendering while converting SVG graphics to other formats using the C# SVG API.
+
+### Empowered SVG Resource Management
+
+The latest release of Aspose.SVG for .NET provides better control to handle and save document content and manage associated resources immaculately with the new APIs.
+
+### Public API Changes
+
+### New SVG Resource Management APIs
+
+- `Save(ResourceHandler resourceHandler)`
+- `Save(ResourceHandler resourceHandler, SVGSaveFormat saveFormat)`
+- `Save(ResourceHandler resourceHandler, SVGSaveOptions saveOptions)`
+- `Resource` Class Properties (Status, MimeType, OriginalUrl, OriginalReference, OutputUrl)
+- `Resource` Class Methods (Save, Embed, WithOutputUrl)
+- `IResolvedStyleDeclaration.AlignmentBaseline` Property
+- `ResourceHandlingContext.ParentResource` Property
+- `ResourceStatus` Enum
+- `FileSystemResourceHandler` Class and Constructors
+- `ResourceHandler.HandleResourceReference` Method
+
+### Resource Handling API Deprecation
+
+In version 24.3.0 of the SVG library, the `IOutputStorage` interface and related classes in the `Aspose.Svg.IO` namespace are deprecated and will be removed in version 24.6.0. Please migrate your code to use the new `ResourceHandler` API.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.SVG for .NET 24.3.0 Release Notes](https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
