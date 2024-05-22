@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.svg-for-.net-24.1.0"
-description: " "
+title: "SVG API for .NET 24.2.0 - Image Vectorization, CSS Parsing"
+description: "Supercharge your C# apps with enhanced SVG processing! Aspose.SVG .NET 24.1.0 offers improved image vectorization & CSS parsing. Download MSI now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/svg/net/new-releases/aspose.svg-for-.net-24.1.0/"
@@ -43,8 +43,36 @@ weight: 149
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-1-release-notes/'>https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.SVG for .NET 24.1.0 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.SVG for .NET 24.1.0 (MSI) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Take your .NET SVG processing apps to the next level with Aspose.SVG for .NET 24.1.0 (MSI installer). This update delivers improved `SkiaSharp` support, refined CSS parsing, and optimized Bezier path building for exceptional image vectorization.
+
+### Enhanced ImageVectorizer with `SkiaSharp`
+
+In this SVG API for .NET version, the `ImageVectorizer` boasts advanced `SkiaSharp` support and offers more control over image vectorization. This capability is now fully released within [`Aspose.SVG.Drawing.SkiaSharp`](https://www.nuget.org/packages/Aspose.SVG.Drawing.SkiaSharp/) NuGet package.
+
+### Superior CSS Style Parsing
+
+Work with refined CSS style parsing for a more accurate and standards-compliant SVG rendering. With this feature, you can expect visually stunning SVG outputs.
+
+### Optimized Bezier Path Building
+
+Aspose.SVG for .NET 24.1.0 includes optimized `Build` methods within `BezierPathBuilder`, `IPathBuilder`, and `SplinePathBuilder` to generate efficient SVG paths with minimal segments while preserving the original trace accuracy.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.SVG for .NET 24.1.0 Release Notes](https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
