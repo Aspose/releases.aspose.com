@@ -8,7 +8,7 @@ folder_link: "/words/reportingservices/new-releases/aspose.words-for-reporting-s
 folder_name: "Aspose.Words for Reporting Services 24.5 (Msi)"
 download_link: "/words/reportingservices/new-releases/aspose.words-for-reporting-services-24.5-(msi)/e65ad05e0f5a72e0e86fc925b4475c00-14-10895"
 download_text: "Download"
-intro_text: "Upgrade to the latest version of Aspose.Words for Net (24.5). Bugs fixes.."
+intro_text: "Upgrade to the latest version of Aspose.Words for Net (24.5). Bug fixes."
 image_link: "/resources/img/msi-icon.png"
 download_count: " 23/5/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 67.88MB"
@@ -43,7 +43,7 @@ weight: 294
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/words/reportingservices/release-notes/2024/aspose-words-for-reporting-services-24-5-release-notes/'>https://releases.aspose.com/words/reportingservices/release-notes/2024/aspose-words-for-reporting-services-24-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Upgrade to the latest version of Aspose.Words for Net (24.5). Bugs fixes..</div>
+      <h4>Description</h4><div class="HTMLDescription">Upgrade to the latest version of Aspose.Words for Net (24.5). Bug fixes.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

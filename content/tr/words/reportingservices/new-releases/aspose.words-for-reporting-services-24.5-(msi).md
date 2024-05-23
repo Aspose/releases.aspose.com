@@ -8,7 +8,7 @@ folder_link: "/words/reportingservices/new-releases/aspose.words-for-reporting-s
 folder_name: "Aspose.Words for Reporting Services 24.5 (Msi)"
 download_link: "/words/reportingservices/new-releases/aspose.words-for-reporting-services-24.5-(msi)/e65ad05e0f5a72e0e86fc925b4475c00-14-10895"
 download_text: "İndirmek"
-intro_text: "Aspose.Words for Net'in en son sürümüne (24.5) yükseltin. Hata düzeltmeleri.."
+intro_text: "Aspose.Words for Net'in en son sürümüne (24.5) yükseltin. Hata düzeltmeleri."
 image_link: "/resources/img/msi-icon.png"
 download_count: " 23/5/2024 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 67.88MB"
@@ -43,7 +43,7 @@ weight: 294
       <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/words/reportingservices/release-notes/2024/aspose-words-for-reporting-services-24-5-release-notes/'>https://releases.aspose.com/words/reportingservices/release-notes/2024/aspose-words-for-reporting-services-24-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Tanım</h4><div class="HTMLDescription">Aspose.Words for Net'in en son sürümüne (24.5) yükseltin. Hata düzeltmeleri..</div>
+      <h4>Tanım</h4><div class="HTMLDescription">Aspose.Words for Net'in en son sürümüne (24.5) yükseltin. Hata düzeltmeleri.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
