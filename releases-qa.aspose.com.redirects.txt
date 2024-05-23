@@ -232,12 +232,12 @@ rewrite ^/total/java/release-notes/2024/aspose-total-for-java-24-3-release-notes
 rewrite ^/words/java/15-8-0/$ https://releases-qa.aspose.com/words/java/ permanent;
 rewrite ^/words/python\)$ https://releases-qa.aspose.com/words/python/ permanent;
 rewrite ^/zh/total/java/23-09/ https://releases-qa.aspose.com/zh/total/java/ permanent;
-rewrite ^/18.165$ https://releases-qa.aspose.com/ permanent;
-rewrite ^/18.165.122.23$ https://releases-qa.aspose.com/ permanent;
+# rewrite ^/18.165$ https://releases-qa.aspose.com/ permanent;
+# rewrite ^/18.165.122.23$ https://releases-qa.aspose.com/ permanent;
 rewrite ^/3d/java/release-notes/2024/aspose-3d-for-java-24-3-0-release-notes/$ https://releases-qa.aspose.com/3d/java/release-notes/2024/aspose-3d-for-java-24-3-release-notes/ permanent;
 rewrite ^/3d/java/release-notes/2024/aspose-3d-for-java-24-4-0-release-notes/$ https://releases-qa.aspose.com/3d/java/release-notes/2024/aspose-3d-for-java-24-4-release-notes/ permanent;
 rewrite ^/Diagram/$ https://releases-qa.aspose.com/diagram/ permanent;
-rewrite ^/XNXX indo sleep$ https://releases-qa.aspose.com/ permanent;
+# rewrite ^/XNXX indo sleep$ https://releases-qa.aspose.com/ permanent;
 rewrite ^/artifactory/$ https://releases-qa.aspose.com/java/repo/ permanent;
 rewrite ^/aspose-cells/22.7/aspose-cells-22.7.pom$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-cells/22.7/aspose-cells-22.7.pom permanent;
 rewrite ^/aspose-cells/aspose-cells$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-cells/ permanent;
@@ -282,7 +282,7 @@ rewrite ^/ja/slides/nodejs-java/$ https://releases-qa.aspose.com/slides/nodejs-j
 rewrite ^/jasperreports/integration-with-jasperserver$ https://releases-qa.aspose.com/total/jasperreports/ permanent;
 rewrite ^/java/aspose-cells/aspose-cells/22.7/aspose-cells-22.7.pom$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-cells/22.7/aspose-cells-22.7.pom permanent;
 rewrite ^/java/conversion/$ https://releases-qa.aspose.com/ permanent;
-rewrite ^/javascript:;$ https://releases-qa.aspose.com/ permanent;
+rewrite ^/javascript\:\;$ https://releases-qa.aspose.com/ permanent;
 rewrite ^/net/pdf$ https://releases-qa.aspose.com/pdf/net/ permanent;
 rewrite ^/net/repo/$ https://releases-qa.aspose.com/java/repo/ permanent;
 rewrite ^/note/net/Aspose.PDF dll$ https://releases-qa.aspose.com/note/net/ permanent;
