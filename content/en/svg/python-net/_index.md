@@ -6,7 +6,7 @@ description:  "Download .NET, Java, C++ & Android libraries to create, manipulat
 keywords:  "SVG API, SVG Library"
 family_listing_page_title:  "Aspose.SVG for Python via .NET"
 family_listing_page_description:  "Aspose.SVG for Python via .NET is an advanced SVG Processing API that enables you to perform a wide range of SVG processing tasks directly within your applications."
-family_listing_page_iconurl:  "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/svg/272x272/aspose_svg-for-net.png"
+family_listing_page_iconurl:  "https://products.aspose.com/svg/images/aspose_svg-for-python-net.svg"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
 family_listing_page_venture: "4"
