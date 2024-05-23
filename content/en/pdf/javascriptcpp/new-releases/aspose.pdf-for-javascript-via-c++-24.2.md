@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-javascript-via-c++-24.2"
-description: " "
+title: "Enhanced Text & Form Handling - Aspose.PDF JavaScript 24.2"
+description: "Download v24.2 of Aspose.PDF JavaScript via C++ & simplify PDF development! New features include text replacement & finding, FDF/XFDF/XML form exports. "
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-24.2/"
@@ -43,8 +43,30 @@ weight: 15
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/javascriptcpp/release-notes/2024/aspose_pdf-for-javascript-cpp-24-2-release-notes/'>https://releases.aspose.com/pdf/javascriptcpp/release-notes/2024/aspose_pdf-for-javascript-cpp-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for JavaScript</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for JavaScript via C++ 24.2 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+### Enhanced Text Manipulation
+
+The new `AsposePdfReplaceText` function added to Aspose.PDF for JavaScript via C++ 24.2 empowers developers to effortlessly replace text within PDF documents. Additionally, the `AsposePdfFindText` function expedites text search operations, making it easier to locate specific content.
+
+### Expanded Export Options
+
+This version of the JavaScript PDF library lets you export form data from PDF files with AcroForms to various formats. The newly introduced `AsposePdfExportFdf`, `AsposePdfExportXfdf`, and `AsposePdfExportXml` functions facilitate data extraction for further processing or analysis.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for JavaScript via C++ 24.2 Release Notes](https://releases.aspose.com/pdf/javascriptcpp/release-notes/2024/aspose_pdf-for-javascript-cpp-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-c++-24.5-macos"
-description: " "
+title: "Aspose.PDF C++ 24.5: New Printer Mark Annotations (macOS)"
+description: "Supercharge Mac PDF projects with Aspose.PDF C++ 24.5! This release offers advanced annotation management & SVG extraction. Download on macOS now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-24.5-macos/"
@@ -43,8 +43,38 @@ weight: 218
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-5-release-notes/'>https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for C++ macOS version</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for C++ 24.5 macOS version.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+### Annotation Support Upgraded for macOS
+
+Utilize Aspose.PDF for C++ 24.5 on macOS and work with a wider range of annotations, including Trim Mark, Bleed Mark, Registration Mark, and Page Information annotations.
+
+### Enhanced SVG Extraction
+
+Extract vector graphics with finer control using the enhanced `Aspose::Pdf::Vector::Extraction::SvgExtractionOptions` class in the latest C++ PDF API update for macOS.
+
+### PDF to Markdown Conversion on Apple Mac
+
+Develop feature-rich PDF conversion solutions for macOS and specify the area for extraction during PDF to Markdown conversion.
+
+### Optimized Developer Experience
+
+We have added several bug fixes and performance optimizations for a smoother development workflow using the native C++ PDF API on macOS systems.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for C++ 24.5 Release Notes](https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

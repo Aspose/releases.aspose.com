@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-javascript-via-c++-24.1"
-description: " "
+title: "JS PDF Library 24.1: TXT to PDF & Easy Attachments Handling"
+description: "Empower your JavaScript PDF web apps with TXT to PDF conversion & attachment management. Download Aspose.PDF for JavaScript via C++ 24.1 today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-24.1/"
@@ -43,8 +43,30 @@ weight: 14
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/javascriptcpp/release-notes/2024/aspose_pdf-for-javascript-cpp-24-1-release-notes/'>https://releases.aspose.com/pdf/javascriptcpp/release-notes/2024/aspose_pdf-for-javascript-cpp-24-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for JavaScript</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for JavaScript via C++ 24.1 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+### Effortless TXT to PDF Conversion
+
+Aspose.PDF for JavaScript via C++ 24.1 includes the `AsposePdfFromTxt` API which simplifies the process of converting plain text (.TXT) files into well-formatted PDF documents using your JavaScript applications on any platform.
+
+### Seamless Attachment Management
+
+The JS PDF library introduces two new APIs in the latest release: `AsposePdfAddAttachment` and `AsposePdfGetAttachment`. These functions enable you to effortlessly add attachments to existing PDF files and retrieve attachments from them within your JavaScript code.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for JavaScript via C++ 24.1 Release Notes](https://releases.aspose.com/pdf/javascriptcpp/release-notes/2024/aspose_pdf-for-javascript-cpp-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

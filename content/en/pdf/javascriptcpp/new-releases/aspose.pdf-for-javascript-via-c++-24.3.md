@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-javascript-via-c++-24.3"
-description: " "
+title: "Aspose.PDF for JS 24.3: Effortless Image to PDF Conversion"
+description: "Seamlessly convert images (JPEG, PNG, GIF) to PDFs in JavaScript web apps. Download Aspose.PDF JavaScript via C++ 24.3 (Window, macOS, Linux) now."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-24.3/"
@@ -43,8 +43,30 @@ weight: 16
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/javascriptcpp/release-notes/2024/aspose_pdf-for-javascript-cpp-24-3-release-notes/'>https://releases.aspose.com/pdf/javascriptcpp/release-notes/2024/aspose_pdf-for-javascript-cpp-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for JavaScript</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for JavaScript via C++ 24.3 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+### Effortless Image to PDF Conversion
+
+The `AsposePdfFromImage` function introduced in Aspose.PDF for JavaScript via C++ 24.3 simplifies the creation of PDFs from images, supporting a wide range of formats for greater flexibility.
+
+### Continued Innovation
+
+With the latest PDF JS API update, we remain committed to delivering cutting-edge features that empower developers to create exceptional PDF experiences on Windows, Linux, and macOS.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for JavaScript via C++ 24.3 Release Notes](https://releases.aspose.com/pdf/javascriptcpp/release-notes/2024/aspose_pdf-for-javascript-cpp-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

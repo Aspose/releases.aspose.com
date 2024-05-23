@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-node.js-via-c++-24.4"
-description: " "
+title: "Aspose.PDF for Node.js v24.4: Powerful Font Replacement API"
+description: "Upgrade your Node.js apps with advanced PDF manipulation!  v24.4 of Aspose.PDF for Node.js via C++ introduces effortless font replacement. Download today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/nodejscpp/new-releases/aspose.pdf-for-node.js-via-c++-24.4/"
@@ -43,8 +43,30 @@ weight: 6
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/nodejscpp/release-notes/2024/aspose_pdf-for-nodejs-cpp-24-4-release-notes/'>https://releases.aspose.com/pdf/nodejscpp/release-notes/2024/aspose_pdf-for-nodejs-cpp-24-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for Node.js</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for Node.js via C++ 24.4 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+### Effortless Font Replacement
+
+Seamlessly swap fonts for improved consistency or visual impact within your Node.js applications. The `AsposePdfReplaceFont` API added to the latest PDF processing library enhances font management in your PDFs. 
+
+### Improved Developer Experience
+
+Aspose.PDF for Node.js via C++ 24.4 continues our commitment to enhancing the developer experience and helping our users build powerful PDF solutions. 
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for Node.js via C++ 24.4 Release Notes](https://releases.aspose.com/pdf/nodejscpp/release-notes/2024/aspose_pdf-for-nodejs-cpp-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

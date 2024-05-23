@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-c++-24.5"
-description: " "
+title: "Aspose.PDF C++ 24.5: New Printer Mark Annotations & More!"
+description: "Enhance C++ PDF processing with Aspose.PDF C++ 24.5! Explore new Printer Mark Annotations (Trim, Bleed) and more improvements. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-24.5/"
@@ -43,8 +43,38 @@ weight: 216
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-5-release-notes/'>https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for C++ native library</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for C++ native library 24.5 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+### Expanded Annotation Support
+
+Aspose.PDF for C++ 24.5 release enables developers to work with a wider range of annotations, including Trim Mark, Bleed Mark, Registration Mark, and Page Information annotations.
+
+### Simplified SVG Extraction
+
+Seamlessly extract vector graphics with greater control using the enhanced `Aspose::Pdf::Vector::Extraction::SvgExtractionOptions` class in the latest C++ PDF API update.
+
+### Improved PDF to Markdown Conversion
+
+You can now specify the area for extraction during PDF to Markdown conversion within your PDF conversion solutions.
+
+### Improved Developer Experience
+
+We have added several bug fixes and performance optimizations for a smoother development workflow across different platforms.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for C++ 24.5 Release Notes](https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
