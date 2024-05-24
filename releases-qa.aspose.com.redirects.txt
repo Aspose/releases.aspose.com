@@ -292,7 +292,6 @@ rewrite ^/pd$ https://releases-qa.aspose.com/pdf/ permanent;
 rewrite ^/pdf.kit-for-.net-and-java/$ https://releases-qa.aspose.com/pdf/ permanent;
 rewrite ^/pdf.kit/java/$ https://releases-qa.aspose.com/pdf/java/ permanent;
 rewrite ^/pdf.kit/net/$ https://releases-qa.aspose.com/pdf/net/ permanent;
-rewrite /pdf/android$ https://releases-qa.aspose.com/pdf/androidjava/ permanent;
 rewrite ^/pdf/conversion$ https://releases-qa.aspose.com/pdf/ permanent;
 rewrite ^/pdf/cpp/total$ https://releases-qa.aspose.com/pdf/cpp/ permanent;
 rewrite ^/pdf/jasperreports$ https://releases-qa.aspose.com/pdf/jassperreport/ permanent;
@@ -313,7 +312,6 @@ rewrite ^/pdf/reportingservices/release-notes/2023/aspose-pdf-for-reporting-serv
 rewrite ^/ppt/$ https://releases-qa.aspose.com/ permanent;
 rewrite ^/psd/ pdf$ https://releases-qa.aspose.com/psd/ permanent;
 rewrite ^/pub/net/release-notes/2023/aspose-pub-for-cpp-23-4-release-notes/$ https://releases-qa.aspose.com/pub/net/release-notes/2023/ permanent;
-# rewrite ^/repo/\)\:$ https://releases-qa.aspose.com/java/repo/ permanent;
 rewrite ^/repo/com$ https://releases-qa.aspose.com/java/repo/com/ permanent;
 rewrite ^/repo/com/amazonaws/aws-java-sdk-lakeformation/1.12.715/aws-java-sdk-lakeformation-1.12.715.jar$ https://releases-qa.aspose.com/java/repo/com/aspose/amazonaws/ permanent;
 rewrite ^/repo/com/amazonaws/aws-java-sdk-sso/1.12.715/aws-java-sdk-sso-1.12.715.jar$ https://releases-qa.aspose.com/java/repo/com/aspose/amazonaws/ permanent;
