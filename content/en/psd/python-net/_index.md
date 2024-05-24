@@ -15,7 +15,7 @@ weight: 3
 Aspose.PSD for Python via .NET is an Unique Python PSD Library offering advanced PSD, PSD and AI files processing features. You could easily create, load, update, edit, convert, compress PSD and PSB images using this API. Aspose.PSD Supports most popular features for PSD and PSB files including updates of Text Layers, Smart Objects, Fill Layers, Shape Layers, Group Layers, Adjustment Layers.
 
 You can easily use  <b>aspose-psd</b> for Python from  {{< Common/link href="https://pypi.org/project/aspose-psd/" text="pip"  >}} with the following command.
-{{< Common/release-notes-link family="psd" product="python" href="https://releases.aspose.com/psd/python/release-notes/" text="https://releases.aspose.com/psd/python/release-notes/"  >}}
+{{< Common/release-notes-link family="psd" product="python" href="https://releases.aspose.com/psd/python-net/release-notes/" text="https://releases.aspose.com/psd/python-net/release-notes/"  >}}
 
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}

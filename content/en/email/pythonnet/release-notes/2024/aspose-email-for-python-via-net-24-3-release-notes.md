@@ -16,7 +16,7 @@ This page contains release notes information for Aspose.Email for Python via .NE
 
 {{% /alert %}}
 
-Aspose.Email for Python via .NET 24.3 is based on [Aspose.Email for .NET 24.2](/email/net/release-notes/2023/aspose-email-for-net-24-2-release-notes/).
+Aspose.Email for Python via .NET 24.3 is based on [Aspose.Email for .NET 24.2](/email/net/release-notes/2024/aspose-email-for-net-24-2-release-notes/).
 
 ## **Features not implemented**
 The following features are not implemented in Aspose.Email for Python via .NET but they are implemented in [Aspose.Email for .NET](https://products.aspose.com/email/net/):
