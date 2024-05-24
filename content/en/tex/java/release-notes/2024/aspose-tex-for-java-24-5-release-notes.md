@@ -24,8 +24,6 @@ The new *LaTeX Repairer* feature has been implemented.
 ## Public API
 ### Added APIs
 
-### Renamed APIs
-
  * Type com.aspose.tex.features.IGuessPackageCallback
  * Method com.aspose.tex.features.IGuessPackageCallback.guessPackage(java.lang.String,boolean)
  * Type com.aspose.tex.features.LaTeXRepairer
@@ -41,6 +39,8 @@ The new *LaTeX Repairer* feature has been implemented.
  * Method com.aspose.tex.features.LaTeXRepairerOptions.setInputWorkingDirectory(com.aspose.tex.IInputWorkingDirectory)
  * Method com.aspose.tex.features.LaTeXRepairerOptions.setOutputWorkingDirectory(com.aspose.tex.IOutputWorkingDirectory)
  * Method com.aspose.tex.features.LaTeXRepairerOptions.setRequiredInputDirectory(com.aspose.tex.IInputWorkingDirectory)
+
+### Renamed APIs
 
 ### Modified APIs
 
