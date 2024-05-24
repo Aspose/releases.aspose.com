@@ -26,16 +26,25 @@ The new *LaTeX Repairer* feature has been implemented.
 
 ### Renamed APIs
 
+ * Type com.aspose.tex.features.IGuessPackageCallback
+ * Method com.aspose.tex.features.IGuessPackageCallback.guessPackage(java.lang.String,boolean)
+ * Type com.aspose.tex.features.LaTeXRepairer
+ * Method com.aspose.tex.features.LaTeXRepairer.#ctor(java.lang.String,com.aspose.tex.features.LaTeXRepairerOptions)
+ * Method com.aspose.tex.features.LaTeXRepairer.run
+ * Type com.aspose.tex.features.LaTeXRepairerOptions
+ * Method com.aspose.tex.features.LaTeXRepairerOptions.#ctor
+ * Method com.aspose.tex.features.LaTeXRepairerOptions.getGuessPackageCallback
+ * Method com.aspose.tex.features.LaTeXRepairerOptions.getInputWorkingDirectory
+ * Method com.aspose.tex.features.LaTeXRepairerOptions.getOutputWorkingDirectory
+ * Method com.aspose.tex.features.LaTeXRepairerOptions.getRequiredInputDirectory
+ * Method com.aspose.tex.features.LaTeXRepairerOptions.setGuessPackageCallback(com.aspose.tex.features.IGuessPackageCallback)
+ * Method com.aspose.tex.features.LaTeXRepairerOptions.setInputWorkingDirectory(com.aspose.tex.IInputWorkingDirectory)
+ * Method com.aspose.tex.features.LaTeXRepairerOptions.setOutputWorkingDirectory(com.aspose.tex.IOutputWorkingDirectory)
+ * Method com.aspose.tex.features.LaTeXRepairerOptions.setRequiredInputDirectory(com.aspose.tex.IInputWorkingDirectory)
+
 ### Modified APIs
 
 ### Removed APIs
-
- * Type com.aspose.tex.NamedInputStream
- * Method com.aspose.tex.NamedInputStream.#ctor(com.aspose.tex.TeXInputStream,java.lang.String)
- * Method com.aspose.tex.NamedInputStream.close
- * Method com.aspose.tex.NamedInputStream.getFullName
- * Method com.aspose.tex.NamedInputStream.getStream
- * Method com.aspose.tex.TeXInputStream.getFullName
 
 ## Got Queries?
 If you have any query related to Aspose.TeX for Java API, please feel free to write to reach us on [Aspose.TeX forum](https://forum.aspose.com/c/tex/). We'll be glad to assist you with your inquiries.
