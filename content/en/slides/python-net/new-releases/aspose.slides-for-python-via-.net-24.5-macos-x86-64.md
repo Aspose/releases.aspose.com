@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-python-via-.net-24.5-macos-x86-64"
-description: " "
+title: "Control Transparency: Aspose.Slides Python 24.5 (macOS x64)"
+description: "Upgrade your Python presentation apps on macOS x64! Download Aspose.Slides Python via .NET 24.5 and gain improved transparency & chart data handling."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-24.5-macos-x86-64/"
@@ -43,8 +43,51 @@ weight: 98
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-5-release-notes/'>https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Presentation Manipulation Python API</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for Python via .NET 24.5 macOS x64 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+macOS x64 developers can utilize the Aspose.Slides for Python via .NET 24.5 release to create professional presentations within their Python PowerPoint apps.
+
+### Table and Cell Fills Transparency Handling
+
+We have added the `transparency` property for `ICellFormat` and `ITableFormat` in this Python PowerPoint API release which provides better control over presentation aesthetics. Please check out the following code example which highlights the usage of the `transparency` property for controlling the fill color transparency on macOS x64 machines.
+
+```python
+
+import aspose.slides as slides
+
+with slides.Presentation("pres.pptx") as presentation:
+    table = presentation.slides[0].shapes[0]
+    table.table_format.transparency = 0.5
+
+```
+*[Source\*](https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-5-release-notes/)*
+
+### Control Table Transparency
+
+Aspose.Slides for Python via .NET 24.5 allows you to apply transparency for tables, enabling improved design flexibility on Apple Mac applications.
+
+### Unified Text Box Formatting
+
+The latest Python API version enables applying a default font size for all text boxes in all slides and centralizes text formatting across multiple presentation slides.
+
+### Modern API Transition
+
+With this release of Aspose.Slides for Python via .NET, you can experience streamlined development with updates to the `ShapeElement` and `ShapeUtil` classes, paving the way for a more modern API experience on macOS x64 systems.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for Python via .NET 24.5 Release Notes](https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
