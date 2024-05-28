@@ -21,7 +21,7 @@ This page contains release notes information for Aspose.Page for C++ 24.5.
 
 ## **Improvements and Changes**
 
-Aspose.Page for C++ 24.5 is based on [Aspose.Page for .NET 24.4](https://releases.aspose.com/page/net/release-notes/2024/aspose-page-for-net-24-4-release-notes/) and ready for use with Aspose C++ products ver 24.4.
+Aspose.Page for C++ 24.5 is based on [Aspose.Page for .NET 24.4](https://releases.aspose.com/page/net/release-notes/2024/aspose-page-for-net-24-4-release-notes/) and ready for use with Aspose C++ products ver 24.5.
 
 
 You can consult Aspose.Page for C++ [API Reference](https://apireference.aspose.com/cpp/page/) for documentation.
