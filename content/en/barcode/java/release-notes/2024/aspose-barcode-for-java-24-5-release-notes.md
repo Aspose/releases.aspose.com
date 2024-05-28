@@ -38,4 +38,9 @@ This page contains release notes information for [Aspose.BarCode for Java 24.5](
 
 ## Public API changes and backwards compatibility
 
-No API changes.
+Removed
+- Code128DataPortion constructor
+- AustraliaPostSettings constructors
+- method applyAll() in QualitySetting 
+- BarcodeSettings constructors
+- method setData(String) in Code128DataPortion 
