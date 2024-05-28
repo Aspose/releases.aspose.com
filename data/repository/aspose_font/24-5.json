@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-font",
+  "id" : "24-5",
+  "packageFiles" : [ {
+    "size" : "759 KB",
+    "name" : "aspose-font-24.5-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "12 MB",
+    "name" : "aspose-font-24.5.jar"
+  }, {
+    "size" : "393 bytes",
+    "name" : "aspose-font-24.5.pom"
+  } ],
+  "releasehDate" : "2024-05-28T07:34:01+00:00",
+  "version" : "24.5",
+  "ReleaseNotes" : "https://releases.aspose.com/font/java/release-notes/2024/aspose-font-for-java-24-5-release-notes/"
+}
