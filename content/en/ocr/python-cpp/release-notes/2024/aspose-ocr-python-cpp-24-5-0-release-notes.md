@@ -1,19 +1,24 @@
 ---
-id: "aspose-ocr-for-python-cpp-latest-release-notes"
-slug: "latest"
-weight: 1
-date: "2024-04-16"
+date: "2024-05-16"
+id: "aspose-ocr-python-cpp-24-5-0-release-notes"
+slug: "aspose-ocr-python-cpp-24-5-0-release-notes"
+linktitle: "Aspose.OCR for Python via C++ 24.5.0 - Release Notes"
+title: "Aspose.OCR for Python via C++ 24.5.0 - Release Notes"
 author: "Vladimir Lapin"
+weight: 91
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OCR for Python via C++ 24.5.0 (May 2024) release."
 type: "repository"
 layout: "release"
-title: Latest release
-description: A summary of changes, enhancements and bug fixes in the latest release of Aspose.OCR for Python via C++.
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OCR for Python via C++ 24.5.0 - Release Notes"
 keywords:
-- latest
-- recent
-- new
-- release
-- changelog
+- "2024"
+- "May"
+- "new"
+- "release"
+- "changelog"
+menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
