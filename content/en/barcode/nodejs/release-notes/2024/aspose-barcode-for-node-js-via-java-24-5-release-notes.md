@@ -28,13 +28,14 @@ This page contains release notes information for [Aspose.BarCode for Node.js via
 | BARCODENET-38969 | DotCode is generated with incorrect size                                          | Bug          |
 | BARCODENET-38961 | Fix wide bars width of start stop patterns for Standard2of5 and IATA2of5 encoders | Bug          |
 | BARCODENET-38963 | QR code recognition test failed                                                   | Bug          |
-| BARCODEJAVA-1793 | BarCodeReader detected unexpected DecodeType                                      | Bug          |
+| BARCODEJS-485    | BarCodeReader detected unexpected DecodeType                                      | Bug          |
 | BARCODEJAVA-1731 | Unspecified barcode type is recognized                                            | Bug          |
 | BARCODEJAVA-1871 | Remove Code128DataPortion constructor from public API                             | Enhancement  |
 | BARCODEJAVA-1859 | Remove QualitySetting.applyAll method from public API                             | Enhancement  |
 | BARCODEJAVA-1858 | Remove AustraliaPostSettings constructors from public API                         | Enhancement  |
 | BARCODEJAVA-1857 | Remove BarcodeSettings constructors from public API                               | Enhancement  |
 | BARCODEJAVA-1856 | Remove Code128DataPortion.setData method from public API                          | Enhancement  |
+| BARCODEJS-503    | BarCodeReader.getBarCodeDecodeType returns Integer type instead array             | Bug          |
 
 ## Public API changes and backwards compatibility
 
