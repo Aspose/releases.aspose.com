@@ -22,6 +22,7 @@ This page contains release notes information for [Aspose.BarCode for PHP via Jav
 
 | **Key**          | **Summary**                                                                       | **Category** |
 |:-----------------|:----------------------------------------------------------------------------------|:-------------|
+| BARCODEPHP-653   | Implement the support of GD images for barcode generation and images reading      | Enhancement  |
 | BARCODENET-38878 | Detect Unicode charsets for QR barcodes                                           | Enhancement  |
 | BARCODENET-38930 | Add support of new QualitySettings structure to DataMatrix barcode engine         | Enhancement  |
 | BARCODENET-38962 | Fix Reed-Solomon error encoding for DotCode barcodes                              | Bug          |
@@ -35,6 +36,8 @@ This page contains release notes information for [Aspose.BarCode for PHP via Jav
 | BARCODEJAVA-1858 | Remove AustraliaPostSettings constructors from public API                         | Enhancement  |
 | BARCODEJAVA-1857 | Remove BarcodeSettings constructors from public API                               | Enhancement  |
 | BARCODEJAVA-1856 | Remove Code128DataPortion.setData method from public API                          | Enhancement  |
+| BARCODEPHP-654   | BarCodeReader.getBarCodeDecodeType returns Integer type instead array             | Bug          |
+| BARCODEPHP-675   | Class ChecksumValidation should be moved to Recognition.php                       | Bug          |
 
 ## Public API changes and backwards compatibility
 
