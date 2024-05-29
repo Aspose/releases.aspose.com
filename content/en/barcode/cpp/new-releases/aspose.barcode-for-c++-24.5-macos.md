@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-c++-24.5-macos"
-description: " "
+title: "Empower C++ Barcode Apps on macOS - Aspose.BarCode 24.5"
+description: "Unleash the power of barcodes in macOS C++ apps with Aspose.BarCode C++ 24.5. Download & experience better recognition, encoding & Codabar support."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/cpp/new-releases/aspose.barcode-for-c++-24.5-macos/"
@@ -45,6 +45,70 @@ weight: 123
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for C++ 24.5 MacOS release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Augmented HanXin Recognition on MacOS
+
+Developers can empower barcode processing apps on macOS with more accurate recognition of `HanXin` barcodes with performance enhancements in Aspose.BarCode for C++ 24.5.
+
+### Supercharged CodeText Encoding of 2D Barcodes 
+
+The latest C++ barcode API release lets you recognize and generate 2D barcodes with better control over `CodeText` encoding. Efficiently leverage the new API members for `Aztec`, `DataMatrix`, `DotCode`, `PDF417`, `MaxiCode`, and QR Code symbologies.
+
+### Upgraded Codabar Barcode Handling
+
+Experience improved processing accuracy on Apple Macs by delivering dedicated properties for managing Codabar barcode `START` and `STOP` symbols.
+
+### API Modernization
+
+Aspose.BarCode for C++ 24.5 optimizes the API by introducing new API members, removing deprecated members, and marking others as obsolete for a more consistent and future-proof development experience. Some of the added, removed, and deprecated API members are shared below.
+
+### Added API Members
+
+- field Generation::AztecEncodeMode::Binary
+- field Generation::AztecEncodeMode::ECI
+- field Generation::AztecEncodeMode::Extended
+- field Generation::DataMatrixEncodeMode::ECI
+- field Generation::DataMatrixEncodeMode::Binary
+- field Generation::DataMatrixEncodeMode::Base256
+- field Generation::DataMatrixEncodeMode::Extended
+- enum Generation::Pdf417EncodeMode
+- method void Generation::BarcodeGenerator::SetCodeText(System::ArrayPtr<uint8_t> codeBytes);
+- method void Generation::BarcodeGenerator::SetCodeText(System::String codeText, System::SharedPtr<System::Text::Encoding> encoding);
+- property getter Generation::Pdf417EncodeMode Generation::Pdf417Parameters::get_Pdf417EncodeMode() const;
+- property setter void Generation::Pdf417Parameters::set_Pdf417EncodeMode(Aspose::BarCode::Generation::Pdf417EncodeMode value);
+
+### Removed API Members
+
+- property getter Generation::AztecParameters::get_CodeTextEncoding
+- property setter Generation::AztecParameters::set_CodeTextEncoding
+- property getter Generation::QrParameters::get_CodeTextEncoding
+- property setter Generation::QrParameters::set_CodeTextEncoding
+- property getter Generation::Pdf417Parameters::get_CodeTextEncoding
+- property setter Generation::Pdf417Parameters::set_CodeTextEncoding
+- property getter Generation::DataMatrixParameters::get_CodeTextEncoding
+- property setter Generation::DataMatrixParameters::set_CodeTextEncoding
+
+### Deprecated Methods
+
+- field AztecEncodeMode::ExtendedCodetext
+- field DataMatrixEncodeMode::ExtendedCodetext
+- field DotCodeEncodeMode::ExtendedCodetext
+- field MaxiCodeEncodeMode::ExtendedCodetext
+- field QREncodeMode::ExtendedCodetext
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for C++ 24.5 Release Notes](https://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

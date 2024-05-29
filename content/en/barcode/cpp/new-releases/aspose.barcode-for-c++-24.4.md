@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-c++-24.4"
-description: " "
+title: "Improved Unicode Charset, DataMatrix - C++ Barcode API 24.4"
+description: "Download Aspose.BarCode C++ 24.4 on Windows for better C++ barcode development. Add improved QR codes, DataMatrix handling & more in barcode apps."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/cpp/new-releases/aspose.barcode-for-c++-24.4/"
@@ -45,6 +45,40 @@ weight: 122
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for C++ 24.4 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Accurate Unicode Character Detection for QR Codes
+
+Aspose.BarCode for C++ 24.4 ensures precise handling and accurate processing of QR codes containing various Unicode character sets on the Windows platform. 
+
+### Enhanced `DataMatrix` Barcode Quality Control
+
+Fine-tune `DataMatrix` barcode generation with the new `QualitySettings` structure in the latest C++ barcode API release, which provides developers with greater control over the quality of generated DataMatrix barcodes. 
+
+### Robust `DotCode` Barcode Rendering
+
+We have addressed issues related to the size and Reed-Solomon error encoding of barcodes for reliable `DotCode` barcode creation in this C++ API version on Windows OS. 
+
+### Improved Barcode Reader Compatibility
+
+Aspose.BarCode for C++ 24.4 brings seamless barcode recognition across .NET Core environments as various related issues have been fixed.
+
+### Precise Standard 2 of 5 and IATA 2 of 5 Encoding
+
+The wide bar width discrepancies in the start and stop patterns for these barcode formats on Windows have been resolved.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for C++ 24.4 Release Notes](https://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
