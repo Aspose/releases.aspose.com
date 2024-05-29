@@ -7,10 +7,14 @@
     "name" : "aspose-html-24.5-jdk1.8.jar",
     "classifier" : "jdk1.8"
   }, {
+    "size" : "32 MB",
+    "name" : "aspose-html-24.5-jdk11.jar",
+    "classifier" : "jdk11"
+  }, {
     "size" : "394 bytes",
     "name" : "aspose-html-24.5.pom"
   } ],
-  "releasehDate" : "2024-05-29T13:46:12+00:00",
+  "releasehDate" : "2024-05-29T13:46:51+00:00",
   "version" : "24.5",
   "ReleaseNotes" : "https://releases.aspose.com/html/java/release-notes/2024/aspose-html-for-java-24-5-release-notes/"
 }
