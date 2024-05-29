@@ -15,7 +15,7 @@ menuItemWithNoContent: false
 
 ## Aspose.TeX 24.5 for .NET has been released!
 
-The new *LaTeX Repairer* has been implemented.
+The new *LaTeX Repairer* feature has been implemented.
 
 | Key | Summary | Category |
 |---|---|---|

@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-tex",
+  "id" : "24-5",
+  "packageFiles" : [ {
+    "size" : "520 KB",
+    "name" : "aspose-tex-24.5-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "20 MB",
+    "name" : "aspose-tex-24.5.jar"
+  }, {
+    "size" : "1 KB",
+    "name" : "aspose-tex-24.5.pom"
+  } ],
+  "releasehDate" : "2024-05-24T12:28:23+00:00",
+  "version" : "24.5",
+  "ReleaseNotes" : "https://releases.aspose.com/tex/java/release-notes/2024/aspose-tex-for-java-24-5-release-notes/"
+}

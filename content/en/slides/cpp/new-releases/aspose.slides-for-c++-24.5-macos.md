@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-c++-24.5-macos"
-description: " "
+title: "Aspose.Slides C++ 24.5: Supercharge Presentations on macOS"
+description: "Unleash presentation power on macOS with Aspose.Slides C++ 24.5. Download now for transparency control, PNG export & more in your C++ PowerPoint apps."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/cpp/new-releases/aspose.slides-for-c++-24.5-macos/"
@@ -45,6 +45,47 @@ weight: 244
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for C++ 24.5 macOS release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+### Control Table Transparency in macOS
+
+Supercharge presentations on macOS using Aspose.Slides for C++ 24.5 with the ability to set table transparency for a more customized look of your PowerPoint presentations.
+
+### Augmented Presentation Rendering
+
+With this C++ API version, you can experience improved rendering results when exporting WMF to PNG and ensuring visually appealing presentations.
+
+### Modern API Updates
+
+macOS developers can now benefit from improved presentation API usability and compatibility with the latest Aspose.Slides for .NET version.
+
+### Handle Shape Transparency
+
+This release's new shape transparency methods give you greater control over presentation visuals. Develop high-performance presentation processing applications targeting the Linux platform that can get or set fill color transparency.
+
+The following code example illustrates how to set the transparency of the fill color.
+
+```c++
+
+System::SharedPtr<Presentation> presentation = System::MakeObject<Presentation>(u"pres.pptx");
+System::SharedPtr<ITable> table = System::ExplicitCast<Aspose::Slides::ITable>(presentation->get_Slide(0)->get_Shape(0));
+table->get_TableFormat()->set_Transparency(0.5f);
+
+```
+*[Source\*](https://releases.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-5-release-notes/)*
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for C++ 24.5 Release Notes](https://releases.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
