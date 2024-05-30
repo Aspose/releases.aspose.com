@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.diagram-for-python-via-java-24.5"
-description: " "
+title: "Improved VSD File Processing in Aspose.Diagram Python 24.5"
+description: "Integrate improved VSD file processing into your Python apps with Aspose.Diagram Python via Java 24.5. Download today to leverage new enhancements."
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/python-java/new-releases/aspose.diagram-for-python-via-java-24.5/"
@@ -43,8 +43,30 @@ weight: 33
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/diagram/python-java/release-notes/2024/aspose-diagram-for-python-via-java-24-5-release-notes/'>https://releases.aspose.com/diagram/python-java/release-notes/2024/aspose-diagram-for-python-via-java-24-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Python via Java 24.5</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Python via Java 24.5 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Improved VSD Processing
+
+Aspose.Diagram for Python via Java 24.5 brings enhanced functionality for accessing shapes in VSD files using the `getRelationShapeCollection` method.
+
+### Advanced Visio Diagram Manipulation
+
+Developers can now leverage a more robust solution for manipulating Visio diagrams in their Python applications. 
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Diagram for Python via Java 24.5 Release Notes](https://releases.aspose.com/diagram/python-java/release-notes/2024/aspose-diagram-for-python-via-java-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
