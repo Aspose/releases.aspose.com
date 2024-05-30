@@ -14,7 +14,7 @@ menuItemWithNoContent: false
 ---
 
 ## Competitive features:
-
+- Since 24.6 Aspose.Imaging support [Aspose.Imaging.Heic.Adapter](https://www.nuget.org/packages/Aspose.Imaging.HEIC.Adapter#readme-body-tab) that allows to load HEIC format and convert to all supported formats in Aspose.Imaging.
 - **Implement ExifData transferring between supporting formats on export**
 
 | **Key**         | **Summary**                                                                                                                                                              | **Category** |
