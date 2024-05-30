@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.diagram-for-python-via-.net-24.5.0-macos-arm64"
-description: " "
+title: "Python Visio API 24.5.0 (macOS M1) - .NET 8 Support and More"
+description: "Improved VSDX conversion, text rendering, and .NET 8 support are part of Aspose.Diagram Python via Java 24.5.0. Download Visio API on macOS M1 today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/python-net/new-releases/aspose.diagram-for-python-via-.net-24.5.0-macos-arm64/"
@@ -43,8 +43,48 @@ weight: 35
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/diagram/python-net/release-notes/2024/aspose-diagram-for-python-via-net-24-5-release-notes/'>https://releases.aspose.com/diagram/python-net/release-notes/2024/aspose-diagram-for-python-via-net-24-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Python via .NET 24.5.0 MacOS arm64</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Python via .NET 24.5.0 MacOS ARM64/M1 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+macOS M1 developers, rejoice! We are pleased to announce the Aspose.Diagram for Python via .NET 24.5.0 release. This version delivers several improvements to enhance your Visio diagram processing experience on the macOS ARM64/M1 platform.
+
+### .NET 8 Support
+
+You can now target .NET 8 environment using the Python Visio API and build high-performance diagram manipulation apps seamlessly. 
+
+### Convert VSDX to PNG Images
+
+Aspose.Diagram for Python via .NET 24.5.0 brings better accuracy during VSDX to PNG conversion, including correct shade colors in shapes on macOS M1-powered machines. 
+
+### Augmented Text Rendering
+
+Integrate refined text rendering for different scenarios effortlessly, and ensure precise representation within your Visio diagrams.
+
+### Character Encoding Enhancements
+
+Build apps for the macOS M1 systems with this release of Aspose.Diagram for Python via .NET, offering enriched character encoding during VSD to VSDX conversion. 
+
+### Power-up Image Handling
+
+Get more out of the image handling capabilities of your Python apps, as we have fixed the issues related to image display and file corruption during conversion. 
+
+### Perform Grayscale Printing
+
+With the latest Python Visio API version, developers can now perform grayscale printing for Visio files on macOS ARM64 machines.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Diagram for Python via .NET 24.5.0 Release Notes](https://releases.aspose.com/diagram/python-net/release-notes/2024/aspose-diagram-for-python-via-net-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
