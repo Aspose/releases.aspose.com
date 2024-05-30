@@ -68,7 +68,7 @@ This page contains release notes information for Aspose.PDF for Java 24.4.
 - com.aspose.pdf.ParagraphAbsorber.#ctor(ParagraphAbsorberOptions)
 - com.aspose.pdf.ParagraphAbsorber.#ctor(int,ParagraphAbsorberOptions)
 
-**Replaced method: **
+**Replaced method:**
 - com.aspose.pdf.devices.DocumentDevice.binarizeBradley(InputStream,OutputStream,double)
 com.aspose.pdf.devices.TiffDevice.binarizeBradley(InputStream,OutputStream,double)
 
