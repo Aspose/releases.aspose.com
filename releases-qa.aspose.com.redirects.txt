@@ -280,7 +280,7 @@ rewrite ^/ja/slides/nodejs-java/$ https://releases-qa.aspose.com/slides/nodejs-j
 rewrite ^/jasperreports/integration-with-jasperserver$ https://releases-qa.aspose.com/total/jasperreports/ permanent;
 
 # New redirects added on 30th May 2024.
-rewrite /java/aspose-cells/aspose-cells/22.7/aspose-cells-22.7.pom$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-cells/22.7/aspose-cells-22.7.pom permanent;
+# rewrite /java/aspose-cells/aspose-cells/22.7/aspose-cells-22.7.pom$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-cells/22.7/aspose-cells-22.7.pom permanent;
 rewrite ^/java/conversion/$ https://releases-qa.aspose.com/ permanent;
 rewrite ^/net/pdf$ https://releases-qa.aspose.com/pdf/net/ permanent;
 rewrite ^/net/repo/$ https://releases-qa.aspose.com/java/repo/ permanent;
