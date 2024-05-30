@@ -20,8 +20,15 @@
     "name" : "aspose-html-24.4-jdk17.jar",
     "classifier" : "jdk17"
   }, {
+    "size" : "32 MB",
+    "name" : "aspose-html-24.4-jdk8.jar",
+    "classifier" : "jdk8"
+  }, {
     "size" : "394 bytes",
     "name" : "aspose-html-24.4.pom"
+  }, {
+    "size" : "115 MB",
+    "name" : "aspose-html-24.4.zip"
   } ],
   "releasehDate" : "2024-04-04T12:00:13+00:00",
   "version" : "24.4",
