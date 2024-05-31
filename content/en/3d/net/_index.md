@@ -69,7 +69,7 @@ Aspose.3D for .NET can be used on any operating system (Windows, MacOS, Linux) t
 **Google Draco:** DRC\
 **OpenUSD:** USDA, USDC, USDZ \
 **RVM:** (Text/Binary)\
-**Point Clouds:** XYZ
+**Point Clouds:** XYZ\
 **Portable Document Format:** PDF\
 **Other:** AMF, PLY (ASCII/Binary)
 
@@ -81,7 +81,7 @@ Aspose.3D for .NET can be used on any operating system (Windows, MacOS, Linux) t
 ### Read 3D Formats
 
 **Autodesk:** Maya (ASCII/Binary), DXF\
-**Blender:** Blend
+**Blender:** Blend\
 **DirectX:** X (ASCII/Binary)\
 **Siemens:** JT\
 **Maya:** MA, MB\

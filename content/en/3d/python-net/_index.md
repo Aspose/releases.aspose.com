@@ -51,7 +51,7 @@ Please use the following {{< Common/link href="https://pypi.org/project/aspose-3
 **Google Draco:** DRC\
 **OpenUSD:** USDA, USDC, USDZ \
 **RVM:** (Text/Binary)\
-**Point Clouds:** XYZ
+**Point Clouds:** XYZ\
 **Portable Document Format:** PDF\
 **Other:** AMF, PLY (ASCII/Binary)
 
@@ -63,7 +63,7 @@ Please use the following {{< Common/link href="https://pypi.org/project/aspose-3
 ### Read 3D Formats
 
 **Autodesk:** Maya (ASCII/Binary), DXF\
-**Blender:** Blend
+**Blender:** Blend\
 **DirectX:** X (ASCII/Binary)\
 **Siemens:** JT\
 **Maya:** MA, MB\

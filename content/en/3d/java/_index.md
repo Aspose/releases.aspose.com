@@ -192,7 +192,7 @@ packages_refs:
 **Google Draco:** DRC\
 **OpenUSD:** USDA, USDC, USDZ \
 **RVM:** (Text/Binary)\
-**Point Clouds:** XYZ
+**Point Clouds:** XYZ\
 **Portable Document Format:** PDF\
 **Other:** AMF, PLY (ASCII/Binary)
 
@@ -204,7 +204,7 @@ packages_refs:
 ### Read 3D Formats
 
 **Autodesk:** Maya (ASCII/Binary), DXF\
-**Blender:** Blend
+**Blender:** Blend\
 **DirectX:** X (ASCII/Binary)\
 **Siemens:** JT\
 **Maya:** MA, MB\

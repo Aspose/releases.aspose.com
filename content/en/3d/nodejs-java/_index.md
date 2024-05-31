@@ -55,7 +55,7 @@ You can easily use <b>aspose.3d</b> for Javascript from {{< Common/link href="ht
 **Google Draco:** DRC\
 **OpenUSD:** USDA, USDC, USDZ \
 **RVM:** (Text/Binary)\
-**Point Clouds:** XYZ
+**Point Clouds:** XYZ\
 **Portable Document Format:** PDF\
 **Other:** AMF, PLY (ASCII/Binary)
 
@@ -67,7 +67,7 @@ You can easily use <b>aspose.3d</b> for Javascript from {{< Common/link href="ht
 ### Read 3D Formats
 
 **Autodesk:** Maya (ASCII/Binary), DXF\
-**Blender:** Blend
+**Blender:** Blend\
 **DirectX:** X (ASCII/Binary)\
 **Siemens:** JT\
 **Maya:** MA, MB\
