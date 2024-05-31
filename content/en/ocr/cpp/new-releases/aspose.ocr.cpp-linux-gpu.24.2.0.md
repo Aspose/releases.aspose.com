@@ -43,7 +43,7 @@ weight: 117
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/ocr/cpp/release-notes/2024/aspose-ocr-for-cpp-24-2-0-release-notes/'>https://releases.aspose.com/ocr/cpp/release-notes/2024/aspose-ocr-for-cpp-24-2-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.OCR for C++ 24.3.0 Linux (GPU) release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.OCR for C++ 24.2.0 Linux (GPU) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Notable Features">}}
