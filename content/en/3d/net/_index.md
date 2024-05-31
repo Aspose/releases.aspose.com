@@ -1,6 +1,6 @@
 ---
 title: "Download C# Gameware, CAD & 3D Processing DLL | Aspose.3D"
-description: "Download DLL containing C# class library to work with 3D files (3DS, 3MF, DAE, DFX, USD, MA, gITF, U3D), meshes, geometries, scenes, animations via .NET on-premise API."
+description: "Download DLL containing C# class library to work with 3D files (3DS, 3MF, DAE, DFX, USD, Blender, OpenUSD, MA, gITF, U3D), meshes, geometries, scenes, animations via .NET on-premise API."
 keywords: "3D .NET API, 3D .NET Library"
 linktitle: "Aspose.3D for .NET"
 family_listing_page_title: "Aspose.3D for .NET"
@@ -12,7 +12,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "13"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.3D/"
-tags: ['net-development', 'net-3d-api', 'net-3d-component', '3D', '3D-Modeling', '3D-Objects', '3D-PDF', '3D-Scene', '3D-Studio-Max', '3D-Viewports', '3DS', '3D-to-GLTF2.0', '3D-to-HTML', '3D-to-PDF', '3MF', 'AMF', 'Animation', 'ASE', 'Aspose.3D', 'Aspose.Total', 'AutoCAD', 'Autodesk', 'Collada', 'Conholdate', 'Conholdate.Total', 'Cylinder', 'DAE', 'Darco', 'DirectX', 'DRC', 'DXF', 'FBX', 'Geometry', 'gITF', 'HTML', 'JT', 'Linear-Extrusion', 'Mesh', 'Morph', 'NURBS', 'OBJ', 'PDF', 'PLY', 'PointCloud', 'Polygons', 'Redenring', 'RVM', 'Skeleton', 'STL', 'U3D', 'VRML', 'Wavefront', 'X', 'Maya']
+tags: ['net-development', 'net-3d-api', 'net-3d-component', '3D', '3D-Modeling', '3D-Objects', '3D-PDF', '3D-Scene', '3D-Studio-Max', '3D-Viewports', '3DS', '3D-to-GLTF2.0', '3D-to-HTML', '3D-to-PDF', '3MF', 'AMF', 'Animation', 'ASE', 'Aspose.3D', 'Aspose.Total', 'AutoCAD', 'Autodesk', 'Collada', 'Conholdate', 'Conholdate.Total', 'Cylinder', 'DAE', 'Darco', 'DirectX', 'DRC', 'DXF', 'FBX', 'Geometry', 'gITF', 'HTML', 'JT', 'Linear-Extrusion', 'Mesh', 'Morph', 'NURBS', 'OBJ', 'PDF', 'PLY', 'PointCloud', 'Polygons', 'Redenring', 'RVM', 'Skeleton', 'STL', 'U3D', 'VRML', 'Wavefront', 'X', 'Maya', 'Blender', 'OpenUSD', 'USD']
 weight:  1
 ---
 
@@ -45,39 +45,47 @@ Aspose.3D for .NET can be used on any operating system (Windows, MacOS, Linux) t
 
 ## 3D File Processing Features
 
-- Import 3D scenes from PDF.
+- Import embedded 3D scenes from 3D PDF.
 - Import, create, customize, & save 3D scenes.
 - Create 3D mesh & scale geometries of a 3D scene.
-- Configure cube by setting up normals or UV.
-- Perform element formatting using 3D transformations.
-- Share geometry data among multiple nodes of a mesh.
-- Add 3D scene animation.
+- Mesh Boolean operations.
+- Blind watermark encoding and decoding.
+- Procedural modeling.
+- Create mesh from text and font file.
+- Read write asset information of 3D scene and objects.
+- Draco compression and decompression.
+- 3D scene animation.
 - Work with 3D objects & models.
 
 ### Read & Write 3D Formats
 
-**Autodesk:** FBX 7.2 to 7.5 (ASCII/Binary)\
+**Autodesk:** FBX (ASCII/Binary)\
 **3D Systems CAD:** STL (ASCII/Binary)\
 **Wavefront:** OBJ\
 **Discreet 3D Studio:** 3DS\
 **Universal3D:** U3D\
 **Collada:** DAE\
-**GL Transmission:** glTF (ASCII/Binary)\
+**GL Transmission:** glTF, glb \
 **Google Draco:** DRC\
+**OpenUSD:** USDA, USDC, USDZ \
 **RVM:** (Text/Binary)\
+**Point Clouds:** XYZ
 **Portable Document Format:** PDF\
 **Other:** AMF, PLY (ASCII/Binary)
 
 ### Save 3D Files As
 
 **WEB:** HTML
+**Point Clouds:** PCD
 
 ### Read 3D Formats
 
+**Autodesk:** Maya (ASCII/Binary), DXF\
+**Blender:** Blend
 **DirectX:** X (ASCII/Binary)\
 **Siemens:** JT\
 **Maya:** MA, MB\
-**Other:** DXF, ASF, VRML, 3MF
+**Other:** ASE, VRML, 3MF
 
 {{< Common/hr >}}
 

@@ -55,6 +55,10 @@ keywords:
 - PointCloud
 - Polygons
 - Redenring
+- Maya
+- Blender
+- OpenUSD
+- USD
 - RVM
 - Skeleton
 - STL
@@ -62,7 +66,7 @@ keywords:
 - VRML
 - Wavefront
 weight: 02	#rem
-tags: ["Java 3D API", "Java 3D Component", "Java 3D Library", "Java 3D Class", "3D", "3D Geometry3D Manufecturing", "3D Modeling", "3D Objects", "3D PDF", "3D Scene", "3D Studio Max", "3D Viewports", "3DS", "3D to GLTF2.0", "3D to HTML", "3D to PDF", "3MF", "AMF", "Animation", "ASE", "Aspose.3D", "Aspose.Total", "AutoCAD", "Autodesk", "Collada", "Conholdate", "Conholdate.Total", "Cylinder", "DAE", "Darco", "DirectX", "DRC", "DXF", "FBX", "Geometry", "gITF", "HTML", "JT", "Linear Extrusion", "Mesh", "Morph", "NURBS", "OBJ", "PDF", "PLY", "Punktwolke", "Polygons", "Redenring", "RVM", "Skeleton", "STL", "U3D", "VRML", "Wavefront"]
+tags: ["Java 3D API", "Java 3D Component", "Java 3D Library", "Java 3D Class", "3D", "3D Geometry3D Manufecturing", "3D Modeling", "3D Objects", "3D PDF", "3D Scene", "3D Studio Max", "3D Viewports", "3DS", "3D to GLTF2.0", "3D to HTML", "3D to PDF", "3MF", "AMF", "Animation", "ASE", "Aspose.3D", "Aspose.Total", "AutoCAD", "Autodesk", "Collada", "Conholdate", "Conholdate.Total", "Cylinder", "DAE", "Darco", "DirectX", "DRC", "DXF", "FBX", "Geometry", "gITF", "HTML", "JT", "Linear Extrusion", "Mesh", "Morph", "NURBS", "OBJ", "PDF", "PLY", "Punktwolke", "Polygons", "Redenring", "RVM", "Skeleton", "STL", "U3D", "VRML", "Wavefront", "Blender", "Maya", "USD", "OpenUSD"]
 family_listing_page_title: "Aspose.3D for Java"
 family_listing_page_description: "Aspose.3D for Java API is built to create, edit, manipulate and save 3D formats. It empowers Java applications to connect with 3D documents without installing any software package on the computer. Aspose.3D for Java API assist developers to model and create massive worlds in games, superb scenes for design visualization, and engage virtual reality experiences. The API is user friendly and saves time and money than creating a similar solution from scratch."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/3d/272x272/aspose_3d-for-java.png"
@@ -164,36 +168,54 @@ packages_refs:
 
 ## 3D File Processing Features
 
-- [Create](https://docs.aspose.com/3d/java/create-an-empty-3d-document/), load and save 3D scene.
-- Work with 3D models and 3D objects.
-- Setup target camera in 3D document.
-- Add Node hierarchy and Share Geometric data of Mesh among Multiple Nodes of 3D Scene.
-- Create 3D Mesh and expose Geometric Transformation.
-- Convert all Polygons to Triangles in 3D Model.
-- Work with [linear extrusion](https://docs.aspose.com/3d/java/working-with-linear-extrusion/), [cylinder](https://docs.aspose.com/3d/java/working-with-cylinder/), and [PointCloud](https://docs.aspose.com/3d/java/working-with-pointcloud/).
+- Import embedded 3D scenes from 3D PDF.
+- Import, create, customize, & save 3D scenes.
+- Create 3D mesh & scale geometries of a 3D scene.
+- Mesh Boolean operations.
+- Blind watermark encoding and decoding.
+- Procedural modeling.
+- Create mesh from text and font file.
+- Read write asset information of 3D scene and objects.
+- Draco compression and decompression.
+- 3D scene animation.
+- Work with 3D objects & models.
 
-## Supported 3D File Formats
+### Read & Write 3D Formats
 
-FBX 7.5 ASCII, FBX 7.5 Binary, FBX 7.4 ASCII, FBX 7.4 Binary, FBX 7.3 ASCII, FBX 7.3 Binary, FBX 7.2 ASCII, FBX 7.2 Binary, STL (ASCII, Binary), WavefrontOBJ, Discreet3DS, Universal3D, COLLADA, glTF, DXF, PLY (ASCII, Binary), X (ASCII, Binary), Draco, GLTF 2.0 (ASCII, Binary), 3MF, RVM (Text, Binary), ASE, GLB
+**Autodesk:** FBX (ASCII/Binary)\
+**3D Systems CAD:** STL (ASCII/Binary)\
+**Wavefront:** OBJ\
+**Discreet 3D Studio:** 3DS\
+**Universal3D:** U3D\
+**Collada:** DAE\
+**GL Transmission:** glTF, glb \
+**Google Draco:** DRC\
+**OpenUSD:** USDA, USDC, USDZ \
+**RVM:** (Text/Binary)\
+**Point Clouds:** XYZ
+**Portable Document Format:** PDF\
+**Other:** AMF, PLY (ASCII/Binary)
 
-## Read & Write 3D Formats
+### Save 3D Files As
 
-3DS, AMF, RVM, DAE, DRC, FBX, gITF, OBJ, PLY, STL, U3D, ATT
+**WEB:** HTML
+**Point Clouds:** PCD
 
-## Save 3D File As
+### Read 3D Formats
 
-HTML
-
-## Read 3D Formats
-
-3MF, ASE, DXF, JT, VRML 1.0, X
+**Autodesk:** Maya (ASCII/Binary), DXF\
+**Blender:** Blend
+**DirectX:** X (ASCII/Binary)\
+**Siemens:** JT\
+**Maya:** MA, MB\
+**Other:** ASE, VRML, 3MF
 
 ## Supported Environments
 
 - **Microsoft Windows:** Windows Desktop & Server (x86, x64)
 - **macOS:** Mac OS X
 - **Linux:** Ubuntu, CentOS, and others
-- **Java Versions:** `J2SE 9.0 (1.9+)` or above (for example Java 11)
+- **Java Versions:** `J2SE 8.0 (1.8)` or above (for example Java 11)
 
 ## Get Started
 

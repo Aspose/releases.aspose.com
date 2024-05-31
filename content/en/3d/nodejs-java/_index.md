@@ -9,6 +9,7 @@ family_listing_page_selfHosted: "1"
 homepage_package_type: "NPM"
 homepage_package_link: "https://www.npmjs.com/package/aspose.3d"
 weight: 4
+tags: ['Aspose.Total', 'Aspose.3D', 'Python', 'Library', 'CAD', 'gameware', 'scene', 'object', 'model', 'modeling', 'render', 'VRML', 'polygon', 'linear', 'extrusion', 'viewport', 'cylinder', 'pointcloud', 'animation', 'geometry', 'format', 'file', '3DS', '3MF', 'AMF', 'ASE', 'RVM', 'DAE', 'DRC', 'DXF', 'FBX', 'gITF', 'OBJ', 'PDF', 'HTML', 'PLY', 'JT', 'STL', 'U3D', 'USD', 'USDZ', 'VRML', 'X', 'DirectX', 'OpenUSD', 'Blender', 'Maya']
 
 ---
 
@@ -28,11 +29,49 @@ You can easily use <b>aspose.3d</b> for Javascript from {{< Common/link href="ht
 
 [Product Page](https://products.aspose.com/3d/nodejs-java/) | [Docs]() | [Demos](https://products.aspose.app/3d/family) | [API Reference](https://reference.aspose.com/3d/) | [Examples](https://github.com/aspose-3D/Aspose.3D-for-Java) | [Blog](https://blog.aspose.com/categories/aspose.3d-product-family/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/3d/18) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
-- Create, read, save, import or export a 3D scene.
-- Generate 3D  files via API or using templates.
-- Convert 3D files to other supported formats.
-- Create 3D model and change its size.
-- Change the position of the 3D model.
+### 3D File Processing Features
+
+- Import embedded 3D scenes from 3D PDF.
+- Import, create, customize, & save 3D scenes.
+- Create 3D mesh & scale geometries of a 3D scene.
+- Mesh Boolean operations.
+- Blind watermark encoding and decoding.
+- Procedural modeling.
+- Create mesh from text and font file.
+- Read write asset information of 3D scene and objects.
+- Draco compression and decompression.
+- 3D scene animation.
+- Work with 3D objects & models.
+
+### Read & Write 3D Formats
+
+**Autodesk:** FBX (ASCII/Binary)\
+**3D Systems CAD:** STL (ASCII/Binary)\
+**Wavefront:** OBJ\
+**Discreet 3D Studio:** 3DS\
+**Universal3D:** U3D\
+**Collada:** DAE\
+**GL Transmission:** glTF, glb \
+**Google Draco:** DRC\
+**OpenUSD:** USDA, USDC, USDZ \
+**RVM:** (Text/Binary)\
+**Point Clouds:** XYZ
+**Portable Document Format:** PDF\
+**Other:** AMF, PLY (ASCII/Binary)
+
+### Save 3D Files As
+
+**WEB:** HTML
+**Point Clouds:** PCD
+
+### Read 3D Formats
+
+**Autodesk:** Maya (ASCII/Binary), DXF\
+**Blender:** Blend
+**DirectX:** X (ASCII/Binary)\
+**Siemens:** JT\
+**Maya:** MA, MB\
+**Other:** ASE, VRML, 3MF
 
 {{< Common/hr >}}
 

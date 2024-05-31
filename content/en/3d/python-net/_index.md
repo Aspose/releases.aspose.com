@@ -6,7 +6,7 @@ linktitle: "Aspose.3D for Python via .NET"
 family_listing_page_title:  "Aspose.3D for Python via .NET"
 family_listing_page_description:  "Aspose.3D for Python via .NET is a feature-rich Gameware and Computer-Aided-Designing (CAD) API to manipulate documents without any 3D modeling and rendering software dependencies. API supports Discre"
 family_listing_page_iconurl:  "https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg"
-tags: ['Aspose.Total', 'Aspose.3D', 'Python', 'Library', 'CAD', 'gameware', 'scene', 'object', 'model', 'modeling', 'render', 'VRML', 'polygon', 'linear', 'extrusion', 'viewport', 'cylinder', 'pointcloud', 'animation', 'geometry', 'format', 'file', '3DS', '3MF', 'AMF', 'ASE', 'RVM', 'DAE', 'DRC', 'DXF', 'FBX', 'gITF', 'OBJ', 'PDF', 'HTML', 'PLY', 'JT', 'STL', 'U3D', 'USD', 'USDZ', 'VRML', 'X', 'DirectX', 'Maya', 'net-3d-library', 'net-core']
+tags: ['Aspose.Total', 'Aspose.3D', 'Python', 'Library', 'CAD', 'gameware', 'scene', 'object', 'model', 'modeling', 'render', 'VRML', 'polygon', 'linear', 'extrusion', 'viewport', 'cylinder', 'pointcloud', 'animation', 'geometry', 'format', 'file', '3DS', '3MF', 'AMF', 'ASE', 'RVM', 'DAE', 'DRC', 'DXF', 'FBX', 'gITF', 'OBJ', 'PDF', 'HTML', 'PLY', 'JT', 'STL', 'U3D', 'USD', 'USDZ', 'VRML', 'X', 'DirectX', 'OpenUSD', 'Blender', 'Maya']
 weight: 3
 ---
 
@@ -25,88 +25,50 @@ Please use the following {{< Common/link href="https://pypi.org/project/aspose-3
 
 [Product Page](https://products.aspose.com/3d/python-net/) | [Docs](https://docs.aspose.com/3d/python-net/) | [Demos](https://products.aspose.app/3d/family/) | [Blog](https://blog.aspose.com/categories/aspose.3d-product-family/) | [Code Samples](https://github.com/aspose-3d/Aspose.3D-for-Python-via-.NET) | [Free Support](https://forum.aspose.com/c/3d/18) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
-### 3D Scene Features
+### 3D File Processing Features
 
-- Create, read, save, import or export a 3D scene.
-- Define metadata for the 3D scene to add asset information.
-- Ability to flip the coordinate system in the supported (`3DS`, `STL`, `OBJ`, & `U3D`) 3D formats.
-- Convert 3D Mesh into custom binary format.
-- Export 3D Scene to `AMF` (Compressed) file format.
-- Allows to change the orientation of a 3D Scene.
+- Import embedded 3D scenes from 3D PDF.
+- Import, create, customize, & save 3D scenes.
+- Create 3D mesh & scale geometries of a 3D scene.
+- Mesh Boolean operations.
+- Blind watermark encoding and decoding.
+- Procedural modeling.
+- Create mesh from text and font file.
+- Read write asset information of 3D scene and objects.
+- Draco compression and decompression.
+- 3D scene animation.
+- Work with 3D objects & models.
 
-### 3D Geometry Features
+### Read & Write 3D Formats
 
-- Create 3D Cube Mesh
-- Create normal vectors and UV coordinates
-- Add materials to 3D objects
-- Apply Physical Based Rendering (PBR) Material for efficient and realistic rendering
-- Rotate objects in 3D space using Euler angles, quaternion, & custom transformation matrix.
-- Create the Transformation Matrix by the chain operations.
-- Define logical structure of a 3D scene using node hierarchy.
-- Attach geometries, cameras, & lights to nodes.
-- Share mesh geometry data among multiple nodes.
-- Ability to combine to quaternions to represent orientation in the 3D space.
-- Scale geometry of a specific 3D node or scale geometries of all the nodes of a 3D scene.
-
-### 3D Animation Features
-
-- Ability to render the animated scene.
-- Support for keeping the light-camera always facing a specified node. (some supported file formats only.)
-- Perform object animation (key-frame animation).
-
-### 3D Object Features
-
-- Build binormal & tangent data in a 3D Model for all the meshes.
-- Convert the single 3D object mesh into a `PLY` file.
-- Convert a Mesh into a triangle mesh and access its vertices.
-- Convert the following to Mesh:
-  - 3D Sphere to Mesh
-  - 3D Box to Mesh
-  - 3D Plane to Mesh
-  - 3D Cylinder to Mesh
-  - 3D Torus to Mesh
-- Create a parameterized rectangular torus into the 3D Scene.
-- Create, edit & work with the custom  properties of a 3D Scene.
-- Ability to split & merge meshes.
-- Use the X-Path Query syntax to select specific or more objects under the current node.
-
-### Rendering
-
-- Set the camera & light position.
-- Configure which objects may receive the shadow and which ones may cast the shadow.
-- Supports creating a Fish-eye lens effect.
-- Ability to program the GPU and configure the graphics hardware for 3D rendering.
-- Navigate the camera in the 3D scene and place it at your desired position.
-- Render a panoramic view of the 3D scene and export it to any of the supported conversion formats.
-
-### Read & Write 3D File Formats
-
-**Autodesk&reg; 3D Studio:** 3DS\
-**CAD:** AMF, OBJ\
-**AVEVA PDMS:** RVM\
-**COLLADA:** DAE\
+**Autodesk:** FBX (ASCII/Binary)\
+**3D Systems CAD:** STL (ASCII/Binary)\
+**Wavefront:** OBJ\
+**Discreet 3D Studio:** 3DS\
+**Universal3D:** U3D\
+**Collada:** DAE\
+**GL Transmission:** glTF, glb \
 **Google Draco:** DRC\
-**MotionBuilder:** FBX\
-**3D Models:** GLB\
-**Acrobat&reg;:** PDF\
-**3D Scanning:** PLY\
-**3D Printing:** STL\
-**3D PDF:** U3D
+**OpenUSD:** USDA, USDC, USDZ \
+**RVM:** (Text/Binary)\
+**Point Clouds:** XYZ
+**Portable Document Format:** PDF\
+**Other:** AMF, PLY (ASCII/Binary)
 
-### Load 3D File Formats
+### Save 3D Files As
 
-**Microsoft&reg; 3D Builder:** 3MF\
-**Autodesk&reg;:** ASE\
-**AutoCAD&reg;:** DXF\
-**Maya&reg;:** MA MB\
-**Siemens&reg; PLM:** JT\
-**Pixar&reg;:** USD, USDZ\
-**Virtual Reality:** VRML\
-**DirectX 3D:** X
+**WEB:** HTML
+**Point Clouds:** PCD
 
-### Save 3D Files AS
+### Read 3D Formats
 
-**Markup:** HTML
+**Autodesk:** Maya (ASCII/Binary), DXF\
+**Blender:** Blend
+**DirectX:** X (ASCII/Binary)\
+**Siemens:** JT\
+**Maya:** MA, MB\
+**Other:** ASE, VRML, 3MF
+
 
 Please visit [Supported File Formats](https://docs.aspose.com/3d/python-net/supported-file-formats/) for further details.
 
