@@ -23,7 +23,6 @@ This page contains release notes for [Aspose.Words for Java 24.5](https://releas
 
 There are 122 improvements and fixes in this regular monthly release. The most notable are:
 
-- Included .NET 7.0/8.0 assemblies in the Aspose.Words NuGet package.
 - Implemented a function to eliminate empty pages from the document.
 - Implemented DML effects rendering for SVG graphics, extending previous functionality limited to images.
 - Introduced support for creating combo charts and adjusting properties such as gap width, overlap, and bubble scale within series groups.
