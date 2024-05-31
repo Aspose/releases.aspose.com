@@ -2,7 +2,7 @@
 id: "aspose-ocr-for-python-net-latest-release-notes"
 slug: "latest"
 weight: 1
-date: "2024-02-15"
+date: "2024-05-30"
 author: "Vladimir Lapin"
 type: "repository"
 layout: "release"
@@ -17,33 +17,74 @@ keywords:
 ---
 
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for Python via .NET 24.3.0 (March 2024)** release.
+This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for Python via .NET 24.5.0 (May 2024)** release.
 {{% /alert %}}
 
 ## Deprecation warning
 
 {{% alert color="caution" %}}
-The release 24.3.0 updates the codes of some recognition languages to align with ISO 639-2 standard.
+The release 24.5.0 updates the codes of some recognition languages to align with ISO 639-2 standard.
 
 To make it easier to upgrade your code, we have kept all legacy values, but marked them as deprecated. All of your existing code will continue to work and you can even make minor updates to it, but be aware that all deprecated language codes are scheduled to be removed in release **25.1.0 (January 2025)**.
 
-**Time to deprecation: 9 months left.**
+**Time to deprecation: 7 months left.**
 {{% /alert %}}
 
 ## What was changed
 
 Key | Summary | Category
 --- | ------- | --------
-OCRPY&#8209;67 | The library can now extract texts in **133** languages and automatically detect Extended Latin and Cyrillic texts without specifying the language. | Enhancement
-OCRPY&#8209;67 | Some legacy language codes were deprecated. See details in **Deprecated APIs** section.  | Enhancement
+OCRPY&#8209;68 | Automatic detection of problematic areas of an image that can significantly impact the accuracy of OCR. | New feature
+OCRPY&#8209;69 | Added recognition of Arabic text and recognition of texts in mixed Arabic/English. | New feature
+OCRPY&#8209;69 | Added Persian (Farsi) language recognition and recognition of texts in mixed Persian/English. | New feature
+OCRPY&#8209;69 | Added Urdu language recognition and recognition of texts in mixed Persian/English. | New feature
+OCRPY&#8209;69 | Added Uyghur language recognition and recognition of texts in mixed Persian/English. | New feature
+OCRPY&#8209;69 | Significantly improved recognition of languages based on the Latin alphabet. | Enhancement
+OCRPY&#8209;69 | Added support for TIFF images with 16 bits per pixel bit depth. | Enhancement
+OCRPY&#8209;69 | Improved saving of recognition results as searchable PDFs. | Enhancement
+OCRPY&#8209;69 | Improved [`DetectAreasMode.PHOTO`](https://docs.aspose.com/ocr/python-net/areas-detection/photo/) document areas detection mode. | Enhancement
+OCRPY&#8209;69 | Fixed character bounding boxes detection. | Fix
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OCR for .NET 24.3.0** that may affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OCR for .NET 24.5.0** that may affect the code of existing applications.
 
 ### Added public APIs:
 
-_No changes_
+#### `detect_defects()` method
+
+Automatically find potentially problematic areas of image and return the information on the type of defect and its coordinates.
+
+#### `DefectType` enumeration
+
+Image defects that can be detected automatically:
+
+Defect | Value | Description
+------ | ----- | -----------
+[Salt-and-pepper noise](https://en.wikipedia.org/wiki/Salt-and-pepper_noise) | `DefectType.SALT_PEPPER_NOISE` | Appears as random white and black pixels scattered across the area. Often occurs in digital photographs.
+Low contrast between text and background | `DefectType.LOW_CONTRAST` | Highlights and shadows typically appear on curved pages.
+Blur | `DefectType.BLUR` | The entire image or some of its areas are out of focus.<br />**Important:** This detection algorithm can only identify the entire image as blurry. Specific areas cannot be detected.
+Glare | `DefectType.GLARE` | Highlight areas in an image caused by uneven lighting, such as spot lights or flash.
+_All supported defects_ | `DefectType.ALL` | All above-mentioned defects.
+
+#### `DefectAreas` class
+
+Image areas containing a certain type of defect.
+
+Property | Description
+-------- | -----------
+`defect_type` | Type of defect (`DefectType` enumeration value).
+`rectangles ` | Image areas where the defect was found.
+
+#### `DefectOutput` class
+
+Image areas containing a certain type of defect.
+
+Property | Description
+-------- | -----------
+`source` | The full path to the file or URL, if any.
+`page` | The page number for multi-page images and PDFs.
+`defect_areas` | The list of image defects and areas where they were found.
 
 ### Updated public APIs:
 
@@ -55,191 +96,94 @@ The following public APIs have been introduced in this release:
 **Compatibility: fully backward compatible.** See details below.
 {{% /alert %}}
 
-Aspose.OCR for Python via .NET greatly expands the number of languages supported. We have added a total of 135 languages based on Latin, Cyrillic, Chinese and Indic scripts:
+Aspose.OCR for Python via .NET 24.5.0 adds support for several new languages:
 
 Value | Alphabet
 ----- | --------
-`Language.EXT_LATIN` | All supported Latin characters and diacritics (auto-detect)
-`Language.CYRILLIC` | All supported Cyrillic characters (auto-detect)
-`Language.AFR` | Afrikaans
-`Language.ALN` | Albanian
-`Language.AWA` | Awadhi
-`Language.AZB` | Azerbaijani (Azeri)
-`Language.BCL` | Bikol
-`Language.BEL` | Belarusan (Belorussian)
-`Language.BEM` | Bemba (Chibemba)
-`Language.BEW` | Betawi
-`Language.BGC` | Haryanvi
-`Language.BHO` | Bhojpuri
-`Language.BHR` | Malagasy
-`Language.BJJ` | Kanauji
-`Language.BOS` | Bosnian
-`Language.BUL` | Bulgarian
-`Language.CAT` | Catalan
-`Language.CCX` | Zhuang
-`Language.CDO` | Min Dong
-`Language.CEB` | Cebuano
-`Language.CES` | Czech
-`Language.CHE` | Chechen
-`Language.CMN` | Mandarin (Chinese)
-`Language.CPX` | Pu-Xian
-`Language.DAN` | Danish
-`Language.DEU` | German
-`Language.DHD` | Dhundari
-`Language.DIQ` | Dimli
-`Language.DOC` | Dong
-`Language.ENG` | English
-`Language.EST` | Estonian
-`Language.FIN` | Finnish
-`Language.FRA` | French
-`Language.GAN` | Gan
-`Language.GAX` | Oromo
-`Language.GBM` | Garhwali
-`Language.GLG` | Galician
-`Language.GLK` | Gilaki
-`Language.GUZ` | Gusii
-`Language.HAK` | Hakka
-`Language.HAU` | Hausa
-`Language.HBS` | Serbo-Croatian (Latin)
-`Language.HIL` | Hiligaynon
-`Language.HIN` | Hindi
-`Language.HMN` | Hmong
-`Language.HNE` | Chattisgarhi (Laria, Khaltahi)
-`Language.HRV` | Croatian
-`Language.HSN` | Xiang
-`Language.HUN` | Hungarian (Magyar)
-`Language.ILO` | Ilocano
-`Language.IND` | Indonesian
-`Language.ITA` | Italian
-`Language.KAZ` | Kazakh
-`Language.KBD` | Kabardian
-`Language.KFY` | Kumauni
-`Language.KIN` | Rwanda
-`Language.KLN` | Nandi
-`Language.KMR` | Kurdish (Kurmanji)
-`Language.KNC` | Kanuri
-`Language.KNN` | Konkani
-`Language.KON` | Kikongo
-`Language.LATIN` | Latin
-`Language.LAV` | Latvian
-`Language.LIT` | Lithuanian
-`Language.LMN` | Lamani (Lambadi)
-`Language.LNC` | Occitan
-`Language.LUO` | Luo
-`Language.MAG` | Magahi
-`Language.MAI` | Maithili
-`Language.MAK` | Makassar (Makasar)
-`Language.MAR` | Marathi
-`Language.MER` | Meru
-`Language.MIN` | Minangkabau
-`Language.MLY` | Malay (Melayu)
-`Language.MNP` | Min Bei
-`Language.MTQ` | Muong
-`Language.MTR` | Mewari
-`Language.MUI` | Musi
-`Language.MUP` | Malvi
-`Language.NAN` | Min Nan
-`Language.NBL` | Ndebele
-`Language.NDS` | Low German
-`Language.NEP` | Nepali
-`Language.NLD` | Dutch
-`Language.NOR` | Norwegian
-`Language.NSO` | Sotho (Northern)
-`Language.NYA` | Chichewa (Chewa, Nyanja)
-`Language.PAG` | Pangasinan
-`Language.PAM` | Kapampangan
-`Language.PCC` | Bouyei (Buyi, Giáy)
-`Language.PLM` | Palembang
-`Language.POL` | Polish
-`Language.POR` | Portuguese
-`Language.QUC` | K'iche'
-`Language.QXA` | Quechua
-`Language.RJB` | Rajbanshi
-`Language.RON` | Romanian
-`Language.RUF` | Luguru
-`Language.RUS` | Russian
-`Language.RWR` | Marwari
-`Language.SAS` | Sasak
-`Language.SLK` | Slovak
-`Language.SLV` | Slovene (Slovenian)
-`Language.SNA` | Shona (Karanga)
-`Language.SOM` | Somali
-`Language.SOT` | Sotho (Southern)
-`Language.SPA` | Spanish
-`Language.SRP` | Serbian (Cyrillic)
-`Language.SRR` | Serer-Sine
-`Language.SSW` | Swati (Swazi)
-`Language.SUK` | Sukuma
-`Language.SUN` | Sundanese (Sunda)
-`Language.SWE` | Swedish
-`Language.SWH` | Swahili
-`Language.TGL` | Tagalog (Pilipino)
-`Language.TOI` | Tonga
-`Language.TSN` | Tswana
-`Language.TSO` | Tsonga
-`Language.TUK` | Turkmen
-`Language.TUM` | Tumbuka
-`Language.TUR` | Turkish
-`Language.UKR` | Ukrainian
-`Language.UMB` | Umbundu
-`Language.VIE` | Vietnamese
-`Language.VMW` | Makua (Makhuwa)
-`Language.WAL` | Wolaytta
-`Language.WAR` | Waray-Waray
-`Language.WBR` | Wagdi
-`Language.WTM` | Mewati
-`Language.WUU` | Wu (Changzhou)
-`Language.XHO` | Xhosa
-`Language.YAO` | Yao
-`Language.YOR` | Yoruba
-`Language.YUE` | Cantonese
-`Language.ZUL` | Zulu
+`Language.ARA` | Arabic, including texts in mixed Arabic/English
+`Language.PES` | Persian (Farsi), including texts in mixed Persian/English
+`Language.UIG` | Uyghur, including texts in mixed Uyghur/English
+`Language.URD` | Urdu, including texts in mixed Urdu/English
+
+
+{{% alert color="primary" %}}
+To support the above-mentioned languages, [install](https://docs.aspose.com/ocr/python-net/modules/) **aspose-ocr-arabic-v1** OCR feature.
+{{% /alert %}}
 
 ### Removed public APIs:
 
 _No changes._
 
-### Deprecated APIs
+## Changes to application logic
 
-The following public APIs have been marked as deprecated and will be removed in **25.1.0 (January 2025)** release:
+{{% alert color="info" %}}
+**Compatibility: fully backward compatible.**
+{{% /alert %}}
 
-#### `Language.NONE`
+We have significantly improved an OCR model for all [languages](https://docs.aspose.com/ocr/python-net/recognition-languages/) based on Latin alphabet:
 
-Use `Language.EXT_LATIN` to automatically detect any Latin characters and diacritics.
-
-#### `Language.CHI`
-
-Use one of the following languages depending on the actual language of the text:
-
-- `Language.CMN` (Mandarin)
-- `Language.WUU` (Wu)
-- `Language.YUE` (Cantonese)
-- `Language.NAN` (Min Nan)
-- `Language.HSN` (Xiang)
-- `Language.HAK` (Hakka)
-- `Language.GAN` (Gan)
-
-#### `Language.CZE`
-
-Use `Language.CES` for recognizing Czech texts.
-
-#### `Language.DUM`
-
-Use `Language.NLD` for recognizing Dutch texts.
-
-#### `Language.SRP_HRV`
-
-Use `Language.HBS` for recognizing Serbo-Croatian texts (based on Latin alphabet).
-
-#### `Language.RUM`
-
-Use `Language.RON` for recognizing Romanian texts.
+- English
+- Indonesian
+- Italian
+- Malay (Melayu)
+- Hausa
+- Swahili
+- Yoruba
+- Oromo
+- Dutch
+- Malagasy
+- Zhuang
+- Somali
+- Chichewa (Chewa, Nyanja)
+- Rwanda
+- Min Bei
+- Zulu
+- Min Dong
+- Hiligaynon
+- Hmong
+- Shona (Karanga)
+- Xhosa
+- Betawi
+- Afrikaans
+- Minangkabau
+- Sotho (Southern)
+- Bikol
+- Kanuri
+- Tswana
+- Luo
+- Sukuma
+- Tsonga
+- Bemba (Chibemba)
+- Nandi
+- Palembang
+- Umbundu
+- Sotho (Northern)
+- Waray-Waray
+- Lamani (Lambadi)
+- Musi
+- Pu-Xian
+- Kapampangan
+- Bouyei (Buyi, Giáy)
+- Ndebele
+- Sasak
+- Swati (Swazi)
+- Gusii
+- Meru
+- Wolaytta
+- Dong
+- Pangasinan
+- Makassar (Makasar)
+- Tumbuka
+- Serer-Sine
+- LaTonga
+- Luguru
+- Latin
 
 ## Examples
 
 The code samples below illustrate the changes introduced in this release:
 
-### Auto-detect Extended Latin characters
+### Recognize Arabic text
 
 ```python
 # Instantiate Aspose.OCR API
@@ -247,12 +191,26 @@ api = AsposeOcr()
 # Add image to the recognition batch
 input = OcrInput(InputType.SINGLE_IMAGE)
 input.add("source.png")
-# Recognize Ukrainian text
+# Enable Arabic text recognition
 recognitionSettings = RecognitionSettings()
-recognitionSettings.language = Language.EXT_LATIN
+recognitionSettings.language = Language.ARA
 # Recognize the image
 result = api.recognize(input, recognitionSettings)
 # Print recognition result
 print(result[0].recognition_text)
 input("Press Enter to continue...")
+```
+
+### Detect shadows and highlights
+
+```python
+# Instantiate Aspose.OCR API
+api = AsposeOcr()
+# Add image to the recognition batch
+input = OcrInput(InputType.SINGLE_IMAGE)
+input.add("source.png")
+# Find shadows and highlights
+defects = api.detect_defects(input, DefectType.LOW_CONTRAST)
+print(det[0].source)
+print(det[0].defect_areas[0].defect_type)
 ```

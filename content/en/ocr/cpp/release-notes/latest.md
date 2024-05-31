@@ -2,7 +2,7 @@
 id: "aspose-ocr-for-cpp-latest-release-notes"
 slug: "latest"
 weight: 1
-date: "2024-04-22"
+date: "2024-05-30"
 author: "Vladimir Lapin"
 type: "repository"
 layout: "release"
@@ -17,47 +17,24 @@ keywords:
 ---
 
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OCR for C++ 24.4.0 (April 2024)**](https://www.nuget.org/packages/Aspose.Ocr.Cpp/24.4.0) release.
+This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OCR for C++ 24.5.0 (May 2024)**](https://www.nuget.org/packages/Aspose.Ocr.Cpp/24.5.0) release.
 
-GPU version: **24.4.0**
+GPU version: **24.5.0**
 {{% /alert %}}
 
 ## What was changed
 
 Key | Summary | Category
 --- | ------- | --------
-OCRCPP&#8209;597 | Advanced OCR features are now selectively downloaded as needed. | New feature
+OCRCPP&#8209;627 | Reworked free trial restrictions. | Enhancements
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OCR for C++ 24.4.0** that may affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OCR for C++ 24.5.0** that may affect the code of existing applications.
 
 ### Added public APIs:
 
-The major change introduced in **Aspose.OCR for C++ 24.4.0** is that the distributive now offers basic recognition capabilities only. Additional features can be added via downloadable resources, freely available in our [online repository](https://github.com/aspose-ocr/resources).
-
-This approach allows you to selectively choose which features you need for your project, keeping your codebase lean and modular.
-
-{{% alert color="primary" %}}
-If the required resource is missing and the automatic download is disabled or impossible, the application will throw an error.
-{{% /alert %}}
-
-#### `AsposeOCRResourceLoadSettings` structure
-
-Allows you to configure resource loading settings:
-
-Member | Type | Description
------- | ---- | -----------
-`resources_root_path` | `char*` | Absolute or relative path to the directory in which the downloadable OCR resources are located. If automatic resource loading is enabled, the files will be downloaded to this directory.<br />Do not forget to include a directory with downloaded resources in your distributive, otherwise the related functionality will fail.
-`lazy_load` | `bool` | Automatically load the required resources when calling the method dependent on them. Requires Internet connection at the runtime.<br />Disabled by default.
-
-{{% alert color="primary" %}}
-The automatic download of the resource may take some time depending on the speed of your Internet connection. This will result in increased processing time on the first call to a method that depends on the downloaded resource.
-{{% /alert %}}
-
-#### `asposeocr_set_resource_load_settings()`
-
-Apply the resource loading settings configured in `AsposeOCRResourceLoadSettings` structure.
+_No changes._
 
 ### Updated public APIs:
 
@@ -67,45 +44,15 @@ _No changes._
 
 _No changes._
 
-## Examples
+## Changes to application logic
 
-The code samples below illustrate the changes introduced in this release:
+{{% alert color="info" %}}
+**Compatibility: fully backward compatible.**
+{{% /alert %}}
 
-### Cyrillic characters recognition
+In trial mode (without providing a license) you can recognize texts in any [supported language](https://docs.aspose.com/ocr/cpp/recognition-languages/) and save recognition results in any of the [supported formats](https://docs.aspose.com/ocr/cpp/supported-file-formats/) with the following restrictions:
 
-```cpp
-AsposeOCRResourceLoadSettings load_settings;
-std::string root_path = "models";
-load_settings.resource_root_path = root_path.c_str();
-asposeocr_set_resource_load_settings(load_settings);
-// Set recognition language
-RecognitionSettings settings;
-settings.language_alphabet = language::eng;
-// Provide the image  for recognition
-string file = "source.png";
-AsposeOCRInput source;
-source.url = file.c_str();
-vector<AsposeOCRInput> content = {source};
-// Extract text from the image
-AsposeOCRRecognitionResult result = asposeocr_recognize(content.data(), content.size(), settings);
-```
+- If the number of characters in a recognized image exceeds 100, only the **first 100 characters** are recognized.
+- You cannot recognize more than 500 characters per application launch, even when processing text from multiple images or regions within a single image.
 
-### Automatically download resources
-
-```cpp
-AsposeOCRResourceLoadSettings load_settings;
-std::string root_path = "models";
-load_settings.resource_root_path = root_path.c_str();
-load_settings.lazy_load = true;
-asposeocr_set_resource_load_settings(load_settings);
-// Set recognition language
-RecognitionSettings settings;
-settings.language_alphabet = language::eng;
-// Provide the image  for recognition
-string file = "source.png";
-AsposeOCRInput source;
-source.url = file.c_str();
-vector<AsposeOCRInput> content = {source};
-// Extract text from the image
-AsposeOCRRecognitionResult result = asposeocr_recognize(content.data(), content.size(), settings);
-```
+Apply a temporary or full [license](https://docs.aspose.com/ocr/cpp/licensing/) to remove the restriction.

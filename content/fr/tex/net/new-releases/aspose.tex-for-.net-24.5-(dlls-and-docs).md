@@ -1,17 +1,17 @@
 ---
 
-title: "Téléchargements ---Nouvelles versions-aspose.tex-for-.net-24.5-(dll-and-docs)"
+title: "Téléchargements ---Nouvelles versions-aspose.tex-for-.net-24.5-(dlls-and-docs)"
 description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/tex/net/new-releases/aspose.tex-for-.net-24.5-(dlls-and-docs)/"
 folder_name: "Aspose.TeX pour .NET 24.5 (DLL et documents)"
-download_link: "/tex/net/new-releases/aspose.tex-for-.net-24.5-(dlls-and-docs)/b59b39543bacd2a5eed3248d8b1a45b6-9-10894"
+download_link: "/tex/net/new-releases/aspose.tex-for-.net-24.5-(dlls-and-docs)/cb6791122dedd8b135a057b3b84db402-9-10894"
 download_text: "Télécharger"
 intro_text: "Il contient la version Aspose.TeX pour .NET 24.5 (DLL et documents)."
-image_link: "/resources/img/msi-icon.png"
-download_count: " 23/5/2024 Téléchargers: 1  Views: 1 "
-file_size: "File Size: 42.41MB"
+image_link: "/resources/img/zip-icon.png"
+download_count: " 23/5/2024 Téléchargers: 25  Views: 1 "
+file_size: "File Size: 41.99MB"
 parent_path: "tex/net"
 section_parent_path: "tex/net"
 
@@ -22,21 +22,21 @@ weight: 50
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.TeX pour .NET 24.5 (DLL et documents)" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.TeX pour .NET 24.5 (DLL et documents)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Télécharger" link="/tex/net/new-releases/aspose.tex-for-.net-24.5-(dlls-and-docs)/b59b39543bacd2a5eed3248d8b1a45b6-9-10894" >}}
+    {{< Releases/ReleasesSingleButtons text="Télécharger" link="/tex/net/new-releases/aspose.tex-for-.net-24.5-(dlls-and-docs)/cb6791122dedd8b135a057b3b84db402-9-10894" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/tex" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Téléchargers: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-b59b39543bacd2a5eed3248d8b1a45b6-9-10894" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-cb6791122dedd8b135a057b3b84db402-9-10894" >}} 25 {{< /Common/li >}}
       {{< Common/li >}} Taille du fichier: {{< /Common/li >}}
-      {{< Common/li id="size-update-b59b39543bacd2a5eed3248d8b1a45b6-9-10894" >}} 42.41MB {{< /Common/li >}}
+      {{< Common/li id="size-update-cb6791122dedd8b135a057b3b84db402-9-10894" >}} 41.99MB {{< /Common/li >}}
 
       {{< Common/li >}} date ajoutée: {{< /Common/li >}}
-      {{< Common/li id="added-update-b59b39543bacd2a5eed3248d8b1a45b6-9-10894" >}}23/5/2024 {{< /Common/li >}}
+      {{< Common/li id="added-update-cb6791122dedd8b135a057b3b84db402-9-10894" >}}23/5/2024 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

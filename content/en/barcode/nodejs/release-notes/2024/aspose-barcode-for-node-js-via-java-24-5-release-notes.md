@@ -3,7 +3,7 @@ id: "aspose-barcode-for-node-js-via-java-24-5-release-notes"
 slug: "aspose-barcode-for-node-js-via-java-24-5-release-notes"
 linktitle: "Aspose.BarCode for Node.js via Java 24.5"
 title: "Aspose.BarCode for Node.js via Java 24.5"
-weight: 940
+weight: 930
 description: "Aspose.BarCode for Node.js via Java 24.5 – the latest updates and fixes."
 type: "repository"
 layout: "release"

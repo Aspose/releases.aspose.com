@@ -5,7 +5,7 @@ slug: "aspose-ocr-for-net-24-5-0-release-notes"
 linktitle: "Aspose.OCR for .NET 24.5.0 - Release Notes"
 title: "Aspose.OCR for .NET 24.5.0 - Release Notes"
 author: "Vladimir Lapin"
-weight: 90
+weight: 81
 description: "A summary of recent changes, enhancements and bug fixes in Aspose.OCR for .NET 24.5.0 (May 2024) release."
 type: "repository"
 layout: "release"
@@ -53,7 +53,7 @@ This section lists all public API changes introduced in **Aspose.OCR for .NET 24
 
 The following public APIs have been added to **Aspose.OCR for .NET 24.5.0** release:
 
-#### `Aspose.OCR..AsposeOcr.DetectDefects()` method
+#### `Aspose.OCR.AsposeOcr.DetectDefects()` method
 
 Automatically find potentially problematic areas of image and return the information on the type of defect and its coordinates.
 
