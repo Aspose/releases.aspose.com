@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.ocr.cpp.24.3.0"
-description: " "
+title: "No More ONNX Runtime Dependency - C++ OCR API 24.3.0"
+description: "Integrate optimized OCR functionality into your C++ apps with Aspose.OCR C++ 24.3.0. Enjoy static ONNX Runtime linking, bug fixes & more. Download today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/cpp/new-releases/aspose.ocr.cpp.24.3.0/"
@@ -43,8 +43,32 @@ weight: 118
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/ocr/cpp/release-notes/2024/aspose-ocr-for-cpp-24-3-0-release-notes/'>https://releases.aspose.com/ocr/cpp/release-notes/2024/aspose-ocr-for-cpp-24-3-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Removed ONNX Runtime external dependency.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.OCR for C++ 24.3.0 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Aspose.OCR for C++ 24.3.0 is here, and it brings improvements and fixes to enhance your C++ OCR development experience. 
+
+### No More ONNX Runtime Dependency
+
+C++ developers can now statically link the ONNX Runtime library and eliminate the need for the separate `Microsoft.ML.OnnxRuntime` dependency. This simplifies deployment and reduces potential compatibility issues.
+
+### Improved Compatibility
+
+With this update, we have ensured seamless integration with your existing C++ projects and optimized compatibility.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.OCR for C++ 24.3.0 Release Notes](https://releases.aspose.com/ocr/cpp/release-notes/2024/aspose-ocr-for-cpp-24-3-0-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

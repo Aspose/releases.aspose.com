@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.ocr.cpp-gpu.24.2.0"
-description: " "
+title: "C++ OCR API 24.2.0: Boost OCR Speed with GPU Acceleration"
+description: "Leverage GPU power for faster OCR processing with Aspose.OCR C++ 24.2.0 (GPU). Customize recognition settings & optimized accuracy. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/cpp/new-releases/aspose.ocr.cpp-gpu.24.2.0/"
@@ -43,8 +43,61 @@ weight: 115
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/ocr/cpp/release-notes/2024/aspose-ocr-for-cpp-24-2-0-release-notes/'>https://releases.aspose.com/ocr/cpp/release-notes/2024/aspose-ocr-for-cpp-24-2-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Added the ability to customize recognition settings for individual images in a batch.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.OCR for C++ 24.2.0 (GPU) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Experience the power of GPU acceleration with Aspose.OCR for C++ 24.2.0 (GPU)! This release offers significant speed improvements for your OCR tasks.
+
+### Utilize GPU Acceleration
+
+The latest C++ OCR API release allows you to leverage GPU power to significantly boost OCR processing, ideal for large-scale or time-sensitive tasks.
+
+### Customizable Recognition Settings
+
+With this OCR API release, C++ developers can now tailor recognition settings for individual images within a batch seamlessly and enhance accuracy for specific content. This code sample demonstrates how to apply custom settings for a specific image.
+
+```c++
+// Define custom recognition settings
+RecognitionSettings customSettings;
+customSettings.language_alphabet = language::ukr;
+
+// Add images to the batch
+string image1 = "source1.png";
+AsposeOCRInput source1;
+source1.url = image1.c_str();
+string image2 = "source2.png";
+AsposeOCRInput source2;
+source2.url = image2.c_str();
+source2.special_settings = &customSettings;
+std::vector<AsposeOCRInput> sources = { source1, source2 };
+
+// Define common recognition settings
+RecognitionSettings settings;
+settings.language_alphabet = language::ita;
+
+// Extract text from the image
+auto result = asposeocr_recognize(sources.data(), sources.size(), settings);
+
+```
+*[Source\*](https://releases.aspose.com/ocr/cpp/release-notes/2024/aspose-ocr-for-cpp-24-2-0-release-notes/)*
+
+### Public API Improvements
+
+Aspose.OCR for C++ version 24.2.0 includes an upgraded `AsposeOCRInput` structure including an optional `special_settings` property for content-specific recognition control.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.OCR for C++ 24.2.0 Release Notes](https://releases.aspose.com/ocr/cpp/release-notes/2024/aspose-ocr-for-cpp-24-2-0-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
