@@ -66,9 +66,9 @@ using (var pst = PersonalStorage.FromFile(fileName))
         var recipients = pst.ExtractRecipients(messageInfo);
     }
 }
-    ```
+```
 
-#### 2. Soft Deleted Items Recovered in Local PST and OST Files
+### 2. Soft Deleted Items Recovered in Local PST and OST Files
 
 A method to recover soft deleted items from local PST and OST files has been provided. This is implemented via the `PersonalStorage` class.
 
@@ -103,7 +103,7 @@ using (var pst = PersonalStorage.FromFile(fileName))
 }
 ```
 
-#### 3. Multi-Contact VCF Converted to MapiDistributionList
+### 3. Multi-Contact VCF Converted to MapiDistributionList
 
 Support has been added for converting multi-contact VCF files into `MapiDistributionList` objects. This can be done using the following static methods in the `MapiDistributionList` class.
 
