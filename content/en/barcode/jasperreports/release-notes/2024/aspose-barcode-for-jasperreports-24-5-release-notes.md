@@ -3,7 +3,7 @@ id: "aspose-barcode-for-jasperreports-24-5-release-notes"
 slug: "aspose-barcode-for-jasperreports-24-5-release-notes"
 linktitle: "Aspose.BarCode for JasperReports 24.5 - Release Notes"
 title: "Aspose.BarCode for JasperReports 24.5 - Release Notes"
-weight: 9400
+weight: 9300
 description: "Aspose.BarCode for JasperReports 24.5 - Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
