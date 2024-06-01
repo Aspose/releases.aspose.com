@@ -6,11 +6,11 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-24.5/"
 folder_name: "Aspose.BarCode para Node.js a través de Java 24.5"
-download_link: "/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-24.5/d66638c57ba4c3dbd32883fe9899b96a-4-10921"
+download_link: "/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-24.5/ad929123b2cfdd610e0f71bc160155a7-4-10921"
 download_text: "Descargar"
 intro_text: "Se ha lanzado Aspose.BarCode para Node.js a través de Java 24.5"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 30/5/2024 Descargars: 1  Views: 1 "
+download_count: " 30/5/2024 Descargars: 3  Views: 1 "
 file_size: "File Size: 15.51MB"
 parent_path: "barcode/nodejs"
 section_parent_path: "barcode/nodejs"
@@ -24,19 +24,19 @@ weight: 64
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.BarCode para Node.js a través de Java 24.5" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Descargar" link="/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-24.5/d66638c57ba4c3dbd32883fe9899b96a-4-10921" >}}
+    {{< Releases/ReleasesSingleButtons text="Descargar" link="/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-24.5/ad929123b2cfdd610e0f71bc160155a7-4-10921" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="detalles del archivo">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Descargars: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-d66638c57ba4c3dbd32883fe9899b96a-4-10921" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-ad929123b2cfdd610e0f71bc160155a7-4-10921" >}} 3 {{< /Common/li >}}
       {{< Common/li >}} Tamaño del archivo: {{< /Common/li >}}
-      {{< Common/li id="size-update-d66638c57ba4c3dbd32883fe9899b96a-4-10921" >}} 15.51MB {{< /Common/li >}}
+      {{< Common/li id="size-update-ad929123b2cfdd610e0f71bc160155a7-4-10921" >}} 15.51MB {{< /Common/li >}}
 
       {{< Common/li >}} Fecha Agregada: {{< /Common/li >}}
-      {{< Common/li id="added-update-d66638c57ba4c3dbd32883fe9899b96a-4-10921" >}}30/5/2024 {{< /Common/li >}}
+      {{< Common/li id="added-update-ad929123b2cfdd610e0f71bc160155a7-4-10921" >}}30/5/2024 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
