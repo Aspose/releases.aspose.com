@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.ocr-for-python-via-.net-24.1.0-windows-x32"
-description: " "
+title: "Text Overlay in PDF Files: Aspose.OCR Python 24.1.0 (Win x32)"
+description: "Add text overlay to searchable PDFs & fix dark area rendering in your OCR apps with Aspose.OCR for Python via .NET 24.1.0 on Windows x32. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-24.1.0-windows-x32/"
@@ -43,8 +43,32 @@ weight: 42
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/ocr/python-net/release-notes/2024/aspose-ocr-python-24-1-0-release-notes/'>https://releases.aspose.com/ocr/python-net/release-notes/2024/aspose-ocr-python-24-1-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Fix PDF creation (resolution, search shadow)</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.OCR for Python via .NET 24.1.0 Windows x32 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Aspose.OCR for Python via .NET 24.1.0 (Win x32 release) equips developers with a powerful and robust library for extracting text from images and PDF files using Python code. 
+
+### Enhanced Text Overlay
+
+You can now build OCR apps for Windows 32-bit systems with enhanced text overlay positioning for better accuracy in searchable PDFs. 
+
+### Upgraded Image Rendering in PDFs
+
+Version 24.3.0 of the Python OCR API includes fixes for the issues with incorrect rendering of dark areas in searchable PDF background images. Previously, these dark areas were rendered in inverted colors.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.OCR for Python via .NET 24.1.0 Release Notes](https://releases.aspose.com/ocr/python-net/release-notes/2024/aspose-ocr-python-24-1-0-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

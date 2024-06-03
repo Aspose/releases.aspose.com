@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.ocr-for-python-via-.net-24.1.0-macos-arm"
-description: " "
+title: "Text Overlay in PDFs: Aspose.OCR Python 24.1.0 (macOS M1)"
+description: "Inject text overlay into searchable PDFs & fix dark area rendering in your OCR apps with Aspose.OCR Python via .NET 24.1.0 on macOS M1. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-24.1.0-macos-arm/"
@@ -43,8 +43,32 @@ weight: 46
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/ocr/python-net/release-notes/2024/aspose-ocr-python-24-1-0-release-notes/'>https://releases.aspose.com/ocr/python-net/release-notes/2024/aspose-ocr-python-24-1-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Fix PDF creation (resolution, search shadow)</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.OCR for Python via .NET 24.1.0 macOS ARM64/M1 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Develop OCR applications for macOS ARM/M1 with Aspose.OCR for Python via .NET 24.1.0 and integrate advanced OCR features into them. This release empowers developers with a robust library for extracting text from images and PDF files using Python code. 
+
+### Improved Text Overlay in PDFs on Apple Mac
+
+Mac developers can utilize this Python OCR API release to use enhanced text overlay positioning for better accuracy in searchable PDFs on macOS M1-powered machines. 
+
+### Image Rendering Enhancements
+
+We have resolved the issues with incorrect rendering of dark areas in searchable PDF background images in this version of the Python library. Previously, these dark areas were rendered in inverted colors.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.OCR for Python via .NET 24.1.0 Release Notes](https://releases.aspose.com/ocr/python-net/release-notes/2024/aspose-ocr-python-24-1-0-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
