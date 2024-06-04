@@ -4,6 +4,10 @@
   "artifactId" : "aspose-imaging",
   "id" : "24-6",
   "packageFiles" : [ {
+    "size" : "7 MB",
+    "name" : "aspose-imaging-24.6-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
     "size" : "22 MB",
     "name" : "aspose-imaging-24.6-jdk16.jar",
     "classifier" : "jdk16"
@@ -11,7 +15,7 @@
     "size" : "733 bytes",
     "name" : "aspose-imaging-24.6.pom"
   } ],
-  "releasehDate" : "2024-06-04T10:21:56+00:00",
+  "releasehDate" : "2024-06-04T10:33:49+00:00",
   "version" : "24.6",
   "ReleaseNotes" : "https://releases.aspose.com/imaging/java/release-notes/2024/aspose-imaging-for-java-24-6-release-notes/"
 }
