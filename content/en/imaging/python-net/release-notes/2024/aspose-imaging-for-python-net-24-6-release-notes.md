@@ -58,7 +58,7 @@ Property aspose.imaging.exif.IHasExifData.exif_data
 
 **IMAGINGPYTHONNET-246 Tranparent PNG to TiffDeflateRgb outputs transparent color as black instead of white**
 
-{< highlight csharp >}
+{{< highlight python >}}
 
 Transparent PNG to 24-bit TIFF conversion example:
 
@@ -73,7 +73,7 @@ with Image.load("input.png") as image:
 
 **IMAGINGPYTHONNET-245 Fix bugs with text align in the Emfplus**
 
-{< highlight csharp >}
+{{< highlight python >}}
 
 from aspose.imaging import Image
 
@@ -84,7 +84,7 @@ with Image.load("picture1.emf") as image:
 
 **IMAGINGPYTHONNET-244 DICOM export issue**
 
-{< highlight csharp >}
+{{< highlight python >}}
 
 from aspose.imaging import Image
 
@@ -95,7 +95,7 @@ with Image.load("input.dicom") as image:
 
 **IMAGINGPYTHONNET-243 Cannot convert the Dicom image to Jpeg format**
 
-{< highlight csharp >}
+{{< highlight python >}}
 
 from aspose.imaging import Image
 
@@ -106,7 +106,7 @@ with Image.load("input.dicom") as image:
 
 **IMAGINGPYTHONNET-242 After detecting Svg all unknown formats are detected as Svg**
 
-{< highlight csharp >}
+{{< highlight python >}}
 
 from aspose.imaging import Image, FileFormat
 from aspose.imaging.extensions import StreamExtensions as strm_ext
@@ -125,7 +125,7 @@ if format != FileFormat.UNKNOWN:
 
 **IMAGINGPYTHONNET-241 Implement ExifData transferring between supporting formats on export**
 
-{< highlight csharp >}
+{{< highlight python >}}
 
 Image EXIF and XMP metadata processing:
 
@@ -158,7 +158,7 @@ def modify_metadata(inputPath, outputPath, exportOptions):
 
 **IMAGINGPYTHONNET-240 Converting the Dicom to Pdf issue**
 
-{< highlight csharp >}
+{{< highlight python >}}
 
 from aspose.imaging import Image
 
