@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-node.js-via-c++-24.5"
-description: " "
+title: "Aspose.PDF for Node.js 24.5 - New PDF Conversion Options"
+description: "Download Aspose.PDF for Node.js via C++ 24.5 to split PDF files into separate pages. Enhance your Node.js development with powerful PDF manipulation."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/nodejscpp/new-releases/aspose.pdf-for-node.js-via-c++-24.5/"
@@ -43,8 +43,28 @@ weight: 7
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/nodejscpp/release-notes/2024/aspose_pdf-for-nodejs-cpp-24-5-release-notes/'>https://releases.aspose.com/pdf/nodejscpp/release-notes/2024/aspose_pdf-for-nodejs-cpp-24-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for Node.js</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for Node.js via C++ 24.5 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Enhanced PDF Splitting Options
+
+Aspose.PDF for Node.js via C++ 24.5 introduces the `AsposePdfPagesToPDF` function. This powerful new addition seamlessly converts a multi-page PDF file into a collection of separate PDF documents in Node.js. Each such conversion represents a single page from the original file.
+
+The Node.js PDF manipulation library equips developers with new functionalities and enhancements. Download the latest version on Windows, macOS, or Linux and explore the improved API to streamline your PDF development!
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for Node.js via C++ 24.5 Release Notes](https://releases.aspose.com/pdf/nodejscpp/release-notes/2024/aspose_pdf-for-nodejs-cpp-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

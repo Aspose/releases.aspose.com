@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-javascript-via-c++-24.5"
-description: " "
+title: "Aspose.PDF for JS via C++ 24.5: New Convert to PDF Options"
+description: "Enhance PDF manipulation in web browsers! Aspose.PDF JavaScript via C++ 24.5 adds new functionality to convert PDF file to separate PDFs. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-24.5/"
@@ -43,8 +43,28 @@ weight: 18
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/javascriptcpp/release-notes/2024/aspose_pdf-for-javascript-cpp-24-5-release-notes/'>https://releases.aspose.com/pdf/javascriptcpp/release-notes/2024/aspose_pdf-for-javascript-cpp-24-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for JavaScript</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for JavaScript via C++ 24.5 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Enhanced Convert to PDF Options
+
+The new `AsposePdfPagesToPDF` function added to Aspose.PDF for JavaScript via C++ 24.5 empowers you to seamlessly convert a single PDF file into multiple separate PDF documents. With this feature, you can add valuable flexibility to your web-based PDF processing workflows in Python.
+
+With the latest JavaScript PDF library, you can strengthen your capabilities for manipulating PDFs directly within web browsers. Download the latest version (Windows, Linux, and macOS) and explore the enhanced functionalities!
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for JavaScript via C++ 24.5 Release Notes](https://releases.aspose.com/pdf/javascriptcpp/release-notes/2024/aspose_pdf-for-javascript-cpp-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

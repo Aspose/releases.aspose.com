@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-python-via-java-24.5"
-description: " "
+title: "Harness Modern API Enhancements: Aspose.Slides Python 24.5"
+description: "Enhance presentations in Python with Aspose.Slides Python via Java 24.5. Includes new cell & table transparency control, modern API updates. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/python-java/new-releases/aspose.slides-for-python-via-java-24.5/"
@@ -45,6 +45,43 @@ weight: 3
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for Python via Java 24.5 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Upgraded Transparency Control
+
+Aspose.Slides for Python via Java 24.5 includes the new `getTransparency` and `setTransparency` methods added to `ICellFormat` and `ITableFormat` for finer control over cell and table fill color transparency. The following code example shows how to use the updated transparency control within your Python presentation processing apps.
+
+```java
+presentation = Presentation("pres.pptx");
+
+table = presentation.getSlides().get_Item(0).getShapes().get_Item(0);
+table.getTableFormat().setTransparency(0.5);
+
+presentation.dispose();
+
+```
+*[Source\*](https://releases.aspose.com/slides/python-java/release-notes/2024/aspose-slides-for-python-via-java-24-5-release-notes/)*
+
+### Modern API Transition
+
+In the latest Python presentation library, the `ShapeElement` and `ShapeUtil` members are declared obsolete, allowing developers to harness the power of a more streamlined API in future versions.
+
+### Improved Return Types
+
+With this version release, the return type of `getFrame` for `IPresentationAnimationPlayer` and `FrameTickEventArgs` is now `IImage`, aligning with modern API practices.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for Python via Java 24.5 Release Notes](https://releases.aspose.com/slides/python-java/release-notes/2024/aspose-slides-for-python-via-java-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

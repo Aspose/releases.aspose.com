@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-node.js-via-java-24.5"
-description: " "
+title: "Transparency Control, API Updates: Aspose.Slides Node.js 24.5"
+description: "Update your Node.js presentations with transparency control and modern API enhancements in Aspose.Slides for Node.js via Java 24.5.0. Download Now! "
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-24.5/"
@@ -45,6 +45,43 @@ weight: 10
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for Node.js via Java 24.5 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Enhanced Transparency Control
+
+Manage the transparency of table fill colors in Aspose.Slides for Node.js via Java 24.5 with the new `getTransparency` and `setTransparency` methods in `ICellFormat` and `ITableFormat`. The following code sample demonstrates how to implement transparency control within your Node.js presentation processing apps.
+
+```js
+var presentation = new aspose.slides.Presentation("pres.pptx");
+
+var table = presentation.getSlides().get_Item(0).getShapes().get_Item(0);
+table.getTableFormat().setTransparency(java.newFloat(0.5));
+
+presentation.dispose();
+
+```
+*[Source\*](https://releases.aspose.com/slides/nodejs-java/release-notes/2024/aspose-slides-for-nodejs-via-java-24-5-release-notes/)*
+
+### Modern API Transition
+
+In this Node.js API release, shape manipulation methods like `getGraphicsPath` and `graphicsPathToGeometryPath` are deprecated, paving the way for a more efficient API structure in future versions.
+
+### Improved Image Handling
+
+The return type of presentation animation player frame retrieval methods is now `IImage`, aligning with the modern API approach.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for Node.js via Java 24.5 Release Notes](https://releases.aspose.com/slides/nodejs-java/release-notes/2024/aspose-slides-for-nodejs-via-java-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
