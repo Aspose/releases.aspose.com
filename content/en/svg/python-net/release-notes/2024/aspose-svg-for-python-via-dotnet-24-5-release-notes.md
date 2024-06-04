@@ -14,7 +14,7 @@ menuItemWithNoContent: false
 ---
 {{% alert color="primary" %}}
 
-This page contains release notes for [Aspose.SVG for Python via .NET 24.5](https://pypi.org/project/aspose-svg/24.5.0/).
+This page contains release notes for [Aspose.SVG for Python via .NET 24.5](https://pypi.org/project/aspose-svg-net/24.5.0/).
 
 {{% /alert %}}
 

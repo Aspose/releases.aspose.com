@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.svg-for-python-via-.net-24.5.0-windows-32-bit"
-description: " "
+title: "Python SVG API 24.5.0 (Windows x32): Ellipsis Text, SkiaSharp"
+description: "Aspose.SVG Python via .NET 24.5.0 for Windows x32 enhances SVG to PNG conversion with text overflow ellipsis & improves SkiaSharp. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/svg/python/new-releases/aspose.svg-for-python-via-.net-24.5.0-windows-32-bit/"
@@ -16,7 +16,7 @@ parent_path: "svg/python"
 section_parent_path: "svg/python"
 
 tags: ""
-release_notes_url: "https://releases.aspose.com/svg/python/release-notes/2024/aspose-svg-python-via-dotnet-24-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/svg/python-net/release-notes/2024/aspose-svg-python-via-dotnet-24-5-release-notes/"
 weight: 1
 
 ---
@@ -40,11 +40,43 @@ weight: 1
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/svg/python/release-notes/2024/aspose-svg-python-via-dotnet-24-5-release-notes/'>https://releases.aspose.com/svg/python/release-notes/2024/aspose-svg-python-via-dotnet-24-5-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/svg/python-net/release-notes/2024/aspose-svg-python-via-dotnet-24-5-release-notes/'>https://releases.aspose.com/svg/python-net/release-notes/2024/aspose-svg-python-via-dotnet-24-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This wheel contains Aspose.SVG for Python via .NET version 24.5.0, built for Windows and targeting the 32-bit architecture.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Python developers can upgrade their Python development workflows with Aspose.SVG for Python via .NET 24.5.0 release for Windows x32. 
+
+### Ellipsis for Text Overflow 
+
+Precisely manage text exceeding its container boundaries in SVG files while converting to PNG in Windows x32. Aspose.SVG for Python via .NET now truncates overflowing text and adds an ellipsis ("...") for a clean presentation.
+
+### Improved SkiaSharp Rendering
+
+You can enjoy improved font style accuracy, specifically for italic and bold text elements, when leveraging `SkiaSharp` for SVG rendering. This ensures your SVGs display text accurately as intended.
+
+### Updates to `SkiaSharp` Module
+
+With this release of the Python SVG API, you can benefit from increased stability and performance optimizations on Windows x32 with the updates to the `Aspose.SVG.Drawing.SkiaSharp` module to version 2.88.8.
+
+### Bug Fixes
+
+We have addressed the issues causing inconsistencies with page size settings in the `SkiaModule`. Page sizes set in pixels are now correctly adjusted to the standard display resolution (96 dpi), ensuring consistent rendering.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.SVG for Python via .NET 24.5.0 Release Notes](https://releases.aspose.com/svg/python-net/release-notes/2024/aspose-svg-python-via-dotnet-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
