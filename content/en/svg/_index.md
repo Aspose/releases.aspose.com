@@ -11,7 +11,7 @@ family_listing_page_type: "4"
 family_listing_page_venture: "4"
 family_listing_page_package: ""
 homepage_github_image: "https://aspose.github.io/img/aspose/aspose-svg.png"
-weight:  2
+weight:  23
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/svg" linktext=" Support Forum " >}}
