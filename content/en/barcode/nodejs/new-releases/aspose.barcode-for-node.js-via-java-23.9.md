@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-node.js-via-java-23.9"
-description: " "
+title: "Cutting-Edge Barcode Processing in Node.js: Barcode API 23.9"
+description: "Build barcode apps in Node.js with Aspose.BarCode for Node.js via Java 23.9. Download now to use improved performance, Aztec & GS1 Composite support."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-23.9/"
@@ -43,8 +43,38 @@ weight: 56
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/nodejs/release-notes/2023/aspose-barcode-for-node-js-via-java-23-9-release-notes/'>https://releases.aspose.com/barcode/nodejs/release-notes/2023/aspose-barcode-for-node-js-via-java-23-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Node.js via Java 23.9 has been released</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Node.js via Java 23.9 has been released.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Updated Aztec Decoder
+
+Experience more accurate Aztec barcode reading using the improved decoder introduced in the latest release of the cutting-edge Node.js barcode library.
+
+### GS1 Composite Barcode Recognition
+
+You can build barcode apps and leverage support for recognizing GS1 composite barcodes to expand your applications' barcode handling capabilities.
+
+### Performance Improvements
+
+Aspose.BarCode for Node.js via Java 23.9 operates faster, streamlining your barcode generation and recognition tasks.
+
+### Structured Append Barcode Management
+
+We have incorporated new API methods offering control over structured append barcodes within Aztec codes. 
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for Node.js via Java 23.9 Release Notes](https://releases.aspose.com/barcode/nodejs/release-notes/2023/aspose-barcode-for-node-js-via-java-23-9-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

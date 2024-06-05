@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-node.js-via-java-23.11"
-description: " "
+title: "GS1 Micro PDF417 Support & More: Node.js Barcode API 23.11"
+description: "Integrate GS1 Micro PDF417, Macro Characters & Linked Modes Node.js barcode apps with Aspose.BarCode for Node.js via Java 23.11. Download today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-23.11/"
@@ -43,8 +43,38 @@ weight: 58
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/nodejs/release-notes/2023/aspose-barcode-for-node-js-via-java-23-11-release-notes/'>https://releases.aspose.com/barcode/nodejs/release-notes/2023/aspose-barcode-for-node-js-via-java-23-11-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Node.js via Java 23.11 has been released</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Node.js via Java 23.11 has been released.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Upgraded Barcode Generation
+
+Aspose.BarCode for Node.js via Java 23.11 helps you generate GS1 Micro PDF417 barcodes with macro characters (05 and 06) seamlessly for more compact encoding and linked modes for compatibility with other barcode types.
+
+### Supercharged Recognition Capabilities
+
+Build barcode recognition apps in Node.js and flawlessly read GS1 Micro PDF417 barcodes with enhanced accuracy.
+
+### Improved PDF417 Parameter Handling
+
+In the latest Node.js barcode API release, we've introduced new properties in the `Pdf417Parameters` class, including `MacroCharacters`, `IsLinked`, and `IsCode128Emulation`. These enhancements provide greater control over `PDF417` barcode generation, enabling you to achieve more compact encoding and define linked modes.
+
+### Public API Changes and Backwards Compatibility
+
+We have introduced certain public APIs related to `PDF417` generation and updated them to accommodate the new features. 
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for Node.js via Java 23.11 Release Notes](https://releases.aspose.com/barcode/nodejs/release-notes/2023/aspose-barcode-for-node-js-via-java-23-11-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
