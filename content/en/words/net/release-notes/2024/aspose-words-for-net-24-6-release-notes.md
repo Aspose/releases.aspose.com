@@ -208,25 +208,25 @@ public class ChartSeriesCollection
 }
 {{< /highlight >}}
 
-This use case explains how create **BoxAndWhisker** chart:
+This use case explains how to create a **BoxAndWhisker** chart:
 {{< gist "aspose-words-gists" "65919861586e42e24f61a3ccb65f8f4e" "box-and-whisker-chart.cs" >}}
 
-This use case explains how create **Funnel** chart:
+This use case explains how create a **Funnel** chart:
 {{< gist "aspose-words-gists" "65919861586e42e24f61a3ccb65f8f4e" "funnel-chart.cs" >}}
 
-This use case explains how create **Histogram** chart:
+This use case explains how to create a **Histogram** chart:
 {{< gist "aspose-words-gists" "65919861586e42e24f61a3ccb65f8f4e" "histogram-chart.cs" >}}
 
-This use case explains how create **Pareto** chart:
+This use case explains how to create a **Pareto** chart:
 {{< gist "aspose-words-gists" "65919861586e42e24f61a3ccb65f8f4e" "pareto-chart.cs" >}}
 
-This use case explains how create **Sunburst** chart:
+This use case explains how to create a **Sunburst** chart:
 {{< gist "aspose-words-gists" "65919861586e42e24f61a3ccb65f8f4e" "sunburst-chart.cs" >}}
 
-This use case explains how create **Treemap** chart:
+This use case explains how to create a **Treemap** chart:
 {{< gist "aspose-words-gists" "65919861586e42e24f61a3ccb65f8f4e" "treemap-chart.cs" >}}
 
-This use case explains how create **Waterfall** chart:
+This use case explains how to create a **Waterfall** chart:
 {{< gist "aspose-words-gists" "65919861586e42e24f61a3ccb65f8f4e" "waterfall-chart.cs" >}}
 
 ### Added an ability to get a color of ShapeBase.ShadowFormat
