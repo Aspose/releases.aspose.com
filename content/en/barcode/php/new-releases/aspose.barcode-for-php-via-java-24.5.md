@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-php-via-java-24.5"
-description: " "
+title: "Boost Barcode Processing in PHP Apps: Aspose.BarCode 24.5"
+description: "Leverage Aspose.BarCode PHP via Java 24.5 for improved QR code handling, new DataMatrix quality settings, and bug fixes. Download and get started now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/php/new-releases/aspose.barcode-for-php-via-java-24.5/"
@@ -43,8 +43,42 @@ weight: 72
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/php/release-notes/2024/aspose-barcode-for-php-via-java-24-5-release-notes/'>https://releases.aspose.com/barcode/php/release-notes/2024/aspose-barcode-for-php-via-java-24-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for PHP via Java 24.5 has been released</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for PHP via Java 24.5 has been released.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Enhanced QR Code Decoding
+
+Aspose.BarCode for PHP via Java 24.5 can automatically detect Unicode character encodings within QR codes, ensuring accurate data retrieval for international apps.
+
+### GD Image Compatibility
+
+Generate and read barcodes directly from GD image formats seamlessly and boost your barcode processing workflows.
+
+### Improved DataMatrix Quality
+
+The new `QualitySettings` structure for the `DataMatrix` barcode engine in this PHP barcode API release allows for greater control over barcode generation quality, leading to more scannable codes.
+
+### Bug Fixes
+
+We have addressed various bugs in this API version related to DotCode barcode generation, Standard2of5/IATA2of5 encoding, and barcode recognition accuracy, ensuring reliable barcode processing.
+
+### Public API Changes
+
+As part of our ongoing commitment to code optimization, several deprecated methods and constructors have been removed in this release of the PHP library.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for PHP via Java 24.5 Release Notes](https://releases.aspose.com/barcode/php/release-notes/2024/aspose-barcode-for-php-via-java-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

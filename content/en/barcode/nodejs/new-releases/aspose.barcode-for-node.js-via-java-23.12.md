@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-node.js-via-java-23.12"
-description: " "
+title: "Barcode API 23.12: Improved Recognition & Speed in Node.js"
+description: "Update barcode recognition for Han Xin & QR codes with Aspose.BarCode Node.js Java 23.12 & boost efficiency with faster image processing. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-23.12/"
@@ -43,8 +43,38 @@ weight: 59
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/nodejs/release-notes/2023/aspose-barcode-for-node-js-via-java-23-12-release-notes/'>https://releases.aspose.com/barcode/nodejs/release-notes/2023/aspose-barcode-for-node-js-via-java-23-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Node.js via Java 23.12 has been released</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Node.js via Java 23.12 has been released.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Improved Han Xin Code Support
+
+Aspose.BarCode for Node.js via Java 23.12 offers enhanced recognition accuracy for Han Xin barcodes, ensuring better compatibility with this increasingly popular symbology.
+
+### Faster QR Code Recognition
+
+Experience significant speed improvements when recognizing QR codes in the latest Node.js barcode library version and streamline your barcode processing workflows.
+
+### Optimized Image Processing
+
+You can benefit from overall performance enhancements in image processing with this release, leading to faster barcode detection and recognition across various symbologies.
+
+### Bug Fixes
+
+We have also addressed previously identified issues related to unstable `DotCode` recognition tests.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for Node.js via Java 23.12 Release Notes](https://releases.aspose.com/barcode/nodejs/release-notes/2023/aspose-barcode-for-node-js-via-java-23-12-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

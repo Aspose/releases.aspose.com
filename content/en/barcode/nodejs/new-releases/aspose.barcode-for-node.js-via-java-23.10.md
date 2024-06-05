@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-node.js-via-java-23.10"
-description: " "
+title: "Node.js API to Supercharge Aztec Barcode Recognition (v23.10)"
+description: "Take barcode processing to the next level in Node.js apps! Aspose.BarCode Node.js via Java 23.10 delivers improved Aztec recognition & more. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-23.10/"
@@ -43,8 +43,34 @@ weight: 57
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/nodejs/release-notes/2023/aspose-barcode-for-node-js-via-java-23-10-release-notes/'>https://releases.aspose.com/barcode/nodejs/release-notes/2023/aspose-barcode-for-node-js-via-java-23-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Node.js via Java 23.10 has been released</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Node.js via Java 23.10 has been released.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Supercharge Aztec Barcode Recognition
+
+Aspose.BarCode for Node.js via Java 23.10 delivers more accurate recognition of Aztec barcodes and ensures reliable data extraction.
+
+### Barcode Recognition Enhancements
+
+With this Node.js barcode API release, we have improved accuracy for reading `DataMatrix` and `Aztec` barcodes, allowing reliable data extraction.
+
+### Bug Fixes
+
+We have resolved issues encountered with `MicroPDF417` barcodes containing `LocalDate` macro parameters, Swiss QR code placement, and `DataMatrix` code reading.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for Node.js via Java 23.10 Release Notes](https://releases.aspose.com/barcode/nodejs/release-notes/2023/aspose-barcode-for-node-js-via-java-23-10-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
