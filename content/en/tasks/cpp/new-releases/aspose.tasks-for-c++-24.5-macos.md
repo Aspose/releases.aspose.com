@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-c++-24.5-macos"
-description: " "
+title: "Boost Project Management in C++: Aspose.Tasks 24.5 (macOS)"
+description: "Effortlessly manage project tasks and timelines in your C++ applications on macOS with the latest Aspose.Tasks for C++ 24.5 API release. Download today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-24.5-macos/"
@@ -43,8 +43,36 @@ weight: 217
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-5-release-notes/'>https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 24.5 release for MacOS only</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 24.5 release for MacOS only.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Mac developers can take their C++ project management apps to the next level with Aspose.Tasks for C++ 24.5 release, which delivers valuable improvements for macOS.
+
+### Generate Time-phased Data Accurately
+
+Experience enhanced generation of time-phased data and boost your C++ apps. This feature ensures precise calculations even when load changes align with weekends.
+
+### Calculate Work Variance Precisely
+
+The latest C++ project management API release brings precise `Asn.WorkVariance` calculations and reliable insights into project progress on macOS.
+
+### Enhanced MS Project Compatibility
+
+Tasks split with Aspose.Tasks for C++ are now displayed accurately as two-part elements in Microsoft Project to enhance interoperability.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for C++ 24.5 Release Notes](https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

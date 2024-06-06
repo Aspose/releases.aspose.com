@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cad-for-.net-version-24.5-(dlls-only)"
-description: " "
+title: "C# CAD API 24.5 (DLL): Updated Accuracy, New Export Options"
+description: "Upgrade your C# & VB.NET apps with improved DWG to PDF export, STP to PDF handling, and more. Download Aspose.CAD .NET 24.5 DLLs package today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/cad/net/new-releases/aspose.cad-for-.net-version-24.5-(dlls-only)/"
@@ -45,6 +45,44 @@ weight: 229
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.CAD for .NET assemblies v24.5. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.CAD for .NET without the MSI installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Looking to simplify your .NET development? Download Aspose.CAD for .NET 24.5 (DLLs-only package) for efficient CAD processing and to build feature-rich C# and VB.NET apps.
+
+### Upgraded Export Quality
+
+The latest C# CAD API release enables you to experience enhanced accuracy while converting DWG files to PDF and eliminates problems with empty drawings and content loss.
+
+### Broader Format Support
+
+Convert your CAD data to the widely used 3DS format effortlessly (DWG to 3DS conversion) and integrate greater flexibility and new export options into your CAD conversion workflows.
+
+### Improved Error Handling
+
+Aspose.CAD for .NET 24.5 lets you work with resolved exceptions encountered during STP to PDF conversion and PLT file opening.
+
+### Other Highlights
+
+- Improved handling of 3D content in STP to PDF conversions.
+- Resolved file opening issues after DWG to DXF export.
+- Fixed index out-of-range exception for DGN V7 to PNG conversion.
+- Addressed content loss during DWF to PDF conversions.
+- Improved IGES reading for better data extraction.
+- Resolved image loading failures for PLT files.
+- Fixed line shortening issue after explode operation.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.CAD for .NET 24.5 Release Notes](https://releases.aspose.com/cad/net/release-notes/2024/aspose-cad-for-net-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

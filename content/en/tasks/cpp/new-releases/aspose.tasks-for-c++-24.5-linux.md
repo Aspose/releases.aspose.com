@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-c++-24.5-linux"
-description: " "
+title: "Boost Project Management in C++: Aspose.Tasks 24.5 (Linux)"
+description: "Effortlessly manage project tasks and timelines in your C++ applications on Linux with the latest Aspose.Tasks for C++ 24.5 API release. Download today! "
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-24.5-linux/"
@@ -43,8 +43,36 @@ weight: 218
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-5-release-notes/'>https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 24.5 release for Linux only</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 24.5 release for Linux only.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+We are glad to announce the Aspose.Tasks for C++ 24.5 release, which delivers valuable improvements for your C++ project management apps running on the Linux platform.
+
+### Time-phased Data Precision
+
+Boost your C++ apps with enhanced generation of time-phased data, which ensures precise calculations even when load changes align with weekends.
+
+### Work Variance Calculation Accuracy
+
+This C++ project management API release includes accurate `Asn.WorkVariance` calculations and reliable insights into project progress on Linux.
+
+### Optimized MS Project Compatibility
+
+Tasks split using Aspose.Tasks for C++ are now shown accurately as two-part elements in Microsoft Project to enhance interoperability.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for C++ 24.5 Release Notes](https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

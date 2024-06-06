@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-.net-24.5-(dlls-only)"
-description: " "
+title: "Time-phased Data, Split Tasks: Aspose.Tasks .NET 24.5 (DLLs)"
+description: "Experience improved time-phased data generation, task splitting & enhanced MS Project compatibility with Aspose.Tasks .NET 24.5. Download DLLs now."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/net/new-releases/aspose.tasks-for-.net-24.5-(dlls-only)/"
@@ -43,8 +43,36 @@ weight: 521
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-5-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for .NET 24.5 (DLLs Only) release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for .NET 24.5 (DLLs-only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Build high-performance C# and VB.NET applications with Aspose.Tasks for .NET 24.5 (DLLs package) release, which brings enhancements and essential bug fixes.
+
+### Accurately Generate Time-phased Data
+
+With this C# project management API release, developers can work with improved management of time-phased data generation and ensure valid calculations even when load changes coincide with weekends.
+
+### Upgraded Resource Allocation
+
+The issues related to `Asn.WorkVariance` calculation have been resolved in version 24.5 of Aspose.Tasks for .NET, leading to more precise resource allocation.
+
+### Split Tasks Seamlessly
+
+You can now ensure tasks split by Aspose.Tasks for .NET are shown correctly in Microsoft Project, eliminating the three-part display issue.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for .NET 24.5 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

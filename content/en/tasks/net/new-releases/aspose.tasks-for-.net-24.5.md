@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-.net-24.5"
-description: " "
+title: "Time-phased Data, Split Tasks: Aspose.Tasks .NET 24.5 (MSI)"
+description: "Experience improved time-phased data generation, task splitting & enhanced MS Project compatibility with Aspose.Tasks .NET 24.5. Download MSI now."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/net/new-releases/aspose.tasks-for-.net-24.5/"
@@ -45,6 +45,34 @@ weight: 520
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains MSI with Aspose.Tasks for .NET 24.5 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Aspose.Tasks for .NET 24.5 (MSI installer) has been released, and this version delivers enhancements and essential bug fixes to upgrade your project management applications.
+
+### Time-phased Data Generation
+
+The latest C# project management API release offers improved handling of time-phased data generation and ensures valid calculations even when load changes coincide with weekends.
+
+### Enhanced Resource Allocation
+
+We have resolved the issues related to `Asn.WorkVariance` calculation in version 24.5 of Aspose.Tasks for .NET, leading to more precise resource allocation.
+
+### Seamless Task Splitting
+
+Developers can now ensure tasks split by Aspose.Tasks for .NET are displayed correctly in MS Project, eliminating the three-part display issue.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for .NET 24.5 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
