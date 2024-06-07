@@ -38,7 +38,7 @@
                                        src="/res_repo/img/groupdocs{{ lower (replace  (replace  $.context.RelPermalink "/" "_") "_java_" "-for-java") }}.png" />
                                     -->
                                     <!-- @am modified fix path for multilingual -->
-                                    <img class="package-icon img-responsive" aria-hidden="true" alt="Aspose" width="40px" height="40px"
+                                    <img class="package-icon img-responsive"  loading="lazy" aria-hidden="true" alt="Aspose" width="40px" height="40px"
                                        src="/res_repo/img/aspose{{ lower (replace  (replace  $.context.RelPermalink "/" "_") "_java_" "-for-java") }}.png" />
                                     <!-- @am /modified fix path for multilingual -->
                                     </span>
@@ -63,34 +63,34 @@
 
                               <div class="tabs install-tabs">
                                  <ul class="nav nav-tabs" role="tablist">
-                                    <li role="presentation" class="active">
-                                       <a href="#package-manager" aria-expanded="true" id="package-manager-tab"
+                                    <li class="active" role="presentation">
+                                       <a href="#package-manager" role="tab" aria-expanded="true" id="package-manager-tab"
                                           class="package-manager-tab" aria-selected="true" aria-controls="package-manager"
-                                          role="tab" data-toggle="tab"
+                                           data-toggle="tab"
                                           title="Switch to tab panel which contains package installation command for Package Manager">
                                        Maven
                                        </a>
                                     </li>
-                                    <li role="presentation" class="">
-                                       <a href="#dotnet-cli" aria-expanded="false" id="dotnet-cli-tab"
+                                    <li class="" role="presentation">
+                                       <a href="#dotnet-cli" role="tab" aria-expanded="false" id="dotnet-cli-tab"
                                           class="package-manager-tab" aria-selected="false" aria-controls="dotnet-cli"
-                                          role="tab" data-toggle="tab"
+                                           data-toggle="tab"
                                           title="Switch to tab panel which contains package installation command for .NET CLI">
                                        Gradle
                                        </a>
                                     </li>
-                                    <li role="presentation" class="">
-                                       <a href="#package-reference" aria-expanded="false" id="package-reference-tab"
+                                    <li class="" role="presentation">
+                                       <a href="#package-reference" role="tab" aria-expanded="false" id="package-reference-tab"
                                           class="package-manager-tab" aria-selected="false" aria-controls="package-reference"
-                                          role="tab" data-toggle="tab"
+                                           data-toggle="tab"
                                           title="Switch to tab panel which contains package installation command for PackageReference">
                                        Ivy
                                        </a>
                                     </li>
-                                    <li role="presentation" class="">
-                                       <a href="#paket-cli" aria-expanded="false" id="paket-cli-tab"
+                                    <li class="" role="presentation">
+                                       <a href="#paket-cli" role="tab" aria-expanded="false" id="paket-cli-tab"
                                           class="package-manager-tab" aria-selected="false" aria-controls="paket-cli"
-                                          role="tab" data-toggle="tab"
+                                           data-toggle="tab"
                                           title="Switch to tab panel which contains package installation command for Paket CLI">
                                        Sbt
                                        </a>
@@ -169,7 +169,7 @@ implementation group: '{{ .groupId }}', name: '{{ .artifactId }}', classifier: '
 
           <div class="body-tabs">
            <ul class="nav nav-tabs" role="tablist">
-              <li role="presentation" class="active" id="show-readme-container">
+              <li class="active" id="show-readme-container" role="presentation">
                  <a href="#readme-tab" role="tab" data-toggle="tab" id="readme-body-tab" class="body-tab"
                     aria-controls="readme-tab" aria-expanded="true" aria-selected="true">
                  <i class="fa fa-book" aria-hidden="true"></i>
@@ -187,7 +187,7 @@ implementation group: '{{ .groupId }}', name: '{{ .artifactId }}', classifier: '
 
               {{ if .context.Params.releaseNotesLink }}
               <li role="presentation">
-                 <a href="{{.context.Params.releaseNotesLink}}" id="releasenotes-body-tab" class="body-tab">
+                 <a href="{{.context.Params.releaseNotesLink}}" role="tab" id="releasenotes-body-tab" class="body-tab">
                  <i class="fa-sticky-note fa" aria-hidden="true"></i>
                  Release Notes
                  </a>
