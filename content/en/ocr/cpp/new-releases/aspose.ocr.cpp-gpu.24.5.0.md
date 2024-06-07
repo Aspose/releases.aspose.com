@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.ocr.cpp-gpu.24.5.0"
-description: " "
+title: "Accelerate OCR Workflows in C++: Aspose.OCR GPU 24.5.0"
+description: "Accelerate OCR tasks within your apps with Aspose.OCR C++ GPU 24.5.0. Leverage GPU processing for faster text extraction. Download and get started now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/cpp/new-releases/aspose.ocr.cpp-gpu.24.5.0/"
@@ -43,8 +43,36 @@ weight: 125
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/ocr/cpp/release-notes/2024/aspose-ocr-for-cpp-24-5-0-release-notes/'>https://releases.aspose.com/ocr/cpp/release-notes/2024/aspose-ocr-for-cpp-24-5-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Reworked free trial restrictions.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.OCR for C++ GPU 24.5.0 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Harness the power of your GPU for lightning-fast OCR processing with Aspose.OCR for C++ GPU 24.5.0! This update inherits the enhancements from Aspose.OCR for C++ 24.5.0 and allows you to accelerate processing speeds and extract text from images.
+
+### Streamlined Free Trial
+
+Evaluating core OCR functionality without license restrictions is now possible for supported languages and output formats within your C++ apps.
+
+### GPU Acceleration
+
+Aspose.OCR for C++ 24.5.0 enables benefitting from significant performance improvements in OCR tasks by utilizing your GPU's processing power.
+
+### Limits on Character Recognition
+
+With the latest C++ OCR API release, you can test character recognition with limitations on characters per image (100) and application launch (500).
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.OCR for C++ 24.5.0 Release Notes](https://releases.aspose.com/ocr/cpp/release-notes/2024/aspose-ocr-for-cpp-24-5-0-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

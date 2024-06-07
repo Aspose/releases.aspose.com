@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.ocr-for-net-24.5.0-(dlls-only)"
-description: " "
+title: "Detect Image Defects, Accurate OCR: C# API 24.5.0 (DLLs)"
+description: "The C# OCR API now offers accuracy for Latin languages & automatically detects image issues. Download the Aspose.OCR .NET 24.5.0 DLLs package today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/net/new-releases/aspose.ocr-for-net-24.5.0-(dlls-only)/"
@@ -43,8 +43,54 @@ weight: 355
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-5-0-release-notes/'>https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-5-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">DetectDefects, new English model</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains DLLs-only of Aspose.OCR for .NET 24.5.0 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+.NET developers, elevate your Optical Character Recognition (OCR) capabilities with Aspose.OCR for .NET 24.5.0 (DLLs-only package). This release delivers important advancements in OCR accuracy and improves overall performance.
+
+### Detect Image Defects Automatically
+
+The new `DetectDefects` method introduced in the latest C# OCR API release helps you automatically identify potential issues within images that can hinder OCR performance, such as shadows and highlights. Please check out the following code example, which demonstrates detecting low contrast or blur in C#: 
+
+```c#
+var api = new Aspose.OCR.AsposeOcr();
+var input = new OcrInput(InputType.SingleImage);
+input.Add("source.png");
+// Find shadows and highlights
+var defects = api.DetectDefects(input, DefectType.LOW_CONTRAST);
+foreach (var defect in defects)
+{
+	Console.WriteLine($"Image path: {defect.Source} | Page: {defect.Page}");
+	foreach (var areas in defect.defectAreas)
+	{
+		Console.WriteLine($"Number of low-contrast areas: {areas.rectangles.Count()}");
+	}
+}
+
+```
+*[Source\*](https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-5-0-release-notes/)*
+
+### Optimized OCR Accuracy for Latin Languages
+
+This version of the C# library lets you witness notable enhancements in OCR accuracy for several Latin-based languages, including English, French, Spanish, and more.
+
+### Updated Developer Experience
+
+Developers can experience seamless integration into their existing C# applications or build new ones from scratch. This version enables you to benefit from a fully backward-compatible release.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.OCR for .NET 24.5.0 Release Notes](https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-5-0-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

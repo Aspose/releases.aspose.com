@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-python-via-.net-24.5-maxos-x86-64"
-description: " "
+title: "Time-phased Data & More: Aspose.Tasks Python 24.5 (macOS)"
+description: "Boost Python project efficiency with Aspose.Tasks Python via .NET 24.5 (macOS). Download now for time-phased data, task splitting & more in your apps."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-24.5-maxos-x86-64/"
@@ -22,7 +22,7 @@ weight: 60
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Tasks for Python via .NET 24.5 MaxOS x86-64" imagelink="/resources/img/random-file-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Tasks for Python via .NET 24.5 MacOS x86-64" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-24.5-maxos-x86-64/c09753d8cd4b20883575332dcdebefc5-11-10935" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/tasks" >}}
@@ -43,8 +43,36 @@ weight: 60
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-5-release-notes/'>https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for Python via .NET 24.5 release for MacOS</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for Python via .NET 24.5 release for MacOS.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Great news for Python developers working on macOS! Aspose.Tasks for Python via .NET 24.5 has been released and it includes important enhancements to empower your Python project management applications.
+
+### Precise Time-phased Data Generation
+
+The latest Python project management API release enables you to experience improved generation of time-phased data and ensure precise calculations even when load changes align with weekends.
+
+### `Asn.WorkVariance` Calculation Enhancements
+
+Getting accurate project cost analysis results is easier than ever with optimized `Asn.WorkVariance` calculation in your macOS-based Python solutions.
+
+### MS Project Compatibility in Apple Mac
+
+We have fixed the issues with tasks splitting by Aspose.Tasks for Python via .NET where the tasks were displayed incorrectly as three-part elements in Microsoft Project applications.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for Python via .NET 24.5 Release Notes](https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
