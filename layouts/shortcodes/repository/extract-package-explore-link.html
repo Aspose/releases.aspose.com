@@ -3,7 +3,7 @@
 <p>
   {{ range first 1 .Page.Params.packages_refs }}
     <a href="{{.}}/#package-explorer" target="_blank">
-      <img class="img-responsive" src="{{$imgsrc}}" alt="main-banner" width="1024px" height="200px">
+      <img class="img-responsive" src="{{$imgsrc}}" alt="main-banner" width="100%" height="200px" loading="lazy">
     </a>
   {{ end }}
 
