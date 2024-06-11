@@ -16,9 +16,6 @@ weight: 5
 <!-- ProductPageContent-->
 {{< Common/wrapper class="col-md-12" >}}
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
-{{< Common/wrapper class="col-md-12" >}}
-{{< Common/wrapper class="panel-body downloadfilebody" >}}
-
 {{< Common/h3 text="Download Aspose.Font for Node.js via C++ for Font Format Processing"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Font for JavaScript via C++ allows developers to manipulate font files directly on the Web. This Node.js solution is built using WebAssembly technology and is based on Aspose.Font for C++.
@@ -33,8 +30,6 @@ You can easily download Aspose.Font for Node.js via C++ from {{< Common/link hre
 {{< Common/release-notes-link family="font" product="nodejs" href="https://releases.aspose.com/font/nodejs-cpp/release-notes/" text="https://releases.aspose.com/font/nodejs-cpp/release-notes/"  >}}
 
 {{< Common/hr >}}
-{{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
 <!-- /ProductPageContent-->
