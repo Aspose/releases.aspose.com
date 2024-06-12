@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.font-for-.net-24.4"
-description: " "
+title: "Aspose.Font .NET 24.4 (MSI) - Convert Fonts, WOFF2 Support"
+description: "Upgrade your C# font manipulation apps with Aspose.Font .NET 24.4. Download the MSI now and enjoy CFF to SVG conversion & enhanced WOFF2 support."
 keywords: ""
 page_type: single_release_page
 folder_link: "/font/net/new-releases/aspose.font-for-.net-24.4/"
@@ -43,8 +43,36 @@ weight: 65
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/font/net/release-notes/2024/aspose-font-for-net-24-4-release-notes/'>https://releases.aspose.com/font/net/release-notes/2024/aspose-font-for-net-24-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Font for .NET 24.4 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Font for .NET 24.4 release (MSI installer).</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Upgrade your font processing apps development experience with the Aspose.Font for .NET 24.4 (MSI installer) release. It introduces key improvements for enhanced font manipulation capabilities.
+
+### Improved Font Conversion
+
+This version of the .NET font API resolves an `IndexOutOfRange` exception encountered while converting CFF fonts to SVG format. Convert your fonts to various formats easily within your C# and VB.NET apps.
+
+### WOFF2 Optimizations
+
+Support for excluding the "DSIG" table from the set of result tables during TrueType to WOFF2 conversion has been added in Aspose.Font for .NET 24.4.
+
+### Enhanced Error Handling
+
+The newly added `IncorrectFontDataException` class offers optimized error handling for font-related issues.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Font for .NET 24.4 Release Notes](https://releases.aspose.com/font/net/release-notes/2024/aspose-font-for-net-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

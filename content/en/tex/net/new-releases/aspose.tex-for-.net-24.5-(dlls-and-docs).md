@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tex-for-.net-24.5-(dlls-and-docs)"
-description: " "
+title: "Aspose.TeX .NET 24.5 (DLLs, Docs) - Easily Repair LaTeX Files"
+description: "Aspose.TeX .NET 24.5 delivers a powerful LaTeX Repairer & improved functionalities for your C# apps. Download DLLs & check out the documentation for free!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/tex/net/new-releases/aspose.tex-for-.net-24.5-(dlls-and-docs)/"
@@ -45,6 +45,48 @@ weight: 50
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.TeX for .NET 24.5 (DLLs and docs) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Boost your C# applications with the power of Aspose.TeX for .NET 24.5 (DLLs and docs)! With this release, you can experience various enhancements designed to optimize your development process.
+
+### Easily Repair LaTeX Files
+
+Save valuable time and effort by adding powerful error correction functionality to your C# font manipulation solutions with the new LaTeX repairer introduced in this .NET API release. It automatically identifies and fixes common LaTeX errors. 
+
+### Simplified Workflows
+
+Streamline your app development workflows and focus on core functionalities with this API version.
+
+### Public API Changes
+
+### Added API Members
+
+The following types, methods, and properties were added in this release:
+
+- Aspose.TeX.Features.IGuessPackageCallback
+- Aspose.TeX.Features.IGuessPackageCallback.GuessPackage(System.String,System.Boolean)
+- Aspose.TeX.Features.LaTeXRepairer
+- Aspose.TeX.Features.LaTeXRepairer.#ctor(System.String,Aspose.TeX.Features.LaTeXRepairerOptions)
+- Aspose.TeX.Features.LaTeXRepairerOptions
+- Aspose.TeX.Features.LaTeXRepairerOptions.#ctor
+- Aspose.TeX.Features.LaTeXRepairerOptions.Run
+- Aspose.TeX.Features.LaTeXRepairerOptions.InputWorkingDirectory
+- Aspose.TeX.Features.LaTeXRepairerOptions.OutputWorkingDirectory
+- Aspose.TeX.Features.LaTeXRepairerOptions.RequiredInputDirectory
+- Aspose.TeX.Features.LaTeXRepairerOptions.GuessPackageCallback
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.TeX for .NET 24.5 Release Notes](https://releases.aspose.com/tex/net/release-notes/2024/aspose-tex-for-net-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

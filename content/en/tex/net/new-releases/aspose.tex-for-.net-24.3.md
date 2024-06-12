@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tex-for-.net-24.3"
-description: " "
+title: "Optimized eTeX Page Building - Aspose.TeX .NET 24.3 (MSI)"
+description: "Boost your C# apps with Aspose.TeX .NET 24.3! It includes eTeX page building optimization for improved performance. Download the MSI on Windows now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/tex/net/new-releases/aspose.tex-for-.net-24.3/"
@@ -43,8 +43,28 @@ weight: 47
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tex/net/release-notes/2024/aspose-tex-for-net-24-3-release-notes/'>https://releases.aspose.com/tex/net/release-notes/2024/aspose-tex-for-net-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.TeX for .NET 24.3 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.TeX for .NET 24.3 release (MSI installer).</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+We are excited to announce the release of Aspose.TeX for .NET 24.3 (MSI installer). This update delivers important updates to enhance the performance of your .NET applications.
+
+### Optimized eTeX Page Building
+
+Leverage eTeX’s page-building optimization functionality with this .NET API release and enhance the performance of your TeX processing .NET applications.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.TeX for .NET 24.3 Release Notes](https://releases.aspose.com/tex/net/release-notes/2024/aspose-tex-for-net-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

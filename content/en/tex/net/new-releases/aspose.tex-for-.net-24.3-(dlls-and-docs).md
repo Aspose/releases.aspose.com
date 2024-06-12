@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tex-for-.net-24.3-(dlls-and-docs)"
-description: " "
+title: "eTeX Page Building with Aspose.TeX .NET 24.3 (DLLs & Docs)"
+description: "Optimize TeX processing in C# applications! Aspose.TeX .NET 24.3 (DLLs & docs) delivers eTeX page building optimization. Download TeX libraries now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/tex/net/new-releases/aspose.tex-for-.net-24.3-(dlls-and-docs)/"
@@ -45,6 +45,30 @@ weight: 48
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.TeX for .NET 24.3 (DLLs and docs) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+We are pleased to announce Aspose.TeX for .NET 24.3 (DLLs and docs) release! It incorporates a valuable enhancement for eTeX processing in C# apps and includes up-to-date documentation.
+
+### eTeX Page Building Optimization
+
+Utilize eTeX’s page-building optimization functionality seamlessly with this .NET API release and optimize the capabilities of your TeX processing C# and VB.NET applications.
+
+### Documentation
+
+You can explore the comprehensive Aspose.TeX for .NET documentation for detailed guidance and code examples.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.TeX for .NET 24.3 Release Notes](https://releases.aspose.com/tex/net/release-notes/2024/aspose-tex-for-net-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
