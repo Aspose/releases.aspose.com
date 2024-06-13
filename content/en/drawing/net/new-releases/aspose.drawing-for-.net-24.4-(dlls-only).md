@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.drawing-for-.net-24.4-(dlls-only)"
-description: " "
+title: "Aspose.Drawing .NET 24.4: Drawing Precision & Control (DLLs)"
+description: "Upgrade your C# drawing apps with improved pen styles, null value handling, robust transformations. Download Aspose.Drawing .NET 24.4 DLLs package now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/drawing/net/new-releases/aspose.drawing-for-.net-24.4-(dlls-only)/"
@@ -43,8 +43,44 @@ weight: 141
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/drawing/net/release-notes/2024/aspose-drawing-for-net-24-4-release-notes/'>https://releases.aspose.com/drawing/net/release-notes/2024/aspose-drawing-for-net-24-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains Aspose.Drawing for .NET Framework 2.0 and .NET Standard 2.0</div>
+      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains Aspose.Drawing for .NET 24.4 DLLs-only package (Framework 2.0 and .NET Standard 2.0).</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+This package delivers the standalone DLLs for Aspose.Drawing for .NET 24.4. It caters to developers who prefer a more simplified development and deployment process by including only the essential libraries required for working with Aspose.Drawing functionalities.
+
+### Enhanced Pen Control 
+
+Integrate improved pen styles into your C# drawing apps having the ability to initialize pen dash patterns while setting the pen dash style.
+
+### Better Null Value Handling
+
+Experience a seamless development experience with optimized null value handling in the `LinearGradientBrush.InterpolationColors` getter, which prevents potential exceptions.
+
+### Upgraded Transformations
+
+This version of the C# drawing library ensures precise drawing results with the addition of input matrix validation when setting the `Graphics.Transform` property.
+
+### Smoother Path Drawing
+
+C# and VB.NET developers will now enjoy smoother path drawing with the implementation of validation checks before drawing a path.
+
+### Text Rendering Precision
+
+With the text drawing correction in Aspose.Drawing for .NET 24.4, you can get accurate text rendering even with negative scale transformations.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Drawing for .NET 24.4 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2024/aspose-drawing-for-net-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
