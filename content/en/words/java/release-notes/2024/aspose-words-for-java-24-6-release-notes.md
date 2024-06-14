@@ -222,25 +222,25 @@ public class ChartSeriesCollection
 {{< /highlight >}}
 
 This use case explains how to create a **BoxAndWhisker** chart:
-{{< gist "aspose-words-gists" "a76df4b18bee76d169e55cdf6af8129c" "box-and-whisker-chart.java" >}}" >}}
+{{< gist "aspose-words-gists" "a76df4b18bee76d169e55cdf6af8129c" "box-and-whisker-chart.java" >}}
 
 This use case explains how create a **Funnel** chart:
-{{< gist "aspose-words-gists" "a76df4b18bee76d169e55cdf6af8129c" "funnel-chart.java" >}}" >}}
+{{< gist "aspose-words-gists" "a76df4b18bee76d169e55cdf6af8129c" "funnel-chart.java" >}}
 
 This use case explains how to create a **Histogram** chart:
-{{< gist "aspose-words-gists" "a76df4b18bee76d169e55cdf6af8129c" "histogram-chart.java" >}}" >}}
+{{< gist "aspose-words-gists" "a76df4b18bee76d169e55cdf6af8129c" "histogram-chart.java" >}}
 
 This use case explains how to create a **Pareto** chart:
-{{< gist "aspose-words-gists" "a76df4b18bee76d169e55cdf6af8129c" "pareto-chart.java" >}}" >}}
+{{< gist "aspose-words-gists" "a76df4b18bee76d169e55cdf6af8129c" "pareto-chart.java" >}}
 
 This use case explains how to create a **Sunburst** chart:
-{{< gist "aspose-words-gists" "a76df4b18bee76d169e55cdf6af8129c" "sunburst-chart.java" >}}" >}}
+{{< gist "aspose-words-gists" "a76df4b18bee76d169e55cdf6af8129c" "sunburst-chart.java" >}}
 
 This use case explains how to create a **Treemap** chart:
-{{< gist "aspose-words-gists" "a76df4b18bee76d169e55cdf6af8129c" "treemap-chart.java" >}}" >}}
+{{< gist "aspose-words-gists" "a76df4b18bee76d169e55cdf6af8129c" "treemap-chart.java" >}}
 
 This use case explains how to create a **Waterfall** chart:
-{{< gist "aspose-words-gists" "a76df4b18bee76d169e55cdf6af8129c" "waterfall-chart.java" >}}" >}}
+{{< gist "aspose-words-gists" "a76df4b18bee76d169e55cdf6af8129c" "waterfall-chart.java" >}}
 
 ### Added an ability to get a color of ShapeBase.ShadowFormat
 
@@ -257,7 +257,7 @@ public Color Color {get;}
 {{< /highlight >}}
 
 This use case explains how get ShadowFormat color:
-{{< gist "aspose-words-gists" "a76df4b18bee76d169e55cdf6af8129c" "shadow-format-color.java" >}}" >}}
+{{< gist "aspose-words-gists" "a76df4b18bee76d169e55cdf6af8129c" "shadow-format-color.java" >}}
 
 ### Added new comparison option IgnoreStoreItemId and advanced comparison option redesing
 
@@ -298,7 +298,7 @@ Microsoft Word considers these SDTs to be different for any reason and this migh
 Additionally we decided to extract all these experimental options into separate **AdvancedCompareOptions** class to avoid having mess. All options that have no equivalence in Microsoft Word will be published in **AdvancedCompareOptions** class. Thats why **IgnoreDmlUniqueId** property previously located in **CompareOptions** class was also moved into **AdvancedCompareOptions** class.
 
 This use case explains how to use AdvancedCompareOptions:
-{{< gist "aspose-words-gists" "a76df4b18bee76d169e55cdf6af8129c" "ignore-store-item-id.java" >}}" >}}
+{{< gist "aspose-words-gists" "a76df4b18bee76d169e55cdf6af8129c" "ignore-store-item-id.java" >}}
 
 ### Added public property Comment.DateTimeUtc
 
@@ -321,7 +321,7 @@ public class Comment
 {{< /highlight >}}
 
 This use case explains how to get comment UTC datetime:
-{{< gist "aspose-words-gists" "a76df4b18bee76d169e55cdf6af8129c" "utc-date-time.java" >}}" >}}
+{{< gist "aspose-words-gists" "a76df4b18bee76d169e55cdf6af8129c" "utc-date-time.java" >}}
 
 ### Supported selective removal of paragraphs becoming empty for LINQ Reporting Engine
 
@@ -336,7 +336,7 @@ In addition to removal of all paragraphs becoming empty after template syntax ta
 For a tag with its name prepended with an exclamation mark, the engine checks whether a corresponding paragraph or paragraphs become empty after the tag is processed, and if they do, removes them. Paragraphs corresponding to the rest of tags are kept intact by the engine.
 
 This use case explains how to remove empty paragraphs selectively:
-{{< gist "aspose-words-gists" "a76df4b18bee76d169e55cdf6af8129c" "remove-paragraphs-selectively.java" >}}" >}}
+{{< gist "aspose-words-gists" "a76df4b18bee76d169e55cdf6af8129c" "remove-paragraphs-selectively.java" >}}
 
 ### Added an ability to specify a message for missing object members for LINQ Reporting Engine
 
@@ -350,4 +350,4 @@ Prefix <<[missing]>> suffix.
 {{< /highlight >}}
 
 This use case explains how to specify a message to be printed instead of a template expression that represents a plain reference to a missing member:
-{{< gist "aspose-words-gists" "a76df4b18bee76d169e55cdf6af8129c" "missing-members.java" >}}" >}}
+{{< gist "aspose-words-gists" "a76df4b18bee76d169e55cdf6af8129c" "missing-members.java" >}}
