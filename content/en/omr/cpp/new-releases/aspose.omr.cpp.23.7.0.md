@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.omr.cpp.23.7.0"
-description: " "
+title: "C++ OMR API 23.7.0: Control Page Size & Simplify OMR Forms"
+description: "Aspose.OMR C++ 23.7.0 empowers developers with precise control over OMR form page sizes. Download C++ library for streamlined OMR form generation."
 keywords: ""
 page_type: single_release_page
 folder_link: "/omr/cpp/new-releases/aspose.omr.cpp.23.7.0/"
@@ -42,7 +42,44 @@ weight: 1
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/omr/cpp/release-notes/2023/aspose-omr-for-cpp-23-7-0-release-notes/'>https://releases.aspose.com/omr/cpp/release-notes/2023/aspose-omr-for-cpp-23-7-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Added the ability to specify the page size of a generated OMR form.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.OMR for C++ 23.7.0 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Page Size Control for OMR Forms
+
+Aspose.OMR for C++ 23.7.0 lets you define the physical dimensions (in millimeters, inches, or pixels) of your OMR forms during generation. This feature ensures consistency and eliminates the need for manual resizing after form creation. 
+
+Please check out the following C++ code example which highlights how to set the page size of your OMR forms.
+
+```c++
+System::SharedPtr<Api::OmrEngine> engine = System::MakeObject<Api::OmrEngine>();
+System::SharedPtr<Api::GlobalPageSettings> settings = System::MakeObject<Api::GlobalPageSettings>();
+settings->setPaperSize(Api::PaperSize::Letter);
+System::SharedPtr<Generation::GenerationResult> result = engine->GenerateTemplate(markupPath, nullptr, settings);
+
+```
+*[Source\*](https://releases.aspose.com/omr/cpp/release-notes/2023/aspose-omr-for-cpp-23-7-0-release-notes/)*
+
+### Public API Changes and Backwards Compatibility
+
+This C++ OMR API release introduces a new public API member:
+
+### `Api::PaperSize` Enum
+
+The newly added enumeration `Api::PaperSize` provides predefined page size options, such as A4, Letter, Legal, and more. You can also specify custom page dimensions in millimeters, inches, or pixels.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.OMR for C++ 23.7.0 Release Notes](https://releases.aspose.com/omr/cpp/release-notes/2023/aspose-omr-for-cpp-23-7-0-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

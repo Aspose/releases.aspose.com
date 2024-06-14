@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.finance-for-.net-24.4(dlls-only)"
-description: " "
+title: "Aspose.Finance .NET 24.4: Export OFX to Excel, CSV (DLLs)"
+description: "Aspose.Finance .NET 24.4 empowers developers with new options to export financial data. Convert OFX to Excel & CSV formats. Download DLLs package now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/finance/net/new-releases/aspose.finance-for-.net-24.4(dlls-only)/"
@@ -43,8 +43,32 @@ weight: 72
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/finance/net/release-notes/2024/aspose-finance-for-net-24-4-release-notes/'>https://releases.aspose.com/finance/net/release-notes/2024/aspose-finance-for-net-24-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Finance for .NET 24.4</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Finance for .NET 24.4 (DLLs-only).</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+The Aspose.Finance for .NET 24.4 (DLLs-only) package provides developers with the essential library files required to integrate the latest features and bug fixes into their existing C# and VB.NET financial document processing applications.
+
+### Upgraded Export Flexibility
+
+Convert OFX (Open Financial Exchange) files to MS Excel format seamlessly for expanded compatibility with your .NET applications.
+
+### Simplified Data Analysis
+
+Get comma-separated value (CSV) files from OFX documents for effective financial data analysis in spreadsheets and other tools.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Finance for .NET 24.4 Release Notes](https://releases.aspose.com/finance/net/release-notes/2024/aspose-finance-for-net-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
