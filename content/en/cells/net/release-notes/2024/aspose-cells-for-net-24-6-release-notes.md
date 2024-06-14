@@ -22,13 +22,12 @@ This page contains release notes for [Aspose.Cells for .NET 24.6](https://www.nu
 |CELLSNET-55833|Added color saturation and color temperature adjustment functions for images|New Feature
 |CELLSNET-55842|Image Recoloring: Add ability to render duotones|New Feature
 |CELLSNET-55606|Support outline of the star characters in chart|New Feature
-|CELLSNET-55578|Support Range.ToHtmlTable() method|New Feature
+|CELLSNET-55578|Support Range.ToHtml() method|New Feature
 |CELLSNET-55819|Support align axis x values to the right when converting chart to image|Enhancement
 |CELLSNET-55914|Support converting workbook contians Webp image to pdf and image for net6.0, 7.0 and 8.0 on Linux|Enhancement
-|CELLSNET-55514|Enhanced "Show as " of pivot field |Enhancement
-|CELLSNET-55580|Support Range.ToImage() method.|Enhancement
+|CELLSNET-55580|Support Range.ToImage() method|Enhancement
 |CELLSNET-55680|Enhancement for merging range of pivot table|Enhancement
-|CELLSNET-55698|Adds show values as for pivot field method|Enhancement
+|CELLSNET-55698|Enhancement for "Show Values as" of pivot field|Enhancement
 |CELLSNET-55827|Handle the "Index was out of range" exception when reading template file which contains invalid data|Enhancement
 |CELLSNET-55828|Handle the "Destination array is not long enough" exception when reading template file which contains invalid data|Enhancement
 |CELLSNET-55715|Asian multiline text break issue for shapes when rendering Excel file to PDF|Bug
