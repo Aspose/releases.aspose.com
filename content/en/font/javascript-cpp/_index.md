@@ -13,29 +13,24 @@ tags: ['font-javascript', 'font-convert', 'font-metadata', 'OTF-to-TTF', 'Type1-
 
 {{< dbToolbar link="https://forum.aspose.com/c/font/41" linktext="Support Forum" >}}
 
-{{< ProductPageWrapper >}}
-<!-- ProductPageContent-->
-
-{{< Common/wrapper class="col-md-12" >}}
-{{< Common/wrapper class="panel-body downloadfilebody" >}}
-
 {{< Common/h3 text="Download Aspose.Font for JavaScript via C++ for portable Font Format Processing"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Font for JavaScript via C++ allows developers to manipulate font files directly on the Web. This JavaScript Solution is built using WebAssembly technology and is based on Aspose.Font for .NET.
 You can easily download Aspose.Font for JavaScript via C++ from this page and then follow the installation instructions.
 {{< /Common/paragraph>}}
 
-{{< Common/hr >}}
+{{< Common/release-notes-link family="font" product="javascript" href="https://releases.aspose.com/font/javascript-cpp/release-notes/" text="https://releases.aspose.com/font/javascript-cpp/release-notes/"  >}}
 
-{{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
-<!-- /ProductPageContent-->
+{{< Common/hr >}}
 
 {{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}
 
 {{< Common/hr >}}
+
+{{< ProductPageWrapper >}}
+<!-- ProductPageContent-->
 
 <!-- ReleasesListProductPage-->
 {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="font" product="javascript-cpp" >}}
