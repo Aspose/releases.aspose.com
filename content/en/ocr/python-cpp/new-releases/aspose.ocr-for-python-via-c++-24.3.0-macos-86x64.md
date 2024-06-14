@@ -16,7 +16,7 @@ parent_path: "ocr/python-cpp"
 section_parent_path: "ocr/python-cpp"
 
 tags: "24.3.0"
-release_notes_url: "https://releases.aspose.com/ocr/python-cpp/release-notes/2024/aspose-ocr-for-python-cpp-24-3-0-release-notes/"
+release_notes_url: "https://releases.aspose.com/ocr/python-cpp/release-notes/2024/aspose-ocr-python-cpp-24-3-0-release-notes/"
 weight: 2
 
 ---
@@ -40,7 +40,7 @@ weight: 2
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/ocr/python-cpp/release-notes/2024/aspose-ocr-for-python-cpp-24-3-0-release-notes/'>https://releases.aspose.com/ocr/python-cpp/release-notes/2024/aspose-ocr-for-python-cpp-24-3-0-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/ocr/python-cpp/release-notes/2024/aspose-ocr-python-cpp-24-3-0-release-notes/'>https://releases.aspose.com/ocr/python-cpp/release-notes/2024/aspose-ocr-python-cpp-24-3-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">The functionality has been updated to Aspose.OCR for C++ 24.3.0</div>
