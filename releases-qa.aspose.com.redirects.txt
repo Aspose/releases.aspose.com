@@ -342,7 +342,7 @@ rewrite ^/slides/cpp/total$ https://releases-qa.aspose.com/slides/cpp/ permanent
 
 rewrite ^/email/Node.js$ https://releases-qa.aspose.com/email/ permanent;
 # rewrite ^//repository/repo$ https://releases-qa.aspose.com/java/repo/ permanent;
-rewrite ^/java/repo\'$ https://releases-qa.aspose.com/java/repo/ permanent;
+# rewrite ^/java/repo\'$ https://releases-qa.aspose.com/java/repo/ permanent;
 rewrite ^/pdf.kit/net/$ https://releases-qa.aspose.com/pdf/net/ permanent;
 rewrite ^/total/java/release-notes/2024/aspose-total-for-java-24-4-1-release-notes/$ https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/ permanent;
 rewrite ^/total/java/release-notes/2024/aspose-total-for-java-24-5-release-notes/$ https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/ permanent;
@@ -370,7 +370,7 @@ rewrite ^/email/cpp/total$ https://releases-qa.aspose.com/email/cpp/ permanent;
 rewrite /email/nodejs-net/(.*) https://releases-qa.aspose.com/email/$1 permanent;
 rewrite ^/omr/java/release-notes/2023/aspose-omr-for-java-23-12-release-notes/$ https://releases-qa.aspose.com/omr/java/release-notes/2023/aspose-omr-for-java-23-12-0-release-notes/ permanent;
 rewrite ^/pdf/net/new-releases/aspose.words-for-.net-8.1.0/$ https://releases-qa.aspose.com/pdf/net/new-releases/aspose.pdf-for-.net-8.1.0/ permanent;
-# rewrite ^/psd/(.*)pdf$ https://releases-qa.aspose.com/psd/  permanent;
+# rewrite ^/psd/(.*)pdf$ https://releases-qa.aspose.com/psd/ permanent;
 rewrite ^/slides/cpp/new-releases/aspose.slides-for-c++-24.4/$ https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-24.4-windows/ permanent;
 rewrite ^/slides/java/release-notes/2011$ https://releases-qa.aspose.com/slides/java/release-notes/ permanent;
 rewrite ^/slides/python-java/api-reference/$ https://releases-qa.aspose.com/slides/python-java/ permanent;
@@ -393,8 +393,8 @@ rewrite ^/zh/cells/cpp/aspose.cells-for-c++-23.1windows/$ https://releases-qa.as
 rewrite ^/zh/pdf/java/23-12/$ https://releases-qa.aspose.com/zh/pdf/java/ permanent;
 rewrite ^/zh/total/java/23-9/$ https://releases-qa.aspose.com/zh/total/java/ permanent;
 rewrite ^/zip/password-recovery/$ https://releases-qa.aspose.com/zip/ permanent;
-rewrite ^/\/3d/java/release-notes/2024/aspose-3d-for-java-24-3-0-release-notes/$ https://releases-qa.aspose.com/3d/java/release-notes/2024/aspose-3d-for-java-24-3-release-notes/ permanent;
-rewrite ^/\/total/java/release-notes/2024/aspose-total-for-java-24-3-release-notes/$ https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/ permanent;
+# rewrite ^/\/3d/java/release-notes/2024/aspose-3d-for-java-24-3-0-release-notes/$ https://releases-qa.aspose.com/3d/java/release-notes/2024/aspose-3d-for-java-24-3-release-notes/ permanent;
+# rewrite ^/\/total/java/release-notes/2024/aspose-total-for-java-24-3-release-notes/$ https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/ permanent;
 rewrite ^/3d/java/repo$ https://releases-qa.aspose.com/3d/java/ permanent;
 rewrite ^/3d/net/total$ https://releases-qa.aspose.com/3d/net/ permanent;
 rewrite ^/3d/repo$ https://releases-qa.aspose.com/3d/ permanent;
@@ -412,7 +412,7 @@ rewrite ^/barcode/nodejs/release-notes/2024/aspose-barcode-for-php-via-java-24-2
 rewrite ^/barcode/nodejs/release-notes/2024/aspose-barcode-for-php-via-java-24_2-release-notes/$ https://releases-qa.aspose.com/barcode/nodejs/release-notes/2024/aspose-barcode-for-node-js-via-java-24-2-release-notes/ permanent;
 rewrite ^/barcode/python-java/total$ https://releases-qa.aspose.com/barcode/python-java/ permanent;
 rewrite ^/barcode/reportingservices/file$ https://releases-qa.aspose.com/barcode/reportingservices/ permanent;
-rewrite ^/cad/java/\'$ https://releases-qa.aspose.com/cad/java/ permanent;
+# rewrite ^/cad/java/\'$ https://releases-qa.aspose.com/cad/java/ permanent;
 rewrite ^/cad/python/$ https://releases-qa.aspose.com/cad/python-net/ permanent;
 rewrite ^/cell/net$ https://releases-qa.aspose.com/cells/net/ permanent;
 rewrite ^/cell/net/release-notes/$ https://releases-qa.aspose.com/cells/net/release-notes/ permanent;
@@ -473,5 +473,5 @@ rewrite ^/ocr/net/resources/$ https://releases-qa.aspose.com/ocr/net/ permanent;
 rewrite ^/ocr/net/total$ https://releases-qa.aspose.com/ocr/net/ permanent;
 rewrite ^/ocr/python-c++/$ https://releases-qa.aspose.com/ocr/python-cpp/ permanent;
 rewrite ^/page/net/total$ https://releases-qa.aspose.com/page/net/ permanent;
-rewrite ^/pdf//java/$ https://releases-qa.aspose.com/pdf/java/ permanent;
+# rewrite ^/pdf//java/$ https://releases-qa.aspose.com/pdf/java/ permanent;
 rewrite ^/pdf/ava/release-notes/$ https://releases-qa.aspose.com/pdf/java/release-notes/ permanent;
