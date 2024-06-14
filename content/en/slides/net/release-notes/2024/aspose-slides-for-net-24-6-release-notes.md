@@ -67,8 +67,7 @@ public class Example
 {
     public void Execute()
     {
-        //using (Presentation pres = new Presentation("pres.pptx"))
-        using (Presentation pres = new Presentation("d:\\1-2-address.pptx"))
+        using (Presentation pres = new Presentation("pres.pptx"))
         {
             // Create callback.
             FindResultCallback callback = new FindResultCallback();

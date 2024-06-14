@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.font-for-.net-24.5"
-description: " "
+title: ".NET 7, WOFF2 to SVG Conversion - C# Font API 24.5 (MSI)"
+description: "Enhance font manipulation within your C# apps. Download Aspose.Font for .NET 24.5 (MSI) for .NET 7 support & WOFF2 to SVG conversion improvements."
 keywords: ""
 page_type: single_release_page
 folder_link: "/font/net/new-releases/aspose.font-for-.net-24.5/"
@@ -43,8 +43,32 @@ weight: 67
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/font/net/release-notes/2024/aspose-font-for-net-24-5-release-notes/'>https://releases.aspose.com/font/net/release-notes/2024/aspose-font-for-net-24-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Font for .NET 24.5 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Font for .NET 24.5 release (MSI installer).</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+We are pleased to announce the release of Aspose.Font for .NET 24.5 (MSI installer). This update brings exciting new features and enhancements to empower your C# and VB.NET development projects.
+
+### .NET 7 Target Framework Support
+
+Experience seamless integration with the .NET 7 framework and expand your app's compatibility for modern .NET development. The latest C# font API release allows you to expand the capabilities of your font processing solutions.
+
+### Enhanced WOFF2 to SVG Conversion
+
+We have fixed a critical bug causing an `ArgumentOutOfRange` exception during WOFF2 to SVG conversion to ensure smoother font format conversions in .NET.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Font for .NET 24.5 Release Notes](https://releases.aspose.com/font/net/release-notes/2024/aspose-font-for-net-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
