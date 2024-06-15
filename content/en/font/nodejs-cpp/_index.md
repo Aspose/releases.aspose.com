@@ -27,6 +27,8 @@ You can easily download Aspose.Font for Node.js via C++ from {{< Common/link hre
 
 {{< Common/release-notes-link family="font" product="nodejs" href="https://releases.aspose.com/font/nodejs-cpp/release-notes/" text="https://releases.aspose.com/font/nodejs-cpp/release-notes/"  >}}
 
+{{< Common/hr >}}
+
 {{< ProductPageWrapper >}}
 <!-- ProductPageContent-->
 
