@@ -5,10 +5,10 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/font/cpp/new-releases/aspose.font-for-c++-macos/"
-folder_name: "Aspose.Font untuk C++ macOS"
+folder_name: "Aspose.Font untuk C++ 24.6 macOS"
 download_link: "/font/cpp/new-releases/aspose.font-for-c++-macos/c75d32dfe376214a5b9551dc4367a4b8-14-11029"
 download_text: "Unduh"
-intro_text: "Aspose.Font untuk perpustakaan asli C++ macOS"
+intro_text: "Aspose.Font untuk perpustakaan asli C++ 24.6 macOS"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 16/6/2024 Unduhs: 1  Views: 1 "
 file_size: "File Size: 65.89MB"
@@ -22,7 +22,7 @@ weight: 141
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Font untuk C++ macOS" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Font untuk C++ 24.6 macOS" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Unduh" link="/font/cpp/new-releases/aspose.font-for-c++-macos/c75d32dfe376214a5b9551dc4367a4b8-14-11029" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/font" >}}
@@ -43,7 +43,7 @@ weight: 141
       <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/font/cpp/release-notes/2024/aspose-font-for-cpp-24-6-release-notes/'>https://releases.aspose.com/font/cpp/release-notes/2024/aspose-font-for-cpp-24-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Keterangan</h4><div class="HTMLDescription">Aspose.Font untuk perpustakaan asli C++ macOS</div>
+      <h4>Keterangan</h4><div class="HTMLDescription">Aspose.Font untuk perpustakaan asli C++ 24.6 macOS</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
