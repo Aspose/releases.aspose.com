@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.finance-for-.net-24.2"
-description: " "
+title: "Optimize Financial Data Workflows: Aspose.Finance .NET 24.2"
+description: "This update of Aspose.Finance .NET 24.2 empowers developers with a powerful new capability for generating comprehensive PDF reports. Get started today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/finance/net/new-releases/aspose.finance-for-.net-24.2/"
@@ -43,8 +43,28 @@ weight: 69
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/finance/net/release-notes/2024/aspose-finance-for-net-24-2-release-notes/'>https://releases.aspose.com/finance/net/release-notes/2024/aspose-finance-for-net-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Finance for .NET 24.2</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Finance for .NET 24.2 (MSI).</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Aspose.Finance for .NET 24.2 bolsters your financial data processing toolkit and simplifies the creation of comprehensive financial reports in C# and VB.NET, promoting efficiency within your workflows.
+
+### Generate Supplementary Output in PDF Format
+
+This C# financial reporting API release enables you to generate supplementary information alongside your XBRL data in PDF file format. The latest update helps optimize your workflow and provides a comprehensive analysis document.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Finance for .NET 24.2 Release Notes](https://releases.aspose.com/finance/net/release-notes/2024/aspose-finance-for-net-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

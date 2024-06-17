@@ -1,0 +1,51 @@
+---
+
+title: "Téléchargements ---Nouvelles versions-aspose.diagram-for-python-via-.net-24.6.0-windows-x32"
+description: " "
+keywords: ""
+page_type: single_release_page
+folder_link: "/diagram/python-net/new-releases/aspose.diagram-for-python-via-.net-24.6.0-windows-x32/"
+folder_name: "Aspose.Diagram pour Python via .NET 24.6.0 Windows x32"
+download_link: "/diagram/python-net/new-releases/aspose.diagram-for-python-via-.net-24.6.0-windows-x32/154700d69f6108eac8d3ad342ae8afd5-8-11010"
+download_text: "Télécharger"
+intro_text: "Aspose.Diagram pour Python via .NET 24.6.0 Windows x32"
+image_link: "/resources/img/random-file-icon.png"
+download_count: " 14/6/2024 Téléchargers: 1  Views: 1 "
+file_size: "File Size: 36.68MB"
+parent_path: "diagram/python-net"
+section_parent_path: "diagram/python-net"
+
+tags: ""
+release_notes_url: "https://releases.aspose.com/diagram/python-net/release-notes/2024/aspose-diagram-for-python-via-net-24-6-release-notes/"
+weight: 43
+
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Diagram pour Python via .NET 24.6.0 Windows x32" imagelink="/resources/img/random-file-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text="Télécharger" link="/diagram/python-net/new-releases/aspose.diagram-for-python-via-.net-24.6.0-windows-x32/154700d69f6108eac8d3ad342ae8afd5-8-11010" >}}
+    {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/diagram" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}
+    {{< Releases/ReleasesDetailsUl >}}
+      {{< Common/li >}} Téléchargers: {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-154700d69f6108eac8d3ad342ae8afd5-8-11010" >}} 1 {{< /Common/li >}}
+      {{< Common/li >}} Taille du fichier: {{< /Common/li >}}
+      {{< Common/li id="size-update-154700d69f6108eac8d3ad342ae8afd5-8-11010" >}} 36.68MB {{< /Common/li >}}
+
+      {{< Common/li >}} date ajoutée: {{< /Common/li >}}
+      {{< Common/li id="added-update-154700d69f6108eac8d3ad342ae8afd5-8-11010" >}}14/6/2024 {{< /Common/li >}}
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/diagram/python-net/release-notes/2024/aspose-diagram-for-python-via-net-24-6-release-notes/'>https://releases.aspose.com/diagram/python-net/release-notes/2024/aspose-diagram-for-python-via-net-24-6-release-notes/</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>La description</h4><div class="HTMLDescription">Aspose.Diagram pour Python via .NET 24.6.0 Windows x32</div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+
