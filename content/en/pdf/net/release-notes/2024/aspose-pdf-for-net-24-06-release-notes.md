@@ -65,9 +65,9 @@ This page contains release notes information for Aspose.PDF for .NET 24.6.
 |PDFNET-41663|Problem validating digital signature|Bug|
 |PDFNET-51676|PdfEditor Extract page layers not displayed correctly|Bug|
 |PDFNET-52798|Regression: HTML to PDF: Unexpected Page Break|Bug|
-|PDFNET-53550|Text from FreeTextAnnotation is not extracted by TextFragmentAbsorber even with the option setted SearchInAnnotations|Bug|
+|PDFNET-53550|Text from FreeTextAnnotation is not extracted by TextFragmentAbsorber even with the option set SearchInAnnotations|Bug|
 |PDFNET-54671|Page.Accept(TextAbsorber) throw NullReferenceException|Bug|
-|PDFNET-56561|When page content is converted to grayscale, black elements appear on pages that should not be there.|Bug|
+|PDFNET-56561|When page content is converted to grayscale, black elements appear on pages that should not be there|Bug|
 |PDFNET-57193|Regression: XFA Form Data not filled|Bug|
 |PDFNET-51413|PDF to DOCX conversion throws System.ArgumentOutOfRangeException|Bug|
 |PDFNET-36177|PDF to TIFF conversion results in a distorted image|Bug|
