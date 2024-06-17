@@ -1,18 +1,24 @@
 ---
-id: "aspose-omr-for-net-latest-release-notes"
-slug: "latest"
-weight: 1
 date: "2024-06-14"
 author: "Vladimir Lapin"
+id: "aspose-omr-for-net-24-6-0-release-notes"
+slug: "aspose-omr-for-net-24-6-0-release-notes"
+linktitle: "Aspose.OMR for .NET 24.6.0 - Release Notes"
+title: "Aspose.OMR for .NET 24.6.0 - Release Notes"
+weight: 71
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for .NET 24.6.0 (June 2024) release."
 type: "repository"
 layout: "release"
-title: Latest release
-description: A summary of recent changes, enhancements and bug fixes in the latest release of Aspose.OMR for .NET.
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OMR for .NET 24.6.0 - Release Notes"
 keywords:
-- latest
+- "2024"
+- June
 - new
 - release
 - changelog
+menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
