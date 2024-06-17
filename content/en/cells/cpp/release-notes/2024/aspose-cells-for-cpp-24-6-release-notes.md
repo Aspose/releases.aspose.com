@@ -130,13 +130,20 @@ Indicates whether this pivot item is a calculuated item.
 ### **Obsolete methods of PivotFiled:**
 
 ***GetDataDisplayFormat()***
+
 ***SetDataDisplayFormat(PivotFieldDataDisplayFormat::Index)***
+
 ***GetBaseFieldIndex()***
+
 ***SetBaseFieldIndex(int32_t value)***
+
 ***GetBaseItemPosition()***
+
 ***SetBaseItemPosition(PivotItemPosition value)***
+
 ***GetBaseItemIndex()***
+
 ***SetBaseItemIndex(int32_t value)***
 
-Please use PivotField::ShowValuesAs(PivotFieldDataDisplayFormat displayFormat, int32_t baseField, PivotItemPositionType baseItemPositionType, int32_t baseItem) method and PivotField::GetShowValuesSetting() method instead.
+Please use ***ShowValuesAs(PivotFieldDataDisplayFormat displayFormat, int32_t baseField, PivotItemPositionType baseItemPositionType, int32_t baseItem)*** method and ***GetShowValuesSetting()*** method instead.
 
