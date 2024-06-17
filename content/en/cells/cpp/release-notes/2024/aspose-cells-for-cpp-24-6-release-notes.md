@@ -127,15 +127,16 @@ Represents base item Next/Previous/All position in the base field .
 
 Indicates whether this pivot item is a calculuated item.
 
-### **Obsolete methods of PivotFiled: **
-***PivotField::GetDataDisplayFormat()***
-***PivotField::SetDataDisplayFormat(PivotFieldDataDisplayFormat::Index)***
-***PivotField::GetBaseFieldIndex()***
-***PivotField::SetBaseFieldIndex(int32_t value)***
-***PivotField::GetBaseItemPosition()***
-***PivotField::SetBaseItemPosition(PivotItemPosition value)***
-***PivotField::GetBaseItemIndex()***
-***PivotField::SetBaseItemIndex(int32_t value)***
+### **Obsolete methods of PivotFiled:**
+
+***GetDataDisplayFormat()***
+***SetDataDisplayFormat(PivotFieldDataDisplayFormat::Index)***
+***GetBaseFieldIndex()***
+***SetBaseFieldIndex(int32_t value)***
+***GetBaseItemPosition()***
+***SetBaseItemPosition(PivotItemPosition value)***
+***GetBaseItemIndex()***
+***SetBaseItemIndex(int32_t value)***
 
 Please use PivotField::ShowValuesAs(PivotFieldDataDisplayFormat displayFormat, int32_t baseField, PivotItemPositionType baseItemPositionType, int32_t baseItem) method and PivotField::GetShowValuesSetting() method instead.
 
