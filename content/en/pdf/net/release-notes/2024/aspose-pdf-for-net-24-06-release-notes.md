@@ -29,28 +29,34 @@ This page contains release notes information for Aspose.PDF for .NET 24.6.
 |PDFNET-57133|Create an accessible PDF using low-level functions|Feature|
 |PDFNET-42858|Implement Paragraph Replacement in an existing PDF|Enhancement|
 |PDFNET-56815|Make ease evaluation mode restrictions|Enhancement|
-|PDFNET-57156|Add the ability to set TextAbsorber areas in which text is not extracted|Enhancement|
+|PDFNET-57157|Add the ability to set TextAbsorber areas in which text must not be extracted|Enhancement|
 |PDFNET-48165|HTML to PDF: Long lines of text in the nested table aren’t wrapped correctly|Bug|
+|PDFNET-57046|Regression in 24.4 version during XFA to standard form conversion|Bug|
 |PDFNET-57246|RgbToCmykConverter and CmykToRgbConverter are not thread-safe and throw an exception on multi-thread conversion|Bug|
 |PDFNET-42704|Adding TOC in an existing document fails when TOC elements exceed more than a single page|Bug|
 |PDFNET-45294|HTML to PDF - the embedded SVG image is different in the output PDF|Bug|
 |PDFNET-45728|Error Running OptimizeResources On PDF|Bug|
-|PDFNET-46852|PDF to tiff conversion produces blank pages|Bug|
+|PDFNET-46852|PDF to TIFF conversion produces blank pages|Bug|
 |PDFNET-47973|PDF to PDFA - Text gets rotated and cropped when converted|Bug|
 |PDFNET-49658|Number of copies is multiplied when printing via Microsoft Print to PDF printer|Bug|
 |PDFNET-51069|PDF to PDF/X-1a conversion fails randomly when using multiple threads|Bug|
 |PDFNET-52422|Stack overflow when attempting to convert specific PDF to PDF/A-1a|Bug|
+|PDFNET-52512|Invalid font name error occurs during the conversion of PDF to PDF/A|Bug|
+|PDFNET-52875|Unable to convert PDF to PDF/A|Bug|
 |PDFNET-53538|AutoRotate problem in PrintDocumentWithSettings function|Bug|
 |PDFNET-53793|The images in the PDF display abnormally after processing by RedactionAnnotation class|Bug|
+|PDFNET-54017|Convert an existing PDF file to PDF/A-1b which is incompatible with the standard|Bug|
 |PDFNET-54616|Text is garbled while printing the PDF|Bug|
 |PDFNET-55535|Issues with OptimizeResources and ImageCompression - Aspose.PDF.Drawing version 23.8.0|Bug|
 |PDFNET-57097|Using Document.Save automatically redacts text it should not|Bug|
 |PDFNET-57271|Critical: Evaluation warning for paid Aspose.Total Metered Key|Bug|
 |PDFNET-57286|Error converting a PDF to PDFA - Invalid font name|Bug|
 |PDFNET-45655|ArgumentException while adding annotation|Bug|
+|PDFNET-47055|NullReferenceException at Importing annotations|Bug|
 |PDFNET-43339|PDF to TIFF - the garbage text is being rendered|Bug|
 |PDFNET-57309|An exception occurs when using ImagePlacementAbsorber|Bug|
 |PDFNET-44805|The output document is unusually too big after the redaction.|Bug|
+|PDFNET-46759|PDF to SVG - the wired text size and spaces|Bug|
 |PDFNET-56210|Adding tagged content after PdfFileEditor.Concatenate makes conversion impossible to PDF/UA-1|Bug|
 |PDFNET-57244|Adding embedded file does not set Size and Modification Date in the resultant file|Bug|
 |PDFNET-57039|Regression: PDF file is not viewable in PDF.js viewer|Bug|
@@ -59,9 +65,9 @@ This page contains release notes information for Aspose.PDF for .NET 24.6.
 |PDFNET-41663|Problem validating digital signature|Bug|
 |PDFNET-51676|PdfEditor Extract page layers not displayed correctly|Bug|
 |PDFNET-52798|Regression: HTML to PDF: Unexpected Page Break|Bug|
-|PDFNET-53550|Text from FreeTextAnnotation is not extracted by TextFragmentAbsorber even with the option set SearchInAnnotations|Bug|
+|PDFNET-53550|Text from FreeTextAnnotation is not extracted by TextFragmentAbsorber even with the option setted SearchInAnnotations|Bug|
 |PDFNET-54671|Page.Accept(TextAbsorber) throw NullReferenceException|Bug|
-|PDFNET-56561|When page content is converted to grayscale, black elements appear on pages that should not be there|Bug|
+|PDFNET-56561|When page content is converted to grayscale, black elements appear on pages that should not be there.|Bug|
 |PDFNET-57193|Regression: XFA Form Data not filled|Bug|
 |PDFNET-51413|PDF to DOCX conversion throws System.ArgumentOutOfRangeException|Bug|
 |PDFNET-36177|PDF to TIFF conversion results in a distorted image|Bug|
@@ -73,10 +79,10 @@ This page contains release notes information for Aspose.PDF for .NET 24.6.
 |PDFNET-56999|Changing ForegroundColor of TextFragment corrupts the file|Bug|
 |PDFNET-40784|HTML to PDF - Bullets are appearing in LTR format|Bug|
 |PDFNET-45203|Issues with XPS document that contains WDP image in .NET 4 and 3.5|Bug|
-|PDFNET-50212|Issues when converting PCL to HTML/PNG/JPG|Bug|
+|PDFNET-50212|Issues when exporting PCL to PDF|Bug|
 |PDFNET-56024|Text rendered incorrectly when exporting PDF to HTML|Bug|
 |PDFNET-56947|Aspose.PDF throws when FontRepository.Sources.Clear() is called before instantiating Document|Bug|
-|PDFNET-57130|Output PNG images distorted when saving pages in separate threads|Bug|
+|PDFNET-57130|Output PNG images distorted when saving pages in a separate threads|Bug|
 
 ## Public API and Backward Incompatible Changes
 
