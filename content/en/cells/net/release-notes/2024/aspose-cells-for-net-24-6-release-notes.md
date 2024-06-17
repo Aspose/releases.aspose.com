@@ -119,7 +119,7 @@ Supports converting range to json.
 
 Show values of data field as different display format when the ShowDataAs calculation is in use.
 
-### **Adds ShowValuesSetting class and PivotField.ShowValuesSetting property**
+### **Adds PivotShowValuesSetting class and PivotField.ShowValuesSetting property**
 
 Gets the setting about "show values as".
 
@@ -133,13 +133,13 @@ Convert the range to html.
 
 ### **Adds PivotItemPositionType enum**
 
-Represents base item Next/Previous/All position in the base field .
+Represents base item Next/Previous/All position in the base field.
 
 ### **Adds PivotItem.IsFormula property**
 
 Indicates whether this pivot item is a calculuated item.
 
-### **Obsolete PivotField.DataDisplayFormat,PivotField.BaseFieldIndex,PivotFieldBaseItemPosition and PivotField.BaseItemIndex properties.**
+### **Obsolete properties of PivotFiled: DataDisplayFormat, BaseFieldIndex, BaseItemPosition and BaseItemIndex**
 
 Please use PivotField.ShowValuesAs() method and PivotField.ShowValuesSetting property instead.
 
