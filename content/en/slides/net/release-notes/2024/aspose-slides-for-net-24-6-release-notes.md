@@ -16,6 +16,7 @@ This page contains release notes for [ Aspose.Slides for .NET 24.6](https://www.
 
 {{% /alert %}}
 
+## New Features and Improvements
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
 |SLIDESNET-44551|The vertical line does not cross zero|Bug||
@@ -213,7 +214,7 @@ The following code sample shows how to highlight text using regular expression i
 using (Presentation presentation = new Presentation("pres.pptx"))
 {
     Regex regex = new Regex(@"\b[^\s]{10,}\b");
-    // highlighting all words with 10 symbols or longer
+    // highlighting all words with 10 or more characters
     ((AutoShape)presentation.Slides[0].Shapes[0]).TextFrame.HighlightRegex(regex, Color.Blue, null);
     presentation.Save("SomePresentation-out.pptx", SaveFormat.Pptx);
 }
@@ -240,7 +241,7 @@ The following code sample shows how to replace text using regular expressions:
 using (Presentation presentation = new Presentation("pres.pptx"))
 {
     Regex regex = new Regex(@"\b[^\s]{5,}\b");
-    // Replace all words with 10 symbols or longer with '***'
+    // Replace all words with 10 or more characters with '***'
     ((AutoShape)presentation.Slides[0].Shapes[0]).TextFrame.ReplaceRegex(regex, "***", null);
     presentation.Save("SomePresentation-out.pptx", SaveFormat.Pptx);
 }
@@ -258,7 +259,7 @@ using (Presentation presentation = new Presentation("pres.pptx"))
     // highlighting all separate 'the' occurrences
     presentation.HighlightText("the", Color.Violet, new TextSearchOptions() {WholeWordsOnly = true}, null);
     // highlight all 'abi' character sequences
-    presentation.HighlightText("abi", Color.RedViolet);
+    presentation.HighlightText("abi", Color.Red);
     presentation.Save("pres-out.pptx", SaveFormat.Pptx);
 }
 ```
@@ -269,7 +270,7 @@ The following code sample shows how to highlight text using regular expressions:
 using (Presentation presentation = new Presentation("pres.pptx"))
 {
     Regex regex = new Regex(@"\b[^\s]{10,}\b");
-    // highlighting all words with 10 symbols or longer
+    // highlighting all words with 10 or more characters
     presentation.HighlightRegex(regex, Color.Blue, null);
     presentation.Save("pres-out.pptx", SaveFormat.Pptx);
 }
@@ -295,8 +296,8 @@ The following code sample shows how to highlight text using regular expressions:
 ```csharp
 using (Presentation presentation = new Presentation("SomePresentation.pptx"))
 {
-    Regex regex = Regex(@"\b[^\s]{10,}\b");
-    // Replace all words with 10 symbols or longer with '***'
+    Regex regex = new Regex(@"\b[^\s]{10,}\b");
+    // Replace all words with 10 or more characters with '***'
     presentation.ReplaceRegex(regex, "***", null);
     presentation.Save("SomePresentation-out.pptx", SaveFormat.Pptx);
 }
