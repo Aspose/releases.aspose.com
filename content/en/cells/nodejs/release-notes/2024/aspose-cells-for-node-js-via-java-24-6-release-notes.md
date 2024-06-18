@@ -1,18 +1,19 @@
 ---
-id: "aspose-cells-for-java-24-6-release-notes"
-slug: "aspose-cells-for-java-24-6-release-notes"
-linktitle: "Aspose.Cells for Java 24.6 Release Notes"
-title: "Aspose.Cells for Java 24.6 Release Notes"
+id: "aspose-cells-for-node-js-via-java-24-6-release-notes"
+slug: "aspose-cells-for-node-js-via-java-24-6-release-notes"
+linktitle: "Aspose.Cells for Node.js via Java 24.6 Release Notes"
+title: "Aspose.Cells for Node.js via Java 24.6 Release Notes"
 weight: 7
-description: "Aspose.Cells for Java 24.6 Release Notes - the latest updates and fixes."
+description: "Aspose.Cells for Node.js via Java 24.6 Release Notes – the latest enhancements, new features, and fixes."
 type: "repository"
 layout: "release"
-family_listing_page_title: "Aspose.Cells for Java 24.6 Release Notes"
+family_listing_page_title: "Aspose.Cells for Node.js via Java 24.6 Release Notes"
+keywords: "Aspose.Cells for Node.js via Java 24.6 Release Notes, Aspose.Cells for Node.js via Java 24.6 updates and fixes"
 ---
 
 {{% alert color="primary" %}}
 
-This page contains release notes for [Aspose.Cells for Java 24.6](https://releases.aspose.com/cells/java/24-6/).
+This page contains release notes for [Aspose.Cells for Node.js via Java 24.6](https://releases.aspose.com/cells/nodejs/new-releases/aspose.cells-for-node.js-via-java-24.6/).
 
 {{% /alert %}}
 
@@ -70,7 +71,7 @@ Supports converting range to json.
 
 Show values of data field as different display format when the ShowDataAs calculation is in use.
 
-### **Adds PivotShowValuesSetting class and PivotField.ShowValuesSetting property**
+### **Adds ShowValuesSetting class and PivotField.ShowValuesSetting property**
 
 Gets the setting about "show values as".
 
@@ -84,13 +85,13 @@ Convert the range to html.
 
 ### **Adds PivotItemPositionType enum**
 
-Represents base item Next/Previous/All position in the base field.
+Represents base item Next/Previous/All position in the base field .
 
 ### **Adds PivotItem.IsFormula property**
 
 Indicates whether this pivot item is a calculuated item.
 
-### **Obsolete properties of PivotFiled: DataDisplayFormat, BaseFieldIndex, BaseItemPosition and BaseItemIndex**
+### **Obsolete PivotField.DataDisplayFormat,PivotField.BaseFieldIndex,PivotFieldBaseItemPosition and PivotField.BaseItemIndex properties.**
 
 Please use PivotField.ShowValuesAs() method and PivotField.ShowValuesSetting property instead.
 

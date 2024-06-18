@@ -1,24 +1,28 @@
 ---
-id: "aspose-cells-for-net-24-6-release-notes"
-slug: "aspose-cells-for-net-24-6-release-notes"
-linktitle: "Aspose.Cells for .NET 24.6 Release Notes"
-title: "Aspose.Cells for .NET 24.6 Release Notes"
+id: "aspose-cells-for-cpp-24-6-release-notes"
+slug: "aspose-cells-for-cpp-24-6-release-notes"
+linktitle: "Aspose.Cells for CPP 24.6 Release Notes"
+title: "Aspose.Cells for CPP 24.6 Release Notes"
 weight: 7
-description: "Aspose.Cells for .Net 24.6 Release Notes - the latest enhancements, new features, and fixes. "
+description: "Aspose.Cells for CPP 24.6 Release Notes – the latest enhancements, new features, and fixes."
 type: "repository"
 layout: "release"
-family_listing_page_title: "Aspose.Cells for .NET 24.6 Release Notes"
-keywords: "Aspose.Cells for .Net 24.6 Release Notes, Aspose.Cells for .Net 24.6 updates and fixes"
+family_listing_page_title: "Aspose.Cells for CPP 24.6 Release Notes"
+keywords: "Aspose.Cells for CPP 24.6 Release Notes, Aspose.Cells for CPP 24.6 updates and fixes"
 ---
 
 {{% alert color="primary" %}}
 
-This page contains release notes for [Aspose.Cells for .NET 24.6](https://www.nuget.org/packages/Aspose.Cells/24.6.0).
+This page contains release notes for Aspose.Cells for C++ 24.6.
 
 {{% /alert %}}
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
+|CELLSCPP-1079|Support getting a DocumentProperty object from BuiltInDocumentPropertyCollection by index|Improvement
+|CELLSCPP-1080|Add GetIObject to Filter classes|Improvement
+|CELLSCPP-1081|Add some new members to PivotGlobalizationSettings class|Improvement
+|CELLSCPP-1082|Support getting a FontSetting object from Title by index and length|Improvement
 |CELLSNET-55833|Added color saturation and color temperature adjustment functions for images|New Feature
 |CELLSNET-55842|Image Recoloring: Add ability to render duotones|New Feature
 |CELLSNET-55606|Support outline of the star characters in chart|New Feature
@@ -77,69 +81,69 @@ This page contains release notes for [Aspose.Cells for .NET 24.6](https://www.nu
 
 ## **Public API and Backwards Incompatible Changes**
 
-The following is a list of any changes made to the public API such as added, renamed, removed or deprecated members as well as any non-backward compatible change made to Aspose.Cells for .NET. If you have concerns about any change listed, please raise it on the Aspose.Cells support forum.
+The following is a list of any changes made to the public API such as added, renamed, removed or deprecated members as well as any non-backward compatible change made to Aspose.Cells for C++. If you have concerns about any change listed, please raise it on the Aspose.Cells support forum.
 
-### **Changes the behavior of Cells.ClearContents(CellArea)**
+### **Changes the behavior of Cells::ClearContents(CellArea)**
 
 In old versions, clearing contents will succeed even if the specified area intersects with part of existing array formula. In fact it produces corrupted formulas. From 25.6, this method will throw exception with message "Cannot change part of an array" for such situation.
 
-### **Obsoletes property Shape.IsLockAspectRatio**
+### **Obsoletes method Shape::IsLockAspectRatio()**
 
-Use Shape.IsAspectRatioLocked property instead.
+Use Shape::IsAspectRatioLocked() method instead.
 
-### **Adds Shape.IsAspectRatioLocked property**
+### **Adds Shape::IsAspectRatioLocked() method**
 
-True means that aspect ratio of the shape is locked. This property replaces the Shape.IsLockAspectRatio property.
+True means that aspect ratio of the shape is locked. This method replaces the Shape::IsLockAspectRatio() method.
 
-### **Removes obsoleted property Shape.TextFrame**
+### **Adds PivotTable::GetFields(Pivot::PivotFieldType) method and obsolete PivotTable::Fields(Pivot::PivotFieldType) method**
 
-Use Shape.TextBody.TextAlignment property instead.
+Use PivotTable::GetFields(Pivot::PivotFieldType) instead.
 
-### **Removes obsoleted property Shape.ConnectionPoints**
-
-Use Shape.GetConnectionPoints() method instead.
-
-### **Removes obsoleted method Shape.ToImage(Stream stream, ImageFormat imageFormat)**
-
-Use the Shape.ToImage(Stream stream, ImageType imageType) method instead.
-
-### **Removes obsoleted method FormatCharacters(int startIndex, int length, Font font)**
-
-Use Shape.FormatCharacters(int startIndex, int length, Font font, StyleFlag flag) method instead.
-
-### **Adds PivotTable.GetFields(Pivot.PivotFieldType) method and obsolete PivotTable.Fields(Pivot.PivotFieldType) method**
-
-Use PivotTable.GetFields(Pivot.PivotFieldType) instead.
-
-### **Adds JsonSaveOptions.ToExcelStruct property and Range.ToJson(JsonSaveOptions) method.**
+### **Adds JsonSaveOptions::ToExcelStruct method and Range::ToJson(JsonSaveOptions) method.**
 
 Supports converting range to json.
 
-### **Adds PivotField.ShowValuesAs() method**
+### **Adds PivotField::ShowValuesAs(PivotFieldDataDisplayFormat displayFormat, int32_t baseField, PivotItemPositionType baseItemPositionType, int32_t baseItem) method**
 
 Show values of data field as different display format when the ShowDataAs calculation is in use.
 
-### **Adds PivotShowValuesSetting class and PivotField.ShowValuesSetting property**
+### **Adds PivotShowValuesSetting class and PivotField::GetShowValuesSetting() method**
 
 Gets the setting about "show values as".
 
-### **Adds Range.ToImage() method**
+### **Adds Range::ToImage(const ImageOrPrintOptions& options) method**
 
 Convert the range to image.
 
-### **Adds Range.ToHtml() method**
+### **Adds Range::ToHtml(const HtmlSaveOptions& saveOptions) method**
 
 Convert the range to html.
 
 ### **Adds PivotItemPositionType enum**
 
-Represents base item Next/Previous/All position in the base field.
+Represents base item Next/Previous/All position in the base field .
 
-### **Adds PivotItem.IsFormula property**
+### **Adds PivotItem::IsFormula()/PivotItem::SetIsFormula(bool value) methods**
 
 Indicates whether this pivot item is a calculuated item.
 
-### **Obsolete properties of PivotFiled: DataDisplayFormat, BaseFieldIndex, BaseItemPosition and BaseItemIndex**
+### **Obsolete methods of PivotFiled:**
 
-Please use PivotField.ShowValuesAs() method and PivotField.ShowValuesSetting property instead.
+***GetDataDisplayFormat()***
+
+***SetDataDisplayFormat(PivotFieldDataDisplayFormat::Index)***
+
+***GetBaseFieldIndex()***
+
+***SetBaseFieldIndex(int32_t value)***
+
+***GetBaseItemPosition()***
+
+***SetBaseItemPosition(PivotItemPosition value)***
+
+***GetBaseItemIndex()***
+
+***SetBaseItemIndex(int32_t value)***
+
+Please use ***ShowValuesAs(PivotFieldDataDisplayFormat displayFormat, int32_t baseField, PivotItemPositionType baseItemPositionType, int32_t baseItem)*** method and ***GetShowValuesSetting()*** method instead.
 
