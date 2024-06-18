@@ -12,7 +12,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "198"
 homepage_package_type: "Pip"
-homepage_package_link: "https://pypi.org/project/aspose-svg/"
+homepage_package_link: "https://pypi.org/project/aspose-svg-net/"
 weight: 2
 
 ---
@@ -50,7 +50,7 @@ You can easily use  <b>aspose-svg-net</b> for Python from  {{< Common/link href=
 
 {{< ProductPageWrapper >}}
 <!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="svg" product="python" >}}
+   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="svg" product="python-net" >}}
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 
