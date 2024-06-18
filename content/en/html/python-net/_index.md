@@ -31,7 +31,7 @@ Aspose.HTML for Python via .NET is an advanced HTML manipulation API that enable
 
 ![Nuget](https://img.shields.io/nuget/v/Aspose.Html) ![Nuget](https://img.shields.io/nuget/dt/Aspose.Html?label=nuget%20downloads)
 
-[Product Page](https://products.aspose.com/html/python-net/) | [Docs](https://docs.aspose.com/html/python-net/) | [New Releases](https://releases.aspose.com/html/python-net/) | [Demos](https://products.aspose.app/html/family) | [API Reference](https://reference.aspose.com/html/python-net/) | [Examples](https://github.com/aspose-html/) | [Blog](https://blog.aspose.com/category/html/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/html/29) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+[Product Page](https://products.aspose.com/html/python-net/) | [Docs](https://docs.aspose.com/html/python-net/) | [New Releases](https://releases.aspose.com/html/python-net/) | [Demos](https://products.aspose.app/html/applications) | [API Reference](https://reference.aspose.com/html/python-net/) | [Examples](https://github.com/aspose-html/) | [Blog](https://blog.aspose.com/category/html/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/html/29) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 This Python HTML API assists developers to write, read, modify, navigate and convert (X)HTML documents from within Python applications.
 
