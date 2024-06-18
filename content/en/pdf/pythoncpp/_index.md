@@ -18,7 +18,7 @@ weight: 10
 
 {{< Common/h3 text="Download Aspose.PDF for Python via C++ library for Portable Document Format Processing"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose.PDF for Python via C++ allows developers to manipulate PDF. This "Via C++" means that library WebAssembly technology and is based on Aspose.PDF for C++ - native library for Windows/Linux/MacOS.
+Aspose.PDF for Python via C++ allows developers to manipulate PDFs with high performance and without extra dependencies. The suffix "via C++" means that the library is based on Aspose.PDF for C++, a native library for Windows, Linux, and MacOS.
 You can easily use Aspose.PDF for Python via C++ from {{< Common/link href="https://pypi.org/project/aspose-pdf-cpp-for-python" text="PIP"  >}} with the following command.
 {{< /Common/paragraph>}}
 

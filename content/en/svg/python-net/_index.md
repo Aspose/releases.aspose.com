@@ -12,7 +12,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "198"
 homepage_package_type: "Pip"
-homepage_package_link: "https://pypi.org/project/aspose-svg/"
+homepage_package_link: "https://pypi.org/project/aspose-svg-net/"
 weight: 2
 
 ---
@@ -25,7 +25,7 @@ weight: 2
 {{< Common/paragraph class="package-instructions">}}
 Aspose.SVG for Python via .NET enables creating, editing, rendering, and converting SVGs to formats like PNG, PDF, and more, excelling in image vectorization. Perfect for developing SVG tools.
 You can easily use  <b>aspose-svg-net</b> for Python from  {{< Common/link href="https://pypi.org/project/aspose-svg-net/" text="Pip"  >}} with the following command.
-{{< Common/release-notes-link family="svg" product="python" href="https://releases.aspose.com/svg/python-net/release-notes/" text="https://releases.aspose.com/svg/python-net/release-notes/"  >}}
+{{< Common/release-notes-link family="svg" product="python-net" href="https://releases.aspose.com/svg/python-net/release-notes/" text="https://releases.aspose.com/svg/python-net/release-notes/"  >}}
 
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
@@ -50,7 +50,7 @@ You can easily use  <b>aspose-svg-net</b> for Python from  {{< Common/link href=
 
 {{< ProductPageWrapper >}}
 <!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="svg" product="python" >}}
+   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="svg" product="python-net" >}}
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 

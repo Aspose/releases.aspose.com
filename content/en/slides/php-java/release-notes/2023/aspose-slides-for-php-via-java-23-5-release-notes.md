@@ -101,4 +101,4 @@ public class ForEachPortionCallbackImplementation implements ForEach_.ForEachPor
 }
 ```
 
-MAVEN project: [PHPJavaBridgeInterface]()
+MAVEN project: [PHPJavaBridgeInterface.zip](./PHPJavaBridgeInterface.zip)
