@@ -10,8 +10,8 @@ family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "8"
-homepage_package_type: "PyPi"
-homepage_package_link: "https://pypi.org/project/aspose-html-net/"
+homepage_package_type: "Pip"
+homepage_package_link: "https://pypi.org/project/aspose-html/"
 tags: ['HTML-to-Image', 'HTML-to-PDF', 'HTML-to-XPS', 'HTML-to-DOCX', 'HTML-to-MHTML', 'HTML-to-Markdown', 'HTML-to-MD', 'EPUB-to-Image', 'EPUB-to-PDF', 'EPUB-to-XPS', 'Markdown-to-HTML', 'MD-to-HTML', 'HTML-Converter', 'XHTML-to-PDF', 'MHTML-to-PDF', 'HTML-to-GIF', 'MHTML-to-JPG', 'download-website', 'website-downloader', 'download-html-image', 'download-file-from-url']
 weight:  1
 ---
@@ -20,12 +20,12 @@ weight:  1
 
 {{< Common/h2 text="Download Aspose.HTML to work with HTML files"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Html/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.HTML</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/html/net/installation/" text="Installation"  >}} documentation page.
-{{< Common/release-notes-link family="html" product="net" href="https://releases.aspose.com/html/net/release-notes/" text="https://releases.aspose.com/html/net/release-notes/"  >}}
+Aspose.HTML for Python via .NET is an advanced HTML manipulation API that enables you to perform a wide range of HTML manipulation tasks directly within your Python applications. For the detailed instructions please visit the {{< Common/link href="https://pypi.org/project/aspose-html/" text="pip"  >}} page.
+{{< Common/release-notes-link family="html" product="python-net" href="https://releases.aspose.com/html/python-net/release-notes/" text="https://releases.aspose.com/html/python-net/release-notes/"  >}}
 {{< /Common/paragraph>}}
-{{< consolebox/consoleboxwrapper id="nuget" >}}
-       {{< consolebox/spantext text="PM" >}}
-       {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.Html {{< /consolebox/textarea >}}
+{{< consolebox/consoleboxwrapper id="pip" >}}
+       {{< consolebox/spantext text=" " >}}
+       {{< consolebox/textarea id="pip" >}} pip install aspose-html {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
 
@@ -35,21 +35,21 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Html/" text="Nu
 
 This Python HTML API assists developers to write, read, modify, navigate and convert (X)HTML documents from within Python applications.
 
-## Why download Aspose.HTML for .NET?
+## Why download Aspose.HTML for Python via .NET?
 
-Aspose.HTML for .NET API works as a headless browser that allows you to create or open existing HTML documents from various sources in order to perform manipulation operations such as remove and replace HTML nodes, save HTML documents, extract CSS from HTML, configure a document sandbox and more. You may navigate HTML documents by using various methods, such as, element traversal, document traversal, XPath queries, and CSS selector queries as well as manipulate HTML DOM via JavaScript, convert HTML file to images or fixed-layout formats, and convert (X)HTML and EPUB files to other file formats.
+Aspose.HTML for Python via .NET API works as a headless browser that allows you to create or open existing HTML documents from various sources in order to perform manipulation operations such as remove and replace HTML nodes, save HTML documents, extract CSS from HTML, configure a document sandbox and more. You may navigate HTML documents by using various methods, such as, element traversal, document traversal, XPath queries, and CSS selector queries as well as manipulate HTML DOM via JavaScript, convert HTML file to images or fixed-layout formats, and convert (X)HTML and EPUB files to other file formats.
 
 It helps you create, modify, extract, copy, delete, replace and download HTML document content, extract CSS from HTML, configure a document sandbox; load, read, and manage SVG files; render MHTML and EPUB documents to supported output file formats, and perform asynchronous operations.
 
 This library supports parsing of HTML5, CSS3, SVG and HTML Canvas to construct a Document Object Model (DOM) based on the WHATWG DOM Standard. Insert, remove, and edit the nodes. You can navigate HTML documents by using various methods, such as element traversal, document traversal, XPath queries, and CSS selector queries as well as manipulate HTML DOM via JavaScript.
 
-Aspose.HTML for .NET offers comprehensive format conversion support using which your applications can convert from HTML, SVG, EPUB, MHTML, and Markdown to various supported formats. You can also populate an HTML template from XML or JSON data sources. Aspose.HTML can easily work with large and complex HTML-documents.
+Aspose.HTML for Python via .NET offers comprehensive format conversion support using which your applications can convert from HTML, SVG, EPUB, MHTML, and Markdown to various supported formats. You can also populate an HTML template from XML or JSON data sources. Aspose.HTML can easily work with large and complex HTML-documents.
 
-The classes and properties of Aspose.HTML for .NET API have similar names as that of W3C HTML specification.
+The classes and properties of Aspose.HTML for Python via .NET API have similar names as that of W3C HTML specification.
 
 ## HTML Processing API Features
 
-- Convert HTML to many popular formats including PDF, XPS and images.
+- Convert HTML to many popular formats including PDF, XPS, DOCX and images.
 - Load & convert SVG & EPUB to XPS, PDF and images.
 - Navigate through document either by NodeIterator or TreeWalker.
 - Control the timeout of the rendering process.
