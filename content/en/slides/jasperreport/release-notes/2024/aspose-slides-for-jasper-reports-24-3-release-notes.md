@@ -18,4 +18,4 @@ This page contains release notes for [Aspose.Slides for Jasper Reports 24.3](htt
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|SLIDESJR-33444|[Use Aspose.Slides for Java 24.3 features](/slides/java/release-notes/2023/aspose-slides-for-java-24-3-release-notes/)|Enhancement|
+|SLIDESJR-33444|[Use Aspose.Slides for Java 24.3 features](/slides/java/release-notes/2024/aspose-slides-for-java-24-3-release-notes/)|Enhancement|
