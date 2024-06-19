@@ -58,13 +58,13 @@ _No changes._
 
 The following public APIs have been changed in Aspose.OCR for .NET 24.6.0 release:
 
-#### `Aspose.OCR.Language` enumeration
+#### `Aspose.OCR.Country` enumeration
 
 {{% alert color="info" %}}
 **Compatibility: fully backward compatible.**
 {{% /alert %}}
 
-The following values have been added to `Aspose.OCR.Language` enumeration:
+The following values have been added to `Aspose.OCR.Country` enumeration:
 
 Value | Country
 ----- | -------

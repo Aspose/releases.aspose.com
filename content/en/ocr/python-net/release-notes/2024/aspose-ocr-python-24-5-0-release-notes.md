@@ -28,7 +28,7 @@ This article contains a summary of recent changes, enhancements and bug fixes in
 ## Deprecation warning
 
 {{% alert color="caution" %}}
-The release 24.5.0 updates the codes of some recognition languages to align with ISO 639-2 standard.
+The release 24.3.0 updates the codes of some recognition languages to align with ISO 639-2 standard.
 
 To make it easier to upgrade your code, we have kept all legacy values, but marked them as deprecated. All of your existing code will continue to work and you can even make minor updates to it, but be aware that all deprecated language codes are scheduled to be removed in release **25.1.0 (January 2025)**.
 
@@ -52,7 +52,7 @@ OCRPY&#8209;69 | Fixed character bounding boxes detection. | Fix
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OCR for .NET 24.5.0** that may affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OCR for Python via .NET 24.5.0** that may affect the code of existing applications.
 
 ### Added public APIs:
 
