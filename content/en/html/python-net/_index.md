@@ -1,35 +1,35 @@
 ---
-title: "Download Python Library to Process CSS & HTML | Aspose.HTML API"
-description: "Download Python Class Library to read, modify, navigate, convert & download website XHTML, HTML files via on-premise Python API. Supports parsing of HTML5, CSS3, SVG & HTML Canvas."
-keywords: "HTML Library Python"
-linktitle: "Aspose.HTML for Python via .NET"
-family_listing_page_title: "Aspose.HTML for Python via .NET"
-family_listing_page_description: "Aspose.HTML for Python via .NET is an advanced HTML manipulation API that enables you to perform a wide range of HTML manipulation tasks directly within your Python applications."
-family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/272x272/aspose_html-for-net.png"
-family_listing_page_selfHosted: "1"
-family_listing_page_type: "1"
-family_listing_page_venture: "4"
-family_listing_page_package: "8"
-homepage_package_type: "Pip"
-homepage_package_link: "https://pypi.org/project/aspose-html/"
-tags: ['HTML-to-Image', 'HTML-to-PDF', 'HTML-to-XPS', 'HTML-to-DOCX', 'HTML-to-MHTML', 'HTML-to-Markdown', 'HTML-to-MD', 'EPUB-to-Image', 'EPUB-to-PDF', 'EPUB-to-XPS', 'Markdown-to-HTML', 'MD-to-HTML', 'HTML-Converter', 'XHTML-to-PDF', 'MHTML-to-PDF', 'HTML-to-GIF', 'MHTML-to-JPG', 'download-website', 'website-downloader', 'download-html-image', 'download-file-from-url']
-weight:  1
+
+title: "Aspose.HTML for Python via .NET"
+description:  "Download Python Class Library to read, modify, navigate, convert & download website XHTML, HTML files via on-premise Python API. Supports parsing of HTML5, CSS3, SVG & HTML Canvas."
+keywords:  "HTML Library Python"
+family_listing_page_title:  "Aspose.HTML for Python via .NET"
+family_listing_page_description:  "Download Python Library to Process CSS & HTML | Aspose.HTML API"
+family_listing_page_iconurl:  "https://products.aspose.com/html/images/aspose_html-for-python-net.svg"
+weight: 30
+
 ---
 
+{{< dbToolbar link="https://forum.aspose.com/c/html/29" linktext="Support Forum" >}}
+
+{{< ProductPageWrapper >}}
+<!-- ProductPageContent-->
+{{< Common/wrapper class="col-md-12" >}}
+{{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< dbToolbar link="https://forum.aspose.com/c/html/29" linktext=" Support Forum " >}}
 
 {{< Common/h2 text="Download Aspose.HTML to work with HTML files"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.HTML for Python via .NET is an advanced HTML manipulation API that enables you to perform a wide range of HTML manipulation tasks directly within your Python applications. For the detailed instructions please visit the {{< Common/link href="https://pypi.org/project/aspose-html/" text="pip"  >}} page.
+
 {{< Common/release-notes-link family="html" product="python-net" href="https://releases.aspose.com/html/python-net/release-notes/" text="https://releases.aspose.com/html/python-net/release-notes/"  >}}
+
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}
        {{< consolebox/textarea id="pip" >}} pip install aspose-html {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
-
-![Nuget](https://img.shields.io/nuget/v/Aspose.Html) ![Nuget](https://img.shields.io/nuget/dt/Aspose.Html?label=nuget%20downloads)
 
 [Product Page](https://products.aspose.com/html/python-net/) | [Docs](https://docs.aspose.com/html/python-net/) | [New Releases](https://releases.aspose.com/html/python-net/) | [Demos](https://products.aspose.app/html/applications) | [API Reference](https://reference.aspose.com/html/python-net/) | [Examples](https://github.com/aspose-html/) | [Blog](https://blog.aspose.com/category/html/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/html/29) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
@@ -86,4 +86,13 @@ EPUB
    {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="html" product="python-net" >}}
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
+{{< /ProductPageWrapper >}}
+{{< /Common/wrapper >}}
+{{< /Common/wrapper >}}
+<!-- /ProductPageContent-->
+
+<!-- ReleasesListProductPage-->
+{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="html" product="python-net" >}}
+<!-- /ReleasesListProductPage-->
+
 {{< /ProductPageWrapper >}}
