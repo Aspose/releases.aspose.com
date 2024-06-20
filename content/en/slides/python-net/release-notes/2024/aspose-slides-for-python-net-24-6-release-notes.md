@@ -10,11 +10,11 @@ layout: "release"
 family_listing_page_title: "Aspose.Slides for Python via .NET 24.6 Release Notes"
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This page contains release notes for [Aspose.Slides for Python via .NET 24.6](https://pypi.org/project/Aspose.Slides/24.6/)
 
-{{% /alert %}} 
+{{% /alert %}}
 
 ## New Features and Enhancements
 |**Key**|**Summary**|**Category**|**Related Documentation**|
@@ -31,7 +31,7 @@ This page contains release notes for [Aspose.Slides for Python via .NET 24.6](ht
 
 ### ITextSearchOptions interface and TextSearchOptions class has been added
 
-The new interface [`ITextSearchOptions`](https://reference.aspose.com/slides/python-net/aspose.slides/itextsearchoptions/) and class [`TextSearchOptions`](https://reference.aspose.com/slides/python-net/aspose.slides/textsearchoptions/), represent options that can be used to search for text in a [`Presentation`](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/), [`Slide`](https://reference.aspose.com/slides/python-net/aspose.slides/slide/) or [`TextFrame`](https://reference.aspose.com/slides/python-net/aspose.slides/textframe/).
+The new interface, [`ITextSearchOptions`](https://reference.aspose.com/slides/python-net/aspose.slides/itextsearchoptions/), represents options that can be used to search for text in a [`Presentation`](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/), [`Slide`](https://reference.aspose.com/slides/python-net/aspose.slides/slide/) or [`TextFrame`](https://reference.aspose.com/slides/python-net/aspose.slides/textframe/).
 
 Example:
 ```python
@@ -105,7 +105,7 @@ import aspose.slides as slides
 
 with slides.Presentation("pres.pptx") as presentation:
     # Replace all words with 5 or more characters with '***'
-	presentation.slides[0].shapes[0].text_frame.replace_regex(r"\b[^\s]{5,}\b", "***")
+    presentation.slides[0].shapes[0].text_frame.replace_regex(r"\b[^\s]{5,}\b", "***")
 
     presentation.save("SomePresentation-out.pptx", slides.export.SaveFormat.PPTX)
 ```
@@ -125,12 +125,12 @@ with slides.Presentation("pres.pptx") as presentation:
     text_search_options.whole_words_only = True
 
     # highlighting all separate 'the' occurrences
-    presentation.highlight_text("the", drawing.Color.violet, text_search_options, None);
+    presentation.highlight_text("the", drawing.Color.violet, text_search_options, None)
 
     # highlight all 'abi' character sequences
-    presentation.highlight_text("abi", drawing.Color.red);
+    presentation.highlight_text("abi", drawing.Color.red)
 
-    presentation.save("pres-out.pptx", slides.export.SaveFormat.PPTX);
+    presentation.save("pres-out.pptx", slides.export.SaveFormat.PPTX)
 ```
 
 The following code sample shows how to highlight text using regular expressions:
@@ -189,7 +189,7 @@ import aspose.slides as slides
 with slides.Presentation("pres.pptx") as pres:
     options = slides.export.RenderingOptions()
     options.gradient_style = slides.GradientStyle.POWER_POINT_UI
-	img = pres.slides[0].get_image(options, 2, 2)
+    img = pres.slides[0].get_image(options, 2, 2)
 ```
 
 ### Methods have been marked as obsolete
