@@ -29,9 +29,9 @@ This page contains release notes for [Aspose.Slides for Python via .NET 24.6](ht
 
 ## Public API Changes
 
-### TextSearchOptions class has been added
+### ITextSearchOptions interface and TextSearchOptions class has been added
 
-The new class, [`TextSearchOptions`](https://reference.aspose.com/slides/python-net/aspose.slides/textsearchoptions/), represents options that can be used to search for text in a [`Presentation`](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/), [`Slide`](https://reference.aspose.com/slides/python-net/aspose.slides/slide/) or [`TextFrame`](https://reference.aspose.com/slides/python-net/aspose.slides/textframe/).
+The new interface [`ITextSearchOptions`](https://reference.aspose.com/slides/python-net/aspose.slides/itextsearchoptions/) and class [`TextSearchOptions`](https://reference.aspose.com/slides/python-net/aspose.slides/textsearchoptions/), represent options that can be used to search for text in a [`Presentation`](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/), [`Slide`](https://reference.aspose.com/slides/python-net/aspose.slides/slide/) or [`TextFrame`](https://reference.aspose.com/slides/python-net/aspose.slides/textframe/).
 
 Example:
 ```python
@@ -45,11 +45,11 @@ with slides.Presentation("pres.pptx") as presentation:
     presentation.save("pres-out.pptx", slides.export.SaveFormat.PPTX)
 ```
 
-### TextFrame.highlight_text() method has been added
+### ITextFrame.highlight_text() and ITextFrame.highlight_regex() methods have been added
 
-New method [`hightlight_text`](https://reference.aspose.com/slides/python-net/aspose.slides/textframe/highlight_text/#str-asposepydrawingcolor-itextsearchoptions-ifindresultcallback) has been added to the [`TextFrame`](https://reference.aspose.com/slides/python-net/aspose.slides/textframe/) class
+New methods [`hightlight_text`](https://reference.aspose.com/slides/python-net/aspose.slides/itextframe/highlight_text/#str-asposepydrawingcolor-itextsearchoptions-ifindresultcallback) and [`highlight_regex`](https://reference.aspose.com/slides/python-net/aspose.slides/itextframe/highlight_regex/#str-asposepydrawingcolor) have been added to the [`ITextFrame`](https://reference.aspose.com/slides/python-net/aspose.slides/itextframe/) interface and the [`TextFrame`](https://reference.aspose.com/slides/python-net/aspose.slides/textframe/) class.
 
-The following code sample shows how to highlight text in a TextFrame:
+The following code sample shows how to highlight text in a [`TextFrame`](https://reference.aspose.com/slides/python-net/aspose.slides/textframe/):
 
 ```python
 import aspose.slides as slides
@@ -68,16 +68,29 @@ with slides.Presentation("pres.pptx") as presentation:
     presentation.save("pres-out2.pptx", slides.export.SaveFormat.PPTX)
 ```
 
-### TextFrame.replace_text() method has been added
+The following code sample shows how to highlight text using regular expression in a [`TextFrame`](https://reference.aspose.com/slides/python-net/aspose.slides/textframe/):
 
-New methods [`replace_text`](https://reference.aspose.com/slides/python-net/aspose.slides/textframe/replace_text/#str-str-itextsearchoptions-ifindresultcallback) has been added to the [`TextFrame`](https://reference.aspose.com/slides/python-net/aspose.slides/textframe/) class.
+```python
+import aspose.slides as slides
+import aspose.pydrawing as drawing
+
+with slides.Presentation("pres.pptx") as presentation:
+    # highlighting all words with 10 or more characters
+    presentation.slides[0].shapes[0].text_frame.highlight_regex(r"\b[^\s]{10,}\b", drawing.Color.blue)
+
+    presentation.save("SomePresentation-out.pptx", slides.export.SaveFormat.PPTX)
+```
+
+### ITextFrame.replace_text() and ITextFrame.replace_regex() methods have been added
+
+New methods [`replace_text`](https://reference.aspose.com/slides/python-net/aspose.slides/itextframe/replace_text/#str-str-itextsearchoptions-ifindresultcallback) and [`replace_regex`](https://reference.aspose.com/slides/python-net/aspose.slides/itextframe/replace_regex/#str-str) have been added to the [`ITextFrame`](https://reference.aspose.com/slides/python-net/aspose.slides/itextframe/) interface and the [`TextFrame`](https://reference.aspose.com/slides/python-net/aspose.slides/textframe/) class.
 
 The following code sample shows how to replace a specified string with another specified string:
 
 ```python
 import aspose.slides as slides
 
-with slides.Presentation("SomePresentation.pptx") as presentation:
+with slides.Presentation("pres.pptx") as presentation:
     text_search_options = slides.TextSearchOptions()
     text_search_options.whole_words_only = True
 
@@ -85,9 +98,21 @@ with slides.Presentation("SomePresentation.pptx") as presentation:
     presentation.save("SomePresentation-out2.pptx", slides.export.SaveFormat.PPTX)
 ```
 
-### Presentation.highlight_text() has been added
+The following code sample shows how to replace text using regular expression:
 
-New method [`highlight_text`](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/highlight_text/#str-asposepydrawingcolor-itextsearchoptions-ifindresultcallback) has been added to the [`Presentation`](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class.
+```python
+import aspose.slides as slides
+
+with slides.Presentation("pres.pptx") as presentation:
+    # Replace all words with 5 or more characters with '***'
+	presentation.slides[0].shapes[0].text_frame.replace_regex(r"\b[^\s]{5,}\b", "***")
+
+    presentation.save("SomePresentation-out.pptx", slides.export.SaveFormat.PPTX)
+```
+
+### IPresentation.highlight_text() and IPresentation.highlight_regex() methods have been added
+
+New methods [`highlight_text`](https://reference.aspose.com/slides/python-net/aspose.slides/ipresentation/highlight_text/#str-asposepydrawingcolor-itextsearchoptions-ifindresultcallback) and [`highlight_regex`](https://reference.aspose.com/slides/python-net/aspose.slides/ipresentation/highlight_regex/#str-asposepydrawingcolor) have been added to the [`IPresentation`](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) interface and the [`Presentation`](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class.
 
 The following code sample shows to highlight text in a PowerPoint Presentation:
 
@@ -103,14 +128,27 @@ with slides.Presentation("pres.pptx") as presentation:
     presentation.highlight_text("the", drawing.Color.violet, text_search_options, None);
 
     # highlight all 'abi' character sequences
-    presentation.highlight_text("abi", drawing.Color.red_violet);
+    presentation.highlight_text("abi", drawing.Color.red);
 
     presentation.save("pres-out.pptx", slides.export.SaveFormat.PPTX);
 ```
 
-### Presentation.replace_text() method has been added
+The following code sample shows how to highlight text using regular expressions:
 
-New method [`replace_text`](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/replace_text/) has been added to the [`Presentation`](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class.
+```python
+import aspose.slides as slides
+import aspose.pydrawing as drawing
+
+with slides.Presentation("pres.pptx") as presentation:
+    # highlighting all words with 10 or more characters
+    presentation.highlight_regex(r"\b[^\s]{10,}\b", drawing.Color.blue)
+
+    presentation.save("pres-out.pptx", slides.export.SaveFormat.PPTX)
+```
+
+### IPresentation.replace_text() and IPresentation.replace_regex() method have been added
+
+New methods [`replace_text`](https://reference.aspose.com/slides/python-net/aspose.slides/ipresentation/replace_text/#str-str-itextsearchoptions-ifindresultcallback) and [`replace_regex`](https://reference.aspose.com/slides/python-net/aspose.slides/ipresentation/replace_regex/#str-str) have been added to the [`IPresentation`](https://reference.aspose.com/slides/python-net/aspose.slides/ipresentation/) interface and the [`Presentation`](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class.
 
 The following code sample shows how to replace a specified string with another specified string:
 
@@ -125,9 +163,21 @@ with slides.Presentation("SomePresentation.pptx") as presentation:
     presentation.save("SomePresentation-out2.pptx", slides.export.SaveFormat.PPTX)
 ```
 
-### SaveOptions.gradient_style property has been added
+The following code sample shows how to replace text using regular expressions:
 
-A new property [`gradient_style`](https://reference.aspose.com/slides/python-net/aspose.slides.export/saveoptions/gradient_style/) has been added to [`SaveOptions`](https://reference.aspose.com/slides/python-net/aspose.slides.export/saveoptions/) class. It allows users to change the visual rendering style of a two-color gradient.
+```python
+import aspose.slides as slides
+
+with slides.Presentation("SomePresentation.pptx") as presentation:
+    # Replace all words with 10 or more characters with '***'
+    presentation.replace_regex(r"\b[^\s]{10,}\b", "***")
+
+    presentation.save("SomePresentation-out.pptx", slides.export.SaveFormat.PPTX)
+```
+
+### ISaveOptions.gradient_style property has been added
+
+A new property [`gradient_style`](https://reference.aspose.com/slides/python-net/aspose.slides.export/isaveoptions/gradient_style/) has been added to [`ISaveOptions`](https://reference.aspose.com/slides/python-net/aspose.slides.export/isaveoptions/) interface. It allows users to change the visual rendering style of a two-color gradient.
 Two options are available:
  * GradientStyle.DEFAULT - renders the gradient similarly to how it appears when exporting a presentation to an image using PowerPoint.
  * GradientStyle.POWER_POINT_UI - renders the two-color gradient according to its appearance in the PowerPoint user interface.
@@ -146,9 +196,14 @@ with slides.Presentation("pres.pptx") as pres:
 
 The following methods have been marked as obsolete and will be removed in version 24.10.
 
+* [ITextFrame.highlight_text(text, highlight_color, options)](https://reference.aspose.com/slides/python-net/aspose.slides/itextframe/highlight_text/#str-asposepydrawingcolor-itexthighlightingoptions)
+* [ITextFrame.highlight_regex(regex, highlight_color, options)](https://reference.aspose.com/slides/python-net/aspose.slides/itextframe/highlight_regex/#str-asposepydrawingcolor-itexthighlightingoptions)
 * [TextFrame.highlight_text(text, highlight_color, options)](https://reference.aspose.com/slides/python-net/aspose.slides/textframe/highlight_text/#str-asposepydrawingcolor-itexthighlightingoptions)
 * [TextFrame.highlight_regex(regex, highlight_color, options)](https://reference.aspose.com/slides/python-net/aspose.slides/textframe/highlight_regex/#str-asposepydrawingcolor-itexthighlightingoptions)
 
-### Class have been marked as obsolete
+### Intefaces and classes have been marked as obsolete
 
-The [`TextHighlightingOptions`](https://reference.aspose.com/slides/python-net/aspose.slides/texthighlightingoptions/) class have been marked as obsolete and will be removed in version 24.10.
+The following interfaces and classes have been marked as obsolete and will be removed in version 24.10.
+
+* [ITextHighlightingOptions](https://reference.aspose.com/slides/python-net/aspose.slides/itexthighlightingoptions/)
+* [TextHighlightingOptions](https://reference.aspose.com/slides/python-net/aspose.slides/texthighlightingoptions/)
