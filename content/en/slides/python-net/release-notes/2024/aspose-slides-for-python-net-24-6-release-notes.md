@@ -10,11 +10,11 @@ layout: "release"
 family_listing_page_title: "Aspose.Slides for Python via .NET 24.6 Release Notes"
 ---
 
-{{% alert color="primary" %}}
+{{% alert color="primary" %}} 
 
 This page contains release notes for [Aspose.Slides for Python via .NET 24.6](https://pypi.org/project/Aspose.Slides/24.6/)
 
-{{% /alert %}}
+{{% /alert %}} 
 
 ## New Features and Enhancements
 |**Key**|**Summary**|**Category**|**Related Documentation**|
@@ -29,7 +29,7 @@ This page contains release notes for [Aspose.Slides for Python via .NET 24.6](ht
 
 ## Public API Changes
 
-### ITextSearchOptions interface and TextSearchOptions class has been added
+### ITextSearchOptions interface has been added
 
 The new interface, [`ITextSearchOptions`](https://reference.aspose.com/slides/python-net/aspose.slides/itextsearchoptions/), represents options that can be used to search for text in a [`Presentation`](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/), [`Slide`](https://reference.aspose.com/slides/python-net/aspose.slides/slide/) or [`TextFrame`](https://reference.aspose.com/slides/python-net/aspose.slides/textframe/).
 
