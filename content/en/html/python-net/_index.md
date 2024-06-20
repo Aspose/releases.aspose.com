@@ -5,13 +5,12 @@ keywords: "HTML Library Python"
 linktitle: "Aspose.HTML for Python via .NET"
 family_listing_page_title: "Aspose.HTML for Python via .NET"
 family_listing_page_description: "Aspose.HTML for Python via .NET is an advanced HTML manipulation API that enables you to perform a wide range of HTML manipulation tasks directly within your Python applications."
-family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/272x272/aspose_html-for-net.png"
+family_listing_page_iconurl: "https://products.aspose.com/html/images/aspose_html-for-python-net.svg"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
 family_listing_page_venture: "4"
-family_listing_page_package: "8"
 homepage_package_type: "Pip"
-homepage_package_link: "https://pypi.org/project/aspose-html/"
+homepage_package_link: "https://pypi.org/project/aspose-html-net/"
 tags: ['HTML-to-Image', 'HTML-to-PDF', 'HTML-to-XPS', 'HTML-to-DOCX', 'HTML-to-MHTML', 'HTML-to-Markdown', 'HTML-to-MD', 'EPUB-to-Image', 'EPUB-to-PDF', 'EPUB-to-XPS', 'Markdown-to-HTML', 'MD-to-HTML', 'HTML-Converter', 'XHTML-to-PDF', 'MHTML-to-PDF', 'HTML-to-GIF', 'MHTML-to-JPG', 'download-website', 'website-downloader', 'download-html-image', 'download-file-from-url']
 weight:  1
 ---
@@ -20,14 +19,14 @@ weight:  1
 
 {{< Common/h2 text="Download Aspose.HTML to work with HTML files"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Aspose.HTML for Python via .NET is an advanced HTML manipulation API that enables you to perform a wide range of HTML manipulation tasks directly within your Python applications. For the detailed instructions please visit the {{< Common/link href="https://pypi.org/project/aspose-html/" text="pip"  >}} page.
+Aspose.HTML for Python via .NET is an advanced HTML manipulation API that enables you to perform a wide range of HTML manipulation tasks directly within your Python applications. For the detailed instructions please visit the {{< Common/link href="https://pypi.org/project/aspose-html-net/" text="pip"  >}} page.
 
 {{< Common/release-notes-link family="html" product="python-net" href="https://releases.aspose.com/html/python-net/release-notes/" text="https://releases.aspose.com/html/python-net/release-notes/"  >}}
 
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
        {{< consolebox/spantext text=" " >}}
-       {{< consolebox/textarea id="pip" >}} pip install aspose-html {{< /consolebox/textarea >}}
+       {{< consolebox/textarea id="pip" >}} pip install aspose-html-net {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
 
