@@ -546,3 +546,7 @@ rewrite ^/ocr/net/resources/$ https://releases.aspose.com/ocr/net/ permanent;
 rewrite ^/ocr/net/total$ https://releases.aspose.com/ocr/net/ permanent;
 rewrite ^/page/net/total$ https://releases.aspose.com/page/net/ permanent;
 rewrite ^/pdf/ava/release-notes/$ https://releases.aspose.com/pdf/java/release-notes/ permanent;
+
+# New redirects added on 21th June 2024
+rewrite ^/svg/python/release-notes/2024/aspose-svg-python-via-dotnet-24-6-release-notes/$ https://releases.aspose.com/svg/python-net/release-notes/2024/aspose-svg-python-via-dotnet-24-6-release-notes/ pemanent;
+
