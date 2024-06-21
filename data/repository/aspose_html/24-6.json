@@ -3,6 +3,10 @@
   "artifactId" : "aspose-html",
   "id" : "24-6",
   "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-html-24.6-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
     "size" : "32 MB",
     "name" : "aspose-html-24.6-jdk1.8.jar",
     "classifier" : "jdk1.8"
@@ -10,6 +14,10 @@
     "size" : "32 MB",
     "name" : "aspose-html-24.6-jdk11.jar",
     "classifier" : "jdk11"
+  }, {
+    "size" : "32 MB",
+    "name" : "aspose-html-24.6-jdk17.jar",
+    "classifier" : "jdk17"
   }, {
     "size" : "32 MB",
     "name" : "aspose-html-24.6-jdk8.jar",
@@ -21,7 +29,7 @@
     "size" : "394 bytes",
     "name" : "aspose-html-24.6.pom"
   } ],
-  "releasehDate" : "2024-06-21T20:01:58+00:00",
+  "releasehDate" : "2024-06-21T20:03:02+00:00",
   "version" : "24.6",
   "ReleaseNotes" : "https://releases.aspose.com/html/java/release-notes/2024/aspose-html-for-java-24-6-release-notes/"
 }
