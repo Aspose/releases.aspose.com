@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.page-for-.net-24.4"
-description: " "
+title: "Broader .NET Support for XPS Apps - Aspose.Page 24.4 (MSI)"
+description: "Simplify your development workflow by leveraging .NET Core 2.0 and .NET 7 support with Aspose.Page for .NET 24.4 on Windows. Download MSI installer now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/page/net/new-releases/aspose.page-for-.net-24.4/"
@@ -45,6 +45,30 @@ weight: 149
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Page for .NET 24.4 release Windows installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+We are glad to announce the release of Aspose.Page for .NET 24.4 (MSI). This version includes .NET Core 2.0 and .NET 7 support, expanding your compatibility and integration across multiple frameworks. 
+
+### Broader .NET Framework Support
+
+.NET developers can now easily integrate with .NET Core 2.0 and .NET 7 and experience greater flexibility, eliminating the need for `System.Drawing` dependency for your XPS manipulation apps running on the Windows platform.
+
+### Streamlined Development
+
+By removing the `System.Drawing` dependency, this release simplifies application development and reduces potential compatibility issues for your C# and VB.NET apps.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Page for .NET 24.4 Release Notes](https://releases.aspose.com/page/net/release-notes/2024/aspose-page-for-net-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

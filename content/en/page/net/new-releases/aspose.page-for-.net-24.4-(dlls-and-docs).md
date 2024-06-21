@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.page-for-.net-24.4-(dlls-and-docs)"
-description: " "
+title: "Broader .NET Support for XPS Apps - Aspose.Page 24.4 (DLLs)"
+description: "Streamline your development workflow by leveraging .NET Core 2.0 & .NET 7 support with Aspose.Page .NET 24.4 on Windows. Download DLLs package now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/page/net/new-releases/aspose.page-for-.net-24.4-(dlls-and-docs)/"
@@ -43,8 +43,32 @@ weight: 148
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/page/net/release-notes/2024/aspose-page-for-net-24-4-release-notes/'>https://releases.aspose.com/page/net/release-notes/2024/aspose-page-for-net-24-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">We are pleased to announce a new version of Aspose.Page for .Net.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Page for .NET 24.4 release (DLLs and docs).</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+We are thrilled to announce the release of Aspose.Page for .NET 24.4 (DLLs and Docs package), offering valuable enhancements for your .NET projects.
+
+### Improved Framework Compatibility
+
+Developers can now integrate with .NET Core 2.0 and .NET 7 and experience broader flexibility, removing the `System.Drawing` dependency for their XPS manipulation apps on any platform.
+
+### Simplified Development Process
+
+We have removed the `System.Drawing` dependency in this release, which simplifies application development and reduces any compatibility issues for your C# and VB.NET applications.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Page for .NET 24.4 Release Notes](https://releases.aspose.com/page/net/release-notes/2024/aspose-page-for-net-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
