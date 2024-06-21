@@ -4,7 +4,7 @@ slug: "aspose-html-for-net-24-6-release-notes"
 linktitle: "Aspose.HTML for .NET 24.6 Release Notes"
 title: "Aspose.HTML for .NET 24.6 Release Notes"
 weight: 70
-description: "In this release, we have improved conversion to PDF and Jpeg formats, improved font processing and HTML tables, and Markdown format"
+description: "In this release, we have updated the algorithm for detecting document encoding in accordance with the latest documentation. We have also fixed many problems with splitting, rendering and parsing HTML documents. In addition, improved processing of font naming tables has been implemented, which has significantly improved the quality of text rendering."
 type: "repository"
 layout: "release"
 hideChildren: false
@@ -18,7 +18,9 @@ This page contains release notes information for Aspose.HTML for .NET 24.6.
 
 As per the regular monthly update process of all APIs being offered by Aspose, we are honored to announce the June release of Aspose.HTML for .NET.
 
-In this release, we have improved conversion to PDF and Jpeg formats, improved font processing and HTML tables, and Markdown format 
+In this release, we have updated the algorithm for detecting document encoding in accordance with the latest documentation. We have also fixed many problems with splitting, rendering and parsing HTML documents. In addition, improved processing of font naming tables has been implemented, which has significantly improved the quality of text rendering.
+
+We are postponing changes to our public signatures related to improving Linux support and removing the use of System.Drawing.Common until release 24.8.0.
 
 
 ## **Improvements and Changes**
