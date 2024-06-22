@@ -3,7 +3,7 @@ id: "aspose-html-for-java-24-5-release-notes"
 slug: "aspose-html-for-java-24-5-release-notes"
 linktitle: "Aspose.HTML for Java 24.5 Release Notes"
 title: "Aspose.HTML for Java 24.5 Release Notes"
-weight: 65
+weight: 60
 description: "This article contains release notes information for Aspose.HTML for .Java 24.5."
 type: "repository"
 layout: "release"
