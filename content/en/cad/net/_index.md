@@ -18,7 +18,7 @@ weight:  1
 
 {{< dbToolbar link="https://forum.aspose.com/c/cad" linktext=" Support Forum " >}}
 
-{{< Common/h2 text="Download Aspose.CAD SDK 24.5 to Process CAD and BIM Files"  >}}
+{{< Common/h2 text="Download Aspose.CAD SDK 24.6 to Process CAD and BIM Files"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Open {{< Common/link href="https://www.nuget.org/packages/Aspose.CAD/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.CAD</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/cad/net/installation/" text="Installation"  >}} documentation page.
 {{< Common/release-notes-link family="cad" product="net" href="https://releases.aspose.com/cad/net/release-notes/" text="https://releases.aspose.com/cad/net/release-notes/"  >}}
@@ -33,13 +33,13 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.CAD/" text="NuG
 
 [Product Page](https://products.aspose.com/cad/net/) | [Docs](https://docs.aspose.com/cad/net/) | [Demos](https://products.aspose.app/cad/family) | [API Reference](https://reference.aspose.com/cad/net/) | [Examples](https://github.com/aspose-cad/Aspose.CAD-for-.NET) | [Blog](https://blog.aspose.com/category/cad/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cad) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
-Aspose.CAD for .NET is a standalone class library to enhance ASP.NET & Windows applications to process & render CAD drawings without requiring AutoCAD or any other rendering workflow. The CAD Class Library allows high-quality conversion of DWG, DXF, DRACO(DRC), DGN, DWF, DWFx, IFC, IGS(IGES), STL, DWT, FBX, PLT, CF2, OBJ, 3DS, STP, DXB, U3D, COLLADA(DAE), STEP(STP), CGM, GLB, GLTF files, layouts, and layers to PDF & raster image formats.
+Aspose.CAD for .NET is a standalone class library to enhance ASP.NET & Windows applications to process & render CAD drawings without requiring AutoCAD or any other rendering workflow. The CAD Class Library allows high-quality conversion of __CAD_FILES__ files, layouts, and layers to PDF & raster image formats.
 
 ## Why download Aspose.CAD for .NET?
 
 Aspose.CAD for .NET is a cross-platform library that seamlessly integrates; rendering, editing, reporting, and conversion capabilities for AutoCAD, and other CAD & BIM drawings into your own .NET Apps, without the need to install any 3rd party software.
 
-It enables your C#, VB.NET, ASP.NET applications to work with plain plots, 3D solids, wired models, basic cube positions, 3D faces, surfaces, and meshes within DWG, DXF, DWF, and DGN file formats. Other supported formats include DWG, DXF, DRACO(DRC), DGN, DWF, DWFx, IFC, IGS(IGES), STL, DWT, FBX, PLT, CF2, OBJ, 3DS, STP, DXB, U3D, COLLADA(DAE), STEP(STP), CGM, GLB, GLTF, and OBJ which can be exported to a variety of vector formats, such as; SVG, WMF, PDF as well as raster image formats (BMP, JP2, GIF, PSD, JPEG, TIF, PNG, etc.). You can also convert AutoCAD files to high-quality PDF, other vector formats, or raster images while tracking the file conversion process. Aspose.CAD for .NET also allows developers to select and convert specific layouts and layers.
+It enables your C#, VB.NET, ASP.NET applications to work with plain plots, 3D solids, wired models, basic cube positions, 3D faces, surfaces, and meshes within DWG, DXF, DWF, and DGN file formats. Other supported formats include __CAD_FILES__, and OBJ which can be exported to a variety of vector formats, such as; SVG, WMF, PDF as well as raster image formats (BMP, JP2, GIF, PSD, JPEG, TIF, PNG, etc.). You can also convert AutoCAD files to high-quality PDF, other vector formats, or raster images while tracking the file conversion process. Aspose.CAD for .NET also allows developers to select and convert specific layouts and layers.
 
 > Aspose.CAD for .NET supports Windows, Linux, Android, and iOS operating systems (32-bit and 64-bit). It could be integrated into your .NET infrastructure with .NET Core, Xamarin, Mono, or via classic .NET Framework.
 
