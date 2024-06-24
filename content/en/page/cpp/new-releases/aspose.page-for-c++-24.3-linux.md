@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.page-for-c++-24.3-linux"
-description: " "
+title: "Optimized XPS Processing: Aspose.Page C++ 24.3 (Linux)"
+description: "Integrate advanced XPS and PS merging, conversion, and processing capabilities into your C++ apps with Aspose.Page C++ 24.3. Download on Linux today."
 keywords: ""
 page_type: single_release_page
 folder_link: "/page/cpp/new-releases/aspose.page-for-c++-24.3-linux/"
@@ -43,8 +43,32 @@ weight: 141
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/page/cpp/release-notes/2024/aspose-page-for-cpp-24-3-release-notes/'>https://releases.aspose.com/page/cpp/release-notes/2024/aspose-page-for-cpp-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Page for C++ 24.3 Linux native library</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Page for C++ 24.3 Linux native library.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+We are pleased to announce the release of Aspose.Page for C++ 24.3 (Linux version). It brings upgraded XPS document processing capabilities to your applications running on Linux. 
+
+### Enhanced for Linux
+
+This XPS processing library version provides optimized performance, stability, and a smooth development experience for your C++ projects on Linux. It allows you to build feature-rich C++ applications to load, convert, and process PostScript, EPS, and XPS documents.
+
+### Unlock .NET Improvements
+
+Incorporate the latest features from the .NET 24.2 version of the C++ library into your C++ projects on Linux and deliver an expanded user experience across multiple frameworks.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Page for C++ 24.3 Release Notes](https://releases.aspose.com/page/cpp/release-notes/2024/aspose-page-for-cpp-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
