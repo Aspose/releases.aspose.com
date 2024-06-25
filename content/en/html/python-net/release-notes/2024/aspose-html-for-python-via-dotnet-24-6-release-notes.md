@@ -1,6 +1,6 @@
 ---
-id: "aspose-html-for-python-via-net-24-6-release-notes"
-slug: "aspose-html-for-python-via-net-24-6-release-notes"
+id: "aspose-html-for-python-via-dotnet-24-6-release-notes"
+slug: "aspose-html-for-python-via-dotnet-24-6-release-notes"
 linktitle: "Aspose.HTML for Python via .NET 24.6 Release Notes"
 title: "Aspose.HTML for Python via .NET 24.6 Release Notes"
 weight: 80
