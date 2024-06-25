@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.page-for-c++-24.1-linux"
-description: " "
+title: "Manipulate XPS Files, Manage Fonts (Linux): C++ XPS API 24.1"
+description: "Unleash the power of document processing on Linux with Aspose.Page C++ 24.1! New XPS manipulation & font management features. Download on Linux!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/page/cpp/new-releases/aspose.page-for-c++-24.1-linux/"
@@ -43,8 +43,66 @@ weight: 135
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/page/cpp/release-notes/2024/aspose-page-for-cpp-24-1-release-notes/'>https://releases.aspose.com/page/cpp/release-notes/2024/aspose-page-for-cpp-24-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Page for C++ 24.1 Linux native library</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Page for C++ 24.1 Linux native library.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Great news for Linux developers! Aspose.Page for C++ 24.1 is here and it brings utility methods to handle XPS (XML Paper Specification) files together with improved font management features for your document processing apps on Linux.
+
+### XPS Manipulation for Linux Developers
+
+Strengthen XPS processing on Linux with the latest C++ XPS API release. This version includes new utility methods providing greater control over XPS document structure and allowing enhanced document handling within your Linux applications.
+
+### Enhanced Font Management on Linux
+
+Work with optimized font management ability with the newly introduced `BaseTrFont` class. Flawlessly access and manage font properties such as type, encoding, character widths, and styles for tailored text rendering within your C++ applications running on Linux.
+
+### Public API and Backwards Incompatible Changes
+
+### Added APIs
+
+- Aspose::Page::BaseTrFont
+- Aspose::Page::BaseTrFont::FontType
+- Aspose::Page::BaseTrFont::FID
+- Aspose::Page::BaseTrFont::FontName
+- Aspose::Page::BaseTrFont::EncodingTable
+- Aspose::Page::BaseTrFont::Encoding
+- Aspose::Page::BaseTrFont::CharStrings
+- Aspose::Page::BaseTrFont::NativeFont
+- Aspose::Page::BaseTrFont::Transform
+- Aspose::Page::BaseTrFont::Size
+- Aspose::Page::BaseTrFont::Style
+- Aspose::Page::BaseTrFont::DeriveFont(Syste:Single)
+- Aspose::Page::BaseTrFont::DeriveFont(Syste:Drawing::FontStyle)
+- Aspose::Page::BaseTrFont::DeriveFont(Syste:Single,Syste:Drawing::FontStyle)
+- Aspose::Page::BaseTrFont::DeriveFont(Syste:Drawing::Drawing2D::Matrix)
+- Aspose::Page::BaseTrFont::GetCharWidth(Syste:Char)
+- Aspose::Page::BaseTrFont::GetOutline(Syste:Char,Syste:Single,Syste:Single)
+- Aspose::Page::BaseTrFont::Clone
+- Aspose::Page::EPS::Device::PsSaveFormat
+- Aspose::Page::EPS::Device::PsSaveFormat::PS
+- Aspose::Page::EPS::Device::PsSaveFormat::EPS
+- Aspose::Page::XPS::ImageMode
+- Aspose::Page::XPS::ImageMode::FitToWidth
+- Aspose::Page::XPS::ImageMode::FitToHeight
+- Aspose::Page::XPS::ImageMode::FitToBox
+
+### Removed APIs
+
+- Aspose::Page::ITrFont::Font
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Page for C++ 24.1 Release Notes](https://releases.aspose.com/page/cpp/release-notes/2024/aspose-page-for-cpp-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

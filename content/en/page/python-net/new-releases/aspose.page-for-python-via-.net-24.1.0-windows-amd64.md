@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.page-for-python-via-.net-24.1.0-windows-amd64"
-description: " "
+title: "Aspose.Page Python 24.1.0: Create & Edit XPS, EPS on Win64"
+description: "Streamline document manipulation with Aspose.Page Python via .NET 24.1.0! Create, edit, and convert PS/EPS & XPS on Windows (AMD64). Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/page/python-net/new-releases/aspose.page-for-python-via-.net-24.1.0-windows-amd64/"
@@ -43,8 +43,48 @@ weight: 2
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/page/python-net/release-notes/2024/aspose-page-for-python-via-.net-24-1-release-notes/'>https://releases.aspose.com/page/python-net/release-notes/2024/aspose-page-for-python-via-.net-24-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">This wheel contains Aspose.Page version 24.1.0, compatible with Python 3, and optimized for Windows 64-bit systems (AMD64).</div>
+      <h4>Description</h4><div class="HTMLDescription">This wheel contains Aspose.Page for Python version 24.1.0, compatible with Python 3, and optimized for Windows 64-bit systems (AMD64).</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Develop high-performance apps to create, edit, convert, and manage PostScript (PS), Encapsulated PostScript (EPS), and XPS documents with Aspose.Page for Python via .NET 24.1.0 on Windows AMD64! 
+
+### Effortless XPS Document Creation & Editing
+
+With the initial release of the Python API, you can programmatically create XPS documents from scratch or edit existing ones. You can also add, remove, and manage document pages with ease.
+
+### Advanced XPS Element Control
+
+Work with individual elements like canvases, paths, and glyphs effortlessly. Craft vector graphics and text strings with precise control on Win64.
+
+### Seamless XPS to PDF & Image Conversion
+
+Converting XPS documents to industry-standard PDF format has never been easier. Similarly, you can export the XPS files to various image formats for broader use.
+
+### Robust EPS Handling
+
+Easily generate, edit, and save EPS files on 64-bit Windows architecture. The Python library supports PostScript language levels 1-3 and offers vector graphics creation, image inclusion, and conversion to other formats.
+
+### Streamlined PDF Saving
+
+Build PDF generation modules in Python and save XPS documents directly to PDF streams for efficient processing.
+
+### Comprehensive Hyperlink Management
+
+The XPS processing API allows its users to create and manage hyperlinks within their XPS documents to enable seamless navigation.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Page for Python via .NET 24.1.0 Release Notes](https://releases.aspose.com/page/python-net/release-notes/2024/aspose-page-for-python-via-.net-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
