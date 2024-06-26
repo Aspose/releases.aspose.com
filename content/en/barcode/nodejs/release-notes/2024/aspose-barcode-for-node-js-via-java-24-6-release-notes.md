@@ -22,7 +22,7 @@ This page contains release notes information for [Aspose.BarCode for Node.js via
 
 | **Key**          | **Summary**                                                                       | **Category** |
 |:-----------------|:----------------------------------------------------------------------------------|:-------------|
-||BARCODENET-38982|HanXin recognition performance improvements|Enhancement|
+|BARCODENET-38982|HanXin recognition performance improvements|Enhancement|
 |BARCODENET-38859|Rebuild architecture of CodeText encoding in 2D barcodes|Enhancement|
 |BARCODENET-38987|Read CODABAR barcode START and STOP symbols|Enhancement|
 
@@ -71,13 +71,13 @@ Added API members:
 - method Generation.Pdf417Parameters.setPdf417EncodeMode(number)
 
 Removed API members:
-- method Generation.AztecParameters.getCodeTextEncoding():string
+- method Generation.AztecParameters.getCodeTextEncoding()
 - method Generation.AztecParameters.setCodeTextEncoding(codeTextEncoding)
-- method Generation.QrParameters.getCodeTextEncoding():string
+- method Generation.QrParameters.getCodeTextEncoding()
 - method Generation.QrParameters.setCodeTextEncoding(codeTextEncoding)
-- method Generation.Pdf417Parameters.getCodeTextEncoding():string
+- method Generation.Pdf417Parameters.getCodeTextEncoding()
 - method Generation.Pdf417Parameters.setCodeTextEncoding(codeTextEncoding)
-- method Generation.DataMatrixParameters.getCodeTextEncoding():string
+- method Generation.DataMatrixParameters.getCodeTextEncoding()
 - method Generation.DataMatrixParameters.setCodeTextEncoding(codeTextEncoding)
 
 Following API members were marked 'deprecated' and will be removed in future releases:
