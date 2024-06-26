@@ -32,7 +32,7 @@ This page contains release notes information for [Aspose.BarCode for Node.js via
 Added functions:
 - Recognition.BarCodeExtendedParameters.getCodabar()
 - Recognition.CodabarExtendedParameters.getCodabarStartSymbol()
-- Recognition.CodabarExtendedParameters.setCodabarStartSymbol(number)
+- Recognition.CodabarExtendedParameters.setCodabarStartSymbol(value)
 
 ### Codetext encoding enhancements:
 Added API members:
@@ -67,8 +67,8 @@ Added API members:
 - field Generation.QREncodeMode.EXTENDED_CODETEXT
 - field Generation.QREncodeMode.EXTENDED
 - method Generation.BarcodeGenerator.setCodeText(codeText, encoding)
-- method Generation.Pdf417Parameters.getPdf417EncodeMode():number
-- method Generation.Pdf417Parameters.setPdf417EncodeMode(number)
+- method Generation.Pdf417Parameters.getPdf417EncodeMode()
+- method Generation.Pdf417Parameters.setPdf417EncodeMode(pdf417EncodeMode)
 
 Removed API members:
 - method Generation.AztecParameters.getCodeTextEncoding()
