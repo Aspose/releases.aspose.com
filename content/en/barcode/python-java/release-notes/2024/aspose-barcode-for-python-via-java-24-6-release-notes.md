@@ -67,7 +67,7 @@ Added API members:
 - field Generation.QREncodeMode.EXTENDED_CODETEXT
 - field Generation.QREncodeMode.EXTENDED
 - method Generation.BarcodeGenerator.setCodeText(value, encoding)
-- method Generation.Pdf417Parameters.getPdf417EncodeMode():number
+- method Generation.Pdf417Parameters.getPdf417EncodeMode()
 - method Generation.Pdf417Parameters.setPdf417EncodeMode(value)
 
 Removed API members:
