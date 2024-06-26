@@ -30,67 +30,67 @@ This page contains release notes information for [Aspose.BarCode for PHP via Jav
 
 ### Implemented Codabar Start Stop for BarCodeResult:
 Added functions:
-- Recognition.BarCodeExtendedParameters.getCodabar():CodabarExtendedParameters
-- Recognition.CodabarExtendedParameters.getCodabarStartSymbol():int
-- Recognition.CodabarExtendedParameters.setCodabarStartSymbol(int)
+- Recognition.BarCodeExtendedParameters->getCodabar():CodabarExtendedParameters
+- Recognition.CodabarExtendedParameters->getCodabarStartSymbol():int
+- Recognition.CodabarExtendedParameters->setCodabarStartSymbol(int)
 
 ### Codetext encoding enhancements:
 Added API members:
-- field Generation.AztecEncodeMode.BINARY
-- field Generation.AztecEncodeMode.ECI
-- field Generation.AztecEncodeMode.EXTENDED
-- field Generation.DataMatrixEncodeMode.ECI
-- field Generation.DataMatrixEncodeMode.BINARY
-- field Generation.DataMatrixEncodeMode.BASE_256
-- field Generation.DataMatrixEncodeMode.EXTENDED
-- field Generation.DotCodeEncodeMode.ECI
-- field Generation.DotCodeEncodeMode.BINARY
-- field Generation.DotCodeEncodeMode.EXTENDED
+- field Generation.AztecEncodeMode::BINARY
+- field Generation.AztecEncodeMode::ECI
+- field Generation.AztecEncodeMode::EXTENDED
+- field Generation.DataMatrixEncodeMode::ECI
+- field Generation.DataMatrixEncodeMode::BINARY
+- field Generation.DataMatrixEncodeMode::BASE_256
+- field Generation.DataMatrixEncodeMode::EXTENDED
+- field Generation.DotCodeEncodeMode::ECI
+- field Generation.DotCodeEncodeMode::BINARY
+- field Generation.DotCodeEncodeMode::EXTENDED
 - class Generation.Pdf417EncodeMode
-- field Generation.Pdf417EncodeMode.AUTO
-- field Generation.Pdf417EncodeMode.BINARY
-- field Generation.Pdf417EncodeMode.ECI
-- field Generation.Pdf417EncodeMode.EXTENDED
-- field Generation.MaxiCodeEncodeMode.BINARY
-- field Generation.MaxiCodeEncodeMode.EXTENDED
-- field Generation.MaxiCodeEncodeMode.ECI
-- field Generation.ECIEncodings.GB2312
-- field Generation.ECIEncodings.GBK
-- field Generation.ECIEncodings.GB18030
-- field Generation.ECIEncodings.UTF16LE
-- field Generation.ECIEncodings.UTF32BE
-- field Generation.ECIEncodings.UTF32LE
-- field Generation.ECIEncodings.INVARIANT
-- field Generation.ECIEncodings.BINARY
-- field Generation.QREncodeMode.BINARY
-- field Generation.QREncodeMode.ECI
-- field Generation.QREncodeMode.EXTENDED_CODETEXT
-- field Generation.QREncodeMode.EXTENDED
-- method Generation.BarcodeGenerator.setCodeText(string $value, ?string $encoding)
-- method Generation.Pdf417Parameters.getPdf417EncodeMode():int
-- method Generation.Pdf417Parameters.setPdf417EncodeMode(int $pdf417EncodeMode)
+- field Generation.Pdf417EncodeMode::AUTO
+- field Generation.Pdf417EncodeMode::BINARY
+- field Generation.Pdf417EncodeMode::ECI
+- field Generation.Pdf417EncodeMode::EXTENDED
+- field Generation.MaxiCodeEncodeMode::BINARY
+- field Generation.MaxiCodeEncodeMode::EXTENDED
+- field Generation.MaxiCodeEncodeMode::ECI
+- field Generation.ECIEncodings::GB2312
+- field Generation.ECIEncodings::GBK
+- field Generation.ECIEncodings::GB18030
+- field Generation.ECIEncodings::UTF16LE
+- field Generation.ECIEncodings::UTF32BE
+- field Generation.ECIEncodings::UTF32LE
+- field Generation.ECIEncodings::INVARIANT
+- field Generation.ECIEncodings::BINARY
+- field Generation.QREncodeMode::BINARY
+- field Generation.QREncodeMode::ECI
+- field Generation.QREncodeMode::EXTENDED_CODETEXT
+- field Generation.QREncodeMode::EXTENDED
+- method Generation.BarcodeGenerator->setCodeText(string $value, ?string $encoding)
+- method Generation.Pdf417Parameters->getPdf417EncodeMode():int
+- method Generation.Pdf417Parameters->setPdf417EncodeMode(int $pdf417EncodeMode)
 
 Removed API members:
-- method Generation.AztecParameters.getCodeTextEncoding():string
-- method Generation.AztecParameters.setCodeTextEncoding(string $codeTextEncoding)
-- method Generation.QrParameters.getCodeTextEncoding():string
-- method Generation.QrParameters.setCodeTextEncoding(string $codeTextEncoding)
-- method Generation.Pdf417Parameters.getCodeTextEncoding():string
-- method Generation.Pdf417Parameters.setCodeTextEncoding(string $codeTextEncoding)
-- method Generation.DataMatrixParameters.getCodeTextEncoding():string
-- method Generation.DataMatrixParameters.setCodeTextEncoding(string $codeTextEncoding)
+- method Generation.AztecParameters->getCodeTextEncoding():string
+- method Generation.AztecParameters->setCodeTextEncoding(string $codeTextEncoding)
+- method Generation.QrParameters->getCodeTextEncoding():string
+- method Generation.QrParameters->setCodeTextEncoding(string $codeTextEncoding)
+- method Generation.Pdf417Parameters->getCodeTextEncoding():string
+- method Generation.Pdf417Parameters->setCodeTextEncoding(string $codeTextEncoding)
+- method Generation.DataMatrixParameters->getCodeTextEncoding():string
+- method Generation.DataMatrixParameters->setCodeTextEncoding(string $codeTextEncoding)
 
 Following API members were marked 'deprecated' and will be removed in future releases:
-- field Generation.AztecEncodeMode.BYTES
-- field Generation.AztecEncodeMode.EXTENDED_CODETEXT
-- field Generation.DataMatrixEncodeMode.BYTES
-- field Generation.DataMatrixEncodeMode.EXTENDED_CODETEXT
-- field Generation.DotCodeEncodeMode.BYTES
-- field Generation.DotCodeEncodeMode.EXTENDED_CODETEXT
-- field Generation.MaxiCodeEncodeMode.BYTES
-- field Generation.MaxiCodeEncodeMode.EXTENDED_CODETEXT
-- field Generation.QREncodeMode.BYTES
-- field Generation.QREncodeMode.UTF_8_BOM
-- field Generation.QREncodeMode.UTF_16_BEBOM
-- field Generation.QREncodeMode.ECI_ENCODING
-- field Generation.QREncodeMode.EXTENDED_CODETEXT
+- field Generation.AztecEncodeMode::BYTES
+- field Generation.AztecEncodeMode::EXTENDED_CODETEXT
+- field Generation.DataMatrixEncodeMode::BYTES
+- field Generation.DataMatrixEncodeMode::EXTENDED_CODETEXT
+- field Generation.DotCodeEncodeMode::BYTES
+- field Generation.DotCodeEncodeMode::EXTENDED_CODETEXT
+- field Generation.MaxiCodeEncodeMode::BYTES
+- field Generation.MaxiCodeEncodeMode::EXTENDED_CODETEXT
+- field Generation.QREncodeMode::BYTES
+- field Generation.QREncodeMode::UTF_8_BOM
+- field Generation.QREncodeMode::UTF_16_BEBOM
+- field Generation.QREncodeMode::ECI_ENCODING
+- field Generation.QREncodeMode::EXTENDED_CODETEXT
