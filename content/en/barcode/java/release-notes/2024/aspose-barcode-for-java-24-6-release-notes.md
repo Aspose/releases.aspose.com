@@ -81,7 +81,7 @@ Removed API members:
 - method com.aspose.barcode.generation.DataMatrixParameters.getCodeTextEncoding():Charset
 - method com.aspose.barcode.generation.DataMatrixParameters.setCodeTextEncoding(Charset)
 
-Following API members were marked 'obsolete' and will be removed in future releases:
+Following API members were marked 'deprecated' and will be removed in future releases:
 - field AztecEncodeMode.BYTES
 - field AztecEncodeMode.EXTENDED_CODETEXT
 - field DataMatrixEncodeMode.BYTES
