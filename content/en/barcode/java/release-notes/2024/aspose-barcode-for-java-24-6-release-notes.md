@@ -46,7 +46,7 @@ Added API members:
 - field com.aspose.barcode.generation.DotCodeEncodeMode.ECI
 - field com.aspose.barcode.generation.DotCodeEncodeMode.BINARY
 - field com.aspose.barcode.generation.DotCodeEncodeMode.EXTENDED
-- type com.aspose.barcode.generation.Pdf417EncodeMode
+- class com.aspose.barcode.generation.Pdf417EncodeMode
 - field com.aspose.barcode.generation.Pdf417EncodeMode.AUTO
 - field com.aspose.barcode.generation.Pdf417EncodeMode.BINARY
 - field com.aspose.barcode.generation.Pdf417EncodeMode.ECI
