@@ -22,11 +22,10 @@ This page contains release notes information for [Aspose.GIS for .NET 24.6](http
 - Improved integration of the Aspose.GIS library with persistent geospatial information storage systems.
 ## **Full List of Issues Covering all Changes in this Release**
 
-|**Key**|**Summary**|**Category**|
-| :- | :- | :- |
-
-|GISNET-1650|Format conversion bug (shapefile to KML)|Bug|
-|GISNET-1603|Improved integration of the Aspose.GIS library with persistent geospatial information storage systems.|Feature|
+|**Key**    |**Summary**                                                                                           |**Category**|
+|:--------- |:-----------------------------------------------------------------------------------------------------|:-----------|
+|GISNET-1650|Format conversion bug (shapefile to KML)                                                              |Bug         |
+|GISNET-1603|Improved integration of the Aspose.GIS library with persistent geospatial information storage systems.|Feature     |
 
 ## **Public API and Backward Incompatible Changes**
 Following members have been added:
