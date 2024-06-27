@@ -21,10 +21,9 @@ This page contains release notes information for [Aspose.GIS for .NET 24.5](http
 
 ## **Full List of Issues Covering all Changes in this Release**
 
-|**Key**|**Summary**|**Category**|
-| :- | :- | :- |
-
-|GISNET-1036|Remove Features in Existing Shapefile|Feature|
+|**Key**    |**Summary**                                                                                           |**Category**|
+|:--------- |:-----------------------------------------------------------------------------------------------------|:-----------|
+|GISNET-1036|Remove Features in Existing Shapefile                                                                 |Feature     |
 
 ## **Public API and Backward Incompatible Changes**
 Following members have been added:
