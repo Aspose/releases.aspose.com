@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.drawing-for-.net-24.5-(dlls-only)"
-description: " "
+title: "Supercharge Image Editing in Aspose.Drawing .NET 24.5 (DLLs)"
+description: "Integrate Aspose.Drawing .NET 24.5 (DLLs-only) for image & graphics processing in your .NET projects. Download now for performance optimizations & more."
 keywords: ""
 page_type: single_release_page
 folder_link: "/drawing/net/new-releases/aspose.drawing-for-.net-24.5-(dlls-only)/"
@@ -43,8 +43,40 @@ weight: 144
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/drawing/net/release-notes/2024/aspose-drawing-for-net-24-5-release-notes/'>https://releases.aspose.com/drawing/net/release-notes/2024/aspose-drawing-for-net-24-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains Aspose.Drawing for .NET Framework 2.0 and .NET Standard 2.0</div>
+      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains Aspose.Drawing for .NET 24.5 (DLLs only) for .NET Framework 2.0 and .NET Standard 2.0.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+The Aspose.Drawing for .NET 24.5 (DLLs-only) update equips developers with a range of performance optimizations and bug fixes to supercharge image editing and processing tasks.
+
+### Performance Optimization
+
+Leverage the latest enhancements for `SolidBrush` handling when paired with matching `PathGradientBrush`, and `SurroundColors` within your C# and VB.NET typesetting solutions.
+
+### Finer TIFF Control
+
+Version 24.5 of Aspose.Drawing for .NET allows you to gain finer control over TIFF processing by excluding unwanted reduced frames during loading.
+
+### Precise Text Representation
+
+You can now ensure precise text rendering after we addressed the issues involving invalid surrogate symbols.
+
+### Accurate Color Matching
+
+Achieve superior color fidelity when `PathGradientBrush` and `SurroundColors` align with `CenterColor` by disabling anti-aliasing.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Drawing for .NET 24.5 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2024/aspose-drawing-for-net-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

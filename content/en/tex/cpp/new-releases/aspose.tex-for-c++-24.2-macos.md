@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tex-for-c++-24.2-macos"
-description: " "
+title: "Aspose.TeX C++ 24.2: Improved eTeX Support & More (macOS)"
+description: "Download Aspose.TeX C++ 24.2 for macOS. New features: eTeX support & API improvements. Enhanced developer experience with renamed methods & more."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tex/cpp/new-releases/aspose.tex-for-c++-24.2-macos/"
@@ -43,8 +43,70 @@ weight: 98
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-2-release-notes'>https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-2-release-notes</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.TeX for C++ 24.2 macOS native library</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.TeX for C++ 24.2 macOS native library.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.TeX for C++ 24.2 on macOS delivers advanced functionalities for working with eTeX documents and named streams. This version equips developers with comprehensive support for eTeX's discarded items and additional registers within your C++ apps.
+
+### Upgraded eTeX Support on macOS
+
+The C++ TeX API now offers advanced eTeX functionality to support storing and extracting discarded items and working with additional registers and marks.
+
+### Improved Stream Handling for macOS Apps
+
+Aspose.TeX for C++ 24.2 allows users to benefit from a more intuitive API design for named streams and optimizes data stream management within your macOS development projects.
+
+### Public API Changes
+
+### Added APIs
+- Type Aspose::TeX::IO::NamedStream
+- Method Aspose::TeX::IO::NamedStream.#ctor
+- Method Aspose::TeX::IO::NamedStream.#ctor(System::IO::Stream,System::String)
+- Property Aspose::TeX::IO::NamedStream::FullName
+- Property Aspose::TeX::IO::NamedStream::Stream
+- Method Aspose::TeX::IO::NamedStream::Dispose
+
+### Renamed APIs
+- Method Aspose::TeX::Presentation::Device::Init -> Aspose::TeX::Presentation::Device::Initialize
+- Method Aspose::TeX::Presentation::Pdf::PdfDevice::Init -> Aspose::TeX::Presentation::Pdf::PdfDevice::Initialize
+- Method Aspose::TeX::Presentation::Svg::SvgDevice::Init -> Aspose::TeX::Presentation::Svg::SvgDevice::Initialize
+- Method Aspose::TeX::Presentation::Image::ImageDevice::Init -> Aspose::TeX::Presentation::Image::ImageDevice::Initialize
+- Method Aspose::TeX::Presentation::Xps::XpsDevice::Init -> Aspose::TeX::Presentation::Xps::XpsDevice::Initialize
+- Type Aspose::TeX::Plugins::FigureRenderer -> Aspose::TeX::Plugins::FigureRendererPlugin
+- Type Aspose::TeX::Plugins::FigureRendererOptions -> Aspose::TeX::Plugins::FigureRendererPluginOptions
+- Type Aspose::TeX::Plugins::PngFigureRendererOptions -> Aspose::TeX::Plugins::PngFigureRendererPluginOptions
+- Type Aspose::TeX::Plugins::SvgFigureRendererOptions -> Aspose::TeX::Plugins::SvgFigureRendererPluginOptions
+- Type Aspose::TeX::Plugins::FigureRendererResult -> Aspose::TeX::Plugins::FigureRendererPluginResult
+- Type Aspose::TeX::Plugins::MathRendererResult -> Aspose::TeX::Plugins::MathRendererPluginResult
+- Type Aspose::TeX::Plugins::MathRenderer -> Aspose::TeX::Plugins::MathRendererPlugin
+- Type Aspose::TeX::Plugins::MathRendererOptions -> Aspose::TeX::Plugins::MathRendererPluginOptions
+- Type Aspose::TeX::Plugins::PngMathRendererOptions -> Aspose::TeX::Plugins::PngMathRendererPluginOptions
+- Type Aspose::TeX::Plugins::SvgMathRendererOptions -> Aspose::TeX::Plugins::SvgMathRendererPluginOptions
+
+### Modified APIs
+- Method Aspose::TeX::Features::FigureRenderer::Render(System::String,System::IO::Stream,Aspose::TeX::Features::FigureRendererOptions,System::Drawing::SizeF@) -> Aspose::TeX::Features::FigureRenderer::Render(System::String,System::IO::Stream,Aspose::TeX::Features::FigureRendererOptions)
+- Method Aspose::TeX::Features::MathRenderer::Render(System::String,System::IO::Stream,Aspose::TeX::Features::MathRendererOptions,System::Drawing::SizeF@) -> Aspose::TeX::Features::MathRenderer::Render(System::String,System::IO::Stream,Aspose::TeX::Features::MathRendererOptions)
+- Method Aspose::TeX::IO::IInputWorkingDirectory::GetFile(System::String,System::String@,System::Boolean) -> Aspose::TeX::IO::IInputWorkingDirectory::GetFile(System::String,System::Boolean)
+- Method Aspose::TeX::IO::IOutputWorkingDirectory::GetOutputFile(System::String,System::String@) -> Aspose::TeX::IO::IOutputWorkingDirectory::GetOutputFile(System::String)
+- Method Aspose::TeX::IO::InputFileSystemDirectory::GetFile(System::String,System::String@,System::Boolean) -> Aspose::TeX::IO::InputFileSystemDirectory::GetFile(System::String,System::Boolean)
+- Method Aspose::TeX::IO::InputZipDirectory::GetFile(System::String,System::String@,System::Boolean) -> Aspose::TeX::IO::InputZipDirectory::GetFile(System::String,System::Boolean)
+- Method Aspose::TeX::IO::OutputFileSystemDirectory::GetOutputFile(System::String,System::String@) -> Aspose::TeX::IO::OutputFileSystemDirectory::GetOutputFile(System::String)
+- Method Aspose::TeX::IO::OutputZipDirectory::GetFile(System::String,System::String@,System::Boolean) -> Aspose::TeX::IO::OutputZipDirectory::GetFile(System::String,System::Boolean)
+- Method Aspose::TeX::IO::OutputZipDirectory::GetOutputFile(System::String,System::String@) -> Aspose::TeX::IO::OutputZipDirectory::GetOutputFile(System::String)
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.TeX for C++ 24.2 Release Notes](https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

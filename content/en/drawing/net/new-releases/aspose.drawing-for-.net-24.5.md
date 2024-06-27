@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.drawing-for-.net-24.5"
-description: " "
+title: "Supercharge Image Editing with Aspose.Drawing for .NET 24.5"
+description: "Add comprehensive image & graphics manipulation in your C# apps. Download Aspose.Drawing .NET 24.5 (MSI installer) for enhanced performance & more."
 keywords: ""
 page_type: single_release_page
 folder_link: "/drawing/net/new-releases/aspose.drawing-for-.net-24.5/"
@@ -43,8 +43,40 @@ weight: 143
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/drawing/net/release-notes/2024/aspose-drawing-for-net-24-5-release-notes/'>https://releases.aspose.com/drawing/net/release-notes/2024/aspose-drawing-for-net-24-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">The MSI installer for Aspose.Drawing for .NET 24.5</div>
+      <h4>Description</h4><div class="HTMLDescription">The MSI installer for Aspose.Drawing for .NET 24.5.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+We're pleased to announce the Aspose.Drawing for .NET 24.5 release (MSI)! This update includes a range of improvements for developers working with images and graphics within their XPS and PostScript (PS) files on the .NET platform.
+
+### Optimized Performance
+
+Supercharge efficiency with optimized `SolidBrush` rendering for specific `PathGradientBrush` configurations in your .NET typesetting solutions. 
+
+### Improved TIFF Handling
+
+We have excluded the loading of reduced TIFF frames in this C# library release. You can now expedite image processing by excluding reduced TIFF frames during the loading process.
+
+### Accurate Text Rendering
+
+Obtain accurate output with Aspose.TeX for .NET 24.5 as we have fixed the issue of drawing invalid surrogate symbols within text.
+
+### Optimized Anti-aliasing
+
+By disabling anti-aliasing when `PathGradientBrush` and `SurroundColors` match `CenterColor`, we have facilitated our users with sharper visuals.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Drawing for .NET 24.5 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2024/aspose-drawing-for-net-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
