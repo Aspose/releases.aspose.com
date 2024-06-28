@@ -15,7 +15,7 @@ menuItemWithNoContent: false
 
 {{% alert color="primary" %}}
 
-This page contains release notes information for [Aspose.Tasks for .NET 20.1](https://releases.aspose.com/tasks/net/new-releases/aspose.tasks-for-.net-20.1/).
+This page contains release notes information for [Aspose.Tasks for .NET 20.1](https://releases.aspose.com/tasks/net/new-releases/-aspose.tasks-for-.net-20.1/).
 
 {{% /alert %}}
 

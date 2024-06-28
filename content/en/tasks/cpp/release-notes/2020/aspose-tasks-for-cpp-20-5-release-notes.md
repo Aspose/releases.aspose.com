@@ -15,7 +15,7 @@ menuItemWithNoContent: false
 
 {{% alert color="primary" %}}
 
-This page contains release notes information for [Aspose.Tasks for C++ 20.5](https://releases.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c---20.5.0/) version.
+This page contains release notes information for [Aspose.Tasks for C++ 20.5](https://releases.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c---20.5/) version.
 
 {{% /alert %}}
 
