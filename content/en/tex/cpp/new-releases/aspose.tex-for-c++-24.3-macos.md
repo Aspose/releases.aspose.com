@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tex-for-c++-24.3-macos"
-description: " "
+title: "Aspose.TeX C++ 24.3 - Optimized eTeX Page Building (macOS)"
+description: "Unlock the potential of your C++ apps on Apple Mac with Aspose.TeX C++ 24.3. It offers optimized page building & improved compatibility. Download on macOS!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/tex/cpp/new-releases/aspose.tex-for-c++-24.3-macos/"
@@ -43,8 +43,32 @@ weight: 101
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-3-release-notes/'>https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.TeX for C++ 24.3 macOS native library</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.TeX for C++ 24.3 macOS native library.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.TeX for C++ 24.3 release brings optimized page building functionality on the macOS platform, based on Aspose.TeX for .NET 24.3, and ensures seamless document creation.
+
+### eTeX Page Building Optimization
+
+Enjoy optimized TeX document generation on macOS with the latest addition to the C++ TeX library feature-set.
+
+### Unlock Aspose C++ Integration
+
+Aspose.TeX for C++ now integrates perfectly with Aspose C++ products version 24.3 and fosters a cross-platform application development experience.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.TeX for C++ 24.3 Release Notes](https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

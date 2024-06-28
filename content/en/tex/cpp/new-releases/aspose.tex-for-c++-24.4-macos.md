@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tex-for-c++-24.4-macos"
-description: " "
+title: "Empower TeX Processing Apps in C++ | Aspose.TeX 24.4 (Mac)"
+description: "Aspose.TeX C++ 24.4 for macOS simplifies TeX processing in your C++ apps. Generate PDFs from TeX & LaTeX files & do much more. Download on Mac now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/tex/cpp/new-releases/aspose.tex-for-c++-24.4-macos/"
@@ -43,8 +43,32 @@ weight: 104
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-4-release-notes/'>https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.TeX for C++ 24.4 macOS native library</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.TeX for C++ 24.4 macOS native library.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Great news for macOS developers! Aspose.TeX for C++ 24.4 has been released and it provides unmatched TeX processing and typesetting capabilities for macOS-powered C++ applications.
+
+### Generate PDF Documents
+
+Empower your file conversion applications with the C++ typesetting library and generate industry-standard PDF documents from TeX and LaTeX files. Our library also supports exporting to XPS documents and lets you develop full-featured document processing solutions for macOS.
+
+### Expanded Compatibility
+
+Developers can now integrate the apps built with Aspose.TeX for C++ effortlessly with other Aspose C++ products version 24.4, thus offering a cohesive apps development experience.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.TeX for C++ 24.4 Release Notes](https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

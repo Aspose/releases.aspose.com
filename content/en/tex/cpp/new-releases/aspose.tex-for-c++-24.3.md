@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tex-for-c++-24.3"
-description: " "
+title: "Aspose.TeX for C++ 24.3 - Optimized eTeX Page Building Added"
+description: "Add TeX processing to your C++ apps with Aspose.TeX C++ 24.3. It boasts optimized page building & better compatibility. Download for Windows, Mac & Linux!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/tex/cpp/new-releases/aspose.tex-for-c++-24.3/"
@@ -43,8 +43,32 @@ weight: 102
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-3-release-notes/'>https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.TeX for C++ 24.3 native library</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.TeX for C++ 24.3 native library.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+We are pleased to announce Aspose.TeX for C++ 24.3 release. This update introduces an optimized page building experience based on Aspose.TeX for .NET 24.3, ensuring efficient document creation.
+
+### Optimized eTeX Page Building
+
+You can experience faster and more efficient document generation on Windows, Mac, or Linux with the eTeX page building optimizations added in this C++ TeX library release.
+
+### Seamless Aspose C++ Integration
+
+Aspose.TeX for C++ 24.3 aligns perfectly with Aspose C++ products version 24.3 and fosters a unified, cross-platform application-building experience.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.TeX for C++ 24.3 Release Notes](https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
