@@ -31,7 +31,7 @@ This page contains release notes information for Aspose.Email for .NET 24.6
 
 ## **New Features**
 
-### Support for Task Management in Microsoft Graph**
+### Support for Task Management in Microsoft Graph
 
 Support for Task Management in Microsoft Graph provides developers with APIs to access, manage, and interact with users’ tasks and task lists.
 
