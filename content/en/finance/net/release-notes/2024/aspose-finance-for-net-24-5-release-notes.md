@@ -19,6 +19,6 @@ This page contains release notes for Aspose.Finance for .NET 24.5.
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|FINANCENET-331|Support XBRL to PDF conversion|New Feature
+|FINANCENET-331|Support XBRL to PDF conversion|New Feature|
 
 
