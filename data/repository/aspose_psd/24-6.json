@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-psd",
+  "id" : "24-6",
+  "packageFiles" : [ {
+    "size" : "4 MB",
+    "name" : "aspose-psd-24.6-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "24 MB",
+    "name" : "aspose-psd-24.6-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "643 bytes",
+    "name" : "aspose-psd-24.6.pom"
+  } ],
+  "releasehDate" : "2024-07-01T10:04:09+00:00",
+  "version" : "24.6",
+  "ReleaseNotes" : "https://releases.aspose.com/psd/java/release-notes/2024/aspose-psd-for-java-24-6-release-notes/"
+}
