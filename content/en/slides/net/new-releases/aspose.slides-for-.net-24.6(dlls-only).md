@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-.net-24.6(dlls-only)"
-description: " "
+title: "Powerful Text Search in .NET Apps: Aspose.Slides 24.6 (DLLs)"
+description: "Easily add new features to your C# apps! Aspose.Slides .NET 24.6 (DLLs) brings improved text search & highlighting & more. Download the DLLs package now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/net/new-releases/aspose.slides-for-.net-24.6(dlls-only)/"
@@ -43,8 +43,100 @@ weight: 794
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-6-release-notes/'>https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for .NET 24.6(DLLs only) release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for .NET 24.6(DLLs-only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+.NET developers can integrate refined text search features and highlighting capabilities into their presentation processing C# apps with Aspose.Slides for .NET 24.6 release (DLLs-only).
+
+### Streamlined Text Search
+
+Seamlessly locate specific text within your C# presentations with the new `ITextSearchOptions` interface added to this release. With this update, you can control aspects like whole word matches for precise searching, as showcased in the following C# code sample:
+
+```c#
+
+using (Presentation presentation = new Presentation("pres.pptx"))
+{
+    presentation.ReplaceText("the", "***", new TextSearchOptions() {WholeWordsOnly = true}, null);
+    presentation.Save("pres-out.pptx", SaveFormat.Pptx);
+}
+
+```
+*[Source\*](https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-6-release-notes/)*
+
+
+### Enhanced Highlighting
+
+You can achieve refined highlighting effects with the introduction of `ITextFrame.HighlightText` and `ITextFrame.HighlightRegex` methods in this version of Aspose.Slides for .NET. You can now target specific text or leverage regular expressions for enhanced highlighting. To learn how to highlight text in text frames, please refer to this code example: 
+
+```c#
+
+using (Presentation presentation = new Presentation("pres.pptx"))
+{
+    // highlighting all words 'important'
+    ((AutoShape)presentation.Slides[0].Shapes[0]).TextFrame.HighlightText("important", Color.LightBlue);
+    // highlighting all separate 'the' occurrences
+    ((AutoShape)presentation.Slides[0].Shapes[0]).TextFrame.HighlightText("the", Color.Violet, new TextSearchOptions()
+        { WholeWordsOnly = true }, null);
+    presentation.Save("pres-out2.pptx", SaveFormat.Pptx);
+}
+
+```
+*[Source\*](https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-6-release-notes/)*
+
+### Powerful Text Replacement
+
+With the introduction of `ITextFrame.ReplaceText` and `ITextFrame.ReplaceRegex` methods in the latest C# presentation API release, we have empowered developers to efficiently replace text using regular expressions or whole word matching. Please check out the following code example, which demonstrates replacing text with the help of a regular expression:
+
+```c#
+
+/using (Presentation presentation = new Presentation("pres.pptx"))
+{
+    Regex regex = new Regex(@"\b[^\s]{5,}\b");
+    // Replace all words with 10 or more characters with '***'
+    ((AutoShape)presentation.Slides[0].Shapes[0]).TextFrame.ReplaceRegex(regex, "***", null);
+    presentation.Save("SomePresentation-out.pptx", SaveFormat.Pptx);
+}
+
+```
+*[Source\*](https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-6-release-notes/)*
+
+### Control Gradients Easily
+
+Aspose.Slides for .NET introduces a new `ISaveOption.GradientStyle` property in this release, which offers control over the visual rendering of two-color gradients when exporting presentations to images, as shown in this C# code sample:
+
+```c#
+
+using (Presentation pres = new Presentation("pres.pptx"))
+{
+    RenderingOptions options = new RenderingOptions();
+    options.GradientStyle = GradientStyle.PowerPointUI;
+    IImage img = pres.Slides[0].GetImage(options, 2f, 2f);
+}
+
+```
+*[Source\*](https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-6-release-notes/)*
+
+### Dynamic Text Handling
+
+Several issues with font changes, missing hyperlinks after text replacement, and highlighting functionality have been resolved in Aspose.Slides for .NET 24.6.
+
+### Image Conversion Updates
+
+Another enhancement in the latest library version is the optimized image conversion functionality, after we fixed incorrect background color rendering in PNG conversions.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for .NET 24.6 Release Notes](https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
