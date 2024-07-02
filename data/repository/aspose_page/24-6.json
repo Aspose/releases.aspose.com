@@ -7,13 +7,13 @@
     "name" : "aspose-page-24.6-javadoc.jar",
     "classifier" : "javadoc"
   }, {
-    "size" : "16 MB",
+    "size" : "17 MB",
     "name" : "aspose-page-24.6.jar"
   }, {
     "size" : "393 bytes",
     "name" : "aspose-page-24.6.pom"
   } ],
-  "releasehDate" : "2024-06-22T03:14:32+00:00",
+  "releasehDate" : "2024-07-02T07:01:35+00:00",
   "version" : "24.6",
   "ReleaseNotes" : "https://releases.aspose.com/page/java/release-notes/2024/aspose-page-for-java-24-6-release-notes/"
 }
