@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.words-for-.net-24.6-(dlls-only)"
-description: " "
+title: "Upgraded Charts, Shadows & More: C# Words API 24.6 (DLLs)"
+description: "Create new charts, manage comments, render backgrounds faster in your C# apps with Aspose.Words for .NET 24.6. Download the DLLs package today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/words/net/new-releases/aspose.words-for-.net-24.6-(dlls-only)/"
@@ -43,8 +43,185 @@ weight: 749
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-6-release-notes/'>https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains the Aspose.Words for .NET and .NET Standard 2.0 assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.Words without the MSI installer, for example because you cannot run MSI installers on Mono.</div>
+      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains the Aspose.Words for .NET 24.6 and .NET Standard 2.0 assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.Words without the MSI installer, for example because you cannot run MSI installers on Mono.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.Words for .NET 24.6 (DLLs-only) includes various improvements and new features to elevate the capabilities of your Word document processing solutions on Windows, macOS, or Linux platforms. 
+
+### Charting Enhancements
+
+Developers can generate several types of charts, such as Treemap, Sunburst, Histogram, Pareto, Box & Whisker, Waterfall, and Funnel, with this release and represent their data with more visual impact. This code snippet showcases how to use upgraded charts and create a Treemap chart in C#:
+
+```c#
+
+// For complete examples and data files, please go to https://github.com/aspose-words/Aspose.Words-for-.NET.git.
+Document doc = new Document();
+DocumentBuilder builder = new DocumentBuilder(doc);
+
+// Insert a Treemap chart.
+Shape shape = builder.InsertChart(ChartType.Treemap, 450, 280);
+Chart chart = shape.Chart;
+chart.Title.Text = "World Population";
+
+// Delete default generated series.
+chart.Series.Clear();
+
+// Add a series.
+ChartSeries series = chart.Series.Add(
+    "Population by Region",
+    new ChartMultilevelValue[]
+    {
+        new ChartMultilevelValue("Asia", "China"),
+        new ChartMultilevelValue("Asia", "India"),
+        new ChartMultilevelValue("Asia", "Indonesia"),
+        new ChartMultilevelValue("Asia", "Pakistan"),
+        new ChartMultilevelValue("Asia", "Bangladesh"),
+        new ChartMultilevelValue("Asia", "Japan"),
+        new ChartMultilevelValue("Asia", "Philippines"),
+        new ChartMultilevelValue("Asia", "Other"),
+        new ChartMultilevelValue("Africa", "Nigeria"),
+        new ChartMultilevelValue("Africa", "Ethiopia"),
+        new ChartMultilevelValue("Africa", "Egypt"),
+        new ChartMultilevelValue("Africa", "Other"),
+        new ChartMultilevelValue("Europe", "Russia"),
+        new ChartMultilevelValue("Europe", "Germany"),
+        new ChartMultilevelValue("Europe", "Other"),
+        new ChartMultilevelValue("Latin America", "Brazil"),
+        new ChartMultilevelValue("Latin America", "Mexico"),
+        new ChartMultilevelValue("Latin America", "Other"),
+        new ChartMultilevelValue("Northern America", "United States"),
+        new ChartMultilevelValue("Northern America", "Other"),
+        new ChartMultilevelValue("Oceania")
+    },
+    new double[]
+    {
+        1409670000, 1400744000, 279118866, 241499431, 169828911, 123930000, 112892781, 764000000,
+        223800000, 107334000, 105914499, 903000000,
+        146150789, 84607016, 516000000,
+        203080756, 129713690, 310000000,
+        335893238, 35000000,
+        42000000
+    });
+
+// Show data labels.
+series.HasDataLabels = true;
+series.DataLabels.ShowValue = true;
+series.DataLabels.ShowCategoryName = true;
+string thousandSeparator = CultureInfo.CurrentCulture.NumberFormat.CurrencyGroupSeparator;
+series.DataLabels.NumberFormat.FormatCode = $"#{thousandSeparator}0";
+
+doc.Save(ArtifactsDir + "Charts.Treemap.docx");
+
+```
+*[Source\*](https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-6-release-notes/)*
+
+
+### Updated Comparison Options
+
+Aspose.Words for .NET 24.6 offers streamlined data analysis with new options to ignore irrelevant differences while comparing documents on a platform of your choice. This code sample illustrates the comparison of two DOCX documents in C#:
+
+```c#
+
+// For complete examples and data files, please go to https://github.com/aspose-words/Aspose.Words-for-.NET.git.
+Document docA = new Document(MyDir + "Document with SDT 1.docx");
+Document docB = new Document(MyDir + "Document with SDT 2.docx");
+
+// Configure options to compare SDT with same content but different store item id.
+CompareOptions compareOptions = new CompareOptions();
+compareOptions.AdvancedOptions.IgnoreStoreItemId = false;
+
+docA.Compare(docB, "user", DateTime.Now, compareOptions);
+Assert.AreEqual(8, docA.Revisions.Count);
+
+compareOptions.AdvancedOptions.IgnoreStoreItemId = true;
+
+docA.Revisions.RejectAll();
+docA.Compare(docB, "user", DateTime.Now, compareOptions);
+Assert.AreEqual(0, docA.Revisions.Count);
+
+```
+*[Source\*](https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-6-release-notes/)*
+
+### Shadow Formatting and Color Control 
+
+With the latest .NET library release, you obtain greater control over the visual appearance of your documents by managing shadow colors for shapes within your word-processing apps, as highlighted in the following code example:
+
+```c#
+
+// For complete examples and data files, please go to https://github.com/aspose-words/Aspose.Words-for-.NET.git.
+Document doc = new Document(MyDir + "Shadow color.docx");
+Shape shape = (Shape)doc.GetChild(NodeType.Shape, 0, true);
+
+Assert.AreEqual(Color.Red.ToArgb(), shape.ShadowFormat.Color.ToArgb());
+
+```
+*[Source\*](https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-6-release-notes/)*
+
+### Augmented Comment Management
+
+Access timestamps for comments effortlessly and experience improved organization and tracking of revisions. This C# code example illustrates the feature usage: 
+
+```c#
+
+// For complete examples and data files, please go to https://github.com/aspose-words/Aspose.Words-for-.NET.git.
+Document doc = new Document();
+DocumentBuilder builder = new DocumentBuilder(doc);
+
+DateTime dateTime = DateTime.Now;
+Comment comment = new Comment(doc, "John Doe", "J.D.", dateTime);
+comment.SetText("My comment.");
+
+builder.CurrentParagraph.AppendChild(comment);
+
+doc.Save(ArtifactsDir + "Comment.UtcDateTime.docx");
+doc = new Document(ArtifactsDir + "Comment.UtcDateTime.docx");
+
+comment = (Comment)doc.GetChild(NodeType.Comment, 0, true);
+// DateTimeUtc return data without milliseconds.
+Assert.AreEqual(dateTime.ToUniversalTime().ToString("yyyy-MM-dd hh:mm:ss"), comment.DateTimeUtc.ToString("yyyy-MM-dd hh:mm:ss"));
+
+```
+*[Source\*](https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-6-release-notes/)*
+
+### Supercharged Background Rendering
+
+The latest C# Word document library version allows you to enjoy significantly quicker rendering times for documents containing small background elements.
+
+### Realistic Shape Gradients
+
+Make DML shapes with nonlinear gradients within your C# and VB.NET applications and imitate the visual style of MS Word for a refined look.
+
+### Upgraded LINQ Reporting Engine
+
+The LINQ reporting engine has been enhanced in the latest word-processing library release, and it now supports the selective removal of empty paragraphs. Please check out the following code sample, which shows how to remove paragraphs selectively from DOCX documents in C#:
+
+```c#
+
+// For complete examples and data files, please go to https://github.com/aspose-words/Aspose.Words-for-.NET.git.
+// Template contains tags with an exclamation mark. For such tags, empty paragraphs will be removed.
+Document doc = new Document(MyDir + "Reporting engine template - Selective remove paragraphs.docx");
+
+ReportingEngine engine = new ReportingEngine();
+engine.BuildReport(doc, false, "value");
+
+doc.Save(ArtifactsDir + "ReportingEngine.SelectiveDeletionOfParagraphs.docx");
+
+```
+*[Source\*](https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-6-release-notes/)*
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Words for .NET 24.6 Release Notes](https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
