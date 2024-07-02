@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.imaging-for-.net-24.6"
-description: " "
+title: "HEIC Support & ExifData Transfer - C# Imaging API 24.6 (MSI)"
+description: "Unlock HEIC image support, enhanced metadata handling, & improved DICOM conversion with Aspose.Imaging .NET 24.6 (MSI). Download on Windows now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/imaging/net/new-releases/aspose.imaging-for-.net-24.6/"
@@ -43,8 +43,91 @@ weight: 383
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-6-release-notes/'>https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Imaging for .NET 24.6 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Imaging for .NET 24.6 (MSI) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.Imaging for .NET 24.6 (MSI installer) offers exciting new features and enhancements to elevate your image processing capabilities on the .NET platform. Developers can effortlessly load and convert HEIC images to a wide range of supported formats and do much more.
+
+### HEIC Image Support
+
+The current C# imaging API version enables seamless working with the HEIC (High-Efficiency Image Container) format, a popular choice for mobile photography. With this feature, users can load and convert HEIC-format images to various Aspose.Imaging-supported formats.
+
+### Enhanced `ExifData` Management
+
+Transfer ExifData (image metadata) between supported formats during image export for richer image information using version 24.6 of Aspose.Imaging for .NET. Please refer to the following C# code sample, which highlights how to preserve EXIF data during image export with the `KeepMetadata` property.
+
+```c#
+
+Image EXIF and XMP metadata processing:
+
+public static void ExportWithMetadata(string inputPath, string outputPath, ImageOptionsBase exportOptions)
+{
+    using (var image = Image.Load(inputPath))
+    {
+        exportOptions.KeepMetadata = true;
+        image.Save(outputPath, exportOptions);
+    }
+}
+
+public static void RemoveMetadata(string inputPath, string outputPath, ImageOptionsBase exportOptions)
+{
+    using (var image = Image.Load(inputPath))
+    {
+        image.RemoveMetadata();
+        image.Save(outputPath, exportOptions);
+    }
+}
+
+public static void ModifyMetada(string inputPath, string outputPath, ImageOptionsBase exportOptions)
+{
+    using (var image = Image.Load(inputPath))
+    {
+        if (image is IHasExifData hasExif && hasExif.ExifData != null)
+        {
+            hasExif.ExifData.UserComment = $"Modified at {DateTime.Now}";
+        }
+
+        exportOptions.KeepMetadata = exportOptions is IHasExifData;
+        image.Save(outputPath, exportOptions);
+    }
+}
+
+```
+*[Source\*](https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-6-release-notes/)*
+
+### Improved DICOM Processing
+
+Experience refined DICOM (Digital Imaging and Communications in Medicine) image handling within your C# and VB.NET imaging applications and ensure accurate conversions to various formats. Here's how you can convert a DICOM image to JPEG in C#:
+
+```c#
+
+using var image = Image.Load(@"input.dicom");
+image.Save(@"output.jpeg");
+
+```
+*[Source\*](https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-6-release-notes/)*
+
+### Other Enhancements
+
+- **Enhanced Text Alignment in EMF:** Text alignment issues in EMF+ format have been addressed for accurate rendering.
+- **Refined Unknown Format Detection:** Unknown file formats are accurately identified after SVG detection.
+- **Transparent PNG to TIFF Conversion:** Transparent PNG to 24-bit TIFF conversion now produces the correct white color for transparent areas.
+- **New `GetSerializedStream` Methods:** Efficiently serialize image data with new methods in the `Image`, `RasterCachedMultipageImage`, and `VectorMultipageImage` classes.
+- **Additional DICOM Conversion Options:** `Aspose.Imaging.FileFormats.Dicom.DicomImageInfo` class provides new methods for adding, removing, and updating DICOM tags.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Imaging for .NET 24.6 Release Notes](https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
