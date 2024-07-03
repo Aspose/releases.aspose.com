@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cad-for-.net-24.6"
-description: " "
+title: "Optimized MTEXT Rendering & More: .NET CAD API 24.6 (MSI)"
+description: "Upgrade to Aspose.CAD .NET 24.6 for better MTEXT rendering, reduced memory usage, and improved DWG/DXF processing in C# apps. Download MSI now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/cad/net/new-releases/aspose.cad-for-.net-24.6/"
@@ -45,6 +45,44 @@ weight: 230
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Contains MSI installer for full product installation of Aspose.CAD for .NET v24.6</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+We are excited to announce the release of Aspose.CAD for .NET 24.6 (MSI)! This update includes a comprehensive set of improvements and feature upgrades to empower your CAD development in .NET.
+
+### Key Highlights
+
+### Optimized Rendering and Processing:
+- Experience a significant improvement in the accuracy and quality of MTEXT rendering within your C# and VB.NET apps.
+- This .NET CAD API release streamlines DWG to PNG conversions with reduced memory consumption.
+- Developers can efficiently parse predefined colors within STP files. 
+- Ensure accurate handling of default fonts during text processing.
+
+### Improved DWG/DXF Editing and Export:
+- Effortlessly modify and save bitmap images embedded in your DWG files.
+- Overcome issues encountered during DWG/DXF export and recombination with Aspose.CAD for .NET 24.6.
+- With the latest CAD library version, you can export current DXF exporter modules for broader utilization.
+
+### Broader File Format Support:
+- Easily address exceptions encountered during IFC to STP conversions within your document conversion apps.
+- We have fixed the issues related to the FBX to STP conversion.
+- Better handle hidden lines during DXF to PDF conversion using this C# CAD library version.
+- Support for reading and writing required sections within various file formats has now been implemented.
+
+### Fixes and Refinements:
+Several functionality enhancements related to DWG/DXF processing, MLeaders in DWG to PDF export, and other operations have been introduced.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.CAD for .NET 24.6 Release Notes](https://releases.aspose.com/cad/net/release-notes/2024/aspose-cad-for-net-24-6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

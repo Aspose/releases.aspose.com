@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.note-for-.net-24.6-(dlls-only)"
-description: " "
+title: "Supercharge OneNote® Apps: Aspose.Note .NET 24.6 (DLLs)"
+description: "Boost your C# apps! Aspose.Note .NET 24.6 (DLLs-only) offers enhanced HTML import to developers for a seamless OneNote® experience. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/note/net/new-releases/aspose.note-for-.net-24.6-(dlls-only)/"
@@ -43,8 +43,40 @@ weight: 209
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/note/net/release-notes/2024/aspose-note-for-net-24-6-release-notes/'>https://releases.aspose.com/note/net/release-notes/2024/aspose-note-for-net-24-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Note for .NET 24.6 (Dlls Only) release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Note for .NET 24.6 (DLLs-only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.Note for .NET 24.6 (DLLs-only package) enhances your OneNote® integration across multiple platforms. The latest update introduces a new feature for HTML content import into your OneNote® apps and much more.
+
+### Supercharge the HTML Content Import
+
+Upgrade your OneNote applications by integrating HTML content using the newly added `Aspose.Note.Importing.HtmlImportOptions` class and `Aspose.Note.Importing.HtmlImporter` class in this version.
+
+### Augmented Stability
+
+Aspose.Note for .NET 24.6 offers refined application stability with important bug fixes catering to issues like invalid value exceptions during PDF conversions, video embedding problems, and HTML data display.
+
+### Next-level OneNote Processing
+
+The handling of video attachments and HTML data display has been improved, offering a much-enhanced user experience while processing OneNote documents.
+
+### Bug Fixes
+
+Various issues, like exceptions during PDF conversions and missing video attachments, have been addressed in the latest C# OneNote library release.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Note for .NET 24.6 Release Notes](https://releases.aspose.com/note/net/release-notes/2024/aspose-note-for-net-24-6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
