@@ -97,6 +97,7 @@ productLink: https://products.aspose.com/imaging/java/
 releaseNotesLink: https://releases.aspose.com/imaging/java/release-notes/
 dataFolder: aspose_imaging
 packages_refs:
+- "24-7"
 - "24-6"
 - "24-5"
 - "24-4"
