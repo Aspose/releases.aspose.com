@@ -1,20 +1,20 @@
 ---
-date: "2024-05-16"
-id: "aspose-ocr-python-cpp-24-5-0-release-notes"
-slug: "aspose-ocr-python-cpp-24-5-0-release-notes"
-linktitle: "Aspose.OCR for Python via C++ 24.5.0 - Release Notes"
-title: "Aspose.OCR for Python via C++ 24.5.0 - Release Notes"
+date: "2024-07-04"
+id: "aspose-ocr-python-cpp-24-7-0-release-notes"
+slug: "aspose-ocr-python-cpp-24-7-0-release-notes"
+linktitle: "Aspose.OCR for Python via C++ 24.7.0 - Release Notes"
+title: "Aspose.OCR for Python via C++ 24.7.0 - Release Notes"
 author: "Vladimir Lapin"
 weight: 91
-description: "A summary of recent changes, enhancements and bug fixes in Aspose.OCR for Python via C++ 24.5.0 (May 2024) release."
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OCR for Python via C++ 24.7.0 (July 2024) release."
 type: "repository"
 layout: "release"
 hideChildren: false
 toc: false
-family_listing_page_title: "Aspose.OCR for Python via C++ 24.5.0 - Release Notes"
+family_listing_page_title: "Aspose.OCR for Python via C++ 24.7.0 - Release Notes"
 keywords:
 - "2024"
-- "May"
+- "July"
 - "new"
 - "release"
 - "changelog"
@@ -22,7 +22,7 @@ menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for Python via C++ 24.5.0 (May 2024)** release.
+This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for Python via C++ 24.7.0 (July 2024)** release.
 {{% /alert %}}
 
 ## What was changed
@@ -34,11 +34,11 @@ OCRCPP&#8209;608 | Published Aspose.OCR for Python via C++ to PyPI. | New featur
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OCR for Python via C++ 24.5.0** that may affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OCR for Python via C++ 24.7.0** that may affect the code of existing applications.
 
 ### Added public APIs:
 
-The major change introduced in **Aspose.OCR for Python via C++ 24.5.0** is that the distributive now offers basic recognition capabilities only. Additional features can be added via downloadable resources, freely available in our [online repository](https://github.com/aspose-ocr/resources).
+The major change introduced in **Aspose.OCR for Python via C++ 24.7.0** is that the distributive now offers basic recognition capabilities only. Additional features can be added via downloadable resources, freely available in our [online repository](https://github.com/aspose-ocr/resources).
 
 This approach allows you to selectively choose which features you need for your project, keeping your codebase lean and modular.
 
