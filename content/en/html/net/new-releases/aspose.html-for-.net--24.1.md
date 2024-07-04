@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.html-for-.net--24.1"
-description: " "
+title: "Empower Your .NET HTML Apps with Aspose.HTML 24.1 (MSI)"
+description: "Take your C# HTML processing apps to the next level with improved HTML & CSS handling using Aspose.HTML .NET 24.1. Download the MSI installer today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/html/net/new-releases/aspose.html-for-.net--24.1/"
@@ -43,8 +43,37 @@ weight: 273
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-1-release-notes/'>https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.HTML for .NET 24.1 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.HTML for .NET 24.1 (MSI) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+
+Aspose.HTML for .NET 24.1 (MSI) release is here! This version enhances HTML document processing and CSS style handling, empowering you to build dynamic C# and VB.NET applications.
+
+### Superior HTML Processing
+
+Developers can enjoy improved fidelity when working with various HTML documents within your .NET projects. Work with greater confidence by elevating the overall quality of your HTML document processing solutions. 
+
+### Supercharged CSS Parsing
+
+Empower your .NET applications with accurate parsing and processing of CSS styles, including Flexbox, inline, and table elements with Aspose.HTML for .NET 24.1.
+
+### Bug Fixes
+
+We have fixed several critical issues reported by our valued users related to infinite loops during the HTML to PNG conversion, `System.ArgumentException` errors, and `System.OutOfMemoryException` occurrences.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.HTML for .NET 24.1 Release Notes](https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
