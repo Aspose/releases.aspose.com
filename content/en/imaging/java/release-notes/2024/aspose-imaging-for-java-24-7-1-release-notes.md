@@ -29,5 +29,5 @@ try (Image image = Image.load("instruction.svg"))
      // do nothing
 }
 
-{{< highlight >}}
+{{< /highlight >}}
 
