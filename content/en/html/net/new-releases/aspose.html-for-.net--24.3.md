@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.html-for-.net--24.3"
-description: " "
+title: "HTML Library 24.3 (MSI): Refined Font Handling in .NET Apps"
+description: "Download Aspose.HTML for .NET 24.3 (MSI) and leverage enhanced font handling for Docker images, HTML to PNG conversion & ASP.NET Core compatibility. "
 keywords: ""
 page_type: single_release_page
 folder_link: "/html/net/new-releases/aspose.html-for-.net--24.3/"
@@ -43,8 +43,36 @@ weight: 277
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-3-release-notes/'>https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.HTML for .NET 24.3 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.HTML for .NET 24.3 (MSI) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+We are excited to announce the Aspose.HTML for .NET 24.3 (MSI) release! With this update, you can enjoy improved font handling within Docker environments utilizing Debian 12 base images and more.
+
+### Enhanced Docker Integration
+
+The .NET HTML library now offers more dynamic font support for Docker containers built on Debian 12, facilitating consistent rendering and manipulation of HTML content.
+
+### HTML to PNG Conversion
+
+The exceptions and issues that occurred during specific HTML to PNG conversion scenarios have been resolved in version 24.3 of Aspose.HTML for .NET.
+
+### ASP.NET Core Compatibility
+
+We have fixed the problems with Aspose.HTML for .NET exhibiting unexpected behavior within ASP.NET Core Bookworm projects (previously functional in Bullseye projects). It also affected font rendering in the non-working version.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.HTML for .NET 24.3 Release Notes](https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
