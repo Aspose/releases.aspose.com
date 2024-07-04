@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.html-for-.net--24.6"
-description: " "
+title: "Aspose.HTML .NET 24.6: Improved Encoding, Rendering (MSI)"
+description: "Boost your app's HTML conversion capabilities with Aspose.HTML .NET 24.6. Enhanced encoding, improved HTML parsing & rendering. Download MSI now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/html/net/new-releases/aspose.html-for-.net--24.6/"
@@ -43,8 +43,40 @@ weight: 283
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-6-release-notes/'>https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.HTML for .NET 24.6 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.HTML for .NET 24.6 (MSI) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Version 24.6 of Aspose.HTML for .NET brings several improvements to enhance your application's HTML conversion capabilities. We've refined the document encoding detection algorithm for better accuracy and HTML parsing, rendering, and font handling.
+
+### Accurate Encoding Detection
+
+We have improved the encoding algorithm in the latest C# HTML API release to ensure the correct interpretation of character sets in HTML documents.
+
+### Enhanced HTML Rendering
+
+Various functionalities such as splitting, parsing, and font handling have been optimized, which leads to a more accurate representation of your HTML content within your .NET HTML parsing apps.
+
+### Improved Text Quality
+
+Better processing of font naming tables in Aspose.HTML for .NET 24.6 leads to sharper and more accurate text rendering in converted documents.
+
+### Bug Fixes
+
+The latest library version has resolved issues with table continuation across pages, font-weight handling, markdown conversion indentation, radio button rendering in PDFs, and closing tag addition.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.HTML for .NET 24.6 Release Notes](https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.html-for-.net--24.4"
-description: " "
+title: "Sharper SVGs, Text & PDFs - Aspose.HTML .NET 24.4 (MSI)"
+description: "Unlock your app's conversion capabilities with Aspose.HTML .NET 24.4! Download the MSI for improved SVG rendering in PDFs, sharper text in XPS & more."
 keywords: ""
 page_type: single_release_page
 folder_link: "/html/net/new-releases/aspose.html-for-.net--24.4/"
@@ -43,8 +43,38 @@ weight: 279
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-4-release-notes/'>https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.HTML for .NET 24.4 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.HTML for .NET 24.4 (MSI) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Unleash the full potential of your HTML processing solutions with Aspose.HTML for .NET 24.4 (MSI installer)! This release equips you with the tools to generate superior-quality PDFs, XPS files, and images effortlessly.
+
+### Key Highlights:
+
+- **Crystal-clear SVGs:** The latest library release lets you experience exceptional quality when converting HTML to PDF with faithfully reproduced SVG images.
+- **Crisper Text in PDFs:** Enjoy sharper text rendering within your generated PDF documents using this C# HTML library version.
+- **Enhanced XPS Quality:** Benefit from updated text fidelity in XPS output for a more polished presentation of your documents.
+- **Advanced JavaScript Processing:** Developers can now leverage an updated JavaScript processing engine for better compatibility and execution.
+- **Linux Compatibility Fortified:** Aspose.HTML for .NET 24.4 boosts Linux compatibility with upcoming changes in later versions (starting from 24.6) to ensure seamless integration with various rendering systems.
+
+### Bug Fixes:
+
+- Accurate HTML to PNG Conversion on Linux (HTMLNET-3901) - FIXED.
+- Consistent Image Creation Across Windows and Linux (HTMLNET-4202) - FIXED.
+- Complete Content in PNG Output (HTMLNET-4011) - FIXED.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.HTML for .NET 24.4 Release Notes](https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

@@ -17,7 +17,7 @@ section_parent_path: "cad/python-net"
 
 tags: ""
 release_notes_url: "https://releases.aspose.com/cad/python-net/release-notes/2023/aspose-cad-for-python-23-6-release-notes/"
-weight: 7
+weight: 2
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.html-for-.net-24.3-(dlls-only)"
-description: " "
+title: "HTML Library 24.3 (DLLs): Refined Font Handling in .NET Apps"
+description: "Download Aspose.HTML .NET 24.3 (DLLs-only) & leverage enhanced font handling for Docker images, HTML to PNG conversion & ASP.NET Core compatibility. "
 keywords: ""
 page_type: single_release_page
 folder_link: "/html/net/new-releases/aspose.html-for-.net-24.3-(dlls-only)/"
@@ -43,8 +43,36 @@ weight: 276
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-3-release-notes/'>https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.HTML for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.HTML without the MSI installer, i.e. you cannot run MSI installers on Mono. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer.</div>
+      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.HTML for .NET 24.3 assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.HTML without the MSI installer, i.e. you cannot run MSI installers on Mono. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Great news for .NET developers! Aspose.HTML for .NET 24.3 (DLLs-only) is here and it brings optimized font handling within Docker environments, leveraging Debian 12 base images, and much more.
+
+### Refined Docker Integration
+
+Enhance the portfolio of your HTML processing solutions with the latest .NET HTML library release. It now provides robust support for fonts in Docker containers built on Debian 12 and facilitates consistent HTML content rendering and manipulation.
+
+### Convert HTML to PNG in Your Apps
+
+Aspose.HTML for .NET 24.3 delivers fixes for the problems encountered during specific HTML to PNG conversion scenarios.
+
+### ASP.NET Core Compatibility
+
+The issues with Aspose.HTML for .NET causing unexpected behavior within ASP.NET Core Bookworm projects (earlier functional in Bullseye projects) are now resolved. 
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.HTML for .NET 24.3 Release Notes](https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

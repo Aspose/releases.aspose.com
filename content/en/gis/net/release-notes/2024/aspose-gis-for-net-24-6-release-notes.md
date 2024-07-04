@@ -247,7 +247,6 @@ This is a Major improvement of Aspose.GIS Integration with DataBases. Please che
         [Test]
         public async Task NeighboringRegionsWithAdditionalSrsQuery()
         {
-            //TODO: it is strange, but the datum from the database do not coincide with the built-in ones through SpatialReferenceSystem.IsEquivalent.
             var builder = new DatabaseDataSourceBuilder();
             var referenceSrs = SpatialReferenceSystem.CreateFromEpsg(4284);
 

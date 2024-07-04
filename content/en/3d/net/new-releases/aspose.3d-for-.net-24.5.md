@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.3d-for-.net-24.5"
-description: " "
+title: "Secure Watermarking, Blender Import - .NET 3D API 24.5 (MSI)"
+description: "Upgrade your .NET apps with improved 3D file import, processing & watermark security. Download Aspose.3D for .NET 24.5 (MSI) & explore new features now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-24.5/"
@@ -43,8 +43,44 @@ weight: 363
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-5-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 24.5 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 24.5 (MSI) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.3D for .NET 24.5 (MSI) release focuses on enhancing compatibility with Blender and JT file formats and improving watermark security. We’ve addressed several bugs to ensure smoother processing of your 3D models within your C# and VB.NET applications.
+
+### Secure Watermarking 
+
+With the latest .NET 3D API release, you can prevent users from overriding existing watermarks if they are password-protected and ensure the integrity of your 3D content.
+
+### Improved Blender Import
+
+The issues related to importing Blender files with nested textures, skeletons, and deformed animations have been resolved in Aspose.3D for .NET 24.5.
+
+### Enhanced JT Compatibility
+
+We have taken care of the problems affecting the import of compressed vertex color arrays and TopoMesh's compressed LOD data in JT 9.5 files.
+
+### Version Information Added
+
+A new field has been introduced to the `Aspose.ThreeD.Scene` class in this C# 3D library version, providing access to the current Aspose.3D assembly version.
+
+### Bug Fixes
+
+This release primarily addresses bugs related to file import and other API functionalities, along with improvements to the watermarking features.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.3D for .NET 24.5 Release Notes](https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

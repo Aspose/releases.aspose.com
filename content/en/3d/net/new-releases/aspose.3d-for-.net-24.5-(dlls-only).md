@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.3d-for-.net-24.5-(dlls-only)"
-description: " "
+title: "Secure Watermarks, Blender Import - .NET 3D API 24.5 (DLLs)"
+description: "Refine 3D capabilities & secure watermarks in .NET projects. Download Aspose.3D .NET 24.5 (DLLs only) for streamlined integration and bug fixes in C# apps."
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-24.5-(dlls-only)/"
@@ -43,8 +43,40 @@ weight: 364
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-5-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 24.5 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 24.5 (DLLs-only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.3D for .NET 24.5 (DLLs-only package) release enhances Blender and JT file compatibility and improves watermark security. Additionally, various bugs have been fixed, ensuring smoother processing of 3D models in your cross-platform C# and VB.NET solutions.
+
+### Secure Your Watermarks
+
+The latest .NET 3D API release helps you prevent users from overriding existing password-protected watermarks to ascertain the integrity of your 3D content.
+
+### Refined Blender Import
+
+The functionality of importing Blender files with nested textures, skeletons, and deformed animations has been refined in Aspose.3D for .NET 24.5 release.
+
+### Robust JT Compatibility
+
+We have optimized the compatibility with JT files by resolving the problems affecting the import of compressed vertex color arrays and TopoMesh’s compressed LOD data in JT 9.5 files.
+
+### Addition of Version Information
+
+We have introduced a new field to the `Aspose.ThreeD.Scene` class in this C# 3D library release, which offers access to the current Aspose.3D assembly version.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.3D for .NET 24.5 Release Notes](https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

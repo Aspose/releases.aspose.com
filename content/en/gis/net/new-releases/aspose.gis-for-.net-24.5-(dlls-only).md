@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.gis-for-.net-24.5-(dlls-only)"
-description: " "
+title: "Aspose.GIS for .NET 24.5: Simplified File Handling (DLLs Only)"
+description: "Download Aspose.GIS .NET 24.5 (DLLs-only package) for streamlined file handling. Access powerful GIS functionalities for your C# and VB.NET applications."
 keywords: ""
 page_type: single_release_page
 folder_link: "/gis/net/new-releases/aspose.gis-for-.net-24.5-(dlls-only)/"
@@ -16,7 +16,7 @@ parent_path: "gis/net"
 section_parent_path: "gis/net"
 
 tags: "dbf dbf epsg format gdb geojson geojson-to-shape geojson-to-topojson geometries geometry geoprocessing geotiff gml gpx id jpg kml linq map mif mvc osm png postgis qix raster render rendering services shape-to-geojson shapes shp shx spatial"
-release_notes_url: "https://docs.aspose.com/gis/net/aspose-gis-for-net-24-5-release-notes/"
+release_notes_url: "https://releases.aspose.com/gis/net/release-notes/2024/aspose-gis-for-net-24-5-release-notes/"
 weight: 235
 
 ---
@@ -40,11 +40,35 @@ weight: 235
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/gis/net/aspose-gis-for-net-24-5-release-notes/'>https://docs.aspose.com/gis/net/aspose-gis-for-net-24-5-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/gis/net/release-notes/2024/aspose-gis-for-net-24-5-release-notes/'>https://releases.aspose.com/gis/net/release-notes/2024/aspose-gis-for-net-24-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.GIS for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version.</div>
+      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.GIS for .NET 24.5 assemblies. The assemblies are the same as in the MSI installer of the product of the same version.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.GIS for .NET 24.5 (DLLs-only) is here to deliver a simplified file handling experience for your C# and VB.NET development projects. This release focuses on internal optimizations for improved performance and stability.
+
+### Streamlined File Handling
+
+This version of the C# geospatial library brings internal optimizations for a smoother file handling experience within your .NET applications. We have incorporated various refinements to streamline core functionalities, bolster overall library performance, and provide you with a dynamic GIS app development experience.
+
+
+Aspose.GIS for .NET 24.5 provides a solid foundation for developers building geospatial applications with .NET. Download the library and get started today!
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.GIS for .NET 24.5 Release Notes](https://releases.aspose.com/gis/net/release-notes/2024/aspose-gis-for-net-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

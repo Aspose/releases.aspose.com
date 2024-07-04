@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.diagram-for-.net-24.6"
-description: " "
+title: "Aspose.Diagram .NET 24.6: Dynamic Shape Insertions (MSI)"
+description: "Leverage new features like automatic page extension and improved Visio to HTML conversion with Aspose.Diagram for .NET 24.6. Download MSI installer now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/net/new-releases/aspose.diagram-for-.net-24.6/"
@@ -43,8 +43,44 @@ weight: 518
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-6-release-notes/'>https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Msi for Aspose.Diagram for .NET 24.6</div>
+      <h4>Description</h4><div class="HTMLDescription">It includes MSI for Aspose.Diagram for .NET 24.6 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Great news for .NET developers! Aspose.Diagram for .NET 24.6 is here, and it delivers a range of improvements to enhance your C# app development experience. Simplify your workflows with automatic page extensions for shapes and benefit from enhanced Visio to HTML conversion.
+
+### Dynamic Page Extension
+
+Insert shapes into the page, extend it automatically during insertions, and fit the shape on the page with this C# diagram API release.
+
+### Improved Visio Conversion
+
+We have optimized the Visio conversion functionality related to missing connections and cell values, which has enhanced converting VSD diagrams to VSDX format.
+
+### Enhanced Page Handling
+
+The issues with the `PageSize` option not working correctly have been resolved in Aspose.Diagram for .NET 24.6, ensuring proper page size management.
+
+### Shape Theme Color Property
+
+A new `HasThemeColor` property has been introduced in this .NET library release, and it simplifies checking if a shape uses a theme color, streamlining shape customization workflows.
+
+### AutoFit Page Fixes
+
+The issues related to drawing content spillover when using the `AutoFitPageToDrawingContent` functionality have now been resolved.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Diagram for .NET 24.6 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
