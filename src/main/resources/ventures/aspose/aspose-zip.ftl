@@ -65,17 +65,16 @@ Aspose.ZIP for Java class library allows your Java applications to compress/deco
 ## Archive Processing Features
 
 - Compress files and folders into standard ZIP formats.
-- Supports Deflate, `Bzip2` & `LZMA` compression algorithms.
+- Supports `Deflate`, `Bzip2` & `LZMA` compression algorithm.
 - Apply simple password or `AES128`, `AES192`, `AES256` encryption to archives.
 - Employ different protection schemes for each file within an archive.
 - Append more files to an existing zipped archive.
 - Use `Gzip` or `Bzip2` to pack files & folders into a `TAR` archive.
 - Supports `LZMA` or `LZMA2` compression & optional encryption to create `7z` archives.
-- Create self-extracting compressed archives.
 
 ### Read & Write ZIP Formats
 
-ZIP (Coming soon: 7z, TAR, GZIP, BZ2)
+ZIP, 7z, TAR, GZIP, BZ2
 
 ## Supported Environments
 
