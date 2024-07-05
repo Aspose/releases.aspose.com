@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.zip-for-.net-24.3"
-description: " "
+title: "Zstandard & Cpio Compression in .NET: Aspose.ZIP 24.3 (MSI)"
+description: "Work with Zstandard compression & Cpio archives with Aspose.ZIP .NET 24.3 (MSI) to enhance compression & extraction features of your apps. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/zip/net/new-releases/aspose.zip-for-.net-24.3/"
@@ -43,8 +43,46 @@ weight: 148
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/zip/net/release-notes/2024/aspose-zip-for-net-24-3-release-notes/'>https://releases.aspose.com/zip/net/release-notes/2024/aspose-zip-for-net-24-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.ZIP for .NET 24.3 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.ZIP for .NET 24.3 (MSI) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Great news for .NET developers working with archive compression solutions! Aspose.ZIP for .NET 24.3 (MSI) is here and it provides support for Zstandard, a high-performance compression format, and expanded Cpio archive handling with various compression methods.
+
+### Zstandard Compression
+
+Embrace Zstandard, a powerful compression algorithm, for superior archive size reduction within your .NET applications running on the Windows platform, using this .NET library release.
+
+### Cpio Archive Flexibility
+
+Aspose.ZIP for .NET 24.3 offers comprehensive support for Cpio archives and allows you to seamlessly work with formats compressed with Lzip, LZMA, Z, and Zstandard.
+
+### New Public APIs
+
+Simplify your development process with a set of new public APIs designed to interact with Zstandard archives and Cpio archives with diverse compression methods. The following public API members were added in this release: 
+
+- Aspose.Zip.Zstandard.ZstandardArchive	
+- Aspose.Zip.Cpio.CpioArchive.SaveLzipped(…)	
+- Aspose.Zip.Cpio.CpioArchive.SaveLZMACompressed(…)	
+- Aspose.Zip.Cpio.CpioArchive.SaveZCompressed(…)	
+- Aspose.Zip.Cpio.CpioArchive.SaveZstandard(…)	
+- Aspose.Zip.Zstandard.ZstandardArchive.SetSource(…)	
+- Aspose.Zip.Zstandard.ZstandardArchive.Open()	
+- Aspose.Zip.Zstandard.ZstandardArchive.Save(…)	
+- Aspose.Zip.Zstandard.ZstandardArchive.ExtractToDirectory (…)	
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.ZIP for .NET 24.3 Release Notes](https://releases.aspose.com/zip/net/release-notes/2024/aspose-zip-for-net-24-3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.zip-for-.net-24.2"
-description: " "
+title: "Optimized TAR Archives & More: Aspose.ZIP .NET 24.2 (MSI)"
+description: "Secure, efficient ZIP & archive management for .NET devs with Aspose.ZIP .NET 24.2 (MSI installer). Easily handle large TAR archives & more. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/zip/net/new-releases/aspose.zip-for-.net-24.2/"
@@ -43,8 +43,32 @@ weight: 146
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/zip/net/release-notes/2024/aspose-zip-for-net-24-2-release-notes/'>https://releases.aspose.com/zip/net/release-notes/2024/aspose-zip-for-net-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.ZIP for .NET 24.2 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.ZIP for .NET 24.2 (MSI) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Version 24.2 of the Aspose.ZIP for .NET 24.2 (MSI) API introduces enhancements for handling corrupted data and processing large TAR archives within your C# and VB.NET applications.
+
+### Optimized Corrupted Data Handling
+
+Developers can now gracefully handle exceptions raised due to corrupted archive data. This update enhances robustness when working with potentially compromised archives on Windows.
+
+### Large TAR Archive Support
+
+Aspose.ZIP for .NET 24.2 correctly processes TAR archives containing entries exceeding 8GB in size. You can ensure convenient handling of massive TAR files with this upgrade.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.ZIP for .NET 24.2 Release Notes](https://releases.aspose.com/zip/net/release-notes/2024/aspose-zip-for-net-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

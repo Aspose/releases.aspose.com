@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.zip-for-.net-24.4-(dlls-only)"
-description: " "
+title: "Refined ZIP Extraction for Your .NET Apps - ZIP API 24.4 (DLLs)"
+description: "Extract Shrink-compressed ZIP entries with Aspose.ZIP for .NET 24.4 (DLLs-only). Developers, download the API to build powerful C# file compression apps."
 keywords: ""
 page_type: single_release_page
 folder_link: "/zip/net/new-releases/aspose.zip-for-.net-24.4-(dlls-only)/"
@@ -45,6 +45,28 @@ weight: 151
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.ZIP for .NET 24.4 (DLLs Only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.ZIP for .NET 24.4 (DLLs-only package) helps .NET developers with cross-platform integration and supports extracting entries compressed with the Shrink method from ZIP containers within their C# archive extraction apps.
+
+### Easily Extract Shrink-compressed ZIP Entries
+
+Expand the portfolio of your ZIP extraction apps with this C# archiving API release. It lets you extract entries compressed with the Shrink method from ZIP containers and augments the ability to work with a refined variety of ZIP archives.
+
+Add the latest archive management features to your .NET solutions with version 24.4 of Aspose.ZIP for .NET. Download the library and get started today!
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.ZIP for .NET 24.4 Release Notes](https://releases.aspose.com/zip/net/release-notes/2024/aspose-zip-for-net-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

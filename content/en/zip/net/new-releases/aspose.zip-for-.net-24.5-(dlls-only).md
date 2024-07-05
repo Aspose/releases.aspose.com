@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.zip-for-.net-24.5-(dlls-only)"
-description: " "
+title: "Powerful Archive Management | Aspose.ZIP .NET 24.5 (DLLs)"
+description: "Unleash powerful archiving features with Aspose.ZIP .NET 24.5. Efficiently compress, decompress & manage archives. Download the DLLs-only package now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/zip/net/new-releases/aspose.zip-for-.net-24.5-(dlls-only)/"
@@ -45,6 +45,30 @@ weight: 153
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.ZIP for .NET 24.5 (DLLs Only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+The Aspose.ZIP for .NET 24.5 (DLLs-only) release is here! This update focuses on streamlining archive processing for specific formats and includes adjustments for the evaluation version on Windows, Linux, or macOS.
+
+### Utilize Pipeline Streams In Your Apps
+
+.NET developers can now use pipeline streams for TAR.LZMA and CPIO.LZMA combinations with the C# archive management library and experience enhanced processing efficiency.
+
+### Adjustments to The Evaluation Version
+
+The evaluation version limits have been reworked to provide a more balanced usage experience while processing ZIP archives in your cross-platform C# and VB.NET applications.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.ZIP for .NET 24.5 Release Notes](https://releases.aspose.com/zip/net/release-notes/2024/aspose-zip-for-net-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
