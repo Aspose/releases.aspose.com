@@ -587,7 +587,7 @@ rewrite ^/pdf\.kit-for-\.net-and-java/$ https://releases-qa.aspose.com/pdf/ perm
 rewrite ^/psd/python-net/release-notes/2024/$ https://releases-qa.aspose.com/psd/python-net/release-notes/ permanent;
 rewrite ^/pdf/php-java/release-notes/$ https://releases-qa.aspose.com/pdf/ permanent;
 rewrite ^/pdf/python-net/$ https://releases-qa.aspose.com/pdf/pythonnet/ permanent;
-rewrite ^/slides/cpp/new-releases/aspose\.slides-for-c++-24\.4/$ https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-24.4-windows/ permanent;
+# rewrite ^/slides/cpp/new-releases/aspose\.slides-for-c++-24\.4/$ https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-24.4-windows/ permanent;
 rewrite ^/\/total/java/release-notes/2024/aspose-total-for-java-24-3-release-notes/$ https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/ permanent;
 rewrite ^/cad/python-net/release-notes/2024/aspose-cad-for-python-net-24-5-release-notes/$ https://releases-qa.aspose.com/cad/python-net/release-notes/2024/aspose-cad-for-python-24-5-release-notes/ permanent;
 rewrite ^/email/net/new-releases/aspose\.email-for-\.net-24\.5/$ https://releases-qa.aspose.com/email/net/new-releases/aspose.email-for-.net-24.5-dlls-only/ permanent;
