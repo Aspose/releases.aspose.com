@@ -615,15 +615,15 @@ rewrite ^/cells/java/22\.13$ https://releases-qa.aspose.com/cells/java/ permanen
 rewrite ^/cells/ko/$ https://releases-qa.aspose.com/cells/ permanent;
 rewrite ^/cells/ko/conversion/$ https://releases-qa.aspose.com/cells/ permanent;
 
-rewrite /zh/cells/cpp/aspose.cells-for-c++-23.1windows/$ https://releases-qa.aspose.com/zh/cells/cpp/new-releases/aspose.cells-for-c++-23.1windows/ permanent;
-rewrite /cells/java/22.12$ https://releases-qa.aspose.com/cells/java/22-12/ permanent;
-rewrite /cells/nodejs/new-releases/aspose.cells-for-node.js-via-java-24.5/$ https://releases-qa.aspose.com/cells/nodejs/ permanent;
-rewrite /cells/php-java/$ https://releases-qa.aspose.com/cells/php/ permanent;
-rewrite /cells/python-net/new-releases/aspose.cells-for-python-via-.net-22.6/$ https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-22.7/ permanent;
-rewrite /cells/python/new-releases/aspose.cells-for-python-21.12/$ https://releases-qa.aspose.com/cells/python-java/new-releases/aspose.cells-for-python-via-java-21.12/ permanent;
-rewrite /en/pdf/net/new-releases/aspose.pdf-for-.net-framework-4.0-24.6-dlls-only-outdated/$ https://releases-qa.aspose.com/pdf/net/new-releases/aspose.pdf-for-.net-framework-4.0-24.6-dlls-only-outdated/ permanent;
-rewrite /en/slides/net/$ https://releases-qa.aspose.com/slides/net/ permanent;
-rewrite /es/words/java/24.4/$ https://releases-qa.aspose.com/es/words/java/ permanent;
+rewrite ^/zh/cells/cpp/aspose.cells-for-c++-23.1windows/$ https://releases-qa.aspose.com/zh/cells/cpp/new-releases/aspose.cells-for-c++-23.1windows/ permanent;
+rewrite ^/cells/java/22\.12$ https://releases-qa.aspose.com/cells/java/22-12/ permanent;
+rewrite ^/cells/nodejs/new-releases/aspose.cells-for-node.js-via-java-24.5/$ https://releases-qa.aspose.com/cells/nodejs/ permanent;
+rewrite ^/cells/php-java/$ https://releases-qa.aspose.com/cells/php/ permanent;
+rewrite ^/cells/python-net/new-releases/aspose.cells-for-python-via-.net-22.6/$ https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-22.7/ permanent;
+rewrite ^/cells/python/new-releases/aspose.cells-for-python-21.12/$ https://releases-qa.aspose.com/cells/python-java/new-releases/aspose.cells-for-python-via-java-21.12/ permanent;
+rewrite ^/en/pdf/net/new-releases/aspose.pdf-for-.net-framework-4.0-24.6-dlls-only-outdated/$ https://releases-qa.aspose.com/pdf/net/new-releases/aspose.pdf-for-.net-framework-4.0-24.6-dlls-only-outdated/ permanent;
+rewrite ^/en/slides/net/$ https://releases-qa.aspose.com/slides/net/ permanent;
+rewrite ^/es/words/java/24\.4/$ https://releases-qa.aspose.com/es/words/java/ permanent;
 rewrite ^/gis/java/$ https://releases-qa.aspose.com/gis/ permanent;
 rewrite ^/java/aspose-cells/aspose-cells/22\.7/aspose-cells-22\.7\.pom$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-cells/22.7/aspose-cells-22.7.pom permanent;
 rewrite ^/ko/conversion/$ https://releases-qa.aspose.com/ permanent;
