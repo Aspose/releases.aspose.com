@@ -592,7 +592,6 @@ rewrite ^/email/net/new-releases/aspose\.email-for-\.net-24\.5/$ https://release
 rewrite ^/html/python/release-notes/2024/aspose-html-for-python-via-dotnet-24-5-release-notes/$ https://releases-qa.aspose.com/html/python-net/release-notes/2024/aspose-html-for-python-via-dotnet-24-6-release-notes/ permanent;
 rewrite ^/words/net/release-notes/2023/aspose-words-for-net-23-0-1-release-notes/$ https://releases-qa.aspose.com/words/net/release-notes/2023/aspose-words-for-net-23-1-release-notes/ permanent;
 rewrite ^/3d/conversion$ https://releases-qa.aspose.com/3d/ permanent;
-
 rewrite ^/pub/conversion$ https://releases-qa.aspose.com/pub/ permanent;
 rewrite ^/res_repo/res_repo/img/compress/aspose_pdf-for-java-banner\.png$ https://releases-qa.aspose.com/res_repo/img/compress/aspose_pdf-for-java-banner.png permanent;
 rewrite ^/slides/java/xxx$ https://releases-qa.aspose.com/slides/java/ permanent;
@@ -604,7 +603,6 @@ rewrite ^/zh/word/java/$ https://releases-qa.aspose.com/zh/words/java/ permanent
 rewrite ^/\/3d/java/release-notes/$ https://releases-qa.aspose.com/3d/java/release-notes/ permanent;
 rewrite ^/\/3d/java/release-notes/2024/$ https://releases-qa.aspose.com/3d/java/release-notes/2024/ permanent;
 rewrite ^/\/3d/java/release-notes/2024/aspose-3d-for-java-24-3-0-release-notes/$ https://releases-qa.aspose.com/3d/java/release-notes/2024/aspose-3d-for-java-24-3-release-notes/ permanent;
-rewrite ^/3d/conversion$ https://releases-qa.aspose.com/3d/ permanent;
 rewrite ^/3d/java/repo/$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-3d/ permanent;
 rewrite ^/Imaging$ https://releases-qa.aspose.com/imaging/ permanent;
 rewrite ^/admin/file/upload/email$ https://releases.admin.aspose.com/ permanent;
@@ -617,46 +615,32 @@ rewrite ^/cells/java/22\.13$ https://releases-qa.aspose.com/cells/java/ permanen
 rewrite ^/cells/ko/$ https://releases-qa.aspose.com/cells/ permanent;
 rewrite ^/cells/ko/conversion/$ https://releases-qa.aspose.com/cells/ permanent;
 
+rewrite /zh/cells/cpp/aspose\.cells-for-c++-23\.1windows/$ https://releases-qa.aspose.com/zh/cells/cpp/new-releases/aspose.cells-for-c++-23.1windows/ permanent;
+rewrite /cells/java/22\.12$ https://releases-qa.aspose.com/cells/java/22-12/ permanent;
+rewrite /cells/nodejs/new-releases/aspose\.cells-for-node\.js-via-java-24\.5/$ https://releases-qa.aspose.com/cells/nodejs/ permanent;
+rewrite /cells/php-java/$ https://releases-qa.aspose.com/cells/php/ permanent;
+rewrite /cells/python-net/new-releases/aspose\.cells-for-python-via-\.net-22\.6/$ https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-22.7/ permanent;
+rewrite /cells/python/new-releases/aspose\.cells-for-python-21\.12/$ https://releases-qa.aspose.com/cells/python-java/new-releases/aspose.cells-for-python-via-java-21.12/ permanent;
+rewrite /en/pdf/net/new-releases/aspose\.pdf-for-\.net-framework-4\.0-24\.6-dlls-only-outdated/$ https://releases-qa.aspose.com/pdf/net/new-releases/aspose.pdf-for-.net-framework-4.0-24.6-dlls-only-outdated/ permanent;
+rewrite /en/slides/net/$ https://releases-qa.aspose.com/slides/net/ permanent;
+rewrite /es/words/java/24\.4/$ https://releases-qa.aspose.com/es/words/java/ permanent;
+rewrite ^/gis/java/$ https://releases-qa.aspose.com/gis/ permanent;
+rewrite ^/java/aspose-cells/aspose-cells/22\.7/aspose-cells-22\.7\.pom$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-cells/22.7/aspose-cells-22.7.pom permanent;
+rewrite ^/ko/conversion/$ https://releases-qa.aspose.com/ permanent;
+rewrite ^/pdf/net/new-releases/aspose\.words-for-\.net-8\.1\.0/$ https://releases-qa.aspose.com/pdf/net/new-releases/aspose.pdf-for-.net-8.1.0/ permanent;
+rewrite ^/pdf/net/new-releases/aspose\.words-for-\.net-framework-4\.0-24\.5\.1-dlls-only-outdated/$ https://releases-qa.aspose.com/pdf/net/new-releases/aspose.pdf-for-.net-framework-4.0-24.5.1-dlls-only-outdated/ permanent;
+rewrite ^/plugins/aspose-pdf$ https://releases-qa.aspose.com/pdf/ permanent;
+rewrite ^/plugins/aspose-pdf/eclipse/pdf-maven/20\.10/$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-pdf/20.10/ permanent;
+rewrite ^/plugins/aspose-pdf/eclipse/pdf-maven/20\.10/site\.xml/$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-pdf/20.10/ permanent;
+rewrite ^/plugins/aspose-pdf/eclipse/pdf-maven/20\.10/site\.xml/content\.xml$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-pdf/20.10/ permanent;
+
 # rewrite /slides/cpp/new-releases/aspose.slides-for-c++-24.4/ https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-24.4-windows/ permanent;
 # rewrite /\/total/java/release-notes/2024/aspose-total-for-java-24-3-release-notes/$ https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/ permanent;
-# rewrite /zh/cells/cpp/aspose\.cells-for-c++-23\.1windows/$ https://releases-qa.aspose.com/zh/cells/cpp/new-releases/aspose.cells-for-c++-23.1windows/ permanent;
-# rewrite /cells/java/22\.12$ https://releases-qa.aspose.com/cells/java/22-12/ permanent;
-# rewrite /cells/nodejs/new-releases/aspose\.cells-for-node\.js-via-java-24\.5/$ https://releases-qa.aspose.com/cells/nodejs/ permanent;
-# rewrite /cells/php-java/$ https://releases-qa.aspose.com/cells/php/ permanent;
-# rewrite /cells/python-net/new-releases/aspose\.cells-for-python-via-\.net-22\.6/$ https://releases-qa.aspose.com/cells/python-net/new-releases/aspose.cells-for-python-via-.net-22.7/ permanent;
-# rewrite /cells/python/new-releases/aspose\.cells-for-python-21\.12/$ https://releases-qa.aspose.com/cells/python-java/new-releases/aspose.cells-for-python-via-java-21.12/ permanent;
-# rewrite /en/pdf/net/new-releases/aspose\.pdf-for-\.net-framework-4\.0-24\.6-dlls-only-outdated/$ https://releases-qa.aspose.com/pdf/net/new-releases/aspose.pdf-for-.net-framework-4.0-24.6-dlls-only-outdated/ permanent;
-# rewrite /en/slides/net/$ https://releases-qa.aspose.com/slides/net/ permanent;
-# rewrite /es/words/java/24\.4/$ https://releases-qa.aspose.com/es/words/java/ permanent;
-# rewrite ^/gis/java/$ https://releases-qa.aspose.com/gis/ permanent;
-# rewrite ^/java/aspose-cells/aspose-cells/22\.7/aspose-cells-22\.7\.pom$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-cells/22.7/aspose-cells-22.7.pom permanent;
-# rewrite ^/ko/conversion/$ https://releases-qa.aspose.com/ permanent;
-# rewrite ^/pdf/net/new-releases/aspose\.words-for-\.net-8\.1\.0/$ https://releases-qa.aspose.com/pdf/net/new-releases/aspose.pdf-for-.net-8.1.0/ permanent;
-# rewrite ^/pdf/net/new-releases/aspose\.words-for-\.net-framework-4\.0-24\.5\.1-dlls-only-outdated/$ https://releases-qa.aspose.com/pdf/net/new-releases/aspose.pdf-for-.net-framework-4.0-24.5.1-dlls-only-outdated/ permanent;
-# rewrite ^/plugins/aspose-pdf$ https://releases-qa.aspose.com/pdf/ permanent;
-# rewrite ^/plugins/aspose-pdf/eclipse/pdf-maven/20\.10/$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-pdf/20.10/ permanent;
-# rewrite ^/plugins/aspose-pdf/eclipse/pdf-maven/20\.10/site\.xml/$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-pdf/20.10/ permanent;
-# rewrite ^/plugins/aspose-pdf/eclipse/pdf-maven/20\.10/site\.xml/content\.xml$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-pdf/20.10/ permanent;
-# rewrite ^/pub/conversion$ https://releases-qa.aspose.com/pub/ permanent;
-# rewrite ^/res_repo/res_repo/img/compress/aspose_pdf-for-java-banner\.png$ https://releases-qa.aspose.com/res_repo/img/compress/aspose_pdf-for-java-banner.png permanent;
-# rewrite ^/slides/java/xxx$ https://releases-qa.aspose.com/slides/java/ permanent;
-# rewrite ^/words/java/release-notes/2018/aspose-words-for-java-18-13-release-notes/$ https://releases-qa.aspose.com/words/java/release-notes/2018/aspose-words-for-java-18-12-release-notes/ permanent;
-# rewrite ^/words/net/new-releases/aspose\.words-for-net-14\.1\.0/$ https://releases-qa.aspose.com/words/net/new-releases/aspose.words-for-.net-14.1.0/ permanent;
-# rewrite ^/words/net/release-notes/2020/aspose-imaging-for-\.net-20-8-release-notes/$ https://releases-qa.aspose.com/words/net/release-notes/2020/aspose-words-for-net-20-8-release-notes/ permanent;
-# rewrite ^/words/net/what-s-new-in-aspose-words-for-net/$ https://releases-qa.aspose.com/words/net/ permanent;
-# rewrite ^/zh/word/java/$ https://releases-qa.aspose.com/zh/words/java/ permanent;
-# rewrite ^/\/3d/java/release-notes/$ https://releases-qa.aspose.com/3d/java/release-notes/ permanent;
-# rewrite ^/\/3d/java/release-notes/2024/$ https://releases-qa.aspose.com/3d/java/release-notes/2024/ permanent;
-# rewrite ^/\/3d/java/release-notes/2024/aspose-3d-for-java-24-3-0-release-notes/$ https://releases-qa.aspose.com/3d/java/release-notes/2024/aspose-3d-for-java-24-3-release-notes/ permanent;
-# rewrite ^/3d/conversion$ https://releases-qa.aspose.com/3d/ permanent;
-# rewrite ^/3d/java/repo/$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-3d/ permanent;
-# rewrite ^/Imaging$ https://releases-qa.aspose.com/imaging/ permanent;
-# rewrite ^/admin/file/upload/email$ https://releases.admin.aspose.com/ permanent;
-# rewrite ^/barcode/nodejs/release-notes/2024/aspose-barcode-for-nodejs-24-2-release-notes/$ https://releases-qa.aspose.com/barcode/nodejs/release-notes/2024/aspose-barcode-for-node-js-via-java-24-2-release-notes/ permanent;
-# rewrite ^/c/repo/$ https://releases-qa.aspose.com/java/repo/ permanent;
-# rewrite ^/cad/java/\"$ https://releases-qa.aspose.com/cad/java/ permanent;
-# rewrite ^/cad/java/\'$ https://releases-qa.aspose.com/cad/java/ permanent;
-# rewrite ^/cells/es/$ https://releases-qa.aspose.com/es/cells/ permanent;
-# rewrite ^/cells/java/22\.13$ https://releases-qa.aspose.com/cells/java/ permanent;
-# rewrite ^/cells/ko/$ https://releases-qa.aspose.com/cells/ permanent;
-# rewrite ^/cells/ko/conversion/$ https://releases-qa.aspose.com/cells/ permanent;
+
+
+
+
+
+
+
+
