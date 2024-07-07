@@ -30,8 +30,11 @@
     "size" : "32 MB",
     "name" : "aspose-html-24.7.jar"
   }, {
-    "size" : "394 bytes",
+    "size" : "423 bytes",
     "name" : "aspose-html-24.7.pom"
+  }, {
+    "size" : "171 MB",
+    "name" : "aspose-html-24.7.zip"
   } ],
   "releasehDate" : "2024-07-07T10:55:56+00:00",
   "version" : "24.7",
