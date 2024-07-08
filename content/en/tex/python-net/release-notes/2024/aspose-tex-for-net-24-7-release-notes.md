@@ -33,7 +33,7 @@ menuItemWithNoContent: false
  * Method aspose.tex.features.LaTeXRepairer.__init__(str,aspose.tex.features.LaTeXRepairerOptions)
  * Method aspose.tex.features.LaTeXRepairerOptions.run
  * Type aspose.tex.features.LaTeXRepairerOptions
- * Method aspose.tex.features.LaTeXRepairerOptions.__ini__
+ * Method aspose.tex.features.LaTeXRepairerOptions.__init__
  * Property aspose.tex.features.LaTeXRepairerOptions.input_working_directory
  * Property aspose.tex.features.LaTeXRepairerOptions.output_working_directory
  * Property aspose.tex.features.LaTeXRepairerOptions.required_input_directory
