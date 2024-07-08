@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.page-for-.net-24.1-(dlls-and-docs)"
-description: " "
+title: "Upgraded XPS Manipulation in .NET: Aspose.Page 24.1 (DLLs)"
+description: "Download Aspose.Page for .NET 24.1 (DLLs & Docs) to add enhanced XPS manipulation & access detailed font information within your C# and VB.NET apps."
 keywords: ""
 page_type: single_release_page
 folder_link: "/page/net/new-releases/aspose.page-for-.net-24.1-(dlls-and-docs)/"
@@ -43,8 +43,36 @@ weight: 142
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/page/net/release-notes/2024/aspose-page-for-net-24-1-release-notes/'>https://releases.aspose.com/page/net/release-notes/2024/aspose-page-for-net-24-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">We are pleased to announce a new version of Aspose.Page for .Net.</div>
+      <h4>Description</h4><div class="HTMLDescription">We are pleased to announce a new version of Aspose.Page for .NET 24.1.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Empower your .NET development with the Aspose.Page for .NET 24.1 release (DLLs & Docs). This version introduces new functionalities for XPS manipulation and provides extended access to font properties. 
+
+### Refined XPS Manipulation
+
+New utility methods for upgraded XPS manipulation have been implemented into the latest XPS and EPS file processing library release. Develop high-performance solutions containing these functionalities and take document processing to the next level in your cross-platform .NET applications.
+
+### Enhanced Font Access
+
+The newly added `BaseTrFont` class in Aspose.Page for .NET 24.1 provides extensive access to font properties, such as type, encoding, character sets, and more, used within PS, EPS, and XPS files. 
+
+### Image to EPS Conversion Boost
+
+This release includes fixes for the issues causing empty EPS output documents during image conversion. You can now enjoy immaculate conversions of images to EPS files in .NET.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Page for .NET 24.1 Release Notes](https://releases.aspose.com/page/net/release-notes/2024/aspose-page-for-net-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

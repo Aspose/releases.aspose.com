@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.page-for-.net-24.1"
-description: " "
+title: "Upgraded XPS Manipulation in .NET: Aspose.Page 24.1 (MSI)"
+description: "Download Aspose.Page for .NET 24.1 (MSI installer) to add enhanced XPS manipulation & access detailed font information within your C# and VB.NET apps."
 keywords: ""
 page_type: single_release_page
 folder_link: "/page/net/new-releases/aspose.page-for-.net-24.1/"
@@ -45,6 +45,34 @@ weight: 143
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Page for .NET 24.1 release Windows installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Update your .NET development environment with the latest Aspose.Page for .NET 24.1 (MSI installer) release. This version includes enriched XPS manipulation and enhances access to font properties. 
+
+### Upgraded XPS Manipulation
+
+Utility methods for optimized XPS management and manipulation have been added in the newest version of the XPS and EPS file processing library. Build feature-rich solutions offering these functionalities and take file manipulation to the next level within your .NET applications.
+
+### Advanced Font Access
+
+A new `BaseTrFont` class added to Aspose.Page for .NET 24.1 grants comprehensive access to font properties like type, encoding, character sets, and more used within PS, EPS, and XPS files. 
+
+### Improved Image to EPS Conversion
+
+We have resolved the problems causing empty EPS output during image conversion. With this update, you can experience refined conversions of images to EPS files in .NET.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Page for .NET 24.1 Release Notes](https://releases.aspose.com/page/net/release-notes/2024/aspose-page-for-net-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
