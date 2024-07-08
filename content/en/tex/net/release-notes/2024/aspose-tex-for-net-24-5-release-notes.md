@@ -28,9 +28,9 @@ The new *LaTeX Repairer* feature has been implemented.
  * Method Aspose.TeX.Features.IGuessPackageCallback.GuessPackage(System.String,System.Boolean)
  * Type Aspose.TeX.Features.LaTeXRepairer
  * Method Aspose.TeX.Features.LaTeXRepairer.#ctor(System.String,Aspose.TeX.Features.LaTeXRepairerOptions)
+ * Method Aspose.TeX.Features.LaTeXRepairer.Run
  * Type Aspose.TeX.Features.LaTeXRepairerOptions
  * Method Aspose.TeX.Features.LaTeXRepairerOptions.#ctor
- * Method Aspose.TeX.Features.LaTeXRepairerOptions.Run
  * Property Aspose.TeX.Features.LaTeXRepairerOptions.InputWorkingDirectory
  * Property Aspose.TeX.Features.LaTeXRepairerOptions.OutputWorkingDirectory
  * Property Aspose.TeX.Features.LaTeXRepairerOptions.RequiredInputDirectory
