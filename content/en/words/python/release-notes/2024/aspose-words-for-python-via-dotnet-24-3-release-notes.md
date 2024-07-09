@@ -32,8 +32,6 @@ There are 117 improvements and fixes in this regular monthly release. The most n
 <details>
 <summary>Expand to view the full list of issues.</summary>
 
-|Key|Summary|Category|
-| :- | :- | :- |
 1. Read and write table row widthAfter and widthBefore specified in percent units1. 
 2. Add support for the "vert" OpenType feature1. 
 3. Implement new Tiff reader/writer for .NetStandard/net6 based on BitMiracle.LibTiff.NET1. 
