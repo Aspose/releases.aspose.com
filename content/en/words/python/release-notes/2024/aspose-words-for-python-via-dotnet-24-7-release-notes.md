@@ -152,7 +152,7 @@ Starting with Aspose.Words for Python via .NET 24.7, there will be releases for 
 
 ## Public API and Backward Incompatible Changes
 
-his section lists public API changes that were introduced in Aspose.Words for Python via .NET 24.7. It includes not only new and obsoleted public methods, but also a description of any changes in the behavior behind the scenes in Aspose.Words for Python via .NET which may affect existing code. Any behavior introduced that could be seen as regression and modifies the existing behavior is especially important and is documented here.
+This section lists public API changes that were introduced in Aspose.Words for Python via .NET 24.7. It includes not only new and obsoleted public methods, but also a description of any changes in the behavior behind the scenes in Aspose.Words for Python via .NET which may affect existing code. Any behavior introduced that could be seen as regression and modifies the existing behavior is especially important and is documented here.
 
 ### Added ability to automatically determine datetime format when exporting to XLSX
 
