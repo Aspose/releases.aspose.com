@@ -384,7 +384,7 @@ public enum ShapeTextOrientation
 {{< /highlight >}}
 
 This use case explains how to set data label orientation and rotation:
-{{< gist "aspose-words-gists" "ac8ba4eb35f3fbb8066b48c999da63b0" "abel-orientation-rotation.cs" >}}
+{{< gist "aspose-words-gists" "ac8ba4eb35f3fbb8066b48c999da63b0" "label-orientation-rotation.cs" >}}
 
 ### Added export to PDF/UA-2
 
