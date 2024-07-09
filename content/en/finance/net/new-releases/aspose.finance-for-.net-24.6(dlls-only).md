@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.finance-for-.net-24.6(dlls-only)"
-description: " "
+title: "Aspose.Finance 24.6 (DLLs): Convert XBRL to XLSX in C# Apps"
+description: "Integrate Aspose.Finance .NET 24.6 (DLLs-only) directly into your .NET projects. Add improved XBRL to XLSX conversion & more to your apps. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/finance/net/new-releases/aspose.finance-for-.net-24.6(dlls-only)/"
@@ -43,8 +43,33 @@ weight: 76
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/finance/net/release-notes/2024/aspose-finance-for-net-24-6-release-notes/'>https://releases.aspose.com/finance/net/release-notes/2024/aspose-finance-for-net-24-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Finance for .NET 24.6 dlls release</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Finance for .NET 24.6 (DLLs-only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Streamline your development workflows with the latest Aspose.Finance for .NET 24.6 (DLLs-only package) release. This version incorporates accurate XBRL to XLSX conversions, alongside various improvements for enhanced financial data processing within your cross-platform C# applications.
+
+### Immaculate XBRL to XLSX Conversion
+
+Boost your C# and VB.NET financial document conversion apps with the capability to convert XBRL to XLSX file format easily. This update resolves the missing data during the conversion issue and ensures dependable financial reporting.
+
+### High-performance File Processing
+
+Aspose.Finance for .NET 24.6 is your one-stop solution for all your finance document processing and reporting needs. It boasts optimized manipulation, conversion, and reporting features for your platform-independent financial applications.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Finance for .NET 24.6 Release Notes](https://releases.aspose.com/finance/net/release-notes/2024/aspose-finance-for-net-24-6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

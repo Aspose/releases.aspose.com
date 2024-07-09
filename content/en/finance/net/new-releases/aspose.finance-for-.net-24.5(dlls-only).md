@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.finance-for-.net-24.5(dlls-only)"
-description: " "
+title: "Export XBRL Data to PDFs | Aspose.Finance .NET 24.5 (DLLs)"
+description: ""
 keywords: ""
 page_type: single_release_page
 folder_link: "/finance/net/new-releases/aspose.finance-for-.net-24.5(dlls-only)/"
@@ -22,7 +22,7 @@ weight: 75
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Finance for .NET 24.5" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Finance for .NET 24.5 (DLLs only)" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/finance/net/new-releases/aspose.finance-for-.net-24.5(dlls-only)/81b855b6ee048b9cedae8466322a0d80-2-10945" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/finance" >}}
@@ -43,8 +43,32 @@ weight: 75
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/finance/net/release-notes/2024/aspose-finance-for-net-24-5-release-notes/'>https://releases.aspose.com/finance/net/release-notes/2024/aspose-finance-for-net-24-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Finance for .NET 24.5</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Finance for .NET 24.5 (DLLs only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.Finance for .NET 24.5 (MSI) introduces a powerful new capability: converting XBRL (eXtensible Business Reporting Language) data into professional PDF reports. This enhancement streamlines financial data visualization and simplifies report generation workflows.
+
+### Effortless XBRL to PDF Conversion
+
+Developers can seamlessly transform XBRL data into well-formatted and informative PDF reports on the Windows platform using the intuitive C# financial reporting API.
+
+### Enhanced Financial Reporting
+
+Experience simplified financial data presentation and analysis by exporting XBRL data to the PDF format within your document conversion applications.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Finance for .NET 24.5 Release Notes](https://releases.aspose.com/finance/net/release-notes/2024/aspose-finance-for-net-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
