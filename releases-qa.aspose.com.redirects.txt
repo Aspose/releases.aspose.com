@@ -641,8 +641,8 @@ rewrite ^/pdf/net/total$ https://releases-qa.aspose.com/pdf/net/ permanent;
 
 # Redirects added on 10th July 2024
 
-rewrite ^/cells/java/22.12$ https://releases-qa.aspose.com/cells/java/22-12/ permanent;
-rewrite ^/cells/java/22.12/$ https://releases-qa.aspose.com/cells/java/22-12/ permanent;
+rewrite ^/cells/java/22\.12$ https://releases-qa.aspose.com/cells/java/22-12/ permanent;
+rewrite ^/cells/java/22\.12/$ https://releases-qa.aspose.com/cells/java/22-12/ permanent;
 rewrite ^/ko/cells/$ https://releases-qa.aspose.com/cells/ permanent;
 rewrite ^/cells/java/22-13/$ https://releases-qa.aspose.com/cells/java/22-12/ permanent;
 rewrite ^/cells/x$ https://releases-qa.aspose.com/cells/ permanent;
@@ -666,6 +666,31 @@ rewrite ^/dotnet/repo/com/aspose/aspose-words/$ https://releases-qa.aspose.com/j
 rewrite ^/index.json/$ https://releases-qa.aspose.com/ permanent;
 rewrite ^/java7repo/$ https://releases-qa.aspose.com/java/repo/ permanent;
 rewrite ^/net/repo/com/aspose/aspose-words/$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-words/ permanent;
+rewrite ^/note/net/release-notes/2024/aspose-note-for-net-24-5-release-notes/$ https://releases-qa.aspose.com/note/net/release-notes/2024/ permanent;
+rewrite ^/ocr/net/release-notes/2024/aspose-ocr-for-net-24-5-release-notes/$ https://releases-qa.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-5-0-release-notes/ permanent;
+rewrite ^/ocr/python-c++/$ https://releases-qa.aspose.com/ocr/python-cpp/ permanent;
+rewrite ^/pdf/\/java/$ https://releases-qa.aspose.com/pdf/java/ permanent;
+rewrite ^/pub/java/24-5/$ https://releases-qa.aspose.com/pub/java/ permanent;
+rewrite ^/resources/$ https://releases-qa.aspose.com/ permanent;
+rewrite ^/svg/python-net/release-notes/2024/aspose-svg-for-python-dotnet-24-6-release-notes/$ https://releases-qa.aspose.com/svg/python-net/release-notes/2024/aspose-svg-python-via-dotnet-24-6-release-notes/ permanent;
+rewrite ^/svg/python-net/release-notes/2024/aspose-svg-for-python-via-dotnet-24-6-release-notes/$ https://releases-qa.aspose.com/svg/python-net/release-notes/2024/aspose-svg-python-via-dotnet-24-6-release-notes/ permanent;
+rewrite ^/tex/java/\)$ https://releases-qa.aspose.com/tex/java/ permanent;
+rewrite ^/total/java/3d$ https://releases-qa.aspose.com/total/java/ permanent;
+rewrite ^/total/java/repo/com/aspose$ https://releases-qa.aspose.com/java/repo/com/aspose/ permanent;
+rewrite ^/word/java/21-8/$ https://releases-qa.aspose.com/words/java/21-8/ permanent;
+rewrite ^/word/python-net/$ https://releases-qa.aspose.com/words/python/ permanent;
+rewrite ^/words/java/releasenotes/2024/$ https://releases-qa.aspose.com/words/java/release-notes/2024/ permanent;
+rewrite ^/words/net/release-notes/2020/aspose-words-for-net-16-7-release-notes/$ https://releases-qa.aspose.com/words/net/release-notes/2016/aspose-words-for-net-16-7-0-release-notes/ permanent;
+rewrite ^/words/python-net/release-notes/$ https://releases-qa.aspose.com/words/python/release-notes/ permanent;
+rewrite ^/words/python/release-notes/2024/aspose-words-for-python-net-24-4-release-notes/$ https://releases-qa.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-4-release-notes/ permanent;
+rewrite ^/zh/words/java/14-9-0/$ https://releases-qa.aspose.com/zh/words/java/ permanent;
+rewrite ^/zh/words/java/14-9/$ https://releases-qa.aspose.com/zh/words/java/ permanent;
+rewrite ^/cells/net\)$ https://releases-qa.aspose.com/cells/net/ permanent;
+rewrite ^/cells/net/release-notes/2016/aspose-cells-for-net-16-7-0-release-notes/$ https://releases-qa.aspose.com/cells/net/release-notes/2016/ permanent;
+rewrite ^/cells/python-java/system-requirements/$ https://releases-qa.aspose.com/cells/python-java/ permanent;
+rewrite ^/conversion/$ https://releases-qa.aspose.com/ permanent;
+rewrite ^/email/pdf/net/$ https://releases-qa.aspose.com/email/net/ permanent;
+rewrite ^/en/cells/net/release-notes/$ https://releases-qa.aspose.com/cells/net/release-notes/ permanent;
 
 
 
