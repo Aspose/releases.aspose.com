@@ -639,6 +639,34 @@ rewrite ^/slides/nodejs/$ https://releases-qa.aspose.com/slides/nodejs-java/ per
 rewrite ^/tasks/python-java/$ https://releases-qa.aspose.com/tasks/ permanent;
 rewrite ^/pdf/net/total$ https://releases-qa.aspose.com/pdf/net/ permanent;
 
+# Redirects added on 10th July 2024
+
+rewrite ^/cells/java/22.12$ https://releases-qa.aspose.com/cells/java/22-12/ permanent;
+rewrite ^/cells/java/22.12/$ https://releases-qa.aspose.com/cells/java/22-12/ permanent;
+rewrite ^/ko/cells/$ https://releases-qa.aspose.com/cells/ permanent;
+rewrite ^/cells/java/22-13/$ https://releases-qa.aspose.com/cells/java/22-12/ permanent;
+rewrite ^/cells/x$ https://releases-qa.aspose.com/cells/ permanent;
+rewrite ^/cells/zh/php/$ https://releases-qa.aspose.com/zh/cells/php/ permanent;
+rewrite ^/com/aspose/aspose-words$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-words/ permanent;
+rewrite ^/email/nodejs-net/\)$ https://releases-qa.aspose.com/email/ permanent;
+rewrite ^/html/python/release-notes/2024/$ https://releases-qa.aspose.com/html/python-net/ permanent;
+rewrite ^/imaging/zh$ https://releases-qa.aspose.com/zh/imaging/ permanent;
+rewrite ^/ja/slides/nodejs-net/$ https://releases-qa.aspose.com/ja/slides/ permanent;
+rewrite ^/maven/repo/$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-java-for-maven/ permanent;
+rewrite ^/pdf/php-java/$ https://releases-qa.aspose.com/pdf/ permanent;
+rewrite ^/total/nodejs-net/$ https://releases-qa.aspose.com/total/ permanent;
+rewrite ^/zh/word/$ https://releases-qa.aspose.com/zh/words/ permanent;
+rewrite ^/zh/words/java/15-8-0/$ https://releases-qa.aspose.com/zh/words/java/ permanent;
+rewrite ^/zh/words/java/23$ https://releases-qa.aspose.com/zh/words/java/ permanent;
+rewrite ^/cad/java/24-5/$ https://releases-qa.aspose.com/cad/java/ permanent;
+rewrite ^/cad/net/release-notes/24.6$ https://releases-qa.aspose.com/cad/net/release-notes/2024/aspose-cad-for-net-24-6-release-notes/ permanent;
+rewrite ^/cad/net/release-notes/24.6/aspose-cad-for-net-24-6-release-notes/$ https://releases-qa.aspose.com/cad/net/release-notes/2024/aspose-cad-for-net-24-6-release-notes/ permanent;
+rewrite ^/cells/java/15.8/$ https://releases-qa.aspose.com/cells/java/ permanent;
+rewrite ^/dotnet/repo/com/aspose/aspose-words/$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-words/ permanent;
+rewrite ^/index.json/$ https://releases-qa.aspose.com/ permanent;
+rewrite ^/java7repo/$ https://releases-qa.aspose.com/java/repo/ permanent;
+rewrite ^/net/repo/com/aspose/aspose-words/$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-words/ permanent;
+
 
 
 
