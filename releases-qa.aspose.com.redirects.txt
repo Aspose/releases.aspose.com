@@ -668,7 +668,7 @@ rewrite ^/java7repo/$ https://releases-qa.aspose.com/java/repo/ permanent;
 rewrite ^/net/repo/com/aspose/aspose-words/$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-words/ permanent;
 rewrite ^/note/net/release-notes/2024/aspose-note-for-net-24-5-release-notes/$ https://releases-qa.aspose.com/note/net/release-notes/2024/ permanent;
 rewrite ^/ocr/net/release-notes/2024/aspose-ocr-for-net-24-5-release-notes/$ https://releases-qa.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-5-0-release-notes/ permanent;
-rewrite ^/ocr/python-c++/$ https://releases-qa.aspose.com/ocr/python-cpp/ permanent;
+rewrite ^/ocr/python-c\+\+/$ https://releases-qa.aspose.com/ocr/python-cpp/ permanent;
 rewrite ^/pdf/\/java/$ https://releases-qa.aspose.com/pdf/java/ permanent;
 rewrite ^/pub/java/24-5/$ https://releases-qa.aspose.com/pub/java/ permanent;
 rewrite ^/resources/$ https://releases-qa.aspose.com/ permanent;
