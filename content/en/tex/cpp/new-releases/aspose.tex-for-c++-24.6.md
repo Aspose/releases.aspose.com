@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tex-for-c++-24.6"
-description: " "
+title: "Aspose.TeX for C++ 24.6: Experience Upgraded TeX Processing"
+description: "Experience smoother TeX processing with Aspose.TeX for C++ 24.6. Download now and leverage memory leak and more fixes on Windows, Linux, and macOS."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tex/cpp/new-releases/aspose.tex-for-c++-24.6/"
@@ -16,7 +16,7 @@ parent_path: "tex/cpp"
 section_parent_path: "tex/cpp"
 
 tags: ""
-release_notes_url: "https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-6-release-notes/https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-6-release-notes/"
 weight: 111
 
 ---
@@ -40,11 +40,31 @@ weight: 111
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-6-release-notes/https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-6-release-notes/'>https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-6-release-notes/https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-6-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-6-release-notes/'>https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.TeX for C++ 24.6 native library</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.TeX for C++ 24.6 native library release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+We are pleased to announce the release of Aspose.TeX for C++ 24.6! This update caters to a critical memory leak issue, enhancing the stability of your C++ TeX processing applications across any platform.
+
+### Memory Leak Fix
+
+The latest C++ typesetting library release includes a significant memory leak issue. You can experience optimal performance and upgraded resource management within your C++ applications with this version.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.TeX for C++ 24.6 Release Notes](https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
