@@ -691,7 +691,28 @@ rewrite ^/cells/python-java/system-requirements/$ https://releases-qa.aspose.com
 rewrite ^/conversion/$ https://releases-qa.aspose.com/ permanent;
 rewrite ^/email/pdf/net/$ https://releases-qa.aspose.com/email/net/ permanent;
 rewrite ^/en/cells/net/release-notes/$ https://releases-qa.aspose.com/cells/net/release-notes/ permanent;
-
+rewrite ^/es/words/java/24-4/$ https://releases-qa.aspose.com/es/words/java/ permanent;
+rewrite ^/font/net/total$ https://releases-qa.aspose.com/font/net/ permanent;
+rewrite ^/html/net/r$ https://releases-qa.aspose.com/html/net/ permanent;
+rewrite ^/html/net/release-notes/2021/aspose-html-for-net-21-4-release-notes/$ https://releases-qa.aspose.com/html/net/release-notes/2021/aspose-html-for-net-21-4-release-note/ permanent;
+rewrite ^/html/net/release-notes/python-net/$ https://releases-qa.aspose.com/html/net/release-notes/ permanent;
+rewrite ^/html/python/release-notes/$ https://releases-qa.aspose.com/html/python-net/release-notes/ permanent;
+rewrite ^/indo$ https://releases-qa.aspose.com/ permanent;
+rewrite ^/ja/slides/nodejs-net/$ https://releases-qa.aspose.com/ja/slides/ permanent;
+rewrite ^/java/repo\)\:$ https://releases-qa.aspose.com/java/repo/ permanent;
+rewrite ^/note/net/release-notes/2024/aspose-note-for-net-24-5-release-notes/$ https://releases-qa.aspose.com/note/net/release-notes/2024/ permanent;
+rewrite ^/pdf/java/repo/com/aspose/aspose-pdf$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-pdf/ permanent;
+rewrite ^/python/repo/$ https://releases-qa.aspose.com/java/repo/ permanent;
+rewrite ^/raw/java/$ https://releases-qa.aspose.com/java/repo/ permanent;
+rewrite ^/slides/java/xxxxxx$ https://releases-qa.aspose.com/slides/java/ permanent;
+rewrite ^/slides/net/release-notes/2014/$ https://releases-qa.aspose.com/slides/net/release-notes/ permanent;
+rewrite ^/tasks/net/total$ https://releases-qa.aspose.com/tasks/net/ permanent;
+rewrite ^/total/java/release-notes/2024/aspose-total-for-java-24-6-release-notes/$ https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/ permanent;
+rewrite ^/total/ne$ https://releases-qa.aspose.com/total/net/ permanent;
+rewrite ^/total/nt/$ https://releases-qa.aspose.com/total/net/ permanent;
+rewrite ^/words/java/24-11/$ https://releases-qa.aspose.com/words/java/ permanent;
+rewrite ^/words/net/release-notes/20201/$ https://releases-qa.aspose.com/words/net/release-notes/2021/ permanent;
+rewrite ^/words/net/release-notes/2024/aspose-words-for-net-20-11-release-notes/$ https://releases-qa.aspose.com/words/net/release-notes/2020/aspose-words-for-net-20-11-release-notes/ permanent;
 
 
 
