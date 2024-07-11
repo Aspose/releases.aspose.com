@@ -34,7 +34,7 @@ This page contains release notes for [Aspose.Cells for .NET 24.7](https://www.nu
 |CELLSNET-56118|Support to try to load local Office cloud font by default|Enhancement
 |CELLSNET-56062|Support placing the picture which is overed cell in cell|Enhancement
 |CELLSNET-56086|Add overload PivotTable.CalculateData() method|Enhancement
-|CELLSGRIDJS-1158|Support to auto set height after set wrap for cell |Enhancement
+|CELLSGRIDJS-1158|Support to auto set height after setting wrap for cell|Enhancement
 |CELLSNET-55979|Fix the text box height when the Japanese text has a line break|Bug
 |CELLSNET-56034|Excel to PDF conversion - shapes rendered with missing text|Bug
 |CELLSNET-56068|Shape text (image caption) cut off in the output PDF and HTML|Bug
@@ -90,13 +90,16 @@ Since 24.7, such kind of value will be exported as formatted string which is loc
 
 To get the raw value, please use ExportTableOptions with CellValueFormatStrategy.None to export data. For example, with old version the exporting code:
 
-//            cells.ExportDataTable(0, 0, 10, 3);//
+~~~cs
+            cells.ExportDataTable(0, 0, 10, 3);
+~~~
 with the new versions please change it to:
 
-//            ExportTableOptions opts = new ExportTableOptions();
+~~~cs
+            ExportTableOptions opts = new ExportTableOptions();
             opts.FormatStrategy = CellValueFormatStrategy.None;
-            cells.ExportDataTable(0, 0, 10, 3, opts);//
- 
+            cells.ExportDataTable(0, 0, 10, 3, opts);
+~~~
 
 ### **Adds AbstractCalculationEngine.ForceRecalculate(string functionName) method**
 
