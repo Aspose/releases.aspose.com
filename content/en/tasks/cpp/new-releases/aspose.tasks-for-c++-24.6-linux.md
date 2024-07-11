@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-c++-24.6-linux"
-description: " "
+title: "Aspose.Tasks C++ 24.6: Resource Leveling, Security on Linux"
+description: "Level resources in C++ applications on Linux! Download Aspose.Tasks C++ 24.6 today. New features include resource leveling, improved security & bug fixes."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-24.6-linux/"
@@ -43,8 +43,50 @@ weight: 222
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-6-release-notes/'>https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 24.6 release for Linux</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 24.6 release for Linux.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Boost your C++ development workflows with resource leveling and supercharged security using Aspose.Tasks for C++ 24.6 release for Linux. This version enables better stability and data protection in your C++ applications running on Linux systems.
+
+### Add Resource Leveling to Linux Apps
+
+The C++ MPP processing library now boasts an experimental resource leveling functionality. This feature offers refined  project schedules by automatically handling task start and end dates to resolve resource conflicts. At present, this functionality has certain limitations. The following code example highlights the simple manner in which you can implement resource leveling into your C++ apps on Linux.
+
+```c++
+
+  auto project = System::MakeObject<Project>(System::String(u"input.mpp"));
+  ResourceLeveler::LevelAll(project);
+
+```
+*[Source\*](https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-6-release-notes/)*
+
+### Empowered Security
+
+Aspose.Tasks for C++ 24.6 takes care of the use of non-FIPS compliant algorithms to help promote more dynamic security measures within your Linux-based C++ applications.
+
+### Bug Fixes
+
+This release resolves several identified problems, including:
+
+- Issues with referencing specific versions of the System.Drawing.Common (TASKSNET-11198).
+- Calendar reading errors in specific files (TASKSNET-11161).
+- Incorrect time-phased data handling for assignments with contoured work contours (TASKSNET-11208).
+- Exceptions encountered while reading Global MPT template files (TASKSNET-11160).
+- Multipage TIFF generation problems in .NET 6.0 targeting versions (TASKSNET-11193).
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for C++ 24.6 Release Notes](https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
