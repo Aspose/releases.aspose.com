@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.page-for-c++-24.6"
-description: " "
+title: "Aspose.Page 24.6: Powerful Color & EPS Handling in C++ Apps"
+description: "Enrich your C++ apps with advanced document processing. Download Aspose.Page C++ 24.6 (Windows/Linux/Mac) & leverage CIE color, external EPS usage."
 keywords: ""
 page_type: single_release_page
 folder_link: "/page/cpp/new-releases/aspose.page-for-c++-24.6/"
@@ -43,8 +43,36 @@ weight: 153
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/page/cpp/release-notes/2024/aspose-page-for-cpp-24-6-release-notes/'>https://releases.aspose.com/page/cpp/release-notes/2024/aspose-page-for-cpp-24-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Page for C++ 24.6 native library</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Page for C++ 24.6 native library.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+This release of Aspose.Page for C++ 24.6 is loaded with important new features and improved functionalities for comprehensive document processing within your cross-platform C++ applications.
+
+### CIE Color Space Support
+
+The C++ XPS file processing library now incorporates support for the CIE-based color space, enabling precise color representation and handling in your documents.
+
+### External EPS Processing
+
+Simplify your document processing workflows by executing external EPS files directly from processed PostScript files. Build powerful new apps or upgrade the existing ones with Aspose.Page for C++ 24.6.
+
+### Bug Fixes
+
+We have addressed various bugs in this version of the C++ library to ascertain a more stable and dynamic user experience.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Page for C++ 24.6 Release Notes](https://releases.aspose.com/page/cpp/release-notes/2024/aspose-page-for-cpp-24-6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.font-for-node.js-via-c++-24.6"
-description: " "
+title: "Master Font Management in Node.js Apps: Aspose.Font 24.6"
+description: "Aspose.Font for Node.js via C++ 24.6 is a powerful toolkit for developers to seamlessly manage & process fonts within their server-side Node.js applications."
 keywords: ""
 page_type: single_release_page
 folder_link: "/font/nodejs-cpp/new-releases/aspose.font-for-node.js-via-c++-24.6/"
@@ -43,8 +43,36 @@ weight: 1
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/font/nodejs-cpp/release-notes/2024/aspose-font-for-nodejs-via-cpp-24-6-release-notes/'>https://releases.aspose.com/font/nodejs-cpp/release-notes/2024/aspose-font-for-nodejs-via-cpp-24-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Font for Node.js via C++ 24.6 native API</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Font for Node.js via C++ 24.6 native API.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.Font for Node.js via C++ equips you with a dynamic and secure solution for font processing on the server. It grants you the ability to effortlessly convert fonts, extract and modify font metadata, and work with an extensive range of font formats, including TrueType (including collections), CFF, OpenType, and Type1.
+
+### Highly Accurate Font Conversion
+
+Convert fonts between supported formats, including TrueType (TTF, WOFF, WOFF2), and SVG immaculately, and upgrade the capabilities of your Node.js conversion applications.
+
+### Master Metadata Management
+
+Aspose.Font for Node.js via C++ 24.6 lets you read, add, or update metadata information within TrueType fonts to ascertain your fonts are well-organized and carry the necessary details.
+
+### Broad Format Compatibility
+
+Work with confidence thanks to support for a wide array of font formats in the Node.js font manipulation library, including TrueType, CFF, OpenType, and Type1.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Font for Node.js via C++ 24.6 Release Notes](https://releases.aspose.com/font/nodejs-cpp/release-notes/2024/aspose-font-for-nodejs-via-cpp-24-6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
