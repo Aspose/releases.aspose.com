@@ -1,0 +1,15 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-cells",
+  "id" : "24-7",
+  "packageFiles" : [ {
+    "size" : "8 MB",
+    "name" : "aspose-cells-24.7.jar"
+  }, {
+    "size" : "388 bytes",
+    "name" : "aspose-cells-24.7.pom"
+  } ],
+  "releasehDate" : "2024-07-12T12:24:01+00:00",
+  "version" : "24.7",
+  "ReleaseNotes" : "https://releases.aspose.com/cells/java/release-notes/2024/aspose-cells-for-java-24-7-release-notes/"
+}
