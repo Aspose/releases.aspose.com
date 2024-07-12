@@ -90,16 +90,16 @@ Since 24.7, such kind of value will be exported as formatted string which is loc
 
 To get the raw value, please use ExportTableOptions with CellValueFormatStrategy.None to export data. For example, with old version the exporting code:
 
-~~~cs
+```cs
             cells.ExportDataTable(0, 0, 10, 3);
-~~~
+```
 with the new versions please change it to:
 
-~~~cs
+```cs
             ExportTableOptions opts = new ExportTableOptions();
             opts.FormatStrategy = CellValueFormatStrategy.None;
             cells.ExportDataTable(0, 0, 10, 3, opts);
-~~~
+```
 
 ### **Adds AbstractCalculationEngine.ForceRecalculate(string functionName) method**
 
@@ -129,13 +129,13 @@ No sorting.
 
 Represents Azw3 file..
 
-### **Obsolete AxisBins.ResetOverflow() and AxisBins.ResetUnderflow() method**
+### **Obsolete AxisBins.ResetOverflow() and AxisBins.ResetUnderflow() method**
 
 This is an internal method that does not need to be called externally to avoid causing problems.
 
-### **Obsolete properties of ChartDataTable: HasBorderHorizontal, HasBorderVertical and HasBorderOutline**
+### **Obsolete properties of ChartDataTable: HasBorderHorizontal, HasBorderVertical and HasBorderOutline**
 
-Please use properties HasHorizontalBorder, HasVerticalBorder and HasOutlineBorder instead.
+Please use properties HasHorizontalBorder, HasVerticalBorder and HasOutlineBorder instead.
 
 ### **Adds ChartDataTable.HasHorizontalBorder property**
 
@@ -149,13 +149,13 @@ True if the chart data table has vertical cell borders.
 
 True if the chart data table has outline borders.
 
-### **Obsolete ChartPoint.InnerRadiusPx property**
+### **Obsolete ChartPoint.InnerRadiusPx property**
 
-Please use ChartPoint.DoughnutInnerRadius property instead.
+Please use ChartPoint.DoughnutInnerRadius property instead.
 
 ### **Adds ChartPoint.DoughnutInnerRadius property**
 
-Gets the inner radius of doughnut slice in units of pixels after calls Chart.Calculate() method. Applies to Doughnut chart.
+Gets the inner radius of doughnut slice in units of pixels after calls Chart.Calculate() method. Applies to Doughnut chart.
 
 ### **Adds DataLabels.ApplyFont() method**
 
@@ -167,7 +167,7 @@ Represents format code of X Values's NumberList.
 
 ### **Obsolete SeriesCollection.ChangeSeriesOrder(Int32,Int32) method**
 
-Please use SeriesCollection.SwapSeries(Int32,Int32) method instead.
+Please use SeriesCollection.SwapSeries(Int32,Int32) method instead.
 
 ### **Adds SeriesCollection.SwapSeries(Int32,Int32) method**
 
@@ -177,9 +177,17 @@ Directly changes the orders of the two series.
 
 Adds a SparklineGroup with a Sparkline to the collection.
 
-### **Removes obsolete ChartDataTable.Background property**
+### **Removes obsolete ChartDataTable.Background property**
 
-Please use ChartDataTable.BackgroundMode property instead.
+Please use ChartDataTable.BackgroundMode property instead.
+
+### **Adds Cells.GetCellsWithPlaceInCellPicture() method.**
+
+Gets all cells that contain embedded picture.
+
+### **Adds ConversionUtility class.**
+
+Represents utility to convert files to other formats.
 
 ### **Adds Cell.PutValue(DateOnly) and Cell.PutValue(TimeOnly) methods.**
 
