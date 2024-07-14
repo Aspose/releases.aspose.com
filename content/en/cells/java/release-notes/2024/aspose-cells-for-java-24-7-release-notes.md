@@ -51,7 +51,7 @@ Indicates whether the shape is decorative.
 
 Inicates whether keeping JSON shcema when loading JSON file.
 
-### **Adds TableCalculateOption class**
+### **Adds PivotTableCalculateOption class**
 
 Rerepsents the options of calcuating the pivot table.
 
