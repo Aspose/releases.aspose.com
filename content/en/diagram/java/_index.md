@@ -64,6 +64,7 @@ productLink: https://products.aspose.com/diagram/java/
 releaseNotesLink: https://releases.aspose.com/diagram/java/release-notes/
 dataFolder: aspose_diagram
 packages_refs:
+- "24-7"
 - "24-6"
 - "24-5"
 - "24-4"

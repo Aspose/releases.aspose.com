@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-c++-24.6-linux"
-description: " "
+title: "C++ Barcode API 24.6: Refined Encoding & SVG Colors (Linux)"
+description: "Generate barcodes with full ASCII support in Code39 & improved color options for SVG output. Download Aspose.BarCode for C++ 24.6 release on Linux today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/cpp/new-releases/aspose.barcode-for-c++-24.6-linux/"
@@ -45,6 +45,55 @@ weight: 127
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for C++ 24.6 Linux release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+We are pleased to announce the Aspose.BarCode for C++ 24.6 release for Linux developers. This release incorporates improved Code39 and Code93 encoding and advanced SVG color control for your C++ barcode processing applications on Linux.
+
+### Empowered Code39 and Code93 Encoding
+
+This release of the C++ barcode API simplifies handling Code39 and Code93 barcodes. In the latest version, Code39 supports full ASCII characters, and Code93 provides a consolidated API for extended and standard variants for your Linux-powered barcode solutions.
+
+### Manage SVG Colors in Linux
+
+Upgrade your C++ applications with the ability to generate SVG barcodes using a broader color range. Leverage SVG 2.0 color schemes, such as RGB, RGBA, HSL, and HSLA for refined design flexibility. Please check out the following code examples: The first example demonstrates how to use the HSLA color fill mode for your barcodes and export them to SVG format in C++. The second example showcases the conversion from HSLA to RGBA when generating and saving barcodes in SVG format.
+
+```c++
+
+System::String codeText = u"ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+auto gen = System::MakeObject<Aspose::BarCode::Generation::BarcodeGenerator>(EncodeTypes::Code128, codeText);
+
+gen->get_Parameters()->get_Barcode()->set_BarColor(System::Drawing::Color::FromArgb((int32_t)0xBBFF5511));
+gen->get_Parameters()->get_Image()->get_Svg()->set_SvgColorMode(Aspose::BarCode::Generation::SvgColorMode::HSLA);
+
+```
+*[Source\*](https://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-6-release-notes/)*
+
+```c++
+
+System::String codeText = u"ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+auto gen = System::MakeObject<Aspose::BarCode::Generation::BarcodeGenerator>(EncodeTypes::Code128, codeText);
+
+auto hslaColor = System::MakeObject<HslaColor>(30, 50, 70, 0.8f);
+System::Drawing::Color color = HslaColor::ConvertHslaToRgba(hslaColor);
+
+gen->get_Parameters()->get_Barcode()->set_BarColor(color);
+gen->get_Parameters()->get_Image()->get_Svg()->set_SvgColorMode(Aspose::BarCode::Generation::SvgColorMode::HSLA);
+
+```
+*[Source\*](https://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-6-release-notes/)*
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for C++ 24.6 Release Notes](https://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

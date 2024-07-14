@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tex-for-c++-24.6-macos"
-description: " "
+title: "Aspose.TeX for C++ 24.6: Optimized TeX Processing on macOS"
+description: "Experience smoother TeX processing with Aspose.TeX for C++ 24.6. Download on macOS now and leverage memory leak and more fixes in your C++ apps."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tex/cpp/new-releases/aspose.tex-for-c++-24.6-macos/"
@@ -43,8 +43,28 @@ weight: 110
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-6-release-notes/'>https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.TeX for C++ 24.6 macOS native library</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.TeX for C++ 24.6 macOS native library.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Great news for macOS developers! Aspose.TeX for C++ 24.6 (macOS) has been released, and it delivers the fix for a critical memory leak problem, refining the stability of your macOS-powered C++ TeX processing applications.
+
+### No More Memory Leaks on Apple Mac
+
+This release of the C++ typesetting library resolves the all-important memory leak issue. With this upgrade, you can enjoy optimized performance and enhanced resource management within your C++ applications on Apple Macs.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.TeX for C++ 24.6 Release Notes](https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
