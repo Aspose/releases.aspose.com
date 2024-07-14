@@ -99,12 +99,54 @@ To achieve the best results with free-form text input, consider these requiremen
 ### Add free-form handwritten text element
 
 ```
-?container=Example
+?barcode=docId
+	value=2934
+	height=200
+	codetext=true
+	barcode_type=code39StanDard
+	align=right
+?container=
+	columns_proportions=20-80
 ?block=
-	border=square
-	border_size=3
-?free_text_input=FullName
-	line_height=100
+	column=1
+?content=Full name:
+	font_style=bold
+	font_size=18
+	align=right
+&block
+?block=
+	column=2
+?free_text_input=full name
+	line_height=150	
+&block
+?block=
+	column=1
+?content=Date:
+	font_style=bold
+	font_size=18
+	align=right
+&block
+?block=
+	column=2
+?paragraph=
+	type=inline
+	vertical_align=center
+?text_input=Month
+	length=2
+	input_type=numbers
+?content=/
+	font_style=bold
+	font_size=18
+?text_input=Day
+	length=2
+	input_type=numbers
+?content=/
+	font_style=bold
+	font_size=18
+?text_input=Year
+	length=4
+	input_type=numbers
+&paragraph
 &block
 &container
 ```
