@@ -5,7 +5,7 @@ id: "aspose-omr-for-net-24-7-0-hw-release-notes"
 slug: "aspose-omr-for-net-24-7-0-hw-release-notes"
 linktitle: "Aspose.OMR for .NET 24.7.0 Handwriting plugin - Release Notes"
 title: "Aspose.OMR for .NET 24.7.0 Handwriting plugin - Release Notes"
-weight: 93
+weight: 62
 description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for .NET Handwriting plugin 24.7.0 (July 2024) release."
 type: "repository"
 layout: "release"
@@ -92,7 +92,7 @@ To achieve the best results with free-form text input, consider these requiremen
 
 - The response must fit one line. Multi-line texts are not supported.
 - The handwritten characters must be written as close to typed characters as possible.  
-  ![Free text input](omr-hw-24-7-0-free-text.png)
+  ![Free text input](../omr-hw-24-7-0-free-text.png)
 - Write characters separately, resembling typed letters, and clearly space words.
 - Only English characters are supported.
 
@@ -151,4 +151,4 @@ To achieve the best results with free-form text input, consider these requiremen
 &container
 ```
 
-![Free-text input element](rn-2470.png)
+![Free-text input element](../rn-2470.png)
