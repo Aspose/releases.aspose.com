@@ -94,6 +94,10 @@ Indicates whether the shape is decorative.
 
 Inicates whether keeping JSON shcema when loading JSON file.
 
+### **Adds PivotTableCalculateOption class**
+
+Rerepsents the options of calcuating the pivot table.
+
 ### **Adds PivotTable::CalculateData(const PivotTableCalculateOption& option) method**
 
 Calcuating pivot table with options.
@@ -104,7 +108,11 @@ No sorting. Original data order.
 
 ### **Adds SaveFormat::Azw3 enum**
 
-Represents Azw3 file..
+Represents Azw3 file.
+
+### **Adds EbookSaveOptions(SaveFormat saveFormat) constructor**
+
+Creates options for saving ebook file with SaveFormat.Epub or SaveFormat.Azw3.
 
 ### **Obsolete AxisBins::ResetOverflow() and AxisBins::ResetUnderflow() method**
 
@@ -186,3 +194,10 @@ Directly changes the orders of the two series.
 
 Adds a SparklineGroup with a Sparkline to the collection.
 
+### **Adds Cells.GetCellsWithPlaceInCellPicture() method.**
+
+Gets all cells that contain embedded picture.
+
+### **Adds ConversionUtility class.**
+
+Represents utility to convert files to other formats.
