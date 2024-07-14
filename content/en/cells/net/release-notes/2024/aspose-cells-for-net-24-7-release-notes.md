@@ -117,6 +117,10 @@ Indicates whether the shape is decorative.
 
 Inicates whether keeping JSON shcema when loading JSON file.
 
+### **Adds TableCalculateOption class**
+
+Rerepsents the options of calcuating the pivot table.
+
 ### **Adds PivotTable.CalculateData(Pivot.PivotTableCalculateOption) method**
 
 Calcuating pivot table with options.
@@ -127,7 +131,11 @@ No sorting.
 
 ### **Adds SaveFormat.Azw3 enum**
 
-Represents Azw3 file..
+Represents Azw3 file.
+
+### **Adds EbookSaveOptions(SaveFormat saveFormat) constructor**
+
+Creates options for saving ebook file with SaveFormat.Epub or SaveFormat.Azw3.
 
 ### **Obsolete AxisBins.ResetOverflow() and AxisBins.ResetUnderflow() method**
 
