@@ -1,16 +1,18 @@
 ---
-id: "aspose-ocr-for-python-java-latest-release-notes"
-slug: "latest"
-weight: 1
+id: "aspose-ocr-python-java-24-7-0-release-notes"
+slug: "aspose-ocr-python-java-24-7-0-release-notes"
+linktitle: "Aspose.OCR for Python via Java 24.7.0 - Release Notes"
+weight: 61
 date: "2024-07-10"
 author: "Vladimir Lapin"
 type: "repository"
 layout: "release"
-title: Latest Release
-linktitle: "Latest Release"
-description: A summary of recent changes, enhancements and bug fixes introduced in the latest release of Aspose.OCR for Python via Java.
+title: Aspose.OCR for Python via Java 24.7.0 - Release Notes
+family_listing_page_title: "Aspose.OCR for Python via Java 24.7.0 - Release Notes"
+description: A summary of recent changes, enhancements and bug fixes in Aspose.OCR for Python via Java 24.7.0 (July 2024) release.
 keywords:
-- latest
+- "2024"
+- July
 - new
 - release
 - changelog
