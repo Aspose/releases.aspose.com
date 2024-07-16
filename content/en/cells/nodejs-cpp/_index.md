@@ -67,7 +67,7 @@ You can easily use <b>aspose.cells</b> for Node.js from {{< Common/link href="ht
 
 <!-- ReleasesListProductPage-->
 
-{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="cells" product="nodejs" >}}
+{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="cells" product="nodejs-cpp" >}}
 
 <!-- /ReleasesListProductPage-->
 
