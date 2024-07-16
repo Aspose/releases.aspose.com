@@ -17,14 +17,14 @@ weight:  8
 
 {{< dbToolbar link="https://forum.aspose.com/c/cells" linktext=" Support Forum " >}}
 
-{{< Common/h3 text="Download Aspose.Cells from NPM"  >}}
+{{< Common/h3 text="Download Aspose.Cells for Node.js via Java from NPM"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Cells for Node.js via Java is a scalable and feature-rich API to process Excel spreadsheets using Node.js.
-You can easily use <b>aspose.cells</b> for Javascript from {{< Common/link href="https://www.npmjs.com/package/aspose.cells.java" text="NPM"  >}} with the following command.
+You can easily use <b>aspose.cells</b> for Node.js from {{< Common/link href="https://www.npmjs.com/package/aspose.cells.java" text="NPM"  >}} with the following command.
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="npm" >}}
    {{< consolebox/spantext text=" " >}}
-   {{< consolebox/textarea id="npm" >}} npm install aspose.cells {{< /consolebox/textarea >}}
+   {{< consolebox/textarea id="npm" >}} npm install aspose.cells.java {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/release-notes-link family="cells" product="nodejs" href="https://releases.aspose.com/cells/nodejs/release-notes/" text="https://releases.aspose.com/cells/nodejs/release-notes/"  >}}
 
