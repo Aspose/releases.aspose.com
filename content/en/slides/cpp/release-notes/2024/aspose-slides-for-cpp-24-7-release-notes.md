@@ -86,7 +86,7 @@ The following types of placeholders can be added:
 - Media
 - Online Image
 
-### New method ILayoutSlide.get_PlaceholderManager() has been added
+### New method ILayoutSlide::get_PlaceholderManager() has been added
 
 The property allows access to a placeholder manager of the Layout slide.
 
