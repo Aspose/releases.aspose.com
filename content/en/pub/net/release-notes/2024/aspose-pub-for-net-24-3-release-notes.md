@@ -4,7 +4,7 @@ slug: "aspose-pub-for-net-24-3-release-notes"
 linktitle: "Aspose.PUB for .NET 24.3 Release Notes"
 title: "Aspose.PUB for .NET 24.3 Release Notes"
 weight: 100
-description: "C# .NET APIs to manipulate Publisher files. This page contains new features Aspose.PUB for .NET, enhancement, and bug fixes in 2023, version 24.3."
+description: "C# .NET APIs to manipulate Publisher files. This page contains new features Aspose.PUB for .NET, enhancement, and bug fixes in 2024, version 24.3."
 type: "repository"
 layout: "release"
 hideChildren: false
