@@ -10,7 +10,7 @@ download_link: "/slides/net/new-releases/aspose.slides-for-.net-24.7(dlls-only)/
 download_text: "下载"
 intro_text: "它包含适用于 .NET 24.7（仅限 DLL）版本的 Aspose.Slides。"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 17/7/2024 下载s: 1  Views: 1 "
+download_count: " 17/7/2024 下载s: 3  Views: 1 "
 file_size: "File Size: 178.87MB"
 parent_path: "slides/net"
 section_parent_path: "slides/net"
@@ -31,7 +31,7 @@ weight: 796
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} 下载s: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-3bdbb0f43b3a4e1a19a9faddcc428ba6-36-11213" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-3bdbb0f43b3a4e1a19a9faddcc428ba6-36-11213" >}} 3 {{< /Common/li >}}
       {{< Common/li >}} 文件大小: {{< /Common/li >}}
       {{< Common/li id="size-update-3bdbb0f43b3a4e1a19a9faddcc428ba6-36-11213" >}} 178.87MB {{< /Common/li >}}
 

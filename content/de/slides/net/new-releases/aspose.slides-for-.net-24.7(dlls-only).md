@@ -10,7 +10,7 @@ download_link: "/slides/net/new-releases/aspose.slides-for-.net-24.7(dlls-only)/
 download_text: "Download"
 intro_text: "Es enthält die Version Aspose.Slides für .NET 24.7 (nur DLLs)."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 17/7/2024 Downloads: 1  Views: 1 "
+download_count: " 17/7/2024 Downloads: 3  Views: 1 "
 file_size: "File Size: 178.87MB"
 parent_path: "slides/net"
 section_parent_path: "slides/net"
@@ -31,7 +31,7 @@ weight: 796
     {{< Releases/ReleasesHeading h4txt="Dateidetails">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-3bdbb0f43b3a4e1a19a9faddcc428ba6-36-11213" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-3bdbb0f43b3a4e1a19a9faddcc428ba6-36-11213" >}} 3 {{< /Common/li >}}
       {{< Common/li >}} Dateigröße: {{< /Common/li >}}
       {{< Common/li id="size-update-3bdbb0f43b3a4e1a19a9faddcc428ba6-36-11213" >}} 178.87MB {{< /Common/li >}}
 
