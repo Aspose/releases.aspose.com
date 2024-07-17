@@ -6,12 +6,12 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/page/net/new-releases/aspose.page-for-.net-24.6-(dlls-and-docs)/"
 folder_name: "Aspose.Page para .NET 24.6 (DLLs e documentos)"
-download_link: "/page/net/new-releases/aspose.page-for-.net-24.6-(dlls-and-docs)/3dfccb70a813caaf3b7648d0b61dcce1-5-11059"
+download_link: "/page/net/new-releases/aspose.page-for-.net-24.6-(dlls-and-docs)/5f506c6cd6fb579fb908023895bf8038-5-11059"
 download_text: "Download"
 intro_text: "Temos o prazer de anunciar uma nova versão do Aspose.Page para .Net."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 20/6/2024 Downloads: 12  Views: 1 "
-file_size: "File Size: 24.14MB"
+file_size: "File Size: 24.17MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
 
@@ -24,19 +24,19 @@ weight: 152
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Page para .NET 24.6 (DLLs e documentos)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/page/net/new-releases/aspose.page-for-.net-24.6-(dlls-and-docs)/3dfccb70a813caaf3b7648d0b61dcce1-5-11059" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/page/net/new-releases/aspose.page-for-.net-24.6-(dlls-and-docs)/5f506c6cd6fb579fb908023895bf8038-5-11059" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/page" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detalhes do arquivo">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-3dfccb70a813caaf3b7648d0b61dcce1-5-11059" >}} 12 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-5f506c6cd6fb579fb908023895bf8038-5-11059" >}} 12 {{< /Common/li >}}
       {{< Common/li >}} Tamanho do arquivo: {{< /Common/li >}}
-      {{< Common/li id="size-update-3dfccb70a813caaf3b7648d0b61dcce1-5-11059" >}} 24.14MB {{< /Common/li >}}
+      {{< Common/li id="size-update-5f506c6cd6fb579fb908023895bf8038-5-11059" >}} 24.17MB {{< /Common/li >}}
 
       {{< Common/li >}} data adicionada: {{< /Common/li >}}
-      {{< Common/li id="added-update-3dfccb70a813caaf3b7648d0b61dcce1-5-11059" >}}20/6/2024 {{< /Common/li >}}
+      {{< Common/li id="added-update-5f506c6cd6fb579fb908023895bf8038-5-11059" >}}20/6/2024 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
