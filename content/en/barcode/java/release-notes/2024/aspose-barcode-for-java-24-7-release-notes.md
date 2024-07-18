@@ -33,7 +33,6 @@ Replaced Code39Standard to Code39 as it is defined in ISO/IEC 16388.
 Replaced Code39Extended to Code39FullASCII because ISO/IEC 16388 defines the code variant as full ASCII support over Code39.
 
 ### SVG 2.0 color schemes (RGB, RGBA, HSL, HSLA):
-Added com.aspose.barcode.generation.SvgColorMode class.
 Added enum com.aspose.barcode.generation.SvgColorMode. 
 Fields of enum : RGB, RGBA, HSL, HSLA.
 Represents possible modes for filling color in svg file, RGB is default and supported by SVG 1.1. 
