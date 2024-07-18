@@ -1,0 +1,12 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-slides",
+  "id" : "24-7",
+  "packageFiles" : [ {
+    "size" : "1 KB",
+    "name" : "aspose-slides-24.7.pom"
+  } ],
+  "releasehDate" : "2024-07-18T16:54:31+00:00",
+  "version" : "24.7",
+  "ReleaseNotes" : "https://releases.aspose.com/slides/java/release-notes/2024/aspose-slides-for-java-24-7-release-notes/"
+}
