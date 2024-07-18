@@ -47,7 +47,7 @@ for (System::SharedPtr<BarCodeResult> result : reader->ReadBarCodes())
 ```
 
 ### AustraliaPost generation
-Parameters.Barcode.AustralianPost.AustralianPostShortBarHeight parameter for the AustraliaPost generation functions correctly now.
+`get_Parameters()->get_Barcode()->get_AustralianPost()->get_AustralianPostShortBarHeight()` for the AustraliaPost generation functions correctly now.
 ```cpp
 System::SharedPtr<BarcodeGenerator> gen = System::MakeObject<BarcodeGenerator>(EncodeTypes::AustraliaPost, u"6212345678AP");
 gen->get_Parameters()->get_Barcode()->get_AustralianPost()->set_AustralianPostEncodingTable(Aspose::BarCode::CustomerInformationInterpretingType::CTable);
