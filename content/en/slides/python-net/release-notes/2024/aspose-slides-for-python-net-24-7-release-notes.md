@@ -89,7 +89,7 @@ The following types of placeholders can be added:
 
 ### ILayoutSlide.PlaceholderManager property has been added
 
-A new [`placeholder_manager`] property has been added to the [`ILayoutSlide`](https://reference.aspose.com/slides/python-net/aspose.slides/ilayoutslide/) interface and the [`LayoutSlide`](https://reference.aspose.com/slides/python-net/aspose.slides/layoutslide/) class. It allows access to a placeholder manager of the Layout slide.
+A new [`placeholder_manager`](https://reference.aspose.com/slides/python-net/aspose.slides/ilayoutslide/placeholder_manager/) property has been added to the [`ILayoutSlide`](https://reference.aspose.com/slides/python-net/aspose.slides/ilayoutslide/) interface and the [`LayoutSlide`](https://reference.aspose.com/slides/python-net/aspose.slides/layoutslide/) class. It allows access to a placeholder manager of the Layout slide.
 
 The following code sample shows how to add new placeholder shapes to the Layout slide:
 
