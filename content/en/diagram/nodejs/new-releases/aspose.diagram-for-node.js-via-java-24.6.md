@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.diagram-for-node.js-via-java-24.6"
-description: " "
+title: "Aspose.Diagram Node.js 24.6: Boost Shape Analysis & Themes"
+description: "Unleash deeper shape customization in Node.js apps with Aspose.Diagram Node.js via Java 24.6. Check if a shape has a theme color applied. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-24.6/"
@@ -43,8 +43,30 @@ weight: 44
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/diagram/nodejs/release-notes/2024/aspose-diagram-for-node-js-via-java-24-6-release-notes/'>https://releases.aspose.com/diagram/nodejs/release-notes/2024/aspose-diagram-for-node-js-via-java-24-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Node.js via Java 24.6</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Diagram for Node.js via Java 24.6 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+### Shape Analysis Boost
+
+Aspose.Diagram for Node.js via Java 24.6 enables easy retrieval of information about relationships between shapes in imported VSD files. With this upgrade, you can better control the theme color usage and perform customization easily.
+
+### Augmented Theme Management
+
+The newly added `hasThemeColor` method in the latest Node.js diagram library simplifies the identification of shapes that utilize theme colors and simplifies your workflows.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Diagram for Node.js via Java 24.6 Release Notes](https://releases.aspose.com/diagram/nodejs/release-notes/2024/aspose-diagram-for-node-js-via-java-24-6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
