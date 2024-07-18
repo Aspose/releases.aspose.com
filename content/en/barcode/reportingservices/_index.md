@@ -24,57 +24,74 @@ weight: 5
 
 [Product Page](https://products.aspose.com/barcode/reporting-services/) | [Docs](https://docs.aspose.com/barcode/reportingservices/) | [API Reference](https://reference.aspose.com/barcode/) | [Blog](https://blog.aspose.com/category/barcode/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/barcode/13) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
-### Barcode & SQL Reports Integration Features
+## **Product Description**
+***Aspose.BarCode for Reporting Services*** is designed to use with all exists on the market Microsoft Reporting Services engines. It is designed for both: easy visual barcode labels development and rich barcode generation with special barcode options.
 
-- Support for 60+ barcode symbologies including linear, 2D, and postal barcodes.
-- Ability to edit most barcode features via embedded editor or component properties.
-- Display barcodes from a dataset.
-- Show barcodes in the report header and footer.
-- Dynamically display barcodes in a table based on fetched field value variables.
-- Ability to create device resolution-dependent barcodes.
-- Support for high-resolution modes from 96 to 600 dpi.
+***Aspose.BarCode for Reporting Services*** allows visually create more then 80 barcode label formats. These barcode labels can be rendered with high resolution in various formats: ***BMP***, ***JPEG***, ***GIF***, ***TIFF*** and ***PNG***. Moreover, ***Aspose.BarCode for Reporting Services*** library supports ***Custom Code*** features and allows to use all of ***Aspose.BarCode for .Net*** rich generation features.
 
-### Supported Image Formats
+## **Features**
+- Generate 80+ barcode symbologies visually with light weight [Custom Report Items](https://docs.microsoft.com/sql/reporting-services/custom-report-items/custom-report-items) component or with a few lines of code.
+- Wide range of options to manipulate barcode image appearance.
+- Generate barcodes with special barcode parameters, like error correction mode, ECI or embedded metadata.
+- Create device resolution dependent barcode images.
+- Visual barcode label development with embedded visual editor.
+- Wide range of the barcode label options as Visual Studio component.
+- Custom Code embedding which allows to add all rich barcode generation features from Aspose.BarCode for .Net.
+- Multiple barcode visual options and caption areas which allows to generate barcode label in own style.
+- High resolution modes from 96 to 600 dpi.
+- Barcode label generaton in 5 image formats: ***BMP***, ***JPEG***, ***GIF***, ***TIFF*** and ***PNG***.
 
-- JPEG
-- TIFF
-- PNG
-- BMP
-- GIF
-- EMF
-- SVG
+## **Supported Barcode Types**
+***Aspose.BarCode for Reporting Services*** supports over 80 different [barcode types](https://en.wikipedia.org/wiki/Barcode#Types_of_barcodes) used in a variety of industries. These include linear (1D), Postal and 2D barcode symbols.
 
-### Supported Linear (1D) Barcodes
+**Linear barcode types**, or *1D barcodes*, correspond to the first generation of one-dimensional barcodes (1D) that are used to represent information by varying the widths and spacings of parallel lines. Some 1D symbologies allow encoding only numbers, while others permit encoding also letters.  
 
-Code 11, Code 128, Code 32, Code 39, Code 93, Codabar, Code 16K, CodablockF, Databar Omnidirectional, Databar Stacked Omnidirectional, Databar Limited, Databar Truncated, Databar Stacked, Databar Expanded, Databar Expanded Stacked, EAN 13, EAN 14, EAN 8, GS1 CodablockF, GS1 Code 128, IATA 2 of 5, Italian Post 25, Interleaved 2 of 5, ISBN, ISMN, ISSN, ITF 14, ITF 6, Matrix 2 of 5, MSI, OPC, PatchCode, Pharmacode, PZN, SSCC 14, SSCC 18, Standard 2 of 5, EAN 5, EAN 2, UPC A, UPC E, UpcaGs1DatabarCoupon, VIN
+**DataBar barcodes** (former RSS-14) are 1D and 1D staked barcodes, which were developed to efficiently encode [*GS1 Application Identifier*](https://ref.gs1.org/ai/?lang=en) data.
 
-### Supported Postal Barcodes
+**Matrix barcodes**, also known as *2D barcodes*, have been introduced as a two-dimensional way to encode information. Two-dimensional (2D) barcodes are generated using various symbols and shapes. This barcode type is considered to be more efficient, as such barcodes contain more data per unit area, and most of them are self-correctable.  
+  
+**Postal barcodes** are specific symbologies used by postal services in different countries.
 
-Australia Post, AustralianPosteParcel, Deutsche Post Identcode, Deutsche Post Leticode, Planet, Postnet, RM4SCC, SingaporePost, SwissPostParcel, USPS OneCode
+**HIBC barcodes** encode data in [special format](https://www.hibcc.org/udi-labeling-standards/barcode-standards/) which is used in Health Industry. As transport, the barcodes use other 1D and 2D barcodes and encode data as Alpha-Numeric.
 
-### Supported 2D Barcodes
+**GS1 barcodes** use other 1D and 2D barcodes to encode [*GS1 Application Identifier*](https://ref.gs1.org/ai/?lang=en) data.
 
-Aztec, Compact PDF 417, Data Matrix, DotCode, GS1 Data Matrix, GS1 QR, MaxiCode, Macro PDF 417, Micro PDF 417, PDF 417, QR, MicroQR
+|Barcode Family|Barcode Types|
+|---|---|
+| 1D Numeric (Linear) |Codabar, Code11, Code128, DataLogic2of5, EAN13, EAN14, EAN8, IATA2of5, ISBN, ISMN, ISSN, ITF14, ITF6, Interleaved2of5, ItalianPost25, MSI, Matrix2of5, OPC, PZN, PatchCode, Pharmacode, SCC14, SSCC18, Standard2of5, UPCA, UPCE|
+| 1D Alpha-Numeric (Linear) |CodablockF, Code128, Code16K, Code32, Code39Extended, Code39Standard, Code93Extended, Code93Standard, VIN|
+| DataBar (RSS-14) |DatabarExpanded, DatabarExpandedStacked, DatabarLimited, DatabarOmniDirectional, DatabarStacked, DatabarStackedOmniDirectional, DatabarTruncated|
+| 2D |Aztec, CompactPdf417, DataMatrix, DotCode, HanXin, MacroPdf417, MaxiCode, MicroPdf417, MicroQR, Pdf417, QR, RectMicroQR(rMQR), Swiss QR Code|
+| Postal |AustraliaPost, AustralianPosteParcel, DeutschePostIdentcode, DeutschePostLeitcode, DutchKIX, Mailmark, Mailmark 2D, OneCode, Planet, Postnet, RM4SCC, SingaporePost, SwissPostParcel|
+| HIBC |HIBCAztecLIC, HIBCAztecPAS, HIBCCode128LIC, HIBCCode128PAS, HIBCCode39LIC, HIBCCode39PAS, HIBCDataMatrixLIC, HIBCDataMatrixPAS, HIBCQRLIC, HIBCQRPAS|
+| GS1 |GS1Aztec, GS1CodablockF, GS1Code128, GS1CompositeBar (GS1 Composite barcode), GS1DataMatrix, GS1DotCode, GS1HanXin, GS1MicroPdf417, GS1QR, UpcaGs1Code128Coupon, UpcaGs1DatabarCoupon|
 
-### Supported Platforms
+## **Supported Image Formats**
+Aspose.BarCode for Reporting Services supports rendering barcode labels in 5 image file formats. These formats can be generated by ***BarcodeGenerator visual component*** and ***BarcodeGenerator class***. The following image formats are supported:
+- [JPEG](https://docs.fileformat.com/Image/JPEG/) - The image file format was standardized by the Joint Photographic Experts Group.
+- [TIFF](https://docs.fileformat.com/Image/TIFF/) - Tagged Image File Format.
+- [PNG](https://docs.fileformat.com/Image/PNG/) - Portable Network Graphics Image.
+- [BMP](https://docs.fileformat.com/Image/BMP/) - Bitmap Image Files.
+- [GIF](https://docs.fileformat.com/Image/GIF/) - Graphical Interchange Format Image.
 
-- SQL Server 2019
-- SQL Server 2017
-- SQL Server 2016
-- SQL Server 2014
-- SQL Server 2012
-- SQL Server 2008
-- SQL Server 2008R2
-- Microsoft Visual Studio 2019
-- Microsoft Visual Studio 2017
-- Microsoft Visual Studio 2015
-- Microsoft Visual Studio 2013
-- Microsoft Visual Studio 2012
+BarcodeGenerator class can generate barcode labels in two additional vector formats but they are not supported for rendering by SQL Server Reporting Services engine:
+- [EMF](https://docs.fileformat.com/Image/EMF/) - Enhanced Metafile Format.
+- [SVG](https://docs.fileformat.com/page-description-language/SVG/) -Scalable Vector Graphics Files.
 
-### System Compatibility
+## **System Compatibility**
+- VS2022 / VS2019 / VS2017 / VS2015 / VS2013 / VS2012 / VS2010
+- SSRS 2022 / SSRS 2019 / SSRS 2017 / SSRS 2016 / SSRS 2014 / SSRS 2012 / SSRS 2008R2 / SSRS 2008
 
-- VS2019 / VS2017 / VS2015 / VS2013 / VS2012 / VS2010
-- SSRS 2019 / SSRS 2017 / SSRS 2016 / SSRS 2014 / SSRS 2012 / SSRS 2008R2 / SSRS 2008
+## **Library Content**
+Aspose.BarCode for Reporting Services contains two components:
+- ***BarcodeGenerator visual component***, built by ***Custom Report Items*** technology, allows editing most of features of barcode label visually by embedded editor or component properties.
+- ***BarcodeGenerator class*** which can be used in ***Custom Code*** solutions and provides the same features as BarcodeGenerator class from ***Aspose.BarCode for .Net***.
+
+***BarcodeGenerator visual component*** doesn’t work on SQL Server Express Editions because Custom Report Items technology is not supported by Express Editions. ***BarcodeGenerator class*** as Custom Code solution can be used without any limitation even on Express Editions.
+
+## **Report development**
+***Aspose.BarCode for Reporting Services*** requires Visual Studio with [SQL Server Data Tools](https://docs.microsoft.com/sql/ssdt/download-sql-server-data-tools-ssdt) or [Microsoft Reporting Services Projects Extension](https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftReportProjectsforVisualStudio) installed for enabling all of features of report development.
+
 
 [Product Page](https://products.aspose.com/barcode/reporting-services/) | [Docs](https://docs.aspose.com/barcode/reportingservices/) | [API Reference](https://reference.aspose.com/barcode/) | [Blog](https://blog.aspose.com/category/barcode/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/barcode/13) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
