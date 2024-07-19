@@ -714,6 +714,33 @@ rewrite ^/words/java/24-11/$ https://releases-qa.aspose.com/words/java/ permanen
 rewrite ^/words/net/release-notes/20201/$ https://releases-qa.aspose.com/words/net/release-notes/2021/ permanent;
 rewrite ^/words/net/release-notes/2024/aspose-words-for-net-20-11-release-notes/$ https://releases-qa.aspose.com/words/net/release-notes/2020/aspose-words-for-net-20-11-release-notes/ permanent;
 
+# Redirects applied on 19th July 2024
+
+rewrite ^/words/java(.*)$ https://releases-qa.aspose.com/words/java/ permanent;
+rewrite ^/\/total/java/release-notes/2024/aspose-total-for-java-24-3-release-notes/$ https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/ permanent;
+rewrite ^/artifactory/libs-snapshot$ https://releases-qa.aspose.com/java/repo/ permanent;
+rewrite ^/maven/$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-java-for-maven/ permanent;
+rewrite ^/words/java/14-9-0/$ https://releases-qa.aspose.com/words/java/ permanent;
+rewrite ^/3d/java/24-6/$ https://releases-qa.aspose.com/3d/java/24-6-0/ permanent;
+rewrite ^/3d/java/release-notes/2024/aspose-3d-for-java-24-6-0-release-notes/$ https://releases-qa.aspose.com/3d/java/release-notes/2024/aspose-3d-for-java-24-6-release-notes/ permanent;
+rewrite ^/Tasks/python-net/$ https://releases-qa.aspose.com/tasks/python-net/ permanent;
+rewrite ^/barcode/net/release-notes/2023/aspose-barcode-for-net-22-1-release-notes/$ https://releases-qa.aspose.com/barcode/net/release-notes/2022/aspose-barcode-for-net-22-1-release-notes/ permanent;
+rewrite ^/c$ https://releases-qa.aspose.com/total/cpp/ permanent;
+rewrite ^/c\+\+$ https://releases-qa.aspose.com/total/cpp/ permanent;
+rewrite ^/cell/java/24-6/$ https://releases-qa.aspose.com/cells/java/24-6/ permanent;
+rewrite ^/cells/cpp/new-releases/aspose.cells-for-c++-24.5windows(.*)$ https://releases-qa.aspose.com/cells/cpp/new-releases/aspose.cells-for-c++-24.5windows/ permanent;
+rewrite ^/cells/cpp/release-notes/2024/aspose-cells-for-net-24-7-release-notes/$ https://releases-qa.aspose.com/cells/cpp/release-notes/2024/aspose-cells-for-cpp-24-7-release-notes/ permanent;
+rewrite ^/cells/dotnet$ https://releases-qa.aspose.com/cells/net/ permanent;
+rewrite ^/cells/java/8-5/$ https://releases-qa.aspose.com/cells/java/ permanent;
+rewrite ^/cells/java/release-notes/2024/aspose-cells-for-net-24-6-release-notes/$ https://releases-qa.aspose.com/cells/java/release-notes/2024/aspose-cells-for-java-24-6-release-notes/ permanent;
+rewrite ^/cells/net/release-notes/2024/aspose-cells-for-java-24-7-release-notes/$ https://releases-qa.aspose.com/cells/net/release-notes/2024/aspose-cells-for-net-24-7-release-notes/ permanent;
+rewrite ^/cpp$ https://releases-qa.aspose.com/total/cpp/ permanent;
+rewrite ^/en-us/words/net/$ https://releases-qa.aspose.com/words/net/ permanent;
+rewrite ^/en/words/net/$ https://releases-qa.aspose.com/words/net/ permanent;
+rewrite ^/font/resources/$ https://releases-qa.aspose.com/font/ permanent;
+rewrite ^/font/resources/img/$ https://releases-qa.aspose.com/font/ permanent;
+rewrite ^/note/net/release-notes/2023/aspose-note-for-net-24-5-release-notes/$ https://releases-qa.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-5-release-notes/ permanent;
+rewrite ^/note/net/release-notes/2023/aspose-note-for-net-24-7-release-notes/$ https://releases-qa.aspose.com/note/net/release-notes/2023/aspose-note-for-net-23-7-release-notes/ permanent;
 
 
 
