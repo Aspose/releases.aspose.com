@@ -766,6 +766,7 @@ rewrite ^/words/net/release-notes/2019/aspose-words-for-net-19-13-release-notes/
 rewrite ^/words/net/release-notes/2020/aspose-words-for-net-19-1-release-notes/$ https://releases-qa.aspose.com/words/net/release-notes/2020/aspose-words-for-net-20-1-release-notes/ permanent;
 rewrite ^/words/net/release-notes/2020/aspose-words-for-net-20-0-release-notes/$ https://releases-qa.aspose.com/words/net/release-notes/2020/aspose-words-for-net-20-1-release-notes/ permanent;
 rewrite ^/zh/cells/java/8-5-2/$ https://releases-qa.aspose.com/zh/cells/java/ permanent;
+rewrite ^/pdf/net/new-releases/aspose.pdf-.net-3.2.0.0-new-release/$ https://releases-qa.aspose.com/pdf/net/new-releases/aspose.pdf-.net-3.2.2.0-hot-fix/ permanent;
 
 
 
