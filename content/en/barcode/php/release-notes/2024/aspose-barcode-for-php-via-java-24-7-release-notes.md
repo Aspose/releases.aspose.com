@@ -32,7 +32,7 @@ for [Aspose.BarCode for PHP via Java 24.7](https://releases.aspose.com/barcode/p
 ### Code39 and Code93 API changes:
 
 Merged CODE_39_EXTENDED and CODE_39_STANDARD into CODE_39 for EncodeTypes and DecodeType.
-Replaced CODE_39_STANDARD to Code39 as it is defined in ISO/IEC 16388.
+Replaced CODE_39_STANDARD to CODE_39 as it is defined in ISO/IEC 16388.
 Replaced CODE_39_EXTENDED to CODE_39_FULL_ASCII because ISO/IEC 16388 defines the code variant as full ASCII support
 over Code39.
 
