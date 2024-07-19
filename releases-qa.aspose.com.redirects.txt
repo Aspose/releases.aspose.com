@@ -716,7 +716,7 @@ rewrite ^/words/net/release-notes/2024/aspose-words-for-net-20-11-release-notes/
 
 # Redirects applied on 19th July 2024
 
-rewrite ^/words/java(.*)$ https://releases-qa.aspose.com/words/java/ permanent;
+# rewrite ^/words/java(.*)$ https://releases-qa.aspose.com/words/java/ permanent;
 rewrite ^/\/total/java/release-notes/2024/aspose-total-for-java-24-3-release-notes/$ https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/ permanent;
 rewrite ^/artifactory/libs-snapshot$ https://releases-qa.aspose.com/java/repo/ permanent;
 rewrite ^/maven/$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-java-for-maven/ permanent;
