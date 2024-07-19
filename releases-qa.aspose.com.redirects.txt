@@ -728,7 +728,7 @@ rewrite ^/barcode/net/release-notes/2023/aspose-barcode-for-net-22-1-release-not
 rewrite ^/c$ https://releases-qa.aspose.com/total/cpp/ permanent;
 rewrite ^/c\+\+$ https://releases-qa.aspose.com/total/cpp/ permanent;
 rewrite ^/cell/java/24-6/$ https://releases-qa.aspose.com/cells/java/24-6/ permanent;
-rewrite ^/cells/cpp/new-releases/aspose.cells-for-c++-24.5windows(.*)$ https://releases-qa.aspose.com/cells/cpp/new-releases/aspose.cells-for-c++-24.5windows/ permanent;
+rewrite ^/cells/cpp/new-releases/aspose.cells-for-c++-24.5windows(.*) https://releases-qa.aspose.com/cells/cpp/new-releases/aspose.cells-for-c++-24.5windows/ permanent;
 rewrite ^/cells/cpp/release-notes/2024/aspose-cells-for-net-24-7-release-notes/$ https://releases-qa.aspose.com/cells/cpp/release-notes/2024/aspose-cells-for-cpp-24-7-release-notes/ permanent;
 rewrite ^/cells/dotnet$ https://releases-qa.aspose.com/cells/net/ permanent;
 rewrite ^/cells/java/8-5/$ https://releases-qa.aspose.com/cells/java/ permanent;
