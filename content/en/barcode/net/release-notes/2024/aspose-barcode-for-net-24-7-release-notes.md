@@ -1,5 +1,5 @@
 ---
-date: "2024-07-20"
+date: "2024-07-19"
 id: "aspose-barcode-for-net-24-7-release-notes"
 slug: "aspose-barcode-for-net-24-7-release-notes"
 linktitle: "Aspose.BarCode for .NET 24.7 Release Notes"
@@ -18,9 +18,6 @@ keywords:
 - "new"
 - "release"
 - "changelog"
-- ".Net 8.0"
-- "QR"
-- "AustraliaPost"
 menuItemWithNoContent: false
 ---
 

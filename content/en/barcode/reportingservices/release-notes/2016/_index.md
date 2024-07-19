@@ -3,7 +3,7 @@ id: "release-notes-2016"
 linktitle: "2016"
 title: "Release Notes - 2016"
 productName: "Aspose.BarCode for ReportingServices"
-weight: 8
+weight: 100
 description: "This section contains the release notes of Aspose.BarCode for ReportingServices for the year 2016. In these release notes, we are publishing the list of issues that have been fixed in the current version, as well as any public API and behavioral changes."
 type: "repository"
 layout: "releases"
