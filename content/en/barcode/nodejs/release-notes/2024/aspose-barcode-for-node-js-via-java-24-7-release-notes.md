@@ -48,20 +48,21 @@ which converts HslaColor to Color.
 Examples:
 
 ```js
- public void example1() throws IOException
+example1()
 {
-    String codeText = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-    BarcodeGenerator generator = new Generation.BarcodeGenerator(EncodeTypes.CODE_128, codeText);
-    Color color = new Color(0xBBFF5511);
+    let folder = ta.testdata_root + "Examples/release_24_7/";
+    let codeText = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    let generator = new BarcodeGenerator(EncodeTypes.CODE_128, codeText);
+    let color = "#BBFF5511";
     generator.getParameters().getBarcode().setBarColor(color);
     generator.getParameters().getImage().getSvg().setSvgColorMode(SvgColorMode.HSLA);
-    generator.save(folder + "Hsla.svg");
+    generator.save(folder + "Hsla_nodejs.svg", BarCodeImageFormat.PNG);
 }
 ```
 
 ```js
- function example2()
- {
+function example2()
+{
     $folder = testdata_root . "release_24_7/";
     $codeText = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     $generator = new BarcodeGenerator(EncodeTypes::CODE_128, $codeText);
@@ -70,5 +71,5 @@ Examples:
     $generator->getParameters()->getBarcode()->setBarColor($color);
     $generator->getParameters()->getImage()->getSvg()->setSvgColorMode(SvgColorMode::HSLA);
     $generator->save($folder . "Hsla_from_hsla.svg", BarCodeImageFormat::PNG);
- }
+}
 ```
