@@ -50,26 +50,26 @@ Examples:
 ```js
 example1()
 {
-    let folder = ta.testdata_root + "Examples/release_24_7/";
+    let filePath = "Hsla.svg";
     let codeText = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     let generator = new BarcodeGenerator(EncodeTypes.CODE_128, codeText);
     let color = "#BBFF5511";
     generator.getParameters().getBarcode().setBarColor(color);
     generator.getParameters().getImage().getSvg().setSvgColorMode(SvgColorMode.HSLA);
-    generator.save(folder + "Hsla_nodejs.svg", BarCodeImageFormat.PNG);
+    generator.save(filePath, BarCodeImageFormat.PNG);
 }
 ```
 
 ```js
 function example2()
 {
-    $folder = testdata_root . "release_24_7/";
-    $codeText = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-    $generator = new BarcodeGenerator(EncodeTypes::CODE_128, $codeText);
-    $hslaColor = new HslaColor(30, 50, 70, 0.8);
-    $color = HslaColor::convertHslaToRgba($hslaColor);
-    $generator->getParameters()->getBarcode()->setBarColor($color);
-    $generator->getParameters()->getImage()->getSvg()->setSvgColorMode(SvgColorMode::HSLA);
-    $generator->save($folder . "Hsla_from_hsla.svg", BarCodeImageFormat::PNG);
+    let filePath = "Hsla_from_hsla.svg";
+    let codeText = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    let generator = new BarcodeGenerator(EncodeTypes.CODE_128, codeText);
+    let hslaColor = new HslaColor(30, 50, 70, 0.8);
+    let color = HslaColor.convertHslaToRgba(hslaColor);
+    generator.getParameters().getBarcode().setBarColor(color);
+    generator.getParameters().getImage().getSvg().setSvgColorMode(SvgColorMode.HSLA);
+    generator.save(filePath, BarCodeImageFormat.PNG);
 }
 ```
