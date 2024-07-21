@@ -33,7 +33,7 @@ This page contains release notes for [Aspose.Slides for C++ 24.7](https://www.nu
 ## Other Improvements and Changes
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
-|SLIDESCPP-3884|Use Aspose.Slides for .NET 24.7 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-7-release-notes/>|
+|SLIDESCPP-3949|Use Aspose.Slides for .NET 24.7 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-7-release-notes/>|
 
 ## Public API Changes
 
