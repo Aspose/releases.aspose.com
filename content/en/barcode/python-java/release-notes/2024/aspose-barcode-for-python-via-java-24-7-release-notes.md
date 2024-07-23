@@ -22,8 +22,8 @@ This page contains release notes information for [Aspose.BarCode for Python via 
 
 | **Key**           | **Summary**                                                                       | **Category** |
 |:------------------|:----------------------------------------------------------------------------------|:-------------|
- BARCODENET-38304 | Add changes to API for Code39 and Code93               | Enhancement  |
-| BARCODENET-38966 | Implement SVG 2.0 color schemes (RGB, RGBA, HSL, HSLA) | Enhancement  |
+|  BARCODENET-38304 | Add changes to API for Code39 and Code93               | Enhancement  |
+| BARCODENET-38966  | Implement SVG 2.0 color schemes (RGB, RGBA, HSL, HSLA) | Enhancement  |
 
 ## Public API changes and backwards compatibility
 
@@ -49,10 +49,11 @@ Examples:
 
 ```python
 def example1(self):
-    filePath = "Hsla.svg"
+    filePath = "Hsla_python.svg"
     codeText = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
     generator = Generation.BarcodeGenerator(Generation.EncodeTypes.CODE_128, codeText)
-    color = "#BBFF5511"
+    colorHex = "#BBFF5511"
+    color = ImageColor.getrgb(colorHex)
     generator.getParameters().getBarcode().setBarColor(color)
     generator.getParameters().getImage().getSvg().setSvgColorMode(Generation.SvgColorMode.HSLA)
     generator.save(filePath, Generation.BarCodeImageFormat.PNG)
@@ -60,12 +61,22 @@ def example1(self):
 
 ```python
 def test2(self):
-    filePath = "Hsla_from_hsla.svg"
+    filePath = "Hsla_from_hsla_python.svg"
     codeText = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
     generator = Generation.BarcodeGenerator(Generation.EncodeTypes.CODE_128, codeText)
     hslaColor = Generation.HslaColor(30, 50, 70, 0.8)
     color = Generation.HslaColor.convertHslaToRgba(hslaColor)
     generator.getParameters().getBarcode().setBarColor(color)
-    generator.getParameters().getImage().getSvg().setSvgColorMode(Generation.SvgColorMode.HSLA)
+    svg = generator.getParameters().getImage().getSvg()
+    svgColorMode = Generation.SvgColorMode
+    colorMode = svgColorMode.HSLA
+    svg.setSvgColorMode(colorMode)
     generator.save(filePath, Generation.BarCodeImageFormat.PNG)
+```
+
+```python
+def example3(self):
+    hslaColor = Generation.HslaColor(30, 50, 70, 0.8)
+    rgbaColor = Generation.HslaColor.convertHslaToRgba(hslaColor)
+    print(f"rgbaColor = {rgbaColor}")
 ```
