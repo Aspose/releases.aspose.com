@@ -31,9 +31,9 @@ This page contains release notes information for [Aspose.BarCode for Node.js via
 
 Merged CODE_39_EXTENDED and CODE_39_STANDARD into CODE_39 for EncodeTypes and DecodeType.
 Replaced CODE_39_STANDARD to CODE_39 as it is defined in ISO/IEC 16388.
-Replaced CODE_39_EXTENDED to CODE_39_FULL_ASCII because ISO/IEC 16388 defines the code variant as full ASCII support
+Replaced CODE_39_EXTENDED to CODE_39_FULL_ASCII because ISO/IEC 16388 defines the code variant as full ASCII support over Code39.
 Merged CODE_93_STANDARD and CODE_93_EXTENDED to CODE_93.
-over Code39.
+
 
 ### SVG 2.0 color schemes (RGB, RGBA, HSL, HSLA):
 
