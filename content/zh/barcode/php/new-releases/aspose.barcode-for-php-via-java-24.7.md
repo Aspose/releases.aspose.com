@@ -6,11 +6,11 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/php/new-releases/aspose.barcode-for-php-via-java-24.7/"
 folder_name: "Aspose.BarCode for PHP via Java 24.7"
-download_link: "/barcode/php/new-releases/aspose.barcode-for-php-via-java-24.7/d8c38b069a3b8ffeb776723cc866f9e3-4-11246"
+download_link: "/barcode/php/new-releases/aspose.barcode-for-php-via-java-24.7/04cd0150bdcb4272f470275d82a84e88-4-11246"
 download_text: "下载"
 intro_text: "Aspose.BarCode for PHP via Java 24.7 已发布"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 19/7/2024 下载s: 1  Views: 1 "
+download_count: " 19/7/2024 下载s: 2  Views: 1 "
 file_size: "File Size: 15.49MB"
 parent_path: "barcode/php"
 section_parent_path: "barcode/php"
@@ -24,19 +24,19 @@ weight: 74
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.BarCode for PHP via Java 24.7" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="下载" link="/barcode/php/new-releases/aspose.barcode-for-php-via-java-24.7/d8c38b069a3b8ffeb776723cc866f9e3-4-11246" >}}
+    {{< Releases/ReleasesSingleButtons text="下载" link="/barcode/php/new-releases/aspose.barcode-for-php-via-java-24.7/04cd0150bdcb4272f470275d82a84e88-4-11246" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} 下载s: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-d8c38b069a3b8ffeb776723cc866f9e3-4-11246" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-04cd0150bdcb4272f470275d82a84e88-4-11246" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} 文件大小: {{< /Common/li >}}
-      {{< Common/li id="size-update-d8c38b069a3b8ffeb776723cc866f9e3-4-11246" >}} 15.49MB {{< /Common/li >}}
+      {{< Common/li id="size-update-04cd0150bdcb4272f470275d82a84e88-4-11246" >}} 15.49MB {{< /Common/li >}}
 
       {{< Common/li >}} 添加日期: {{< /Common/li >}}
-      {{< Common/li id="added-update-d8c38b069a3b8ffeb776723cc866f9e3-4-11246" >}}19/7/2024 {{< /Common/li >}}
+      {{< Common/li id="added-update-04cd0150bdcb4272f470275d82a84e88-4-11246" >}}19/7/2024 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
