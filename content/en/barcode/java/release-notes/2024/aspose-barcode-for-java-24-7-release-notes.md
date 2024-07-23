@@ -31,6 +31,7 @@ This page contains release notes information for [Aspose.BarCode for Java 24.7](
 Merged Code93Extended and Code93Standard into Code93 for EncodeTypes and DecodeType.
 Replaced Code39Standard to Code39 as it is defined in ISO/IEC 16388.
 Replaced Code39Extended to Code39FullASCII because ISO/IEC 16388 defines the code variant as full ASCII support over Code39.
+Merged CODE_93_STANDARD and CODE_93_EXTENDED to CODE_93.
 
 ### SVG 2.0 color schemes (RGB, RGBA, HSL, HSLA):
 Added enum com.aspose.barcode.generation.SvgColorMode. 
