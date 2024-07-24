@@ -25,5 +25,3 @@ This page contains release notes information for [Aspose.Note for Java 24.7](htt
 | :- | :- | :- |
 |NOTENET-5832|HyperlinkAddress is not correct when unicode characters are found in the link path|Bug|
 |NOTENET-5833|Exception "'Value of '0' is not valid for 'emSize.'" when converting OneNote file to PDF|Bug|
-|NOTENET-5834|Video file is not inserted/embedded properly as attachment into OneNote page|Bug|
-|NOTENET-5835|Display HTML data on OneNote document page|Enhancement|
