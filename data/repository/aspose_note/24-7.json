@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk17",
+  "artifactId" : "aspose-note",
+  "id" : "24-7",
+  "packageFiles" : [ {
+    "size" : "531 KB",
+    "name" : "aspose-note-24.7-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "10 MB",
+    "name" : "aspose-note-24.7-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "393 bytes",
+    "name" : "aspose-note-24.7.pom"
+  } ],
+  "releasehDate" : "2024-07-25T15:57:43+00:00",
+  "version" : "24.7",
+  "ReleaseNotes" : "https://releases.aspose.com/note/java/release-notes/2024/aspose-note-for-java-24-7-release-notes/"
+}
