@@ -11,7 +11,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "204"
 homepage_package_type: "NPM"
-homepage_package_link: "https://www.npmjs.com/package/aspose.cells"
+homepage_package_link: "https://www.npmjs.com/package/aspose.cells.node"
 weight:  20
 ---
 
@@ -20,11 +20,11 @@ weight:  20
 {{< Common/h3 text="Download Aspose.Cells for Node.js via C++ from NPM"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Cells for Node.js via C++ is a powerful and robust library designed for high-performance spreadsheet manipulation and management within Node.js applications. It offers a comprehensive set of features that enable developers to create, edit, convert, and render Excel files programmatically. Supporting all major Excel formats, including XLS, XLSX, XLSM, and more, it ensures compatibility and flexibility. This makes Aspose.Cells for Node.js via C++ a versatile tool for a wide range of data processing and management tasks, providing developers with a complete and efficient solution for integrating comprehensive Excel functionality into their Node.js applications.
-You can easily use <b>aspose.cells</b> for Node.js from {{< Common/link href="https://www.npmjs.com/package/aspose.cells" text="NPM"  >}} with the following command.
+You can easily use <b>aspose.cells.node</b> for Node.js from {{< Common/link href="https://www.npmjs.com/package/aspose.cells.node" text="NPM"  >}} with the following command.
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="npm" >}}
    {{< consolebox/spantext text=" " >}}
-   {{< consolebox/textarea id="npm" >}} npm install aspose.cells {{< /consolebox/textarea >}}
+   {{< consolebox/textarea id="npm" >}} npm i aspose.cells.node {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/release-notes-link family="cells" product="nodejs" href="https://releases.aspose.com/cells/nodejs-cpp/release-notes/" text="https://releases.aspose.com/cells/nodejs-cpp/release-notes/"  >}}
 
