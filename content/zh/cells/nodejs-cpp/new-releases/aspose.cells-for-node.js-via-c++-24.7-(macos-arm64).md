@@ -6,12 +6,12 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/cells/nodejs-cpp/new-releases/aspose.cells-for-node.js-via-c++-24.7-(macos-arm64)/"
 folder_name: "Aspose.Cells for Node.js via C++ 24.7 (macOS arm64)"
-download_link: "/cells/nodejs-cpp/new-releases/aspose.cells-for-node.js-via-c++-24.7-(macos-arm64)/ae2a5366565c1b6bc5f71276466f4351-8-11214"
+download_link: "/cells/nodejs-cpp/new-releases/aspose.cells-for-node.js-via-c++-24.7-(macos-arm64)/979a6e450aab4c9ab35ca52099f5b8ce-8-11214"
 download_text: "下载"
 intro_text: "适用于 macOS arm64 上的 Node.js"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 18/7/2024 下载s: 1  Views: 1 "
-file_size: "File Size: 37.08MB"
+download_count: " 18/7/2024 下载s: 2  Views: 1 "
+file_size: "File Size: 37.34MB"
 parent_path: "cells/nodejs-cpp"
 section_parent_path: "cells/nodejs-cpp"
 
@@ -24,19 +24,19 @@ weight: 1
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Cells for Node.js via C++ 24.7 (macOS arm64)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="下载" link="/cells/nodejs-cpp/new-releases/aspose.cells-for-node.js-via-c++-24.7-(macos-arm64)/ae2a5366565c1b6bc5f71276466f4351-8-11214" >}}
+    {{< Releases/ReleasesSingleButtons text="下载" link="/cells/nodejs-cpp/new-releases/aspose.cells-for-node.js-via-c++-24.7-(macos-arm64)/979a6e450aab4c9ab35ca52099f5b8ce-8-11214" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/cells" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} 下载s: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-ae2a5366565c1b6bc5f71276466f4351-8-11214" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-979a6e450aab4c9ab35ca52099f5b8ce-8-11214" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} 文件大小: {{< /Common/li >}}
-      {{< Common/li id="size-update-ae2a5366565c1b6bc5f71276466f4351-8-11214" >}} 37.08MB {{< /Common/li >}}
+      {{< Common/li id="size-update-979a6e450aab4c9ab35ca52099f5b8ce-8-11214" >}} 37.34MB {{< /Common/li >}}
 
       {{< Common/li >}} 添加日期: {{< /Common/li >}}
-      {{< Common/li id="added-update-ae2a5366565c1b6bc5f71276466f4351-8-11214" >}}18/7/2024 {{< /Common/li >}}
+      {{< Common/li id="added-update-979a6e450aab4c9ab35ca52099f5b8ce-8-11214" >}}18/7/2024 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
