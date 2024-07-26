@@ -31,4 +31,5 @@ This page contains release notes information for [Aspose.ZIP for .NET 24.7](http
 
 ## **Public API and Backwards Incompatible Changes**
 |**The following public methods and properties were added:**|**Description**|
+| :- | :- |
 |Aspose.Zip.Saving.SevenZipEncryptionSettings.EncryptHeader|Gets or sets a value indicating header encryption.| 
