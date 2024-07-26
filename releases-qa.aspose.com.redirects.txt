@@ -786,7 +786,7 @@ rewrite ^/pdf/net/new-releases/aspose.words-for-.net-18.6-dlls-only/$ https://re
 rewrite ^/plugins/aspose-cells/eclipse/cells-maven/20.10$ https://docs.aspose.com/cells/java/plugins/ permanent;
 rewrite ^/ar/font/$ https://releases-qa.aspose.com/font/ permanent;
 rewrite ^/artifactory/ext-release-local/$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-total/ permanent;
-rewrite /cells/cpp/new-releases/aspose.cells-for-c++-24.5windows(.*) https://releases-qa.aspose.com/cells/cpp/new-releases/aspose.cells-for-c++-24.5windows/ permanent;
+# rewrite /cells/cpp/new-releases/aspose.cells-for-c++-24.5windows(.*) https://releases-qa.aspose.com/cells/cpp/new-releases/aspose.cells-for-c++-24.5windows/ permanent;
 rewrite ^/cells/java/16-1/$ https://releases-qa.aspose.com/cells/java/16-10-0/ permanent;
 rewrite ^/fr/words/java/24-05/$ https://releases-qa.aspose.com/fr/words/java/ permanent;
 rewrite ^/fr/words/java/24-5/$ https://releases-qa.aspose.com/fr/words/java/ permanent;
