@@ -3,7 +3,7 @@ id: "aspose-tasks-for-java-24-7-release-notes"
 slug: "aspose-tasks-for-java-24-7-release-notes"
 linktitle: "Aspose.Tasks for Java 24.7 Release Notes"
 title: "Aspose.Tasks for Java 24.7 Release Notes"
-weight: 95
+weight: 94
 description: "The page contains the release notes for Aspose.Tasks for Java 24.7."
 type: "repository"
 layout: "release"
