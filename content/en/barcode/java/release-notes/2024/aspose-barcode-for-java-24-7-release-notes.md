@@ -47,23 +47,22 @@ Examples:
  public void example1() throws IOException
 {
     String codeText = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-    BarcodeGenerator generator = new com.aspose.barcode.generation.BarcodeGenerator(EncodeTypes.CODE_128, codeText);
+    BarcodeGenerator generator = new BarcodeGenerator(EncodeTypes.CODE_128, codeText);
     Color color = new Color(0xBBFF5511);
     generator.getParameters().getBarcode().setBarColor(color);
     generator.getParameters().getImage().getSvg().setSvgColorMode(SvgColorMode.HSLA);
-    SvgUtils.compareSvgHelper(generator, folder, "Hsla.svg");
+    generator.save(folder + "Hsla.svg");
 }
 ```
 ```java
 public void example2() throws IOException
 {
     String codeText = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-    BarcodeGenerator generator = new com.aspose.barcode.generation.BarcodeGenerator(EncodeTypes.CODE_128, codeText);
+    BarcodeGenerator generator = new BarcodeGenerator(EncodeTypes.CODE_128, codeText);
     HslaColor hslaColor = new HslaColor(30, 50, 70, 0.8f);
     Color color = HslaColor.convertHslaToRgba(hslaColor);
-
     generator.getParameters().getBarcode().setBarColor(color);
     generator.getParameters().getImage().getSvg().setSvgColorMode(SvgColorMode.HSLA);
-    SvgUtils.compareSvgHelper(generator, folder, "Hsla_from_hsla.svg");
+    generator.save(folder + "Hsla_from_hsla.svg");
 }
 ```
