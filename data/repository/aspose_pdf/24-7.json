@@ -1,0 +1,17 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-pdf",
+  "id" : "24-7",
+  "packageFiles" : [ {
+    "size" : "78 MB",
+    "name" : "aspose-pdf-24.7-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "452 bytes",
+    "name" : "aspose-pdf-24.7.pom"
+  } ],
+  "releasehDate" : "2024-07-31T01:04:32+00:00",
+  "version" : "24.7",
+  "ReleaseNotes" : "https://releases.aspose.com/pdf/java/release-notes/2024/aspose-pdf-for-java-24-7-release-notes/"
+}
