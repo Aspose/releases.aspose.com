@@ -33,12 +33,12 @@ This page contains release notes information for [Aspose.Tasks for .Net 24.7](ht
 ## **Public API and Backwards Incompatible Changes**
 |**The following public types were added:**|**Description**|
 | :- | :- |
-| Aspose.Tasks.Primavera.PrimaveraProjectInfo | Represents short info about a project loaded from Primavera format. |
+| aspose.tasks.primavera.PrimaveraProjectInfo | Represents short info about a project loaded from Primavera format. |
 
 |**The following public methods and properties were added:**|**Description**|
 | :- | :- |
-| Aspose.Tasks.Primavera.PrimaveraProjectInfo.Uid | Gets project's Uid. |
-| Aspose.Tasks.Primavera.PrimaveraProjectInfo.Name | Gets project's name. |
-| Aspose.Tasks.Primavera.PrimaveraProjectInfo.ExportFlag | Gets project's export flag. When a project is selected for export in Primavera, its ExportFlag is true. |
-| Aspose.Tasks.PrimaveraBaseReader.GetProjectInfos | Return a list of the project's short info objects. |
+| aspose.tasks.primavera.PrimaveraProjectInfo.uid | Gets project's Uid. |
+| aspose.tasks.primavera.PrimaveraProjectInfo.name | Gets project's name. |
+| aspose.tasks.primavera.PrimaveraProjectInfo.export_flag | Gets project's export flag. When a project is selected for export in Primavera, its ExportFlag is true. |
+| aspose.tasks.primaveraBaseReader.get_project_infos | Return a list of the project's short info objects. |
 
