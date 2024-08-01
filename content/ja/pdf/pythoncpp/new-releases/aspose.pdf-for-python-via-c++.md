@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/pythoncpp/new-releases/aspose.pdf-for-python-via-c++/"
-folder_name: "C++ 経由の Python 用 Aspose.PDF"
+folder_name: "C++ 経由の Python 用 Aspose.PDF (Windows amd64 用)"
 download_link: "/pdf/pythoncpp/new-releases/aspose.pdf-for-python-via-c++/85063b4857e1c9baee73c4b2a9cc3509-28-11290"
 download_text: "ダウンロード"
 intro_text: "Aspose.PDF for Python (Windows amd64 用)"
@@ -22,7 +22,7 @@ weight: 1
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="C++ 経由の Python 用 Aspose.PDF" imagelink="/resources/img/random-file-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="C++ 経由の Python 用 Aspose.PDF (Windows amd64 用)" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="ダウンロード" link="/pdf/pythoncpp/new-releases/aspose.pdf-for-python-via-c++/85063b4857e1c9baee73c4b2a9cc3509-28-11290" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/pdf" >}}

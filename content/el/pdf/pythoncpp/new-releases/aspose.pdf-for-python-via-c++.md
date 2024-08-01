@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/pythoncpp/new-releases/aspose.pdf-for-python-via-c++/"
-folder_name: "Aspose.PDF για Python μέσω C++"
+folder_name: "Aspose.PDF για Python μέσω C++ (για Windows amd64)"
 download_link: "/pdf/pythoncpp/new-releases/aspose.pdf-for-python-via-c++/85063b4857e1c9baee73c4b2a9cc3509-28-11290"
 download_text: "Κατεβάστε"
 intro_text: "Aspose.PDF για Python (για Windows amd64)"
@@ -22,7 +22,7 @@ weight: 1
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.PDF για Python μέσω C++" imagelink="/resources/img/random-file-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.PDF για Python μέσω C++ (για Windows amd64)" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Κατεβάστε" link="/pdf/pythoncpp/new-releases/aspose.pdf-for-python-via-c++/85063b4857e1c9baee73c4b2a9cc3509-28-11290" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/pdf" >}}
