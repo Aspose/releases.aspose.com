@@ -15,7 +15,7 @@ menuItemWithNoContent: false
 
 {{% alert color="primary" %}} 
 
-This page contains release notes information for [Aspose.Tasks for .Net 24.7](https://pypi.org/project/aspose-tasks/24.7.0/)
+This page contains release notes information for [Aspose.Tasks for Python via .Net 24.7](https://pypi.org/project/aspose-tasks/24.7.0/)
 
 {{% /alert %}}
 
