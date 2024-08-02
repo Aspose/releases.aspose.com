@@ -831,7 +831,37 @@ rewrite ^/total/net/new-releases/aspose.total-for-.net-22.1.0-dlls$ https://rele
 rewrite ^/words/androidjava/new-releases/-aspose.words-for-android-via-java-19.5/$ https://releases-qa.aspose.com/words/androidjava/new-releases/-aspose.words-for-android-via-java-19.6/ permanent;
 rewrite ^/Pdf/net/release-notes/2010/aspose-Pdf-for-net-4-6-0-release-notes/$ https://releases-qa.aspose.com/pdf/net/release-notes/2010/aspose-pdf-for-net-4-6-0-release-notes/ permanent;
 rewrite ^/aspose$ https://releases-qa.aspose.com/ permanent;
-rewrite /cells/cpp/new-releases/aspose.cells-for-c++-24.5windows(.*) https://releases-qa.aspose.com/cells/cpp/new-releases/aspose.cells-for-c++-24.5windows/ permanent;
+# rewrite /cells/cpp/new-releases/aspose.cells-for-c++-24.5windows(.*) https://releases-qa.aspose.com/cells/cpp/new-releases/aspose.cells-for-c++-24.5windows/$ permanent;
+rewrite ^/cells/net/release-notes/2024/aspose-pdf-for-net-24-4-release-notes/$ https://releases-qa.aspose.com/cells/net/release-notes/2024/aspose-cells-for-net-24-4-release-notes/ permanent;
+rewrite ^/favicon\.ico$ https://releases-qa.aspose.com/ permanent;
+rewrite ^/favicon\.icon$ https://releases-qa.aspose.com/ permanent;
+rewrite ^/finance/python-net/24.5/$ https://releases-qa.aspose.com/finance/python-net/ permanent;
+rewrite ^/fr/total/java/19-2/$ https://releases-qa.aspose.com/fr/total/java/ permanent;
+rewrite ^/fr/total/java/20-0/$ https://releases-qa.aspose.com/fr/total/java/20-12/ permanent;
+rewrite ^/fr/total/java/20-1/$ https://releases-qa.aspose.com/fr/total/java/20-12/ permanent;
+rewrite ^/images/java/$ https://releases-qa.aspose.com/imaging/java/ permanent;
+rewrite ^/java/plugins/com/aspose/aspose-barcode/$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-barcode/ permanent;
+rewrite ^/mail/java/24-6/$ https://releases-qa.aspose.com/email/java/24-6/ permanent;
+rewrite ^/pdf/java/25-1/$ https://releases-qa.aspose.com/pdf/java/24-1/ permanent;
+rewrite ^/pdf/java/release-notes/2023/aspose-pdf-for-java-23-release-notes/$ https://releases-qa.aspose.com/pdf/java/release-notes/2023/ permanent;
+rewrite ^/pdf/net/release-notes/2010/aspose-pdf-for-net-4.6.0-release-notes/$ https://releases-qa.aspose.com/pdf/net/release-notes/2010/aspose-pdf-for-net-4-6-0-release-notes/ permanent;
+rewrite ^/pdf/net/release-notes/2016/aspose-pdf-for-net-11-10-0-release-notes/$ https://releases-qa.aspose.com/pdf/net/release-notes/2016/aspose-pdf-for-net-11-9-0-release-notes/ permanent;
+rewrite ^/pdf/net/release-notes/2017/aspose-pdf-for-net-17-1-release-notes/$ https://releases-qa.aspose.com/pdf/net/release-notes/2017/aspose-pdf-for-net-17-1-0-release-notes/ permanent;
+rewrite ^/pdf/net/release-notes/2017/aspose-pdf-for-net-17-3-release-notes/$ https://releases-qa.aspose.com/pdf/net/release-notes/2017/aspose-pdf-for-net-17-3-0-release-notes/ permanent;
+rewrite ^/pdf/net/release-notes/2017/aspose-pdf-for-net-17-4-release-notes/$ https://releases-qa.aspose.com/pdf/net/release-notes/2017/aspose-pdf-for-net-17-4-0-release-notes/ permanent;
+rewrite ^/pdf/net/release-notes/2023/aspose-pdf-for-net-23-01-release-notes/$ https://releases-qa.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-1-release-notes/ permanent;
+rewrite ^/pdf/net/release-notes/2024/aspose-pdf-for-net-23-01-release-notes/$ https://releases-qa.aspose.com/pdf/net/release-notes/2023/aspose-pdf-for-net-23-1-release-notes/ permanent;
+# rewrite /pdf/nodejscpp/release-notes/2024/aspose_pdf-for-nodejs-cpp-24-6-release-notes/(.*) https://releases-qa.aspose.com/pdf/nodejscpp/release-notes/2024/aspose_pdf-for-nodejs-cpp-24-6-release-notes/ permanent;
+rewrite ^/pdf/php/java$ https://releases-qa.aspose.com/pdf/java/ permanent;
+rewrite ^/psd/python-net/release-notes/2024$ https://releases-qa.aspose.com/psd/python-net/release-notes/ permanent;
+rewrite ^/slides/sharepoint/total$ https://releases-qa.aspose.com/slides/sharepoint/ permanent;
+rewrite ^/svg/python-net/release-notes/2024/aspose-svg-for-python-via-dotnet-24-7-release-notes/$ https://releases-qa.aspose.com/svg/python-net/release-notes/2024/aspose-svg-python-via-dotnet-24-7-release-notes/ permanent;
+rewrite ^/tasks/cpp/new-releases/aspose.tasks-for-c---20.5.0/$ https://releases-qa.aspose.com/tasks/cpp/new-releases/aspose.tasks-for-c---20.5/ permanent;
+rewrite ^/tasks/net/new-releases/aspose-tasks-for-net-20.1/$ https://releases-qa.aspose.com/tasks/net/new-releases/-aspose.tasks-for-.net-20.1/ permanent;
+rewrite ^/wordds/net/release-notes/2018/aspose-words-for-net-18-3-release-notes$ https://releases-qa.aspose.com/words/net/release-notes/2018/aspose-words-for-net-18-3-release-notes/ permanent;
+rewrite ^/words/java/com.aspose\:aspose-words\:jar\:jdk16\:16.8.0$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-words/16.8.0/aspose-words-16.8.0-jdk16.jar permanent;
+rewrite ^/words/java/java/$ https://releases-qa.aspose.com/words/java/ permanent;
+rewrite ^/words/reportingservices/total$ https://releases-qa.aspose.com/words/reportingservices/ permanent;
 
 
 
