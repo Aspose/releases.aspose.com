@@ -816,7 +816,22 @@ rewrite ^/words/net/new-releases/aspose.words-for-.net-3.0/$ https://releases-qa
 rewrite ^/zh/total/net/new-releases/aspose.total-for-.net-23.7-dlls-only/$ https://releases-qa.aspose.com/zh/total/net/new-releases/aspose.total-for-.net-23.10.0-dlls-only/ permanent;
 rewrite ^/zh/total/net/new-releases/aspose.total-for-.net-23.7.0-dlls-only/$ https://releases-qa.aspose.com/zh/total/net/new-releases/aspose.total-for-.net-23.10.0-dlls-only/ permanent;
 
-
+# Redirects added on 2nd August 2024
+rewrite ^/pdf/net/new-releases/aspose.words-for-.net-framework-4.0-24.5.1-dlls-only-outdated/$ https://releases-qa.aspose.com/pdf/net/new-releases/aspose.pdf-for-.net-framework-4.0-24.5.1-dlls-only-outdated/ permanent;
+rewrite ^/font/resources/img/zip-icon\.png$ https://releases-qa.aspose.com/font/ permanent;
+rewrite ^/pdf/net/new-releases/aspose.words-for-.net-8.1.0/$ https://releases-qa.aspose.com/pdf/net/new-releases/aspose.pdf-for-.net-8.1.0/ permanent;
+rewrite ^/java/aspose-cells/aspose-cells/22.7/aspose-cells-22.7.pom$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-cells/22.7/aspose-cells-22.7.pom permanent;
+rewrite ^/plugins/aspose-barcode/eclipse/barcode-maven/20.10/sitemap.xml$ https://docs.aspose.com/barcode/java/aspose-barcode-java-for-eclipse-maven/ permanent;
+rewrite ^/slides/cpp/new-releases/aspose.slides-for-c++-24.4/$ https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-24.4-windows/ permanent;
+rewrite ^/tasks/net/new-releases/-aspose.tasks-for-.net-20.5/$ https://releases-qa.aspose.com/tasks/net/new-releases/aspose.tasks-for-.net-20.5/ permanent;
+rewrite ^/tasks/net/new-releases/aspose-tasks-for-net-20-1/$ https://releases-qa.aspose.com/tasks/net/new-releases/-aspose.tasks-for-.net-20.1/ permanent;
+rewrite ^/tasks/net/new-releases/aspose.tasks-for-net-20.1/$ https://releases-qa.aspose.com/tasks/net/new-releases/-aspose.tasks-for-.net-20.1/ permanent;
+rewrite ^/tex/net/release-notes/2023/aspose.tex-for-.net-23.8-dlls-and-docs/$ https://releases-qa.aspose.com/tex/net/release-notes/2023/aspose-tex-for-net-23-8-release-notes/ permanent;
+rewrite ^/total/net/new-releases/aspose.total-for-.net-22.1.0-dlls$ https://releases-qa.aspose.com/total/net/ permanent;
+rewrite ^/words/androidjava/new-releases/-aspose.words-for-android-via-java-19.5/$ https://releases-qa.aspose.com/words/androidjava/new-releases/-aspose.words-for-android-via-java-19.6/ permanent;
+rewrite ^/Pdf/net/release-notes/2010/aspose-Pdf-for-net-4-6-0-release-notes/$ https://releases-qa.aspose.com/pdf/net/release-notes/2010/aspose-pdf-for-net-4-6-0-release-notes/ permanent;
+rewrite ^/aspose$ https://releases-qa.aspose.com/ permanent;
+rewrite /cells/cpp/new-releases/aspose.cells-for-c++-24.5windows(.*) https://releases-qa.aspose.com/cells/cpp/new-releases/aspose.cells-for-c++-24.5windows/ permanent;
 
 
 
