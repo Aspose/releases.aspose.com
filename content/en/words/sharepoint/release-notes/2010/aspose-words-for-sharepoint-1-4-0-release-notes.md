@@ -15,7 +15,7 @@ menuItemWithNoContent: false
 
 {{% alert color="primary" %}}
 
-This page contains release notes for [Aspose.Words for SharePoint 1.4.0](https://releases.aspose.com/words/sharepoint/new-releases/aspose.words-for-sharepoint-1.4.0/)
+This page contains release notes for [Aspose.Words for SharePoint 1.4.0](https://releases.aspose.com/words/sharepoint/)
 
 {{% /alert %}}
 
