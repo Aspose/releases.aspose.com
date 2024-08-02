@@ -822,7 +822,7 @@ rewrite ^/font/resources/img/zip-icon\.png$ https://releases-qa.aspose.com/font/
 rewrite ^/pdf/net/new-releases/aspose.words-for-.net-8.1.0/$ https://releases-qa.aspose.com/pdf/net/new-releases/aspose.pdf-for-.net-8.1.0/ permanent;
 rewrite ^/java/aspose-cells/aspose-cells/22.7/aspose-cells-22.7.pom$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-cells/22.7/aspose-cells-22.7.pom permanent;
 rewrite ^/plugins/aspose-barcode/eclipse/barcode-maven/20.10/sitemap.xml$ https://docs.aspose.com/barcode/java/aspose-barcode-java-for-eclipse-maven/ permanent;
-rewrite ^/slides/cpp/new-releases/aspose.slides-for-c++-24.4/$ https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-24.4-windows/ permanent;
+rewrite ^/slides/cpp/new-releases/aspose.slides-for-c\+\+-24.4/$ https://releases-qa.aspose.com/slides/cpp/new-releases/aspose.slides-for-c++-24.4-windows/ permanent;
 rewrite ^/tasks/net/new-releases/-aspose.tasks-for-.net-20.5/$ https://releases-qa.aspose.com/tasks/net/new-releases/aspose.tasks-for-.net-20.5/ permanent;
 rewrite ^/tasks/net/new-releases/aspose-tasks-for-net-20-1/$ https://releases-qa.aspose.com/tasks/net/new-releases/-aspose.tasks-for-.net-20.1/ permanent;
 rewrite ^/tasks/net/new-releases/aspose.tasks-for-net-20.1/$ https://releases-qa.aspose.com/tasks/net/new-releases/-aspose.tasks-for-.net-20.1/ permanent;
