@@ -1,0 +1,20 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-email",
+  "id" : "24-7",
+  "packageFiles" : [ {
+    "size" : "4 MB",
+    "name" : "aspose-email-24.7-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "12 MB",
+    "name" : "aspose-email-24.7-jdk16.jakarta.jar",
+    "classifier" : "jdk16.jakarta"
+  }, {
+    "size" : "1 KB",
+    "name" : "aspose-email-24.7.pom"
+  } ],
+  "releasehDate" : "2024-08-05T17:42:52+00:00",
+  "version" : "24.7",
+  "ReleaseNotes" : "https://releases.aspose.com/email/java/release-notes/2024/aspose-email-for-java-24-7-release-notes/"
+}
