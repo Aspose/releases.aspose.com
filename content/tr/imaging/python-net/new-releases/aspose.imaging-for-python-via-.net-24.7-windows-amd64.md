@@ -8,9 +8,9 @@ folder_link: "/imaging/python-net/new-releases/aspose.imaging-for-python-via-.ne
 folder_name: ".NET 24.7 Windows amd64 aracılığıyla Python için Aspose.Imaging"
 download_link: "/imaging/python-net/new-releases/aspose.imaging-for-python-via-.net-24.7-windows-amd64/04ffe7deed9cdef160970fae51b3a813-13-11132"
 download_text: "İndirmek"
-intro_text: "Aspose.Words for Python via .NET 24.7, Windows AMD x64 sürümünü içerir."
+intro_text: "Aspose.Imaging for Python via .NET 24.7, Windows AMD x64 sürümünü içerir."
 image_link: "/resources/img/random-file-icon.png"
-download_count: " 2/7/2024 İndirmeks: 1  Views: 1 "
+download_count: " 2/7/2024 İndirmeks: 6  Views: 1 "
 file_size: "File Size: 61.79MB"
 parent_path: "imaging/python-net"
 section_parent_path: "imaging/python-net"
@@ -31,7 +31,7 @@ weight: 32
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} İndirmeks: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-04ffe7deed9cdef160970fae51b3a813-13-11132" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-04ffe7deed9cdef160970fae51b3a813-13-11132" >}} 6 {{< /Common/li >}}
       {{< Common/li >}} Dosya boyutu: {{< /Common/li >}}
       {{< Common/li id="size-update-04ffe7deed9cdef160970fae51b3a813-13-11132" >}} 61.79MB {{< /Common/li >}}
 
@@ -43,7 +43,7 @@ weight: 32
       <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/imaging/python-net/release-notes/2024/aspose-imaging-for-python-net-24-7-release-notes/'>https://releases.aspose.com/imaging/python-net/release-notes/2024/aspose-imaging-for-python-net-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Tanım</h4><div class="HTMLDescription">Aspose.Words for Python via .NET 24.7, Windows AMD x64 sürümünü içerir.</div>
+      <h4>Tanım</h4><div class="HTMLDescription">Aspose.Imaging for Python via .NET 24.7, Windows AMD x64 sürümünü içerir.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
