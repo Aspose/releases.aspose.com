@@ -1,48 +1,65 @@
 ---
 id: aspose-imaging-for-java-24-8-release-notes
 slug: aspose-imaging-for-java-24-8-release-notes
-linktitle: Aspose.Imaging for JAVA 24.8 - Release notes
-title: Aspose.Imaging for JAVA 24.8 - Release notes
+linktitle: Aspose.Imaging for Java 24.8 - Release notes
+title: Aspose.Imaging for Java 24.8 - Release notes
 weight: 42
-description: Aspose.Imaging for JAVA 24.8 - Release notes the latest updates and fixes.
+description: Aspose.Imaging for Java 24.8 - Release notes the latest updates and fixes.
 type: repository
 layout: release
 hideChildren: false
 toc: false
-family_listing_page_title: Aspose.Imaging for JAVA 24.8 - Release notes
+family_listing_page_title: Aspose.Imaging for Java 24.8 - Release notes
 menuItemWithNoContent: false
 ---
+
+## Platforms support
+
+***Java 6 and Java 7 support will be removed starting with Aspose.Imaging for Java 24.10***
+
 
 ## Competitive features:
 
 - **Add ability to load image from URL**
+- **Support for drawing Aspose.Imaging.Image directly upon java.awt.Graphics**
+
 
 | **Key**         | **Summary**                                                                                                                                                              | **Category** |
 |-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| IMAGINGJAVA-8770 | Add ability to load image from URL                                                                                                                                  | Feature      |
-| IMAGINGJAVA-8784 | NullReferenceException: "Internal buffer is empty" saving multi frame tiff                                                                                                                                  | Enhancement      |
-| IMAGINGJAVA-8783 | Fix invalid PDF page size after converting Image to PDF                                                                                                                                  | Enhancement      |
-| IMAGINGJAVA-8782 | Aspose.Imaging 24.2: The reported horizontal and vertical DPI are wrong when a raster image is loaded.                                                                                                                                  | Enhancement      |
-| IMAGINGJAVA-8774 | Support for drawing Aspose.Imaging.Image directly upon java.awt.Graphics                                                                                                                                  | Enhancement      |
-| IMAGINGJAVA-8769 | Error conversion from eps to other format                                                                                                                                  | Enhancement      |
-| IMAGINGJAVA-8768 | Conversion of PNG file from 8 bit per channel to 16 throws NullReferenceException                                                                                                                                  | Enhancement      |
-| IMAGINGJAVA-8767 | Creating a PNG with BitDepth=16 throws an exception                                                                                                                                  | Enhancement      |
+| IMAGINGJava-8770 | Add ability to load image from URL                                                                                                                                  | Feature      |
+| IMAGINGJava-8784 | NullReferenceException: "Internal buffer is empty" saving multi frame tiff                                                                                                                                  | Enhancement      |
+| IMAGINGJava-8783 | Fix invalid PDF page size after converting Image to PDF                                                                                                                                  | Enhancement      |
+| IMAGINGJava-8782 | Aspose.Imaging 24.2: The reported horizontal and vertical DPI are wrong when a raster image is loaded.                                                                                                                                  | Enhancement      |
+| IMAGINGJava-8774 | Support for drawing Aspose.Imaging.Image directly upon java.awt.Graphics                                                                                                                                  | Feature      |
+| IMAGINGJava-8769 | Error conversion from eps to other format                                                                                                                                  | Enhancement      |
+| IMAGINGJava-8768 | Conversion of PNG file from 8 bit per channel to 16 throws NullReferenceException                                                                                                                                  | Enhancement      |
+| IMAGINGJava-8767 | Creating a PNG with BitDepth=16 throws an exception                                                                                                                                  | Enhancement      |
 
 ## Public API changes:
 
 ### Added APIs:
 
-Please see corresponding cumulative [API changes for Aspose.Imaging for .NET 24.8](https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-8-release-notes/) version
+Class com.aspose.imaging.awt.GraphicsRenderer
+
+Constructor com.aspose.imaging.awt.GraphicsRenderer.#ctor(com.aspose.imaging.Image)
+Constructor com.aspose.imaging.awt.GraphicsRenderer.#ctor(com.aspose.imaging.Image,com.aspose.imaging.Color,int,int)
+Constructor com.aspose.imaging.awt.GraphicsRenderer.#ctor(com.aspose.imaging.Image,com.aspose.imaging.ImageOptionsBase)
+
+Method com.aspose.imaging.awt.GraphicsRenderer.releaseManagedResources
+Method com.aspose.imaging.awt.GraphicsRenderer.render(java.awt.Graphics2D)
+Method com.aspose.imaging.awt.GraphicsRenderer.render(java.awt.Graphics2D,float)
+
+Method com.aspose.imaging.extensions.ImageExtensions.toJava(com.aspose.imaging.Image,com.aspose.imaging.Rectangle,java.awt.image.BufferedImage)
+Method com.aspose.imaging.extensions.ImageExtensions.wrap(java.awt.image.BufferedImage)
 
 ### Removed APIs:
 
-Please see corresponding cumulative [API changes for Aspose.Imaging for .NET 24.8](https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-8-release-notes/) version
 
 ## Usage Examples:
 
-**IMAGINGJAVA-8784 NullReferenceException: "Internal buffer is empty" saving multi frame tiff**
+**IMAGINGJava-8784 NullReferenceException: "Internal buffer is empty" saving multi frame tiff**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 import com.aspose.imaging.Image;
 import com.aspose.imaging.ImageOptionsBase;
@@ -82,9 +99,9 @@ tiffOptions.close();
 
 {{< /highlight >}}
 
-**IMAGINGJAVA-8783 Fix invalid PDF page size after converting Image to PDF**
+**IMAGINGJava-8783 Fix invalid PDF page size after converting Image to PDF**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 String InputFile = "AV Seite 2.jpeg";
 String outputFile = "AV Seite 2.jpeg.pdf";
@@ -99,9 +116,9 @@ try (Image image = Image.load(InputFile, new LoadOptions()))
 
 {{< /highlight >}}
 
-**IMAGINGJAVA-8782 Aspose.Imaging 24.2: The reported horizontal and vertical DPI are wrong when a raster image is loaded.**
+**IMAGINGJava-8782 Aspose.Imaging 24.2: The reported horizontal and vertical DPI are wrong when a raster image is loaded.**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 String source = "problematic.jpg";
 try (RasterImage image = (RasterImage)Image.load(source))
@@ -111,9 +128,9 @@ try (RasterImage image = (RasterImage)Image.load(source))
 
 {{< /highlight >}}
 
-**IMAGINGJAVA-8774 Support for drawing Aspose.Imaging.Image directly upon java.awt.Graphics**
+**IMAGINGJava-8774 Support for drawing Aspose.Imaging.Image directly upon java.awt.Graphics**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 import java.awt.image.BufferedImage;
 import java.awt.Graphics2D;
@@ -135,9 +152,9 @@ try (Image wmf = Image.load("some.wmf")) // any image file
 
 {{< /highlight >}}
 
-**IMAGINGJAVA-8770 Add ability to load image from URL**
+**IMAGINGJava-8770 Add ability to load image from URL**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("https://docs.aspose.com/imaging/net/home_1.png"))
 {
@@ -146,9 +163,9 @@ try (Image image = Image.load("https://docs.aspose.com/imaging/net/home_1.png"))
 
 {{< /highlight >}}
 
-**IMAGINGJAVA-8769 Error conversion from eps to other format**
+**IMAGINGJava-8769 Error conversion from eps to other format**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("input.eps"))
 {
@@ -157,9 +174,9 @@ try (Image image = Image.load("input.eps"))
 
 {{< /highlight >}}
 
-**IMAGINGJAVA-8768 Conversion of PNG file from 8 bit per channel to 16 throws NullReferenceException**
+**IMAGINGJava-8768 Conversion of PNG file from 8 bit per channel to 16 throws NullReferenceException**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 static void exportToPng64(String imagePath)
 {
@@ -177,9 +194,9 @@ static void exportToPng64(String imagePath)
 
 {{< /highlight >}}
 
-**IMAGINGJAVA-8767 Creating a PNG with BitDepth=16 throws an exception**
+**IMAGINGJava-8767 Creating a PNG with BitDepth=16 throws an exception**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 String outputPath = "output64Bit.png";
 
