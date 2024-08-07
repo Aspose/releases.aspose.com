@@ -28,7 +28,7 @@ There are 51 improvements and fixes in this regular monthly release. The most no
 - **Document Structure:** Efficiently clear section headers and footers while preserving watermarks.
 - **Format Compatibility:** Improved HTML and XAML export with backward compatibility for backslash and yen sign.
 - **PDF Functionality:** Enhanced PDF export with support for using SDT tags as form field names.
-- **Document Conversion:** Introduced LowCode.Converter class for simplified document conversions.
+- **Document Conversion:** Introduced a new LowCode.Converter class, designed to provide a set of methods for converting various types of documents with a single line of code.
 - **Digital Signatures:** Enabled digital signing of XPS documents.
 
 ## Full List of Issues Covering all Changes in this Release
