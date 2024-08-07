@@ -238,8 +238,6 @@ A new **ClearHeadersFooters(bool preserveWatermarks)** public method has been ad
 public void ClearHeadersFooters(bool preserveWatermarks)
 {{< /highlight >}}
 
-UC: explains how to work with ClearHeadersFooters(preserveWatermarks):
-
 This use case explains how to clear Headers and Footers but preserve the Watermarks:
 {{< gist "aspose-words-gists" "708ce40a68fac5003d46f6b4acfd5ff1" "preserve-watermarks.cs" >}}
 
@@ -430,9 +428,9 @@ This use case explains how to convert the given input document into the output d
 {{< gist "aspose-words-gists" "708ce40a68fac5003d46f6b4acfd5ff1" "convert.cs" >}}
 {{< gist "aspose-words-gists" "708ce40a68fac5003d46f6b4acfd5ff1" "convert-stream.cs" >}}
 
-The ConvertToImages group of methods are designed to transform documents into images, with each page being converted into a separate image file. These methods also convert PDF documents directly to fixed-page formats without loading them into the document model (using our pdf2word plugin), which enhances both performance and accuracy.
+The **ConvertToImages** group of methods are designed to transform documents into images, with each page being converted into a separate image file. These methods also convert PDF documents directly to fixed-page formats without loading them into the document model (using our pdf2word plugin), which enhances both performance and accuracy.
 
-Using ImageSaveOptions.PageSet, you can specify a particular set of pages to convert into images.
+Using **ImageSaveOptions.PageSet**, you can specify a particular set of pages to convert into images.
 {{< gist "aspose-words-gists" "708ce40a68fac5003d46f6b4acfd5ff1" "convert-to-images.cs" >}}
 {{< gist "aspose-words-gists" "708ce40a68fac5003d46f6b4acfd5ff1" "convert-to-images-from-stream.cs" >}}
 {{< gist "aspose-words-gists" "708ce40a68fac5003d46f6b4acfd5ff1" "convert-to-images-stream.cs" >}}
@@ -442,7 +440,7 @@ Using ImageSaveOptions.PageSet, you can specify a particular set of pages to con
 
 Related issue: WORDSNET-27188
 
-Added new public property to Aspose.Words.Saving.XpsSaveOptions class:
+Added new public property to **Aspose.Words.Saving.XpsSaveOptions** class:
 {{< highlight csharp >}}
 /// <summary>
 /// Gets or sets <see cref="Aspose.Words.Saving.DigitalSignatureDetails"/> object used to sign a document.
