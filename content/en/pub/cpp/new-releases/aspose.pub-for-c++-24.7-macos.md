@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pub-for-c++-24.7-macos"
-description: " "
+title: "Aspose.PUB 24.7 | Refined Text Formatting in C++ API (macOS)"
+description: "Harness improved text formatting capabilities in your C++ projects with Aspose.PUB C++ 24.7 on macOS. Download and start upgrading your publisher apps."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pub/cpp/new-releases/aspose.pub-for-c++-24.7-macos/"
@@ -43,8 +43,28 @@ weight: 124
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pub/cpp/release-notes/2024/aspose-pub-for-cpp-24-7-release-notes/'>https://releases.aspose.com/pub/cpp/release-notes/2024/aspose-pub-for-cpp-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.PUB for C++ 24.7 macOS native library</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.PUB for C++ 24.7 macOS native library.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Mac developers, rejoice! Aspose.PUB C++ 24.7 delivers a powerful update for macOS. It enables improved text formatting control to allow you to effortlessly create and modify Publisher documents on your Apple systems.
+
+### Refined Text Formatting in C++ 
+
+Unlock optimized formatting functionality in the latest C++ publisher files API release. This version lets you work with text formatted completely in capital letters. The newly added functionality can be used to better manage the generation of MS Publisher documents with specific formatting requirements.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PUB for C++ 24.7 Release Notes](https://releases.aspose.com/pub/cpp/release-notes/2024/aspose-pub-for-cpp-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

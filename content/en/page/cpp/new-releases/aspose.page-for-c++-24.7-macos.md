@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.page-for-c++-24.7-macos"
-description: " "
+title: "Extract PS, XPS Files Text | Aspose.Page C++ 24.7 (macOS)"
+description: "Leverage the power of Aspose.Page C++ 24.7 on macOS for advanced PS, EPS & XPS file handling. Download v24.7 today & explore improved text extraction."
 keywords: ""
 page_type: single_release_page
 folder_link: "/page/cpp/new-releases/aspose.page-for-c++-24.7-macos/"
@@ -43,8 +43,32 @@ weight: 155
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/page/cpp/release-notes/2024/aspose-page-for-cpp-24-7-release-notes/'>https://releases.aspose.com/page/cpp/release-notes/2024/aspose-page-for-cpp-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Page for C++ 24.7 macOS native library</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Page for C++ 24.7 macOS native library.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+We are glad to announce the availability of Aspose.Page for C++ 24.7 for macOS users. This update supports text extraction functionality and simplifies fetching text within your C++ applications running on macOS.
+
+### Introducing The Text Extraction Feature
+
+The latest C++ XPS file manipulation API release brings a new method, `ExtractText`, for developers to create dynamic solutions to extract text PS, EPS, and XPS files efficiently.
+
+### Streamlined Workflows
+
+Utilize the newly added features in version 24.7 of the native C++ library and save valuable development time and resources on macOS.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Page for C++ 24.7 Release Notes](https://releases.aspose.com/page/cpp/release-notes/2024/aspose-page-for-cpp-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
