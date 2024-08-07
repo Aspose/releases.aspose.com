@@ -247,7 +247,7 @@ This use case explains how to clear Headers and Footers but preserve the Waterma
 
 Related issue: WORDSNET-26785
 
-Added )**ReplaceBackslashWithYenSign)** property to )**HtmlSaveOptions)** and to )**XamlFlowSaveOptions)**.
+Added **ReplaceBackslashWithYenSign** property to **HtmlSaveOptions** and to **XamlFlowSaveOptions**.
 It designed for keep backward compatibility with previous versions of Aspose.Words and allows to replace a backslash character with Yen sign in generated HTML and XAML documents.
 {{< highlight csharp >}}
 /// <summary>
