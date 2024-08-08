@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-c++-24.7-linux"
-description: " "
+title: "Reference Image Comparison | C++ Barcode API 24.7 (Linux)"
+description: "Download Aspose.BarCode for C++ 24.7 on Linux and build C++ barcode apps offering barcode image comparison & high-quality QR code recognition features."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/cpp/new-releases/aspose.barcode-for-c++-24.7-linux/"
@@ -45,6 +45,63 @@ weight: 130
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for C++ 24.7 Linux release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Empower your Linux applications with Aspose.BarCode for C++ 24.7 release and seamlessly recognize and decode barcodes within your applications. This release incorporates advancements in QR code recognition and provides greater flexibility for Australia Post barcode customization.
+
+
+### Add Reference Image Comparison in Your Apps
+
+This version of the C++ barcode API offers an improved image comparison feature that allows you to analyze barcode images and verify them within your Linux solutions.
+
+### Highly Accurate QR Code Recognition
+
+Experience superior read rates and minimal errors within your barcode processing applications by benefitting from upgraded QR code recognition algorithms in the latest release. The following coding sample demonstrates the feature usage.
+
+```c++
+
+System::SharedPtr<BarCodeReader> reader = System::MakeObject<BarCodeReader>(u"qr.jpg", DecodeType::QR);
+reader->set_QualitySettings(QualitySettings::get_HighQuality());
+
+for (System::SharedPtr<BarCodeResult> result : reader->ReadBarCodes())
+{
+    System::Console::WriteLine(result->get_CodeText());
+}
+
+```
+*[Source\*](https://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-7-release-notes/)*
+
+### Polished Australia Post Barcode Generation
+
+The C++ barcode processing library now gives you better control over Australia Post barcode dimensions and formatting, meeting specific requirements, as showcased in this C++ code example.
+
+```c++
+
+System::SharedPtr<BarcodeGenerator> gen = System::MakeObject<BarcodeGenerator>(EncodeTypes::AustraliaPost, u"6212345678AP");
+gen->get_Parameters()->get_Barcode()->get_AustralianPost()->set_AustralianPostEncodingTable(Aspose::BarCode::CustomerInformationInterpretingType::CTable);
+gen->get_Parameters()->get_Barcode()->get_BarHeight()->set_Pixels(100.0f);
+gen->get_Parameters()->get_Barcode()->get_AustralianPost()->get_AustralianPostShortBarHeight()->set_Pixels(10.0f);
+gen->get_Parameters()->get_Barcode()->get_Padding()->get_Left()->set_Pixels(10.0f);
+gen->get_Parameters()->get_Barcode()->get_Padding()->get_Top()->set_Pixels(10.0f);
+gen->get_Parameters()->get_Barcode()->get_Padding()->get_Right()->set_Pixels(10.0f);
+gen->get_Parameters()->get_Barcode()->get_Padding()->get_Bottom()->set_Pixels(10.0f);
+gen->Save(u"AustraliaPost.png", Aspose::BarCode::Generation::BarCodeImageFormat::Png);
+
+```
+*[Source\*](https://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-7-release-notes/)*
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for C++ 24.7 Release Notes](https://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

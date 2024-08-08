@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tex-for-.net-24.7-(dlls-and-docs)"
-description: " "
+title: "LaTeX3e Integration in Aspose.TeX .NET 24.7 (DLLs & Docs)"
+description: "Update your C# apps with Aspose.TeX for .NET 24.7 (DLLs & Docs). Create professional LaTeX documents effortlessly with LaTeX3e support. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/tex/net/new-releases/aspose.tex-for-.net-24.7-(dlls-and-docs)/"
@@ -45,6 +45,30 @@ weight: 52
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.TeX for .NET 24.7 (DLLs and docs) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Aspose.TeX for .NET 24.7 (DLLs & Docs) provides developers with the tools to integrate LaTeX document generation into their platform-independent C# applications. With the `LaTeX3e` kernel integration, you can produce high-quality documents tailored to your specific needs.
+
+### LaTeX Engine Upgrade
+
+The underlying LaTeX engine has been advanced to `LaTeX3e` in this C# LaTeX processing API release. With the latest update, developers can expand document creation possibilities across Windows, Linux, and macOS platforms.
+
+### API Refinements
+
+Several API methods have been adjusted in this version of the C# library to optimize performance and align with `LaTeX3e` standards.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.TeX for .NET 24.7 Release Notes](https://releases.aspose.com/tex/net/release-notes/2024/aspose-tex-for-net-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

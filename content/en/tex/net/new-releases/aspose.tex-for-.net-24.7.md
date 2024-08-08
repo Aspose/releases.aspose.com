@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tex-for-.net-24.7"
-description: " "
+title: "LaTeX3e Integration for C# Apps | Aspose.TeX .NET 24.7 (MSI)"
+description: "Download Aspose.TeX for .NET 24.7 (MSI) to generate LaTeX documents in C# applications. Enjoy the power of LaTeX3e & create professional-looking content."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tex/net/new-releases/aspose.tex-for-.net-24.7/"
@@ -43,8 +43,32 @@ weight: 51
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tex/net/release-notes/2024/aspose-tex-for-net-24-7-release-notes/'>https://releases.aspose.com/tex/net/release-notes/2024/aspose-tex-for-net-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.TeX for .NET 24.7 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.TeX for .NET 24.7 MSI release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Aspose.TeX for .NET 24.7 (MSI installer) brings a significant upgrade with the integration of the `LaTeX3e` kernel. This powerful update enables you to craft exceptional LaTeX documents directly from your C# applications. 
+
+### Core Update
+
+The LaTeX kernel has been upgraded to `LaTeX3e` in the latest C# LaTeX processing API version to provide refined features and flexibility for document creation in your applications.
+
+### API Updates
+
+We have introduced new methods and properties in the latest C# library release to support `LaTeX3e` functionalities and simplify document generation. 
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.TeX for .NET 24.7 Release Notes](https://releases.aspose.com/tex/net/release-notes/2024/aspose-tex-for-net-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
