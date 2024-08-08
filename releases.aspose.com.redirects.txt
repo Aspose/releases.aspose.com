@@ -934,3 +934,38 @@ rewrite ^/wordds/net/release-notes/2018/aspose-words-for-net-18-3-release-notes$
 rewrite ^/words/java/com.aspose\:aspose-words\:jar\:jdk16\:16.8.0$ https://releases.aspose.com/java/repo/com/aspose/aspose-words/16.8.0/aspose-words-16.8.0-jdk16.jar permanent;
 rewrite ^/words/java/java/$ https://releases.aspose.com/words/java/ permanent;
 rewrite ^/words/reportingservices/total$ https://releases.aspose.com/words/reportingservices/ permanent;
+
+# Redirects added on 8th August 2024
+
+rewrite ^/ocr/net/release-notes/2024/aspose-ocr-for-net-24-7-release-notes/$ https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-7-0-release-notes/ permanent;
+rewrite ^/artifactory/libs-release/org/zkoss/ee/zkex/7.0.8/zkex-7.0.8.pom$ https://releases.aspose.com/java/repo/com/aspose/ permanent;
+rewrite ^/words/sharepoint/new-releases/aspose.words-for-sharepoint-1.4.0/$ https://releases.aspose.com/words/sharepoint/ permanent;
+rewrite ^/total/java/repo$ https://releases.aspose.com/java/repo/ permanent;
+rewrite ^/words/sharepoint/new-releases/aspose.words-for-sharepoint-1-4-0/$ https://releases.aspose.com/words/sharepoint/ permanent;
+rewrite ^/cad/python/release-notes/2024/aspose-cad-for-python-24-7-release-notes/$ https://releases.aspose.com/cad/python-net/release-notes/2024/aspose-cad-for-python-24-7-release-notes/ permanent;
+rewrite ^/cells/net/release-notes/2023/aspose-cells-for-java-23-4-release-notes/$ https://releases.aspose.com/cells/net/release-notes/2023/aspose-cells-for-net-23-4-release-notes/ permanent;
+rewrite ^/cells/net/release-notes/2024/as$ https://releases.aspose.com/cells/net/release-notes/2024/ permanent;
+rewrite ^/email/java/release-notes/2015/aspose-email-for-java-21-1-release-notes/$ https://releases.aspose.com/email/java/release-notes/2021/aspose-email-for-java-21-1-release-notes/ permanent;
+rewrite ^/email/nodejs-net/release-notes$ https://releases.aspose.com/email/ permanent;
+rewrite ^/email/nodejs-net/release-notes/2024/$ https://releases.aspose.com/email/ permanent;
+rewrite ^/java/orc/installation$ https://releases.aspose.com/ocr/java/ permanent;
+rewrite ^/ocr/net/release-notes/2024/aspose-ocr-for-net-23-12-0-release-notes/$ https://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-12-0-release-notes/ permanent;
+rewrite ^/ocr/net/release-notes/2024/aspose-ocr-for-net-23-12-1-release-notes/$ https://releases.aspose.com/ocr/net/release-notes/2023/aspose-ocr-for-net-23-12-1-release-notes/ permanent;
+rewrite ^/orc/java/installation$ https://releases.aspose.com/ocr/java/ permanent;
+rewrite ^/pdf/net/new-releases/aspose.words-for-.net-framework-4.0-dlls-only-outdated/$ https://releases.aspose.com/pdf/net/new-releases/aspose.pdf-for-.net-framework-4.0-24.7-dlls-only-outdated/ permanent;
+rewrite ^/psd/net/release-notes/2024/aspose-psd-for-net-24-7-release-notes/$ https://releases.aspose.com/psd/net/release-notes/2024/ permanent;
+rewrite ^/sitemaps.xml$ https://releases.aspose.com/en/sitemap-total.xml permanent;
+rewrite ^/slides/java/release-notes/2023/aspose-slides-for-net-23-8-release-notes/$ https://releases.aspose.com/slides/java/release-notes/2023/aspose-slides-for-java-23-8-release-notes/ permanent;
+rewrite ^/slides/net/release-notes/2024/aspose-slides-for-java-24-7-release-notes/$ https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-7-release-notes/ permanent;
+rewrite ^/tags/aspoce-cells$ https://releases.aspose.com/tags/aspose-cells/ permanent;
+rewrite ^/total/java/release-notes/2024/aspose-total-for-java-24-7-release-notes/$ https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/ permanent;
+rewrite ^/word/net/release-notes/$ https://releases.aspose.com/words/net/release-notes/ permanent;
+rewrite ^/words/androidjava/new-releases/aspose.words-for-android-via-java-19.5/$ https://releases.aspose.com/words/androidjava/new-releases/-aspose.words-for-android-via-java-19.6/ permanent;
+rewrite ^/words/java/20-3/jar$ https://releases.aspose.com/words/java/20-3/ permanent;
+rewrite ^/words/java/repo/com/aspose/aspose-words/$ https://releases.aspose.com/java/repo/com/aspose/aspose-words/ permanent;
+rewrite ^/words/net/22-12$ https://releases.aspose.com/words/java/22-12/ permanent;
+rewrite ^/words/sharepoint/new-releases/aspose-words-for-sharepoint-1-4-0/$ https://releases.aspose.com/words/sharepoint/ permanent;
+rewrite ^/words/sharepoint/new-releases/aspose.words-for-sharepoint-1.2.0/$ https://releases.aspose.com/words/sharepoint/ permanent;
+rewrite ^/wrods/$ https://releases.aspose.com/words/ permanent;
+rewrite ^/wrods/java/release-notes/$ https://releases.aspose.com/words/java/release-notes/ permanent;
+rewrite ^/wrods/java/release-notes/2024/$ https://releases.aspose.com/words/java/release-notes/2024/ permanent;
