@@ -99,25 +99,25 @@ Specifies the Upper Limit function.
 
 ### **Adds EquationNodeType.Limit enum.**
 
-If the parent object is limLow,the object of this type specifies the lower limit of the limLow function; If the parent objectis limUpp, the object of this type specifies the Upper-Limit function, consisting of text on the baseline and reduced-size text just above the baseline.
+Represents a sub-object of Lower-Limit function or Upper-Limit function.
 
-### **Adds EquationNode.ToLaTeX() method.**
+### **Adds EquationNode.ToLaTeX() method.**
 
-Conver this equtation to LaTeX expression.
+Convert this equtation to LaTeX expression.
 
 ### **Adds EquationNode.ToMathML() method.**
 
-Conver this equtation to MathML expression.
+Convert this equtation to MathML expression.
 
 ### **Adds SortOrder.Natural enum.**
 
- Keeps original data order without sorting. Only applies to some special scenarios such as PivotTable.
+Keeps original data order without sorting. Only applies to some special scenarios such as PivotTable.
 
 ### **Adds SaveOptions.EncryptDocumentProperties property.**
 
 Indicates whether encrypting the document properties if the file is encrtypted.
 
-### **Adds two PivotField.SorBy() methods.**
+### **Adds two PivotField.SortBy() methods.**
 
 Sorts the field by specific settings.
 
@@ -133,10 +133,6 @@ Clears all slicers.
 
 Gets the data source type of pivot table.
 
-### **Adds PivotTable.ShowDatail() method.**
-
-Converts the detail of a value in the data range to a table. 
-
 ### **Obsoletes PivotItemCollection.ChangeitemsOrder() method and adds PivotItemCollection.SwapItem() method.**
 
 Uses PivotItemCollection.SwapItem() method instead.
@@ -151,4 +147,4 @@ Indicates the original json schema of each worksheet for converting Excel to jso
 
 ### **Adds Config.SkipInvisibleShapes property for GridJs.**
 
-Indicates whether to skip shpaes that has nothing filled ,the default value is true.
+Indicates whether to skip shapes that are invisble to UI ,the default value is true.
