@@ -13,7 +13,8 @@ family_listing_page_title: Aspose.Imaging for .NET 24.8 - Release notes
 menuItemWithNoContent: false
 ---
 
-Notice: The property RecordCount in the Aspose.Imaging.FileFormats.Core.VectorPaths.LengthRecord class is now obsolete and will be removed in the next release. It is recommended to use BezierKnotRecordsCount from the same class instead.
+Notice: We've discontinued the support of Aspose.Imaging plugins since v24.9. Please visit [https://products.imagise.com](https://products.imagise.com) if you need the next-generation solution, which is coming soon.
+The property RecordCount in the Aspose.Imaging.FileFormats.Core.VectorPaths.LengthRecord class is now obsolete and will be removed in the next release. It is recommended to use BezierKnotRecordsCount from the same class instead.
 
 
 
