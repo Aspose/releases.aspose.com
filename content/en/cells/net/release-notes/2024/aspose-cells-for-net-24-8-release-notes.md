@@ -25,7 +25,7 @@ This page contains release notes for [Aspose.Cells for .NET 24.8](https://www.nu
 |CELLSNET-46200|Sort Pivot Table by Pivot Field Item|New Feature
 |CELLSNET-55104|Support sorting by specific pivot item|New Feature
 |CELLSNET-55865|Support editing formulas with blank spaces|Enhancement
-|CELLSGRIDJS-1209|Support configuration to show or hide  invisible shapes in GridJs|Enhancement
+|CELLSGRIDJS-1209|Support configuration to show or hide invisible shapes in GridJs|Enhancement
 |CELLSNET-56354|Do not encrypt document properties when encrypting file|Enhancement
 |CELLSGRIDJS-1201|Optimize issues related to option switching and filling details.|Enhancement
 |CELLSGRIDJS-1199|Enhance input checking, error prompts will occur if the input isn’t a formula or number.|Enhancement
@@ -143,7 +143,7 @@ Uses PivotItemCollection.SwapItem() method instead.
 
 ### **Adds HtmlSaveOptions.EncodeEntityAsCode property.**
 
-Indicates whether the html character entities are replaced with decimal code.(e.g. "&nbsp;" is replaced with "&#160;")
+Indicates whether the html character entities are replaced with decimal code.(e.g. "`&nbsp;`" is replaced with "`&#160;`")
 
 ### **Adds JsonSaveOptions.Schemas property.**
 
