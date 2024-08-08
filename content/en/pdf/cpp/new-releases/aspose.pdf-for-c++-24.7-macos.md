@@ -1,0 +1,71 @@
+---
+
+title: "Create Stunning PDFs on macOS | Aspose.PDF C++ 24.7 API"
+description: "Enhance your macOS apps with Aspose.PDF for C++ 24.7 API. Generate, modify, and convert PDF documents effortlessly. Download the free trial on macOS!"
+keywords: ""
+page_type: single_release_page
+folder_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-24.7-macos/"
+folder_name: "Aspose.PDF for C++ 24.7 macOS"
+download_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-24.7-macos/d8fc5ef5df53edc7e6880a2d704794ff-44-11245"
+download_text: "Download"
+intro_text: "Aspose.PDF for C++ macOS version"
+image_link: "/resources/img/zip-icon.png"
+download_count: " 19/7/2024 Downloads: 1  Views: 1 "
+file_size: "File Size: 219.99MB"
+parent_path: "pdf/cpp"
+section_parent_path: "pdf/cpp"
+
+tags: "PDF C++ macOS x86_64 arm64"
+release_notes_url: "https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-7-release-notes/"
+weight: 224
+
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.PDF for C++ 24.7 macOS" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/pdf/cpp/new-releases/aspose.pdf-for-c++-24.7-macos/d8fc5ef5df53edc7e6880a2d704794ff-44-11245" >}}
+    {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/pdf" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
+    {{< Releases/ReleasesDetailsUl >}}
+      {{< Common/li >}} Downloads: {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-d8fc5ef5df53edc7e6880a2d704794ff-44-11245" >}} 1 {{< /Common/li >}}
+      {{< Common/li >}} File Size: {{< /Common/li >}}
+      {{< Common/li id="size-update-d8fc5ef5df53edc7e6880a2d704794ff-44-11245" >}} 219.99MB {{< /Common/li >}}
+
+      {{< Common/li >}} Date Added: {{< /Common/li >}}
+      {{< Common/li id="added-update-d8fc5ef5df53edc7e6880a2d704794ff-44-11245" >}}19/7/2024 {{< /Common/li >}}
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-7-release-notes/'>https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-7-release-notes/</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for C++ 24.7 macOS version.</div>
+  {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Utilize the potential of macOS with Aspose.PDF for C++ 24.7. This version provides a dynamic set of tools for handling PDF documents within your macOS-based C++ applications.
+
+### Create Stunning PDFs with an Optimized Codebase
+
+Building upon the foundation of the .NET version, Aspose.PDF for C++ 24.7 for macOS delivers optimized performance and compatibility for the macOS platform. Unlock the power of PDF management using the latest C++ PDF manipulation API release to generate, modify, and convert PDF files effortlessly.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for C++ 24.7 Release Notes](https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+
