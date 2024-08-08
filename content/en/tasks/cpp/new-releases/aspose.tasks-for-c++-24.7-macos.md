@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-c++-24.7-macos"
-description: " "
+title: "Easily Import XER Projects | Aspose.Tasks C++ 24.7 (Linux)"
+description: "Streamline C++ project management on Linux with Aspose.Tasks C++ 24.7. Process XER & MPP files, handle resource leveling & more. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-24.7-macos/"
@@ -45,6 +45,42 @@ weight: 225
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 24.7 Linux only binaries</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+  {{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Aspose.Tasks for C++ 24.7 brings powerful project management capabilities to the Linux platform. This release delivers improvements in XER file processing, Primavera data integration, and overall API stability.
+
+### Supercharged XER File Import
+
+The latest release of C++ project management API makes importing projects from XER files easier than ever. You can now manage various default projects and complex calendar structures conveniently. 
+
+### Quality Interactions with Primavera Projects
+
+Obtain essential project information, such as name, UID, and export flag in your Linux-powered C++ applications with the newly added `PrimaveraProjectInfo` class. 
+
+### Handle Errors Easily
+
+Aspose.Tasks for C++ 24.7 allows you to experience refined stability with error-free MPP9 file saving, time-phased data generation, resource leveling, and resource rates.
+
+### Optimized Data Generation
+
+Analyze project data effortlessly by generating the correct `AssignmentActualWork` time-phased data within your C++ project file processing apps on Linux.
+
+### Streamlined Calendar Management
+
+Enjoy a boost to calendar reading from XER format as we have addressed the related issues. Developers can now read `MinutesPerDay`, `MinutesPerWeek`, and `DaysPerMonth` in XER format from non-default calendars.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for C++ 24.7 Release Notes](https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

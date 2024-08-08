@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.font-for-c++-24.7-macos"
-description: " "
+title: "C++ Font API 24.7 (macOS) | TrueType Font Conversion Boost"
+description: "Optimize font handling on macOS with Aspose.Font for C++ 24.7. Leverage new TrueType font conversion features with this release. Download on macOS now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/font/cpp/new-releases/aspose.font-for-c++-24.7-macos/"
@@ -43,8 +43,36 @@ weight: 144
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/font/cpp/release-notes/2024/aspose-font-for-cpp-24-7-release-notes/'>https://releases.aspose.com/font/cpp/release-notes/2024/aspose-font-for-cpp-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Font for C++ 24.7 macOS native library</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Font for C++ 24.7 macOS native library.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Optimize your macOS applications with Aspose.Font for C++ 24.7 release. This version brings forth new features to streamline font handling and improve overall performance.
+
+### Boost `TrueType` Font Processing
+
+Expand your font manipulation toolkit with advanced `TrueType` font support in the latest release of the C++ font API. By implementing support for the 'vhea' table, we have broadened `TrueType` font conversion possibilities for your macOS applications.
+
+### Public API and Backwards Incompatible Changes
+
+### Added API Members
+
+- Aspose::Font::TtfTables::TtfHheaTable::get_Version()
+- Aspose::Font::TtfTables::TtfHheaTable::get_MetricDataFormat()
+- Aspose::Font::TtfTables::TtfHheaTable::get_CaretOffset()
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Font for C++ 24.7 Release Notes](https://releases.aspose.com/font/cpp/release-notes/2024/aspose-font-for-cpp-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

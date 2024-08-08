@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-c++-24.7"
-description: " "
+title: "Optimized XER Projects Import in C++ | Aspose.Tasks API 24.7"
+description: "Efficiently manage C++ projects with Aspose.Tasks C++ 24.7. Import/export XER, MPP files, handle resource leveling & more. Download on Windows/Linux now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-24.7/"
@@ -43,8 +43,44 @@ weight: 227
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-7-release-notes/'>https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 24.7 Windows/Linux/MacOS binaries</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 24.7 Windows/Linux/MacOS binaries.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Aspose.Tasks for C++ 24.7 equips software developers to handle project data with robust C++ APIs across platforms. This release includes significant enhancements for XER file processing, Primavera project interaction, and overall API usability.
+
+### Optimized XER File Import
+
+Accurately import projects from XER files using the latest C++ project management API release. Handle multiple default projects and complex calendar structures efficiently on Windows and Linux platforms. 
+
+### Enhanced Primavera Project Interaction
+
+Retrieve essential project details like name, UID, and export flag within your C++ applications using the new `PrimaveraProjectInfo` class. 
+
+### Robust Error Handling
+
+Using Aspose.Tasks for C++ 24.7 release, you can experience better stability with issue-free MPP9 file saving, resource leveling, time-phased data generation, and resource rates.
+
+### Accurate Data Generation
+
+Generate the correct `AssignmentActualWork` time-phased data for precise project analysis in your cross-platform C++ project file processing applications.
+
+### Improved Calendar Management
+
+The calendar reading from XER format functionality has been upgraded by resolving the relevant problems. You can now read `MinutesPerDay`, `MinutesPerWeek`, and `DaysPerMonth` from non-default calendars in XER format.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for C++ 24.7 Release Notes](https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

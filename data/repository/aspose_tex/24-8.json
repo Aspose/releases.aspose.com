@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-tex",
+  "id" : "24-8",
+  "packageFiles" : [ {
+    "size" : "559 KB",
+    "name" : "aspose-tex-24.8-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "24 MB",
+    "name" : "aspose-tex-24.8.jar"
+  }, {
+    "size" : "1 KB",
+    "name" : "aspose-tex-24.8.pom"
+  } ],
+  "releasehDate" : "2024-08-08T09:18:02+00:00",
+  "version" : "24.8",
+  "ReleaseNotes" : "https://releases.aspose.com/tex/java/release-notes/2024/aspose-tex-for-java-24-8-release-notes/"
+}

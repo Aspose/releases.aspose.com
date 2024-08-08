@@ -32,7 +32,6 @@ This page contains release notes for Aspose.CAD for .NET 24.7
 | CADNET-9672 | [Error during multiline text (SHX)](https://forum.aspose.com/t/shx-font-not-recognized/277651) | Enhancement |
 | CADNET-9654 | [Empty export results for STP to PDF and STP to STP for some files](https://forum.aspose.com/t/load-and-save-step-files/279132) | Enhancement |
 | CADNET-9652 | [Parse and export colors for STP](https://forum.aspose.com/t/load-and-save-step-files/279132) | Enhancement |
-| CADNET-9548 | [Polyline is solid after export to PDF](https://forum.aspose.com/t/aspose-cad-net-23-7-0-0-dwg-pdf-ctb/275945) | Enhancement |
 | CADNET-9524 | [Prepare examples for removing object and entities](https://forum.aspose.com/t/remove-macro-and-slip-script-from-dwg-file/274725) | Enhancement |
 | CADNET-9503 | DWG to DXF produces file impossible to open | Enhancement |
 | CADNET-9153 | [Unsupported color policy in CTB](https://forum.aspose.com/t/trial-users-request-xl-93207/265577) | Enhancement |

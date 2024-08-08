@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pub-for-c++-24.7"
-description: " "
+title: "Aspose.PUB 24.7 | Unleash Refined Text Formatting in C++ API"
+description: "Aspose.PUB C++ 24.7 allows robust text manipulation in your C++ apps. Download on Windows/Linux/macOS & leverage enhanced capital letter formatting."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pub/cpp/new-releases/aspose.pub-for-c++-24.7/"
@@ -43,8 +43,28 @@ weight: 125
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pub/cpp/release-notes/2024/aspose-pub-for-cpp-24-7-release-notes/'>https://releases.aspose.com/pub/cpp/release-notes/2024/aspose-pub-for-cpp-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.PUB for C++ 24.7 native library</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.PUB for C++ 24.7 native library.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+We are excited to announce Aspose.PUB for C++ 24.7 release! This update includes refined text formatting capabilities to empower developers with greater control over text styling in their cross-platform C++ applications.
+
+### Unleash Text Formatting in Your Apps
+
+The latest C++ publisher files API empowers you to work with text formatted entirely in capital letters. This functionality streamlines the creation of MS Publisher documents with specific formatting requirements.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PUB for C++ 24.7 Release Notes](https://releases.aspose.com/pub/cpp/release-notes/2024/aspose-pub-for-cpp-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
