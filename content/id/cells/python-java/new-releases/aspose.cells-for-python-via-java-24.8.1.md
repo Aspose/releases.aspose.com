@@ -1,6 +1,6 @@
 ---
 
-title: "Unduhan ---Rilis Baru-aspose.cells-for-python-via-java-24.8.1"
+title: "Unduhan ---Rilis Baru-aspose.cells-untuk-python-via-java-24.8.1"
 description: " "
 keywords: ""
 page_type: single_release_page
@@ -8,9 +8,9 @@ folder_link: "/cells/python-java/new-releases/aspose.cells-for-python-via-java-2
 folder_name: "Aspose.Cells untuk Python melalui Java 24.8.1"
 download_link: "/cells/python-java/new-releases/aspose.cells-for-python-via-java-24.8.1/a4c3444c4c3b2b3ce28beacc227b14c4-3-11381"
 download_text: "Unduh"
-intro_text: "Deskripsi: Aspose.Cells untuk Python melalui Java 24.8.1"
+intro_text: "Aspose.Cells untuk Python melalui Java 24.8.1"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 9/8/2024 Unduhs: 1  Views: 1 "
+download_count: " 9/8/2024 Unduhs: 2  Views: 1 "
 file_size: "File Size: 13.73MB"
 parent_path: "cells/python-java"
 section_parent_path: "cells/python-java"
@@ -31,7 +31,7 @@ weight: 47
     {{< Releases/ReleasesHeading h4txt="Detail File">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Unduhs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-a4c3444c4c3b2b3ce28beacc227b14c4-3-11381" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-a4c3444c4c3b2b3ce28beacc227b14c4-3-11381" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} Ukuran file: {{< /Common/li >}}
       {{< Common/li id="size-update-a4c3444c4c3b2b3ce28beacc227b14c4-3-11381" >}} 13.73MB {{< /Common/li >}}
 
@@ -43,7 +43,7 @@ weight: 47
       <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/cells/python-java/release-notes/2024/aspose-cells-for-python-via-java-24-8-release-notes/'>https://releases.aspose.com/cells/python-java/release-notes/2024/aspose-cells-for-python-via-java-24-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Keterangan</h4><div class="HTMLDescription">Deskripsi: Aspose.Cells untuk Python melalui Java 24.8.1</div>
+      <h4>Keterangan</h4><div class="HTMLDescription">Aspose.Cells untuk Python melalui Java 24.8.1</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
