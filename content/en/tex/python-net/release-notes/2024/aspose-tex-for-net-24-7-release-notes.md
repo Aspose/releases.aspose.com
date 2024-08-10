@@ -30,10 +30,10 @@ menuItemWithNoContent: false
  * Type aspose.tex.features.IGuessPackageCallback
  * Method aspose.tex.features.IGuessPackageCallback.guess_package(str,bool)
  * Type aspose.tex.features.LaTeXRepairer
- * Method aspose.tex.features.LaTeXRepairer.__init__(str,aspose.tex.features.LaTeXRepairerOptions)
+ * Method aspose.tex.features.LaTeXRepairer.\_\_init\_\_(str,aspose.tex.features.LaTeXRepairerOptions)
  * Method aspose.tex.features.LaTeXRepairerOptions.run
  * Type aspose.tex.features.LaTeXRepairerOptions
- * Method aspose.tex.features.LaTeXRepairerOptions.__init__
+ * Method aspose.tex.features.LaTeXRepairerOptions.\_\_init\_\_
  * Property aspose.tex.features.LaTeXRepairerOptions.input_working_directory
  * Property aspose.tex.features.LaTeXRepairerOptions.output_working_directory
  * Property aspose.tex.features.LaTeXRepairerOptions.required_input_directory

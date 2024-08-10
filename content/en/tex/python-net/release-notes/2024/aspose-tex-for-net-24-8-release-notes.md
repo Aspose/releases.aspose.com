@@ -34,13 +34,13 @@ Support for `\write18` and random number primitives have been implemented.
  * Property aspose.tex.TeXOptions.executables
  * Type aspose.tex.commandline.Base64Exec
  * Property aspose.tex.commandline.Base64Exec.command_name
- * Method aspose.tex.commandline.Base64Exec.`__init__`
+ * Method aspose.tex.commandline.Base64Exec.\_\_init\_\_
  * Method aspose.tex.commandline.Base64Exec.execute(list[str])
  * Type aspose.tex.commandline.Executable
  * Property aspose.tex.commandline.Executable.command_name
  * Property aspose.tex.commandline.Executable.output_redirect_stream
  * Property aspose.tex.commandline.Executable.terminal
- * Method aspose.tex.commandline.Executable.`__init__`
+ * Method aspose.tex.commandline.Executable.\_\_init\_\_
  * Method aspose.tex.commandline.Executable.get_input_reader(str)
  * Method aspose.tex.commandline.Executable.execute(list[str])
  * Type aspose.tex.commandline.ExecutablesList
