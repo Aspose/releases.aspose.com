@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-python-via-java-24.8.1"
-description: " "
+title: "Aspose.Cells Python 24.8.1 | Manage Pivot Tables & Equations"
+description: "Aspose.Cells for Python via Java 24.8.1 introduces improved chart functionality, pivot table handling, and overall performance improvements. Download today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/python-java/new-releases/aspose.cells-for-python-via-java-24.8.1/"
@@ -43,8 +43,46 @@ weight: 47
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/python-java/release-notes/2024/aspose-cells-for-python-via-java-24-8-release-notes/'>https://releases.aspose.com/cells/python-java/release-notes/2024/aspose-cells-for-python-via-java-24-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for Python via Java 24.8.1</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for Python via Java 24.8.1 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Key Highlights
+
+Aspose.Cells for Python via Java 24.8.1 empowers developers with robust equation support with LaTeX and MathML conversion, flexible pivot table sorting, efficient merged cell handling, and precise document encryption options.
+
+### Major Updates
+
+- **Manage Equations:** The latest Python spreadsheets API introduces LaTeX and MathML conversion for equations, providing versatile output formats.
+- **Pivot Table Processing:** The pivot table functionality has been expanded with natural sorting, data source type identification, and slicer clearing.
+- **Merged Cell Handling:** Aspose.Cells for Python via Java 24.8.1 implements refined control over merged cell behavior during row/column deletion.
+- **Document Formatting:** Refined HTML and JSON output options are now available, including character encoding control and more.
+- **Performance and Stability:** We have addressed memory leaks and improved loading times for XLS files in this version of the Python Excel manipulation library.
+
+### Bug Fixes
+
+- Resolved an issue where certain text lines were displayed incorrectly when saving to PDF.
+- Corrected a bug preventing proper workbook copying.
+- Fixed image rendering problems with `Cell.setHtmlString`.
+- Addressed data display errors during HTML conversion.
+- Eliminated currency symbol loss when saving ODS files.
+- Resolved pivot table column insertion styling conflicts.
+- Corrected blank cell skipping behavior during pasting.
+- Fixed extra string appearance when changing chart shape color.
+- Improved row and column label conversion in Excel to PDF pivot table conversion.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for Python via Java 24.8.1 Release Notes](https://releases.aspose.com/cells/python-java/release-notes/2024/aspose-cells-for-python-via-java-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

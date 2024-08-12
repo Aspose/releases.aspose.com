@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-c++-24.8(macos)"
-description: " "
+title: "Pivot Tables, Encryption & More | C++ Excel API 24.8 (macOS)"
+description: "Enrich your macOS C++ apps with refined pivot tables, document encryption & more advanced Excel features. Download Aspose.Cells for C++ 24.8 today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/cpp/new-releases/aspose.cells-for-c++-24.8(macos)/"
@@ -45,6 +45,74 @@ weight: 141
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Cells for C++ version 24.8 (macOS). For more information, see the release notes and readme file.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+This release of Aspose.Cells for C++ (v24.8) focuses on improving pivot table functionality, chart rendering, and overall performance for your C++ spreadsheet processing apps running on macOS. 
+
+### Key Highlights
+
+- **Supercharged Pivot Tables:** Generate dynamic pivot tables, enable sorting by specific pivot items, and enhance overall pivot table performance with the latest release of the C++ Excel API.
+- **Powerful Chart Rendering:** Enjoy empowered chart visualization with precise label positioning, refined rendering, and different chart types support on macOS.
+- **Enriched Formula Calculation:** You can benefit from trustworthy formula evaluation, along with support for complex functions, such as `YEARFRAC` and `LET`.
+- **Manage Excel File Formats:** Aspose.Cells for C++ 24.8 effectively handles various Excel formats with augmented conversion, import, and export features.
+
+### New Features
+
+- Support for visiting all cells containing "Place in Cell" pictures has been introduced.
+- This C++ spreadsheet processing library version includes the `VALUETOTEXT` function for flexible data manipulation.
+- Developers can now sort pivot tables by pivot field items for improved data analysis on macOS.
+- Upgrade your apps with support for sorting by specific pivot items to refine data presentation.
+- Seamlessly edit formulas with blank spaces for elevated formula creation.
+
+### Enhancements
+
+- Leverage the ability to encrypt documents for enhanced security control without encrypting document properties.
+- Version 24.8 of the C++ library offers a character rendering boost in Excel to PDF conversion for accurate output.
+- Easily render text content to PDF for better visual consistency on Apple Mac.
+
+### Bug Fixes
+
+Here are some of the issues we fixed in Aspose.Cells for C++ 24.8:
+
+- Resolved `YEARFRAC` formula calculation issue with February 29th and January 1st.
+- Fixed hyperlinks in PDF not working after formula calculation.
+- Addressed `LET` function evaluation error.
+- Corrected spreadsheet conversion errors.
+- Improved chart rendering by fixing missing data labels, incorrect arrow/bullet positioning, and label alignment issues.
+- Addressed Excel file to PDF conversion rendering issues.
+- Resolved text underline display errors in PDF conversion.
+- Fixed HTML-rich text rendering issues.
+- Corrected SpreadsheetML to XHTML conversion errors.
+- Improved image positioning in XLSX to HTML conversion.
+- Resolved pivot table area formatting loss after opening the resultant spreadsheet in Excel.
+- Fixed worksheet corruption after saving with PivotTables.
+- Addressed issue with sorting row field by values in a specific field.
+- Corrected rendering of merged cells with blank rows removed.
+- Retained math equations when opening Excel spreadsheets.
+- Fixed result file crashes when resaving the sample file.
+- Resolved error messages when opening XLSX files.
+- Improved data accuracy and consistency when importing JSON into Excel.
+- Corrected single node export as attributes when exporting to JSON.
+- Retained outline borders after refreshing pivot tables.
+
+### Public API Changes
+
+- Added new methods for pivot table sorting and filtering.
+- Introduced properties for customizing chart appearance.
+- Updated calculation engine for improved accuracy.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for C++ 24.8 Release Notes](https://releases.aspose.com/cells/cpp/release-notes/2024/aspose-cells-for-cpp-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
