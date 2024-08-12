@@ -95,7 +95,7 @@ This section lists public API changes that were introduced in Aspose.Words for P
 
 ### Added ability to set orientation and rotation of chart axis tick labels
 
-The new properties **orientation** and **rotation** have been added to the **AxisTickLabels** class:
+The new properties **orientation** and **rotation** have been added to the **AxisTickLabels** class.
 
 This use case explains how to to set orientation and rotation of axis tick labels:
 
@@ -116,7 +116,7 @@ doc.save(file_name=ARTIFACTS_DIR + 'Charts.TickLabelsOrientationRotation.docx')
 
 ### Added EmbeddingLicensingRights property to FontInfo and PhysicalFontInfo
 
-Added **embedding_licensing_rights** property to **FontInfo** and **PhysicalFontInfo** classes:
+Added **embedding_licensing_rights** property to **FontInfo** and **PhysicalFontInfo** classes.
 
 This use case explains how to use **embedding_licensing_rights**:
 
@@ -134,7 +134,7 @@ for font_info in font_infos:
 
 ### Added new public method Section.ClearHeadersFooters(preserveWatermarks)
 
-A new **clear_headers_footers** public method has been added to **Section** class:
+A new **clear_headers_footers** public method has been added to **Section** class.
 
 This use case explains how to clear Headers and Footers but preserve the Watermarks:
 
@@ -278,7 +278,7 @@ streams = aw.lowcode.Converter.convert_to_images(doc=aw.Document(file_name=MY_DI
 
 ### Provided sign document option in XpsSaveOptions
 
-Added new public property **digital_signature_details** added to **Aspose.Words.Saving.XpsSaveOptions** class:
+Added new public property **digital_signature_details** added to **Aspose.Words.Saving.XpsSaveOptions** class.
 
 This use case explains how to specify signature options while saving XPS document:
 
