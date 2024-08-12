@@ -2,7 +2,7 @@
 id: "aspose-pdf-for-python-via-java-23-10-release-notes"
 slug: "aspose-pdf-for-python-via-java-23-10-release-notes"
 linktitle: "Aspose.PDF for Python via Java 23.10 Release Notes"
-title: "Aspose.PDF for Python via Java 23.6 Release Notes"
+title: "Aspose.PDF for Python via Java 23.10 Release Notes"
 weight: 80
 description: "Aspose.PDF for Python via Java 23.10 Release Notes – the latest updates and fixes."
 type: "repository"
@@ -20,7 +20,7 @@ This page contains release notes information for Aspose.PDF for Python via Java 
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|PDFPYTHONJAVA-99|Enhance page manipulation in PDF files|New Feature|
+|PDFPYTHONJAVA-99|Enhance page manipulation in PDF files|Enhancement|
 
 ## **Public API and Backwards Incompatible Changes**
 
