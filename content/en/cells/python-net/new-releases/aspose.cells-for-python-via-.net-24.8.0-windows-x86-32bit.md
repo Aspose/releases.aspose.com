@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-python-via-.net-24.8.0-windows-x86-32bit"
-description: " "
+title: "Empowered Formula Editing - Python Excel API 24.8.0 (Win32)"
+description: "Leverage the power of Aspose.Cells Python via .NET 24.8.0 on Win x32 to streamline pivot table sorting, formula editing, render charts & more. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/python-net/new-releases/aspose.cells-for-python-via-.net-24.8.0-windows-x86-32bit/"
@@ -43,8 +43,47 @@ weight: 62
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/python-net/release-notes/2024/aspose-cells-for-python-net-24-8-release-notes/'>https://releases.aspose.com/cells/python-net/release-notes/2024/aspose-cells-for-python-net-24-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Please refer to release notes and ReadMe for detail</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Cells for Python via .NET (Windows x32) 24.8.0 release. Please refer to release notes and ReadMe for details.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Aspose.Cells for Python via .NET 24.8.0 (Win x32) empowers developers to effortlessly manipulate Excel spreadsheets within their Python applications running on Windows 32-bit systems. This release introduces new features, enhancements, and bug fixes to elevate your Excel processing capabilities.
+
+### New Features
+
+- Support for the `VALUETOTEXT` function, which converts values to text, has been added in this release of the Python Excel API.
+- This release of the Python library brings empowered formula editing with blank space support for better flexibility.
+- The functionality of pivot table sorting by pivot field item for finer control on Win32-based systems is now implemented.
+- Aspose.Cells for Python via .NET v28.8.0 supports `GridWeb` for .NET 6.0 on Linux for cross-platform development.
+- You can now enable the feature of visiting all cells containing "Place in Cell" pictures for accurate image handling.
+
+### Improvements
+
+- You can now prevent encryption of document properties when encrypting files for data security.
+
+### Bug Fixes
+
+Several bug fixes were added in this release of Aspose.Cells for Python via .NET, including the following:
+
+- Resolved character rendering issues in Excel to PDF conversion.
+- Addressed inconsistent text content rendering in PDF output.
+- Fixed `YEARFRAC` formula calculation errors.
+- Corrected hyperlinks in PDF after formula calculation.
+- Resolved `YEARFRAC` formula calculation problem with February 29th and January 1st.
+- Addressed the text underline display issue during text file to PDF conversion.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for Python via .NET 24.8.0 Release Notes](https://releases.aspose.com/cells/python-net/release-notes/2024/aspose-cells-for-python-net-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-python-via-.net-24.7.0-windows-x86-64bit"
-description: " "
+title: "Robust Spreadsheet Processing Python API | v24.7.0 (Win x64)"
+description: "Manipulate Excel files in Python with Aspose.Cells Python via .NET 24.7.0 (Win x64). Download now for enhanced formula support, chart customization & more."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/python-net/new-releases/aspose.cells-for-python-via-.net-24.7.0-windows-x86-64bit/"
@@ -43,8 +43,43 @@ weight: 58
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/python-net/release-notes/2024/aspose-cells-for-python-net-24-7-release-notes/'>https://releases.aspose.com/cells/python-net/release-notes/2024/aspose-cells-for-python-net-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Please refer to release notes and ReadMe for detail</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Cells for Python via .NET (Windows 64-bit) 24.7.0 release. Please refer to release notes and ReadMe for details.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Aspose.Cells for Python via .NET 24.7.0 offers a dynamic set of tools for creating, manipulating, and converting Excel spreadsheets on Windows x64. This Python API release includes exciting new features, performance optimizations, and resolved issues to boost your development experience.
+
+### New Features
+
+- **Support for the `DROP` Function:** Effectively eliminate unwanted rows or columns from your spreadsheets with the robust `DROP` function.
+- **Star Character Outlines in Charts:** Add a touch of visual flair to your charts by outlining data points with star characters on Win x64 machines.
+- **Date-only Support in `ImportCustomObjects`:** Seamlessly work with `DateOnly` objects while importing custom objects into your spreadsheets.
+- **Decorative Objects in XLSX:** You can now mark objects as decorative to enhance visual presentation within your spreadsheet processing apps without affecting data analysis.
+
+### Enhancements
+
+- **Improved `LET` Function Performance:** Experience faster calculations for complex `LET` function usage within your spreadsheets.
+- **Enhanced `MAKEARRAY` Function Performance:** Simplify calculations involving the `MAKEARRAY` function with improved performance.
+- **Series Swapping Support:** Efficiently rearrange chart series order for optimal data visualization in your Win64-powered Excel manipulation apps.
+- **Chart Data Table Method Renaming:** Integrate improved clarity with renamed methods into your apps for enhanced developer experience when working with chart data tables.
+
+### Bug Fixes
+
+Numerous bugs with Excel to PDF conversion, formula calculations, conditional formatting, and more have been addressed in version 24.7.0 of the Python library.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for Python via .NET 24.7.0 Release Notes](https://releases.aspose.com/cells/python-net/release-notes/2024/aspose-cells-for-python-net-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

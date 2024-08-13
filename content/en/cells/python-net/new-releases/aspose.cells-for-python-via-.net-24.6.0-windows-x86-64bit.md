@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-python-via-.net-24.6.0-windows-x86-64bit"
-description: " "
+title: "Apply Image Adjustments in Python Apps API v24.6.0 (Win64)"
+description: "Upgrade Excel file handling with Aspose.Cells for Python via .NET 24.6.0 (Win x64). Download now to access new image editing, charting & data manipulation."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/python-net/new-releases/aspose.cells-for-python-via-.net-24.6.0-windows-x86-64bit/"
@@ -43,8 +43,58 @@ weight: 53
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/python-net/release-notes/2024/aspose-cells-for-python-net-24-6-release-notes/'>https://releases.aspose.com/cells/python-net/release-notes/2024/aspose-cells-for-python-net-24-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Please refer to release notes and ReadMe for detail</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Cells for Python via .NET (Windows x64) 24.6.0 release. Please refer to release notes and ReadMe for details.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Aspose.Cells for Python via .NET v24.6 offers an advanced suite of tools for processing Excel files on Windows 64-bit systems. This release provides innovative image editing, charting, and data handling capabilities to streamline your development workflow.
+
+### Key Highlights
+
+### Image Enhancements
+
+You can apply color adjustments, create duotone effects, and optimize image handling using the latest release of the Python spreadsheet manipulation apps API.
+
+### Chart Refinements
+
+Integrate improved chart aesthetics and data visualization with refined features, including star character outlines in charts and aligning X-axis values to the right in chart images, into your Python applications running on Win64 architecture.
+
+### HTML and Data Conversion
+
+Developers can now expand data export options with HTML and image conversions, such as converting Excel ranges to HTML format for web integration, and level up their existing Python Excel processing solutions.
+
+### Pivot Table Improvements
+
+Work with refined data analysis with enhanced pivot table functionality in the latest version of Aspose.Cells for Python via .NET.
+
+### Enhancements
+
+- Range to image conversion (CELLSNET-55580)
+- Pivot table merging range improvements (CELLSNET-55680)
+- Pivot field "Show Values As" enhancements (CELLSNET-55698)
+- Exception handling for invalid template files (CELLSNET-55827, CELLSNET-55828)
+
+### Bug Fixes
+
+Some of the bugs fixed in this release are:
+
+- Asian multiline text break issues in shapes (CELLSNET-55715)
+- Missing SmartArt hyperlinks in PDF output (CELLSNET-55830)
+- Image recoloring rendering failures (CELLSNET-55862)
+- Algorithm error in 'satMod' code (CELLSNET-55882)
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for Python via .NET 24.6.0 Release Notes](https://releases.aspose.com/cells/python-net/release-notes/2024/aspose-cells-for-python-net-24-6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

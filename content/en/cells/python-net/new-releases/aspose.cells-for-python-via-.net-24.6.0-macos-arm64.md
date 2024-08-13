@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-python-via-.net-24.6.0-macos-arm64"
-description: " "
+title: "Image Adjustments & More with Python API 24.6.0 (macOS M1)"
+description: "Optimize Excel data management with image editing, charting & data manipulation on macOS M1 using Aspose.Cells Python via .NET 24.6.0. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/python-net/new-releases/aspose.cells-for-python-via-.net-24.6.0-macos-arm64/"
@@ -43,8 +43,58 @@ weight: 49
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/python-net/release-notes/2024/aspose-cells-for-python-net-24-6-release-notes/'>https://releases.aspose.com/cells/python-net/release-notes/2024/aspose-cells-for-python-net-24-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Please refer to release notes and ReadMe for detail</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Cells for Python via .NET (macOS ARM64/M1) 24.6.0 release. Please refer to release notes and ReadMe for details.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Do not miss out on the excellent spreadsheet manipulation functionalities delivered in Aspose.Cells for Python via .NET 24.6.0. This release augments your Python applications that are powered by macOS M1 chips.
+
+### Key Highlights
+
+### Try Top Notch Image Adjustments on Apple Mac
+
+Adjust colors, create duotone effects, and elevate image handling inside your applications with the latest Python spreadsheet manipulation API version.
+
+### Insert Chart Outlines
+
+Create charts programmatically in your macOS M1-powered Python applications. Leverage star character outlines in charts and alignment of X-axis values to the right in chart images. 
+
+### Impeccable HTML and Data Conversions
+
+Empower your data export options with HTML and image conversions, including converting Excel ranges to HTML format, and take your existing Python Excel processing applications to the next level.
+
+### Work With Pivot Tables in Python Apps
+
+Add data analysis functionality with enhanced pivot table features to your Python applications powered by macOS M1 using the newest Aspose.Cells for Python via .NET API version.
+
+### Enhancements
+
+- Exception handling for invalid template files (CELLSNET-55827, CELLSNET-55828)
+- Pivot field "Show Values As" enhancements (CELLSNET-55698)
+- Range to image conversion (CELLSNET-55580)
+- Pivot table merging range improvements (CELLSNET-55680)
+
+### Bug Fixes
+
+Some of the bugs fixed in this release are:
+
+- Asian multiline text break issues in shapes (CELLSNET-55715)
+- Missing SmartArt hyperlinks in PDF output (CELLSNET-55830)
+- Image recoloring rendering failures (CELLSNET-55862)
+- Algorithm error in 'satMod' code (CELLSNET-55882)
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for Python via .NET 24.6.0 Release Notes](https://releases.aspose.com/cells/python-net/release-notes/2024/aspose-cells-for-python-net-24-6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
