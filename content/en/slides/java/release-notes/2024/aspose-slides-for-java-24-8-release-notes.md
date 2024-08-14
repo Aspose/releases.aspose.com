@@ -25,6 +25,7 @@ This page contains release notes for [Aspose.Slides for Java 24.8](https://rele
 |SLIDESNET-44277|Summary Zoom does not work in exported PDF documents|Feature|https://docs.aspose.com/slides/net/convert-powerpoint-ppt-and-pptx-to-pdf/|
 |SLIDESNET-43219|Displaying comments in generated HTML5 document|Feature|https://docs.aspose.com/slides/net/export-to-html5/|
 |SLIDESJAVA-39042|[Use Aspose.Slides for Net 24.8 features](/slides/net/release-notes/2024/aspose-slides-for-net-24-8-release-notes/)|Enhancement||
+|SLIDESJAVA-39184|Slide contents do not match after replacing text portions|Bug|https://docs.aspose.com/slides/java/manage-smartart/|
 |SLIDESJAVA-39506|OutOfMemoryError occurs when converting PPTX to PDF|Bug|https://docs.aspose.com/slides/java/convert-powerpoint-to-pdf/|
 |SLIDESJAVA-39467|Incorrect background gradient fill when converting slides to images|Bug|https://docs.aspose.com/slides/java/convert-powerpoint-to-jpg/|
 |SLIDESJAVA-39500|Chart is displayed incorrectly after restoring PPTX from ByteArrayOutputStream|Bug|https://docs.aspose.com/slides/java/save-presentation/|
