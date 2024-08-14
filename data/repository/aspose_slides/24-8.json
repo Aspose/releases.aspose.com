@@ -4,6 +4,10 @@
   "artifactId" : "aspose-slides",
   "id" : "24-8",
   "packageFiles" : [ {
+    "size" : "3 MB",
+    "name" : "aspose-slides-24.8-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
     "size" : "29 MB",
     "name" : "aspose-slides-24.8-jdk16.jar",
     "classifier" : "jdk16"
@@ -11,7 +15,7 @@
     "size" : "395 bytes",
     "name" : "aspose-slides-24.8.pom"
   } ],
-  "releasehDate" : "2024-08-14T08:44:54+00:00",
+  "releasehDate" : "2024-08-14T08:45:51+00:00",
   "version" : "24.8",
   "ReleaseNotes" : "https://releases.aspose.com/slides/java/release-notes/2024/aspose-slides-for-java-24-8-release-notes/"
 }
