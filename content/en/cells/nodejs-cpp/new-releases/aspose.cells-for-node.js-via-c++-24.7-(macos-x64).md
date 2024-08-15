@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cells-for-node.js-via-c++-24.7-(macos-x64)"
-description: " "
+title: "Manipulate Spreadsheets with Node.js API 24.7 on macOS x64"
+description: "Build exceptional Excel applications on macOS x64 with Aspose.Cells for Node.js via C++ 24.7. Create, edit, convert, & manage spreadsheets. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/nodejs-cpp/new-releases/aspose.cells-for-node.js-via-c++-24.7-(macos-x64)/"
@@ -43,8 +43,50 @@ weight: 2
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/nodejs-cpp/release-notes/2024/aspose-cells-for-node-js-via-cpp-24-7-release-notes/'>https://releases.aspose.com/cells/nodejs-cpp/release-notes/2024/aspose-cells-for-node-js-via-cpp-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">for Node.js on macOS x64</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells for Node.js via C++ 24.7 on macOS x64</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Empower your Excel applications on macOS x64 with Aspose.Cells for Node.js via C++ 24.7. Create sophisticated spreadsheet solutions boasting useful features and performance optimizations to enhance your development experience.
+
+### Key Highlights
+
+Create, edit, and manipulate Excel spreadsheets effortlessly, or convert Excel files to various formats using the latest Node.js API version. 
+
+### Feature Enhancements
+
+### Interactive Dashboards
+
+MacOS developers can now create interactive dashboards to visualize and analyze spreadsheet data on macOS x64 machines.
+
+### Spreadsheet Protection
+
+We have introduced different security features in Aspose.Cells for Node.js via C++ 24.7 to let you protect Excel files with passwords and permissions.
+
+### Extended File Format Support
+
+The spreadsheet library supports numerous popular file formats and allows reading and writing XLSX, XLS, XLSB, XLTX, XLSM, XML, ODS, CSV, TXT, HTML, and JSON files. You can also save your Excel documents to PDF, JPEG, PNG, SVG, GIF, CSV, SQL, and more formats.
+
+### Shape Manipulation
+
+Are you looking to programmatically edit and format shapes within worksheets? Our Excel processing library equips you with the required shape manipulation features to update your apps.
+
+### File Loading Performance
+
+Version 24.7 of Aspose.Cells for Node.js via C++ optimizes loading times for large Excel files so that you can work with big-sized spreadsheets.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for Node.js via C++ 24.7 Release Notes](https://releases.aspose.com/cells/nodejs-cpp/release-notes/2024/aspose-cells-for-node-js-via-cpp-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
