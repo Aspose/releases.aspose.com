@@ -16,7 +16,7 @@ parent_path: "pdf/pythonnet"
 section_parent_path: "pdf/pythonnet"
 
 tags: ""
-release_notes_url: "https://releases.aspose.com/pdf/pythonnet/release-notes/2024/"
+release_notes_url: "https://releases.aspose.com/pdf/pythonnet/release-notes/2024/aspose-pdf-for-python-net-24-6-release-notes/"
 weight: 52
 
 ---
@@ -40,7 +40,7 @@ weight: 52
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/pythonnet/release-notes/2024/'>https://releases.aspose.com/pdf/pythonnet/release-notes/2024/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/pythonnet/release-notes/2024/aspose-pdf-for-python-net-24-6-release-notes/'>https://releases.aspose.com/pdf/pythonnet/release-notes/2024/aspose-pdf-for-python-net-24-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This wheel contains Aspose.PDF for Python via .NET version 24.6.0, compatible with Python 3 and built for Linux systems conforming to the manylinux1 standard, specifically targeting the x86_64 architecture.</div>
