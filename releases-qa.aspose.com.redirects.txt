@@ -907,7 +907,7 @@ rewrite ^/email/java/release-notes/2024/aspose-email-for-java-24-8-release-notes
 rewrite ^/\/ru/$ https://releases-qa.aspose.com/ru/total/ permanent;
 rewrite ^/3d/python$ https://releases-qa.aspose.com/3d/python-net/ permanent;
 rewrite ^/cad/python/release-notes/2024/$ https://releases-qa.aspose.com/cad/python-net/release-notes/2024/ permanent;
-rewrite ^/cells/cpp/new-releases/aspose.cells-for-c++-24.5windows(.*) https://releases-qa.aspose.com/cells/cpp/new-releases/aspose.cells-for-c++-24.5windows/$1 permanent;
+# rewrite ^/cells/cpp/new-releases/aspose.cells-for-c++-24.5windows(.*) https://releases-qa.aspose.com/cells/cpp/new-releases/aspose.cells-for-c++-24.5windows/$1 permanent;
 rewrite ^/cells/net/release-notes/2024/aspose-cells-for-cpp-24-7-release-notes/$ https://releases-qa.aspose.com/cells/net/release-notes/2024/aspose-cells-for-net-24-7-release-notes/ permanent;
 rewrite ^/cells/net/release-notes/2024/aspose-cells-for-python-via-java-24-7-release-notes$ https://releases-qa.aspose.com/cells/net/release-notes/2024/aspose-cells-for-net-24-7-release-notes/ permanent;
 rewrite ^/cells/python-java/release-notes/2023/aspose-cells-for-python-via-java-24-8-release-notes/$ https://releases-qa.aspose.com/cells/python-java/release-notes/2024/aspose-cells-for-python-via-java-24-8-release-notes/ permanent;
