@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-.net-24.7"
-description: " "
+title: ".NET Barcode API 24.7 (MSI) | QR Recognition, .NET 8 Support"
+description: "Generate and read QR codes & AustraliaPost barcodes in your .NET 8 projects! Download Aspose.BarCode for .NET 24.7 (MSI installer) and get started today."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/net/new-releases/aspose.barcode-for-.net-24.7/"
@@ -45,6 +45,60 @@ weight: 606
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 24.7 (MSI) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Looking to process barcodes on the .NET platform? Utilize the advanced features in Aspose.BarCode for .NET 24.7 (MSI) to empower your applications with .NET 8 compatibility and barcode and QR code generation and recognition features.
+
+### .NET 8 Support
+
+Seamlessly integrate barcode generation and recognition capabilities to your .NET 8 projects using this release of the .NET barcode processing API.
+
+### Refined QR Code Recognition
+
+Aspose.BarCode for .NET now offers flawless QR code recognition by augmenting the `HighQuality` preset. Developers can read QR codes with greater precision owing to this update, as showcased in the following code example.
+
+```c#
+
+using (BarCodeReader reader = new BarCodeReader("qr.jpg", DecodeType.QR))
+{
+    reader.QualitySettings = QualitySettings.HighQuality;
+    foreach (BarCodeResult result in reader.ReadBarCodes())
+        Console.WriteLine(result.CodeText);
+}
+
+```
+*[Source\*](https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-7-release-notes/)*
+
+### Accurate Australia Post Generation
+
+Create compliant Australia Post barcodes with the optimized `AustralianPostShortBarHeight` parameter added to the latest C# barcode library version. Check out the following coding sample to learn how to use this functionality in C#.
+
+```c#
+BarcodeGenerator gen = new BarcodeGenerator(EncodeTypes.AustraliaPost, "6212345678AP");
+gen.Parameters.Barcode.AustralianPost.AustralianPostEncodingTable = CustomerInformationInterpretingType.CTable;
+gen.Parameters.Barcode.BarHeight.Pixels = 100;
+gen.Parameters.Barcode.AustralianPost.AustralianPostShortBarHeight.Pixels = 10;
+gen.Parameters.Barcode.Padding.Left.Pixels = 10;
+gen.Parameters.Barcode.Padding.Top.Pixels = 10;
+gen.Parameters.Barcode.Padding.Right.Pixels = 10;
+gen.Parameters.Barcode.Padding.Bottom.Pixels = 10;
+gen.Save("AustraliaPost.png", BarCodeImageFormat.Png);
+
+```
+*[Source\*](https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-7-release-notes/)*
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for .NET 24.7 Release Notes](https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

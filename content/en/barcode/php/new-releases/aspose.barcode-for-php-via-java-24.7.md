@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-php-via-java-24.7"
-description: " "
+title: "Generate Colorful SVG Barcodes with PHP Barcode API v24.7"
+description: "Aspose.BarCode for PHP via Java 24.7 provides simplified Code39 & Code93 processing and supports SVG 2.0 color schemes. Download and get started now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/php/new-releases/aspose.barcode-for-php-via-java-24.7/"
@@ -43,8 +43,66 @@ weight: 74
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/php/release-notes/2024/aspose-barcode-for-php-via-java-24-7-release-notes/'>https://releases.aspose.com/barcode/php/release-notes/2024/aspose-barcode-for-php-via-java-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for PHP via Java 24.7 has been released</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for PHP via Java 24.7 has been released.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+### Unified Code39 and Code93 API
+
+Aspose.BarCode for PHP via Java 24.7 helps developers encode and decode Code39 and Code93 barcodes seamlessly with a single API for effortless integration within your PHP projects.
+
+### Advanced SVG Color Control
+
+The latest PHP barcode API release enables you to generate colorful barcodes in SVG format with precise color customization using RGB, RGBA, HSL, and HSLA options. Check out the following code examples to learn how to use these color modes in PHP.
+
+```php
+
+ public void example1() throws IOException
+{
+    String codeText = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    BarcodeGenerator generator = new Generation.BarcodeGenerator(EncodeTypes.CODE_128, codeText);
+    Color color = new Color(0xBBFF5511);
+    generator.getParameters().getBarcode().setBarColor(color);
+    generator.getParameters().getImage().getSvg().setSvgColorMode(SvgColorMode.HSLA);
+    generator.save(folder + "Hsla.svg");
+}
+
+
+```
+*[Source\*](https://releases.aspose.com/barcode/php/release-notes/2024/aspose-barcode-for-php-via-java-24-7-release-notes/)*
+
+```php
+ function example2()
+ {
+    $folder = testdata_root . "release_24_7/";
+    $codeText = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    $generator = new BarcodeGenerator(EncodeTypes::CODE_128, $codeText);
+    $hslaColor = new HslaColor(30, 50, 70, 0.8);
+    $color = HslaColor::convertHslaToRgba($hslaColor);
+    $generator->getParameters()->getBarcode()->setBarColor($color);
+    $generator->getParameters()->getImage()->getSvg()->setSvgColorMode(SvgColorMode::HSLA);
+    $generator->save($folder . "Hsla_from_hsla.svg", BarCodeImageFormat::PNG);
+ }
+
+```
+*[Source\*](https://releases.aspose.com/barcode/php/release-notes/2024/aspose-barcode-for-php-via-java-24-7-release-notes/)*
+
+### Enhanced Developer Experience
+
+Benefit from a more consistent and intuitive API for barcode processing in PHP environments. Build high-performance applications boasting advanced barcode reading, recognition, and generation features using the latest PHP library release.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for PHP via Java 24.7 Release Notes](https://releases.aspose.com/barcode/php/release-notes/2024/aspose-barcode-for-php-via-java-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

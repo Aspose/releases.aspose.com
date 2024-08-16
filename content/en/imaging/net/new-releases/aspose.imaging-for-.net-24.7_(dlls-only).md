@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.imaging-for-.net-24.7_(dlls-only)"
-description: " "
+title: "DICOM YBR 422 & Convert SVG | C# Imaging API 24.7 (DLLs)"
+description: "Elevate your .NET image processing with Aspose.Imaging for .NET 24.7 (DLLs-only). This version offers improved DICOM support and more. Download today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/imaging/net/new-releases/aspose.imaging-for-.net-24.7_(dlls-only)/"
@@ -43,8 +43,84 @@ weight: 385
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-7-release-notes/'>https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Imaging for .NET 24.7 (Dlls only) release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Imaging for .NET 24.7 (DLLs only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.Imaging for .NET 24.7 (DLLs-only) offers a range of improvements for developers working with various image formats. This release introduces DICOM YBR 422 support and addresses the issues with GIF saving, EMF rendering, and SVG export.
+
+### Support for DICOM YBR 422 Format
+
+Effortlessly process DICOM YBR 422 medical images within your C# and VB.NET applications using the newest C# imaging API version. The following code example showcases how to load a DCM image and convert it to a PNG image.
+
+```c#
+
+var inputPath = @"input.dcm";
+using var image = Image.Load(@"input.dcm");
+image.Save(inputPath + ".png");
+
+```
+*[Source\*](https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-7-release-notes/)*
+
+### Impeccable GIF Saving
+
+Eliminate deformed output while saving GIF images with Aspose.Imaging for .NET 24.7 to supercharge your .NET image processing solutions easily. Here is how you can precisely export a GIF image in your .NET applications.
+
+```c#
+
+var originalPath = @"input.gif";
+var inputPath = original + "-copy.gif";
+File.Copy(originalPath, inputPath, true);
+
+using var image1 = Image.Load(inputPath);
+image1.Save();
+
+using var image2 = Image.Load(inputPath);
+image2.Save();
+
+```
+*[Source\*](https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-7-release-notes/)*
+
+### Empowered EMF Rendering
+
+We have resolved the problems related to accurate character drawing in EMF format, allowing you to work with refined EMF rendering functionality in your C# applications. This code example shows how you can easily render an EMF file and save it as PDF.
+
+```c#
+
+cpp
+using (var image = Image.Load("D:\\16.emf"))
+{
+    image.Save("D:\\16_fixed.pdf");
+}
+
+```
+*[Source\*](https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-7-release-notes/)*
+
+### Upgraded SVG to EMF Export
+
+Implement SVG to EMF conversion capability into your platform-independent applications and ensure pristine output with this update. Check out this code example to learn how to use this feature in C#.
+
+```c#
+
+var inputPath = @"input.svg";
+using var image = Image.Load(inputPath);
+image.Save(inputPath + ".emf");
+
+```
+*[Source\*](https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-7-release-notes/)*
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Imaging for .NET 24.7 Release Notes](https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
