@@ -3,7 +3,7 @@ id: "aspose-slides-for-python-net-24-8-release-notes"
 slug: "aspose-slides-for-python-net-24-8-release-notes"
 linktitle: "Aspose.Slides for Python via .NET 24.8 Release Notes"
 title: "Aspose.Slides for Python via .NET 24.8 Release Notes"
-weight: 70
+weight: 65
 description: "Aspose.Slides for Python via .NET 24.8 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
