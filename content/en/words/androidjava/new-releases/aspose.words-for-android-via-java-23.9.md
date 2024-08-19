@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.words-for-android-via-java-23.9"
-description: " "
+title: "EPS Export & Digital Signatures in Android | Aspose.Words 23.9"
+description: "Export documents as EPS, retrieve digital signatures, enhance table, mail merge, and reporting  with Aspose.Words for Android via Java 23.9. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/words/androidjava/new-releases/aspose.words-for-android-via-java-23.9/"
@@ -45,6 +45,51 @@ weight: 95
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Words for Android via Java 23.9 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Unlock new possibilities for your Android applications with Aspose.Words for Android via Java 23.9 release. You can export documents to EPS, extract digital signature details, manipulate tables, and enhance mail merge capabilities using this release.
+
+### Key Highlights
+
+### EPS Export
+
+Developers can create high-quality EPS images from document pages or shapes for versatile design applications with the latest version of the Android Word document manipulation library.
+
+### Digital Signature Extraction
+
+Aspose.Words for Android via Java now offers retrieving digital signature values as byte arrays for advanced security and verification processes.
+
+### Table Manipulation
+
+Seamlessly enhance table handling with expanded Row and Cell class functionalities in your Android-powered applications.
+
+### Mail Merge Improvements
+
+Utilize the `Mustache` tags for simplified mail merge operations and utilize LINQ Reporting Engine upgrades for complex data transformations.
+
+### Additional Features and Improvements
+
+- You can generate an automatic Table of Contents for MOBI documents.
+- Strengthen PDF security with the expanded `PdfEncryptionDetails` constructor.
+- Precisely control image rendering size with a new public property.
+- We have improved text rendering for EMF metafiles with vertical text shaping in the latest release.
+- Easily preserve whitespaces in JSON string values for LINQ Reporting Engine.
+- Customize chart appearance with axis title support using this version of Aspose.Words for Android via Java.
+- The latest release helps you manage image paths effectively with `MarkdownSaveOptions.ImagesFolderAlias`.
+- Fine-tune font positioning with paragraph-level control.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Words for Android via Java 23.9 Release Notes](https://releases.aspose.com/words/androidjava/release-notes/2023/aspose-words-for-android-via-java-23.9-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

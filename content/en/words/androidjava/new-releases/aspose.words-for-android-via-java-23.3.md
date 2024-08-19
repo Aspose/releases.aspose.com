@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.words-for-android-via-java-23.3"
-description: " "
+title: "Aspose.Words Android Java 23.3 - Metafiles and eBook Support"
+description: "Create stunning charts, improve metafile rendering, and work with MOBI/AZW3 eBooks using Aspose.Words for Android via Java API 23.3. Download Today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/words/androidjava/new-releases/aspose.words-for-android-via-java-23.3/"
@@ -43,5 +43,46 @@ weight: 93
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Words for Android via Java 23.3 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Key Highlights
+
+### Enhanced Charting
+
+Experience improved chart rendering with support for R-squared coefficient in DML chart trendline labels and the capability to control chart appearance using Aspose.Words for Android via Java 24.3 release.
+
+### Metafile Refinements
+
+You can now achieve higher quality and performance in raster operations of metafiles, along with support for advanced typography features.
+
+### Expanded eBook Support
+
+The latest Word document manipulation Android library lets you work seamlessly with MOBI and AZW3 eBook formats, including the ability to generate table of contents (TOC) for AZW3 documents.
+
+### Text Control
+
+Aspose.Words for Android via Java 24.3 fine-tunes text formatting with character spacing adjustments and options to include or exclude textboxes, footnotes, and endnotes in word count calculations.
+
+### Additional Features and Improvements
+
+- We have introduced new document style options for automatic style redefinition.
+- Support for "Layout footnotes the way Word 6.x/95/97 does" compatibility has been implemented.
+- Public properties are expanded for working with fill colors in this Android API version.
+- Render radial gradients with `SkiaSharp` native shader for .NET Standard.
+- Developers can now enable saving progress notifications for MOBI and AZW3 formats.
+- Effortlessly control automatic adjustment of sentence and word spacing upon document import.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Words for Android via Java 23.3 Release Notes](https://releases.aspose.com/words/androidjava/release-notes/2023/aspose-words-for-android-via-java-23.3-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
