@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.words-for-android-via-java-23.6"
-description: " "
+title: "Aspose.Words Android 23.6 | Table Formatting, Digital Signature"
+description: "Boost your document processing apps with Aspose.Words Android via Java 23.6. Download now and fine-tune table layouts, manage digital signatures & more"
 keywords: ""
 page_type: single_release_page
 folder_link: "/words/androidjava/new-releases/aspose.words-for-android-via-java-23.6/"
@@ -43,5 +43,51 @@ weight: 94
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Words for Android via Java 23.6 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Optimize your Android solutions with Aspose.Words for Android via Java 23.6 release. Fine-tune table layout, explore advanced charting features, manage digital signatures efficiently, and refine text handling for feature-rich document creation.
+
+### Key Highlights
+
+### Table Layout Formatting
+
+Upgrade your word-processing applications on the Android platform with precise table positioning and the ability to set distance between tables and surrounding text.
+
+### Enhanced Charting
+
+Explore new possibilities with combo charts using the latest release  of the Word document Android library, including access to series and axes data.
+
+### Digital Signature Management
+
+You can programmatically remove digital signatures from ODT documents for greater control over document integrity.
+
+### Text Handling Improvements
+
+Determine phonetic guide runs, access base and ruby text, and support advanced typography in metafiles with Aspose.Words for Android via Java 23.6.
+
+### Additional Features and Improvements
+
+- Developers can optimize color brightness calculation for accurate text color resolution.
+- Easily manage temporary folders and native library loading with public properties.
+- Retrieve and edit chart series data for dynamic chart updates with this Android library release.
+- Enable text wrapping within headers and footers for flexible layout options.
+- Aspose.Words for Android via Java now correctly renders `MathML` formulas with embedded images.
+- Expertly save documents in XLSX format for broader compatibility.
+- We have introduced dynamic HTML insertion for the LINQ Reporting Engine.
+- Seamlessly customize chart appearance with fill, stroke, and callout formatting for data labels.
+- Simplify document merging with new LowCode methods.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Words for Android via Java 23.6 Release Notes](https://releases.aspose.com/words/androidjava/release-notes/2023/aspose-words-for-android-via-java-23.6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
