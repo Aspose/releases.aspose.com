@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-android-via-java-24.7"
-description: " "
+title: "Aspose.Slides Android 24.7 | PDF Export, Secure Presentations"
+description: "Upgrade your Android presentations with Aspose.Slides for Android via Java 24.7! Enhance presentation security, fine-tune PDF exports & more. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/androidjava/new-releases/aspose.slides-for-android-via-java-24.7/"
@@ -45,7 +45,90 @@ weight: 116
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for Android via Java 24.7 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Reinforced Presentation Security
+
+With Aspose.Slides for Android via Java 24.7, you can safeguard your presentations by eliminating potential threats using the `DeleteEmbeddedBinaryObjects` property. Here is how to make your presentations secure on the Android platform with Java integration.
+
+```java
+
+LoadOptions loadOptions = new LoadOptions();
+loadOptions.setDeleteEmbeddedBinaryObjects(true);
+
+Presentation pres = new Presentation("malware.ppt", loadOptions);
+try {
+    pres.save("clean.ppt", SaveFormat.Ppt);
+} finally {
+    if (pres != null) pres.dispose();
+}
+
+```
+*[Source\*](https://releases.aspose.com/slides/androidjava/release-notes/2024/aspose-slides-for-android-via-java-24-7-release-notes/)*
+
+### Versatile PDF Export Functionality
+
+Expand PDF export capabilities in your Android applications by including embedded files with the newly introduced `IncludeOleData` property. This code example demonstrates the feature usage.
+
+```java
+
+Presentation pres = new Presentation("pres.pptx");
+try {
+    PdfOptions options = new PdfOptions();
+    options.setIncludeOleData(true);
+
+    pres.save("pres.pdf", SaveFormat.Pdf, options);
+} finally {
+    if (pres != null) pres.dispose();
+}
+
+```
+*[Source\*](https://releases.aspose.com/slides/androidjava/release-notes/2024/aspose-slides-for-android-via-java-24-7-release-notes/)*
+
+### Dynamic Layout Customization
+
+Add different types of placeholders and create tailored slide layouts with the new `ILayoutPlaceholderManager` interface using the latest Android PowerPoint presentations API. The following code snippet shows how to add this functionality to your apps.
+
+```java
+
+Presentation pres = new Presentation();
+try {
+    // Getting the Blank layout slide
+    ILayoutSlide layout = pres.getLayoutSlides().getByType(SlideLayoutType.Blank);
+
+    // Getting the placeholder manager of the layout slide
+    ILayoutPlaceholderManager placeholderManager = layout.getPlaceholderManager();
+
+    // Adding different placeholders to the Blank layout slide
+    placeholderManager.addContentPlaceholder(10, 10, 300, 200);
+    placeholderManager.addVerticalTextPlaceholder(350, 10, 200, 300);
+    placeholderManager.addChartPlaceholder(10, 350, 300, 300);
+    placeholderManager.addTablePlaceholder(350, 350, 300, 200);
+
+    // Adding the new slide with Blank layout
+    pres.getSlides().addEmptySlide(layout);
+
+    pres.save("placeholders.pptx", SaveFormat.Pptx);
+} finally {
+    if (pres != null) pres.dispose();
+}
+
+```
+*[Source\*](https://releases.aspose.com/slides/androidjava/release-notes/2024/aspose-slides-for-android-via-java-24-7-release-notes/)*
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for Android via Java 24.7 Release Notes](https://releases.aspose.com/slides/androidjava/release-notes/2024/aspose-slides-for-android-via-java-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
 

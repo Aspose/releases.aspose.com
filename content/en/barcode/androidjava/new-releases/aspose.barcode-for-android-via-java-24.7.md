@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-android-via-java-24.7"
-description: " "
+title: "Android Barcode API 24.7 | Code39 and Code93 Enhancements"
+description: "Boost barcode generation and recognition with Aspose.BarCode for Android via Java 24.7! Benefit from upgraded Code39 & Code93 handling. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-24.7/"
@@ -43,9 +43,35 @@ weight: 115
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/androidjava/release-notes/2024/aspose-barcode-for-android-via-java-24-7-release-notes/'>https://releases.aspose.com/barcode/androidjava/release-notes/2024/aspose-barcode-for-android-via-java-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Android via Java 24.7 has been released</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Android via Java 24.7 has been released.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Unified Code93 Support
+
+Aspose.BarCode for Android via Java 24.7 allows you to experience streamlined barcode generation by merging `Code93Standard` and `Code93Extended` into a single `Code93` type.
+
+### Code39 Standardization
+
+You can benefit from improved compatibility and adherence to industry standards with the replacement of `Code39Standard` with `Code39` in the latest Android barcode processing API release.
+
+### Expanded Code39 Capabilities
+
+With the recent enhancements to the `Code93` capabilities, developers can access the full ASCII character set for `Code39` barcodes through the new `Code39FullASCII` type.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for Android via Java 24.7 Release Notes](https://releases.aspose.com/barcode/androidjava/release-notes/2024/aspose-barcode-for-android-via-java-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
 

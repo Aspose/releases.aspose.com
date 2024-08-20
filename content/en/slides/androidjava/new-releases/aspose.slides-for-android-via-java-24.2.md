@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-android-via-java-24.2"
-description: " "
+title: "Aspose.Slides Android 24.2 - Easily Perform Latex Conversions"
+description: "Effortlessly convert math equations to Latex format with Aspose.Slides Android via Java 24.2! Download now and streamline scientific presentations on Android."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/androidjava/new-releases/aspose.slides-for-android-via-java-24.2/"
@@ -45,6 +45,72 @@ weight: 111
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for Android via Java 24.2 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Effortless Latex Conversion
+
+Leverage the new `IMathParagraph.toLatex()` method in Aspose.Slides for Android via Java 24.2 to easily perform LaTeX conversion of math equations within your presentations.
+
+Code Example:
+
+```java
+
+Presentation pres = new Presentation();
+try {
+    ISlide slide = pres.getSlides().get_Item(0);
+    IAutoShape shape = slide.getShapes().addMathShape(50, 50, 200, 200);
+    IMathParagraph mathParagraph = ((MathPortion)shape.getTextFrame().getParagraphs().get_Item(0).getPortions().get_Item(0)).getMathParagraph();
+    mathParagraph.add(new MathematicalText("a").join("+").join(new MathematicalText("b").join("=").join(new MathematicalText("c"))));
+    String mathLatex = mathParagraph.toLatex();
+
+    System.out.println(mathLatex);
+} finally {
+    if (pres != null) pres.dispose();
+}
+
+```
+*[Source\*](https://releases.aspose.com/slides/androidjava/release-notes/2024/aspose-slides-for-android-via-java-24-2-release-notes/)*
+
+### Enriched Scientific Communication
+
+The latest release of the PowerPoint document manipulation API helps improve clarity and precision in scientific presentations by utilizing the universal language of Latex.
+
+### Advanced HTML5 Export
+
+You can seamlessly control comment and note layout when exporting presentations to HTML5 with the new `Html5Options.NotesCommentsLayouting` property. 
+
+Code Example: 
+
+```java
+
+Presentation pres = new Presentation("test.pptx");
+try {
+    NotesCommentsLayoutingOptions notesCommentsLayoutingOptions = new NotesCommentsLayoutingOptions();
+    notesCommentsLayoutingOptions.setNotesPosition(NotesPositions.BottomTruncated);
+    Html5Options html5Options = new Html5Options();
+    html5Options.setNotesCommentsLayouting(notesCommentsLayoutingOptions);
+    html5Options.setOutputPath("test_pptx");
+            
+    pres.save("index.html", SaveFormat.Html5, html5Options);
+} finally {
+    if (pres != null) pres.dispose();
+}
+
+```
+*[Source\*](https://releases.aspose.com/slides/androidjava/release-notes/2024/aspose-slides-for-android-via-java-24-2-release-notes/)*
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for Android via Java 24.2 Release Notes](https://releases.aspose.com/slides/androidjava/release-notes/2024/aspose-slides-for-android-via-java-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-android-via-java-24.1"
-description: " "
+title: "Effortless PDF Table Detection on Android | Aspose.Slides 24.1"
+description: "Seamlessly import PDF tables into your presentations with Aspose.Slides for Android via Java 24.1! Download now and leverage automatic table detection."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/androidjava/new-releases/aspose.slides-for-android-via-java-24.1/"
@@ -45,7 +45,50 @@ weight: 110
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for Android via Java 24.1 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Automatic PDF Table Detection
+
+Aspose.Slides for Android via Java 24.1 enables effortless PDF table detection and import into your presentations with the new `PdfImportOptions.DetectTables` property. This code example highlights how to detect and import tables on the Android platform.
+
+Code Example:
+
+```java
+
+Presentation pres = new Presentation();
+try {
+    PdfImportOptions pdfImportOptions = new PdfImportOptions();
+    pdfImportOptions.setDetectTables(true);
+
+    FileInputStream stream = new FileInputStream("document.pdf");
+    pres.getSlides().addFromPdf(stream, pdfImportOptions);
+
+    pres.save("output.pptx", SaveFormat.Pptx);
+} catch (IOException e) {
+} finally {
+    if (pres != null) pres.dispose();
+}
+
+```
+*[Source\*](https://releases.aspose.com/slides/androidjava/release-notes/2024/aspose-slides-for-android-via-java-24-1-release-notes/)*
+
+### Streamlined Workflow
+
+This update to the presentations API for Android saves time and effort by eliminating the need for manual table creation during PDF data import. 
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for Android via Java 24.1 Release Notes](https://releases.aspose.com/slides/androidjava/release-notes/2024/aspose-slides-for-android-via-java-24-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
 

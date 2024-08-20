@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-android-via-java-24.6"
-description: " "
+title: "Master Presentation Text Handling | Aspose.Slides Android 24.6"
+description: "Take control of your Android presentations! Aspose.Slides for Android via Java 24.6 offers precise text search, highlighting, replacement & more. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/androidjava/new-releases/aspose.slides-for-android-via-java-24.6/"
@@ -45,7 +45,134 @@ weight: 115
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for Android via Java 24.6 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Streamlined Text Search
+
+Aspose.Slides for Android via Java 24.6 offers efficient text search capabilities to locate specific text within presentations using the `ITextSearchOptions` interface. This code example demonstrates the text handling and search feature usage.
+
+```java
+
+Presentation presentation = new Presentation("pres.pptx");
+try {
+    TextSearchOptions textSearchOptions = new TextSearchOptions();
+    textSearchOptions.setWholeWordsOnly(true);
+    presentation.replaceText("the", "***", textSearchOptions, null);
+    presentation.save("pres-out.pptx", SaveFormat.Pptx);
+} finally {
+    if (presentation != null) presentation.dispose();
+}
+
+```
+*[Source\*](https://releases.aspose.com/slides/androidjava/release-notes/2024/aspose-slides-for-android-via-java-24-6-release-notes/)*
+
+### Master Text Highlighting
+
+Highlight keywords or regular expressions with precision using the `ITextFrame.HighlightText()` and `ITextFrame.HighlightRegex()` methods added to this version of the Android presentation processing API. Similarly, you can also highlight text or Regex within your presentations using the newly introduced `IPresentation.HighlightText()` and `IPresentation.HighlightRegex()` methods. 
+
+In the code examples given below, we will check how to highlight text/keywords or regular expressions in a text frame, respectively.
+
+```java
+
+Presentation presentation = new Presentation("pres.pptx");
+try {
+    ITextFrame textFrame = ((AutoShape)presentation.getSlides().get_Item(0).getShapes().get_Item(0)).getTextFrame();
+    // highlighting all words 'important'
+    textFrame.highlightText("important", Color.BLUE);
+    TextSearchOptions textSearchOptions = new TextSearchOptions();
+    textSearchOptions.setWholeWordsOnly(true);
+    // highlighting all separate 'the' occurrences
+    textFrame.highlightText("the", Color.MAGENTA, textSearchOptions, null);
+    presentation.save("pres-out2.pptx", SaveFormat.Pptx);
+} finally {
+    if (presentation != null) presentation.dispose();
+}
+
+```
+*[Source\*](https://releases.aspose.com/slides/androidjava/release-notes/2024/aspose-slides-for-android-via-java-24-6-release-notes/)*
+
+```java
+
+Presentation presentation = new Presentation("pres.pptx");
+try {
+    Pattern regex = Pattern.compile("\\b[^\\s]{10,}\\b");
+    // highlighting all words with 10 symbols or longer
+    ((AutoShape)presentation.getSlides().get_Item(0).getShapes().get_Item(0)).getTextFrame().highlightRegex(regex, Color.BLUE, null);
+    presentation.save("SomePresentation-out.pptx", SaveFormat.Pptx);
+} finally {
+    if (presentation != null) presentation.dispose();
+}
+
+```
+*[Source\*](https://releases.aspose.com/slides/androidjava/release-notes/2024/aspose-slides-for-android-via-java-24-6-release-notes/)*  
+
+### Targeted Text Replacement
+
+Seamlessly replace text or Regex (regular expressions) with desired alternatives using the `ITextFrame.ReplaceText()` and `ITextFrame.ReplaceRegex()` methods. Developers can replace text and regular expressions in their presentations as well, with the newly added `IPresentation.ReplaceText()` and `IPresentation.ReplaceRegex()` methods.
+
+Check out the code samples shared below to learn how to replace text or Regex in presentations on the Android platform, resptively.
+
+```java
+
+Presentation presentation = new Presentation("pres.pptx");
+try {
+    TextSearchOptions textSearchOptions = new TextSearchOptions();
+    textSearchOptions.setWholeWordsOnly(true);
+    // Replace all separate 'the' occurrences with '***'
+    presentation.replaceText("the", "***", textSearchOptions, null);
+    presentation.save("SomePresentation-out2.pptx", SaveFormat.Pptx);
+} finally {
+    if (presentation != null) presentation.dispose();
+}
+
+```
+*[Source\*](https://releases.aspose.com/slides/androidjava/release-notes/2024/aspose-slides-for-android-via-java-24-6-release-notes/)*
+
+```java
+
+Presentation presentation = new Presentation("pres.pptx");
+try {
+    Pattern regex = Pattern.compile("\\b[^\\s]{10,}\\b");
+    // Replace all words with 10 symbols or longer with '***'
+    presentation.replaceRegex(regex, "***", null);
+    presentation.save("SomePresentation-out.pptx", SaveFormat.Pptx);
+} finally {
+    if (presentation != null) presentation.dispose();
+}
+
+```
+*[Source\*](https://releases.aspose.com/slides/androidjava/release-notes/2024/aspose-slides-for-android-via-java-24-6-release-notes/)*
+
+### Enriched Gradient Rendering
+
+You can control the visual appearance of two-color gradients with the `ISaveOption.GradientStyle` property and experience PowerPoint-like rendering in your Android applications. Here is how to use this feature.
+
+```java
+
+Presentation pres = new Presentation("pres.pptx");
+try {
+    RenderingOptions options = new RenderingOptions();
+    options.setGradientStyle(GradientStyle.PowerPointUI);
+    IImage img = pres.getSlides().get_Item(0).getImage(options, 2f, 2f);
+} finally {
+    if (pres != null) pres.dispose();
+}
+
+```
+*[Source\*](https://releases.aspose.com/slides/androidjava/release-notes/2024/aspose-slides-for-android-via-java-24-6-release-notes/)*
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for Android via Java 24.6 Release Notes](https://releases.aspose.com/slides/androidjava/release-notes/2024/aspose-slides-for-android-via-java-24-6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
 

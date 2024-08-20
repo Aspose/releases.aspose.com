@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-android-via-java-24.4"
-description: " "
+title: "Aspose.BarCode Android 24.4 | Upgraded QR Code Recognition"
+description: "Optimize your Android barcode scanning apps with updated QR code recognition & Data Matrix quality. Download Aspose.BarCode Android via Java 24.4 now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-24.4/"
@@ -43,8 +43,43 @@ weight: 112
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/androidjava/release-notes/2024/aspose-barcode-for-android-via-java-24-4-release-notes/'>https://releases.aspose.com/barcode/androidjava/release-notes/2024/aspose-barcode-for-android-via-java-24-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Android via Java 24.4 has been released</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Android via Java 24.4 has been released.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Upgraded QR Code Recognition
+
+Benefit from expanded QR code recognition in Aspose.BarCode  for Android via Java 24.4, including those with rounded targets and variations in lighting conditions.
+
+### Fine-Tuned Data Matrix Quality
+
+Developers can seamlessly gain greater control over Data Matrix barcode generation through new quality settings with this version of the barcode recognition Android API.
+
+### Performance Optimization
+
+We have optimized the API performance so that you can experience improved barcode processing speed and efficiency.
+
+### `MaxiCode` Enhancements
+
+The `setPostalCode` method has been added to the `MaxiCodeStructuredCodetext` class for setting postal code information.
+
+### Bug Fixes
+
+- Resolved issues with QR code recognition for codes with darkened or lightened sides.
+- Corrected `PDF417` recognition errors.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for Android via Java 24.4 Release Notes](https://releases.aspose.com/barcode/androidjava/release-notes/2024/aspose-barcode-for-android-via-java-24-4-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

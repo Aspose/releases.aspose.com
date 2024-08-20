@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-android-via-java-24.5"
-description: " "
+title: "Flexible Shape Customization on Android | Aspose.Slides 24.5"
+description: "Upgrade your Android presentation apps with Aspose.Slides Android via Java 24.5. Work with refined shape handling & cell/table transparency. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/androidjava/new-releases/aspose.slides-for-android-via-java-24.5/"
@@ -45,7 +45,46 @@ weight: 114
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for Android via Java 24.5 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Flexible Shape Customization
+
+Aspose.Slides for Android via Java 24.5 lets you apply transparency effects to cells and tables with the newly introduced `ICellFormat.Transparency` and `ITableFormat.Transparency` properties.
+
+### Enhanced Animation Handling
+
+Work seamlessly with animations using the updated `IPresentationAnimationPlayer` and `FrameTickEventArgs` interfaces in the latest release of the PowerPoint manipulation Android library.
+
+### Transparency Control
+
+You can precisely adjust the transparency of the cell and table fills using the new `ICellFormat.Transparency` and `ITableFormat.Transparency` properties. This code example highlights how to use this functionality in your applications.
+
+
+```java
+
+Presentation presentation = new Presentation("pres.pptx");
+try {
+    ITable table = (ITable)presentation.getSlides().get_Item(0).getShapes().get_Item(0);
+    table.getTableFormat().setTransparency(0.5f);
+} finally {
+    if (presentation != null) presentation.dispose();
+}
+
+```
+*[Source\*](https://releases.aspose.com/slides/androidjava/release-notes/2024/aspose-slides-for-android-via-java-24-5-release-notes/)*
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for Android via Java 24.5 Release Notes](https://releases.aspose.com/slides/androidjava/release-notes/2024/aspose-slides-for-android-via-java-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
 

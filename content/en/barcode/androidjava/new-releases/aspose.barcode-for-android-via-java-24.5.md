@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-android-via-java-24.5"
-description: " "
+title: "Enriched Barcode Accuracy & Flexibility with Android API 24.5"
+description: "Elevate your Android barcode solutions with Aspose.BarCode Android via Java 24.5! Improve QR code detection & fine-tune Data Matrix quality. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-24.5/"
@@ -43,8 +43,45 @@ weight: 113
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/androidjava/release-notes/2024/aspose-barcode-for-android-via-java-24-5-release-notes/'>https://releases.aspose.com/barcode/androidjava/release-notes/2024/aspose-barcode-for-android-via-java-24-5-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Android via Java 24.5 has been released</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Android via Java 24.5 has been released.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Enriched Barcode Accuracy
+
+Aspose.BarCode for Android via Java 24.5 lets you benefit from enhanced Reed-Solomon error encoding for `DotCode` barcodes to ensure data integrity.
+
+### Barcode Settings Flexibility
+
+Gain finer control over barcode generation with the new `QualitySettings` structure for `DataMatrix` barcodes introduced in the latest Android barcode processing API release.
+
+### Optimized Barcode Recognition
+
+Experience more accurate barcode decoding with refinements to the barcode reader and Unicode charset detection for QR codes within your Android applications.
+
+### Removed Obsolete APIs
+
+In this version of Aspose.BarCode for Android via Java, we have streamlined the API by removing redundant constructors and methods for `Code128DataPortion`, `AustraliaPostSettings`, `BarcodeSettings`, and `QualitySetting.applyAll`.
+
+### Bug Fixes
+
+- Resolved `DotCode` generation issues.
+- Corrected wide bar width calculation for `Standard2of5` and `IATA2of5` barcodes.
+- Addressed QR code recognition failures.
+- Fixed unexpected barcode type detection behavior.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for Android via Java 24.5 Release Notes](https://releases.aspose.com/barcode/androidjava/release-notes/2024/aspose-barcode-for-android-via-java-24-5-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-android-via-java-24.2"
-description: " "
+title: "Micro QR & rMicro QR Barcode Support | Android Apps API 24.3"
+description: "Aspose.BarCode for Android via Java 24.2 delivers enhanced QR, Data Matrix, and Micro QR code handling, updated image processing & more. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-24.2/"
@@ -43,8 +43,75 @@ weight: 110
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/androidjava/release-notes/2024/aspose-barcode-for-android-via-java-24-2-release-notes/'>https://releases.aspose.com/barcode/androidjava/release-notes/2024/aspose-barcode-for-android-via-java-24-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Android via Java 24.2 has been released</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Android via Java 24.2 has been released.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Expanded Barcode Support
+
+Generate and recognize Micro QR and Rectangular Micro QR codes using Aspose.BarCode for Android via Java 24.2 and experience greater flexibility for your Android barcode applications. Check out the following code samples to learn how to generate and read RectMicroQR and MicroQR barcodes.
+
+Read and Generate RectMicroQR Barcodes.
+
+```java
+
+public void example1()
+{
+    String codetext = "Aspose";
+    BarcodeGenerator generator = new BarcodeGenerator(EncodeTypes.RECT_MICRO_QR, codetext);
+    {
+        generator.getParameters().getBarcode().getCodeTextParameters().setLocation(CodeLocation.BELOW);
+        generator.getParameters().getBarcode().getQR().setRectMicroQrVersion(R11x77);
+        BufferedImage image = generator.generateBarCodeImage();
+        BarCodeReader reader = new BarCodeReader(image, DecodeType.RECT_MICRO_QR);
+        BarCodeResult[] barCodeResults = reader.readBarCodes();
+        System.out.println("Codetext: " + reader.getFoundBarCodes()[0].getCodeText());
+    }
+}
+
+```
+*[Source\*](https://releases.aspose.com/barcode/androidjava/release-notes/2024/aspose-barcode-for-android-via-java-24-2-release-notes/)*
+
+Read and Generate MicroQR Barcodes.
+
+```java
+
+public void example2()
+{
+    String codetext = "Aspose";
+    BarcodeGenerator generator = new BarcodeGenerator(EncodeTypes.MICRO_QR, codetext);
+    {
+        generator.getParameters().getBarcode().getQR().setMicroQRVersion(M4);
+        BufferedImage image = generator.generateBarCodeImage();
+        BarCodeReader reader = new BarCodeReader(image, DecodeType.MICRO_QR);
+        BarCodeResult[] barCodeResults = reader.readBarCodes();
+        System.out.println("Codetext: " + reader.getFoundBarCodes()[0].getCodeText());
+    }
+}
+
+```
+*[Source\*](https://releases.aspose.com/barcode/androidjava/release-notes/2024/aspose-barcode-for-android-via-java-24-2-release-notes/)*
+
+### Flexible Quality Settings
+
+The newest barcode recognition and generation library version allows developers to customize barcode recognition behavior with new options for X dimension, barcode quality, deconvolution, image inversion, and complex backgrounds.
+
+### Empowered Barcode Quality
+
+Get better control over barcode generation in your solutions with new feature settings for Data Matrix and HanXin barcodes.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for Android via Java 24.2 Release Notes](https://releases.aspose.com/barcode/androidjava/release-notes/2024/aspose-barcode-for-android-via-java-24-2-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
