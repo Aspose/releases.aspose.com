@@ -12,7 +12,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "67"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.PSD/"
-tags: ['PSD-to-JPEG', 'PSD-to-JPG', 'PSD-to-PDF', 'PSD-to-PNG', 'AI-to-JPG', 'AI-to-JPEG', 'AI-to-PDF', 'AI-to-PNG']
+tags: ['.NET', 'Photoshop®', 'File-Processing', 'NuGet', 'PSD', 'PSB', 'AI', 'Image', 'Processing', 'Vector', 'Raster', 'Graphics', 'Layer-Management', 'Watermarking', 'API', 'Cross-Platform', 'Multithreading', 'Batch-Processing', 'Color-Management', 'Smart-Filters', 'Smart-Objects', 'Adjustment-Layers', 'Memory-Optimization', 'PDF', 'Export', 'TIFF', 'JPEG', 'PNG', 'BMP', 'GIF', 'JPEG2000', 'Fixed-Layout', 'Windows', 'macOS', 'Linux', 'Azure', 'AWS', 'Drawing', 'XObjectForm', 'AI-Format', 'ShapeLayer', 'RGB', 'CMYK', 'Conversion', 'PsdImage', 'Photoshop®-File', 'Graphics-Operations', 'Layer-Styles', 'Effects', 'Text-Handling', 'Vector-Path', 'Manipulation', 'Layer-Effects', 'Document-Integration', 'Metadata', 'Compatibility', 'Performance', 'Cloud', 'Cross-Platform-Deployment', 'NuGet-Package', 'Photoshop®-Compatible', 'Image-Manipulation', 'Photoshop®-Editing', 'Image-Editing', 'API-Integration', 'Software-Development', 'Application-Development', 'Graphic-Design', 'Development-Tools', 'Image-Processing-Tools', 'Photoshop®-Scripting', 'Photoshop®-Automation', 'Photoshop®-Tasks', 'Image-Automation', 'Image-Conversion', 'Photoshop®-Conversion', 'Photoshop®-Scripts', 'Software-Integration', 'Programming', 'Graphics-API']
 weight:  1
 ---
 
