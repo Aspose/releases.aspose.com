@@ -16,7 +16,7 @@ parent_path: "pdf/pythonjava"
 section_parent_path: "pdf/pythonjava"
 
 tags: ""
-release_notes_url: "https://releases.aspose.com/pdf/pythonjava/release-notes/"
+release_notes_url: "https://releases.aspose.com/pdf/java/release-notes/2023/aspose-pdf-for-java-23-10-release-notes/"
 weight: 7
 
 ---
