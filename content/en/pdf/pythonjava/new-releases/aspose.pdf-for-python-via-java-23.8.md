@@ -40,7 +40,7 @@ weight: 6
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/pythonjava/release-notes/'>https://releases.aspose.com/pdf/pythonjava/release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/java/release-notes/2023/aspose-pdf-for-java-23-8-release-notes/'>https://releases.aspose.com/pdf/java/release-notes/2023/aspose-pdf-for-java-23-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for Python via Java 23.8 has been released.</div>
