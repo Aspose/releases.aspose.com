@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.email-for-python-via-.net-24.6.0-windows-x64"
-description: " "
+title: "Extract Email Message Recipients | Python API 24.6.0 (Win64)"
+description: "Extend Python email capabilities on Windows x64! Aspose.Email for Python via .NET 24.6.0 delivers message recipient extraction & more. Download Today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/email/pythonnet/new-releases/aspose.email-for-python-via-.net-24.6.0-windows-x64/"
@@ -45,6 +45,34 @@ weight: 87
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for Python via .NET 24.6.0, Windows x64 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+This update to Aspose.Email for Python via .NET (v24.6.0) introduces valuable features for enhanced functionality and different fixes to improve development efficiency.
+
+### Extract Email Message Recipients
+
+Simplify email analysis by effortlessly retrieving message recipients from PST files using entry IDs with the latest email manipulation library release.
+
+### Recover Soft-Deleted Items
+
+Restore valuable data from PST and OST files with the ability to recover any soft-deleted items and ensure information accessibility on Windows 64-bit systems.
+
+### Convert Multi-Contact VCFs
+
+You can better organize contact management with the latest Python API version by seamlessly converting multi-contact VCF files into `MapiDistributionList` objects for simplified handling.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Email for Python via .NET 24.6.0 Release Notes](https://releases.aspose.com/email/pythonnet/release-notes/2024/aspose-email-for-python-via-net-24-6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
