@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.diagram-for-.net-24.8"
-description: " "
+title: "Load HTML & XML Files in C# Apps - Diagram API 24.8 (MSI)"
+description: "Streamline diagram creation and editing with Aspose.Diagram for .NET 24.8 (MSI). Download now for advanced HTML support and precise SVG measurements."
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/net/new-releases/aspose.diagram-for-.net-24.8/"
@@ -43,8 +43,45 @@ weight: 522
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-8-release-notes/'>https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">MSI for Aspose.Diagram for .NET 24.8</div>
+      <h4>Description</h4><div class="HTMLDescription">MSI for Aspose.Diagram for .NET 24.8 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Aspose.Diagram for .NET 24.8 (MSI installer) provides significant enhancements to empower developers to create and manipulate diagrams with precision. This release brings notable improvements in HTML support, SVG measurement accuracy, and more.
+
+### Load HTML and XML Files
+
+Effortlessly load and process HTML (and XML) files for flexible diagram creation using the latest C# Diagram processing API release. This update enables seamless integration with your .NET web-based applications. 
+
+Here is how you can load an HTML file in C#.
+
+```c#
+
+Diagram diagram = new Diagram("input.htm",LoadFileFormat.Html);
+
+```
+*[Source\*](https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-8-release-notes/)*
+
+### Precise SVG Rendering
+
+Ensure accurate rendering across different devices and platforms with version 24.8 of Aspose.Diagram for .NET. You can now achieve pixel-perfect SVG output from Visio diagrams with support for setting measurement values in inches.
+
+### Improved Connector Visibility
+
+Boost the clarity of your diagrams by making the connectors visible in Visio files, even in complex layouts.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Diagram for .NET 24.8 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

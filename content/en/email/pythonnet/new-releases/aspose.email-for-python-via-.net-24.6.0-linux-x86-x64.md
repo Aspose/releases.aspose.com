@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.email-for-python-via-.net-24.6.0-linux-x86-x64"
-description: " "
+title: "Retrieve Email Message Recipients | Python API 24.6.0 (Linux)"
+description: "Empower Python email functionality on Linux! Aspose.Email for Python via .NET 24.6.0 offers message recipient extraction in your Linux apps. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/email/pythonnet/new-releases/aspose.email-for-python-via-.net-24.6.0-linux-x86-x64/"
@@ -45,6 +45,34 @@ weight: 85
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for Python via .NET 24.6.0, Linux x86, x64 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Equip your Python applications on Linux with robust email processing capabilities using Aspose.Email for Python via .NET 24.6.0. With this release, we have delivered a range of valuable features and fixes to optimize your development workflow.
+
+### Retrieve Email Message Recipients
+
+Manage email analysis by conveniently extracting message recipients from PST files with entry IDs using the latest release of the email manipulation Python library.
+
+### Soft-Deleted Items Recovery
+
+You can now restore important data from PST and OST files with the capability to recover any soft-deleted items and ensure information accessibility on Linux systems.
+
+### Easily Convert Multi-Contact VCFs
+
+Work with fine-tuned contact management using the latest Python API version by accurately converting multi-contact VCF files into `MapiDistributionList` objects for streamlined handling.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Email for Python via .NET 24.6.0 Release Notes](https://releases.aspose.com/email/pythonnet/release-notes/2024/aspose-email-for-python-via-net-24-6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

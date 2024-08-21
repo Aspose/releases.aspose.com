@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.email-for-python-via-.net-24.6.0-macos-arm64"
-description: " "
+title: "Fetch Message Recipients: Python Email API 24.6.0 macOS M1"
+description: "Create dynamic Python email apps on MacOS ARM64/M1! Aspose.Email for Python via .NET 24.6.0 offers recipient extraction & more. Download the API now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/email/pythonnet/new-releases/aspose.email-for-python-via-.net-24.6.0-macos-arm64/"
@@ -45,6 +45,34 @@ weight: 84
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for Python via .NET 24.6.0, macOS ARM64 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Develop high-performance Python email management applications for macOS ARM64/M1 with Aspose.Email for Python via .NET 24.6.0 release.
+
+### Fetch Email Message Recipients
+
+Integrate the capability to extract message recipients into your MacOS applications using the latest Python email API release. You can fetch recipients from PST files with entry IDs and enhance your apps quickly.
+
+### Restore Soft-Deleted Items
+
+Seamlessly recover critical data from within PST and OST files owing to the ability to restore any soft-deleted items and ascertain information accessibility on macOS M1-powered systems.
+
+### Updated Multi-Contact VCF Conversion 
+
+Utilize the upgraded contact management features in the latest Python API release by precisely converting multi-contact VCF files into `MapiDistributionList` objects for simplified handling.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Email for Python via .NET 24.6.0 Release Notes](https://releases.aspose.com/email/pythonnet/release-notes/2024/aspose-email-for-python-via-net-24-6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

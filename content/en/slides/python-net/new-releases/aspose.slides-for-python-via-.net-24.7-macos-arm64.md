@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-python-via-.net-24.7-macos-arm64"
-description: " "
+title: "Updated PDF Export in macOS M1 | Aspose.Slides 24.7 Python"
+description: "Elevate your Python presentations on MacOS M1 with PDF embedding, improved security & more using Aspose.Slides Python via .NET 24.7. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-24.7-macos-arm64/"
@@ -43,8 +43,90 @@ weight: 109
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-7-release-notes/'>https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Presentation Manipulation Python API</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Slides for Python via .NET 24.7 (macOS ARM64/M1) release. </div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Good news for Mac developers! Aspose.Slides for Python via .NET 24.7 is released and it lets you generate high-quality presentations on MacOS ARM64/M1. Take control of your presentations and add new features and enhancements to PowerPoint presentations in your Python applications.
+
+### PDF Export with Embedded Files on MacOS
+
+Embed additional files into your PDF documents during export using this version of the presentation manipulation Python API. Here is how to use this feature in Python.
+
+```python
+
+import aspose.slides as slides
+
+with slides.Presentation("pres.pptx") as pres:
+    options = slides.export.PdfOptions()
+    options.include_ole_data = True
+    pres.save("pres.pdf", slides.export.SaveFormat.PDF, options)
+
+```
+*[Source\*](https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-7-release-notes/)*
+
+### Boosted Security
+
+Purse your presentations of any potential security issues by eliminating VBA projects, OLE objects, or ActiveX controls from them on macOS M1-powered machines, as illustrated in this code example.
+
+```python
+
+import aspose.slides as slides
+
+load_options = slides.LoadOptions()
+load_options.delete_embedded_binary_objects = True
+
+with slides.Presentation("malware.ppt", loadOptions) as pres:
+   pres.save("clean.ppt", slides.export.SaveFormat.PPT)
+
+```
+*[Source\*](https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-7-release-notes/)*
+
+
+### Password-protect Your PowerPoint Presentations
+
+Manage the password-protected presentations easily using Aspose.Slides for Python via .NET 24.7 and ascertain secure access. 
+
+### Learn to Add Placeholders to Layout Slides
+
+Effortlessly add placeholder shapes to the layout slides within your Python applications. Use charts, content, text, pictures, tables, and more as placeholders for your layout slides, as demonstrated in the following code example.
+
+```python
+
+import aspose.slides as slides
+
+with slides.Presentation() as pres:
+    # Getting the Blank layout slide
+    layout = pres.layout_slides.get_by_type(slides.SlideLayoutType.BLANK)
+
+    # Getting the placeholder manager of the layout slide
+    placeholder_manager = layout.placeholder_manager
+
+    # Adding different placeholders to the Blank layout slide
+    placeholder_manager.add_content_placeholder(10, 10, 300, 200)
+    placeholder_manager.add_vertical_text_placeholder(350, 10, 200, 300)
+    placeholder_manager.add_chart_placeholder(10, 350, 300, 300)
+    placeholder_manager.add_table_placeholder(350, 350, 300, 200)
+
+    # Adding the new slide with Blank layout
+    new_slide = pres.slides.add_empty_slide(layout)
+    pres.save("placeholders.pptx", slides.export.SaveFormat.PPTX)
+
+```
+*[Source\*](https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-7-release-notes/)*
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for Python via .NET 24.7 Release Notes](https://releases.aspose.com/slides/python-net/release-notes/2024/aspose-slides-for-python-net-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
