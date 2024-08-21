@@ -1,6 +1,6 @@
 ---
-title: "Unduh File PSD & PSB Ceation .NET DLL | Aspose.PSD API"
-description: "Unduh DLL yang berisi pustaka kelas C# untuk membaca, menulis, mengedit & mengonversi grafik vektor Adobe Photoshop® (PSD, PSB) & Adobe Illustrator® (AI) melalui .NET API."
+title: "Unduh DLL Pembuatan File PSD & PSB .NET | Aspose.PSD API"
+description: "Unduh DLL yang berisi pustaka kelas C# untuk membaca, menulis, mengedit & mengonversi grafik vektor Adobe Photoshop® (PSD, PSB) & Adobe Illustrator® (AI) melalui API .NET."
 keywords: "PSD .NET Library"
 family_listing_page_title: "Aspose.PSD untuk .NET"
 family_listing_page_description: "Aspose.PSD untuk .NET menyediakan kemampuan manipulasi ekstensif untuk format file PSD & PSB tanpa memerlukan Adobe Photoshop. Aspose.PSD untuk .NET memungkinkan untuk membuat dan mengedit file Photoshop serta menyediakan kemampuan untuk memperbarui properti lapisan, menambahkan tanda air, melakukan operasi grafik atau mengonversi satu format file ke format file lainnya."
@@ -30,48 +30,97 @@ Membuka
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
 
-![Nuget](https://img.shields.io/nuget/v/Aspose.PSD) ![Nuget](https://img.shields.io/nuget/dt/Aspose.PSD?label=nuget%20downloads)
+## .NET API untuk Pemrosesan File Photoshop&reg;
 
-[Product Page](https://products.aspose.com/psd/net/) | [Docs](https://docs.aspose.com/psd/net/) | [Demos](https://products.aspose.app/psd/family) | [API Reference](https://reference.aspose.com/psd/net/) | [Examples](https://github.com/aspose-psd/Aspose.PSD-for-.NET) | [Blog](https://blog.aspose.com/category/psd/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/psd) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+API .NET mandiri untuk membaca, menulis, memproses, dan mengonversi format Adobe Photoshop&reg; PSD & PSB tanpa memerlukan instalasi Adobe Photoshop&reg;. Aspose.PSD untuk API .NET memungkinkan Anda membuat dan mengedit file Photoshop&reg; serta memberikan kemampuan untuk memperbarui properti layer, menambahkan watermark, melakukan operasi grafis, dan mengonversi file antar berbagai format.
 
-API .NET mandiri untuk membaca, menulis, memproses & mengonversi format Adobe Photoshop® PSD & PSB tanpa perlu menginstal Adobe Photoshop®.
+## Mengapa Memilih Aspose.PSD untuk .NET?
 
-## Mengapa mengunduh Aspose.PSD untuk .NET?
+- **Tidak Memerlukan Adobe Photoshop®:** Aspose.PSD untuk .NET beroperasi secara independen dari Adobe Photoshop&reg;, memungkinkan Anda bekerja dengan file PSD dan PSB langsung dalam aplikasi .NET Anda.
+- **Performa Tinggi:** Dirancang untuk kecepatan dan efisiensi, API memproses file PSD besar dengan cepat, bahkan dengan layer dan efek yang kompleks.
+- **Kompatibilitas Lintas Platform:** Mendukung .NET Framework, .NET Core, dan Mono, sehingga cocok untuk lingkungan Windows, macOS, dan Linux.
+- **Dukungan Format yang Komprehensif:** Membaca, menulis, dan mengonversi format Photoshop&reg; dan Illustrator&reg; dengan mulus.
+- **Integrasi Mudah:** Integrasi langsung ke dalam aplikasi .NET Anda yang ada dengan dokumentasi dan dukungan yang komprehensif.
 
-Aspose.PSD untuk .NET API memungkinkan Anda membuat dan mengedit file Photoshop® serta menyediakan kemampuan untuk memperbarui properti lapisan, menambahkan tanda air, melakukan operasi grafik, dan mengonversi satu format file ke format file lainnya.
+## Fitur Pemrosesan File Photoshop&reg;
 
-## Fitur Pemrosesan File Photoshop®
+- **Buat & Edit File Photoshop&reg;:** Hasilkan file PSD dan PSB baru, atau edit yang sudah ada secara programatis.
+- **Manajemen Layer Lanjutan:** Perbarui properti layer, terapkan mode pencampuran, tambahkan masker, dan kelola Objek Pintar.
+- **Terapkan Filter & Efek:** Terapkan filter Median dan Wiener, atur keseimbangan warna, balikkan layer penyesuaian, dan lainnya.
+- **Dukungan Grafis Raster & Vektor:** Gambar bentuk dasar, kelola jalur vektor, dan terapkan transformasi.
+- **Penanganan Data XMP:** Buat, baca, dan tulis metadata XMP dalam file PSD.
+- **Operasi Gambar yang Komprehensif:** Ubah ukuran, potong, putar, dan sesuaikan gambar dengan presisi.
+- **Ekspor ke Berbagai Format:** Simpan pekerjaan Anda dalam berbagai format raster dan vektor, termasuk TIFF, JPEG, PNG, GIF, BMP, JPEG2000, dan PDF.
+- **Pemrosesan Batch:** Memproses beberapa file secara efisien dalam satu operasi batch.
+- **Optimasi Memori:** Tangani file besar dengan penggunaan memori yang dioptimalkan, memastikan aplikasi Anda tetap responsif bahkan dengan PSD yang kompleks.
+- **Manajemen Filter Pintar:** Terapkan dan kelola Filter Pintar yang tidak merusak, mempertahankan integritas data gambar asli.
+- **Manajemen Warna:** Sesuaikan kecerahan, kontras, gamma, dan terapkan berbagai teknik koreksi warna.
+- **Penanganan Teks:** Bekerja dengan layer teks, termasuk manajemen font dan efek teks.
+- **Watermarking:** Tambahkan watermark dengan mudah pada gambar untuk perlindungan hak cipta.
 
-- Buat file Photoshop® PSD & PSB melalui API.
-- Ekspor gambar PSD ke format gambar populer.
-- Binarisasi dengan ambang batas tetap & Otsu.
-- Konversikan lapisan gambar GIF ke TIFF & CMYK PSD ke CMYK TIFF.
-- Menggabungkan, memperluas, atau memotong gambar.
-- Membuat, membaca, dan menulis data XMP.
-- Atur font default sebagai pengganti semua font yang hilang.
-- Terapkan filter Median & Wiener untuk mengurangi noise gambar.
-- Ubah gambar menjadi hitam-putih atau skala abu-abu.
-- Pangkas gambar dengan shift atau persegi panjang.
-- Putar gambar pada sudut tertentu
-- Lakukan pengubahan ukuran gambar sederhana, atau dengan proporsi gambar.
-- Dukungan untuk dithering gambar raster.
-- Sesuaikan kecerahan gambar, kontras, dan gamma.
-- Menerapkan Kompresi GIF Rugi & Pengambilan Sampel Ulang Bicubic.
-- Color Balance atau invert Adjustment Layer.
-- Menggambar objek dasar seperti garis, Ellipse, Rectangle, Arc, Bezier.
+## Performa dan Manajemen Memori
 
-### Membaca & Menulis Format Photoshop®
+- **Dioptimalkan untuk File Besar:** Aspose.PSD untuk .NET dirancang untuk menangani file PSD dan PSB besar secara efisien, memastikan pemrosesan cepat bahkan dengan layer dan efek yang kompleks.
+- **Jejak Memori Rendah:** API ini dirancang untuk menggunakan memori secara efisien, meminimalkan konsumsi sumber daya selama tugas pemrosesan gambar yang intensif.
+- **Dukungan Multithreading:** Manfaatkan multithreading untuk memparalelkan tugas dan meningkatkan kecepatan pemrosesan di lingkungan multi-core.
+- **Pemrosesan Batch:** Memproses beberapa file secara bersamaan dengan kemampuan pemrosesan batch, mengurangi waktu pemrosesan secara keseluruhan.
 
-**Adobe Photoshop®:** PSD, PSB
+## Kemampuan Lanjutan
 
-### Simpan File Photoshop® Sebagai
+- **Dukungan Objek & Filter Pintar:** Kelola Objek Pintar dan terapkan Filter Pintar secara programatis, mempertahankan data gambar asli sambil bereksperimen dengan efek.
+- **Layer Penyesuaian:** Manfaatkan layer penyesuaian untuk membuat pengeditan non-destruktif, seperti penyesuaian kecerahan/kontras, perubahan warna/hue, dan koreksi keseimbangan warna.
+- **Manipulasi Jalur Vektor:** Buat dan modifikasi jalur vektor, memungkinkan kontrol presisi atas bentuk dan garis besar dalam file PSD Anda.
+- **Gaya & Efek Layer:** Terapkan gaya layer seperti bayangan, bevel, dan emboss untuk meningkatkan tampilan layer.
+- **Manipulasi Layer Teks:** Edit layer teks, termasuk font, ukuran, warna, dan efek, untuk membuat elemen teks dinamis dalam gambar Anda.
 
-**Format Raster:** TIFF, JPEG, PNG, GIF, BMP, JPEG2000\
-**Tata Letak Tetap:** PDF
+## Baca & Tulis Format Photoshop&reg;
 
-### Baca Format
+**Adobe Photoshop&reg;:** PSD, PSB
 
-**Adobe Illustrator®:** AI
+## Simpan File Photoshop&reg; Sebagai
+
+**Format Raster:** TIFF, JPEG, PNG, GIF, BMP, JPEG2000  
+**Layout Tetap:** PDF
+
+## Format Baca
+
+**Adobe Illustrator&reg;:** AI
+
+## Independensi Platform
+
+Aspose.PSD untuk .NET dapat bekerja di lingkungan apa pun yang mendukung .NET framework 2.0 atau di atasnya. Ini kompatibel dengan .NET Core, .NET Framework, dan Mono, menjadikannya solusi serbaguna untuk aplikasi yang berjalan di Windows, macOS, dan Linux. API ini juga didukung di lingkungan cloud seperti Azure dan AWS, memberikan fleksibilitas dalam penerapan.
+
+## Memulai
+
+Apakah Anda siap mencoba Aspose.PSD untuk .NET? Cukup jalankan `Install-Package Aspose.PSD` dari Konsol Manajer Paket di Visual Studio untuk mengambil paket NuGet. Jika Anda sudah memiliki Aspose.PSD untuk .NET dan ingin memperbarui versinya, silakan jalankan `Update-Package Aspose.PSD` untuk mendapatkan versi terbaru.
+
+## Memotong PSD Photoshop&reg; untuk Menyimpan Hasil dalam format PNG
+
+Anda dapat menjalankan cuplikan kode di bawah ini untuk melihat bagaimana API Aspose.PSD bekerja di lingkungan pengembangan Anda sendiri atau memeriksa [Repositori GitHub](https://github.com/aspose) untuk skenario penggunaan umum lainnya.
+
+```csharp
+// Implementasikan metode Pemotongan yang benar untuk file PSD.
+using (RasterImage image = Image.Load(dir + "template.psd") as RasterImage)
+{
+    image.Crop(new Rectangle(10, 30, 100, 100));
+    image.Save(dir + "output.png", new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
+}
+```
+
+## Menggambar Persegi Panjang di Gambar PSD
+
+```csharp
+// Buat instance Image
+using (Image image = new PsdImage(100, 100))
+{
+    Graphics graphic = new Graphics(image);
+    graphic.Clear(Color.Yellow);
+    // Gambar persegi panjang dengan alat Pen
+    graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
+    // Gambar persegi panjang lain dengan Solid Brush berwarna biru
+    graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
+}
+```
 
 {{< Common/hr >}}
 

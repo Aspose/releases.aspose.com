@@ -1,11 +1,9 @@
 ---
-title: "PSD- und PSB-Dateien herunterladen Ceation .NET DLL | Aspose.PSD-API"
-description: "Laden Sie eine DLL herunter, die eine C#-Klassenbibliothek enthält, um Vektorgrafiken aus Adobe Photoshop® (PSD, PSB) und Adobe Illustrator® (AI) über die .NET-API zu lesen, zu schreiben, zu bearbeiten und zu konvertieren."
+title: "PSD & PSB-Dateien Erstellen .NET DLL herunterladen | Aspose.PSD API"
+description: "Laden Sie eine DLL herunter, die eine C#-Klassensammlung enthält, um Adobe Photoshop® (PSD, PSB) & Adobe Illustrator® (AI) Vektorgrafiken über die .NET API zu lesen, zu schreiben, zu bearbeiten und zu konvertieren."
 keywords: "PSD .NET Library"
 family_listing_page_title: "Aspose.PSD für .NET"
-family_listing_page_description: "Aspose.PSD for .NET provides extensive manipulation capabilities for PSD & PSB file formats without requiring Adobe Photoshop.
-
-Aspose.PSD für .NET ermöglicht das Erstellen und Bearbeiten von Photoshop-Dateien sowie das Aktualisieren von Ebeneneigenschaften, das Hinzufügen von Wasserzeichen, das Ausführen von Grafikoperationen oder das Konvertieren eines Dateiformats in ein anderes."
+family_listing_page_description: "Aspose.PSD für .NET ermöglicht das Erstellen und Bearbeiten von Photoshop-Dateien sowie das Aktualisieren von Ebeneneigenschaften, das Hinzufügen von Wasserzeichen, das Ausführen von Grafikoperationen oder das Konvertieren eines Dateiformats in ein anderes."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/272x272/aspose_psd-for-net.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
@@ -129,6 +127,7 @@ using (Image image = new PsdImage(100, 100))
     graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 }
 ```
+
 [![Product Page](https://img.shields.io/badge/Product%20Page-00599C?style=for-the-badge)](https://products.aspose.com/psd/net/) [![DOCS](https://img.shields.io/badge/Docs-00599C?style=for-the-badge)](https://docs.aspose.com/psd/net/) [![Demos](https://img.shields.io/badge/Demos-00599C?style=for-the-badge)](https://products.aspose.app/psd/family/) [![API Ref](https://img.shields.io/badge/API%20Ref-00599C?style=for-the-badge)](https://reference.aspose.com/psd/net/) [![Examples](https://img.shields.io/badge/Examples-00599C?style=for-the-badge)](https://github.com/aspose-psd/Aspose.PSD-for-.NET) [![Blog](https://img.shields.io/badge/Blog-00599C?style=for-the-badge)](https://blog.aspose.com/category/psd/) [![Releases](https://img.shields.io/badge/Releases-00599C?style=for-the-badge)](https://releases.aspose.com/psd/net/) [![Support](https://img.shields.io/badge/Support-00599C?style=for-the-badge)](https://forum.aspose.com/c/psd) [![Temp License](https://img.shields.io/badge/Temp%20License-00599C?style=for-the-badge)](https://purchase.aspose.com/temporary-license/)
 
 {{< Common/hr >}}
@@ -145,4 +144,3 @@ using (Image image = new PsdImage(100, 100))
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

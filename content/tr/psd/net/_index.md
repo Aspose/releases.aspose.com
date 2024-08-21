@@ -1,6 +1,6 @@
 ---
-title: "PSD ve PSB Dosyalarını İndirin Ceation .NET DLL | Aspose.PSD API'si"
-description: "Adobe Photoshop® (PSD, PSB) ve Adobe Illustrator® (AI) vektör grafiklerini .NET API aracılığıyla okumak, yazmak, düzenlemek ve dönüştürmek için C# sınıf kitaplığını içeren DLL dosyasını indirin."
+title: "PSD ve PSB Dosya Oluşturma için .NET DLL İndir | Aspose.PSD API"
+description: "Adobe Photoshop® (PSD, PSB) ve Adobe Illustrator® (AI) vektör grafiklerini .NET API ile okumak, yazmak, düzenlemek ve dönüştürmek için C# sınıf kütüphanesi içeren DLL'yi indirin."
 keywords: "PSD .NET Library"
 family_listing_page_title: ".NET için Aspose.PSD"
 family_listing_page_description: "Aspose.PSD for .NET, Adobe Photoshop gerektirmeden PSD ve PSB dosya formatları için kapsamlı manipülasyon yetenekleri sağlar. Aspose.PSD for .NET, Photoshop dosyalarını oluşturma ve düzenlemenin yanı sıra katman özelliklerini güncelleme, filigran ekleme, grafik işlemleri gerçekleştirme veya bir dosya biçimini diğerine dönüştürme yeteneği sağlar."
@@ -30,46 +30,97 @@ Açık
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
 
-[Product Page](https://products.aspose.com/pdf/cpp/) | [Docs](https://docs.aspose.com/pdf/cpp/) | [Demos](https://products.aspose.app/pdf/family) | [API Reference](https://reference.aspose.com/pdf/cpp) | [Examples](https://github.com/aspose-pdf/Aspose.Pdf-for-C) | [Blog](https://blog.aspose.com/category/pdf/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pdf) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+## Photoshop&reg; Dosya İşleme için .NET API'si
 
-Adobe Photoshop®'u yüklemeye gerek kalmadan Adobe Photoshop® PSD ve PSB formatlarını okumak, yazmak, işlemek ve dönüştürmek için bağımsız bir .NET API.
+Adobe Photoshop&reg; PSD ve PSB formatlarını Adobe Photoshop&reg; kurulumuna ihtiyaç duymadan okumak, yazmak, işlemek ve dönüştürmek için bağımsız bir .NET API'si. Aspose.PSD for .NET API'si, Photoshop&reg; dosyaları oluşturmanıza ve düzenlemenize olanak tanır ve katman özelliklerini güncelleme, filigran ekleme, grafik işlemleri gerçekleştirme ve dosyaları farklı formatlar arasında dönüştürme imkanı sağlar.
 
-## Neden .NET için Aspose.PSD'yi indirmelisiniz?
+## Neden Aspose.PSD for .NET'i Seçmelisiniz?
 
-Aspose.PSD for .NET API, Photoshop® dosyaları oluşturmanıza ve düzenlemenize olanak tanır ve ayrıca katman özelliklerini güncelleme, filigran ekleme, grafik işlemleri gerçekleştirme ve bir dosya biçimini diğerine dönüştürme yeteneği sağlar.
+- **Adobe Photoshop® Gerekmez:** Aspose.PSD for .NET, Adobe Photoshop&reg;'dan bağımsız olarak çalışır, böylece PSD ve PSB dosyalarıyla .NET uygulamalarınızda doğrudan çalışabilirsiniz.
+- **Yüksek Performans:** Hız ve verimlilik için tasarlanmış olan API, karmaşık katmanlar ve efektlerle bile büyük PSD dosyalarını hızlı bir şekilde işler.
+- **Çapraz Platform Uyumluluğu:** .NET Framework, .NET Core ve Mono'yu destekler, bu da onu Windows, macOS ve Linux ortamları için uygun hale getirir.
+- **Kapsamlı Format Desteği:** Photoshop&reg; ve Illustrator&reg; formatlarını sorunsuz bir şekilde okuyun, yazın ve dönüştürün.
+- **Kolay Entegrasyon:** Mevcut .NET uygulamalarınıza doğrudan entegrasyon ve kapsamlı dokümantasyon ve destek ile.
 
-## Photoshop® Dosya İşleme Özellikleri
+## Photoshop&reg; Dosya İşleme Özellikleri
 
-- API aracılığıyla Photoshop® PSD ve PSB dosyaları oluşturun.
-- PSD görüntülerini popüler görüntü formatlarına aktarın.
-- Sabit ve Otsu eşiği ile Binarizasyon.
-- GIF görüntü katmanlarını TIFF ve CMYK PSD'den CMYK TIFF'e dönüştürün.
-- Görüntüleri birleştirin, genişletin veya kırpın.
-- XMP verilerini oluşturun, okuyun ve yazın.
-- Tüm eksik yazı tiplerinin yerine varsayılan yazı tipini ayarlayın.
-- Görüntü parazitini azaltmak için Medyan ve Wiener filtrelerini uygulayın.
-- Görüntüleri siyah-beyaz veya gri tonlamaya dönüştürün.
-- Görüntüleri vardiya veya dikdörtgen ile kırpın.
-- Bir görüntüyü belirli bir açıyla döndürün
-- Basit görüntü yeniden boyutlandırma veya görüntü oranlarına göre gerçekleştirin.
-- Raster görüntülerin renk taklidi için destek.
-- Görüntü parlaklığını, kontrastı ve gamayı ayarlayın.
-- Kayıplı GIF Sıkıştırma ve Bikübik Yeniden Örnekleme uygulayın.
-- Renk Dengesi veya Ayar Katmanını ters çevirin.
-- Çizgiler, Elips, Dikdörtgen, Yay, Bezier gibi temel nesneleri çizin.
+- **Photoshop&reg; Dosyaları Oluşturun ve Düzenleyin:** Yeni PSD ve PSB dosyaları oluşturun veya mevcut olanları programlı olarak düzenleyin.
+- **Gelişmiş Katman Yönetimi:** Katman özelliklerini güncelleyin, karışım modları uygulayın, maskeler ekleyin ve Akıllı Nesneleri yönetin.
+- **Filtreler ve Efektler Uygulayın:** Median ve Wiener filtrelerini uygulayın, renk dengesi ayarlayın, ayar katmanlarını ters çevirin ve daha fazlasını yapın.
+- **Raster ve Vektör Grafik Desteği:** Temel şekiller çizin, vektör yollarını yönetin ve dönüşümler uygulayın.
+- **XMP Veri İşleme:** PSD dosyalarındaki XMP meta verilerini oluşturun, okuyun ve yazın.
+- **Kapsamlı Görüntü İşlemleri:** Görüntüleri hassas bir şekilde yeniden boyutlandırın, kırpın, döndürün ve ayarlayın.
+- **Çeşitli Formatlara Dışa Aktarın:** Çalışmanızı TIFF, JPEG, PNG, GIF, BMP, JPEG2000 ve PDF dahil olmak üzere birçok raster ve vektör formatında kaydedin.
+- **Toplu İşleme:** Birden fazla dosyayı tek bir toplu işlemde verimli bir şekilde işleyin.
+- **Bellek Optimizasyonu:** Bellek kullanımını optimize ederek büyük dosyaları yönetin ve karmaşık PSD'lerle bile uygulamalarınızın duyarlı kalmasını sağlayın.
+- **Akıllı Filtre Yönetimi:** Orijinal görüntü verilerinin bütünlüğünü koruyarak yıkıcı olmayan Akıllı Filtreler uygulayın ve yönetin.
+- **Renk Yönetimi:** Parlaklığı, kontrastı, gama ayarlarını yapın ve çeşitli renk düzeltme tekniklerini uygulayın.
+- **Metin İşleme:** Yazı tipi yönetimi ve metin efektleri dahil olmak üzere metin katmanlarıyla çalışın.
+- **Filigran Ekleme:** Telif hakkı koruması için görüntülere kolayca filigran ekleyin.
 
-### Photoshop® Formatlarını Okuyun ve Yazın
+## Performans ve Bellek Yönetimi
 
-**Adobe Photoshop®:** PSD, PSB
+- **Büyük Dosyalar için Optimizasyon:** Aspose.PSD for .NET, karmaşık katmanlar ve efektlerle bile büyük PSD ve PSB dosyalarını verimli bir şekilde işlemek üzere tasarlanmıştır ve hızlı işleme sağlar.
+- **Düşük Bellek Tüketimi:** API, belleği verimli kullanmak üzere tasarlanmıştır, yoğun görüntü işleme görevleri sırasında kaynak tüketimini en aza indirir.
+- **Çoklu İşlem Desteği:** Görevleri paralel hale getirmek ve çok çekirdekli ortamlarda işlem hızlarını artırmak için çoklu işlem desteğinden yararlanın.
+- **Toplu İşleme:** Toplu işlem yetenekleri ile birden fazla dosyayı aynı anda işleyin ve genel işlem süresini azaltın.
 
-### Photoshop® Dosyalarını Farklı Kaydet
+## Gelişmiş Yetenekler
 
-**Raster Formatları:** TIFF, JPEG, PNG, GIF, BMP, JPEG2000\
+- **Akıllı Nesne ve Filtre Desteği:** Akıllı Nesneleri yönetin ve Akıllı Filtreleri programlı olarak uygulayın, efektlerle denemeler yaparken orijinal görüntü verilerini koruyun.
+- **Ayar Katmanları:** Ayar katmanlarını kullanarak parlaklık/kontrast ayarlamaları, renk tonu/doygunluk değişiklikleri ve renk dengesi düzeltmeleri gibi yıkıcı olmayan düzenlemeler yapın.
+- **Vektör Yolu Manipülasyonu:** PSD dosyalarınızda şekiller ve konturlar üzerinde hassas kontrol sağlamak için vektör yolları oluşturun ve değiştirin.
+- **Katman Stilleri ve Efektleri:** Katmanların görünümünü geliştirmek için gölge, kabartma ve gölge gibi katman stillerini uygulayın.
+- **Metin Katmanı İşleme:** Görüntülerinizde dinamik metin öğeleri oluşturmak için yazı tipi, boyut, renk ve efektler dahil olmak üzere metin katmanlarını düzenleyin.
+
+## Photoshop&reg; Formatlarını Okuma ve Yazma
+
+**Adobe Photoshop&reg;:** PSD, PSB
+
+## Photoshop&reg; Dosyalarını Kaydetme
+
+**Raster Formatlar:** TIFF, JPEG, PNG, GIF, BMP, JPEG2000  
 **Sabit Düzen:** PDF
 
-### Formatları Oku
+## Okuma Formatları
 
-**Adobe Illustrator®:** Yapay Zeka
+**Adobe Illustrator&reg;:** AI
+
+## Platform Bağımsızlığı
+
+Aspose.PSD for .NET, .NET framework 2.0 veya üzerini destekleyen herhangi bir ortamda çalışabilir. .NET Core, .NET Framework ve Mono ile uyumludur ve Windows, macOS ve Linux'ta çalışan uygulamalar için çok yönlü bir çözüm sunar. API ayrıca Azure ve AWS gibi bulut ortamlarında da desteklenmektedir, bu da dağıtımda esneklik sağlar.
+
+## Başlarken
+
+Aspose.PSD for .NET'i denemeye hazır mısınız? Visual Studio'daki Paket Yöneticisi Konsolundan `Install-Package Aspose.PSD` komutunu çalıştırarak NuGet paketini almanız yeterlidir. Zaten Aspose.PSD for .NET'e sahipseniz ve sürümünü güncellemek istiyorsanız, en son sürümü almak için `Update-Package Aspose.PSD` komutunu çalıştırın.
+
+## Photoshop&reg; PSD'yi Kırpma ve Sonucu PNG Formatında Kaydetme
+
+Aşağıdaki kod parçasını çalıştırarak Aspose.PSD API'nin kendi geliştirme ortamınızda nasıl çalıştığını görebilir veya diğer yaygın kullanım senaryoları için [GitHub Deposu](https://github.com/aspose)'na göz atabilirsiniz.
+
+```csharp
+// PSD dosyaları için doğru Kırpma yöntemini uygulayın.
+using (RasterImage image = Image.Load(dir + "template.psd") as RasterImage)
+{
+    image.Crop(new Rectangle(10, 30, 100, 100));
+    image.Save(dir + "output.png", new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
+}
+```
+
+## PSD Görüntüsünde Dikdörtgenler Çizme
+
+```csharp
+// Image örneği oluşturun
+using (Image image = new PsdImage(100, 100))
+{
+    Graphics graphic = new Graphics(image);
+    graphic.Clear(Color.Yellow);
+    // Kalem aracıyla bir dikdörtgen çizin
+    graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
+    // Mavi renkte bir Solid Brush ile başka bir dikdörtgen çizin
+    graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
+}
+```
 
 {{< Common/hr >}}
 

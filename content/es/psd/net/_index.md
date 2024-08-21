@@ -1,6 +1,6 @@
 ---
-title: "Descargar archivos PSD y PSB Ceation .NET DLL | API Aspose.PSD"
-description: "Descargue DLL que contiene la biblioteca de clases C# para leer, escribir, editar y convertir gráficos vectoriales de Adobe Photoshop® (PSD, PSB) y Adobe Illustrator® (AI) a través de la API de .NET."
+title: "Descargar DLL para la creación de archivos PSD y PSB .NET | Aspose.PSD API"
+description: "Descargue una DLL que contiene una biblioteca de clases en C# para leer, escribir, editar y convertir gráficos vectoriales de Adobe Photoshop® (PSD, PSB) y Adobe Illustrator® (AI) a través de la API .NET."
 keywords: "PSD .NET Library"
 family_listing_page_title: "Aspose.PSD para .NET"
 family_listing_page_description: "Aspose.PSD para .NET proporciona amplias capacidades de manipulación para formatos de archivo PSD y PSB sin necesidad de Adobe Photoshop. Aspose.PSD para .NET permite crear y editar los archivos de Photoshop y brinda la posibilidad de actualizar las propiedades de las capas, agregar marcas de agua, realizar operaciones gráficas o convertir un formato de archivo a otro."
@@ -30,46 +30,97 @@ Abierto
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
 
-[Product Page](https://products.aspose.com/pdf/cpp/) | [Docs](https://docs.aspose.com/pdf/cpp/) | [Demos](https://products.aspose.app/pdf/family) | [API Reference](https://reference.aspose.com/pdf/cpp) | [Examples](https://github.com/aspose-pdf/Aspose.Pdf-for-C) | [Blog](https://blog.aspose.com/category/pdf/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pdf) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+## API .NET para el procesamiento de archivos de Photoshop&reg;
 
-Una API .NET independiente para leer, escribir, procesar y convertir formatos PSD y PSB de Adobe Photoshop® sin necesidad de instalar Adobe Photoshop®.
+Una API .NET autónoma para leer, escribir, procesar y convertir los formatos Adobe Photoshop&reg; PSD y PSB sin necesidad de instalar Adobe Photoshop&reg;. La API Aspose.PSD para .NET permite crear y editar archivos de Photoshop&reg; y ofrece la posibilidad de actualizar propiedades de capas, añadir marcas de agua, realizar operaciones gráficas y convertir archivos entre varios formatos.
 
-## ¿Por qué descargar Aspose.PSD para .NET?
+## ¿Por qué elegir Aspose.PSD para .NET?
 
-Aspose.PSD para .NET API le permite crear y editar los archivos de Photoshop®, así como también brinda la capacidad de actualizar las propiedades de las capas, agregar marcas de agua, realizar operaciones gráficas y convertir un formato de archivo a otro.
+- **No es necesario Adobe Photoshop®:** Aspose.PSD para .NET funciona de manera independiente de Adobe Photoshop&reg;, lo que le permite trabajar con archivos PSD y PSB directamente dentro de sus aplicaciones .NET.
+- **Alto rendimiento:** Diseñada para velocidad y eficiencia, la API procesa rápidamente archivos PSD grandes, incluso con capas y efectos complejos.
+- **Compatibilidad multiplataforma:** Compatible con .NET Framework, .NET Core y Mono, lo que la hace adecuada para entornos Windows, macOS y Linux.
+- **Soporte completo de formatos:** Lea, escriba y convierta formatos de Photoshop&reg; e Illustrator&reg; sin problemas.
+- **Fácil integración:** Integración sencilla en sus aplicaciones .NET existentes con documentación y soporte completos.
 
-## Funciones de procesamiento de archivos de Photoshop®
+## Funciones de procesamiento de archivos de Photoshop&reg;
 
-- Cree archivos PSD y PSB de Photoshop® a través de API.
-- Exportar imágenes PSD a formatos de imagen populares.
-- Binarización con umbral fijo y Otsu.
-- Convierta capas de imágenes GIF a TIFF y CMYK PSD a CMYK TIFF.
-- Combinar, ampliar o recortar imágenes.
-- Crear, leer y escribir datos XMP.
-- Establezca la fuente predeterminada como reemplazo de todas las fuentes que faltan.
-- Aplique filtros Median & Wiener para reducir el ruido de la imagen.
-- Transforme imágenes a blanco y negro o escala de grises.
-- Recortar imágenes por turnos o rectángulo.
-- Girar una imagen en un ángulo específico
-- Realice un cambio de tamaño de imagen simple o por proporciones de imagen.
-- Soporte para tramado de imágenes rasterizadas.
-- Ajuste el brillo, el contraste y la gamma de la imagen.
-- Implementar compresión GIF con pérdida y remuestreo bicúbico.
-- Equilibrio de color o capa de ajuste invertida.
-- Dibujar objetos básicos como líneas, elipse, rectángulo, arco, Bézier.
+- **Crear y editar archivos de Photoshop&reg;:** Genere nuevos archivos PSD y PSB, o edite los existentes de forma programática.
+- **Gestión avanzada de capas:** Actualice propiedades de capas, aplique modos de mezcla, añada máscaras y gestione objetos inteligentes.
+- **Aplicar filtros y efectos:** Implemente filtros Median y Wiener, aplique equilibrio de color, invierta capas de ajuste y mucho más.
+- **Soporte de gráficos raster y vectoriales:** Dibuje formas básicas, gestione rutas vectoriales y aplique transformaciones.
+- **Gestión de datos XMP:** Cree, lea y escriba metadatos XMP en archivos PSD.
+- **Operaciones completas de imágenes:** Cambie el tamaño, recorte, gire y ajuste imágenes con precisión.
+- **Exportar a varios formatos:** Guarde su trabajo en múltiples formatos raster y vectoriales, incluidos TIFF, JPEG, PNG, GIF, BMP, JPEG2000 y PDF.
+- **Procesamiento por lotes:** Procese eficientemente varios archivos en una sola operación por lotes.
+- **Optimización de la memoria:** Maneje archivos grandes con un uso de memoria optimizado, asegurando que sus aplicaciones permanezcan receptivas incluso con archivos PSD complejos.
+- **Gestión de filtros inteligentes:** Aplique y gestione filtros inteligentes no destructivos, manteniendo la integridad de los datos de la imagen original.
+- **Gestión de color:** Ajuste brillo, contraste, gamma y aplique diversas técnicas de corrección de color.
+- **Gestión de texto:** Trabaje con capas de texto, incluida la gestión de fuentes y los efectos de texto.
+- **Añadir marcas de agua:** Añada fácilmente marcas de agua a las imágenes para la protección de derechos de autor.
 
-### Leer y escribir formatos de Photoshop®
+## Rendimiento y gestión de memoria
 
-**Adobe Photoshop®:** PSD, PSB
+- **Optimizado para archivos grandes:** Aspose.PSD para .NET está diseñado para manejar eficientemente archivos PSD y PSB grandes, asegurando un procesamiento rápido incluso con capas y efectos complejos.
+- **Bajo consumo de memoria:** La API está diseñada para utilizar la memoria de manera eficiente, minimizando el consumo de recursos durante tareas intensivas de procesamiento de imágenes.
+- **Soporte de multithreading:** Aproveche el multithreading para paralelizar tareas y mejorar las velocidades de procesamiento en entornos multicore.
+- **Procesamiento por lotes:** Procese varios archivos simultáneamente con capacidades de procesamiento por lotes, reduciendo el tiempo total de procesamiento.
 
-### Guardar archivos de Photoshop® como
+## Capacidades avanzadas
 
-**Formatos de trama:** TIFF, JPEG, PNG, GIF, BMP, JPEG2000\
+- **Soporte de objetos y filtros inteligentes:** Gestione objetos inteligentes y aplique filtros inteligentes de manera programática, preservando los datos de imagen originales.
+- **Capas de ajuste:** Utilice capas de ajuste para realizar ediciones no destructivas, como ajustes de brillo/contraste, cambios de tono/saturación y correcciones de equilibrio de color.
+- **Manipulación de rutas vectoriales:** Cree y modifique rutas vectoriales, permitiendo un control preciso sobre las formas y contornos en sus archivos PSD.
+- **Estilos y efectos de capa:** Aplique estilos de capa como sombra paralela, bisel y relieve para mejorar la apariencia de las capas.
+- **Manipulación de capas de texto:** Edite capas de texto, incluida la fuente, tamaño, color y efectos, para crear elementos de texto dinámicos en sus imágenes.
+
+## Leer y escribir formatos de Photoshop&reg;
+
+**Adobe Photoshop&reg;:** PSD, PSB
+
+## Guardar archivos de Photoshop&reg; como
+
+**Formatos rasterizados:** TIFF, JPEG, PNG, GIF, BMP, JPEG2000  
 **Diseño fijo:** PDF
 
-### Formatos de lectura
+## Formatos de lectura
 
-**Adobe Illustrator®:** IA
+**Adobe Illustrator&reg;:** AI
+
+## Independencia de la plataforma
+
+Aspose.PSD para .NET puede funcionar en cualquier entorno que admita .NET Framework 2.0 o superior. Es compatible con .NET Core, .NET Framework y Mono, lo que la convierte en una solución versátil para aplicaciones que se ejecutan en Windows, macOS y Linux. La API también es compatible con entornos en la nube como Azure y AWS, proporcionando flexibilidad en la implementación.
+
+## Comenzar
+
+¿Está listo para probar Aspose.PSD para .NET? Simplemente ejecute `Install-Package Aspose.PSD` desde la Consola del Administrador de Paquetes en Visual Studio para obtener el paquete NuGet. Si ya tiene Aspose.PSD para .NET y desea actualizar la versión, ejecute `Update-Package Aspose.PSD` para obtener la versión más reciente.
+
+## Recortar un PSD de Photoshop&reg; para guardar el resultado en formato PNG
+
+Puede ejecutar el siguiente fragmento de código para ver cómo funciona la API Aspose.PSD en su propio entorno de desarrollo o consultar el [repositorio de GitHub](https://github.com/aspose) para otros escenarios de uso comunes.
+
+```csharp
+// Implemente el método de recorte correcto para archivos PSD.
+using (RasterImage image = Image.Load(dir + "template.psd") as RasterImage)
+{
+    image.Crop(new Rectangle(10, 30, 100, 100));
+    image.Save(dir + "output.png", new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
+}
+```
+
+## Dibujar rectángulos en una imagen PSD
+
+```csharp
+// Cree una instancia de Image
+using (Image image = new PsdImage(100, 100))
+{
+    Graphics graphic = new Graphics(image);
+    graphic.Clear(Color.Yellow);
+    // Dibuje un rectángulo con la herramienta Pen
+    graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
+    // Dibuje otro rectángulo con un Solid Brush en color azul
+    graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
+}
+```
 
 {{< Common/hr >}}
 
@@ -85,4 +136,3 @@ Aspose.PSD para .NET API le permite crear y editar los archivos de Photoshop®, 
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-

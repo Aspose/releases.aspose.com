@@ -30,48 +30,99 @@ weight:  1
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
 
-![Nuget](https://img.shields.io/nuget/v/Aspose.PSD) ![Nuget](https://img.shields.io/nuget/dt/Aspose.PSD?label=nuget%20downloads)
+## Photoshop&reg;ファイル処理用の.NET API
 
-[Product Page](https://products.aspose.com/psd/net/) | [Docs](https://docs.aspose.com/psd/net/) | [Demos](https://products.aspose.app/psd/family) | [API Reference](https://reference.aspose.com/psd/net/) | [Examples](https://github.com/aspose-psd/Aspose.PSD-for-.NET) | [Blog](https://blog.aspose.com/category/psd/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/psd) | [Temporary License](https://purchase.aspose.com/temporary-license) | {{ハイパーリンク10}}
+Adobe Photoshop&reg;をインストールする必要なしに、Adobe Photoshop&reg; PSDおよびPSB形式を読み取り、書き込み、処理、および変換するためのスタンドアロンの.NET API。Aspose.PSD for .NET APIを使用すると、Photoshop&reg;ファイルを作成および編集でき、レイヤーのプロパティを更新したり、透かしを追加したり、グラフィック操作を実行したり、さまざまな形式間でファイルを変換したりすることができます。
 
-Adobe Photoshop® をインストールしなくても、Adobe Photoshop® PSD および PSB 形式を読み取り、書き込み、処理、および変換するためのスタンドアロン .NET API。
+## なぜAspose.PSD for .NETを選ぶのか？
 
-## Aspose.PSD for .NET をダウンロードする理由
+- **Adobe Photoshop®は不要です:** Aspose.PSD for .NETはAdobe Photoshop&reg;から独立して動作し、.NETアプリケーション内でPSDおよびPSBファイルを直接操作できます。
+- **高性能:** 速度と効率を考慮して設計されており、複雑なレイヤーやエフェクトがあっても、大きなPSDファイルを迅速に処理します。
+- **クロスプラットフォーム互換性:** .NET Framework、.NET Core、およびMonoをサポートし、Windows、macOS、およびLinux環境に適しています。
+- **包括的な形式サポート:** Photoshop&reg;およびIllustrator&reg;形式をシームレスに読み取り、書き込み、変換します。
+- **簡単な統合:** 既存の.NETアプリケーションに簡単に統合でき、包括的なドキュメントとサポートが提供されます。
 
-Aspose.PSD for .NET API を使用すると、Photoshop® ファイルを作成および編集できるだけでなく、レイヤー プロパティの更新、透かしの追加、グラフィック操作の実行、あるファイル形式から別のファイル形式への変換を行うことができます。
+## Photoshop&reg;ファイル処理機能
 
-## Photoshop® ファイル処理機能
+- **Photoshop&reg;ファイルの作成と編集:** 新しいPSDおよびPSBファイルを生成するか、既存のファイルをプログラム的に編集します。
+- **高度なレイヤー管理:** レイヤーのプロパティを更新し、ブレンドモードを適用し、マスクを追加し、スマートオブジェクトを管理します。
+- **フィルターとエフェクトを適用する:** メディアンフィルターとウィーナーフィルターを実装し、カラーバランスを適用し、調整レイヤーを反転させるなどの機能があります。
+- **ラスターおよびベクターグラフィックのサポート:** 基本的な形状を描画し、ベクターパスを管理し、変換を適用します。
+- **XMPデータ処理:** PSDファイル内のXMPメタデータを作成、読み取り、および書き込みます。
+- **包括的な画像操作:** 画像のサイズ変更、トリミング、回転、および調整を精密に行います。
+- **さまざまな形式へのエクスポート:** 作業内容をTIFF、JPEG、PNG、GIF、BMP、JPEG2000、PDFなどの複数のラスターおよびベクター形式で保存します。
+- **バッチ処理:** 単一のバッチ操作で複数のファイルを効率的に処理します。
+- **メモリ最適化:** メモリ使用量を最適化して大きなファイルを処理し、複雑なPSDファイルでもアプリケーションの応答性を確保します。
+- **スマートフィルタ管理:** 非破壊型のスマートフィルタを適用および管理し、元の画像データの完全性を維持します。
+- **カラーマネジメント:** 明るさ、コントラスト、ガンマを調整し、さまざまな色補正技術を適用します。
+- **テキスト処理:** フォント管理やテキストエフェクトを含むテキストレイヤーを操作します。
+- **透かしの追加:** 著作権保護のために画像に透かしを簡単に追加します。
 
-- API 経由で Photoshop® PSD および PSB ファイルを作成します。
-- PSD 画像を一般的な画像形式にエクスポートします。
-- 固定&大津閾値による2値化。
-- GIF イメージ レイヤーを TIFF に、CMYK PSD を CMYK TIFF に変換します。
-- 画像を結合、拡大、またはトリミングします。
-- XMP データの作成、読み取り、および書き込み。
-- 欠落しているすべてのフォントの代わりとしてデフォルト フォントを設定します。
-- メディアン フィルターとウィーナー フィルターを適用して、画像のノイズを減らします。
-- 画像を白黒またはグレースケールに変換します。
-- シフトまたは四角形で画像をトリミングします。
-- 特定の角度で画像を回転
-- 簡単な画像のサイズ変更、または画像の縦横比による変更を実行します。
-- ラスター画像のディザリングのサポート。
-- 画像の明るさ、コントラスト、ガンマを調整します。
-- 非可逆 GIF 圧縮とバイキュービック リサンプリングを実装します。
-- カラーバランスまたは調整レイヤーを反転します。
-- 線、楕円、長方形、円弧、ベジエなどの基本的なオブジェクトを描画します。
+## パフォーマンスとメモリ管理
 
-### Photoshop® 形式の読み取りと書き込み
+- **大きなファイル向けに最適化:** Aspose.PSD for .NETは、大きなPSDおよびPSBファイルを効率的に処理するように設計されており、複雑なレイヤーやエフェクトがあっても迅速に処理できます。
+- **低メモリ消費:** APIはメモリを効率的に使用するように設計されており、画像処理タスクが集中している際のリソース消費を最小限に抑えます。
+- **マルチスレッドサポート:** マルチスレッドを活用してタスクを並列化し、マルチコア環境での処理速度を向上させます。
+- **バッチ処理:** バッチ処理機能を使用して複数のファイルを同時に処理し、全体の処理時間を短縮します。
 
-**Adobe Photoshop®:** PSD、PSB
+## 高度な機能
 
-### Photoshop® ファイルに名前を付けて保存
+- **スマートオブジェクトとフィルターのサポート:** スマートオブジェクトを管理し、スマートフィルターをプログラム的に適用して、元の画像データを維持しながらエフェクトを実験します。
+- **調整レイヤー:** 調整レイヤーを利用して、明るさ/コントラストの調整、色相/彩度の変更、カラーバランスの修正など、非破壊的な編集を行います。
+- **ベクターパスの操作:** ベクターパスを作成および変更し、PSDファイル内の形状や輪郭を正確に制御します。
+- **レイヤースタイルとエフェクト:** ドロップシャドウ、ベベル、エンボスなどのレイヤースタイルを適用して、レイヤーの外観を強化します。
+- **テキストレイヤーの操作:** フォント、サイズ、色、エフェクトを含むテキストレイヤーを編集して、画像内にダイナミックなテキスト要素を作成します。
 
-**ラスター形式:** TIFF、JPEG、PNG、GIF、BMP、JPEG2000\
+## Photoshop&reg;形式の読み取りと書き込み
+
+**Adobe Photoshop&reg;:** PSD, PSB
+
+## Photoshop&reg;ファイルを保存
+
+**ラスター形式:** TIFF, JPEG, PNG, GIF, BMP, JPEG2000  
 **固定レイアウト:** PDF
 
-### 読み取り形式
+## 読み取り形式
 
-**Adobe Illustrator®:** AI
+**Adobe Illustrator&reg;:** AI
+
+## プラットフォーム独立性
+
+Aspose.PSD for .NETは、.NET framework 2.0以上をサポートする環境で動作します。.NET Core、.NET Framework、Monoと互換性があり、Windows、macOS、Linuxで動作するアプリケーションに対応した多用途のソリューションを提供します。APIはAzureやAWSなどのクラウド環境でもサポートされており、デプロイメントの柔軟性を提供します。
+
+## はじめに
+
+Aspose.PSD for .NETを試してみる準備はできていますか？Visual Studioのパッケージマネージャコンソールから`Install-Package Aspose.PSD`を実行して、NuGetパッケージを取得するだけです。既にAspose.PSD for .NETをお持ちでバージョンを更新したい場合は、`Update-Package Aspose.PSD`を実行して最新バージョンを取得してください。
+
+## Photoshop&reg; PSDをトリミングして結果をPNG形式で保存
+
+以下のコードスニペットを実行して、Aspose.PSD APIがあなたの開発環境でどのように機能するかを確認するか、その他の一般的な使用シナリオについては[GitHubリポジトリ](https://github.com/aspose)を確認してください。
+
+```csharp
+// PSDファイルに適したトリミングメソッドを実装します。
+using (RasterImage image = Image.Load(dir + "template.psd") as
+
+ RasterImage)
+{
+    image.Crop(new Rectangle(10, 30, 100, 100));
+    image.Save(dir + "output.png", new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
+}
+```
+
+## PSD画像に長方形を描く
+
+```csharp
+// Imageのインスタンスを作成します
+using (Image image = new PsdImage(100, 100))
+{
+    Graphics graphic = new Graphics(image);
+    graphic.Clear(Color.Yellow);
+    // ペンツールで長方形を描きます
+    graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
+    // 青色のソリッドブラシで別の長方形を描きます
+    graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
+}
+```
 
 {{< Common/hr >}}
 
@@ -87,4 +138,3 @@ Aspose.PSD for .NET API を使用すると、Photoshop® ファイルを作成�
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
 {{< /ProductPageWrapper >}}
-
