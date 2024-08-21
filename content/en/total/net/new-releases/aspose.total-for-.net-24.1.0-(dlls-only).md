@@ -37,10 +37,14 @@ weight: 5
     {{< /Releases/ReleasesDetailsUl >}}
 
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Release Notes</h4><div><a href='https://releases.aspose.com/'>https://releases.aspose.com/</a></div>
+<h4>Release Notes</h4>
+<div><a href='https://releases.aspose.com/'>https://releases.aspose.com/</a></div>
+
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Description</h4><div class="HTMLDescription">It contains most recent version of all .NET products.</div>
+<h4>Description</h4>
+<div class="HTMLDescription">It contains most recent version of all .NET products.</div>
+
 {{< /Releases/ReleasesFileFeatures >}}
 
 {{< Releases/ReleasesHeading h4txt="Notable Features">}}
