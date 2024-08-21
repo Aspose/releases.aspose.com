@@ -1,13 +1,13 @@
 ---
-title: "Loading..." 
-description: "Loading..." 
+title: "Verbesserung der C# Projektberichterstattung - Aspose.Tasks .NET 24.2 (MSI)" 
+description: "Richten Sie mühelos die Seitenausrichtung ein, integrieren Sie umfassende Projektmanagement-Funktionen und mehr in Ihre .NET-Anwendungen mit Aspose.Tasks für .NET 24.2 (MSI)" 
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/net/new-releases/aspose.tasks-for-.net-24.2/"
-folder_name: "Loading..." 
+folder_name: "Aspose.Tasks für .NET 24.2" 
 download_link: "/tasks/net/new-releases/aspose.tasks-for-.net-24.2/ec756c09786fee8b7cea70a158be4d0c-4-10380"
-download_text: "Loading..." 
-intro_text: "Loading..." 
+download_text: "Herunterladen" 
+intro_text: "Es enthält das MSI mit dem Aspose.Tasks für .NET 24.2-Release." 
 image_link: "/resources/img/msi-icon.png"
 download_count: " 25/2/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 18.7MB"
@@ -18,7 +18,7 @@ release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2024/asp
 weight: 514
 ---
 {{< Releases/ReleasesWapper >}}
-{{< Releases/ReleasesHeading H2txt="Loading..." imagelink="/resources/img/msi-icon.png">}}
+{{< Releases/ReleasesHeading H2txt="Aspose.Tasks für .NET 24.4" imagelink="/resources/img/msi-icon.png">}}
 {{< Releases/ReleasesButtons >}}
 {{< Releases/ReleasesSingleButtons text="Download" link="/tasks/net/new-releases/aspose.tasks-for-.net-24.2/ec756c09786fee8b7cea70a158be4d0c-4-10380" >}}
 {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/tasks" >}}
@@ -34,34 +34,30 @@ weight: 514
 {{< Common/li id="added-update-ec756c09786fee8b7cea70a158be4d0c-4-10380" >}}25/2/2024 {{< /Common/li >}}
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Loading...</h4>
+<h4>Versionshinweise</h4>
 <a href='https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-2-release-notes/'>https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-2-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
-<h4>Loading...</h4>
-<div class="HTMLDescription">Loading...</div>
+<h4>Beschreibung</h4>
+<div class="HTMLDescription">Es enthält das MSI mit dem Aspose.Tasks für .NET 24.2-Release.</div>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesHeading h4txt="Bemerkenswerte Funktionen">}}
 {{< Common/wrapper class="HTMLDescription">}}
 {{% Releases/ReleasesFileFeatures %}}
 
-Loading...
+Dieses Update führt eine stark nachgefragte Funktion zur Steuerung der Seitenausrichtung beim Speichern von Projektdaten in verschiedenen visuellen Formaten ein. Darüber hinaus werden Fehlerbehebungen behandelt, um eine nahtlose Projektbearbeitung mit dem MSI in Ihren .NET-Anwendungen unter Windows zu gewährleisten.
 
-Loading...
+## Wichtige Highlights
 
-Loading...
+- Steuerung der Seitenausrichtung: Kontrollieren Sie die Seitenausrichtung (Hochformat/Querformat) beim Export von Microsoft Project-Dateien (MPP) in PDF-, HTML- und Bildformate mit der neuen IsPortrait-Eigenschaft in SaveOptions.
+- Verbesserte Berichtsflexibilität: Diese Ergänzung ermöglicht es Entwicklern, Berichtslayouts spezifischen Anforderungen anzupassen und somit die Lesbarkeit und den visuellen Eindruck zu maximieren.
+- Vereinfachte Integration: Die intuitive Projektmanagement-API integriert sich nahtlos in Ihre bestehenden Workflows und ermöglicht eine mühelose Kontrolle über die Präsentation von Berichten.
+- Verbesserte Entwicklererfahrung: Entwickler können neue Konstruktoren für die WeekDay-Klasse nutzen, um Arbeitstage und Zeiträume innerhalb Ihrer Projektpläne intuitiver und effizienter zu definieren.
+- Fehlerbehebungen und Verfeinerungen: Dieses Release behebt kleinere Fehler im Zusammenhang mit der zeitlich gestaffelten Datenauslesung, dem Schreiben von Filterkriterien und der Handhabung der Filter.ShowRelatedSummaryRows-Flag für eine robustere Entwicklungserfahrung.
 
-- **Erweiterte Berichtsflexibilität:** Mit dieser Ergänzung können Entwickler Berichtslayouts an spezifische Anforderungen anpassen und so die Lesbarkeit und visuelle Wirkung maximieren.
+## Codebeispiel
 
-Loading...
-
-- **Verbesserte Entwicklererfahrung:** Entwickler können neue Konstruktoren für die Klasse „WeekDay“ nutzen, um Arbeitstage und Zeiträume in Ihren Projektplänen intuitiver und effizienter zu definieren.
-
-Loading...
-
-### Codebeispiel
-
-Das folgende C#-Codebeispiel zeigt, wie man die Eigenschaft „IsPortrait“ von „SaveOptions“ anwendet und ein MPP-Dokument als PDF im Hochformat exportiert.
+Das folgende C#-Codebeispiel zeigt, wie Sie die IsPortrait-Eigenschaft von SaveOptions anwenden und ein MPP-Dokument im Hochformat als PDF exportieren.
 
 ```C#
 Project project = new Project("test.mpp");
@@ -69,38 +65,30 @@ PdfSaveOptions saveOptions = new PdfSaveOptions();
 saveOptions.PageSize = PageSize.A4;
 saveOptions.IsPortrait = true;
 project.Save("output.pdf", saveOptions);
-
 ```
 
-Loading...
+## Öffentliche API und rückwärts inkompatible Änderungen
 
-Loading...
+### Hinzugefügte API-Mitglieder
 
-### API-Mitglieder hinzugefügt
+In dieser Version haben wir verschiedene neue Methoden und Eigenschaften hinzugefügt, die unten aufgeführt sind:
 
-Loading...
+- `Aspose.Tasks.Saving.SaveOptions.IsPortrait`
+- `Aspose.Tasks.WeekDay.#ctor(Aspose.Tasks.DayType,Aspose.Tasks.WorkingTime[])`
 
-Loading...
+### Entfernte API-Mitglieder
 
-Loading...
+Wir haben verschiedene Methoden und Eigenschaften in dieser Version entfernt. Einige davon sind:
 
-Loading...
+- `Aspose.Tasks.Saving.HtmlSaveOptions.DefaultFontName`
+- `Aspose.Tasks.Saving.HtmlSaveOptions.UseProjectDefaultFont`
+- `Aspose.Tasks.Saving.ImageSaveOptions.DefaultFontName`
+- `Aspose.Tasks.Saving.ImageSaveOptions.UseProjectDefaultFont`
+- `Aspose.Tasks.Saving.PdfSaveOptions.DefaultFontName`
+- `Aspose.Tasks.Saving.PdfSaveOptions.UseProjectDefaultFont`
 
-Loading...
+> Sie können die Liste aller neuen Funktionen, Verbesserungen und Fehlerbehebungen, die in diesem Release eingeführt wurden, einsehen, indem Sie die [Aspose.Tasks für .NET 24.2 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-2-release-notes/) besuchen.
 
-Loading...
-
-Loading...
-
-- Aspose.Tasks.Saving.ImageSaveOptions.DefaultFontName
-
-Loading...
-
-Loading...
-
-- Aspose.Tasks.Saving.PdfSaveOptions.UseProjectDefaultFont
-
-> Sie können die Liste aller in dieser Version eingeführten neuen Funktionen, Verbesserungen und Fehlerbehebungen anzeigen, indem Sie [Loading...](https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-2-release-notes/) besuchen.
 {{% /Releases/ReleasesFileFeatures %}}
 {{< /Common/wrapper >}}
 {{< /Releases/ReleasesFileFeatures >}}

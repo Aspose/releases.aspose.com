@@ -1,5 +1,4 @@
 ---
-
 title: "Enhance C# Project Reporting - Aspose.Tasks .NET 24.2 (MSI)"
 description: "Effortlessly set page orientation, integrate comprehensive project management capabilities & more into your .NET apps with Aspose.Tasks for .NET 24.2 (MSI)."
 keywords: ""
@@ -14,11 +13,9 @@ download_count: " 25/2/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 18.7MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-2-release-notes/"
 weight: 514
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -65,6 +62,7 @@ Aspose.Tasks for .NET 24.2 empowers developers with improved project management 
 - **Bug Fixes and Refinements:** This release addresses minor bugs related to time-phased data reading, filter criteria writing, and `Filter.ShowRelatedSummaryRows` flag handling for a more robust development experience.
 
 ### Code Example
+
 The following C# code example showcases how to apply the `IsPortrait` property of `SaveOptions` and export an MPP document as a PDF in portrait mode.
 
 ```C#
@@ -73,29 +71,29 @@ PdfSaveOptions saveOptions = new PdfSaveOptions();
 saveOptions.PageSize = PageSize.A4;
 saveOptions.IsPortrait = true;
 project.Save("output.pdf", saveOptions);
-
 ```
-*[Source\*](https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-2-release-notes/)*
 
+*[Source\*](https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-2-release-notes/)*
 
 ### Public API and Backwards Incompatible Changes
 
 ### Added API Members
 
 We have added different new methods and properties in this release which are shared below:
--  Aspose.Tasks.Saving.SaveOptions.IsPortrait
-- Aspose.Tasks.WeekDay.#ctor(Aspose.Tasks.DayType,Aspose.Tasks.WorkingTime[])
+
+- `Aspose.Tasks.Saving.SaveOptions.IsPortrait`
+- `Aspose.Tasks.WeekDay.#ctor(Aspose.Tasks.DayType,Aspose.Tasks.WorkingTime[])`
 
 ### Removed API Members
 
 We have removed different methods and properties in this release. Some of which are:
-- Aspose.Tasks.Saving.HtmlSaveOptions.DefaultFontName
-- Aspose.Tasks.Saving.HtmlSaveOptions.UseProjectDefaultFont
-- Aspose.Tasks.Saving.ImageSaveOptions.DefaultFontName
-- Aspose.Tasks.Saving.ImageSaveOptions.UseProjectDefaultFont
-- Aspose.Tasks.Saving.PdfSaveOptions.DefaultFontName
-- Aspose.Tasks.Saving.PdfSaveOptions.UseProjectDefaultFont
 
+- `Aspose.Tasks.Saving.HtmlSaveOptions.DefaultFontName`
+- `Aspose.Tasks.Saving.HtmlSaveOptions.UseProjectDefaultFont`
+- `Aspose.Tasks.Saving.ImageSaveOptions.DefaultFontName`
+- `Aspose.Tasks.Saving.ImageSaveOptions.UseProjectDefaultFont`
+- `Aspose.Tasks.Saving.PdfSaveOptions.DefaultFontName`
+- `Aspose.Tasks.Saving.PdfSaveOptions.UseProjectDefaultFont`
 
 > You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for .NET 24.2 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-2-release-notes/).
 
