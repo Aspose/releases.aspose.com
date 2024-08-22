@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.zip-for-.net-24.7-(dlls-only)"
-description: " "
+title: "Aspose.ZIP .NET 24.7 (DLL) | Encryption & ISO Handling Boost"
+description: "Integrate robust archive features into your .NET projects. Download Aspose.ZIP for .NET 24.7 (DLLs-only) for powerful ZIP & archive processing capabilities."
 keywords: ""
 page_type: single_release_page
 folder_link: "/zip/net/new-releases/aspose.zip-for-.net-24.7-(dlls-only)/"
@@ -45,6 +45,34 @@ weight: 157
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.ZIP for .NET 24.7 (DLLs Only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Developers using Aspose.ZIP for .NET 24.7 (DLLs only) can benefit from this update featuring improvements for 7z encryption, ISO handling, and bug fixes for various archive formats across multiple platforms.
+
+### Empowered 7z Encryption
+
+With the newly added `EncryptHeader` property in `SevenZipEncryptionSettings`  in this .NET ZIP archives API version, you can encrypt 7z archive headers and integrate an extra layer of security.
+
+### Improved ISO Handling
+
+Aspose.ZIP for .NET now provides dynamic handling of ISO archives to ensure seamless integration with your workflows on Windows, Linux, and Mac platforms.
+
+### Optimized Archive Extraction
+
+Various issues affecting the extraction of Zstandard, Gzip, Z, and Bzip2 archives have been resolved in the latest release to ascertain reliable archive processing in your cross-platform C# applications.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.ZIP for .NET 24.7 Release Notes](https://releases.aspose.com/zip/net/release-notes/2024/aspose-zip-for-net-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.ocr-for-python-via-.net-24.6.0-windows-32-bit"
-description: " "
+title: "Extract US Passport Details in Python: OCR API 24.6.0 (Win32)"
+description: "New release of Aspose.OCR for Python via .NET 24.6.0 (Windows x32) extracts details from US passports and embeds fonts in PDFs. Download Now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-24.6.0-windows-32-bit/"
@@ -45,6 +45,69 @@ weight: 59
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This wheel contains Aspose.OCR for Python via .NET version 24.6.0, built for Windows and targeting the 32-bit architecture.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+We are pleased to announce the release of Aspose.OCR for Python via .NET 24.6.0, targeting the Windows x32 platform. With this release, you can embed custom fonts into PDFs and extract US passport details. 
+
+### Extract US Passport Data
+
+Seamlessly extract important data, such as names, birth dates, and passport numbers, directly from US passport images with the newly added `Country.USA` recognition setting in this Python OCR API release.
+
+Code Example:
+
+```python
+
+# Instantiate Aspose.OCR API
+api = ocr.AsposeOcr()
+# Add image to the recognition batch
+input = OcrInput(InputType.SINGLE_IMAGE)
+input.add("us_passport.png")
+# Enable US passport recognition
+settings = ocr.PassportRecognitionSettings()
+settings.country = ocr.Country.USA
+# Extract passport details
+result = api.recognize_passport(input, settings)
+details = result[0].get_keywords()
+for detail in details:
+    print(detail.key)
+    print(detail.value.text_in_line)
+
+```
+*[Source\*](https://releases.aspose.com/ocr/python-net/release-notes/2024/aspose-ocr-python-24-6-0-release-notes/)*
+
+### Embed Custom Fonts in PDFs
+
+You can now embed custom fonts into your exported PDF documents to enable a consistent visual presentation on the Windows 32-bit platform. Here is how to use this functionality in Python.
+
+```python
+
+# Instantiate Aspose.OCR API
+api = AsposeOcr()
+# Add image to the recognition batch
+input = OcrInput(InputType.PDF)
+input.add("source.pdf")
+# Recognize the image
+results = api.recognize(input)
+# Save recognition result
+save_multipage_document("result.pdf", SaveFormat.PDF_NO_IMG, results, "fonts/AdobeMingStd-Light.otf")
+
+```
+*[Source\*](https://releases.aspose.com/ocr/python-net/release-notes/2024/aspose-ocr-python-24-6-0-release-notes/)*
+
+For more information about the public API changes and deprecations in this release, please visit the [release notes](https://releases.aspose.com/ocr/python-net/release-notes/2024/aspose-ocr-python-24-6-0-release-notes/) page.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.OCR for Python via .NET 24.6.0 Release Notes](https://releases.aspose.com/ocr/python-net/release-notes/2024/aspose-ocr-python-24-6-0-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

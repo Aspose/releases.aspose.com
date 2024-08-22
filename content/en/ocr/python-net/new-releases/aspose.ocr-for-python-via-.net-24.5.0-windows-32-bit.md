@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.ocr-for-python-via-.net-24.5.0-windows-32-bit"
-description: " "
+title: "Python OCR API 24.5.0 (Win32) - Expanded Language Support"
+description: "Download Aspose.OCR for Python via .NET 24.5.0 (Win x32) for Arabic, Persian, Urdu & more languages. Improved recognition & automatic defect detection."
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-24.5.0-windows-32-bit/"
@@ -45,6 +45,67 @@ weight: 55
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This wheel contains Aspose.OCR for Python via .NET version 24.5.0, built for Windows and targeting the 32-bit architecture.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Upgrade your Python OCR applications running on Windows x32 with broader language support and identification of problematic image areas using Aspose.OCR for Python via .NET 24.5.0 release.
+
+### Enhanced Accuracy for Latin Scripts
+
+You can witness significant improvements in OCR accuracy for Latin-based languages, such as English, French, Spanish, and more, in the latest release of the Python OCR API.
+
+### Enjoy Broader Language Support
+
+Effortlessly recognize text in Arabic, Persian (Farsi), Urdu, and more languages using the new language codes feature on Win32-powered machines. The following code sample demonstrates recognizing the Arabic language in Python. 
+
+```python
+
+# Instantiate Aspose.OCR API
+api = AsposeOcr()
+# Add image to the recognition batch
+input = OcrInput(InputType.SINGLE_IMAGE)
+input.add("source.png")
+# Enable Arabic text recognition
+recognitionSettings = RecognitionSettings()
+recognitionSettings.language = Language.ARA
+# Recognize the image
+result = api.recognize(input, recognitionSettings)
+# Print recognition result
+print(result[0].recognition_text)
+input("Press Enter to continue...")
+
+```
+*[Source\*](https://releases.aspose.com/ocr/python-net/release-notes/2024/aspose-ocr-python-24-5-0-release-notes/)*
+
+### Automatic Defect Detection
+
+Version 24.5.0 of the Python OCR library helps you identify issues like low contrast or blur in images that might impact recognition accuracy using the new `detect_defects` method. This code example illustrates how to detect highlights and shadows in the source image.
+
+```python
+
+# Instantiate Aspose.OCR API
+api = AsposeOcr()
+# Add image to the recognition batch
+input = OcrInput(InputType.SINGLE_IMAGE)
+input.add("source.png")
+# Find shadows and highlights
+defects = api.detect_defects(input, DefectType.LOW_CONTRAST)
+print(det[0].source)
+print(det[0].defect_areas[0].defect_type)
+
+```
+*[Source\*](https://releases.aspose.com/ocr/python-net/release-notes/2024/aspose-ocr-python-24-5-0-release-notes/)*
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.OCR for Python via .NET 24.5.0 Release Notes](https://releases.aspose.com/ocr/python-net/release-notes/2024/aspose-ocr-python-24-5-0-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
