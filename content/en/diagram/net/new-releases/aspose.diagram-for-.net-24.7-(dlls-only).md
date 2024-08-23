@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.diagram-for-.net-24.7-(dlls-only)"
-description: " "
+title: "Empower Diagram Creation | Aspose.Diagram .NET 24.7 (DLLs)"
+description: "Enhance your C# apps with Aspose.Diagram for .NET 24.7 (DLLs Only). Enjoy customized connector line jump & improved hyperlink usability. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/net/new-releases/aspose.diagram-for-.net-24.7-(dlls-only)/"
@@ -43,8 +43,47 @@ weight: 521
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-7-release-notes/'>https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for .NET 24.7 (DLLs Only)</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for .NET 24.7 (DLLs Only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Aspose.Diagram for .NET 24.7 (DLLs Only) offers versatile features that provide developers with the flexibility to incorporate diagram functionality into their cross-platform C# and VB.NET applications. The DLLs package ascertains convenient integration and allows you to empower diagram creation.
+
+### Refined Connector Control
+
+The latest C# diagram API version lets you adjust connector line jumps with custom styles for aesthetically appealing diagrams. The following code example highlights how to set jump code and jump style connector values.
+
+```c#
+
+shape.SetConnectorJumpValue(ConLineJumpCodeValue.Always,ConLineJumpStyleValue.Arc);
+
+```
+*[Source\*](https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-7-release-notes/)*
+
+### Fine-tuned Hyperlink Usability
+
+Developers can experience a smooth user experience while interacting with hyperlinks within your diagrams on Windows, Linux, or macOS.
+
+### Place Headers and Footers Seamlessly
+
+Aspose.Diagram for .NET 24.7 offers precise positioning of header and footer content, enabling high-quality diagrams.
+
+### Streamlined Copy and Paste Functionality
+
+This version of the .NET diagram library provides effortless duplicate diagrams without unintended changes.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Diagram for .NET 24.7 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
