@@ -102,22 +102,27 @@ The Aspose.Cells for C++ Library  supports the following 64-bit or 32-bit operat
 - [Insert an OLE object into the worksheet](https://docs.aspose.com/cells/cpp/inserting-ole-objects-into-the-worksheet/).
 - Access all the OLE objects contained in the worksheet for [extraction](https://docs.aspose.com/cells/cpp/extracting-ole-objects-from-worksheet/).
 
-## Supported Read & Write Formats
+### Supported Read & Write Formats
 
-**Microsoft Excel:** XLS, XLSX, XLSB, SpreadsheetML\
-**Text:** CSV, TSV, TabDelimited\
-**OpenDocument:** ODS\
-**Other:** HTML, MHTML
-
-## Save Spreadsheet Documents As
-
-**Microsoft Excel:** XLSM, XLTX, XLTM, XLAM\
-**Portable Document Format:** PDF, XPS\
-**Text:** CSV, TSV, TabDelimited\
-**Images:** SVG, TIFF, JPEG, PNG, BMP, GIF\
+**Microsoft Excel&reg;:** XLS, XLSX, XLSB, XLSM, XLT, XLTX, XLTM, CSV, TSV, XML, OTS, TabDelimited, SpreadsheetML\
+**OpenOffice&reg;:** ODS, SXC, FODS\
+**Text:** TXT, JSON\
 **Web:** HTML, MHTML\
+**Other:** EPUB, XTHML, AZW3
+
+### Suported Output Only Formats
+
+**Microsoft Word&reg;:** DOCX\
+**Microsoft PowerPoint&reg;:** PPTX\
+**Microsoft Excel&reg;:** XLAM\
+**Fixed Layout:** PDF, PDF/A, XPS\
+**Data Interchange:** DIF\
+**Vector Graphics:** SVG\
+**Image:** TIFF,PNG, BMP, JPEG, GIF\
 **Metafile:** EMF\
-**Other** DIF
+**Markdown:** MD\
+**Numbers:** Apple's iWork office suite Numbers app documents\
+**Other:** SQL
 
 ## Get Started
 
