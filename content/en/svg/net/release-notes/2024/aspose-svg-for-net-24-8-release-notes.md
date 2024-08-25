@@ -22,7 +22,7 @@ This page contains release notes information for Aspose.SVG for .NET 24.8
 
 We are pleased to announce the August release of Aspose.SVG for .NET 24.8.0. This release brings a performance enhancement in the area of image vectorization, alongside continued improvements to the overall toolkit.
 
-### Bug Fixes:
+### Enhancements:
 
 - **Enhance Image Vectorization Performance (SVGNET-401):** We have improved the performance of raster image to SVG conversion by 10%. This optimization ensures a more efficient SVG generation process, particularly beneficial for handling complex or large raster images.
 

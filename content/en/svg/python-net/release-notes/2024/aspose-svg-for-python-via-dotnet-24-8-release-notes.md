@@ -20,8 +20,9 @@ This page contains release notes information for [Aspose.SVG for Python via .NET
 
 We are excited to announce the August release of Aspose.SVG for Python via .NET 24.8.0. This update brings an enhancement to the performance of image vectorization, along with ongoing improvements to the toolkit's overall capabilities.
 
-### Bug Fixes:
+### Enhancements:
 
 - **Enhance Image Vectorization Performance (SVGNET-401):** We have optimized the conversion process from raster images to SVG, achieving a 10% improvement in performance. This enhancement ensures a more efficient SVG generation process, particularly for handling complex or large raster images.
 
 
+This release highlights our continuous effort to provide high-quality SVG solutions across different platforms and use cases.
