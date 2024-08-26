@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-c++-24.8-macos"
-description: " "
+title: "Add SVG Images to PDFs on MacOS | Aspose.PDF C++ 24.8"
+description: "Leverage the power of Aspose.PDF for C++ 24.8 on macOS. Enjoy SVG image support, enhanced PDF/A compliance, and more. Download the free trial now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-24.8-macos/"
@@ -43,8 +43,46 @@ weight: 227
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-8-release-notes/'>https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for C++ macOS version</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for C++ 24.8 macOS version.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Aspose.PDF for C++ v24.8 is now available for macOS and brings its advanced PDF manipulation capabilities to the Apple operating systems. This version allows you to generate, process, and transform PDF documents on macOS.
+
+### Add SVG Images to PDFs
+
+With the most recent Python PDF documents API release, MacOS developers can incorporate SVG images into their PDFs effortlessly. Enhance the visual appeal of your PDF documents with this update smoothly.
+
+### PDF/A Standard Compliance
+
+You can create PDFs that adhere to the requirements of PDF/A standards with this release, making them ideal for long-term archiving and legal utilization.
+
+### Fine-tuned Performance
+
+Aspose.PDF for C++ 24.8 boasts super fast processing times and refined memory usage for empowered PDF operations on Apple Mac.
+
+### Public API and Backward Incompatible Changes
+
+### Added APIs
+
+- void Aspose::Pdf::Forms::Form::MakeFormAnnotationsIndependent(SharedPtr<Aspose::Pdf::Page>)
+- System::String Aspose::Pdf::LogicalStructure::StructureAttribute::ToString()
+- Aspose::Pdf::PdfFormat::PDF_A_4
+- Aspose::Pdf::PdfFormat::PDF_A_4E
+- Aspose::Pdf::PdfFormat::PDF_A_4F
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for C++ 24.8 Release Notes](https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

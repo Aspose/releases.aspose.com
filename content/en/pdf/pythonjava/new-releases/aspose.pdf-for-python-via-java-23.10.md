@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-python-via-java-23.10"
-description: " "
+title: "Elevate Python PDF Manipulation | Aspose.PDF Python 23.10"
+description: "Augment your Python PDF projects with Aspose.PDF for Python via Java 23.10. Leverage new paragraph management & API improvements. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.10/"
@@ -16,7 +16,7 @@ parent_path: "pdf/pythonjava"
 section_parent_path: "pdf/pythonjava"
 
 tags: ""
-release_notes_url: "https://releases.aspose.com/pdf/java/release-notes/2023/aspose-pdf-for-java-23-10-release-notes/"
+release_notes_url: "https://releases.aspose.com/pdf/pythonjava/release-notes/2023/aspose-pdf-for-python-via-java-23-10-release-notes/"
 weight: 7
 
 ---
@@ -40,11 +40,58 @@ weight: 7
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/java/release-notes/2023/aspose-pdf-for-java-23-10-release-notes/'>https://releases.aspose.com/pdf/java/release-notes/2023/aspose-pdf-for-java-23-10-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/pythonjava/release-notes/2023/aspose-pdf-for-python-via-java-23-10-release-notes/'>https://releases.aspose.com/pdf/pythonjava/release-notes/2023/aspose-pdf-for-python-via-java-23-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for Python via Java 23.10 has been released.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Elevate Python PDF Page Manipulation
+
+With Aspose.PDF for Python via Java 23.10, you can gain finer control over PDF page structure with the introduction of the new `BaseParagraph` and `Paragraphs` classes.
+
+### Simplified API Methods
+
+You can now work with PDFs more efficiently thanks to renamed methods like pages and `optimize_resources` for clearer understanding.
+
+### Streamlined Development
+
+Experience a more intuitive and developer-friendly API for seamless PDF management in Python with the latest PDF manipulation API release.
+
+### Public API and Backward Incompatible Changes
+
+### New classes in Api.py:
+
+- class BaseParagraph(Assist.BaseJavaClass)
+- class Paragraphs(Assist.BaseJavaClass)
+
+### New classes in `Page` class:
+
+- def paragraphs(self) -> Paragraphs
+- def add(self, page: Page = None) -> Page
+- def insert(self, index, page: Page = None) -> Page
+- def delete(self, index)
+
+### Renamed API members:
+
+- `getPages` is now renamed to pages for a more intuitive representation.
+- `optimizeResources` is now `optimize_resources` for better code clarity.
+- `saveInBytes` is now `save_in_bytes` to adhere to Pythonic naming conventions.
+- `get_Item` is now `get_item` for a more consistent naming style.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for Python via Java 23.10 Release Notes](https://releases.aspose.com/pdf/pythonjava/release-notes/2023/aspose-pdf-for-python-via-java-23-10-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
