@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-python-via-java-23.8"
-description: " "
+title: "Effortlessly Extract Text from PDFs | Aspose.PDF Python 23.8"
+description: "Aspose.PDF for Python via Java 23.8 simplifies Python PDF text extraction. Leverage new TextAbsorber & refined API for control. Download the free trial now."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/pythonjava/new-releases/aspose.pdf-for-python-via-java-23.8/"
@@ -16,7 +16,7 @@ parent_path: "pdf/pythonjava"
 section_parent_path: "pdf/pythonjava"
 
 tags: ""
-release_notes_url: "https://releases.aspose.com/pdf/pythonjava/release-notes/"
+release_notes_url: "https://releases.aspose.com/pdf/pythonjava/release-notes/2023/aspose-pdf-for-python-via-java-23-8-release-notes/"
 weight: 6
 
 ---
@@ -40,11 +40,56 @@ weight: 6
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/pythonjava/release-notes/'>https://releases.aspose.com/pdf/pythonjava/release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/pythonjava/release-notes/2023/aspose-pdf-for-python-via-java-23-8-release-notes/'>https://releases.aspose.com/pdf/pythonjava/release-notes/2023/aspose-pdf-for-python-via-java-23-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for Python via Java 23.8 has been released.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+### Effortlessly Extract PDF Text
+
+Aspose.PDF for Python via Java 23.8 helps you extract text from PDFs efficiently using the new `TextAbsorber` class and its specialized options. You can leverage dedicated classes for tailored text extraction, including `TextFragmentAbsorber` for specific text fragments and `TableAbsorber` for extracting data from tables. 
+
+### Fine-Grained Control
+
+Seamlessly manage text formatting, search options, and table extraction with dedicated classes for greater control using the Python API for PDF manipulation.
+
+### Enhanced Text Extraction Control
+
+Python developers can customize text extraction behavior using options like `TextSearchOptions` and `TextExtractionOptions` for smooth processing.
+
+### Public API and Backward Incompatible Changes
+
+### Added API members:
+
+- asposepdf.Absorbers.TextFormattingMode
+- asposepdf.Absorbers.TextSearchOptions
+- asposepdf.Absorbers.TextExtractionOptions
+- asposepdf.Absorbers.TextAbsorber
+- asposepdf.Absorbers.AbsorbedCell
+- asposepdf.Absorbers.AbsorbedRow
+- asposepdf.Absorbers.AbsorbedTable
+- asposepdf.Absorbers.TableAbsorber
+- asposepdf.Absorbers.TextFragmentAbsorber
+
+### Renamed API members:
+
+- asposepdf.Api.PageCollection.getPage - > asposepdf.Api.PageCollection.get_item
+- asposepdf.Assist.Rectangle - > asposepdf.Assist.JavaRectangle
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for Python via Java 23.8 Release Notes](https://releases.aspose.com/pdf/pythonjava/release-notes/2023/aspose-pdf-for-python-via-java-23-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
