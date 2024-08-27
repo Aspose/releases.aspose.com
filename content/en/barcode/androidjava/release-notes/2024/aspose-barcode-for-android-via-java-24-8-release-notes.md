@@ -3,7 +3,7 @@ id: "aspose-barcode-for-android-via-java-24-8-release-notes"
 slug: "aspose-barcode-for-android-via-java-24-8-release-notes"
 linktitle: "Aspose.BarCode for Android via Java 24.8"
 title: "Aspose.BarCode for Android via Java 24.8"
-weight: 900
+weight: 880
 description: "Aspose.BarCode for Android via Java 24.8 – the latest updates and fixes."
 type: "repository"
 layout: "release"
