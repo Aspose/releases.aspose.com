@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.slides-for-node.js-via-java-24.8"
-description: " "
+title: "Aspose.Slides Node.js 24.8: Create Captivating Presentations"
+description: "Manage Node.js presentations better! Aspose.Slides for Node.js via Java 24.8 empowers you with tiled picture fills & retrieves font data. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-24.8/"
@@ -45,6 +45,107 @@ weight: 13
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for Node.js via Java 24.8 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+### Tiled Picture Fills
+
+Aspose.Slides for Node.js via Java 24.8 helps you create captivating presentations with the ability to define how a picture is tiled within a shape or background. You can control offset, scale, alignment, and flipping for a unique visual effect.
+
+Code example:
+
+```js
+
+var pres = new aspose.slides.Presentation();
+
+var firstSlide = pres.getSlides().get_Item(0);
+
+var newImage = aspose.slides.Images.fromFile("image.png");
+var ppImage = pres.getImages().addImage(newImage);
+newImage.dispose();
+
+// Adds the new Rectangle shape
+var newShape = firstSlide.getShapes().addAutoShape(aspose.slides.ShapeType.Rectangle, 0, 0, 350, 350);
+
+// Sets the fill type of the new shape to Picture
+newShape.getFillFormat().setFillType(java.newByte(aspose.slides.FillType.Picture));
+
+// Sets the shape's fill image
+var pictureFillFormat = newShape.getFillFormat().getPictureFillFormat();
+pictureFillFormat.getPicture().setImage(ppImage);
+
+// Sets the picture fill mode to Tile and changes the properties
+pictureFillFormat.setPictureFillMode(java.newByte(aspose.slides.PictureFillMode.Tile));
+pictureFillFormat.setTileOffsetX(-275);
+pictureFillFormat.setTileOffsetY(-247);
+pictureFillFormat.setTileScaleX(25);
+pictureFillFormat.setTileScaleY(15);
+pictureFillFormat.setTileAlignment(java.newByte(aspose.slides.RectangleAlignment.BottomRight));
+pictureFillFormat.setTileFlip(aspose.slides.TileFlip.FlipBoth);
+
+pres.save("Tile.pptx", aspose.slides.SaveFormat.Pptx);
+
+
+```
+*[Source\*](https://releases.aspose.com/slides/nodejs-java/release-notes/2024/aspose-slides-for-nodejs-via-java-24-8-release-notes/)*
+
+### Font Data Access
+
+Gain deeper insights into fonts used in presentations with the Node.js PowerPoint API. It enables retrieving font byte data and determining the embedding level for more control over font usage.
+
+Code example (retrieving binary font data): 
+
+```js
+
+var pres = new aspose.slides.Presentation ("Presentation.pptx");
+
+// Retrieve all fonts used in the presentation
+var fonts = pres.getFontsManager().getFonts();
+
+// Get the byte array representing the regular style of the first font in the presentation
+var fontBytes = pres.getFontsManager().getFontBytes(fonts[0], aspose.slides.FontStyle.Regular);
+
+pres.dispose();
+
+
+```
+*[Source\*](https://releases.aspose.com/slides/nodejs-java/release-notes/2024/aspose-slides-for-nodejs-via-java-24-8-release-notes/)*
+
+Code example (retrieving font embedding level): 
+
+```js
+
+var pres = new aspose.slides.Presentation("Presentation.pptx");
+
+// Retrieve all fonts used in the presentation
+var fontDatas = pres.getFontsManager().getFonts();
+
+// Get the byte array representing the regular style of the first font in the presentation
+var bytes = pres.getFontsManager().getFontBytes(fontDatas[0], aspose.slides.FontStyle.Regular);
+
+// Create a stream and pass it to readBytesFromStream
+var byteStream = Readable.from([Buffer.from(bytes)]);
+aspose.slides.readBytesFromStream(byteStream, (fontArray) => {
+    // Determine the embedding level of the font
+    var embeddingLevel = pres.getFontsManager().getFontEmbeddingLevel(fontArray, fontDatas[0].getFontName());
+    console.log(embeddingLevel);
+});
+
+
+```
+*[Source\*](https://releases.aspose.com/slides/nodejs-java/release-notes/2024/aspose-slides-for-nodejs-via-java-24-8-release-notes/)*
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Slides for Node.js via Java 24.8 Release Notes](https://releases.aspose.com/slides/nodejs-java/release-notes/2024/aspose-slides-for-nodejs-via-java-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
