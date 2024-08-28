@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-php-via-java-24.8"
-description: " "
+title: "Precise QR Code Recognition in PHP Apps | Barcode API 24.8"
+description: "Download Aspose.BarCode for PHP via Java 24.8 on Win/Linux/Mac and enjoy improved QR code recognition & accurate Australia Post barcode generation."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/php/new-releases/aspose.barcode-for-php-via-java-24.8/"
@@ -43,8 +43,66 @@ weight: 75
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/php/release-notes/2024/aspose-barcode-for-php-via-java-24-8-release-notes/'>https://releases.aspose.com/barcode/php/release-notes/2024/aspose-barcode-for-php-via-java-24-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for PHP via Java 24.8 has been released</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for PHP via Java 24.8 has been released.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+### Precise QR Code Recognition
+
+With Aspose.BarCode for PHP via Java 24.8, you can experience enriched QR code scanning accuracy with the refined `HighQuality` preset for the QR recognition engine. 
+
+Code sample:
+
+```php
+
+public function example1()
+{
+   $filePath = self::folder . "qr.png";
+   prt_mess(check_is_exists($filePath));
+   $reader = new BarCodeReader($filePath, null,DecodeType::QR);
+   $reader->setQualitySettings($reader->getQualitySettings()->getHighQuality());
+   foreach ($reader->readBarCodes() as $result) {
+   echo $result->getCodeText() . PHP_EOL; 
+   }
+}
+
+```
+*[Source\*](https://releases.aspose.com/barcode/php/release-notes/2024/aspose-barcode-for-php-via-java-24-8-release-notes/)*
+
+### Accurate Australia Post Barcode Generation
+
+The latest PHP barcode recognition and generation API delivers a corrected implementation of the `AustralianPostShortBarHeight` parameter to ensure precise generation of Australia Post barcodes, as illustrated in the following code example.
+
+```php
+
+public function example2()
+{
+   $generator = new BarcodeGenerator(EncodeTypes::AUSTRALIA_POST, "6212345678AP");
+   $generator->getParameters()->getBarcode()->getAustralianPost()->setAustralianPostEncodingTable(CustomerInformationInterpretingType::C_TABLE);
+   $generator->getParameters()->getBarcode()->getBarHeight()->setPixels(100);
+   $generator->getParameters()->getBarcode()->getAustralianPost()->getAustralianPostShortBarHeight()->setPixels(10);
+   $generator->getParameters()->getBarcode()->getPadding()->getLeft()->setPixels(10);
+   $generator->getParameters()->getBarcode()->getPadding()->getTop()->setPixels(10);
+   $generator->getParameters()->getBarcode()->getPadding()->getRight()->setPixels(10);
+   $generator->getParameters()->getBarcode()->getPadding()->getBottom()->setPixels(10);
+   $generator->save(self::folder . "AustraliaPost-PHP.png", BarCodeImageFormat::PNG);
+}
+
+```
+*[Source\*](https://releases.aspose.com/barcode/php/release-notes/2024/aspose-barcode-for-php-via-java-24-8-release-notes/)*
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for PHP via Java 24.8 Release Notes](https://releases.aspose.com/barcode/php/release-notes/2024/aspose-barcode-for-php-via-java-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

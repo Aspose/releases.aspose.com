@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-.net-24.8-(dlls-only)"
-description: " "
+title: "Optimize Task Rescheduling in Aspose.Tasks .NET 24.8 (DLLs)"
+description: "Optimize project scheduling & management with Aspose.Tasks for .NET 24.8 (DLLs-only). Download now for precise task rescheduling & duration calculations."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/net/new-releases/aspose.tasks-for-.net-24.8-(dlls-only)/"
@@ -45,6 +45,34 @@ weight: 527
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for .NET 24.8 (DLLs Only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Ensure seamless integration with your existing .NET projects and add optimized calculation accuracy and task scheduling to your platform-independent C# applications with Aspose.Tasks for .NET 24.8 (DLLs only package).
+
+### Optimize Task Rescheduling in .NET Apps
+
+With the newest release of the C# tasks management API, you can work with an accurate task rescheduling functionality using the refined `RescheduleUncompletedWorkToStartAfter` logic.
+
+### Enhanced Duration Calculations
+
+Make full use of the updated calculations for `ActualDuration`, `Duration`, and `Finish` properties in Aspose.Tasks for .NET to guarantee meticulous project timelines in your .NET solutions.
+
+### Elevated Task Tracking
+
+We have now implemented effective task progress tracking features into the .NET library with precise Stop/Resume property calculations across Windows, Linux, and macOS platforms.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for .NET 24.8 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

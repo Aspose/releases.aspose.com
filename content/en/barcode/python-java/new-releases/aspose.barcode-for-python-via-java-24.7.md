@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-python-via-java-24.7"
-description: " "
+title: "Barcode API 24.7: Enhanced Code39, Code93 & More in Python"
+description: "Leverage simplified Code39/Code93 APIs & use richer color options (HSLA, RGBA) for SVG barcodes. Download Aspose.BarCode Python via Java 24.7 now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-24.7/"
@@ -43,8 +43,62 @@ weight: 56
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/python-java/release-notes/2024/aspose-barcode-for-python-via-java-24-7-release-notes/'>https://releases.aspose.com/barcode/python-java/release-notes/2024/aspose-barcode-for-python-via-java-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Python via Java 24.7 has been released</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Python via Java 24.7 has been released.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+### Simplified Code39 and Code93 APIs
+
+Apose.BarCode for Python via Java 24.7 brings enhanced APIs for Code39 and Code93 as they have been consolidated into `CODE_39` and `CODE_93`, respectively. This change aligns with the ISO/IEC 16388 standards and enables a more intuitive development experience.
+
+### Advanced SVG Color Support
+
+Leverage new color modes like HSLA (Hue, Saturation, Lightness, Alpha) and RGBA (Red, Green, Blue, Alpha) in the Python API for barcode recognition and generation, and enjoy richer visuals when generating barcodes in SVG format.
+
+Code example (set bar color using HSLA values):
+
+```python
+
+def test2(self):
+    filePath = "Hsla_from_hsla_python.svg"
+    codeText = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    generator = Generation.BarcodeGenerator(Generation.EncodeTypes.CODE_128, codeText)
+    hslaColor = Generation.HslaColor(30, 50, 70, 0.8)
+    color = Generation.HslaColor.convertHslaToRgba(hslaColor)
+    generator.getParameters().getBarcode().setBarColor(color)
+    svg = generator.getParameters().getImage().getSvg()
+    svgColorMode = Generation.SvgColorMode
+    colorMode = svgColorMode.HSLA
+    svg.setSvgColorMode(colorMode)
+    generator.save(filePath, Generation.BarCodeImageFormat.PNG)
+
+```
+*[Source\*](https://releases.aspose.com/barcode/python-java/release-notes/2024/aspose-barcode-for-python-via-java-24-7-release-notes/)*
+
+Code example (convert HSLA color to RGBA format):
+
+```python
+
+def example3(self):
+    hslaColor = Generation.HslaColor(30, 50, 70, 0.8)
+    rgbaColor = Generation.HslaColor.convertHslaToRgba(hslaColor)
+    print(f"rgbaColor = {rgbaColor}")
+
+```
+*[Source\*](https://releases.aspose.com/barcode/python-java/release-notes/2024/aspose-barcode-for-python-via-java-24-7-release-notes/)*
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for Python via Java 24.7 Release Notes](https://releases.aspose.com/barcode/python-java/release-notes/2024/aspose-barcode-for-python-via-java-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.diagram-for-node.js-via-java-24.7"
-description: " "
+title: "Node.js Visio API 24.7 | Handle Customized Connector Jumps"
+description: "Easily customize connector jump values for greater control over your Node.js diagram layouts using Aspose.Diagram for Node.js via Java v24.7. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-24.7/"
@@ -43,8 +43,39 @@ weight: 45
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/diagram/nodejs/release-notes/2024/aspose-diagram-for-node-js-via-java-24-7-release-notes/'>https://releases.aspose.com/diagram/nodejs/release-notes/2024/aspose-diagram-for-node-js-via-java-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Node.js via Java 24.7</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Node.js via Java 24.7 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+### Connector Jump Value Customization
+
+Aspose.Diagram for Node.js via Java 24.7 lets you handle customized connector jumps behavior to your specific needs and ensures optimal diagram appearance and readability.
+
+Code sample:
+
+```js
+
+Diagram diagram = new Diagram("input.htm",LoadFileFormat.HTML);
+
+```
+*[Source\*](https://releases.aspose.com/diagram/nodejs/release-notes/2024/aspose-diagram-for-node-js-via-java-24-7-release-notes/)*
+
+### Refined Compatibility
+
+The Node.js Visio diagrams API allows you to leverage broader compatibility with various diagram formats to seamlessly integrate Aspose.Diagram features into your existing workflows.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Diagram for Node.js via Java 24.7 Release Notes](https://releases.aspose.com/diagram/nodejs/release-notes/2024/aspose-diagram-for-node-js-via-java-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
