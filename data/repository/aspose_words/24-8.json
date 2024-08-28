@@ -1,16 +1,37 @@
 {
   "groupId" : "com.aspose",
+  "classifier" : "jdk17",
   "artifactId" : "aspose-words",
   "id" : "24-8",
   "packageFiles" : [ {
+    "size" : "4 MB",
+    "name" : "aspose-words-24.8-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "16 MB",
+    "name" : "aspose-words-24.8-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "16 MB",
+    "name" : "aspose-words-24.8-jdk16ibm.jar",
+    "classifier" : "jdk16ibm"
+  }, {
     "size" : "16 MB",
     "name" : "aspose-words-24.8-jdk17.jar",
     "classifier" : "jdk17"
   }, {
+    "size" : "16 MB",
+    "name" : "aspose-words-24.8-jdk17ibm.jar",
+    "classifier" : "jdk17ibm"
+  }, {
+    "size" : "2 MB",
+    "name" : "aspose-words-24.8-shaping-harfbuzz-plugin.jar",
+    "classifier" : "shaping-harfbuzz-plugin"
+  }, {
     "size" : "5 KB",
     "name" : "aspose-words-24.8.pom"
   } ],
-  "releasehDate" : "2024-08-15T15:41:36+00:00",
+  "releasehDate" : "2024-08-15T15:44:18+00:00",
   "version" : "24.8",
   "ReleaseNotes" : "https://releases.aspose.com/words/java/release-notes/2024/aspose-words-for-java-24-8-release-notes/"
 }
