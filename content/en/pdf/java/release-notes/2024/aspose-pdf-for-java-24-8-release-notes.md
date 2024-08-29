@@ -3,7 +3,7 @@ id: "aspose-pdf-for-java-24-8-release-notes"
 slug: "aspose-pdf-for-java-24-8-release-notes"
 linktitle: "Aspose.PDF for Java 24.8 Release Notes"
 title: "Aspose.PDF for Java 24.8 Release Notes"
-weight: 70
+weight: 60
 description: "Aspose.PDF for Java 24.8 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
@@ -43,12 +43,12 @@ This page contains release notes information for Aspose.PDF for Java 24.8.
 ## **Public API and Backwards Incompatible Changes**
 
 
-
 **Added new methods:**
 - com.aspose.pdf.Form.makeFormAnnotationsIndependent(Page)
 - com.aspose.pdf.tagged.logicalstructure.elements.StructureAttribute.toString()
 
 **Added new constructor:**
 - com.aspose.pdf.XmpValue.#ctor(String,boolean)
+
 
 
