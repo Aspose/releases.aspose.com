@@ -4,7 +4,7 @@ slug: "aspose-html-for-net-24-8-release-notes"
 linktitle: "Aspose.HTML for .NET 24.8 Release Notes"
 title: "Aspose.HTML for .NET 24.8 Release Notes"
 weight: 50
-description: "In this release, we have improved the processing of the MHTML format. We have also improved the quality of rendering in PDF format."
+description: "In this release, we have improved the processing of the MHTML format. We have also improved the quality of rendering in PDF format. Сhanges have been made to the public API as part of the work to improve Linux support."
 type: "repository"
 layout: "release"
 hideChildren: false
@@ -20,7 +20,7 @@ As per the regular monthly update process of all APIs being offered by Aspose, w
 
 In this release, we have improved the processing of the MHTML format. We have also improved the quality of rendering in PDF format.
 
-We have made changes to our public signatures related to improving Linux support and stopped using System.Drawing.Common
+Сhanges have been made to the public API as part of the work to improve Linux support.
 
 
 ## **Improvements and Changes**
@@ -265,6 +265,7 @@ namespace Aspose.Html.Drawing
         /// </summary>
         bool IsInvertible { get; }
     }
+    
     /// <summary>
     /// Specifies how a texture or gradient is tiled when it is smaller than the area being filled.
     /// </summary>
@@ -295,6 +296,7 @@ namespace Aspose.Html.Drawing
        /// </summary>
        Clamp = 4
     }
+    
     /// <summary>
     /// Desclares methods for getting transformation matrix and wrap mode.
     /// </summary>
@@ -307,6 +309,7 @@ namespace Aspose.Html.Drawing
         /// <returns>Wrap mode</returns>
         SpreadMode SpreadMode { get; set; }
     }
+    
     /// <summary>
     /// Specifies the supported image formats.
     /// </summary>
@@ -373,6 +376,7 @@ namespace Aspose.Html.Drawing
         /// </summary>
         Unknown,
     }
+    
     /// <summary>
     /// Specifies the order in which matrix transformations are applied.
     /// </summary>
@@ -503,8 +507,8 @@ namespace Aspose.Html.Drawing
         /// <returns>End point.</returns>
         PointF EndPoint { get; }
     }
-    
 }
+
 namespace Aspose.Web.Drawing.Brushes
 {
     /// <summary>
@@ -541,6 +545,7 @@ namespace Aspose.Html.Rendering.Doc
         }
     }
 }
+
 namespace Aspose.Html.Rendering
 {
     /// <summary>
@@ -555,6 +560,7 @@ namespace Aspose.Html.Rendering
         public virtual DashStyle LineDashStyle { get; set; }
     }
 }
+
 namespace Aspose.Html.Rendering.Image
 {
     /// <summary>
@@ -1360,7 +1366,7 @@ namespace Aspose.Html.Rendering
         /// <param name="rect">A rectangel which determines position and size to draw.</param>
         public abstract void DrawImage(byte[] data, ImageType type, RectangleF rect);
         
-		//To
+        //To
         /// <summary>
         /// Draws the specified image.
         /// </summary>
