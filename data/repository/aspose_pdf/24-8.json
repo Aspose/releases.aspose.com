@@ -1,9 +1,15 @@
 {
   "groupId" : "com.aspose",
-  "classifier" : "jdk17",
   "artifactId" : "aspose-pdf",
   "id" : "24-8",
   "packageFiles" : [ {
+    "size" : "78 MB",
+    "name" : "aspose-pdf-24.8-java.zip"
+  }, {
+    "size" : "6 MB",
+    "name" : "aspose-pdf-24.8-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
     "size" : "80 MB",
     "name" : "aspose-pdf-24.8-jdk16.jar",
     "classifier" : "jdk16"
@@ -16,10 +22,13 @@
     "name" : "aspose-pdf-24.8-tomee.jar",
     "classifier" : "tomee"
   }, {
+    "size" : "80 MB",
+    "name" : "aspose-pdf-24.8.jar"
+  }, {
     "size" : "452 bytes",
     "name" : "aspose-pdf-24.8.pom"
   } ],
-  "releasehDate" : "2024-08-29T12:29:29+00:00",
+  "releasehDate" : "2024-08-29T12:32:34+00:00",
   "version" : "24.8",
   "ReleaseNotes" : "https://releases.aspose.com/pdf/java/release-notes/2024/aspose-pdf-for-java-24-8-release-notes/"
 }
