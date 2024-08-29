@@ -1010,4 +1010,4 @@ rewrite ^/words/java/release-notes/2013/aspose-words-for-java-15.8.0-release-not
 rewrite ^/words/java/release-notes/2015/aspose-words-for-java-15.8.0-release-notes/$ https://releases-qa.aspose.com/words/java/release-notes/2015/aspose-words-for-java-15-8-0-release-notes/ permanent;
 rewrite ^/words/net/de/release-notes/2023/$ https://releases-qa.aspose.com/words/net/release-notes/2023/ permanent;
 rewrite ^/zh/font/cpp/new-releases/aspose\.font-for-java-20\.12-macos/$ https://releases-qa.aspose.com/zh/font/cpp/ permanent;
-rewrite ^/\srepo$ https://releases-qa.aspose.com/java/repo/ permanent;
+rewrite ^/ repo$ https://releases-qa.aspose.com/java/repo/ permanent;
