@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.diagram-for-python-via-.net-24.6.0-macos-x86-64bit"
-description: " "
+title: "Optimized Page Handling - Python Visio API 24.6.0 macOS x64"
+description: "Generate Visio diagrams on macOS x64 with Aspose.Diagram for Python via .NET 24.6.0. Utilize improved page handling & shape control. Download Today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/python-net/new-releases/aspose.diagram-for-python-via-.net-24.6.0-macos-x86-64bit/"
@@ -43,8 +43,46 @@ weight: 41
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/diagram/python-net/release-notes/2024/aspose-diagram-for-python-via-net-24-6-release-notes/'>https://releases.aspose.com/diagram/python-net/release-notes/2024/aspose-diagram-for-python-via-net-24-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Python via .NET 24.6.0 macOS x86 64bit</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Python via .NET 24.6.0 macOS x86 64bit.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.Diagram for Python via .NET 24.6.0 has been released for macOS x64. This update to the Python API offers optimized page handling and theme color management for your applications running on macOS x64.
+
+### Smooth Page Handling in MacOS
+
+Implement enriched page size adjustments and prevent content overflow with optimized page handling capabilities in the most recent Python Visio API release.
+
+### Customize Shapes with Ease
+
+Aspose.Diagram for Python via .NET v24.6.0 enables you to identify if a shape has a theme color and offers immaculate styling and control over your diagrams.
+
+### Bug Fixes
+
+- Visio hyperlinks are not clickable after saving to HTML.
+- Lost connection for saving VSD to VSDX when moving shape.
+- Missing cell values after converting the VSD diagram.
+- Missing connections after converting VSD to VSDX.
+- `AutoFitPageToDrawingContent` spilling over.
+- The page size option is not working properly.
+- Visio to HTML cropped image.
+
+### Public API and Backward Incompatible Changes
+
+We have added `HasThemeColor` property to the `Shape class`, to determine if the shape has a theme color.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Diagram for Python via .NET 24.6.0 Release Notes](https://releases.aspose.com/diagram/python-net/release-notes/2024/aspose-diagram-for-python-via-net-24-6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

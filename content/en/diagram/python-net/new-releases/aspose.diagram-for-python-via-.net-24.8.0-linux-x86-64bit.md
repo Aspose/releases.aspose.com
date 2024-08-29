@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.diagram-for-python-via-.net-24.8.0-linux-x86-64bit"
-description: " "
+title: "Load HTML, Render SVG in Python | Visio API 24.8.0 (Linux)"
+description: "Create, edit, and convert Visio diagrams in Python. Download Aspose.Diagram for Python via .NET 24.8.0 on Linux to load HTML/XML, render SVGs & more."
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/python-net/new-releases/aspose.diagram-for-python-via-.net-24.8.0-linux-x86-64bit/"
@@ -43,8 +43,45 @@ weight: 52
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/diagram/python-net/release-notes/2024/aspose-diagram-for-python-via-net-24-8-release-notes/'>https://releases.aspose.com/diagram/python-net/release-notes/2024/aspose-diagram-for-python-via-net-24-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Python via .NET 24.8.0 Linux x86 64bit</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Python via .NET 24.8.0 Linux x86 64bit.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Linux developers can integrate XML/HTML loading and SVG rendering features into their diagram manipulation Python applications using Aspose.Diagram for Python via .NET 24.8.0 release. 
+
+### Load XML/HTML Files on Linux
+
+Effortlessly load and manipulate XML and HTML files in your Linux-powered applications using the latest version of the Python Visio API. 
+
+Code example:
+
+```python
+
+Diagram diagram = new Diagram("input.htm",LoadFileFormat.Html);
+
+```
+*[Source\*](https://releases.aspose.com/diagram/python-net/release-notes/2024/aspose-diagram-for-python-via-net-24-8-release-notes/)*
+
+### Supercharged SVG Rendering
+
+Developers can control SVG output with personalized SVG measurement units and easily render and export SVG graphics with advanced precision.
+
+### Empowered Visio Compatibility
+
+Accurately render your diagrams and work with refined Visio file compatibility on Linux-based systems.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Diagram for Python via .NET 24.8.0 Release Notes](https://releases.aspose.com/diagram/python-net/release-notes/2024/aspose-diagram-for-python-via-net-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
