@@ -1,12 +1,20 @@
 {
   "groupId" : "com.aspose",
-  "classifier" : "jdk16",
+  "classifier" : "jdk17",
   "artifactId" : "aspose-pdf",
   "id" : "24-8",
   "packageFiles" : [ {
     "size" : "80 MB",
     "name" : "aspose-pdf-24.8-jdk16.jar",
     "classifier" : "jdk16"
+  }, {
+    "size" : "80 MB",
+    "name" : "aspose-pdf-24.8-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "80 MB",
+    "name" : "aspose-pdf-24.8-tomee.jar",
+    "classifier" : "tomee"
   }, {
     "size" : "452 bytes",
     "name" : "aspose-pdf-24.8.pom"
