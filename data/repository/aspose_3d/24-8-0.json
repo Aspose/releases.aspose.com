@@ -1,0 +1,23 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-3d",
+  "id" : "24-8-0",
+  "packageFiles" : [ {
+    "size" : "1 MB",
+    "name" : "aspose-3d-24.8.0-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "2 MB",
+    "name" : "aspose-3d-24.8.0-jdk8.jar",
+    "classifier" : "jdk8"
+  }, {
+    "size" : "2 MB",
+    "name" : "aspose-3d-24.8.0.jar"
+  }, {
+    "size" : "1 KB",
+    "name" : "aspose-3d-24.8.0.pom"
+  } ],
+  "releasehDate" : "2024-08-30T03:22:48+00:00",
+  "version" : "24.8.0",
+  "ReleaseNotes" : "https://releases.aspose.com/3d/java/release-notes/2024/aspose-3d-for-java-24-8-0-release-notes/"
+}
