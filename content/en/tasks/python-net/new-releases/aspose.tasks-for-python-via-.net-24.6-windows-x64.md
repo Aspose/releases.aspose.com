@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-python-via-.net-24.6-windows-x64"
-description: " "
+title: "Resource Leveling in Python Apps | Aspose.Tasks 24.6 (Win64)"
+description: "Optimize your Python projects with Aspose.Tasks Python via .NET 24.6. Download now for Win x64 and access resource leveling & FIPS-compliant algorithms."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-24.6-windows-x64/"
@@ -43,8 +43,52 @@ weight: 67
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-6-release-notes/'>https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for Python via .NET 24.6 release for Win64</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for Python via .NET 24.6 release for Win64.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Take your Python applications to the next level on Windows 64-bit with the latest Aspose.Tasks for Python via .NET 24.6 release. This release introduces the new resource leveling feature, beefed-up security, and FIPS compliance.
+
+### Resource Leveling
+
+Optimize resource allocation and task scheduling with the new resource leveling feature in this version of the Python project manipulation API and ensure efficient project execution. To view the limitations related to the resource leveling feature, please visit the [release notes](https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-6-release-notes/) page.
+
+Here is how you can implement resource leveling functionality into your Python apps:
+
+```python
+
+import aspose.tasks as tsk
+
+project = tsk.Project("input.mpp")
+tsk.leveling.ResourceLeveler.level_all(project);
+
+```
+*[Source\*](https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-6-release-notes/)*
+
+### Upgraded Security
+
+You can now benefit from improved security measures to safeguard your project data and protect against any vulnerabilities on Windows x64.
+
+### FIPS-Compliant Algorithms
+
+Aspose.Tasks for Python via .NET 24.6 helps you ensure compliance with federal information processing standards (FIPS) by using secure cryptographic algorithms.
+
+### Bug Fixes
+
+We have resolved issues with time-phased data, TIFF generation, non-FIPS-compliant algorithms, and calendar reading in this release.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for Python via .NET 24.6 Release Notes](https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

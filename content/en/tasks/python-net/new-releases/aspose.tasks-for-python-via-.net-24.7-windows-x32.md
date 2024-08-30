@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-python-via-.net-24.7-windows-x32"
-description: " "
+title: "Powerful XER Project Import - Aspose.Tasks Python 24.7 Win32"
+description: "Add XER project import & more features to your Python project management apps on Win x32 with Aspose.Tasks for Python via .NET 24.7. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-24.7-windows-x32/"
@@ -43,8 +43,41 @@ weight: 70
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-7-release-notes/'>https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for Python via .NET 24.7 release for Win32</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for Python via .NET 24.7 release for Win32.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Integrate powerful project import, calendar reading, and resource management capabilities into your Windows x32 applications using Aspose.Tasks for Python via .NET 24.7.
+
+### Import XER Projects
+
+You can now import projects from XER files, including those with multiple projects easily, using the latest release of the Python project management API and guarantee a finer representation of project data.
+
+### Enriched Calendar Handling
+
+Read and interpret project calendars from XER format and obtain details, such as minutes per day, week, and month on 32-bit Windows systems.
+
+### Dynamic Resource Management
+
+Aspose.Tasks for Python via .NET 24.7 allows you to efficiently manage resource data, like resource rates and assignment work, to optimize project planning and execution.
+
+### Bug Fixes
+
+- Resolved issues with MPP9 file saving and resource-leveling.
+- Corrected time-phased data generation errors.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for Python via .NET 24.7 Release Notes](https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

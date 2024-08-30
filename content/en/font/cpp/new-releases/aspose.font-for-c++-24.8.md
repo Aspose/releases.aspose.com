@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.font-for-c++-24.8"
-description: " "
+title: "Access Font Properties in Your C++ Apps | Aspose.Font 24.8"
+description: "Aspose.Font for C++ 24.8 empowers developers to manipulate font files easily. Download now on Win/Linux/Mac & access font properties in your C++ apps."
 keywords: ""
 page_type: single_release_page
 folder_link: "/font/cpp/new-releases/aspose.font-for-c++-24.8/"
@@ -43,8 +43,44 @@ weight: 148
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/font/cpp/release-notes/2024/aspose-font-for-cpp-24-8-release-notes/'>https://releases.aspose.com/font/cpp/release-notes/2024/aspose-font-for-cpp-24-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Font for C++ 24.8 native library</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Font for C++ 24.8 native library.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Seamless access and manipulate font properties within your platform-independent C++ apps using the latest Aspose.Font for C++ release (v24.8). This release helps you simplify font manipulation tasks and improve overall performance. 
+
+### Enhanced Font Metrics Access
+
+Retrieve detailed information about font metrics, including version, metric data format, and caret offset, using the new `TtfHheaTable` properties available in the latest C++ font processing API version.
+
+### Fine-tuned Font Manipulation
+
+You can now experience smoother and more efficient font manipulation operations, thanks to underlying performance optimizations.
+
+### Cross-Platform Compatibility
+
+Aspose.Font for C++ 24.8 is fully compatible with Windows, macOS, and Linux to ensure a consistent development experience across different platforms.
+
+### Public API and Backwards Incompatible Changes
+
+### Added API Members
+
+- Property Aspose::Font::TtfTables::TtfHheaTable::get_Version()
+- Property Aspose::Font::TtfTables::TtfHheaTable::get_MetricDataFormat()
+- Property Aspose::Font::TtfTables::TtfHheaTable::get_CaretOffset()
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Font for C++ 24.8 Release Notes](https://releases.aspose.com/font/cpp/release-notes/2024/aspose-font-for-cpp-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
