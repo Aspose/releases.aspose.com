@@ -1,0 +1,13 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-total",
+  "id" : "24-8",
+  "packageFiles" : [ {
+    "size" : "6 KB",
+    "name" : "aspose-total-24.8.pom"
+  } ],
+  "type" : "pom",
+  "releasehDate" : "2024-08-31T15:39:44+00:00",
+  "version" : "24.8",
+  "ReleaseNotes" : "https://releases.aspose.com/total/java/release-notes/2024/aspose-total-for-java-24-8-release-notes/"
+}
