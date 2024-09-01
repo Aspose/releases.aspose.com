@@ -18,7 +18,7 @@ weight:  1
 
 {{< dbToolbar link="https://forum.aspose.com/c/cad" linktext=" Support Forum " >}}
 
-{{< Common/h2 text="Download Aspose.CAD SDK 24.7 to Process CAD and BIM Files"  >}}
+{{< Common/h2 text="Download Aspose.CAD SDK 24.8 to Process CAD and BIM Files"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Open {{< Common/link href="https://www.nuget.org/packages/Aspose.CAD/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.CAD</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/cad/net/installation/" text="Installation"  >}} documentation page.
 {{< Common/release-notes-link family="cad" product="net" href="https://releases.aspose.com/cad/net/release-notes/" text="https://releases.aspose.com/cad/net/release-notes/"  >}}
