@@ -2,7 +2,7 @@
 id: "aspose-gis-for-net-24-7-release-notes"
 slug: "aspose-gis-for-net-24-7-release-notes"
 linktitle: "Aspose.GIS for .NET 24.7 Release Notes"
-title: "Aspose.GIS for .NET 24.6 Release Notes"
+title: "Aspose.GIS for .NET 24.7 Release Notes"
 weight: 90
 description: "Aspose.GIS for .NET 24.7 Release Notes – the latest updates and fixes."
 type: "repository"

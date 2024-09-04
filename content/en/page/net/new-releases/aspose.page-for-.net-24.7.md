@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.page-for-.net-24.7"
-description: " "
+title: "Simplified Text Extraction with Aspose.Page .NET 24.7 (MSI)"
+description: "Streamline .NET development with reliable document processing using Aspose.Page .NET 24.7 (MSI). Download now for a new text extraction feature & more. "
 keywords: ""
 page_type: single_release_page
 folder_link: "/page/net/new-releases/aspose.page-for-.net-24.7/"
@@ -45,6 +45,38 @@ weight: 155
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Page for .NET 24.7 release Windows installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Add the ability to extract text to your .NET XPS and PS manipulation apps with the latest Aspose.Page for .NET 24.7 (MSI) release. Empower your C# document conversion solutions on Windows with enhanced PS to PDF and EPS to Image conversions.
+
+### Extract Text from Documents
+
+Leverage the simplified text extraction capability of the C# API for XPS and PS processing with the new `ExtractText` functionality in this release. Effortlessly retrieve text content from various document formats supported by the .NET API.
+
+### Improved PS to PDF Conversion
+
+Convert PS to PDF accurately with fixes for application crashes during large file processing and unwanted color issues now fixed.
+
+### Enriched EPS to Image Conversion in .NET
+
+Enjoy highly accurate image generation from EPS files by resolving the issues that previously produced blank output.
+
+### Resolved Exception
+
+A critical bug causing a `System.NullReferenceException` while saving PS to EPS format has been addressed in this version.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Page for .NET 24.7 Release Notes](https://releases.aspose.com/page/net/release-notes/2024/aspose-page-for-net-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

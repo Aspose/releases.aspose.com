@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.cad-for-.net-24.7"
-description: " "
+title: "Improved STEP File, Scaling Support - C# CAD API 24.7 (MSI)"
+description: "Boost C# CAD development with Aspose.CAD for .NET 24.7 (MSI). Download now for improved STEP file support, enhanced scaling, and DXF/DWG export."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cad/net/new-releases/aspose.cad-for-.net-24.7/"
@@ -43,8 +43,62 @@ weight: 232
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cad/net/release-notes/2024/aspose-cad-for-net-24-7-release-notes/'>https://releases.aspose.com/cad/net/release-notes/2024/aspose-cad-for-net-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Contains MSI installer for full product installation of Aspose.CAD for .NET v24.7</div>
+      <h4>Description</h4><div class="HTMLDescription">Contains MSI installer for full product installation of Aspose.CAD for .NET v24.7.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+You can seamlessly create, manipulate, and convert CAD files within your C# applications using the newest release of Aspose.CAD for .NET (v24.7, MSI). Work with several new feature enhancements to augment your .NET CAD workflows.
+
+### STEP File Implementation
+
+This release of the C# CAD processing API includes enhanced support for STEP files, a widely used format for exchanging 3D models.
+
+### Improved Scaling
+
+Leverage more precise scaling of line types with SHX symbols for immaculate representations in your .NET applications.
+
+### Enhanced CAD Conversion
+
+You can now enjoy smoother conversions between CAD formats with optimized algorithms and better handling of missing logos and line thicknesses.
+
+### Streamlined DXF and DWG Export
+
+Aspose.CAD for .NET 24.7 provides unified options for exporting DXF and DWG files and simplifies your workflow.
+
+### Other Highlights
+
+### STEP File Enhancements:
+- Updated header properties for STP files.
+- Improved loading and handling of STP files.
+- Fine-tuned reading and writing properties and handles for entities and objects.
+
+### Export Improvements:
+- Optimized PDF export with tables intact.
+- Implemented the ability to save colors into STP files.
+- Upgraded multiline text (SHX) rendering.
+
+### Conversion and Rendering:
+- Refined STP to PDF and STP to STP conversions.
+- Improved color parsing and export for STP files.
+- Optimized the conversion time of CadMText objects into APS objects.
+
+### Compatibility and Performance:
+- Enhanced DWG to DXF conversions that produced files that were difficult to open.
+- Improved support for unsupported color policies in CTB files.
+- Added support for the DRC format.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.CAD for .NET 24.7 Release Notes](https://releases.aspose.com/cad/net/release-notes/2024/aspose-cad-for-net-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

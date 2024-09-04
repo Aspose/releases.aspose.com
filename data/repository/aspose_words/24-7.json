@@ -3,6 +3,10 @@
   "artifactId" : "aspose-words",
   "id" : "24-7",
   "packageFiles" : [ {
+    "size" : "16 MB",
+    "name" : "aspose-words-24.7-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
     "size" : "5 KB",
     "name" : "aspose-words-24.7.pom"
   } ],

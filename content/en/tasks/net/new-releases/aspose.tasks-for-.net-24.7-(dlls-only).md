@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-.net-24.7-(dlls-only)"
-description: " "
+title: "Immaculate Project Import in Aspose.Tasks .NET 24.7 (DLLs)"
+description: "Integrate XER project import, calendar reading, and more into C# project management apps with Aspose.Tasks for .NET 24.7 (DLLs only). Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/net/new-releases/aspose.tasks-for-.net-24.7-(dlls-only)/"
@@ -45,6 +45,38 @@ weight: 525
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for .NET 24.7 (DLLs Only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+Aspose.Tasks for .NET 24.7 (DLLs Only) offers a powerful solution for .NET project management by providing enhanced project import, accurate calendar reading, and more. The DLLs package helps simplify your development workflow and integration across platforms.
+
+### Immaculate Project Import
+
+The C# project management API now supports importing projects from XER files having multiple projects with precise project import order.
+
+### Empowered Calendar Reading
+
+Boost the project reading functionality in your C# and VB.NET project management applications with fine-tuned calendar reading functionality for XER format.
+
+### Data Export Updates
+
+Effectively export project information using the enhanced `PrimaveraProjectInfo` class and its associated methods in your cross-platform C# project applications.
+
+### Critical Bug Fixes
+
+We have resolved several problems that impact project data integrity and overall performance so that you can enjoy a smoother development experience.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for .NET 24.7 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

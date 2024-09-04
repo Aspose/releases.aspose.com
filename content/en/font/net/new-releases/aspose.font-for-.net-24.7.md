@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.font-for-.net-24.7"
-description: " "
+title: "Upgrade Font Manipulation with Aspose.Font .NET 24.7 (MSI)"
+description: "Empower your C# and VB.NET applications with Aspose.Font for .NET 24.7 (MSI). Convert, edit, and render fonts seamlessly. Download now for Windows!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/font/net/new-releases/aspose.font-for-.net-24.7/"
@@ -43,8 +43,40 @@ weight: 71
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/font/net/release-notes/2024/aspose-font-for-net-24-7-release-notes/'>https://releases.aspose.com/font/net/release-notes/2024/aspose-font-for-net-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Font for .NET 24.7 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Font for .NET 24.7 (MSI) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Effortlessly manipulate different types of fonts with the latest Aspose.Font for .NET 24.7 (MSI) release. This update equips developers to work with fonts and utilize the new features and enhancements to organize your font manipulation tasks.
+
+### Upgrade Font Conversion in Your Apps
+
+Our .NET font processing library now supports the 'vhea' table in `TrueType` font conversion to ensure precise and accurate results on Windows.
+
+### Expanded Functionality
+
+The addition of new properties for the `TtfHheaTable` class in version 24.7 of Aspose.Font for .NET provides greater control over font metrics.
+
+### Public API and Backwards Incompatible Changes
+
+### Added API Members
+
+- Aspose.Font.TtfTables.TtfHheaTable.Version
+- Aspose.Font.TtfTables.TtfHheaTable.MetricDataFormat
+- Aspose.Font.TtfTables.TtfHheaTable.CaretOffset
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Font for .NET 24.7 Release Notes](https://releases.aspose.com/font/net/release-notes/2024/aspose-font-for-net-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

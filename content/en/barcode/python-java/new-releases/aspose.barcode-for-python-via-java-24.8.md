@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-python-via-java-24.8"
-description: " "
+title: "Python Barcode API 24.8 | QR & Australia Post Improvements"
+description: "Level up Python barcode apps with improved QR code reading & Australian Post barcode generation. Download Aspose.BarCode Python via Java 24.8 now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-24.8/"
@@ -43,8 +43,65 @@ weight: 57
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/python-java/release-notes/2024/aspose-barcode-for-python-via-java-24-8-release-notes/'>https://releases.aspose.com/barcode/python-java/release-notes/2024/aspose-barcode-for-python-via-java-24-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Python via Java 24.8 has been released</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Python via Java 24.8 has been released.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+### QR Code Recognition Accuracy Improvements
+
+Aspose.BarCode for Python via Java 24.8 offers better accuracy as the QR code recognition engine has been optimized with the enhanced `HighQuality` preset. This code example illustrates how to use this feature in Python.
+
+```python
+
+def exampe1(self):
+    file_path = self.folder + "qr.png"
+    ta.is_exists(file_path)
+    reader = Recognition.BarCodeReader(file_path, None, Recognition.DecodeType.QR)
+    reader.setQualitySettings(Recognition.QualitySettings.getHighQuality())
+    results = reader.readBarCodes()
+    i = 0
+    while (i < len(results)):
+        print(f"BarCode CodeText: {results[i].getCodeText()}")
+        print(f"BarCode CodeTypeName: {results[i].getCodeTypeName()}")
+        i += 1
+
+```
+*[Source\*](https://releases.aspose.com/barcode/python-java/release-notes/2024/aspose-barcode-for-python-via-java-24-8-release-notes/)*
+
+### Fine-tuned Australia Post Barcode Generation
+
+The `AustralianPostShortBarHeight` parameter now functions as intended in the Python barcode API to allow you to control the height of the short bars within the barcode. 
+
+Code example:
+
+```python
+
+def exampe2(self):
+    generator = Generation.BarcodeGenerator(Generation.EncodeTypes.AUSTRALIA_POST, "6212345678AP")
+    generator.getParameters().getBarcode().getAustralianPost().setAustralianPostEncodingTable(Generation.CustomerInformationInterpretingType.C_TABLE)
+    generator.getParameters().getBarcode().getBarHeight().setPixels(100)
+    generator.getParameters().getBarcode().getAustralianPost().getAustralianPostShortBarHeight().setPixels(10)
+    generator.getParameters().getBarcode().getPadding().getLeft().setPixels(10)
+    generator.getParameters().getBarcode().getPadding().getTop().setPixels(10)
+    generator.getParameters().getBarcode().getPadding().getRight().setPixels(10)
+    generator.getParameters().getBarcode().getPadding().getBottom().setPixels(10)
+    generator.save(self.folder + "AustraliaPost-Python.png", Generation.BarCodeImageFormat.PNG)
+
+```
+*[Source\*](https://releases.aspose.com/barcode/python-java/release-notes/2024/aspose-barcode-for-python-via-java-24-8-release-notes/)*
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for Python via Java 24.8 Release Notes](https://releases.aspose.com/barcode/python-java/release-notes/2024/aspose-barcode-for-python-via-java-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.page-for-.net-24.7-(dlls-and-docs)"
-description: " "
+title: "Extract Document Text | Aspose.Page .NET 24.7 (DLLs & Docs)"
+description: "Take .NET development to the next level with the new and reliable text extraction functionality using Aspose.Page for .NET 24.7 (DLLs & Docs). Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/page/net/new-releases/aspose.page-for-.net-24.7-(dlls-and-docs)/"
@@ -43,8 +43,40 @@ weight: 154
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/page/net/release-notes/2024/aspose-page-for-net-24-7-release-notes/'>https://releases.aspose.com/page/net/release-notes/2024/aspose-page-for-net-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">We are pleased to announce a new version of Aspose.Page for .Net.</div>
+      <h4>Description</h4><div class="HTMLDescription">We are pleased to announce a new version (24.7) of Aspose.Page for .NET (DLLs & Docs).</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Integrate the new text extraction functionality into your existing .NET XPS and PS manipulation projects with the latest Aspose.Page for .NET release (v24.7, DLLs & Docs).
+
+### Extract Document Text Seamlessly
+
+Developers can use the streamlined text extraction feature of the C# API for XPS processing with the new `ExtractText` functionality in this version. Easily fetch text content from different document formats supported by the .NET API.
+
+### Fine-tuned PS to PDF Conversion
+
+Accurately convert PS to PDF with fixes for application crashes while processing large files and unwanted color issues now added.
+
+### EPS to Image Conversion in .NET Apps
+
+Experience high accuracy when generating images from EPS files by resolving the problems that produced blank output previously.
+
+### Resolved Exception
+
+A critical bug causing a `System.NullReferenceException` while saving PS to EPS format has been addressed in this release.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Page for .NET 24.7 Release Notes](https://releases.aspose.com/page/net/release-notes/2024/aspose-page-for-net-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

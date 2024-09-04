@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-.net-24.7"
-description: " "
+title: "Import Multiple XER Projects | Aspose.Tasks .NET 24.7 (MSI)"
+description: "Power up project management in C# with upgraded project import, calendar reading, and more using Aspose.Tasks for .NET 24.7 (MSI). Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/net/new-releases/aspose.tasks-for-.net-24.7/"
@@ -45,6 +45,38 @@ weight: 524
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains MSI with Aspose.Tasks for .NET 24.7 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+This update to Aspose.Tasks for .NET (v24.7, MSI installer) empowers developers to refine project import and improve calendar reading accuracy. It also addresses different bugs to ensure smooth integration into your .NET applications.
+
+### Import XER Projects
+
+The latest release of the C# project management API enables importing projects from XER files containing multiple projects with precise project import order.
+
+### Calendar Reading Boost
+
+.NET developers can now experience refined calendar reading functionality for XER format and ascertain impeccable project scheduling.
+
+### Supercharged Data Export
+
+Efficiently export project information with the upgraded `PrimaveraProjectInfo` class and its associated methods in your C# and VB.NET project applications.
+
+### Critical Bug Fixes
+
+We have resolved various issues that impact project data integrity and overall performance so that you can enjoy a smoother development experience.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for .NET 24.7 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

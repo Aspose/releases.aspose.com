@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.font-for-c++-24.8-linux"
-description: " "
+title: "Access Font Properties in C++ Apps | Aspose.Font 24.8 macOS"
+description: "Unlock the power of font manipulation on macOS with Aspose.Font for C++ 24.8. Download the API to access font properties like version & metric data format."
 keywords: ""
 page_type: single_release_page
 folder_link: "/font/cpp/new-releases/aspose.font-for-c++-24.8-linux/"
@@ -43,8 +43,40 @@ weight: 146
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/font/cpp/release-notes/2024/aspose-font-for-cpp-24-8-release-notes/'>https://releases.aspose.com/font/cpp/release-notes/2024/aspose-font-for-cpp-24-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Font for C++ 24.8 Linux native library</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Font for C++ 24.8 Linux native library release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Linux developers can incorporate the functionality of accessing font properties into their C++ solutions with the latest Aspose.Font for C++ API release. 
+
+### Effortlessly Access Font Properties
+
+Obtain comprehensive information about font metrics, including version, metric data format, and caret offset, using the newly introduced `TtfHheaTable` properties in the most recent C++ font processing library release.
+
+### Manipulate Fonts on Linux
+
+Leverage different performance enhancements added to this API version and enjoy elevated font manipulation operations in your C++ applications.
+
+### Public API and Backwards Incompatible Changes
+
+### Added API Members
+
+- Property Aspose::Font::TtfTables::TtfHheaTable::get_Version()
+- Property Aspose::Font::TtfTables::TtfHheaTable::get_MetricDataFormat()
+- Property Aspose::Font::TtfTables::TtfHheaTable::get_CaretOffset()
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Font for C++ 24.8 Release Notes](https://releases.aspose.com/font/cpp/release-notes/2024/aspose-font-for-cpp-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

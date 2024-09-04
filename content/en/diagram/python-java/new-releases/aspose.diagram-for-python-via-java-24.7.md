@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.diagram-for-python-via-java-24.7"
-description: " "
+title: "Python Diagram API 24.7 - Improved Connector Customization"
+description: "Get greater control over your diagram layouts with customized connector jump values using Aspose.Diagram for Python via Java API v24.7. Download today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/python-java/new-releases/aspose.diagram-for-python-via-java-24.7/"
@@ -43,8 +43,34 @@ weight: 35
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/diagram/python-java/release-notes/2024/aspose-diagram-for-python-via-java-24-7-release-notes/'>https://releases.aspose.com/diagram/python-java/release-notes/2024/aspose-diagram-for-python-via-java-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Python via Java 24.7</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Python via Java 24.7 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+### Connector Jump Value Customization
+
+Aspose.Diagram for Python via Java 24.7 offers tailored connector jump behavior to your specific needs and guarantees optimal diagram appearance and readability.
+
+### Immaculate Performance
+
+Developers can benefit from optimized code and improved efficiency while using the Python diagram API, which results in faster diagram generation and manipulation.
+
+### Simplified API
+
+With intuitive and user-friendly API methods, you can find it easier than ever to work with diagrams in your cross-platform Python applications.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Diagram for Python via Java 24.7 Release Notes](https://releases.aspose.com/diagram/python-java/release-notes/2024/aspose-diagram-for-python-via-java-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

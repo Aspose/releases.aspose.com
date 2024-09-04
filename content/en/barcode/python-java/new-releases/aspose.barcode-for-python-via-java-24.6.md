@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-python-via-java-24.6"
-description: " "
+title: "HanXin, CodeText Encoding Upgrade | Python Barcode API 24.6"
+description: "Utilize improved HanXin barcode recognition & control over CodeText encoding in 2D barcodes. Download Aspose.BarCode for Python via Java 24.6 now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-24.6/"
@@ -43,8 +43,38 @@ weight: 55
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/python-java/release-notes/2024/aspose-barcode-for-python-via-java-24-6-release-notes/'>https://releases.aspose.com/barcode/python-java/release-notes/2024/aspose-barcode-for-python-via-java-24-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Python via Java 24.6 has been released</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Python via Java 24.6 has been released.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+### HanXin Recognition Accuracy Upgrade
+
+Aspose.BarCode for Python via Java 24.6 offers improved performance when recognizing HanXin barcodes, which leads to more reliable results.
+
+### Fine-tuned Codetext Encoding for 2D Barcodes
+
+Gain greater control over `CodeText` encoding in various 2D barcode symbologies using this release of the Python barcode recognition API and enhance data representation flexibility.
+
+### Codabar Start/Stop Symbol Access
+
+You can now extract and set start/stop symbol information for Codabar barcodes using new API members.
+
+### API Changes
+
+Version 24.6 of the Python barcode library includes API updates related to `CodeText` encoding. Some deprecated methods have been removed, while new ones have been introduced.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for Python via Java 24.6 Release Notes](https://releases.aspose.com/barcode/python-java/release-notes/2024/aspose-barcode-for-python-via-java-24-6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

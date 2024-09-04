@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.diagram-for-python-via-java-24.6"
-description: " "
+title: "Aspose.Diagram Python 24.6 | Theme Color Management Boost"
+description: "Optimize your Python diagram workflows with Aspose.Diagram Python via Java 24.6. This update introduces theme color handling for shapes. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/python-java/new-releases/aspose.diagram-for-python-via-java-24.6/"
@@ -43,8 +43,34 @@ weight: 34
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/diagram/python-java/release-notes/2024/aspose-diagram-for-python-via-java-24-6-release-notes/'>https://releases.aspose.com/diagram/python-java/release-notes/2024/aspose-diagram-for-python-via-java-24-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Python via Java 24.6</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Python via Java 24.6 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+### Theme Color Detection
+
+Boost your Python diagramming applications with theme color management and easily determine if a shape has a theme color applied. This update enables you to customize and style your diagrams effectively.
+
+### Shape Relationship Retrieval
+
+Simplify data analysis and manipulation by accurately extracting shape relationships from imported VSD files using Aspose.Diagram for Python via Java 24.6.
+
+### Performance Efficiency
+
+The optimized code and enhanced efficiency let you benefit from faster diagram processing and improved responsiveness.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Diagram for Python via Java 24.6 Release Notes](https://releases.aspose.com/diagram/python-java/release-notes/2024/aspose-diagram-for-python-via-java-24-6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

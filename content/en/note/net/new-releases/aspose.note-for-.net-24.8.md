@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.note-for-.net-24.8"
-description: " "
+title: "Streamline OneNote® Workflows | Aspose.Note .NET 24.8 (MSI)"
+description: "Streamline C#, .NET development with Aspose.Note for .NET 24.8! Effortlessly manage OneNote files, import HTML, & fix Unicode links. Download MSI today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/note/net/new-releases/aspose.note-for-.net-24.8/"
@@ -43,8 +43,40 @@ weight: 214
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/note/net/release-notes/2024/aspose-note-for-net-24-8-release-notes/'>https://releases.aspose.com/note/net/release-notes/2024/aspose-note-for-net-24-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Note for .NET 24.8 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Note for .NET 24.8 (MSI) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+The latest release of Aspose.Note for .NET (v24.8, MSI installer) empowers developers with improved functionalities for handling OneNote files within their C# and VB.NET applications.
+
+### Unicode Link Handling
+
+The OneNote document manipulation API now accurately processes hyperlinks containing Unicode characters within the link path to help you guarantee seamless navigation and streamline OneNote workflows.
+
+### Enhanced HTML Import
+
+We have added new `Import` methods to this version to provide greater control when importing HTML content into your OneNote files.
+
+### Public API and Backwards Incompatible Changes
+
+### Added API Members
+
+- Aspose.Note.Document.Import(System.IO.Stream,Aspose.Note.Importing.HtmlImportOptions,Aspose.Note.MergeOptions)
+- Aspose.Note.Document.Import(System.String,Aspose.Note.Importing.HtmlImportOptions,Aspose.Note.MergeOptions)
+- Aspose.Note.Importing.HtmlImportOptions.Password
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Note for .NET 24.8 Release Notes](https://releases.aspose.com/note/net/release-notes/2024/aspose-note-for-net-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

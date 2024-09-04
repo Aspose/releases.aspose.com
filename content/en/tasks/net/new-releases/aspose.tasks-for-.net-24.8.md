@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-.net-24.8"
-description: " "
+title: "Accurate Task Rescheduling in Aspose.Tasks .NET 24.8 (MSI)"
+description: "Streamline project scheduling and management with Aspose.Tasks for .NET 24.8 (MSI). Download now for accurate task rescheduling & duration calculations."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/net/new-releases/aspose.tasks-for-.net-24.8/"
@@ -45,6 +45,34 @@ weight: 526
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains MSI with Aspose.Tasks for .NET 24.8 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}
+
+.NET developers can refine task scheduling, improve calculation accuracy, and address bugs to ensure seamless integration into their C# and VB.NET applications using the latest release of Aspose.Tasks for .NET (v24.8) on Windows.
+
+### Accurate Task Rescheduling
+
+Experience precise task rescheduling with the enhanced `RescheduleUncompletedWorkToStartAfter` logic added to the latest update of the task management C# API.
+
+### Improved Duration Calculations
+
+Benefit from refined calculations for `ActualDuration`, `Duration`, and `Finish` properties in Aspose.Tasks for .NET to ascertain precise project timelines in your .NET applications.
+
+### Enhanced Task Tracking
+
+In this release, we have incorporated effective task progress tracking with accurate Stop/Resume property calculations.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for .NET 24.8 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

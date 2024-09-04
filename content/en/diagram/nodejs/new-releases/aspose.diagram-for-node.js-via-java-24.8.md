@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.diagram-for-node.js-via-java-24.8"
-description: " "
+title: "Easily Extract Theme Color with Aspose.Diagram Node.js 24.8"
+description: "Power your Node.js apps with our robust Aspose.Diagram for Node.js via Java API v24.8. This update brings theme color information extraction. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/nodejs/new-releases/aspose.diagram-for-node.js-via-java-24.8/"
@@ -43,8 +43,42 @@ weight: 46
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/diagram/nodejs/release-notes/2024/aspose-diagram-for-node-js-via-java-24-8-release-notes/'>https://releases.aspose.com/diagram/nodejs/release-notes/2024/aspose-diagram-for-node-js-via-java-24-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Node.js via Java 24.8</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Node.js via Java 24.8 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+### Effortless Theme Color Extraction
+
+Easily extract theme color information from your diagrams and upgrade your Node.js solutions with the ability to generate visually consistent and engaging diagrams using the latest Nodes.js Visio files processing library version.
+
+### Immaculate Cross-Platform Performance 
+
+Developers can enjoy faster processing and refined memory usage to guarantee elevated performance levels even when dealing with larger diagram files.
+
+### New Public API: Load HTML Files Option
+
+Aspose.Diagram for Node.js via Java 24.8 introduces the ability to load diagrams from HTML files using the `LoadFileFormat.HTML` option to expand your diagram source options.
+
+Here is how you can use this feature in your Node.js applications.
+
+```js
+
+Diagram diagram = new Diagram("input.htm",LoadFileFormat.HTML);
+
+```
+*[Source\*](https://releases.aspose.com/diagram/nodejs/release-notes/2024/aspose-diagram-for-node-js-via-java-24-8-release-notes/)*
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Diagram for Node.js via Java 24.8 Release Notes](https://releases.aspose.com/diagram/nodejs/release-notes/2024/aspose-diagram-for-node-js-via-java-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
