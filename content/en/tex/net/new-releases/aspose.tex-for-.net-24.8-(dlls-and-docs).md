@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tex-for-.net-24.8-(dlls-and-docs)"
-description: " "
+title: "Update TeX Documents | Aspose.TeX .NET 24.8 (DLLs & Docs)"
+description: "Download Aspose.TeX for .NET 24.8 (DLLs & Docs) and enjoy the benefits of &bsol;write18 support, random number generation, and improved shell mode."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tex/net/new-releases/aspose.tex-for-.net-24.8-(dlls-and-docs)/"
@@ -45,6 +45,61 @@ weight: 54
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.TeX for .NET 24.8 (DLLs and docs) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.TeX for .NET 24.8 (DLLs & Docs) offers a flexible way to work with TeX documents within your C# and .NET applications. This release provides several enhancements, including support for the `\write18` command and more.
+
+### Updated `\write18` Support
+
+Enhance your TeX document processing C# applications with the functionality to conveniently write to external files from your TeX documents using the `\write18` command.
+
+### Generate Random Numbers in .NET Apps
+
+The latest .NET TeX API release supports creating dynamic and randomized content using the newly added random number primitives.
+
+### Shell Mode Improvements
+
+Update your C# and VB.NET applications with refined shell mode capabilities for greater flexibility in executing external commands.
+
+### Public API and Backwards Incompatible Changes
+
+### Added API Members
+
+- Type Aspose.TeX.ShellMode
+- Field Aspose.TeX.ShellMode.NoShellEscape
+- Field Aspose.TeX.ShellMode.ShellRestricted
+- Property Aspose.TeX.TeXOptions.ShellMode
+- Property Aspose.TeX.TeXOptions.Executables
+- Type Aspose.TeX.CommandLine.Base64Exec
+- Property Aspose.TeX.CommandLine.Base64Exec.CommandName
+- Method Aspose.TeX.CommandLine.Base64Exec.#ctor
+- Method Aspose.TeX.CommandLine.Base64Exec.Execute(System.String[])
+- Type Aspose.TeX.CommandLine.Executable
+- Property Aspose.TeX.CommandLine.Executable.CommandName
+- Property Aspose.TeX.CommandLine.Executable.OutputRedirectStream
+- Property Aspose.TeX.CommandLine.Executable.Terminal
+- Method Aspose.TeX.CommandLine.Executable.#ctor
+- Method Aspose.TeX.CommandLine.Executable.GetInputReader(System.String)
+- Method Aspose.TeX.CommandLine.Executable.Execute(System.String[])
+- Type Aspose.TeX.CommandLine.ExecutablesList
+- Property Aspose.TeX.CommandLine.ExecutablesList.List
+- Method Aspose.TeX.CommandLine.ExecutablesList.Add(Aspose.TeX.CommandLine.Executable)
+- Method Aspose.TeX.CommandLine.ExecutablesList.Remove(System.String)
+- Type Aspose.TeX.CommandLine.Write18Exception
+- Method Aspose.TeX.CommandLine.Write18Exception.#ctor(System.String)
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.TeX for .NET 24.8 Release Notes](https://releases.aspose.com/tex/net/release-notes/2024/aspose-tex-for-net-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
