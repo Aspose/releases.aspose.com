@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.diagram-for-python-via-.net-24.7.0-macos-x86-64bit"
-description: " "
+title: "Elevate Visio Apps on macOS x64 | Python Diagram API 24.7.0"
+description: "Effortlessly process Visio files on macOS x64 systems with Aspose.Diagram for Python via .NET 24.7.0. Download now and enjoy precise connector control."
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/python-net/new-releases/aspose.diagram-for-python-via-.net-24.7.0-macos-x86-64bit/"
@@ -43,8 +43,41 @@ weight: 46
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/diagram/python-net/release-notes/2024/aspose-diagram-for-python-via-net-24-7-release-notes/'>https://releases.aspose.com/diagram/python-net/release-notes/2024/aspose-diagram-for-python-via-net-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Python via .NET 24.7.0 macOS x86 64bit</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Python via .NET 24.7.0 macOS x86 64bit.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+We are pleased to announce the release of the latest Aspose.Diagram for Python via .NET API v24.7.0. This update brings an enhanced connector control feature to level up your Python Visio files processing apps powered by macOS x64.
+
+### Elevate Connector Jump Code Functionality
+
+With the newest Python diagram API release, you can insert jump code and jump style values to connectors inside the diagram shapes. This feature helps you generate accurate and visually appealing Visio diagrams on macOS x64-powered machines.
+
+Code example:
+
+```python
+
+shape.SetConnectorJumpValue(ConLineJumpCodeValue.Always,ConLineJumpStyleValue.Arc);
+
+```
+*[Source\*](https://releases.aspose.com/diagram/python-net/release-notes/2024/aspose-diagram-for-python-via-net-24-7-release-notes/)*
+
+### Superior Connection Point Placement
+
+The issues with connection points not working correctly have been addressed in this Python API release and you can now leverage an optimized connecting points placement process.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Diagram for Python via .NET 24.7.0 Release Notes](https://releases.aspose.com/diagram/python-net/release-notes/2024/aspose-diagram-for-python-via-net-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

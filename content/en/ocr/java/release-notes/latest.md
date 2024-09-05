@@ -2,7 +2,7 @@
 id: "aspose-ocr-for-java-latest-release-notes"
 slug: "latest"
 weight: 1
-date: "2024-06-18"
+date: "2024-09-04"
 author: "Vladimir Lapin"
 type: "repository"
 layout: "release"
@@ -18,7 +18,7 @@ keywords:
 ---
 
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for Java 24.6.1 (June 2024)** release.
+This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for Java 24.8.0 (August 2024)** release.
 
 GPU version: **24.2.0**
 {{% /alert %}}
@@ -37,87 +37,36 @@ To make it easier to upgrade your code, we have kept all legacy values, but mark
 
 Key | Summary | Category
 --- | ------- | --------
-OCRJAVA&#8209;381 | Automatic extraction of key details (such as a number, birth date, and the like) from passport images. | New feature
-OCRJAVA&#8209;382 | Embedding of user-specified fonts in recognition results saved as PDFs. | Enhancement
+OCRJAVA&#8209;389 | Significantly improved automatic correction of rotated and upside-down images. | Enhancement
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OCR for Java 24.6.1** that may affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OCR for Java 24.8.0** that may affect the code of existing applications.
 
 ### Added public APIs:
 
-The following public APIs have been added to **Aspose.OCR for Java 24.6.1** release:
-
-#### `Country` enumeration
-
-A list of countries for retrieving specific details (such as a number, name, date of birth, and so on) from passport images.
-
-Value | Country
------ | -------
-`Country.NONE` | Do not parse passport details (only recognize passport text).
-`Country.MADAGASCAR` | Parse Malagasy passports.
-`Country.USA` | Parse US passports.
-
-#### `PassportRecognitionSettings.setCountry()`
-
-This function allows you to specify the passport issuing country. It is necessary for proper work of `RecognitionResult.GetKeywords()` method.
-
-#### `RecognitionResult.GetKeywords()` method
-
-Returns passport details as a collection of key-value pairs (`HashMap`). The specific details extracted depend on the passport’s origin, which is specified in the `Country` parameter of the [passport recognition settings](https://docs.aspose.com/ocr/java/recognition-settings-passport/).
+_No changes._
 
 ### Updated public APIs:
 
-The following public APIs have been changed in **Aspose.OCR for Java 24.6.1** release:
-
-#### `SaveMultipageDocument()` method
-
-{{% alert color="info" %}}
-**Compatibility: fully backward compatible.**
-{{% /alert %}}
-
-Added an optional `embeddedFontPath` parameter, which allows to embed a custom TrueType (.TTF) or OpenType (.OTF) font into the recognition result saved as a PDF document.
+_No changes._
 
 ### Removed public APIs:
 
 _No changes._
 
-## Examples
+## Changes to application logic
 
-The code samples below illustrate the changes introduced in this release:
+This section lists all improvements introduced in **Aspose.OCR for Java 24.8.0** that do not affect the public APIs and thus do not require changes to your application code.
 
-### US passport recognition
+### Improved skew correction
 
-```java
-// Initialize Aspose.OCR recognition API
-AsposeOCR api = new AsposeOCR();
-// Add passport image to the recognition batch
-OcrInput source = new OcrInput(InputType.SingleImage);
-source.add("passport.png");
-// Specify the country of passport origin
-PassportRecognitionSettings settings = new PassportRecognitionSettings();
-settings.setCountry(Country.USA);
-// Extract and parse passport details
-RecognitionResult result = api.RecognizePassport(input, settings).get(0);
-HashMap<String, RecognitionResult.LinesResult> keywords = result.GetKeywords();
-// Output passport details
-for(String key : keywords.keySet()) {
-	out.print("Key: "+key);
-	out.println("  Value: "+keywords.get(key).textInLine);
-}
-```
+{{% alert color="info" %}}
+**Compatibility: fully backward compatible.**
+{{% /alert %}}
 
-### Embed custom font into saved PDF
+Aspose.OCR for Java significantly improves the algorithm for detecting rotated images. The library can now [automatically detect and correct](https://docs.aspose.com/ocr/java/deskew/) large image skew angles, such as 90 degrees, and even handle upside-down images.
 
-```java
-// Initialize Aspose.OCR recognition API
-AsposeOCR api = new AsposeOCR();
-// Add an image to OcrInput object
-OcrInput input = new OcrInput(InputType.SingleImage);
-input.Add("page1.png");
-input.Add("page2.png");
-// Recognize image
-ArrayList<RecognitionResult> results = api.Recognize(input);
-// Save all pages to PDF document
-AsposeOcr.SaveMultipageDocument("result.pdf", Format.PdfNoImg, results, "fonts/AdobeMingStd-Light.otf");
-```
+{{% alert color="primary" %}}
+In some edge cases, automatic skew correction may not detect the angle of the image. To deal with such situations, you can [manually rotate](https://docs.aspose.com/ocr/java/deskew/#manual-skew-correction) the image by the specified degree.
+{{% /alert %}}

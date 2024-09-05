@@ -2,7 +2,7 @@
 id: "aspose-omr-for-net-latest-release-notes"
 slug: "latest"
 weight: 1
-date: "2024-07-29"
+date: "2024-09-04"
 author: "Vladimir Lapin"
 type: "repository"
 layout: "release"
@@ -16,60 +16,69 @@ keywords:
 ---
 
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OMR for .NET 24.7.0 (July 2024)**](https://www.nuget.org/packages/Aspose.OMR/24.7.0) release.
+This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OMR for .NET 24.9.0 (September 2024)**](https://www.nuget.org/packages/Aspose.OMR/24.9.0) release.
+{{% /alert %}}
+
+## Deprecation warning
+
+{{% alert color="caution" %}}
+The release 24.9.0 introduces the universal form generation API which replaces the existing methods.
+
+To make it easier to upgrade your code, we have kept all legacy methods, but marked them as deprecated. All of your existing code will continue to work and you can even make minor updates to it, but be aware that all deprecated methods are scheduled to be removed in release **25.1.0 (January 2025)**.
+
+**Time to deprecation: 4 months left.**
 {{% /alert %}}
 
 ## What was changed
 
 Key | Summary | Category
 --- | ------- | --------
-OMRNET&#8209;1038 | Added the ability to rotate barcode elements. | New feature
-OMRNET&#8209;1039 | Improved the accuracy of form generation when using elements with dynamic width. | Enhancement
+OMRNET&#8209;1046 | Streamlined the form generation API. | Enhancement
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OMR for .NET 24.7.0** that may affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OMR for .NET 24.9.0** that may affect the code of existing applications.
 
 ### Added public APIs:
 
-The following public APIs have been added to Aspose.OMR for .NET 24.7.0:
+The following public APIs have been added to Aspose.OMR for .NET 24.9.0:
 
-#### `rotation_angle` barcode element property
+#### `Aspose.OMR.Api.OmrEngine.Generate` method
 
-Specifies the rotation angle (in degrees) of the barcode element.
-
-Negative angle rotates the element counter-clockwise, positive angle rotates the element clockwise.
-
-#### `RotationAngle` property of `BarcodeConfig`
-
-Specifies the rotation angle (in degrees) of the barcode element.
-
-Negative angle rotates the element counter-clockwise, positive angle rotates the element clockwise.
+Renders the template source code into a printable form. This method works as the universal replacement for the existing `Aspose.OMR.Api.OmrEngine.GenerateTemplate` and `Aspose.OMR.Api.OmrEngine.GenerateJSONTemplate` methods by automatically detecting the source code format.
 
 ### Updated public APIs:
 
-_No changes_
+_No changes._
 
 ### Removed public APIs:
 
-_No changes_
+_No changes._
+
+### Deprecated APIs
+
+The following public APIs have been marked as deprecated and will be removed in **25.1.0 (January 2025)** release:
+
+#### `Aspose.OMR.Api.OmrEngine.GenerateTemplate` method
+
+Use the universal `Aspose.OMR.Api.OmrEngine.Generate` method to automatically detect the form's source code format.
+
+#### `Aspose.OMR.Api.OmrEngine.GenerateJSONTemplate` method
+
+Use the universal `Aspose.OMR.Api.OmrEngine.Generate` method to automatically detect the form's source code format.
+
+#### `Aspose.OMR.Api.OmrEngine.GenerateJSONTemplateFromString` method
+
+This method is scheduled to be removed in release **25.1.0 (January 2025)**.
 
 ## Usage examples
 
 See the examples below to learn more about the changes introduced in this release:
 
-### Rotating barcode 90 degrees counter-clockwise
+### Generating the printable form
 
-Markup:
-
-```text
-?barcode=Test1
-	value=EAN14Test
-	height=500
-	codetext=true
-	align=left
-	barcode_type=EAN14
-	rotation_angle=-90
+```csharp
+Aspose.OMR.Api.OmrEngine omrEngine = new Aspose.OMR.Api.OmrEngine();
+Aspose.OMR.Generation.GenerationResult generationResult = omrEngine.Generate("template.txt");
+generationResult.Save("", "form");
 ```
-
-![Rotated barcode](../2024/rn_24_7_0.png)

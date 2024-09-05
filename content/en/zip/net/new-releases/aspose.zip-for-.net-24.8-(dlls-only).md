@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.zip-for-.net-24.8-(dlls-only)"
-description: " "
+title: "Aspose.ZIP .NET 24.8 (DLLs) | Uuencoded File Support & More"
+description: "Enhance your C# archive processing with Aspose.ZIP .NET 24.8 (DLLs only). Discover Uuencoded file support, Zstandard compression & more. Download Now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/zip/net/new-releases/aspose.zip-for-.net-24.8-(dlls-only)/"
@@ -45,6 +45,34 @@ weight: 159
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.ZIP for .NET 24.8 (DLLs Only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+The latest release of Aspose.ZIP for .NET (v24.8, DLLs-only) empowers you with advanced functionalities for managing archives within your C# and VB.NET applications. The DLLs package ascertains convenient integration with your existing .NET projects across Windows, Linux, and macOS platforms.
+
+### Introducing Uuencoded File Support
+
+You can now work effortlessly with Uuencoded files using the new `UueArchive` and `UueSaveOptions` classes introduced in this release of the .NET ZIP archive processing API. Easily encode, decode and manipulate Uuencoded data in your cross-platform C# applications.
+
+### Efficient Zstandard Compression
+
+Utilize the Zstandard compression algorithm with the newly added `Zstd` property in `CompressionSettings`. The latest update lets you update compression efficiency for specific use cases.
+
+### Control ZIP Entry Compression Events
+
+Aspose.ZIP for .NET 24.8 allows you to exert better control over the compression process using the new `EntryAccessed` event raised just before a ZIP entry is compressed.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.ZIP for .NET 24.8 Release Notes](https://releases.aspose.com/zip/net/release-notes/2024/aspose-zip-for-net-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

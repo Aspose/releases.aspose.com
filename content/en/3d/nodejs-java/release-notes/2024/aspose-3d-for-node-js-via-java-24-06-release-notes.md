@@ -3,7 +3,7 @@ id: "aspose-3d-for-node-js-via-java-24-6-release-notes"
 slug: "aspose-3d-for-node-js-via-java-24-6-release-notes"
 linktitle: "Aspose.3D for Node.js via Java 24.6 Release Notes"
 title: "Aspose.3D for Node.js via Java 24.6 Release Notes"
-weight: 6
+weight: 7
 description: "Aspose.3D for Node.js via Java 24.6 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"

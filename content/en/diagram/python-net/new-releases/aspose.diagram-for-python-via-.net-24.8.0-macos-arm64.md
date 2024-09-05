@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.diagram-for-python-via-.net-24.8.0-macos-arm64"
-description: " "
+title: "Load HTML, Render SVG | Python Visio API 24.8.0 (macOS M1)"
+description: "Aspose.Diagram for Python via .NET 24.8.0 is the perfect choice for app developers on MacOS M1. Download now to load HTML/XML, render SVGs & more."
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/python-net/new-releases/aspose.diagram-for-python-via-.net-24.8.0-macos-arm64/"
@@ -43,8 +43,45 @@ weight: 51
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/diagram/python-net/release-notes/2024/aspose-diagram-for-python-via-net-24-8-release-notes/'>https://releases.aspose.com/diagram/python-net/release-notes/2024/aspose-diagram-for-python-via-net-24-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Python via .NET 24.8.0 MacOS arm64</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for Python via .NET 24.8.0 MacOS ARM64/M1.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Good news for MacOS developers! The latest release of Aspose.Diagram for Python via .NET (v24.8.0) is now available and it equips you to add XML/HTML loading and SVG rendering capabilities to your applications. 
+
+### Support for XML/HTML Files
+
+Loading and manipulating XML/HTML files in your macOS M1-powered Python applications is easier than ever with the latest version of the Python Visio API. 
+
+Code example:
+
+```python
+
+Diagram diagram = new Diagram("input.htm",LoadFileFormat.Html);
+
+```
+*[Source\*](https://releases.aspose.com/diagram/python-net/release-notes/2024/aspose-diagram-for-python-via-net-24-8-release-notes/)*
+
+### High-Quality SVG Rendering
+
+Easily render and export high-quality SVG graphics with custom SVG measurement units in your Python applications. 
+
+### Visio Compatibility Boost
+
+Developers can control precisely rendering diagrams and experience fine-tuned Visio file compatibility on macOS ARM64/M1-based systems.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Diagram for Python via .NET 24.8.0 Release Notes](https://releases.aspose.com/diagram/python-net/release-notes/2024/aspose-diagram-for-python-via-net-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

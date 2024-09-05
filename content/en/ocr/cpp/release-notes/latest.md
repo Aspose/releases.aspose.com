@@ -2,7 +2,7 @@
 id: "aspose-ocr-for-cpp-latest-release-notes"
 slug: "latest"
 weight: 1
-date: "2024-07-01"
+date: "2024-09-04"
 author: "Vladimir Lapin"
 type: "repository"
 layout: "release"
@@ -17,75 +17,63 @@ keywords:
 ---
 
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OCR for C++ 24.7.0 (July 2024)**](https://www.nuget.org/packages/Aspose.Ocr.Cpp/24.7.0) release.
+This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OCR for C++ 24.9.0 (September 2024)**](https://www.nuget.org/packages/Aspose.Ocr.Cpp/24.9.0) release.
 
-GPU version: **24.7.0**
+GPU version: **24.9.0**
 {{% /alert %}}
 
 ## What was changed
 
 Key | Summary | Category
 --- | ------- | --------
-OCRCPP&#8209;634 | Added a universal recognition model that provides good recognition results for most image types. | New feature
+OCRCPP&#8209;665 | Improved the loading of external OCR modules. | Enhancement
+_n/a_ | Minor enhancements and fixes. | Fix
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OCR for C++ 24.7.0** that may affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OCR for C++ 24.9.0** that may affect the code of existing applications.
 
 ### Added public APIs:
 
-The following public APIs have been added in Aspose.OCR for C++ 24.7.0 release:
-
-#### `detect_areas_mode_enum::UNIVERSAL`
-
-A new [document areas detection](https://docs.aspose.com/ocr/cpp/areas-detection/) algorithm, `detect_areas_mode_enum::UNIVERSAL` was added to the API.
-
-On average, this algorithm achieves good results with most image types and can be considered as an optimal choice for general image processing. However, specialized algorithms can provide faster or more accurate results for their intended use cases.
+_No changes._
 
 ### Updated public APIs:
 
-The following public APIs have been changed in Aspose.OCR for C++ 24.7.0 release:
-
-#### `detect_areas_mode_enum::MIXED_TEXT`
-
-{{% alert color="caution" %}}
-**Compatibility: partial backward compatibility.** Read the details below.
-{{% /alert %}}
-
-This API replaces the existing `detect_areas_mode_enum::COMBINE`. The original value is marked as deprecated and will be removed in **25.1.0 (January 2025)** release.
+_No changes._
 
 ### Removed public APIs:
 
 _No changes._
 
-### Deprecated APIs
+## Changes to application logic
 
-The following public APIs have been marked as deprecated and will be removed in **25.1.0 (January 2025)** release:
+This section lists all changes introduced in **Aspose.OCR for C++ 24.9.0** that may affect the behavior of existing applications.
 
-#### `detect_areas_mode_enum::COMBINE`
+### Automatic resource loading
 
-Use a newly added `detect_areas_mode_enum::MIXED_TEXT` instead.
+{{% alert color="info" %}}
+**Compatibility: fully backward compatible.**
+{{% /alert %}}
 
-## Examples
+- The [automatic loading](https://docs.aspose.com/ocr/cpp/modules/auto/) of advanced OCR modules from the external repository is now turned on by default.
+- External OCR modules are downloaded to the application working directory unless directly redefined in [`AsposeOCRResourceLoadSettings.resource_root_path` setting](https://docs.aspose.com/ocr/cpp/modules/management/).
 
-The code samples below illustrate the changes introduced in this release:
-
-### Universal document areas detection mode
+Default behavior starting with version 24.9.0:
 
 ```cpp
-// Provide the image
-string file = "source.png";
-AsposeOCRInput source;
-source.url = file.c_str();
-std::vector<AsposeOCRInput> content = { source };
-// Fine-tune recognition
-RecognitionSettings settings;
-settings.detect_areas_mode = detect_areas_mode_enum::UNIVERSAL;
-// Extract text from the image
-auto result = asposeocr_recognize(content.data(), content.size(), settings);
-// Output the recognized text
-wchar_t* buffer = asposeocr_serialize_result(result, buffer_size, export_format::text);
-std::wcout << std::wstring(buffer) << std::endl;
-// Release the resources
-asposeocr_free_result(result);
+AsposeOCRResourceLoadSettings load_settings;
+/*** optional - application's working directory is used by default
+std::string root_path = "<application's working directory>";
+load_settings.resources_root_path = root_path.c_str();
+***/
+load_settings.lazy_load = true;
+asposeocr_set_resource_load_settings(load_settings);
 ```
+
+### Additional system requirements for Linux version
+
+{{% alert color="caution" %}}
+Aspose.OCR for C++ library for Linux now requires [LAPACK (Linear Algebra Package)](https://www.netlib.org/lapack/) to function properly.
+{{% /alert %}}
+
+Use `sudo apt-get install liblapack-dev` to download and install the latest version of LAPACK.
