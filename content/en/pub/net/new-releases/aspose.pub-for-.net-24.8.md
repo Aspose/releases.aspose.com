@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pub-for-.net-24.8"
-description: " "
+title: "Batch Convert Publisher Files | Aspose.PUB .NET 24.8 (MSI)"
+description: "Convert multiple Microsoft Publisher documents efficiently!  Aspose.PUB for .NET 24.8 (MSI) delivers batch conversion & .NET 7.0 support. Download Now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/pub/net/new-releases/aspose.pub-for-.net-24.8/"
@@ -43,8 +43,44 @@ weight: 47
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pub/net/release-notes/2024/aspose-pub-for-net-24-8-release-notes/'>https://releases.aspose.com/pub/net/release-notes/2024/aspose-pub-for-net-24-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.PUB for .NET 24.8 release</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.PUB for .NET 24.8 (MSI) release</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Save valuable time and effort by focusing on core functionalities with Aspose.PUB for .NET 24.8 (MSI). This release empowers developers with a robust tool to manage their C# application workflows and convert multiple Publisher documents in a single operation.
+
+### Batch Convert Publisher Documents
+
+Effortlessly convert multiple Publisher files within your C# and VB.NET applications using this version of the .NET MS Publisher API and boost process efficiency.
+
+### .NET 7.0 Target Framework Support
+
+Developers can utilize the latest .NET improvement with compatibility for the .NET 7.0 target framework in this release of the .NET API.
+
+### Public API and Backward Incompatible Changes
+
+### Added APIs
+
+- Interface Aspose.Pub.IPubPackageConverter
+- Class Aspose.Pub.PackageDocumentCollection
+- Class Aspose.Pub.PackageDocumentItem
+- Class Aspose.Pub.PackageFileItem
+- Class Aspose.Pub.PackageStreamItem
+- Enumeration Aspose.Pub.PubDocumentType
+- Method Aspose.Pub.PubFactory.CreatePubPackageConverter
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PUB for .NET 24.8 Release Notes](https://releases.aspose.com/pub/net/release-notes/2024/aspose-pub-for-net-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pub-for-.net-24.7"
-description: " "
+title: ".NET 7 Framework Support in C# Publisher API 24.7 (MSI)"
+description: "Download the latest Aspose.PUB for .NET 24.7 (MSI) with .NET 7.0 target framework support & enhanced text formatting. Easy integration for .NET developers."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pub/net/new-releases/aspose.pub-for-.net-24.7/"
@@ -43,8 +43,32 @@ weight: 45
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pub/net/release-notes/2024/aspose-pub-for-net-24-7-release-notes/'>https://releases.aspose.com/pub/net/release-notes/2024/aspose-pub-for-net-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.PUB for .NET 24.7 release</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.PUB for .NET 24.7 (MSI) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+We are pleased to announce the release of Aspose.PUB for .NET 24.7 (MSI installer)! This update provides exciting new features and enhancements to empower your .NET development projects.
+
+### .NET 7.0 Target Framework Support
+
+Seamlessly integrate your apps with the latest .NET 7 framework using the most recent C# Publisher API and expand your development possibilities.
+
+### Upgraded Text Formatting
+
+We have improved support for text formatted in all caps (uppercase) to ensure accurate rendering and conversion of your Publisher documents.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PUB for .NET 24.7 Release Notes](https://releases.aspose.com/pub/net/release-notes/2024/aspose-pub-for-net-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
