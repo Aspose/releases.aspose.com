@@ -804,7 +804,7 @@ rewrite ^/pdf/net/new-releases/aspose.pdf-net-3-2-0-0-new-release/$ https://rele
 rewrite ^/pdf/net/release-notes/2024/aspose-cell-for-net-24-7-release-notes/$ https://releases-qa.aspose.com/pdf/net/release-notes/2024/aspose-pdf-for-net-24-7-release-notes/ permanent;
 rewrite ^/pdf/net/release-notes/2024/aspose-cells-for-net-24-7-release-notes/$ https://releases-qa.aspose.com/pdf/net/release-notes/2024/aspose-pdf-for-net-24-7-release-notes/ permanent;
 rewrite ^/pdf/nodejscpp/total$ https://releases-qa.aspose.com/pdf/nodejscpp/ permanent;
-rewrite ^/pub/net/new-releases/aspose.pub-for-.net-24.7-dlls-only/$ https://releases-qa.aspose.com/pub/net/new-releases/aspose.pub-for-.net-24.7/ permanent;
+# rewrite ^/pub/net/new-releases/aspose.pub-for-.net-24.7-dlls-only/$ https://releases-qa.aspose.com/pub/net/new-releases/aspose.pub-for-.net-24.7/ permanent;
 rewrite ^/raw/java/$ https://releases-qa.aspose.com/total/java/ permanent;
 rewrite ^/slides/java/2024$ https://releases-qa.aspose.com/slides/java/ permanent;
 rewrite ^/svg/net/release-notes/2024/aspose-svg-for-net-22-4-release-notes/$ https://releases-qa.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-4-release-notes/ permanent;
