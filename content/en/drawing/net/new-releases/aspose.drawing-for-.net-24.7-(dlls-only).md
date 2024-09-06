@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.drawing-for-.net-24.7-(dlls-only)"
-description: " "
+title: "Updated Font Support with Aspose.Drawing .NET 24.7 (DLLs)"
+description: "Power up image processing in your C# and VB.NET apps with improved image processing & font support in Aspose.Drawing .NET 24.7 (DLLs). Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/drawing/net/new-releases/aspose.drawing-for-.net-24.7-(dlls-only)/"
@@ -43,8 +43,36 @@ weight: 150
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/drawing/net/release-notes/2024/aspose-drawing-for-net-24-7-release-notes/'>https://releases.aspose.com/drawing/net/release-notes/2024/aspose-drawing-for-net-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains Aspose.Drawing for .NET Framework 2.0 and .NET Standard 2.0</div>
+      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains Aspose.Drawing for .NET 24.7 for Framework 2.0 and .NET Standard 2.0.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Great news for .NET developers! Aspose.Drawing for .NET 24.7 (DLLs) has been released, and it brings an innovative level of versatility for your .NET 2D graphics processing tasks. 
+
+### Updated Font Support
+
+Easily handle font files with non-English names and broaden your typographic options for your end-users with the newest C# drawing manipulation API release.
+
+### Image Codec Accuracy
+
+Guarantee consistent results across different image file formats with refined reliability and accuracy in image encoding and decoding. 
+
+### Simplified Dependency Removal
+
+Seamlessly remove the dependency on `BinaryFormatter` with Aspose.Drawing for .NET 24.7 as the library now works independently to bring down potential compatibility issues.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Drawing for .NET 24.7 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2024/aspose-drawing-for-net-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
