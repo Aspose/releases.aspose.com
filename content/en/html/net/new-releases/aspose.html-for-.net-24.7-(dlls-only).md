@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.html-for-.net-24.7-(dlls-only)"
-description: " "
+title: "Handle Broken HTML Files Easily | .NET HTML API 24.7 (DLLs)"
+description: "Benefit from optimized WEBP, DOCX, PDF & PNG image rendering and refined handling of broken HTML files. Download Aspose.HTML .NET 24.7 (DLLs) now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/html/net/new-releases/aspose.html-for-.net-24.7-(dlls-only)/"
@@ -43,8 +43,40 @@ weight: 284
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-7-release-notes/'>https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.HTML for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.HTML without the MSI installer, i.e. you cannot run MSI installers on Mono. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer.</div>
+      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.HTML for .NET 24.7 assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.HTML without the MSI installer, i.e. you cannot run MSI installers on Mono. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Integrate optimized document and image rendering features into your platform-independent C# applications with the latest Aspose.HTML for .NET 24.7 (DLLs-only) release. 
+
+### Handle Broken HTML Files Easily
+
+Benefit from better resilience to inconsistencies in HTML documents using the newest release of the C# HTML processing library and handle broken HTML files effectively.
+
+### Enriched Document and Image Rendering
+
+Level up your cross-platform .NET applications by implementing finer performance and rendering quality for WEBP, DOCX, PDF documents, and PNG images. 
+
+### Supercharged HTML Processing
+
+Aspose.HTML for .NET v24.7 enables you to experience refined and more efficient HTML document generation in your C# and VB.NET applications across Windows, Linux, and macOS.
+
+### Robust Bug Fixes
+
+We have introduced several bug fixes in the latest release that address issues related to HTML to DOCX conversion, WEBP file handling, resource loading, and more.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.HTML for .NET 24.7 Release Notes](https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
