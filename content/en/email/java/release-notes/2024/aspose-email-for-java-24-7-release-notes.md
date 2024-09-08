@@ -3,7 +3,7 @@ id: "aspose-email-for-java-24-7-release-notes"
 slug: "aspose-email-for-java-24-7-release-notes"
 linktitle: "Aspose.Email for Java 24.7 Release Notes"
 title: "Aspose.Email for Java 24.7 Release Notes"
-weight: 35
+weight: 30
 description: "Aspose.Email for Java 24.7 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
