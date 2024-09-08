@@ -1,0 +1,20 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-email",
+  "id" : "24-8",
+  "packageFiles" : [ {
+    "size" : "4 MB",
+    "name" : "aspose-email-24.8-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "12 MB",
+    "name" : "aspose-email-24.8-jdk16.jakarta.jar",
+    "classifier" : "jdk16.jakarta"
+  }, {
+    "size" : "1 KB",
+    "name" : "aspose-email-24.8.pom"
+  } ],
+  "releasehDate" : "2024-09-08T14:32:36+00:00",
+  "version" : "24.8",
+  "ReleaseNotes" : "https://releases.aspose.com/email/java/release-notes/2024/aspose-email-for-java-24-8-release-notes/"
+}
