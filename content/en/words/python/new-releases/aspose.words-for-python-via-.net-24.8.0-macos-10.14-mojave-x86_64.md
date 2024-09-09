@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.words-for-python-via-.net-24.8.0-macos-10.14-mojave-x86_64"
-description: " "
+title: "Customize Charts, Fonts | Python Words API 24.8.0 macOS X64"
+description: "Download the latest update of Aspose.Words for Python .NET 24.8.0 (macOS x64) to access enhanced font management, charts & more and elevate your apps."
 keywords: ""
 page_type: single_release_page
 folder_link: "/words/python/new-releases/aspose.words-for-python-via-.net-24.8.0-macos-10.14-mojave-x86_64/"
@@ -45,6 +45,163 @@ weight: 79
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This wheel contains Aspose.Words for Python via .NET version 24.8.0, built for macOS 10.14 (Mojave) and targeting the x86_64 architecture.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Good news for MacOS developers! Aspose.Words for Python via .NET 24.8.0 is here, and it brings advanced document processing features to macOS Mojave. This version includes significant improvements for macOS x86_64 platforms.
+
+### Customize Chart Axis in MacOS
+Conveniently adjust axis tick labels with new orientation and rotation properties in the Python Word document processing API for better chart management.
+
+Code example: 
+
+```python
+
+doc = aw.Document()
+builder = aw.DocumentBuilder(doc)
+# Insert a column chart.
+shape = builder.insert_chart(chart_type=aw.drawing.charts.ChartType.COLUMN, width=432, height=252)
+x_tick_labels = shape.chart.axis_x.tick_labels
+y_tick_labels = shape.chart.axis_y.tick_labels
+# Set axis tick label orientation and rotation.
+x_tick_labels.orientation = aw.drawing.ShapeTextOrientation.VERTICAL_FAR_EAST
+x_tick_labels.rotation = -30
+y_tick_labels.orientation = aw.drawing.ShapeTextOrientation.HORIZONTAL
+y_tick_labels.rotation = 45
+doc.save(file_name=ARTIFACTS_DIR + 'Charts.TickLabelsOrientationRotation.docx')
+
+```
+*[Source\*](https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-8-release-notes/)*
+
+### Font Embedding Control
+With the new `EmbeddingLicensingRights` property, you can enhance font embedding capabilities in documents on macOS x64.
+
+Code example: 
+
+```python
+
+settings = aw.fonts.FontSettings.default_instance
+source = settings.get_fonts_sources()[0]
+# Get the list of available fonts.
+font_infos = source.get_available_fonts()
+for font_info in font_infos:
+    if font_info.embedding_licensing_rights != None:
+        print(font_info.embedding_licensing_rights.embedding_usage_permissions)
+        print(font_info.embedding_licensing_rights.bitmap_embedding_only)
+        print(font_info.embedding_licensing_rights.no_subsetting)
+
+```
+*[Source\*](https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-8-release-notes/)*
+
+### Headers and Footers Management
+Developers can clear section headers and footers effortlessly within their Python word-processing applications while retaining watermarks.
+
+Code example: 
+
+```python
+
+doc = aw.Document(file_name=MY_DIR + 'Header and footer types.docx')
+# Add a plain text watermark.
+doc.watermark.set_text(text='Aspose Watermark')
+# Make sure the headers and footers have content.
+headers_footers = doc.first_section.headers_footers
+self.assertEqual('First header', headers_footers.get_by_header_footer_type(aw.HeaderFooterType.HEADER_FIRST).get_text().strip())
+self.assertEqual('Second header', headers_footers.get_by_header_footer_type(aw.HeaderFooterType.HEADER_EVEN).get_text().strip())
+self.assertEqual('Third header', headers_footers.get_by_header_footer_type(aw.HeaderFooterType.HEADER_PRIMARY).get_text().strip())
+self.assertEqual('First footer', headers_footers.get_by_header_footer_type(aw.HeaderFooterType.FOOTER_FIRST).get_text().strip())
+self.assertEqual('Second footer', headers_footers.get_by_header_footer_type(aw.HeaderFooterType.FOOTER_EVEN).get_text().strip())
+self.assertEqual('Third footer', headers_footers.get_by_header_footer_type(aw.HeaderFooterType.FOOTER_PRIMARY).get_text().strip())
+# Removes all header and footer content except watermarks.
+doc.first_section.clear_headers_footers(True)
+headers_footers = doc.first_section.headers_footers
+self.assertEqual('', headers_footers.get_by_header_footer_type(aw.HeaderFooterType.HEADER_FIRST).get_text().strip())
+self.assertEqual('', headers_footers.get_by_header_footer_type(aw.HeaderFooterType.HEADER_EVEN).get_text().strip())
+self.assertEqual('', headers_footers.get_by_header_footer_type(aw.HeaderFooterType.HEADER_PRIMARY).get_text().strip())
+self.assertEqual('', headers_footers.get_by_header_footer_type(aw.HeaderFooterType.FOOTER_FIRST).get_text().strip())
+self.assertEqual('', headers_footers.get_by_header_footer_type(aw.HeaderFooterType.FOOTER_EVEN).get_text().strip())
+self.assertEqual('', headers_footers.get_by_header_footer_type(aw.HeaderFooterType.FOOTER_PRIMARY).get_text().strip())
+self.assertEqual(aw.WatermarkType.TEXT, doc.watermark.type)
+# Removes all header and footer content including watermarks.
+doc.first_section.clear_headers_footers(False)
+self.assertEqual(aw.WatermarkType.NONE, doc.watermark.type)
+
+```
+*[Source\*](https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-8-release-notes/)*
+
+### Enhanced Export Options
+We have improved backward compatibility for HTML and XAML exports in Aspose.Words for Python via .NET 24.8.0.
+
+Code example: 
+
+```python
+
+doc = aw.Document(file_name=MY_DIR + 'Korean backslash symbol.docx')
+# By default, Aspose.Words mimics MS Word's behavior and doesn't replace backslash characters with yen signs in
+# generated HTML documents. However, previous versions of Aspose.Words performed such replacements in certain
+# scenarios. This flag enables backward compatibility with previous versions of Aspose.Words.
+save_options = aw.saving.HtmlSaveOptions()
+save_options.replace_backslash_with_yen_sign = True
+doc.save(file_name=ARTIFACTS_DIR + 'HtmlSaveOptions.ReplaceBackslashWithYenSign.html', save_options=save_options)
+
+```
+*[Source\*](https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-8-release-notes/)*
+
+### PDF Form Field Management in Python
+You can now use SDT tags as form field names in PDF exports for better document structure on macOS x64-powered machines.
+
+Code example: 
+
+```python
+
+doc = aw.Document(file_name=MY_DIR + 'Form fields.docx')
+save_options = aw.saving.PdfSaveOptions()
+save_options.preserve_form_fields = True
+# When set to 'false', SDT control Id property is used as a name of form field in PDF.
+# When set to 'true', SDT control Tag property is used as a name of form field in PDF.
+save_options.use_sdt_tag_as_form_field_name = True
+doc.save(file_name=ARTIFACTS_DIR + 'PdfSaveOptions.SdtTagAsFormFieldName.pdf', save_options=save_options)
+
+```
+*[Source\*](https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-8-release-notes/)*
+
+### XPS Digital Signatures
+Experience support for digital signatures in XPS documents using the latest Python library release and elevate your applications.
+
+Code example: 
+
+```python
+
+doc = aw.Document(file_name=MY_DIR + 'Document.docx')
+certificate_holder = aw.digitalsignatures.CertificateHolder.create(file_name=MY_DIR + 'morzal.pfx', password='aw')
+options = aw.digitalsignatures.SignOptions()
+options.sign_time = datetime.datetime.now()
+options.comments = 'Some comments'
+digital_signature_details = aw.saving.DigitalSignatureDetails(certificate_holder, options)
+save_options = aw.saving.XpsSaveOptions()
+save_options.digital_signature_details = digital_signature_details
+self.assertEqual(certificate_holder, digital_signature_details.certificate_holder)
+self.assertEqual('Some comments', digital_signature_details.sign_options.comments)
+doc.save(file_name=ARTIFACTS_DIR + 'XpsSaveOptions.XpsDigitalSignature.docx', save_options=save_options)
+
+```
+*[Source\*](https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-8-release-notes/)*
+
+### Bug Fixes
+- Fixed a memory leak issue in document conversion processes.
+- Resolved a problem where XAML exports did not retain specific character encoding settings.
+- Addressed incorrect rendering of chart axis labels in particular scenarios.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Words for Python via .NET 24.8.0 Release Notes](https://releases.aspose.com/words/python/release-notes/2024/aspose-words-for-python-via-dotnet-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

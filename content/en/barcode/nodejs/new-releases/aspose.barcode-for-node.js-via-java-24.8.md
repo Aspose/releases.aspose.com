@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-node.js-via-java-24.8"
-description: " "
+title: "Aspose.BarCode Node.js 24.8 - Empowered QR Recognition"
+description: "Download Aspose.BarCode for Node.js via Java 24.8 to experience enhanced QR recognition and AustraliaPost generation for improved barcode solutions."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-24.8/"
@@ -43,9 +43,77 @@ weight: 67
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/barcode/nodejs/release-notes/2024/aspose-barcode-for-node-js-via-java-24-8-release-notes/'>https://releases.aspose.com/barcode/nodejs/release-notes/2024/aspose-barcode-for-node-js-via-java-24-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Node.js via Java 24.8 has been released</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.BarCode for Node.js via Java 24.8 has been released.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Deliver enriched performance and reliability for your end users working with barcode generation and recognition using Aspose.BarCode for Node.js via Java 24.8 release. We have improved QR recognition and fixed AustraliaPost generation in this release.
+
+### Empowered QR Recognition
+
+With the latest Node.js barcode API release, we have updated the `HighQuality` preset implementation for QR recognition to ascertain precise and fast barcode reading in various scenarios.
+
+Code sample: 
+
+```js
+
+example1()
+{
+    let filePath = ReleaseNotes.folder + "qr.png";
+    ta.checkPath(filePath);
+    let reader = new BarCodeReader(filePath, null,DecodeType.QR);
+    reader.setQualitySettings(QualitySettings.getHighQuality());
+    let results = reader.readBarCodes();
+    for (const result of results) {
+       console.log(result.getCodeText());
+    }
+}
+
+```
+*[Source\*](https://releases.aspose.com/barcode/nodejs/release-notes/2024/aspose-barcode-for-node-js-via-java-24-8-release-notes/)*
+
+### `AustraliaPost` Generation Fix
+
+The issue where the `AustralianPostShortBarHeight` parameter was ignored has now been resolved, and it enables accurate barcode generation for Australian postal codes.
+
+Code sample: 
+
+```js
+
+example2()
+{
+   let generator = new BarcodeGenerator(EncodeTypes.AUSTRALIA_POST, "6212345678AP");
+   generator.getParameters().getBarcode().getAustralianPost().setAustralianPostEncodingTable(CustomerInformationInterpretingType.C_TABLE);
+   generator.getParameters().getBarcode().getBarHeight().setPixels(100);
+   generator.getParameters().getBarcode().getAustralianPost().getAustralianPostShortBarHeight().setPixels(10);
+   generator.getParameters().getBarcode().getPadding().getLeft().setPixels(10);
+   generator.getParameters().getBarcode().getPadding().getTop().setPixels(10);
+   generator.getParameters().getBarcode().getPadding().getRight().setPixels(10);
+   generator.getParameters().getBarcode().getPadding().getBottom().setPixels(10);
+   let imagePath = ReleaseNotes.folder + "AustraliaPost-Nodejs.png";
+   generator.save(imagePath, BarcodeImageFormat.PNG)
+}
+
+```
+*[Source\*](https://releases.aspose.com/barcode/nodejs/release-notes/2024/aspose-barcode-for-node-js-via-java-24-8-release-notes/)*
+
+### `DataMatrix` Parameters Update
+
+The `SpecificParametersUI.DataMatrix()` method in Aspose.BarCode for Node.js via Java 24.8 now correctly returns `DataMatrixParametersUI`.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for Node.js via Java 24.8 Release Notes](https://releases.aspose.com/barcode/nodejs/release-notes/2024/aspose-barcode-for-node-js-via-java-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
 
