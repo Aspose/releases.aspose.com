@@ -10,13 +10,13 @@ download_link: "/cells/net/new-releases/aspose.cells-for-.net-24.9/74d05329f83e3
 download_text: "İndirmek"
 intro_text: ".NET 24.9 için Aspose.Cells"
 image_link: "/resources/img/msi-icon.png"
-download_count: " 10/9/2024 İndirmeks: 1  Views: 1 "
+download_count: " 10/9/2024 İndirmeks: 2  Views: 1 "
 file_size: "File Size: 101.99MB"
 parent_path: "cells/net"
 section_parent_path: "cells/net"
 
 tags: "Aspose.Cells for .NET"
-release_notes_url: "https://docs.aspose.com/cells/net/aspose-cells-for-net-24-9-release-notes/"
+release_notes_url: "https://releases.aspose.com/cells/net/release-notes/2024/aspose-cells-for-net-24-9-release-notes/"
 weight: 719
 
 ---
@@ -31,7 +31,7 @@ weight: 719
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} İndirmeks: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-74d05329f83e3dc10e9981fd528195d8-21-11559" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-74d05329f83e3dc10e9981fd528195d8-21-11559" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} Dosya boyutu: {{< /Common/li >}}
       {{< Common/li id="size-update-74d05329f83e3dc10e9981fd528195d8-21-11559" >}} 101.99MB {{< /Common/li >}}
 
@@ -40,7 +40,7 @@ weight: 719
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href='https://docs.aspose.com/cells/net/aspose-cells-for-net-24-9-release-notes/'>https://docs.aspose.com/cells/net/aspose-cells-for-net-24-9-release-notes/</a></div>
+      <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/cells/net/release-notes/2024/aspose-cells-for-net-24-9-release-notes/'>https://releases.aspose.com/cells/net/release-notes/2024/aspose-cells-for-net-24-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Tanım</h4><div class="HTMLDescription">.NET 24.9 için Aspose.Cells</div>
