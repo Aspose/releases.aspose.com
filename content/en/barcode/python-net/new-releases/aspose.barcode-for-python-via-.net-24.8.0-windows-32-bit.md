@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.barcode-for-python-via-.net-24.8.0-windows-32-bit"
-description: " "
+title: "PZN Encoder, Decoder in Python Barcode API 24.8.0 (Win x32)"
+description: "Unlock new API features, QR version recognition, & improved barcode support by downloading Aspose.BarCode for Python via .NET 24.8.0 on Windows x32."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/python-net/new-releases/aspose.barcode-for-python-via-.net-24.8.0-windows-32-bit/"
@@ -45,6 +45,42 @@ weight: 65
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This wheel contains Aspose.BarCode for Python via .NET version 24.8.0, built for Windows and targeting the 32-bit architecture.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Boost your barcode recognition tasks on Windows x32 with the latest Aspose.BarCode for Python via .NET 24.8.0 release. This version features new API capabilities and crucial bug resolutions.
+
+### Recognizing QR Versions 
+
+The latest Python barcode API release delivers better handling of the QR code versions with the new `QrVersion` in the `QRExtendedParameters` class.
+
+### PZN Encoding and Decoding
+
+We have included an improved PZN encoder and decoder in Aspose.BarCode for Python via .NET 24.8.0 to significantly enhance your barcode processing Python applications on Windows 32-bit systems.
+
+### Bug Fixes
+
+The problems with height recognition for Australia Post barcodes (`AustralianPostShortBarHeight`) have been resolved in this library release.
+
+### Public API Changes and Backward Compatibility
+
+### Added API Members
+- aspose.barcode.barcoderecognition.QRExtendedParameters.qr_version
+- aspose.barcode.barcoderecognition.QRExtendedParameters.micro_qr_version
+- aspose.barcode.barcoderecognition.QRExtendedParameters.rect_micro_qr_version
+- aspose.barcode.barcoderecognition.QRExtendedParameters.qr_error_level
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.BarCode for Python via .NET 24.8.0 Release Notes](https://releases.aspose.com/barcode/python-net/release-notes/2024/aspose-barcode-for-python-via-dotnet-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

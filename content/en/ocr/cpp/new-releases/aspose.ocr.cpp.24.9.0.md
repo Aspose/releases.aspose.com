@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.ocr.cpp.24.9.0"
-description: " "
+title: "Aspose.OCR for C++ 24.9.0 | Automatic OCR Module Loading"
+description: "Discover Aspose.OCR for C++ 24.9.0 with external OCR module loading and more. Download for Windows, Linux, & improve text recognition efficiency."
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/cpp/new-releases/aspose.ocr.cpp.24.9.0/"
@@ -43,8 +43,32 @@ weight: 128
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/ocr/cpp/release-notes/2024/aspose-ocr-for-cpp-24-9-0-release-notes/'>https://releases.aspose.com/ocr/cpp/release-notes/2024/aspose-ocr-for-cpp-24-9-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Resources auto download</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.OCR for C++ 24.9.0 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.OCR for C++ 24.9.0 brings a refined text recognition experience with several enhancements. Developers using this API can now benefit from improved external OCR module loading.
+
+### Automatic OCR Module Loading
+
+External OCR modules are now automatically loaded from a repository in the newest C++ OCR API release, simplifying setup and reducing manual effort.
+
+### Linux System Requirements
+
+Aspose.OCR for C++ (v24.9.0) on Linux now requires the LAPACK package to add powerful linear algebra capabilities for OCR processing.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.OCR for C++ 24.9.0 Release Notes](https://releases.aspose.com/ocr/cpp/release-notes/2024/aspose-ocr-for-cpp-24-9-0-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

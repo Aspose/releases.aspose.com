@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-python-via-.net-24.8-windows-x32"
-description: " "
+title: "Aspose.Tasks Python 24.8 (Win x32) | Manage Task Progress"
+description: "Get Aspose.Tasks for Python via .NET 24.8 on Windows x32 with new task scheduling improvements and bug fixes, designed for efficient project management."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-24.8-windows-x32/"
@@ -43,8 +43,38 @@ weight: 74
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-8-release-notes/'>https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for Python via .NET 24.8 Win32 only binaries</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for Python via .NET 24.8 Win x32 only binaries.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+The latest version of Aspose.Tasks for Python via .NET (v24.8) for Windows x32 offers improved task handling features and crucial bug fixes. Developers can now access refined task scheduling logic and ensure more accurate project timelines.
+
+### Improved Rescheduling Logic
+
+This project management Python API version introduces a method for handling uncompleted tasks while rescheduling to better manage task progress and provide accurate control for project timelines.
+
+### Enhanced MS Project Compatibility
+
+We have reduced the differences in task date handling between Aspose.Tasks and MS Project to empower data consistency on Windows 32-bit systems.
+
+### Bug Fixes
+
+- Reschedule Date Inconsistencies: We have addressed date discrepancies between Aspose.Tasks and MS Project when using reschedule functionality. (TASKSNET-11173)
+- Stop/Resume Property Calculation: The inaccuracies in calculating stop and resume dates for tasks have been resolved. (TASKSNET-11249)
+- Summary Task Duration Fix: Corrected calculation issues for the actual duration, overall duration, and finish times of summary tasks. (TASKSNET-11252)
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for Python via .NET 24.8 Release Notes](https://releases.aspose.com/tasks/python-net/release-notes/2024/aspose-tasks-for-python-net-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
