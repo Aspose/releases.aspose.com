@@ -23,7 +23,6 @@ This page contains release notes for [Aspose.Cells for Java 24.9](https://releas
 |CELLSJAVA-46099|Support skipping smart marker with Json data source|Enhancement
 |CELLSJAVA-46105|TEXTJOIN() function results inconsistent with MS Excel|Bug
 |CELLSJAVA-46108|Named range not available after Aspose.Cells converting an XLSX file to XLSB|Bug
-|CELLSJAVA-46096|Support converting chart to image with resize ImageOrPrintOptions |Bug
 |CELLSJAVA-46068|Excel to HTML conversion - Line display problem|Bug
 |CELLSJAVA-46090|Space loss when using Cell.setHtmlString function to set values|Bug
 |CELLSJAVA-46080|NullPointerException occurs when importing json data to excel using smart markers|Bug
