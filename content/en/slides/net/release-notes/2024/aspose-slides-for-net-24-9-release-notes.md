@@ -111,7 +111,7 @@ for (int i = 0 ; i < presentationText.SlidesText.Length ; i++)
 > **Note:** You can retrieve comment text only in the `TextExtractionArrangingMode.Unarranged` mode.
 
 
-### Obsolete IImageCollection.AddFromSvg Methods Have Been Removed
+### Obsolete IVideoCollection.AddVideo Method Has Been Removed
 
-Methods `IPPImage AddFromSvg(string svgContent)` and `IPPImage AddFromSvg(string svgContent, IExternalResourceResolver externalResResolver, string baseUri)` have been removed from the `ImageCollection` class and the `IImageCollection` interface. 
-Please use the `AddImage(ISvgImage svgImage)` method instead.
+The method `AddVideo(Stream stream)` has been removed from the `VideoCollection` class and the `IVideoCollection` interface. 
+Please use the `AddVideo(Stream stream, LoadingStreamBehavior loadingStreamBehavior)` method instead.
