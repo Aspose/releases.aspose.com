@@ -93,15 +93,15 @@ The following is a list of any changes made to the public API such as added, ren
 
 ### **Adds property Cell.IsCheckBoxStyle.**
 
-Indicates whether setting this cell as a check box.
+Indicates whether to set this cell as a check box.
 
-### **Obsolete old names for members of enum EquationNodeType and rename them to shorter ones**
+### **Obsolete old names for members of enum EquationNodeType and rename them to shorter ones**
 
 Use new and shorter names defined for EquationNodeType.
 
 ### **Adds PrintCommentsType.PrintWithThreadedComments enum**
 
-Represents to print comments as displayed on sheet include threaded comments.
+Represents printing comments as displayed on sheet include threaded comments.
 
 ### **Adds LimLowUppEquationNode class**
 
@@ -111,13 +111,13 @@ Specifies the limit function.
 
 Specifies the Equation-Array function, an object consisting of one or more equations.
 
-### **Adds HtmlOfficeMathOutputType enum and HtmlSaveOptions.OfficeMathOutputMode property**
+### **Adds HtmlOfficeMathOutputType enum and HtmlSaveOptions.OfficeMathOutputMode property**
 
-Indicates how export OfficeMath objects to HTML.
+Indicates how to export OfficeMath objects to HTML.
 
 ### **HtmlSaveOptions.CellNameAttribute property**
 
-Specifies the attribute of TD element that indicates the CellName to be written.
+Specifies the attribute of TD element that indicates the CellName to be written.
 
 ### **Adds PivotField.GetFormula() method and obsoletes PivotField.GetCalculatedFieldFormula() method**
 
@@ -125,7 +125,7 @@ Uses PivotField.GetFormula() method instead.
 
 ### **Adds PivotItem.GetFormula() method.**
 
-Gets the formula of the pivot calcualted item.
+Gets the formula of the pivot calculated item.
 
 ### **Adds PivotItem.Name property.**
 
@@ -133,13 +133,13 @@ Gets and sets the caption of the pivot item.
 
 ### **Adds PivotTable.ShowDetail() method.**
 
-Show the detail of a pivot item in the data region to a new Table.
+Shows the detail of a pivot item in the data region to a new Table.
 
 ### **Adds XlsSaveOptions.WpsCompatibility property.**
 
-Indicates whether making the xls more compatible with WPS.
+Indicates whether to make the xls more compatible with WPS.
 
 ### **Adds FileFormatType.Ole enum.**
 
-Presents the Ole file.
+Represents the Ole file.
 
