@@ -93,7 +93,7 @@ Indicates whether setting this cell as a check box.
 Use new and shorter names defined for EquationNodeType.
 
 |**Obsolete**|**Instead(Shorter name)**|
-| :- | :- | :- |
+| :- | :- |
 |MathematicalEquation|Mathematical
 |FractionEquation|Fraction
 |FunctionEquation|Function
