@@ -8,7 +8,7 @@ folder_link: "/ocr/python-cpp/new-releases/aspose.ocr-for-python-via-c++-24.9.0-
 folder_name: "Aspose.OCR für Python über C++ 24.9.0 Win x64"
 download_link: "/ocr/python-cpp/new-releases/aspose.ocr-for-python-via-c++-24.9.0-win-x64/1f0cc611f81066eaaed177855cef9883-3-11571"
 download_text: "Download"
-intro_text: "Basierend auf Aspose.Ocr.Cpp 24.9.0"
+intro_text: "Die Funktionalität basiert auf Aspose.OCR für C++ 24.9.0"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 11/9/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 12.81MB"
@@ -43,7 +43,7 @@ weight: 3
       <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/ocr/python-cpp/release-notes/2024/aspose-ocr-python-cpp-24-9-0-release-notes/'>https://releases.aspose.com/ocr/python-cpp/release-notes/2024/aspose-ocr-python-cpp-24-9-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Beschreibung</h4><div class="HTMLDescription">Basierend auf Aspose.Ocr.Cpp 24.9.0</div>
+      <h4>Beschreibung</h4><div class="HTMLDescription">Die Funktionalität basiert auf Aspose.OCR für C++ 24.9.0</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
