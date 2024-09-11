@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.ocr-for-python-via-c++-24.1.0-macos-86x64"
-description: " "
+title: "Aspose.OCR Python 24.9.0 macOS | New Features & Updates"
+description: "Explore Aspose.OCR for Python via C++ 24.9.0 new API features. Download today and start optimizing your OCR apps with the latest updates on MacOS."
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/python-cpp/new-releases/aspose.ocr-for-python-via-c++-24.1.0-macos-86x64/"
@@ -43,8 +43,58 @@ weight: 1
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/ocr/python-cpp/release-notes/2024/aspose-ocr-python-cpp-24-1-0-release-notes/'>https://releases.aspose.com/ocr/python-cpp/release-notes/2024/aspose-ocr-python-cpp-24-1-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">First release of Aspose.OCR for Python</div>
+      <h4>Description</h4><div class="HTMLDescription">First release of Aspose.OCR for Python via C++ 24.1.0 (macOS x86-64).</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+### New Public API Additions and Updates
+
+Several new APIs have been introduced in this initial version of Aspose.OCR for Python via C++ (v24.1.0). It empowers C++ developers to access and manipulate OCR results more effectively on the macOS platform. This opens up opportunities for improved text extraction and data handling capabilities in your C++ OCR applications.
+
+### Performance Optimizations
+
+This release offers speedy and accurate OCR recognition to guarantee faster processing times for large images and more precise text extraction, crucial for high-demand applications.
+
+### Usage Example
+
+In the following use case, we have illustrated how to perform basic OCR operations on an image file. For detailed steps involved and instructions on how to run the example, please visit the [release notes page](https://releases.aspose.com/ocr/python-cpp/release-notes/2024/aspose-ocr-python-cpp-24-1-0-release-notes/) of this Python library release.
+
+```python
+
+import sys
+sys.path.append('./path/to/lib/asposeocr')
+
+import asposeocr
+
+''' apply license '''
+#license_file_path = "license/file/path"
+#asposeocr.AsposeOCRSetLicense(license_file_path)
+
+''' add image to the recognition batch '''
+images = [asposeocr.AsposeOCRInput()]
+images[0].url = 'source.png'
+
+''' recognize the image '''
+settings = asposeocr.RecognitionSettings()
+recognition_result = asposeocr.AsposeOCRRecognize(images, settings)
+recognition_text = asposeocr.AsposeOCRSerializeResult(recognition_result, asposeocr.ExportFormat.text)
+print(result[0].recognition_text)
+
+```
+*[Source\*](https://releases.aspose.com/ocr/python-cpp/release-notes/2024/aspose-ocr-python-cpp-24-1-0-release-notes/)*
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.OCR for Python via C++ 24.1.0 Release Notes](https://releases.aspose.com/ocr/python-cpp/release-notes/2024/aspose-ocr-python-cpp-24-1-0-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
