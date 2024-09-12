@@ -285,10 +285,6 @@ public class FootnoteSeparatorCollection : IEnumerable<FootnoteSeparator>
     /// Returns <c>null</c> if the footnote/endnote separator of the specified type is not found.
     /// </remarks>
     public FootnoteSeparator this[FootnoteSeparatorType separatorType]
-    {
-        get { return mItems.GetValueOrNull(separatorType); }
-        set { mItems[separatorType] = value; }
-    }
 }
 {{< /highlight >}}
 Following public property has been added:
