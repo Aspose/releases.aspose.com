@@ -3,13 +3,17 @@
   "artifactId" : "aspose-cad",
   "id" : "24-3",
   "packageFiles" : [ {
+    "size" : "20 MB",
+    "name" : "aspose-cad-24.3-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
     "size" : "36 MB",
     "name" : "aspose-cad-24.3.jar"
   }, {
-    "size" : "836 bytes",
+    "size" : "841 bytes",
     "name" : "aspose-cad-24.3.pom"
   } ],
-  "releasehDate" : "2024-04-26T21:40:47+00:00",
+  "releasehDate" : "2024-09-12T22:49:34+00:00",
   "version" : "24.3",
   "ReleaseNotes" : "https://releases.aspose.com/cad/java/release-notes/2024/aspose-cad-for-java-24-3-release-notes/"
 }
