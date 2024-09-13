@@ -4,7 +4,7 @@ description: Java class library to render, edit, report & convert AutoCAD drawin
 layout: package
 type: repository
 weight: 00	#rem
-publishDate: "2024-09-13T09:30:19+00:00"
+publishDate: "2024-09-13T17:23:32+00:00"
 ---
 
 # CAD File Conversion API for Java
