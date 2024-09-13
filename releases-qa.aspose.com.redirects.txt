@@ -1062,9 +1062,9 @@ rewrite ^/artifactory/libs-release/$ https://releases-qa.aspose.com/java/repo/co
 rewrite ^/psd/python-net/release-notes-2024/$ https://docs.aspose.com/psd/python-net/release-notes-2024/ permanent;
 rewrite ^/\/ar/$ https://releases-qa.aspose.com/ permanent;
 rewrite ^/artifactory/libs-snapshot/org/zkoss/ee/zkex/7\.0\.6\.1/zkex-7\.0\.6\.1\.pom$ https://releases-qa.aspose.com/java/repo/com/aspose/ permanent;
-rewrite ^/c++/repo/com/aspose/aspose-words/$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-words/ permanent;
+rewrite ^/c\+\+/repo/com/aspose/aspose-words/$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-words/ permanent;
 rewrite ^/cad/java/aspose-cad-for-java-23.9$ https://releases-qa.aspose.com/cad/java/23-9/ permanent;
-rewrite ^/cells/net/new-releases/aspose.cells-for-.net-8.3.0/$ https://releases-qa.aspose.com/cells/net/new-releases/-aspose.cells-for-.net-8.3.0/ permanent;
-rewrite ^/cells/net/new-releases/aspose.cells-for-.net-8.3/$ https://releases-qa.aspose.com/cells/net/new-releases/-aspose.cells-for-.net-8.3.0/ permanent;
-rewrite ^/cells/net/new-releases/aspose.cells-for-java-24.8/$ https://releases-qa.aspose.com/cells/net/new-releases/aspose.cells-for-.net-24.8/ permanent;
+rewrite ^/cells/net/new-releases/aspose\.cells-for-\.net-8\.3\.0/$ https://releases-qa.aspose.com/cells/net/new-releases/-aspose.cells-for-.net-8.3.0/ permanent;
+rewrite ^/cells/net/new-releases/aspose\.cells-for-\.net-8\.3/$ https://releases-qa.aspose.com/cells/net/new-releases/-aspose.cells-for-.net-8.3.0/ permanent;
+rewrite ^/cells/net/new-releases/aspose\.cells-for-java-24\.8/$ https://releases-qa.aspose.com/cells/net/new-releases/aspose.cells-for-.net-24.8/ permanent;
 rewrite ^/cpp/repo/com/aspose/aspose-words/$ https://releases-qa.aspose.com/java/repo/com/aspose/aspose-words/ permanent;
