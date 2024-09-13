@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tex-for-c++-24.8"
-description: " "
+title: "Aspose.TeX for C++ 24.8 | Expanded TeX Apps API Capabilities"
+description: "Download Aspose.TeX for C++ 24.8 now! Enhanced with &bsol;write18 support, new shell modes, and more for your C++ apps on Windows, macOS, & Linux."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tex/cpp/new-releases/aspose.tex-for-c++-24.8/"
@@ -43,8 +43,63 @@ weight: 117
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-8-release-notes/'>https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.TeX for C++ 24.8 native library</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.TeX for C++ 24.8 native library.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.TeX for C++ 24.8 brings different improvements and new capabilities tailored for app developers working with TeX files on Windows, Linux, and macOS. This release builds on the .NET version 24.8 and offers an expanded feature set with functionalities like \write18 support, random number primitives, and embedding the lipsum LaTeX package. 
+
+### Write18 Support
+
+With the latest C++ TeX processing API release, you can use \write18 for integrating system commands during TeX compilation across platforms.
+
+### Random Number Primitives
+
+Generate random numbers within your TeX documents programmatically for dynamic content creation. This update lets you power up your C++ LaTeX applications and streamline workflows.
+
+### Lipsum LaTeX Package
+
+Aspose.TeX for C++ 24.8 brings embedded support for generating placeholder text via the lipsum package within your cross-platform C++ solutions.
+
+### Public API and Backward Incompatible Changes
+
+### Added APIs
+
+- Type Aspose::TeX::ShellMode
+- Field Aspose::TeX::ShellMode::NoShellEscape
+- Field Aspose::TeX::ShellMode::ShellRestricted
+- Property Aspose::TeX::TeXOptions::ShellMode
+- Property Aspose::TeX::TeXOptions::Executables
+- Type Aspose::TeX::CommandLine::Base64Exec
+- Property Aspose::TeX::CommandLine::Base64Exec::CommandName
+- Method Aspose::TeX::CommandLine::Base64Exec::#ctor
+- Method Aspose::TeX::CommandLine::Base64Exec::Execute(System::ArrayPtr<System::String>)
+- Type Aspose::TeX::CommandLine::Executable
+- Property Aspose::TeX::CommandLine::Executable::CommandName
+- Property Aspose::TeX::CommandLine::Executable::OutputRedirectStream
+- Property Aspose::TeX::CommandLine::Executable::Terminal
+- Method Aspose::TeX::CommandLine::Executable::#ctor
+- Method Aspose::TeX::CommandLine::Executable::GetInputReader(System::String)
+- Method Aspose::TeX::CommandLine::Executable::Execute(System::ArrayPtr<System::String>)
+- Type Aspose::TeX::CommandLine::ExecutablesList
+- Property Aspose::TeX::CommandLine::ExecutablesList::List
+- Method Aspose::TeX::CommandLine::ExecutablesList::Add(Aspose::TeX::CommandLine::Executable)
+- Method Aspose::TeX::CommandLine::ExecutablesList::Remove(System::String)
+- Type Aspose::TeX::CommandLine::Write18Exception
+- Method Aspose::TeX::CommandLine::Write18Exception::#ctor(System::String)
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.TeX for C++ 24.8 Release Notes](https://releases.aspose.com/tex/cpp/release-notes/2024/aspose-tex-for-cpp-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
