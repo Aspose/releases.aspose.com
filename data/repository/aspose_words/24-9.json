@@ -1,0 +1,12 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-words",
+  "id" : "24-9",
+  "packageFiles" : [ {
+    "size" : "5 KB",
+    "name" : "aspose-words-24.9.pom"
+  } ],
+  "releasehDate" : "2024-09-13T12:13:54+00:00",
+  "version" : "24.9",
+  "ReleaseNotes" : "https://releases.aspose.com/words/java/release-notes/2024/aspose-words-for-java-24-9-release-notes/"
+}
