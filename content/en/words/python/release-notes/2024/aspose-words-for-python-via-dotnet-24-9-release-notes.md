@@ -137,7 +137,7 @@ aw.digitalsignatures.DigitalSignatureUtil.sign(src_file_name=input_file_name, ds
 
 Implemented new **import_underline_formatting** public property in **Aspose.Words.Loading.MarkdownLoadOptions** class.
 
-This use case explains how to recognize underline formatting while loading Markdown::
+This use case explains how to recognize underline formatting while loading Markdown:
 
 {{< highlight python >}}
 bytes_ = '++12 and B++'.encode(encoding='ascii')
@@ -161,6 +161,7 @@ with io.BytesIO(bytes_) as byte_stream:
 ### Added new public methods DocumentBuilder.InsertGroupShape
 
 A new **insert_group_shape** public methods has been added to **DocumentBuilder** class:
+
 {{< highlight python >}}
   @overload
     def insert_group_shape(self, shapes: List[aspose.words.drawing.Shape]) -> aspose.words.drawing.GroupShape:
