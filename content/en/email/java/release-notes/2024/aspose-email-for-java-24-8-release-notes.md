@@ -26,4 +26,3 @@ This page contains release notes information for Aspose.Email for Java 24.8
 |EMAILNET-41412|Mboxrd Writer issue|Bug|
 |EMAILNET-41401|FindAndExtractSoftDeletedItems method does not seem to work as expected|Bug|
 |EMAILNET-41373|Exception while reading an Zimbra (.tgz) file using Aspose.Email 23.3|Bug|
-
