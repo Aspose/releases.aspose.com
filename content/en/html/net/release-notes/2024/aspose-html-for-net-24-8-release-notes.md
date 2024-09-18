@@ -614,10 +614,7 @@ namespace Aspose.Html.Rendering
         /// This method terminates current path.
         /// </summary>
         /// <param name="rule">Filling rule specifies how the interior of a closed path is clipped</param>
-        public virtual void Clip(FillRule rule)
-        {
-            adaptedDevice.Clip(rule);
-        }
+        public virtual void Clip(FillRule rule);
         
         //From  
         /// <summary>
@@ -635,7 +632,7 @@ namespace Aspose.Html.Rendering
         /// <param name="data">An array of bytes representing the image.</param>
         /// <param name="imageFormat">Image format.</param>
         /// <param name="rect">A rectangle which determines position and size to draw.</param>
-        public virtual void DrawImage(byte[] data, WebImageFormat imageFormat, RectangleF rect)
+        public virtual void DrawImage(byte[] data, WebImageFormat imageFormat, RectangleF rect);
         
         //From
         /// <summary> 
@@ -689,18 +686,14 @@ namespace Aspose.Html.Rendering
         /// Modify the current transformation matrix by multiplying the specified matrix.
         /// </summary>
         /// <param name="matrix">Transformation matrix.</param>
-        public virtual void Transform(Matrix matrix)
-        {
-        }
-        
+        public virtual void Transform(Matrix matrix);
+		
         //To
         /// <summary>
         /// Modify the current transformation matrix by multiplying the specified matrix.
         /// </summary>
         /// <param name="matrix">Transformation matrix.</param>
-        public virtual void Transform(IMatrix matrix)
-        {
-        }
+        public virtual void Transform(IMatrix matrix);
     }
     
     /// <summary>
