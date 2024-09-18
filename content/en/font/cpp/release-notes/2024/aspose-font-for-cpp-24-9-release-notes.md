@@ -1,16 +1,16 @@
 ---
-id: "aspose-font-for-cpp-24-8-release-notes"
-slug: "aspose-font-for-cpp-24-8-release-notes"
-linktitle: "Aspose.Font for C++ 24.8 Release Notes"
-title: "Aspose.Font for C++ 24.8 Release Notes"
-description: C++ APIs to manipulate and font files. This page contains new Aspose.Font for C++ features, enhancement, and bug fixes in 2024, version 24.8.
+id: "aspose-font-for-cpp-24-9-release-notes"
+slug: "aspose-font-for-cpp-24-9-release-notes"
+linktitle: "Aspose.Font for C++ 24.9 Release Notes"
+title: "Aspose.Font for C++ 24.9 Release Notes"
+description: C++ APIs to manipulate and font files. This page contains new Aspose.Font for C++ features, enhancement, and bug fixes in 2024, version 24.9.
 productName: "Aspose.Font for C++"
-weight: 93
+weight: 92
 type: "repository"
 layout: "release"
 hideChildren: false
 toc: true
-family_listing_page_title: "Aspose.Font for C++ 24.8 Release Notes"
+family_listing_page_title: "Aspose.Font for C++ 24.2 Release Notes"
 ---
 
 ## Major Features
