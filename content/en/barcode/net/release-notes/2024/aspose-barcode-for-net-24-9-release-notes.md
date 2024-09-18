@@ -1,5 +1,5 @@
 ---
-date: "2024-09-20"
+date: "2024-09-16"
 id: "aspose-barcode-for-net-24-9-release-notes"
 slug: "aspose-barcode-for-net-24-9-release-notes"
 linktitle: "Aspose.BarCode for .NET 24.9 Release Notes"
