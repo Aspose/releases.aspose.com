@@ -1,7 +1,7 @@
 ---
-id: "aspose-email-for-python-via-net-24-8-release-notes"
+id: "aspose-email-for-python-via-net-24-9-release-notes"
 slug: "aspose-email-for-python-via-net-24-9-release-notes"
-linktitle: "Aspose.Email for Python via .NET 24.8 Release Notes"
+linktitle: "Aspose.Email for Python via .NET 24.9 Release Notes"
 title: "Aspose.Email for Python via .NET 24.9 Release Notes"
 weight: 10
 description: "Aspose.Email for Python via .NET 24.9 Release Notes – the latest updates and fixes."
