@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.3d-for-.net-24.7"
-description: " "
+title: "Aspose.3D .NET 24.8 MSI - JT Parsing, Compression Support"
+description: "Download Aspose.3D for .NET 24.8 (MSI) for JT file parsing improvements and advanced compression codec for C# application developers on Windows."
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-24.7/"
@@ -43,8 +43,30 @@ weight: 369
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-7-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 24.7 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 24.7 (MSI) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Handle 3D files and optimize the performance with the latest Aspose.3D for .NET 24.8 (MSI) release. This release is designed to elevate 3D file processing within your C# and VB.NET applications with support for Siemens JT file parsing and advanced compression methods.
+
+### Improved JT File Parsing
+Refactored Siemens JT version 10 parsing is now available in the .NET 3D API, and it improves compatibility and functionality with complex 3D models used in industrial applications.
+
+### Advanced Compression Codec Support
+A new `Float64` CDP compression codec is introduced for Siemens JT 9 files in this version of Aspose.3D for .NET, to guarantee faster file processing while preserving data integrity for high-precision projects.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.3D for .NET 24.7 Release Notes](https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

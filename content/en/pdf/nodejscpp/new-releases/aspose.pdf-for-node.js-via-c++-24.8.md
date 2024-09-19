@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-node.js-via-c++-24.8"
-description: " "
+title: "Hidden PDF Text Handling in Node.js Apps | Aspose.PDF 24.8"
+description: "Download Aspose.PDF for Node.js via C++ 24.8. Learn about new APIs for finding & deleting hidden text in PDFs. Optimize your document management now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/nodejscpp/new-releases/aspose.pdf-for-node.js-via-c++-24.8/"
@@ -43,8 +43,31 @@ weight: 10
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/nodejscpp/release-notes/2024/aspose_pdf-for-nodejs-cpp-24-8-release-notes/'>https://releases.aspose.com/pdf/nodejscpp/release-notes/2024/aspose_pdf-for-nodejs-cpp-24-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for Node.js</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for Node.js via C++ 24.8 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.PDF for Node.js via C++ 24.8 introduces new APIs that allow developers to handle hidden text within PDFs efficiently. This update provides powerful tools for locating and removing hidden content, making PDF management more effective and streamlined for your Node.js applications.
+
+### New APIs for Hidden Text Handling
+
+- **AsposePdfFindHiddenText:** Discover hidden text within your PDF files and enable your Node.js apps to manage invisible content seamlessly.
+- **AsposePdfDeleteHiddenText:** This addition to the Node.js PDF processing API removes hidden text from PDFs and guarantees cleaner and more optimized documents.
+
+These additions provide Node.js developers with advanced capabilities for handling hidden content within PDFs to enhance document organization and control.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for Node.js via C++ 24.8 Release Notes](https://releases.aspose.com/pdf/nodejscpp/release-notes/2024/aspose_pdf-for-nodejs-cpp-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

@@ -68,6 +68,7 @@ productLink: https://products.aspose.com/font/java/
 releaseNotesLink: https://releases.aspose.com/font/java/release-notes/
 dataFolder: aspose_font
 packages_refs:
+- "24-9"
 - "24-7"
 - "24-5"
 - "24-4"

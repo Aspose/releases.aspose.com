@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.email-for-.net-24.8"
-description: " "
+title: "Aspose.Email .NET 24.8 (MSI) - Refined SMIME Content-Type"
+description: "Stay updated with seamless API performance using Aspose.Email for .NET 24.8 (MSI). Download now for enhanced SMIME content type and crucial bug fixes."
 keywords: ""
 page_type: single_release_page
 folder_link: "/email/net/new-releases/aspose.email-for-.net-24.8/"
@@ -43,8 +43,39 @@ weight: 599
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/email/net/release-notes/2024/aspose-email-for-net-24-8-release-notes/'>https://releases.aspose.com/email/net/release-notes/2024/aspose-email-for-net-24-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for .NET 24.8 release</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for .NET 24.8 (MSI) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Boost functionality and resolve several issues encountered in previous versions using the latest Aspose.Email for .NET 24.8 (MSI) release. This release is essential for developers who seek robust and reliable email management APIs in C# and VB.NET email applications. 
+
+### Refined SMIME Content-Type
+
+The latest .NET email processing API version introduces the `smime-type` attribute to the SMIME Content-Type and empowers email security features.
+
+### Improved ICS Format Compatibility
+
+We have resolved the issue where the `EndDate` of `Recurrence` was empty when saving `MapiCalendar` to ICS format.
+
+### Bug Fixes
+- Resolved an exception triggered by `ImapClient.FetchMessage` due to incorrect message length parameters.
+- Fixed issues in the `Mboxrd Writer` to ensure consistent message export.
+- Corrected the malfunctioning `FindAndExtractSoftDeletedItems` method.
+- Addressed the error during the .NET 7 to .NET 8 migration.
+- Fixed an exception occurring while reading Zimbra (.tgz) files.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Email for .NET 24.8 Release Notes](https://releases.aspose.com/email/net/release-notes/2024/aspose-email-for-net-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

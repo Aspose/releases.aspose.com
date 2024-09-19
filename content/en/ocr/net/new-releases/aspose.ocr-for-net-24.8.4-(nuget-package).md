@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.ocr-for-net-24.8.4-(nuget-package)"
-description: " "
+title: "Aspose.OCR .NET 24.8.4 - Optimized OCR Accuracy (NuGet)"
+description: "Download Aspose.OCR for .NET 24.8.4 NuGet package with improved OCR accuracy for headers, fixes, & better image handling. Compatible with all platforms."
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/net/new-releases/aspose.ocr-for-net-24.8.4-(nuget-package)/"
@@ -43,8 +43,35 @@ weight: 366
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-8-1-release-notes/'>https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-8-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Fix PDF creation</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.OCR for .NET 24.8.4 (NuGet Package) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+### Optimized OCR Accuracy
+
+This release of Aspose.OCR for .NET (version 24.8.3, NuGet package) improves the recognition accuracy of headers and footers, ensuring accurate text capture, which is essential for document processing applications.
+
+### Upgraded Recognition Functionality
+
+The recognition precision for headers and footers has been increased in this release of the .NET OCR API to make it easier to extract structured information from various document types.
+
+### Bug Fixes:
+- Resolved an issue where certain image content was missed by the OCR engine.
+- Fixed a bug that caused an empty page to appear while converting TIFF images into searchable PDFs.
+- Addressed incorrect image orientation detection to eliminate instances where images were rotated upside-down after processing.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.OCR for .NET 24.8.4 Release Notes](https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-8-1-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

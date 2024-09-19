@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pub-for-.net-24.7-(dlls-only)"
-description: " "
+title: ".NET 7 Framework Support in C# Publisher API 24.7 (DLLs)"
+description: "Build powerful C# Publisher apps with Aspose.PUB for .NET 24.7 (DLLs). Get .NET 7.0 target framework support & improved text formatting. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/pub/net/new-releases/aspose.pub-for-.net-24.7-(dlls-only)/"
@@ -43,8 +43,32 @@ weight: 44
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pub/net/release-notes/2024/aspose-pub-for-net-24-7-release-notes/'>https://releases.aspose.com/pub/net/release-notes/2024/aspose-pub-for-net-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.PUB for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.PUB without the MSI installer, i.e. you cannot run MSI installers on Mono.</div>
+      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.PUB for .NET 24.7 assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.PUB without the MSI installer, i.e. you cannot run MSI installers on Mono.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+The wait is over! Aspose.PUB for .NET 24.7 (DLLs only) is here to simplify your .NET development workflows. This release brings valuable additions to supercharge your cross-platform C# applications.
+
+### Introducing Support for .NET 7.0 Target Framework
+
+Conveniently integrate your C# apps with the latest .NET 7 framework using the latest C# Publisher API version and broaden your capabilities.
+
+### Empowered Text Formatting
+
+Support for text formatted in all caps (uppercase) has been upgraded in this release to guarantee precise rendering and conversion of your MS Publisher documents.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PUB for .NET 24.7 Release Notes](https://releases.aspose.com/pub/net/release-notes/2024/aspose-pub-for-net-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

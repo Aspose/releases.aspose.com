@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.email-for-python-via-.net-24.8.0-windows-x64"
-description: " "
+title: "Boost Email Processing - Aspose.Email Python 24.8.0 (Win64)"
+description: "Download Aspose.Email for Python via .NET 24.8.0 on Windows x64 for upgraded ICS loading, PST splitting, and MSG to HTML conversion in Python apps."
 keywords: ""
 page_type: single_release_page
 folder_link: "/email/pythonnet/new-releases/aspose.email-for-python-via-.net-24.8.0-windows-x64/"
@@ -45,7 +45,42 @@ weight: 95
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for Python via .NET 24.8.0, Windows x64 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Develop efficient solutions and boost email processing in Python via .NET integration using Aspose.Email for Python via .NET 24.8.0 (Win64) release. It includes feature upgrades, bug fixes, and more for Python developers.
+
+### ICS File Handling
+
+The ICS loading process has been fine-tuned in this version of the Python emailing API, improving the email address handling within this format.
+
+### Extended Printing Support
+
+We have introduced experimental support for printing with Aspose.Email.Printing in your .NET 8 projects for Windows 64-bit systems.
+
+### PST File Splitting
+
+Make large file handling smoother with Aspose.Email for Python via .NET 24.8.0 as we have addressed the problems causing exceptions when splitting PST files.
+
+### Bug Fixes
+
+- Resolved issues with attachment names that include Japanese characters.
+- Fixed incorrect text tapering during MSG to HTML conversions.
+- Addressed problems with VCard contact handling.
+- Corrected errors related to RRULE reading from ICS files.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Email for Python via .NET 24.8.0 Release Notes](https://releases.aspose.com/email/pythonnet/release-notes/2024/aspose-email-for-python-via-net-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
 

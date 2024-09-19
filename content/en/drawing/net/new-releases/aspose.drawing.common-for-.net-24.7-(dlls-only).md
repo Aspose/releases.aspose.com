@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.drawing.common-for-.net-24.7-(dlls-only)"
-description: " "
+title: "Upgraded Fonts in Aspose.Drawing.Common .NET 24.7 (DLLs)"
+description: "Get the core functionalities of the C# drawing API with Aspose.Drawing.Common .NET 24.7 (DLLs). Better image processing & font support. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/drawing/net/new-releases/aspose.drawing.common-for-.net-24.7-(dlls-only)/"
@@ -43,8 +43,36 @@ weight: 151
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/drawing/net/release-notes/2024/aspose-drawing-for-net-24-7-release-notes/'>https://releases.aspose.com/drawing/net/release-notes/2024/aspose-drawing-for-net-24-7-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains Aspose.Drawing.Common for .NET Framework 2.0 and .NET Standard 2.0</div>
+      <h4>Description</h4><div class="HTMLDescription">This ZIP file contains Aspose.Drawing.Common for .NET (24.7) Framework 2.0 and .NET Standard 2.0.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Access essential image processing features with Aspose.Drawing.Common for .NET 24.7 (DLLs Only). It equips developers with an organized way to handle expanded font support and ascertain compatibility with various .NET environments.
+
+### Core Image Processing Features
+
+You can leverage essential functionalities for creating, editing, and manipulating images within your cross-platform C# and VB.NET applications using this release.
+
+### Upgraded Font Support in .NET Applications
+
+Effortlessly manage font files with non-English names and extend the typographic options for your end-users using the latest C# drawing manipulation API release.
+
+### Optimized Performance
+
+Enjoy performance improvements that enhance the speed and efficiency of your image processing tasks across Windows, Linux, and macOS.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Drawing for .NET 24.7 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2024/aspose-drawing-for-net-24-7-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
