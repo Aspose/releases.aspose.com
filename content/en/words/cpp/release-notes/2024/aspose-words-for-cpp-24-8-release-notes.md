@@ -15,7 +15,7 @@ menuItemWithNoContent: false
 
 {{% alert color="primary" %}}
 
-This page contains release notes for [Aspose.Words for C++ 24.7](https://www.nuget.org/packages/Aspose.Words.Cpp/24.7.0).
+This page contains release notes for [Aspose.Words for C++ 24.8](https://www.nuget.org/packages/Aspose.Words.Cpp/24.8.0).
 
 {{% /alert %}}
 
