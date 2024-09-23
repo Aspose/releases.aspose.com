@@ -54,6 +54,8 @@ print(effect_type == slides.animation.EffectType.ASCEND) # Should return 'True'
 print(effect_type == slides.animation.EffectType.FLOAT_UP) # Should return 'True'
 ```
 
+However, due to technical limitations, this improvement is only supported in Python version 3.12 and newer.
+
 ### IPictureFillFormat.compress_image() Method Has Been Added
 
 This method compresses an image by reducing its size based on the shape size and specified resolution, with the option to delete cropped areas. It adjusts the picture's size and resolution similarly to PowerPoint’s **Picture Format -> Compress Pictures -> Resolution** feature.
