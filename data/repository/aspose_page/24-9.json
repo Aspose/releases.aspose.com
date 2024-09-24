@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-page",
+  "id" : "24-9",
+  "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-page-24.9-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "17 MB",
+    "name" : "aspose-page-24.9.jar"
+  }, {
+    "size" : "393 bytes",
+    "name" : "aspose-page-24.9.pom"
+  } ],
+  "releasehDate" : "2024-09-24T03:53:24+00:00",
+  "version" : "24.9",
+  "ReleaseNotes" : "https://releases.aspose.com/page/java/release-notes/2024/aspose-page-for-java-24-9-release-notes/"
+}
