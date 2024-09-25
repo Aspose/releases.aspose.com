@@ -25,7 +25,7 @@ This page contains release notes information for [Aspose.ZIP for .NET 24.8](http
 |ZIPNET-1189|Use EventBag for split Zip archives.|Feature|
 |ZIPNET-1190|Introduced event raised just before Zip entry compression.|Feature|
 |ZIPNET-1191|Added static instance of Zstandard compression settings.|Enhancement|
-|ZIPNET-1191|Implemented archive for uuencode.|Feature|
+|ZIPNET-1192|Implemented archive for uuencode.|Feature|
 
 ## **Public API and Backwards Incompatible Changes**
 |**The following public types were added:**|**Description**|
