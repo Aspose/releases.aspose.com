@@ -384,7 +384,7 @@ This page contains release notes information for Aspose PDF for Python via .NET 
 * Type: aspose.pdf.plugins.PdfDoc
 * Method: aspose.pdf.plugins.PdfDoc.#ctor 
 * Method: aspose.pdf.plugins.PdfDoc.process(aspose.pdf.plugins.IPluginOptions) aspose.pdf.plugins.ResultContainer
-* Type:aspose.pdf.plugins.PdfExtractor
+* Type: aspose.pdf.plugins.PdfExtractor
 * Method: aspose.pdf.plugins.PdfExtractor.#ctor 
 * Method: aspose.pdf.plugins.PdfExtractor.process(aspose.pdf.plugins.IPluginOptions) aspose.pdf.plugins.ResultContainer
 * Type: aspose.pdf.plugins.PdfExtractorOptions
@@ -556,3 +556,4 @@ This page contains release notes information for Aspose PDF for Python via .NET 
 * Property: aspose.pdf.plugins.Usage.prompt_tokens int
 * Property: aspose.pdf.plugins.Usage.completion_tokens int
 * Property: aspose.pdf.plugins.Usage.total_tokens int
+
