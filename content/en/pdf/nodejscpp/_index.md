@@ -26,8 +26,8 @@ You can easily use Aspose.PDF for Node.js via C++ from {{< Common/link href="htt
 {{< Common/release-notes-link family="pdf" product="nodejs" href="https://releases.aspose.com/pdf/nodejscpp/release-notes/" text="https://releases.aspose.com/pdf/nodejscpp/release-notes/"  >}}
 
 {{< consolebox/consoleboxwrapper id="npm" >}}
-   {{< consolebox/spantext text="$" >}}
-   {{< consolebox/textarea >}} npm install asposepdfnodejs {{< /consolebox/textarea >}}
+   {{< consolebox/spantext text=" " >}}
+   {{< consolebox/textarea id="npm">}} npm install asposepdfnodejs {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
 {{< Common/hr >}}
