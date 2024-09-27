@@ -30,17 +30,21 @@ You can easily use Aspose.PDF for Java directly from a {{< Common/link href="htt
 
 {{< consolebox/consoleboxwrapper id="repository" >}}
    {{< consolebox/textarea id="repository" >}}
+
       maven {url "http://repository.aspose.com/repo/" }
+
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
 {{< consolebox/consoleboxwrapper id="dependency" >}}
    {{< consolebox/textarea id="dependency" >}}
-      compile (
-         group: 'com.aspose',
-         name: 'aspose-pdf',
-         version: '20.11',
-         classifier: 'android.via.java')
+
+   compile (
+      group: 'com.aspose',
+      name: 'aspose-pdf',
+      version: '20.11',
+      classifier: 'android.via.java')
+
    {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
