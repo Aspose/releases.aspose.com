@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/gis/net/new-releases/icons-aspose.gis-for-.net-24.9-(dlls-only)/"
-folder_name: "アイコン Aspose.GIS for .NET 24.9 (DLL のみ)"
+folder_name: "Aspose.GIS for .NET 24.9 (DLL のみ)"
 download_link: "/gis/net/new-releases/icons-aspose.gis-for-.net-24.9-(dlls-only)/331df4d837b0ae1839fe8504aea45a2c-2-11666"
 download_text: "ダウンロード"
 intro_text: "この ZIP ファイルには、Aspose.GIS for .NET アセンブリのみが含まれています。アセンブリは、同じバージョンの製品の MSI インストーラーと同じです。"
@@ -22,7 +22,7 @@ weight: 243
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="アイコン Aspose.GIS for .NET 24.9 (DLL のみ)" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.GIS for .NET 24.9 (DLL のみ)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="ダウンロード" link="/gis/net/new-releases/icons-aspose.gis-for-.net-24.9-(dlls-only)/331df4d837b0ae1839fe8504aea45a2c-2-11666" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/gis" >}}

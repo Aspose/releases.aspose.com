@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/gis/net/new-releases/icons-aspose.gis-for-.net-24.9-(dlls-only)/"
-folder_name: "Simgeler Aspose.GIS for .NET 24.9 (yalnızca DLL'ler)"
+folder_name: "Aspose.GIS for .NET 24.9 (yalnızca DLL'ler)"
 download_link: "/gis/net/new-releases/icons-aspose.gis-for-.net-24.9-(dlls-only)/331df4d837b0ae1839fe8504aea45a2c-2-11666"
 download_text: "İndirmek"
 intro_text: "Bu ZIP dosyası yalnızca Aspose.GIS for .NET derlemelerini içerir. Montajlar, aynı sürümdeki ürünün MSI yükleyicisindekilerle aynıdır."
@@ -22,7 +22,7 @@ weight: 243
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Simgeler Aspose.GIS for .NET 24.9 (yalnızca DLL'ler)" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.GIS for .NET 24.9 (yalnızca DLL'ler)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="İndirmek" link="/gis/net/new-releases/icons-aspose.gis-for-.net-24.9-(dlls-only)/331df4d837b0ae1839fe8504aea45a2c-2-11666" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/gis" >}}
