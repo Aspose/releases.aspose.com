@@ -1,9 +1,9 @@
 ---
-id: "aspose-pdf-for-java-24-9-release-notes"
-slug: "aspose-pdf-for-java-24-9-release-notes"
+id: "aspose-pdf-for-java-24-9-0-release-notes"
+slug: "aspose-pdf-for-java-24-9-0-release-notes"
 linktitle: "Aspose.PDF for Java 24.9 Release Notes"
 title: "Aspose.PDF for Java 24.9 Release Notes"
-weight: 50
+weight: 49
 description: "Aspose.PDF for Java 24.9 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
@@ -66,8 +66,8 @@ This page contains release notes information for Aspose.PDF for Java 24.9.
 - com.aspose.pdf.XImageCollection.add(BufferedImage,ImageFilterType)
 
 
-**Change method:**
-- com.aspose.pdf.Field.flatten() => - com.aspose.pdf.Field.flatten(boolean)
-- com.aspose.pdf.RedactionAnnotation.flatten() => - com.aspose.pdf.RedactionAnnotation.flatten(boolean)
+**Added parameter in methods:**
+- com.aspose.pdf.Field.flatten() to com.aspose.pdf.Field.flatten(boolean)
+- com.aspose.pdf.RedactionAnnotation.flatten() to com.aspose.pdf.RedactionAnnotation.flatten(boolean)
 
 
