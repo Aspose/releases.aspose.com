@@ -15,4 +15,4 @@ menuItemWithNoContent: false
 
 {{% alert color="primary" %}}
 
-This page contains release notes information for Aspose.BarCode for JasperReports 24.7 based on features from [Aspose.BarCode for Java 24.7](https://releases.aspose.com/barcode/java/24-4/).
+This page contains release notes information for Aspose.BarCode for JasperReports 24.7 based on features from [Aspose.BarCode for Java 24.7](https://releases.aspose.com/barcode/java/24-7/).
