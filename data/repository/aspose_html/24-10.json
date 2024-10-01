@@ -3,6 +3,10 @@
   "artifactId" : "aspose-html",
   "id" : "24-10",
   "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-html-24.10-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
     "size" : "32 MB",
     "name" : "aspose-html-24.10-jdk1.8.jar",
     "classifier" : "jdk1.8"
@@ -10,6 +14,14 @@
     "size" : "32 MB",
     "name" : "aspose-html-24.10-jdk11.jar",
     "classifier" : "jdk11"
+  }, {
+    "size" : "32 MB",
+    "name" : "aspose-html-24.10-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "32 MB",
+    "name" : "aspose-html-24.10-jdk21.jar",
+    "classifier" : "jdk21"
   }, {
     "size" : "32 MB",
     "name" : "aspose-html-24.10-jdk8.jar",
@@ -21,7 +33,7 @@
     "size" : "395 bytes",
     "name" : "aspose-html-24.10.pom"
   } ],
-  "releasehDate" : "2024-10-01T05:37:29+00:00",
+  "releasehDate" : "2024-10-01T05:39:06+00:00",
   "version" : "24.10",
   "ReleaseNotes" : "https://releases.aspose.com/html/java/release-notes/2024/aspose-html-for-java-24-10-release-notes/"
 }
