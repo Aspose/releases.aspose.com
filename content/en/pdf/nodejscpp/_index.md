@@ -13,30 +13,24 @@ family_listing_page_venture: "4"
 family_listing_page_package: "280"
 homepage_package_type: "NPM"
 homepage_package_link: "https://www.npmjs.com/package/asposepdfnodejs"
+download_link: "https://releases.aspose.com/pdf/nodejscpp/new-releases/aspose.pdf-for-node.js-via-c++-24.9/"
+tags: ['pdf-javascript','Node.js', 'PDF-to-DOC', 'PDF-to-DOCX', 'PDF-to-SVG', 'PDF-Formatting', 'PDF-Metadata', 'PDF-Attachment', 'PDF-Images', 'PDF-Encryption', 'PDF-Decryption', 'Search-PDF', 'PDF-Table', 'PDF-Annotations', 'PDF-Bookmarks', 'PDF-Security', 'PDF-Signature', 'PDF-Text-Extraction', 'PDF-to-Image', 'PDF-to-PNG', 'PDF-to-JPEG', 'PDF-to-BMP']
 weight: 12
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/pdf/10" linktext="Support Forum" >}}
 
-
-<!-- ProductPageContent-->
-{{< Common/h1 text="Aspose.PDF for Node.js via C++" >}}
-{{< dbToolbar link="https://forum.aspose.com/c/pdf/10" linktext="Support Forum" >}}
-
-
-
-{{< Common/h3 text="Download Aspose.PDF for Node.js via C++ library for Portable Document Format Processing"  >}}
+{{< Common/h2 text="Download Aspose.PDF for Node.js via C++ library for Portable Document Format Processing"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.PDF for Node.js via C++ allows developers to manipulate PDF files directly on the Web. This Node.js solution uses WebAssembly technology and is based on Aspose.PDF for C++.
 You can easily use Aspose.PDF for Node.js via C++ from {{< Common/link href="https://www.npmjs.com/package/asposepdfnodejs" text="NPM"  >}} with the following command.
 {{< /Common/paragraph>}}
+{{< Common/release-notes-link family="pdf" product="nodejs" href="https://releases.aspose.com/pdf/nodejscpp/release-notes/" text="https://releases.aspose.com/pdf/nodejscpp/release-notes/"  >}}
 
 {{< consolebox/consoleboxwrapper id="npm" >}}
    {{< consolebox/spantext text=" " >}}
-   {{< consolebox/textarea id="npm" >}} npm install asposepdfnodejs {{< /consolebox/textarea >}}
+   {{< consolebox/textarea id="npm">}} npm install asposepdfnodejs {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
-
-{{< Common/release-notes-link family="pdf" product="nodejs" href="https://releases.aspose.com/pdf/nodejscpp/release-notes/" text="https://releases.aspose.com/pdf/nodejscpp/release-notes/"  >}}
 
 {{< Common/hr >}}
 [Product Page](https://products.aspose.com/pdf/nodejs-cpp/) | [Docs](https://docs.aspose.com/pdf/nodejs-cpp/) | [Demos](https://products.aspose.app/pdf/family/) | [Blog](https://blog.aspose.com/categories/aspose.pdf-product-family/) | [Code Samples](https://github.com/aspose-pdf/) | [Free Support](https://forum.aspose.com/c/pdf/10) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
