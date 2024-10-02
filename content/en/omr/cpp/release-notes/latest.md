@@ -23,8 +23,10 @@ This article contains a summary of recent changes, enhancements and bug fixes in
 
 Key | Summary | Category
 --- | ------- | --------
-OMRCPP-69 | Minor improvements and fixes. | Enhancement
-OMRCPP-67 | Fixed the issues with licensing module. | Fix
+OMRCPP-73 | Improved JSON serialization/de-serialization.
+n/a | Minor improvements and fixes. | Enhancement
+OMRCPP-67<br />OMRCPP-72 | Fixed the issues with licensing module. | Fix
+OMRCPP-63 | The library now works correctly in debug mode. | Fix
 
 ## Public API changes and backwards compatibility
 
