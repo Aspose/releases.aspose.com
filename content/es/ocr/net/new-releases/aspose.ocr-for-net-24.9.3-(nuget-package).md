@@ -8,9 +8,9 @@ folder_link: "/ocr/net/new-releases/aspose.ocr-for-net-24.9.3-(nuget-package)/"
 folder_name: "Aspose.OCR para NET 24.9.3 (paquete NuGet)"
 download_link: "/ocr/net/new-releases/aspose.ocr-for-net-24.9.3-(nuget-package)/69cbdfb8c26235299b26a1761627f10b-30-11694"
 download_text: "Descargar"
-intro_text: "capacidad de reducir el tamaño del archivo PDF, detección mejorada de la orientación del texto"
+intro_text: "(MemoryPack) capacidad para reducir el tamaño del archivo PDF, detección mejorada de la orientación del texto"
 image_link: "/resources/img/random-file-icon.png"
-download_count: " 30/9/2024 Descargars: 1  Views: 1 "
+download_count: " 30/9/2024 Descargars: 2  Views: 1 "
 file_size: "File Size: 145.98MB"
 parent_path: "ocr/net"
 section_parent_path: "ocr/net"
@@ -31,7 +31,7 @@ weight: 368
     {{< Releases/ReleasesHeading h4txt="detalles del archivo">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Descargars: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-69cbdfb8c26235299b26a1761627f10b-30-11694" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-69cbdfb8c26235299b26a1761627f10b-30-11694" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} Tamaño del archivo: {{< /Common/li >}}
       {{< Common/li id="size-update-69cbdfb8c26235299b26a1761627f10b-30-11694" >}} 145.98MB {{< /Common/li >}}
 
@@ -43,7 +43,7 @@ weight: 368
       <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-9-0-release-notes/'>https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-9-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Descripción</h4><div class="HTMLDescription">capacidad de reducir el tamaño del archivo PDF, detección mejorada de la orientación del texto</div>
+      <h4>Descripción</h4><div class="HTMLDescription">(MemoryPack) capacidad para reducir el tamaño del archivo PDF, detección mejorada de la orientación del texto</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
