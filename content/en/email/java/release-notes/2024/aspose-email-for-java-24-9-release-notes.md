@@ -20,11 +20,11 @@ This page contains release notes information for Aspose.Email for Java 24.9
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|EMAILNET-41163|Implement the ability to add headers when creating EWSClient|Feature|
 |EMAILNET-40852|Provide APIs to get the color of message category|Feature|
 |EMAILNET-41390|IMAP Authenticate Plain issue when there are special characters|Bug|
 |EMAILNET-41427|Japanese base64 encoded email address being corrupted|Bug|
 |EMAILNET-41423|Issue with MSG to MHT Conversion|Bug|
+|EMAILJAVA-35314|Missing space from HTML Body text|Bug|
 
 ## **New Features**
 
