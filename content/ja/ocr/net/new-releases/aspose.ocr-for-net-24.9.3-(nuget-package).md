@@ -6,12 +6,12 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/net/new-releases/aspose.ocr-for-net-24.9.3-(nuget-package)/"
 folder_name: "Aspose.OCR for NET 24.9.3 (NuGet パッケージ)"
-download_link: "/ocr/net/new-releases/aspose.ocr-for-net-24.9.3-(nuget-package)/f5ffd52b4e7862d3aa0af7fa7c4afcd9-30-11694"
+download_link: "/ocr/net/new-releases/aspose.ocr-for-net-24.9.3-(nuget-package)/59adb24ef3cdbe0297f05b395827453f-1-11694"
 download_text: "ダウンロード"
 intro_text: "(MemoryPack) PDF ファイル サイズを削減する機能、テキスト方向の検出の改善"
 image_link: "/resources/img/random-file-icon.png"
-download_count: " 30/9/2024 ダウンロードs: 12  Views: 1 "
-file_size: "File Size: 145.98MB"
+download_count: " 30/9/2024 ダウンロードs: 18  Views: 1 "
+file_size: "File Size: 0 B"
 parent_path: "ocr/net"
 section_parent_path: "ocr/net"
 
@@ -24,19 +24,19 @@ weight: 368
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.OCR for NET 24.9.3 (NuGet パッケージ)" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="ダウンロード" link="/ocr/net/new-releases/aspose.ocr-for-net-24.9.3-(nuget-package)/f5ffd52b4e7862d3aa0af7fa7c4afcd9-30-11694" >}}
+    {{< Releases/ReleasesSingleButtons text="ダウンロード" link="/ocr/net/new-releases/aspose.ocr-for-net-24.9.3-(nuget-package)/59adb24ef3cdbe0297f05b395827453f-1-11694" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/ocr" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} ダウンロードs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-f5ffd52b4e7862d3aa0af7fa7c4afcd9-30-11694" >}} 12 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-59adb24ef3cdbe0297f05b395827453f-1-11694" >}} 18 {{< /Common/li >}}
       {{< Common/li >}} ファイルサイズ: {{< /Common/li >}}
-      {{< Common/li id="size-update-f5ffd52b4e7862d3aa0af7fa7c4afcd9-30-11694" >}} 145.98MB {{< /Common/li >}}
+      {{< Common/li id="size-update-59adb24ef3cdbe0297f05b395827453f-1-11694" >}} 0 B {{< /Common/li >}}
 
       {{< Common/li >}} 日付が追加されました: {{< /Common/li >}}
-      {{< Common/li id="added-update-f5ffd52b4e7862d3aa0af7fa7c4afcd9-30-11694" >}}30/9/2024 {{< /Common/li >}}
+      {{< Common/li id="added-update-59adb24ef3cdbe0297f05b395827453f-1-11694" >}}30/9/2024 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
