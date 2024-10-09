@@ -161,7 +161,7 @@ Implemented new public property in **Aspose.Words.Loading.MarkdownLoadOptions** 
 public bool ImportUnderlineFormatting { get; set; }
 {{< /highlight >}}
 
-This use case explains how to recognize underline formatting while loading Markdown::
+This use case explains how to recognize underline formatting while loading Markdown:
 {{< gist "aspose-words-gists" "e06aa7a168b57907a5598e823a22bf0a" "import-underline-formatting.cs" >}}
 
 ### Added new public methods DocumentBuilder.InsertGroupShape
@@ -194,7 +194,7 @@ public GroupShape InsertGroupShape(params Shape[] shapes)
 public GroupShape InsertGroupShape(double left, double top, double width, double height, params Shape[] shapes)
 {{< /highlight >}}
 
-This use case explains how insert group shape:
+This use case explains how to insert group shape:
 {{< gist "aspose-words-gists" "e06aa7a168b57907a5598e823a22bf0a" "insert-group-shape.cs" >}}
 
 ### Added new public option DocumentBuilderOptions.ContextTableFormatting

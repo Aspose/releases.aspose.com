@@ -1,6 +1,6 @@
 ---
-id: "aspose-pdf-for-java-24-9-0-release-notes"
-slug: "aspose-pdf-for-java-24-9-0-release-notes"
+id: "aspose-pdf-for-java-24-9-release-notes"
+slug: "aspose-pdf-for-java-24-9-release-notes"
 linktitle: "Aspose.PDF for Java 24.9 Release Notes"
 title: "Aspose.PDF for Java 24.9 Release Notes"
 weight: 49
