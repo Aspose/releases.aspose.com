@@ -35,7 +35,7 @@ GPU version: **23.10.1**
 
 To make it easier to upgrade your code, we have kept all legacy values, but marked them as deprecated. All of your existing code will continue to work and you can even make minor updates to it, but be aware that all deprecated language codes are scheduled to be removed in release **25.1.0 (January 2025)**.
 
-**Time to deprecation: 6 months left.**
+**Time to deprecation: 3 months left.**
 {{% /alert %}}
 
 ## What was changed
@@ -54,7 +54,7 @@ This section lists all public API changes introduced in **Aspose.OCR for .NET 24
 
 ### Added public APIs:
 
-The following public APIs have been added to **Aspose.OCR for .NET 24.5.0** release:
+The following public APIs have been added to **Aspose.OCR for .NET 24.9.0** release:
 
 #### `Aspose.OCR.PdfOptimizationMode` enumeration
 
