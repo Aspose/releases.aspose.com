@@ -270,8 +270,6 @@ rewrite ^/slides/net/release-notes/2023/aspose-slides-for-net-24-4-release-notes
 rewrite ^/slides/net/release-notes/2024/aspose-slides-for-dotnet-java-24-2-release-notes/$ https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-2-release-notes/ permanent;
 rewrite ^/slides/net/release-notes/2024/aspose-slides-for-net-java-24-2-release-notes/$ https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-2-release-notes/ permanent;
 rewrite ^/tasks/python/$ https://releases.aspose.com/tasks/python-net/ permanent;
-rewrite ^/total/java/release-notes/2024/aspose-total-for-java-24-1-release-notes/$ https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/ permanent;
-rewrite ^/total/java/release-notes/2024/aspose-total-for-java-24-2-release-notes/$ https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/ permanent;
 rewrite ^/total/nodejs-cpp$ https://releases.aspose.com/total/nodejs-java/ permanent;
 rewrite ^/util/java$ https://releases.aspose.com/ permanent;
 rewrite ^/vi/ocr/net/$ https://releases.aspose.com/ocr/net/ permanent;
@@ -305,11 +303,9 @@ rewrite ^/words/python/\)$ https://releases.aspose.com/words/python/ permanent;
 # Redirects added on 24 May 2024
 rewrite ^/repo/com/aspose$ https://releases.aspose.com/java/repo/com/aspose/ permanent;
 rewrite ^/repo/org/springframework/boot/spring-boot-dependencies/2.2.6.RELEASE/spring-boot-dependencies-2.2.6$ https://releases.aspose.com/java/repo/com/aspose/springframework/boot/spring-boot-dependencies/2.2.6.RELEASE/ permanent;
-rewrite ^/total/java/release-notes/$ https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/ permanent;
 rewrite ^/pdf/net/release-notes/2024/aspose-pdf-for-net-24-02-release-notes/$ https://releases.aspose.com/pdf/net/release-notes/2024/aspose-pdf-for-net-24-2-release-notes/ permanent;
 rewrite ^/plugins/$ https://releases.aspose.com/ permanent;
 rewrite ^/repo/net/minidev/json-smart/maven-metadata.xml$ https://releases.aspose.com/java/repo/com/aspose/aspose-java-for-maven/maven-metadata.xml permanent;
-rewrite ^/total/java/release-notes/2024/$ https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/ permanent;
 rewrite ^/cad/net/total$ https://releases.aspose.com/cad/net/ permanent;
 # rewrite ^/cells/cpp/new-releases/aspose.cells-for-c++-24.5windows/\"$ https://releases.aspose.com/cells/cpp/new-releases/aspose.cells-for-c++-24.5windows/ permanent;
 rewrite ^/cells/python/new-releases/aspose.cells-for-python-21.12.0/$ https://releases.aspose.com/cells/python-java/new-releases/aspose.cells-for-python-via-java-21.12/ permanent;
@@ -327,7 +323,6 @@ rewrite /repository/maven-releases https://releases.aspose.com/java/repo/com/asp
 rewrite ^/slides/java/release-notes/2014$ https://releases.aspose.com/slides/java/release-notes/ permanent;
 rewrite ^/slides/net/release-notes/2024/aspose-slides-for-nodejs-via-java-24-2-release-notes/$ https://releases.aspose.com/slides/nodejs-java/release-notes/2024/aspose-slides-for-nodejs-via-java-24-2-release-notes/ permanent;
 rewrite ^/svg/python/release-notes/2024/aspose-svg-for-python-via-dotnet-24-4-release-notes/$ https://releases.aspose.com/svg/python-net/release-notes/2024/aspose-svg-python-via-dotnet-24-5-release-notes/ permanent;
-rewrite ^/total/java/release-notes/2024/aspose-total-for-java-24-3-release-notes/$ https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/ permanent;
 rewrite ^/words/java/15-8-0/$ https://releases.aspose.com/words/java/ permanent;
 rewrite ^/zh/total/java/23-09/$ https://releases.aspose.com/zh/total/java/ permanent;
 rewrite ^/18.165$ https://releases.aspose.com/ permanent;
@@ -442,8 +437,6 @@ rewrite ^/slides/cpp/total$ https://releases.aspose.com/slides/cpp/ permanent;
 
 rewrite ^/email/Node.js$ https://releases.aspose.com/email/ permanent;
 rewrite ^/java/repo\'$ https://releases.aspose.com/java/repo/ permanent;
-rewrite ^/total/java/release-notes/2024/aspose-total-for-java-24-4-1-release-notes/$ https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/ permanent;
-rewrite ^/total/java/release-notes/2024/aspose-total-for-java-24-5-release-notes/$ https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/ permanent;
 rewrite ^/cells-for-android/$ https://releases.aspose.com/cells/androidjava/ permanent;
 rewrite ^/svg/python/release-notes/2024/aspose-svg-for-python-via-dotnet-24-5-release-notes/$ https://releases.aspose.com/svg/python-net/release-notes/2024/aspose-svg-python-via-dotnet-24-5-release-notes/ permanent;
 rewrite ^/words/cpp/words/cpp/$ https://releases.aspose.com/words/cpp/ permanent;
@@ -463,7 +456,6 @@ rewrite ^/slides/python-java/api-reference/$ https://releases.aspose.com/slides/
 rewrite ^/slides/total$ https://releases.aspose.com/slides/ permanent;
 # rewrite ^/svg/python-net/release-notes/$ https://releases.aspose.com/svg/python-net/ permanent;
 rewrite ^/tasks/cpp/total$ https://releases.aspose.com/tasks/cpp/ permanent;
-rewrite ^/total/java/release-notes/2024/aspose-total-for-java-24-4-release-notes/$ https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/ permanent;
 rewrite ^/total/net/total$ https://releases.aspose.com/total/net/ permanent;
 rewrite ^/util/$ https://releases.aspose.com/ permanent;
 rewrite ^/video/$ https://releases.aspose.com/ permanent;
@@ -781,7 +773,6 @@ rewrite ^/raw/java/$ https://releases.aspose.com/java/repo/ permanent;
 rewrite ^/slides/java/xxxxxx$ https://releases.aspose.com/slides/java/ permanent;
 rewrite ^/slides/net/release-notes/2014/$ https://releases.aspose.com/slides/net/release-notes/ permanent;
 rewrite ^/tasks/net/total$ https://releases.aspose.com/tasks/net/ permanent;
-rewrite ^/total/java/release-notes/2024/aspose-total-for-java-24-6-release-notes/$ https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/ permanent;
 rewrite ^/total/ne$ https://releases.aspose.com/total/net/ permanent;
 rewrite ^/total/nt/$ https://releases.aspose.com/total/net/ permanent;
 rewrite ^/words/java/24-11/$ https://releases.aspose.com/words/java/ permanent;
@@ -791,7 +782,6 @@ rewrite ^/words/net/release-notes/2024/aspose-words-for-net-20-11-release-notes/
 # Redirects added on 19th July 2024
 
 # rewrite ^/words/java(.*)$ https://releases.aspose.com/words/java/ permanent;
-rewrite ^/\/total/java/release-notes/2024/aspose-total-for-java-24-3-release-notes/$ https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/ permanent;
 rewrite ^/artifactory/libs-snapshot$ https://releases.aspose.com/java/repo/ permanent;
 rewrite ^/maven/$ https://releases.aspose.com/java/repo/com/aspose/aspose-java-for-maven/ permanent;
 rewrite ^/words/java/14-9-0/$ https://releases.aspose.com/words/java/ permanent;
@@ -958,7 +948,6 @@ rewrite ^/sitemaps.xml$ https://releases.aspose.com/en/sitemap-total.xml permane
 rewrite ^/slides/java/release-notes/2023/aspose-slides-for-net-23-8-release-notes/$ https://releases.aspose.com/slides/java/release-notes/2023/aspose-slides-for-java-23-8-release-notes/ permanent;
 rewrite ^/slides/net/release-notes/2024/aspose-slides-for-java-24-7-release-notes/$ https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-7-release-notes/ permanent;
 rewrite ^/tags/aspoce-cells$ https://releases.aspose.com/tags/aspose-cells/ permanent;
-rewrite ^/total/java/release-notes/2024/aspose-total-for-java-24-7-release-notes/$ https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/ permanent;
 rewrite ^/word/net/release-notes/$ https://releases.aspose.com/words/net/release-notes/ permanent;
 rewrite ^/words/androidjava/new-releases/aspose.words-for-android-via-java-19.5/$ https://releases.aspose.com/words/androidjava/new-releases/-aspose.words-for-android-via-java-19.6/ permanent;
 rewrite ^/words/java/20-3/jar$ https://releases.aspose.com/words/java/20-3/ permanent;
@@ -1180,3 +1169,11 @@ rewrite ^/words/net/releases-notes$ https://releases.aspose.com/words/net/releas
 rewrite ^/words/python-$ https://releases.aspose.com/words/python/ permanent;
 rewrite ^/cad/java/(\")$ https://releases.aspose.com/cad/java/ permanent;
 rewrite ^/%20repo$ https://releases.aspose.com/java/repo/ permanent;
+
+# Redirects added for Aspose.Total for Java Release Notes Pages
+
+# 1. Redirect for all specific release notes under 2024
+rewrite ^/total/java/release-notes/2024/.*$ https://releases.aspose.com/total/java/release-notes/ permanent;
+
+# 2. Redirect for the release notes root path without the year
+rewrite ^/total/java/release-notes/$ https://releases.aspose.com/total/java/release-notes/ permanent;
