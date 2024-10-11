@@ -91,16 +91,20 @@ The following is a list of any changes made to the public API such as added, ren
 
 ### **Changes some behaviors of Cells.DeleteBlankRows()/Cells.DeleteBlankColumns().**
 
-In old versions, those two methods have different behaviors for drawing objects: when deleting rows, those objects will not be checked and may be deleted togather with blank rows. When deleting columns, those objects will be checked and columns under them will not be taken as blank. Starting from 24.10 we have unified the behavior of those two methods and by default we do not check drawing objects. If user needs to keep those objects and corresponding rows/columns, please use DeleteBlankOptions with false value for DrawingsAsBlank property. And for such kind of situation, with old versions user's code may be simple like:
-//    cells.DeleteBlankColumns();//
-with new versions please use code like:
-//    DeleteBlankOptions options = new DeleteBlankOptions();
-    options.DrawingsAsBlank = false;
-    cells.DeleteBlankColumns(options);//
+In old versions, those two methods have different behaviors for drawing objects: when deleting rows, those objects will not be checked and may be deleted together with blank rows. When deleting columns, those objects will be checked and columns under them will not be taken as blank. Starting from 24.10, we have unified the behavior of those two methods and by default we do not check drawing objects. If user needs to keep those objects and corresponding rows/columns, please use DeleteBlankOptions with false value for DrawingsAsBlank property. And for such kind of situation, with old versions, user's code may be simply like:
+```cs
+cells.DeleteBlankColumns();
+```
+with new versions, please use code like:
+```cs
+DeleteBlankOptions options = new DeleteBlankOptions();
+options.DrawingsAsBlank = false;
+cells.DeleteBlankColumns(options);
+```
 
 ### **Changes some behaviors of PivotTable.RefreshData().**
 
-In the old versions, an Exception will be thrown when refreshing pivot table with external data source.We change to return refreshing state to avoid breaking programs.
+In the old versions, an Exception is thrown when refreshing pivot table with external data source. We change it to return refreshing state to avoid breaking programs.
 
 ### **Adds method Cell.SetFormula(string formula, FormulaParseOptions options).**
 
@@ -108,7 +112,7 @@ Sets specified formula for one cell, with user specified options for parsing for
 
 ### **Adds property DeleteBlankOptions.DrawingsAsBlank.**
 
-Indicates whether drawing related objects such as picture, shape, chart... should be taken as blank when deleting blank rows and columns.
+Indicates whether drawing related objects such as pictures, shapes, charts... should be taken as blank when deleting blank rows and columns.
 
 ### **Adds property DeleteBlankOptions.StartIndex/EndIndex.**
 
@@ -122,45 +126,41 @@ Use ExternalConnection.Id property instead.
 
 Represents the class type of external connection.
 
-### **Adds ExternalConnection.ConnectionDataSourceType property and obsoletes ExternalConnection.Type property.**
+### **Adds ExternalConnection.SourceType property and obsoletes ExternalConnection.Type property.**
 
-Gets and sets the source type.
+Gets or Sets the external connection DataSource type.
 
 ### **Adds ExternalConnection.ConnectionFile property.**
 
-Gets the file name of external connection .
+Gets the file name of external connection.
 
 ### **Adds ExternalConnection.Command property.**
 
-Gets the Command text of external connection .
+Gets the Command text of external connection.
 
 ### **Adds ExternalConnection.CommandType property.**
 
-Gets the Command type of external connection .
+Gets the Command type of external connection.
 
 ### **Adds ExternalConnection.ConnectionString property.**
 
-Gets the connnection string of external connection .
-
-### **Adds ExternalConnection.ConnectionString property.**
-
-Gets the connnection string of external connection .
+Gets the connection string of external connection.
 
 ### **Adds ExternalConnection.SecondCommand property.**
 
-Gets the second command of external connection .
+Gets the second command of external connection.
 
 ### **Adds OdsLoadOptions.IsClassicPivotTable property.**
 
-Indicates whether loading pivot table of ods file as classic pivot table of Excel 97-2003
+Indicates whether loading pivot table of ods file as classic pivot table of Excel 97-2003.
 
 ### **Adds OdsSaveOptions.IgnorePivotTables property.**
 
-Indicates wheher saving pivot tables to ods file. 
+Indicates whether saving pivot tables to ods file. 
 
 ### **Adds PivotRefreshState class.**
 
-Rresents result state of refreshing pivot table.
+Represents result state of refreshing pivot table.
 
 ### **Adds overload PivotTableCollection.Add(String,Int32,Int32,String,Boolean,Boolean) method.**
 
@@ -182,7 +182,7 @@ Use  PivotTable.RepeatItemsOnEachPrintedPage instead.
 
 Represents a CHM file.
 
-### **Adds GridWeb.UpdateCache() method in GridWeb .Net6.0/.Net7.0 version**
+### **Adds GridWeb.UpdateCache() method in GridWeb .Net6.0/.Net7.0 versions.**
 
 Update the GridWeb instance in cache directory.
 
