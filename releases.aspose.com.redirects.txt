@@ -1169,11 +1169,3 @@ rewrite ^/words/net/releases-notes$ https://releases.aspose.com/words/net/releas
 rewrite ^/words/python-$ https://releases.aspose.com/words/python/ permanent;
 rewrite ^/cad/java/(\")$ https://releases.aspose.com/cad/java/ permanent;
 rewrite ^/%20repo$ https://releases.aspose.com/java/repo/ permanent;
-
-# Redirects added for Aspose.Total for Java Release Notes Pages
-
-# 1. Redirect for all specific release notes under 2024
-rewrite ^/total/java/release-notes/2024/.*$ https://releases.aspose.com/total/java/release-notes/ permanent;
-
-# 2. Redirect for the release notes root path without the year
-rewrite ^/total/java/release-notes/$ https://releases.aspose.com/total/java/release-notes/ permanent;
