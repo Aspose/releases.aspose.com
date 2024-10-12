@@ -19,9 +19,6 @@ This page contains release notes for Aspose.Cells for C++ 24.10.
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|CELLSCPP-1108|Supports for implementing custom functions through Aspose.Cells API using AbstractCalculationEngine functionality.|New Feature
-|CELLSCPP-1109|Supports using Object type objects as function parameters|New Feature
-|CELLSCPP-1110|Supports functions that return Object type objects|New Feature
 |CELLSNET-56659|Rows covered by shapes are deleted when deleting blank rows|New Feature
 |CELLSNET-56727|Support to delete blank rows/columns between user specified range|New Feature
 |CELLSNET-56780|Support to get the source of the pivot table from corresponding external connection|New Feature
