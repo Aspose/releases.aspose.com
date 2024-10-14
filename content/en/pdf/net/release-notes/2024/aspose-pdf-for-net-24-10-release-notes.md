@@ -24,11 +24,11 @@ This page contains release notes information for Aspose.PDF for .NET 24.10.
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|PDFNET-57711|Support singing PDF documents using ECDSA|Feature|
-|PDFNET-57790|Underlines to be represented as CSS when converting a PDF document to HTML|Enhancement|
-|PDFNET-58153|Cropping the image when it is added to the PDF page|Enhancement|
-|PDFNET-47759|PDF file not properly converted to PNG|Bug|
-|PDFNET-47776|Exception on converting PDF to PDF/A|Bug|
+|PDFNET-57711|Support signing PDF documents using ECDSA|Feature|
+|PDFNET-57790|Underlines will be rendered as CSS-style when converting PDF to HTML|Enhancement|
+|PDFNET-58153|Cropping an image when adding it to a PDF page|Enhancement|
+|PDFNET-47759|PDF file is not converted to PNG properly|Bug|
+|PDFNET-47776|Exception when converting PDF to PDF/A|Bug|
 |PDFNET-53304|TextFragmentAbsorber finds extra results on the page|Bug|
 |PDFNET-53427|PDF/A compliance lost after adding document bookmark|Bug|
 |PDFNET-53597|PDF to JPG conversion generates incorrect output|Bug|
@@ -59,7 +59,7 @@ This page contains release notes information for Aspose.PDF for .NET 24.10.
 |PDFNET-58148|"System.NotImplementedException: Not supported image type" in Searchable PDF|Bug|
 |PDFNET-58216|"Wrong object format" in PDF to PDFA1b conversion|Bug|
 |PDFNET-53599|Exception occurs when converting PDF file to DOCX|Bug|
-|PDFNET-53699|MemoryLeak when extracting images from PDF|Bug|
+|PDFNET-53699|Memory leak when extracting images from PDF|Bug|
 |PDFNET-57563|IndexOutOfRangeException thrown on call TextAbsorber.Visit()|Bug|
 |PDFNET-57568|When converting PDF to Image, noise appears in the resulting image|Bug|
 |PDFNET-52636|PdfFileSignature.Save throws System.NullReferenceException|Bug|
