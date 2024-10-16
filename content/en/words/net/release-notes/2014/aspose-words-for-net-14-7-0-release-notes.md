@@ -33,10 +33,10 @@ A comprehensive description of all methods and properties, along with code examp
 There are 114 improvements and fixes in this regular monthly release. The most notable are:
 
 - Improvements to DrawingML shadow, extrusion and 3D rendering algorithms
-  New public API to specify revision marks appearance for rendering 
-  Vertical text is supported in HTML, MHTML and EPUB 
-  Improvements to rendering and line wrapping for Arabic and Far East scripts 
-  Improvements to rendering of inline shapes within rotated text
+- New public API to specify revision marks appearance for rendering 
+- Vertical text is supported in HTML, MHTML and EPUB 
+- Improvements to rendering and line wrapping for Arabic and Far East scripts 
+- Improvements to rendering of inline shapes within rotated text
 
 ## All Changes
 

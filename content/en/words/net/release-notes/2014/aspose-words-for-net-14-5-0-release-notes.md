@@ -33,11 +33,11 @@ A comprehensive description of all methods and properties, along with code examp
 There are 84 improvements and fixes in this regular monthly release. The most notable are:
 
 - Improved justification around inline paragraph breaks
-  Hyphenation API updated and extended with a callback mechanism 
-  Table row wrapping around floaters in compatibility mode improved 
-  OOXML (MS Word 2010) Text effects rendering implemented 
-  Image export to HTML, MHTML and EPUB improved 
-  FitText attribute supported for all flow formats
+- Hyphenation API updated and extended with a callback mechanism 
+- Table row wrapping around floaters in compatibility mode improved 
+- OOXML (MS Word 2010) Text effects rendering implemented 
+- Image export to HTML, MHTML and EPUB improved 
+- FitText attribute supported for all flow formats
 
 ## All Changes
 

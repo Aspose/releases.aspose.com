@@ -30,19 +30,19 @@ A comprehensive description of all methods and properties, along with code examp
 
 ## Major Features
 
-There are 111 improvements and fixes in this regular monthly release. The most notable are:
+There are 111 improvements and fixes in this regular monthly release. The most notable are:
 
 - New reporting engine that allows to use LINQ Method Syntax in report templates
-  Databinding for image SDTs is supported
-  DrawingML is now a composite node (breaking change to the public API)
-  DrawingML supports linked textboxes
-  Rendering of 'keep with next' paragraphs is improved
-  Implemented 'Use printer metrics to lay out document' compatibility option (Windows/GDI only)
-  Improved tabs handling logic for Word 2013 and compatible modes in rendering
-  Extrusion effect for DrawingML shapes rendering implemented (cold rendering)
-  Rounding corners rendering in DrawingML charts implemented
-  Improved 3D lighting rendering for WordArt objects
-  Added support of Gradient background in HTML output
+- Databinding for image SDTs is supported
+- DrawingML is now a composite node (breaking change to the public API)
+- DrawingML supports linked textboxes
+- Rendering of 'keep with next' paragraphs is improved
+- Implemented 'Use printer metrics to lay out document' compatibility option (Windows/GDI only)
+- Improved tabs handling logic for Word 2013 and compatible modes in rendering
+- Extrusion effect for DrawingML shapes rendering implemented (cold rendering)
+- Rounding corners rendering in DrawingML charts implemented
+- Improved 3D lighting rendering for WordArt objects
+- Added support of Gradient background in HTML output
 
 ## All Changes
 

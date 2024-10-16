@@ -30,13 +30,13 @@ A comprehensive description of all methods and properties, along with code examp
 
 ## Major Features
 
-There are 97 improvements and fixes in this regular monthly release. The most notable are:
+There are 97 improvements and fixes in this regular monthly release. The most notable are:
 
 - Improved DocumentBuilder to handle mixed LTR/RTL text
-  Improved breaking of floating tables in layout 
-  Improved custom tab stop beyond line ending 
-  Implemented new features and effects in DrawingML rendering 
-  Added LoadOptions.WebRequestTimeout property
+- Improved breaking of floating tables in layout 
+- Improved custom tab stop beyond line ending 
+- Implemented new features and effects in DrawingML rendering 
+- Added LoadOptions.WebRequestTimeout property
 
 ## All Changes
 

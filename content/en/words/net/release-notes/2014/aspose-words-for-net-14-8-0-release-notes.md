@@ -33,11 +33,11 @@ A comprehensive description of all methods and properties, along with code examp
 There are 75 improvements and fixes in this regular monthly release. The most notable are:
 
 - Improved how TOC field culture and formatting is handled
-  Timestamping of PDF digital signature using external timestamp server implemented 
-  Improvements to advanced rendering features e.g. pre-blending semi-transparent images 
-  Horizontal rotation of characters having HorizontalRotatedFarEast orientation supported 
-  Improved page layout for additional compatibility modes 
-  Improved floater positioning in complex cases
+- Timestamping of PDF digital signature using external timestamp server implemented 
+- Improvements to advanced rendering features e.g. pre-blending semi-transparent images 
+- Horizontal rotation of characters having HorizontalRotatedFarEast orientation supported 
+- Improved page layout for additional compatibility modes 
+- Improved floater positioning in complex cases
 
 ## All Changes
 

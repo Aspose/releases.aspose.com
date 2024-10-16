@@ -33,13 +33,13 @@ A comprehensive description of all methods and properties, along with code examp
 There are 78 improvements and fixes in this regular monthly release. The most notable are:
 
 - Improvements to rendering of Arabic texts
-  Improvements to rendering of complex document layouts 
-  Improved handling of themes, list styles and building blocks when joining documents 
-  Added support of text frames in ODT import/export 
-  Improvements in TXT import capabilities 
-  Gradient fill with transparency rendering in PDF implemented 
-  3D rotated DrawingML shapes (and images) rendering implemented 
-  Better support of tab stops and underlines in HTML import/export
+- Improvements to rendering of complex document layouts 
+- Improved handling of themes, list styles and building blocks when joining documents 
+- Added support of text frames in ODT import/export 
+- Improvements in TXT import capabilities 
+- Gradient fill with transparency rendering in PDF implemented 
+- 3D rotated DrawingML shapes (and images) rendering implemented 
+- Better support of tab stops and underlines in HTML import/export
 
 ## All Changes
 

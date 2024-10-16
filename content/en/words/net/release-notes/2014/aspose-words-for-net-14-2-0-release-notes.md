@@ -33,15 +33,15 @@ A comprehensive description of all methods and properties, along with code examp
 There are 118 improvements and fixes in this regular monthly release. The most notable are:
 
 - Improved export of tabs and tab stop positions to HTML
-  Tab leaders are preserved when exporting to HTML
-  Move revisions are supported in RTF 
-  Hyphenation is now supported in the layout engine (with external dictionaries) 
-  Drop caps positioning improved 
-  Improved rendering of hidden text 
-  Improved rendering of Asian text, ordering of Arabic punctuation marks 
-  DrawingML "Inner Shadow" effect rendering implemented 
-  Multiline watermark rendering supports "Fit to Bezier curves" cases
-  Digitally signing XPS documents is possible now
+- Tab leaders are preserved when exporting to HTML
+- Move revisions are supported in RTF 
+- Hyphenation is now supported in the layout engine (with external dictionaries) 
+- Drop caps positioning improved 
+- Improved rendering of hidden text 
+- Improved rendering of Asian text, ordering of Arabic punctuation marks 
+- DrawingML "Inner Shadow" effect rendering implemented 
+- Multiline watermark rendering supports "Fit to Bezier curves" cases
+- Digitally signing XPS documents is possible now
 
 ## All Changes
 

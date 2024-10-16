@@ -27,7 +27,7 @@ There are 157 improvements and fixes in this regular monthly release. The most n
 
 - TOC (Table Of Contents) field update performance dramatically improved.
 - Supported the Object.Attr syntax for both merge fields and tags.
-- Shape handling improved.  Text wrapping polygon info read/written.
+- Shape handling improved. Text wrapping polygon info read/written.
 - SvgSaveOptions.ImageSavingCallback public API member added.
 - Range.ToDocument() public API member added.
 - Added an option to specify image compression to produce smaller output PDF files.
