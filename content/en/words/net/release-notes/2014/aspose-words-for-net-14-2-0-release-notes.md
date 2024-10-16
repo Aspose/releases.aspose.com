@@ -21,7 +21,14 @@ This page contains release notes for [Aspose.Words for .NET 14.2.0](https://www.
 
 ## Aspose.Words for .NET 14.2 Release Notes
 
-### Major Features
+
+{{% alert color="primary" %}}
+
+A comprehensive description of all methods and properties, along with code examples, is available on the [API reference pages](https://reference.aspose.com/words/net/).
+
+{{% /alert %}}
+
+## Major Features
 
 There are 118 improvements and fixes in this regular monthly release. The most notable are:
 
