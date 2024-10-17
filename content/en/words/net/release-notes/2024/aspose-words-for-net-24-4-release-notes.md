@@ -4,7 +4,7 @@ slug: "aspose-words-for-net-24-4-release-notes"
 linktitle: "Aspose.Words for .NET 24.4 Release Notes"
 title: "Aspose.Words for .NET 24.4 Release Notes"
 weight: 55
-description: "Aspose.Words for .NET 24.4 Release Notes – the latest updates and fixes."
+description: "Aspose.Words for .NET 24.4 Release Notes – Latest Updates and Fixes in April 2024"
 type: "repository"
 layout: "release"
 hideChildren: false
