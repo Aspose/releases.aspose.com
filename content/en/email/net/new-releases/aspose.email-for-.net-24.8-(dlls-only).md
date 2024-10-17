@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.email-for-.net-24.8-(dlls-only)"
-description: " "
+title: "Aspose.Email .NET 24.8 (DLLs) - Refined SMIME Content-Type"
+description: "Optimize your C# email API performance seamlessly. Download Aspose.Email for .NET 24.8 (DLLs) for improved SMIME security and critical bug resolutions."
 keywords: ""
 page_type: single_release_page
 folder_link: "/email/net/new-releases/aspose.email-for-.net-24.8-(dlls-only)/"
@@ -45,6 +45,37 @@ weight: 600
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for .NET 24.8 (DLLs only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Elevate your email management experience in C# applications using Aspose.Email for .NET 24.8 (DLLs only) release. With this release, you can beef up security with improved SMIME handling and experience smooth email processing.
+
+### Work with Refined SMIME Handling
+
+We have added a `smime-type` attribute to SMIME Content-Type in the newest release of the .NET emailing API to fortify email encryption and security in your .NET applications.
+
+### ICS Format Fix
+
+The issue with `EndDate` in `MapiCalendar` when saving to ICS format has been addressed in this API version, ensuring accurate calendar data.
+
+### Bug Fixes
+- Resolved an exception triggered by `ImapClient.FetchMessage` due to incorrect message length parameters.
+- Fixed issues in the `Mboxrd Writer` to ensure consistent message exports.
+- Corrected the malfunctioning `FindAndExtractSoftDeletedItems` method.
+- Addressed the error during the .NET 7 to .NET 8 migration.
+- Fixed an exception occurring while reading Zimbra (.tgz) files.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Email for .NET 24.8 Release Notes](https://releases.aspose.com/email/net/release-notes/2024/aspose-email-for-net-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

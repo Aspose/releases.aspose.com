@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk17",
+  "artifactId" : "aspose-note",
+  "id" : "24-10",
+  "packageFiles" : [ {
+    "size" : "531 KB",
+    "name" : "aspose-note-24.10-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "10 MB",
+    "name" : "aspose-note-24.10-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "394 bytes",
+    "name" : "aspose-note-24.10.pom"
+  } ],
+  "releasehDate" : "2024-10-10T07:15:01+00:00",
+  "version" : "24.10",
+  "ReleaseNotes" : "https://releases.aspose.com/note/java/release-notes/2024/aspose-note-for-java-24-10-release-notes/"
+}

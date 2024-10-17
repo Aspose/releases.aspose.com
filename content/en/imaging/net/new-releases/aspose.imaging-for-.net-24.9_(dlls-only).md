@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.imaging-for-.net-24.9_(dlls-only)"
-description: " "
+title: "Aspose.Imaging .NET 24.9 (DLLs) | SVG Support, EMF Fixes"
+description: "Aspose.Imaging for .NET 24.9 (DLLs) delivers SVG gradient improvements, TIFF fixes, and new APIs for efficient DICOM image handling. Download today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/imaging/net/new-releases/aspose.imaging-for-.net-24.9_(dlls-only)/"
@@ -43,8 +43,87 @@ weight: 389
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-9-release-notes/'>https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Imaging for .NET 24.9 (Dlls only) release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Imaging for .NET 24.9 (DLLs only) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.Imaging for .NET 24.9 (DLLs Only) delivers new features focused on improving EMF and SVG file processing, including expanded gradient support and enhanced memory optimization across Windows, Linux, and macOS platforms.
+
+### Improved EMF to Raster Export
+
+Experience highly accurate EMF to SVG conversion and output precision within your C# and VB.NET applications across platforms with the latest .NET imaging API version.
+
+Code example:
+
+```c#
+
+var inputPath = @"input.emf";
+using var image = Image.Load(inputPath);
+image.Save(inputPath + ".svg");
+
+```
+*[Source\*](https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-9-release-notes/)*
+
+### Broader SVG Gradient Support
+
+Aspose.Imaging for .NET now supports enhanced quality and flexibility of gradients in SVG exports. This update lets developers refine the visual appeal of their SVG files.
+
+### Enhanced TIFF Support
+
+Save TIFF files seamlessly on Windows, Linux, and macOS with this C# library release as the memory-related exceptions have now been addressed.
+
+Code example:
+
+```c#
+
+public void TiffTest()
+{
+    var ms = new MemoryStream();
+    SaveTiff(ms);
+
+    GC.Collect();
+    GC.WaitForPendingFinalizers();
+
+    // does not throw exception
+    Console.WriteLine(ms.Position);
+}
+
+static void SaveTiff(Stream stream)
+{
+    var tiffOptions = new TiffOptions(TiffExpectedFormat.TiffLzwRgba)
+    {
+        Source = new StreamSource(stream)
+    };
+
+    using (var image = Image.Create(tiffOptions, 1000, 1000))
+    {
+        image.Save();
+    }
+
+    // does not throw exception
+    Console.WriteLine(stream.Position);
+}
+
+```
+*[Source\*](https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-9-release-notes/)*
+
+### Public API Changes
+
+- **New DICOM image APIs:** Add, remove, and update DICOM tags with `DicomImageInfo.AddTag`, `DicomImageInfo.RemoveTagAt`, and more.
+- **Streamlined image serialization:** APIs like `Image.GetSerializedStream` are now available for seamless image streaming.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Imaging for .NET 24.9 Release Notes](https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-9-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

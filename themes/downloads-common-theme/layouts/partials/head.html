@@ -116,7 +116,23 @@
 {{ end }}
 
 
-  
+<!-- Add the consent script here for Consentise -->
+<!-- Consent script ensures user privacy preferences are set before other tracking scripts -->
+<script>
+    // Define dataLayer and the gtag function.
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('set', 'url_passthrough', true);
+    
+    // Set default consent to 'denied' as a placeholder
+    // Update values based on your requirements
+    gtag('consent', 'default', {
+       'ad_storage': 'denied',
+       'ad_user_data': 'denied',
+       'ad_personalization': 'denied',
+       'analytics_storage': 'denied'
+    });
+</script>
 
 
 <style type="text/css">

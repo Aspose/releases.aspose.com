@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pdf-for-javascript-via-c++-24.8"
-description: " "
+title: "Hidden PDF Text Management in JavaScript | Aspose.PDF 24.8"
+description: "Unleash new APIs to find and delete hidden text in PDFs with Aspose.PDF for JavaScript via C++ 24.8. Download now for enhanced document management."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-24.8/"
@@ -43,9 +43,32 @@ weight: 21
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/javascriptcpp/release-notes/2024/aspose_pdf-for-javascript-cpp-24-8-release-notes/'>https://releases.aspose.com/pdf/javascriptcpp/release-notes/2024/aspose_pdf-for-javascript-cpp-24-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for JavaScript</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for JavaScript via C++ 24.8 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Optimize PDF handling in your JavaScript applications using Aspose.PDF for JavaScript via C++ 24.8 release. This version equips developers with enhanced tools for managing hidden text within PDF files.
+
+### New API for Hidden Text Management
+
+Gain control over hidden text in your PDFs with two powerful new APIs in the latest JavaScript PDF manipulation API release:
+
+- **AsposePdfFindHiddenText:** You can locate hidden text within your PDF files and make it easier to manage invisible content with this new addition.
+- **AsposePdfDeleteHiddenText:** Seamlessly remove hidden text from your PDFs to ascertain clean and optimized documents.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PDF for JavaScript via C++ 24.8 Release Notes](https://releases.aspose.com/pdf/javascriptcpp/release-notes/2024/aspose_pdf-for-javascript-cpp-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.email-for-python-via-.net-24.8.0-macos-arm64"
-description: " "
+title: "Aspose.Email Python 24.8.0 (macOS M1) - Refined Email API"
+description: "Improved email processing, VCard fixes, and MSG to HTML conversion in Aspose.Email for Python via .NET 24.8.0 on macOS ARM64. Download for free today!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/email/pythonnet/new-releases/aspose.email-for-python-via-.net-24.8.0-macos-arm64/"
@@ -45,6 +45,39 @@ weight: 93
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for Python via .NET 24.8.0, macOS ARM64 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+With experimental support for macOS ARM64, Aspose.Email for Python via .NET 24.8.0 brings email handling to the latest Mac hardware. Developers can take advantage of enhanced ICS file loading and better VCard handling to streamline their email processing tasks.
+
+### macOS ARM64 Support
+
+New experimental support for macOS ARM64 devices is available in the latest Python email API release, extending compatibility to the latest Apple hardware.
+
+### ICS and VCard Improvements
+
+Seamlessly handle ICS email addresses and VCard contacts using Aspose.Email for Python via .NET 24.8.0 as we have resolved the relevant issues.
+
+### Refined File Splitting
+
+You can now experience improved PST file splitting and eliminate exceptions during the process within your Python email processing apps.
+
+### Bug Fixes
+- Resolved issues with VCard methods causing process hang-ups.
+- Fixed problems with RRULE interpretation in ICS files.
+- Improved attachment name handling for non-Latin characters.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Email for Python via .NET 24.8.0 Release Notes](https://releases.aspose.com/email/pythonnet/release-notes/2024/aspose-email-for-python-via-net-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.pub-for-c++-24.8-macos"
-description: " "
+title: "Convert PUB Documents on macOS | Aspose.PUB C++ 24.8"
+description: "Download Aspose.PUB for C++ 24.8 on macOS. Efficiently convert multiple Publisher files with new APIs for seamless workflow integration in C++ apps."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pub/cpp/new-releases/aspose.pub-for-c++-24.8-macos/"
@@ -43,8 +43,44 @@ weight: 127
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pub/cpp/release-notes/2024/aspose-pub-for-cpp-24-8-release-notes/'>https://releases.aspose.com/pub/cpp/release-notes/2024/aspose-pub-for-cpp-24-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Aspose.PUB for C++ 24.8 macOS native library</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.PUB for C++ 24.8 macOS native library.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.PUB for C++ 24.8 for macOS brings multi-document conversion functionality to allow developers to convert multiple Microsoft Publisher files at once.
+
+### Convert Multiple Publisher Files
+
+Effortlessly convert multiple PUB documents concurrently and reduce workload using the latest release of the C++ publisher documents processing API.
+
+### Enhanced API Support
+
+Newly added APIs in this version simplify conversion tasks and help you elevate your macOS-powered C++ applications to new heights.
+
+### Public API and Backward Incompatible Changes
+
+### Added APIs
+
+- Interface Aspose::Pub::IPubPackageConverter
+- Class Aspose::Pub::PackageDocumentCollection
+- Class Aspose::Pub::PackageDocumentItem
+- Class Aspose::Pub::PackageFileItem
+- Class Aspose::Pub::PackageStreamItem
+- Enumeration Aspose::Pub::PubDocumentType
+- Method Aspose::Pub::PubFactory::CreatePubPackageConverter
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.PUB for C++ 24.8 Release Notes](https://releases.aspose.com/pub/cpp/release-notes/2024/aspose-pub-for-cpp-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.email-for-c++-24.8"
-description: " "
+title: "Aspose.Email C++ 24.8 (MSI) - .NET 8 Project Support & More"
+description: "Download Aspose.Email for C++ 24.8 (MSI) with .NET 8 support, improved ICS loading, and resolved PST, MSG, VCard issues. Perfect for API developers!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/email/cpp/new-releases/aspose.email-for-c++-24.8/"
@@ -45,7 +45,40 @@ weight: 95
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for C++ 24.8 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
- {{< /Releases/ReleasesFileArea >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.Email for C++ 24.8 (MSI) brings a suite of updates based on the .NET 24.7 release. This version focuses on expanding compatibility, refining features, and fixing critical bugs. 
+
+### .NET 8 Project Support for Aspose.Email.Printing
+
+With the latest C++ email processing API release, you can work with enhanced compatibility for .NET 8 projects and streamline integration.
+
+### Improved ICS Loading
+
+Developers can now experience efficient handling of ICS files with specific email addresses in their C++ emailing applications.
+
+### Bug Fixes
+
+- Fixed an issue where splitting PST files threw an exception ("Object reference not set to an instance of an object").
+- Resolved problems with MSG to HTML conversion resulting in tapered text.
+- Corrected the handling of attachment names with Japanese characters.
+- Addressed synchronization issues with `MboxrdStorageReader` for .NET 4.5.
+- Fixed `VCardContact` and `RRULE` reading errors.
+- Corrected behavior where no changes were saved after modifying the message body.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Email for C++ 24.8 Release Notes](https://releases.aspose.com/email/cpp/release-notes/2024/aspose-email-for-cpp-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
+{{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 
 

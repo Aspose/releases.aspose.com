@@ -6,27 +6,30 @@ linktitle: "Aspose.PDF for JavaScript via C++"
 family_listing_page_title:  "Aspose.PDF for JavaScript via C++"
 family_listing_page_description:  "Aspose.PDF for JavaScript via C++ is a easy and secure toolkit used to work with PDF directly in the web browser."
 family_listing_page_iconurl:  "https://products.aspose.com/pdf/images/aspose_pdf-for-javascript-cpp.svg"
-homepage_package_type: "GitHub"
-homepage_package_link: "https://github.com/aspose-pdf/Aspose.PDF-for-JavaScript-via-CPP"
+homepage_package_type: "NPM"
+homepage_package_link: "https://www.npmjs.com/package/aspose-pdf-js"
+download_link: "https://releases.aspose.com/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-24.9/"
 weight: 11
-tags: ['pdf-javascript-c -js', 'PDF-to-DOC', 'PDF-to-DOCX', 'PDF-to-SVG', 'PDF-Formatting', 'PDF-Metadata', 'PDF-Attachment', 'PDF-Images', 'PDF-Encryption', 'PDF-Decryption', 'Search-PDF', 'PDF-Table', 'PDF-Annotations', 'PDF-Bookmarks', 'PDF-Security', 'PDF-Signature', 'PDF-Text-Extraction', 'PDF-to-Image', 'PDF-to-PNG', 'PDF-to-JPEG', 'PDF-to-BMP', 'pdf-javascript-c -js']
+tags: ['pdf-javascript','js', 'PDF-to-DOC', 'PDF-to-DOCX', 'PDF-to-SVG', 'PDF-Formatting', 'PDF-Metadata', 'PDF-Attachment', 'PDF-Images', 'PDF-Encryption', 'PDF-Decryption', 'Search-PDF', 'PDF-Table', 'PDF-Annotations', 'PDF-Bookmarks', 'PDF-Security', 'PDF-Signature', 'PDF-Text-Extraction', 'PDF-to-Image', 'PDF-to-PNG', 'PDF-to-JPEG', 'PDF-to-BMP']
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/pdf" linktext="Support Forum" >}}
 
-{{< Common/wrapper class="col-md-12" >}}
-{{< Common/wrapper class="panel-body downloadfilebody" >}}
-
-{{< Common/h3 text="Download Aspose.PDF for JavaScript via C++ toolkit for Portable Document Format Processing"  >}}
+{{< Common/h2 text="Download Aspose.PDF for JavaScript via C++ toolkit for Portable Document Format Processing"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.PDF for JavaScript via C++ allows developers to manipulate PDF files directly on the Web. This JavaScript Solution is built using WebAssembly technology and is based on Aspose.PDF for .NET Lightweight.
-You can easily use Aspose.PDF for JavaScript via C++ from {{< Common/link href="https://releases.aspose.com/pdf/javascriptcpp/" text=""  >}} and then follow the installation instructions.
+You can easily use Aspose.PDF for JavaScript via C++ from {{< Common/link href="https://www.npmjs.com/package/aspose-pdf-js" text="NPM"  >}} with the following command.
 {{< /Common/paragraph>}}
+{{< Common/release-notes-link family="pdf" product="javascriptcpp" href="https://releases.aspose.com/pdf/javascriptcpp/release-notes/" text="https://releases.aspose.com/pdf/javascriptcpp/release-notes/"  >}}
+
+{{< consolebox/consoleboxwrapper id="npm" >}}
+   {{< consolebox/spantext text=" " >}}
+   {{< consolebox/textarea id="npm" >}} npm install aspose-pdf-js {{< /consolebox/textarea >}}
+{{< /consolebox/consoleboxwrapper >}}
 
 {{< Common/hr >}}
 
-{{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
+[Product Page](https://products.aspose.com/pdf/javascript-cpp/) | [Docs](https://docs.aspose.com/pdf/javascript-cpp/) | [Demos](https://products.aspose.app/pdf/family/) | [Blog](https://blog.aspose.com/categories/aspose.pdf-product-family/) | [Code Samples](https://github.com/aspose-pdf/) | [Free Support](https://forum.aspose.com/c/pdf/10) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 <!-- /ProductPageContent-->
 
 {{< Tags/TagsWrapper >}}

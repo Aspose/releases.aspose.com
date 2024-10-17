@@ -127,6 +127,8 @@ productLink: https://products.aspose.com/words/java/
 releaseNotesLink: https://releases.aspose.com/words/java/release-notes/
 dataFolder: aspose_words
 packages_refs:
+- "24-10"
+- "24-9"
 - "24-8"
 - "24-7"
 - "24-6"

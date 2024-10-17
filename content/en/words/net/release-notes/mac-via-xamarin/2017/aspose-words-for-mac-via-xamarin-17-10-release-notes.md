@@ -23,6 +23,13 @@ This version also includes all bug fixes and public API changes made in Aspose.W
 
 {{% /alert %}}
 
+
+{{% alert color="primary" %}}
+
+A comprehensive description of all methods and properties, along with code examples, is available on the [API reference pages](https://reference.aspose.com/words/net/).
+
+{{% /alert %}}
+
 ## Major Features
 
 Aspose.Words for Mac via Xamarin features can be divided into four main areas:

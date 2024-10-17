@@ -19,7 +19,7 @@ This page contains release notes for [Aspose.Words for .NET 11.9.0](https://www.
 
 {{% /alert %}}
 
-## Aspose.Words for .NET 11.9 Release Notes
+## Aspose.Words for .NET 11.9 Release Notes
 
 ### What's New
 
@@ -28,7 +28,7 @@ There are 139 improvements and fixes in this regular monthly release. The most n
 - Many more features supported when rendering DrawingML charts.
 - Borders for "conforming" paragraphs are exported to HTML correctly.
 - It is possible to specify image size now when inserting images during mail merge.
-- Significant improvements to layout of floating tables when converting to PDF and XPS.
+- Significant improvements to layout of floating tables when converting to PDF and XPS.
 - Improvements to handling of spaces for East Asian languages when converting to PDF and XPS.
 - Improvements to RTL text layout when converting to PDF and XPS.
 

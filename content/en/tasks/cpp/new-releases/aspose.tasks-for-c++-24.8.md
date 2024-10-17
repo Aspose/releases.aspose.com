@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.tasks-for-c++-24.8"
-description: " "
+title: "Aspose.Tasks C++ 24.8 | Enriched Project Management API"
+description: "Update your cross-platform C++ apps on Windows/Mac/Linux with better task scheduling & project data handling using Aspose.Tasks C++ 24.8. Download now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-24.8/"
@@ -43,8 +43,40 @@ weight: 231
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-8-release-notes/'>https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 24.8</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 24.8 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Build powerful cross-platform project management applications with the latest Aspose.Tasks for C++ 24.8 release. It brings refined task scheduling logic and improved project data calculations to ensure more precise control over work rescheduling, task properties, and more.
+
+### Reschedule Uncompleted Work Logic Update
+
+In the most recent C++ task management API release, we have enhanced logic for handling uncompleted work when `Project.SplitsInProgressTasks` is false, to provide more precise scheduling and control.
+
+### MS Project Compatibility Fixes
+
+Differen inconsistencies between Aspose.Tasks and MS Project when using `RescheduleUncompletedWorkToStartAfter` have been addressed in Aspose.Tasks for C++ 24.8.
+
+### Enriched Task Calculations
+
+You can work with optimized calculations for Stop/Resume properties, `ActualDuration`, `Duration`, and `Finish` times for summary tasks across Windows, Linux, and macOS.
+
+### Fixed Bugs
+- Resolved issues with the calculation of Stop/Resume properties for tasks. (TASKSNET-11249)
+- Fixed inaccuracies in `ActualDuration`, `Duration`, and `Finish` for summary tasks. (TASKSNET-11252)
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Tasks for C++ 24.8 Release Notes](https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-8-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

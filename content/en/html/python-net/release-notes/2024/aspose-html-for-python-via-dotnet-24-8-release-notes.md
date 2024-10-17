@@ -13,7 +13,7 @@ family_listing_page_title: "Aspose.HTML for Python via .NET 24.8 Release Notes"
 menuItemWithNoContent: false
 ---
 {{% alert color="primary" %}}
-This page contains release notes information for Aspose.HTML for Python via .NET 24.7.
+This page contains release notes information for Aspose.HTML for Python via .NET 24.8.
 {{% /alert %}}
 
 As per the regular monthly update process of all APIs being offered by Aspose, we are honored to announce the August release of Aspose.HTML for Python via .NET.

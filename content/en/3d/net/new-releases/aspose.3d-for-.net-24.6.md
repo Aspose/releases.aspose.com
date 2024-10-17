@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.3d-for-.net-24.6"
-description: " "
+title: "Boost 3D Apps Performance with Aspose.3D for .NET 24.6 (MSI)"
+description: "Download Aspose.3D for .NET 24.6 (MSI) and experience optimized performance for Google Draco encoding and decoding within your C# 3D applications."
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-24.6/"
@@ -43,8 +43,33 @@ weight: 367
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-6-release-notes/'>https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 24.6 release.</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 24.6 (MSI) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+Aspose.3D for .NET 24.6 (MSI) offers improved performance for Google Draco encoding and decoding, along with crucial bug fixes related to PBR materials and GLTF output. This release is designed for developers who want seamless 3D object manipulation and conversion in their C# apps.
+
+### Performance Boost in Google Draco Encoding and Decoding
+The performance of Google Draco encoding and decoding has been notably optimized in this C# 3D data manipulation API release, allowing for faster and more efficient 3D data compression and decompression.
+
+### Boost PBR Material Preservation
+We have resolved the issues that caused distorted or lost appearance of PBR materials from GLB files when converted to FBX, ensuring accurate material handling in conversions.
+
+### GLTF Output Refinement
+The problems with GLTF output that generated redundant materials have been fixed, resulting in cleaner and more efficient file exports within your C# 3D apps.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.3D for .NET 24.6 Release Notes](https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-6-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

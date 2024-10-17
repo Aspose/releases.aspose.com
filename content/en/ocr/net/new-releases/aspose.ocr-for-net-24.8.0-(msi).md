@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.ocr-for-net-24.8.0-(msi)"
-description: " "
+title: "Aspose.OCR .NET 24.8.0 (MSI) | Finer Image OCR & PDFs"
+description: "Download Aspose.OCR for .NET 24.8.0 (MSI) to correct skewed and upside-down images, and generate searchable PDFs for Windows and .NET platforms."
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/net/new-releases/aspose.ocr-for-net-24.8.0-(msi)/"
@@ -43,8 +43,40 @@ weight: 361
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-8-0-release-notes/'>https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-8-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Improved automatic correction of rotated and upside-down images</div>
+      <h4>Description</h4><div class="HTMLDescription">Improved automatic correction of rotated and upside-down images with Aspose.OCR for .NET 24.8.0 (MSI) release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+App developers working with OCR technology can utilize the latest Aspose.OCR for .NET 24.8.0 (MSI) release. This release offers finer image processing capabilities, particularly for rotated and upside-down images, and ensures accurate text recognition in your C# OCR applications.
+
+### Enhanced Image Skew Detection
+
+Automatically detect and correct severely rotated or upside-down images using the latest C# OCR library for improved image OCR accuracy.
+
+### Searchable PDF Background Handling
+
+Background images in searchable PDFs are now processed with enhanced skew correction and resizing filters.
+
+### ONNX Runtime Update
+
+The ONNX Runtime dependency has been updated to version 1.18.0 in Aspose.OCR for .NET 24.8.0, which ensures compatibility with the latest models and optimizations.
+
+### Deprecation Warning
+
+Deprecated language codes must be updated by January 2025 to avoid issues with recognition languages in future releases.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.OCR for .NET 24.8.0 Release Notes](https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-8-0-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

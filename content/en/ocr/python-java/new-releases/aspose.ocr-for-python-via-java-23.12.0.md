@@ -1,7 +1,7 @@
 ---
 
-title: "Downloads ---New Releases-aspose.ocr-for-python-via-java-23.12.0"
-description: " "
+title: "Aspose.OCR Python 23.12.0 | Robust OCR API for Python Apps"
+description: "Aspose.OCR for Python via Java 23.12.0 is a powerful library, offering app developers robust OCR capabilities with integration into Python projects via Java."
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/python-java/new-releases/aspose.ocr-for-python-via-java-23.12.0/"
@@ -43,8 +43,62 @@ weight: 1
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/ocr/python-java/release-notes/2023/aspose-ocr-python-java-23-12-0-release-notes/'>https://releases.aspose.com/ocr/python-java/release-notes/2023/aspose-ocr-python-java-23-12-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">First release (includes text-in-wild)</div>
+      <h4>Description</h4><div class="HTMLDescription">First release (includes text-in-wild) of Aspose.OCR for Python via Java 23.12.0.</div>
   {{< /Releases/ReleasesFileFeatures >}}
+
+{{< Releases/ReleasesHeading h4txt="Notable Features">}}
+{{< Common/wrapper class="HTMLDescription">}}
+{{% Releases/ReleasesFileFeatures %}}  
+
+### Robust OCR API for Python Apps
+
+This initial version of Aspose.OCR for Python via Java (23.12.0) offers essential optical character recognition (OCR) functionalities, laying the groundwork for future feature enhancements. Python app developers can now utilize this efficient library to convert images to text with minimal configuration across platforms.
+
+### Example: Getting Started with Aspose.OCR for Python via Java
+
+Here is a simple guide to help you set up the environment and use the Aspose.OCR for Python via Java 23.12.0 library:
+
+### Prepare the environment:
+
+- Ensure your system meets the library’s requirements.
+- Create a project directory and include the necessary files.
+- Download and install Aspose.OCR for Python via Java.
+
+### Write your first OCR script:
+
+```python
+
+import aspose as ocr
+
+''' apply license '''
+#lic = ocr.license.License()
+#lic.set_license('Aspose-OCR-Python-Java.lic')
+
+''' initialize Aspose.OCR engine '''
+api = ocr.AsposeOcr()
+
+''' add image to the recognition batch '''
+images = ocr.OcrInput(ocr.InputType.SINGLE_IMAGE)
+images.add('source.png')
+
+''' recognize the image and output extracted text '''
+result = api.recognize(images)
+print(result[0].recognition_text)
+
+```
+*[Source\*](https://releases.aspose.com/ocr/python-java/release-notes/2023/aspose-ocr-python-java-23-12-0-release-notes/)*
+
+This sample code shows how simple it is to extract text from an image using Aspose.OCR for Python via Java 23.12.0. Once installed and set up, developers can quickly implement the OCR process in their Python OCR applications.
+
+
+> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.OCR for Python for Java 23.12.0 Release Notes](https://releases.aspose.com/ocr/python-java/release-notes/2023/aspose-ocr-python-java-23-12-0-release-notes/).
+
+
+{{% /Releases/ReleasesFileFeatures %}}
+
+{{< /Common/wrapper >}}
+{{< /Releases/ReleasesFileFeatures >}}
+
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
 

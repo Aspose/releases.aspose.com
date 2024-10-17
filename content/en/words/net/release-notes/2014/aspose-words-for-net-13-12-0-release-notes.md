@@ -27,6 +27,13 @@ Visit the documentation to learn how to .
 
 The following is a list of changes in this version of Aspose.Words.
 
+
+{{% alert color="primary" %}}
+
+A comprehensive description of all methods and properties, along with code examples, is available on the [API reference pages](https://reference.aspose.com/words/net/).
+
+{{% /alert %}}
+
 ## Major Features
 
 - Improved tight wrapping text flow around floating objects

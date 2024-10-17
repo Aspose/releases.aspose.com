@@ -38,6 +38,13 @@ Starting from 17.12 release, Aspose.Words for .NET includes .NET Standard 2.0 ve
 - Saving to user browser is not provided, i.e. Document.Save(HttpResponse,string,ContentDescription,SaveOptions) overload is not available.
 - Public API differences are the same as in Xamarin versions, i.e. SkiaSharp.SKBitmap and SkiaSharp.SKCanvas are used as native graphics objects insted of System.Drawing.Bitmap and System.Drawing.Graphics.
 
+
+{{% alert color="primary" %}}
+
+A comprehensive description of all methods and properties, along with code examples, is available on the [API reference pages](https://reference.aspose.com/words/net/).
+
+{{% /alert %}}
+
 ## Major Features
 
 There are 84 improvements and fixes in this regular monthly release. The most notable are:
