@@ -6,12 +6,12 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-24.10-linux/"
 folder_name: "Aspose.PDF untuk C++ 24.10 Linux"
-download_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-24.10-linux/9d6c1572121e9f800cbe380064f048f8-24-11771"
+download_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-24.10-linux/34e23d44d8ac0e7e0dcd9603bfef09e2-25-11771"
 download_text: "Unduh"
 intro_text: "versi Linux"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 17/10/2024 Unduhs: 1  Views: 1 "
-file_size: "File Size: 118.84MB"
+download_count: " 17/10/2024 Unduhs: 5  Views: 1 "
+file_size: "File Size: 120.81MB"
 parent_path: "pdf/cpp"
 section_parent_path: "pdf/cpp"
 
@@ -24,19 +24,19 @@ weight: 233
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.PDF untuk C++ 24.10 Linux" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Unduh" link="/pdf/cpp/new-releases/aspose.pdf-for-c++-24.10-linux/9d6c1572121e9f800cbe380064f048f8-24-11771" >}}
+    {{< Releases/ReleasesSingleButtons text="Unduh" link="/pdf/cpp/new-releases/aspose.pdf-for-c++-24.10-linux/34e23d44d8ac0e7e0dcd9603bfef09e2-25-11771" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detail File">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Unduhs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-9d6c1572121e9f800cbe380064f048f8-24-11771" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-34e23d44d8ac0e7e0dcd9603bfef09e2-25-11771" >}} 5 {{< /Common/li >}}
       {{< Common/li >}} Ukuran file: {{< /Common/li >}}
-      {{< Common/li id="size-update-9d6c1572121e9f800cbe380064f048f8-24-11771" >}} 118.84MB {{< /Common/li >}}
+      {{< Common/li id="size-update-34e23d44d8ac0e7e0dcd9603bfef09e2-25-11771" >}} 120.81MB {{< /Common/li >}}
 
       {{< Common/li >}} Tanggal Ditambahkan: {{< /Common/li >}}
-      {{< Common/li id="added-update-9d6c1572121e9f800cbe380064f048f8-24-11771" >}}17/10/2024 {{< /Common/li >}}
+      {{< Common/li id="added-update-34e23d44d8ac0e7e0dcd9603bfef09e2-25-11771" >}}17/10/2024 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
