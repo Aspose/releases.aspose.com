@@ -6,12 +6,12 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-24.10-macos/"
 folder_name: "Aspose.PDF pour C++ 24.10 macOS"
-download_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-24.10-macos/fa4816d8e495da2aef342c6ef0546492-45-11775"
+download_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-24.10-macos/e044ea86a5eba684e50c95b69e4e61b2-46-11775"
 download_text: "Télécharger"
 intro_text: "Aspose.PDF pour la version C++ de macOS"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 17/10/2024 Téléchargers: 1  Views: 1 "
-file_size: "File Size: 223.15MB"
+download_count: " 17/10/2024 Téléchargers: 6  Views: 1 "
+file_size: "File Size: 227.18MB"
 parent_path: "pdf/cpp"
 section_parent_path: "pdf/cpp"
 
@@ -24,19 +24,19 @@ weight: 234
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.PDF pour C++ 24.10 macOS" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Télécharger" link="/pdf/cpp/new-releases/aspose.pdf-for-c++-24.10-macos/fa4816d8e495da2aef342c6ef0546492-45-11775" >}}
+    {{< Releases/ReleasesSingleButtons text="Télécharger" link="/pdf/cpp/new-releases/aspose.pdf-for-c++-24.10-macos/e044ea86a5eba684e50c95b69e4e61b2-46-11775" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Téléchargers: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-fa4816d8e495da2aef342c6ef0546492-45-11775" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-e044ea86a5eba684e50c95b69e4e61b2-46-11775" >}} 6 {{< /Common/li >}}
       {{< Common/li >}} Taille du fichier: {{< /Common/li >}}
-      {{< Common/li id="size-update-fa4816d8e495da2aef342c6ef0546492-45-11775" >}} 223.15MB {{< /Common/li >}}
+      {{< Common/li id="size-update-e044ea86a5eba684e50c95b69e4e61b2-46-11775" >}} 227.18MB {{< /Common/li >}}
 
       {{< Common/li >}} date ajoutée: {{< /Common/li >}}
-      {{< Common/li id="added-update-fa4816d8e495da2aef342c6ef0546492-45-11775" >}}17/10/2024 {{< /Common/li >}}
+      {{< Common/li id="added-update-e044ea86a5eba684e50c95b69e4e61b2-46-11775" >}}17/10/2024 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
