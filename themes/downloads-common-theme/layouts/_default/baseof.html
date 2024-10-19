@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="{{ with $.Site.LanguageCode }}{{ . }}{{ else }}en-us{{ end }}">
     <meta charset="UTF-8">
     {{- partial "head.html" . -}}
-
+    {{- partial "repository/gtag.html" . -}}
     {{ if .IsHome }}
 
         {{ $CurrentSection :=.Site.Params.contentsection }}
