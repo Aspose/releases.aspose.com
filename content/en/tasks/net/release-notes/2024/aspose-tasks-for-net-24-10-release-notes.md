@@ -28,6 +28,7 @@ This page contains release notes information for [Aspose.Tasks for .Net 24.10](h
 | TASKSNET-11303 | Add validation for resource's availability periods | Enhancement |
 | TASKSNET-11301 | Fix writing of resource's availability periods | Bug |
 | TASKSNET-11279 | Fix initialization of MinutesPerDay, MinutesPerWeek, HoursPerMonth properties when reading a project from XER file with v. 6.0.0 | Bug |
+| TASKSNET-11305 | Fix TaskLinkCollection.Add method: value of Duration.TimeUnit is not passed to TaskLink.LagFormat property | Bug |
 
 ## **Public API and Backwards Incompatible Changes**
 |**The following public types were added:**|**Description**|
