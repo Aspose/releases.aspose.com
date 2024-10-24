@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="{{ with $.Site.LanguageCode }}{{ . }}{{ else }}en-us{{ end }}">
     <meta charset="UTF-8">
     {{- partial "head.html" . -}}
-
+    {{- partial "repository/gtag.html" . -}}
     {{ if .IsHome }}
 
         {{ $CurrentSection :=.Site.Params.contentsection }}
@@ -36,6 +36,14 @@
                     </div>
                 </div>
                 {{- partial "footer.html" . -}}
+                <!-- Add the consent script here for Consentise -->
+                <script src="https://www.consentise.com/v1.2/consent-min.js" 
+    data-cookiedomain=".aspose.com" 
+    data-privacy-policy-url="https://about.aspose.com/legal/privacy-policy/" 
+    data-preferred-color="#4FA5D3"
+    data-default-language="en"
+    defer>
+</script>
     {{else}}
 
         <body>
@@ -74,6 +82,14 @@
                 </div>
             </div>
             {{- partial "footer.html" . -}}
+            <!-- Add the consent script here for Consentise -->
+            <script src="https://www.consentise.com/v1.2/consent-min.js" 
+            data-cookiedomain=".aspose.com" 
+            data-privacy-policy-url="https://about.aspose.com/legal/privacy-policy/" 
+            data-preferred-color="#4FA5D3"
+            data-default-language="en"
+            defer>
+        </script>
             <div id="dvHidden" style="display:none"></div>
         </form>
         <div id="footer"></div>

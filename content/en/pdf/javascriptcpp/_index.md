@@ -8,7 +8,7 @@ family_listing_page_description:  "Aspose.PDF for JavaScript via C++ is a easy a
 family_listing_page_iconurl:  "https://products.aspose.com/pdf/images/aspose_pdf-for-javascript-cpp.svg"
 homepage_package_type: "NPM"
 homepage_package_link: "https://www.npmjs.com/package/aspose-pdf-js"
-download_link: "https://releases.aspose.com/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-24.9/"
+download_link: "https://releases.aspose.com/pdf/javascriptcpp/new-releases/aspose.pdf-for-javascript-via-c++-24.10/"
 weight: 11
 tags: ['pdf-javascript','js', 'PDF-to-DOC', 'PDF-to-DOCX', 'PDF-to-SVG', 'PDF-Formatting', 'PDF-Metadata', 'PDF-Attachment', 'PDF-Images', 'PDF-Encryption', 'PDF-Decryption', 'Search-PDF', 'PDF-Table', 'PDF-Annotations', 'PDF-Bookmarks', 'PDF-Security', 'PDF-Signature', 'PDF-Text-Extraction', 'PDF-to-Image', 'PDF-to-PNG', 'PDF-to-JPEG', 'PDF-to-BMP']
 ---

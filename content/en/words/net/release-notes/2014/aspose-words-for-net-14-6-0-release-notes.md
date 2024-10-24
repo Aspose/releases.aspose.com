@@ -21,16 +21,23 @@ This page contains release notes for [Aspose.Words for .NET 14.6.0](https://www.
 
 ## Aspose.Words for .NET 14.6 Release Notes
 
-### Major Features
+
+{{% alert color="primary" %}}
+
+A comprehensive description of all methods and properties, along with code examples, is available on the [API reference pages](https://reference.aspose.com/words/net/).
+
+{{% /alert %}}
+
+## Major Features
 
 There are 104 improvements and fixes in this regular monthly release. The most notable are:
 
 - Support of automatic change tracking on a document
-  Added vertical text support to HTML\Epub\MHT 
-  Footnote and endnote references now can be rendered as hyperlinks into output PDF 
-  CJK (Chinese, Japanese, Korean) text is now properly rendered in multiline DrawingML textboxes 
-  Default text AntiAliasing on Java is optimized for Chinese, Japanese and Korean fonts 
-  Font substitution feature is added to public API
+- Added vertical text support to HTML\Epub\MHT 
+- Footnote and endnote references now can be rendered as hyperlinks into output PDF 
+- CJK (Chinese, Japanese, Korean) text is now properly rendered in multiline DrawingML textboxes 
+- Default text AntiAliasing on Java is optimized for Chinese, Japanese and Korean fonts 
+- Font substitution feature is added to public API
 
 ## All Changes
 

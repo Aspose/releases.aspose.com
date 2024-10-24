@@ -4,7 +4,7 @@ slug: "aspose-words-for-net-24-3-release-notes"
 linktitle: "Aspose.Words for .NET 24.3 Release Notes"
 title: "Aspose.Words for .NET 24.3 Release Notes"
 weight: 60
-description: "Aspose.Words for .NET 24.3 Release Notes – the latest updates and fixes."
+description: "Aspose.Words for .NET 24.3 Release Notes – Latest Updates and Fixes in March 2024"
 type: "repository"
 layout: "release"
 hideChildren: false
@@ -16,6 +16,13 @@ menuItemWithNoContent: false
 {{% alert color="primary" %}}
 
 This page contains release notes for [Aspose.Words for .NET 24.3](https://www.nuget.org/packages/Aspose.Words/24.3.0).
+
+{{% /alert %}}
+
+
+{{% alert color="primary" %}}
+
+A comprehensive description of all methods and properties, along with code examples, is available on the [API reference pages](https://reference.aspose.com/words/net/).
 
 {{% /alert %}}
 

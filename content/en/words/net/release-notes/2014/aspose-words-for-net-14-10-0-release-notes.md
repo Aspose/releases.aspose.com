@@ -21,15 +21,22 @@ This page contains release notes for [Aspose.Words for .NET 14.10.0](https://www
 
 ## Aspose.Words for .NET 14.10 Release Notes
 
-### Major Features
 
-There are 97 improvements and fixes in this regular monthly release. The most notable are:
+{{% alert color="primary" %}}
+
+A comprehensive description of all methods and properties, along with code examples, is available on the [API reference pages](https://reference.aspose.com/words/net/).
+
+{{% /alert %}}
+
+## Major Features
+
+There are 97 improvements and fixes in this regular monthly release. The most notable are:
 
 - Improved DocumentBuilder to handle mixed LTR/RTL text
-  Improved breaking of floating tables in layout 
-  Improved custom tab stop beyond line ending 
-  Implemented new features and effects in DrawingML rendering 
-  Added LoadOptions.WebRequestTimeout property
+- Improved breaking of floating tables in layout 
+- Improved custom tab stop beyond line ending 
+- Implemented new features and effects in DrawingML rendering 
+- Added LoadOptions.WebRequestTimeout property
 
 ## All Changes
 

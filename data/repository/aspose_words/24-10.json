@@ -1,0 +1,17 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk17",
+  "artifactId" : "aspose-words",
+  "id" : "24-10",
+  "packageFiles" : [ {
+    "size" : "17 MB",
+    "name" : "aspose-words-24.10-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "5 KB",
+    "name" : "aspose-words-24.10.pom"
+  } ],
+  "releasehDate" : "2024-10-10T13:37:29+00:00",
+  "version" : "24.10",
+  "ReleaseNotes" : "https://releases.aspose.com/words/java/release-notes/2024/aspose-words-for-java-24-10-release-notes/"
+}

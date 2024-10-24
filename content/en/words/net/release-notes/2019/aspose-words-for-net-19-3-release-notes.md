@@ -19,6 +19,13 @@ This page contains release notes for [Aspose.Words for .NET 19.3](https://www.nu
 
 {{% /alert %}}
 
+
+{{% alert color="primary" %}}
+
+A comprehensive description of all methods and properties, along with code examples, is available on the [API reference pages](https://reference.aspose.com/words/net/).
+
+{{% /alert %}}
+
 ## Major Features
 
 - Added feature to preserve the representation of legacy control characters while converting to OOXML formats.
