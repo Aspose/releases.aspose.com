@@ -13,7 +13,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "280"
 homepage_package_type: "NPM"
 homepage_package_link: "https://www.npmjs.com/package/asposepdfnodejs"
-download_link: "https://releases.aspose.com/pdf/nodejscpp/new-releases/aspose.pdf-for-node.js-via-c++-24.9/"
+download_link: "https://releases.aspose.com/pdf/nodejscpp/new-releases/aspose.pdf-for-node.js-via-c++-24.10/"
 tags: ['pdf-javascript','Node.js', 'PDF-to-DOC', 'PDF-to-DOCX', 'PDF-to-SVG', 'PDF-Formatting', 'PDF-Metadata', 'PDF-Attachment', 'PDF-Images', 'PDF-Encryption', 'PDF-Decryption', 'Search-PDF', 'PDF-Table', 'PDF-Annotations', 'PDF-Bookmarks', 'PDF-Security', 'PDF-Signature', 'PDF-Text-Extraction', 'PDF-to-Image', 'PDF-to-PNG', 'PDF-to-JPEG', 'PDF-to-BMP']
 weight: 12
 ---
