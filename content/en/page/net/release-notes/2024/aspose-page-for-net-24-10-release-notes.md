@@ -15,7 +15,7 @@ menuItemWithNoContent: false
 
 {{% alert color="primary" %}}
 
-This page contains release notes information for Aspose.Page for .NET 24.9.
+This page contains release notes information for Aspose.Page for .NET 24.10.
 
 {{% /alert %}}
 
