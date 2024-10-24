@@ -1,6 +1,6 @@
 ---
 
-title: "Downloads ---Neue Veröffentlichungen-aspose.ce;lls-released"
+title: "Downloads ---New Releases-aspose.ce;lls-released"
 description: " "
 keywords: ""
 page_type: single_release_page
@@ -28,22 +28,22 @@ weight: 299
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/cells" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
-    {{< Releases/ReleasesHeading h4txt="Dateidetails">}}
+    {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
       {{< Common/li class="downloadcount" id="dwn-update-bab6401192e01ba5a4bd29f05d6ef80d-14-11785" >}} 1 {{< /Common/li >}}
-      {{< Common/li >}} Dateigröße: {{< /Common/li >}}
+      {{< Common/li >}} File Size: {{< /Common/li >}}
       {{< Common/li id="size-update-bab6401192e01ba5a4bd29f05d6ef80d-14-11785" >}} 66.82MB {{< /Common/li >}}
 
-      {{< Common/li >}} Datum hinzugefügt: {{< /Common/li >}}
+      {{< Common/li >}} Date Added: {{< /Common/li >}}
       {{< Common/li id="added-update-bab6401192e01ba5a4bd29f05d6ef80d-14-11785" >}}22/10/2024 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/cells/reportingservices/release-notes/2024/aspose-cells-for-reporting-services-24-10-release-notes/'>https://releases.aspose.com/cells/reportingservices/release-notes/2024/aspose-cells-for-reporting-services-24-10-release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cells/reportingservices/release-notes/2024/aspose-cells-for-reporting-services-24-10-release-notes/'>https://releases.aspose.com/cells/reportingservices/release-notes/2024/aspose-cells-for-reporting-services-24-10-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Beschreibung</h4><div class="HTMLDescription">Aspose.Cells Reporting Services</div>
+      <h4>Description</h4><div class="HTMLDescription">Aspose.Cells Reporting Services</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
