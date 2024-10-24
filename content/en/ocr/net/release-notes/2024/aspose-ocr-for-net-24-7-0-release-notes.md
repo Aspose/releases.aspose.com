@@ -31,7 +31,7 @@ GPU version: **23.10.1**
 
 {{% alert color="caution" %}}
 - The release 24.3.0 updates the codes of some recognition languages to align with ISO 639-2 standard.
-- Starting with the release 24.7.0, use `Aspose.OCR.Country.NONE` recognition setting to disable extraction of key details from passport images instead of `Aspose.OCR.Country.UNIVERSAL`.
+- Starting with the release 24.6.0, use `Aspose.OCR.Country.NONE` recognition setting to disable extraction of key details from passport images instead of `Aspose.OCR.Country.UNIVERSAL`.
 
 To make it easier to upgrade your code, we have kept all legacy values, but marked them as deprecated. All of your existing code will continue to work and you can even make minor updates to it, but be aware that all deprecated language codes are scheduled to be removed in release **25.1.0 (January 2025)**.
 
