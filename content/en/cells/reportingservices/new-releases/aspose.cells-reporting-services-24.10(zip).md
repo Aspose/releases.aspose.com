@@ -22,7 +22,7 @@ weight: 299
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Ce;lls Released" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Cells Reporting Services 24.10(zip)" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/cells/reportingservices/new-releases/aspose.cells-reporting-services-24.10(zip)/250ca6779ea5d43f8c74600766ee6c49-5-11785" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/cells" >}}
