@@ -6,12 +6,12 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/page/cpp/new-releases/aspose.page-for-c++-24.10-macos/"
 folder_name: "适用于 C++ 24.10 macOS 的 Aspose.Page"
-download_link: "/page/cpp/new-releases/aspose.page-for-c++-24.10-macos/7bdd73c39d661dd7c63d5788efb7f721-34-11803"
+download_link: "/page/cpp/new-releases/aspose.page-for-c++-24.10-macos/3c87bd881c710ed51f2c6dbbebd2d1f6-39-11803"
 download_text: "下载"
 intro_text: "Aspose.Page for C++ 24.10 macOS 原生库"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 24/10/2024 下载s: 1  Views: 1 "
-file_size: "File Size: 168.1MB"
+file_size: "File Size: 193.71MB"
 parent_path: "page/cpp"
 section_parent_path: "page/cpp"
 
@@ -24,19 +24,19 @@ weight: 164
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="适用于 C++ 24.10 macOS 的 Aspose.Page" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="下载" link="/page/cpp/new-releases/aspose.page-for-c++-24.10-macos/7bdd73c39d661dd7c63d5788efb7f721-34-11803" >}}
+    {{< Releases/ReleasesSingleButtons text="下载" link="/page/cpp/new-releases/aspose.page-for-c++-24.10-macos/3c87bd881c710ed51f2c6dbbebd2d1f6-39-11803" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/page" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} 下载s: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-7bdd73c39d661dd7c63d5788efb7f721-34-11803" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-3c87bd881c710ed51f2c6dbbebd2d1f6-39-11803" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} 文件大小: {{< /Common/li >}}
-      {{< Common/li id="size-update-7bdd73c39d661dd7c63d5788efb7f721-34-11803" >}} 168.1MB {{< /Common/li >}}
+      {{< Common/li id="size-update-3c87bd881c710ed51f2c6dbbebd2d1f6-39-11803" >}} 193.71MB {{< /Common/li >}}
 
       {{< Common/li >}} 添加日期: {{< /Common/li >}}
-      {{< Common/li id="added-update-7bdd73c39d661dd7c63d5788efb7f721-34-11803" >}}24/10/2024 {{< /Common/li >}}
+      {{< Common/li id="added-update-3c87bd881c710ed51f2c6dbbebd2d1f6-39-11803" >}}24/10/2024 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
