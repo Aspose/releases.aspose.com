@@ -28,9 +28,6 @@ This page contains release notes information for Aspose.Page for .NET 24.8.
 |PAGENET-703|Decrease a size of saved image bytes to PDF file|Enhancement|
 |PAGENET-697|PsDocument.SaveAsPDF results in huge file sizes|Bug|
 
- ## **Public API and Backwards Incompatible Changes**
- ### **Added APIs**
-
 ### Got any Query?
 
 In case you have any query or need assistance in getting started with Aspose.Page for .NET, head on to [Aspose.Page forum](https://forum.aspose.com/c/page/39) to technical help from our support team.
