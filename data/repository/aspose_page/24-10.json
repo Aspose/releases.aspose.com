@@ -1,0 +1,15 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-page",
+  "id" : "24-10",
+  "packageFiles" : [ {
+    "size" : "17 MB",
+    "name" : "aspose-page-24.10.jar"
+  }, {
+    "size" : "394 bytes",
+    "name" : "aspose-page-24.10.pom"
+  } ],
+  "releasehDate" : "2024-10-28T09:38:13+00:00",
+  "version" : "24.10",
+  "ReleaseNotes" : "https://releases.aspose.com/page/java/release-notes/2024/aspose-page-for-java-24-10-release-notes/"
+}
