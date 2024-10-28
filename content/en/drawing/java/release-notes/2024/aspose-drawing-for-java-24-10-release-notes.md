@@ -1,10 +1,10 @@
 ---
-id: "aspose-drawing-for-java-24-8-release-notes"
-slug: "aspose-drawing-for-java-24-8-release-notes"
-linktitle: "Aspose.Drawing for Java 24.8 Release Notes"
-title: "Aspose.Drawing for Java 24.8 Release Notes"
+id: "aspose-drawing-for-java-24-10-release-notes"
+slug: "aspose-drawing-for-java-24-10-release-notes"
+linktitle: "Aspose.Drawing for Java 24.10 Release Notes"
+title: "Aspose.Drawing for Java 24.10 Release Notes"
 weight: 4
-description: "Aspose.Drawing for Java 24.8 Release Notes – the latest updates and fixes."
+description: "Aspose.Drawing for Java 24.10 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
 ---
