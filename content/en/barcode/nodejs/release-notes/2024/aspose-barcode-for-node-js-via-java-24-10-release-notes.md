@@ -25,6 +25,9 @@ This page contains release notes information for [Aspose.BarCode for Node.js via
 |:-----------------|:-------------------------------------------------------|:-------------|
 |BARCODENET-39101|Sorting algirithm in QRTargetDetector throws with Exception in Java|Bug|
 |BARCODENET-39121|Fix AutoSizeMode|Enhancement|
+|BARCODEJS-552|Implement methods exportToXml(xml_path) and importFromXml(xml_path) in BarcodeGenerator class|Enhancement|
 
 ## Public API changes and backwards compatibility
-No API changes.
+Added methods to Generation.BarcodeGenerator class
+importFromXml(filePath)
+exportToXml(filePath)
