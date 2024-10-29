@@ -33,3 +33,8 @@ This page contains release notes information for [Aspose.BarCode for Python via 
 |BARCODENET-39101|Sorting algirithm in QRTargetDetector throws with Exception in Java|Bug|
 |BARCODENET-39121|Fix AutoSizeMode|Enhancement|
 
+## Public API changes and backwards compatibility
+Added methods to Generation.BarcodeGenerator class
+exportToXml(self, xmlFile: str) -> bool
+importFromXml(xmlFile: str) -> BarcodeGenerator
+
