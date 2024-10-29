@@ -22,10 +22,13 @@ for [Aspose.BarCode for PHP via Java 24.10](https://releases.aspose.com/barcode/
 
 ## **All Changes**
 
-| **Key**          | **Summary**                                            | **Category** |
-|:-----------------|:-------------------------------------------------------|:-------------|
-|BARCODENET-39101|Sorting algirithm in QRTargetDetector throws with Exception in Java|Bug|
-|BARCODENET-39121|Fix AutoSizeMode|Enhancement|
+| **Key**          | **Summary**                                                                           | **Category** |
+|:-----------------|:--------------------------------------------------------------------------------------|:-------------|
+|BARCODENET-39101| Sorting algirithm in QRTargetDetector throws with Exception in Java                   |Bug|
+|BARCODENET-39121| Fix AutoSizeMode                                                                      |Enhancement|
+|BARCODEPHP-763| Implement the BarcodeReader->exportToXml() and BarcodeReader->importFromXml() methods |Enhancement|
 
 ## Public API changes and backwards compatibility
-No API changes.
+Added methods to Generation.BarcodeGenerator class
+exportToXml($filePath): bool
+importFromXml($resource):BarcodeGenerator
