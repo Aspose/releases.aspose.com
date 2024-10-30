@@ -3,7 +3,7 @@ id: "aspose-barcode-for-android-via-java-24-10-release-notes"
 slug: "aspose-barcode-for-android-via-java-24-10-release-notes"
 linktitle: "Aspose.BarCode for Android via Java 24.10"
 title: "Aspose.BarCode for Android via Java 24.10"
-weight: 860
+weight: 840
 description: "Aspose.BarCode for Android via Java 24.10 – the latest updates and fixes."
 type: "repository"
 layout: "release"
@@ -20,10 +20,10 @@ This page contains release notes information for [Aspose.BarCode for Android via
 {{% /alert %}} 
 ## **All Changes**
 
-| **Key**          | **Summary**                                                                       | **Category** |
+| **Key**          | **Summary**                                                         | **Category** |
 |:-----------------|:----------------------------------------------------------------------------------|:-------------|
 |BARCODENET-39101|Sorting algirithm in QRTargetDetector throws with Exception in Java|Bug|
-|BARCODENET-39121|Fix AutoSizeMode|Enhancement|
+|BARCODENET-39121| Fix AutoSizeMode                                                    |Enhancement|
 
 ## Public API changes and backwards compatibility
 No changes to the public API
