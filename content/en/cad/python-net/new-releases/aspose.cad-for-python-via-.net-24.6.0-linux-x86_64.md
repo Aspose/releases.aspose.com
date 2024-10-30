@@ -17,7 +17,7 @@ section_parent_path: "cad/python-net"
 
 tags: ""
 release_notes_url: "https://releases.aspose.com/cad/python-net/release-notes/2024/aspose-cad-for-python-24-6-release-notes/"
-weight: 2406
+weight: 18
 
 ---
 
