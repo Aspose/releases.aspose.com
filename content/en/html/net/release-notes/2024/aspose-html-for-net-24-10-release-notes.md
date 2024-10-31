@@ -108,8 +108,8 @@ namespace Aspose.Html.Toolkit.Markdown.Syntax
             MarkdownSyntaxToken closing)
         {
         }
-		
-		/// <summary>
+        
+        /// <summary>
         /// Creates <see cref="FencedCodeBlockSyntaxNode"/>.
         /// </summary>
         /// <param name="opening">The opening token.</param>
@@ -120,31 +120,31 @@ namespace Aspose.Html.Toolkit.Markdown.Syntax
             TextSyntaxNode info)
         {
         }
-		
-		/// <summary>
+        
+        /// <summary>
         /// Creates <see cref="IndentedCodeBlockSyntaxNode"/>.
         /// </summary>
         /// <returns>The IndentedCodeBlockSyntax.</returns>
         public IndentedCodeBlockSyntaxNode IndentedCode()
         {
         }
-		
-		/// <summary>
+        
+        /// <summary>
         /// Creates <see cref="LinkDestinationSyntaxNode"/>.
         /// </summary>
         /// <returns>The <see cref="LinkDestinationSyntaxNode"/> object .</returns>
         public LinkDestinationSyntaxNode LinkDestination()
         {
         }
-		
-		/// <summary>
+        
+        /// <summary>
         /// Creates <see cref="LinkTitleSyntaxNode"/>.
         /// </summary>
         /// <returns>The <see cref="LinkTitleSyntaxNode"/> object.</returns>
         public LinkTitleSyntaxNode LinkTitle()
         {
         }
-		
+        
         /// <summary>
         /// Create the WhitespaceSyntax.
         /// </summary>
@@ -152,7 +152,7 @@ namespace Aspose.Html.Toolkit.Markdown.Syntax
         public WhitespaceSyntaxNode Whitespace()
         {
         }
-	}
+    }
 }
 
 namespace Aspose.Html.Toolkit.Markdown.Syntax.Text
@@ -162,15 +162,14 @@ namespace Aspose.Html.Toolkit.Markdown.Syntax.Text
     /// </summary>
     public class SourceTextReader : IDisposable
     {
-	    /// <summary>
+        /// <summary>
         /// Get the SourceTextReader
         /// </summary>
         /// <returns>The SourceTextReader.</returns>
         public SourceTextReader GetLineReader()
         {
-            return GetLineReader(true);
         }
-	}
+    }
 }
 
 namespace Aspose.Html.Rendering.Image
@@ -200,7 +199,7 @@ namespace Aspose.Html.Rendering.Image
     /// </summary>
     public class TextOptions
     {
-	    /// <summary>
+        /// <summary>
         /// Sets or gets <see cref="System.Drawing.Text.TextRenderingHint"/> which influences text rendering quality. By default this property is <see cref="System.Drawing.Text.TextRenderingHint.SystemDefault"/>.
         /// </summary>
         public TextRenderingHint TextRenderingHint { get; set; }
