@@ -205,4 +205,44 @@ namespace Aspose.Html.Rendering.Image
         public TextRenderingHint TextRenderingHint { get; set; }
     }
 }
+
+namespace Aspose.Html.Rendering.Image
+{
+    /// <summary>
+    /// Represents rendering options for <see cref="ImageDevice"/>. This options is used to specify output image format, compression, resolution etc.
+    /// </summary>
+    public class ImageRenderingOptions : RenderingOptions
+    {
+        /// <summary>
+        /// Gets or sets the rendering quality for this Graphics.
+        /// </summary>
+        public SmoothingMode SmoothingMode { get; set; }
+    }
+}
+```
+
+### Changed APIs
+
+```
+namespace Aspose.Html.Rendering
+{
+    /// <summary>
+    /// Holds current graphics control parameters.
+    /// These parameters define the global framework within which the graphics operators execute.
+    /// </summary>
+    public class GraphicContext : ICloneable
+    {
+        //From:
+        /// <summary>
+        /// Sets or gets text font style.
+        /// </summary>
+        public virtual FontStyle FontStyle { get; set; }
+        
+        //To:
+        /// <summary>
+        /// Sets or gets text font style.
+        /// </summary>
+        public virtual WebFontStyle FontStyle { get; set; }
+    }
+}
 ```
