@@ -4,7 +4,7 @@ slug: "aspose-html-for-net-24-10-release-notes"
 linktitle: "Aspose.HTML for .NET 24.10 Release Notes"
 title: "Aspose.HTML for .NET 24.10 Release Notes"
 weight: 30
-description: "In this release, we have improved the processing of HTML documents and rendering HTML to PDF format. As previously planned, we have removed the dependency on using System.Drawing.Common in public methods. "
+description: "This release includes enhancements and bug fixes aimed at improving the library's overall performance and stability. We removed the dependency on using System.Drawing.Common in public methods."
 type: "repository"
 layout: "release"
 hideChildren: false
@@ -18,7 +18,7 @@ This page contains release notes information for Aspose.HTML for .NET 24.10.
 
 As per the regular monthly update process of all APIs being offered by Aspose, we are honored to announce the October release of Aspose.HTML for .NET.
 
-In this release, we have improved the processing of HTML documents and rendering HTML to PDF format. As previously planned, we have removed the dependency on using System.Drawing.Common in public methods. Below you can see which public methods have been changed:
+This release includes enhancements and bug fixes aimed at improving the library's overall performance and stability. We removed the dependency on using System.Drawing.Common in public methods.
 
 
 ## **Improvements and Changes**
@@ -58,6 +58,7 @@ namespace Aspose.Html.Drawing
         Italic = 1 << 1
     }
 }
+
 namespace Aspose.Html.Rendering.Image
 {
     /// <summary>
@@ -70,8 +71,6 @@ namespace Aspose.Html.Rendering.Image
         /// </summary>
         public bool UseAntialiasing { get; set; }
     }
-
-
 }
 
 namespace Aspose.Html.Services
@@ -90,6 +89,7 @@ namespace Aspose.Html.Services
         bool ShowImagePlaceholders { get; set; }
     }
 }
+
 namespace Aspose.Html.Toolkit.Markdown.Syntax
 {
     /// <summary>
