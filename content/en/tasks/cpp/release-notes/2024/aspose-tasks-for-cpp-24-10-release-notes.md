@@ -41,11 +41,11 @@ This page contains release notes information for [Aspose.Tasks for C++ 24.10](ht
 
 |**The following public methods and properties were added:**|**Description**|
 | :- | :- |
-| Aspose::Tasks::AvailabilityPeriod::#ctor(System.DateTime,System.DateTime,double) | Initializes a new instance of the <see cref="T:Aspose.Tasks.AvailabilityPeriod" /> with the specified date range and available units. |
+| Aspose::Tasks::AvailabilityPeriod::#ctor(System.DateTime, System.DateTime, double) | Initializes a new instance of the <see cref="T:Aspose.Tasks.AvailabilityPeriod" /> with the specified date range and available units. |
 | Aspose::Tasks::ExtendedAttributeDefinition::get_GraphicalIndicator() | Gets a graphical indicators info associated with the extended attribute. |
 | Aspose::Tasks::ExtendedAttributeDefinition::set_GraphicalIndicator() | Sets a graphical indicators info associated with the extended attribute. |
-| Aspose::Tasks::GraphicalIndicatorCriteria::#ctor(Aspose::Tasks::GraphicalIndicatorCriteriaType,Aspose::Tasks::FilterComparisonType,int,Aspose::Tasks::GraphicalIndicatorCriteriaValue,Aspose::Tasks::GraphicalIndicatorCriteriaValue) | Initializes a new instance of the <see cref="T:Aspose.Tasks.GraphicalIndicatorCriteria" /> type. |
-| Aspose::Tasks::GraphicalIndicatorCriteria::#ctor(Aspose::Tasks::GraphicalIndicatorCriteriaType,Aspose::Tasks::FilterComparisonType,int,Aspose::Tasks::GraphicalIndicatorCriteriaValue) | Initializes a new instance of the <see cref="T:Aspose.Tasks.GraphicalIndicatorCriteria" /> type. |
+| Aspose::Tasks::GraphicalIndicatorCriteria::#ctor(Aspose::Tasks::GraphicalIndicatorCriteriaType, Aspose::Tasks::FilterComparisonType, int, Aspose::Tasks::GraphicalIndicatorCriteriaValue, Aspose::Tasks::GraphicalIndicatorCriteriaValue) | Initializes a new instance of the <see cref="T:Aspose.Tasks.GraphicalIndicatorCriteria" /> type. |
+| Aspose::Tasks::GraphicalIndicatorCriteria::#ctor(Aspose::Tasks::GraphicalIndicatorCriteriaType, Aspose::Tasks::FilterComparisonType, int, Aspose::Tasks::GraphicalIndicatorCriteriaValue) | Initializes a new instance of the <see cref="T:Aspose.Tasks.GraphicalIndicatorCriteria" /> type. |
 | Aspose::Tasks::GraphicalIndicatorCriteria::get_Test() | Gets the type of comparison made between extended attribute value and Values that acts as a criteria for the application of the graphical indicator. |
 | Aspose::Tasks::GraphicalIndicatorCriteria::get_Value1() | Gets the value used to test extended attribute's value. |
 | Aspose::Tasks::GraphicalIndicatorCriteria::get_Value2() | Gets the second value used to test extended attribute's value in case of 'IsWithin' and 'IsNotWithin' comparison types. |
@@ -69,7 +69,7 @@ This page contains release notes information for [Aspose.Tasks for C++ 24.10](ht
 | Aspose::Tasks::GraphicalIndicatorsInfo::get_ShowDataValuesInTooltip() | Gets flag indicating whether data values for the field should be shown in tooltips. |
 | Aspose::Tasks::GraphicalIndicatorsInfo::set_ShowDataValuesInTooltip() | Sets flag indicating whether data values for the field should be shown in tooltips. |
 | Aspose::Tasks::GraphicalIndicatorsInfo::get_Criteria() | Gets a list of graphical indicator criteria. |
-| Aspose::Tasks::ResourceValidationException::#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="T:Aspose.Tasks.ResourceValidationException" /> class. |
+| Aspose::Tasks::ResourceValidationException::#ctor(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext) | Initializes a new instance of the <see cref="T:Aspose.Tasks.ResourceValidationException" /> class. |
 | Aspose::Tasks::ResourceValidationException::get_Resource() | Gets the resource which caused the exception. |
 
 |**The following public enumerations were added:**|**Description**|
