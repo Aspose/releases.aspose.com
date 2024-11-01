@@ -11,7 +11,7 @@ layout: "release"
 
 {{% alert color="primary" %}}
 
-This page contains release notes information for Aspose.Drawing for Java 24.8.
+This page contains release notes information for Aspose.Drawing for Java 24.10.
 
 {{% /alert %}}
 ## **Improvements and Changes**
