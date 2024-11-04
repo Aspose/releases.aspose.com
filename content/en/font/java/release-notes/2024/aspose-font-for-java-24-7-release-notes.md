@@ -100,4 +100,4 @@ Support for the TrueType **Style Attributes** table has been added.
  * Method com.aspose.font.NameId.values
 
 ## Got Queries?
-If you have any query related to Aspose.Font for .NET API, please feel free to write to reach us on [Aspose.Font forum](https://forum.aspose.com/c/font/). We'll be glad to assist you with your inquiries.
+If you have any query related to Aspose.Font for Java API, please feel free to write to reach us on [Aspose.Font forum](https://forum.aspose.com/c/font/). We'll be glad to assist you with your inquiries.
