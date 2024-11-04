@@ -41,22 +41,22 @@ This page contains release notes information for [Aspose.Tasks for Python via .N
 
 |**The following public methods and properties were added:**|**Description**|
 | :- | :- |
-| aspose.tasks.AvailabilityPeriod.#ctor(System.DateTime,System.DateTime,System.Double) | Initializes a new instance of the <see cref="T:Aspose.Tasks.AvailabilityPeriod" /> with the specified date range and available units. |
+| aspose.tasks.AvailabilityPeriod.\_\_init\_\_(datetime, datetime, float) | Initializes a new instance of the <see cref="T:Aspose.Tasks.AvailabilityPeriod" /> with the specified date range and available units. |
 | aspose.tasks.ExtendedAttributeDefinition.GraphicalIndicator | Get os sets a graphical indicators info associated with the extended attribute. |
-| aspose.tasks.GraphicalIndicatorCriteria.__init__(aspose.tasks.GraphicalIndicatorCriteriaType, aspose.tasks.FilterComparisonType,System.Int32,aspose.tasks.GraphicalIndicatorCriteriaValue,aspose.tasks.GraphicalIndicatorCriteriaValue) | Initializes a new instance of the <see cref="T:Aspose.Tasks.GraphicalIndicatorCriteria" /> type. |
-| aspose.tasks.GraphicalIndicatorCriteria.__init__(Aspose.Tasks.GraphicalIndicatorCriteriaType,Aspose.Tasks.FilterComparisonType,System.Int32,Aspose.Tasks.GraphicalIndicatorCriteriaValue) | Initializes a new instance of the <see cref="T:Aspose.Tasks.GraphicalIndicatorCriteria" /> type. |
+| aspose.tasks.GraphicalIndicatorCriteria.\_\_init\_\_(aspose.tasks.GraphicalIndicatorCriteriaType, aspose.tasks.FilterComparisonType, int, aspose.tasks.GraphicalIndicatorCriteriaValue, aspose.tasks.GraphicalIndicatorCriteriaValue) | Initializes a new instance of the <see cref="T:Aspose.Tasks.GraphicalIndicatorCriteria" /> type. |
+| aspose.tasks.GraphicalIndicatorCriteria.\_\_init\_\_(aspose.tasks.GraphicalIndicatorCriteriaType, aspose.tasks.FilterComparisonType, int, aspose.tasks.GraphicalIndicatorCriteriaValue) | Initializes a new instance of the <see cref="T:Aspose.Tasks.GraphicalIndicatorCriteria" /> type. |
 | aspose.tasks.GraphicalIndicatorCriteria.test | Gets the type of comparison made between extended attribute value and Values that acts as a criteria for the application of the graphical indicator. |
 | aspose.tasks.GraphicalIndicatorCriteria.value1 | Gets the value used to test extended attribute's value. |
 | aspose.tasks.GraphicalIndicatorCriteria.value2 | Gets the second value used to test extended attribute's value in case of 'IsWithin' and 'IsNotWithin' comparison types. |
 | aspose.tasks.GraphicalIndicatorCriteria.image_index | Gets the index of the image to display when the field meets the criteria. |
 | aspose.tasks.GraphicalIndicatorCriteria.row_type | Gets the value of <see cref="T:Aspose.Tasks.GraphicalIndicatorCriteriaType" /> enum which denotes for which rows the indicator is applied. |
 | aspose.tasks.GraphicalIndicatorCriteria.to_string | Returns string representation of the instance of the <see cref="T:Aspose.Tasks.FilterCriteria" /> class. |
-| aspose.tasks.GraphicalIndicatorCriteriaValue.__init__(...) | Creates an instance of GraphicalIndicatorCriteriaValue class with constant value (decimal, datetime, string, duration or flag). |
+| aspose.tasks.GraphicalIndicatorCriteriaValue.\_\_init\_\_(...) | Creates an instance of GraphicalIndicatorCriteriaValue class with constant value (decimal, datetime, string, duration or flag). |
 | aspose.tasks.GraphicalIndicatorCriteriaValue.raw_value | Gets the underlying constant of Field value. |
 | aspose.tasks.GraphicalIndicatorCriteriaValue.is_field_link | Gets whether the current instance is a field link (represents a value of a field). |
 | aspose.tasks.GraphicalIndicatorCriteriaValue.create_field_link(aspose.tasks.Field) | Creates an instance of GraphicalIndicatorCriteriaValue class representing the value of the specified MS Project's field. |
 | aspose.tasks.GraphicalIndicatorCriteriaValue.to_string | Returns a string that represents the current object. |
-| aspose.tasks.GraphicalIndicatorsInfo.__init__ | Initializes a new instance of the <see cref="T:Aspose.Tasks.GraphicalIndicatorsInfo" /> type. |
+| aspose.tasks.GraphicalIndicatorsInfo.\_\_init\_\_ | Initializes a new instance of the <see cref="T:Aspose.Tasks.GraphicalIndicatorsInfo" /> type. |
 | aspose.tasks.GraphicalIndicatorsInfo.summary_rows_inherit_from_non_summary_rows | Gets or sets flag indicating whether summary rows inherit criteria from nonsummary rows. |
 | aspose.tasks.GraphicalIndicatorsInfo.project_summary_inherit_from_non_summary_rows | Gets or sets flag indicating whether project summary row inherits criteria from summary rows. |
 | aspose.tasks.GraphicalIndicatorsInfo.show_data_values_in_tooltip | Gets or sets flag indicating whether data values for the field should be shown in tooltips. |
