@@ -17,7 +17,7 @@ section_parent_path: "omr/net"
 
 tags: ""
 release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2024/aspose-omr-for-net-24-7-0-hw-release-notes/"
-weight: 163
+weight: 153
 
 ---
 

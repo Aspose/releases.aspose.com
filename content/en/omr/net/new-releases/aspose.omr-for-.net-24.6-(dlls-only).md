@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.omr-for-.net-24.6-(dlls-only)"
-description: " "
+title: "Bulk Generate, Recognize OMR Forms: C# OMR API 24.6 (DLL)"
+description: "Effortlessly bulk generate and recognize personalized OMR forms on Windows/Linux/Mac with Aspose.OMR for .NET 24.6. Download DLLs-only package now!"
 keywords: ""
 page_type: single_release_page
 folder_link: "/omr/net/new-releases/aspose.omr-for-.net-24.6-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 6/11/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 158.58MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2024/aspose-omr-for-net-24-6-0-release-notes/"
-weight: 161
-
+weight: 152
 ---
 
 {{< Releases/ReleasesWapper >}}

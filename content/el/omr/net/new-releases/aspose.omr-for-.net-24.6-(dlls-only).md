@@ -1,5 +1,4 @@
 ---
-
 title: "Λήψεις ---Νέες εκδόσεις-aspose.omr-for-.net-24.6-(μόνο dlls)"
 description: " "
 keywords: ""
@@ -14,11 +13,9 @@ download_count: " 6/11/2024 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 158.58MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2024/aspose-omr-for-net-24-6-0-release-notes/"
-weight: 161
-
+weight: 152
 ---
 
 {{< Releases/ReleasesWapper >}}

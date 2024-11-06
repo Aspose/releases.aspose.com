@@ -1,5 +1,4 @@
 ---
-
 title: "下载 ---新版本-aspose.omr-for-.net-24.7"
 description: " "
 keywords: ""
@@ -14,11 +13,9 @@ download_count: " 6/11/2024 下载s: 1  Views: 1 "
 file_size: "File Size: 159.6MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2024/aspose-omr-for-net-24-7-0-release-notes/"
-weight: 162
-
+weight: 154
 ---
 
 {{< Releases/ReleasesWapper >}}
