@@ -1169,3 +1169,11 @@ rewrite ^/words/net/releases-notes$ https://releases.aspose.com/words/net/releas
 rewrite ^/words/python-$ https://releases.aspose.com/words/python/ permanent;
 rewrite ^/cad/java/(\")$ https://releases.aspose.com/cad/java/ permanent;
 rewrite ^/%20repo$ https://releases.aspose.com/java/repo/ permanent;
+# Redirect from "icons-aspose.omr-for-.net-24.6-dlls-only" to the correct path
+rewrite ^/omr/net/new-releases/icons-aspose\.omr-for-\.net-24\.6-dlls-only/$ https://releases.aspose.com/omr/net/new-releases/aspose.omr-for-.net-24.6-dlls-only/ permanent;
+# Redirect from "contains-aspose.omr-for-.net-24.2.1-release" to the correct path
+rewrite ^/omr/net/new-releases/contains-aspose\.omr-for-\.net-24\.2\.1-release/$ https://releases.aspose.com/omr/net/new-releases/aspose.omr-for-.net-24.2.1/ permanent;
+# Redirect from "icons-aspose.omr.handwriting-for-.net-24.7" to the correct path
+rewrite ^/omr/net/new-releases/icons-aspose\.omr\.handwriting-for-\.net-24\.7/$ https://releases.aspose.com/omr/net/new-releases/aspose.omr.handwriting-for-.net-24.7/ permanent;
+# Redirect from "icons-aspose.omr-for-.net-24.7" to the correct path
+rewrite ^/omr/net/new-releases/icons-aspose\.omr-for-\.net-24\.7/$ https://releases.aspose.com/omr/net/new-releases/aspose.omr-for-.net-24.7/ permanent;
