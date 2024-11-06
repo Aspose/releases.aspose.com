@@ -20,6 +20,9 @@ As per the regular monthly update process of all APIs being offered by Aspose, w
 
 This release includes enhancements and bug fixes aimed at improving the library's overall performance and stability. We removed the dependency on using System.Drawing.Common in public methods.
 
+[Aspose.HTML for .NET 24.10 – Unified API and Enhanced Rendering Quality](
+https://docs.aspose.com/html/net/migration-between-versions/24-10/)
+– This article introduces upgrades, replacing older system enumerations with new properties to enhance text clarity and image quality. Here, you will find C# examples of applying old and new properties using 24.10 and earlier versions of the Aspose.HTML for .NET library.
 
 ## **Improvements and Changes**
 
