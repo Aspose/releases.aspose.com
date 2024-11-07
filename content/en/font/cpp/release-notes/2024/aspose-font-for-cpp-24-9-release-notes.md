@@ -10,7 +10,7 @@ type: "repository"
 layout: "release"
 hideChildren: false
 toc: true
-family_listing_page_title: "Aspose.Font for C++ 24.2 Release Notes"
+family_listing_page_title: "Aspose.Font for C++ 24.9 Release Notes"
 ---
 
 ## Major Features
