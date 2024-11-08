@@ -30,7 +30,7 @@ A comprehensive description of all methods and properties, along with code examp
 
 There are 96 improvements and fixes in this regular monthly release. The most notable are:
 
-- **Text Summarization:** Integrated support for text summarization using OpenAI and Google generative language models.
+- **Text Summarization:** Integrated support for document summarization using OpenAI and Google generative language models.
 - **Data Formatting:** Added the ability to get and set format codes for chart data.
 - **PDF Export Customization:** Introduced a new option to control the rendering of PDF choice form field borders.
 - **Document Properties:** Added properties to access extended document properties.
@@ -200,7 +200,7 @@ public class BubbleSizeCollection
 }
 {{< /highlight >}}
 
-This use case explains how to set format code to chart data collectionsl:
+This use case explains how to set format code to chart data collections:
 {{< gist "aspose-words-gists" "366eb64fd56dec3c2eaa40410e594182" "format-code.cs" >}}
 
 ### Added new public option PdfSaveOptions.RenderChoiceFormFieldBorder
@@ -320,7 +320,7 @@ public OpenAiModel WithOrganization(string organizationId)
 public OpenAiModel WithProject(string projectId)
 {{< /highlight >}}
 
-This use case explains how to generate summary for document using Google generative model::
+This use case explains how to generate summary for document using Google generative model:
 {{< gist "aspose-words-gists" "366eb64fd56dec3c2eaa40410e594182" "ai-summarize.cs" >}}
 
 ### Added properties to get extended document properties
