@@ -30,9 +30,9 @@ A comprehensive description of all methods and properties, along with code examp
 
 There are 96 improvements and fixes in this regular monthly release. The most notable are:
 
+- **Text Summarization:** Integrated support for text summarization using OpenAI and Google generative language models.
 - **Data Formatting:** Added the ability to get and set format codes for chart data.
 - **PDF Export Customization:** Introduced a new option to control the rendering of PDF choice form field borders.
-- **Text Summarization:** Integrated support for text summarization using OpenAI and Google generative language models.
 - **Document Properties:** Added properties to access extended document properties.
 - **ActiveX Control Customization:** Enabled setting captions for ActiveX controls.
 - **PDF Export Refinements:** Enhanced PDF export by including table title properties as PDF logical structure element titles.
@@ -292,7 +292,7 @@ Implemented a new public enumeration:
 public enum SummaryLength
 {{< /highlight >}}
 
-Implemented new public class in Aspose.Words.AI](https://reference.aspose.com/words/net/aspose.words.ai/) namespace:
+Implemented new public class in [Aspose.Words.AI](https://reference.aspose.com/words/net/aspose.words.ai/) namespace:
 {{< highlight csharp >}}
 /// <summary>
 /// The class to represent information about a Generative Language Model.
@@ -300,7 +300,7 @@ Implemented new public class in Aspose.Words.AI](https://reference.aspose.com/wo
 public abstract class GoogleAiModel : AiModel, IAiModelText
 {{< /highlight >}}
 
-Implemented new public class in Aspose.Words.AI](https://reference.aspose.com/words/net/aspose.words.ai/) namespace:
+Implemented new public class in [Aspose.Words.AI](https://reference.aspose.com/words/net/aspose.words.ai/) namespace:
 {{< highlight csharp >}}
 /// <summary>
 /// The class to represent information about a OpenAI Generative Language Model.
