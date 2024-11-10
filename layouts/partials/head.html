@@ -75,6 +75,26 @@
 <meta name="author" content="{{ $contentauthor }}" />
 {{ end }}
 
+<!-- Add the consent script here for Consentise -->
+<!-- Consent script ensures user privacy preferences are set before other tracking scripts -->
+<script>
+  // Define dataLayer and the gtag function.
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('set', 'url_passthrough', true);
+  gtag('set', 'ads_data_redaction', true);
+  gtag('consent', 'default', {
+      'ad_storage': 'denied',
+      'ad_user_data': 'denied',
+      'ad_personalization': 'denied',
+      'analytics_storage': 'denied'
+  });
+  // UET default settings
+  window.uetq = window.uetq || [];
+  window.uetq.push('consent', 'default', {
+      'ad_storage': 'denied'
+  });
+</script>
 
 
 {{ $googlesiteverification:=.Site.Params.googlesiteverification }}
