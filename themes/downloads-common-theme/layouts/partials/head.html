@@ -123,14 +123,17 @@
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
     gtag('set', 'url_passthrough', true);
-    
-    // Set default consent to 'denied' as a placeholder
-    // Update values based on your requirements
+    gtag('set', 'ads_data_redaction', true);
     gtag('consent', 'default', {
-       'ad_storage': 'denied',
-       'ad_user_data': 'denied',
-       'ad_personalization': 'denied',
-       'analytics_storage': 'denied'
+        'ad_storage': 'denied',
+        'ad_user_data': 'denied',
+        'ad_personalization': 'denied',
+        'analytics_storage': 'denied'
+    });
+    // UET default settings
+    window.uetq = window.uetq || [];
+    window.uetq.push('consent', 'default', {
+        'ad_storage': 'denied'
     });
 </script>
 

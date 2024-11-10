@@ -10,7 +10,6 @@
         {{$currentcontentpath := print $faviconfolder "/" $CurrentSection}}
 
     <body class="releases {{ $faviconfolder }}">
-        <body>
 
         {{ if not (in .Site.BaseURL "-qa") }}
                     {{ $googletagmanager :=.Site.Params.googletagmanager }}
@@ -38,15 +37,14 @@
                 {{- partial "footer.html" . -}}
                 <!-- Add the consent script here for Consentise -->
                 <script src="https://www.consentise.com/v1.2/consent-min.js" 
-    data-cookiedomain=".aspose.com" 
-    data-privacy-policy-url="https://about.aspose.com/legal/privacy-policy/" 
-    data-preferred-color="#4FA5D3"
-    data-default-language="en"
-    defer>
-</script>
+                    data-cookiedomain=".aspose.com" 
+                    data-privacy-policy-url="https://about.aspose.com/legal/privacy-policy/" 
+                    data-preferred-color="#4FA5D3"
+                    data-default-language="en"
+                    defer>
+                </script>
     {{else}}
 
-        <body>
 
         <form name="form1" method="post" action="./total" id="form1">
             {{ if not (in .Site.BaseURL "-qa") }}
@@ -84,12 +82,12 @@
             {{- partial "footer.html" . -}}
             <!-- Add the consent script here for Consentise -->
             <script src="https://www.consentise.com/v1.2/consent-min.js" 
-            data-cookiedomain=".aspose.com" 
-            data-privacy-policy-url="https://about.aspose.com/legal/privacy-policy/" 
-            data-preferred-color="#4FA5D3"
-            data-default-language="en"
-            defer>
-        </script>
+                data-cookiedomain=".aspose.com" 
+                data-privacy-policy-url="https://about.aspose.com/legal/privacy-policy/" 
+                data-preferred-color="#4FA5D3"
+                data-default-language="en"
+                defer>
+            </script>
             <div id="dvHidden" style="display:none"></div>
         </form>
         <div id="footer"></div>
