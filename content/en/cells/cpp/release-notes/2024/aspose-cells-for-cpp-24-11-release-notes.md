@@ -19,6 +19,8 @@ This page contains release notes for Aspose.Cells for C++ 24.11.
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
+|CELLSCPP-1128|DataSorter::AddKey with Color object not working|Bug
+|CELLSCPP-1125|Add predefined colors to the Color class for C++|Improvement
 |CELLSNET-56858|Enhancement for adding free form shapes|New Feature
 |CELLSNET-54463|Convert picture in the cell to pdf|New Feature
 |CELLSNET-55066|Support placing an image in cell in MemoryPreference mode|New Feature
