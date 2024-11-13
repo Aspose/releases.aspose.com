@@ -114,9 +114,9 @@ This page contains release notes for [Aspose.Cells for .NET 24.11](https://www.n
 
 The following is a list of any changes made to the public API such as added, renamed, removed or deprecated members as well as any non-backward compatible change made to Aspose.Cells for .NET. If you have concerns about any change listed, please raise it on the Aspose.Cells support forum.
 
-### **Removes GridWeb/GridDesktop/GridJS from the download archive .**
+### **Removes GridWeb/GridDesktop/GridJS from the download archive.**
 
-Since 24.11, we do not include GridWeb/GridDesktop/GridJS into the [download archive](https://releases.aspose.com/cells/net/#). If you need those components, please get them from Nuget: [Aspose.Cells.GridDesktop](https://www.nuget.org/packages/Aspose.Cells.GridDesktop/), [Aspose.Cells.GridJs](https://www.nuget.org/packages/Aspose.Cells.GridJs/), [Aspose.Cells.GridWeb](https://www.nuget.org/packages/Aspose.Cells.GridWeb/).
+Since 24.11, we do not include GridWeb/GridDesktop/GridJS into the [download archive](https://releases.aspose.com/cells/net/#). If you need those components, please get them from Nuget: [Aspose.Cells.GridDesktop](https://www.nuget.org/packages/Aspose.Cells.GridDesktop/), [Aspose.Cells.GridJs](https://www.nuget.org/packages/Aspose.Cells.GridJs/), [Aspose.Cells.GridWeb](https://www.nuget.org/packages/Aspose.Cells.GridWeb/).
 
 ### **Changes the returned value and some behaviors of Cells.TextToColumns().**
 
@@ -124,11 +124,23 @@ To provide information about how many columns have been affected, we make this m
 
 ### **Adds SaveFormat.Pcl enum and PclSaveOptions class.**
 
-Support to convert Excel files to PCL(Printer Command Language) format.
+Support to convert Excel files to PCL(Printer Command Language) format.
+
+### **Adds SheetSet(params string[] sheetNames) constructor.**
+
+Creates a sheet set based on exact sheet names.
 
 ### **Adds DataModel,DataModelRelationship,DataModelRelationshipCollection,DataModelTable and DataModelTableCollection classes for namespace DataModels.**
 
 Support to get data model settings.
+
+### **Adds Workbook.DataModel property.**
+
+Gets data model in the workbook.
+
+### **Adds DataSorter.AddColorKey(int key, SortOnType type, SortOrder order, Color color) method.**
+
+Adds color sort key.
 
 ### **Adds FindOptions.SearchOrderByRows and Obsoleted FindOptions.SeachOrderByRows property.**
 
@@ -142,7 +154,7 @@ Use PivotItem.IsDetailHidden property instead.
 
 Use PivotItem.IsCalculatedItem property instead.
 
-### **Adds PowerQueryFormulaParameter.FormulaDefinition and PowerQueryFormulaParameter.ParameterDefinition property.**
+### **Adds PowerQueryFormulaParameter.FormulaDefinition and obsoleted PowerQueryFormulaParameter.ParameterDefinition property.**
 
 Use PowerQueryFormulaParameter.FormulaDefinition property instead.
 
@@ -150,14 +162,13 @@ Use PowerQueryFormulaParameter.FormulaDefinition property instead.
 
 All Parameters are gathered into DataMashup.PowerQueryFormulas.
 
-
 ### **Adds WorkbookSettings.PropertiesFollowChartPoint property.**
 
 Indicates whether datapoint properties and datalabels in all charts in this workbook follow their reference.
 
 ### **Adds WorkbookSettings.DiscardImageEditData property.**
 
-Indicates whether discarding editting image data.
+Indicates whether discarding editing image data.
 
 ### **Adds WorkbookSettings.DefaultImageResolution property.**
 
@@ -171,7 +182,6 @@ Represents the error rich value.
 
 Supports getting the rich value of the cell.
 
-
 ### **Adds PowerQueryFormulaType enum.**
 
 Represents the types of power query formula.
@@ -180,11 +190,11 @@ Represents the types of power query formula.
 
 Gets the type of current power query formula.
 
-### **Adds ShapeCollection.AddFreeform() method.**
+### **Adds ShapeCollection.AddFreeform() method.**
 
 Adds a freeform shape to the worksheet.
 
-### **Adds ShapeCollection.AddSignatureLine() method.**
+### **Adds ShapeCollection.AddSignatureLine() method.**
 
 Adds a Signature Line to the worksheet.
 
@@ -216,15 +226,10 @@ Gets the text information in the shape
 
 The text information in the shape
 
-### **Adds ShapeTextVerticalAlignmentType enum.**
+### **Adds ShapeTextVerticalAlignmentType enum.**
 
 It corresponds to "Format Shape - Text Options - Text Box - Vertical Alignment" in Excel.
 
 ### **Adds SignatureType enum.**
 
 Specifies the signature type.
-
-
-
- 
-
