@@ -162,7 +162,7 @@ Gets the definition of the parameter.
 
 All Parameters are gathered into DataMashup.PowerQueryFormulas.
 
-### **Adds two methods in WorkbookSettings.**
+### **Adds six methods in WorkbookSettings.**
 
 Indicates whether datapoint properties and datalabels in all charts in this workbook follow their reference.
 
@@ -212,40 +212,59 @@ Gets the type of current power query formula.
 
 ### **Adds two methods in ShapeCollection.**
 
-{{% alert color="primary" %}}
-
 Adds a freeform shape to the worksheet.
+
+{{% alert color="primary" %}}
 
 Shape AddFreeform(int32_t upperLeftRow, int32_t top, int32_t upperLeftColumn, int32_t left, int32_t height, int32_t width, const Vector<ShapePath>& paths)
 
+{{% /alert %}}
+
 Adds a Signature Line to the worksheet.
+
+{{% alert color="primary" %}}
 
 Picture AddSignatureLine(int32_t upperLeftRow, int32_t upperLeftColumn, const SignatureLine& signatureLine)
 
 {{% /alert %}}
 
-
 ### **Adds some methods in ShapePath.**
-
-{{% alert color="primary" %}}
 
 Starts a new figure from the specified point without closing the current figure. All subsequent points added to the path are added to this new figure.
 
+{{% alert color="primary" %}}
+
 void MoveTo(float x, float y)
+
+{{% /alert %}}
 
 Appends a line segment to the current figure. The starting point is the end point of the current figure.
 
+{{% alert color="primary" %}}
+
 void LineTo(float x, float y)
+
+{{% /alert %}}
 
 Appends a cubic Bézier curve to the current figure. The starting point is the end point of the current figure.
 
+{{% alert color="primary" %}}
+
 void CubicBezierTo(float ctrX1, float ctrY1, float ctrX2, float ctrY2, float endX, float endY)
+
+{{% /alert %}}
 
 Appends an elliptical arc to the current figure. The starting point is the end point of the current figure.
 
+{{% alert color="primary" %}}
+
 void ArcTo(float wR, float hR, float stAng, float swAng)
 
+{{% /alert %}}
+
 Closes the current figure and starts a new figure. If the current figure contains a sequence of connected lines and curves, the method closes the loop by connecting a line from the endpoint to the starting point.
+
+{{% alert color="primary" %}}
 
 void Close()
 
