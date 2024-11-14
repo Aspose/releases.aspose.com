@@ -22,8 +22,7 @@ This page contains release notes information for Aspose.Diagram for .NET 24.11.
 |DIAGRAMNET-53582|Export to PDF not showing correct background page information|Enhancement|
 |DIAGRAMNET-53579|‘New Junction 2’ text is not completely showed|Bug|
 |DIAGRAMNET-53580|‘New Application Interface’ text not completely showed|Bug|
-|DIAGRAMNET-53589|Line position changes in output PDF|Bug|
-|DIAGRAMNET-53559|PDF/A conversion does not incldue all diagrams from visio file|Bug|
+|DIAGRAMNET-53589|PDF/A conversion does not incldue all diagrams from visio file|Bug|
 
 
 ## **Public API and Backward Incompatible Changes**
