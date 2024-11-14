@@ -2,6 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="{{ with $.Site.LanguageCode }}{{ . }}{{ else }}en-us{{ end }}">
     <meta charset="UTF-8">
     {{- partial "head.html" . -}}
+    <!-- Add the consent script here for Consentise -->
+    <script src="https://www.consentise.com/v1.2/consent-min.js" 
+    data-cookiedomain=".aspose.com" 
+    data-privacy-policy-url="https://about.aspose.com/legal/privacy-policy/" 
+    data-preferred-color="#4FA5D3"
+    data-default-language="en"
+    defer>
+    </script>
     {{- partial "repository/gtag.html" . -}}
     {{ if .IsHome }}
 
@@ -10,7 +18,6 @@
         {{$currentcontentpath := print $faviconfolder "/" $CurrentSection}}
 
     <body class="releases {{ $faviconfolder }}">
-        <body>
 
         {{ if not (in .Site.BaseURL "-qa") }}
                     {{ $googletagmanager :=.Site.Params.googletagmanager }}
@@ -36,17 +43,9 @@
                     </div>
                 </div>
                 {{- partial "footer.html" . -}}
-                <!-- Add the consent script here for Consentise -->
-                <script src="https://www.consentise.com/v1.2/consent-min.js" 
-    data-cookiedomain=".aspose.com" 
-    data-privacy-policy-url="https://about.aspose.com/legal/privacy-policy/" 
-    data-preferred-color="#4FA5D3"
-    data-default-language="en"
-    defer>
-</script>
+                
     {{else}}
 
-        <body>
 
         <form name="form1" method="post" action="./total" id="form1">
             {{ if not (in .Site.BaseURL "-qa") }}
@@ -82,14 +81,6 @@
                 </div>
             </div>
             {{- partial "footer.html" . -}}
-            <!-- Add the consent script here for Consentise -->
-            <script src="https://www.consentise.com/v1.2/consent-min.js" 
-            data-cookiedomain=".aspose.com" 
-            data-privacy-policy-url="https://about.aspose.com/legal/privacy-policy/" 
-            data-preferred-color="#4FA5D3"
-            data-default-language="en"
-            defer>
-        </script>
             <div id="dvHidden" style="display:none"></div>
         </form>
         <div id="footer"></div>
