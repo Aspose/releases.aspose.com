@@ -68,7 +68,7 @@ This page contains release notes information for Aspose.PDF for .NET 24.11.
 |PDFNET-58236|PdfBookmarkEditor.ExtractBookmark is never completed for certain documents|Bug|
 |PDFNET-58439|PDF to XLSX: System.InvalidCastException on Alpine Linux|Bug|
 |PDFNET-58216|"Wrong object format" in PDF to PDF/A-1b conversion|Bug|
-|PDFNET-53049|Investigate Exception during getting property TtfFont.Metrics|Bug|
+|PDFNET-53049|An exception is thrown while getting property TtfFont.Metrics|Bug|
 |PDFNET-58210|Exception thrown when converting to PDF/A in Evaluation mode|Bug|
 |PDFNET-58227|Concurrency bug in constructor Aspose.PDF TextBuilder|Bug|
 |PDFNET-58264|PDF conversion to PDF/А not pass in Evaluation mode|Bug|
