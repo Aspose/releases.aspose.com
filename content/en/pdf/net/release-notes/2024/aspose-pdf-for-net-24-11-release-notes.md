@@ -35,7 +35,7 @@ This page contains release notes information for Aspose.PDF for .NET 24.11.
 |PDFNET-56893|Cannot correctly check permissions on the PDF file|Bug|
 |PDFNET-58429|PDF to PDF/A-3b: the output is not compliant due to widths error|Bug|
 |PDFNET-46498|Cannot open 256bit AES encoded PDF due to unhandled exception|Bug|
-|PDFNET-49064|VerifySigned returns an unexpected result|Bug|
+|PDFNET-49064|Method VerifySigned returns an unexpected result|Bug|
 |PDFNET-49876|Unable to open PDF file which encrypted with Adobe Acrobat using Encryption Level:256-bit AES|Bug|
 |PDFNET-50262|Document signature fails to validate|Bug|
 |PDFNET-53241|Unable to set timestamp: "Error parsing timestamp server token" thrown|Bug|
