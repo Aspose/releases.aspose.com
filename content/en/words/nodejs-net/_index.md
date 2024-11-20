@@ -9,6 +9,8 @@ family_listing_page_description:  "Aspose.Words for Node.js via .NET is a native
 family_listing_page_iconurl:  "https://products.aspose.com/words/images/aspose_words-for-nodejs-via-net.svg"
 family_listing_page_selfHosted: "1"
 weight: 8
+homepage_package_type: "NPM"
+homepage_package_link: "https://www.npmjs.com/package/@aspose/words"
 
 ---
 
