@@ -113,7 +113,7 @@ keywords:
 - J2SE
 family_listing_page_title: "Aspose.Words for Java"
 family_listing_page_description: "Aspose.Words for Java is an advanced Java Word processing API that enables you to perform a great range of document processing tasks directly within your Java applications."
-family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-java.png"
+family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/img/products/words/aspose_words-for-java.svg"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
 family_listing_page_venture: "4"
