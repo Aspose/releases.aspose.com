@@ -3,9 +3,11 @@
 title: "Aspose.Words for Node.js is a native library that offers developers a wealth of features to create, edit, and convert Word, PDF, Web documents, without the need for Microsoft Word environment to be installed on the system."
 description:  "Download a native library that offers developers a wealth of features to create, edit, and convert Word, PDF, Web documents, without the need for Microsoft Word environment to be installed on the system."
 keywords:  "Word API, Node.js native library"
-family_listing_page_title:  "Aspose.Words for Node.js"
-family_listing_page_description:  "Aspose.Words for Node.js is a native library that offers developers a wealth of features to create, edit, and convert Word, PDF, Web documents, without the need for Microsoft Word environment to be in"
+linktitle: "Aspose.Words for Node.js via .NET"
+family_listing_page_title:  "Aspose.Words for Node.js via .NET"
+family_listing_page_description:  "Aspose.Words for Node.js via .NET is a native library that offers developers a wealth of features to create, edit, and convert Word, PDF, Web documents, without the need for Microsoft Word environment to be in"
 family_listing_page_iconurl:  "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/words/272x272/aspose_words-for-net.png"
+family_listing_page_selfHosted: "1"
 weight: 8
 
 ---
@@ -16,7 +18,7 @@ weight: 8
 <!-- ProductPageContent-->
 {{< Common/wrapper class="col-md-12" >}}
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
-{{< Common/h1 text="Aspose.Words for Node.js" >}}
+{{< Common/h1 text="Aspose.Words for Node.js via .NET" >}}
         {{< Common/paragraph>}}
         {{< Common/ul>}}
         {{< Common/li >}} {{< /Common/li >}}
