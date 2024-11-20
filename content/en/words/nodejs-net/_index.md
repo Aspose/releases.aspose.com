@@ -28,7 +28,7 @@ weight: 8
 <!-- /ProductPageContent-->
 
 <!-- ReleasesListProductPage-->
-{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="words" product="nodejs" >}}
+{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="words" product="nodejs-net" >}}
 <!-- /ReleasesListProductPage-->
 
 {{< /ProductPageWrapper >}}
