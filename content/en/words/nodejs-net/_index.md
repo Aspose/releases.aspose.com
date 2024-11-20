@@ -1,5 +1,5 @@
 ---
-title: "Aspose.Words for Node.js is a native library that offers developers a wealth of features to create, edit, and convert Word, PDF, Web documents, without the need for Microsoft Word environment to be installed on the system."
+title: "Word Document Processing APIs | Aspose.Words Product Family"
 description:  "Download a native library that offers developers a wealth of features to create, edit, and convert Word, PDF, Web documents, without the need for Microsoft Word environment to be installed on the system."
 keywords:  "Word API, Node.js native library"
 linktitle: "Aspose.Words for Node.js via .NET"
