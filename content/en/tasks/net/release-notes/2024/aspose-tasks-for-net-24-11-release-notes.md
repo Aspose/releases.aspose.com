@@ -20,6 +20,7 @@ This page contains release notes information for [Aspose.Tasks for .Net 24.10](h
 {{% /alert %}}
 
 ## **All Changes**
+
 |**Key**|**Summary**|**Issue Type**|
 | :- | :- | :- |
 | TASKSNET-3334 | Implement a macro (VBA) removal operation | New Feature |
@@ -34,6 +35,7 @@ This page contains release notes information for [Aspose.Tasks for .Net 24.10](h
 | TASKSNET-11328 | Fix saving of fonts for MPP9-MPP16 formats when the user adds a text style or group which uses font previously not added to a project | Bug |
 
 ## **Public API and Backwards Incompatible Changes**
+
 |**The following public methods and properties were added:**|**Description**|
 | :- | :- |
 | Aspose.Tasks.Group.GroupAssignments | Gets or sets a value indicating whether assignments should be grouped instead of tasks. |
