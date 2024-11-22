@@ -1,0 +1,17 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk17",
+  "artifactId" : "aspose-words",
+  "id" : "24-11",
+  "packageFiles" : [ {
+    "size" : "17 MB",
+    "name" : "aspose-words-24.11-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "5 KB",
+    "name" : "aspose-words-24.11.pom"
+  } ],
+  "releasehDate" : "2024-11-22T08:55:01+00:00",
+  "version" : "24.11",
+  "ReleaseNotes" : "https://releases.aspose.com/words/java/release-notes/2024/aspose-words-for-java-24-11-release-notes/"
+}
