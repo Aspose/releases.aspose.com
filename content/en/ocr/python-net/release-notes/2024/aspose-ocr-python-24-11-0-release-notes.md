@@ -6,7 +6,7 @@ linktitle: "Aspose.OCR for Python via .NET 24.11.0 - Release Notes"
 title: "Aspose.OCR for Python via .NET 24.11.0 - Release Notes"
 author: "Vladimir Lapin"
 weight: 31
-description: "A summary of recent changes, enhancements and bug fixes in Aspose.OCR for Python via .NET 24.11.0 (October 2024) release."
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OCR for Python via .NET 24.11.0 (November 2024) release."
 type: "repository"
 layout: "release"
 hideChildren: false
@@ -22,7 +22,7 @@ menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for Python via .NET 24.11.0 (October 2024)** release.
+This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for Python via .NET 24.11.0 (November 2024)** release.
 {{% /alert %}}
 
 ## Deprecation warning
