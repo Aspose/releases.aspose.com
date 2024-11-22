@@ -3,7 +3,7 @@ id: "aspose-page-for-java-24-9-release-notes"
 slug: "aspose-page-for-java-24-9-release-notes"
 linktitle: "Aspose.Page for Java 24.9 Release Notes"
 title: "Aspose.Page for Java 24.9 Release Notes"
-description: Java APIs to manipulate and process PS, EPS, and XPS files. This page contains new Aspose.Page for Java features, enhancement, and bug fixes in 2024, version 24.089.
+description: Java APIs to manipulate and process PS, EPS, and XPS files. This page contains new Aspose.Page for Java features, enhancement, and bug fixes in 2024, version 24.09.
 productName: "Aspose.Page for Java"
 weight: 92
 type: "repository"
