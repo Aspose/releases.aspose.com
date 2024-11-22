@@ -24,6 +24,8 @@ This page contains release notes information for [Aspose.BarCode for Java 24.11]
 |:-----------------|:---------------------------------------------------------------------------------------------|:------------------|
 |BARCODENET-39128| Improve QR Codes recognition speed in HighPerformance mode                                   | Enhancement + Bug |
 |BARCODEJAVA-1989| The getMode method in the MaxiCodeStandardCodetext class returns the incorrect default value |Bug |
+|BARCODEJAVA-1987| Method getConstructedCodetext in SwissQRCodetext raises java.lang.NullPointerException |Bug |
+|BARCODEJAVA-1976| Unexpected exception in the QrParameters.toString method |Bug |
 
 ## Public API changes and backwards compatibility
 No changes to the public API
