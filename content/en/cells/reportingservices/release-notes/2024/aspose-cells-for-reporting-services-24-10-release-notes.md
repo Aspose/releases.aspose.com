@@ -3,7 +3,7 @@ id: "aspose-cells-for-reporting-services-24-10-release-notes"
 slug: "aspose-cells-for-reporting-services-24-10-release-notes"
 linktitle: "Aspose.Cells Reporting Services 24.10 Release Notes"
 title: "Aspose.Cells Reporting Services 24.10 Release Notes"
-weight: 13
+weight: 12
 description: "Aspose.Cells Reporting Services 24.10 supports render to kinds of format reports. e.g. Xlsx, Pdf, Json, Docx, Pptx, Html, Svg, Ods, Png, and so on."
 type: "repository"
 layout: "release"
