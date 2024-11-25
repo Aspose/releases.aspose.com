@@ -24,7 +24,6 @@ for [Aspose.BarCode for PHP via Java 24.11](https://releases.aspose.com/barcode/
 
 | **Key**         | **Summary**                                                | **Category**      |
 |:----------------|:-----------------------------------------------------------|:------------------|
-|:-----------------| :-------------------------------------------------------  | :----------- --   |
 |BARCODENET-39128| Improve QR Codes recognition speed in HighPerformance mode  | Enhancement + Bug |
 
 ## Public API changes and backwards compatibility
