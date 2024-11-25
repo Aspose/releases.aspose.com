@@ -22,7 +22,6 @@ This page contains release notes information for [Aspose.BarCode for Node.js via
 
 | **Key**         | **Summary**                                                                       | **Category** |
 |:----------------|:----------------------------------------------------------------------------------|:-------------|
-|:-----------------|:-------------------------------------------------------|:-------------|
 |BARCODENET-39128| Improve QR Codes recognition speed in HighPerformance mode  | Enhancement + Bug |
 
 
