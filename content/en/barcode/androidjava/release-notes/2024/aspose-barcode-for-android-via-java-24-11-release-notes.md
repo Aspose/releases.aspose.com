@@ -20,10 +20,9 @@ This page contains release notes information for [Aspose.BarCode for Android via
 {{% /alert %}} 
 ## **All Changes**
 
-| **Key**         | **Summary**                                                | **Category**      |
-|:----------------|:-----------------------------------------------------------|:------------------|
-|:-----------------| :-------------------------------------------------------  | :----------- --   |
-|BARCODENET-39128| Improve QR Codes recognition speed in HighPerformance mode  | Enhancement + Bug |
+| **Key**          | **Summary**                                                      | **Category** |
+|:-----------------|:-----------------------------------------------------------------|:-------------|
+|BARCODENET-39128| Improve QR Codes recognition speed in HighPerformance mode       | Enhancement + Bug |
 
 ## Public API changes and backwards compatibility
 No changes to the public API
