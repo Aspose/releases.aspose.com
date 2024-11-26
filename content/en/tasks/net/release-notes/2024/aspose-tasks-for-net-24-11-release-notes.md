@@ -15,7 +15,7 @@ menuItemWithNoContent: false
 
 {{% alert color="primary" %}} 
 
-This page contains release notes information for [Aspose.Tasks for .Net 24.10](https://releases.aspose.com/tasks/net/new-releases/aspose.tasks-for-.net-24.11/).
+This page contains release notes information for [Aspose.Tasks for .Net 24.11](https://releases.aspose.com/tasks/net/new-releases/aspose.tasks-for-.net-24.11/).
 
 {{% /alert %}}
 
