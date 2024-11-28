@@ -28,7 +28,7 @@ weight:  1
   <summary><b>.NET CLI</b></summary>
   
   > ```
-  > > dotnet add package Aspose.3D --version 24.10.0
+  > > dotnet add package Aspose.3D
   > ```
 
 </details>
@@ -37,7 +37,7 @@ weight:  1
   <summary><b>Package Manager</b></summary>
   
   > ```
-  > PM> NuGet\Install-Package Aspose.3D -Version 24.10.0
+  > PM> NuGet\Install-Package Aspose.3D
   > ```
 
 </details>
@@ -46,7 +46,7 @@ weight:  1
   <summary><b>PackageReference</b></summary>
   
   > ```
-  > <PackageReference Include="Aspose.3D" Version="24.10.0" />
+  > <PackageReference Include="Aspose.3D" />
   > ```
 
 </details>
@@ -55,7 +55,7 @@ weight:  1
   <summary><b>Paket CLI</b></summary>
   
   > ```
-  > paket add Aspose.3D --version 24.10.0
+  > paket add Aspose.3D
   > ```
 
 </details>
@@ -64,7 +64,7 @@ weight:  1
   <summary><b>Script & Interactive</b></summary>
   
   > ```
-  > #r "nuget: Aspose.3D, 24.10.0"
+  > #r "nuget: Aspose.3D"
   > ```
 
 </details>
@@ -74,9 +74,9 @@ weight:  1
   
   > ```
   > // Install Aspose.3D as a Cake Addin
-  > #addin nuget:?package=Aspose.3D&version=24.10.0
+  > #addin nuget:?package=Aspose.3D
   > // Install Aspose.3D as a Cake Tool
-  > #tool nuget:?package=Aspose.3D&version=24.10.0
+  > #tool nuget:?package=Aspose.3D
   > ```
 
 </details>
