@@ -73,6 +73,7 @@ This page contains release notes information for Aspose.PDF for Java 24.11.
 - com.aspose.pdf.tagged.logicalstructure.elements.Element.insertChild(Element,int,boolean)
 - com.aspose.pdf.tagged.logicalstructure.elements.StructureElement.changeParentElement(StructureElement,boolean)
 - com.aspose.pdf.tagged.logicalstructure.elements.StructureElement.removeAndMoveItsChildObjectsToItsParent
+
 **Added new methods:**
 - com.aspose.pdf.facades.PdfFileSignature.getSignaturesInfo()
 - com.aspose.pdf.GraphInfo.getX()
@@ -91,7 +92,7 @@ This page contains release notes information for Aspose.PDF for Java 24.11.
 - com.aspose.pdf.optimization.OptimizationOptions.isAllowReusePageContent()
 - com.aspose.pdf.Page.addImage(InputStream,Rectangle,Rectangle,CompositingParameters,boolean)
 
-**Marked as Deprecated **
+**Marked as Deprecated:**
 - com.aspose.pdf.optimization.OptimizationOptions.setLinkDuplcateStreams(boolean)
 - com.aspose.pdf.optimization.OptimizationOptions.setLinkDuplcateStreams(boolean)
 
@@ -105,7 +106,7 @@ This page contains release notes information for Aspose.PDF for Java 24.11.
 - com.aspose.pdf.optimization.OptimizationOptions.getSubsetFonts() to isSubsetFonts()
 - com.aspose.pdf.optimization.OptimizationOptions.getRemovePrivateInfo() to isRemovePrivateInfo()
 
-**Added fields:**
+**Added new fields:**
 - com.aspose.pdf.operators.CurveTo.X1
 - com.aspose.pdf.operators.CurveTo.Y1
 - com.aspose.pdf.operators.CurveTo.X2
