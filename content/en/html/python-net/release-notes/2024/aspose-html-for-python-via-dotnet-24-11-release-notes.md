@@ -4,7 +4,7 @@ slug: "aspose-html-for-python-via-dotnet-24-11-release-notes"
 linktitle: "Aspose.HTML for Python via .NET 24.11 Release Notes"
 title: "Aspose.HTML for Python via .NET 24.11 Release Notes"
 weight: 30
-description: "In this release, we are pleased to announce a version with enhanced support for Linux environments, which will be released as a separate NuGet package. This version is specifically designed without the dependency on System.Drawing.Common, aiming to significantly enhance support for Linux users. Additionally, we have enhanced the font handling mechanism, fixed bugs related to HTML to PDF conversion, and significantly reduced memory consumption when converting large HTML documents."
+description: "In this release, we have enhanced the font handling mechanism, fixed bugs related to HTML to PDF conversion, and significantly reduced memory consumption when converting large HTML documents."
 type: "repository"
 layout: "release"
 hideChildren: false
