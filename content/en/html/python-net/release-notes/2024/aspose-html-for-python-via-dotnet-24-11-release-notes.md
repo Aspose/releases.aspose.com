@@ -18,7 +18,7 @@ This page contains release notes information for Aspose.HTML for Python via .NET
 
 As per the regular monthly update process of all APIs being offered by Aspose, we are honored to announce the November release of Aspose.HTML for Python via .NET.
 
-In this release, we are pleased to announce a version with enhanced support for Linux environments, which will be released as a separate NuGet package. This version is specifically designed without the dependency on System.Drawing.Common, aiming to significantly enhance support for Linux users. Additionally, we have enhanced the font handling mechanism, fixed bugs related to HTML to PDF conversion, and significantly reduced memory consumption when converting large HTML documents.
+In this release, we have enhanced the font handling mechanism, fixed bugs related to HTML to PDF conversion, and significantly reduced memory consumption when converting large HTML documents.
 
 **Package references**
 Aspose.HTML for .NET 24.11 [NuGet](https://www.nuget.org/packages/Aspose.Html)
