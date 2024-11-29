@@ -12,6 +12,10 @@
     "name" : "aspose-pdf-24.11-jdk17.jar",
     "classifier" : "jdk17"
   }, {
+    "size" : "85 MB",
+    "name" : "aspose-pdf-24.11-tomee.jar",
+    "classifier" : "tomee"
+  }, {
     "size" : "453 bytes",
     "name" : "aspose-pdf-24.11.pom"
   } ],
