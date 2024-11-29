@@ -94,7 +94,7 @@ This page contains release notes information for Aspose.PDF for Java 24.11.
 
 **Marked as Deprecated:**
 - com.aspose.pdf.optimization.OptimizationOptions.setLinkDuplcateStreams(boolean)
-- com.aspose.pdf.optimization.OptimizationOptions.setLinkDuplcateStreams(boolean)
+- com.aspose.pdf.optimization.OptimizationOptions.getLinkDuplcateStreams()
 
 **Renamed methods:**
 - com.aspose.pdf.optimization.OptimizationOptions.getAllowReusePageContent() to isAllowReusePageContent()
