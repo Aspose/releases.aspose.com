@@ -22,9 +22,9 @@ As per the regular monthly update process of all APIs being offered by Aspose, w
 
 In this release, we are pleased to announce a version with enhanced support for Linux environments, which will be released as a separate NuGet package. This version is specifically designed without the dependency on System.Drawing.Common, aiming to significantly enhance support for Linux users. Additionally, we have enhanced the font handling mechanism, fixed bugs related to HTML to PDF conversion, and significantly reduced memory consumption when converting large HTML documents.
 
-**Package references**
-Aspose.HTML for .NET 24.11 [NuGet](https://www.nuget.org/packages/Aspose.Html)
-Aspose.HTML.Drawing for .NET 24.11 [NuGet](https://www.nuget.org/packages/Aspose.Html.Drawing)
+**Package references**<br>
+Aspose.HTML for .NET 24.11 [NuGet](https://www.nuget.org/packages/Aspose.Html)<br>
+Aspose.HTML.Drawing for .NET 24.11 [NuGet](https://www.nuget.org/packages/Aspose.Html.Drawing)<br>
 Aspose.HTML for Python via .NET  24.11.0 [PyPI](https://pypi.org/project/aspose-html-net/)
 
 
