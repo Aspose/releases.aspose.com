@@ -27,6 +27,7 @@ Aspose.HTML for Python via .NET  24.11.0 [PyPI](https://pypi.org/project/aspose-
 
 ## **Improvements and Changes**
 
+| **Key**      | **Summary**                                                                            | **Category** |
 | ------------ | -------------------------------------------------------------------------------------- | ------------ |
 | HTMLNET-5807 | SVG image corruption when converting HTML to PDF in Aspose.Html 24.4+ | Bug |
 | HTMLNET-5900 | Stack Overflow exception during loading of malformed HTML content | Bug |
