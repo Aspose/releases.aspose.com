@@ -372,7 +372,7 @@ Added a new public setter to [Forms2OleControl.Caption](https://reference.aspose
 public string Caption {get; set;}
 {{< /highlight >}}
 
-This use case explains explains how to change Caption of ActiveX control:
+This use case explains how to change Caption of ActiveX control:
 {{< gist "aspose-words-gists" "366eb64fd56dec3c2eaa40410e594182" "command-button-caption.cs" >}}
 
 ### Modified RevisionOptions and RevisionColor classes
@@ -430,5 +430,5 @@ Gray,
 ...
 {{< /highlight >}}
 
-This use case explains explains how to specify color for the insert and delete revisions for table cells:
+This use case explains how to specify color for the insert and delete revisions for table cells:
 {{< gist "aspose-words-gists" "366eb64fd56dec3c2eaa40410e594182" "revision-cell-color.cs" >}}
