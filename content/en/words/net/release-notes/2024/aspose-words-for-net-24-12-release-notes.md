@@ -102,7 +102,7 @@ This section lists public API changes that were introduced in Aspose.Words 24.12
 
 Related issue: WORDSNET-21965
 
-The following new properties have been added to the ChartDataLabel and ChartDataLabelCollection classes:
+The following new properties have been added to the [ChartDataLabel](https://reference.aspose.com/words/net/aspose.words.drawing.charts/chartdatalabel/) and [ChartDataLabelCollection](https://reference.aspose.com/words/net/aspose.words.drawing.charts/chartdatalabelcollection/) classes:
 {{< highlight csharp >}}
 public class ChartDataLabelCollection
 {
@@ -239,7 +239,7 @@ public enum ChartDataLabelPosition
 {{< /highlight >}}
 
 This use case explains how to set position of data labels:
-{{< gist "aspose-words-gists" "695136dbbe4f541a8a0a17b3d3468689" "data-lable-position.cs.cs" >}}
+{{< gist "aspose-words-gists" "695136dbbe4f541a8a0a17b3d3468689" "data-lable-position.cs" >}}
 
 This use case demonstrates how to adjust the position of data labels in a doughnut chart:
 {{< gist "aspose-words-gists" "695136dbbe4f541a8a0a17b3d3468689" "doughnut-chart-label-position.cs" >}}
@@ -248,7 +248,7 @@ This use case demonstrates how to adjust the position of data labels in a doughn
 
 Related issue: WORDSNET-27525
 
-New value RemoveEmptyTables has been added to the MailMergeCleanupOptions enumeration:
+New value RemoveEmptyTables has been added to the [MailMergeCleanupOptions](https://reference.aspose.com/words/net/aspose.words.mailmerging/mailmergecleanupoptions/) enumeration:
 {{< highlight csharp >}}
 /// <summary>
 /// Specifies options that determine what items are removed during mail merge.
@@ -275,7 +275,7 @@ This use case explains how to use RemoveEmptyTables option during MailMerge:
 
 Related issue: WORDSNET-27572
 
-Added a new public method into Aspose.Words.AI.IAiModelText interface:
+Added a new public method into [Aspose.Words.AI.IAiModelText](https://reference.aspose.com/words/net/aspose.words.ai/iaimodeltext/) interface:
 
 {{< highlight csharp >}}
 /// <summary>
@@ -288,7 +288,7 @@ Added a new public method into Aspose.Words.AI.IAiModelText interface:
 Document Translate(Document sourceDocument, Language targetLanguage);
 {{< /highlight >}}
 
-Also, added a new public enumeration into Aspose.Words.AI namespace:
+Also, added a new public enumeration into [Aspose.Words.AI](https://reference.aspose.com/words/net/aspose.words.ai/) namespace:
 {{< highlight csharp >}}
 /// <summary>
 /// Specifies the language into which the text will be translated using AI.
@@ -302,7 +302,7 @@ This use case explains how to translate document using Google generative model:
 
 ### LowCode.Comparer class was introduced
 
-Added a new LowCode.Comparer class, which represents a group of methods intended to compare the documents.
+Added a new [LowCode.Comparer](https://reference.aspose.com/words/net/aspose.words.lowcode/comparer/) class, which represents a group of methods intended to compare the documents.
 
 The following overloads were provided:
 {{< highlight csharp >}}
@@ -382,7 +382,7 @@ This use case demonstrates how to compare documents loaded through streams:
 
 ### LowCode.MailMerger class was introduced
 
-Added a new LowCode.MailMerger class, which represents a group of methods intended to fill template with data using simple mail merge and mail merge with regions operations.
+Added a new [LowCode.MailMerger](https://reference.aspose.com/words/net/aspose.words.lowcode/mailmerger/) class, which represents a group of methods intended to fill template with data using simple mail merge and mail merge with regions operations.
 
 The following overloads were provided:
 {{< highlight csharp >}}
@@ -654,7 +654,7 @@ This use case explains how to execute a mail merge with regions using data from 
 
 ### LowCode.Replacer class was introduced
 
-Added a new LowCode.Replacer class, which represents a group of methods intended to find and replace text in the document.
+Added a new [LowCode.Replacer](https://reference.aspose.com/words/net/aspose.words.lowcode/replacer/) class, which represents a group of methods intended to find and replace text in the document.
 
 The following overloads were provided:
 {{< highlight csharp >}}
@@ -785,7 +785,7 @@ This use case explains how to use replace:
 
 ### LowCode.ReportBuilder class was introduced
 
-Added a new LowCode.ReportBuilder class, which represents a group of methods intended to fill a template with data using LINQ Reporting Engine.
+Added a new [LowCode.ReportBuilder](https://reference.aspose.com/words/net/aspose.words.lowcode/reportbuilder/) class, which represents a group of methods intended to fill a template with data using LINQ Reporting Engine.
 
 The following overloads were provided:
 {{< highlight csharp >}}
@@ -981,7 +981,7 @@ This use case explains how to build a report by directly providing data to the d
 
 ### LowCode.Splitter class was introduced
 
-Added a new LowCode.Splitter class, which represents a group of methods intended to split the documents into parts using different criteria.
+Added a new [LowCode.Splitter](https://reference.aspose.com/words/net/aspose.words.lowcode/splitter/) class, which represents a group of methods intended to split the documents into parts using different criteria.
 
 The following overloads were provided:
 {{< highlight csharp >}}
@@ -1086,7 +1086,7 @@ This use case explains how to remove blank pages from the document:
 
 ### LowCode.Watermarker class was introduced
 
-Added a new LowCode.Watermarker class, which represents a group of methods intended to insert watermarks into the documents.
+Added a new [LowCode.Watermarker](https://reference.aspose.com/words/net/aspose.words.lowcode/watermarker/) class, which represents a group of methods intended to insert watermarks into the documents.
 
 The following overloads were provided:
 {{< highlight csharp >}}
