@@ -2,7 +2,7 @@
 id: "aspose-ocr-for-net-latest-release-notes"
 slug: "latest"
 weight: 1
-date: "2024-11-21"
+date: "2024-12-05"
 author: "Vladimir Lapin"
 type: docs
 type: "repository"
@@ -18,7 +18,7 @@ keywords:
 ---
 
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OCR for .NET 24.11.1 (November 2024)**](https://www.nuget.org/packages/Aspose.OCR/24.11.1) release.
+This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OCR for .NET 24.12.0 (December 2024)**](https://www.nuget.org/packages/Aspose.OCR/24.12.0) release.
 
 GPU version: **23.10.1**
 {{% /alert %}}
@@ -32,31 +32,42 @@ GPU version: **23.10.1**
 
 To make it easier to upgrade your code, we have kept all legacy values, but marked them as deprecated. All of your existing code will continue to work and you can even make minor updates to it, but be aware that all deprecated language codes are scheduled to be removed in release **25.1.0 (January 2025)**.
 
-**Time to deprecation: 2 months left.**
+**Time to deprecation: 1 month left.**
 {{% /alert %}}
 
 ## What was changed
 
 Key | Summary | Category
 --- | ------- | --------
-OCRNET&#8209;947 | Added an experimental OCR model for extracting mixed-language Cyrillic/English texts. | New feature
-OCRNET&#8209;945 | Added support for recognizing mixed-language Telugu/English texts. | New feature
-OCRNET&#8209;945 | Added support for recognizing mixed-language Tamil/English texts. | New feature
-OCRNET&#8209;945 | Added support for recognizing mixed-language Kannada/English texts. | New feature
-OCRNET&#8209;943 | Added universal recognition of Indic texts based on Devanagari script, including mixed Devanagari/English texts. | Enhancement
-_n/a_ | Added universal recognition of Chinese/English texts (language-agnostic). | Enhancement
+OCRNET&#8209;958 | Added a container class for storing recognition results. | New feature
+OCRNET&#8209;960 | Added support for recognizing Mongolian texts. | New feature
+OCRNET&#8209;961 | Added a method to release memory by unloading unneeded OCR modules. | New feature
+OCRNET&#8209;814 | Significantly enhanced the performance of saving recognition results to searchable PDFs. | Enhancement
+OCRNET&#8209;946 | Improved the calculation of line height in searchable PDFs. | Enhancement
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OCR for .NET 24.11.1** that may affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OCR for .NET 24.12.0** that may affect the code of existing applications.
 
 ### Added public APIs:
 
-_No changes._
+The following public APIs have been added to **Aspose.OCR for .NET 24.12.0** release:
+
+#### `Aspose.OCR.OcrOutput` class
+
+A container class that stores recognition results, which is returned from all recognition methods instead of a list of `Aspose.OCR.RecognitionResult` objects.
+
+It is fully backward compatible with the `List<Aspose.OCR.RecognitionResult>`, which means you do not have to update your existing code.
+
+#### `Aspose.OCR.Resources.ReleaseMemory()`
+
+Unload all OCR modules to free up memory. The downloaded module files will remain stored on your system.
+
+If you need to use the OCR module again later, it will automatically reload into memory. Please note that the first recognition attempt may be slightly slower due to the reloading process.
 
 ### Updated public APIs:
 
-The following public APIs have been updated in **Aspose.OCR for .NET 24.11.1** release:
+The following public APIs have been updated in **Aspose.OCR for .NET 24.12.0** release:
 
 #### `Aspose.OCR.Language`
 
@@ -68,25 +79,75 @@ Aspose.OCR for .NET can now extract texts in the following languages:
 
 Value          | Alphabet
 -------------- | --------
-`Aspose.OCR.Language.Chinese` | Universal model for all Chinese languages. Mixed-language Chinese/English texts also supported.
-`Aspose.OCR.Language.Devanagari`<br />`Aspose.OCR.Language.Indic` | Universal model for all Indic texts based on Devanagari script, including mixed Devanagari/English texts.
-`Aspose.OCR.Language.European` | Mixed-language Cyrillic/English texts.
-`Aspose.OCR.Language.Kan` | Mixed-language Kannada/English texts.
-`Aspose.OCR.Language.Tam` | Mixed-language Tamil/English texts.
-`Aspose.OCR.Language.Tel` | Mixed-language Telugu/English texts.
+`Aspose.OCR.Language.Mon` | Mongolian texts.
 
 {{% alert color="primary" %}}
-Mixed-language Cyrillic/English text recognition is experimental. If you are absolutely sure about the text language (for example, Ukrainian), it is recommended to specify the language directly.
+- Mongolian text recognition requires **aspose-ocr-cyrillic-v1** OCR feature to be [installed](https://docs.aspose.com/ocr/net/modules/).
 {{% /alert %}}
 
-{{% alert color="primary" %}}
-- Chinese text recognition requires **aspose-ocr-chinese-v2** OCR feature to be [installed](https://docs.aspose.com/ocr/net/modules/).
-- Indic text recognition requires **aspose-ocr-hindi-v2** OCR feature to be [installed](https://docs.aspose.com/ocr/net/modules/).
-- Mixed-language Cyrillic/English text recognition requires **aaspose-ocr-cyrillic-v2** OCR feature to be [installed](https://docs.aspose.com/ocr/net/modules/).
-- Kannada text recognition requires **aspose-ocr-kannada-v1** OCR feature to be [installed](https://docs.aspose.com/ocr/net/modules/).
-- Tamil text recognition requires **aspose-ocr-tamil-v1** OCR feature to be [installed](https://docs.aspose.com/ocr/net/modules/).
-- Telugu text recognition requires **aspose-ocr-telugu-v1** OCR feature to be [installed](https://docs.aspose.com/ocr/net/modules/).
+#### `Aspose.OCR.AsposeOcr.Recognize()`
+
+{{% alert color="info" %}}
+**Compatibility: fully backward compatible.** See details below.
 {{% /alert %}}
+
+This method now returns an optimized container object, `Aspose.OCR.OcrOutput`. The return type is fully compatible with the previously returned list of `Aspose.OCR.RecognitionResult` objects, so no code updates are necessary at the moment.
+
+#### `Aspose.OCR.AsposeOcr.RecognizeHandwrittenText()`
+
+{{% alert color="info" %}}
+**Compatibility: fully backward compatible.** See details below.
+{{% /alert %}}
+
+This method now returns an optimized container object, `Aspose.OCR.OcrOutput`. The return type is fully compatible with the previously returned list of `Aspose.OCR.RecognitionResult` objects, so no code updates are necessary at the moment.
+
+#### `Aspose.OCR.AsposeOcr.RecognizeReceipt()`
+
+{{% alert color="info" %}}
+**Compatibility: fully backward compatible.** See details below.
+{{% /alert %}}
+
+This method now returns an optimized container object, `Aspose.OCR.OcrOutput`. The return type is fully compatible with the previously returned list of `Aspose.OCR.RecognitionResult` objects, so no code updates are necessary at the moment.
+
+#### `Aspose.OCR.AsposeOcr.RecognizeInvoice()`
+
+{{% alert color="info" %}}
+**Compatibility: fully backward compatible.** See details below.
+{{% /alert %}}
+
+This method now returns an optimized container object, `Aspose.OCR.OcrOutput`. The return type is fully compatible with the previously returned list of `Aspose.OCR.RecognitionResult` objects, so no code updates are necessary at the moment.
+
+#### `Aspose.OCR.AsposeOcr.RecognizeIDCard()`
+
+{{% alert color="info" %}}
+**Compatibility: fully backward compatible.** See details below.
+{{% /alert %}}
+
+This method now returns an optimized container object, `Aspose.OCR.OcrOutput`. The return type is fully compatible with the previously returned list of `Aspose.OCR.RecognitionResult` objects, so no code updates are necessary at the moment.
+
+#### `Aspose.OCR.AsposeOcr.RecognizeCarPlate()`
+
+{{% alert color="info" %}}
+**Compatibility: fully backward compatible.** See details below.
+{{% /alert %}}
+
+This method now returns an optimized container object, `Aspose.OCR.OcrOutput`. The return type is fully compatible with the previously returned list of `Aspose.OCR.RecognitionResult` objects, so no code updates are necessary at the moment.
+
+#### `Aspose.OCR.AsposeOcr.RecognizePassport()`
+
+{{% alert color="info" %}}
+**Compatibility: fully backward compatible.** See details below.
+{{% /alert %}}
+
+This method now returns an optimized container object, `Aspose.OCR.OcrOutput`. The return type is fully compatible with the previously returned list of `Aspose.OCR.RecognitionResult` objects, so no code updates are necessary at the moment.
+
+#### `Aspose.OCR.AsposeOcr.RecognizeLines()`
+
+{{% alert color="info" %}}
+**Compatibility: fully backward compatible.** See details below.
+{{% /alert %}}
+
+This method now returns an optimized container object, `Aspose.OCR.OcrOutput`. The return type is fully compatible with the previously returned list of `Aspose.OCR.RecognitionResult` objects, so no code updates are necessary at the moment.
 
 ### Removed public APIs:
 
@@ -96,17 +157,42 @@ _No changes._
 
 The code samples below illustrate the changes introduced in this release:
 
-### Mixed-language Cyrillic/English OCR
+### Mongolian text recognition
 
 ```csharp
 Aspose.OCR.AsposeOcr recognitionEngine = new Aspose.OCR.AsposeOcr();
 // Add an image to recognition batch
 Aspose.OCR.OcrInput input = new Aspose.OCR.OcrInput(Aspose.OCR.InputType.SingleImage);
 input.Add("source.png");
-// Recognize mixed Cyrillic/English text
+// Recognize Mongolian text
 Aspose.OCR.RecognitionSettings recognitionSettings = new Aspose.OCR.RecognitionSettings();
-recognitionSettings.Language = Aspose.OCR.Language.European;
+recognitionSettings.Language = Aspose.OCR.Language.Mon;
 // Extract text from image
-List<Aspose.OCR.RecognitionResult> results = recognitionEngine.Recognize(input, recognitionSettings);
-Console.WriteLine(result[0].RecognitionText);
+Aspose.OCR.OcrOutput results = recognitionEngine.Recognize(input, recognitionSettings);
+Console.WriteLine(results[0].RecognitionText);
+```
+
+### Unload OCR models from memory
+
+```csharp
+// Download Chinese/English OCR model to "aspose/ocr" directory in the application working directory
+Aspose.OCR.Resources.SetLocalPath("aspose/ocr");
+Aspose.OCR.Resources.FetchResource("aspose-ocr-chinese-v2");
+// Initialize Aspose.OCR for .NET recognition API
+Aspose.OCR.AsposeOcr recognitionEngine = new Aspose.OCR.AsposeOcr();
+// Add images to OcrInput object
+Aspose.OCR.OcrInput input = new Aspose.OCR.OcrInput(Aspose.OCR.InputType.SingleImage);
+input.Add("source1.png");
+input.Add("source2.jpg");
+// Set recognition language (Chinese model is loaded to RAM)
+Aspose.OCR.RecognitionSettings recognitionSettings = new Aspose.OCR.RecognitionSettings();
+recognitionSettings.Language = Aspose.OCR.Language.Chinese;
+// Recognize image
+Aspose.OCR.OcrOutput results = recognitionEngine.Recognize(input, recognitionSettings);
+foreach(Aspose.OCR.RecognitionResult result in results)
+{
+    Console.WriteLine(result.RecognitionText);
+}
+// Unload all OCR models from memory to free up resources
+Aspose.OCR.Resources.ReleaseMemory();
 ```

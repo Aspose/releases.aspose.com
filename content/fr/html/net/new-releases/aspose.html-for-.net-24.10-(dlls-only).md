@@ -6,11 +6,11 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/html/net/new-releases/aspose.html-for-.net-24.10-(dlls-only)/"
 folder_name: "Aspose.HTML pour .NET 24.10 (DLL uniquement)"
-download_link: "/html/net/new-releases/aspose.html-for-.net-24.10-(dlls-only)/8e7cb469e4e727ae67c4ba642c0d8e17-1-11853"
+download_link: "/html/net/new-releases/aspose.html-for-.net-24.10-(dlls-only)/6a36b7b5c78308c43600d01e203cc209-1-11853"
 download_text: "Télécharger"
 intro_text: "Ce fichier ZIP contient uniquement les assemblys Aspose.HTML pour .NET. Les assemblys sont les mêmes que dans l'installateur MSI du produit de la même version. Téléchargez-le si vous souhaitez utiliser Aspose.HTML sans le programme d'installation MSI, c'est-à-dire que vous ne pouvez pas exécuter les programmes d'installation MSI sur Mono. Ce téléchargement ZIP ne contient pas la documentation utilisateur au format d'aide Microsoft incluse dans le programme d'installation MSI."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 31/10/2024 Téléchargers: 1  Views: 1 "
+download_count: " 31/10/2024 Téléchargers: 18  Views: 1 "
 file_size: "File Size: 4.29MB"
 parent_path: "html/net"
 section_parent_path: "html/net"
@@ -24,19 +24,19 @@ weight: 290
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.HTML pour .NET 24.10 (DLL uniquement)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Télécharger" link="/html/net/new-releases/aspose.html-for-.net-24.10-(dlls-only)/8e7cb469e4e727ae67c4ba642c0d8e17-1-11853" >}}
+    {{< Releases/ReleasesSingleButtons text="Télécharger" link="/html/net/new-releases/aspose.html-for-.net-24.10-(dlls-only)/6a36b7b5c78308c43600d01e203cc209-1-11853" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/html" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Téléchargers: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-8e7cb469e4e727ae67c4ba642c0d8e17-1-11853" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-6a36b7b5c78308c43600d01e203cc209-1-11853" >}} 18 {{< /Common/li >}}
       {{< Common/li >}} Taille du fichier: {{< /Common/li >}}
-      {{< Common/li id="size-update-8e7cb469e4e727ae67c4ba642c0d8e17-1-11853" >}} 4.29MB {{< /Common/li >}}
+      {{< Common/li id="size-update-6a36b7b5c78308c43600d01e203cc209-1-11853" >}} 4.29MB {{< /Common/li >}}
 
       {{< Common/li >}} date ajoutée: {{< /Common/li >}}
-      {{< Common/li id="added-update-8e7cb469e4e727ae67c4ba642c0d8e17-1-11853" >}}31/10/2024 {{< /Common/li >}}
+      {{< Common/li id="added-update-6a36b7b5c78308c43600d01e203cc209-1-11853" >}}31/10/2024 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
