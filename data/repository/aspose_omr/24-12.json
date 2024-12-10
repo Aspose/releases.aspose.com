@@ -1,0 +1,15 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-omr",
+  "id" : "24-12",
+  "packageFiles" : [ {
+    "size" : "20 MB",
+    "name" : "aspose-omr-24.12.jar"
+  }, {
+    "size" : "2 KB",
+    "name" : "aspose-omr-24.12.pom"
+  } ],
+  "releasehDate" : "2024-12-06T11:51:56+00:00",
+  "version" : "24.12",
+  "ReleaseNotes" : "https://releases.aspose.com/omr/java/release-notes/2024/aspose-omr-for-java-24-12-release-notes/"
+}
