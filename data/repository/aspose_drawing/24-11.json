@@ -11,10 +11,13 @@
     "name" : "aspose-drawing-24.11-jdk18.jar",
     "classifier" : "jdk18"
   }, {
-    "size" : "38 KB",
+    "size" : "15 MB",
+    "name" : "aspose-drawing-24.11.jar"
+  }, {
+    "size" : "1 KB",
     "name" : "aspose-drawing-24.11.pom"
   } ],
-  "releasehDate" : "2024-11-20T08:51:34+00:00",
+  "releasehDate" : "2024-12-10T14:31:50+00:00",
   "version" : "24.11",
   "ReleaseNotes" : "https://releases.aspose.com/drawing/java/release-notes/2024/aspose-drawing-for-java-24-11-release-notes/"
 }
