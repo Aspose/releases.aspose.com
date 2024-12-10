@@ -111,18 +111,10 @@ To add filter of specific data type, please use specific method of:
 
 ### **Adds methods for PivotField to get and set filter of specific type.**
 
-  Filter by top10:
-    FilterTop10()
-    GetTop10Value()
-  Filter by value:
-    FilterByValue()
-    GetNumberValues()
-  Filter by caption:
-    FilterByLabel()
-    GetLabels()
-  Filter by date caption:
-    FilterByDate()
-    GetDateTimeValues()
+  Filter by top10: FilterTop10()/GetTop10Value()
+  Filter by value: FilterByValue()/GetNumberValues()
+  Filter by caption: FilterByLabel()/GetLabels()
+  Filter by date caption: FilterByDate()/GetDateTimeValues()
 
 ### **Adds SaveOptions.CheckExcelRestriction property.**
 
