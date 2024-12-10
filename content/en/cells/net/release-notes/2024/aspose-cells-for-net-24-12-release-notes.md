@@ -94,6 +94,7 @@ Support to insert/delete rows/columns with user specified options.
 ### **Obsoletes PivotFilterCollection.Add() method, replace it with multiple methods for specific data types.**
 
 To add filter of specific data type, please use specific method of:
+
     AddValueFilter()
     AddTop10Filter()
     AddLabelFilter()
@@ -110,16 +111,16 @@ To add filter of specific data type, please use specific method of:
 
 ### **Adds methods for PivotField to get and set filter of specific type.**
 
-Filter by top10:
+  Filter by top10:
     FilterTop10()
     GetTop10Value()
-Filter by value:
+  Filter by value:
     FilterByValue()
     GetNumberValues()
-Filter by caption:
+  Filter by caption:
     FilterByLabel()
     GetLabels()
-Filter by date caption:
+  Filter by date caption:
     FilterByDate()
     GetDateTimeValues()
 
