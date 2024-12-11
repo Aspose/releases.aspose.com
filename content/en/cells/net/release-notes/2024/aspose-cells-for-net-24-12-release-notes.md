@@ -65,7 +65,7 @@ This page contains release notes for [Aspose.Cells for .NET 24.12](https://www.n
 |CELLSNET-57344|Generated file is corrupted if copying worksheet contains python formulas|Bug
 |CELLSNET-57354|The result file crashes after importing data and resaving file|Bug
 |CELLSGRIDJS-1347|Fix the error of creating new sheet when the name of first sheet is "sheet2"|Bug
-|CELLSGRIDJS-1353|Fix cutPaste issue|Bug
+|CELLSGRIDJS-1353|Fix Cut/Paste issue|Bug
 |CELLSGRIDJS-1359|Text is still centered when cell height is less than height of wrapped text|Bug
 |CELLSGRIDJS-1363|Background color of merged cells is inconsistent with Excel|Bug
 |CELLSGRIDJS-1371|Original values are not overwritten and hidden row at bottom becomes visible when cutting row to a row with data below|Bug
