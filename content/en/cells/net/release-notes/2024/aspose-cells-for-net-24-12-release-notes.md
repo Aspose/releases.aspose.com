@@ -79,42 +79,45 @@ This page contains release notes for [Aspose.Cells for .NET 24.12](https://www.n
 
 The following is a list of any changes made to the public API such as added, renamed, removed or deprecated members as well as any non-backward compatible change made to Aspose.Cells for .NET. If you have concerns about any change listed, please raise it on the Aspose.Cells support forum.
 
-### **Adds AbstractFormulaChangeMonitor class.**
+### **Adds AbstractFormulaChangeMonitor class.**
 
 Support to monitor formula changes during certain operations such as inserting/deleting cells range.
 
-### **Adds FormulaChangeMonitor property for InsertOptions and DeleteOptions.**
+### **Adds FormulaChangeMonitor property for InsertOptions and DeleteOptions.**
 
 Support to monitor cell changes during inserting/deleting cells range.
 
-### **Adds methods Cells.InsertColumns()/DeleteColumns()/DeleteRows() with user specified options.**
+### **Adds methods Cells.InsertColumns()/DeleteColumns()/DeleteRows() with user specified options.**
 
 Support to insert/delete rows/columns with user specified options.
 
 ### **Obsoletes PivotFilterCollection.Add() method, replace it with multiple methods for specific data types.**
 
 To add filter of specific data type, please use specific method of:
+```text
+AddValueFilter()
+AddTop10Filter()
+AddLabelFilter()
+AddDateFilter()
+```
 
-    AddValueFilter()
-    AddTop10Filter()
-    AddLabelFilter()
-    AddDateFilter().
-
-### **Obsoletes some enums of PivotFilterType and replace them with more intuitive and readable names.**
-
-    DateNewerThan -> DateAfter
-    DateOlderThan -> DateBefore
-    DateNewerThanOrEqual -> DateAfterOrEqual
-    DateOlderThanOrEqual -> DateBeforeOrEqual
-    Q* -> Quarter*
-    M* -> corresponding month names: January, February, ...
+### **Obsoletes some enums of PivotFilterType and replace them with more intuitive and readable names.**
+```text
+DateNewerThan -> DateAfter
+DateOlderThan -> DateBefore
+DateNewerThanOrEqual -> DateAfterOrEqual
+DateOlderThanOrEqual -> DateBeforeOrEqual
+Q* -> Quarter*
+M* -> corresponding month names: January, February, ...
+```
 
 ### **Adds methods for PivotField to get and set filter of specific type.**
-
-    Filter by top10: FilterTop10()/GetTop10Value()
-    Filter by value: FilterByValue()/GetNumberValues()
-    Filter by caption: FilterByLabel()/GetLabels()
-    Filter by date caption: FilterByDate()/GetDateTimeValues()
+```text
+Filter by top10: FilterTop10()/GetTop10Value()
+Filter by value: FilterByValue()/GetNumberValues()
+Filter by caption: FilterByLabel()/GetLabels()
+Filter by date caption: FilterByDate()/GetDateTimeValues()
+```
 
 ### **Adds SaveOptions.CheckExcelRestriction property.**
 
@@ -154,7 +157,7 @@ Indicates whether uses whole days in its filtering criteria.
 
 ### **Obsoletes PivotFilter.AutoFilter property.**
 
-Please use specific PivotField.Filter...() or PivotFilterCollection.Add...() method according to the required filter type.
+Please use specific PivotField.Filter...() or PivotFilterCollection.Add...() method according to the required filter type.
 
 ### **Adds PivotFilter.FilterCategory property.**
 
@@ -181,17 +184,18 @@ Represents the category of the pivot filter.
 Represents not begins and ends operator type of the filter.
 
 ### **Adds some new enums for ExceptionType to represent some specific types of CellsException.**
+```text
+AutoFilter
+DefinedName
+Font
+FontSubstitution
+```
 
-    AutoFilter
-    DefinedName
-    Font
-    FontSubstitution
-
-### **Adds GridUpdateMonitor class in GridJs.**
+### **Adds GridUpdateMonitor class in GridJs.**
 
 Monitor for user to track the change of update operation.
 
-### **Adds UpdateMonitor property for GridJsWorkbook in GridJs.**
+### **Adds UpdateMonitor property for GridJsWorkbook in GridJs.**
 
 Gets and sets the update monitor to track update operation.
 
