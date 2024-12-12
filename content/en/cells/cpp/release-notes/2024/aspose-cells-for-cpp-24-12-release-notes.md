@@ -367,9 +367,17 @@ Represents no pivot filter.
 
 Represents the category of the pivot filter.
 
-### **Adds FilterOperatorType::NotBeginsWith and FilterOperatorType::NotEndsWith enum.**
+### **Add two enumeration values ​​to FilterOperatorType.**
 
 Represents not begins and ends operator type of the filter.
+
+{{% alert color="primary" %}}
+
+FilterOperatorType::NotBeginsWith
+
+FilterOperatorType::NotEndsWith
+
+{{% /alert %}}
 
 ### **Adds some new enums for ExceptionType to represent some specific types of CellsException.**
 
