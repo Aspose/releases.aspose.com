@@ -19,6 +19,9 @@ This page contains release notes for Aspose.Cells for C++ 24.12.
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
+|CELLSCPP-1130|Add new methods for Font Color, Cell Color as data sorter key.|Improvement
+|CELLSCPP-1132|Add product meta information to dll|Improvement
+|CELLSCPP-1134|Application built with Aspose.Cells, libcurl and openssl fails with segmentation fault when running on Linux|Bug
 |CELLSNET-56467|Support notification of formula changes when inserting/deleting cell range.|New Feature
 |CELLSNET-57271|Support BYROW and BYCOL lambda functions|New Feature
 |CELLSNET-57287|Support to parse fraction values such as "33 1/3" as numeric when calculating formulas|Enhancement
