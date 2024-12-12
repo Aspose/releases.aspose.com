@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/omr/net/new-releases/icons-aspose.omr-for-.net-24.12-(dlls-only)/"
-folder_name: "Aspose.OMR for .NET 24.12 图标（仅限 DLL）"
+folder_name: "Aspose.OMR for .NET 24.12（仅限 DLL）"
 download_link: "/omr/net/new-releases/icons-aspose.omr-for-.net-24.12-(dlls-only)/7cad4457d4ad225b10470f31a675b28b-42-12101"
 download_text: "下载"
 intro_text: "此 ZIP 文件仅包含 Aspose.OMR for .NET 程序集。这些程序集与同一版本产品的 MSI 安装程序中的程序集相同。如果您想在没有 MSI 安装程序的情况下使用 Aspose.OMR，即无法在 Mono 上运行 MSI 安装程序，请下载此文件"
@@ -22,7 +22,7 @@ weight: 162
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.OMR for .NET 24.12 图标（仅限 DLL）" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.OMR for .NET 24.12（仅限 DLL）" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="下载" link="/omr/net/new-releases/icons-aspose.omr-for-.net-24.12-(dlls-only)/7cad4457d4ad225b10470f31a675b28b-42-12101" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/omr" >}}
