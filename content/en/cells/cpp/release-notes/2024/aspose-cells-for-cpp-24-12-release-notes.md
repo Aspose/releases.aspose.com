@@ -269,7 +269,7 @@ U16String GetGroupName()
 
 Get warning type.
 
-### Adds methods for PivotFilter to get filter settings of specific type.
+### **Adds methods for PivotFilter to get filter settings of specific type.**
 
 Gets top 10 setting of the filter.
 
