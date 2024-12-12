@@ -306,10 +306,18 @@ M* -> corresponding month names: January, February, ...
 
 ### **Adds methods for PivotField to get and set filter of specific type.**
 ```text
-Filter by top10: FilterTop10()/GetTop10Value()
-Filter by value: FilterByValue()/GetNumberValues()
-Filter by caption: FilterByLabel()/GetLabels()
-Filter by date caption: FilterByDate()/GetDateTimeValues()
+Filter by top10: FilterTop10()
+Filter by value: FilterByValue()
+Filter by caption: FilterByLabel()
+Filter by date caption: FilterByDate()
+```
+
+### **Adds methods for PivotFilter to get filter settings of specific type.**
+```text
+Settings of top10 filter: GetTop10Value()
+Settings of value filter: GetNumberValues()
+Settings of label filter: GetLabels()
+Settings of date filter: GetDateTimeValues()
 ```
 
 ### **Adds SaveOptions.CheckExcelRestriction property.**
