@@ -1,7 +1,7 @@
 ---
 id: "aspose-zip-for-net-24-11-release-notes"
 slug: "aspose-zip-for-net-24-11-release-notes"
-linktitle: "Aspose.ZIP for .NET 24.1 Release Notes"
+linktitle: "Aspose.ZIP for .NET 24.11 Release Notes"
 title: "Aspose.ZIP for .NET 24.11 Release Notes"
 weight: 6
 description: "Aspose.ZIP for .NET 24.11 Release Notes – the latest updates and fixes."
