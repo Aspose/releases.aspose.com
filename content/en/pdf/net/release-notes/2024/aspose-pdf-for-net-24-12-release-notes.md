@@ -32,7 +32,7 @@ This page contains release notes information for Aspose.PDF for .NET 24.11.
 |PDFNET-58326|The possibility to set a no-fill background for CheckBox elements in Forms|Enhancement|
 |PDFNET-58673|The ability to obtain raw image data to ensure the image wasn't modified during embedding in the document|Enhancement|
 |PDFNET-47858|Fonts changed after converting PDF/A|Bug|
-|PDFNET-48049|Exception on signing encrypted PDF with PKCS1 certificate|Bug|
+|PDFNET-48049|Exception thrown when signing encrypted PDF with PKCS1 certificate|Bug|
 |PDFNET-58265|Incorrect position of RedactionAnnotation.OverlayText when annotation has QuadPoint set|Bug|
 |PDFNET-56619|TextFragment uses the wrong font family during text replacement operation with Chinese symbols|Bug|
 |PDFNET-43013|Document Object cannot be initialized with password-protected PDF|Bug|
