@@ -64,7 +64,7 @@ This page contains release notes information for Aspose.PDF for .NET 24.11.
 |PDFNET-58325|Low performance of creation interactive elements: CheckBox, RadioButton|Bug|
 |PDFNET-58618|Converting a particular PDF document to PDF/A-1b throws a stack overflow exception|Bug|
 |PDFNET-51708|Document.Optimize() method corrupts PDF file|Bug|
-|PDFNET-57280|Exception “Font doesn't include tables to decode text” when set value with “\r\n” to TextFragment.Text|Bug|
+|PDFNET-57280|Exception thrown “Font doesn't include tables to decode text” when set value with “\r\n” to TextFragment.Text|Bug|
 |PDFNET-58250|Font style issue on wrapped text|Bug|
 |PDFNET-39993|Text replacement adds extra space|Bug|
 |PDFNET-41153|Hyperlinks issue in password-protected PDF|Bug|
