@@ -41,7 +41,7 @@ This page contains release notes information for Aspose.PDF for .NET 24.11.
 |PDFNET-56333|Replace Text in PDF throws a NullReferenceException|Bug|
 |PDFNET-57613|Copying text from one PDF to another is slow|Bug|
 |PDFNET-57614|API Throws an exception while copying text fragments from one document to another|Bug|
-|PDFNET-58082|PdfContentEditor ReplaceText returns an object reference not set to the instance of an object error|Bug|
+|PDFNET-58082|PdfContentEditor ReplaceText returns an object reference not set to the instance of an object|Bug|
 |PDFNET-58501|Adding of pages generates “Object reference not set to an instance of an object”|Bug|
 |PDFNET-58695|Performance issue in pdf to tiff conversion|Bug|
 |PDFNET-58725|TextFragment underline differences between Aspose 24.11 and 24.5 - [REGRESSION]|Bug|
