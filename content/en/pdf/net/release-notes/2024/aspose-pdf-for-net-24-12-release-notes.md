@@ -48,7 +48,7 @@ This page contains release notes information for Aspose.PDF for .NET 24.11.
 |PDFNET-53773|Aspose.PDF 23.2: Font subset uses too much memory|Bug|
 |PDFNET-44193|The HasEditPassword property is not working fine|Bug|
 |PDFNET-55057|NullReferenceException while loading EPUB file in Linux|Bug|
-|PDFNET-56800|IndexOutOfRangeException during document save|Bug|
+|PDFNET-56800|IndexOutOfRangeException during document saving|Bug|
 |PDFNET-57233|RedactionAnnotation text alignment does not work properly|Bug|
 |PDFNET-44521|PDF to PDF/A conversion generates a large file size|Bug|
 |PDFNET-58660|System.InvalidOperationException is thrown during the PDF optimization step|Bug|
