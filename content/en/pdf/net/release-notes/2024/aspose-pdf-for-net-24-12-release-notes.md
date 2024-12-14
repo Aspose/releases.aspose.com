@@ -36,7 +36,7 @@ This page contains release notes information for Aspose.PDF for .NET 24.11.
 |PDFNET-58265|Incorrect position of RedactionAnnotation.OverlayText when annotation has QuadPoint set|Bug|
 |PDFNET-56619|TextFragment uses the wrong font family during text replacement operation with Chinese symbols|Bug|
 |PDFNET-43013|Document Object cannot be initialized with password-protected PDF|Bug|
-|PDFNET-49045|Encrypt PDF document causes an Exception|Bug|
+|PDFNET-49045|Encrypting PDF document causes an Exception|Bug|
 |PDFNET-56221|Error “Font doesn’t include tables to decode text” during text replacement|Bug|
 |PDFNET-56333|Replace Text in PDF throws a NullReferenceException|Bug|
 |PDFNET-57613|Copying text from one PDF to another is slow|Bug|
