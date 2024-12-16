@@ -65,6 +65,7 @@ You can easily use <b>Aspose.Cells for Go via C++ </b> from {{< Common/link href
 ### Running Aspose.Cells for Go via C++ in your project
 
 1. Import `github.com/aspose-cells/aspose-cells-go-cpp/v24` into your project
+
    a. On **Windows**, you will have to locate the DLLs for running the project and append them to your path.
 
    ```
@@ -74,7 +75,7 @@ You can easily use <b>Aspose.Cells for Go via C++ </b> from {{< Common/link href
    b. On **Linux**, you will have to locate the so library for running the project and append them to your path.
 
    ```
-   set PATH=%GOPATH%/github.com/aspose-cells/aspose-cells-go-cpp/v24@v24.12.0/Lib/linux_x86_64
+   set PATH=%GOPATH%/github.com/aspose-cells/aspose-cells-go-cpp/v24@v24.12.0/lib/linux_x86_64
    ```
 
    You may also copy these directly to your project directory.
