@@ -16,7 +16,7 @@ weight: 12
 {{< Common/h3 text="Download Aspose.Cells for Go via C++ from Go Dev"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.Cells for Go via C++ is a powerful and robust library designed for high-performance spreadsheet manipulation and management within Go applications. It offers a comprehensive set of features that enable developers to create, edit, convert, and render Excel files programmatically. Supporting all major Excel formats, including XLS, XLSX, XLSM, and more, it ensures compatibility and flexibility. This makes Aspose.Cells for Go via C++ a versatile tool for a wide range of data processing and management tasks, providing developers with a complete and efficient solution for integrating comprehensive Excel functionality into their Go applications.
-You can easily use <b>aspose.cells.node</b> for Go from {{< Common/link href="<https://www.npmjs.com/package/aspose.cells.node>" text="NPM"  >}} with the following command.
+
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="go" >}}
    {{< consolebox/spantext text=" " >}}
@@ -66,13 +66,13 @@ You can easily use <b>aspose.cells.node</b> for Go from {{< Common/link href="<h
    a. On **Windows**, you will have to locate the DLLs for running the project and append them to your path.
 
    ```
-   $env:PATH = $env:Path + ";$env:GOPATH\pkg\mod\github.com\aspose-cells\aspose-cells-go-cpp@v0.1.0\lib\win_x86_64" 
+   $env:PATH = $env:Path + ";$env:GOPATH\pkg\mod\github.com\aspose-cells\aspose-cells-go-cpp\v24@v24.12.0\lib\win_x86_64" 
    ```
 
    b. On **Linux**, you will have to locate the DLLs for running the project and append them to your path.
 
    ```
-   set PATH=%GOPATH%/pkg/mod/github.com/aspose-cells/aspose-cells-go-cpp/v24@your_version/libs/win/Lib/win_x86_64
+   set PATH=%GOPATH%/pkg/mod/github.com/aspose-cells/aspose-cells-go-cpp/v24@v24.12.0/libs/win/Lib/linux_x86_64
    ```
 
    You may also copy these directly to your project directory.
