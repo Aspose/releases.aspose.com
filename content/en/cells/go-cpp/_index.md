@@ -84,7 +84,7 @@ You can easily use <b>aspose.cells.node</b> for Go from {{< Common/link href="<h
 package main
 
 import (
- . github.com/aspose-cells/aspose-cells-go-cpp
+ . github.com/aspose-cells/aspose-cells-go-cpp/v24
 )
 
 func main() {
