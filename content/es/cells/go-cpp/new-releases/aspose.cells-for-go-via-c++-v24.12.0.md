@@ -6,12 +6,12 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/cells/go-cpp/new-releases/aspose.cells-for-go-via-c++-v24.12.0/"
 folder_name: "Aspose.Cells para Go vía C++ v24.12.0"
-download_link: "/cells/go-cpp/new-releases/aspose.cells-for-go-via-c++-v24.12.0/a77704ee3a82850e50eb91e7ea117e51-13-12117"
+download_link: "/cells/go-cpp/new-releases/aspose.cells-for-go-via-c++-v24.12.0/f654077269cccc5690e5397649a8c3e8-13-12117"
 download_text: "Descargar"
 intro_text: "Aspose.Cells para Go vía C++ v24.12.0"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 16/12/2024 Descargars: 1  Views: 1 "
-file_size: "File Size: 63.12MB"
+download_count: " 16/12/2024 Descargars: 4  Views: 1 "
+file_size: "File Size: 62.87MB"
 parent_path: "cells/go-cpp"
 section_parent_path: "cells/go-cpp"
 
@@ -24,19 +24,19 @@ weight: 1
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Cells para Go vía C++ v24.12.0" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Descargar" link="/cells/go-cpp/new-releases/aspose.cells-for-go-via-c++-v24.12.0/a77704ee3a82850e50eb91e7ea117e51-13-12117" >}}
+    {{< Releases/ReleasesSingleButtons text="Descargar" link="/cells/go-cpp/new-releases/aspose.cells-for-go-via-c++-v24.12.0/f654077269cccc5690e5397649a8c3e8-13-12117" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/cells" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="detalles del archivo">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Descargars: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-a77704ee3a82850e50eb91e7ea117e51-13-12117" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-f654077269cccc5690e5397649a8c3e8-13-12117" >}} 4 {{< /Common/li >}}
       {{< Common/li >}} Tamaño del archivo: {{< /Common/li >}}
-      {{< Common/li id="size-update-a77704ee3a82850e50eb91e7ea117e51-13-12117" >}} 63.12MB {{< /Common/li >}}
+      {{< Common/li id="size-update-f654077269cccc5690e5397649a8c3e8-13-12117" >}} 62.87MB {{< /Common/li >}}
 
       {{< Common/li >}} Fecha Agregada: {{< /Common/li >}}
-      {{< Common/li id="added-update-a77704ee3a82850e50eb91e7ea117e51-13-12117" >}}16/12/2024 {{< /Common/li >}}
+      {{< Common/li id="added-update-f654077269cccc5690e5397649a8c3e8-13-12117" >}}16/12/2024 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
