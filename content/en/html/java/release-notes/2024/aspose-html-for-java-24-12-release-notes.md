@@ -38,6 +38,11 @@ Also, we improve conversion from MHTML source.
 
 Added new methods in class `com.aspose.html.converters.Converter`
 
+<pre style="background-color: #282c34; color: #ffffff;"><code>public class HelloWorld {
+    public static void main(String[] args) {        System.out.println("Hello, World!");    }}</code></pre>
+
+<code>public class HelloWorld { public static void main(String[] args) { System.out.println("Hello, World!"); } }</code>
+
 <pre>
 --------------------------------------------------------------------------------------------------------------------------------------------------
 <code class="language-java">
