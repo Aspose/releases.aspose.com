@@ -37,6 +37,7 @@ Also, we improve conversion from MHTML source.
 ### Added APIs
 
 Added new methods in class `com.aspose.html.converters.Converter`
+{{< highlight java >}}
 <pre>
 class com.aspose.html.converters.Converter
    void convertEPUB ( InputStream inputStream, Configuration configuration, DocSaveOptions options,   java.io.OutputStream outputStream) <>
@@ -168,7 +169,8 @@ class com.aspose.html.converters.Converter
    void convertSVG ( Url url, ImageSaveOptions options, java.io.OutputStream outputStream)
    void convertSVG ( Url url, PdfSaveOptions options,   java.io.OutputStream outputStream)
    void convertSVG ( Url url, XpsSaveOptions options,   java.io.OutputStream outputStream)
-<pre>
+</pre>
+{{</ highlight java >}}
 
 Added new classes
 {{< highlight java >}}
