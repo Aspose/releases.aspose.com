@@ -170,7 +170,7 @@ class com.aspose.html.converters.Converter
    void convertSVG ( Url url, PdfSaveOptions options,   java.io.OutputStream outputStream)
    void convertSVG ( Url url, XpsSaveOptions options,   java.io.OutputStream outputStream)
 </pre>
-{{</ highlight java >}}
+{{< /highlight >}}
 
 Added new classes
 {{< highlight java >}}
