@@ -249,17 +249,34 @@ com.aspose.html.io.OutputStream now implements ava.io.Closeable interface
 </pre>
 
 Renamed classes, methods and parameters
-<pre>
-interface com.aspose.html.io.IOutputStorage                    rename to  interface com.aspose.html.io.IOutputStorage                           
-   OutputStream createStream(OutputStreamContext context)      rename to      OutputStream createOutputStream(OutputStreamContext context) 
-           void releaseStream(OutputStream outputStream)       rename to              void releaseOutputStream(OutputStream outputStream)   
-</pre>
-<pre>
-interface com.aspose.html.io.ICreateStreamProvider            rename to  interface com.aspose.html.io.ICreateOutputStreamProvider
-   Stream getStream(String name, String extension)            rename to     OutputStream getOutputStream(String name, String extension)
-   Stream getStream(String name, String extension, int page)  rename to     OutputStream getOutputStream(String name, String extension, int page)
-     void releaseStream(Stream stream)                        rename to             void releaseOutputStream(OutputStream outputStream)
-</pre>
+```java 
+interface com.aspose.html.io.IOutputStorage                    
+    OutputStream createStream(OutputStreamContext context)      
+    rename to      
+   OutputStream createOutputStream(OutputStreamContext context)
+       
+   void releaseStream(OutputStream outputStream)       
+    rename to              
+   void releaseOutputStream(OutputStream outputStream)   
+```
+```java
+interface com.aspose.html.io.ICreateStreamProvider            
+  rename to  
+interface com.aspose.html.io.ICreateOutputStreamProvider
+
+   Stream getStream(String name, String extension)            
+     rename to     
+   OutputStream getOutputStream(String name, String extension)
+
+   Stream getStream(String name, String extension, int page)  
+     rename to     
+   OutputStream getOutputStream(String name, String extension, int page)
+
+   void releaseStream(Stream stream)                        
+    rename to             
+   void releaseOutputStream(OutputStream outputStream)
+```
+
 <pre>
 class com.aspose.html.io.FileCreateStreamProvider             rename to  class com.aspose.html.io.FileCreateOutputStreamProvider
    Stream getStream(String name, String extension)            rename to     OutputStream getOutputStream(String name, String extension)
