@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-diagram",
+  "id" : "24-12",
+  "packageFiles" : [ {
+    "size" : "1 MB",
+    "name" : "aspose-diagram-24.12-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "3 MB",
+    "name" : "aspose-diagram-24.12.jar"
+  }, {
+    "size" : "798 bytes",
+    "name" : "aspose-diagram-24.12.pom"
+  } ],
+  "releasehDate" : "2024-12-11T09:18:31+00:00",
+  "version" : "24.12",
+  "ReleaseNotes" : "https://releases.aspose.com/diagram/java/release-notes/2024/aspose-diagram-for-java-24-12-release-notes/"
+}
