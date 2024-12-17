@@ -252,134 +252,134 @@ Renamed classes, methods and parameters
 ```java 
 interface com.aspose.html.io.IOutputStorage                    
     OutputStream createStream(OutputStreamContext context)      
-     rename to      
+     renamed to      
    OutputStream createOutputStream(OutputStreamContext context)
        
    void releaseStream(OutputStream outputStream)       
-     rename to              
+     renamed to              
    void releaseOutputStream(OutputStream outputStream)   
 ```
 ```java
 interface com.aspose.html.io.ICreateStreamProvider            
-  rename to  
+  renamed to  
 interface com.aspose.html.io.ICreateOutputStreamProvider
 
    Stream getStream(String name, String extension)            
-     rename to     
+     renamed to     
    OutputStream getOutputStream(String name, String extension)
 
    Stream getStream(String name, String extension, int page)  
-     rename to     
+     renamed to     
    OutputStream getOutputStream(String name, String extension, int page)
 
    void releaseStream(Stream stream)                        
-     rename to             
+     renamed to             
    void releaseOutputStream(OutputStream outputStream)
 ```
 
 ```java
 class com.aspose.html.io.FileCreateStreamProvider           
-     rename to
+     renamed to
 class com.aspose.html.io.FileCreateOutputStreamProvider
    Stream getStream(String name, String extension)          
-     rename to
+     renamed to
    OutputStream getOutputStream(String name, String extension)
        
    Stream getStream(String name, String extension, int page)
-     rename to
+     renamed to
    OutputStream getOutputStream(String name, String extension, int page)
        
    void releaseStream(Stream stream)                      
-     rename to
+     renamed to
    void releaseOutputStream(OutputStream outputStream)
 ```
 
 ```java
 class com.aspose.html.rendering.Device                      
-     rename to
+     renamed to
 class com.aspose.html.rendering.Device
    Stream getOutputStream()                                 
-     rename to
+     renamed to
    OutputStream getOutputStream() 
        
    ICreateStreamProvider getStreamProvider()                
-     rename to
+     renamed to
    ICreateOutputStreamProvider getOutputStreamProvider()
 ```
 
 ```java
 class com.aspose.html.rendering.doc.DocDevice
    DocDevice(DocRenderingOptions, ICreateStreamProvider) 
-     rename to
+     renamed to
    DocDevice(DocRenderingOptions, ICreateOutputStreamProvider)
        
    DocDevice(DocRenderingOptions, Stream)                
-     rename to
+     renamed to
    DocDevice(DocRenderingOptions, OutputStream)
        
    DocDevice(ICreateStreamProvider)                      
-     rename to
+     renamed to
    DocDevice(ICreateOutputStreamProvider)
        
    DocDevice(Stream)                                     
-     rename to
+     renamed to
    DocDevice(OutputStream)
 ```
 
 ```java
 class com.aspose.html.rendering.image.ImageDevice
    ImageDevice(ImageRenderingOptions, ICreateStreamProvider) 
-     rename to  
+     renamed to  
    ImageDevice(ImageRenderingOptions, ICreateOutputStreamProvider)
        
    ImageDevice(ImageRenderingOptions, Stream)              
-     rename to
+     renamed to
    ImageDevice(ImageRenderingOptions, OutputStream)
        
    ImageDevice(ICreateStreamProvider)                      
-     rename to
+     renamed to
    ImageDevice(ICreateOutputStreamProvider)
        
    ImageDevice(Stream)                                     
-     rename to
+     renamed to
    ImageDevice(OutputStream)
 ```
 
 ```java
 class com.aspose.html.rendering.pdf.PdfDevice
    PdfDevice(PdfRenderingOptions, ICreateStreamProvider)
-     rename to
+     renamed to
    PdfDevice(PdfRenderingOptions, ICreateOutputStreamProvider)
        
    PdfDevice(PdfRenderingOptions, Stream)               
-     rename to
+     renamed to
    PdfDevice(PdfRenderingOptions, OutputStream)
        
    PdfDevice(ICreateStreamProvider)                     
-     rename to
+     renamed to
    PdfDevice(ICreateOutputStreamProvider)
        
    PdfDevice(Stream)                                    
-     rename to
+     renamed to
    PdfDevice(OutputStream)                                                            
 ```
 
 ```java
 class com.aspose.html.rendering.xps.XpsDevice                                                                      
    XpsDevice(XpsRenderingOptions, ICreateStreamProvider)
-     rename to
+     renamed to
    XpsDevice(XpsRenderingOptions, ICreateOutputStreamProvider) 
       
    XpsDevice(XpsRenderingOptions, Stream)               
-     rename to
+     renamed to
    XpsDevice(XpsRenderingOptions, OutputStream)
       
    XpsDevice(ICreateStreamProvider)                     
-     rename to
+     renamed to
    XpsDevice(ICreateOutputStreamProvider)
       
    XpsDevice(Stream)                                    
-     rename to
+     renamed to
    XpsDevice(OutputStream)                                                            
 ```
 
