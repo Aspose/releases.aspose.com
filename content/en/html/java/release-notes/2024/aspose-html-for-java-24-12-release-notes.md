@@ -172,7 +172,7 @@ class com.aspose.html.converters.Converter
 </pre>
 
 Added new classes
-{{< highlight java >}}
+<pre>
 public class com.aspose.html.io.SeekOrigin {
     public static final int Begin = 0;
     public static final int Current = 1;
@@ -241,66 +241,66 @@ public final class com.aspose.html.net.HttpStatusCode {
     public static final int GatewayTimeout = 504;
     public static final int HttpVersionNotSupported = 505;
 }
-{{< /highlight >}}
+</pre>
 ### Changed APIs
 
-{{< highlight java >}}
+<pre>
 com.aspose.html.io.OutputStream now implements ava.io.Closeable interface
-{{< /highlight >}}
+</pre>
 
 Renamed classes, methods and parameters
-{{< highlight java >}}
+<pre>
 interface com.aspose.html.io.IOutputStorage                    rename to  interface com.aspose.html.io.IOutputStorage                           
    OutputStream createStream(OutputStreamContext context)      rename to      OutputStream createOutputStream(OutputStreamContext context) 
            void releaseStream(OutputStream outputStream)       rename to              void releaseOutputStream(OutputStream outputStream)   
-{{< /highlight >}}
-{{< highlight java >}}
+</pre>
+<pre>
 interface com.aspose.html.io.ICreateStreamProvider            rename to  interface com.aspose.html.io.ICreateOutputStreamProvider
    Stream getStream(String name, String extension)            rename to     OutputStream getOutputStream(String name, String extension)
    Stream getStream(String name, String extension, int page)  rename to     OutputStream getOutputStream(String name, String extension, int page)
      void releaseStream(Stream stream)                        rename to             void releaseOutputStream(OutputStream outputStream)
-{{< /highlight >}}
-{{< highlight java >}}
+</pre>
+<pre>
 class com.aspose.html.io.FileCreateStreamProvider             rename to  class com.aspose.html.io.FileCreateOutputStreamProvider
    Stream getStream(String name, String extension)            rename to     OutputStream getOutputStream(String name, String extension)
    Stream getStream(String name, String extension, int page)  rename to     OutputStream getOutputStream(String name, String extension, int page)
      void releaseStream(Stream stream)                        rename to             void releaseOutputStream(OutputStream outputStream)
-{{< /highlight >}}
-{{< highlight java >}}
+</pre>
+<pre>
 class com.aspose.html.rendering.Device                        rename to  class com.aspose.html.rendering.Device
    Stream getOutputStream()                                   rename to     OutputStream getOutputStream() 
    ICreateStreamProvider getStreamProvider()                  rename to     ICreateOutputStreamProvider getOutputStreamProvider()
-{{< /highlight >}}
-{{< highlight java >}}
+</pre>
+<pre>
 class com.aspose.html.rendering.doc.DocDevice
    DocDevice(DocRenderingOptions, ICreateStreamProvider)   rename to  DocDevice(DocRenderingOptions, ICreateOutputStreamProvider)
    DocDevice(DocRenderingOptions, Stream)                  rename to  DocDevice(DocRenderingOptions, OutputStream)
    DocDevice(ICreateStreamProvider)                        rename to  DocDevice(ICreateOutputStreamProvider)
    DocDevice(Stream)                                       rename to  DocDevice(OutputStream)
-{{< /highlight >}}
-{{< highlight java >}}
+</pre>
+<pre>
 class com.aspose.html.rendering.image.ImageDevice
    ImageDevice(ImageRenderingOptions, ICreateStreamProvider) rename to  ImageDevice(ImageRenderingOptions, ICreateOutputStreamProvider)
    ImageDevice(ImageRenderingOptions, Stream)                rename to  ImageDevice(ImageRenderingOptions, OutputStream)
    ImageDevice(ICreateStreamProvider)                        rename to  ImageDevice(ICreateOutputStreamProvider)
    ImageDevice(Stream)                                       rename to  ImageDevice(OutputStream)
-{{< /highlight >}}
-{{< highlight java >}}
+</pre>
+<pre>
 class com.aspose.html.rendering.pdf.PdfDevice
    PdfDevice(PdfRenderingOptions, ICreateStreamProvider)  rename to  PdfDevice(PdfRenderingOptions, ICreateOutputStreamProvider) 
    PdfDevice(PdfRenderingOptions, Stream)                 rename to  PdfDevice(PdfRenderingOptions, OutputStream)
    PdfDevice(ICreateStreamProvider)                       rename to  PdfDevice(ICreateOutputStreamProvider)
    PdfDevice(Stream)                                      rename to  PdfDevice(OutputStream)                                                            
-{{< /highlight >}}
-{{< highlight java >}}
+</pre>
+<pre>
 class com.aspose.html.rendering.xps.XpsDevice                                                                      
    XpsDevice(XpsRenderingOptions, ICreateStreamProvider)  rename to  XpsDevice(XpsRenderingOptions, ICreateOutputStreamProvider) 
    XpsDevice(XpsRenderingOptions, Stream)                 rename to  XpsDevice(XpsRenderingOptions, OutputStream)
    XpsDevice(ICreateStreamProvider)                       rename to  XpsDevice(ICreateOutputStreamProvider)
    XpsDevice(Stream)                                      rename to  XpsDevice(OutputStream)                                                            
-{{< /highlight >}}
+</pre>
 Rename class of provider to ICreateOutputStreamProvider
-{{< highlight java >}}
+<pre>
 class com.aspose.html.converters.Converter
    void convertEPUB(InputStream inputStream, Configuration configuration, DocSaveOptions options, ICreateOutputStreamProvider iCreateOutputStreamProvider)
    void convertEPUB(InputStream inputStream, Configuration configuration, ImageSaveOptions options, ICreateOutputStreamProvider iCreateOutputStreamProvider)
@@ -431,4 +431,4 @@ class com.aspose.html.converters.Converter
    void convertSVG(Url url, ImageSaveOptions options, ICreateOutputStreamProvider iCreateOutputStreamProvider)
    void convertSVG(Url url, PdfSaveOptions options, ICreateOutputStreamProvider iCreateOutputStreamProvider)
    void convertSVG(Url url, XpsSaveOptions options, ICreateOutputStreamProvider iCreateOutputStreamProvider)
-{{< /highlight >}}
+</pre>
