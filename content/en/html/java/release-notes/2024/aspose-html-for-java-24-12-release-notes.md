@@ -38,7 +38,9 @@ Also, we improve conversion from MHTML source.
 
 Added new methods in class `com.aspose.html.converters.Converter`
 
-<pre><code class="language-java">
+<pre>
+--------------------------------------------------------------------------------------------------------------------------------------------------
+<code class="language-java">
 class com.aspose.html.converters.Converter
    void convertEPUB ( InputStream inputStream, Configuration configuration, DocSaveOptions options,   java.io.OutputStream outputStream)
    void convertEPUB ( InputStream inputStream, Configuration configuration, ImageSaveOptions options, java.io.OutputStream outputStream)
