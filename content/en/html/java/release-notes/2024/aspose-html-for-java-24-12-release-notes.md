@@ -172,7 +172,7 @@ class com.aspose.html.converters.Converter
 </pre>
 
 Added new classes
-<pre>
+```java
 public class com.aspose.html.io.SeekOrigin {
     public static final int Begin = 0;
     public static final int Current = 1;
@@ -241,7 +241,7 @@ public final class com.aspose.html.net.HttpStatusCode {
     public static final int GatewayTimeout = 504;
     public static final int HttpVersionNotSupported = 505;
 }
-</pre>
+```
 ### Changed APIs
 
 <pre>
@@ -252,11 +252,11 @@ Renamed classes, methods and parameters
 ```java 
 interface com.aspose.html.io.IOutputStorage                    
     OutputStream createStream(OutputStreamContext context)      
-    rename to      
+     rename to      
    OutputStream createOutputStream(OutputStreamContext context)
        
    void releaseStream(OutputStream outputStream)       
-    rename to              
+     rename to              
    void releaseOutputStream(OutputStream outputStream)   
 ```
 ```java
@@ -273,51 +273,120 @@ interface com.aspose.html.io.ICreateOutputStreamProvider
    OutputStream getOutputStream(String name, String extension, int page)
 
    void releaseStream(Stream stream)                        
-    rename to             
+     rename to             
    void releaseOutputStream(OutputStream outputStream)
 ```
 
-<pre>
-class com.aspose.html.io.FileCreateStreamProvider             rename to  class com.aspose.html.io.FileCreateOutputStreamProvider
-   Stream getStream(String name, String extension)            rename to     OutputStream getOutputStream(String name, String extension)
-   Stream getStream(String name, String extension, int page)  rename to     OutputStream getOutputStream(String name, String extension, int page)
-     void releaseStream(Stream stream)                        rename to             void releaseOutputStream(OutputStream outputStream)
-</pre>
-<pre>
-class com.aspose.html.rendering.Device                        rename to  class com.aspose.html.rendering.Device
-   Stream getOutputStream()                                   rename to     OutputStream getOutputStream() 
-   ICreateStreamProvider getStreamProvider()                  rename to     ICreateOutputStreamProvider getOutputStreamProvider()
-</pre>
-<pre>
+```java
+class com.aspose.html.io.FileCreateStreamProvider           
+     rename to
+class com.aspose.html.io.FileCreateOutputStreamProvider
+   Stream getStream(String name, String extension)          
+     rename to
+   OutputStream getOutputStream(String name, String extension)
+       
+   Stream getStream(String name, String extension, int page)
+     rename to
+   OutputStream getOutputStream(String name, String extension, int page)
+       
+   void releaseStream(Stream stream)                      
+     rename to
+   void releaseOutputStream(OutputStream outputStream)
+```
+
+```java
+class com.aspose.html.rendering.Device                      
+     rename to
+class com.aspose.html.rendering.Device
+   Stream getOutputStream()                                 
+     rename to
+   OutputStream getOutputStream() 
+       
+   ICreateStreamProvider getStreamProvider()                
+     rename to
+   ICreateOutputStreamProvider getOutputStreamProvider()
+```
+
+```java
 class com.aspose.html.rendering.doc.DocDevice
-   DocDevice(DocRenderingOptions, ICreateStreamProvider)   rename to  DocDevice(DocRenderingOptions, ICreateOutputStreamProvider)
-   DocDevice(DocRenderingOptions, Stream)                  rename to  DocDevice(DocRenderingOptions, OutputStream)
-   DocDevice(ICreateStreamProvider)                        rename to  DocDevice(ICreateOutputStreamProvider)
-   DocDevice(Stream)                                       rename to  DocDevice(OutputStream)
-</pre>
-<pre>
+   DocDevice(DocRenderingOptions, ICreateStreamProvider) 
+     rename to
+   DocDevice(DocRenderingOptions, ICreateOutputStreamProvider)
+       
+   DocDevice(DocRenderingOptions, Stream)                
+     rename to
+   DocDevice(DocRenderingOptions, OutputStream)
+       
+   DocDevice(ICreateStreamProvider)                      
+     rename to
+   DocDevice(ICreateOutputStreamProvider)
+       
+   DocDevice(Stream)                                     
+     rename to
+   DocDevice(OutputStream)
+```
+
+```java
 class com.aspose.html.rendering.image.ImageDevice
-   ImageDevice(ImageRenderingOptions, ICreateStreamProvider) rename to  ImageDevice(ImageRenderingOptions, ICreateOutputStreamProvider)
-   ImageDevice(ImageRenderingOptions, Stream)                rename to  ImageDevice(ImageRenderingOptions, OutputStream)
-   ImageDevice(ICreateStreamProvider)                        rename to  ImageDevice(ICreateOutputStreamProvider)
-   ImageDevice(Stream)                                       rename to  ImageDevice(OutputStream)
-</pre>
-<pre>
+   ImageDevice(ImageRenderingOptions, ICreateStreamProvider) 
+     rename to  
+   ImageDevice(ImageRenderingOptions, ICreateOutputStreamProvider)
+       
+   ImageDevice(ImageRenderingOptions, Stream)              
+     rename to
+   ImageDevice(ImageRenderingOptions, OutputStream)
+       
+   ImageDevice(ICreateStreamProvider)                      
+     rename to
+   ImageDevice(ICreateOutputStreamProvider)
+       
+   ImageDevice(Stream)                                     
+     rename to
+   ImageDevice(OutputStream)
+```
+
+```java
 class com.aspose.html.rendering.pdf.PdfDevice
-   PdfDevice(PdfRenderingOptions, ICreateStreamProvider)  rename to  PdfDevice(PdfRenderingOptions, ICreateOutputStreamProvider) 
-   PdfDevice(PdfRenderingOptions, Stream)                 rename to  PdfDevice(PdfRenderingOptions, OutputStream)
-   PdfDevice(ICreateStreamProvider)                       rename to  PdfDevice(ICreateOutputStreamProvider)
-   PdfDevice(Stream)                                      rename to  PdfDevice(OutputStream)                                                            
-</pre>
-<pre>
+   PdfDevice(PdfRenderingOptions, ICreateStreamProvider)
+     rename to
+   PdfDevice(PdfRenderingOptions, ICreateOutputStreamProvider)
+       
+   PdfDevice(PdfRenderingOptions, Stream)               
+     rename to
+   PdfDevice(PdfRenderingOptions, OutputStream)
+       
+   PdfDevice(ICreateStreamProvider)                     
+     rename to
+   PdfDevice(ICreateOutputStreamProvider)
+       
+   PdfDevice(Stream)                                    
+     rename to
+   PdfDevice(OutputStream)                                                            
+```
+
+```java
 class com.aspose.html.rendering.xps.XpsDevice                                                                      
-   XpsDevice(XpsRenderingOptions, ICreateStreamProvider)  rename to  XpsDevice(XpsRenderingOptions, ICreateOutputStreamProvider) 
-   XpsDevice(XpsRenderingOptions, Stream)                 rename to  XpsDevice(XpsRenderingOptions, OutputStream)
-   XpsDevice(ICreateStreamProvider)                       rename to  XpsDevice(ICreateOutputStreamProvider)
-   XpsDevice(Stream)                                      rename to  XpsDevice(OutputStream)                                                            
-</pre>
-Rename class of provider to ICreateOutputStreamProvider
+   XpsDevice(XpsRenderingOptions, ICreateStreamProvider)
+     rename to
+   XpsDevice(XpsRenderingOptions, ICreateOutputStreamProvider) 
+      
+   XpsDevice(XpsRenderingOptions, Stream)               
+     rename to
+   XpsDevice(XpsRenderingOptions, OutputStream)
+      
+   XpsDevice(ICreateStreamProvider)                     
+     rename to
+   XpsDevice(ICreateOutputStreamProvider)
+      
+   XpsDevice(Stream)                                    
+     rename to
+   XpsDevice(OutputStream)                                                            
+```
+
+
 <pre>
+Rename class of provider to ICreateOutputStreamProvider
+
 class com.aspose.html.converters.Converter
    void convertEPUB(InputStream inputStream, Configuration configuration, DocSaveOptions options, ICreateOutputStreamProvider iCreateOutputStreamProvider)
    void convertEPUB(InputStream inputStream, Configuration configuration, ImageSaveOptions options, ICreateOutputStreamProvider iCreateOutputStreamProvider)
