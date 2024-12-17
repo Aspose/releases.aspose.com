@@ -37,18 +37,9 @@ Also, we improve conversion from MHTML source.
 ### Added APIs
 
 Added new methods in class `com.aspose.html.converters.Converter`
-
-<pre style="background-color: #282c34; color: #ffffff;"><code>public class HelloWorld {
-    public static void main(String[] args) {        System.out.println("Hello, World!");    }}</code></pre>
-
-<code>public class HelloWorld { public static void main(String[] args) { System.out.println("Hello, World!"); } }</code>
-
 <pre>
---------------------------------------------------------------------------------------------------------------------------------------------------
-<code class="language-java">
---------------------------------------------------------------------------------------------------------------------------------------------------
 class com.aspose.html.converters.Converter
-   void convertEPUB ( InputStream inputStream, Configuration configuration, DocSaveOptions options,   java.io.OutputStream outputStream)
+   void convertEPUB ( InputStream inputStream, Configuration configuration, DocSaveOptions options,   java.io.OutputStream outputStream) <>
    void convertEPUB ( InputStream inputStream, Configuration configuration, ImageSaveOptions options, java.io.OutputStream outputStream)
    void convertEPUB ( InputStream inputStream, Configuration configuration, PdfSaveOptions options,   java.io.OutputStream outputStream)
    void convertEPUB ( InputStream inputStream, Configuration configuration, XpsSaveOptions options,   java.io.OutputStream outputStream)       
@@ -177,7 +168,7 @@ class com.aspose.html.converters.Converter
    void convertSVG ( Url url, ImageSaveOptions options, java.io.OutputStream outputStream)
    void convertSVG ( Url url, PdfSaveOptions options,   java.io.OutputStream outputStream)
    void convertSVG ( Url url, XpsSaveOptions options,   java.io.OutputStream outputStream)
-</code></pre>
+<pre>
 
 Added new classes
 {{< highlight java >}}
