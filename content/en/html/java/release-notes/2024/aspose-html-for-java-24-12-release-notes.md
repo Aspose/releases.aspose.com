@@ -38,7 +38,7 @@ Also, we improve conversion from MHTML source.
 
 Added new methods in class `com.aspose.html.converters.Converter`
 
-<pre>
+```java
 class com.aspose.html.converters.Converter
    void convertEPUB ( InputStream inputStream, Configuration configuration, DocSaveOptions options,   java.io.OutputStream outputStream) <>
    void convertEPUB ( InputStream inputStream, Configuration configuration, ImageSaveOptions options, java.io.OutputStream outputStream)
@@ -169,7 +169,7 @@ class com.aspose.html.converters.Converter
    void convertSVG ( Url url, ImageSaveOptions options, java.io.OutputStream outputStream)
    void convertSVG ( Url url, PdfSaveOptions options,   java.io.OutputStream outputStream)
    void convertSVG ( Url url, XpsSaveOptions options,   java.io.OutputStream outputStream)
-</pre>
+```
 
 Added new classes
 ```java
@@ -244,9 +244,9 @@ public final class com.aspose.html.net.HttpStatusCode {
 ```
 ### Changed APIs
 
-<pre>
+```java
 com.aspose.html.io.OutputStream now implements ava.io.Closeable interface
-</pre>
+```
 
 Renamed classes, methods and parameters
 ```java 
@@ -383,10 +383,9 @@ class com.aspose.html.rendering.xps.XpsDevice
    XpsDevice(OutputStream)                                                            
 ```
 
-
-<pre>
 Rename class of provider to ICreateOutputStreamProvider
 
+```java
 class com.aspose.html.converters.Converter
    void convertEPUB(InputStream inputStream, Configuration configuration, DocSaveOptions options, ICreateOutputStreamProvider iCreateOutputStreamProvider)
    void convertEPUB(InputStream inputStream, Configuration configuration, ImageSaveOptions options, ICreateOutputStreamProvider iCreateOutputStreamProvider)
@@ -517,4 +516,4 @@ class com.aspose.html.converters.Converter
    void convertSVG(Url url, ImageSaveOptions options, ICreateOutputStreamProvider iCreateOutputStreamProvider)
    void convertSVG(Url url, PdfSaveOptions options, ICreateOutputStreamProvider iCreateOutputStreamProvider)
    void convertSVG(Url url, XpsSaveOptions options, ICreateOutputStreamProvider iCreateOutputStreamProvider)
-</pre>
+```
