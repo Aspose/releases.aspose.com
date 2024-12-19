@@ -19,12 +19,11 @@ This page contains release notes for Aspose.HTML for Java 24.12
 
 {{% /alert %}}
 
-As per the regular monthly being offered by Aspose,
+As per the regular monthly update process of all APIs being offered by Aspose, 
 we are honored to announce the December release of Aspose.HTML for Java.
 
 In this release, we have improved API for users’ convenience.
 We added `java.io.OutputStream` parameters to the conversion methods.
-Also renamed same class for
 Also, we improve conversion from MHTML source.
 
 ## **Improvements and Changes**
