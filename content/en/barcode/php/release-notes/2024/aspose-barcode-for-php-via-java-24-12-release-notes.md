@@ -22,10 +22,12 @@ for [Aspose.BarCode for PHP via Java 24.12](https://releases.aspose.com/barcode/
 
 ## **All Changes**
 
-| **Key**         | **Summary**                                                | **Category**      |
-|:----------------|:-----------------------------------------------------------|:------------------|
-|BARCODENET-39128|Method MaxiCodeStructuredCodetext.GetConstructedCodetext() throws NullPointerException|Bug|
-|BARCODENET-38689|Add support of new QualitySettings structure to 1D barcode engine|Enhancement|
+| **Key**          | **Summary**                                                | **Category** |
+|:-----------------|:-----------------------------------------------------------|:-------------|
+| BARCODENET-39128 |Method MaxiCodeStructuredCodetext.GetConstructedCodetext() throws NullPointerException| Bug          |
+| BARCODENET-38689 |Add support of new QualitySettings structure to 1D barcode engine| Enhancement  |
+| BARCODEPHP-801   |Correct public API of BaseGenerationParameters class| Bug          |
+
 
 ## Public API changes and backwards compatibility
 No changes to the public API
