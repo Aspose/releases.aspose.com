@@ -13,12 +13,12 @@ family_listing_page_title: "Aspose.SVG for Python via .NET 24.12 Release Notes"
 menuItemWithNoContent: false
 ---
 {{% alert color="primary" %}}
-This page contains release notes information for [Aspose.SVG for Python via .NET 24.12.0](https://pypi.org/project/aspose-svg-net/24.12.0/).
+This page contains release notes information for [Aspose.SVG for Python via .NET 24.12.1](https://pypi.org/project/aspose-svg-net/24.12.1/).
 {{% /alert %}}
 
 ## Major Features
 
-We are pleased to announce the December release of **Aspose.SVG for Python via .NET 24.12.0**. This version brings notable improvements in memory efficiency during SVG rendering and conversion, with a reduction of approximately 15-20% in memory consumption when processing large SVG documents. Additionally, we've upgraded **Aspose.SVG.Drawing.SkiaSharp** to SkiaSharp 3.116.1 for enhanced rendering performance. Moreover, this release now supports Python 3.12 and 3.13, ensuring compatibility with the latest Python environments.
+We are pleased to announce the December release of **Aspose.SVG for Python via .NET 24.12.1**. This version brings notable improvements in memory efficiency during SVG rendering and conversion, with a reduction of approximately 15-20% in memory consumption when processing large SVG documents. Additionally, we've upgraded **Aspose.SVG.Drawing.SkiaSharp** to SkiaSharp 3.116.1 for enhanced rendering performance. Moreover, this release now supports Python 3.12 and 3.13, ensuring compatibility with the latest Python environments.
 
 ### Enhancements:
 
