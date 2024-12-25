@@ -41,4 +41,3 @@ Aspose.HTML for Python via .NET  24.12.0 [PyPI](https://pypi.org/project/aspose-
 | HTMLNET-5594 | System.Drawing.Common is not supported on non-Windows platforms | Investigation |
 | HTMLNET-5895 | System.PlatformNotSupportedException : System.Drawing.Common is not supported on non-Windows platforms - Version=“24.10.0” | Bug |
 | HTMLNET-5115 | Support of NET 7 without System.Drawing | Feature |
-| HTMLNET-5903 | Investigate the issue: very long execution - localize the point of endless loop | Investigation |
