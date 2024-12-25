@@ -2,19 +2,20 @@
 
 title: "Go package to Process PDF | Aspose.PDF for Go via C++"
 description:  "Go package to work with PDF documents, pages, images, office documents & organize via Go API."
-keywords:  "PDF Go package, Go API for PDF"
+keywords:  "'PDF Go package', 'Go API for PDF'"
+linktitle: "Aspose.PDF for Go via C++"
 family_listing_page_title:  "Aspose.PDF for Go via C++"
 family_listing_page_description:  "Aspose.PDF for Go allows the developers to manipulate PDF files directly and helps do various tasks for PDF. It supports working with many popular file formats."
 family_listing_page_iconurl:  "https://products.aspose.com/pdf/images/aspose_pdf-for-go-cpp.svg"
-download_link: "https://releases.aspose.com/pdf/go-cpp/new-releases/aspose.pdf-for-go-via-c++-24.12/"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "280"
+download_link: "https://releases.aspose.com/pdf/go-cpp/new-releases/aspose.pdf-for-go-via-c++-24.12/"
 weight: 14
 tags: ['pdf-go', 'go', 'golang', 'PDF-to-DOC', 'PDF-to-DOCX', 'PDF-to-SVG', 'PDF-Images', 'PDF-Text-Extraction', 'PDF-to-Image', 'PDF-to-PNG', 'PDF-to-JPEG', 'PDF-to-BMP']
-
 ---
+
 {{< dbToolbar link="https://forum.aspose.com/c/pdf/10" linktext="Support Forum" >}}
 
 {{< Common/h2 text="Download Aspose.PDF for Go via C++ package for Portable Document Format Processing"  >}}
@@ -34,8 +35,18 @@ You can easily use Aspose.PDF for Go via C++ from {{< Common/link href="https://
 
 <!-- /ProductPageContent-->
 
+{{< Tags/TagsWrapper >}}
+ {{< Tags/TagsList >}}
+{{< /Tags/TagsWrapper >}}
+
+{{< Common/hr >}}
+
+{{< ProductPageWrapper >}}
 <!-- ReleasesListProductPage-->
-{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="pdf" product="go-cpp" >}}
+   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="pdf" product="gocpp" >}}
 <!-- /ReleasesListProductPage-->
+{{< Common/hr >}}
+
+<!-- /ProductPageContent-->
 
 {{< /ProductPageWrapper >}}
