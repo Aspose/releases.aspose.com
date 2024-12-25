@@ -29,4 +29,4 @@ This page contains release notes information for [Aspose.ZIP for Python via .NET
 ## **Public API and Backwards Incompatible Changes**
 |**The following public methods and properties were added:**|**Description**|
 | :- | :- |
-|Aspose.Zip.Saving.SevenZipCompressionMethod.DELTA|File prepared using Delta converter.|
+|aspose.zip.saving.SevenZipCompressionMethod.DELTA|File prepared using Delta converter.|

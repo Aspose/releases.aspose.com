@@ -37,11 +37,11 @@ This page contains release notes information for [Aspose.Tasks for Python via .N
 
 |**The following public methods and properties were added:**|**Description**|
 | :- | :- |
-| Aspose.Tasks.Visualization.TimescaleTier.render_label_on_each_page | Gets or sets flag that defines whether date labels should be rendered on each page when a time period spans over several pages. |
+| aspose.tasks.visualization.TimescaleTier.render_label_on_each_page | Gets or sets flag that defines whether date labels should be rendered on each page when a time period spans over several pages. |
 
 |**The following public methods and properties were deleted:**|**Description**|
 | :- | :- |
-| Aspose.Tasks.Saving.SaveOptions.legend_on_each_page |  |
+| aspose.tasks.saving.SaveOptions.legend_on_each_page |  |
 
 ## **Examples and additional notes**
 
