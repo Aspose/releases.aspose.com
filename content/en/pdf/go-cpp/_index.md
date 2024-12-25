@@ -1,12 +1,14 @@
 ---
 
-title: "Go library to Process PDF | Aspose.PDF for Go API"
-description:  "Go Library to work with PDF pages, images, attachments, fonts, bookmarks, annotations, forms, watermarks, security & printing via Go  API."
-keywords:  "PDF Go Library, Go API for PDF"
+title: "Go package to Process PDF | Aspose.PDF for Go via C++"
+description:  "Go package to work with PDF documents, pages, images, office documents & organize via Go API."
+keywords:  "PDF Go package, Go API for PDF"
 family_listing_page_title:  "Aspose.PDF for Go via C++"
-family_listing_page_description:  "Aspose.PDF for Go allows the developers to embed PDF document creation, manipulation & conversion capabilities in their applications. It supports working with many popular file formats"
+family_listing_page_description:  "Aspose.PDF for Go allows the developers to manipulate PDF files directly and helps do various tasks for PDF. It supports working with many popular file formats"
 family_listing_page_iconurl:  "https://products.aspose.com/pdf/images/aspose_pdf-for-go-cpp.svg"
+download_link: "https://releases.aspose.com/pdf/go-cpp/new-releases/aspose.pdf-for-go-via-c++-24.12/"
 weight: 14
+tags: ['pdf-go', 'go', 'golang', 'PDF-to-DOC', 'PDF-to-DOCX', 'PDF-to-SVG', 'PDF-Images', 'PDF-Text-Extraction', 'PDF-to-Image', 'PDF-to-PNG', 'PDF-to-JPEG', 'PDF-to-BMP']
 
 ---
 
@@ -25,6 +27,8 @@ weight: 14
         {{< Common/hr >}}
 {{< /Common/wrapper >}}
 {{< /Common/wrapper >}}
+
+[Product Page](https://products.aspose.com/pdf/go-cpp/) | [Docs](https://docs.aspose.com/pdf/go-cpp/) | [Demos](https://products.aspose.app/pdf/family) | [API Reference](https://reference.aspose.com/pdf/go-cpp/) | [Examples](https://github.com/aspose-pdf/aspose-pdf-go-cpp/) | [Blog](https://blog.aspose.com/category/pdf/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pdf) |  [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 <!-- /ProductPageContent-->
 
 <!-- ReleasesListProductPage-->
