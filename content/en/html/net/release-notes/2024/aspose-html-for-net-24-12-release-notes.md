@@ -20,7 +20,7 @@ As per the regular monthly update process of all APIs being offered by Aspose, w
 
 ### Release Notes
 
-In this release, we have significantly enhanced the conversion of HTML to PDF format. We have added support for .NET 8.0 and improved Linux support. Additionally, we have greatly improved the handling of Flex elements and rendering quality.
+In this release, we have enhanced the conversion of HTML to PDF format. We have improved support for .NET 8.0 and Linux. Additionally, we have significantly enhanced the handling of Flex elements and rendering quality.
 
 **Package references**<br>
 Aspose.HTML for .NET 24.12 [NuGet](https://www.nuget.org/packages/Aspose.Html)<br>
