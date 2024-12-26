@@ -1,5 +1,5 @@
 ---
-id: "aspose-html-for-net-24-11-release-notes"
+id: "aspose-html-for-net-24-12-release-notes"
 slug: "aspose-html-for-net-24-12-release-notes"
 linktitle: "Aspose.HTML for .NET 24.12 Release Notes"
 title: "Aspose.HTML for .NET 24.12 Release Notes"
