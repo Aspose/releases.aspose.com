@@ -28,7 +28,6 @@ This page contains release notes information for Aspose.PDF for Java 24.8.
 |PDFJAVA-44271|Flatten transparent images in PDF document|New Feature|
 |PDFJAVA-43579|Wrong setting Color.fromCmyk|Enhancement|
 |PDFJAVA-44161|How to convert Multipage TIFF to PDF|Enhancement|
-|PDFJAVA-43624|exception|Bug|
 |PDFJAVA-43624|PDF to Excel: Extra columns have appeared|Bug|
 |PDFJAVA-44189|PDF to DOCX: The generated DOCX file can not be opened.|Bug|
 |PDFJAVA-44233|PDF to DOCX: Spacing before the text is noticeably reduced|Bug|
