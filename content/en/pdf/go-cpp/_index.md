@@ -32,7 +32,6 @@ You can easily use Aspose.PDF for Go via C++ from {{< Common/link href="https://
 
 {{< Common/hr >}}
 [Product Page](https://products.aspose.com/pdf/go-cpp/) | [Docs](https://docs.aspose.com/pdf/go-cpp/) | [Demos](https://products.aspose.app/pdf/family) | [API Reference](https://reference.aspose.com/pdf/go-cpp/) | [Examples](https://github.com/aspose-pdf/aspose-pdf-go-cpp/) | [Blog](https://blog.aspose.com/category/pdf/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pdf) |  [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
 <!-- /ProductPageContent-->
 
 {{< Tags/TagsWrapper >}}
@@ -43,10 +42,8 @@ You can easily use Aspose.PDF for Go via C++ from {{< Common/link href="https://
 
 {{< ProductPageWrapper >}}
 <!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="pdf" product="gocpp" >}}
+   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="pdf" product="go-cpp" >}}
 <!-- /ReleasesListProductPage-->
 {{< Common/hr >}}
-
-<!-- /ProductPageContent-->
 
 {{< /ProductPageWrapper >}}
