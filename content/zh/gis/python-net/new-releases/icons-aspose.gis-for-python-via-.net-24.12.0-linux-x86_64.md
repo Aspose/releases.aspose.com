@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/gis/python-net/new-releases/icons-aspose.gis-for-python-via-.net-24.12.0-linux-x86_64/"
-folder_name: "图标 Aspose.GIS for Python via .NET 24.12.0 Linux x86_64"
+folder_name: "Aspose.GIS for Python via .NET 24.12.0 Linux x86_64"
 download_link: "/gis/python-net/new-releases/icons-aspose.gis-for-python-via-.net-24.12.0-linux-x86_64/601129c5e4b5d0c161927be14657bed6-16-12203"
 download_text: "下载"
 intro_text: "该轮子包含 Aspose.GIS for Python via .NET 版本 24.12.0，专为 Linux 构建并针对 x86_64 架构。"
@@ -22,7 +22,7 @@ weight: 5
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="图标 Aspose.GIS for Python via .NET 24.12.0 Linux x86_64" imagelink="/resources/img/random-file-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.GIS for Python via .NET 24.12.0 Linux x86_64" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="下载" link="/gis/python-net/new-releases/icons-aspose.gis-for-python-via-.net-24.12.0-linux-x86_64/601129c5e4b5d0c161927be14657bed6-16-12203" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/gis" >}}

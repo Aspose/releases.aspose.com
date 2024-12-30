@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/gis/python-net/new-releases/icons-aspose.gis-for-python-via-.net-24.12.0-linux-x86_64/"
-folder_name: "Simgeler Aspose.GIS for Python, .NET 24.12.0 Linux x86_64 aracılığıyla"
+folder_name: "Aspose.GIS for Python, .NET 24.12.0 Linux x86_64 aracılığıyla"
 download_link: "/gis/python-net/new-releases/icons-aspose.gis-for-python-via-.net-24.12.0-linux-x86_64/601129c5e4b5d0c161927be14657bed6-16-12203"
 download_text: "İndirmek"
 intro_text: "Bu tekerlek, Linux için oluşturulmuş ve x86_64 mimarisini hedefleyen .NET sürüm 24.12.0 aracılığıyla Python için Aspose.GIS'i içerir."
@@ -22,7 +22,7 @@ weight: 5
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Simgeler Aspose.GIS for Python, .NET 24.12.0 Linux x86_64 aracılığıyla" imagelink="/resources/img/random-file-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.GIS for Python, .NET 24.12.0 Linux x86_64 aracılığıyla" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="İndirmek" link="/gis/python-net/new-releases/icons-aspose.gis-for-python-via-.net-24.12.0-linux-x86_64/601129c5e4b5d0c161927be14657bed6-16-12203" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/gis" >}}
