@@ -25,7 +25,6 @@ dataFolder: aspose_cad
 packages_refs:
 - "24-8"
 - "24-7"
-- "25-01"
 - "24-6-1"
 - "24-5"
 - "24-6"
