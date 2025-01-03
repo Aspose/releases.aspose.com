@@ -30,9 +30,9 @@ A comprehensive description of all methods and properties, along with code examp
 
 There are 84 improvements and fixes in this regular monthly release. The most notable are:
 
-- **Enhanced HTML/SVG Saving::** Added IdPrefix and RemoveJavaScriptFromLinks options to both HtmlFixedSaveOptions and SvgSaveOptions.
-- **AI Grammar Checking::** Enabled grammar checking functionality using OpenAI.
-- **Advanced Markdown Options::** Added options to set image resolution and OfficeMath output mode in MarkdownSaveOptions.
+- **Enhanced HTML/SVG Saving:** Added IdPrefix and RemoveJavaScriptFromLinks options to both HtmlFixedSaveOptions and SvgSaveOptions.
+- **AI Grammar Checking:** Enabled grammar checking functionality using OpenAI.
+- **Advanced Markdown Options:** Added options to set image resolution and OfficeMath output mode in MarkdownSaveOptions.
 
 ## Full List of Issues Covering all Changes in this Release
 
