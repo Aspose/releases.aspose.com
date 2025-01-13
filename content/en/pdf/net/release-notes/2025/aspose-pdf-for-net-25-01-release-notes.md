@@ -29,7 +29,7 @@ We've added an option to save PDF to HTML with skipping all raster images. This 
 The following code demonstrates the use of the new option:
 
 ```cs
-private static void SavePdftoHtmlWithNoImages(string inputPdf, string outputHtml)
+private static void SavePdftoHtmlWithoutImages(string inputPdf, string outputHtml)
 {
     var htmlSaveOptions = new Aspose.Pdf.HtmlSaveOptions
     {
