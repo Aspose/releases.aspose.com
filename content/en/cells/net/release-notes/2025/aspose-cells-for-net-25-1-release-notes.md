@@ -103,11 +103,11 @@ Optimize the output of html by using CSS custom properties. For example, for the
 
 Create a style with option whether cloning default style.
 
-### **Adds PivotField.SelectField() method**
+### **Adds PivotArea.SelectField() method**
 
 Select a pivot area which contains a field.
 
-### **Adds PivotField.GetCellAreas() method.**
+### **Adds PivotArea.GetCellAreas() method.**
 
 Convert a pivot area to cell areas.
 
