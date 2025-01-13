@@ -28,7 +28,7 @@ We've added an option to save PDF to HTML with skipping all raster images. This 
 
 The following code demonstrates the use of the new option:
 
-```csharp
+```cs
 private static void SavePdftoHtmlWithNoImages(string inputPdf, string outputHtml)
 {
     var htmlSaveOptions = new Aspose.Pdf.HtmlSaveOptions
@@ -44,6 +44,7 @@ private static void SavePdftoHtmlWithNoImages(string inputPdf, string outputHtml
         document.Save(outputHtml, htmlOptions);
     }
 }
+```
 
 Starting from Aspose.PDF 25.1 it is possible to validate a PDF signature using a Certificate Authority (CA) Server. This was made at the User's request PDFNET-58842 that was originally reported as a bug.
 
