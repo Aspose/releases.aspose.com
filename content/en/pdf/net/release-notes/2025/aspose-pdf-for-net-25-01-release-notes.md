@@ -54,9 +54,9 @@ The following code shows the use of the new options:
 ```cs
 private static void VerifySignatureWithOptions(string pdfPath)
 {
-    using (Document document = new Aspose.Pdf.Document(pdfPath))
+    using (var document = new Aspose.Pdf.Document(pdfPath))
     {
-        using (PdfFileSignature pdfSign = new Aspose.Pdf.Facades.PdfFileSignature(document))
+        using (var pdfSign = new Aspose.Pdf.Facades.PdfFileSignature(document))
         {
             foreach (string signName in pdfSign.GetSignNames())
             {
@@ -101,9 +101,9 @@ You can use standard code to verify the signature:
 ```cs
 private static void VerifySignature(string pdfPath)
 {
-    using (Document document = new Aspose.Pdf.Document(pdfPath))
+    using (var document = new Aspose.Pdf.Document(pdfPath))
     {
-        using (PdfFileSignature pdfSign = new Aspose.Pdf.Facades.PdfFileSignature(document))
+        using (var pdfSign = new Aspose.Pdf.Facades.PdfFileSignature(document))
         {
             foreach (string signName in pdfSign.GetSignNames())
             {
