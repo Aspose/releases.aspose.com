@@ -6,6 +6,8 @@ linktitle: ".NET üzerinden Python için Aspose.3D"
 family_listing_page_title: ".NET üzerinden Python için Aspose.3D"
 family_listing_page_description:  "Aspose.3D for Python via .NET is a feature-rich Gameware and Computer-Aided-Designing (CAD) API to manipulate documents without any 3D modeling and rendering software dependencies. API supports Discre"
 family_listing_page_iconurl:  "https://products.aspose.com/3d/aspose_3d-for-python-via-net.svg"
+homepage_package_type: "Pip"
+homepage_package_link: "https://pypi.org/project/aspose-3d/"
 tags: ['Aspose.Total', 'Aspose.3D', 'Python', 'Library', 'CAD', 'gameware', 'scene', 'object', 'model', 'modeling', 'render', 'VRML', 'polygon', 'linear', 'extrusion', 'viewport', 'cylinder', 'pointcloud', 'animation', 'geometry', 'format', 'file', '3DS', '3MF', 'AMF', 'ASE', 'RVM', 'DAE', 'DRC', 'DXF', 'FBX', 'gITF', 'OBJ', 'PDF', 'HTML', 'PLY', 'JT', 'STL', 'U3D', 'USD', 'USDZ', 'VRML', 'X', 'DirectX', 'Maya']
 weight: 3
 ---

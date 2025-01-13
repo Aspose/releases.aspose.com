@@ -11,6 +11,8 @@ family_listing_page_type: "4"
 family_listing_page_venture: "4"
 family_listing_page_package: ""
 homepage_github_image: "https://aspose.github.io/img/aspose/aspose-finance.png"
+homepage_package_type: "Pip"
+homepage_package_link: "https://pypi.org/project/aspose-finance/"
 weight:  24
 ---
 
