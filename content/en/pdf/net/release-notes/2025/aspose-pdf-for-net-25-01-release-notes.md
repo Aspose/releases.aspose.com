@@ -78,7 +78,7 @@ private static void VerifySignatureWithOptions(string pdfPath)
 
 Detailed information on the feature will be added to the [documentation](https://docs.aspose.com/pdf/net/) soon.
 
-In Aspose.PDF 24.12 we have added cross-platform PDF signature validation using SHA-3 hashing algorithms. This was not announced previously. The necessity of implementation platform-independent validation of SHA-3 came from the fact that the standard .NET library algorithm is limited and is available starting with .NET8 / Windows 11. This task is listed in our issue tracking system with ID PDFNET-58519.
+In Aspose.PDF 24.12 we have added cross-platform PDF signature validation using SHA-3 hashing algorithms. This was not announced previously. The necessity of implementation platform-independent validation of SHA-3 came from the fact that the [standard .NET library algorithm](https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.sha3_256?view=net-8.0) is limited and is available starting with .NET 8. This task is listed in our issue tracking system with ID PDFNET-58519.
 
 The following code may be used for signing:
 
