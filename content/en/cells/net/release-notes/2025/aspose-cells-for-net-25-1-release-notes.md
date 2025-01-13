@@ -148,9 +148,9 @@ Use PivotTable.AllowMultipleFiltersPerField property instead.
 Use PivotTable.ConditionalFormats property instead.
 
 ### **Removes obsolete properties of Protection.**
-
+```text
 IsDeletingColumnsAllowed -> AllowDeletingColumn
-IsDeletingRowsAllowed -> AllowDeletingRow
+IsDeletingRowsAllowed -> AllowDeletingRow
 IsFilteringAllowed -> AllowFiltering
 IsFormattingCellsAllowed -> AllowFormattingCell
 IsFormattingColumnsAllowed -> AllowFormattingColumn
@@ -165,3 +165,4 @@ IsEditingObjectsAllowed -> AllowEditingObject
 IsEditingScenariosAllowed -> AllowEditingScenario
 IsSelectingLockedCellsAllowed -> AllowSelectingLockedCell
 IsSelectingUnlockedCellsAllowed -> AllowSelectingUnlockedCell
+```
