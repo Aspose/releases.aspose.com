@@ -22,6 +22,7 @@ This page contains release notes information for Aspose.Diagram for .NET 25.1.
 |DIAGRAMNET-50826|A corrupt VSD is generated on open and save|Enhancement|
 |DIAGRAMNET-53635|Background and characters broken after just resaving vsdx|Bug|
 |DIAGRAMNET-53642|Visio to PDF Arabic language conversion wrong|Bug|
+|DIAGRAMNET-53646|Wrong background in shape when saving pdf in net8|Bug|
 |DIAGRAMNET-53653|Swimlane in Diagram looks different when just resaving as vsdx|Bug|
 
 ## **Public API and Backward Incompatible Changes**
