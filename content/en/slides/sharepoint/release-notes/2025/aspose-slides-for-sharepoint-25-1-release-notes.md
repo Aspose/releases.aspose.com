@@ -18,4 +18,4 @@ This page contains release notes for Aspose.Slides for SharePoint 25.1
 
 |**Key** |**Summary** |**Category** |
 | :-: | :- | :-: |
-|SLIDESSP-33642|[Use Aspose.Slides for .NET 25.1 features](/slides/net/release-notes/2024/aspose-slides-for-net-25-1-release-notes/)|Enhancement|
+|SLIDESSP-33642|[Use Aspose.Slides for .NET 25.1 features](/slides/net/release-notes/2025/aspose-slides-for-net-25-1-release-notes/)|Enhancement|
