@@ -208,7 +208,8 @@ rewrite ^/cells/net/new-releases/aspose.cells-for-.net-21.4/$ https://releases.a
 rewrite ^/cells/net/release-notes/2024/aspose-email-for-net-22-9-release-notes/$ https://releases.aspose.com/cells/net/release-notes/2022/aspose-cells-for-net-22-9-release-notes/ permanent;
 rewrite ^/cells/net/release-notes/2024/aspose-pdf-for-net-24-3-release-notes/$ https://releases.aspose.com/cells/net/release-notes/2024/aspose-cells-for-net-24-3-release-notes/ permanent;
 rewrite ^/cells/net/release-notes/2024/aspose-words-for-net-24-4-release-notes/$ https://releases.aspose.com/cells/net/release-notes/2024/aspose-cells-for-net-24-4-release-notes/ permanent;
-rewrite ^/cells/net/release-notes/2025/$ https://releases.aspose.com/cells/net/release-notes/ permanent;
+# commented out the following as per https://forum.aspose.com/t/2025-release-notes/301755/1
+# rewrite ^/cells/net/release-notes/2025/$ https://releases.aspose.com/cells/net/release-notes/ permanent;
 rewrite ^/cells/python-net/\？$ https://releases.aspose.com/cells/python-net/ permanent;
 rewrite ^/cells/python/new-releases/aspose.cells-for-python$ https://releases.aspose.com/cells/ permanent;
 rewrite ^/cells/python/new-releases/aspose.cells-for-python-24$ https://releases.aspose.com/cells/ permanent;
