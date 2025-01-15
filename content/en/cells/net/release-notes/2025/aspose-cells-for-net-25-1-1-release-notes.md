@@ -1,19 +1,19 @@
 ---
-id: "aspose-cells-for-net-25-1-release-notes"
-slug: "aspose-cells-for-net-25-1-release-notes"
-linktitle: "Aspose.Cells for .NET 25.1 Release Notes"
-title: "Aspose.Cells for .NET 25.1 Release Notes"
+id: "aspose-cells-for-net-25-1-1-release-notes"
+slug: "aspose-cells-for-net-25-1-1-release-notes"
+linktitle: "Aspose.Cells for .NET 25.1.1 Release Notes"
+title: "Aspose.Cells for .NET 25.1.1 Release Notes"
 weight: 12
-description: "Aspose.Cells for .Net 25.1 Release Notes - the latest enhancements, new features, and fixes. "
+description: "Aspose.Cells for .Net 25.1.1 Release Notes - the latest enhancements, new features, and fixes. "
 type: "repository"
 layout: "release"
-family_listing_page_title: "Aspose.Cells for .NET 25.1 Release Notes"
-keywords: "Aspose.Cells for .Net 25.1 Release Notes, Aspose.Cells for .Net 25.1 updates and fixes"
+family_listing_page_title: "Aspose.Cells for .NET 25.1.1 Release Notes"
+keywords: "Aspose.Cells for .Net 25.1.1 Release Notes, Aspose.Cells for .Net 25.1.1 updates and fixes"
 ---
 
 {{% alert color="primary" %}}
 
-This page contains release notes for [Aspose.Cells for .NET 25.1](https://www.nuget.org/packages/Aspose.Cells/25.1.0).
+This page contains release notes for [Aspose.Cells for .NET 25.1.1](https://www.nuget.org/packages/Aspose.Cells/25.1.1).
 
 {{% /alert %}}
 
