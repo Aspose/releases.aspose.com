@@ -89,39 +89,39 @@ The following is a list of any changes made to the public API such as added, ren
 
 ### **Adds new method AutoFilter.GetCellArea(bool refreshAppliedRange).**
 
-Supports to get the refreshed/re-calculated range of auto filter according to current cells data.
+Supports getting the refreshed/re-calculated range of auto filter according to current cells data.
 
 ### **Adds new method AbstractCalculationEngine.SkipCalculation().**
 
-Supports to skip the calculation for the entire formula that references to the function currently under evaluation.
+Supports skipping the calculation for the entire formula that references to the function currently under evaluation.
 
-### **Adds HtmlSaveOptions.EnableCssCustomProperties Property**
+### **Adds HtmlSaveOptions.EnableCssCustomProperties Property.**
 
-Optimize the output of html by using CSS custom properties. For example, for the scenario that there are multiple occurences for one base64 image(IconSets or Pattern style), with custom property the image data only needs to be saved once so the performance of the resultant html can be improved.
+Optimizes the output of html by using CSS custom properties. For example, in scenarios where there are multiple occurences for a base64 image(IconSets or Pattern style), using custom properties allows the image data to be saved only once, improving the performance of the resultant HTML.
 
 ### **Adds Workbook.CreateStyle(Boolean) method.**
 
-Create a style with option whether cloning default style.
+Creates a style with an option to clone the default style.
 
-### **Adds PivotArea.SelectField() method**
+### **Adds PivotArea.SelectField() method.**
 
-Select a pivot area which contains a field.
+Selects a pivot area that contains a field.
 
 ### **Adds PivotArea.GetCellAreas() method.**
 
-Convert a pivot area to cell areas.
+Converts a pivot area to cell areas.
 
 ### **Adds PivotAreaCollection class.**
 
 Represents a list of pivot areas.
 
-### **Adds PivotConditionalFormat and PivotConditionalFormatCollection classes, obsoletes PivotFormatCondition and PivotFormatConditionCollection classes**
+### **Adds PivotConditionalFormat and PivotConditionalFormatCollection classes, obsoletes PivotFormatCondition and PivotFormatConditionCollection classes.**
 
 Use PivotConditionalFormat and PivotConditionalFormatCollection instead.
 
 ### **Obsoletes PivotTable.RefreshDataFlag property.**
 
-It's useless. Please remove calling.
+It's no longer used. Please remove any calls to it.
 
 ### **Obsoletes PivotTable.Move() method and adds PivotTable.MoveTo() method.**
 
@@ -129,23 +129,23 @@ Use PivotTable.MoveTo() instead.
 
 ### **Obsoletes PivotTable.GetHorizontalBreaks() and adds PivotTable.GetHorizontalPageBreaks() method.**
 
-Use PivotTable.GetHorizontalPageBreaks() method instead.
+Use PivotTable.GetHorizontalPageBreaks() instead.
 
 ### **Obsoletes PivotTable.ColumnGrand and adds PivotTable.ShowColumnGrandTotals property.**
 
-Use PivotTable.ShowColumnGrandTotals property instead.
+Use PivotTable.ShowColumnGrandTotals instead.
 
 ### **Obsoletes PivotTable.RowGrand and adds PivotTable.ShowRowGrandTotals property.**
 
-Use PivotTable.ShowRowGrandTotals property instead.
+Use PivotTable.ShowRowGrandTotals instead.
 
 ### **Obsoletes PivotTable.IsMultipleFieldFilters and adds PivotTable.AllowMultipleFiltersPerField property.**
 
-Use PivotTable.AllowMultipleFiltersPerField property instead.
+Use PivotTable.AllowMultipleFiltersPerField instead.
 
 ### **Obsoletes PivotTable.PivotFormatConditions and adds PivotTable.ConditionalFormats property.**
 
-Use PivotTable.ConditionalFormats property instead.
+Use PivotTable.ConditionalFormats instead.
 
 ### **Removes obsolete properties of Protection.**
 ```text
