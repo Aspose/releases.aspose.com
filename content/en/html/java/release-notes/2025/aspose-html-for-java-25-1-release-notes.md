@@ -29,8 +29,9 @@ We added the new feature Accessibility for testing WCAG 2 (Web Content Accessibi
 
 ```
 /**
- * The <b>com.aspose.html.accessibility</b> package is for all Web Accessibility related manipulations.
- * complies with international standards W3C Web Accessibility Initiative    
+ * The com.aspose.html.accessibility package is for all
+ * Web Accessibility related manipulations.
+ * Complies with international standards W3C Web Accessibility Initiative    
  **/
 package com.aspose.html.accessibility;
 
