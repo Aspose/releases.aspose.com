@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-25.1-linux/"
 folder_name: "Aspose.PDF untuk C++ 25.1 Linux"
-download_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-25.1-linux/f29234a387bf3e5bfe12f010c189f4fd-25-12312"
+download_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-25.1-linux/ef3f7c3fb608916f53c8baff035015fb-25-12312"
 download_text: "Unduh"
 intro_text: "versi Linux"
 image_link: "/resources/img/zip-icon.png"
@@ -24,19 +24,19 @@ weight: 242
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.PDF untuk C++ 25.1 Linux" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Unduh" link="/pdf/cpp/new-releases/aspose.pdf-for-c++-25.1-linux/f29234a387bf3e5bfe12f010c189f4fd-25-12312" >}}
+    {{< Releases/ReleasesSingleButtons text="Unduh" link="/pdf/cpp/new-releases/aspose.pdf-for-c++-25.1-linux/ef3f7c3fb608916f53c8baff035015fb-25-12312" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detail File">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Unduhs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-f29234a387bf3e5bfe12f010c189f4fd-25-12312" >}} 10 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-ef3f7c3fb608916f53c8baff035015fb-25-12312" >}} 10 {{< /Common/li >}}
       {{< Common/li >}} Ukuran file: {{< /Common/li >}}
-      {{< Common/li id="size-update-f29234a387bf3e5bfe12f010c189f4fd-25-12312" >}} 121.46MB {{< /Common/li >}}
+      {{< Common/li id="size-update-ef3f7c3fb608916f53c8baff035015fb-25-12312" >}} 121.46MB {{< /Common/li >}}
 
       {{< Common/li >}} Tanggal Ditambahkan: {{< /Common/li >}}
-      {{< Common/li id="added-update-f29234a387bf3e5bfe12f010c189f4fd-25-12312" >}}18/1/2025 {{< /Common/li >}}
+      {{< Common/li id="added-update-ef3f7c3fb608916f53c8baff035015fb-25-12312" >}}18/1/2025 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
