@@ -198,12 +198,12 @@ import io
 
 with slides.Presentation() as pres, open("content.svg", "rb") as fs:
     # Creates the new SVG image
-	svg_image = slides.SvgImage(fs)
+    svg_image = slides.SvgImage(fs)
 
-	b = io.BytesIO()
-	# Saves the SVG image as a metafille
-	svg_image.write_as_emf(b)
-	b.seek(0)
-	# Adds metafile to the image collection
-	pres.images.add_image(b)
+    b = io.BytesIO()
+    # Saves the SVG image as a metafille
+    svg_image.write_as_emf(b)
+    b.seek(0)
+    # Adds metafile to the image collection
+    pres.images.add_image(b)
 ```
