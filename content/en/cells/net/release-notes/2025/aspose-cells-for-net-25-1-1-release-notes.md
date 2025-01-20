@@ -87,6 +87,10 @@ This page contains release notes for [Aspose.Cells for .NET 25.1.1](https://www.
 
 The following is a list of any changes made to the public API such as added, renamed, removed or deprecated members as well as any non-backward compatible change made to Aspose.Cells for .NET. If you have concerns about any change listed, please raise it on the Aspose.Cells support forum.
 
+### **The referenced SkiaSharp version for net6.0, net8.0 and net9.0.**
+
+In [Aspose.Cells for.NET 25.1.1](https://www.nuget.org/packages/Aspose.Cells/25.1.1), we have upgraded the referenced `SkiaSharp` for net6.0, net8.0, and net9.0 to version `3.116.1`. This upgrade aims to enhance rendering output and improve compatibility with net9.0. However, the `SkiaSharp 3.116.1` requires `GLIBC_2.29`, which may not be available on certain systems. So, in [Aspose.Cells for.NET 25.1.2](https://www.nuget.org/packages/Aspose.Cells/25.1.2), we revert the referenced `SkiaSharp` to version `2.88.9` for net6.0 and net8.0. For net9.0, the referenced `SkiaSharp` remains unchanged at version `3.116.1`.
+
 ### **Adds new method AutoFilter.GetCellArea(bool refreshAppliedRange).**
 
 Supports getting the refreshed/re-calculated range of auto filter according to current cells data.
