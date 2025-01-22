@@ -1,22 +1,25 @@
 ---
-id: "aspose-ocr-for-net-latest-release-notes"
-slug: "latest"
-weight: 1
 date: "2025-01-22"
+id: "aspose-ocr-for-net-25-1-0-release-notes"
+slug: "aspose-ocr-for-net-24-5-0-release-notes"
+linktitle: "Aspose.OCR for .NET 25.1.0 - Release Notes"
+title: "Aspose.OCR for .NET 25.1.0 - Release Notes"
 author: "Vladimir Lapin"
-type: docs
+weight: 121
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OCR for .NET 25.1.0 (January 2024) release."
 type: "repository"
 layout: "release"
-title: Latest release
-linktitle: "Latest release"
-description: A summary of recent changes, enhancements and bug fixes in the latest release of Aspose.OCR for .NET.
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OCR for .NET 25.1.0 - Release Notes"
 keywords:
-- latest
-- new
-- release
-- changelog
+- "2024"
+- "January"
+- "new"
+- "release"
+- "changelog"
+menuItemWithNoContent: false
 ---
-
 
 {{% alert color="primary" %}}
 This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OCR for .NET 25.1.0 (January 2025)**](https://www.nuget.org/packages/Aspose.OCR/25.1.0) release.
