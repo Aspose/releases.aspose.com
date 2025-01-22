@@ -1,13 +1,13 @@
 ---
-
 title: "Aspose.Font for Node.js via C++"
 description:  "Common Javascript and ECMAScript/ES6 modules of Aspose.Font for Node.js"
 keywords:  "Node,JS,JavaScript,font,convert,TTF,TrueType,OTF,OpenType,CFF,Type1"
 family_listing_page_title:  "Aspose.Font for Node.js via C++"
 family_listing_page_description:  "A native JavaScript server-side API that allows manipulation the font types including TTF, TrueType, OpenType, CFF & Type1 fonts."
 family_listing_page_iconurl:  "https://docs.aspose.com/font/icons/aspose_font-for-nodejs-cpp.svg"
+homepage_package_type: "NPM"
+homepage_package_link: "https://www.npmjs.com/package/asposefontnodejs"
 weight: 5
-
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/font/41" linktext="Support Forum" >}}

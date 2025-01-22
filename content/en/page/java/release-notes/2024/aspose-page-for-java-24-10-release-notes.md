@@ -24,6 +24,8 @@ This page contains release notes information for Aspose.Page for Java 24.10.
 | :- | :- | :- |
 |PAGEJAVA-295|ClassCastException in Aspose when converting postscript to pdf|Bug|
 |PAGEJAVA-296|PS to PDF: java.lang.RuntimeException on Save()|Bug|
+
+This release of Aspose.Page for Java is also includes all changes from the equivalent .NET version and further improves the overall stability of the API in terms of functionality.
  
 ### **Got any Query?**
-This release of Aspose.Page for Java is also includes all changes from the equivalent .NET version and further improves the overall stability of the API in terms of functionality.
+If you have any query related to Aspose.Page for Java API, please feel free to write to reach us on [Aspose.Font forum](https://forum.aspose.com/c/page/). We'll be glad to assist you with your inquiries.

@@ -24,7 +24,6 @@ This page contains release notes information for Aspose.PDF for Java 24.7.
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |PDFJAVA-44172|Possibility of implementing auto-tagging|New Feature|
-|PDFJAVA-44172|Possibility of implementing auto-tagging|Enhancement|
 |PDFJAVA-44105|Excel: Impr44105 oving height calculations for borderless rows|Enhancement|
 |PDFJAVA-44173|Make possible setting alignment and other options for TextStamp|Enhancement|
 |PDFJAVA-37185|Extracting JPEG2000 image from PDF fails with java.lang.NullPointerException exception|Bug|

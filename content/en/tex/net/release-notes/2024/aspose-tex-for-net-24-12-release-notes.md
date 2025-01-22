@@ -3,7 +3,7 @@ id: "aspose-tex-for-net-24-12-release-notes"
 slug: "aspose-tex-for-net-24-12-release-notes"
 linktitle: "Aspose.TeX for .NET 24.12 Release Notes"
 title: "Aspose.TeX for .NET 24.12 Release Notes"
-weight: 14
+weight: 13
 description: "C# .NET API Solution for developers to manipulate and process TeX and LaTeX files. Release Notes of Aspose.TeX API solution for .NET | Release 2024.12"
 type: "repository"
 layout: "release"
@@ -18,7 +18,6 @@ menuItemWithNoContent: false
 
 | Key | Summary | Category |
 |---|---|---|
-| TEXNET-358 | fix arguments order calls in TeXEngine.LineBreak | Fix |
 
 ## Public API
 

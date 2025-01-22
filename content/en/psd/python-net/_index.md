@@ -5,6 +5,8 @@ keywords: ""
 family_listing_page_title: "Aspose.PSD for Python via .NET"
 family_listing_page_description: "Aspose.PSD for Python via .NET is an Unique Python PSD Library offering advanced PSD, PSD and AI files processing features. You could easily create, load, update, edit, convert, compress PSD and PSB."
 family_listing_page_iconurl: "https://products.aspose.com/psd/images/aspose_psd-for-python-via-net.svg"
+homepage_package_type: "Pip"
+homepage_package_link: "https://pypi.org/project/aspose-psd/"
 weight: 3
 ---
 

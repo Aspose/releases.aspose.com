@@ -24,6 +24,5 @@ This page contains release notes information for [Aspose.Note for .NET 24.12](ht
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |NOTENET-5783|Issue with rendering pictures (which are misplaced and dispersed) after converting to PDF|Bug|
-|NOTENET-5784|The scale is lost and the text is placed in a narrower column with unexpected artifacts appear after converting to PDF|Bug|
 |NOTENET-5850|OneNote to PDF Conversion – Image Artifacts and Layout Distortion|Bug|
 |NOTENET-5854|Incorrect text handling for differently formatted chinese characters|Bug|
