@@ -30,6 +30,34 @@ You can easily use Aspose.PDF for JavaScript via C++ from {{< Common/link href="
 {{< Common/hr >}}
 
 [Product Page](https://products.aspose.com/pdf/javascript-cpp/) | [Docs](https://docs.aspose.com/pdf/javascript-cpp/) | [Demos](https://products.aspose.app/pdf/family/) | [Blog](https://blog.aspose.com/categories/aspose.pdf-product-family/) | [Code Samples](https://github.com/aspose-pdf/) | [Free Support](https://forum.aspose.com/c/pdf/10) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+
+Add PDF processing, manipulation, and conversion features to your front-end applications.
+
+> Aspose.PDF for JavaScript via C++ allows you to work with PDF documents, pages, text, images, attachments, fonts, bookmarks, annotations, forms, operators, stamps, watermarks, links, security and signatures.
+
+## PDF Processing via JavaScript
+
+- **Extract text** from PDF pages or search for a particular text segment using regular expressions.
+- **Add or extract** images to & from PDF documents.
+- **Concatenate** or **split** PDF files.
+- **Linearization** of PDF documents for web optimization.
+- **Convert** PDF documents to Office, web, and image formats with the highest visual fidelity.
+- **Manipulate** PDF files to manage bookmarks, hyperlinks, watermarks, attachments & annotations.
+- **Encrypt** or **decrypt** PDF documents and set document privileges or modify passwords.
+- **Digitally sign PDF** documents or remove signatures. Also, verify if the PDF is signed and the signature is valid.
+
+## Read & Write PDF & Other Formats
+
+**Fixed Layout:** PDF, PDF/A, PDF/UA
+
+## Save PDF Documents As
+
+- **Microsoft Office:** DOC, DOCX, XLS, XLSX, PPTX
+- **Images:** JPEG, PNG, BMP, TIFF, EMF
+- **Others:** EPUB, DICOM, SVG, SVG(ZIP), GRAYSCALE PDF, PDF/A, TEX, TXT
+
+{{< Common/hr >}}
+
 <!-- /ProductPageContent-->
 
 {{< Tags/TagsWrapper >}}
