@@ -13,7 +13,7 @@ hideChildren: false
 toc: false
 family_listing_page_title: "Aspose.OCR for .NET 25.1.0 - Release Notes"
 keywords:
-- "2024"
+- "2025"
 - "January"
 - "new"
 - "release"

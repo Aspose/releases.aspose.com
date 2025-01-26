@@ -1,18 +1,24 @@
 ---
-id: "aspose-omr-for-net-latest-release-notes"
-slug: "latest"
-weight: 1
 date: "2025-01-24"
 author: "Vladimir Lapin"
+id: "aspose-omr-for-net-25-1-0-release-notes"
+slug: "aspose-omr-for-net-25-1-0-release-notes"
+linktitle: "Aspose.OMR for .NET 25.1.0 - Release Notes"
+title: "Aspose.OMR for .NET 25.1.0 - Release Notes"
+weight: 121
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for .NET 25.1.0 (January 2025) release."
 type: "repository"
 layout: "release"
-title: Latest release
-description: A summary of recent changes, enhancements and bug fixes in the latest release of Aspose.OMR for .NET.
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OMR for .NET 25.1.0 - Release Notes"
 keywords:
-- latest
+- "2025"
+- January
 - new
 - release
 - changelog
+menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
