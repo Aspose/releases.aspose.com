@@ -16,13 +16,10 @@ weight:  9
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/cells" linktext=" Support Forum " >}}
-{{< ProductPageWrapper >}}
 
 <!-- ProductPageContent-->
-{{< Common/wrapper class="col-md-12" >}}
-{{< Common/wrapper class="panel-body downloadfilebody" >}}
+
 {{< Common/h1 text="Aspose.Cells for PHP via Java" >}}
-{{< Common/paragraph>}}
 A scalable and feature-rich API to process Excel spreadsheets using PHP.
 
 {{< Common/h2 text="PHP Library for Excel"  >}} {{< Common/ul>}}
@@ -32,20 +29,20 @@ A scalable and feature-rich API to process Excel spreadsheets using PHP.
    {{< Common/li >}} Reliable formula calculation engine and much more. {{< /Common/li >}}
  {{< /Common/ul>}}
 
-{{< /Common/paragraph>}}
 {{< Common/hr >}}
 {{< Common/h4 text="Download aspose/cells from Composer"  >}}
 {{< Common/paragraph class="package-instructions">}}
 aspose/cells is available on Packagist as the {{< Common/link href="https://packagist.org/packages/aspose/cells" text="aspose/cells"  >}} package. Run the following command:
+{{< Common/release-notes-link family="cells" product="php" href="https://releases.aspose.com/cells/php/release-notes/" text="https://releases.aspose.com/cells/php/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="composer" >}}
        {{< consolebox/spantext text=" " >}}
        {{< consolebox/textarea id="composer" >}} composer require aspose/cells {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
-{{< Common/h4 text="Release Notes"  >}}
-{{< Common/release-notes-link family="cells" product="php" href="https://releases.aspose.com/cells/php/release-notes/" text="https://releases.aspose.com/cells/php/release-notes/"  >}}
-{{< /Common/wrapper >}}
-{{< /Common/wrapper >}}
+{{< Common/hr >}}
+
+
+{{< ProductPageWrapper >}}
 
 <!-- /ProductPageContent-->
 
