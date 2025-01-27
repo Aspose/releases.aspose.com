@@ -1,7 +1,7 @@
 ---
 date: "2025-01-22"
 id: "aspose-ocr-for-net-25-1-0-release-notes"
-slug: "aspose-ocr-for-net-24-5-0-release-notes"
+slug: "aspose-ocr-for-net-25-1-0-release-notes"
 linktitle: "Aspose.OCR for .NET 25.1.0 - Release Notes"
 title: "Aspose.OCR for .NET 25.1.0 - Release Notes"
 author: "Vladimir Lapin"
