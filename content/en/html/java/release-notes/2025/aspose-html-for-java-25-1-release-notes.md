@@ -19,20 +19,15 @@ This page contains release notes for Aspose.HTML for Java 25.1
 
 {{% /alert %}}
 
-We are honored to announce the January release of Aspose.HTML for Java.
+As per the regular monthly being offered by Aspose,
+we are honored to announce the January release of Aspose.HTML for Java.
 
-We added the new feature Accessibility for testing WCAG 2 (Web Content Accessibility Guidelines) requirements (success criteria) and techniques.
+We fixed a hang in certain parts of the library that occurred with JRE 17 and above.
 
-## **Public API and Backward Incompatible Changes**
+## **Improvements and Changes**
 
-### **Added APIs**
+| **Key**         | **Summary**                                                                   | **Category** |
+|-----------------|-------------------------------------------------------------------------------|--------------|
+| HTMLJAVA-1918   | MHT to JPEG: Infinite processing                                              | Bug          | 
 
-```
-/**
- * The com.aspose.html.accessibility package is for all
- * Web Accessibility related manipulations.
- * Complies with international standards W3C Web Accessibility Initiative    
- **/
-package com.aspose.html.accessibility;
 
-```
