@@ -32,7 +32,7 @@ GPU version: **23.10.1**
 Key | Summary | Category
 --- | ------- | --------
 OCRNET&#8209;964 | Recognition results can now be saved in hOCR format. | New feature
-OCRNET&#8209;966 | Optimized searchable PDFs to fully preserve the original image quality and maintain the file size. | Enhancement
+OCRNET&#8209;966 | Optimized searchable PDFs to fully preserve the original image quality and maintain the file size.<br />**Note:** This improvement applies only when both the source and target files are in PDF format.| Enhancement
 OCRNET&#8209;975 | Removed deprecated APIs to improve code readability and performance. | Enhancement
 OCRNET&#8209;977 | Changed the default language model to English (without diacritics) when no recognition language is explicitly specified. | Enhancement
 
