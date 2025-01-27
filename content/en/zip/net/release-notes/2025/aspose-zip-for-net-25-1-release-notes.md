@@ -29,6 +29,7 @@ This page contains release notes information for [Aspose.ZIP for .NET 25.1](http
 
 ## **Public API and Backwards Incompatible Changes**
 |**The following public types were added:**|**Description**|
+| :- | :- |
 |Aspose.Zip.ARJ.ArjArchive|Class representing ARJ archive file.|
 |Aspose.Zip.ARJ.ArjEntryPlain|Class representing single file within ARJ archive.|
 |**The following public methods and properties were added:**|**Description**|
