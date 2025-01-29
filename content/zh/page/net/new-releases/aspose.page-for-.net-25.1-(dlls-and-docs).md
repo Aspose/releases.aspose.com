@@ -6,12 +6,12 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/page/net/new-releases/aspose.page-for-.net-25.1-(dlls-and-docs)/"
 folder_name: "Aspose.Page for .NET 25.1（DLL 和文档）"
-download_link: "/page/net/new-releases/aspose.page-for-.net-25.1-(dlls-and-docs)/0ad8891c23f62291f3a02f4abd55f322-5-12364"
+download_link: "/page/net/new-releases/aspose.page-for-.net-25.1-(dlls-and-docs)/4ecd8fdec5d72fd4b0e9527e41017ff2-5-12364"
 download_text: "下载"
 intro_text: "我们很高兴地宣布推出适用于 .Net 的 Aspose.Page 新版本。"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 28/1/2025 下载s: 1  Views: 1 "
-file_size: "File Size: 24.72MB"
+download_count: " 28/1/2025 下载s: 2  Views: 1 "
+file_size: "File Size: 24.73MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
 
@@ -24,19 +24,19 @@ weight: 166
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Page for .NET 25.1（DLL 和文档）" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="下载" link="/page/net/new-releases/aspose.page-for-.net-25.1-(dlls-and-docs)/0ad8891c23f62291f3a02f4abd55f322-5-12364" >}}
+    {{< Releases/ReleasesSingleButtons text="下载" link="/page/net/new-releases/aspose.page-for-.net-25.1-(dlls-and-docs)/4ecd8fdec5d72fd4b0e9527e41017ff2-5-12364" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/page" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} 下载s: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-0ad8891c23f62291f3a02f4abd55f322-5-12364" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-4ecd8fdec5d72fd4b0e9527e41017ff2-5-12364" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} 文件大小: {{< /Common/li >}}
-      {{< Common/li id="size-update-0ad8891c23f62291f3a02f4abd55f322-5-12364" >}} 24.72MB {{< /Common/li >}}
+      {{< Common/li id="size-update-4ecd8fdec5d72fd4b0e9527e41017ff2-5-12364" >}} 24.73MB {{< /Common/li >}}
 
       {{< Common/li >}} 添加日期: {{< /Common/li >}}
-      {{< Common/li id="added-update-0ad8891c23f62291f3a02f4abd55f322-5-12364" >}}28/1/2025 {{< /Common/li >}}
+      {{< Common/li id="added-update-4ecd8fdec5d72fd4b0e9527e41017ff2-5-12364" >}}28/1/2025 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

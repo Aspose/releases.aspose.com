@@ -6,12 +6,12 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/page/net/new-releases/aspose.page-for-.net-25.1-(dlls-and-docs)/"
 folder_name: "Aspose.Page für .NET 25.1 (DLLs und Dokumente)"
-download_link: "/page/net/new-releases/aspose.page-for-.net-25.1-(dlls-and-docs)/0ad8891c23f62291f3a02f4abd55f322-5-12364"
+download_link: "/page/net/new-releases/aspose.page-for-.net-25.1-(dlls-and-docs)/4ecd8fdec5d72fd4b0e9527e41017ff2-5-12364"
 download_text: "Download"
 intro_text: "Wir freuen uns, eine neue Version von Aspose.Page für .Net bekannt zu geben."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 28/1/2025 Downloads: 1  Views: 1 "
-file_size: "File Size: 24.72MB"
+download_count: " 28/1/2025 Downloads: 2  Views: 1 "
+file_size: "File Size: 24.73MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
 
@@ -24,19 +24,19 @@ weight: 166
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Page für .NET 25.1 (DLLs und Dokumente)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/page/net/new-releases/aspose.page-for-.net-25.1-(dlls-and-docs)/0ad8891c23f62291f3a02f4abd55f322-5-12364" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/page/net/new-releases/aspose.page-for-.net-25.1-(dlls-and-docs)/4ecd8fdec5d72fd4b0e9527e41017ff2-5-12364" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/page" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dateidetails">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-0ad8891c23f62291f3a02f4abd55f322-5-12364" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-4ecd8fdec5d72fd4b0e9527e41017ff2-5-12364" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} Dateigröße: {{< /Common/li >}}
-      {{< Common/li id="size-update-0ad8891c23f62291f3a02f4abd55f322-5-12364" >}} 24.72MB {{< /Common/li >}}
+      {{< Common/li id="size-update-4ecd8fdec5d72fd4b0e9527e41017ff2-5-12364" >}} 24.73MB {{< /Common/li >}}
 
       {{< Common/li >}} Datum hinzugefügt: {{< /Common/li >}}
-      {{< Common/li id="added-update-0ad8891c23f62291f3a02f4abd55f322-5-12364" >}}28/1/2025 {{< /Common/li >}}
+      {{< Common/li id="added-update-4ecd8fdec5d72fd4b0e9527e41017ff2-5-12364" >}}28/1/2025 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
