@@ -23,7 +23,7 @@ This page contains release notes information for [Aspose.Tasks for .Net 25.1](ht
 
 |**Key**|**Summary**|**Issue Type**|
 | :- | :- | :- |
-| TASKSNET-11349 | Add a posibility to create Group for resources | Enhancement |
+| TASKSNET-11349 | Add a posibility to create Table for resources | Enhancement |
 | TASKSNET-11371 | Fix incorrect calculation of Asn.Stop and Asn.Resume when ActualWork TD ends with items with zero work | Bug |
 | TASKSNET-11369 | Fix reading of Asn.ActualStart and Asn.ActualFinish properties from MPP format | Bug |
 | TASKSNET-11368 | Fix task's Finish is set to NA when file saved by Aspose.Tasks opened in MS Project and recalculated | Bug |
