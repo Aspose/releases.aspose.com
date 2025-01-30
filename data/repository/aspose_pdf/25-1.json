@@ -1,9 +1,15 @@
 {
   "groupId" : "com.aspose",
-  "classifier" : "jdk17",
   "artifactId" : "aspose-pdf",
   "id" : "25-1",
   "packageFiles" : [ {
+    "size" : "83 MB",
+    "name" : "aspose-pdf-25.1-java.zip"
+  }, {
+    "size" : "6 MB",
+    "name" : "aspose-pdf-25.1-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
     "size" : "85 MB",
     "name" : "aspose-pdf-25.1-jdk16.jar",
     "classifier" : "jdk16"
@@ -12,10 +18,17 @@
     "name" : "aspose-pdf-25.1-jdk17.jar",
     "classifier" : "jdk17"
   }, {
+    "size" : "85 MB",
+    "name" : "aspose-pdf-25.1-tomee.jar",
+    "classifier" : "tomee"
+  }, {
+    "size" : "85 MB",
+    "name" : "aspose-pdf-25.1.jar"
+  }, {
     "size" : "452 bytes",
     "name" : "aspose-pdf-25.1.pom"
   } ],
-  "releasehDate" : "2025-01-30T21:42:08+00:00",
+  "releasehDate" : "2025-01-30T21:43:36+00:00",
   "version" : "25.1",
   "ReleaseNotes" : "https://releases.aspose.com/pdf/java/release-notes/2025/aspose-pdf-for-java-25-1-release-notes/"
 }
