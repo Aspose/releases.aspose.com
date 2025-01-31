@@ -12,7 +12,5 @@ toc: false
 family_listing_page_title: "Aspose.BarCode for JasperReports 25.1 - Release Notes"
 menuItemWithNoContent: false
 ---
-
 {{% alert color="primary" %}}
-
 This page contains release notes information for Aspose.BarCode for JasperReports 25.1 based on features from [Aspose.BarCode for Java 25.1](https://releases.aspose.com/barcode/java/25-1/).
