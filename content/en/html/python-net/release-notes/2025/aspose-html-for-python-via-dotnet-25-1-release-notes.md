@@ -21,8 +21,8 @@ As per the regular monthly update process of all APIs being offered by Aspose, w
 In this release of Aspose.HTML for .NET, we have significantly enhanced the quality of Markdown (MD) to HTML conversion, ensuring more accurate and consistent rendering of Markdown documents. Additionally, we have improved support for the Webp image format and implemented minor refinements to further optimize the output quality, making the library even more efficient and user-friendly.
 
 **Package references**<br>
-Aspose.HTML for .NET 25.1 [NuGet](https://www.nuget.org/packages/Aspose.Html)<br>
-Aspose.HTML.Drawing for .NET 25.1 [NuGet](https://www.nuget.org/packages/Aspose.Html.Drawing)<br>
+Aspose.HTML for .NET 25.1.0 [NuGet](https://www.nuget.org/packages/Aspose.Html)<br>
+Aspose.HTML.Drawing for .NET 25.1.0 [NuGet](https://www.nuget.org/packages/Aspose.Html.Drawing)<br>
 Aspose.HTML for Python via .NET  25.1.0 [PyPI](https://pypi.org/project/aspose-html-net/)
 
 
