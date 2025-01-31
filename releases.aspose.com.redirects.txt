@@ -907,7 +907,7 @@ rewrite ^/images/java/$ https://releases.aspose.com/imaging/java/ permanent;
 rewrite ^/java/plugins/com/aspose/aspose-barcode/$ https://releases.aspose.com/java/repo/com/aspose/aspose-barcode/ permanent;
 rewrite ^/mail/java/24-6/$ https://releases.aspose.com/email/java/24-6/ permanent;
 # Commented out the following redirect as it seems a typo. (Jan 31, 2024)
-rewrite ^/pdf/java/24-1/$ https://releases.aspose.com/pdf/java/24-1/ permanent;
+# rewrite ^/pdf/java/24-1/$ https://releases.aspose.com/pdf/java/24-1/ permanent;
 rewrite ^/pdf/java/release-notes/2023/aspose-pdf-for-java-23-release-notes/$ https://releases.aspose.com/pdf/java/release-notes/2023/ permanent;
 # rewrite ^/pdf/net/release-notes/2010/aspose-pdf-for-net-4.6.0-release-notes/$ https://releases.aspose.com/pdf/net/release-notes/2010/aspose-pdf-for-net-4-6-0-release-notes/ permanent;
 rewrite ^/pdf/net/release-notes/2016/aspose-pdf-for-net-11-10-0-release-notes/$ https://releases.aspose.com/pdf/net/release-notes/2016/aspose-pdf-for-net-11-9-0-release-notes/ permanent;
