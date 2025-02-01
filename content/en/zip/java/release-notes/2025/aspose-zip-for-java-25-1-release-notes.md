@@ -24,7 +24,6 @@ This page contains release notes information for [Aspose.ZIP for Java 25.1](http
 |**Key**|**Summary**|**Issue Type**|
 | :- | :- | :- |
 | ZIPNET-1239 | Extract ARJ archive. | Feature |
-| ZIPNET-1241 | Do not refer superfluous dependencies for .NET Framework 4.6.1 and above. | Enhancement |
 | ZIPNET-1243 | Drop LHA archive directory entry. Expose path and modification date of LHA entry. | Enhancement |
 | ZIPNET-1244 | Do not extract LHA archive from too short stream. | Bug |
 | ZIPJAVA-213 | Incorrect exception type while extracting encrypted ZIP with wrong password. | Bug |
