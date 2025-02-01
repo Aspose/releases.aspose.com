@@ -6,12 +6,12 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/cad/python-net/new-releases/aspose.cad-for-python-via-.net-25.1.0-linux-x86_64/"
 folder_name: ".NET 25.1.0 Linux x86_64 aracılığıyla Python için Aspose.CAD"
-download_link: "/cad/python-net/new-releases/aspose.cad-for-python-via-.net-25.1.0-linux-x86_64/62df34bf4456c5a589707486f23f069f-25-12422"
+download_link: "/cad/python-net/new-releases/aspose.cad-for-python-via-.net-25.1.0-linux-x86_64/06e9b611f0e508b626ca0d98758aed9a-43-12422"
 download_text: "İndirmek"
 intro_text: "Bu tekerlek, Linux için oluşturulmuş .NET sürüm 25.1.0 aracılığıyla Python için Aspose.CAD'i içerir."
 image_link: "/resources/img/random-file-icon.png"
 download_count: " 1/2/2025 İndirmeks: 1  Views: 1 "
-file_size: "File Size: 120.72MB"
+file_size: "File Size: 214.76MB"
 parent_path: "cad/python-net"
 section_parent_path: "cad/python-net"
 
@@ -24,19 +24,19 @@ weight: 32
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt=".NET 25.1.0 Linux x86_64 aracılığıyla Python için Aspose.CAD" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="İndirmek" link="/cad/python-net/new-releases/aspose.cad-for-python-via-.net-25.1.0-linux-x86_64/62df34bf4456c5a589707486f23f069f-25-12422" >}}
+    {{< Releases/ReleasesSingleButtons text="İndirmek" link="/cad/python-net/new-releases/aspose.cad-for-python-via-.net-25.1.0-linux-x86_64/06e9b611f0e508b626ca0d98758aed9a-43-12422" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/cad" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} İndirmeks: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-62df34bf4456c5a589707486f23f069f-25-12422" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-06e9b611f0e508b626ca0d98758aed9a-43-12422" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Dosya boyutu: {{< /Common/li >}}
-      {{< Common/li id="size-update-62df34bf4456c5a589707486f23f069f-25-12422" >}} 120.72MB {{< /Common/li >}}
+      {{< Common/li id="size-update-06e9b611f0e508b626ca0d98758aed9a-43-12422" >}} 214.76MB {{< /Common/li >}}
 
       {{< Common/li >}} Ekleme Tarihi: {{< /Common/li >}}
-      {{< Common/li id="added-update-62df34bf4456c5a589707486f23f069f-25-12422" >}}1/2/2025 {{< /Common/li >}}
+      {{< Common/li id="added-update-06e9b611f0e508b626ca0d98758aed9a-43-12422" >}}1/2/2025 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
