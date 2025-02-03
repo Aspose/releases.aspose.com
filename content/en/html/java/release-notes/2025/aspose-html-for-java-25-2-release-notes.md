@@ -27,25 +27,25 @@ We added the new feature Accessibility for testing WCAG 2 (Web Content Accessibi
 
 ### **Added APIs**
 
-- package [com.aspose.html.accessibility](https://reference2.aspose.com/html/java/com.aspose.html.accessibility/)
-  - Class [AccessibilityRules](https://reference2.aspose.com/html/java/com.aspose.html.accessibility/accessibilityrules/)
-  - Class [AccessibilityValidator](https://reference2.aspose.com/html/java/com.aspose.html.accessibility/AccessibilityValidator)
-  - Class [Criterion](https://reference2.aspose.com/html/java/com.aspose.html.accessibility/Criterion)
-  - Class [Guideline](https://reference2.aspose.com/html/java/com.aspose.html.accessibility/Guideline)
-  - Class [Principle](https://reference2.aspose.com/html/java/com.aspose.html.accessibility/Principle)
-  - Class [Rule](https://reference2.aspose.com/html/java/com.aspose.html.accessibility/Rule)
-  - Class [Target](https://reference2.aspose.com/html/java/com.aspose.html.accessibility/Target)
-  - Class [ValidationBuilder](https://reference2.aspose.com/html/java/com.aspose.html.accessibility/ValidationBuilder)
-  - Class [WebAccessibility](https://reference2.aspose.com/html/java/com.aspose.html.accessibility/WebAccessibility)
+- package [com.aspose.html.accessibility](https://reference.aspose.com/html/java/com.aspose.html.accessibility/)
+  - Class [AccessibilityRules](https://reference.aspose.com/html/java/com.aspose.html.accessibility/accessibilityrules/)
+  - Class [AccessibilityValidator](https://reference.aspose.com/html/java/com.aspose.html.accessibility/AccessibilityValidator)
+  - Class [Criterion](https://reference.aspose.com/html/java/com.aspose.html.accessibility/Criterion)
+  - Class [Guideline](https://reference.aspose.com/html/java/com.aspose.html.accessibility/Guideline)
+  - Class [Principle](https://reference.aspose.com/html/java/com.aspose.html.accessibility/Principle)
+  - Class [Rule](https://reference.aspose.com/html/java/com.aspose.html.accessibility/Rule)
+  - Class [Target](https://reference.aspose.com/html/java/com.aspose.html.accessibility/Target)
+  - Class [ValidationBuilder](https://reference.aspose.com/html/java/com.aspose.html.accessibility/ValidationBuilder)
+  - Class [WebAccessibility](https://reference.aspose.com/html/java/com.aspose.html.accessibility/WebAccessibility)
                                         
 
-- package [com.aspose.html.accessibility.results](https://reference2.aspose.com/html/java/com.aspose.html.accessibility.results/)
-  - Class [RuleValidationResult](https://reference2.aspose.com/html/java/com.aspose.html.accessibility/RuleValidationResult)
-  - Class [ValidationResult](https://reference2.aspose.com/html/java/com.aspose.html.accessibility/ValidationResult)
+- package [com.aspose.html.accessibility.results](https://reference.aspose.com/html/java/com.aspose.html.accessibility.results/)
+  - Class [RuleValidationResult](https://reference.aspose.com/html/java/com.aspose.html.accessibility/RuleValidationResult)
+  - Class [ValidationResult](https://reference.aspose.com/html/java/com.aspose.html.accessibility/ValidationResult)
 
 
-- package [com.aspose.html.Accessibility.Saving](https://reference2.aspose.com/html/java/com.aspose.html.accessibility.saving/)
-  - Class [ValidationResultSaveFormat](https://reference2.aspose.com/html/java/com.aspose.html.accessibility/ValidationResultSaveFormat)
+- package [com.aspose.html.Accessibility.Saving](https://reference.aspose.com/html/java/com.aspose.html.accessibility.saving/)
+  - Class [ValidationResultSaveFormat](https://reference.aspose.com/html/java/com.aspose.html.accessibility/ValidationResultSaveFormat)
 
 
 `
