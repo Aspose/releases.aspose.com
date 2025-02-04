@@ -37,27 +37,43 @@ menuItemWithNoContent: false
 Class     aspose.imaging.xmp.XmpCollection
 
 Method    aspose.imaging.ColorPaletteHelper.create_grayscale(bits)
+
 Method    aspose.imaging.fileformats.emf.EmfImage.get_original_options()
+
 Method    aspose.imaging.fileformats.wmf.WmfImage.get_original_options()
+
 Method    aspose.imaging.imageoptions.EmfRasterizationOptions.CopyTo(vector_rasterization_options)
+
 Method    aspose.imaging.imageoptions.WmfRasterizationOptions.CopyTo(vector_rasterization_options)
+
 Method    aspose.imaging.RawDataSettings.clone()
+
 Method    aspose.imaging.xmp.types.XmpTypeBase.Clone()
+
 Method    Aspose.Imaging.Xmp.XmpCollection.XmpCollection()
+
 Method    aspose.imaging.xmp.XmpCollection.add_item(item)
+
 Method    aspose.imaging.xmp.XmpCollection.clear()
+
 Method    aspose.imaging.xmp.XmpCollection.get_xml_value()
+
 Method    aspose.imaging.xmp.XmpCollection.get_xmp_representation()
+
 Method    aspose.imaging.xmp.XmpPacketWrapper.get_xml_value()
 
 Property  aspose.imaging.exif.ExifData.orientation
+
 Property  aspose.imaging.fileformats.svg.SvgImage.xmp_data
 
 ### Removed APIs:
 
 Method    aspose.imaging.xmp.XmpArray.XmpArray(type)
+
 Method    aspose.imaging.xmp.XmpArray.add_item(item)
+
 Method    aspose.imaging.xmp.XmpArray.get_xml_value()
+
 Property  aspose.imaging.exif.JpegExifData.orientation
 
 
