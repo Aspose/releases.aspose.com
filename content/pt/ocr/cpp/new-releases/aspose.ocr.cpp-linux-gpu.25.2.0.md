@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/cpp/new-releases/aspose.ocr.cpp-linux-gpu.25.2.0/"
-folder_name: "Aspose.Ocr.Cpp-Linux-Gpu.25.2.0"
+folder_name: "Aspose.Ocr.Cpp-GPU.25.2.0"
 download_link: "/ocr/cpp/new-releases/aspose.ocr.cpp-linux-gpu.25.2.0/40867665d5cb2eaad80a3d89f23be6f6-2-12449"
 download_text: "Download"
 intro_text: "Pequenas melhorias e correções."
@@ -22,7 +22,7 @@ weight: 132
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Ocr.Cpp-Linux-Gpu.25.2.0" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Ocr.Cpp-GPU.25.2.0" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/ocr/cpp/new-releases/aspose.ocr.cpp-linux-gpu.25.2.0/40867665d5cb2eaad80a3d89f23be6f6-2-12449" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/ocr" >}}
