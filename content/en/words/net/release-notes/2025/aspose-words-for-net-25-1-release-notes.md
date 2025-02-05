@@ -1,7 +1,7 @@
 ---
 id: "aspose-words-for-net-25-1-release-notes"
 slug: "aspose-words-for-net-25-1-release-notes"
-linktitle: "Aspose.Words for .NET 24.12 Release Notes"
+linktitle: "Aspose.Words for .NET 25.1 Release Notes"
 title: "Aspose.Words for .NET 25.1 Release Notes"
 weight: 70
 description: "Aspose.Words for .NET 25.1 Release Notes – Latest Updates and Fixes in January 2025"
