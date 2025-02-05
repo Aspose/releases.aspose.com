@@ -30,8 +30,8 @@ A comprehensive description of all methods and properties, along with code examp
 
 There are 111 improvements and fixes in this regular monthly release. The most notable are:
 
-- **List Management:** Introduced the [`ListCollection.AddSingleLevelList()`](https://reference.aspose.com/words/net/aspose.words.lists/listcollection/addsinglelevellist/) method for improved list handling.  
-- **Font Features:** Added the [`Font.NumberSpacing`](https://reference.aspose.com/words/net/aspose.words/font/numberspacing/) property for enhanced typographic control.  
+- **List Management:** Introduced the [ListCollection.AddSingleLevelList()](https://reference.aspose.com/words/net/aspose.words.lists/listcollection/addsinglelevellist/) method for improved list handling.  
+- **Font Features:** Added the [Font.NumberSpacing](https://reference.aspose.com/words/net/aspose.words/font/numberspacing/) property for enhanced typographic control.  
 - **AI-Powered Text Processing:** Enabled text summarization using Anthropic generative language models.  
 - **Expanded Format Support:** Added compatibility for Microsoft Works document format.  
 - **PDF Improvements:** Enhanced PDF logical structure with support for TOA, BIBLIOGRAPHY, and INDEX fields.
