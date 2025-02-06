@@ -37,7 +37,7 @@ This page contains release notes for [ Aspose.Slides for .NET 25.2](https://www.
 
 ## Public API Changes
 
-### Added New Properties: `IAudioFrame.FadeInDuration`, `IAudioFrame.FadeOutDuration`, and `IAudioFrame.VolumeValue`
+### Added New Properties: IAudioFrame.FadeInDuration, IAudioFrame.FadeOutDuration, and IAudioFrame.VolumeValue
 
 The new properties, `FadeInDuration` and `FadeOutDuration`, have been added to the `IAudioFrame` interface and the `AudioFrame` class. These properties allow you to specify the duration of the fade-in and fade-out effects for the media.
 
@@ -74,7 +74,7 @@ using (Presentation pres = new Presentation())
 }
 ```
 
-### Added New Properties: `IAudioFrame.TrimFromStart` and `IAudioFrame.TrimFromEnd`
+### Added New Properties: IAudioFrame.TrimFromStart and IAudioFrame.TrimFromEnd
 
 The new properties, `TrimFromStart` and `TrimFromEnd`, have been added to the `IAudioFrame` interface and the `AudioFrame` class. These properties allow you to specify the duration to trim from the start and end of the media during playback.
 
@@ -93,7 +93,7 @@ using (Presentation pres = new Presentation())
 }
 ```
 
-### Added New Properties: `IRenderingOptions.DisableFontLigatures`, `ISVGOptions.DisableFontLigatures`, and `IHtmlOptions.DisableFontLigatures`
+### Added New Properties: IRenderingOptions.DisableFontLigatures, ISVGOptions.DisableFontLigatures, and IHtmlOptions.DisableFontLigatures
 
 The new property, `DisableFontLigatures`, has been added to the `IRenderingOptions`, `ISVGOptions`, and `IHtmlOptions` interfaces, as well as their implementation classes. This property allows you to control text rendering during export by enabling or disabling ligatures in the rendered text.
 
@@ -112,7 +112,7 @@ using (Presentation pres = new Presentation("example.pptx"))
 }
 ```
 
-### Added New Properties: `ITextFrame.ParentShape` and `ITextFrame.ParentCell`
+### Added New Properties: ITextFrame.ParentShape and ITextFrame.ParentCell
 
 The new properties, `ParentShape` and `ParentCell`, have been added to the `ITextFrame` interface and the `TextFrame` class. 
 - The `ParentShape` property returns the parent shape or `null` if the parent object does not implement the `IShape` interface.
