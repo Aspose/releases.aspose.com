@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-diagram",
+  "id" : "25-2",
+  "packageFiles" : [ {
+    "size" : "1 MB",
+    "name" : "aspose-diagram-25.2-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "3 MB",
+    "name" : "aspose-diagram-25.2.jar"
+  }, {
+    "size" : "797 bytes",
+    "name" : "aspose-diagram-25.2.pom"
+  } ],
+  "releasehDate" : "2025-02-11T07:08:43+00:00",
+  "version" : "25.2",
+  "ReleaseNotes" : "https://releases.aspose.com/diagram/java/release-notes/2025/aspose-diagram-for-java-25-2-release-notes/"
+}
