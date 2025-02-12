@@ -191,6 +191,7 @@ private static void AddTextBoxFieldToPdf()
 **Other notable enhancements**
 
 |**Key**|**Summary**|
+| :- | :- |
 |PDFNET-58866|Enhance image compression without quality loss on PDF optimization|
 |PDFNET-58999|Updating System.Text.Json dependency version to avoid possible vulnerability|
 |PDFNET-59123|PDF signature attack detection improved to prevent false positives|
@@ -322,7 +323,8 @@ For Aspose.PDF 25.2 we have completed work on the namespaces for APIs to make th
 
 **Moved:**
 
-|= |=**Before**|=**After**|
+| |**Before**|**After**|
+| :- | :- | :- |
 | Type | Aspose.Pdf.PdfToMarkdown.EmphasisStyle  | Aspose.Pdf.EmphasisStyle |
 | Field | Aspose.Pdf.PdfToMarkdown.EmphasisStyle.Asterisk  | Aspose.Pdf.EmphasisStyle.Asterisk |
 | Field | Aspose.Pdf.PdfToMarkdown.EmphasisStyle.Underscore  | Aspose.Pdf.EmphasisStyle.Underscore |
