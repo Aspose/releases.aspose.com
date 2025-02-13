@@ -16,9 +16,13 @@ tags: ['excel-pdf-ods-reporting-services', 'Excel-Conversion-API', 'Excel-Conver
 weight:  1
 ---
 
-## Aspose.Cells for .NET Releases
+<br>
 
-[![Product Page](https://img.shields.io/badge/Product-0288d1?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://products.aspose.com/cells/net/) [![Docs](https://img.shields.io/badge/Docs-388e3c?style=for-the-badge&logo=Hugo&logoColor=white)](https://docs.aspose.com/cells/net/) [![API Ref](https://img.shields.io/badge/Reference-f39c12?style=for-the-badge&logo=html5&logoColor=white)](https://reference.aspose.com/cells/net/) [![Examples](https://img.shields.io/badge/Examples-1565c0?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/aspose-cells/Aspose.Cells-for-.NET) [![Blog](https://img.shields.io/badge/Blog-d32f2f?style=for-the-badge&logo=WordPress&logoColor=white)](https://blog.aspose.com/category/cells/) [![Releases](https://img.shields.io/badge/Releases-43a047?style=for-the-badge)](https://releases.aspose.com/cells/net/) [![Support](https://img.shields.io/badge/Support-7b1fa2?style=for-the-badge&logo=Discourse&logoColor=white)](https://forum.aspose.com/c/cells) [![License](https://img.shields.io/badge/License-ff6f00?style=for-the-badge&logo=rocket&logoColor=white)](https://purchase.aspose.com/temporary-license/)
+[![Product Page](https://img.shields.io/badge/Product-0288d1?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://products.aspose.com/cells/net/) [![Documentation](https://img.shields.io/badge/Documentation-388e3c?style=for-the-badge&logo=Hugo&logoColor=white)](https://docs.aspose.com/cells/net/) [![API Ref](https://img.shields.io/badge/Reference-f39c12?style=for-the-badge&logo=html5&logoColor=white)](https://reference.aspose.com/cells/net/) [![Examples](https://img.shields.io/badge/Examples-1565c0?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/aspose-cells/Aspose.Cells-for-.NET) [![Blog](https://img.shields.io/badge/Blog-d32f2f?style=for-the-badge&logo=WordPress&logoColor=white)](https://blog.aspose.com/category/cells/) [![Support](https://img.shields.io/badge/Support-7b1fa2?style=for-the-badge&logo=Discourse&logoColor=white)](https://forum.aspose.com/c/cells) [![License](https://img.shields.io/badge/License-ff6f00?style=for-the-badge&logo=rocket&logoColor=white)](https://purchase.aspose.com/temporary-license/)
+
+---
+
+## Aspose.Cells for .NET Releases
 
 ### **Installation**
 
@@ -83,9 +87,10 @@ weight:  1
 
 </details>
 
----
+### **Introduction**
 
-[![Version](https://img.shields.io/nuget/v/Aspose.Cells?style=for-the-badge&logo=NuGet&logoColor=white)](https://www.nuget.org/packages/Aspose.Cells) ![NuGet](https://img.shields.io/nuget/dt/Aspose.Cells?style=for-the-badge&logo=nuget&logoColor=white&color=007EC6) [![Org](https://img.shields.io/badge/Org-asposenet-blue?style=for-the-badge&logo=NuGet&logoColor=white&color=007EC6)](https://www.nuget.org/profiles/asposenet)
+<details>
+<summary>Aspose.Cells for .NET Introduction (click to expand)</summary>
 
 [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) is a powerful spreadsheet management library that allows developers to create, format, and manipulate Excel files programmatically without the need for Microsoft Excel. It supports features like creating Pivot Tables, applying advanced conditional formatting, converting workbooks to multiple formats (PDF, HTML, JSON), working with charts, Smart Markers, OLE objects, and filtering data—all using C#. With extensive support for rendering and automation, it offers a seamless and versatile solution for Excel automation in .NET applications.
 
@@ -503,11 +508,11 @@ chart.ValueAxis.MajorGridLines.IsVisible = false;
 workbook.Save("ChartWithTitles.xlsx");
 ```
 
----
-
-[![Product Page](https://img.shields.io/badge/Product-0288d1?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://products.aspose.com/cells/net/) [![Docs](https://img.shields.io/badge/Docs-388e3c?style=for-the-badge&logo=Hugo&logoColor=white)](https://docs.aspose.com/cells/net/) [![API Ref](https://img.shields.io/badge/Reference-f39c12?style=for-the-badge&logo=html5&logoColor=white)](https://reference.aspose.com/cells/net/) [![Examples](https://img.shields.io/badge/Examples-1565c0?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/aspose-cells/Aspose.Cells-for-.NET) [![Blog](https://img.shields.io/badge/Blog-d32f2f?style=for-the-badge&logo=WordPress&logoColor=white)](https://blog.aspose.com/category/cells/) [![Releases](https://img.shields.io/badge/Releases-43a047?style=for-the-badge)](https://releases.aspose.com/cells/net/) [![Support](https://img.shields.io/badge/Support-7b1fa2?style=for-the-badge&logo=Discourse&logoColor=white)](https://forum.aspose.com/c/cells) [![License](https://img.shields.io/badge/License-ff6f00?style=for-the-badge&logo=rocket&logoColor=white)](https://purchase.aspose.com/temporary-license/)
+</details>
 
 ---
+
+[![Version](https://img.shields.io/nuget/v/Aspose.Cells?style=for-the-badge&logo=NuGet&logoColor=white)](https://www.nuget.org/packages/Aspose.Cells) ![NuGet](https://img.shields.io/nuget/dt/Aspose.Cells?style=for-the-badge&logo=nuget&logoColor=white&color=007EC6) [![Org](https://img.shields.io/badge/Org-asposenet-blue?style=for-the-badge&logo=NuGet&logoColor=white&color=007EC6)](https://www.nuget.org/profiles/asposenet) [![Release Notes](https://img.shields.io/badge/Release%20Notes-43a047?style=for-the-badge&logo=hugo&logoColor=white)](https://releases.aspose.com/cells/net/release-notes/)
 
 {{< ProductPageWrapper >}}
 <!-- ReleasesListProductPage-->
