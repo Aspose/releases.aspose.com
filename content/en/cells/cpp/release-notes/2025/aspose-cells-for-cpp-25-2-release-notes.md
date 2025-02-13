@@ -228,9 +228,9 @@ Add new method:
 
 {{% alert color="primary" %}}
 
-double GetCoustomDisplayUnit()
+double GetCustomDisplayUnit()
 
-void SetCoustomDisplayUnit(double value)
+void SetCustomDisplayUnit(double value)
 
 {{% /alert %}}
 
