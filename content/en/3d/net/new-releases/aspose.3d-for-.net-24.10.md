@@ -112,7 +112,7 @@ weight: 375
 {{% Releases/ReleasesFileFeatures %}}
 
 
-#### Release Notes Summary
+#### Release Notes Highlights
 
 Explore the latest Aspose.3D for .NET 24.10 release featuring center line profile support, Boolean IFC improvements, enhanced IFC compatibility, and crucial bug fixes for an improved 3D experience.
 
