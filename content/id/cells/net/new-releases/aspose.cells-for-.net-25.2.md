@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/net/new-releases/aspose.cells-for-.net-25.2/"
-folder_name: "Aspose.Sel untuk .NET 25.2"
+folder_name: "Aspose.Cells untuk .NET 25.2 (Hanya DLL)"
 download_link: "/cells/net/new-releases/aspose.cells-for-.net-25.2/8c58531097ddac8ea8f82e93b7aec7d1-12-12505"
 download_text: "Unduh"
 intro_text: "File ZIP ini hanya berisi Aspose.Cells untuk rakitan .NET. Rakitannya sama seperti pada penginstal MSI produk dengan versi yang sama. Unduh ini jika Anda ingin menggunakan Aspose.Cells tanpa penginstal MSI, misalnya, Anda mungkin tidak menjalankan penginstal MSI di Mono atau beberapa lingkungan lainnya. Unduhan ZIP ini tidak berisi dokumentasi pengguna dalam format Bantuan Microsoft yang disertakan dalam penginstal MSI."
@@ -22,7 +22,7 @@ weight: 728
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Sel untuk .NET 25.2" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Cells untuk .NET 25.2 (Hanya DLL)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Unduh" link="/cells/net/new-releases/aspose.cells-for-.net-25.2/8c58531097ddac8ea8f82e93b7aec7d1-12-12505" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/cells" >}}

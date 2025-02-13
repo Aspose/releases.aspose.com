@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/net/new-releases/aspose.cells-for-.net-25.2/"
-folder_name: "Aspose.Cells pour .NET 25.2"
+folder_name: "Aspose.Cells pour .NET 25.2 (DLL uniquement)"
 download_link: "/cells/net/new-releases/aspose.cells-for-.net-25.2/8c58531097ddac8ea8f82e93b7aec7d1-12-12505"
 download_text: "Télécharger"
 intro_text: "Ce fichier ZIP contient uniquement les assemblys Aspose.Cells pour .NET. Les assemblys sont les mêmes que dans l'installateur MSI du produit de la même version. Téléchargez-le si vous souhaitez utiliser Aspose.Cells sans le programme d'installation MSI, par exemple, vous ne pourrez peut-être pas exécuter les programmes d'installation MSI sur Mono ou sur certains autres environnements. Ce téléchargement ZIP ne contient pas la documentation utilisateur au format d'aide Microsoft incluse dans le programme d'installation MSI."
@@ -22,7 +22,7 @@ weight: 728
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Cells pour .NET 25.2" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Cells pour .NET 25.2 (DLL uniquement)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Télécharger" link="/cells/net/new-releases/aspose.cells-for-.net-25.2/8c58531097ddac8ea8f82e93b7aec7d1-12-12505" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/cells" >}}

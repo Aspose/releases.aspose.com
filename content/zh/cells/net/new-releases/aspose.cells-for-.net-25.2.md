@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/net/new-releases/aspose.cells-for-.net-25.2/"
-folder_name: "Aspose.Cells for .NET 25.2"
+folder_name: "Aspose.Cells for .NET 25.2（仅限 DLL）"
 download_link: "/cells/net/new-releases/aspose.cells-for-.net-25.2/8c58531097ddac8ea8f82e93b7aec7d1-12-12505"
 download_text: "下载"
 intro_text: "此 ZIP 文件仅包含 Aspose.Cells for .NET 程序集。这些程序集与同一版本产品的 MSI 安装程序中的程序集相同。如果您想在没有 MSI 安装程序的情况下使用 Aspose.Cells，请下载此文件，例如，您可能无法在 Mono 或某些其他环境上运行 MSI 安装程序。此 ZIP 下载不包含 MSI 安装程序中包含的 Microsoft 帮助格式的用户文档。"
@@ -22,7 +22,7 @@ weight: 728
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Cells for .NET 25.2" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Cells for .NET 25.2（仅限 DLL）" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="下载" link="/cells/net/new-releases/aspose.cells-for-.net-25.2/8c58531097ddac8ea8f82e93b7aec7d1-12-12505" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/cells" >}}
