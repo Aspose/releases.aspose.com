@@ -11,7 +11,7 @@ family_listing_page_title: "Aspose.Cells for CPP 25.2 Release Notes"
 keywords: "Aspose.Cells for CPP 25.2 Release Notes, Aspose.Cells for CPP 25.2 updates and fixes"
 ---
 
-{{% alert color="primary" %}}
+{{% alert color="primary" %}} 
 
 This page contains release notes for Aspose.Cells for C++ 25.2.
 
