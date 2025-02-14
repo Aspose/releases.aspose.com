@@ -1,5 +1,4 @@
 ---
-
 title: "Downloads ---New Releases-aspose.cells-for-.net-24.11(dlls-only)"
 description: " "
 keywords: ""
@@ -14,11 +13,9 @@ download_count: " 12/11/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 55.33MB"
 parent_path: "cells/net"
 section_parent_path: "cells/net"
-
 tags: "Aspose.Cells for .NET(DLLs Only)"
 release_notes_url: "https://releases.aspose.com/cells/net/release-notes/2024/aspose-cells-for-net-24-11-release-notes/"
 weight: 722
-
 ---
 
 {{< Releases/ReleasesWapper >}}
