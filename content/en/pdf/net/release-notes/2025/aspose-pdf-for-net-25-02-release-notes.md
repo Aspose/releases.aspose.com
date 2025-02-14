@@ -24,7 +24,7 @@ This page contains release notes information for Aspose.PDF for .NET 25.2.
 
 ### Features and Enhancements
 
-**Aspose.PDF for .NET** [enables you to convert](https://docs.aspose.com/pdf/net/convert-pdf-to-pdfx/) a PDF file to a <abbr title="Portable Document Format eXchange">PDF/X</abbr> compliant PDF file. PDF/X is a subset of the PDF standard that facilitates graphics exchange and has a series of printing-related requirements which do not apply to standard PDF files. Starting from version 25.2 we supports PDF/X-4 standard. This feature was made according to the User's request PDFNET-56954. 
+**Aspose.PDF for .NET** [enables you to convert](https://docs.aspose.com/pdf/net/convert-pdf-to-pdfx/) a PDF file to a <abbr title="Portable Document Format eXchange">PDF/X</abbr>-compliant PDF file. PDF/X is a subset of the PDF standard that facilitates graphics exchange and has a series of printing-related requirements that do not apply to standard PDF files. Starting from version 25.2, we support the PDF/X-4 standard. This feature was made according to the User’s request PDFNET-56954. 
 
 The following code snippet shows how to convert PDF files to PDF/X-4 compliant PDF and provide an external ICC profile to ensure the proper color rendition.
 
@@ -56,8 +56,7 @@ private static void ConvertPdfToPdfX()
 }
 ```
 
-We've added an option to avoid twice call of the CustomSignHash delegate during signing. This was made at the User's request PDFNET-56058 that was originally reported as a bug.
-If you use SignHash to create a digital signature, you may find that the delegate is called twice during the document saving process. If for some reason you cannot afford two calls, for example, if a PIN code request occurs during the call, you can use the `AvoidEstimatingSignatureLength` option for the PKCS1, PKCS7, PKCS7Detached, and ExternalSignature classes.
+We’ve added an option to avoid twice calls from the CustomSignHash delegate during signing. This was made at the User’s request PDFNET-56058 which was originally reported as a bug. If you use SignHash to create a digital signature, you may find that the delegate is called twice during the document-saving process. Suppose for some reason you cannot afford two calls, for example. If a PIN code request occurs during the call, you can use the `AvoidEstimatingSignatureLength` option for the `PKCS1`, `PKCS7`, `PKCS7Detached`, and `ExternalSignature` classes.
 
 The following code shows the use of the new options:
 
@@ -98,9 +97,9 @@ private static void SignWithCertificate(string pfxFilePath, string password)
     }
 }
 ```
-Detailed information on the enhancement already added to the [documentation](https://docs.aspose.com/pdf/net/digitally-sign-pdf-file/#sign-a-pdf-with-hash-signing-function).
+Detailed information on the enhancement has already been added to the [documentation](https://docs.aspose.com/pdf/net/digitally-sign-pdf-file/#sign-a-pdf-with-hash-signing-function).
 
-In Aspose.PDF 25.2 we have added new `GetSignatureNames()` method to get information about digital signatures of PDF. It returns a list of `SignatureName` objects. The `SignatureName` prevents collisions when verifying signatures with the same names. Methods that accept the SignatureName type instead of a string signature name has also be added. _The old `PdfFileSignature.VerifySigned()` method is deprecated._
+In Aspose.PDF 25.2, we have added a new `GetSignatureNames()` method to obtain information about PDF digital signatures. This method returns a list of `SignatureName` objects, which prevents collisions when verifying signatures with the same names. Methods that accept the `SignatureName` type instead of a string signature name have also been added. _The old `PdfFileSignature.VerifySigned()` method is deprecated._
 This improvement is logged as PDFNET-58918 in our issue tracker. 
 
 Thus, the recommended code for verifying signatures changes to the following:
@@ -135,7 +134,7 @@ private static void Verify()
 }
 ```
 
-Possibility of adding a `TextBoxField` with several widget annotations has been added. This enhancement was made according to the User's request PDFNET-58251.
+The possibility of adding a `TextBoxField` with several widget annotations has been added. This enhancement was made according to the User’s request PDFNET-58251.
 
 Below is an example of the code used:
 ```cs
