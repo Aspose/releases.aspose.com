@@ -91,7 +91,7 @@ Supports to get names array for all the referenced worksheets of this ReferredAr
 
 Supports to set the alt text for CellRichValue.
 
-### **Adds new apis to support file formats of Dbf, Dif.**
+### **Adds new APIs to support file formats of Dbf, Dif.**
 
 FileFormatType.Dbf, LoadFormat.Dbf, LoadFormat.Dif, DbfLoadOptions, DifLoadOptions, SaveFormat.Dbf, DbfSaveOptions.
 
@@ -101,15 +101,15 @@ Supports to transform and save some special features(such as "Place in cell" pic
 
 ### **Adds new property ImageOrPrintOptions.SvgCssPrefix.**
 
-Gets and sets the prefix of the css name in svg,the default value is empty string.
+Gets and sets the prefix of the css name in svg, the default value is empty string.
 
 ### **Adds new method PivotTable.GetSource(bool isOriginal).**
 
-Supports to get pivottable's opriginal data source.
+Supports to get pivottable's original data source.
 
 ### **Adds new method PivotConditionalFormat.ApplyTo().**
 
-Supports to apply conditional formattings to specified location and scope.
+Supports to apply conditional formatting to specified location and scope.
 
 ### **Adds new property PowerQueryFormula.Description.**
 
@@ -125,9 +125,9 @@ Indicates the version of HTML is used when saving to Html or MHtml formats.
 
 ### **Obsoletes SaveFormat.XHtml enum.**
 
- Use HtmlSaveOptions.HtmlVersion property instead.
+Uses HtmlSaveOptions.HtmlVersion property instead.
 
 ### **Renames property Axis.CustomUnit to Axis.CustomDisplayUnit.**
 
-Makes the api more specific and user friendly.
+Makes the API more specific and user-friendly.
 
