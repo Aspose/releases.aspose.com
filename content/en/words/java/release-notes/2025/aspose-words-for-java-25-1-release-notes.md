@@ -231,7 +231,7 @@ public class CheckGrammarOptions
 {{< /highlight >}}
 
 This use case explains how to check grammar of a document using OpenAi generative model with revisions:
-{{< gist "aspose-words-gists" "f86d49dc0e6781b93e576539a01e6ca2" "ai-grammar.cs" >}}
+{{< gist "aspose-words-gists" "c012c14781944ce4cc5e31f35b08060a" "ai-grammar.java" >}}
 
 ### Added possibility to set image resolution in MarkdownSaveOptions
 
