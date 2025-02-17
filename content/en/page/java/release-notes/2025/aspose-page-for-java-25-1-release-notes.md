@@ -26,4 +26,4 @@ This page contains release notes information for Aspose.Page for Java 25.1.
 This release of Aspose.Page for Java is a maintenance release which has been migrated from the latest version of Aspose.Page for .NET. It includes all changes from the equivalent .NET version and further improves the overall stability of the API in terms of functionality.
 
 ### **Got any Query?**
-This release of Aspose.Page for Java is a maintenance release which has been migrated from the latest version of Aspose.Page for .NET. It includes all changes from the equivalent .NET version and further improves the overall stability of the API in terms of functionality.
+If you have any query related to Aspose.Page for Java API, please feel free to write to reach us on [Aspose.Font forum](https://forum.aspose.com/c/page/). We'll be glad to assist you with your inquiries.
