@@ -1,20 +1,24 @@
 ---
-id: "aspose-ocr-for-java-latest-release-notes"
-slug: "latest"
-weight: 1
 date: "2025-02-14"
+id: "aspose-ocr-for-java-25-2-0-release-notes"
+slug: "aspose-ocr-for-java-25-2-0-release-notes"
+linktitle: "Aspose.OCR for Java 25.2.0 - Release Notes"
+title: "Aspose.OCR for Java 25.2.0 - Release Notes"
 author: "Vladimir Lapin"
+weight: 111
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OCR for Java 25.2.0 (February 2025) release."
 type: "repository"
 layout: "release"
-title: Latest release
-linktitle: "Latest release"
-description: A summary of recent changes, enhancements and bug fixes in the latest release of Aspose.OCR for Java.
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OCR for Java 25.2.0 - Release Notes"
 keywords:
-- latest
-- patch
-- new
-- release
-- changelog
+- "2025"
+- "February"
+- "new"
+- "release"
+- "changelog"
+menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
