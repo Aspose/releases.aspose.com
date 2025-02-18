@@ -4,7 +4,7 @@ slug: "aspose-html-for-python-via-dotnet-25-2-release-notes"
 linktitle: "Aspose.HTML for Python via .NET 25.2 Release Notes"
 title: "Aspose.HTML for Python via .NET 25.2 Release Notes"
 weight: 110
-description: "In this release of Aspose.HTML for .NET, we have significantly enhanced the quality of Markdown (MD) to HTML conversion, ensuring more accurate and consistent rendering of Markdown documents. Additionally, we have improved support for the Webp image format and implemented minor refinements to further optimize the output quality, making the library even more efficient and user-friendly."
+description: "In this release of Aspose.HTML for .NET, we’ve enhanced the handling of list items (LI elements), improved support for converting MHTML documents, and expanded functionality for working with the WEBP format. These updates ensure better performance, stability, and overall quality across various rendering and conversion tasks."
 type: "repository"
 layout: "release"
 hideChildren: false
