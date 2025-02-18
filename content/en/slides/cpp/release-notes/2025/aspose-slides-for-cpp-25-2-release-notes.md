@@ -37,7 +37,7 @@ This page contains release notes for [Aspose.Slides for C++ 25.2](https://www.nu
 
 ## Public API Changes
 
-### Added New Methods: IAudioFrame::get_FadeInDuration(), IAudioFrame::set_FadeInDuration(), IAudioFrame::get_FadeOutDuration(), IAudioFrame::set_FadeOutDuration(), IAudioFrame::get_VolumeValue(), IAudioFrame::set_VolumeValue()
+### Added New Methods to get and set Fade In and Fade Out Duration of AudioFrame
 
 The new methods, `get_FadeInDuration()`, `set_FadeInDuration()`, `get_FadeOutDuration()` and `set_FadeOutDuration()`, have been added to the `IAudioFrame` interface and the `AudioFrame` class. These methods allow you to specify the duration of the fade-in and fade-out effects for the media.
 
@@ -58,7 +58,9 @@ audioFrame->set_FadeOutDuration(500.0f);
 pres->Save(u"AudioFrameFade_out.pptx", SaveFormat::Pptx);
 ```
 
-The new methods, `get_VolumeValue()` and `set_VolumeValue()`, has also been added to the `IAudioFrame` interface and the `AudioFrame` class. These methods allows you to adjust the audio volume as a percentage.
+### Added New Methods to get and set Volume Value of Audio Frame
+
+The new methods, `get_VolumeValue()` and `set_VolumeValue()`, have also been added to the `IAudioFrame` interface and the `AudioFrame` class. These methods allows you to adjust the audio volume as a percentage.
 
 This code sample demonstrates how to add a new audio frame with embedded audio and set its volume to 85%:
 
@@ -75,7 +77,7 @@ audioframe->set_VolumeValue(85.0f);
 pres->Save(u"AudioFrameValue_out.pptx", SaveFormat::Pptx);
 ```
 
-### Added New Methods: IAudioFrame::get_TrimFromStart, IAudioFrame::set_TrimFromStart(), IAudioFrame::get_TrimFromEnd(), IAudioFrame::set_TrimFromEnd()
+### Added New Methods to get and set Trim From Start and Trim From End Time of Audio Frame
 
 The new methods, `get_TrimFromStart()`, `set_TrimFromStart()`, `get_TrimFromEnd()` and `set_TrimFromEnd()`, have been added to the `IAudioFrame` interface and the `AudioFrame` class. These methods allow you to specify the duration to trim from the start and end of the media during playback.
 
@@ -95,9 +97,9 @@ audioFrame->set_TrimFromStart(1500.0f);
 audioFrame->set_TrimFromEnd(2000.0f);
 ```
 
-### Added New Methods: IRenderingOptions::get_DisableFontLigatures(), IRenderingOptions::set_DisableFontLigatures(), ISVGOptions::get_DisableFontLigatures(), ISVGOptions::set_DisableFontLigatures(), IHtmlOptions::get_DisableFontLigatures(), IHtmlOptions::set_DisableFontLigatures()
+### Added New Methods to Disable Ligatures in Export Options Classes
 
-The new methods, `get_DisableFontLigatures()` and `set_DisableFontLigatures()`, has been added to the `IRenderingOptions`, `ISVGOptions`, and `IHtmlOptions` interfaces, as well as their implementation classes. These methods allows you to control text rendering during export by enabling or disabling ligatures in the rendered text.
+The new methods, `get_DisableFontLigatures()` and `set_DisableFontLigatures()`, have been added to the `IRenderingOptions`, `ISVGOptions`, and `IHtmlOptions` interfaces, as well as their implementation classes. These methods allows you to control text rendering during export by enabling or disabling ligatures in the rendered text.
 
 The following code sample demonstrates how to disable ligatures during export using `set_DisableFontLigatures()` methods.
 
@@ -112,7 +114,7 @@ options->set_DisableFontLigatures(true); // Disable ligatures in rendered text
 pres->Save(u"output.html", SaveFormat::Html, options);
 ```
 
-### Added New Methods: ITextFrame::get_ParentShape() and ITextFrame::get_ParentCell()
+### Added New Methods to get Parent Shape or Parent Cell of Text Frame
 
 The new methods, `get_ParentShape()` and `get_ParentCell()`, have been added to the `ITextFrame` interface and the `TextFrame` class. 
 - The `get_ParentShape()` method returns the parent shape or `nullptr` if the parent object does not implement the `IShape` interface.
