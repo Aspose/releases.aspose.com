@@ -32,10 +32,6 @@ There are 81 improvements and fixes in this regular monthly release. The most no
 {{% alert color="secondary" %}}
 <details><summary>Expand to view the full list of reported issues.</summary>
 
-Here is the cleaned list without task identifiers, task types, and vertical slashes:
-
-Here's the modified list with the identifiers, types of tasks, and vertical slashes removed:
-
 1. Support paragraph indention and spacing
 2. Width of tables incorrect on rendering to PDF
 3. CellFormat.HorizontalMerge reduces the cell's width
