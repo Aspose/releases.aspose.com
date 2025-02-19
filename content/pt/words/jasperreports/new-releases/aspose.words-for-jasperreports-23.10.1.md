@@ -8,9 +8,9 @@ folder_link: "/words/jasperreports/new-releases/aspose.words-for-jasperreports-2
 folder_name: "Aspose.Words para JasperReports 23.10.1"
 download_link: "/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.10.1/403f49a63cfffb27d1b01e2a3dc3cfbe-11-12556"
 download_text: "Download"
-intro_text: "Ele contém Aspose.Words para JasperReports versão 23.10.1 com fonte padrão alterada em Blanck.doc"
+intro_text: "Ele contém Aspose.Words para JasperReports versão 23.10.1 com fonte padrão alterada em Blank.doc"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 19/2/2025 Downloads: 1  Views: 1 "
+download_count: " 19/2/2025 Downloads: 2  Views: 1 "
 file_size: "File Size: 54.3MB"
 parent_path: "words/jasperreports"
 section_parent_path: "words/jasperreports"
@@ -31,7 +31,7 @@ weight: 153
     {{< Releases/ReleasesHeading h4txt="Detalhes do arquivo">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-403f49a63cfffb27d1b01e2a3dc3cfbe-11-12556" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-403f49a63cfffb27d1b01e2a3dc3cfbe-11-12556" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} Tamanho do arquivo: {{< /Common/li >}}
       {{< Common/li id="size-update-403f49a63cfffb27d1b01e2a3dc3cfbe-11-12556" >}} 54.3MB {{< /Common/li >}}
 
@@ -43,7 +43,7 @@ weight: 153
       <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-10-1-release-notes/'>https://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-10-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Descrição</h4><div class="HTMLDescription">Ele contém Aspose.Words para JasperReports versão 23.10.1 com fonte padrão alterada em Blanck.doc</div>
+      <h4>Descrição</h4><div class="HTMLDescription">Ele contém Aspose.Words para JasperReports versão 23.10.1 com fonte padrão alterada em Blank.doc</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

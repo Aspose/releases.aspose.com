@@ -8,9 +8,9 @@ folder_link: "/words/jasperreports/new-releases/aspose.words-for-jasperreports-2
 folder_name: "Aspose.Words pour JasperReports 23.10.1"
 download_link: "/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.10.1/403f49a63cfffb27d1b01e2a3dc3cfbe-11-12556"
 download_text: "Télécharger"
-intro_text: "Il contient la version Aspose.Words pour JasperReports 23.10.1 avec une police par défaut modifiée dans Blanck.doc"
+intro_text: "Il contient la version Aspose.Words pour JasperReports 23.10.1 avec une police par défaut modifiée dans Blank.doc"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 19/2/2025 Téléchargers: 1  Views: 1 "
+download_count: " 19/2/2025 Téléchargers: 2  Views: 1 "
 file_size: "File Size: 54.3MB"
 parent_path: "words/jasperreports"
 section_parent_path: "words/jasperreports"
@@ -31,7 +31,7 @@ weight: 153
     {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Téléchargers: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-403f49a63cfffb27d1b01e2a3dc3cfbe-11-12556" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-403f49a63cfffb27d1b01e2a3dc3cfbe-11-12556" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} Taille du fichier: {{< /Common/li >}}
       {{< Common/li id="size-update-403f49a63cfffb27d1b01e2a3dc3cfbe-11-12556" >}} 54.3MB {{< /Common/li >}}
 
@@ -43,7 +43,7 @@ weight: 153
       <h4>Notes de version</h4><div><a href='https://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-10-1-release-notes/'>https://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-10-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>La description</h4><div class="HTMLDescription">Il contient la version Aspose.Words pour JasperReports 23.10.1 avec une police par défaut modifiée dans Blanck.doc</div>
+      <h4>La description</h4><div class="HTMLDescription">Il contient la version Aspose.Words pour JasperReports 23.10.1 avec une police par défaut modifiée dans Blank.doc</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
