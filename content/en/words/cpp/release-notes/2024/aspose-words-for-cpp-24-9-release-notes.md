@@ -35,10 +35,6 @@ There are 76 improvements and fixes in this regular monthly release. The most no
 {{% alert color="secondary" %}}
 <details><summary>Expand to view the full list of reported issues.</summary>
 
-Here is the cleaned list without task identifiers, task types, and vertical slashes:
-
-Here's the modified list with the identifiers, types of tasks, and vertical slashes removed:
-
 1. Provide a feature to get details for format revision
 2. Allow creating DML GroupShape
 3. Provide API to Remove the Footnote Endnote Separator Line

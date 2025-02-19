@@ -36,10 +36,6 @@ There are 74 improvements and fixes in this regular monthly release. The most no
 {{% alert color="secondary" %}}
 <details><summary>Expand to view the full list of reported issues.</summary>
 
-Here is the cleaned list without task identifiers, task types, and vertical slashes:
-
-Here's the modified list with the identifiers, types of tasks, and vertical slashes removed:
-
 1. Add overload of InsertGroupShape to group GroupShapes
 2. Make ShapeBase.Hidden property public
 3. Add feature to create CommandButton ActiveX

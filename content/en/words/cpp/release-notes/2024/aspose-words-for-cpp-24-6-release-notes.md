@@ -35,10 +35,6 @@ There are 77 improvements and fixes in this regular monthly release. The most no
 {{% alert color="secondary" %}}
 <details><summary>Expand to view the full list of reported issues.</summary>
 
-Here is the cleaned list without task identifiers, task types, and vertical slashes:
-
-Here's the modified list with the identifiers, types of tasks, and vertical slashes removed:
-
 1. Aspose.Words.UnsupportedFileFormatException "Unknown file format."
 2. Consider providing an option to take in account only SDT content upon comparing
 3. Add possibility to insert new ChartEx using DocumentBuilder.InsertChart method

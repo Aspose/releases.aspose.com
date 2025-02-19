@@ -36,10 +36,6 @@ There are 51 improvements and fixes in this regular monthly release. The most no
 {{% alert color="secondary" %}}
 <details><summary>Expand to view the full list of reported issues.</summary>
 
-Here is the cleaned list without task identifiers, task types, and vertical slashes:
-
-Here's the modified list with the identifiers, types of tasks, and vertical slashes removed:
-
 1. Provide a way to specify UpdateCreatedTimeProperty,UpdateLastPrintedProperty and UpdateLastSavedTimeProperty options while using Document.RenderToSize and Document.RenderToScale methods
 2. Add property to specify axis labels orientation
 3. Add property to specify axis labels rotation

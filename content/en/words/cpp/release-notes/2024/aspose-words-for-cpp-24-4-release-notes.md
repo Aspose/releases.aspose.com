@@ -33,8 +33,6 @@ There are 90 improvements and fixes in this regular monthly release. The most no
 {{% alert color="secondary" %}}
 <details><summary>Expand to view the full list of reported issues.</summary>
 
-Here is the cleaned list without task identifiers, task types, and vertical slashes:
-
 1. Consider providing a property to specify digital hash algorithm used by a digital signature in DigitalSignatureUtil.
 2. Add property ExportTextInputFormFieldAsText to HtmlFixedSaveOptions.
 3. Support of CSS3 font-face Rule.
