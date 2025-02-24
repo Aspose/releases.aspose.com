@@ -55,4 +55,4 @@ one that allows BOM (byte order mark) insertion selection and one without this o
 ```
 
 ### Recognition quality stability
-Fixes to barcode area detector were added which improves barcodes recognition stability in multi-threaded environment.
+Fixes to the barcode area detector were added, improving barcode recognition stability in a multi-threaded environment.
