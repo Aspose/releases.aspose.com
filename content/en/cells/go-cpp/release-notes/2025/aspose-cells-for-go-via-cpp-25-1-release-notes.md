@@ -3,7 +3,7 @@ id: "aspose-cells-for-go-via-cpp-25-1-release-notes"
 slug: "aspose-cells-for-go-via-cpp-25-1-release-notes"
 linktitle: "Aspose.Cells for Go via C++ 25.1 Release Notes"
 title: "Aspose.Cells for Go via C++ 25.1 Release Notes"
-weight: 6
+weight: 16
 description: "Aspose.Cells for Go via C++ 25.1 Release Notes – the latest enhancements, new features, and fixes."
 type: "repository"
 layout: "release"
