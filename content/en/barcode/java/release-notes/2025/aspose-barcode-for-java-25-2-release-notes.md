@@ -43,16 +43,35 @@ We currently have two variants of the method:
 one that allows BOM (byte order mark) insertion selection and one without this option.
 
 ```java
-    //Encode codetext of 2D barcodes with UTF8 encoding with byte order mark (BOM)
-    BarcodeGenerator generator = new BarcodeGenerator(EncodeTypes.CODE_128);
-    generator.setCodeText("123ABCD", StandardCharsets.UTF_8, true);
-    generator.save("barcode.png", BarCodeImageFormat.PNG);
-
-    //Encode codetext of 2D barcodes with UTF8 encoding without byte order mark (BOM)
-    BarcodeGenerator generator = new BarcodeGenerator(EncodeTypes.CODE_128);
-    generator.setCodeText("123ABCD", StandardCharsets.UTF_8, false);
-    generator.save("barcode.png", BarCodeImageFormat.PNG);
+    public class ExampleUsageInsertBom
+   {
+        private static final String folderPath = "PathToFolder";
+    
+        @Test
+        public void test() throws IOException
+        {
+            Path fullPath = Paths.get(folderPath, "barcode1.png");
+            BarcodeGenerator generator1 = new BarcodeGenerator(EncodeTypes.CODE_128);
+            generator1.setCodeText("123ABCD", StandardCharsets.US_ASCII,true);
+            generator1.save(fullPath.toString(), BarCodeImageFormat.PNG);
+    
+            BarcodeGenerator generator2 = new BarcodeGenerator(EncodeTypes.CODE_128);
+            generator2.setCodeText("123ABCD", StandardCharsets.ISO_8859_1);
+            generator2.save(Paths.get(folderPath, "barcode2.png").toString(), BarCodeImageFormat.PNG);
+    
+            BarcodeGenerator generator3 = new BarcodeGenerator(EncodeTypes.QR);
+            generator3.setCodeText("123ABCD", StandardCharsets.UTF_8, true);
+            generator3.save(Paths.get(folderPath, "barcode3.png").toString(), BarCodeImageFormat.PNG);
+    
+            BarcodeGenerator generator4 = new BarcodeGenerator(EncodeTypes.QR);
+            generator4.setCodeText("123ABCD", StandardCharsets.UTF_8, false);
+            generator4.save(Paths.get(folderPath, "barcode4.png").toString(), BarCodeImageFormat.PNG);
+        }
+   }
 ```
+This parameter affects only specific code types and encodings. 
+More information is available in the <a href="https://docs.aspose.com/barcode/java/how-to-use-insert-bom-parameter/" target="_blank">documentation</a>.
+
 
 ### Recognition quality stability
 Fixes to the barcode area detector were added, improving barcode recognition stability in a multi-threaded environment.
