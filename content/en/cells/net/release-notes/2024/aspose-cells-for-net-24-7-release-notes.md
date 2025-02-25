@@ -82,6 +82,10 @@ This page contains release notes for [Aspose.Cells for .NET 24.7](https://www.nu
 
 The following is a list of any changes made to the public API such as added, renamed, removed or deprecated members as well as any non-backward compatible change made to Aspose.Cells for .NET. If you have concerns about any change listed, please raise it on the Aspose.Cells support forum.
 
+### **Changes of system's default fonts loading by default**
+
+The Aspose.Cells APIs always scan the operating system’s default font directories on Windows, Linux, MacOS. Starting from Aspose.Cells for .NET 24.7, the APIs additionally scan Office cached cloud font directories by default.
+
 ### **Changes the behavior of Cells.ExportDataTable() methods**
 
 In old versions, when one cell's value is numeric and needs to be exported as string, we output it as raw literal of its value without formatting(so it is locale-independent).
