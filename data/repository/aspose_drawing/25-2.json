@@ -1,0 +1,20 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-drawing",
+  "id" : "25-2",
+  "packageFiles" : [ {
+    "size" : "1014 KB",
+    "name" : "aspose-drawing-25.2-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "14 MB",
+    "name" : "aspose-drawing-25.2-jdk18.jar",
+    "classifier" : "jdk18"
+  }, {
+    "size" : "1 KB",
+    "name" : "aspose-drawing-25.2.pom"
+  } ],
+  "releasehDate" : "2025-02-26T14:59:11+00:00",
+  "version" : "25.2",
+  "ReleaseNotes" : "https://releases.aspose.com/drawing/java/release-notes/2025/aspose-drawing-for-java-25-2-release-notes/"
+}
