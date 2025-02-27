@@ -24,7 +24,6 @@ This page contains release notes information for [Aspose.BarCode for Python via 
 |:------------------|:-----------------------------------------------------------------------------------|:----------------|
 | BARCODENET-37356  | Add QualitySettings support to NDTBase processor                                   | Enhancement     |
 | BARCODENET-39189  | Different ways to generate images yield different results                          | Enhancement     |
-| BARCODEPHP-856    | Enhance the BarcodeGenerator constructor to allow omitting the second parameter    | Enhancement     |
 | BARCODENET-39217  | Improve the sorting algorithm LikelihoodPairComparer class                         | Bug             |
 
 ## Public API changes and backwards compatibility
