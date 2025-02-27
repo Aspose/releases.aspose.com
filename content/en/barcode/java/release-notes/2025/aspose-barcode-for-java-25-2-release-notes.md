@@ -42,6 +42,61 @@ Updated the setCodeText methods for character set encodings.
 We currently have two variants of the method: 
 one that allows BOM (byte order mark) insertion selection and one without this option.
 
+{% highlight java %}
+   public class ExampleUsageInsertBom
+   {
+    private static final String folderPath = "PathToFolder";
+
+    @Test
+    public void test() throws IOException
+    {
+        BarcodeGenerator generator1 = new BarcodeGenerator(EncodeTypes.CODE_128);
+        generator1.setCodeText("123ABCD", StandardCharsets.US_ASCII,true);
+        generator1.save(Paths.get(folderPath, "barcode1.png").toString(), BarCodeImageFormat.PNG);
+    
+        BarcodeGenerator generator2 = new BarcodeGenerator(EncodeTypes.CODE_128);
+        generator2.setCodeText("123ABCD", StandardCharsets.ISO_8859_1);
+        generator2.save(Paths.get(folderPath, "barcode2.png").toString(), BarCodeImageFormat.PNG);
+    
+        BarcodeGenerator generator3 = new BarcodeGenerator(EncodeTypes.QR);
+        generator3.setCodeText("123ABCD", StandardCharsets.UTF_8, true);
+        generator3.save(Paths.get(folderPath, "barcode3.png").toString(), BarCodeImageFormat.PNG);
+    
+        BarcodeGenerator generator4 = new BarcodeGenerator(EncodeTypes.QR);
+        generator4.setCodeText("123ABCD", StandardCharsets.UTF_8, false);
+        generator4.save(Paths.get(folderPath, "barcode4.png").toString(), BarCodeImageFormat.PNG);
+    }
+   }
+{% endhighlight %}
+
+{{< highlight java >}}
+public class ExampleUsageInsertBom
+{
+private static final String folderPath = "PathToFolder";
+
+    @Test
+    public void test() throws IOException
+    {
+        BarcodeGenerator generator1 = new BarcodeGenerator(EncodeTypes.CODE_128);
+        generator1.setCodeText("123ABCD", StandardCharsets.US_ASCII,true);
+        generator1.save(Paths.get(folderPath, "barcode1.png").toString(), BarCodeImageFormat.PNG);
+    
+        BarcodeGenerator generator2 = new BarcodeGenerator(EncodeTypes.CODE_128);
+        generator2.setCodeText("123ABCD", StandardCharsets.ISO_8859_1);
+        generator2.save(Paths.get(folderPath, "barcode2.png").toString(), BarCodeImageFormat.PNG);
+    
+        BarcodeGenerator generator3 = new BarcodeGenerator(EncodeTypes.QR);
+        generator3.setCodeText("123ABCD", StandardCharsets.UTF_8, true);
+        generator3.save(Paths.get(folderPath, "barcode3.png").toString(), BarCodeImageFormat.PNG);
+    
+        BarcodeGenerator generator4 = new BarcodeGenerator(EncodeTypes.QR);
+        generator4.setCodeText("123ABCD", StandardCharsets.UTF_8, false);
+        generator4.save(Paths.get(folderPath, "barcode4.png").toString(), BarCodeImageFormat.PNG);
+    }
+}
+{{< /highlight >}}
+
+
 <pre><code class="language-java">
 public class ExampleUsageInsertBom
 {
