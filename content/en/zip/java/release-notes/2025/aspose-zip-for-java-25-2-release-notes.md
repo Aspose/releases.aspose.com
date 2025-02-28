@@ -33,11 +33,6 @@ This page contains release notes information for [Aspose.ZIP for Java 25.2](http
 | ZIPNET-1275 | Encrypted SevenZip entry does not keep modification time. | Bug |
 
 ## **Public API and Backwards Incompatible Changes**
-|**The following public types were added:**|**Description**|
-| :- | :- |
-| com.aspose.zip.ArjArchive | Class representing ARJ archive file. |
-| com.aspose.zip.ArjEntryPlain | Class representing single file within ARJ archive. |
-
 |**The following public methods were added:**|**Description**|
 | :- | :- |
 | com.aspose.zip.CabEntry.getModificationTime() | Gets last modified date and time. |
