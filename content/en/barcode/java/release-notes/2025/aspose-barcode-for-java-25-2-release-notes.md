@@ -43,7 +43,7 @@ We currently have two variants of the method:
 one that allows BOM (byte order mark) insertion selection and one without this option.
 
 
-{{< highlight java >}}
+~~{{< highlight java >}}
   public class ExampleUsageInsertBom
   {
     private static final String folderPath = "PathToFolder";
@@ -67,7 +67,7 @@ one that allows BOM (byte order mark) insertion selection and one without this o
         generator4.save(Paths.get(folderPath, "barcode4.png").toString(), BarCodeImageFormat.PNG);
     }
   }
-{{< /highlight >}}
+{{< /highlight >}}~~
 
 This parameter affects only specific code types and encodings. 
 More information is available in the <a href="https://docs.aspose.com/barcode/java/how-to-use-insert-bom-parameter/" target="_blank">documentation</a>.
