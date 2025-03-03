@@ -42,13 +42,13 @@ Method    aspose.imaging.fileformats.emf.EmfImage.get_original_options()
 
 Method    aspose.imaging.fileformats.wmf.WmfImage.get_original_options()
 
-Method    aspose.imaging.imageoptions.EmfRasterizationOptions.CopyTo(vector_rasterization_options)
+Method    aspose.imaging.imageoptions.EmfRasterizationOptions.copy_to(vector_rasterization_options)
 
-Method    aspose.imaging.imageoptions.WmfRasterizationOptions.CopyTo(vector_rasterization_options)
+Method    aspose.imaging.imageoptions.WmfRasterizationOptions.copy_to(vector_rasterization_options)
 
 Method    aspose.imaging.RawDataSettings.clone()
 
-Method    aspose.imaging.xmp.types.XmpTypeBase.Clone()
+Method    aspose.imaging.xmp.types.XmpTypeBase.clone()
 
 Method    Aspose.Imaging.Xmp.XmpCollection.XmpCollection()
 
