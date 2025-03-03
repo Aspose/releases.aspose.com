@@ -35,6 +35,10 @@ This page contains release notes for [Aspose.Cells for Java 24.7](https://releas
 
 The following is a list of any changes made to the public API such as added, renamed, removed or deprecated members as well as any non-backward compatible change made to Aspose.Cells for Java. If you have concerns about any change listed, please raise it on the Aspose.Cells support forum.
 
+### **Changes of system's default fonts loading by default**
+
+The Aspose.Cells APIs always scan the operating system’s default font directories on Windows, Linux, MacOS. Starting from Aspose.Cells for Java 24.7, the APIs additionally scan Office cached cloud font directories by default.
+
 ### **Adds AbstractCalculationEngine.ForceRecalculate(string functionName) method**
 
 Forces the custom function be recalculated always when calculating shared formulas, even if its parameters do not change for different cells of the same shared formula. By default this method returns false.

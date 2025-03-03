@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-page",
+  "id" : "25-2",
+  "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-page-25.2-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "17 MB",
+    "name" : "aspose-page-25.2.jar"
+  }, {
+    "size" : "393 bytes",
+    "name" : "aspose-page-25.2.pom"
+  } ],
+  "releasehDate" : "2025-02-25T09:14:50+00:00",
+  "version" : "25.2",
+  "ReleaseNotes" : "https://releases.aspose.com/page/java/release-notes/2025/aspose-page-for-java-25-2-release-notes/"
+}

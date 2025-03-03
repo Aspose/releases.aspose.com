@@ -38,10 +38,6 @@ There are 104 improvements and fixes in this regular monthly release. The most n
 {{% alert color="secondary" %}}
 <details><summary>Expand to view the full list of reported issues.</summary>
 
-Here is the cleaned list without task identifiers, task types, and vertical slashes:
-
-Here's the modified list with the identifiers, types of tasks, and vertical slashes removed:
-
 1. Provide ability to set a given ActiveX checkbox to checked or unchecked
 2. Implement export to PDF/UA-2
 3. Add feature to change the text direction of Datalabel

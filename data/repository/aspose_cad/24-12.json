@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-cad",
+  "id" : "24-12",
+  "packageFiles" : [ {
+    "size" : "27 MB",
+    "name" : "aspose-cad-24.12-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "38 MB",
+    "name" : "aspose-cad-24.12.jar"
+  }, {
+    "size" : "837 bytes",
+    "name" : "aspose-cad-24.12.pom"
+  } ],
+  "releasehDate" : "2025-02-21T16:23:16+00:00",
+  "version" : "24.12",
+  "ReleaseNotes" : "https://releases.aspose.com/cad/java/release-notes/2024/aspose-cad-for-java-24-12-release-notes/"
+}

@@ -36,10 +36,6 @@ There are 111 improvements and fixes in this regular monthly release. The most n
 {{% alert color="secondary" %}}
 <details><summary>Expand to view the full list of reported issues.</summary>
 
-Here is the cleaned list without task identifiers, task types, and vertical slashes:
-
-Here's the modified list with the identifiers, types of tasks, and vertical slashes removed:
-
 1. Provide an ability to set bar/column chart gapWidth and overlap
 2. Add feature to set series overlap in a chart
 3. Provide public API to get set BubbleScale

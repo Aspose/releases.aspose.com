@@ -33,10 +33,6 @@ There are 50 improvements and fixes in this regular monthly release. The most no
 {{% alert color="secondary" %}}
 <details><summary>Expand to view the full list of reported issues.</summary>
 
-Here is the cleaned list without task identifiers, task types, and vertical slashes:
-
-Here's the modified list with the identifiers, types of tasks, and vertical slashes removed:
-
 1. Provide ability to skip loading linked OLE objects
 2. Consider exporting paragraphs inside textbox shapes as paragraphs to PDF structure
 3. Provide API to change Chart's Data Label Position to Center, Inside End, Inside Base or Outside End
