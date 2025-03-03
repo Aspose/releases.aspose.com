@@ -16,6 +16,10 @@
     "classifier" : "jdk17"
   }, {
     "size" : "32 MB",
+    "name" : "aspose-html-25.3-jdk21.jar",
+    "classifier" : "jdk21"
+  }, {
+    "size" : "32 MB",
     "name" : "aspose-html-25.3-jdk8.jar",
     "classifier" : "jdk8"
   }, {
