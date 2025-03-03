@@ -4,6 +4,10 @@
   "id" : "25-3",
   "packageFiles" : [ {
     "size" : "32 MB",
+    "name" : "aspose-html-25.3-jdk1.8.jar",
+    "classifier" : "jdk1.8"
+  }, {
+    "size" : "32 MB",
     "name" : "aspose-html-25.3-jdk8.jar",
     "classifier" : "jdk8"
   }, {
@@ -13,7 +17,7 @@
     "size" : "394 bytes",
     "name" : "aspose-html-25.3.pom"
   } ],
-  "releasehDate" : "2025-03-03T15:05:24+00:00",
+  "releasehDate" : "2025-03-03T15:10:02+00:00",
   "version" : "25.3",
   "ReleaseNotes" : "https://releases.aspose.com/html/java/release-notes/2025/aspose-html-for-java-25-3-release-notes/"
 }
