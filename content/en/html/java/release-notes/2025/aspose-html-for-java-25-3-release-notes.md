@@ -25,7 +25,7 @@ We have fixed the block height calculation in HTML layout rendering.
 
 ## **Improvements and Changes**
 
-| **Key**          | **Summary**                                                                                                 | **Category** |
-|------------------|-------------------------------------------------------------------------------------------------------------|--------------|
-| HTMLJAVA-1977    | ArgumentException: Incompatible unit types in HTML rendering                                                | Bug          | 
-| HTMLJAVA-1916    | MHT imaging using aspose.html v24.12.2, AccuWeather.mthml file conversion doesn’t work partially when tried | Bug          | 
+| **Key**          | **Summary**                                                   | **Category** |
+|------------------|---------------------------------------------------------------|--------------|
+| HTMLJAVA-1977    | ArgumentException: Incompatible unit types in HTML rendering  | Bug          | 
+| HTMLJAVA-1916    | MHT imaging file conversion doesn’t work partially when tried | Bug          | 
