@@ -4,7 +4,7 @@ slug: "aspose-html-for-net-25-3-release-notes"
 linktitle: "Aspose.HTML for .NET 25.3 Release Notes"
 title: "Aspose.HTML for .NET 25.3 Release Notes"
 weight: 100
-description: "In this release of Aspose.HTML for .NET, we’ve improved the work with SVG transformation, as well as minor improvements in working with HTML documents and improved the quality of rendering HTML documents in various formats."
+description: "In this release of Aspose.HTML for .NET, we have improved the rendering of SVG documents and the handling of transformation properties by implementing support for the transform-origin property. We have also fixed the resolution of relative paths in documents that were redirected from the original URL. In addition, we have improved the handling of XML entities in accordance with the behavior of popular browsers."
 type: "repository"
 layout: "release"
 hideChildren: false
@@ -20,7 +20,7 @@ As per the regular monthly update process of all APIs being offered by Aspose, w
 
 ### Release Notes
 
-In this release of Aspose.HTML for .NET, we’ve improved the work with SVG transformation, as well as minor improvements in working with HTML documents and improved the quality of rendering HTML documents in various formats.
+In this release of Aspose.HTML for .NET, we have improved the rendering of SVG documents and the handling of transformation properties by implementing support for the transform-origin property. We have also fixed the resolution of relative paths in documents that were redirected from the original URL. In addition, we have improved the handling of XML entities in accordance with the behavior of popular browsers..
 
 
 **Package references**<br>
