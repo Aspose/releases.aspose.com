@@ -170,10 +170,10 @@ In this release, serialization, deserialization, and rendering of such elements 
 ### Added New Methods: IImage.Save
 
 Two new methods have been added to the `IImage` interface:
- * Save(string filename, ImageFormat format, int quality)
- * Save(Stream stream, ImageFormat format, int quality)
+ * `Save(string filename, ImageFormat format, int quality)`
+ * `Save(Stream stream, ImageFormat format, int quality)`
 
-These methods have an additional `quality` parameter, which accepts values from 0 to 100 and allows controlling the quality of the saved image. This parameter only affects saving in the JPEG format."
+These methods have an additional `quality` parameter, which accepts values from `0` to `100` and allows controlling the quality of the saved image. This parameter only affects saving in the JPEG format.
 
 The following code sample demonstrates how to save the first image in the presentation collection as a JPEG with varying quality:
 ```csharp
