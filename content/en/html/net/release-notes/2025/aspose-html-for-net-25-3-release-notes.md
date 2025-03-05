@@ -43,6 +43,27 @@ Aspose.HTML for Python via .NET  25.3.0 [PyPI](https://pypi.org/project/aspose-h
 | HTMLNET-3047 | HTML to JPG - The program goes into infinite loop and memory consumption keeps growing | Bug |
 | HTMLNET-3048 | HTML to PDF convert does not fully respect layout | Bug |
 
+## Public API and Backward Incompatible Changes
+### Added APIs
 
+```
+namespace Aspose.Html.Net
+{
+    /// <summary>
+    /// Represents a response message.
+    /// </summary>
+    /// <seealso cref="System.IDisposable" />
+    public class ResponseMessage : IDisposable
+    {
+        /// <summary>
+        /// Gets or sets the response URI.
+        /// </summary>
+        /// <value>
+        /// The response URI.
+        /// </value>
+        public Url ResponseUri { get; set; }
+    }
+}
+```
 
 
