@@ -207,5 +207,5 @@ A new public option [UpdateAmbiguousTextFont](https://reference.aspose.com/words
 public bool UpdateAmbiguousTextFont { get; set; }
 {{< /highlight >}}
 
-This use case shows how to specify the desired behavior to set the attributes of the appropriate font:
+This use case shows how to control font selection for ambiguous characters in Word documents using UpdateAmbiguousTextFont:
 {{< gist "aspose-words-gists" "1a265b92fa0019b26277ecfef3c20330" "update-ambiguous-text-font.cs" >}}
