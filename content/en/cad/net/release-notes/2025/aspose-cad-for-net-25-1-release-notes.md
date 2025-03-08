@@ -1,8 +1,16 @@
 ---
+id: "aspose-cad-for-net-25-1-release-notes"
+slug: "aspose-cad-for-net-25-1-release-notes"
+linktitle: "Aspose.CAD for .NET 25.1 - Release Notes"
 title: "Aspose.CAD for .NET 25.1 - Release Notes"
-type: docs
-url: /net/aspose-cad-for-net-25-1-release-notes/
-weight: 10
+weight: 99
+description: "Aspose.CAD for .NET 25.1 - Release Notes – the latest updates and fixes."
+type: "repository"
+layout: "release"
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.CAD for .NET 25.1 - Release Notes"
+menuItemWithNoContent: false
 ---
 
 {{% alert color = "primary" %}}
