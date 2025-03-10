@@ -38,7 +38,7 @@ This page contains release notes for [Aspose.Slides for Python via .NET 25.3](ht
 ### Added Support for VideoFrame Closed Captions
 
 The [`Captions`](https://reference.aspose.com/slides/python-net/aspose.slides/captions/) class and [`ICaptions`](https://reference.aspose.com/slides/python-net/aspose.slides/icaptions/) interface have been added. They contain information about the closed captions, including the id, label, and data in WebVTT format.
-The [`CaptionsCollection`](https://reference.aspose.com/slides/python-net/aspose.slides/captionscollection/) class and [`ICaptionsCollection`](https://reference.aspose.com/slides/python-net/aspose.slides/captionscollection/) interface have been added for storing a collection of closed captions.
+The [`CaptionsCollection`](https://reference.aspose.com/slides/python-net/aspose.slides/captionscollection/) class and [`ICaptionsCollection`](https://reference.aspose.com/slides/python-net/aspose.slides/icaptionscollection/) interface have been added for storing a collection of closed captions.
 The [`caption_tracks`](https://reference.aspose.com/slides/python-net/aspose.slides/ivideoframe/caption_tracks/) property has been added to the [`IVideoFrame`](https://reference.aspose.com/slides/python-net/aspose.slides/ivideoframe/) interface and implemented in the [`VideoFrame`](https://reference.aspose.com/slides/python-net/aspose.slides/videoframe/) class.
 
 The following code sample demonstrates how to insert a new [`VideoFrame`](https://reference.aspose.com/slides/python-net/aspose.slides/videoframe/), add captions to it, and save the PowerPoint presentation:
