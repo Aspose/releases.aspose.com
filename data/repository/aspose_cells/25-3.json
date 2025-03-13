@@ -3,6 +3,14 @@
   "artifactId" : "aspose-cells",
   "id" : "25-3",
   "packageFiles" : [ {
+    "size" : "83 KB",
+    "name" : "aspose-cells-25.3-gridjs-javadoc.jar",
+    "classifier" : "gridjs-javadoc"
+  }, {
+    "size" : "205 KB",
+    "name" : "aspose-cells-25.3-gridjs.jar",
+    "classifier" : "gridjs"
+  }, {
     "size" : "8 MB",
     "name" : "aspose-cells-25.3-gridweb-jakarta.jar",
     "classifier" : "gridweb-jakarta"
@@ -29,7 +37,7 @@
     "size" : "388 bytes",
     "name" : "aspose-cells-25.3.pom"
   } ],
-  "releasehDate" : "2025-03-13T10:39:56+00:00",
+  "releasehDate" : "2025-03-13T10:40:15+00:00",
   "version" : "25.3",
   "ReleaseNotes" : "https://releases.aspose.com/cells/java/release-notes/2025/aspose-cells-for-java-25-3-release-notes/"
 }
