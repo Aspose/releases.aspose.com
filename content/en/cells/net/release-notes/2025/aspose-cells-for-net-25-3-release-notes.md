@@ -74,6 +74,7 @@ This page contains release notes for [Aspose.Cells for .NET 25.3](https://www.nu
 |CELLSNET-57925|Show Borders when converting Excel to docx|Bug
 |CELLSNET-57958|DataLabels of treemap chart does not show when saving as xlsx|Bug
 |CELLSNET-57982|Conditional formatting is not copied correctly|Bug
+|CELLSNET-57995|The dropdown lists will only have data after data validation is required|Bug
 |CELLSGRIDJS-1527|The operations of "Ctrl+X" and "Ctrl+V" resulted in a blank cell overwriting the cell next to the target cell.|Bug
 |CELLSGRIDJS-1491|Fix the issue where entering certain specific characters of a cell value in an empty cell triggers formula location selection.|Bug
 |CELLSGRIDJS-1518|Fix the issue of the dropdown list range not synchronizing after inserting a row.|Bug
@@ -94,17 +95,17 @@ Indicates to search string content in cell's formatted value only.
 
 Notifies the formula change of FormatCondition caused by other operations such as insert/delete.
 
-### **Adds method Cell.GetCellDisplayStyle(BorderType adjacentBorders).**
+### **Adds method Cell.GetDisplayStyle(BorderType adjacentBorders).**
 
-Support to get the display style of one cell with specified flags to denote how to process borders from adjacent cells.
+Supports to get the display style of one cell with specified flags to denote how to process borders from adjacent cells.
 
 ### **Adds method Cells.GetCellDisplayStyle(int row, int column[, BorderType adjacentBorders]).**
 
-Support to get the display style of one cell without getting/instantiating corresponding Cell object.
+Supports to get the display style of one cell without getting/instantiating corresponding Cell object.
 
 ### **Adds enum SideBorders/DynamicStyleBorders/Diagonal for BorderType and StyleModifyFlag.**
 
-Provide special combination of multiple borders for user's convenience for some APIs which support multiple border flags.
+Provides special combination of multiple borders for user's convenience for some APIs which support multiple border flags.
 
 ### **Obsoletes method Chart.ToImage(string, long).**
 
@@ -116,7 +117,7 @@ Calculates a text area suitable for displaying all text content of the shape.
 
 ### **Changes parameter type of column index to int(from short) for Cells.EndCellInColumn() methods.**
 
-Change the type to int instead of short for user's convenience.
+Changes the type to int instead of short for user's convenience.
 
 ### **Adds WorkbookDesigner.Process(Range,Boolean) method.**
 
@@ -124,7 +125,7 @@ Supports only processing smart markers in the range.
 
 ### **Adds VbaModule.BinaryCodes property.**
 
-Gets and sets binary codes.
+Gets or sets binary codes.
 
 ### **Adds MarkdownTableHeaderType enum and MarkdownSaveOptions.TableHeaderType property.**
 
@@ -132,31 +133,11 @@ Represents how to export header of the table in .md file.
 
 ### **Adds MarkdownSaveOptions.SheetSet property.**
 
-Sets which sheets should be exported.
+Gets or sets which sheets should be exported.
 
 ### **Adds DataModelTableCollection.Item[String].**
 
 Gets data model table by name.
-
-### **Adds Axis.CustomDisplayUnit property and removed Axis.CoustomDisplayUnit property.**
-
-Gets and sets the custom display unit of the axis.
-
-### **Adds Config.BaseRouteName Property in GridJs.**
-
- Gets/Sets the base route name for GridJs controller URL. the default is "/GridJs2".
-
-### **Adds GridJsOptions class in GridJs.**
-
- Represents  all the load options for GridJs.
-
-### **Adds GridJsService class in GridJs.**
-
- Provides the basic operation apis used in controller actions.
-
-### **Adds GridJsControllerBase class in GridJs.**
-
- Provides the default controller actions for GridJs.
 
 ### **Obsoletes properties: ChartArea.X, ChartArea.Y, ChartArea.Width, ChartArea.Height.**
 
@@ -164,7 +145,7 @@ Please use the following properties instead: ChartArea.XRatioToChart, ChartArea.
 
 ### **Adds properties: ChartArea.XRatioToChart, ChartArea.YRatioToChart, ChartArea.WidthRatioToChart, ChartArea.HeightRatioToChart.**
 
-Gets or sets the X, Y, Width, Height of the chart area, in units of ratio of the chart object.
+Gets or sets the X, Y, Width, Height of the ChartArea, in units of ratio of the chart object.
 
 ### **Obsoletes properties: ChartFrame.X, ChartFrame.Y, ChartFrame.Width, ChartFrame.Height.**
 
@@ -172,7 +153,7 @@ Please use the following properties instead: ChartFrame.XRatioToChart, ChartFram
 
 ### **Adds properties: ChartFrame.XRatioToChart, ChartFrame.YRatioToChart, ChartFrame.WidthRatioToChart, ChartFrame.HeightRatioToChart.**
 
-Gets or sets the X, Y, Width, Height of the chart chartFrame, in units of ratio of the chart object.
+Gets or sets the X, Y, Width, Height of the ChartFrame, in units of ratio of the chart object.
 
 ### **Obsoletes properties: ChartFrame.DefaultX, ChartFrame.DefaultY, ChartFrame.DefaultWidth, ChartFrame.DefaultHeight.**
 
@@ -180,11 +161,11 @@ Please use the following properties instead: ChartFrame.DefaultXRatioToChart, Ch
 
 ### **Adds properties: ChartFrame.DefaultXRatioToChart, ChartFrame.DefaultYRatioToChart, ChartFrame.DefaultWidthRatioToChart, ChartFrame.DefaultHeightRatioToChart.**
 
-Represents default X, Y, Width, Height of the chart chartFrame, in units of ratio of the chart object.
+Represents default X, Y, Width, Height of the ChartFrame, in units of ratio of the chart object.
 
 ### **Adds properties: ChartFrame.XPixel, ChartFrame.YPixel, ChartFrame.WidthPixel, ChartFrame.HeightPixel.**
 
-Represents X, Y, Width, Height of the chart chartFrame, in units of pixel.
+Represents X, Y, Width, Height of the ChartFrame, in units of pixel.
 
 ### **Obsoletes properties: PlotArea.X, PlotArea.Y, PlotArea.Width, PlotArea.Height.**
 
@@ -200,11 +181,11 @@ Please use the following properties instead: PlotArea.InnerXRatioToChart, PlotAr
 
 ### **Adds properties: PlotArea.InnerXRatioToChart, PlotArea.InnerYRatioToChart.**
 
-Gets or sets the x, y coordinate of the upper top corner of plot area in units of ratio of the chart object.
+Gets or sets the x, y coordinate of the upper top corner of the PlotArea, in units of ratio of the chart object.
 
 ### **Adds properties: PlotArea.InnerWidthRatioToChart, PlotArea.InnerHeightRatioToChart.**
 
-Gets or sets the actual width, height of plot area in units of ratio of the chart object.
+Gets or sets the actual width, height of the PlotArea, in units of ratio of the chart object.
 
 ### **Obsoletes properties: Charts.Title.X, Charts.Title.Y.**
 
@@ -212,5 +193,25 @@ Please use the following properties instead: Charts.Title.XRatioToChart, Charts.
 
 ### **Adds properties: Charts.Title.XRatioToChart, Charts.Title.YRatioToChart.**
 
-Gets or sets X, Y of the chart title, in units of ratio of the chart object.
+Gets or sets X, Y of the ChartTitle, in units of ratio of the chart object.
+
+### **Adds FontConfigs.GetFontFileDataInfo(string fontName, bool isBold, bool isItalic, bool isExactStyle) method and FontFileDataInfo, FontFileFormatType classes.**
+
+Gets data infomation of font file data.
+
+### **Adds Config.BaseRouteName Property in GridJs.**
+
+Gets or sets the base route name for GridJs controller URL. The default is "/GridJs2".
+
+### **Adds GridJsOptions class in GridJs.**
+
+Represents all the load options for GridJs.
+
+### **Adds GridJsService class in GridJs.**
+
+Provides the basic operation APIs used in controller actions.
+
+### **Adds GridJsControllerBase class in GridJs.**
+
+Provides the default controller actions for GridJs.
 
