@@ -487,7 +487,7 @@ void SetInnerHeightRatioToChart(double value)
 
 
 
-### **Obsoletes some methods and replace them with others in Charts.**
+### **Obsoletes some methods and replace them with others in Title.**
 
 {{% alert color="primary" %}}
 
