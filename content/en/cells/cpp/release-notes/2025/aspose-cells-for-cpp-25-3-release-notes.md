@@ -3,7 +3,7 @@ id: "aspose-cells-for-cpp-25-3-release-notes"
 slug: "aspose-cells-for-cpp-25-3-release-notes"
 linktitle: "Aspose.Cells for CPP 25.3 Release Notes"
 title: "Aspose.Cells for CPP 25.3 Release Notes"
-weight: 11
+weight: 10
 description: "Aspose.Cells for CPP 25.3 Release Notes – the latest enhancements, new features, and fixes."
 type: "repository"
 layout: "release"
