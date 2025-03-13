@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/cpp/new-releases/aspose.cells-for-c++-25.3/"
-folder_name: "Aspose.Cells for C++ 25.3"
+folder_name: "Aspose.Cells for C++ 25.3(Linux)"
 download_link: "/cells/cpp/new-releases/aspose.cells-for-c++-25.3/fd2ae3c705c97564576547a80b4ccc4f-14-12673"
 download_text: "Download"
 intro_text: "It contains Aspose.Cells for C++ version 25.3 (Linux). For more information, see the release notes and readme file."
@@ -22,7 +22,7 @@ weight: 163
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Cells for C++ 25.3" imagelink="/resources/img/random-file-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Cells for C++ 25.3(Linux)" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/cells/cpp/new-releases/aspose.cells-for-c++-25.3/fd2ae3c705c97564576547a80b4ccc4f-14-12673" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/cells" >}}
