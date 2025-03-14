@@ -6,12 +6,12 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/cad/net/new-releases/aspose.cad-for-.net-version-25.3-(dlls-only)/"
 folder_name: "Aspose.CAD for .NET version 25.3 (Dlls only)"
-download_link: "/cad/net/new-releases/aspose.cad-for-.net-version-25.3-(dlls-only)/fd5834ab7b237c0c33ea5814f9fdf847-1-12693"
+download_link: "/cad/net/new-releases/aspose.cad-for-.net-version-25.3-(dlls-only)/298f66c4126274f312dce3add3850ede-15-12693"
 download_text: "Download"
 intro_text: "This ZIP file contains only the Aspose.CAD for .NET assemblies v25.3. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.CAD for .NET without the MSI installer."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 14/3/2025 Downloads: 3  Views: 1 "
-file_size: "File Size: 22 B"
+file_size: "File Size: 71.9MB"
 parent_path: "cad/net"
 section_parent_path: "cad/net"
 
@@ -24,19 +24,19 @@ weight: 249
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.CAD for .NET version 25.3 (Dlls only)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/cad/net/new-releases/aspose.cad-for-.net-version-25.3-(dlls-only)/fd5834ab7b237c0c33ea5814f9fdf847-1-12693" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/cad/net/new-releases/aspose.cad-for-.net-version-25.3-(dlls-only)/298f66c4126274f312dce3add3850ede-15-12693" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/cad" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-fd5834ab7b237c0c33ea5814f9fdf847-1-12693" >}} 3 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-298f66c4126274f312dce3add3850ede-15-12693" >}} 3 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
-      {{< Common/li id="size-update-fd5834ab7b237c0c33ea5814f9fdf847-1-12693" >}} 22 B {{< /Common/li >}}
+      {{< Common/li id="size-update-298f66c4126274f312dce3add3850ede-15-12693" >}} 71.9MB {{< /Common/li >}}
 
       {{< Common/li >}} Date Added: {{< /Common/li >}}
-      {{< Common/li id="added-update-fd5834ab7b237c0c33ea5814f9fdf847-1-12693" >}}14/3/2025 {{< /Common/li >}}
+      {{< Common/li id="added-update-298f66c4126274f312dce3add3850ede-15-12693" >}}14/3/2025 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
