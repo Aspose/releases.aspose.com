@@ -192,7 +192,7 @@ Aspose.Cells for Go via C++ is a powerful and robust library designed for high-p
 
 ---
 
-![](https://img.shields.io/badge/aspose.cells-v25.3.0-blue?logo=go) [![GitHub license](https://img.shields.io/github/license/aspose-cells/aspose-cells-go-cpp)](https://github.com/aspose-cells/aspose-cells-go-cpp/blob/master/LICENSE)  [![Release Notes](https://img.shields.io/badge/Release%20Notes-43a047?style=for-the-badge&logo=hugo&logoColor=white)](https://releases.aspose.com/cells/go-cpp/release-notes/)
+![](https://img.shields.io/badge/aspose.cells-v25.3.0-blue?style=for-the-badge&logo=go) [![GitHub license](https://img.shields.io/github/license/aspose-cells/aspose-cells-go-cpp?style=for-the-badge)](https://github.com/aspose-cells/aspose-cells-go-cpp/blob/master/LICENSE)  [![Release Notes](https://img.shields.io/badge/Release%20Notes-43a047?style=for-the-badge&logo=hugo&logoColor=white)](https://releases.aspose.com/cells/go-cpp/release-notes/)
 
 {{< ProductPageWrapper >}}
 <!-- ReleasesListProductPage-->
