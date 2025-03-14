@@ -2,11 +2,12 @@
 
 title: "Aspose.Cells for Go via C++ - Native Go Excel Library"
 description:  "Create, read, edit, convert or render Excel spreadsheets formats within Go applications."
-keywords:  "Native Go Excel Library API"
+keywords:  "Native Go Excel Library API, Excel API, Go Excel API, GoLang Excel"
 linktitle: "Aspose.Cells for Go via C++"
 family_listing_page_title:  "Aspose.Cells for Go via C++"
 family_listing_page_description:  "Aspose.Cells for Go via C++ is an Excel Spreadsheet Processing API that allows the developers to employ the ability to read, write and manipulate Excel spreadsheets via Go."
 family_listing_page_iconurl:  "https://products.aspose.cloud/sdk/aspose_cells-for-go.png"
+tags: ['excel-pdf-ods-reporting-services', 'Excel-Conversion-API', 'Excel-Converter-API', 'Excel-Formula-API', 'Excel-Library', 'Excel-to-BMP', 'Excel-to-DOCX', 'Excel-to-EMF', 'Excel-to-GIF', 'Excel-to-HTML', 'Excel-to-Image', 'Excel-to-JPEG', 'Excel-to-JPG', 'Excel-to-Markdown', 'Excel-to-MD', 'Excel-to-MHTML', 'Excel-to-PDF', 'Excel-to-PDFA', 'Excel-to-PNG', 'Excel-to-PPTX', 'Excel-to-SVG', 'Excel-to-TIFF', 'Excel-to-XPS', 'XLS-to-PDF', 'XLS-to-XLSX', 'XLS-to-XPS', 'XLSX-to-DOCX', 'XLSX-to-HTML', 'XLSX-to-Markdown', 'XLSX-to-MD', 'XLSX-to-MHTML', 'XLSX-to-PDF', 'XLSX-to-PPTX']
 weight: 12
 
 ---
