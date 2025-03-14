@@ -1,6 +1,6 @@
 ---
-id: "aspose-cells-for-go-via-cpp-25-1-release-notes"
-slug: "aspose-cells-for-go-via-cpp-25-1-release-notes"
+id: "aspose-cells-for-go-via-cpp-25-2-release-notes"
+slug: "aspose-cells-for-go-via-cpp-25-2-release-notes"
 linktitle: "Aspose.Cells for Go via C++ 25.2 Release Notes"
 title: "Aspose.Cells for Go via C++ 25.2 Release Notes"
 weight: 15
