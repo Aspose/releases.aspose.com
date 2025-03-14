@@ -111,19 +111,33 @@ Aspose.Cells for Go via C++ is a powerful and robust library designed for high-p
 
 <details>
 <summary>Key features</summary>
+
 > #### File Creation and Editing
+>
 > Create new spreadsheets from scratch or edit existing ones with ease. This includes adding or modifying data, formatting cells, managing worksheets, and more.
+>
 > #### Data Processing
+>
 > Perform complex data manipulations such as sorting, filtering, and validation. The library also supports advanced formulas and functions to facilitate data analysis and calculations.
+>
 > #### File Conversion
+>
 > Convert Excel files to various formats such as PDF, HTML, ODS, and image formats like PNG and JPEG. This feature is useful for sharing and distributing spreadsheet data in different formats.
+>
 > #### Chart and Graphics
+>
 > Create and customize a wide range of charts and graphics to visually represent data. The library supports bar charts, line charts, pie charts, and many more, along with customization options for design and layout.
+>
 > #### Rendering and Printing
+>
 > Render Excel sheets to high-fidelity images and PDFs, ensuring that the visual representation is accurate. The library also provides options for printing spreadsheets with precise control over page layout and formatting.
+>
 > #### Advanced Protection and Security
+>
 > Protect spreadsheets with passwords, encrypt files, and manage access permissions to ensure data security and integrity.
+>
 > #### Performance and Scalability
+>
 > Designed to handle large datasets and complex spreadsheets efficiently, Aspose.Cells for Go via C++ ensures high performance and scalability for enterprise-level applications.
 
 </details>
