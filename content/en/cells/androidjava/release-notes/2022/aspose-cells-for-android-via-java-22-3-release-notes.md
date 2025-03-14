@@ -20,9 +20,7 @@ This page contains release notes for Aspose.Cells for Android via Java 22.3.
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |CELLSJAVA-44162|Support to remove external link without removing the formulas|New Feature
-|CELLSJAVA-44214|Support to autofit rows for GridWeb|New Feature
 |CELLSJAVA-44205|Support locale depended unit text for coordinate axes of chart|New Feature
-|CELLSJAVA-44238|Support to keep session after server restart for GridWeb|Enhancement
 |CELLSJAVA-44317|The text in this xlsx is garbled|Enhancement
 |CELLSJAVA-44126|Cell.getDependents() throws Exception if cell's formula has not been parsed|Bug
 |CELLSJAVA-44161|Bug in external formula when importing a workbook into another workbook|Bug
@@ -39,7 +37,6 @@ This page contains release notes for Aspose.Cells for Android via Java 22.3.
 |CELLSJAVA-44114|XLSX to PDF: Data in Scientific number format from the XLSX file doesn't match with the data in the output PDF file|Bug
 |CELLSJAVA-44293|Resaved Excel file needs to be recovered when opening it into MS Excel|Bug
 |CELLSJAVA-43194|Images shown incorrectly|Bug
-|CELLSJAVA-44243|GridWeb spring demo save file failed in jdk1.8|Bug
 |CELLSJAVA-44276|row header height mismatch with row content after edit cell for the file 249.xls|Bug
 |CELLSJAVA-44284|raise out of memory exception for the file bug.xlsx|Bug
 |CELLSJAVA-44229|Formula is lost when td content is wrapped by div tag|Bug
@@ -60,7 +57,6 @@ This page contains release notes for Aspose.Cells for Android via Java 22.3.
 |CELLSJAVA-44370|Excel file gets corrupt when opened and saved with Aspose.Cells|Bug
 |CELLSJAVA-44344|Issue with horizontal copying of ranges in the output XLSX |Bug
 |CELLSJAVA-44363|row header height doesnot match row content in the file with freezepane |Bug
-|CELLSJAVA-44349|image/shape shall be kept after server restart for GridWeb|Bug
 |CELLSJAVA-44367|The color of the column chart turns white when converting to html|Bug
 |CELLSJAVA-44328|Some data labels of Excel graphs are lost when saving Excel file as HTML |Bug
 |CELLSJAVA-44193|The angle of category axis items in the graph is different in Excel to PDF conversion|Bug

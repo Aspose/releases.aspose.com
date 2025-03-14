@@ -32,7 +32,6 @@ This page contains release notes for Aspose.Cells for Android via Java 23.6.
 |CELLSJAVA-45223|Chart to Image - character and legend height not rendered correctly|Bug
 |CELLSJAVA-45257|Scales of the chart are missing in Excel to PDF rendering |Bug
 |CELLSJAVA-45054|can not switch worksheet for the specified file from customer|Bug
-|CELLSJAVA-45229|can not load file in GridWeb for the file test.xlsx|Bug
 |CELLSJAVA-45231|setRowHeightForCSV does not take affect after switch worksheet ,the csv file row height is still small|Bug
 |CELLSJAVA-45251|After adjusting the column width, the position of the filter button should also be adjusted in place|Bug
 |CELLSJAVA-45082|Wavy line fill is different after saving file to pdf|Bug

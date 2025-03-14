@@ -26,7 +26,6 @@ This page contains release notes for Aspose.Cells for Android via Java 23.3.
 |CELLSJAVA-43438|Fill `<Application>` tag in XLSX|Enhancement
 |CELLSJAVA-45119|When reading into 03 format excel, the 'FillType' of the straight line is not processed|Enhancement
 |CELLSJAVA-45128|Horizontal flip seems to be missing when reading arrow lines|Enhancement
-|CELLSJAVA-45172|Support loadoption for GridWeb|Enhancement
 |CELLSJAVA-45173|Support margins of img tag when loading html |Enhancement
 |CELLSJAVA-45003|XLS to HTML: Rectangle shape is distorted|Bug
 |CELLSJAVA-45004|XLS to HTML: Image clipped and moved out of place|Bug

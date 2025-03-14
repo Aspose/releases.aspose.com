@@ -125,9 +125,6 @@ Customize the options of refreshing pivot tables in the worksheet.
 
 Customize the options of refreshing pivot tables in the workbook.
 
-### **Adds GridWorkbookSettings.PreservePaddingSpaces property in GridWeb.**
-
-Gets or sets whether preserve those spaces and line breaks that are padded between formula tokens while getting and setting formulas. Default value is false.
 
 ### **Changes the returned value of FileFormatUtil.LoadFormatToExtension(LoadFormat.TabDelimited).**
 

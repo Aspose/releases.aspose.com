@@ -43,8 +43,6 @@ This page contains release notes for Aspose.Cells for Android via Java 21.6.
 |CELLSJAVA-43446|Cells Track Changes Exception|Bug
 |CELLSJAVA-43448|Regression: Invalid reference for list|Bug
 |CELLSJAVA-43457|Infinite loop when saving copied workbook|Bug
-|CELLSJAVA-43442|Issue with data sorting when clicking on header links in the GridWeb spring demo|Bug
-|CELLSJAVA-43443|Issue with edit mode in the GridWeb Java|Bug
 |CELLSJAVA-43455|Fonts are not embedded in PDF for non ASCII characters while setting EmbedStandardWindowsFonts to false|Bug
 |CELLSJAVA-43449|Unable to change font family of chart elements from "Calibri" to "Aktiv Grotesk"|Bug
 |CELLSJAVA-43454|X-Axis labels are cut off|Bug
@@ -69,7 +67,6 @@ This page contains release notes for Aspose.Cells for Android via Java 21.6.
 |CELLSJAVA-43431|java.lang.NullPointerException raised while calling Cells.deleteColumn() with the latest version 21.3 whereas it works with 21.2|Exception
 |CELLSJAVA-43437|IndexOutOfBoundsException on clicking other sheet pages in evaluation mode|Exception
 |CELLSJAVA-43459|NullPointerException in getFormulaLocal() with custom GlobalizationSettings|Exception
-|CELLSJAVA-43447|Exception "java.lang.NullPointerException" occurred when using custom style file in GridWeb  |Exception
 |CELLSJAVA-43439|NegativeArraySizeException occurs on Workbook load|Exception
 |CELLSJAVA-43453|NullPointerException on Workbook.save method|Exception
 |CELLSJAVA-43486|NullPointerException when converting an HTML document to a Workbook|Exception

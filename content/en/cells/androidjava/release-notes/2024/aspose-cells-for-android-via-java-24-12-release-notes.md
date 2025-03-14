@@ -392,11 +392,5 @@ Font
 FontSubstitution
 ```
 
-### **Adds GridUpdateMonitor class in GridJs.**
 
-Monitor for user to track the change of update operation.
-
-### **Adds UpdateMonitor property for GridJsWorkbook in GridJs.**
-
-Gets and sets the update monitor to track update operation.
 

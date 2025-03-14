@@ -19,20 +19,16 @@ This page contains release notes for Aspose.Cells for Android via Java 22.12.
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|CELLSJAVA-44890|support import file with openpassword for GridWeb|New Feature
 |CELLSJAVA-43645|The "3-D-format" attribute of the rectangle is not rendered correctly|New Feature
 |CELLSJAVA-44936|Set chart image (PNG) DPI settings|Enhancement
 |CELLSJAVA-44937|Set chart image (JPG) DPI settings|Enhancement
 |CELLSJAVA-44998|Double quote causing inline style failed in HTML|Enhancement
 |CELLSJAVA-44884|List numbers are incorrect after XLSX to HTML or PDF conversion |Bug
 |CELLSJAVA-44883|Workbook containing pivot table gets corrupted after processing pivot table in it |Bug
-|CELLSJAVA-44879|The formatted result for GridWeb was different from Cell.DisplayStringValue|Bug
 |CELLSJAVA-44327|Borders and fewer lines shown in black and white pie slices in chart to image rendering|Bug
 |CELLSJAVA-44853|The data on the x-axis angle is not the same as Excel in chart to image rendering|Bug
 |CELLSJAVA-44854|The data on the y-axis step is not the same as Excel in chart to image rendering|Bug
 |CELLSJAVA-44904|Issues when rendering Excel charts to JPG conversion|Bug
-|CELLSJAVA-44850|Importing an XLT file, the text is not displayed completely using latest demos with latest Aspose.Cells.GridWeb version with latest resource files|Bug
-|CELLSJAVA-44857|When using the Aspose.Cells.GridWeb for Java v22.8 version with latest resource files to open an Excel document, the effect of the cells is different from the original document|Bug
 |CELLSJAVA-44903|SVG rendition not working as expected|Bug
 |CELLSJAVA-44909|When multiple lines are bolded, it seems to be overflowing to the other lines unnecessarily |Bug
 |CELLSJAVA-44888|"+" and "-" were disappeared after conversion - Excel to HTML rendering|Bug
@@ -143,9 +139,6 @@ Indicates whether skipping emtpy rows.
 
 Use SheetRender.GetPageSizeInch(System.Int32) instead.
 
-### **Deletes obsoleted WorkbookRender.GetPageSize(System.Int32) method**
-
-Use WorkbookRender.GetPageSizeInch(System.Int32) instead.
 
 ### **Deletes obsoleted AutoShapeType.TextWave3 and AutoShapeType.TextWave4 enum**
 

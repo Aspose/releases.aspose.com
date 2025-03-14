@@ -21,7 +21,6 @@ This page contains release notes for Aspose.Cells for Android via Java 22.6.
 | :- | :- | :- |
 |CELLSJAVA-44632|Supports formatting the entire row of data in the PivotTable|New Feature
 |CELLSJAVA-44415|Thousand of the getResourceAsAStream calls causes high CPU load and memory consumption during report generation|Enhancement
-|CELLSJAVA-44490|add GridWorkbookSetting for GridWeb|Enhancement
 |CELLSJAVA-44554|Enhance the LightCells model for setting formulas|Enhancement
 |CELLSJAVA-44535|implement focus cell with vertical/horizontal scroll bar auto scroll to suitable postion|Enhancement
 |CELLSJAVA-44588|Detect file format for stream with password|Enhancement
@@ -32,9 +31,6 @@ This page contains release notes for Aspose.Cells for Android via Java 22.6.
 |CELLSJAVA-44370|Excel file gets corrupt when opened and saved with Aspose.Cells|Bug
 |CELLSJAVA-44381|Condition formatting issue when deleting the row or column|Bug
 |CELLSJAVA-44442|Opening and saving with Aspose.Cells corrupts the workbook|Bug
-|CELLSJAVA-44356|picture position issue for print for the file fs.zip in GridWeb|Bug
-|CELLSJAVA-44357|issues for display ofd.zip in GridWeb|Bug
-|CELLSJAVA-44398|GridWeb  display issues from  customer|Bug
 |CELLSJAVA-44464|additional issue 1,column A background color is not same as in excel for yscl.xls at sheet4|Bug
 |CELLSJAVA-44466|additional issue 3,setCalculateFormula to false does not work |Bug
 |CELLSJAVA-44496| Include the caption tag/element for the table when loading html|Bug
@@ -58,13 +54,9 @@ This page contains release notes for Aspose.Cells for Android via Java 22.6.
 |CELLSJAVA-44630|Issue with Smart Markers feature since Aspose Cells 22.5|Bug
 |CELLSJAVA-44646|Clear content on copied sheet throws NullPointerException|Bug
 |CELLSJAVA-44656|Cells.getMaxDataColumn returning different (wrong) value in 22.5|Bug
-|CELLSJAVA-44650|Excel document page is messy when loading into Aspose.Cells.GridWeb(Java)|Bug
-|CELLSJAVA-44660|Issue with data alignment when loading the XLS into  Aspose.Cells.GridWeb (Java)|Bug
-|CELLSJAVA-44661|Issue when loading the et file into Aspose.Cells.GridWeb (Java)|Bug
 |CELLSJAVA-44584|The title of the axis in the chart is rotated in the output image - Chart to image conversion|Bug
 |CELLSJAVA-44615|Gray line drawn in the output image from XLS file|Bug
 |CELLSJAVA-44665|Loading ODS file hangs|Bug
-|CELLSJAVA-44404|Exception "java.lang.IllegalArgumentException: Invalid column index" when loading an XLSX file into GridWeb|Exception
 |CELLSJAVA-44651|"Not a numeric value" error when converting Excel sheet to HTML/PDF|Exception
 
 

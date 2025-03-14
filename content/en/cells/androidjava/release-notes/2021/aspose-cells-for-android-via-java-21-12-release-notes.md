@@ -101,9 +101,6 @@ Returns a range bounded by any combination of blank rows and blank columns.
 
 Get page size of output image?in unit of inch.
 
-### **Adds method WorkbookRender.GetPageSizeInch(int pageIndex)**
-
-Get page size output image?in unit of inch.
 
 ### **Adds enum CellValueFormatStrategy.DisplayString.**
 

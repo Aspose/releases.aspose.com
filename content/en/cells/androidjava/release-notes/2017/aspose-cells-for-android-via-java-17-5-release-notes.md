@@ -125,7 +125,6 @@ This page contains release notes for [Aspose.Cells for Android via Java 17.5](h
 |CELLSJAVA-41783|Background image should be in SVG format but it is in PNG format|Bug |
 |CELLSJAVA-42253|Dependent cell value causes an error in XLS|Bug |
 |CELLSJAVA-42222|Sum is not correct after workbook calculation|Bug |
-|CELLSJAVA-42254|GridWebServlet?acw_ajax_call error occurs while loading GridWeb|Bug |
 |CELLSJAVA-42243|Excel to PDF - Square looks like Rectangle|Bug |
 |CELLSJAVA-42242|Excel to PDF - Circle looks like Oval Shape|Bug |
 |CELLSJAVA-42227|The image file "x1.png" has an extra top border and missing bottom border|Bug |
