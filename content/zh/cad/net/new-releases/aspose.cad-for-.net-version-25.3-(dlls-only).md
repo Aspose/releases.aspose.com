@@ -10,7 +10,7 @@ download_link: "/cad/net/new-releases/aspose.cad-for-.net-version-25.3-(dlls-onl
 download_text: "下载"
 intro_text: "此 ZIP 文件仅包含 Aspose.CAD for .NET 程序集 v25.3。这些程序集与同一版本产品的 MSI 安装程序中的程序集相同。如果您想在没有 MSI 安装程序的情况下使用 Aspose.CAD for .NET，请下载此文件。"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 14/3/2025 下载s: 1  Views: 1 "
+download_count: " 14/3/2025 下载s: 3  Views: 1 "
 file_size: "File Size: 22 B"
 parent_path: "cad/net"
 section_parent_path: "cad/net"
@@ -31,7 +31,7 @@ weight: 249
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} 下载s: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-fd5834ab7b237c0c33ea5814f9fdf847-1-12693" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-fd5834ab7b237c0c33ea5814f9fdf847-1-12693" >}} 3 {{< /Common/li >}}
       {{< Common/li >}} 文件大小: {{< /Common/li >}}
       {{< Common/li id="size-update-fd5834ab7b237c0c33ea5814f9fdf847-1-12693" >}} 22 B {{< /Common/li >}}
 

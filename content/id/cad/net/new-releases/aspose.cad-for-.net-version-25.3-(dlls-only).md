@@ -10,7 +10,7 @@ download_link: "/cad/net/new-releases/aspose.cad-for-.net-version-25.3-(dlls-onl
 download_text: "Unduh"
 intro_text: "File ZIP ini hanya berisi Aspose.CAD untuk rakitan .NET v25.3. Rakitannya sama seperti pada penginstal MSI produk dengan versi yang sama. Unduh ini jika Anda ingin menggunakan Aspose.CAD untuk .NET tanpa penginstal MSI."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 14/3/2025 Unduhs: 1  Views: 1 "
+download_count: " 14/3/2025 Unduhs: 3  Views: 1 "
 file_size: "File Size: 22 B"
 parent_path: "cad/net"
 section_parent_path: "cad/net"
@@ -31,7 +31,7 @@ weight: 249
     {{< Releases/ReleasesHeading h4txt="Detail File">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Unduhs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-fd5834ab7b237c0c33ea5814f9fdf847-1-12693" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-fd5834ab7b237c0c33ea5814f9fdf847-1-12693" >}} 3 {{< /Common/li >}}
       {{< Common/li >}} Ukuran file: {{< /Common/li >}}
       {{< Common/li id="size-update-fd5834ab7b237c0c33ea5814f9fdf847-1-12693" >}} 22 B {{< /Common/li >}}
 
