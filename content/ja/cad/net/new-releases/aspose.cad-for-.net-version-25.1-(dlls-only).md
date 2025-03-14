@@ -6,12 +6,12 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/cad/net/new-releases/aspose.cad-for-.net-version-25.1-(dlls-only)/"
 folder_name: "Aspose.CAD for .NET バージョン 25.1 (DLL のみ)"
-download_link: "/cad/net/new-releases/aspose.cad-for-.net-version-25.1-(dlls-only)/fd5834ab7b237c0c33ea5814f9fdf847-1-12668"
+download_link: "/cad/net/new-releases/aspose.cad-for-.net-version-25.1-(dlls-only)/298f66c4126274f312dce3add3850ede-15-12668"
 download_text: "ダウンロード"
 intro_text: "この ZIP ファイルには、Aspose.CAD for .NET アセンブリ v25.1 のみが含まれています。アセンブリは、同じバージョンの製品の MSI インストーラーと同じです。 MSI インストーラーなしで Aspose.CAD for .NET を使用する場合は、これをダウンロードしてください。"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 11/3/2025 ダウンロードs: 1  Views: 1 "
-file_size: "File Size: 22 B"
+file_size: "File Size: 71.9MB"
 parent_path: "cad/net"
 section_parent_path: "cad/net"
 
@@ -24,19 +24,19 @@ weight: 245
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.CAD for .NET バージョン 25.1 (DLL のみ)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="ダウンロード" link="/cad/net/new-releases/aspose.cad-for-.net-version-25.1-(dlls-only)/fd5834ab7b237c0c33ea5814f9fdf847-1-12668" >}}
+    {{< Releases/ReleasesSingleButtons text="ダウンロード" link="/cad/net/new-releases/aspose.cad-for-.net-version-25.1-(dlls-only)/298f66c4126274f312dce3add3850ede-15-12668" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/cad" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} ダウンロードs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-fd5834ab7b237c0c33ea5814f9fdf847-1-12668" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-298f66c4126274f312dce3add3850ede-15-12668" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} ファイルサイズ: {{< /Common/li >}}
-      {{< Common/li id="size-update-fd5834ab7b237c0c33ea5814f9fdf847-1-12668" >}} 22 B {{< /Common/li >}}
+      {{< Common/li id="size-update-298f66c4126274f312dce3add3850ede-15-12668" >}} 71.9MB {{< /Common/li >}}
 
       {{< Common/li >}} 日付が追加されました: {{< /Common/li >}}
-      {{< Common/li id="added-update-fd5834ab7b237c0c33ea5814f9fdf847-1-12668" >}}11/3/2025 {{< /Common/li >}}
+      {{< Common/li id="added-update-298f66c4126274f312dce3add3850ede-15-12668" >}}11/3/2025 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
