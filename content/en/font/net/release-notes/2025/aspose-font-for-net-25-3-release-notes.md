@@ -21,8 +21,6 @@ This page contains release notes information for Aspose.Font for .NET 25.3.
 
 Support for reading and updating Top DICT structure in a Compact Font Format (**CFF**) font has been added.
 
-**Future plans**: *.NET Framework 4.0* support will be removed from the next release.
-
 | Key | Summary | Category |
 |---|---|---|
 | FONTNET-751 | Support for reading and updating Top DICT structure in **CFF** font | Feature |
