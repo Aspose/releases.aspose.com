@@ -51,6 +51,7 @@ Detecting compromise of PDF digital signatures has been added. The task, ID PDFN
 
 {{< tabs tabID="1" tabTotal="2" tabName1=".NET Core 3.1" tabName2=".NET 8" >}}
 {{< tab tabNum="1" >}}
+
 ```csharp
 // For complete examples and data files, visit https://github.com/aspose-pdf/Aspose.PDF-for-.NET
 private static void Check(string pdfFile)
@@ -84,8 +85,10 @@ private static void Check(string pdfFile)
     }
 }
 ```
+
 {{< /tab >}}
 {{< tab tabNum="2" >}}
+
 ```csharp
 // For complete examples and data files, visit https://github.com/aspose-pdf/Aspose.PDF-for-.NET
 private static void Check(string pdfFile)
@@ -116,14 +119,16 @@ private static void Check(string pdfFile)
     Console.WriteLine(result.SignaturesCoverage);
 }
 ```
+
 {{< /tab >}}
 {{< /tabs >}}
 
-Bates numbering is used in the legal, medical, and business fields in some countries to place identifying numbers and/or date/time-marks on images and documents. For example, it is added during the discovery stage of preparations for trial or when identifying business receipts. This process provides identification, protection, and automatic consecutive numbering. Starting from version 25.3 we supports automated adding of the Bates numbering. This feature is logged as PDFNET-50072 in our issue tracker.
+Bates numbering is used in the legal, medical, and business fields in some countries to place identifying numbers and/or date/time marks on images and documents. For example, it is added during the discovery stage of preparations for trial or when identifying business receipts. This process provides identification, protection, and automatic consecutive numbering. Starting from version 25.3, we support automated Bates numbering adding. This feature is logged as PDFNET-50072 in our issue tracker.
 To add a Bates numbering artifact to a document, call the `AddBatesNumbering(BatesNArtifact batesNArtifact)` extension method on the `PageCollection`, passing the `BatesNArtifact` object as a parameter:
 
 {{< tabs tabID="1" tabTotal="2" tabName1=".NET Core 3.1" tabName2=".NET 8" >}}
 {{< tab tabNum="1" >}}
+
 ```csharp
 // For complete examples and data files, visit https://github.com/aspose-pdf/Aspose.PDF-for-.NET
 private static void AddBatesNArtifact()
@@ -164,9 +169,10 @@ private static void AddBatesNArtifact()
     }
 }
 ```
-{{< /tab >}}
 
+{{< /tab >}}
 {{< tab tabNum="2" >}}
+
 ```csharp
 // The path to the documents directory
 var dataDir = RunExamples.GetDataDir_AsposePdf();
@@ -202,6 +208,7 @@ document.Pages.AddBatesNumbering(new BatesNArtifact
 // Save PDF document
 document.Save(dataDir + "SampleBatesNArtifact_out.pdf");
 ```
+
 {{< /tab >}}
 {{< /tabs >}}
 
@@ -209,6 +216,7 @@ One of the Customers required the ability (PDFNET-58676) to create tagged elemen
 
 {{< tabs tabID="5" tabTotal="2" tabName1=".NET Core 3.1" tabName2=".NET 8" >}}
 {{< tab tabNum="1" >}}
+
 ```csharp
 // For complete examples and data files, visit https://github.com/aspose-pdf/Aspose.PDF-for-.NET
 private static void AdjustTablePosition()
@@ -348,9 +356,10 @@ private static void AdjustTablePosition()
     }
 }
 ```
-{{< /tab >}}
 
+{{< /tab >}}
 {{< tab tabNum="2" >}}
+
 ```csharp
 // For complete examples and data files, visit https://github.com/aspose-pdf/Aspose.PDF-for-.NET
 private static void AdjustTablePosition()
@@ -487,11 +496,12 @@ private static void AdjustTablePosition()
     Console.WriteLine(string.Format("PDF/UA compliance: {0}", isPdfUaCompliance));
 }
 ```
+
 {{< /tab >}}
 {{< /tabs >}}
 
-Ability to verify the boundaries of graphical Shapes when adding to the PDF page. This was made at the User's request PDFNET-54931 that was originally reported as an investigation.
-You can use `UpdateBoundsCheckMode()` method of the `Shape` object to set the desired behavior if the shape if it overcome the borders of `Graph` object.
+Ability to verify the boundaries of graphical Shapes when adding to the PDF page. This was made at the User's request for PDFNET-54931, which was originally reported as an investigation.
+You can use `UpdateBoundsCheckMode()` method of the `Shape` object to set the desired behavior if the shape overcomes the borders of the `Graph` object.
 
 ```csharp
 private static void CheckShapeBounds()
@@ -527,9 +537,10 @@ private static void CheckShapeBounds()
     }
 }
 ```
+
 Detailed information is already available on the [documentation page](https://docs.aspose.com/pdf/net/aspose-pdf-drawing-graph-shapes-bounds-check/).
 
-Improved both performance and memory consumption in the conversion of an image-heavy PDF. The enhancement, ID PDFNET-59213, has been carried out as part of permanent work on improving product performance. In tested scenarios, it shows twice faster processing and 10% less memory consumption.
+Improved both performance and memory consumption in the conversion of an image-heavy PDF. The enhancement, ID PDFNET-59213, has been carried out as part of permanent work on improving product performance. It shows twice faster processing and 10% less memory consumption in tested scenarios.
 
 ### Bug Fixing and Other Changes
 
