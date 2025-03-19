@@ -546,8 +546,8 @@ Improved both performance and memory consumption in the conversion of an image-h
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|PDFNET-47917|Font embedding is not working in Aspose.pdf|Bug|
-|PDFNET-47967|Applications goes infinite when saving PDF|Bug|
+|PDFNET-47917|Font embedding is not working in Aspose.PDF|Bug|
+|PDFNET-47967|Applications go infinite when saving PDF|Bug|
 |PDFNET-59340|PdfFileInfo.IsPdfFile returns false for the PDF document|Bug|
 |PDFNET-46354|Form fields aren't properly imported from HTML|Bug|
 |PDFNET-59408|Load PDF hangs|Bug|
