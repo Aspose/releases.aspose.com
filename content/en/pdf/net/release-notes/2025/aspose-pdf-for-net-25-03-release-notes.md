@@ -127,6 +127,7 @@ private static void AddBatesNArtifact()
         document.Save(dataDir + "SampleBatesNArtifact_out.pdf");
     }
 }
+```
 
 One of the Customers required the ability (PDFNET-58676) to create tagged elements on the specific PDF page and with the specific margins. New class `Aspose.Pdf.Tagged.PositionSettings` has been added for this.
 
