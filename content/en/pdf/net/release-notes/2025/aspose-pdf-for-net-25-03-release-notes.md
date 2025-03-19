@@ -49,9 +49,6 @@ At the request of users, we have returned [High Code Plugin products](https://pr
 
 Detecting compromise of PDF digital signatures has been added. The task, ID PDFNET-59213, has been carried out as part of the further sanitization feature. You can use the **SignaturesCompromiseDetector** class to verify digital signatures for compromise. Call the **Check()** method to check the document's signatures. If no signature compromise is detected, the method will return true. To verify whether the existing signatures cover the entire document, use the **SignaturesCoverage** property.
 
-{{< tabs tabID="1" tabTotal="2" tabName1=".NET Core 3.1" tabName2=".NET 8" >}}
-{{< tab tabNum="1" >}}
-
 ```csharp
 
 // For complete examples and data files, visit https://github.com/aspose-pdf/Aspose.PDF-for-.NET
@@ -87,49 +84,8 @@ private static void Check(string pdfFile)
 }
 ```
 
-{{< /tab >}}
-{{< tab tabNum="2" >}}
-
-```csharp
-
-// For complete examples and data files, visit https://github.com/aspose-pdf/Aspose.PDF-for-.NET
-private static void Check(string pdfFile)
-{
-    // Open PDF document
-    using var document = new Aspose.Pdf.Document(pdfFile);
-    // Create the compromise detector instance
-    var detector = new Aspose.Pdf.SignaturesCompromiseDetector(document);
-
-    // Check for compromise
-    if (detector.Check(out var result))
-    {
-        Console.WriteLine("No signature compromise detected");
-        return;
-    }
-
-    // Get information about compromised signatures
-    if (result.HasCompromisedSignatures)
-    {
-        Console.WriteLine($"Count of compromised signatures: {result.CompromisedSignatures.Count}");
-        foreach (var signatureName in result.CompromisedSignatures)
-        {
-            Console.WriteLine($"Signature name: {signatureName.FullName}");
-        }
-    }
-
-    // Get info about signatures coverage
-    Console.WriteLine(result.SignaturesCoverage);
-}
-```
-
-{{< /tab >}}
-{{< /tabs >}}
-
 Bates numbering is used in the legal, medical, and business fields in some countries to place identifying numbers and/or date/time marks on images and documents. For example, it is added during the discovery stage of preparations for trial or when identifying business receipts. This process provides identification, protection, and automatic consecutive numbering. Starting from version 25.3, we support automated Bates numbering adding. This feature is logged as PDFNET-50072 in our issue tracker.
 To add a Bates numbering artifact to a document, call the `AddBatesNumbering(BatesNArtifact batesNArtifact)` extension method on the `PageCollection`, passing the `BatesNArtifact` object as a parameter:
-
-{{< tabs tabID="1" tabTotal="2" tabName1=".NET Core 3.1" tabName2=".NET 8" >}}
-{{< tab tabNum="1" >}}
 
 ```csharp
 
@@ -173,53 +129,7 @@ private static void AddBatesNArtifact()
 }
 ```
 
-{{< /tab >}}
-{{< tab tabNum="2" >}}
-
-```csharp
-
-// The path to the documents directory
-var dataDir = RunExamples.GetDataDir_AsposePdf();
-
-// Create or open PDF document
-using var document = new Aspose.Pdf.Document();
-
-// Add 10 pages
-for (int i = 0; i < 10; i++)
-{
-    document.Pages.Add();
-}
-
-// Add Bates numbering to all pages
-document.Pages.AddBatesNumbering(new BatesNArtifact
-{
-    // These properties are set to their default values, as if they were not specified
-    StartPage = 1,
-    EndPage = 0,
-    Subset = Subset.All,
-    NumberOfDigits = 6,
-    StartNumber = 1,
-    Prefix = "",
-    Suffix = "",
-    ArtifactVerticalAlignment = VerticalAlignment.Bottom,
-    ArtifactHorizontalAlignment = HorizontalAlignment.Right,
-    RightMargin = 72,
-    LeftMargin = 72,
-    TopMargin = 36,
-    BottomMargin = 36
-});
-
-// Save PDF document
-document.Save(dataDir + "SampleBatesNArtifact_out.pdf");
-```
-
-{{< /tab >}}
-{{< /tabs >}}
-
 One of the Customers required the ability (PDFNET-58676) to create tagged elements on the specific PDF page and with the specific margins. New class `Aspose.Pdf.Tagged.PositionSettings` has been added for this.
-
-{{< tabs tabID="5" tabTotal="2" tabName1=".NET Core 3.1" tabName2=".NET 8" >}}
-{{< tab tabNum="1" >}}
 
 ```csharp
 
@@ -361,150 +271,6 @@ private static void AdjustTablePosition()
     }
 }
 ```
-
-{{< /tab >}}
-{{< tab tabNum="2" >}}
-
-```csharp
-
-// For complete examples and data files, visit https://github.com/aspose-pdf/Aspose.PDF-for-.NET
-private static void AdjustTablePosition()
-{
-    // The path to the documents directory
-    var dataDir = RunExamples.GetDataDir_AsposePdf_WorkingDocuments();
-
-    // Create PDF document
-    using var document = new Aspose.Pdf.Document();
-
-    // Create tagged content  
-    var taggedContent = document.TaggedContent;
-    taggedContent.SetTitle("Example table cell style");
-    taggedContent.SetLanguage("en-US");
-
-    // Get root structure element
-    var rootElement = taggedContent.RootElement;
-
-    // Create table structure element
-    var tableElement = taggedContent.CreateTableElement();
-    rootElement.AppendChild(tableElement);
-
-    // Create position settings
-    var positionSettings = new Aspose.Pdf.Tagged.PositionSettings
-    {
-        HorizontalAlignment = Aspose.Pdf.HorizontalAlignment.None,
-        Margin = new Aspose.Pdf.MarginInfo
-        {
-            Left = 20,
-            Right = 0,
-            Top = 0,
-            Bottom = 0
-        },
-        VerticalAlignment = Aspose.Pdf.VerticalAlignment.None,
-        IsFirstParagraphInColumn = false,
-        IsKeptWithNext = false,
-        IsInNewPage = false,
-        IsInLineParagraph = false
-    };
-
-    // Adjust table position
-    tableElement.AdjustPosition(positionSettings);
-
-    var tableTHeadElement = tableElement.CreateTHead();
-    var tableTBodyElement = tableElement.CreateTBody();
-    var tableTFootElement = tableElement.CreateTFoot();
-    var rowCount = 4;
-    var colCount = 4;
-    int rowIndex;
-    int colIndex;
-
-    var headTrElement = tableTHeadElement.CreateTR();
-    headTrElement.AlternativeText = "Head Row";
-
-    for (colIndex = 0; colIndex < colCount; colIndex++)
-    {
-        var thElement = headTrElement.CreateTH();
-        thElement.SetText(string.Format("Head {0}", colIndex));
-
-        thElement.BackgroundColor = Aspose.Pdf.Color.GreenYellow;
-        thElement.Border = new Aspose.Pdf.BorderInfo(Aspose.Pdf.BorderSide.All, 4.0F, Aspose.Pdf.Color.Gray);
-
-        thElement.IsNoBorder = true;
-        thElement.Margin = new Aspose.Pdf.MarginInfo(16.0, 2.0, 8.0, 2.0);
-
-        thElement.Alignment = Aspose.Pdf.HorizontalAlignment.Right;
-    }
-
-    for (rowIndex = 0; rowIndex < rowCount; rowIndex++)
-    {
-        var trElement = tableTBodyElement.CreateTR();
-        trElement.AlternativeText = string.Format("Row {0}", rowIndex);
-
-        for (colIndex = 0; colIndex < colCount; colIndex++)
-        {
-            var colSpan = 1;
-            var rowSpan = 1;
-
-            if (colIndex == 1 && rowIndex == 1)
-            {
-                colSpan = 2;
-                rowSpan = 2;
-            }
-            else if (colIndex == 2 && (rowIndex == 1 || rowIndex == 2))
-            {
-                continue;
-            }
-            else if (rowIndex == 2 && (colIndex == 1 || colIndex == 2))
-            {
-                continue;
-            }
-
-            var tdElement = trElement.CreateTD();
-            tdElement.SetText(string.Format("Cell [{0}, {1}]", rowIndex, colIndex));
-
-            tdElement.BackgroundColor = Aspose.Pdf.Color.Yellow;
-            tdElement.Border = new Aspose.Pdf.BorderInfo(Aspose.Pdf.BorderSide.All, 4.0F, Aspose.Pdf.Color.Gray);
-
-            tdElement.IsNoBorder = false;
-            tdElement.Margin = new Aspose.Pdf.MarginInfo(8.0, 2.0, 8.0, 2.0);
-
-            tdElement.Alignment = Aspose.Pdf.HorizontalAlignment.Center;
-
-            var cellTextState = new Aspose.Pdf.Text.TextState();
-            cellTextState.ForegroundColor = Aspose.Pdf.Color.DarkBlue;
-            cellTextState.FontSize = 7.5F;
-            cellTextState.FontStyle = Aspose.Pdf.Text.FontStyles.Bold;
-            cellTextState.Font = Aspose.Pdf.Text.FontRepository.FindFont("Arial");
-            tdElement.DefaultCellTextState = cellTextState;
-
-            tdElement.IsWordWrapped = true;
-            tdElement.VerticalAlignment = Aspose.Pdf.VerticalAlignment.Center;
-
-            tdElement.ColSpan = colSpan;
-            tdElement.RowSpan = rowSpan;
-        }
-    }
-
-    var footTrElement = tableTFootElement.CreateTR();
-    footTrElement.AlternativeText = "Foot Row";
-
-    for (colIndex = 0; colIndex < colCount; colIndex++)
-    {
-        var tdElement = footTrElement.CreateTD();
-        tdElement.SetText(string.Format("Foot {0}", colIndex));
-    }
-
-    // Save Tagged PDF Document
-    document.Save(dataDir + "AdjustTablePosition_out.pdf");
-
-    // Check PDF/UA compliance
-    using var documentOut = new Aspose.Pdf.Document(dataDir + "AdjustTablePosition_out.pdf");
-    var isPdfUaCompliance = documentOut.Validate(dataDir + "AdjustTablePosition_log.xml", Aspose.Pdf.PdfFormat.PDF_UA_1);
-    Console.WriteLine(string.Format("PDF/UA compliance: {0}", isPdfUaCompliance));
-}
-```
-
-{{< /tab >}}
-{{< /tabs >}}
 
 Ability to verify the boundaries of graphical Shapes when adding to the PDF page. This was made at the User's request for PDFNET-54931, which was originally reported as an investigation.
 You can use `UpdateBoundsCheckMode()` method of the `Shape` object to set the desired behavior if the shape overcomes the borders of the `Graph` object.
