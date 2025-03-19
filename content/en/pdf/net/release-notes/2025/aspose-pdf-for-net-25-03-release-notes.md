@@ -53,6 +53,7 @@ Detecting compromise of PDF digital signatures has been added. The task, ID PDFN
 {{< tab tabNum="1" >}}
 
 ```csharp
+
 // For complete examples and data files, visit https://github.com/aspose-pdf/Aspose.PDF-for-.NET
 private static void Check(string pdfFile)
 {
@@ -90,6 +91,7 @@ private static void Check(string pdfFile)
 {{< tab tabNum="2" >}}
 
 ```csharp
+
 // For complete examples and data files, visit https://github.com/aspose-pdf/Aspose.PDF-for-.NET
 private static void Check(string pdfFile)
 {
@@ -130,6 +132,7 @@ To add a Bates numbering artifact to a document, call the `AddBatesNumbering(Bat
 {{< tab tabNum="1" >}}
 
 ```csharp
+
 // For complete examples and data files, visit https://github.com/aspose-pdf/Aspose.PDF-for-.NET
 private static void AddBatesNArtifact()
 {
@@ -174,6 +177,7 @@ private static void AddBatesNArtifact()
 {{< tab tabNum="2" >}}
 
 ```csharp
+
 // The path to the documents directory
 var dataDir = RunExamples.GetDataDir_AsposePdf();
 
@@ -218,6 +222,7 @@ One of the Customers required the ability (PDFNET-58676) to create tagged elemen
 {{< tab tabNum="1" >}}
 
 ```csharp
+
 // For complete examples and data files, visit https://github.com/aspose-pdf/Aspose.PDF-for-.NET
 private static void AdjustTablePosition()
 {
@@ -361,6 +366,7 @@ private static void AdjustTablePosition()
 {{< tab tabNum="2" >}}
 
 ```csharp
+
 // For complete examples and data files, visit https://github.com/aspose-pdf/Aspose.PDF-for-.NET
 private static void AdjustTablePosition()
 {
@@ -504,6 +510,7 @@ Ability to verify the boundaries of graphical Shapes when adding to the PDF page
 You can use `UpdateBoundsCheckMode()` method of the `Shape` object to set the desired behavior if the shape overcomes the borders of the `Graph` object.
 
 ```csharp
+
 private static void CheckShapeBounds()
 {
     // Create a new document and add a page
