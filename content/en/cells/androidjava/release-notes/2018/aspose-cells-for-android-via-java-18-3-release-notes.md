@@ -52,7 +52,6 @@ This page contains release notes for Aspose.Cells for Android via Java 18.3.
 |CELLSJAVA-42542|Excel file is corrupted and have some cells changed after saving|Bug |
 |CELLSJAVA-42524|Calculation errors are present in the hidden sheet namely KD020|Bug |
 |CELLSJAVA-42514|ImportTableOptions.setInsertRows() is not working while importing the ResultSet to worksheet|Bug |
-|CELLSJAVA-42505|Comments attached to the cells (in the template file) are not shown when importing the Excel file into GridWeb|Bug |
 |CELLSJAVA-42520|Inconsistent cell coordinates reported by ImageOrPrintOptions.DrawObjectEventHandler|Bug |
 |CELLSJAVA-42518|Borders of rows are misaligned in the output PDF|Bug |
 |CELLSJAVA-42561|X-Axis scale is incorrect in PNG output of Excel chart|Bug |

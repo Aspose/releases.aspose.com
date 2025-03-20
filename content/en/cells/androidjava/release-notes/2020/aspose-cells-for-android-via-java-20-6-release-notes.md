@@ -115,5 +115,3 @@ Indicates whether repeating formulas with subtotal rows.
 It indicates whether the size of the plot area is automatic.
 ### **Deletes obsoleted Style.Rotation property.**
 Use Style.RotationAngle property instead.
-### **Adds Gridweb.SetFontFolder(string fontFolder, bool recursive)/SetFontFolders(string[] fontFolders, bool recursive) method.**
-Sets the fonts folder/folders

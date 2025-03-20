@@ -224,9 +224,6 @@ Gets Custom xml part by id.
 
 Enhancement for processing range.
 
-### **Overloads WorkbookRender.ToImage() method**
-
-Renders the workbook to image by the page index.
 
 ### **Adds Legend.LegendEntriesLabels() method**
 

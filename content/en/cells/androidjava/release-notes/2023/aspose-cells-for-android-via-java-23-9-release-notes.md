@@ -173,17 +173,11 @@ Represents the cell value and corresponding type.
 
 Provides user the ability of checking and replacing some special cell types and values when exporting.
 
-### **Adds Dispose() method for SheetRender and WorkbookRender**
-
-Provides user the ability to explicitly release resources created during rendering.
 
 ### **Adds EbookLoadOptions and EbookSaveOptions class**
 
 Represents options when importing/exporting an ebook file.
 
-### **Adds GridWeb.DPI property**
-
-Gets and Sets the DPI of the machine.
 
 ### **Adds FileFormatType.Epub, LoadFormat.Epub, SaveFormat.Epub enum**
 

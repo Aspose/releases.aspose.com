@@ -158,13 +158,7 @@ Gets all cells that contain embedded picture.
 
 Represents utility to convert files to other formats.
 
-### **Adds GridJsWorkbook.JsonToStream(OutputStream stream, string filename) .**
 
-Write JSON of the file to the stream.
-
-### **Adds GridJsWorkbook.JsonToStreamByUid(OutputStream stream, string uid, string filename).**
-
-Write JSON of the file from the cache by the specified unique id to the stream.
 
 ### **Adds enum MergedCellsShrinkType.**
 
@@ -230,9 +224,6 @@ Indicates whether the html character entities are replaced with decimal code.(e.
 
 Indicates the original json schema of each worksheet for converting Excel to json.
 
-### **Adds Config.SkipInvisibleShapes property for GridJs.**
-
-Indicates whether to skip shapes that are invisble to UI ,the default value is true.
 
 ### **Adds property Cell.IsCheckBoxStyle.**
 

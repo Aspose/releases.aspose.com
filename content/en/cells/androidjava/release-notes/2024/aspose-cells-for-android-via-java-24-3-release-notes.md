@@ -19,7 +19,6 @@ This page contains release notes for Aspose.Cells for Android via Java 24.3.
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|CELLSJAVA-45816|Support jakarta.servlet for GridWeb java|New Feature
 |CELLSJAVA-45758|Support hightlighted sheet tabs in the output html for mobile devices|New Feature
 |CELLSJAVA-45705|Support json as data source of smart marker|New Feature
 |CELLSJAVA-45199|Dialog box is not converted into output PDF properly|New Feature
@@ -34,7 +33,6 @@ This page contains release notes for Aspose.Cells for Android via Java 24.3.
 |CELLSJAVA-45780|Different incorrect results obtained after calling multiple  formula calculation|Bug
 |CELLSJAVA-43795|Histogram chart is not rendered properly in XLSX to HTML conversion|Bug
 |CELLSJAVA-45784|Data labels through conditions are not effective when converting file to html|Bug
-|CELLSJAVA-45794|Fail to edit cell value  in the new created sheet in GridWeb java|Bug
 |CELLSJAVA-45779|The scaling is different between Aspose.Cells generated pdf and Excel generated pdf|Bug
 |CELLSJAVA-45771|Extra columns in exported HTML output when Excel named range contains icons|Bug
 |CELLSJAVA-45708|Smart markers can't get correct layout when setting line by line replacement to false|Bug
@@ -45,7 +43,6 @@ This page contains release notes for Aspose.Cells for Android via Java 24.3.
 |CELLSJAVA-45789|CalculateForumula results "-"|Bug
 |CELLSJAVA-45836|Excel conditional format duplicate value setting format shows error after saving to HTML|Bug
 |CELLSJAVA-45838|Incorrect results obtained after calling formula calculation|Bug
-|CELLSJAVA-45825|Value list validation does not show in GridWeb java|Bug
 |CELLSJAVA-45820|The incorrect size and resolution are obtained by exporting Sheet Print Area to EMF image|Bug
 |CELLSJAVA-45829|Page count is not right while rendering workbook with 1200 print quality setting to pdf|Bug
 |CELLSJAVA-45802|Issue with formatting of some sheets when rendering to HTML|Bug

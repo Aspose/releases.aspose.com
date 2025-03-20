@@ -42,7 +42,6 @@ This page contains release notes for Aspose.Cells for Android via Java 22.9.
 |CELLSJAVA-44758|Copy worksheet across workbooks, the cell format is abnormal|Bug
 |CELLSJAVA-44796|Aspose.Cells formula calculation engine produces ?#N/A? values for certain cells|Bug
 |CELLSJAVA-44798|Bug of formatting 0.9999999999999999 with custom "#" for JDK8 or later versions|Bug
-|CELLSJAVA-44773|Data is messed up when opening an Excel document with hidden columns into GridWeb (Java)|Bug
 |CELLSJAVA-44781|investigate the row resize issue when resize to  very little height|Bug
 |CELLSJAVA-44787|Bottom border lost at the last row in the workbook|Bug
 |CELLSJAVA-44761|Excessive memory usage on conversion of Excel file to HTML|Bug
@@ -133,9 +132,6 @@ Gets or sets the sheets to render.
 
 Gets or sets the sheets to render.
 
-### **Add GridWeb.IgnoreStyleWithNoData property.**
-
-Gets or sets whether GridWeb ignores showing rows or columns that do not contain cell values but are still styled
 
 ### **Obsolete ImageOrPrintOptions.SaveFormat property.**
 
