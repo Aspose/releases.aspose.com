@@ -152,8 +152,10 @@ The following code sample demonstrates how to use the `SplitTextByColumns` metho
 ```csharp
 using (Presentation pres = new Presentation("example.pptx"))
 {
-    // Get the first shape on the slide and cast it to ITextFrame
-    ITextFrame textFrame = pres.Slides[0].Shapes[0] as ITextFrame;
+	// Get the first shape on the slide
+	IAutoShape shape = pres.Slides[0].Shapes[0] as AutoShape;
+	// Get textFrame
+	ITextFrame textFrame = shape.TextFrame;
     // Split the text frame content into columns
     string[] columnsText = textFrame.SplitTextByColumns();
     // Print each column's text to the console
