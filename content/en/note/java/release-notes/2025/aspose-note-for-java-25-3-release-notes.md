@@ -23,6 +23,8 @@ This page contains release notes information for [Aspose.Note for Java 25.3](htt
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|NOTEJAVA-1205|InkML is not properly rendered when saving OneNote file to PDF|
+|NOTEJAVA-1205|InkML is not properly rendered when saving OneNote file to PDF|Bug|
 |NOTENET-5783|Issue with rendering pictures (which are misplaced and dispersed) after converting to PDF|Bug|
 |NOTENET-5850|OneNote to PDF Conversion – Image Artifacts and Layout Distortion|Bug|
+|NOTENET-5846|Link/anchor text is not correct for unicode characters|Bug|
+|NOTENET-5854|Incorrect text handling for differently formatted chinese characters|Bug|
