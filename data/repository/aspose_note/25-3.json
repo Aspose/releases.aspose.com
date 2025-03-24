@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk17",
+  "artifactId" : "aspose-note",
+  "id" : "25-3",
+  "packageFiles" : [ {
+    "size" : "530 KB",
+    "name" : "aspose-note-25.3-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "10 MB",
+    "name" : "aspose-note-25.3-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "393 bytes",
+    "name" : "aspose-note-25.3.pom"
+  } ],
+  "releasehDate" : "2025-03-24T09:11:50+00:00",
+  "version" : "25.3",
+  "ReleaseNotes" : "https://releases.aspose.com/note/java/release-notes/2025/aspose-note-for-java-25-3-release-notes/"
+}
