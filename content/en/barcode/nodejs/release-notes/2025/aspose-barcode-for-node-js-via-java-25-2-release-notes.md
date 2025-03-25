@@ -40,7 +40,7 @@ Updated the setCodeText methods for character set encodings.
 We currently have two variants of the method:
 one that allows BOM (byte order mark) insertion selection and one without this option.
 
-{{< highlight javascript >}}
+```javascript
     let generator1 = new BarcodeGenerator(EncodeTypes.CODE_128);
     generator1.setCodeText("123ABCD", "US-ASCII", true);
     generator1.save(folderPath, BarCodeImageFormat.PNG);
@@ -56,7 +56,7 @@ one that allows BOM (byte order mark) insertion selection and one without this o
     let generator4 = new BarcodeGenerator(EncodeTypes.CODE_128);
     generator4.setCodeText("123ABCD", "UTF-8", false);
     generator4.save(folderPath + "barcode4_php.png", BarCodeImageFormat.PNG);
-{{< /highlight >}}
+```
 This parameter affects only specific code types and encodings.
 More information is available in the <a href="https://docs.aspose.com/barcode/java/how-to-use-insert-bom-parameter/" target="_blank">documentation</a>.
 
