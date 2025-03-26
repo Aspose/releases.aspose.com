@@ -8,7 +8,7 @@ folder_link: "/zip/python-net/new-releases/aspose.zip-for-python-via-.net-25.3-l
 folder_name: "Aspose.Zip για Python μέσω .NET 25.3 Linux"
 download_link: "/zip/python-net/new-releases/aspose.zip-for-python-via-.net-25.3-linux/1b84279afa27c7e41784b2f24dd1dc71-9-12749"
 download_text: "Κατεβάστε"
-intro_text: "Περιέχει Aspose.Tasks για Python μέσω δυαδικών αρχείων μόνο .NET 25.3 Linux"
+intro_text: "Περιέχει Aspose.Zip για Python μέσω δυαδικών αρχείων μόνο .NET 25.3 Linux"
 image_link: "/resources/img/random-file-icon.png"
 download_count: " 26/3/2025 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 43.36MB"
@@ -43,7 +43,7 @@ weight: 81
       <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/zip/python-net/release-notes/2025/aspose-zip-for-python-net-25-3-release-notes/'>https://releases.aspose.com/zip/python-net/release-notes/2025/aspose-zip-for-python-net-25-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει Aspose.Tasks για Python μέσω δυαδικών αρχείων μόνο .NET 25.3 Linux</div>
+      <h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει Aspose.Zip για Python μέσω δυαδικών αρχείων μόνο .NET 25.3 Linux</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

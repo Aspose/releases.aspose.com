@@ -8,7 +8,7 @@ folder_link: "/zip/python-net/new-releases/aspose.zip-for-python-via-.net-25.3-l
 folder_name: "Aspose.Zip for Python 通过 .NET 25.3 Linux"
 download_link: "/zip/python-net/new-releases/aspose.zip-for-python-via-.net-25.3-linux/1b84279afa27c7e41784b2f24dd1dc71-9-12749"
 download_text: "下载"
-intro_text: "它包含 Aspose.Tasks for Python via .NET 25.3 Linux only 二进制文件"
+intro_text: "它包含 Aspose.Zip for Python via .NET 25.3 仅 Linux 二进制文件"
 image_link: "/resources/img/random-file-icon.png"
 download_count: " 26/3/2025 下载s: 1  Views: 1 "
 file_size: "File Size: 43.36MB"
@@ -43,7 +43,7 @@ weight: 81
       <h4>发行说明</h4><div><a href='https://releases.aspose.com/zip/python-net/release-notes/2025/aspose-zip-for-python-net-25-3-release-notes/'>https://releases.aspose.com/zip/python-net/release-notes/2025/aspose-zip-for-python-net-25-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>描述</h4><div class="HTMLDescription">它包含 Aspose.Tasks for Python via .NET 25.3 Linux only 二进制文件</div>
+      <h4>描述</h4><div class="HTMLDescription">它包含 Aspose.Zip for Python via .NET 25.3 仅 Linux 二进制文件</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
