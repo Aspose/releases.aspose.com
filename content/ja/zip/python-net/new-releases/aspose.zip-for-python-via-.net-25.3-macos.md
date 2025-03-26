@@ -8,7 +8,7 @@ folder_link: "/zip/python-net/new-releases/aspose.zip-for-python-via-.net-25.3-m
 folder_name: ".NET 25.3 MacOS 経由の Python 用 Aspose.Zip"
 download_link: "/zip/python-net/new-releases/aspose.zip-for-python-via-.net-25.3-macos/476f1c200cfab14155903f724b826cda-8-12748"
 download_text: "ダウンロード"
-intro_text: ".NET 25.3 MacOS 専用バイナリ経由の Aspose.Tasks for Python が含まれています"
+intro_text: ".NET 25.3 MacOS 専用バイナリ経由の Aspose.Zip for Python が含まれています"
 image_link: "/resources/img/random-file-icon.png"
 download_count: " 26/3/2025 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 39.43MB"
@@ -43,7 +43,7 @@ weight: 80
       <h4>リリースノート</h4><div><a href='https://releases.aspose.com/zip/python-net/release-notes/2025/aspose-zip-for-python-net-25-3-release-notes/'>https://releases.aspose.com/zip/python-net/release-notes/2025/aspose-zip-for-python-net-25-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>説明</h4><div class="HTMLDescription">.NET 25.3 MacOS 専用バイナリ経由の Aspose.Tasks for Python が含まれています</div>
+      <h4>説明</h4><div class="HTMLDescription">.NET 25.3 MacOS 専用バイナリ経由の Aspose.Zip for Python が含まれています</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

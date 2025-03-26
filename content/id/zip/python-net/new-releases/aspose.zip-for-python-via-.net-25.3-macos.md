@@ -8,7 +8,7 @@ folder_link: "/zip/python-net/new-releases/aspose.zip-for-python-via-.net-25.3-m
 folder_name: "Aspose.Zip untuk Python melalui .NET 25.3 MacOS"
 download_link: "/zip/python-net/new-releases/aspose.zip-for-python-via-.net-25.3-macos/476f1c200cfab14155903f724b826cda-8-12748"
 download_text: "Unduh"
-intro_text: "Ini berisi Aspose.Tasks untuk Python melalui biner khusus MacOS .NET 25.3"
+intro_text: "Ini berisi Aspose.Zip untuk Python melalui biner khusus MacOS .NET 25.3"
 image_link: "/resources/img/random-file-icon.png"
 download_count: " 26/3/2025 Unduhs: 1  Views: 1 "
 file_size: "File Size: 39.43MB"
@@ -43,7 +43,7 @@ weight: 80
       <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/zip/python-net/release-notes/2025/aspose-zip-for-python-net-25-3-release-notes/'>https://releases.aspose.com/zip/python-net/release-notes/2025/aspose-zip-for-python-net-25-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Keterangan</h4><div class="HTMLDescription">Ini berisi Aspose.Tasks untuk Python melalui biner khusus MacOS .NET 25.3</div>
+      <h4>Keterangan</h4><div class="HTMLDescription">Ini berisi Aspose.Zip untuk Python melalui biner khusus MacOS .NET 25.3</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
