@@ -8,7 +8,7 @@ folder_link: "/zip/python-net/new-releases/aspose.zip-for-python-via-.net-25.3-w
 folder_name: ".NET 25.3 Win64 aracılığıyla Python için Aspose.Zip"
 download_link: "/zip/python-net/new-releases/aspose.zip-for-python-via-.net-25.3-win64/acf2f59e81c639cd46c052811bc5f0e3-8-12751"
 download_text: "İndirmek"
-intro_text: "Yalnızca .NET 25.3 Win64 ikili dosyaları aracılığıyla Aspose.Tasks for Python'u içerir"
+intro_text: "Yalnızca .NET 25.3 Win64 ikili dosyaları aracılığıyla Aspose.Zip for Python'u içerir"
 image_link: "/resources/img/random-file-icon.png"
 download_count: " 26/3/2025 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 36.97MB"
@@ -43,7 +43,7 @@ weight: 83
       <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/zip/python-net/release-notes/2025/aspose-zip-for-python-net-25-3-release-notes/'>https://releases.aspose.com/zip/python-net/release-notes/2025/aspose-zip-for-python-net-25-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Tanım</h4><div class="HTMLDescription">Yalnızca .NET 25.3 Win64 ikili dosyaları aracılığıyla Aspose.Tasks for Python'u içerir</div>
+      <h4>Tanım</h4><div class="HTMLDescription">Yalnızca .NET 25.3 Win64 ikili dosyaları aracılığıyla Aspose.Zip for Python'u içerir</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

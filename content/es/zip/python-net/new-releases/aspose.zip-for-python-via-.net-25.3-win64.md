@@ -8,7 +8,7 @@ folder_link: "/zip/python-net/new-releases/aspose.zip-for-python-via-.net-25.3-w
 folder_name: "Aspose.Zip para Python a través de .NET 25.3 Win64"
 download_link: "/zip/python-net/new-releases/aspose.zip-for-python-via-.net-25.3-win64/acf2f59e81c639cd46c052811bc5f0e3-8-12751"
 download_text: "Descargar"
-intro_text: "Contiene Aspose.Tasks para Python a través de archivos binarios .NET 25.3 Win64 únicamente"
+intro_text: "Contiene Aspose.Zip para Python a través de archivos binarios .NET 25.3 Win64 únicamente"
 image_link: "/resources/img/random-file-icon.png"
 download_count: " 26/3/2025 Descargars: 1  Views: 1 "
 file_size: "File Size: 36.97MB"
@@ -43,7 +43,7 @@ weight: 83
       <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/zip/python-net/release-notes/2025/aspose-zip-for-python-net-25-3-release-notes/'>https://releases.aspose.com/zip/python-net/release-notes/2025/aspose-zip-for-python-net-25-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Descripción</h4><div class="HTMLDescription">Contiene Aspose.Tasks para Python a través de archivos binarios .NET 25.3 Win64 únicamente</div>
+      <h4>Descripción</h4><div class="HTMLDescription">Contiene Aspose.Zip para Python a través de archivos binarios .NET 25.3 Win64 únicamente</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
