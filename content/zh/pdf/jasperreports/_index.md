@@ -18,7 +18,7 @@ weight:  7
 {{< Common/h3 text="下载 Aspose.PDF 以将 JasperReports® 导出为 PDF 格式"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.PDF for JasperReports 帮助您将报告从 JasperReports® 和 JasperServer® 导出为 PDF、PDF/A 和其他支持的文件格式。重要的报表功能，例如图表和表格，在布局或格式上没有任何损失。
-{{< Common/release-notes-link family="pdf" product="jasperreports" href="https://releases.aspose.com/pdf/jassperreport/release-notes/" text="https://releases.aspose.com/pdf/jassperreport/release-notes/"  >}}
+{{< Common/release-notes-link family="pdf" product="jasperreports" href="https://releases.aspose.com/pdf/jasperreports/release-notes/" text="https://releases.aspose.com/pdf/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

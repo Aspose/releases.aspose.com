@@ -5,21 +5,21 @@ keywords:  "    . "
 page_type:  single_release_page
 folder_link: " pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-18.9/"
 folder_name: "Aspose.pdf για jasperreports 18.9"
-download_link: " /pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-18.9/abc025327f71497e968a4ce100ada29a"
+download_link: " /pdf/jasperreports/new-releases/aspose.pdf-for-jasperreports-18.9/abc025327f71497e968a4ce100ada29a"
 download_text: " Κατεβάστε"
 intro_text: "Είμαστε στην ευχάριστη θέση να μοιραστούμε μια νέα έκδοση του aspose.pdf για το JasperReports με το Follo ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   9/25/2018  Κατεβάστεs: 24  Views: 1195"
 file_size: "  File Size: 163.4 MB "
-parent_path: "pdf/jassperreport"
-section_parent_path: "pdf/jassperreport"
+parent_path: "pdf/jasperreports"
+section_parent_path: "pdf/jasperreports"
 weight: 17
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.pdf για jasperreports 18.9" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text=" Κατεβάστε" link="/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-18.9/abc025327f71497e968a4ce100ada29a%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Κατεβάστε" link="/pdf/jasperreports/new-releases/aspose.pdf-for-jasperreports-18.9/abc025327f71497e968a4ce100ada29a%20%20" >}}
     {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
@@ -39,7 +39,7 @@ weight: 17
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://releases.aspose.com/pdf/jassperreport/release-notes/2018/aspose-pdf-for-jasperreports-18-9-release-notes/">https://releases.aspose.com/pdf/jassperreport/release-notes/2018/aspose-pdf-for-jasperreports-18-9-release-notes/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Είμαστε στην ευχάριστη θέση να μοιραστούμε μια νέα έκδοση του ASPOSE.pdf για το JasperReports με τις ακόλουθες βελτιώσεις.</div>
+      <h4>Σημειώσεις έκδοσης</h4><div><a href="https://releases.aspose.com/pdf/jasperreports/release-notes/2018/aspose-pdf-for-jasperreports-18-9-release-notes/">https://releases.aspose.com/pdf/jasperreports/release-notes/2018/aspose-pdf-for-jasperreports-18-9-release-notes/</a></div><h4>Περιγραφή</h4><div class="HTMLDescription">Είμαστε στην ευχάριστη θέση να μοιραστούμε μια νέα έκδοση του ASPOSE.pdf για το JasperReports με τις ακόλουθες βελτιώσεις.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

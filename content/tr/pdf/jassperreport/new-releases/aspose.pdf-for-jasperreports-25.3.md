@@ -4,16 +4,16 @@ title: "İndirilenler ---Yeni Çıkanlar-aspose.pdf-for-jasperreports-25.3"
 description: " "
 keywords: ""
 page_type: single_release_page
-folder_link: "/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-25.3/"
+folder_link: "/pdf/jasperreports/new-releases/aspose.pdf-for-jasperreports-25.3/"
 folder_name: "JasperReports 25.3 için Aspose.PDF"
-download_link: "/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-25.3/d3403d713bc4b0c6bc1760eda062dcfa-18-12747"
+download_link: "/pdf/jasperreports/new-releases/aspose.pdf-for-jasperreports-25.3/d3403d713bc4b0c6bc1760eda062dcfa-18-12747"
 download_text: "İndirmek"
 intro_text: "Aspose.PDF for JasperReports, raporları JasperReports® ve JasperServer®'dan PDF, PDF/A ve diğer desteklenen dosya formatlarına aktarmanıza yardımcı olur. Grafikler ve tablolar gibi önemli rapor özellikleri, düzende veya formatta herhangi bir kayıp olmadan dönüştürülür."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 25/3/2025 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 85.57MB"
-parent_path: "pdf/jassperreport"
-section_parent_path: "pdf/jassperreport"
+parent_path: "pdf/jasperreports"
+section_parent_path: "pdf/jasperreports"
 
 tags: ""
 release_notes_url: "https://releases.aspose.com/pdf/jasperreports/release-notes/2025/aspose-pdf-for-jasperreports-25-3-release-notes/"
@@ -24,7 +24,7 @@ weight: 20
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="JasperReports 25.3 için Aspose.PDF" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="İndirmek" link="/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-25.3/d3403d713bc4b0c6bc1760eda062dcfa-18-12747" >}}
+    {{< Releases/ReleasesSingleButtons text="İndirmek" link="/pdf/jasperreports/new-releases/aspose.pdf-for-jasperreports-25.3/d3403d713bc4b0c6bc1760eda062dcfa-18-12747" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}

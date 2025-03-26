@@ -18,7 +18,7 @@ weight:  7
 {{< Common/h3 text="Κάντε λήψη του Aspose.PDF για εξαγωγή JasperReports® σε μορφές PDF"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Το Aspose.PDF για JasperReports σάς βοηθά να εξάγετε αναφορές από τα JasperReports® και JasperServer® σε PDF, PDF/A και άλλες υποστηριζόμενες μορφές αρχείων. Τα σημαντικά χαρακτηριστικά της αναφοράς, όπως γραφήματα και πίνακες, μετατρέπονται χωρίς καμία απώλεια στη διάταξη ή τη μορφοποίηση.
-{{< Common/release-notes-link family="pdf" product="jasperreports" href="https://releases.aspose.com/pdf/jassperreport/release-notes/" text="https://releases.aspose.com/pdf/jassperreport/release-notes/"  >}}
+{{< Common/release-notes-link family="pdf" product="jasperreports" href="https://releases.aspose.com/pdf/jasperreports/release-notes/" text="https://releases.aspose.com/pdf/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

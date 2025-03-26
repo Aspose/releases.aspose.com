@@ -18,7 +18,7 @@ weight:  7
 {{< Common/h3 text="Unduh Aspose.PDF untuk Mengekspor JasperReports® ke Format PDF"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.PDF untuk JasperReports membantu Anda mengekspor laporan dari JasperReports® dan JasperServer® ke PDF, PDF/A, dan format file lain yang didukung. Fitur laporan penting, seperti bagan dan tabel dikonversi tanpa kehilangan tata letak atau pemformatan.
-{{< Common/release-notes-link family="pdf" product="jasperreports" href="https://releases.aspose.com/pdf/jassperreport/release-notes/" text="https://releases.aspose.com/pdf/jassperreport/release-notes/"  >}}
+{{< Common/release-notes-link family="pdf" product="jasperreports" href="https://releases.aspose.com/pdf/jasperreports/release-notes/" text="https://releases.aspose.com/pdf/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

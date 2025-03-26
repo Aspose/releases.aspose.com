@@ -5,21 +5,21 @@ keywords:  "    . "
 page_type:  single_release_page
 folder_link: " pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports/"
 folder_name: "aspose.pdf用于jasperReports"
-download_link: " /pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports/d6ecad7b4f224bfeab28b3e4161291fc"
+download_link: " /pdf/jasperreports/new-releases/aspose.pdf-for-jasperreports/d6ecad7b4f224bfeab28b3e4161291fc"
 download_text: " 下载"
 intro_text: "我们很高兴与follo共享一个新版本的jasperreports。"
 image_link: "/resources/img/zip-icon.png"
 download_count: "   6/23/2014  下载s: 109  Views: 825"
 file_size: "  File Size: 8.7 MB "
-parent_path: "pdf/jassperreport"
-section_parent_path: "pdf/jassperreport"
+parent_path: "pdf/jasperreports"
+section_parent_path: "pdf/jasperreports"
 weight: 13
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="aspose.pdf用于jasperReports" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text=" 下载" link="/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports/d6ecad7b4f224bfeab28b3e4161291fc%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" 下载" link="/pdf/jasperreports/new-releases/aspose.pdf-for-jasperreports/d6ecad7b4f224bfeab28b3e4161291fc%20%20" >}}
     {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}

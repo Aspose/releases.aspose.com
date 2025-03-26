@@ -5,14 +5,14 @@ keywords:  "    . "
 page_type:  single_release_page
 folder_link: " pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-20.11/"
 folder_name: "JasperReports için aspose.pdf 20.11"
-download_link: " /pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-20.11/a81decca7cbf487b9e92795a0e19b3d1"
+download_link: " /pdf/jasperreports/new-releases/aspose.pdf-for-jasperreports-20.11/a81decca7cbf487b9e92795a0e19b3d1"
 download_text: " İndirmek"
 intro_text: "Follo ile JasperReports için yeni bir aspose.pdf sürümünü paylaşmaktan mutluluk duyuyoruz ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   11/27/2020  İndirmeks: 41  Views: 137"
 file_size: "  File Size: 362.0 MB "
-parent_path: "pdf/jassperreport"
-section_parent_path: "pdf/jassperreport"
+parent_path: "pdf/jasperreports"
+section_parent_path: "pdf/jasperreports"
 weight: 19
 tags: ['Aspose', 'Aspose.PDF', 'Aspose.Total', 'PDF', 'JRXML', 'PDF', 'PDFA', 'PPTX', 'JasperReports', 'JasperServer', 'report', 'export', 'table', 'chart', 'extension', 'conversion']
 ---
@@ -20,7 +20,7 @@ tags: ['Aspose', 'Aspose.PDF', 'Aspose.Total', 'PDF', 'JRXML', 'PDF', 'PDFA', 'P
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="JasperReports için aspose.pdf 20.11" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-20.11/a81decca7cbf487b9e92795a0e19b3d1%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/pdf/jasperreports/new-releases/aspose.pdf-for-jasperreports-20.11/a81decca7cbf487b9e92795a0e19b3d1%20%20" >}}
     {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
@@ -40,7 +40,7 @@ tags: ['Aspose', 'Aspose.PDF', 'Aspose.Total', 'PDF', 'JRXML', 'PDF', 'PDFA', 'P
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/pdf/jassperreport/release-notes/2020/aspose-pdf-for-jasperreports-20-11-release-notes/">https://releases.aspose.com/pdf/jassperreport/release-notes/2020/aspose-pdf-for-jasperreports-20-11-release-notes/</a></div><h4>Tanım</h4><div class="HTMLDescription">Aşağıdaki iyileştirmelerle JasperReports için yeni bir Aspose.pdf sürümünü paylaşmaktan mutluluk duyuyoruz.</div>
+      <h4>Sürüm notları</h4><div><a href="https://releases.aspose.com/pdf/jasperreports/release-notes/2020/aspose-pdf-for-jasperreports-20-11-release-notes/">https://releases.aspose.com/pdf/jasperreports/release-notes/2020/aspose-pdf-for-jasperreports-20-11-release-notes/</a></div><h4>Tanım</h4><div class="HTMLDescription">Aşağıdaki iyileştirmelerle JasperReports için yeni bir Aspose.pdf sürümünü paylaşmaktan mutluluk duyuyoruz.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

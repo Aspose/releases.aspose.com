@@ -4,16 +4,16 @@ title: "Unduhan ---Rilis Baru-aspose.pdf-for-jasperreports-25.3"
 description: " "
 keywords: ""
 page_type: single_release_page
-folder_link: "/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-25.3/"
+folder_link: "/pdf/jasperreports/new-releases/aspose.pdf-for-jasperreports-25.3/"
 folder_name: "Aspose.PDF untuk JasperReports 25.3"
-download_link: "/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-25.3/d3403d713bc4b0c6bc1760eda062dcfa-18-12747"
+download_link: "/pdf/jasperreports/new-releases/aspose.pdf-for-jasperreports-25.3/d3403d713bc4b0c6bc1760eda062dcfa-18-12747"
 download_text: "Unduh"
 intro_text: "Aspose.PDF untuk JasperReports membantu Anda mengekspor laporan dari JasperReports® dan JasperServer® ke PDF, PDF/A, dan format file lain yang didukung. Fitur laporan penting, seperti bagan dan tabel dikonversi tanpa kehilangan tata letak atau pemformatan."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 25/3/2025 Unduhs: 1  Views: 1 "
 file_size: "File Size: 85.57MB"
-parent_path: "pdf/jassperreport"
-section_parent_path: "pdf/jassperreport"
+parent_path: "pdf/jasperreports"
+section_parent_path: "pdf/jasperreports"
 
 tags: ""
 release_notes_url: "https://releases.aspose.com/pdf/jasperreports/release-notes/2025/aspose-pdf-for-jasperreports-25-3-release-notes/"
@@ -24,7 +24,7 @@ weight: 20
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.PDF untuk JasperReports 25.3" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Unduh" link="/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-25.3/d3403d713bc4b0c6bc1760eda062dcfa-18-12747" >}}
+    {{< Releases/ReleasesSingleButtons text="Unduh" link="/pdf/jasperreports/new-releases/aspose.pdf-for-jasperreports-25.3/d3403d713bc4b0c6bc1760eda062dcfa-18-12747" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}

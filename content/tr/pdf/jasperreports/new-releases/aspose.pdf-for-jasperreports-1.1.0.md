@@ -5,21 +5,21 @@ keywords:  "    . "
 page_type:  single_release_page
 folder_link: " pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-1.1.0/"
 folder_name: "JasperReports için aspose.pdf 1.1.0"
-download_link: " /pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-1.1.0/aa64e6f496fb4c3b817d5214431622c4"
+download_link: " /pdf/jasperreports/new-releases/aspose.pdf-for-jasperreports-1.1.0/aa64e6f496fb4c3b817d5214431622c4"
 download_text: " İndirmek"
 intro_text: "Jasperrep için aspose.pdf yayınlandığını duyurmaktan mutluluk duyuyoruz ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   2/17/2013  İndirmeks: 105  Views: 1341"
 file_size: "  File Size: 8.5 MB "
-parent_path: "pdf/jassperreport"
-section_parent_path: "pdf/jassperreport"
+parent_path: "pdf/jasperreports"
+section_parent_path: "pdf/jasperreports"
 weight: 11
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="JasperReports için aspose.pdf 1.1.0" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-1.1.0/aa64e6f496fb4c3b817d5214431622c4%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" İndirmek" link="/pdf/jasperreports/new-releases/aspose.pdf-for-jasperreports-1.1.0/aa64e6f496fb4c3b817d5214431622c4%20%20" >}}
     {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}

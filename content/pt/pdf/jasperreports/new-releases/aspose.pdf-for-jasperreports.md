@@ -5,21 +5,21 @@ keywords:  "    . "
 page_type:  single_release_page
 folder_link: " pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports/"
 folder_name: "Aspose.pdf para JasperReports"
-download_link: " /pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports/d6ecad7b4f224bfeab28b3e4161291fc"
+download_link: " /pdf/jasperreports/new-releases/aspose.pdf-for-jasperreports/d6ecad7b4f224bfeab28b3e4161291fc"
 download_text: " Download"
 intro_text: "Temos o prazer de compartilhar uma nova versão do Aspose.pdf para JasperReports com Follo ..."
 image_link: "/resources/img/zip-icon.png"
 download_count: "   6/23/2014  Downloads: 109  Views: 825"
 file_size: "  File Size: 8.7 MB "
-parent_path: "pdf/jassperreport"
-section_parent_path: "pdf/jassperreport"
+parent_path: "pdf/jasperreports"
+section_parent_path: "pdf/jasperreports"
 weight: 13
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.pdf para JasperReports" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text=" Download" link="/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports/d6ecad7b4f224bfeab28b3e4161291fc%20%20" >}}
+    {{< Releases/ReleasesSingleButtons text=" Download" link="/pdf/jasperreports/new-releases/aspose.pdf-for-jasperreports/d6ecad7b4f224bfeab28b3e4161291fc%20%20" >}}
     {{< Releases/ReleasesSingleButtons text=" Support Forum " link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}

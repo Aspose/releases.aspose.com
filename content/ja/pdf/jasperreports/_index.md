@@ -18,7 +18,7 @@ weight:  7
 {{< Common/h3 text="Aspose.PDF をダウンロードして JasperReports® を PDF 形式にエクスポート"  >}}
 {{< Common/paragraph class="package-instructions">}}
 Aspose.PDF for JasperReports は、レポートを JasperReports® および JasperServer® から PDF、PDF/A、およびその他のサポートされているファイル形式にエクスポートするのに役立ちます。グラフや表などの重要なレポート機能は、レイアウトや書式を損なうことなく変換されます。
-{{< Common/release-notes-link family="pdf" product="jasperreports" href="https://releases.aspose.com/pdf/jassperreport/release-notes/" text="https://releases.aspose.com/pdf/jassperreport/release-notes/"  >}}
+{{< Common/release-notes-link family="pdf" product="jasperreports" href="https://releases.aspose.com/pdf/jasperreports/release-notes/" text="https://releases.aspose.com/pdf/jasperreports/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< Common/hr >}}
 

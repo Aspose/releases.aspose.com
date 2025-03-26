@@ -18,6 +18,6 @@ family_listing_page_title: "Release Notes"
 | Aspose.CAD for JasperReports | [Release Notes](https://releases.aspose.com/cad/jasperreports/release-notes/) |
 | Aspose.Cells for JasperReports | [Release Notes](https://releases.aspose.com/cells/jasperreports/release-notes/) |
 | Aspose.Imaging for JasperReports | [Release Notes](https://releases.aspose.com/imaging/jasperreports/release-notes/) |
-| Aspose.PDF for JasperReports | [Release Notes](https://releases.aspose.com/pdf/jassperreport/release-notes/) |
+| Aspose.PDF for JasperReports | [Release Notes](https://releases.aspose.com/pdf/jasperreports/release-notes/) |
 | Aspose.Slides for JasperReports | [Release Notes](https://releases.aspose.com/slides/jasperreport/release-notes/) |
 | Aspose.Words for JasperReports | [Release Notes](https://releases.aspose.com/words/jasperreports/release-notes/) |

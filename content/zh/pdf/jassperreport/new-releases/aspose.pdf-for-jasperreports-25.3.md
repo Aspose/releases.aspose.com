@@ -4,16 +4,16 @@ title: "下载 ---新版本-aspose.pdf-for-jasperreports-25.3"
 description: " "
 keywords: ""
 page_type: single_release_page
-folder_link: "/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-25.3/"
+folder_link: "/pdf/jasperreports/new-releases/aspose.pdf-for-jasperreports-25.3/"
 folder_name: "Aspose.PDF for JasperReports 25.3"
-download_link: "/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-25.3/d3403d713bc4b0c6bc1760eda062dcfa-18-12747"
+download_link: "/pdf/jasperreports/new-releases/aspose.pdf-for-jasperreports-25.3/d3403d713bc4b0c6bc1760eda062dcfa-18-12747"
 download_text: "下载"
 intro_text: "Aspose.PDF for JasperReports 可帮助您将 JasperReports® 和 JasperServer® 中的报表导出为 PDF、PDF/A 和其他支持的文件格式。重要的报告功能（例如图表和表格）在转换时不会丢失布局或格式。"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 25/3/2025 下载s: 1  Views: 1 "
 file_size: "File Size: 85.57MB"
-parent_path: "pdf/jassperreport"
-section_parent_path: "pdf/jassperreport"
+parent_path: "pdf/jasperreports"
+section_parent_path: "pdf/jasperreports"
 
 tags: ""
 release_notes_url: "https://releases.aspose.com/pdf/jasperreports/release-notes/2025/aspose-pdf-for-jasperreports-25-3-release-notes/"
@@ -24,7 +24,7 @@ weight: 20
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.PDF for JasperReports 25.3" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="下载" link="/pdf/jassperreport/new-releases/aspose.pdf-for-jasperreports-25.3/d3403d713bc4b0c6bc1760eda062dcfa-18-12747" >}}
+    {{< Releases/ReleasesSingleButtons text="下载" link="/pdf/jasperreports/new-releases/aspose.pdf-for-jasperreports-25.3/d3403d713bc4b0c6bc1760eda062dcfa-18-12747" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
