@@ -1,0 +1,15 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-page",
+  "id" : "25-3",
+  "packageFiles" : [ {
+    "size" : "17 MB",
+    "name" : "aspose-page-25.3.jar"
+  }, {
+    "size" : "393 bytes",
+    "name" : "aspose-page-25.3.pom"
+  } ],
+  "releasehDate" : "2025-03-27T06:32:34+00:00",
+  "version" : "25.3",
+  "ReleaseNotes" : "https://releases.aspose.com/page/java/release-notes/2025/aspose-page-for-java-25-3-release-notes/"
+}
