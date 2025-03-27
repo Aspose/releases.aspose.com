@@ -40,7 +40,7 @@ This page contains release notes information for [Aspose.ZIP for Java 25.3](http
 
 |**The following public methods were added:**|**Description**|
 | :- | :- |
-| com.aspose.zip.Lz4.Lz4Archive.extract(...) | Extracts the Lz4 archive. |
+| com.aspose.zip.Lz4Archive.extract(...) | Extracts the Lz4 archive. |
 | com.aspose.zip.Lz4Archive.open() | Opens the archive for extraction and provides a stream with archive content. |
 | com.aspose.zip.Lz4Archive.extractToDirectory() | Extracts content of the archive to the directory provided. |
 | com.aspose.zip.IArchive.getFormat() | Gets the detected archive format. |
