@@ -2,7 +2,7 @@
 id: "aspose-omr-for-net-latest-release-notes"
 slug: "latest"
 weight: 1
-date: "2025-02-28"
+date: "2025-03-01"
 author: "Vladimir Lapin"
 type: "repository"
 layout: "release"
