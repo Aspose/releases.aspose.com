@@ -44,9 +44,3 @@ This page contains release notes information for [Aspose.ZIP for Java 25.3](http
 | com.aspose.zip.Lz4Archive.open() | Opens the archive for extraction and provides a stream with archive content. |
 | com.aspose.zip.Lz4Archive.extractToDirectory() | Extracts content of the archive to the directory provided. |
 | com.aspose.zip.IArchive.getFormat() | Gets the detected archive format. |
-
-|**The following public methods obsolete:**|**Description**|
-| :- | :- |
-| com.aspose.zip.LhaArchiveEntry.getLastModified() | Use `getModificationTime()` instead. |
-| com.aspose.zip.WimEntry.getLastModified() | Use `getModificationTime()` instead. |
-| com.aspose.zip.XarEntry.getLastModified() | Use `getModificationTime()` instead. |
