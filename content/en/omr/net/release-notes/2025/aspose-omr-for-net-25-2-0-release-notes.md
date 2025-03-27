@@ -1,5 +1,5 @@
 ---
-date: "2025-02-28"
+date: "2025-03-01"
 author: "Vladimir Lapin"
 id: "aspose-omr-for-net-25-2-0-release-notes"
 slug: "aspose-omr-for-net-25-2-0-release-notes"
