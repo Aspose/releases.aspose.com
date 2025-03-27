@@ -41,7 +41,7 @@ This page contains release notes information for [Aspose.ZIP for Java 25.2](http
 | com.aspose.zip.TarEntry.getModificationTime() | Gets last modified date and time. |
 | com.aspose.zip.WimEntry.getModificationTime() | Gets last modified date and time. |
 | com.aspose.zip.XarEntry.getModificationTime() | Gets last modified date and time. |
-| com.aspose.zip.ArchiveFactory.GetArchive( `java.io.InputStream` , `String` ) | Detects the archive format and creates the appropriate IArchive object according to the type of encrypted archive. |
+| com.aspose.zip.ArchiveFactory.getArchive( `java.io.InputStream` , `String` ) | Detects the archive format and creates the appropriate IArchive object according to the type of encrypted archive. |
 | com.aspose.zip.ArchiveLoadOptions.getSkipChecksumVerification() | Gets a value indicating whether checksum verification of ZIP entries be skipped and mismatch ignored. |
 | com.aspose.zip.ArchiveLoadOptions.setSkipChecksumVerification( `boolean` ) | Sets a value indicating whether checksum verification of ZIP entries be skipped and mismatch ignored. |
 
