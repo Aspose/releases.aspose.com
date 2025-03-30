@@ -390,7 +390,8 @@ rewrite ^/pd$ https://releases.aspose.com/pdf/ permanent;
 # rewrite ^/pdf.kit/net/$ https://releases.aspose.com/pdf/net/ permanent;
 rewrite ^/pdf/conversion$ https://releases.aspose.com/pdf/ permanent;
 rewrite ^/pdf/cpp/total$ https://releases.aspose.com/pdf/cpp/ permanent;
-rewrite ^/pdf/jasperreports$ https://releases.aspose.com/pdf/jassperreport/ permanent;
+# Commented out the following rule because all the instances of the /pdf/jassperreport/ have been renamed to /pdf/jasperreports/
+# rewrite ^/pdf/jasperreports$ https://releases.aspose.com/pdf/jassperreport/ permanent;
 rewrite ^/pdf/javascriptcpp/f$ https://releases.aspose.com/pdf/javascriptcpp/ permanent;
 rewrite ^/pdf/javascriptcpp/total$ https://releases.aspose.com/pdf/javascriptcpp/ permanent;
 # rewrite /pdf/net/new-releases/aspose.words-for-.net-8.1.0/ https://releases.aspose.com/pdf/net/new-releases/aspose.pdf-for-.net-8.1.0/ permanent;
@@ -1179,3 +1180,5 @@ rewrite ^/omr/net/new-releases/contains-aspose\.omr-for-\.net-24\.2\.1-release/$
 rewrite ^/omr/net/new-releases/icons-aspose\.omr\.handwriting-for-\.net-24\.7/$ https://releases.aspose.com/omr/net/new-releases/aspose.omr.handwriting-for-.net-24.7/ permanent;
 # Redirect from "icons-aspose.omr-for-.net-24.7" to the correct path
 rewrite ^/omr/net/new-releases/icons-aspose\.omr-for-\.net-24\.7/$ https://releases.aspose.com/omr/net/new-releases/aspose.omr-for-.net-24.7/ permanent;
+# Redirect "/pdf/jassperreport/" and all pages under it to the correct path "/pdf/jasperreports/" and sub paths (202503282103)
+rewrite ^/pdf/jassperreport(/.*)?$ https://releases.aspose.com/pdf/jasperreports$1 permanent;

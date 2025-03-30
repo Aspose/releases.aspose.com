@@ -25,7 +25,7 @@ Starting from release **1.9.0** there are several versions of JAR library (nec
 
 |For<br>JasperServer|For<br>JasperReports|Use the following JAR library|
 | :- | :- | :- |
-|8.0.0 ... 8.2.0|7.0.0 ... 7.0.1|**aspose.words.jasperreports-25.02.0-8.0.0-8.2.0.jar**|
+|8.0.0 ... 8.2.0|7.0.0 ... 7.0.1|**aspose.words.jasperreports-25.2.0-8.0.0-8.2.0.jar**|
 |7.8.0 ... 8.0.0|6.12.0... 6.20.0|**aspose.words.jasperreports-25.2.0-7.8.0-8.0.0.jar**|
 |7.1.0 ... 7.5.0|6.5.0 ... 6.11.0|**aspose.words.jasperreports-25.2.0-7.1.0-7.5.0.jar**|
 |6.4.2 ... 6.4.3|6.4.2 ... 6.4.21|**aspose.words.jasperreports-25.2.0-6.4.2-6.4.3.jar**|
