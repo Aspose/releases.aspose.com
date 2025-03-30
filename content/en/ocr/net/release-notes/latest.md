@@ -66,7 +66,7 @@ Property     | Type                           | Description
 `Captions`   | `List<Aspose.OCR.ContentArea>` | Detected captions.
 `Equations`  | `List<Aspose.OCR.ContentArea>` | Detected equations.
 
-#### `Aspose.OCR.DetectDocumentLayout` class
+#### `Aspose.OCR.DetectDocumentLayout` method
 
 Analyzes [images](https://docs.aspose.com/ocr/net/ocrinput/) and identifies the different types of layout blocks within it. This method supports PNG, JPEG, BMP, TIFF, JFIF, and GIF images from files, streams, pixel arrays, and can bulk process folders and archives.
 
