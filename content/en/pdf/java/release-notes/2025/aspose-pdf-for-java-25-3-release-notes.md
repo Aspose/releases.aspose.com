@@ -42,6 +42,7 @@ This page contains release notes information for Aspose.PDF for Java 25.3.
 |PDFJAVA-44831|PDF to DOCX: Text was not recognized as part of bullet items|Bug|
 |PDFJAVA-44833|PDF to Excel: Table title split into two rows|Bug|
 |PDFJAVA-44479|Version 24:10 of aspose-pdf for java appear to break when running headless|Bug|
+|PDFJAVA-44844|Regression: ExternalSignature doesn't work in version 25.2|Bug|
 
 
 
