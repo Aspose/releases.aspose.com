@@ -76,14 +76,6 @@ Analyzes [images](https://docs.aspose.com/ocr/net/ocrinput/) and identifies the 
 
 Detected layout blocks are returned as `Aspose.OCR.LayoutOutput` object.
 
-#### `Aspose.OCR.DetectLanguages` method
-
-Identify languages on the images provided in `Aspose.OCR.OcrInput` object and return them as a list of `Aspose.OCR.LanguageDetectionOutput` objects.
-
-{{% alert color="caution" %}} 
-To use this method, [install](https://docs.aspose.com/ocr/net/modules/) (**aspose-ocr-language-classification-v1**) advanced OCR model to your project.
-{{% /alert %}}
-
 ### Updated public APIs:
 
 The following public APIs have been updated in Aspose.OCR for .NET 25.3.0 release:
