@@ -6,7 +6,7 @@ linktitle: "Aspose.OCR for .NET 25.1.0 - Release Notes"
 title: "Aspose.OCR for .NET 25.1.0 - Release Notes"
 author: "Vladimir Lapin"
 weight: 121
-description: "A summary of recent changes, enhancements and bug fixes in Aspose.OCR for .NET 25.1.0 (January 2024) release."
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OCR for .NET 25.1.0 (January 2025) release."
 type: "repository"
 layout: "release"
 hideChildren: false

@@ -45,7 +45,7 @@ This class stores the results of language detection.
 
 Property    | Type                               | Description
 ----------- | ---------------------------------- | -----------
-`source`    | `string`                           | The full path or URL of the source file. If the file is provided as a stream, an array of pixels, or a Base64 string, this value will be empty.
+`source`    | `string`                           | The full path or URL of the source file. If the file is provided as a `BufferedImage`, `InputStream`, an array of pixels, or a Base64 string, this value will be empty.
 `page`      | `int`                              | Page number. When working with single-page images, this value is always 0.
 `Languages` | `List<Map.Entry<Language, Float>>` | Lists the languages detected in the image along with their probabilities.
 
