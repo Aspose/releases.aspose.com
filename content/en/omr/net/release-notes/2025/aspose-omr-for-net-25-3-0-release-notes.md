@@ -1,18 +1,24 @@
 ---
-id: "aspose-omr-for-net-latest-release-notes"
-slug: "latest"
-weight: 1
 date: "2025-03-01"
 author: "Nikita Korobeynikov"
+id: "aspose-omr-for-net-25-3-0-release-notes"
+slug: "aspose-omr-for-net-25-3-0-release-notes"
+linktitle: "Aspose.OMR for .NET 25.3.0 - Release Notes"
+title: "Aspose.OMR for .NET 25.3.0 - Release Notes"
+weight: 101
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for .NET 25.3.0 (March 2025) release."
 type: "repository"
 layout: "release"
-title: Latest release
-description: A summary of recent changes, enhancements and bug fixes in the latest release of Aspose.OMR for .NET.
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OMR for .NET 25.3.0 - Release Notes"
 keywords:
-- latest
+- "2025"
+- March
 - new
 - release
 - changelog
+menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
@@ -40,3 +46,5 @@ _No changes._
 _No changes._
 
 ### Removed public APIs:
+
+_No changes._
