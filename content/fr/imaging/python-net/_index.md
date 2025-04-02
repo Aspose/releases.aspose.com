@@ -6,6 +6,8 @@ keywords:  "Imaging,Python,.NET"
 family_listing_page_title:  "Aspose.Imaging for Python via .NET"
 family_listing_page_description:  "ASPOSE.IMAGIER POUR PYTHON VIA .NET est une API flexible, stable et puissante qui aide les développeurs à traiter les images et les photos dans leurs propres applications Python."
 family_listing_page_iconurl:  "https://products.aspose.com/imaging/images/imaging/aspose_imaging-for-python-net.svg"
+homepage_package_type: "Pip"
+homepage_package_link: "https://pypi.org/project/aspose-imaging-python-net/"
 weight: 5
 
 ---

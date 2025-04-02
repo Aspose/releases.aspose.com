@@ -1,21 +1,24 @@
 ---
 
 title: "Aspose.imaging pour Python via .net"
-description:  "ASPOSE.IMAGIER pour Python via .NET est une bibliothèque offrant des fonctionnalités de traitement d'image avancées. Vous pouvez facilement créer, charger, manipuler, convertir, compresser des images ou des photos à l'aide de cette API. La bibliothèque d'imagination Aspose. Il prend en charge le dessin et le travail avec des primitives graphiques. L'exportation et la conversion d'image (y compris le traitement uniforme de l'image de plusieurs pages) est celle des caractéristiques de base de l'API ainsi que des transformations d'image (redimensionnement, crop, flip & rotation, binarisation, niveaux de gris, ajustement, etc.), fonctionnalités avancées de manipulation d'images (filtrage, tramage, Masquage, deskewing) et stratégies d'optimisation de la mémoire. ASPOSE.IMAGIER POUR PYTHON VIA .NET est une API flexible, stable et puissante, capable de traiter les formats les plus couramment utilisés ainsi que certains formats spéciaux tels que DJVU, DICOM, WebP & DNG. ASPOSE.IMAGIE est la bibliothèque multiplateforme, il est compatible Windows et Linux."
+description:  "Aspose.Imaging for Python via .NET - это библиотека, предлагающая расширенные возможности обработки изображений. Вы можете легко создавать, загружать, манипулировать, конвертировать, сжимать изображения, используя этот API. Также Aspose.Библиотека Imaging поддерживает рисование и работу с графическими примитивами. Экспорт и преобразование изображений (включая унифицированную многостраничную обработку изображений) является одной из основных функций API, наряду с преобразованиями изображений (изменение размера, обрезка, переворачивание и поворот, бинаризация, оттенки серого, корректировка и т.д.), расширенными функциями манипулирования изображениями (фильтрация, сглаживание, маскировка, удаление изображений) и стратегиями оптимизации памяти. Aspose.Imaging for Python via .NET - это гибкий, стабильный и мощный API, способный обрабатывать наиболее часто используемые форматы, а также некоторые специальные форматы, такие как DjVu, DICOM, WebP и DNG. Aspose.Imaging - это кроссплатформенная библиотека, совместимая с Windows, Linux и MacOS."
 keywords:  "Imaging,Python,.NET"
+linktitle: "Aspose.Imaging for Python via .NET"
 family_listing_page_title:  "Aspose.Imaging for Python via .NET"
-family_listing_page_description:  "ASPOSE.IMAGIER POUR PYTHON VIA .NET est une API flexible, stable et puissante qui aide les développeurs à traiter les images et les photos dans leurs propres applications Python."
+family_listing_page_description:  "Aspose.Imaging for Python via .NET - это гибкий, стабильный и мощный API, который помогает разработчикам обрабатывать изображения и фотографии в их собственных приложениях на Python."
 family_listing_page_iconurl:  "https://products.aspose.com/imaging/images/imaging/aspose_imaging-for-python-net.svg"
+homepage_package_type: "Pip"
+homepage_package_link: "https://pypi.org/project/aspose-imaging-python-net/"
 weight: 5
 
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/imaging/14" linktext="Support Forum" >}}
+{{< dbToolbar link="https://forum.aspose.com/c/imaging/14" linktext="Форум поддержки" >}}
 
-{{< Common/h3 text="Téléchargez Aspose.imaging Python via .NET Library pour le traitement d'image"  >}}
+{{< Common/h3 text="Скачайте Aspose.imaging Python via .NET для обработки изображений"  >}}
 {{< Common/paragraph class="package-instructions">}}
-ASPOSE.IMAGIER pour Python via .NET API qui est une API de manipulation d'image et de conversion riche en fonctionnalités, puissantes et faciles à utiliser pour Python. La bibliothèque d'imagination Aspose. Il prend en charge le dessin et le travail avec des primitives graphiques. L'exportation et la conversion d'image (y compris le traitement uniforme de l'image de plusieurs pages) est celle des caractéristiques de base de l'API ainsi que des transformations d'image (redimensionnement, crop, flip & rotation, binarisation, niveaux de gris, ajustement, etc.), fonctionnalités avancées de manipulation d'images (filtrage, tramage, Masquage, deskewing) et stratégies d'optimisation de la mémoire.
-Veuillez utiliser ce qui suit {{< Common/link href="https://pypi.org/project/aspose-imaging-python-net/" text="pip"  >}} command:
+Aspose.Imaging for Python via .NET API является многофункциональным, мощным и простым в использовании API для обработки изображений и преобразования для платформы Python. Также библиотека Aspose.Imaging поддерживает рисование и работу с графическими примитивами. Экспорт и преобразование изображений (включая унифицированную многостраничную обработку изображений) является одной из основных функций API, наряду с преобразованиями изображений (изменение размера, обрезка, переворачивание и поворот, бинаризация, оттенки серого, корректировка и т.д.), расширенными функциями манипулирования изображениями (фильтрация, сглаживание, маскировка, удаление изображений) и стратегиями оптимизации памяти.
+Пожалуйста, используйте следующую {{< Common/link href="https://pypi.org/project/aspose-imaging-python-net/" text="pip"  >}} команду:
 {{< Common/release-notes-link family="imaging" product="python-net" href="https://releases.aspose.com/imaging/python-net/release-notes/" text="https://releases.aspose.com/imaging/python-net/release-notes/"  >}}
 {{< /Common/paragraph>}}
 {{< consolebox/consoleboxwrapper id="pip" >}}
@@ -43,38 +46,39 @@ Veuillez utiliser ce qui suit {{< Common/link href="https://pypi.org/project/asp
 
 ### Читать и записать форматы изображений
 
-** Растровые форматы: ** JPEG2000, JPEG, BMP, TIFF, BIGTIFF, GIF, PNG, APNG \
-** Медицинская визуализация: ** dicom \
-** Метафилы: ** EMF, WMF, EMZ, WMZ \
-** trueVision: ** tga \
-** Vector Graphics: ** SVG, SVGZ
+**Растровые форматы:** JPEG2000, JPEG, BMP, TIFF, BIGTIFF, GIF, PNG, APNG \
+**Медицинская визуализация:** DICOM \
+**Метафилы:** EMF, WMF, EMZ, WMZ \
+**trueVision:** TGA \
+**Vector Graphics:** SVG, SVGZ
 
 ### Сохранить изображения как
 
-** Исправлено: ** pdf \
-** Photoshop: ** psd \
-** Интернет: ** HTML5 Canvas
+**Fixed:** PDF \
+**Photoshop:** PSD \
+**Интернет:** HTML5 Canvas
 
 ### Читать форматы изображений
 
-** Электронная книга: ** DJVU \
-** Цифровая камера RAW: ** DNG \
-** OpenOffice: ** ODG, OTG \
-** Bitmap: ** dib \
-** веб -изображение: ** webp \
-** coreldraw: ** cdr (x6, x7), cmx (v2.0 32-bit) \
-** postscript: ** eps
+**Электронная книга:** DJVU \
+**Digital Camera Raw:** DNG \
+**OpenOffice:** ODG, OTG \
+**Bitmap:** DIB \
+**Web Image:** WEBP \
+**CorelDRAW:** CDR (x6, x7), CMX (v2.0 32-bit) \
+**PostScript:** EPS
 
 Пожалуйста, посетите [поддерживаемые форматы файлов](https://docs.aspose.com/imaging/python-net/supported-file-file-formats/) для получения дополнительной информации.
 
 ### Системные Требования
 
-Aspose.imaging для Python через .NET поддерживает 64-разрядные операционные системы Windows, Linux 64-битные операционные системы, где установлены Python 3.5 или позже.
+Aspose.imaging для Python via .NET поддерживает 64-разрядные операционные системы Windows, Linux, MacOS 64-битные операционные системы, где установлены Python 3.5 или позже.
 
 ### поддерживаемые операционные системы
 
 ** Microsoft Windows: ** Windows Desktop & Server (`x64`) \
 ** Linux: ** Ubuntu, OpenSuse, Centos и другие.
+** MacOS: ** x86_64, arm64
 
 {{< Common/hr >}}
 
