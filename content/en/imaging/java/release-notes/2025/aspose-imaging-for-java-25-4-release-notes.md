@@ -1,15 +1,15 @@
 ---
 id: aspose-imaging-for-java-25-4-release-notes
 slug: aspose-imaging-for-java-25-4-release-notes
-linktitle: Aspose.Imaging for JAVA 25.4 - Release notes
-title: Aspose.Imaging for JAVA 25.4 - Release notes
+linktitle: Aspose.Imaging for Java 25.4 - Release notes
+title: Aspose.Imaging for Java 25.4 - Release notes
 weight: 46
-description: Aspose.Imaging for JAVA 25.4 - Release notes the latest updates and fixes.
+description: Aspose.Imaging for Java 25.4 - Release notes the latest updates and fixes.
 type: repository
 layout: release
 hideChildren: false
 toc: false
-family_listing_page_title: Aspose.Imaging for JAVA 25.4 - Release notes
+family_listing_page_title: Aspose.Imaging for Java 25.4 - Release notes
 menuItemWithNoContent: false
 ---
 
@@ -19,9 +19,9 @@ menuItemWithNoContent: false
 
 | **Key**         | **Summary**                                                                                                                                                              | **Category** |
 |-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| IMAGINGJAVA-8926 | Auto adjustment of image brightness                                                                                                                                  | Feature      |
-| IMAGINGJAVA-8935 | Cannot load the DCM image                                                                                                                                  | Enhancement      |
-| IMAGINGJAVA-8934 | Cannot convert the CMX image to JPG format                                                                                                                                  | Enhancement      |
+| IMAGINGJava-8926 | Auto adjustment of image brightness                                                                                                                                  | Feature      |
+| IMAGINGJava-8935 | Cannot load the DCM image                                                                                                                                  | Enhancement      |
+| IMAGINGJava-8934 | Cannot convert the CMX image to JPG format                                                                                                                                  | Enhancement      |
 
 ## Public API changes:
 
@@ -35,9 +35,9 @@ Please see corresponding cumulative [API changes for Aspose.Imaging for .NET 25.
 
 ## Usage Examples:
 
-**IMAGINGJAVA-8935 Cannot load the DCM image**
+**IMAGINGJava-8935 Cannot load the DCM image**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("00506.dcm"))
 {
@@ -46,9 +46,9 @@ try (Image image = Image.load("00506.dcm"))
 
 {{< /highlight >}}
 
-**IMAGINGJAVA-8934 Cannot convert the CMX image to JPG format**
+**IMAGINGJava-8934 Cannot convert the CMX image to JPG format**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("saffah khan cmx.cmx"))
 {
@@ -63,9 +63,9 @@ try (Image image = Image.load("saffah khan cmx.cmx"))
 
 {{< /highlight >}}
 
-**IMAGINGJAVA-8926 Auto adjustment of image brightness**
+**IMAGINGJava-8926 Auto adjustment of image brightness**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 ### Example
 Images that appear dull and lack sufficient brightness due to an underutilized color range can have their perceived quality significantly improved by applying a histogram normalization filter. This technique adjusts the image to fully utilize the entire available color spectrum fully, enhancing both contrast and visual appeal. 

@@ -1,15 +1,15 @@
 ---
 id: aspose-imaging-for-java-25-3-release-notes
 slug: aspose-imaging-for-java-25-3-release-notes
-linktitle: Aspose.Imaging for JAVA 25.3 - Release notes
-title: Aspose.Imaging for JAVA 25.3 - Release notes
+linktitle: Aspose.Imaging for Java 25.3 - Release notes
+title: Aspose.Imaging for Java 25.3 - Release notes
 weight: 47
-description: Aspose.Imaging for JAVA 25.3 - Release notes the latest updates and fixes.
+description: Aspose.Imaging for Java 25.3 - Release notes the latest updates and fixes.
 type: repository
 layout: release
 hideChildren: false
 toc: false
-family_listing_page_title: Aspose.Imaging for JAVA 25.3 - Release notes
+family_listing_page_title: Aspose.Imaging for Java 25.3 - Release notes
 menuItemWithNoContent: false
 ---
 
@@ -18,12 +18,12 @@ menuItemWithNoContent: false
 
 | **Key**         | **Summary**                                                                                                                                                              | **Category** |
 |-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| IMAGINGJAVA-8914 | Fix corrupted watermark on Dicom export                                                                                                                                  | Enhancement      |
-| IMAGINGJAVA-8913 | Converting SVG to PNG outputs incorrect image                                                                                                                                  | Enhancement      |
-| IMAGINGJAVA-8902 | WK: Image export failed with NPE on MacOS and 25.2                                                                                                                                  | Enhancement      |
-| IMAGINGJAVA-8901 | Corrupted text drawing when using StringAlignment.Center or StringAlignment.Far                                                                                                                                  | Enhancement      |
-| IMAGINGJAVA-8899 | Cannot convert the SVG image to JPG format                                                                                                                                  | Enhancement      |
-| IMAGINGJAVA-8897 | EMF - lines are incorrectly drawn                                                                                                                                  | Enhancement      |
+| IMAGINGJava-8914 | Fix corrupted watermark on Dicom export                                                                                                                                  | Enhancement      |
+| IMAGINGJava-8913 | Converting SVG to PNG outputs incorrect image                                                                                                                                  | Enhancement      |
+| IMAGINGJava-8902 | WK: Image export failed with NPE on MacOS and 25.2                                                                                                                                  | Enhancement      |
+| IMAGINGJava-8901 | Corrupted text drawing when using StringAlignment.Center or StringAlignment.Far                                                                                                                                  | Enhancement      |
+| IMAGINGJava-8899 | Cannot convert the SVG image to JPG format                                                                                                                                  | Enhancement      |
+| IMAGINGJava-8897 | EMF - lines are incorrectly drawn                                                                                                                                  | Enhancement      |
 
 ## Public API changes:
 
@@ -37,9 +37,9 @@ Please see corresponding cumulative [API changes for Aspose.Imaging for .NET 25.
 
 ## Usage Examples:
 
-**IMAGINGJAVA-8914 Fix corrupted watermark on Dicom export**
+**IMAGINGJava-8914 Fix corrupted watermark on Dicom export**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 String inputPath = "input.dicom";
 try (Image image = Image.load(inputPath))
@@ -49,9 +49,9 @@ try (Image image = Image.load(inputPath))
 
 {{< /highlight >}}
 
-**IMAGINGJAVA-8913 Converting SVG to PNG outputs incorrect image**
+**IMAGINGJava-8913 Converting SVG to PNG outputs incorrect image**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image= Image.load("logo.svg"))
 {
@@ -60,9 +60,9 @@ try (Image image= Image.load("logo.svg"))
 
 {{< /highlight >}}
 
-**IMAGINGJAVA-8902 WK: Image export failed with NPE on MacOS and 25.2**
+**IMAGINGJava-8902 WK: Image export failed with NPE on MacOS and 25.2**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 Example for "mac os x", arch: "aarch64", family: "mac"
 
@@ -84,9 +84,9 @@ assertNotNull(convertedImageOutput.toByteArray());
 
 {{< /highlight >}}
 
-**IMAGINGJAVA-8901 Corrupted text drawing when using StringAlignment.Center or StringAlignment.Far**
+**IMAGINGJava-8901 Corrupted text drawing when using StringAlignment.Center or StringAlignment.Far**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 String inputPath = "input.png";
 Long[] stringAlignments = StringAlignment.getValues(StringAlignment.class);
@@ -116,9 +116,9 @@ static void drawString(String inputPath, Long alignment)
 
 {{< /highlight >}}
 
-**IMAGINGJAVA-8899 Cannot convert the SVG image to JPG format**
+**IMAGINGJava-8899 Cannot convert the SVG image to JPG format**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("IranLensLogo.svg"))
 {
@@ -127,9 +127,9 @@ try (Image image = Image.load("IranLensLogo.svg"))
 
 {{< /highlight >}}
 
-**IMAGINGJAVA-8897 EMF - lines are incorrectly drawn**
+**IMAGINGJava-8897 EMF - lines are incorrectly drawn**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("Complex_example_wrong_lines.emf"))
 {

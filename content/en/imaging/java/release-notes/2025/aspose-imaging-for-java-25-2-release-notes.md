@@ -1,15 +1,15 @@
 ---
 id: aspose-imaging-for-java-25-2-release-notes
 slug: aspose-imaging-for-java-25-2-release-notes
-linktitle: Aspose.Imaging for JAVA 25.2 - Release notes
-title: Aspose.Imaging for JAVA 25.2 - Release notes
+linktitle: Aspose.Imaging for Java 25.2 - Release notes
+title: Aspose.Imaging for Java 25.2 - Release notes
 weight: 48
-description: Aspose.Imaging for JAVA 25.2 - Release notes the latest updates and fixes.
+description: Aspose.Imaging for Java 25.2 - Release notes the latest updates and fixes.
 type: repository
 layout: release
 hideChildren: false
 toc: false
-family_listing_page_title: Aspose.Imaging for JAVA 25.2 - Release notes
+family_listing_page_title: Aspose.Imaging for Java 25.2 - Release notes
 menuItemWithNoContent: false
 ---
 
@@ -20,16 +20,16 @@ Please note: since version 25.2 stopped support of JDK 1.6 and 1.7
 
 | **Key**         | **Summary**                                                                                                                                                              | **Category** |
 |-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| IMAGINGJAVA-8895 | Blank output image on converting TIFF                                                                                                                                  | Enhancement      |
-| IMAGINGJAVA-8894 | Creating a PNG with BitDepth=16 throws an exception in evaluation mode                                                                                                                                  | Enhancement      |
-| IMAGINGJAVA-8890 | PNG to PDF: Temporary files not deleted                                                                                                                                  | Enhancement      |
-| IMAGINGJAVA-8884 | Reduce memory usage during AVIF image loading.                                                                                                                                  | Enhancement      |
-| IMAGINGJAVA-8879 | Fix bugs with rendering some characters in CDR format                                                                                                                                  | Enhancement      |
-| IMAGINGJAVA-8878 | Some EXIF metadata props are missing after JPEG to TIFF                                                                                                                                  | Enhancement      |
-| IMAGINGJAVA-8876 | Conversion of PNG file from 8 bit per channel to 16 fails without a license                                                                                                                                  | Enhancement      |
-| IMAGINGJAVA-8869 | Regression: EMF to PDF: Blank output file                                                                                                                                  | Enhancement      |
-| IMAGINGJAVA-8788 | Error in image save without license                                                                                                                                  | Enhancement      |
-| IMAGINGJAVA-8139 | Incorrect conversion from EPS to PNG                                                                                                                                  | Enhancement      |
+| IMAGINGJava-8895 | Blank output image on converting TIFF                                                                                                                                  | Enhancement      |
+| IMAGINGJava-8894 | Creating a PNG with BitDepth=16 throws an exception in evaluation mode                                                                                                                                  | Enhancement      |
+| IMAGINGJava-8890 | PNG to PDF: Temporary files not deleted                                                                                                                                  | Enhancement      |
+| IMAGINGJava-8884 | Reduce memory usage during AVIF image loading.                                                                                                                                  | Enhancement      |
+| IMAGINGJava-8879 | Fix bugs with rendering some characters in CDR format                                                                                                                                  | Enhancement      |
+| IMAGINGJava-8878 | Some EXIF metadata props are missing after JPEG to TIFF                                                                                                                                  | Enhancement      |
+| IMAGINGJava-8876 | Conversion of PNG file from 8 bit per channel to 16 fails without a license                                                                                                                                  | Enhancement      |
+| IMAGINGJava-8869 | Regression: EMF to PDF: Blank output file                                                                                                                                  | Enhancement      |
+| IMAGINGJava-8788 | Error in image save without license                                                                                                                                  | Enhancement      |
+| IMAGINGJava-8139 | Incorrect conversion from EPS to PNG                                                                                                                                  | Enhancement      |
 
 ## Public API changes:
 
@@ -43,9 +43,9 @@ Please see corresponding cumulative [API changes for Aspose.Imaging for .NET 25.
 
 ## Usage Examples:
 
-**IMAGINGJAVA-8895 Blank output image on converting TIFF**
+**IMAGINGJava-8895 Blank output image on converting TIFF**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 String inputPath = "input.tiff";
 try (Image image = Image.load(inputPath))
@@ -55,9 +55,9 @@ try (Image image = Image.load(inputPath))
 
 {{< /highlight >}}
 
-**IMAGINGJAVA-8894 Creating a PNG with BitDepth=16 throws an exception in evaluation mode**
+**IMAGINGJava-8894 Creating a PNG with BitDepth=16 throws an exception in evaluation mode**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 String outputPath = "output64Bit.png";
 
@@ -90,9 +90,9 @@ try (PngImage pngImage = new PngImage(createOptions, 100, 100))
 
 {{< /highlight >}}
 
-**IMAGINGJAVA-8890 PNG to PDF: Temporary files not deleted**
+**IMAGINGJava-8890 PNG to PDF: Temporary files not deleted**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image pngImage = Image.load("high_resolution_image.png"))
 {
@@ -102,9 +102,9 @@ try (Image pngImage = Image.load("high_resolution_image.png"))
 
 {{< /highlight >}}
 
-**IMAGINGJAVA-8884 Reduce memory usage during AVIF image loading.**
+**IMAGINGJava-8884 Reduce memory usage during AVIF image loading.**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 ### Example
 The sample AVIF image is exported into a PNG image format. Compared to the previous version, processing speed has increased approximately 12 times, while memory usage has been reduced by about 20 times.
@@ -119,9 +119,9 @@ try (AvifImage image = (AvifImage)Image.load(inputPath))
 
 {{< /highlight >}}
 
-**IMAGINGJAVA-8879 Fix bugs with rendering some characters in CDR format**
+**IMAGINGJava-8879 Fix bugs with rendering some characters in CDR format**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("Test corel.cdr"))
 {
@@ -136,9 +136,9 @@ try (Image image = Image.load("Test corel.cdr"))
 
 {{< /highlight >}}
 
-**IMAGINGJAVA-8878 Some EXIF metadata props are missing after JPEG to TIFF**
+**IMAGINGJava-8878 Some EXIF metadata props are missing after JPEG to TIFF**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 int imageOrientation = 0;
 String inputPath = "input.jpeg";
@@ -177,9 +177,9 @@ assert imageOrientation == outputOrientation;
 
 {{< /highlight >}}
 
-**IMAGINGJAVA-8876 Conversion of PNG file from 8 bit per channel to 16 fails without a license**
+**IMAGINGJava-8876 Conversion of PNG file from 8 bit per channel to 16 fails without a license**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 License lic = new License();
 lic.SetLicense(""); // no license
@@ -196,9 +196,9 @@ try (Image image = Image.load("OutputAllTypes2.png"))
 
 {{< /highlight >}}
 
-**IMAGINGJAVA-8869 Regression: EMF to PDF: Blank output file**
+**IMAGINGJava-8869 Regression: EMF to PDF: Blank output file**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("example.emf"))
 {
@@ -213,9 +213,9 @@ try (Image image = Image.load("example.emf"))
 
 {{< /highlight >}}
 
-**IMAGINGJAVA-8788 Error in image save without license**
+**IMAGINGJava-8788 Error in image save without license**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 License lic = new License();
 lic.setLicense(""); // no license
@@ -230,9 +230,9 @@ try (Image image = Image.load("OutputAllTypes2.png"))
 
 {{< /highlight >}}
 
-**IMAGINGJAVA-8139 Incorrect conversion from EPS to PNG**
+**IMAGINGJava-8139 Incorrect conversion from EPS to PNG**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("C3.eps"))
 {
