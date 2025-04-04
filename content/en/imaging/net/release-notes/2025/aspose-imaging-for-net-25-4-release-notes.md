@@ -12,6 +12,8 @@ toc: false
 family_listing_page_title: Aspose.Imaging for .NET 25.4 - Release notes
 menuItemWithNoContent: false
 ---
+##Release notice
+From Aspose.Imaging.25.05, VectorRasterizationOptions class does not derive from ImageOptionsBase lcass. It is done in order to simplify and clarify VectorRasterizationOptions class API, since members derived from ImageOptionsBase are not used during image processing.
 
 ## Competitive features:
 
