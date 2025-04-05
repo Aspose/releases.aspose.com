@@ -16,7 +16,7 @@ parent_path: "pdf/pythonnet"
 section_parent_path: "pdf/pythonnet"
 
 tags: ""
-release_notes_url: "https://releases.aspose.com/pdf/pythonnet/release-notes/"
+release_notes_url: "https://releases.aspose.com/pdf/pythonnet/release-notes/2025/aspose-pdf-for-python-net-25-1-release-notes/"
 weight: 74
 
 ---
@@ -40,7 +40,7 @@ weight: 74
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/pythonnet/release-notes/'>https://releases.aspose.com/pdf/pythonnet/release-notes/</a></div>
+      <h4>Release Notes</h4><div><a href='https://releases.aspose.com/pdf/pythonnet/release-notes/2025/aspose-pdf-for-python-net-25-1-release-notes/'>https://releases.aspose.com/pdf/pythonnet/release-notes/2025/aspose-pdf-for-python-net-25-1-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This wheel contains Aspose.PDF version 25.1.0, compatible with Python 3 and optimized for Windows 32-bit systems.</div>
