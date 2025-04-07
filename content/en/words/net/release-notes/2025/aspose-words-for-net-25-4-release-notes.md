@@ -183,7 +183,7 @@ public void SetImage(Stream imageStream, ImageWatermarkOptions options)
 This use case shows how to add Image watermark into the document using stream containing the image data:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "image-watermark-stream.cs" >}}
 
-### Significantly improved the usability of the [LowCode](https://reference.aspose.com/words/net/aspose.words.lowcode/) API
+### Significantly improved the usability of the LowCode API
 
 How to Compare two Word documents using ComparerContext with custom options:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "compare-context-documents.cs" >}}
