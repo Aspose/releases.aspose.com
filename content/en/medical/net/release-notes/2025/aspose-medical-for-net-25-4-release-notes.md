@@ -3,14 +3,15 @@ id: "aspose-medical-for-net-25-4-release-notes"
 slug: "aspose-medical-for-net-25-4-release-notes"
 linktitle: "Aspose.Medical for .NET 25.4 Release Notes"
 title: "Aspose.Medical for .NET 25.4 Release Notes"
-weight: 90
+weight: 120
 description: "Aspose.Medical for .NET 25.4 Release Notes – Initial Release with DICOM Support in April 2025"
 type: "repository"
 layout: "release"
-hideChildren: false
-toc: false
 family_listing_page_title: "Aspose.Medical for .NET 25.4 Release Notes"
-menuItemWithNoContent: false
+lastmod: "2025-04-07"
+sitemap:
+  changefreq: "monthly"
+  priority: 0.7
 ---
 
 {{% alert color="primary" %}}
