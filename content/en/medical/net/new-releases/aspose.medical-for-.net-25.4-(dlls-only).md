@@ -1,5 +1,4 @@
 ---
-
 title: "Downloads ---New Releases-aspose.medical-for-.net-25.4-(dlls-only)"
 description: " "
 keywords: ""
@@ -14,8 +13,7 @@ download_count: " 7/4/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 1.71MB"
 parent_path: "medical/net"
 section_parent_path: "medical/net"
-
-tags: ""Medical", "DICOM", ".NET", "Aspose""
+tags: "Medical DICOM .NET Aspose"
 release_notes_url: "https://releases.aspose.com/medical/net/release-notes/2025/aspose-medical-for-net-25-4-release-notes/"
 weight: 1
 
