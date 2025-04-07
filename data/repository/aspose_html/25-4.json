@@ -4,12 +4,20 @@
   "id" : "25-4",
   "packageFiles" : [ {
     "size" : "32 MB",
+    "name" : "aspose-html-25.4-jdk1.8.jar",
+    "classifier" : "jdk1.8"
+  }, {
+    "size" : "32 MB",
+    "name" : "aspose-html-25.4-jdk8.jar",
+    "classifier" : "jdk8"
+  }, {
+    "size" : "32 MB",
     "name" : "aspose-html-25.4.jar"
   }, {
     "size" : "394 bytes",
     "name" : "aspose-html-25.4.pom"
   } ],
-  "releasehDate" : "2025-04-07T15:42:16+00:00",
+  "releasehDate" : "2025-04-07T15:43:23+00:00",
   "version" : "25.4",
   "ReleaseNotes" : "https://releases.aspose.com/html/java/release-notes/2025/aspose-html-for-java-25-4-release-notes/"
 }
