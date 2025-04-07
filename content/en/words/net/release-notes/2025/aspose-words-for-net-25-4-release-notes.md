@@ -185,141 +185,137 @@ This use case shows how to add Image watermark into the document using stream co
 
 ### Significantly improved the usability of the [LowCode](https://reference.aspose.com/words/net/aspose.words.lowcode/) API
 
-How to Compare Two Word Documents Using ComparerContext with Custom Options:
+How to Compare two Word documents using ComparerContext with custom options:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "compare-context-documents.cs" >}}
 
-How to Compare Word Documents from Streams Using ComparerContext with Custom Options:
+How to Compare Word documents from streams using ComparerContext with custom options:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "compare-context-stream-documents.cs" >}}
 
-How to Compare Word Documents and Export Differences as PNG Images Using File Paths and Streams:
+How to Compare Word documents and export differences as PNG images using file paths and streams:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "compare-documents-toimages.cs" >}}
 
-How to Convert Word Documents Using Streams with Load, Save Options, and Export to PNG Images:
+How to Convert Word documents using streams with load, save options, and export to PNG images:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "convert-context-stream.cs" >}}
 
-How to Convert Word Documents to PDF, RTF, DOCX (with Options), and Export to PNG Using LowCode API:
+How to Convert Word documents to PDF, RTF, DOCX (with options), and export to PNG using LowCode API:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "convert-context.cs" >}}
 
-How to Perform Mail Merge from a DataRow Using LowCode API:
+How to Perform mail merge from a DataRow using LowCode API:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "mail-merge-context-data-row.cs" >}}
 
-How to Perform Mail Merge from a DataTable Using LowCode API:
+How to Perform mail merge from a DataTable using LowCode API:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "mail-merge-context-data-table.cs" >}}
 
-How to Perform Mail Merge from a Stream with a DataRow as Data Source Using LowCode API:
+How to Perform mail merge from a stream with a DataRow as data source using LowCode API:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "mail-merge-context-stream-data-row.cs" >}}
 
-How to Perform Mail Merge from a Stream with a DataTable as Data Source Using LowCode API:
+How to Perform mail merge from a stream with a DataTable as data source using LowCode API:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "mail-merge-context-stream-data-table.cs" >}}
 
-How to Perform Mail Merge with Nested Data Relations Using DataSet:
+How to Perform mail merge with nested data relations using DataSet:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "mail-merge-context-stream-with-regions-data-set.cs" >}}
 
-How to Perform Mail Merge from a DataTable Using LowCode API:
+How to Perform mail merge from a DataTable using LowCode API:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "mail-merge-context-stream-with-regions-data-table.cs" >}}
 
-How to Perform Mail Merge with Simple Arrays Using LowCode API:
+How to Perform mail merge with simple arrays using LowCode API:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "mail-merge-context-stream.cs" >}}
 
-How to Generate a Mail Merge Document with Nested Data Relations Using DataSet Using LowCode API:
+How to Generate a mail merge document with nested data relations using DataSet using LowCode API:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "mail-merge-context-with-regions-data-set.cs" >}}
 
-How to Generate a Document Using Mail Merge Regions and DataTable Using LowCode API:
+How to Generate a document using mail merge regions and DataTable using LowCode API:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "mail-merge-context-with-regions-data-table.cs" >}}
 
-How to Execute Basic Mail Merge Using String Arrays as Data Source Using LowCode API:
+How to Execute basic mail merge using string arrays as data source using LowCode API:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "mail-merge-context.cs" >}}
 
-How to Generate Mail Merge Output as Images from a DataRow Using LowCode API:
+How to Generate mail merge output as images from a DataRow using LowCode API:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "mail-merge-stream-to-images-data-row.cs" >}}
 
-How to Convert Word Mail Merge Documents to Multiple PNG Files Using DataTable Using LowCode API:
+How to Convert Word mail merge documents to multiple PNG files using DataTable using LowCode API:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "mail-merge-stream-to-images-data-table.cs" >}}
 
-How to Generate PNG Images from Word Mail Merge Using String Arrays Using LowCode API:
+How to Generate PNG images from Word mail merge using string arrays using LowCode API:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "mail-merge-stream-to-images.cs" >}}
 
-How to Generate PNG Images from Word Mail Merge with Related DataTables Using LowCode API:
+How to Generate PNG images from Word mail merge with related DataTables using LowCode API:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "mail-merge-stream-with-regions-to-images-data-set.cs" >}}
 
-How to Convert Word Mail Merge Regions to Multiple PNGs Using DataTable Using LowCode API:
+How to Convert Word mail merge regions to multiple PNGs using DataTable using LowCode API:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "mail-merge-stream-with-regions-to-images-data-table.cs" >}}
 
-How to Generate PNG Images from Word Mail Merge Using a Single DataRow Using LowCode API:
+How to Generate PNG images from Word mail merge using a single DataRow using LowCode API:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "mail-merge-to-images-data-row.cs" >}}
 
-How to Convert Word Mail Merge Results to PNG Images Using DataTable Using LowCode API:
+How to Convert Word mail merge results to PNG images using DataTable using LowCode API:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "mail-merge-to-images-data-table.cs" >}}
 
-How to Generate PNG Images from Word Mail Merge Using Parallel Arrays Using LowCode API:
+How to Generate PNG images from Word mail merge using parallel arrays using LowCode API:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "mail-merge-to-images.cs" >}}
 
-How to Generate Nested Mail Merge Results as PNG Images from a DataSet Using LowCode API:
+How to Generate nested mail merge results as PNG images from a DataSet using LowCode API:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "mail-merge-with-regions-to-images-data-set.cs" >}}
 
-How to Convert Word Mail Merge Regions to PNG Images Using DataTable:
+How to Convert Word mail merge regions to PNG images using DataTable:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "mail-merge-with-regions-to-images-data-table.cs" >}}
 
-How to Merge Multiple Word Documents with Format Preservation and Loading/Saving Options:
+How to Merge multiple Word documents with format preservation and loading/saving options:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "merge-context-documents.cs" >}}
 
-How to merge Word documents from streams with format retention and encryption:
+How to Merge Word documents from streams with format retention and encryption:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "merge-stream-context-documents.cs" >}}
 
-How to replace text patterns in Word documents using regex:
+How to Replace text patterns in Word documents using regex:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "replace-context-regex.cs" >}}
 
-How to perform regex text replacement in Word documents using file streams:
+How to Perform regex text replacement in Word documents using file streams:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "replace-context-stream-regex.cs" >}}
 
-How to replace text in Word documents using file streams:
+How to Replace text in Word documents using file streams:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "replace-context-stream.cs" >}}
 
-How to replace text in Word documents using direct file paths:
+How to Replace text in Word documents using direct file paths:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "replace-context.cs" >}}
 
-How to perform regex text replacement and generate PNG images from Word documents:
+How to Perform regex text replacement and generate PNG images from Word documents:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "replace-to-images-regex.cs" >}}
 
-How to perform regex replacements and export as PNGs from Word document streams:
+How to Perform regex replacements and export as PNGs from Word document streams:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "replace-to-images-stream-regex.cs" >}}
 
-How to replace text and generate PNG images from Word streams:
+How to Replace text and generate PNG images from Word streams:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "replace-to-images-stream.cs" >}}
 
-How to replace text and export as PNG images from Word files:
+How to Replace text and export as PNG images from Word files:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "replace-to-images.cs" >}}
 
-How to split a Word document into individual pages using streams:
+How to Split a Word document into individual pages using streams:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "split-context-document-stream.cs" >}}
 
-How to split a Word document into separate pages by file path:
+How to Split a Word document into separate pages by file path:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "split-context-document.cs" >}}
 
-How to add a scalable image watermark to Word documents via streams:
+How to Add a scalable image watermark to Word documents via streams:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "watermark-context-image-stream.cs" >}}
 
-How to add a scaled image watermark to Word documents via file paths:
+How to Add a scaled image watermark to Word documents via file paths:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "watermark-context-image.cs" >}}
 
-How to add colored text watermarks to Word documents via streams:
+How to Add colored text watermarks to Word documents via streams:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "watermark-context-text-stream.cs" >}}
 
-How to add colored text watermarks to Word documents via file path:
+How to Add colored text watermarks to Word documents via file path:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "watermark-context-text.cs" >}}
 
-How to apply image watermarks when converting Word documents to PNGs:
+How to Apply image watermarks when converting Word documents to PNGs:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "watermark-image-to-images-stream.cs" >}}
 
-How to add scalable image watermarks when converting Word documents to PNG files:
+How to Add scalable image watermarks when converting Word documents to PNG files:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "watermark-image-to-images.cs" >}}
 
-How to apply colored text watermarks when converting Word documents to PNG via streams:
+How to Apply colored text watermarks when converting Word documents to PNG via streams:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "watermark-text-to-images-stream.cs" >}}
 
-How to Add Colored Text Watermarks When Converting Word Documents to PNG Images:
+How to Add colored text watermarks when converting Word documents to PNG images:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "watermark-text-to-images.cs" >}}
-
-
-
-
