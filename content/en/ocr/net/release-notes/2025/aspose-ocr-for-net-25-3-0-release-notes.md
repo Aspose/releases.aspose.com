@@ -5,7 +5,7 @@ slug: "aspose-ocr-for-net-25-3-0-release-notes"
 linktitle: "Aspose.OCR for .NET 25.3.0 - Release Notes"
 title: "Aspose.OCR for .NET 25.3.0 - Release Notes"
 author: "Vladimir Lapin"
-weight: 111
+weight: 101
 description: "A summary of recent changes, enhancements and bug fixes in Aspose.OCR for .NET 25.3.0 (March 2025) release."
 type: "repository"
 layout: "release"
