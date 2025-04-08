@@ -21,8 +21,11 @@ This page contains release notes for Aspose.HTML for Java 25.4
 
 We are honored to announce the April release of Aspose.HTML for Java.
 
-**This release includes improvements to rendering performance.**  
-We have optimized both execution time and memory usage when processing external resources. 
+**This release includes fixed rendering image and improvements to rendering performance.**  
+
+We fixed the processing of getting local resources.
+
+Also, we have optimized both execution time and memory usage when processing external resources. 
 In individual cases, execution time has been reduced by 7% to 70%, with an average improvement of 28%.
 
 Additionally, the API has been updated to support Java native classes:
@@ -31,11 +34,21 @@ Additionally, the API has been updated to support Java native classes:
 
 ## **Improvements and Changes**
 
+| **Key**       | **Summary**                                                                                          | **Category**                        |
+|---------------|------------------------------------------------------------------------------------------------------|-------------------------------------|
+| HTMLJAVA-2004 | Mht to pdf - exception - “element already exists”                                                    | Bug                                 | 
+| HTMLJAVA_1259 | Converter.convertHTML() throws ClassCastException. Missing image                                     | Bug                                 | 
+| HTMLJAVA_1448 | The exception ‘Cannot read a name from the name table in a font’ when HTML to PDF. Missing image     | Bug, Restored image                 | 
+| HTMLJAVA_1646 | HTML to PDF - java.lang.NullPointerException, Missing Images                                         | Bug, Restored image                 | 
+| HTMLJAVA_806  | HTML to PDF - Slow performance with missing images                                                   | Bug, Performance                    | 
+| HTMLJAVA_803  | Incorrect HTML to PDF conversion result using Java API compared to the online HTML to PDF conversion | Bug                                 | 
+
+
 ## **Public API and Backward Incompatible Changes**
 
 ### **Added APIs**
 
-Open to the public an enumeration: 
+##### Open to the public an enumeration: 
 ```java
 class com.aspose.html.accessibility.saving.ValidationResultSaveFormat {
     public static final int Text = 0;
@@ -44,19 +57,20 @@ class com.aspose.html.accessibility.saving.ValidationResultSaveFormat {
 }
 ```
 
-Added methods saveTo() for Java native java.ioWriter:
+##### Added methods saveTo() for Java native java.ioWriter:
 ```java
 class com.aspose.html.accessibility.results.ValidationResult {
     public void saveTo(java.ioWriter writer);
     public void saveTo(java.io.Writer writer,  int format);
 }
 ```
-Extended class Content to implement java.io.Closeable.
+
+##### Extended class Content to implement java.io.Closeable.
 ```java
 class com.aspose.html.net.Content implement java.io.Closeable;
 ```
 
-And added a constructor for Java  native InputStream:
+##### And added a constructor for Java  native InputStream:
 ```java
 class com.aspose.html.net.StreamContent extends Content {
      public StreamContent(java.io.InputStream content)
