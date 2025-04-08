@@ -21,21 +21,44 @@ This page contains release notes for Aspose.HTML for Java 25.4
 
 We are honored to announce the April release of Aspose.HTML for Java.
 
-We have fixed the block height calculation in HTML layout rendering.
+**This release includes improvements to rendering performance.**  
+We have optimized both execution time and memory usage when processing external resources. 
+In individual cases, execution time has been reduced by 7% to 70%, with an average improvement of 28%.
+
+Additionally, the API has been updated to support Java native classes:
+- `java.io.Writer` in the **WebAccessibility** facility
+- `java.io.Closeable` and `java.io.InputStream` in the **com.aspose.html.net** package.
+
+## **Improvements and Changes**
 
 ## **Public API and Backward Incompatible Changes**
 
 ### **Added APIs**
 
-add Api enum ValidationResultSaveFormat
-new com.aspose.html.accessibility.results.ValidationResult void saveTo(java.ioWriter writer)
-HttpProtocolMessageHandler: fixed read EOL from stream
-com.aspose.html.net.StreamContent implement java.io.Closeable added public StreamContent(java.io.InputStream content)
-com.aspose.html.net.Content implement java.io.Closeable
+Open to the public an enumeration: 
+```java
+class com.aspose.html.accessibility.saving.ValidationResultSaveFormat {
+    public static final int Text = 0;
+    public static final int JSON = 1;
+    public static final int XML = 2;
+}
+```
 
-## **Improvements and Changes**
+Added methods saveTo() for Java native java.ioWriter:
+```java
+class com.aspose.html.accessibility.results.ValidationResult {
+    public void saveTo(java.ioWriter writer);
+    public void saveTo(java.io.Writer writer,  int format);
+}
+```
+Extended class Content to implement java.io.Closeable.
+```java
+class com.aspose.html.net.Content implement java.io.Closeable;
+```
 
-| **Key**          | **Summary**                                                   | **Category** |
-|------------------|---------------------------------------------------------------|--------------|
-| HTMLJAVA-1977    | ArgumentException: Incompatible unit types in HTML rendering  | Bug          | 
-| HTMLJAVA-1916    | MHT imaging file conversion doesn’t work partially when tried | Bug          | 
+And added a constructor for Java  native InputStream:
+```java
+class com.aspose.html.net.StreamContent extends Content {
+     public StreamContent(java.io.InputStream content)
+}
+```
