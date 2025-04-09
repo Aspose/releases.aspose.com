@@ -30,7 +30,7 @@ This page contains release notes for [Aspose.Slides for Python via .NET 25.4](ht
 
 ### Added New Method: Metered.is_metered_licensed
 
-The new method, [`is_metered_licensed`](https://reference.aspose.com/slides/python-net/aspose.slides/metered/is_metered_licensed/), has been added to the [`Metered`](https://reference.aspose.com/slides/python-net/aspose.slides/metered/) class.  
+The new method [`is_metered_licensed`](https://reference.aspose.com/slides/python-net/aspose.slides/metered/is_metered_licensed/) has been added to the [`Metered`](https://reference.aspose.com/slides/python-net/aspose.slides/metered/) class.  
 This method allows you to check whether the metered system is licensed or not.  
 
 ```python
