@@ -19,6 +19,7 @@ This page contains release notes for [Aspose.Slides for Python via .NET 25.4](ht
 ## New Features and Enhancements
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
+|SLIDESPYNET-258|Metered license fails to authenticate|Investigation||
 
 ## Other Improvements and Changes
 |**Key**|**Summary**|**Category**|**Related Documentation**|
@@ -82,3 +83,22 @@ The [`type`](https://reference.aspose.com/slides/python-net/aspose.slides/iadjus
 | `VERTICAL_SIZE` | Controls the vertical size of the shape. |
 | `HORIZONTAL_SIZE` | Controls the horizontal size of the shape. |
 | `TOP` | Controls the top side of a shape. |
+
+The following code sample demonstrates how to extract adjustment points of a shape:
+
+```python
+import aspose.slides as slides
+
+with slides.Presentation("sample.pptx") as pres:
+    shape = pres.slides[0].shapes[1]
+
+    for idx in range(shape.adjustments.length):
+        adjustment = shape.adjustments[idx]
+        print("Type:", adjustment.type.name, ". Raw value:", adjustment.raw_value)
+```
+
+Possible output:
+```
+Type: ARROW_TAIL_THICKNESS . Raw value: 52956
+Type: ARROWHEAD_LENGTH . Raw value: 67839
+```
