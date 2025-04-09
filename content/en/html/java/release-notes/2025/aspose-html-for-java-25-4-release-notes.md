@@ -34,7 +34,7 @@ Additionally, the API has been updated to support Java native classes:
 
 ## **Improvements and Changes**
 
-#### **List of issues that have been fixed**
+##### List of issues that have been fixed
 | **Key**       | **Summary**                                                                                          | **Category**        |
 |---------------|------------------------------------------------------------------------------------------------------|---------------------|
 | HTMLJAVA-1412 | HTML to DOCX conversion issue                                                                        | Bug                 | 
@@ -47,7 +47,7 @@ Additionally, the API has been updated to support Java native classes:
 | HTMLJAVA-1715 | HTML to PDF: Optimize conversion time                                                                | Bug, Performance    |
 
 
-#### **List of issues that have been improved**
+##### List of issues that have been improved
 | **Key**       | **Summary**                                                                                          | **Category**        |
 |---------------|------------------------------------------------------------------------------------------------------|---------------------|
 | HTMLJAVA_1259 | Converter.convertHTML() throws ClassCastException. Missing image                                     | Bug                 |
