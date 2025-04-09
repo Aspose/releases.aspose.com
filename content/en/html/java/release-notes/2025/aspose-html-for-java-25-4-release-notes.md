@@ -34,19 +34,27 @@ Additionally, the API has been updated to support Java native classes:
 
 ## **Improvements and Changes**
 
+#### **List of issues that have been fixed**
 | **Key**       | **Summary**                                                                                          | **Category**        |
 |---------------|------------------------------------------------------------------------------------------------------|---------------------|
-| HTMLJAVA-1998 | MHT Conversion is not rendering the image in the output                                              | Bug, Performance    | 
-| HTMLJAVA-1715 | HTML to PDF: Optimize conversion time                                                                | Bug, Performance    | 
-| HTMLJAVA-2004 | Mht to pdf - exception - “element already exists”                                                    | Bug                 | 
-| HTMLJAVA_1259 | Converter.convertHTML() throws ClassCastException. Missing image                                     | Bug                 | 
-| HTMLJAVA_1448 | The exception ‘Cannot read a name from the name table in a font’ when HTML to PDF. Missing image     | Bug, Restored image | 
-| HTMLJAVA_1646 | HTML to PDF - java.lang.NullPointerException, Missing Images                                         | Bug, Restored image | 
-| HTMLJAVA_806  | HTML to PDF - Slow performance with missing images                                                   | Bug, Performance    | 
-| HTMLJAVA_803  | Incorrect HTML to PDF conversion result using Java API compared to the online HTML to PDF conversion | Bug                 | 
-| HTMLJAVA-1157 | HTML to JPG - null pointer exception under CentOS                                                    | Bug                 | 
-| HTMLJAVA-1853 | Image is not showing up when converting html to image                                                | Bug                 | 
-| HTMLJAVA-1859 | Infinite Loop Converting HTML to PNG                                                                 | Bug                 | 
+| HTMLJAVA-1412 | HTML to DOCX conversion issue                                                                        | Bug                 | 
+| HTMLJAVA-2004 | Mht to pdf - exception - “element already exists”                                                    | Bug                 |
+| HTMLJAVA-1157 | HTML to JPG - null pointer exception under CentOS                                                    | Bug                 |
+| HTMLJAVA-1853 | Image is not showing up when converting html to image                                                | Bug                 |
+| HTMLJAVA_803  | Incorrect HTML to PDF conversion result using Java API compared to the online HTML to PDF conversion | Bug                 |
+| HTMLJAVA-1859 | Infinite Loop Converting HTML to PNG                                                                 | Bug                 |
+| HTMLJAVA-1998 | MHT Conversion is not rendering the image in the output                                              | Bug, Performance    |
+| HTMLJAVA-1715 | HTML to PDF: Optimize conversion time                                                                | Bug, Performance    |
+
+
+#### **List of issues that have been improved**
+| **Key**       | **Summary**                                                                                          | **Category**        |
+|---------------|------------------------------------------------------------------------------------------------------|---------------------|
+| HTMLJAVA_1259 | Converter.convertHTML() throws ClassCastException. Missing image                                     | Bug                 |
+| HTMLJAVA_1448 | The exception ‘Cannot read a name from the name table in a font’ when HTML to PDF. Missing image     | Bug, Restored image |
+| HTMLJAVA_1646 | HTML to PDF - java.lang.NullPointerException, Missing Images                                         | Bug, Restored image |
+| HTMLJAVA_806  | HTML to PDF - Slow performance with missing images                                                   | Bug, Performance    |
+
 
 
 ## **Public API and Backward Incompatible Changes**
