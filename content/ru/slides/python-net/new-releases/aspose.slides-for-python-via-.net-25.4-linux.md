@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-25.4-linux/"
 folder_name: "Aspose.Slides для Python через .NET 25.4 Linux"
-download_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-25.4-linux/251895443562d19aaf4b304de2cc01ba-20-12861"
+download_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-25.4-linux/517e43143c93a4cd7888a11ae1aa5ffe-20-12861"
 download_text: "Скачать"
 intro_text: "API Python для управления презентациями"
 image_link: "/resources/img/random-file-icon.png"
@@ -24,19 +24,19 @@ weight: 152
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Slides для Python через .NET 25.4 Linux" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Скачать" link="/slides/python-net/new-releases/aspose.slides-for-python-via-.net-25.4-linux/251895443562d19aaf4b304de2cc01ba-20-12861" >}}
+    {{< Releases/ReleasesSingleButtons text="Скачать" link="/slides/python-net/new-releases/aspose.slides-for-python-via-.net-25.4-linux/517e43143c93a4cd7888a11ae1aa5ffe-20-12861" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/slides" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Детали файла">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Скачатьs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-251895443562d19aaf4b304de2cc01ba-20-12861" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-517e43143c93a4cd7888a11ae1aa5ffe-20-12861" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Размер файла: {{< /Common/li >}}
-      {{< Common/li id="size-update-251895443562d19aaf4b304de2cc01ba-20-12861" >}} 98.21MB {{< /Common/li >}}
+      {{< Common/li id="size-update-517e43143c93a4cd7888a11ae1aa5ffe-20-12861" >}} 98.21MB {{< /Common/li >}}
 
       {{< Common/li >}} Дата добавления: {{< /Common/li >}}
-      {{< Common/li id="added-update-251895443562d19aaf4b304de2cc01ba-20-12861" >}}9/4/2025 {{< /Common/li >}}
+      {{< Common/li id="added-update-517e43143c93a4cd7888a11ae1aa5ffe-20-12861" >}}9/4/2025 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
