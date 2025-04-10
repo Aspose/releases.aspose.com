@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-25.4-win-x64/"
 folder_name: "Aspose.Slides for Python via .NET 25.4 Win x64"
-download_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-25.4-win-x64/b4e9da67b18bdc49f5e46c3950180875-14-12859"
+download_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-25.4-win-x64/7268bc2ca7333d1be987eae51b30641c-14-12859"
 download_text: "下载"
 intro_text: "演示文稿操作 Python API"
 image_link: "/resources/img/random-file-icon.png"
@@ -24,19 +24,19 @@ weight: 150
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Slides for Python via .NET 25.4 Win x64" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="下载" link="/slides/python-net/new-releases/aspose.slides-for-python-via-.net-25.4-win-x64/b4e9da67b18bdc49f5e46c3950180875-14-12859" >}}
+    {{< Releases/ReleasesSingleButtons text="下载" link="/slides/python-net/new-releases/aspose.slides-for-python-via-.net-25.4-win-x64/7268bc2ca7333d1be987eae51b30641c-14-12859" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/slides" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} 下载s: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-b4e9da67b18bdc49f5e46c3950180875-14-12859" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-7268bc2ca7333d1be987eae51b30641c-14-12859" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} 文件大小: {{< /Common/li >}}
-      {{< Common/li id="size-update-b4e9da67b18bdc49f5e46c3950180875-14-12859" >}} 68.99MB {{< /Common/li >}}
+      {{< Common/li id="size-update-7268bc2ca7333d1be987eae51b30641c-14-12859" >}} 68.99MB {{< /Common/li >}}
 
       {{< Common/li >}} 添加日期: {{< /Common/li >}}
-      {{< Common/li id="added-update-b4e9da67b18bdc49f5e46c3950180875-14-12859" >}}9/4/2025 {{< /Common/li >}}
+      {{< Common/li id="added-update-7268bc2ca7333d1be987eae51b30641c-14-12859" >}}9/4/2025 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

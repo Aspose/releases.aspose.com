@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-25.4-win-x64/"
 folder_name: ".NET 25.4 Win x64 aracılığıyla Python için Aspose.Slides"
-download_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-25.4-win-x64/b4e9da67b18bdc49f5e46c3950180875-14-12859"
+download_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-25.4-win-x64/7268bc2ca7333d1be987eae51b30641c-14-12859"
 download_text: "İndirmek"
 intro_text: "Sunum Düzenleme Python API'si"
 image_link: "/resources/img/random-file-icon.png"
@@ -24,19 +24,19 @@ weight: 150
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt=".NET 25.4 Win x64 aracılığıyla Python için Aspose.Slides" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="İndirmek" link="/slides/python-net/new-releases/aspose.slides-for-python-via-.net-25.4-win-x64/b4e9da67b18bdc49f5e46c3950180875-14-12859" >}}
+    {{< Releases/ReleasesSingleButtons text="İndirmek" link="/slides/python-net/new-releases/aspose.slides-for-python-via-.net-25.4-win-x64/7268bc2ca7333d1be987eae51b30641c-14-12859" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/slides" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} İndirmeks: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-b4e9da67b18bdc49f5e46c3950180875-14-12859" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-7268bc2ca7333d1be987eae51b30641c-14-12859" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Dosya boyutu: {{< /Common/li >}}
-      {{< Common/li id="size-update-b4e9da67b18bdc49f5e46c3950180875-14-12859" >}} 68.99MB {{< /Common/li >}}
+      {{< Common/li id="size-update-7268bc2ca7333d1be987eae51b30641c-14-12859" >}} 68.99MB {{< /Common/li >}}
 
       {{< Common/li >}} Ekleme Tarihi: {{< /Common/li >}}
-      {{< Common/li id="added-update-b4e9da67b18bdc49f5e46c3950180875-14-12859" >}}9/4/2025 {{< /Common/li >}}
+      {{< Common/li id="added-update-7268bc2ca7333d1be987eae51b30641c-14-12859" >}}9/4/2025 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
