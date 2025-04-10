@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-25.4-win-x86/"
 folder_name: "Aspose.Slide untuk Python melalui .NET 25.4 Win x86"
-download_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-25.4-win-x86/48fc5b2b97ceefb3e3c5fe84c94f9cae-13-12860"
+download_link: "/slides/python-net/new-releases/aspose.slides-for-python-via-.net-25.4-win-x86/540944e6048120203edfab916abdbd41-13-12860"
 download_text: "Unduh"
 intro_text: "Manipulasi Presentasi Python API"
 image_link: "/resources/img/random-file-icon.png"
@@ -24,19 +24,19 @@ weight: 151
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Slide untuk Python melalui .NET 25.4 Win x86" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Unduh" link="/slides/python-net/new-releases/aspose.slides-for-python-via-.net-25.4-win-x86/48fc5b2b97ceefb3e3c5fe84c94f9cae-13-12860" >}}
+    {{< Releases/ReleasesSingleButtons text="Unduh" link="/slides/python-net/new-releases/aspose.slides-for-python-via-.net-25.4-win-x86/540944e6048120203edfab916abdbd41-13-12860" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/slides" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detail File">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Unduhs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-48fc5b2b97ceefb3e3c5fe84c94f9cae-13-12860" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-540944e6048120203edfab916abdbd41-13-12860" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Ukuran file: {{< /Common/li >}}
-      {{< Common/li id="size-update-48fc5b2b97ceefb3e3c5fe84c94f9cae-13-12860" >}} 60.24MB {{< /Common/li >}}
+      {{< Common/li id="size-update-540944e6048120203edfab916abdbd41-13-12860" >}} 60.24MB {{< /Common/li >}}
 
       {{< Common/li >}} Tanggal Ditambahkan: {{< /Common/li >}}
-      {{< Common/li id="added-update-48fc5b2b97ceefb3e3c5fe84c94f9cae-13-12860" >}}9/4/2025 {{< /Common/li >}}
+      {{< Common/li id="added-update-540944e6048120203edfab916abdbd41-13-12860" >}}9/4/2025 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
