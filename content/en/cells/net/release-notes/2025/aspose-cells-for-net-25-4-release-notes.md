@@ -20,7 +20,7 @@ This page contains release notes for [Aspose.Cells for .NET 25.4](https://www.nu
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |CELLSNET-57956|Support to save specified sheets to html|New Feature
-|CELLSNET-58090|Support exporting editable charts since Excel 2016 to docx file.|New Feature
+|CELLSNET-58090|Support exporting editable charts to docx file.|New Feature
 |CELLSNET-58172|Support reading and writing sensitivity label|New Feature
 |CELLSNET-58087|Support exporting hidden rows and columns to Numbers|New Feature
 |CELLSNET-58095|Support exporting fill settings of cells to Numbers|New Feature
