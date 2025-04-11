@@ -101,9 +101,9 @@ In old versions, when deleting blank rows above shapes, the shapes were not shif
 
 Checks whether there is custom function used by the cell and workbook.
 
-### **Adds Aspose.Cells.LowCode namespace and apis under it.**
+### **Adds Aspose.Cells.LowCode namespace and APIs under it.**
 
-Provides a set of simple and easy-to-use apis for the most frequently used operations in a low code way.
+Provides a set of simple and easy-to-use APIs for the most frequently used operations in a low-code way.
 
 ### **Adds SvgImageOptions class that inherits from ImageOrPrintOptions class.**
 
@@ -127,11 +127,11 @@ Please use SvgImageOptions.CssPrefix property instead.
 
 ### **Adds SensitivityLabel and SensitivityLabelCollection classes.**
 
-Gets and sets the sensitivity label.
+Gets or sets the sensitivity label.
 
 ### **Adds PowerQueryFormulaCollection.RemoveBy(String) method.**
 
-Remove power query formulas by the name.
+Removes Power Query formulas by the name.
 
 ### **Adds WorksheetCollection.SensitivityLabels property.**
 
@@ -139,15 +139,15 @@ Gets all sensitivity labels.
 
 ### **Adds Worksheet.GridlineColor property.**
 
-Gets and sets the color of gridline in the worksheet.
+Gets or sets the color of gridline in the worksheet.
 
-### **Adds Worksheet.GetSelectedAreas() and Obsoleted Worksheet.GetSelectedRanges() method.**
+### **Adds Worksheet.GetSelectedAreas() and obsoletes Worksheet.GetSelectedRanges() method.**
 
 Use Worksheet.GetSelectedAreas() instead.
 
 ### **Adds DocxSaveOptions.SaveAsEditableShaps property.**
 
-Indicates whether saving editable shapes to docx file. Only supports chart now.
+Indicates whether to save editable shapes to Docx file. Currently, only charts are supported.
 
 ### **Adds LoadFormat.Markdown enum.**
 
