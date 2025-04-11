@@ -149,10 +149,6 @@ Use Worksheet.GetSelectedAreas() instead.
 
 Indicates whether saving editable shapes to docx file. Only supports chart now.
 
-### **Adds DocxSaveOptions.SaveAsEditableShaps property.**
-
-Indicates whether saving editable shapes to docx file. Only supports chart now.
-
 ### **Adds LoadFormat.Markdown enum.**
 
 Represents a Markdown file.
