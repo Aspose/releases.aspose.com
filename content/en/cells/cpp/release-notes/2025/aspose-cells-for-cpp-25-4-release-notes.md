@@ -96,7 +96,7 @@ bool GetHasCustomFunction()
 
 {{% /alert %}}
 
-### **Adds Aspose::Cells::LowCode namespace and apis under it.**
+### **Adds Aspose::Cells::LowCode/Aspose::Cells::Metas namespace and apis under it.**
 
 Provides a set of simple and easy-to-use apis for the most frequently used operations in a low code way.
 
@@ -180,7 +180,7 @@ Vector<Range> GetSelectedAreas()
 
 {{% /alert %}}
 
-### **Adds two methods in DocxSaveOptions.SaveAsEditableShaps property.**
+### **Adds two methods in DocxSaveOptions.SaveAsEditableShaps.**
 
 Indicates whether saving editable shapes to docx file. Only supports chart now.
 
