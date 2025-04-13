@@ -50,10 +50,13 @@ You can easily use <b>aspose.cells.node</b> for Node.js from {{< Common/link hre
 - **Images:** JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
 - **Text:** CSV, Tab-Delimited, JSON, SQL, XML
 
-## Support multiple operating systems and CPU architectures, including:
-- **Windows x64**
-- **Linux x64**
-- **macOS x64 & arm64**
+## OS and CPU Architecture Support
+
+Aspose.Cells for Node.js via C++ supports multiple operating systems and CPU architectures, including:
+
+- Windows x64
+- Linux x64 & arm64
+- macOS x64 & arm64
 
 [Product Page](https://products.aspose.com/cells/nodejs-cpp/) | [Docs]() | [Demos](https://products.aspose.app/cells/family) | [API Reference](https://reference.aspose.com/cells/nodejs-cpp/) | [Blog](https://blog.aspose.com/categories/aspose.cells-product-family/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cells/9) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
