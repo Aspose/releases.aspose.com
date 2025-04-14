@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/net/new-releases/msi-for-aspose.diagram-for-.net-25.4/"
-folder_name: "Msi pour Aspose.Diagram pour .NET 25.4"
+folder_name: "Aspose.Diagramme pour .NET 25.4"
 download_link: "/diagram/net/new-releases/msi-for-aspose.diagram-for-.net-25.4/d759c856f8b5e41ac28e981c0dfe1749-6-12922"
 download_text: "Télécharger"
 intro_text: "Msi pour Aspose.Diagram pour .NET 25.4"
@@ -22,7 +22,7 @@ weight: 539
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Msi pour Aspose.Diagram pour .NET 25.4" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Diagramme pour .NET 25.4" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Télécharger" link="/diagram/net/new-releases/msi-for-aspose.diagram-for-.net-25.4/d759c856f8b5e41ac28e981c0dfe1749-6-12922" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/diagram" >}}

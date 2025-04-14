@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/net/new-releases/msi-for-aspose.diagram-for-.net-25.4/"
-folder_name: "适用于 .NET 25.4 的 Aspose.Diagram 的 Msi"
+folder_name: "Aspose.Diagram for .NET 25.4"
 download_link: "/diagram/net/new-releases/msi-for-aspose.diagram-for-.net-25.4/d759c856f8b5e41ac28e981c0dfe1749-6-12922"
 download_text: "下载"
 intro_text: "适用于 .NET 25.4 的 Aspose.Diagram 的 Msi"
@@ -22,7 +22,7 @@ weight: 539
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="适用于 .NET 25.4 的 Aspose.Diagram 的 Msi" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Diagram for .NET 25.4" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="下载" link="/diagram/net/new-releases/msi-for-aspose.diagram-for-.net-25.4/d759c856f8b5e41ac28e981c0dfe1749-6-12922" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/diagram" >}}
