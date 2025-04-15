@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-ocr",
+  "id" : "25-4-0",
+  "packageFiles" : [ {
+    "size" : "421 KB",
+    "name" : "aspose-ocr-25.4.0-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "35 MB",
+    "name" : "aspose-ocr-25.4.0.jar"
+  }, {
+    "size" : "1 KB",
+    "name" : "aspose-ocr-25.4.0.pom"
+  } ],
+  "releasehDate" : "2025-04-15T19:15:37+00:00",
+  "version" : "25.4.0",
+  "ReleaseNotes" : "https://releases.aspose.com/ocr/java/release-notes/2025/aspose-ocr-for-java-25-4-0-release-notes/"
+}
