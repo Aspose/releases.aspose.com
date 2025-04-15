@@ -13,18 +13,18 @@ family_listing_page_package: ""
 weight: 6
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/cells" linktext=" Support Forum " >}}
 
-{{< Common/h3 text="Download Aspose.Cells Desinger & Renderer for SQL Reports"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Aspose.Cells for Reporting Services seamlessly adds a myriad of features in the Microsoft SQL Server&reg; Reporting Services, ranging from setting up data sources, creating queries, designing reports, and publishing them to the Report Server.
-{{< Common/release-notes-link family="cells" product="reportingservices" href="https://releases.aspose.com/cells/reportingservices/release-notes/" text="https://releases.aspose.com/cells/reportingservices/release-notes/"  >}}
-{{< /Common/paragraph>}}
-{{< Common/hr >}}
+<br>
 
-[Product Page](https://products.aspose.com/cells/reporting-services/) | [Docs](https://docs.aspose.com/cells/reportingservices/) | [API Reference](https://reference.aspose.com/cells/) | [Blog](https://blog.aspose.com/category/cells/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cells/9) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+[![Product Page](https://img.shields.io/badge/Product-0288d1?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://products.aspose.com/cells/reporting-services/) [![Documentation](https://img.shields.io/badge/Documentation-388e3c?style=for-the-badge&logo=Hugo&logoColor=white)](https://docs.aspose.com/cells/reportingservices/) [![Blog](https://img.shields.io/badge/Blog-d32f2f?style=for-the-badge&logo=WordPress&logoColor=white)](https://blog.aspose.com/category/cells/) [![Support](https://img.shields.io/badge/Support-7b1fa2?style=for-the-badge&logo=Discourse&logoColor=white)](https://forum.aspose.com/c/cells) [![License](https://img.shields.io/badge/License-ff6f00?style=for-the-badge&logo=rocket&logoColor=white)](https://purchase.aspose.com/temporary-license/)
 
-### Spreadsheet & SQL Server&reg; Reports Integration Features
+---
+
+## Aspose.Cells for Reporting Services Releases
+
+### Introduction
+
+<details> <summary>Spreadsheet & SQL Server Reports Integration Features</summary>
 
 - Fully supports the RDL specification.
 - Aspose.Cells.Report.Designer client tool to design and manipulate RDL report files.
@@ -40,12 +40,16 @@ Aspose.Cells for Reporting Services seamlessly adds a myriad of features in the 
 - Export reports to various popular supported file formats.
 - Support for editable charts.
 
-### Supported Input Formats
+</details>
+
+<details> <summary>Supported Input Formats</summary>
 
 - Report Definition Language (RDL)
 - Report Definition Language Client (RDLC)
 
-### Supported Output Formats
+</details>
+
+<details> <summary>Supported Output Formats</summary>
 
 - **Microsoft Office:** XLS, XLSX, XLSM, XLSB, XLTX, CSV, TSV, TabDelimited, SpreadsheetML, Docx, PPTX
 - **OpenDocument:** ODS
@@ -53,7 +57,8 @@ Aspose.Cells for Reporting Services seamlessly adds a myriad of features in the 
 - **Markup:** HTML, Markdown (MD), JSON, XML
 - **Other:** XPS, Tiff, Sxc, PNG, PDF, JPG, Emf, Dif, SQL
 
-### Supported RDL Elements
+</details>
+<details> <summary>Supported RDL Elements</summary>
 
 - Page, headers, footers
 - Textboxes
@@ -68,11 +73,12 @@ Aspose.Cells for Reporting Services seamlessly adds a myriad of features in the 
 - Tablix
 - Gauge
 
-### System Requirements
+</details>
+<details> <summary>System Requirements</summary>
 
 Aspose.Cells for Reporting Services (including the Aspose.Cells.ReportingServices client, add-ins to Microsoft Excel&reg; and Aspose.Cells.ReportingServices Server) needs to be installed properly. Moreover, Microsoft SQL Server&reg; should be installed prior to installing Aspose.Cells for Reporting Services.
 
-#### Microsoft Office
+<details> <summary>Microsoft Office</summary>
 
 - Microsoft Excel&reg; 2000 Install the `lockbackRegKey.msi` to fix a CLR issue on Microsoft Office machines older than Office 2003.
 - Microsoft Excel&reg; 2002 Install `lockbackRegKey.msi` to fix a CLR issue on Microsoft Office&reg; machines older than Office 2003.
@@ -84,7 +90,8 @@ Aspose.Cells for Reporting Services (including the Aspose.Cells.ReportingService
 - Microsoft Excel&reg; 2019
 - Microsoft Excel&reg; 365
 
-#### Reporting Services
+</details>
+<details> <summary>Reporting Services</summary>
 
 - Microsoft SQL Server&reg; Reporting Services 2005
 - Microsoft SQL Server&reg; Reporting Services 2008
@@ -94,7 +101,8 @@ Aspose.Cells for Reporting Services (including the Aspose.Cells.ReportingService
 - Microsoft SQL Server&reg; Reporting Services 2016
 - Microsoft SQL Server&reg; Reporting Services 2019
 
-#### Microsoft Visual Studio
+</details>
+<details> <summary>Microsoft Visual Studio</summary>
 
 - Microsoft Visual Studio 2005
 - Microsoft Visual Studio 2008
@@ -103,7 +111,8 @@ Aspose.Cells for Reporting Services (including the Aspose.Cells.ReportingService
 - Microsoft Visual Studio 2017
 - Microsoft Visual Studio 2019
 
-#### Operating System
+</details>
+<details> <summary>Operating System</summary>
 
 - Microsoft Windows 2000 Server
 - Microsoft Windows 2000 Professional
@@ -121,17 +130,18 @@ Aspose.Cells for Reporting Services (including the Aspose.Cells.ReportingService
 - Microsoft Windows 2016 Server
 - Microsoft Windows 2019 Server
 
-#### .NET Framework
+</details>
+<details> <summary>.NET Framework</summary>
 
 - .NET Framework 2.0
 - .NET Framework 3.5
 - .NET Framework 4.x
 
-{{< Tags/TagsWrapper >}}
-{{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+</details>
 
-{{< Common/hr >}}
+</details>
+
+---
 
 {{< ProductPageWrapper >}}
 

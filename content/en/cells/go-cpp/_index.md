@@ -25,6 +25,15 @@ weight: 12
 <details> <summary>Installation Aspose.Cells for Go via C++ package and running your code in your project</summary>
 
 <details>
+  <summary><b>Go CLI</b></summary>
+  
+  > ```
+  > > go install github.com/aspose-cells/aspose-cells-go-cpp/v25@latest
+  > ```
+
+</details>
+
+<details>
     <summary>Create a directory for your project and a main.go file within. Add the following code to your main.go.</summary>
 
   > ```
