@@ -73,3 +73,109 @@ This page contains release notes information for [Aspose.Tasks for .Net 25.4](ht
 | Aspose.Tasks.TaskKey.DurationFormat |  |
 | Aspose.Tasks.Tsk.DurationFormat |  |
 
+
+
+**Related issue: TASKSNET-11276 - Add an API which allows to control bars in Gantt chart's legend**
+
+List of task bar types in the legend of Gantt chart can now be contolled using SaveOptions.LegendItems property:
+
+```cs
+var p = new Project(@"input.mpp");
+var pdfSaveOptions = new PdfSaveOptions();
+pdfSaveOptions.StartDate = p.StartDate;
+pdfSaveOptions.EndDate = p.FinishDate;
+pdfSaveOptions.PageSize = PageSize.A4;
+pdfSaveOptions.LegendDrawingOptions = LegendDrawingOptions.OnEveryPage;
+pdfSaveOptions.ViewSettings = p.Views.GetByName("&Gantt Chart");
+
+pdfSaveOptions.LegendItems = new PageLegendItem[]
+{
+    new PageLegendItem(BarItemType.Task, "Task"),
+    new PageLegendItem(BarItemType.ExternalMilestone, "External Milestone"),
+    new PageLegendItem(BarItemType.SummaryRollup, "Summary Rollup"),
+    new PageLegendItem(BarItemType.InactiveTask, "Inactive Task"),
+    new PageLegendItem(BarItemType.ManualSummary, "Manual Summary")
+};
+
+p.Save("output.pdf", pdfSaveOptions);
+```
+
+**TASKSNET-11224 - Add a setting which allows to specify that the timescale should stretch to the end of the page**
+
+The property SaveOptions.TimescaleFitBehavior was added to allow contol of the rendering of the timescale's right end:
+```cs
+var p = new Project("NewProductDev.mpp");
+var pdfSaveOptions = new PdfSaveOptions();
+pdfSaveOptions.ViewSettings = p.Views.GetByName("&Gantt Chart");
+pdfSaveOptions.TimescaleFitBehavior = TimescaleFitBehavior.NoScaleToEndOfPage;
+pdfSaveOptions.EndDate = new DateTime(2012, 7, 15);
+p.Save("output.pdf", pdfSaveOptions);
+```
+
+The following diagram show layouts of the timescale when different values of TimescaleFitBehavior are used:
+
+![Layouts of the timescale for different values of TimescaleFitBehavior enum](../TimescaleFitBehavior.png)
+
+The property bool SaveOptions.FitTimescaleToEndOfPage was marked as obsolete and will be removed.
+
+**TASKSNET-11250 - Add public API for calendar calculations using intersection of task and resource calendars**
+
+The method Calendar.GetIntersectionCalendar was added to allow the user to get and perform calendar-related calculations using "intersection" of two calendars.
+The API can be useful for calculations of dates or durations of resource assignments when assignment's task and resource have their own non-default calendars:
+
+```cs
+var p = new Project();
+
+var resource = p.Resources.Add("Work Resource");
+
+var resourceCalendar = p.Calendars.Add("Work Resource", p.Calendar);
+resourceCalendar.WeekDays.Add(new WeekDay(DayType.Monday, new WorkingTime(9, 16)));
+resourceCalendar.WeekDays.Add(new WeekDay(DayType.Tuesday, new WorkingTime(9, 16)));
+resourceCalendar.WeekDays.Add(new WeekDay(DayType.Wednesday, new WorkingTime(9, 16)));
+resourceCalendar.WeekDays.Add(new WeekDay(DayType.Thursday, new WorkingTime(9, 16)));
+resourceCalendar.WeekDays.Add(new WeekDay(DayType.Friday, new WorkingTime(9, 16)));
+resourceCalendar.WeekDays.Add(new WeekDay(DayType.Saturday, new WorkingTime(9, 16)));
+resourceCalendar.WeekDays.Add(new WeekDay(DayType.Sunday, new WorkingTime(9, 16)));
+
+var task = p.RootTask.Children.Add("Task");
+
+var taskCalendar = p.Calendars.Add("Task calendar");
+taskCalendar.WeekDays.Add(new WeekDay(DayType.Monday, new WorkingTime(8, 12), new WorkingTime(15, 18)));
+taskCalendar.WeekDays.Add(new WeekDay(DayType.Tuesday, new WorkingTime(8, 12), new WorkingTime(15, 18)));
+taskCalendar.WeekDays.Add(new WeekDay(DayType.Wednesday, new WorkingTime(8, 12), new WorkingTime(15, 18)));
+taskCalendar.WeekDays.Add(new WeekDay(DayType.Thursday, new WorkingTime(8, 12), new WorkingTime(15, 18)));
+taskCalendar.WeekDays.Add(new WeekDay(DayType.Friday, new WorkingTime(8, 12), new WorkingTime(15, 18)));
+taskCalendar.WeekDays.Add(new WeekDay(DayType.Saturday));
+taskCalendar.WeekDays.Add(new WeekDay(DayType.Sunday));
+
+task.Calendar = taskCalendar;
+
+var assignment = p.ResourceAssignments.Add(task, resource);
+
+var intersectionCalendar = Calendar.GetIntersectionCalendar(taskCalendar, resourceCalendar);
+
+Console.WriteLine("{0} plus 30 working hours is {1}", 
+    new DateTime(2025, 4, 14, 8, 0, 0),
+    intersectionCalendar.GetFinishDateByStartAndWork(new DateTime(2025, 4, 14, 8, 0, 0), TimeSpan.FromHours(30)));
+
+var date = new DateTime(2025, 4, 14, 8, 0, 0);
+for (int i = 0; i < 7; i++)
+{
+    var d = date.AddDays(i);
+
+    var wts = intersectionCalendar.GetWorkingTimes(d);
+
+    if (wts.Count == 0)
+    {
+        Console.WriteLine("{0:yyyy-MM-dd} is a non working day", d);
+        continue;
+    }
+
+    Console.WriteLine("Working times for date {0:yyyy-MM-dd}:", d);
+
+    foreach (var w in wts)
+    {
+        Console.WriteLine("{0} - {1}", w.From.TimeOfDay, w.To.TimeOfDay);
+    }
+}
+```
