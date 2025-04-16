@@ -1,0 +1,12 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-words",
+  "id" : "25-4",
+  "packageFiles" : [ {
+    "size" : "4 KB",
+    "name" : "aspose-words-25.4.pom"
+  } ],
+  "releasehDate" : "2025-04-16T15:37:45+00:00",
+  "version" : "25.4",
+  "ReleaseNotes" : "https://releases.aspose.com/words/java/release-notes/2025/aspose-words-for-java-25-4-release-notes/"
+}
