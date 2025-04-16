@@ -31,9 +31,6 @@ GPU version: **23.10.1**
 
 Key | Summary | Category
 --- | ------- | --------
-OCRJAVA&#8209;413 | Added automatic detection of image language, supporting: English (Latin), Cyrillic, Arabic, Chinese, Japanese, Korean, Hindi, Tamil, Telugu, and Kannada. | New feature
-l
-
 OCRJAVA&#8209;423 | Added universal recognition of Arabic, Persian and English alphabets. | New feature
 OCRJAVA&#8209;422 | Automatic analysis of image content and detection of layout blocks. | New feature
 OCRJAVA&#8209;421 | Add markdown output format with document layout. | New feature
