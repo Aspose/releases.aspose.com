@@ -25,6 +25,7 @@ This page contains release notes for [Aspose.Slides for C++ 25.4](https://www.nu
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
 |SLIDESCPP-3982|Extract multi column text from text frame|Enhancement||
+|SLIDESCPP-3996|Quality of thumbnails is very poor when converting shapes to images|Enhancement||
 
 ## Other Improvements and Changes
 |**Key**|**Summary**|**Category**|**Related Documentation**|
