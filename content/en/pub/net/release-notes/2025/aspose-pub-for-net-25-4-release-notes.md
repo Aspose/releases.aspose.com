@@ -23,6 +23,7 @@ Aspose.PUB for .NET is a сonvenient library that provides the feature to conver
 
 ## **Improvements and Changes**
 
+Support for the *.NET Framework 4.0* has been removed.<BR>
 The functionality of working with PDF format has been optimized.
 
 |**Key**|**Summary**|**Category**|
