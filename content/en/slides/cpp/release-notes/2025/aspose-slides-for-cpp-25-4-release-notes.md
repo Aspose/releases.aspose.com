@@ -26,11 +26,13 @@ This page contains release notes for [Aspose.Slides for C++ 25.4](https://www.nu
 | :- | :- | :- | :- |
 |SLIDESCPP-3982|Extract multi column text from text frame|Enhancement||
 |SLIDESCPP-3996|Quality of thumbnails is very poor when converting shapes to images|Enhancement||
+|SLIDESCPP-4010|Extracting adjustment points of a shape|Investigation||
 
 ## Other Improvements and Changes
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
 |SLIDESCPP-4018|Use Aspose.Slides for .NET 25.4 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2025/aspose-slides-for-net-25-4-release-notes/>|
+|SLIDESCPP-3975|Text in EMF image is not wrapped when converting a presentation to PDF|Bug||
 
 ## Public API Changes
 
