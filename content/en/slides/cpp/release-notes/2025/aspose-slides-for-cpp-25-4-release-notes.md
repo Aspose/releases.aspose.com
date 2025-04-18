@@ -24,7 +24,7 @@ This page contains release notes for [Aspose.Slides for C++ 25.4](https://www.nu
 ## New Features and Enhancements
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
-|SLIDESCPP-3983|Extracting captions from videos|Feature||
+|SLIDESCPP-3982|Extract multi column text from text frame|Enhancement||
 
 ## Other Improvements and Changes
 |**Key**|**Summary**|**Category**|**Related Documentation**|
