@@ -341,7 +341,7 @@ Following members have been removed:
             var writeStream = new MemoryStream();
             using (var layer = VectorLayer.Create(AbstractPath.FromStream(writeStream), Drivers.GeoJson, options))
             {
-                // The old version needed to make somthing like this, but now AutoIds work as expected  
+                // The old version needed to make something like this, but now AutoIds work as expected  
                 // layer.Attributes.Add(new FeatureAttribute("id", AttributeDataType.Integer));
                 {
                     var f = layer.ConstructFeature();
@@ -415,6 +415,7 @@ using (var dataset = Dataset.Create(outputPath, Drivers.FileGdb))
         layer.Add(feature);
     }
 }
+
 using (var dataset = Dataset.Open(outputPath, Drivers.FileGdb))
 {
     Assert.AreEqual(2, dataset.LayersCount);
