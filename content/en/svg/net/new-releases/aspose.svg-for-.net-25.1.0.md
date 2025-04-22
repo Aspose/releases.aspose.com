@@ -93,7 +93,7 @@ Aspose.SVG for .NET 25.1 brings compressed SVGZ output support, rendering and te
 
 ---
 
-[`aspose.svg`](https://search.groupdocs.com/q/aspose.svg.html) | [`svgz compression`](https://search.groupdocs.com/q/svgz-compression.html) | [`image antialiasing`](https://search.groupdocs.com/q/image-antialiasing.html) | [`font hinting`](https://search.groupdocs.com/q/font-hinting.html) | [`webfontstyle`](https://search.groupdocs.com/q/webfontstyle.html) | [`svg builder`](https://search.groupdocs.com/q/svg-builder.html)
+[`aspose.svg`](https://search.aspose.com/q/aspose.svg.html) | [`svgz compression`](https://search.aspose.com/q/svgz-compression.html) | [`image antialiasing`](https://search.aspose.com/q/image-antialiasing.html) | [`font hinting`](https://search.aspose.com/q/font-hinting.html) | [`webfontstyle`](https://search.aspose.com/q/webfontstyle.html) | [`svg builder`](https://search.aspose.com/q/svg-builder.html)
 
 ---
 

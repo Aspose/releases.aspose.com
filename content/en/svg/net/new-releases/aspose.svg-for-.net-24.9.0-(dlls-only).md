@@ -98,7 +98,7 @@ The DLLs-only version of Aspose.SVG for .NET 24.9 offers lightweight deployment 
 
 ---
 
-[`aspose.svg`](https://search.groupdocs.com/q/aspose.svg.html) | [`dlls only`](https://search.groupdocs.com/q/dlls-only.html) | [`svg drawing`](https://search.groupdocs.com/q/svg-drawing.html) | [`pdf rendering`](https://search.groupdocs.com/q/pdf-rendering.html) | [`webp support`](https://search.groupdocs.com/q/webp-support.html) | [`gradient brush`](https://search.groupdocs.com/q/gradient-brush.html)
+[`aspose.svg`](https://search.aspose.com/q/aspose.svg.html) | [`dlls only`](https://search.aspose.com/q/dlls-only.html) | [`svg drawing`](https://search.aspose.com/q/svg-drawing.html) | [`pdf rendering`](https://search.aspose.com/q/pdf-rendering.html) | [`webp support`](https://search.aspose.com/q/webp-support.html) | [`gradient brush`](https://search.aspose.com/q/gradient-brush.html)
 
 ---
 

@@ -69,7 +69,7 @@ The DLLs-only edition of Aspose.SVG for .NET 24.10 offers a lightweight package 
 
 ---
 
-[`aspose.svg`](https://search.groupdocs.com/q/aspose.svg.html) | [`dlls only`](https://search.groupdocs.com/q/dlls-only.html) | [`html rendering`](https://search.groupdocs.com/q/html-rendering.html) | [`caching mechanism`](https://search.groupdocs.com/q/caching-mechanism.html) | [`system.drawing deprecation`](https://search.groupdocs.com/q/system.drawing-deprecation.html)
+[`aspose.svg`](https://search.aspose.com/q/aspose.svg.html) | [`dlls only`](https://search.aspose.com/q/dlls-only.html) | [`html rendering`](https://search.aspose.com/q/html-rendering.html) | [`caching mechanism`](https://search.aspose.com/q/caching-mechanism.html) | [`system.drawing deprecation`](https://search.aspose.com/q/system.drawing-deprecation.html)
 
 ---
 

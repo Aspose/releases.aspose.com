@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.finance-for-.net-24.10(dlls-only)"
-description: " "
+title: "Inline XBRL Header Validation | DLLs-Only .NET 24.10"
+description: "Use Aspose.Finance for .NET 24.10 DLLs to validate Inline XBRL supplementary references without installer overhead in .NET workflows."
 keywords: ""
 page_type: single_release_page
 folder_link: "/finance/net/new-releases/aspose.finance-for-.net-24.10(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 30/10/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 8.21MB"
 parent_path: "finance/net"
 section_parent_path: "finance/net"
-
 tags: "Aspose.Finance for .NET 24.10 dlls release"
 release_notes_url: "https://releases.aspose.com/finance/net/release-notes/2024/aspose-finance-for-net-24-10-release-notes/"
 weight: 84
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,26 @@ weight: 84
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.Finance for .NET 24.10 dlls release</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights  
+Aspose.Finance for .NET 24.10 (DLLs-only) introduces header-level validation for supplementary references in Inline XBRL. Ideal for CI/CD pipelines, this update ensures your finance reporting apps maintain high compliance standards.
+
+### ✳️ New Feature  
+- **Inline XBRL Supplementary References Validation**  
+  Enables validation for the supplementary references attribute in Inline XBRL, enhancing the accuracy and completeness of financial disclosures.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Finance for .NET 24.10 Release Notes](https://releases.aspose.com/finance/net/release-notes/2024/aspose-finance-for-net-24-10-release-notes/)
+
+---
+
+[`aspose.finance`](https://search.aspose.com/q/aspose.finance.html) | [`dlls only`](https://search.aspose.com/q/dlls-only.html) | [`xbrl tag validation`](https://search.aspose.com/q/xbrl-tag-validation.html) | [`inline xbrl processing`](https://search.aspose.com/q/inline-xbrl-processing.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

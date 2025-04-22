@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.words-for-.net-24.11-(dlls-only)"
-description: " "
+title: "Aspose.Words for .NET 24.11 DLLs – AI Summarization & Chart APIs"
+description: "Get Aspose.Words for .NET 24.11 DLLs with OpenAI/Google summarization, chart format codes, ActiveX captions, and enhanced PDF controls."
 keywords: ""
 page_type: single_release_page
 folder_link: "/words/net/new-releases/aspose.words-for-.net-24.11-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 11/11/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 136.83MB"
 parent_path: "words/net"
 section_parent_path: "words/net"
-
 tags: "docx to pdf convert compare create edit word split bmp rtf odt open office html tiff doc dot wordml mobi chm txt md markdown xps svg ps eps postscript pcl epub azw3 png emf jpg gif webp xlsx mail merge table reporting document"
 release_notes_url: "https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-11-release-notes/"
 weight: 759
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,47 @@ weight: 759
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains the Aspose.Words for .NET and .NET Standard 2.0 assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.Words without the MSI installer, for example because you cannot run MSI installers on Mono.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Words for .NET 24.11 (DLLs-only) delivers OpenAI/Google text summarization, chart format customization, extended document property access, and enhancements in form rendering and ActiveX control APIs.
+
+### ✳️ New Features
+
+- **OpenAI & Google Text Summarization**  
+  Summarize single or multiple documents using AI models with `SummarizeOptions`.
+
+- **Format Code for Charts**  
+  Assign advanced formatting like currency, date, or scientific notations to chart values.
+
+- **Document Property Access**  
+  Read properties like `ScaleCrop`, `SharedDocument`, and `HyperlinksChanged` for deeper insights.
+
+- **ActiveX Control Enhancements**  
+  Set custom captions for `Forms2OleControl` elements.
+
+- **PDF Form Control Bordering**  
+  Use `PdfSaveOptions.RenderChoiceFormFieldBorder` to toggle visual borders.
+
+### 🛠 Public API Changes
+
+- Added `FormatCode` to chart data collections.
+- Introduced AI-related types: `AiModel`, `IAiModelText`, `SummarizeOptions`, `SummaryLength`.
+- New control over revision cell highlight colors via `RevisionOptions`.
+- Improved Markdown and chart export options.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Words for .NET 24.11 Release Notes](https://releases.aspose.com/words/net/release-notes/2024/aspose-words-for-net-24-11-release-notes/)
+
+---
+
+[`aspose.words`](https://search.aspose.com/q/aspose.words.html) | [`dlls only`](https://search.aspose.com/q/dlls-only.html) | [`document summarization`](https://search.aspose.com/q/document-summarization.html) | [`chart data formatting`](https://search.aspose.com/q/chart-data-formatting.html) | [`pdf rendering`](https://search.aspose.com/q/pdf-rendering.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

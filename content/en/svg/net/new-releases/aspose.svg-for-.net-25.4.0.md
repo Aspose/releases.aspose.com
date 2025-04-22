@@ -69,7 +69,7 @@ Aspose.SVG for .NET 25.4.0 introduces the ability to load GZIP-compressed `.svgz
 
 ---
 
-[`aspose.svg`](https://search.groupdocs.com/q/aspose.svg.html) | [`load svgz file`](https://search.groupdocs.com/q/load-svgz-file.html) | [`svgz document`](https://search.groupdocs.com/q/svgz-document.html) | [`svg compression`](https://search.groupdocs.com/q/svg-compression.html) | [`svgz support`](https://search.groupdocs.com/q/svgz-support.html)
+[`aspose.svg`](https://search.aspose.com/q/aspose.svg.html) | [`load svgz file`](https://search.aspose.com/q/load-svgz-file.html) | [`svgz document`](https://search.aspose.com/q/svgz-document.html) | [`svg compression`](https://search.aspose.com/q/svg-compression.html) | [`svgz support`](https://search.aspose.com/q/svgz-support.html)
 
 ---
 

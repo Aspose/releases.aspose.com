@@ -73,7 +73,7 @@ Aspose.SVG for .NET 24.12 delivers a significant memory usage reduction when ren
 
 ---
 
-[`aspose.svg`](https://search.groupdocs.com/q/aspose.svg.html) | [`svg rendering`](https://search.groupdocs.com/q/svg-rendering.html) | [`skia sharp`](https://search.groupdocs.com/q/skia-sharp.html) | [`pdf conversion`](https://search.groupdocs.com/q/pdf-conversion.html) | [`xps rendering`](https://search.groupdocs.com/q/xps-rendering.html) | [`system.drawing.common`](https://search.groupdocs.com/q/system.drawing.common.html)
+[`aspose.svg`](https://search.aspose.com/q/aspose.svg.html) | [`svg rendering`](https://search.aspose.com/q/svg-rendering.html) | [`skia sharp`](https://search.aspose.com/q/skia-sharp.html) | [`pdf conversion`](https://search.aspose.com/q/pdf-conversion.html) | [`xps rendering`](https://search.aspose.com/q/xps-rendering.html) | [`system.drawing.common`](https://search.aspose.com/q/system.drawing.common.html)
 
 ---
 

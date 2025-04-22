@@ -69,7 +69,7 @@ The DLLs-only distribution of Aspose.SVG for .NET 25.4.0 enhances your toolkit w
 
 ---
 
-[`svgz loading`](https://search.groupdocs.com/q/svgz-loading.html) | [`svgz support in .net`](https://search.groupdocs.com/q/svgz-support-in-.net.html) | [`gzip svg`](https://search.groupdocs.com/q/gzip-svg.html) | [`svg compression .net`](https://search.groupdocs.com/q/svg-compression-.net.html)
+[`svgz loading`](https://search.aspose.com/q/svgz-loading.html) | [`svgz support in .net`](https://search.aspose.com/q/svgz-support-in-.net.html) | [`gzip svg`](https://search.aspose.com/q/gzip-svg.html) | [`svg compression .net`](https://search.aspose.com/q/svg-compression-.net.html)
 
 ---
 

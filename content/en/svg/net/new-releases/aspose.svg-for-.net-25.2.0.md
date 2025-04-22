@@ -84,7 +84,7 @@ Aspose.SVG for .NET 25.2 introduces a new `IBitmap` interface for high-performan
 
 ---
 
-[`aspose.svg`](https://search.groupdocs.com/q/aspose.svg.html) | [`bitmap rendering`](https://search.groupdocs.com/q/bitmap-rendering.html) | [`webrotatefliptype`](https://search.groupdocs.com/q/webrotatefliptype.html) | [`image antialiasing`](https://search.groupdocs.com/q/image-antialiasing.html) | [`font hinting`](https://search.groupdocs.com/q/font-hinting.html) | [`system.drawing.common alternative`](https://search.groupdocs.com/q/system.drawing.common-alternative.html)
+[`aspose.svg`](https://search.aspose.com/q/aspose.svg.html) | [`bitmap rendering`](https://search.aspose.com/q/bitmap-rendering.html) | [`webrotatefliptype`](https://search.aspose.com/q/webrotatefliptype.html) | [`image antialiasing`](https://search.aspose.com/q/image-antialiasing.html) | [`font hinting`](https://search.aspose.com/q/font-hinting.html) | [`system.drawing.common alternative`](https://search.aspose.com/q/system.drawing.common-alternative.html)
 
 ---
 

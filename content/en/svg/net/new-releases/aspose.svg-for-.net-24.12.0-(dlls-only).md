@@ -73,7 +73,7 @@ Aspose.SVG for .NET 24.12 (DLLs-only) introduces advanced rendering enhancements
 
 ---
 
-[`aspose.svg`](https://search.groupdocs.com/q/aspose.svg.html) | [`dlls-only`](https://search.groupdocs.com/q/dlls-only.html) | [`svg rendering`](https://search.groupdocs.com/q/svg-rendering.html) | [`skia sharp`](https://search.groupdocs.com/q/skia-sharp.html) | [`svg to pdf`](https://search.groupdocs.com/q/svg-to-pdf.html) | [`svg to xps`](https://search.groupdocs.com/q/svg-to-xps.html)
+[`aspose.svg`](https://search.aspose.com/q/aspose.svg.html) | [`dlls-only`](https://search.aspose.com/q/dlls-only.html) | [`svg rendering`](https://search.aspose.com/q/svg-rendering.html) | [`skia sharp`](https://search.aspose.com/q/skia-sharp.html) | [`svg to pdf`](https://search.aspose.com/q/svg-to-pdf.html) | [`svg to xps`](https://search.aspose.com/q/svg-to-xps.html)
 
 ---
 

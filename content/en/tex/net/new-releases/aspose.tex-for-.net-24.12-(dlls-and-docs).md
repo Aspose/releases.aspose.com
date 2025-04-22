@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.tex-for-.net-24.12-(dlls-and-docs)"
-description: " "
+title: "Aspose.TeX for .NET 24.12 DLLs | Clean API, No Legacy Code"
+description: "The DLLs-only release of Aspose.TeX 24.12 removes deprecated rendering methods for PDF, SVG, XPS, and raster output. Ideal for clean .NET builds."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tex/net/new-releases/aspose.tex-for-.net-24.12-(dlls-and-docs)/"
@@ -14,11 +13,9 @@ download_count: " 13/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 48.84MB"
 parent_path: "tex/net"
 section_parent_path: "tex/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/tex/net/release-notes/2024/aspose-tex-for-net-24-12-release-notes/"
 weight: 59
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,34 @@ weight: 59
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.TeX for .NET 24.12 (DLLs and docs) release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+This DLLs-only version of Aspose.TeX for .NET 24.12 introduces a refined API surface by removing legacy rendering methods and interfaces. It's tailored for modern CI/CD pipelines and containerized .NET apps.
+
+### 🛠 Fix
+
+- **Removed Legacy Methods from DLLs**  
+  Optimized binary payload by excluding methods such as `Create`, `DrawPath`, `SetTransform`, and `ShowImage` from all device types.
+
+### 🔄 Backwards Incompatible Changes
+
+Same list of removals as MSI applies. If you're using:
+- `StartDocument`, `EndPage`, or `AddBookmark` in any custom rendering integration,
+you'll need to adapt to the revised architecture.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.TeX for .NET 24.12 Release Notes](https://releases.aspose.com/tex/net/release-notes/2024/aspose-tex-for-net-24-12-release-notes/)
+
+---
+
+[`aspose.tex`](https://search.aspose.com/q/aspose.tex.html) | [`dlls only`](https://search.aspose.com/q/dlls-only.html) | [`api deprecation`](https://search.aspose.com/q/api-deprecation.html) | [`tex engine`](https://search.aspose.com/q/tex-engine.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

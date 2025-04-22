@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.finance-for-.net-24.10"
-description: " "
+title: "Validate Supplementary XBRL References | .NET 24.10"
+description: "Aspose.Finance for .NET 24.10 improves Inline XBRL validation by checking supplementary references attribute. Ideal for .NET finance reporting."
 keywords: ""
 page_type: single_release_page
 folder_link: "/finance/net/new-releases/aspose.finance-for-.net-24.10/"
@@ -14,11 +13,9 @@ download_count: " 30/10/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 7.33MB"
 parent_path: "finance/net"
 section_parent_path: "finance/net"
-
 tags: "Aspose.Finance for .NET 24.10"
 release_notes_url: "https://releases.aspose.com/finance/net/release-notes/2024/aspose-finance-for-net-24-10-release-notes/"
 weight: 85
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,26 @@ weight: 85
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.Finance for .NET 24.10</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights  
+Aspose.Finance for .NET 24.10 (MSI) enhances Inline XBRL validation by supporting checks on supplementary references attributes, a critical update for regulatory and compliance-based financial reporting systems.
+
+### ✳️ New Feature  
+- **Supplementary References Attribute Validation**  
+  Added validation logic for supplementary references in Inline XBRL headers, enabling developers to ensure better data accuracy and compliance.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Finance for .NET 24.10 Release Notes](https://releases.aspose.com/finance/net/release-notes/2024/aspose-finance-for-net-24-10-release-notes/)
+
+---
+
+[`aspose.finance`](https://search.aspose.com/q/aspose.finance.html) | [`inline xbrl`](https://search.aspose.com/q/inline-xbrl.html) | [`xbrl validation`](https://search.aspose.com/q/xbrl-validation.html) | [`supplementary references`](https://search.aspose.com/q/supplementary-references.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -79,7 +79,7 @@ Aspose.SVG for .NET 25.2 (DLLs-only) is a lightweight release tailored for custo
 
 ---
 
-[`ibitmap`](https://search.groupdocs.com/q/ibitmap.html) | [`svg rendering quality`](https://search.groupdocs.com/q/svg-rendering-quality.html) | [`svg image transformation`](https://search.groupdocs.com/q/svg-image-transformation.html) | [`svg flip rotate`](https://search.groupdocs.com/q/svg-flip-rotate.html)
+[`ibitmap`](https://search.aspose.com/q/ibitmap.html) | [`svg rendering quality`](https://search.aspose.com/q/svg-rendering-quality.html) | [`svg image transformation`](https://search.aspose.com/q/svg-image-transformation.html) | [`svg flip rotate`](https://search.aspose.com/q/svg-flip-rotate.html)
 
 ---
 

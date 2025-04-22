@@ -78,7 +78,7 @@ Aspose.SVG for .NET 25.1 (DLLs-only) unlocks SVGZ export, rendering option refin
 
 ---
 
-[`svg compression`](https://search.groupdocs.com/q/svg-compression.html) | [`svgz export`](https://search.groupdocs.com/q/svgz-export.html) | [`svg rendering options`](https://search.groupdocs.com/q/svg-rendering-options.html) | [`compressed svg for .net`](https://search.groupdocs.com/q/compressed-svg-for-.net.html) | [`aspose.svg`](https://search.groupdocs.com/q/aspose.svg.html)
+[`svg compression`](https://search.aspose.com/q/svg-compression.html) | [`svgz export`](https://search.aspose.com/q/svgz-export.html) | [`svg rendering options`](https://search.aspose.com/q/svg-rendering-options.html) | [`compressed svg for .net`](https://search.aspose.com/q/compressed-svg-for-.net.html) | [`aspose.svg`](https://search.aspose.com/q/aspose.svg.html)
 
 ---
 

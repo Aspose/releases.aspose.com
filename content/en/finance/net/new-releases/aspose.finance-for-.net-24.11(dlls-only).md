@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.finance-for-.net-24.11(dlls-only)"
-description: " "
+title: "DLLs-Only: Inline XBRL Header Validation in .NET 24.9"
+description: "Use the lightweight Aspose.Finance for .NET 24.9 DLLs-only release for improved Inline XBRL header validation and streamlined financial data parsing."
 keywords: ""
 page_type: single_release_page
 folder_link: "/finance/net/new-releases/aspose.finance-for-.net-24.11(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 29/11/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 8.21MB"
 parent_path: "finance/net"
 section_parent_path: "finance/net"
-
 tags: "Aspose.Finance for .NET 24.11 dlls release"
 release_notes_url: "https://releases.aspose.com/finance/net/release-notes/2024/aspose-finance-for-net-24-11-release-notes/"
 weight: 86
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,28 @@ weight: 86
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.Finance for .NET 24.11 dlls release</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Finance for .NET 24.9 (DLLs-only) focuses on accurate validation of header elements in Inline XBRL for reliable financial data parsing.
+
+### 🛠 Fix
+
+- **Enhanced Header Validation for Inline XBRL Documents**  
+  Optimized the detection and validation logic of Inline XBRL headers to increase compliance and parsing accuracy.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Finance for .NET 24.9 Release Notes](https://releases.aspose.com/finance/net/release-notes/2024/aspose-finance-for-net-24-9-release-notes/)
+
+---
+
+[`aspose.finance`](https://search.aspose.com/q/aspose.finance.html) | [`xbrl parser`](https://search.aspose.com/q/xbrl-parser.html) | [`dlls only`](https://search.aspose.com/q/dlls-only.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

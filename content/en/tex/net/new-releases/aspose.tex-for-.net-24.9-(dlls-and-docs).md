@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.tex-for-.net-24.9-(dlls-and-docs)"
-description: " "
+title: "Aspose.TeX for .NET 24.9 (DLLs-Only) Released"
+description: "Use Aspose.TeX for .NET 24.9 DLLs to integrate TeX rendering in .NET apps with minimal dependencies and maximum control."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tex/net/new-releases/aspose.tex-for-.net-24.9-(dlls-and-docs)/"
@@ -14,11 +13,9 @@ download_count: " 5/9/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 48.36MB"
 parent_path: "tex/net"
 section_parent_path: "tex/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/tex/net/release-notes/2024/aspose-tex-for-net-24-9-release-notes/"
 weight: 55
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,31 @@ weight: 55
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.TeX for .NET 24.9 (DLLs and docs) release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.TeX for .NET 24.9 (DLLs-only) delivers the latest TeX engine updates, enabling document rendering scenarios without installer overhead. Ideal for CI/CD and custom deployment pipelines.
+
+### ✳️ New Feature
+
+- Updated TeX engine internals to improve compatibility and execution within the DLLs-only build.
+
+### 🛠 Fix
+
+- No explicit issues were fixed in this release.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.TeX for .NET 24.9 Release Notes](https://releases.aspose.com/tex/net/release-notes/2024/aspose-tex-for-net-24-9-release-notes/)
+
+---
+
+[`aspose.tex`](https://search.aspose.com/q/aspose.tex.html) | [`dlls only`](https://search.aspose.com/q/dlls-only.html) | [`latex engine`](https://search.aspose.com/q/latex-engine.html) | [`document rendering`](https://search.aspose.com/q/document-rendering.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

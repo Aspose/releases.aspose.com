@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.words-for-.net-25.3"
-description: " "
+title: "Aspose.Words for .NET 25.3 MSI – AI Grammar, PDF Embeds"
+description: "Download MSI for Aspose.Words for .NET 25.3 featuring AI grammar checker, better PDF attachments, and new font fallback logic."
 keywords: ""
 page_type: single_release_page
 folder_link: "/words/net/new-releases/aspose.words-for-.net-25.3/"
@@ -14,11 +13,9 @@ download_count: " 6/3/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 154.66MB"
 parent_path: "words/net"
 section_parent_path: "words/net"
-
 tags: "docx to pdf convert compare create edit word split bmp rtf odt open office html tiff doc dot wordml mobi chm txt md markdown xps svg ps postscript pcl epub png emf jpg gif mail merge table reporting document"
 release_notes_url: "https://releases.aspose.com/words/net/release-notes/2025/aspose-words-for-net-25-3-release-notes/"
 weight: 768
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,41 @@ weight: 768
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It includes the MSI installer for Aspose.Words for .NET version 25.3.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Words for .NET 25.3 (MSI) delivers enhanced document export and smarter AI capabilities, including attachment control for PDF and improved grammar detection.
+
+### ✳️ New Features
+
+- **AI Grammar Checker**  
+  Introduced grammar checking using AI models for stylistic and grammatical improvements.
+
+- **Enhanced PDF Export Options**  
+  New `AttachmentsEmbeddingMode` enables fine-grained control of embedded content in PDF/A and PDF/UA outputs.
+
+- **Advanced Font Resolution**  
+  `UpdateAmbiguousTextFont` ensures fonts adjust correctly for ambiguous Unicode characters during export.
+
+### 🛠 Public API Changes
+
+- Added: `PdfSaveOptions.AttachmentsEmbeddingMode`  
+- Deprecated: `PdfSaveOptions.EmbedAttachments`  
+- Added: `SaveOptions.UpdateAmbiguousTextFont`  
+- New Enum Values: `PdfA3a`, `PdfA3u`, `PdfA4f` for compliant PDF export  
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Words for .NET 25.3 Release Notes](https://releases.aspose.com/words/net/release-notes/2025/aspose-words-for-net-25-3-release-notes/)
+
+---
+
+[`aspose.words`](https://search.aspose.com/q/aspose.words.html) | [`ai grammar checker`](https://search.aspose.com/q/ai-grammar-checker.html) | [`pdf attachments`](https://search.aspose.com/q/pdf-attachments.html) | [`updateambiguoustextfont`](https://search.aspose.com/q/updateambiguoustextfont.html) | [`pdfa4f`](https://search.aspose.com/q/pdfa4f.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

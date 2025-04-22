@@ -67,7 +67,7 @@ Aspose.SVG for .NET 24.11 delivers performance-focused improvements for SVG deve
 
 > ❗ Planned deprecation of `System.Drawing.Common`-based APIs has been **postponed to v24.12**, giving developers more time to migrate to cross-platform alternatives.
 
-[`aspose.svg`](https://search.groupdocs.com/q/aspose.svg.html) | [`svg dom optimization`](https://search.groupdocs.com/q/svg-dom-optimization.html) | [`external html rendering`](https://search.groupdocs.com/q/external-html-rendering.html) | [`memory efficient svg`](https://search.groupdocs.com/q/memory-efficient-svg.html) | [`system.drawing.common deprecation`](https://search.groupdocs.com/q/system.drawing.common-deprecation.html)
+[`aspose.svg`](https://search.aspose.com/q/aspose.svg.html) | [`svg dom optimization`](https://search.aspose.com/q/svg-dom-optimization.html) | [`external html rendering`](https://search.aspose.com/q/external-html-rendering.html) | [`memory efficient svg`](https://search.aspose.com/q/memory-efficient-svg.html) | [`system.drawing.common deprecation`](https://search.aspose.com/q/system.drawing.common-deprecation.html)
 
 #### 👉 You can view the full list of updates by visiting [Aspose.SVG for .NET 24.11 Release Notes](https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-11-release-notes/).
 
@@ -105,7 +105,7 @@ This DLLs-only version of Aspose.SVG for .NET 24.11 emphasizes lightweight perfo
 
 ---
 
-[`aspose.svg`](https://search.groupdocs.com/q/aspose.svg.html) | [`dlls-only`](https://search.groupdocs.com/q/dlls-only.html) | [`svg memory optimization`](https://search.groupdocs.com/q/svg-memory-optimization.html) | [`html rendering optimization`](https://search.groupdocs.com/q/html-rendering-optimization.html) | [`cross-platform .net svg`](https://search.groupdocs.com/q/cross-platform-.net-svg.html)
+[`aspose.svg`](https://search.aspose.com/q/aspose.svg.html) | [`dlls-only`](https://search.aspose.com/q/dlls-only.html) | [`svg memory optimization`](https://search.aspose.com/q/svg-memory-optimization.html) | [`html rendering optimization`](https://search.aspose.com/q/html-rendering-optimization.html) | [`cross-platform .net svg`](https://search.aspose.com/q/cross-platform-.net-svg.html)
 
 ---
 

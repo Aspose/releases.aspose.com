@@ -71,7 +71,7 @@ Aspose.SVG for .NET 24.11 delivers performance-focused improvements for SVG deve
 
 ---
 
-[`aspose.svg`](https://search.groupdocs.com/q/aspose.svg.html) | [`svg dom optimization`](https://search.groupdocs.com/q/svg-dom-optimization.html) | [`external html rendering`](https://search.groupdocs.com/q/external-html-rendering.html) | [`memory efficient svg`](https://search.groupdocs.com/q/memory-efficient-svg.html) | [`system.drawing.common deprecation`](https://search.groupdocs.com/q/system.drawing.common-deprecation.html)
+[`aspose.svg`](https://search.aspose.com/q/aspose.svg.html) | [`svg dom optimization`](https://search.aspose.com/q/svg-dom-optimization.html) | [`external html rendering`](https://search.aspose.com/q/external-html-rendering.html) | [`memory efficient svg`](https://search.aspose.com/q/memory-efficient-svg.html) | [`system.drawing.common deprecation`](https://search.aspose.com/q/system.drawing.common-deprecation.html)
 
 ---
 

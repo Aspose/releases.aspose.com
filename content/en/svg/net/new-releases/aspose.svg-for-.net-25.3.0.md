@@ -75,7 +75,7 @@ No public API changes were listed in this release.
 
 ---
 
-[`aspose.svg`](https://search.groupdocs.com/q/aspose.svg.html) | [`svg transform-origin`](https://search.groupdocs.com/q/svg-transform-origin.html) | [`svg rendering`](https://search.groupdocs.com/q/svg-rendering.html) | [`svg precision`](https://search.groupdocs.com/q/svg-precision.html) | [`svg transformation`](https://search.groupdocs.com/q/svg-transformation.html)
+[`aspose.svg`](https://search.aspose.com/q/aspose.svg.html) | [`svg transform-origin`](https://search.aspose.com/q/svg-transform-origin.html) | [`svg rendering`](https://search.aspose.com/q/svg-rendering.html) | [`svg precision`](https://search.aspose.com/q/svg-precision.html) | [`svg transformation`](https://search.aspose.com/q/svg-transformation.html)
 
 ---
 

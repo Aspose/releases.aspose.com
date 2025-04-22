@@ -70,7 +70,7 @@ Aspose.SVG for .NET 24.10 introduces a performance-centric update focused on opt
 
 ---
 
-[`aspose.svg`](https://search.groupdocs.com/q/aspose.svg.html) | [`html rendering`](https://search.groupdocs.com/q/html-rendering.html) | [`external html`](https://search.groupdocs.com/q/external-html.html) | [`memory optimization`](https://search.groupdocs.com/q/memory-optimization.html) | [`svg for net`](https://search.groupdocs.com/q/svg-for-net.html)
+[`aspose.svg`](https://search.aspose.com/q/aspose.svg.html) | [`html rendering`](https://search.aspose.com/q/html-rendering.html) | [`external html`](https://search.aspose.com/q/external-html.html) | [`memory optimization`](https://search.aspose.com/q/memory-optimization.html) | [`svg for net`](https://search.aspose.com/q/svg-for-net.html)
 
 ---
 

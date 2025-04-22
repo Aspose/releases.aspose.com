@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.tex-for-.net-24.10-(dlls-and-docs)"
-description: " "
+title: "TeXEngine LineBreak Fix – Aspose.TeX for .NET 24.10 DLLs"
+description: "Aspose.TeX for .NET 24.10 DLLs-only improves paragraph layout with a fix to the LineBreak method in TeXEngine. No installer required."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tex/net/new-releases/aspose.tex-for-.net-24.10-(dlls-and-docs)/"
@@ -14,11 +13,9 @@ download_count: " 17/10/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 48.36MB"
 parent_path: "tex/net"
 section_parent_path: "tex/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/tex/net/release-notes/2024/aspose-tex-for-net-24-10-release-notes/"
 weight: 58
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,28 @@ weight: 58
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.TeX for .NET 24.10 (DLLs and docs) release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.TeX for .NET 24.10 (DLLs-only) addresses a specific issue in the TeX engine line breaking logic. This release ensures more predictable output for LaTeX document rendering workflows.
+
+### 🛠 Fix
+
+- **TeXEngine.LineBreak Argument Order Corrected**  
+  Resolved a bug in the argument order of method calls inside the `LineBreak` function of `TeXEngine`, improving layout behavior.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.TeX for .NET 24.10 Release Notes](https://releases.aspose.com/tex/net/release-notes/2024/aspose-tex-for-net-24-10-release-notes/)
+
+---
+
+[`aspose.tex`](https://search.aspose.com/q/aspose.tex.html) | [`texengine`](https://search.aspose.com/q/texengine.html) | [`linebreak`](https://search.aspose.com/q/linebreak.html) | [`latex document rendering`](https://search.aspose.com/q/latex-document-rendering.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

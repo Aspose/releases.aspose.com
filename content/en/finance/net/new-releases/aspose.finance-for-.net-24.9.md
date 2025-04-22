@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.finance-for-.net-24.9"
-description: " "
+title: "Enhanced Inline XBRL Validation | Aspose.Finance 24.9"
+description: "Discover improved validation of header elements in Inline XBRL with Aspose.Finance for .NET 24.9. Ideal for developers handling financial reporting."
 keywords: ""
 page_type: single_release_page
 folder_link: "/finance/net/new-releases/aspose.finance-for-.net-24.9/"
@@ -14,11 +13,9 @@ download_count: " 28/9/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 7.33MB"
 parent_path: "finance/net"
 section_parent_path: "finance/net"
-
 tags: "Aspose.Finance for .NET 24.9"
 release_notes_url: "https://releases.aspose.com/finance/net/release-notes/2024/aspose-finance-for-net-24-9-release-notes/"
 weight: 83
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,28 @@ weight: 83
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.Finance for .NET 24.9</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Finance for .NET 24.9 MSI version introduces enhanced support for financial data validation. This update focuses on strengthening Inline XBRL compliance for accurate and efficient processing of structured financial reports.
+
+### 🛠 Fix
+
+- **Supplemental Validation of Header Elements in Inline XBRL**  
+  Improved accuracy of Inline XBRL parsing by validating key header elements. This ensures better conformance to XBRL standards during financial document analysis.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Finance for .NET 24.9 Release Notes](https://releases.aspose.com/finance/net/release-notes/2024/aspose-finance-for-net-24-9-release-notes/)
+
+---
+
+[`aspose.finance`](https://search.aspose.com/q/aspose.finance.html) | [`inline xbrl`](https://search.aspose.com/q/inline-xbrl.html) | [`xbrl header validation`](https://search.aspose.com/q/xbrl-header-validation.html) | [`financial data api`](https://search.aspose.com/q/financial-data-api.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

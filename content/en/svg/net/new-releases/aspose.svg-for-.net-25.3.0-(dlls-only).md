@@ -75,7 +75,7 @@ Aspose.SVG for .NET 25.3.0 (DLLs-only) empowers developers building modular .NET
 
 ---
 
-[`svg rendering precision`](https://search.groupdocs.com/q/svg-rendering-precision.html) | [`transform origin`](https://search.groupdocs.com/q/transform-origin.html) | [`svg engine`](https://search.groupdocs.com/q/svg-engine.html) | [`aspose svg for net`](https://search.groupdocs.com/q/aspose-svg-for-net.html)
+[`svg rendering precision`](https://search.aspose.com/q/svg-rendering-precision.html) | [`transform origin`](https://search.aspose.com/q/transform-origin.html) | [`svg engine`](https://search.aspose.com/q/svg-engine.html) | [`aspose svg for net`](https://search.aspose.com/q/aspose-svg-for-net.html)
 
 ---
 
