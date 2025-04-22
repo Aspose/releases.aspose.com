@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.font-for-.net-24.12-(dlls-only)"
-description: " "
+title: "Aspose.Font for .NET 24.12 DLLs – CFF Name Editor"
+description: "Use Aspose.Font for .NET 24.12 DLLs to programmatically edit Compact Font Format (CFF) font name and style in your .NET applications."
 keywords: ""
 page_type: single_release_page
 folder_link: "/font/net/new-releases/aspose.font-for-.net-24.12-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 26/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 6.69MB"
 parent_path: "font/net"
 section_parent_path: "font/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/font/net/release-notes/2024/aspose-font-for-net-24-12-release-notes/"
 weight: 76
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,28 @@ weight: 76
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.Font for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.Font without the MSI installer, i.e. you cannot run MSI installers on Mono.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Font for .NET 24.12 (DLLs Only) delivers an enhancement that enables developers to programmatically update the name and style of Compact Font Format (CFF) fonts, streamlining font asset management in .NET environments.
+
+### ✳️ New Feature
+
+- **Update Name and Style of CFF Fonts**  
+  Developers can now alter the name and style details of Compact Font Format (CFF) fonts using the updated Aspose.Font API, simplifying dynamic font customization workflows.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Font for .NET 24.12 Release Notes](https://releases.aspose.com/font/net/release-notes/2024/aspose-font-for-net-24-12-release-notes/).
+
+---
+
+[`cff font customization`](https://search.aspose.com/q/cff-font-customization.html) | [`aspose.font`](https://search.aspose.com/q/aspose.font.html) | [`font style update`](https://search.aspose.com/q/font-style-update.html) | [`.net font tools`](https://search.aspose.com/q/.net-font-tools.html) | [`cff font name editing`](https://search.aspose.com/q/cff-font-name-editing.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

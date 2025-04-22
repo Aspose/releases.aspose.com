@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.drawing-for-.net-25.1-(dlls-only)"
-description: " "
+title: "Aspose.Drawing 25.1 DLLs – Optimized Bitmap Speed"
+description: "Use DLLs-only package of Aspose.Drawing for .NET 25.1 for faster image loading, saving, and rendering performance in C# apps."
 keywords: ""
 page_type: single_release_page
 folder_link: "/drawing/net/new-releases/aspose.drawing-for-.net-25.1-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 10/1/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 6.28MB"
 parent_path: "drawing/net"
 section_parent_path: "drawing/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/drawing/net/release-notes/2025/aspose-drawing-for-net-25-1-release-notes/"
 weight: 168
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,39 @@ weight: 168
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains Aspose.Drawing for .NET Framework 2.0 and .NET Standard 2.0</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Drawing for .NET 25.1 DLLs-only package empowers .NET developers with speed improvements in LockBits operations and bitmap save efficiency—ideal for lightweight deployment scenarios.
+
+### ✳️ New Feature
+
+- **4bpp LockBits Optimization**  
+  Improved bitmap data access and image manipulation via the `LockBits` method for indexed formats.
+
+### 🛠 Fix
+
+- **Optimized TIFF File Loading**  
+  Speeds up monochrome TIFF loading and reduces memory footprint.
+
+- **Indexed Bitmap Export Boost**  
+  Saves large indexed images faster across supported platforms.
+
+- **SetPixel Transparency Fix for 32bpp Images**  
+  Corrected behavior when setting pixels with alpha in `Format32bppArgb` format.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Drawing for .NET 25.1 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2025/aspose-drawing-for-net-25-1-release-notes/).
+
+---
+
+[`aspose.drawing`](https://search.aspose.com/q/aspose.drawing.html) | [`dlls-only`](https://search.aspose.com/q/dlls-only.html) | [`bitmap optimization`](https://search.aspose.com/q/bitmap-optimization.html) | [`setpixel fix`](https://search.aspose.com/q/setpixel-fix.html) | [`tiff rendering`](https://search.aspose.com/q/tiff-rendering.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

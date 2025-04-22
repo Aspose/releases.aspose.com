@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.font-for-.net-25.2"
-description: " "
+title: "Aspose.Font for .NET 25.2 MSI – CFF Index API Added"
+description: "Aspose.Font 25.2 for .NET (MSI) adds APIs for editing Name and String INDEX fields in Compact Font Format (CFF) fonts using .NET."
 keywords: ""
 page_type: single_release_page
 folder_link: "/font/net/new-releases/aspose.font-for-.net-25.2/"
@@ -14,11 +13,9 @@ download_count: " 28/2/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 7.03MB"
 parent_path: "font/net"
 section_parent_path: "font/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/font/net/release-notes/2025/aspose-font-for-net-25-2-release-notes/"
 weight: 83
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,46 @@ weight: 83
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Font for .NET 25.2 release</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Font for .NET 25.2 (MSI) introduces new APIs that empower .NET developers to programmatically manipulate Name and String INDEX data in Compact Font Format (CFF) fonts. This release provides finer control over font internals to support advanced typography and branding workflows.
+
+### ✳️ New Feature
+
+- **Manage CFF Name and String INDEX**  
+  You can now read, update, and remove records from CFF fonts using newly added `NameIndexDataProvider` and `StringIndexDataProvider`. These APIs simplify low-level font structure editing while offering precise byte-level access.
+
+### 🔹 Public API Changes
+
+- **New Additions**:
+  - `ICffIndexDataProvider` interface
+  - `NameIndexDataProvider` class
+  - `StringIndexDataProvider` class
+
+These APIs introduce methods for:
+  - Reading values from Name and String INDEX tables
+  - Adding or replacing entries by index
+  - Removing specific records
+  - Working with raw byte sequences for deeper control
+
+### 🚫 Backwards Incompatible Changes
+
+- **No breaking changes were introduced.**  
+  All enhancements are additive and do not modify existing APIs or behaviors, ensuring backward compatibility for existing projects.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Font for .NET 25.2 Release Notes](https://releases.aspose.com/font/net/release-notes/2025/aspose-font-for-net-25-2-release-notes/).
+
+---
+
+[`aspose.font`](https://search.aspose.com/q/aspose.font.html) | [`cff index update`](https://search.aspose.com/q/cff-index-update.html) | [`dotnet font api`](https://search.aspose.com/q/dotnet-font-api.html) | [`font metadata`](https://search.aspose.com/q/font-metadata.html) | [`nameindexdataprovider`](https://search.aspose.com/q/nameindexdataprovider.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.tex-for-.net-25.4-(dlls-and-docs)"
-description: " "
+title: "Aspose.TeX for .NET 25.4 DLLs – Updated Font Engine"
+description: "Discover Aspose.TeX 25.4 DLLs with integrated font enhancements and license updates for efficient .NET-based TeX rendering."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tex/net/new-releases/aspose.tex-for-.net-25.4-(dlls-and-docs)/"
@@ -14,11 +13,9 @@ download_count: " 11/4/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 48.93MB"
 parent_path: "tex/net"
 section_parent_path: "tex/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/tex/net/release-notes/2025/aspose-tex-for-net-25-4-release-notes/"
 weight: 63
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,31 @@ weight: 63
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.TeX for .NET 25.4 (DLLs and docs) release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.TeX for .NET 25.4 (DLLs + Docs) boosts developer control over TeX document layout and rendering. This update aligns with Aspose.Font 25.3 and supports streamlined metered license functionality.
+
+### ✳️ New Features
+
+- **Internal License Key Update**  
+  Ensures smooth evaluation experience for new users and CI/CD deployments by refreshing metered license handling.
+
+- **Enhanced Font Rendering with Latest Font Engine**  
+  Upgrades to Aspose.Font v25.3 offer more robust glyph rendering for diverse LaTeX document styles.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.TeX for .NET 25.4 Release Notes](https://releases.aspose.com/tex/net/release-notes/2025/aspose-tex-for-net-25-4-release-notes/).
+
+---
+
+[`tex processing`](https://search.aspose.com/q/tex-processing.html) | [`latex typesetter`](https://search.aspose.com/q/latex-typesetter.html) | [`tex api for .net`](https://search.aspose.com/q/tex-api-for-.net.html) | [`pdf output from tex`](https://search.aspose.com/q/pdf-output-from-tex.html) | [`font rendering library`](https://search.aspose.com/q/font-rendering-library.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

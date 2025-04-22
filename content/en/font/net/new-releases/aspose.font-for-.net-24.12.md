@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.font-for-.net-24.12"
-description: " "
+title: "Aspose.Font for .NET 24.12 MSI – CFF Font Editing"
+description: "Aspose.Font for .NET 24.12 lets developers modify CFF font name and style, adding flexibility in font metadata handling for .NET applications."
 keywords: ""
 page_type: single_release_page
 folder_link: "/font/net/new-releases/aspose.font-for-.net-24.12/"
@@ -14,11 +13,9 @@ download_count: " 26/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 6.98MB"
 parent_path: "font/net"
 section_parent_path: "font/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/font/net/release-notes/2024/aspose-font-for-net-24-12-release-notes/"
 weight: 77
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,28 @@ weight: 77
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Font for .NET 24.12 release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Font for .NET 24.12 (MSI) introduces the ability to update the name and style attributes of Compact Font Format (CFF) fonts, enabling greater customization and branding control for developers working with embedded font assets.
+
+### ✳️ New Feature
+
+- **CFF Font Name and Style Editing**  
+  Support has been added for modifying the name and style metadata of Compact Font Format (CFF) fonts, improving flexibility in font personalization and distribution.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Font for .NET 24.12 Release Notes](https://releases.aspose.com/font/net/release-notes/2024/aspose-font-for-net-24-12-release-notes/).
+
+---
+
+[`aspose.font`](https://search.aspose.com/q/aspose.font.html) | [`cff font editing`](https://search.aspose.com/q/cff-font-editing.html) | [`dotnet font api`](https://search.aspose.com/q/dotnet-font-api.html) | [`font metadata update`](https://search.aspose.com/q/font-metadata-update.html) | [`compact font format`](https://search.aspose.com/q/compact-font-format.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

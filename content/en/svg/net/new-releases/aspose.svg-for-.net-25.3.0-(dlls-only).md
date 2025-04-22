@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.svg-for-.net-25.3.0-(dlls-only)"
-description: " "
+title: "DLL-Only Release: Aspose.SVG 25.3 Adds Transform-Origin"
+description: "DLLs-only release of Aspose.SVG 25.3 brings refined SVG rendering and transform-origin support for more accurate .NET graphics transformations."
 keywords: ""
 page_type: single_release_page
 folder_link: "/svg/net/new-releases/aspose.svg-for-.net-25.3.0-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 9/3/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 3.93MB"
 parent_path: "svg/net"
 section_parent_path: "svg/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/svg/net/release-notes/2025/aspose-svg-for-net-25-3-release-notes/"
 weight: 176
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,46 @@ weight: 176
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.SVG for .NET 25.3.0 assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.SVG without the MSI installer, i.e. you cannot run MSI installers on Mono. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.SVG for .NET 25.3.0 (DLLs-only) empowers developers building modular .NET applications with refined rendering and enhanced transformation capabilities. The update focuses on precise transformation rendering using `transform-origin`, helping .NET developers deliver consistent, high-quality visuals.
+
+### ✳️ New Feature
+
+- **Introduced `transform-origin` Handling**  
+  Enables accurate control over where transformations are anchored, giving developers finer control in SVG document layout and effects.
+
+- **Rendering Quality Boost**  
+  Visual output across PDFs, raster formats, and XPS is now more accurate thanks to enhanced rendering logic.
+
+- **Improved Transformation Consistency**  
+  Core transformation calculations have been optimized for predictable cross-platform behavior.
+
+### 🛠 Fix
+
+- No specific bug fixes announced. The release focused on core enhancements.
+
+### 🔧 Public API Changes
+
+- No public APIs were added or modified in this DLLs-only distribution.
+
+### 🚨 Backwards Incompatible Changes
+
+> ✅ This version is backward-compatible with no API removals or breaking changes reported.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.SVG for .NET 25.3 Release Notes](https://releases.aspose.com/svg/net/release-notes/2025/aspose-svg-for-net-25-3-release-notes/).
+
+---
+
+[`svg rendering precision`](https://search.groupdocs.com/q/svg-rendering-precision.html) | [`transform origin`](https://search.groupdocs.com/q/transform-origin.html) | [`svg engine`](https://search.groupdocs.com/q/svg-engine.html) | [`aspose svg for net`](https://search.groupdocs.com/q/aspose-svg-for-net.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

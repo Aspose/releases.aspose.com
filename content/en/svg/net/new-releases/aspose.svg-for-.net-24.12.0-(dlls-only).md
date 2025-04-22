@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.svg-for-.net-24.12.0-(dlls-only)"
-description: " "
+title: "Aspose.SVG 24.12 DLLs – SkiaSharp + Memory Boost"
+description: "DLLs-only release of Aspose.SVG 24.12 reduces memory and updates SkiaSharp for faster rendering in .NET SVG projects."
 keywords: ""
 page_type: single_release_page
 folder_link: "/svg/net/new-releases/aspose.svg-for-.net-24.12.0-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 18/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 3.93MB"
 parent_path: "svg/net"
 section_parent_path: "svg/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-12-release-notes/"
 weight: 170
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,44 @@ weight: 170
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.SVG for .NET 24.12.0 assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.SVG without the MSI installer, i.e. you cannot run MSI installers on Mono. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.SVG for .NET 24.12 (DLLs-only) introduces advanced rendering enhancements with notable memory savings and a SkiaSharp engine upgrade, perfect for developers embedding efficient SVG processing into .NET apps.
+
+### ✳️ New Feature
+
+- **Optimized SVG-to-Output Pipelines**  
+  Conversion to PDF, XPS, and raster formats now uses up to 20% less memory when processing heavy SVGs.
+
+- **Updated SkiaSharp Graphics Engine**  
+  Integrated support for SkiaSharp 3.116.1 ensures better image handling and more reliable cross-platform rendering in custom drawing scenarios.
+
+### 🛠 Fix
+
+- **Text Layout & Image Handling Enhancements**  
+  Several fixes enhance the precision of text rendering and image placement within SVG workflows using the SkiaSharp backend.
+
+### 🔧 Public API Changes
+
+- No public API surface changes — this update focuses on internal enhancements only.
+
+### 🚨 Backwards Incompatible Changes
+
+> None in this version. However, upcoming changes to remove `System.Drawing.Common` dependencies are deferred to version 25.1.0.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.SVG for .NET 24.12 Release Notes](https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-12-release-notes/).
+
+---
+
+[`aspose.svg`](https://search.groupdocs.com/q/aspose.svg.html) | [`dlls-only`](https://search.groupdocs.com/q/dlls-only.html) | [`svg rendering`](https://search.groupdocs.com/q/svg-rendering.html) | [`skia sharp`](https://search.groupdocs.com/q/skia-sharp.html) | [`svg to pdf`](https://search.groupdocs.com/q/svg-to-pdf.html) | [`svg to xps`](https://search.groupdocs.com/q/svg-to-xps.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

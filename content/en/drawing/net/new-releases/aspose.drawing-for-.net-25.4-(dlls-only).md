@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.drawing-for-.net-25.4-(dlls-only)"
-description: " "
+title: "DLLs-Only: Drawing 25.4 Now Supports .NET 4.0"
+description: "Aspose.Drawing for .NET 25.4 DLLs-only release adds .NET 4.0 binary support and font style fixes."
 keywords: ""
 page_type: single_release_page
 folder_link: "/drawing/net/new-releases/aspose.drawing-for-.net-25.4-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 10/4/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 11.63MB"
 parent_path: "drawing/net"
 section_parent_path: "drawing/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/drawing/net/release-notes/2025/aspose-drawing-for-net-25-4-release-notes/"
 weight: 177
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,33 @@ weight: 177
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains Aspose.Drawing for .NET Framework 2.0/4.0 and .NET Standard 2.0</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+This DLLs-only edition of Aspose.Drawing for .NET 25.4 delivers dedicated .NET Framework v4.0 binaries and improved font customization stability—ideal for legacy migrations and graphics precision.
+
+### ✳️ New Feature
+
+- **Added Binaries for .NET Framework v4.0**  
+  Enables developers targeting legacy .NET environments to leverage the latest drawing features without compatibility concerns.
+
+### 🛠 Fix
+
+- **Fixed Font Style Mutation**  
+  Addressed an issue in font duplication logic that caused style inconsistencies when modifying existing fonts.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Drawing for .NET 25.4 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2025/aspose-drawing-for-net-25-4-release-notes/).
+
+---
+
+[`aspose.drawing`](https://search.aspose.com/q/aspose.drawing.html) | [`dlls-only`](https://search.aspose.com/q/dlls-only.html) | [`net framework 4`](https://search.aspose.com/q/net-framework-4.html) | [`legacy support`](https://search.aspose.com/q/legacy-support.html) | [`font style fix`](https://search.aspose.com/q/font-style-fix.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.font-for-.net-25.4-(dlls-only)"
-description: " "
+title: "Aspose.Font .NET 25.4 DLLs – Refined Codebase"
+description: "DLLs-only edition of Aspose.Font for .NET 25.4 resolves SonarQube-detected issues, improving runtime stability and maintainability."
 keywords: ""
 page_type: single_release_page
 folder_link: "/font/net/new-releases/aspose.font-for-.net-25.4-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 3/4/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 6.76MB"
 parent_path: "font/net"
 section_parent_path: "font/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/font/net/release-notes/2025/aspose-font-for-net-25-4-release-notes/"
 weight: 86
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,32 @@ weight: 86
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.Font for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.Font without the MSI installer, i.e. you cannot run MSI installers on Mono.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The DLLs-only variant of Aspose.Font for .NET 25.4 delivers essential internal enhancements with a focus on static code analysis improvements. This version is optimized for developers who prefer lightweight integration in their .NET font rendering or conversion systems.
+
+### ✳️ New Feature
+
+- **No new features added in this build.**
+
+### 🛠 Fix
+
+- **SonarQube Static Code Analysis Fixes**  
+  Cleaned up redundant code paths and potential defects flagged by SonarQube, increasing maintainability and developer trust in the library.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Font for .NET 25.4 Release Notes](https://releases.aspose.com/font/net/release-notes/2025/aspose-font-for-net-25-4-release-notes/).
+
+---
+
+[`aspose.font`](https://search.aspose.com/q/aspose.font.html) | [`dlls only`](https://search.aspose.com/q/dlls-only.html) | [`sonarqube code cleanup`](https://search.aspose.com/q/sonarqube-code-cleanup.html) | [`.net font library`](https://search.aspose.com/q/net-font-library.html) | [`static analysis fix`](https://search.aspose.com/q/static-analysis-fix.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

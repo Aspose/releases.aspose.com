@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.font-for-.net-24.11"
-description: " "
+title: "Aspose.Font for .NET 24.11 MSI – GASP Table Support"
+description: "Aspose.Font 24.11 for .NET adds gasp table support in TrueType font conversion, enhancing display scaling and rendering control."
 keywords: ""
 page_type: single_release_page
 folder_link: "/font/net/new-releases/aspose.font-for-.net-24.11/"
@@ -14,11 +13,9 @@ download_count: " 12/11/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 6.94MB"
 parent_path: "font/net"
 section_parent_path: "font/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/font/net/release-notes/2024/aspose-font-for-net-24-11-release-notes/"
 weight: 75
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,28 @@ weight: 75
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Font for .NET 24.11 release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Font for .NET 24.11 (MSI) enhances TrueType font conversion with support for the gasp table, ensuring better control over grid-fitting and scan-conversion rendering.
+
+### ✳️ New Feature
+
+- **GASP Table Support in TrueType Converter**  
+  Added support for the Grid-fitting and Scan-conversion Procedure (gasp) table, improving hinting precision and display scaling across rendering environments.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Font for .NET 24.11 Release Notes](https://releases.aspose.com/font/net/release-notes/2024/aspose-font-for-net-24-11-release-notes/).
+
+---
+
+[`aspose.font`](https://search.aspose.com/q/aspose.font.html) | [`gasp table`](https://search.aspose.com/q/gasp-table.html) | [`truetype conversion`](https://search.aspose.com/q/truetype-conversion.html) | [`font hinting`](https://search.aspose.com/q/font-hinting.html) | [`dotnet font api`](https://search.aspose.com/q/dotnet-font-api.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

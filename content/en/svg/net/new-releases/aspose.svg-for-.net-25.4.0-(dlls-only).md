@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.svg-for-.net-25.4.0-(dlls-only)"
-description: " "
+title: "DLLs-Only: Aspose.SVG 25.4 Supports .svgz Loading"
+description: "DLLs-only version of Aspose.SVG 25.4 adds .svgz loading support, enhancing file compatibility and performance for .NET developers."
 keywords: ""
 page_type: single_release_page
 folder_link: "/svg/net/new-releases/aspose.svg-for-.net-25.4.0-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 11/4/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 3.93MB"
 parent_path: "svg/net"
 section_parent_path: "svg/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/svg/net/release-notes/2025/aspose-svg-for-net-25-4-release-notes/"
 weight: 178
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,40 @@ weight: 178
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.SVG for .NET 25.4.0 assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.SVG without the MSI installer, i.e. you cannot run MSI installers on Mono. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The DLLs-only distribution of Aspose.SVG for .NET 25.4.0 enhances your toolkit with the ability to load GZIP-compressed `.svgz` files. This feature streamlines development workflows when working with compact SVG documents in high-performance applications.
+
+### ✳️ New Feature
+
+- **GZIP `.svgz` Format Support**  
+  Developers can now directly load and process `.svgz` files—compressed SVG documents optimized for bandwidth and storage.
+
+### 🛠 Fix
+
+- No regressions or critical bugs were noted for this DLLs-only release.
+
+### 🔧 Public API Changes
+
+> ❌ No changes introduced to the public API in the DLLs-only version.
+
+### 🚨 Backwards Incompatible Changes
+
+> ✅ This version is fully backward-compatible.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.SVG for .NET 25.4 Release Notes](https://releases.aspose.com/svg/net/release-notes/2025/aspose-svg-for-net-25-4-release-notes/).
+
+---
+
+[`svgz loading`](https://search.groupdocs.com/q/svgz-loading.html) | [`svgz support in .net`](https://search.groupdocs.com/q/svgz-support-in-.net.html) | [`gzip svg`](https://search.groupdocs.com/q/gzip-svg.html) | [`svg compression .net`](https://search.groupdocs.com/q/svg-compression-.net.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.font-for-.net-25.1-(dlls-only)"
-description: " "
+title: "Aspose.Font for .NET 25.1 DLLs – CFF Font Family Update"
+description: "Aspose.Font 25.1 for .NET DLLs allows you to programmatically update the font family field in CFF fonts with ease."
 keywords: ""
 page_type: single_release_page
 folder_link: "/font/net/new-releases/aspose.font-for-.net-25.1-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 1/2/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 6.71MB"
 parent_path: "font/net"
 section_parent_path: "font/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/font/net/release-notes/2025/aspose-font-for-net-25-1-release-notes/"
 weight: 78
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,28 @@ weight: 78
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.Font for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.Font without the MSI installer, i.e. you cannot run MSI installers on Mono.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Font for .NET 25.1 (DLLs Only) empowers developers to programmatically change the font family attribute in Compact Font Format (CFF) fonts, offering increased flexibility in managing embedded font metadata.
+
+### ✳️ New Feature
+
+- **Editable Font Family Field in CFF Fonts**  
+  This update includes functionality to programmatically set the font family name of CFF fonts, useful for dynamic branding or embedded font manipulation scenarios.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Font for .NET 25.1 Release Notes](https://releases.aspose.com/font/net/release-notes/2025/aspose-font-for-net-25-1-release-notes/).
+
+---
+
+[`cff font customization`](https://search.aspose.com/q/cff-font-customization.html) | [`font family editing`](https://search.aspose.com/q/font-family-editing.html) | [`dotnet font tools`](https://search.aspose.com/q/dotnet-font-tools.html) | [`aspose.font`](https://search.aspose.com/q/aspose.font.html) | [`font metadata control`](https://search.aspose.com/q/font-metadata-control.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

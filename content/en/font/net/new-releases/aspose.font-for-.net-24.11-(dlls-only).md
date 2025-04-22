@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.font-for-.net-24.11-(dlls-only)"
-description: " "
+title: "Aspose.Font for .NET 24.11 DLLs – TrueType GASP Support"
+description: "Discover Aspose.Font for .NET 24.11 DLLs with GASP table support in TrueType font conversion for scalable font rendering in .NET."
 keywords: ""
 page_type: single_release_page
 folder_link: "/font/net/new-releases/aspose.font-for-.net-24.11-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 12/11/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 6.66MB"
 parent_path: "font/net"
 section_parent_path: "font/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/font/net/release-notes/2024/aspose-font-for-net-24-11-release-notes/"
 weight: 74
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,28 @@ weight: 74
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.Font for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.Font without the MSI installer, i.e. you cannot run MSI installers on Mono.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Font for .NET 24.11 (DLLs Only) introduces support for the gasp table in TrueType fonts, enabling improved rendering and better font hinting control in .NET applications.
+
+### ✳️ New Feature
+
+- **TrueType GASP Table Integration**  
+  Implemented support for the gasp (Grid-fitting and Scan-conversion Procedure) table in the TrueType font converter to enhance rendering behavior at various point sizes.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Font for .NET 24.11 Release Notes](https://releases.aspose.com/font/net/release-notes/2024/aspose-font-for-net-24-11-release-notes/).
+
+---
+
+[`gasp hinting`](https://search.aspose.com/q/gasp-hinting.html) | [`truetype gasp`](https://search.aspose.com/q/truetype-gasp.html) | [`font rendering`](https://search.aspose.com/q/font-rendering.html) | [`font scaling`](https://search.aspose.com/q/font-scaling.html) | [`aspose.font`](https://search.aspose.com/q/aspose.font.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

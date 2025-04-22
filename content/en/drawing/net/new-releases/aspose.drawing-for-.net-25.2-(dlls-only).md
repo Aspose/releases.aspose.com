@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.drawing-for-.net-25.2-(dlls-only)"
-description: " "
+title: "Aspose.Drawing DLLs 25.2 – Stroke Fixes & Speed Gains"
+description: "DLLs-only version of Aspose.Drawing 25.2 offers faster color processing and accurate dash cap rendering for C# graphics apps."
 keywords: ""
 page_type: single_release_page
 folder_link: "/drawing/net/new-releases/aspose.drawing-for-.net-25.2-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 8/2/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 6.29MB"
 parent_path: "drawing/net"
 section_parent_path: "drawing/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/drawing/net/release-notes/2025/aspose-drawing-for-net-25-2-release-notes/"
 weight: 171
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,33 @@ weight: 171
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains Aspose.Drawing for .NET Framework 2.0 and .NET Standard 2.0</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The DLLs-only package of Aspose.Drawing for .NET 25.2 improves efficiency for developers seeking lightweight and portable graphic solutions with precision and performance upgrades.
+
+### ✳️ New Feature
+
+- **Enhanced Color Rendering Speed**  
+  Optimized color fill and transformation routines for better rendering performance in bitmap operations.
+
+### 🛠 Fix
+
+- **Dash Cap Alignment on Curves Fixed**  
+  Stroke rendering now respects dash cap alignment on curves, ensuring correct path visuals.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Drawing for .NET 25.2 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2025/aspose-drawing-for-net-25-2-release-notes/).
+
+---
+
+[`aspose.drawing`](https://search.aspose.com/q/aspose.drawing.html) | [`dlls-only`](https://search.aspose.com/q/dlls-only.html) | [`color performance`](https://search.aspose.com/q/color-performance.html) | [`dash offset correction`](https://search.aspose.com/q/dash-offset-correction.html) | [`graphics rendering`](https://search.aspose.com/q/graphics-rendering.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

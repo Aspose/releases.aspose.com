@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.drawing-for-.net-24.12"
-description: " "
+title: "Improved Gradients & Bitmap Fixes in Aspose.Drawing 24.12"
+description: "Aspose.Drawing for .NET 24.12 adds LinearGradientBrush Clamp mode, improves bitmap handling, and fixes TIFF, codec, and transformation issues."
 keywords: ""
 page_type: single_release_page
 folder_link: "/drawing/net/new-releases/aspose.drawing-for-.net-24.12/"
@@ -14,11 +13,9 @@ download_count: " 9/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 6.65MB"
 parent_path: "drawing/net"
 section_parent_path: "drawing/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/drawing/net/release-notes/2024/aspose-drawing-for-net-24-12-release-notes/"
 weight: 164
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,45 @@ weight: 164
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">The MSI installer for Aspose.Drawing for .NET 24.12</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Drawing for .NET 24.12 introduces enhanced graphics rendering and improved bitmap handling for .NET developers across platforms.
+
+### ✳️ New Feature
+
+- **Clamp Mode in Linear Gradient Brushes**  
+  Added support for `Clamp` mode in `LinearGradientBrush`, enabling developers to control edge rendering in gradients with greater precision.
+
+- **Faster LockBits for Indexed Bitmaps**  
+  Locking 1bpp and 8bpp indexed bitmaps now avoids format conversion, improving performance during bitmap manipulations.
+
+### 🛠 Fix
+
+- **Improved TIFF Handling**  
+  Fixed a hang issue when selecting specific frames in TIFF files.
+
+- **Codec Precision Enhancements**  
+  Improved correctness across multiple image file codecs for more predictable rendering outcomes.
+
+- **Interpolation OverflowException Resolved**  
+  Addressed `OverflowException` when drawing large bitmaps using `HighQualityBicubic` interpolation mode.
+
+- **Fixed Container Transformations**  
+  Resolved inconsistencies when applying transformations to graphical containers.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Drawing for .NET 24.12 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2024/aspose-drawing-for-net-24-12-release-notes/)
+
+---
+
+[`aspose.drawing`](https://search.aspose.com/q/aspose.drawing.html) | [`lineargradientbrush`](https://search.aspose.com/q/lineargradientbrush.html) | [`bitmap rendering`](https://search.aspose.com/q/bitmap-rendering.html) | [`tiff frame issue`](https://search.aspose.com/q/tiff-frame-issue.html) | [`image codecs`](https://search.aspose.com/q/image-codecs.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

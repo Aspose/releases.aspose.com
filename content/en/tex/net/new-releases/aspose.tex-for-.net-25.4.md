@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.tex-for-.net-25.4"
-description: " "
+title: "Aspose.TeX for .NET 25.4 MSI – Improved TeX Rendering"
+description: "Explore Aspose.TeX for .NET 25.4 MSI with font upgrades and metered licensing to enhance LaTeX and TeX typesetting capabilities."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tex/net/new-releases/aspose.tex-for-.net-25.4/"
@@ -14,11 +13,9 @@ download_count: " 11/4/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 49.35MB"
 parent_path: "tex/net"
 section_parent_path: "tex/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/tex/net/release-notes/2025/aspose-tex-for-net-25-4-release-notes/"
 weight: 64
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,31 @@ weight: 64
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.TeX for .NET 25.4 release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.TeX for .NET 25.4 (MSI) improves typesetting precision and font rendering by integrating the latest Aspose.Font 25.3 update, along with metered licensing enhancements for TeX workflows.
+
+### ✳️ New Features
+
+- **Seamless Metered License Support**  
+  Metered license keys have been upgraded internally to ensure continued trial testing and automation compatibility.
+
+- **Font Library Sync with Aspose.Font 25.3**  
+  Enjoy improved compatibility and font processing accuracy through upgraded integration with Aspose.Font v25.3.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.TeX for .NET 25.4 Release Notes](https://releases.aspose.com/tex/net/release-notes/2025/aspose-tex-for-net-25-4-release-notes/).
+
+---
+
+[`aspose.tex`](https://search.aspose.com/q/aspose.tex.html) | [`latex rendering`](https://search.aspose.com/q/latex-rendering.html) | [`tex to pdf`](https://search.aspose.com/q/tex-to-pdf.html) | [`typesetting api`](https://search.aspose.com/q/typesetting-api.html) | [`aspose.font`](https://search.aspose.com/q/aspose.font.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

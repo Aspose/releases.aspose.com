@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.font-for-.net-24.9"
-description: " "
+title: "Aspose.Font for .NET 24.9 MSI – LTSH Table Support"
+description: "Explore Aspose.Font for .NET 24.9 MSI with added LTSH table support in TrueType font conversion for enhanced glyph rendering in .NET applications."
 keywords: ""
 page_type: single_release_page
 folder_link: "/font/net/new-releases/aspose.font-for-.net-24.9/"
@@ -14,11 +13,9 @@ download_count: " 11/9/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 6.95MB"
 parent_path: "font/net"
 section_parent_path: "font/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/font/net/release-notes/2024/aspose-font-for-net-24-9-release-notes/"
 weight: 73
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,27 @@ weight: 73
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Font for .NET 24.9 release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+Aspose.Font for .NET 24.9 (MSI) introduces support for the Linear Threshold (LTSH) table in TrueType font conversion, enhancing font rendering precision in .NET applications
+
+### ✳️ New Feature
+
+- **Support for LTSH Table in TrueType Converter**  
+ Added functionality to process the Linear Threshold (LTSH) table during TrueType font conversion, improving glyph scaling and rendering accuracy
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Font for .NET 24.9 Release Notes](https://releases.aspose.com/font/net/release-notes/2024/aspose-font-for-net-24-9-release-notes/).
+
+---
+
+[`aspose.font`](https://search.aspose.com/q/aspose.font.html) | [`truetype font conversion`](https://search.aspose.com/q/truetype-font-conversion.html) | [`ltsh table support`](https://search.aspose.com/q/ltsh-table-support.html) | [`font rendering`](https://search.aspose.com/q/font-rendering.html) | [`dotnet font api`](https://search.aspose.com/q/dotnet-font-api.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

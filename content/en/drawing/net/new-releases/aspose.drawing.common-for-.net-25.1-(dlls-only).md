@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.drawing.common-for-.net-25.1-(dlls-only)"
-description: " "
+title: "Aspose.Drawing.Common 25.1 – Side-by-Side Drawing API"
+description: "Gain high-performance bitmap and TIFF rendering with Aspose.Drawing.Common 25.1. Use side-by-side with System.Drawing.Common."
 keywords: ""
 page_type: single_release_page
 folder_link: "/drawing/net/new-releases/aspose.drawing.common-for-.net-25.1-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 10/1/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 6.3MB"
 parent_path: "drawing/net"
 section_parent_path: "drawing/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/drawing/net/release-notes/2025/aspose-drawing-for-net-25-1-release-notes/"
 weight: 169
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,39 @@ weight: 169
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains Aspose.Drawing.Common for .NET Framework 2.0 and .NET Standard 2.0</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Drawing.Common for .NET 25.1 introduces efficient 2D drawing performance enhancements and bug fixes. Ideal for developers needing System.Drawing.Common side-by-side compatibility.
+
+### ✳️ New Feature
+
+- **Faster Bitmap LockBits for 4bpp**  
+  Boost indexed bitmap access and speed for graphics workflows with enhanced `LockBits`.
+
+### 🛠 Fix
+
+- **Monochrome TIFF Load Acceleration**  
+  Optimized memory and load time for black-and-white TIFF images.
+
+- **Improved Save for Indexed Formats**  
+  Reduces time and resource usage when exporting indexed images.
+
+- **Transparent Color Handling Fix**  
+  Corrected alpha blending in `SetPixel` for 32bpp ARGB bitmaps.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Drawing for .NET 25.1 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2025/aspose-drawing-for-net-25-1-release-notes/).
+
+---
+
+[`aspose.drawing.common`](https://search.aspose.com/q/aspose.drawing.common.html) | [`system.drawing.common replacement`](https://search.aspose.com/q/system.drawing.common-replacement.html) | [`indexed bitmap`](https://search.aspose.com/q/indexed-bitmap.html) | [`lockbits performance`](https://search.aspose.com/q/lockbits-performance.html) | [`tiff load fix`](https://search.aspose.com/q/tiff-load-fix.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

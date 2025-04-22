@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.svg-for-.net-24.9.0-(dlls-only)"
-description: " "
+title: "Aspose.SVG 24.9 DLLs – Enhanced Fonts & Gradient Tools"
+description: "DLLs-only release with improved SVG to PDF rendering, advanced gradient brush API, and enhanced WebP, font handling in Aspose.SVG for .NET 24.9."
 keywords: ""
 page_type: single_release_page
 folder_link: "/svg/net/new-releases/aspose.svg-for-.net-24.9.0-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 19/9/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 3.91MB"
 parent_path: "svg/net"
 section_parent_path: "svg/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-9-release-notes/"
 weight: 164
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,69 @@ weight: 164
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.SVG for .NET 24.9.0 assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.SVG without the MSI installer, i.e. you cannot run MSI installers on Mono. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The DLLs-only version of Aspose.SVG for .NET 24.9 offers lightweight deployment of the latest rendering and transformation improvements, perfect for CI/CD pipelines and custom deployments.
+
+### ✳️ New Features
+
+- **Gradient & Texture Drawing Tools**  
+  Use `IDrawingFactory` to implement gradient blends, texture brushes, and interpolation color control for advanced vector rendering.
+
+- **DOM Class Management**  
+  `Element.ClassList` provides dynamic manipulation of SVG class attributes—ideal for DOM-heavy SVG files.
+
+### 🛠 Fixes & Enhancements
+
+- **High-Fidelity PDF Rendering**  
+  Solves Base64 image and font rendering issues during SVG to PDF conversion.
+
+- **Optimized WebP Support**  
+  Better decoding and placement of embedded WebP images.
+
+- **Improved Font Substitution**  
+  Enhanced font table support to ensure text renders as authored.
+
+- **PDF CFF Exception Fix**  
+  Replaced CFF-specific code with SkiaSharp and GDI+ rendering for cleaner PDF output.
+
+### 🔧 Public API Changes
+
+**Added**
+
+- `Aspose.Svg.Dom.Element.ClassList`
+- `IDrawingFactory.CreateInterpolationColor`, `CreateLinearGradientBrush`, `CreateTextureBrush`
+- `IGradientBrush.BlendFactors`, `BlendPositions`
+- `IMatrix.TransformRectangle(RectangleF)`
+
+**Modified**
+
+- All `IMatrix` operations now use `WebMatrixOrder` instead of `SvgMatrixOrder`
+- `FillRule.NonZero` renamed to `FillRule.Nonzero`
+
+**Removed**
+
+- `IMatrix.Transform(RectangleF)`
+- `SvgMatrixOrder` enumeration
+
+### 🚨 Backwards Incompatible Changes
+
+- Removed `SvgMatrixOrder` and the old rectangle transform method.
+- Replaced by more standardized `WebMatrixOrder` and `TransformRectangle()`.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.SVG for .NET 24.9 Release Notes](https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-9-release-notes/).
+
+---
+
+[`aspose.svg`](https://search.groupdocs.com/q/aspose.svg.html) | [`dlls only`](https://search.groupdocs.com/q/dlls-only.html) | [`svg drawing`](https://search.groupdocs.com/q/svg-drawing.html) | [`pdf rendering`](https://search.groupdocs.com/q/pdf-rendering.html) | [`webp support`](https://search.groupdocs.com/q/webp-support.html) | [`gradient brush`](https://search.groupdocs.com/q/gradient-brush.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

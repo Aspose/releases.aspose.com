@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.drawing-for-.net-24.12-(dlls-only)"
-description: " "
+title: "Aspose.Drawing 24.12 DLLs: Clamp Gradients + TIFF Fix"
+description: "The DLLs-only build of Aspose.Drawing 24.12 improves gradient control and TIFF image handling with better codec performance and faster bitmap locking."
 keywords: ""
 page_type: single_release_page
 folder_link: "/drawing/net/new-releases/aspose.drawing-for-.net-24.12-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 9/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 6.29MB"
 parent_path: "drawing/net"
 section_parent_path: "drawing/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/drawing/net/release-notes/2024/aspose-drawing-for-net-24-12-release-notes/"
 weight: 165
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,45 @@ weight: 165
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains Aspose.Drawing for .NET Framework 2.0 and .NET Standard 2.0</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The DLLs-only version of Aspose.Drawing for .NET 24.12 delivers faster bitmap rendering, smoother gradient fills, and better image format handling.
+
+### ✳️ New Feature
+
+- **Support for Clamp Mode in LinearGradientBrush**  
+  Developers can now use `Clamp` mode for gradient edges, providing better control in drawing applications.
+
+- **Optimized LockBits for Indexed Bitmaps**  
+  Eliminates unnecessary conversions for 1bpp/8bpp bitmaps to speed up graphic rendering.
+
+### 🛠 Fix
+
+- **TIFF Hang Resolved**  
+  Fixed a hang occurring while selecting frames from multi-page TIFF files.
+
+- **Better Rendering Codec Accuracy**  
+  Enhancements made to file format codec logic for more accurate rendering.
+
+- **OverflowException Fix in HighQualityBicubic Mode**  
+  Drawing large bitmaps no longer triggers exceptions with this interpolation mode.
+
+- **Improved Container Transformation Logic**  
+  Resolved transformation inconsistencies in grouped drawing elements.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Drawing for .NET 24.12 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2024/aspose-drawing-for-net-24-12-release-notes/)
+
+---
+
+[`dlls-only`](https://search.aspose.com/q/dlls-only.html) | [`gradient clamp`](https://search.aspose.com/q/gradient-clamp.html) | [`tiff processing`](https://search.aspose.com/q/tiff-processing.html) | [`bitmap locking`](https://search.aspose.com/q/bitmap-locking.html) | [`drawing optimization`](https://search.aspose.com/q/drawing-optimization.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

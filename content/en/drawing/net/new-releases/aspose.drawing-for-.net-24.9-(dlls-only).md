@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.drawing-for-.net-24.9-(dlls-only)"
-description: " "
+title: "Aspose.Drawing DLLs 24.9 – CCITT TIFF & Font API"
+description: "DLLs-only release adds variable font support, CCITT TIFF export, and key stability fixes for Aspose.Drawing for .NET 24.9."
 keywords: ""
 page_type: single_release_page
 folder_link: "/drawing/net/new-releases/aspose.drawing-for-.net-24.9-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 6/9/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 6.28MB"
 parent_path: "drawing/net"
 section_parent_path: "drawing/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/drawing/net/release-notes/2024/aspose-drawing-for-net-24-9-release-notes/"
 weight: 156
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,45 @@ weight: 156
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains Aspose.Drawing for .NET Framework 2.0 and .NET Standard 2.0</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The DLLs-only edition of Aspose.Drawing for .NET 24.9 delivers all core enhancements from the MSI version, offering streamlined integration into custom .NET deployments and CI/CD workflows.
+
+### ✳️ New Feature
+
+- **Variable Font Loading in DLLs**  
+  Utilize advanced font rendering via variable font support in compact DLL-based workflows.
+
+- **TIFF with CCITT Compression**  
+  Generate compressed TIFF images directly from drawing output using CCITT3 and CCITT4 formats.
+
+- **GraphicsPath Stability Enhancements**  
+  New internal check prevents failures when using `AddLines` with empty arrays.
+
+### 🛠 Fix
+
+- **Assembly Cleanup**  
+  Eliminated redundant attributes and fixed embedded version metadata.
+
+### 🔹 Public API Changes
+
+- Introduced CCITT compression options for TIFF.
+- Improved variable font rendering.
+- Safer `GraphicsPath.AddLines` implementation.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Drawing for .NET 24.9 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2024/aspose-drawing-for-net-24-9-release-notes/)
+
+---
+
+[`aspose.drawing`](https://search.aspose.com/q/aspose.drawing.html) | [`dlls only`](https://search.aspose.com/q/dlls-only.html) | [`.net drawing`](https://search.aspose.com/q/.net-drawing.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

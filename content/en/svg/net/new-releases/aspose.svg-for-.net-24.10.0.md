@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.svg-for-.net-24.10.0"
-description: " "
+title: "Aspose.SVG 24.10 – Efficient HTML Rendering Update"
+description: "Boosted performance with caching for external HTML rendering in Aspose.SVG 24.10. Deprecation notice for System.Drawing.Common APIs."
 keywords: ""
 page_type: single_release_page
 folder_link: "/svg/net/new-releases/aspose.svg-for-.net-24.10.0/"
@@ -14,11 +13,9 @@ download_count: " 30/10/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 4.38MB"
 parent_path: "svg/net"
 section_parent_path: "svg/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-10-release-notes/"
 weight: 167
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,41 @@ weight: 167
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.SVG for .NET 24.10.0 (MSI installer) release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.SVG for .NET 24.10 introduces a performance-centric update focused on optimizing memory usage while rendering external HTML documents.
+
+### ✳️ New Feature
+
+- **HTML Rendering with Lower Memory Footprint**  
+  A new internal caching mechanism significantly reduces memory consumption during rendering of linked or external HTML files. This is especially useful for applications that process large or multiple documents concurrently.
+
+### 🛠 Fix
+
+- This release is focused on performance improvement. No specific bug fixes are listed.
+
+### 🔧 Public API Changes
+
+- No new or modified APIs introduced in this release.
+
+### 🚨 Backwards Incompatible Changes
+
+- No breaking changes yet, but a major **deprecation alert**:  
+  > Methods dependent on `System.Drawing.Common` will be removed in version 24.11.0 to improve compatibility with Linux environments. Developers are advised to migrate to alternatives for cross-platform compatibility.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.SVG for .NET 24.10 Release Notes](https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-10-release-notes/).
+
+---
+
+[`aspose.svg`](https://search.groupdocs.com/q/aspose.svg.html) | [`html rendering`](https://search.groupdocs.com/q/html-rendering.html) | [`external html`](https://search.groupdocs.com/q/external-html.html) | [`memory optimization`](https://search.groupdocs.com/q/memory-optimization.html) | [`svg for net`](https://search.groupdocs.com/q/svg-for-net.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

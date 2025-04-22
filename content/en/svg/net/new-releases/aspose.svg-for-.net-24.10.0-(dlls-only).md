@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.svg-for-.net-24.10.0-(dlls-only)"
-description: " "
+title: "Aspose.SVG 24.10 DLLs – Streamlined Memory Usage"
+description: "DLLs-only release with caching improvements for efficient external HTML rendering. Aspose.SVG v24.10 reduces memory use in .NET apps."
 keywords: ""
 page_type: single_release_page
 folder_link: "/svg/net/new-releases/aspose.svg-for-.net-24.10.0-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 30/10/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 3.93MB"
 parent_path: "svg/net"
 section_parent_path: "svg/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-10-release-notes/"
 weight: 166
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,40 @@ weight: 166
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.SVG for .NET 24.10.0 assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.SVG without the MSI installer, i.e. you cannot run MSI installers on Mono. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The DLLs-only edition of Aspose.SVG for .NET 24.10 offers a lightweight package ideal for memory-sensitive environments. This release brings caching improvements that boost stability during rendering operations.
+
+### ✳️ New Feature
+
+- **Performance Optimization via Caching**  
+  A new caching feature allows the library to handle HTML-linked SVG content with significantly lower memory use. Perfect for embedded systems, microservices, and containerized deployments.
+
+### 🛠 Fix
+
+- No specific bug fixes are listed in this version.
+
+### 🔧 Public API Changes
+
+- No public API modifications in this release.
+
+### 🚨 Backwards Incompatible Changes
+
+- 🚨 Heads-up: `System.Drawing.Common` based methods will be removed in the upcoming version (24.11). Migrate early to maintain cross-platform compatibility.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.SVG for .NET 24.10 Release Notes](https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-10-release-notes/).
+
+---
+
+[`aspose.svg`](https://search.groupdocs.com/q/aspose.svg.html) | [`dlls only`](https://search.groupdocs.com/q/dlls-only.html) | [`html rendering`](https://search.groupdocs.com/q/html-rendering.html) | [`caching mechanism`](https://search.groupdocs.com/q/caching-mechanism.html) | [`system.drawing deprecation`](https://search.groupdocs.com/q/system.drawing-deprecation.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

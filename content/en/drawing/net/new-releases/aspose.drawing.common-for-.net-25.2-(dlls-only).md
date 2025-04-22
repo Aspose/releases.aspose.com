@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.drawing.common-for-.net-25.2-(dlls-only)"
-description: " "
+title: "Drawing.Common 25.2 – Color Speed & Dash Precision"
+description: "Use Aspose.Drawing.Common 25.2 to accelerate color operations and improve curve dash cap rendering for cross-platform .NET graphics."
 keywords: ""
 page_type: single_release_page
 folder_link: "/drawing/net/new-releases/aspose.drawing.common-for-.net-25.2-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 8/2/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 6.3MB"
 parent_path: "drawing/net"
 section_parent_path: "drawing/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/drawing/net/release-notes/2025/aspose-drawing-for-net-25-2-release-notes/"
 weight: 172
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,33 @@ weight: 172
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains Aspose.Drawing.Common for .NET Framework 2.0 and .NET Standard 2.0</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Drawing.Common for .NET 25.2 is designed for projects needing compatibility with System.Drawing.Common. This update delivers efficient color operations and improved curve rendering.
+
+### ✳️ New Feature
+
+- **Performance Boost for Color Logic**  
+  Faster execution of color-dependent operations, making this release suitable for large-scale rendering pipelines.
+
+### 🛠 Fix
+
+- **Dash Cap Rendering Accuracy**  
+  Corrected alignment issues in dashed curves, ensuring visual consistency and professional-grade output.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Drawing for .NET 25.2 Release Notes](https://releases.aspose.com/drawing/net/release-notes/2025/aspose-drawing-for-net-25-2-release-notes/).
+
+---
+
+[`aspose.drawing.common`](https://search.aspose.com/q/aspose.drawing.common.html) | [`color operation boost`](https://search.aspose.com/q/color-operation-boost.html) | [`dash rendering fix`](https://search.aspose.com/q/dash-rendering-fix.html) | [`system.drawing.compatibility`](https://search.aspose.com/q/system.drawing.compatibility.html) | [`bitmap performance`](https://search.aspose.com/q/bitmap-performance.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

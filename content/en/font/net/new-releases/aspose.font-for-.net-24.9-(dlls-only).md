@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.font-for-.net-24.9-(dlls-only)"
-description: " "
+title: "Aspose.Font for .NET 24.9 DLLs – Enhanced TrueType Support​"
+description: "Discover Aspose.Font for .NET 24.9 DLLs with LTSH table support in TrueType font conversion, offering improved glyph rendering for .NET developers.​"
 keywords: ""
 page_type: single_release_page
 folder_link: "/font/net/new-releases/aspose.font-for-.net-24.9-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 11/9/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 6.67MB"
 parent_path: "font/net"
 section_parent_path: "font/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/font/net/release-notes/2024/aspose-font-for-net-24-9-release-notes/"
 weight: 72
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,27 @@ weight: 72
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.Font for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.Font without the MSI installer, i.e. you cannot run MSI installers on Mono.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlight
+
+Aspose.Font for .NET 24.9 (DLLs Only) provides developers with updated assemblies featuring support for the Linear Threshold (LTSH) table in TrueType font conversion, facilitating precise font rendering in .NET projecs.
+
+### ✳️ New Feature
+
+- **LTSH Table Integration in TrueType Conversion**    Implemented processing of the Linear Threshold (LTSH) table within the TrueType font converter, ensuring accurate glyph scaling and improved rendering fideliy.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Font for .NET 24.9 Release Notes](https://releases.aspose.com/font/net/release-notes/2024/aspose-font-for-net-24-9-release-notes/).
+
+---
+
+[`aspose.font`](https://search.aspose.com/q/aspose.font.html) | [`truetype font conversion`](https://search.aspose.com/q/truetype-font-conversion.html) | [`ltsh table support`](https://search.aspose.com/q/ltsh-table-support.html) | [`font rendering`](https://search.aspose.com/q/font-rendering.html) | [`dotnet font api`](https://search.aspose.com/q/dotnet-font-api.htl)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

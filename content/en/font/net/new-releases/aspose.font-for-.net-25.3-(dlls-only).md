@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.font-for-.net-25.3-(dlls-only)"
-description: " "
+title: "Aspose.Font for .NET 25.3 DLLs Only – CFF Metadata APIs"
+description: "DLLs-only release of Aspose.Font for .NET 25.3 brings extended TopDict access for CFF fonts. Ideal for lightweight deployments and custom font tools."
 keywords: ""
 page_type: single_release_page
 folder_link: "/font/net/new-releases/aspose.font-for-.net-25.3-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 13/3/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 6.77MB"
 parent_path: "font/net"
 section_parent_path: "font/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/font/net/release-notes/2025/aspose-font-for-net-25-3-release-notes/"
 weight: 84
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,50 @@ weight: 84
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.Font for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.Font without the MSI installer, i.e. you cannot run MSI installers on Mono.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Font for .NET 25.3 (DLLs Only) introduces enhanced capabilities to access and manipulate Compact Font Format (CFF) metadata using the extended `TopDictDataProvider` API. Designed for developers who prefer integrating the SDK without installer dependencies.
+
+### ✳️ New Feature
+
+- **Fine-Grained TopDict Access in CFF Fonts**  
+  The updated `TopDictDataProvider` class enables retrieval and configuration of key font properties such as `FontMatrix`, `XUID`, `UnderlineThickness`, and CID font data. This supports use cases in digital publishing, document parsing, and embedded font processing.
+
+### 🛠 Fix
+
+- No fixes are included in this DLLs-only release.
+
+### 🔹 Public API Changes
+
+New additions:
+- Class: `Aspose.Font.CffDataProviders.TopDictDataProvider`
+- Public Properties:
+  - `UnderlineThickness`, `FontMatrix`, `CIDFontOperatorPresent`, `Xuid`
+- Public Methods:
+  - `SetFontNameSid(int sid)`
+  - `SetUnderlineThickness(double thickness)`
+  - `SetRos(int registrySid, int orderingSid, int supplement)`
+  - `GetRos(out int registrySid, out int orderingSid, out int supplement)`
+
+This API set expands your control over embedded CFF font structures.
+
+### 🚫 Backwards Incompatible Changes
+
+*No backward-incompatible changes introduced.*
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Font for .NET 25.3 Release Notes](https://releases.aspose.com/font/net/release-notes/2025/aspose-font-for-net-25-3-release-notes/).
+
+---
+
+[`aspose.font`](https://search.aspose.com/q/aspose.font.html) | [`dlls only`](https://search.aspose.com/q/dlls-only.html) | [`cff font api`](https://search.aspose.com/q/cff-font-api.html) | [`font matrix`](https://search.aspose.com/q/font-matrix.html) | [`topdict cff`](https://search.aspose.com/q/topdict-cff.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

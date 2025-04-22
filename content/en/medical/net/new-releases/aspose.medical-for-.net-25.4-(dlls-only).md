@@ -1,6 +1,6 @@
 ---
-title: "Downloads ---New Releases-aspose.medical-for-.net-25.4-(dlls-only)"
-description: " "
+title: "Aspose.Medical for .NET 25.4 – DICOM Imaging Toolkit"
+description: "Explore Aspose.Medical for .NET 25.4, featuring DICOM file reading, writing, anonymization, and transcoding APIs for medical imaging applications."
 keywords: ""
 page_type: single_release_page
 folder_link: "/medical/net/new-releases/aspose.medical-for-.net-25.4-(dlls-only)/"
@@ -42,6 +42,37 @@ weight: 1
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains the Aspose.Medical for .NET. The assemblies are the same as in the NuGet package of the same version.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Medical for .NET 25.4 (DLLs-only) marks the inaugural release of our DICOM imaging toolkit, offering essential APIs for medical imaging workflows.
+
+### ✳️ New Features
+
+- **DICOM File Reading and Metadata Access**  
+  Load and parse DICOM files with full access to metadata, pixel data, and all DICOM elements.
+
+- **DICOM File Creation and Writing**  
+  Create new DICOM files from scratch or modify existing ones using an intuitive API.
+
+- **Anonymization API**  
+  Easily anonymize patient information in DICOM files while preserving image and diagnostic data.
+
+- **DICOM Transfer Syntax Transcoding**  
+  Change DICOM transfer syntax (transcode) between different compression formats.
+
+---
+
+[`aspose.medical`](https://search.aspose.com/q/aspose.medical.html) | [`dicom api`](https://search.aspose.com/q/dicom-api.html) | [`dicom reader`](https://search.aspose.com/q/dicom-reader.html) | [`dicom writer`](https://search.aspose.com/q/dicom-writer.html) | [`dicom anonymization`](https://search.aspose.com/q/dicom-anonymization.html) | [`dicom transcoding`](https://search.aspose.com/q/dicom-transcoding.html)
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Medical for .NET 25.4 Release Notes](https://releases.aspose.com/medical/net/release-notes/2025/aspose-medical-for-net-25-4-release-notes/).
+
+--- 
+    
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

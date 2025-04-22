@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.svg-for-.net-25.2.0-(dlls-only)"
-description: " "
+title: "Aspose.SVG 25.2 DLLs: IBitmap, Flip & Render Fixes"
+description: "DLLs-only version adds IBitmap image support, rendering option enhancements, and drops System.Drawing.Common dependencies."
 keywords: ""
 page_type: single_release_page
 folder_link: "/svg/net/new-releases/aspose.svg-for-.net-25.2.0-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 18/2/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 3.93MB"
 parent_path: "svg/net"
 section_parent_path: "svg/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/svg/net/release-notes/2025/aspose-svg-for-net-25-2-release-notes/"
 weight: 174
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,50 @@ weight: 174
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.SVG for .NET 25.2.0 assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.SVG without the MSI installer, i.e. you cannot run MSI installers on Mono. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.SVG for .NET 25.2 (DLLs-only) is a lightweight release tailored for custom .NET builds. This version adds the `IBitmap` interface for image drawing and manipulation, `WebRotateFlipType` enum for image transformation, and improved rendering controls — all without any dependency on System.Drawing.Common.
+
+### ✳️ New Feature
+
+- **New IBitmap Interface for Direct Image Manipulation**  
+  Gain low-level access to drawing, rotating, and saving images using `IBitmap`, now returned from updated `IDrawingFactory` methods.
+
+- **Consistent Rotation & Flip with WebRotateFlipType**  
+  Built-in support for rotating and flipping images using a single, intuitive enum.
+
+- **Improved Rendering Flags**  
+  `UseAntialiasing` and `UseHinting` enable fine-grained rendering adjustments to enhance visual quality in image and font output.
+
+### 🛠 Fix
+
+- **WebFontStyle Enum Clarity**  
+  Descriptive updates improve usability and eliminate ambiguity in style selection during rendering.
+
+### 🔧 Public API Changes
+
+- **New Interfaces & Enums:**  
+  `IBitmap`, `WebRotateFlipType`, extended `IDrawingFactory` overloads  
+- **Refinements:**  
+  Documentation improvements for `UseAntialiasing`, `UseHinting`, and `WebFontStyle`
+
+### 🚨 Backwards Incompatible Changes
+
+> ⚠️ The transition away from `System.Drawing.Common` is ongoing. Please begin migrating to `IBitmap` and the new rendering methods to maintain forward compatibility.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.SVG for .NET 25.2 Release Notes](https://releases.aspose.com/svg/net/release-notes/2025/aspose-svg-for-net-25-2-release-notes/).
+
+---
+
+[`ibitmap`](https://search.groupdocs.com/q/ibitmap.html) | [`svg rendering quality`](https://search.groupdocs.com/q/svg-rendering-quality.html) | [`svg image transformation`](https://search.groupdocs.com/q/svg-image-transformation.html) | [`svg flip rotate`](https://search.groupdocs.com/q/svg-flip-rotate.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

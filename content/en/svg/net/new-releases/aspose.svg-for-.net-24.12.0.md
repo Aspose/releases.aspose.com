@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.svg-for-.net-24.12.0"
-description: " "
+title: "Aspose.SVG 24.12 – Faster SVG Rendering & SkiaSharp"
+description: "Aspose.SVG 24.12 cuts memory use by 20%, upgrades SkiaSharp, and improves image/text rendering across SVG, PDF, and XPS."
 keywords: ""
 page_type: single_release_page
 folder_link: "/svg/net/new-releases/aspose.svg-for-.net-24.12.0/"
@@ -14,11 +13,9 @@ download_count: " 18/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 4.38MB"
 parent_path: "svg/net"
 section_parent_path: "svg/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-12-release-notes/"
 weight: 171
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,44 @@ weight: 171
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.SVG for .NET 24.12.0 (MSI installer) release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.SVG for .NET 24.12 delivers a significant memory usage reduction when rendering or converting complex SVG documents. This release also upgrades the internal SkiaSharp engine, enhancing performance and compatibility for cross-platform .NET graphics applications.
+
+### ✳️ New Feature
+
+- **15–20% Lower Memory Usage in Rendering Pipelines**  
+  Rendering and converting SVG to raster, PDF, or XPS now consumes significantly less memory — up to 20% in large-document scenarios — improving efficiency and scalability.
+
+- **SkiaSharp 3.116.1 Integration**  
+  The bundled Aspose.SVG.Drawing.SkiaSharp library has been upgraded to the latest SkiaSharp version for faster rendering, better image fidelity, and more accurate text layout handling.
+
+### 🛠 Fix
+
+- **Improved Rendering Reliability**  
+  Performance and stability improvements were made throughout the rendering process, especially with large or complex SVG structures.
+
+### 🔧 Public API Changes
+
+- **No breaking or new public API changes** were introduced in this release.
+
+### 🚨 Backwards Incompatible Changes
+
+> ❗ The planned removal of `System.Drawing.Common` API support has been **postponed** again — it will now occur in **v25.1.0**. Developers should still prepare for cross-platform alternatives.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.SVG for .NET 24.12 Release Notes](https://releases.aspose.com/svg/net/release-notes/2024/aspose-svg-for-net-24-12-release-notes/).
+
+---
+
+[`aspose.svg`](https://search.groupdocs.com/q/aspose.svg.html) | [`svg rendering`](https://search.groupdocs.com/q/svg-rendering.html) | [`skia sharp`](https://search.groupdocs.com/q/skia-sharp.html) | [`pdf conversion`](https://search.groupdocs.com/q/pdf-conversion.html) | [`xps rendering`](https://search.groupdocs.com/q/xps-rendering.html) | [`system.drawing.common`](https://search.groupdocs.com/q/system.drawing.common.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
