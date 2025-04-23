@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.email-for-.net-25.1-(dlls-only)"
-description: " "
+title: "Email for .NET 25.1 DLLs: Gmail API + Boundary Fix"
+description: "Aspose.Email 25.1 DLLs add Gmail message management, email filtering, and address critical boundary and MAPI compatibility issues."
 keywords: ""
 page_type: single_release_page
 folder_link: "/email/net/new-releases/aspose.email-for-.net-25.1-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 31/1/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 46.81MB"
 parent_path: "email/net"
 section_parent_path: "email/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/email/net/release-notes/2025/aspose-email-for-net-25-1-release-notes/"
 weight: 610
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,42 @@ weight: 610
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for .NET 25.1 (DLLs only) release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Email for .NET 25.1 (DLLs Only) brings robust Gmail API support to manage messages and filters programmatically. It also corrects MIME boundary string behaviors and improves MAPI string property reliability.
+
+### ✳️ New Feature
+
+- **GmailClient Enhancements**: Perform full lifecycle operations on Gmail messages and filters.
+- **Filter Automation**: Add and remove filters programmatically via new `Filter` classes.
+
+### 🔧 Enhancement
+
+- Boundary strings in MIME structures are now recursively and predictably updated during EML generation.
+
+### 🛠 Fix
+
+- Fixed `SetProperty` for storing multi-string properties.
+- Resolved an issue where Outlook would break MSGs created by Aspose.Email.
+
+### 🔍 Public API and Backward Incompatible Changes
+
+- **Added**: `IGmailClient` methods for Gmail message handling and filter control.
+- **Improved**: MIME boundary templating and recursive reset during nested message save operations.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Email for .NET 25.1 Release Notes](https://releases.aspose.com/email/net/release-notes/2025/aspose-email-for-net-25-1-release-notes/)
+
+---
+
+[`eml boundary bug fix`](https://search.aspose.com/q/eml-boundary-bug-fix.html) | [`aspsoe gmail append`](https://search.aspose.com/q/aspsoe-gmail-append.html) | [`outlook msg corruption fix`](https://search.aspose.com/q/outlook-msg-corruption-fix.html) | [`email filter creation api`](https://search.aspose.com/q/email-filter-creation-api.html) | [`email net 25.1 dll`](https://search.aspose.com/q/email-net-25.1-dll.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

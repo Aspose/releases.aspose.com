@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.email-for-.net-25.2"
-description: " "
+title: "Email .NET 25.2: Filter & Paginate MBOX Messages"
+description: "Aspose.Email for .NET 25.2 introduces MBOX message filtering and pagination, with enhanced performance and essential bug fixes in EML and Graph API handling."
 keywords: ""
 page_type: single_release_page
 folder_link: "/email/net/new-releases/aspose.email-for-.net-25.2/"
@@ -14,11 +13,9 @@ download_count: " 28/2/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 54.15MB"
 parent_path: "email/net"
 section_parent_path: "email/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/email/net/release-notes/2025/aspose-email-for-net-25-2-release-notes/"
 weight: 611
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,46 @@ weight: 611
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for .NET 25.2 (MSI) release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Email for .NET 25.2 introduces message filtering and paginated access for MBOX files, streamlining large-scale email data processing. It also includes key fixes for EML, MSG, and Graph API behaviors.
+
+### ✳️ New Feature
+
+- **MBOX Filtering**: Use MailQuery to find emails based on subject, date, etc., in MBOX files.
+- **Pagination for MBOX**: Retrieve messages in batches to improve efficiency with large MBOX datasets.
+
+### 🔧 Enhancement
+
+- Enhanced MBOX access performance through paginated retrieval methods.
+
+### 🛠 Fix
+
+- Corrected missing PST named property `x-ms-journal-report`.
+- Fixed null reference error in MapiCalendar saving with recurrence/time zones.
+- Resolved Microsoft Graph API folder access issues.
+- Addressed errors in MHT conversion with `SkipInlineImages` flag.
+- Fixed time zone date shifts in GMT+2 during EML processing.
+- Normalized sender email address format during MSG to EML conversion.
+
+### 🔍 Public API and Backward Incompatible Changes
+
+- **Added**: `EnumerateMessages(MailQuery query)` and `EnumerateMessages(int startIndex, int count)` in `MboxStorageReader`.
+- **Added**: `EnumerateMessageInfo` counterparts for optimized batch metadata access.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Email for .NET 25.2 Release Notes](https://releases.aspose.com/email/net/release-notes/2025/aspose-email-for-net-25-2-release-notes/)
+
+---
+
+[`mbox message filter`](https://search.aspose.com/q/mbox-message-filter.html) | [`aspsoe email pagination`](https://search.aspose.com/q/aspose-email-pagination.html) | [`mapi calendar save fix`](https://search.aspose.com/q/mapi-calendar-save-fix.html) | [`msg to eml sender format`](https://search.aspose.com/q/msg-to-eml-sender-format.html) | [`graph api email fix`](https://search.aspose.com/q/graph-api-email-fix.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

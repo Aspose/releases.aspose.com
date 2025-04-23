@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.email-for-.net-24.12-(dlls-only)"
-description: " "
+title: "Email for .NET 24.12 DLLs: EML Boundary Template Support"
+description: "Aspose.Email 24.12 DLLs offer MIME boundary string templates for EML and improve stability of soft-deleted item searches in OST."
 keywords: ""
 page_type: single_release_page
 folder_link: "/email/net/new-releases/aspose.email-for-.net-24.12-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 29/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 46.68MB"
 parent_path: "email/net"
 section_parent_path: "email/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/email/net/release-notes/2024/aspose-email-for-net-24-12-release-notes/"
 weight: 608
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,40 @@ weight: 608
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for .NET 24.12 (DLLs only) release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Email for .NET 24.12 (DLLs Only) delivers support for customized boundary string templates in MIME EML saves and resolves edge-case exceptions in OST message searches.
+
+### ✳️ New Feature
+
+- **Boundary Templates for EML**: Introduce dynamic MIME part separation with `BoundariesTemplate` in `EmlSaveOptions`.
+
+### 🔧 Enhancement
+
+- Mail message saving now ensures repeatable, deterministic output across runs.
+
+### 🛠 Fix
+
+- Eliminated `IndexOutOfBoundsException` when finding soft-deleted items in OST files.
+- OST 2013 message search logic improved for stability and accuracy.
+
+### 🔍 Public API and Backward Incompatible Changes
+
+- **Added**: `EmlSaveOptions.BoundariesTemplate` – define custom placeholders like `"boundary--{#}"` for part separation.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Email for .NET 24.12 Release Notes](https://releases.aspose.com/email/net/release-notes/2024/aspose-email-for-net-24-12-release-notes/)
+
+---
+
+[`eml saveoptions boundary`](https://search.aspose.com/q/eml-saveoptions-boundary.html) | [`ost soft deleted extract fix`](https://search.aspose.com/q/ost-soft-deleted-extract-fix.html) | [`mailmessage deterministic save`](https://search.aspose.com/q/mailmessage-deterministic-save.html) | [`aspose email mime control`](https://search.aspose.com/q/aspose-email-mime-control.html) | [`email net 24.12 dll update`](https://search.aspose.com/q/email-net-24.12-dll-update.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

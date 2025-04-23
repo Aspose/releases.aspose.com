@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.email-for-.net-25.3-(dlls-only)"
-description: " "
+title: "Email .NET 25.3 DLLs: TNEF, Calendar, IMAP Fixes"
+description: "Aspose.Email 25.3 DLLs add winmail.dat support and calendar control with bug fixes for inline images, HTML spacing, and IMAP errors."
 keywords: ""
 page_type: single_release_page
 folder_link: "/email/net/new-releases/aspose.email-for-.net-25.3-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 31/3/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 47.32MB"
 parent_path: "email/net"
 section_parent_path: "email/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/email/net/release-notes/2025/aspose-email-for-net-25-3-release-notes/"
 weight: 614
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,44 @@ weight: 614
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for .NET 25.3 (DLLs only) release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Email for .NET 25.3 (DLLs Only) introduces granular TNEF attachment operations and lets you set calendar states manually. It also fixes issues related to appointments, inline images, and email format consistency.
+
+### ✳️ New Feature
+
+- **TNEF Attachment API**: Add and extract attachments from winmail.dat via new MapiAttachment methods.
+- **Forced Calendar State**: Control message class and organizer metadata via `SetStateForced`.
+
+### 🔧 Enhancement
+
+- Improved reliability for MSG appointment state handling with time zone accuracy.
+
+### 🛠 Fix
+
+- Fixed `IsInline` misbehavior for inline image detection in MapiAttachment.
+- Resolved conversion bugs: EML ➝ HTML, MSG ➝ calendar, and incorrect meeting request handling.
+- Addressed crashes in IMAP login and appointment loading scenarios.
+
+### 🔍 Public API and Backward Incompatible Changes
+
+- **New Methods**:
+  - `MapiAttachment.LoadFromTnef()` / `SaveToTnef()` for TNEF format integration.
+  - `MapiCalendar.SetStateForced()` for explicit calendar control.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Email for .NET 25.3 Release Notes](https://releases.aspose.com/email/net/release-notes/2025/aspose-email-for-net-25-3-release-notes/)
+
+---
+
+[`tnef winmail dotnet`](https://search.aspose.com/q/tnef-winmail-dotnet.html) | [`mapi calendar override`](https://search.aspose.com/q/mapi-calendar-override.html) | [`imap authentication error`](https://search.aspose.com/q/imap-authentication-error.html) | [`calendar loading crash`](https://search.aspose.com/q/calendar-loading-crash.html) | [`inline image mapiattachment`](https://search.aspose.com/q/inline-image-mapiattachment.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

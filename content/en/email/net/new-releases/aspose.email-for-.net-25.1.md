@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.email-for-.net-25.1"
-description: " "
+title: "Aspose.Email 25.1: Gmail Message & Filter Management"
+description: "Aspose.Email for .NET 25.1 adds Gmail message and filter API support, improves MIME boundary control, and fixes multi-string MAPI properties."
 keywords: ""
 page_type: single_release_page
 folder_link: "/email/net/new-releases/aspose.email-for-.net-25.1/"
@@ -14,11 +13,9 @@ download_count: " 31/1/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 54.14MB"
 parent_path: "email/net"
 section_parent_path: "email/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/email/net/release-notes/2025/aspose-email-for-net-25-1-release-notes/"
 weight: 609
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,42 @@ weight: 609
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for .NET 25.1 (MSI) release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Email for .NET 25.1 introduces full Gmail message and filter management through IGmailClient. It enhances MIME boundary behavior and resolves multiple bugs in MAPI message handling.
+
+### ✳️ New Feature
+
+- **Gmail Message APIs**: Send, fetch, append, delete, and list messages using `IGmailClient`.
+- **Gmail Filter Support**: Manage Gmail filters with new methods: `ListFilters`, `CreateFilter`, and `DeleteFilter`.
+
+### 🔧 Enhancement
+
+- Improved handling of boundary strings in embedded messages for more predictable MIME generation.
+
+### 🛠 Fix
+
+- Corrected saving of multiple string properties with `MapiMessageItemBase.SetProperty`.
+- Fixed corruption of MSG attachments created by Aspose.Email when opened in Outlook.
+
+### 🔍 Public API and Backward Incompatible Changes
+
+- **Added**: `GmailMessageInfo`, `Filter`, `Criteria`, and `Action` classes for Gmail integration.
+- **Extended**: `IGmailClient` with methods like `SendMessage`, `AppendMessage`, `DeleteMessage`, and `ListMessages`.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Email for .NET 25.1 Release Notes](https://releases.aspose.com/email/net/release-notes/2025/aspose-email-for-net-25-1-release-notes/)
+
+---
+
+[`gmail message api`](https://search.aspose.com/q/gmail-message-api.html) | [`gmail filter management`](https://search.aspose.com/q/gmail-filter-management.html) | [`mapi multivalue bug fix`](https://search.aspose.com/q/mapi-multivalue-bug-fix.html) | [`msg to outlook issue`](https://search.aspose.com/q/msg-to-outlook-issue.html) | [`aspose.email mime boundary`](https://search.aspose.com/q/aspose.email-mime-boundary.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

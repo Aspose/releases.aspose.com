@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.email-for-.net-24.11-(dlls-only)"
-description: " "
+title: "Email for .NET 24.11 DLLs: Reference Attachments & Graph Updates"
+description: "Version 24.11 DLLs adds reference attachment handling, GCC High support for Graph API, and bug fixes for PST updates and EML parsing."
 keywords: ""
 page_type: single_release_page
 folder_link: "/email/net/new-releases/aspose.email-for-.net-24.11-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 30/11/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 47.13MB"
 parent_path: "email/net"
 section_parent_path: "email/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/email/net/release-notes/2024/aspose-email-for-net-24-11-release-notes/"
 weight: 606
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,48 @@ weight: 606
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for .NET 24.11 (DLLs only) release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Email for .NET 24.11 DLLs-only package includes reference attachment support, enhanced Graph and SendGrid configuration, improved PST search, and critical bug resolutions.
+
+### ✳️ New Feature
+
+- **Cloud File Attachments**: Add remote files as reference attachments using `MapiAttachmentCollection.Add()` with `ReferenceAttachmentOptions`.
+
+### 🔧 Enhancement
+
+- PST API enhanced with new `EnumerateMapiMessages` overloads for more flexible message querying.
+- Added support for **GCC High** Office 365 Graph API endpoints.
+- Custom SendGrid API base URLs via `SendGridClientOptions`.
+
+### 🛠 Fix
+
+- Bug fix: errors updating messages in PST.
+- Fixed special character handling in EML `To` fields.
+- Prevented faulty GraphClient PATCH payload behavior.
+
+### 🔍 Public API and Backward Incompatible Changes
+
+- **New Properties and Types**:
+  - `MapiAttachment.IsReference`
+  - `ReferenceAttachmentOptions`
+  - `SendGridRegion` & `SendGridClientOptions.Region`
+- **New Method Overloads**:
+  - `FolderInfo.EnumerateMapiMessages(...)`
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Email for .NET 24.11 Release Notes](https://releases.aspose.com/email/net/release-notes/2024/aspose-email-for-net-24-11-release-notes/)
+
+---
+
+[`reference mapi attachments`](https://search.aspose.com/q/reference-mapi-attachments.html) | [`enumerate pst messages`](https://search.aspose.com/q/enumerate-pst-messages.html) | [`sendgrid api region`](https://search.aspose.com/q/sendgrid-api-region.html) | [`graphclient gcc high`](https://search.aspose.com/q/graphclient-gcc-high.html) | [`email net 24.11 bugfix`](https://search.aspose.com/q/email-net-24.11-bugfix.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
