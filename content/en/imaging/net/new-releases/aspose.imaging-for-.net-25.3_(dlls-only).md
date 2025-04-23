@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.imaging-for-.net-25.3_(dlls-only)"
-description: " "
+title: "Imaging DLLs 25.3: Vector Fixes, Watermarks, Text"
+description: "DLLs-only build of Aspose.Imaging 25.3 resolves SVG/EMF rendering issues, fixes DICOM watermark exports and string alignment errors in image drawing."
 keywords: ""
 page_type: single_release_page
 folder_link: "/imaging/net/new-releases/aspose.imaging-for-.net-25.3_(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 4/3/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 54.34MB"
 parent_path: "imaging/net"
 section_parent_path: "imaging/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/imaging/java/release-notes/2025/aspose-imaging-for-java-25-3-release-notes/"
 weight: 400
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,40 @@ weight: 400
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Imaging for .NET 25.3 (Dlls only) release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Imaging for .NET 25.3 (DLLs Only) delivers precise corrections to SVG-to-JPG/PNG workflows, text rendering accuracy with alignment options, and DICOM watermark reliability.
+
+### 🔧 Enhancement
+
+- Improved support for wide-aspect-ratio screen processing in vector background removal.
+- Accurate drawing of lines in EMF conversion scenarios.
+- Watermark fidelity when exporting DICOM medical imagery to standard image formats.
+
+### 🛠 Fix
+
+- Fixed alignment issues with `DrawString()` when using `StringAlignment.Center` or `Far`.
+- Eliminated SVG corruption when exporting to raster image formats.
+- Corrected EMF render distortions in PNG and SVG outputs.
+
+### 🔍 Public API and Backward Incompatible Changes
+
+- **New API Added**:
+  - `SvgRasterizationOptions.CopyTo()`: Simplifies cloning rasterization configuration between SVG and generic vector render settings.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Imaging for .NET 25.3 Release Notes](https://releases.aspose.com/imaging/net/release-notes/2025/aspose-imaging-for-net-25-3-release-notes/)
+
+---
+
+[`svg to png export fix`](https://search.aspose.com/q/svg-to-png-export-fix.html) | [`drawstring stringalignment far bug`](https://search.aspose.com/q/drawstring-stringalignment-far-bug.html) | [`dicom export image watermark`](https://search.aspose.com/q/dicom-export-image-watermark.html) | [`emf png vector rendering`](https://search.aspose.com/q/emf-png-vector-rendering.html) | [`svg jpg net image load`](https://search.aspose.com/q/svg-jpg-net-image-load.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

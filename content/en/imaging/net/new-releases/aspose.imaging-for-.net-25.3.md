@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.imaging-for-.net-25.3"
-description: " "
+title: "Imaging .NET 25.3: SVG, EMF, DICOM Fixes"
+description: "Aspose.Imaging 25.3 improves SVG-to-JPG/PNG accuracy, EMF line rendering, watermark handling in DICOM, and text alignment for centered content."
 keywords: ""
 page_type: single_release_page
 folder_link: "/imaging/net/new-releases/aspose.imaging-for-.net-25.3/"
@@ -14,11 +13,9 @@ download_count: " 4/3/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 58.48MB"
 parent_path: "imaging/net"
 section_parent_path: "imaging/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/imaging/net/release-notes/2025/aspose-imaging-for-net-25-3-release-notes/"
 weight: 399
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,43 @@ weight: 399
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Imaging for .NET 25.3 release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Imaging for .NET 25.3 enhances vector rendering fidelity, correcting issues with SVG and EMF exports, improves watermark handling in DICOM, and resolves text alignment artifacts during drawing.
+
+### 🔧 Enhancement
+
+- **SVG Export Accuracy**: Fixed issues with converting SVG to JPG and PNG formats.
+- **DICOM Watermark Handling**: Ensured watermarks are correctly preserved on DICOM export.
+- **EMF Drawing Improvements**: Corrected inaccuracies in line rendering from complex EMF diagrams.
+- **Text Rendering Fix**: Resolved incorrect text alignment with `StringAlignment.Center` and `Far`.
+- **Background Removal for Wide Displays**: Improved SVG background removal under ultrawide monitor setups.
+
+### 🛠 Fix
+
+- SVG export bugs caused misaligned or blank renders.
+- EMF images with complex line work now render as expected.
+- Resolved issues when drawing centered text with line breaks.
+- Background removal misalignment on 3440×1440 monitors now behaves correctly.
+
+### 🔍 Public API and Backward Incompatible Changes
+
+- **Added API**:
+  - `SvgRasterizationOptions.CopyTo(VectorRasterizationOptions)`: Enables seamless copying of rasterization configurations.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Imaging for .NET 25.3 Release Notes](https://releases.aspose.com/imaging/net/release-notes/2025/aspose-imaging-for-net-25-3-release-notes/)
+
+---
+
+[`svg to jpg net fix`](https://search.aspose.com/q/svg-to-jpg-net-fix.html) | [`dicom watermark export`](https://search.aspose.com/q/dicom-watermark-export.html) | [`emf lines rendering correction`](https://search.aspose.com/q/emf-lines-rendering-correction.html) | [`text alignment center drawstring`](https://search.aspose.com/q/text-alignment-center-drawstring.html) | [`svg background removal fix`](https://search.aspose.com/q/svg-background-removal-fix.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

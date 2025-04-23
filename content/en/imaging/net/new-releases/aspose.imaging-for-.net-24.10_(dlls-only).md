@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.imaging-for-.net-24.10_(dlls-only)"
-description: " "
+title: "Imaging .NET 24.10 DLLs: AVIF & SVG Stroke Fixes"
+description: "Aspose.Imaging 24.10 DLLs support AVIF, SVG non-scaling-stroke, enhanced DICOM & CDR conversion, and raster image filtering."
 keywords: ""
 page_type: single_release_page
 folder_link: "/imaging/net/new-releases/aspose.imaging-for-.net-24.10_(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 8/10/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 54.12MB"
 parent_path: "imaging/net"
 section_parent_path: "imaging/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-10-release-notes/"
 weight: 392
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,47 @@ weight: 392
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Imaging for .NET 24.10 (Dlls only) release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Imaging for .NET 24.10 (DLLs Only) enables AVIF image support and improves SVG rendering with non-scaling-stroke vector effects. Major fixes in EPS, DICOM, and raster processing are also included.
+
+### ✳️ New Feature
+
+- **AVIF File Support**: Native support for loading and converting `.avif` images.
+- **SVG Vector Effects**: Implements `non-scaling-stroke` for scalable vector graphics.
+
+### 🔧 Enhancement
+
+- Improved raster filtering via `Filter()` on specific image regions.
+- Correct identification of DNG formats from memory streams.
+- Enhanced CDR and EPS file conversion with proper color output.
+
+### 🛠 Fix
+
+- Corrected DICOM export to PDF in evaluation mode.
+- Fixed EPS rendering to PNG and restored accuracy for CDR color output.
+
+### 🔍 Public API and Backward Incompatible Changes
+
+- **New APIs**:
+  - DICOM tag methods: `TryAddTag`, `TryUpdateTagAt`, etc.
+  - Image streaming via `GetSerializedStream` for custom areas.
+- **Removed**:
+  - DICOM `ReadonlyTagsList` property deprecated.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Imaging for .NET 24.10 Release Notes](https://releases.aspose.com/imaging/net/release-notes/2024/aspose-imaging-for-net-24-10-release-notes/)
+
+---
+
+[`aspose imaging avif`](https://search.aspose.com/q/aspose-imaging-avif.html) | [`svg vector stroke .net`](https://search.aspose.com/q/svg-vector-stroke-.net.html) | [`eps file rendering`](https://search.aspose.com/q/eps-file-rendering.html) | [`dicom pdf conversion`](https://search.aspose.com/q/dicom-pdf-conversion.html) | [`aspose image filtering api`](https://search.aspose.com/q/aspose-image-filtering-api.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

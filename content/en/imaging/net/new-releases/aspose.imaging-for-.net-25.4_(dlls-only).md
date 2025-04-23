@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.imaging-for-.net-25.4_(dlls-only)"
-description: " "
+title: "Imaging DLLs 25.4: Brightness Fix, DICOM, CMX Support"
+description: "DLLs-only update of Aspose.Imaging for .NET 25.4 delivers histogram-based brightness normalization and critical fixes for DICOM and CMX compatibility."
 keywords: ""
 page_type: single_release_page
 folder_link: "/imaging/net/new-releases/aspose.imaging-for-.net-25.4_(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 2/4/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 54.36MB"
 parent_path: "imaging/net"
 section_parent_path: "imaging/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/imaging/net/release-notes/2025/aspose-imaging-for-net-25-4-release-notes/"
 weight: 402
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,48 @@ weight: 402
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Imaging for .NET 25.4 (Dlls only) release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Imaging for .NET 25.4 (DLLs Only) adds advanced brightness correction with histogram normalization, resolves DCM image loading issues, and stabilizes CMX to JPG rendering.
+
+### ✳️ New Feature
+
+- **Brightness Auto-Enhancement**: Improve image lighting with one line using `NormalizeHistogram()`.
+
+### 🔧 Enhancement
+
+- Significantly improved performance and stability when loading `.dcm` (DICOM) medical images.
+- Enhanced support for `.cmx` (Corel Presentation Exchange) to JPG conversion workflows.
+
+### 🛠 Fix
+
+- Fixed image corruption during CMX vector rendering.
+- Ensured proper DCM decoding under complex metadata scenarios.
+
+### 🔍 Public API and Backward Incompatible Changes
+
+- **New Public Methods**:
+  - `RasterCachedImage.NormalizeHistogram()`
+  - `RasterCachedMultipageImage.NormalizeHistogram()`
+  - `RasterImage.NormalizeHistogram()`
+- **Enum Added**:
+  - `Image.ImageOperation.HistogramNormalization`
+- **Upcoming Change** *(from v25.5)*:
+  - `VectorRasterizationOptions` will no longer inherit from `ImageOptionsBase`.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Imaging for .NET 25.4 Release Notes](https://releases.aspose.com/imaging/net/release-notes/2025/aspose-imaging-for-net-25-4-release-notes/)
+
+---
+
+[`image contrast normalization net`](https://search.aspose.com/q/image-contrast-normalization-net.html) | [`aspose dcm format bug`](https://search.aspose.com/q/aspose-dcm-format-bug.html) | [`cmx to image jpg raster fix`](https://search.aspose.com/q/cmx-to-image-jpg-raster-fix.html) | [`vectorrasterization inheritance update`](https://search.aspose.com/q/vectorrasterization-inheritance-update.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
