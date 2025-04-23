@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.slides-for-.net-24.10"
-description: " "
+title: "Aspose.Slides for .NET 24.10 MSI – Chart & Image Fixes"
+description: "Download MSI for Aspose.Slides for .NET 24.10. Fixes blurry SVGs, corrupted charts, shape lines in PNGs, EMF rotation issues, and adds Zoom animation subtype."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/net/new-releases/aspose.slides-for-.net-24.10/"
@@ -14,11 +13,9 @@ download_count: " 8/10/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 116.05MB"
 parent_path: "slides/net"
 section_parent_path: "slides/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-10-release-notes/"
 weight: 801
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,46 @@ weight: 801
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for .NET 24.10 release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Slides for .NET 24.10 delivers extensive chart rendering stability, better SVG and EMF image conversions, table layout fidelity, and extended animation capabilities including new zoom effect subtypes.
+
+### ✳️ New Feature
+
+- **Zoom Animation Subtypes**: Added support for `SlideCenter` and `ObjectCenter` subtypes for FadedZoom effects.
+
+### 🔧 Enhancement
+
+- Improved layout precision for tables and shape coordinates.
+- Enhanced HTML5 and PNG output rendering for embedded charts and vector graphics.
+
+### 🛠 Fix
+
+- Fixed multiple regressions in chart rendering during image and PDF export.
+- Addressed font height, shape dimension, and table resizing issues.
+- Resolved conversion errors: InvalidOperationException on HTML import, ArgumentOutOfRangeException on loading, and PptException during PPT/PPTM save operations.
+- Corrected visual defects like white lines and misplaced chart labels in PNG exports.
+
+### 🔍 Public API and Backward Incompatible Changes
+
+- **New Enum Members**:
+  - `EffectSubtype.SlideCenter`
+  - `EffectSubtype.ObjectCenter`  
+  Use with `EffectType.FadedZoom` for precise zoom-in location targeting.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Slides for .NET 24.10 Release Notes](https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-10-release-notes/)
+
+---
+
+[`pptx to png lines`](https://search.aspose.com/q/pptx-to-png-lines.html) | [`emf pdf rotation fix`](https://search.aspose.com/q/emf-pdf-rotation-fix.html) | [`chart title missing ppt`](https://search.aspose.com/q/chart-title-missing-ppt.html) | [`zoom effect subtype`](https://search.aspose.com/q/zoom-effect-subtype.html) | [`save pptm issue`](https://search.aspose.com/q/save-pptm-issue.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

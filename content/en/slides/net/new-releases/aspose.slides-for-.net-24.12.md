@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.slides-for-.net-24.12"
-description: " "
+title: "Aspose.Slides for .NET 24.12 MSI – Bug Fixes & Bullet Alignment"
+description: ": Download Aspose.Slides for .NET 24.12 MSI. Fixes PDF, HTML5, SVG, and XPS conversion bugs. Improves chart labels and shape animations in presentations."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/net/new-releases/aspose.slides-for-.net-24.12/"
@@ -14,11 +13,9 @@ download_count: " 2/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 116.2MB"
 parent_path: "slides/net"
 section_parent_path: "slides/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-12-release-notes/"
 weight: 805
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,45 @@ weight: 805
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for .NET 24.12 release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Slides for .NET 24.12 delivers vital fixes for rendering text shadows, chart labels, and SVG alignment. It resolves multiple layout issues in HTML5, PDF, and XPS conversions, and deprecates legacy comment layout APIs.
+
+### ✳️ New Feature
+
+- **Spreadsheet Function Support**: Expanded formula coverage in chart worksheets for better Excel compatibility.
+
+### 🔧 Enhancement
+
+- Improved bullet rendering and alignment in slide-to-image conversion.
+- Enhanced font consistency for PDF/HTML export with fonts like Walbaum Display.
+
+### 🛠 Fix
+
+- Fixed missing text/image shadows in PPTX to HTML5.
+- Corrected inaccurate text and label positions in PDF, SVG, and thumbnails.
+- Resolved issues with lost animation motion, Excel icon visibility, and modern comment positioning.
+- Eliminated memory leak during thumbnail generation.
+
+### 🔍 Public API and Backward Incompatible Changes
+
+- **Removed**: Obsolete `NotesCommentsLayouting` properties from:
+  - `HtmlOptions`, `PdfOptions`, `TiffOptions`, `RenderingOptions`
+- **Replacement**: Use `SlidesLayoutOptions` for controlling layout behavior.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Slides for .NET 24.12 Release Notes](https://releases.aspose.com/slides/net/release-notes/2024/aspose-slides-for-net-24-12-release-notes/)
+
+---
+
+[`pptx to html5 shadow fix`](https://search.aspose.com/q/pptx-to-html5-shadow-fix.html) | [`pdf text alignment issue`](https://search.aspose.com/q/pdf-text-alignment-issue.html) | [`slide to image bullet format`](https://search.aspose.com/q/slide-to-image-bullet-format.html) | [`chart label formatting pptx`](https://search.aspose.com/q/chart-label-formatting-pptx.html) | [`aspose slides api changes`](https://search.aspose.com/q/aspose-slides-api-changes.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
