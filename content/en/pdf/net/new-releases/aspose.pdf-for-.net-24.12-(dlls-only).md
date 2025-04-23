@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.pdf-for-.net-24.12-(dlls-only)"
-description: " "
+title: "Aspose.PDF for .NET 24.12 DLLs – Enhanced Fonts & Form Control"
+description: "Aspose.PDF for .NET 24.12 DLLs improve font handling, PDF/A compliance, checkbox styles, and fix rendering and stability issues across formats."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/net/new-releases/aspose.pdf-for-.net-24.12-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 13/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 193.55MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/pdf/net/release-notes/2024/aspose-pdf-for-net-24-12-release-notes/"
 weight: 902
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,43 @@ weight: 902
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.PDF for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.PDF without the MSI installer.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.PDF for .NET 24.12 DLLs enhance rendering and formatting control with new PDF/X intent profiles, better font diagnostics, and auto-sizing for text stamps. Delivers fixes for font, layout, and file operation issues across PDF workflows.
+
+### ✳️ New Feature
+
+- **Custom ICC for PDF/X**: Set precise color management for PDF/X-1a with ICC profiles.
+- **Font Analyzer Utility**: Discover ideal font options during document processing.
+- **TextStamp Auto-Font Sizing**: Ensure stamped text scales correctly inside layout boundaries.
+
+### 🔧 Enhancement
+
+- **Checkbox Visuals**: Control background fill on form CheckBoxes.
+- **Text Replacement Fonts**: Improved font matching and fallback behavior.
+- **Image Integrity Checks**: Extract unmodified raw images embedded in documents.
+- **Permissions API**: Access document restriction information via code.
+
+### 🛠 Fix
+
+- Prevented formatting loss, font corruption, and image overlay issues in converted documents.
+- Addressed crashes when working with EPUBs, HTML, and encrypted PDFs.
+- Fixed bugs in redactions, underline styling, and Optimize-related regressions.
+- Enhanced performance and memory handling during merge and text operations.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.PDF for .NET 24.12 Release Notes](https://releases.aspose.com/pdf/net/release-notes/2024/aspose-pdf-for-net-24-12-release-notes/)
+
+---
+
+[`custom pdfx output`](https://search.aspose.com/q/custom-pdfx-output.html) | [`pdf font analyzer`](https://search.aspose.com/q/pdf-font-analyzer.html) | [`form styling options`](https://search.aspose.com/q/form-styling-options.html) | [`pdf raw image export`](https://search.aspose.com/q/pdf-raw-image-export.html) | [`aspose pdf optimization fixes`](https://search.aspose.com/q/aspose-pdf-optimization-fixes.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

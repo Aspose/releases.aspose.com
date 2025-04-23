@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.pdf-for-.net-25.4-(dlls-only)"
-description: " "
+title: "Aspose.PDF for .NET 25.4 DLLs - OCR, Auto-Tagging, Encryption"
+description: "Get Aspose.PDF for .NET 25.4 DLLs only. OCR extraction, document tagging, unified printing, and full encryption handler integration included."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/net/new-releases/aspose.pdf-for-.net-25.4-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 11/4/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 195.35MB"
 parent_path: "pdf/net"
 section_parent_path: "pdf/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/pdf/net/release-notes/2025/aspose-pdf-for-net-25-4-release-notes/"
 weight: 914
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,48 @@ weight: 914
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.PDF for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.PDF without the MSI installer.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+This DLLs-Only package of Aspose.PDF for .NET 25.4 enhances your document automation with AI-powered OCR, automatic tagging in PDF/A, and secure custom encryption models.
+
+### ✳️ New Feature
+
+- **AI-Powered OCR Integration**: Use `OpenAIOcrCopilotOptions` for high-accuracy OCR from scanned documents and images.
+- **Automatic Tagging During Conversion**: Generate logical structure for accessibility with `AutoTaggingSettings`.
+- **Unified Print Jobs**: Print multiple documents as one job using `PdfViewer.PrintDocuments()`.
+- **Custom Encryption Handler**: Implement `ICustomSecurityHandler` to define proprietary PDF security logic.
+
+### 🔧 Enhancement
+
+- Added support for PDF/A-4 standards and certificate chain validation during signature verification.
+- New API access for annotation creation and logical structuring utilities.
+
+### 🛠 Fix
+
+- Addressed major bugs in SVG to PDF, image rendering, DOCX export, metadata corruption, and XFA form behavior.
+- Numerous fixes across text rendering, layout preservation, and compatibility layers.
+
+### 🔍 Public API and Backward Incompatible Changes
+
+**Added APIs**:
+- New AI OCR classes, encryption methods, tagging utilities, and multipage print functions.
+
+**Removed APIs**:
+- Obsolete properties from AI and Markdown classes, deprecated PDF security settings.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.PDF for .NET 25.4 Release Notes](https://releases.aspose.com/pdf/net/release-notes/2025/aspose-pdf-for-net-25-4-release-notes/)
+
+---
+
+[`dlls only ocr`](https://search.aspose.com/q/dlls-only-ocr.html) | [`custom pdf security handler`](https://search.aspose.com/q/custom-pdf-security-handler.html) | [`pdf a tagging`](https://search.aspose.com/q/pdf-a-tagging.html) | [`multi file pdf printing`](https://search.aspose.com/q/multi-file-pdf-printing.html) | [`aspose pdf ai copilot`](https://search.aspose.com/q/aspose-pdf-ai-copilot.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
