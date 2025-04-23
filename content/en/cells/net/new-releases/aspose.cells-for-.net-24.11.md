@@ -1,6 +1,6 @@
 ---
-title: "Downloads ---New Releases-aspose.cells-for-.net-24.11"
-description: " "
+title: "Aspose.Cells for .NET 24.11 MSI: Enhanced Excel to PDF"
+description: "Explore new features in Aspose.Cells for .NET 24.11 MSI including freeform shape support, pivot connections, and precise image rendering in Excel to PDF."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/net/new-releases/aspose.cells-for-.net-24.11/"
@@ -111,43 +111,41 @@ weight: 723
 
 {{% Releases/ReleasesFileFeatures %}}
 
-#### Release Notes Highlights
+#### Release Highlights
 
-##### **New Features**
-  - Add freeform shapes to enhance drawing capabilities.
-  - Convert cell pictures directly to PDF.
-  - Place images in cells using MemoryPreference mode.
-  - Use pictures as a result of calculations in cells.
-  - Conditional formatting support for placing images in multiple cells.
-  - Conversion from XLSX to PCL (Printer Command Language) format.
-  - Access external sources for PivotTables.
-  - Get table relationships within an Excel sheet.
-  - Set number format types (date, time, currency, number, accounting) in GridJs.
+- **PDF Conversion Optimization**: Better image memory handling and enhanced equation rendering.
+- **Pivot Table Performance**: Improved grouped field calculations and pivot cache behavior.
+- **Chart Display**: Optimized chart title positioning and font rendering consistency.
+- **Mobile UX**: Improved multilingual date selector and validation error styling.
+- **OLE Format Detection**: Enhanced format recognition and shape/text layout fidelity.
 
-##### **Enhancements**:
-  - Update text options API and support adding SignatureLine in `ShapeCollection`.
-  - Enable concurrent formatting in a multi-threaded environment.
-  - Optimize SVG image generation, pivot item properties, and HTML icon set writing.
-  - Add support for handling multiple features of PivotTables.
+### ✳️ New Features
 
-##### **Bug Fixes**:
-  - Fix empty SmartArt/Shapes during Excel to PDF rendering.
-  - Resolve issues with dynamic array formula recalculation.
-  - Address chart and legend discrepancies in Excel rendering.
-  - Improve behavior when importing HTML into Excel.
+- Added support for placing images in cells using `MemoryPreference` mode.
+- Enabled xlsx to PCL (Printer Command Language) export.
+- Supported images as calculated values and added `SignatureLine` to worksheet.
+- Introduced new formatting APIs for GridJS and dynamic number type formatting.
+- Enabled retrieval of external pivot table connections and relationships.
 
-##### **API Changes**:
-- Removed GridWeb/GridDesktop/GridJS from the download archive. These components are now available via NuGet: `Aspose.Cells.GridDesktop`, `Aspose.Cells.GridJs`, `Aspose.Cells.GridWeb`.
-- Modified the return behavior of `Cells.TextToColumns()` to provide the total count of columns filled with split data, with adjusted number format handling.
-- Added several new classes and properties, including:
-  - `SaveFormat.Pcl` and `PclSaveOptions` for PCL format conversion.
-  - `Workbook.DataModel` property for data model settings.
-  - Methods for color sorting keys and handling pivot item details.
-  - `ShapeCollection` methods for adding freeform shapes, signature lines, and more complex path features.
-  - `TextBoxOptions` for managing shape text details.
-  - New enums such as `SignatureType` and `ShapeTextVerticalAlignmentType`.
+### 🛠 Enhancements
 
-> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.Cells for .NET 24.11 Release Notes](https://releases.aspose.com/cells/net/release-notes/2024/aspose-cells-for-net-24-11-release-notes/).
+- Optimized SVG generation across frameworks and memory usage during save.
+- Enhanced pivot table connection metadata and dynamic data model handling.
+- Improved Excel-like formatting concurrency and icon set export to HTML.
+- Enriched textbox options and freeform shape drawing functionality.
+
+### 🐞 Fixes
+
+- Corrected image loss and SmartArt display issues in Excel to PDF.
+- Fixed dynamic array calculation inconsistencies and chart axis misalignments.
+- Resolved exceptions during save, formula evaluation, and pivot group handling.
+- Addressed HTML import/export layout fidelity and metadata preservation.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Cells for .NET 24.11 Release Notes](https://releases.aspose.com/cells/net/release-notes/2024/aspose-cells-for-net-24-11-release-notes/)
+
+---
+
+[freeform shapes](https://search.aspose.com/q/freeform-shapes.html) | [excel to pdf](https://search.aspose.com/q/excel-to-pdf.html) | [pivot table api](https://search.aspose.com/q/pivot-table-api.html) | [pcl export](https://search.aspose.com/q/pcl-export.html) | [textbox formatting](https://search.aspose.com/q/textbox-formatting.html)
 
 ---
     
