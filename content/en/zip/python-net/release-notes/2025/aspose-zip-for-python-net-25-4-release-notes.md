@@ -4,7 +4,7 @@ slug: "aspose-zip-for-python-net-25-4-release-notes"
 linktitle: "Aspose.ZIP for Python via .NET 25.4 Release Notes"
 title: "Aspose.ZIP for Python via .NET 25.4 Release Notes"
 weight: 12
-description: "Aspose.ZIP for Python via .NET 25.4 Release Notes – the latest updates and fixes."
+description: "Aspose.ZIP for Python via .NET 25.4 Release Notes â€“ the latest updates and fixes."
 type: "repository"
 layout: "release"
 hideChildren: false
