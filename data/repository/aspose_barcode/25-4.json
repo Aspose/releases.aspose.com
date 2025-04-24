@@ -1,0 +1,15 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-barcode",
+  "id" : "25-4",
+  "packageFiles" : [ {
+    "size" : "14 MB",
+    "name" : "aspose-barcode-25.4.jar"
+  }, {
+    "size" : "397 bytes",
+    "name" : "aspose-barcode-25.4.pom"
+  } ],
+  "releasehDate" : "2025-04-24T14:05:47+00:00",
+  "version" : "25.4",
+  "ReleaseNotes" : "https://releases.aspose.com/barcode/java/release-notes/2025/aspose-barcode-for-java-25-4-release-notes/"
+}
