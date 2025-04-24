@@ -10,7 +10,7 @@ download_link: "/zip/python-net/new-releases/aspose.zip-for-python-via-.net-25.4
 download_text: "Descargar"
 intro_text: "Contiene Aspose.Tasks para Python a través de archivos binarios de MacOS .NET 25.4"
 image_link: "/resources/img/random-file-icon.png"
-download_count: " 24/4/2025 Descargars: 1  Views: 1 "
+download_count: " 24/4/2025 Descargars: 2  Views: 1 "
 file_size: "File Size: 39.46MB"
 parent_path: "zip/python-net"
 section_parent_path: "zip/python-net"
@@ -31,7 +31,7 @@ weight: 84
     {{< Releases/ReleasesHeading h4txt="detalles del archivo">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Descargars: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-a72c3e8dd50c0f5affafae6d7fdd3202-8-12966" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-a72c3e8dd50c0f5affafae6d7fdd3202-8-12966" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} Tamaño del archivo: {{< /Common/li >}}
       {{< Common/li id="size-update-a72c3e8dd50c0f5affafae6d7fdd3202-8-12966" >}} 39.46MB {{< /Common/li >}}
 
