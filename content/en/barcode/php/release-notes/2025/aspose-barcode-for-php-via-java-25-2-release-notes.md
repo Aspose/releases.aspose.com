@@ -1,6 +1,6 @@
 ---
-id: "aspose-barcode-for-php-via-java-25_2-release-notes"
-slug: "aspose-barcode-for-php-via-java-25_2-release-notes"
+id: "aspose-barcode-for-php-via-java-25-2-release-notes"
+slug: "aspose-barcode-for-php-via-java-25-2-release-notes"
 linktitle: "Aspose.BarCode for PHP via Java 25.2"
 title: "Aspose.BarCode for PHP via Java 25.2"
 weight: 9800
