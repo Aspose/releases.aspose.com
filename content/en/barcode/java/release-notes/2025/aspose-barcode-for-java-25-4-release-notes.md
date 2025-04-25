@@ -3,7 +3,7 @@ id: "aspose-barcode-for-java-25-4-release-notes"
 slug: "aspose-barcode-for-java-25-4-release-notes"
 linktitle: "Aspose.BarCode for Java 25.4 Release Notes"
 title: "Aspose.BarCode for Java 25.4 Release Notes"
-weight: 960
+weight: 940
 description: "Aspose.BarCode for Java 25.4 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
