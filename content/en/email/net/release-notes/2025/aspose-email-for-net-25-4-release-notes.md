@@ -23,7 +23,7 @@ This page contains release notes information for Aspose.Email for .NET 25.4
 Developers using this legacy framework are strongly encouraged to plan migration to newer versions of .NET (such as .NET Framework 4.5+, .NET Core, or .NET 6/8) to continue receiving updates, new features, and technical support.
 
 > **Important:**  
-> After support is discontinued, Aspose.Email for .NET will no longer guarantee compatibility or fixes compatible for .NET Framework 2.0.
+> After support is discontinued, Aspose.Email for .NET will no longer guarantee compatibility or fixes compatible with .NET Framework 2.0.
 
 ## **All Changes**
 
