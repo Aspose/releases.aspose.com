@@ -3,7 +3,7 @@ id: "aspose-words-for-jasperreports-23-10-1-release-notes"
 slug: "aspose-words-for-jasperreports-23-10-1-release-notes"
 linktitle: "Aspose.Words for JasperReports 23.10.1 Release Notes"
 title: "Aspose.Words for JasperReports 23.10.1 Release Notes"
-weight: 25
+weight: 29
 description: "Aspose.Words for JasperReports 23.10.1 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
