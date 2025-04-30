@@ -79,37 +79,45 @@ This page contains release notes information for [Aspose.Tasks for Python via .N
 
 List of task bar types in the legend of Gantt chart can now be contolled using SaveOptions.LegendItems property:
 
-```cs
-var p = new Project(@"input.mpp");
-var pdfSaveOptions = new PdfSaveOptions();
-pdfSaveOptions.StartDate = p.StartDate;
-pdfSaveOptions.EndDate = p.FinishDate;
-pdfSaveOptions.PageSize = PageSize.A4;
-pdfSaveOptions.LegendDrawingOptions = LegendDrawingOptions.OnEveryPage;
-pdfSaveOptions.ViewSettings = p.Views.GetByName("&Gantt Chart");
+```py
+import aspose.tasks as tsk
+import aspose.tasks.saving as ats
+import aspose.tasks.visualization as atv
 
-pdfSaveOptions.LegendItems = new PageLegendItem[]
-{
-new PageLegendItem(BarItemType.Task, "Task"),
-new PageLegendItem(BarItemType.ExternalMilestone, "External Milestone"),
-new PageLegendItem(BarItemType.SummaryRollup, "Summary Rollup"),
-new PageLegendItem(BarItemType.InactiveTask, "Inactive Task"),
-new PageLegendItem(BarItemType.ManualSummary, "Manual Summary")
-};
+p = tsk.Project("./data/project2019.mpp")
+options = ats.PdfSaveOptions()
+options.start_date = p.start_date
+options.end_date = p.finish_date
+options.page_size = atv.PageSize.A4;
+options.legend_drawing_options = ats.LegendDrawingOptions.ON_EVERY_PAGE
+options.view_settings = p.views.get_by_name("&Gantt Chart")
 
-p.Save("output.pdf", pdfSaveOptions);
+options.legend_items = [
+    atv.PageLegendItem(atv.BarItemType.TASK, "Task"),
+    atv.PageLegendItem(atv.BarItemType.EXTERNAL_MILESTONE, "External Milestone"),
+    atv.PageLegendItem(atv.BarItemType.SUMMARY_ROLLUP, "Summary Rollup"),
+    atv.PageLegendItem(atv.BarItemType.INACTIVE_TASK, "Inactive Task"),
+    atv.PageLegendItem(atv.BarItemType.MANUAL_SUMMARY, "Manual Summary")
+]
+
+p.save("output.pdf", options)
 ```
 
 **TASKSNET-11224 - Add a setting which allows to specify that the timescale should stretch to the end of the page**
 
 The property SaveOptions.TimescaleFitBehavior was added to allow contol of the rendering of the timescale's right end:
-```cs
-var p = new Project("NewProductDev.mpp");
-var pdfSaveOptions = new PdfSaveOptions();
-pdfSaveOptions.ViewSettings = p.Views.GetByName("&Gantt Chart");
-pdfSaveOptions.TimescaleFitBehavior = TimescaleFitBehavior.NoScaleToEndOfPage;
-pdfSaveOptions.EndDate = new DateTime(2012, 7, 15);
-p.Save("output.pdf", pdfSaveOptions);
+```py
+import aspose.tasks as tsk
+import aspose.tasks.saving as ats
+import aspose.tasks.visualization as atv
+from datetime import *
+
+p = tsk.Project("NewProductDev.mpp")
+options = ats.PdfSaveOptions()
+options.view_settings = p.views.get_by_name("&Gantt Chart")
+options.timescale_fit_behavior = atv.TimescaleFitBehavior.NO_SCALE_TO_END_OF_PAGE
+options.end_date = datetime(2012, 7, 15)
+p.save("output.pdf", options)
 ```
 
 The following diagram show layouts of the timescale when different values of TimescaleFitBehavior are used:
@@ -123,59 +131,52 @@ The property bool SaveOptions.FitTimescaleToEndOfPage was marked as obsolete and
 The method Calendar.GetIntersectionCalendar was added to allow the user to get and perform calendar-related calculations using "intersection" of two calendars.
 The API can be useful for calculations of dates or durations of resource assignments when assignment's task and resource have their own non-default calendars:
 
-```cs
-var p = new Project();
+```py
+import aspose.tasks as tsk
+from datetime import *
 
-var resource = p.Resources.Add("Work Resource");
+p = tsk.Project()
+resource = p.resources.add("Work Resource")
 
-var resourceCalendar = p.Calendars.Add("Work Resource", p.Calendar);
-resourceCalendar.WeekDays.Add(new WeekDay(DayType.Monday, new WorkingTime(9, 16)));
-resourceCalendar.WeekDays.Add(new WeekDay(DayType.Tuesday, new WorkingTime(9, 16)));
-resourceCalendar.WeekDays.Add(new WeekDay(DayType.Wednesday, new WorkingTime(9, 16)));
-resourceCalendar.WeekDays.Add(new WeekDay(DayType.Thursday, new WorkingTime(9, 16)));
-resourceCalendar.WeekDays.Add(new WeekDay(DayType.Friday, new WorkingTime(9, 16)));
-resourceCalendar.WeekDays.Add(new WeekDay(DayType.Saturday, new WorkingTime(9, 16)));
-resourceCalendar.WeekDays.Add(new WeekDay(DayType.Sunday, new WorkingTime(9, 16)));
+rsc_cal = p.calendars.add("Work Resource", p.calendar)
+rsc_cal.week_days.append(tsk.WeekDay(tsk.DayType.MONDAY, [tsk.WorkingTime(9, 16)]))
+rsc_cal.week_days.append(tsk.WeekDay(tsk.DayType.TUESDAY, [tsk.WorkingTime(9, 16)]))
+rsc_cal.week_days.append(tsk.WeekDay(tsk.DayType.WEDNESDAY, [tsk.WorkingTime(9, 16)]))
+rsc_cal.week_days.append(tsk.WeekDay(tsk.DayType.THURSDAY, [tsk.WorkingTime(9, 16)]))
+rsc_cal.week_days.append(tsk.WeekDay(tsk.DayType.FRIDAY, [tsk.WorkingTime(9, 16)]))
+rsc_cal.week_days.append(tsk.WeekDay(tsk.DayType.SATURDAY, [tsk.WorkingTime(9, 16)]))
+rsc_cal.week_days.append(tsk.WeekDay(tsk.DayType.SUNDAY, [tsk.WorkingTime(9, 16)]))
 
-var task = p.RootTask.Children.Add("Task");
+task = p.root_task.children.add("Task")
 
-var taskCalendar = p.Calendars.Add("Task calendar");
-taskCalendar.WeekDays.Add(new WeekDay(DayType.Monday, new WorkingTime(8, 12), new WorkingTime(15, 18)));
-taskCalendar.WeekDays.Add(new WeekDay(DayType.Tuesday, new WorkingTime(8, 12), new WorkingTime(15, 18)));
-taskCalendar.WeekDays.Add(new WeekDay(DayType.Wednesday, new WorkingTime(8, 12), new WorkingTime(15, 18)));
-taskCalendar.WeekDays.Add(new WeekDay(DayType.Thursday, new WorkingTime(8, 12), new WorkingTime(15, 18)));
-taskCalendar.WeekDays.Add(new WeekDay(DayType.Friday, new WorkingTime(8, 12), new WorkingTime(15, 18)));
-taskCalendar.WeekDays.Add(new WeekDay(DayType.Saturday));
-taskCalendar.WeekDays.Add(new WeekDay(DayType.Sunday));
 
-task.Calendar = taskCalendar;
+tsk_cal = p.calendars.add("Task calendar")
+tsk_cal.week_days.append(tsk.WeekDay(tsk.DayType.MONDAY, [tsk.WorkingTime(8, 12), tsk.WorkingTime(15, 18)]))
+tsk_cal.week_days.append(tsk.WeekDay(tsk.DayType.TUESDAY, [tsk.WorkingTime(8, 12), tsk.WorkingTime(15, 18)]))
+tsk_cal.week_days.append(tsk.WeekDay(tsk.DayType.WEDNESDAY, [tsk.WorkingTime(8, 12), tsk.WorkingTime(15, 18)]))
+tsk_cal.week_days.append(tsk.WeekDay(tsk.DayType.THURSDAY, [tsk.WorkingTime(8, 12), tsk.WorkingTime(15, 18)]))
+tsk_cal.week_days.append(tsk.WeekDay(tsk.DayType.FRIDAY, [tsk.WorkingTime(8, 12), tsk.WorkingTime(15, 18)]))
+tsk_cal.week_days.append(tsk.WeekDay(tsk.DayType.SATURDAY))
+tsk_cal.week_days.append(tsk.WeekDay(tsk.DayType.SUNDAY))
 
-var assignment = p.ResourceAssignments.Add(task, resource);
+task.calendar = tsk_cal
 
-var intersectionCalendar = Calendar.GetIntersectionCalendar(taskCalendar, resourceCalendar);
+asn = p.resource_assignments.add(task, resource)
 
-Console.WriteLine("{0} plus 30 working hours is {1}",
-new DateTime(2025, 4, 14, 8, 0, 0),
-intersectionCalendar.GetFinishDateByStartAndWork(new DateTime(2025, 4, 14, 8, 0, 0), TimeSpan.FromHours(30)));
+intersect_cal = tsk.Calendar.get_intersection_calendar(tsk_cal, rsc_cal)
+fd = intersect_cal.get_finish_date_by_start_and_work(datetime(2025, 4, 14, 8, 0, 0), timedelta(hours=30))
+print(f"{datetime(2025, 4, 14, 8, 0, 0)} plus 30 working hours is {1}")
 
-var date = new DateTime(2025, 4, 14, 8, 0, 0);
-for (int i = 0; i < 7; i++)
-{
-var d = date.AddDays(i);
+dt = datetime(2025, 4, 14, 8, 0, 0)
+for i in range(7):
+    d = dt + timedelta(days = i)
+    wts = intersect_cal.get_working_times(d)
 
-var wts = intersectionCalendar.GetWorkingTimes(d);
+    if len(wts) == 0:
+        print(f"{d} is a non working day")
+        continue
 
-if (wts.Count == 0)
-{
-Console.WriteLine("{0:yyyy-MM-dd} is a non working day", d);
-continue;
-}
-
-Console.WriteLine("Working times for date {0:yyyy-MM-dd}:", d);
-
-foreach (var w in wts)
-{
-Console.WriteLine("{0} - {1}", w.From.TimeOfDay, w.To.TimeOfDay);
-}
-}
+    print(f"Working times for date {d}:")
+    for w in wts:
+        print(f"{w.from_address.time()} - {w.to.time()}")
 ```
