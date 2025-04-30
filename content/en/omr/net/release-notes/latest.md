@@ -2,7 +2,7 @@
 id: "aspose-omr-for-net-latest-release-notes"
 slug: "latest"
 weight: 1
-date: "2025-03-01"
+date: "2025-04-30"
 author: "Nikita Korobeynikov"
 type: "repository"
 layout: "release"
@@ -14,7 +14,6 @@ keywords:
 - release
 - changelog
 ---
-
 
 {{% alert color="primary" %}}
 This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OMR for .NET 25.4.0 (March 2025)**](https://www.nuget.org/packages/Aspose.OMR/25.4.0) release.
@@ -36,29 +35,30 @@ This section lists all public API changes introduced in **Aspose.OMR for .NET 25
 
 The following public APIs have been added to Aspose.OMR for .NET 25.4.0:
 
-#### `Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet.BubbleArrayConfig.Height` property
-#### `height` text markup attribute for `bubble_array`
-#### `height` JSON markup attribute for `BubbleArray`
+
+##### `Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet.BubbleArrayConfig.Height` property
+##### `height` text markup attribute for `bubble_array`
+##### `height` JSON markup attribute for `BubbleArray`
 Overrides height of bubble array row. Set in pixels.
 Partially visible or overflowing content will be removed. 
 Default value is -1. By default  height of the bubble array will be scaled automatically.        
 
-#### `Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet.BubbleArrayConfig.Threshold` property
-#### `threshold` text markup attribute for `bubble_array`
-#### `threshold` JSON markup attribute for `BubbleArray`
+###### `Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet.BubbleArrayConfig.Threshold` property
+###### `threshold` text markup attribute for `bubble_array`
+###### `threshold` JSON markup attribute for `BubbleArray`
 Override global threshold provided during recognition for bubbles in this array.
 Integer represent percent of pixels from 0 to 100 after which bubbles considered marked.
 Default value is -1. By default global value of threshold will be used.
 
-#### `Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet.BubbleArrayConfig.VerticalPadding` property
-#### `vertical_padding` text markup attribute for `bubble_array`
-#### `vertical_padding` JSON markup attribute for `BubbleArray`
+###### `Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet.BubbleArrayConfig.VerticalPadding` property
+###### `vertical_padding` text markup attribute for `bubble_array`
+###### `vertical_padding` JSON markup attribute for `BubbleArray`
 Number of additional pixels on top and bottom sides inside bubble row
 Default value is 0.
 
-#### `Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet.BubbleArrayConfig.HorizontalPadding` property
-#### `horizontal_padding` text markup attribute for `bubble_array`
-#### `horizontal_padding` JSON markup attribute for `BubbleArray`
+###### `Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet.BubbleArrayConfig.HorizontalPadding` property 
+###### `horizontal_padding` text markup attribute for `bubble_array` 
+###### `horizontal_padding` JSON markup attribute for `BubbleArray` 
 Number of additional pixels on left and right sides inside bubble row
 Default value is 0
 
@@ -114,12 +114,9 @@ See the examples below to learn more about the changes introduced in this releas
 &custom_row
 &custom_answer_sheet
 ```
-{{% alert color="caution" %}} //red, critical
+{{% alert color="caution" %}}
 Please notice, that bubbles from "E" to "L" are clipped.
 They will not be displayed at the generated template and will not participate in recognition process.
 {{% /alert %}} 
 
-
-![alt text](custom_answer_sheet.png)
-
-
+![custom answer sheet](../custom_answer_sheet.png)
