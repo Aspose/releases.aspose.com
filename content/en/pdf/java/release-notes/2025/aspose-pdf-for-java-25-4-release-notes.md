@@ -4,7 +4,7 @@ slug: "aspose-pdf-for-java-25-4-release-notes"
 linktitle: "Aspose.PDF for Java 25.4 Release Notes"
 title: "Aspose.PDF for Java 25.4 Release Notes"
 weight: 110
-description: "Aspose.PDF for Java 25.4 Release Notes – the latest updates and fixes."
+description: "Aspose.PDF for Java 25.4 Release Notes â€“ the latest updates and fixes."
 type: "repository"
 layout: "release"
 hideChildren: false
@@ -36,14 +36,13 @@ This page contains release notes information for Aspose.PDF for Java 25.4.
 |PDFJAVA-44883|PDF to DOCX: Bottom padding in table cells is too small.|Bug|
 |PDFJAVA-44530|Formatting not getting applied to Japanese text when inserting in PDF|Bug|
 |PDFJAVA-44916|Exception: Private key is not available. (DSA key)|Bug|
-|PDFJAVA-43403|HTM to PDF - NegativeArraySizeException with error message “-1118738328|Bug|
+|PDFJAVA-43403|HTM to PDF - NegativeArraySizeException with error message â€œ-1118738328|Bug|
 |PDFJAVA-44912|PDF to ODS: Preserve hyperlinks|Bug|
 |PDFJAVA-44905|PDF to Excel: Data is split into two cells|Bug|
 |PDFJAVA-44932|PDF to Excel: Cell is incorrectly split|Bug|
 
 
 ## **Public API and Backwards Incompatible Changes**
-
 
 
 **Removed field:**
