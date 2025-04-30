@@ -1,20 +1,25 @@
 ---
-id: "aspose-omr-for-net-latest-release-notes"
-slug: "latest"
-weight: 1
-date: "2025-03-01"
+date: "2025-04-30"
 author: "Nikita Korobeynikov"
+id: "aspose-omr-for-net-25-4-0-release-notes"
+slug: "aspose-omr-for-net-25-4-0-release-notes"
+linktitle: "Aspose.OMR for .NET 25.4.0 - Release Notes"
+title: "Aspose.OMR for .NET 25.4.0 - Release Notes"
+weight: 91
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for .NET 25.4.0 (March 2025) release."
 type: "repository"
 layout: "release"
-title: Latest release
-description: A summary of recent changes, enhancements and bug fixes in the latest release of Aspose.OMR for .NET.
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OMR for .NET 25.4.0 - Release Notes"
 keywords:
-- latest
+- "2025"
+- April
 - new
 - release
 - changelog
+menuItemWithNoContent: false
 ---
-
 
 {{% alert color="primary" %}}
 This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OMR for .NET 25.4.0 (March 2025)**](https://www.nuget.org/packages/Aspose.OMR/25.4.0) release.
@@ -78,39 +83,39 @@ See the examples below to learn more about the changes introduced in this releas
 
 ```text
 ?custom_answer_sheet=PART 1
-    section_border=square
-    amount=20
-    columns_count=4	
-    row_proportions=20%-50%-30%
+	section_border=square
+	amount=20
+	columns_count=4	
+	row_proportions=20%-50%-30%
 ?header=123
 ?column=QNo.
-    font_size=6
-    font_style=bold
-    align=center
+	font_size=6
+	font_style=bold
+	align=center
 ?column=Bubbles
-    font_size=6
-    font_style=bold
-    align=center
+	font_size=6
+	font_style=bold
+	align=center
 ?column=text
-    font_size=6
-    font_style=bold
-    align=center
+	font_size=6
+	font_style=bold
+	align=center
 &header
 ?custom_row=row_%index%
 ?content=%index%
-    font_size=6
-    align=center
+	font_size=6
+	align=center
 ?bubble_array=b_%index%
-    answers_list=(A)(B)(C)(D)(E)(F)(G)(H)(I)(G)(K)(L)
-    bubble_size=extrasmall
-    font_size=4
-    threshold=70
-    height=120
-    vertical_padding=20
-    horizontal_padding=20
+	answers_list=(A)(B)(C)(D)(E)(F)(G)(H)(I)(G)(K)(L)
+	bubble_size=extrasmall
+	font_size=4
+	threshold=70
+	height=120
+	vertical_padding=20
+	horizontal_padding=20
 ?content=text_%index%
-    font_size=6
-    align=center
+	font_size=6
+	align=center
 &custom_row
 &custom_answer_sheet
 ```
@@ -119,7 +124,5 @@ Please notice, that bubbles from "E" to "L" are clipped.
 They will not be displayed at the generated template and will not participate in recognition process.
 {{% /alert %}} 
 
-
 ![alt text](custom_answer_sheet.png)
-
 
