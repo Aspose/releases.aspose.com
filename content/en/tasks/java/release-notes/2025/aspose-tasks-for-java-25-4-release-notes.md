@@ -85,37 +85,44 @@ This page contains release notes information for [Aspose.Tasks for Java 25.4](ht
 
 List of task bar types in the legend of Gantt chart can now be contolled using SaveOptions.LegendItems property:
 
-```cs
-var p = new Project(@"input.mpp");
-var pdfSaveOptions = new PdfSaveOptions();
-pdfSaveOptions.StartDate = p.StartDate;
-pdfSaveOptions.EndDate = p.FinishDate;
-pdfSaveOptions.PageSize = PageSize.A4;
-pdfSaveOptions.LegendDrawingOptions = LegendDrawingOptions.OnEveryPage;
-pdfSaveOptions.ViewSettings = p.Views.GetByName("&Gantt Chart");
+```java
+import com.aspose.tasks.*;
 
-pdfSaveOptions.LegendItems = new PageLegendItem[]
-{
-    new PageLegendItem(BarItemType.Task, "Task"),
-    new PageLegendItem(BarItemType.ExternalMilestone, "External Milestone"),
-    new PageLegendItem(BarItemType.SummaryRollup, "Summary Rollup"),
-    new PageLegendItem(BarItemType.InactiveTask, "Inactive Task"),
-    new PageLegendItem(BarItemType.ManualSummary, "Manual Summary")
-};
+Project p = new Project("d:/JAVA/input.mpp");
+PdfSaveOptions pdfSaveOptions = new PdfSaveOptions();
+pdfSaveOptions.setStartDate(p.getStartDate());
+pdfSaveOptions.setEndDate(p.getFinishDate());
+pdfSaveOptions.setPageSize(PageSize.A4);
+pdfSaveOptions.setLegendDrawingOptions(LegendDrawingOptions.OnEveryPage);
+pdfSaveOptions.setViewSettings(p.getViews().getByName("&Gantt Chart"));
 
-p.Save("output.pdf", pdfSaveOptions);
+pdfSaveOptions.setLegendItems(
+    new PageLegendItem[]
+    {
+        new PageLegendItem(BarItemType.Task, "Task"),
+        new PageLegendItem(BarItemType.ExternalMilestone, "External Milestone"),
+        new PageLegendItem(BarItemType.SummaryRollup, "Summary Rollup"),
+        new PageLegendItem(BarItemType.InactiveTask, "Inactive Task"),
+        new PageLegendItem(BarItemType.ManualSummary, "Manual Summary")
+    });
+
+p.save("output.pdf", pdfSaveOptions);
 ```
 
 **TASKSNET-11224 - Add a setting which allows to specify that the timescale should stretch to the end of the page**
 
 The property SaveOptions.TimescaleFitBehavior was added to allow contol of the rendering of the timescale's right end:
-```cs
-var p = new Project("NewProductDev.mpp");
-var pdfSaveOptions = new PdfSaveOptions();
-pdfSaveOptions.ViewSettings = p.Views.GetByName("&Gantt Chart");
-pdfSaveOptions.TimescaleFitBehavior = TimescaleFitBehavior.NoScaleToEndOfPage;
-pdfSaveOptions.EndDate = new DateTime(2012, 7, 15);
-p.Save("output.pdf", pdfSaveOptions);
+```java
+import com.aspose.tasks.*;
+import java.util.Calendar;
+import java.util.GregorianCalendar;
+
+Project p = new Project("d:/JAVA/NewProductDev.mpp");
+PdfSaveOptions pdfSaveOptions = new PdfSaveOptions();
+pdfSaveOptions.setViewSettings(p.getViews().getByName("&Gantt Chart"));
+pdfSaveOptions.setTimescaleFitBehavior(TimescaleFitBehavior.NoScaleToEndOfPage);
+pdfSaveOptions.setEndDate(new GregorianCalendar(2012, Calendar.JULY, 15).getTime());
+p.save("output.pdf", pdfSaveOptions);
 ```
 
 The following diagram show layouts of the timescale when different values of TimescaleFitBehavior are used:
@@ -129,59 +136,68 @@ The property bool SaveOptions.FitTimescaleToEndOfPage was marked as obsolete and
 The method Calendar.GetIntersectionCalendar was added to allow the user to get and perform calendar-related calculations using "intersection" of two calendars.
 The API can be useful for calculations of dates or durations of resource assignments when assignment's task and resource have their own non-default calendars:
 
-```cs
-var p = new Project();
+```java
+import com.aspose.tasks.*;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Date;
+import java.util.GregorianCalendar;
+import java.util.concurrent.TimeUnit;
 
-var resource = p.Resources.Add("Work Resource");
+Project p = new Project();
 
-var resourceCalendar = p.Calendars.Add("Work Resource", p.Calendar);
-resourceCalendar.WeekDays.Add(new WeekDay(DayType.Monday, new WorkingTime(9, 16)));
-resourceCalendar.WeekDays.Add(new WeekDay(DayType.Tuesday, new WorkingTime(9, 16)));
-resourceCalendar.WeekDays.Add(new WeekDay(DayType.Wednesday, new WorkingTime(9, 16)));
-resourceCalendar.WeekDays.Add(new WeekDay(DayType.Thursday, new WorkingTime(9, 16)));
-resourceCalendar.WeekDays.Add(new WeekDay(DayType.Friday, new WorkingTime(9, 16)));
-resourceCalendar.WeekDays.Add(new WeekDay(DayType.Saturday, new WorkingTime(9, 16)));
-resourceCalendar.WeekDays.Add(new WeekDay(DayType.Sunday, new WorkingTime(9, 16)));
+Resource resource = p.getResources().add("Work Resource");
 
-var task = p.RootTask.Children.Add("Task");
+com.aspose.tasks.Calendar resourceCalendar = p.getCalendars().add("Work Resource", p.getCalendar());
+resourceCalendar.getWeekDays().add(new WeekDay(DayType.Monday, new WorkingTime(9, 16)));
+resourceCalendar.getWeekDays().add(new WeekDay(DayType.Tuesday, new WorkingTime(9, 16)));
+resourceCalendar.getWeekDays().add(new WeekDay(DayType.Wednesday, new WorkingTime(9, 16)));
+resourceCalendar.getWeekDays().add(new WeekDay(DayType.Thursday, new WorkingTime(9, 16)));
+resourceCalendar.getWeekDays().add(new WeekDay(DayType.Friday, new WorkingTime(9, 16)));
+resourceCalendar.getWeekDays().add(new WeekDay(DayType.Saturday, new WorkingTime(9, 16)));
+resourceCalendar.getWeekDays().add(new WeekDay(DayType.Sunday, new WorkingTime(9, 16)));
 
-var taskCalendar = p.Calendars.Add("Task calendar");
-taskCalendar.WeekDays.Add(new WeekDay(DayType.Monday, new WorkingTime(8, 12), new WorkingTime(15, 18)));
-taskCalendar.WeekDays.Add(new WeekDay(DayType.Tuesday, new WorkingTime(8, 12), new WorkingTime(15, 18)));
-taskCalendar.WeekDays.Add(new WeekDay(DayType.Wednesday, new WorkingTime(8, 12), new WorkingTime(15, 18)));
-taskCalendar.WeekDays.Add(new WeekDay(DayType.Thursday, new WorkingTime(8, 12), new WorkingTime(15, 18)));
-taskCalendar.WeekDays.Add(new WeekDay(DayType.Friday, new WorkingTime(8, 12), new WorkingTime(15, 18)));
-taskCalendar.WeekDays.Add(new WeekDay(DayType.Saturday));
-taskCalendar.WeekDays.Add(new WeekDay(DayType.Sunday));
+Task task = p.getRootTask().getChildren().add("Task");
 
-task.Calendar = taskCalendar;
+com.aspose.tasks.Calendar taskCalendar = p.getCalendars().add("Task calendar");
+taskCalendar.getWeekDays().add(new WeekDay(DayType.Monday, new WorkingTime(8, 12), new WorkingTime(15, 18)));
+taskCalendar.getWeekDays().add(new WeekDay(DayType.Tuesday, new WorkingTime(8, 12), new WorkingTime(15, 18)));
+taskCalendar.getWeekDays().add(new WeekDay(DayType.Wednesday, new WorkingTime(8, 12), new WorkingTime(15, 18)));
+taskCalendar.getWeekDays().add(new WeekDay(DayType.Thursday, new WorkingTime(8, 12), new WorkingTime(15, 18)));
+taskCalendar.getWeekDays().add(new WeekDay(DayType.Friday, new WorkingTime(8, 12), new WorkingTime(15, 18)));
+taskCalendar.getWeekDays().add(new WeekDay(DayType.Saturday));
+taskCalendar.getWeekDays().add(new WeekDay(DayType.Sunday));
 
-var assignment = p.ResourceAssignments.Add(task, resource);
+task.setCalendar(taskCalendar);
 
-var intersectionCalendar = Calendar.GetIntersectionCalendar(taskCalendar, resourceCalendar);
+ResourceAssignment assignment = p.getResourceAssignments().add(task, resource);
 
-Console.WriteLine("{0} plus 30 working hours is {1}",
-    new DateTime(2025, 4, 14, 8, 0, 0),
-    intersectionCalendar.GetFinishDateByStartAndWork(new DateTime(2025, 4, 14, 8, 0, 0), TimeSpan.FromHours(30)));
+ICalendar intersectionCalendar = com.aspose.tasks.Calendar.getIntersectionCalendar(taskCalendar, resourceCalendar);
 
-var date = new DateTime(2025, 4, 14, 8, 0, 0);
+GregorianCalendar gc = new GregorianCalendar(2025, Calendar.APRIL, 14, 8, 0, 0);
+
+SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd");
+SimpleDateFormat tf = new SimpleDateFormat("HH:mm:ss");
+
+System.out.printf("%s plus 30 working hours is %s%n",
+    df.format(gc.getTime()),
+    df.format(intersectionCalendar.getFinishDateByStartAndWork(gc.getTime(), TimeUnit.HOURS.toMillis(30)))
+    );
+
 for (int i = 0; i < 7; i++)
 {
-    var d = date.AddDays(i);
+    gc.add(Calendar.DATE, i > 0 ? 1 : 0);
+    Date date = gc.getTime();
+    WorkingTimeCollection wts = intersectionCalendar.getWorkingTimes(date);
 
-    var wts = intersectionCalendar.GetWorkingTimes(d);
-
-    if (wts.Count == 0)
+    if (wts.isEmpty())
     {
-        Console.WriteLine("{0:yyyy-MM-dd} is a non working day", d);
-        continue;
-    }
-
-    Console.WriteLine("Working times for date {0:yyyy-MM-dd}:", d);
-
-    foreach (var w in wts)
-    {
-        Console.WriteLine("{0} - {1}", w.From.TimeOfDay, w.To.TimeOfDay);
+        System.out.printf("%s is a non working day%n", df.format(date));
+    } else {
+        System.out.printf("Working times for date %s%n", df.format(date));
+        for (WorkingTime w : wts) {
+            System.out.printf("%s - %s%n", tf.format(w.getFrom()), tf.format(w.getTo()));
+        }
     }
 }
 ```
