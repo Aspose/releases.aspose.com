@@ -85,37 +85,35 @@ This page contains release notes information for [Aspose.Tasks for C++ 25.4](htt
 
 List of task bar types in the legend of Gantt chart can now be contolled using SaveOptions.LegendItems property:
 
-```cs
-var p = new Project(@"input.mpp");
-var pdfSaveOptions = new PdfSaveOptions();
-pdfSaveOptions.StartDate = p.StartDate;
-pdfSaveOptions.EndDate = p.FinishDate;
-pdfSaveOptions.PageSize = PageSize.A4;
-pdfSaveOptions.LegendDrawingOptions = LegendDrawingOptions.OnEveryPage;
-pdfSaveOptions.ViewSettings = p.Views.GetByName("&Gantt Chart");
-
-pdfSaveOptions.LegendItems = new PageLegendItem[]
-{
-    new PageLegendItem(BarItemType.Task, "Task"),
-    new PageLegendItem(BarItemType.ExternalMilestone, "External Milestone"),
-    new PageLegendItem(BarItemType.SummaryRollup, "Summary Rollup"),
-    new PageLegendItem(BarItemType.InactiveTask, "Inactive Task"),
-    new PageLegendItem(BarItemType.ManualSummary, "Manual Summary")
-};
-
-p.Save("output.pdf", pdfSaveOptions);
+```cpp
+auto p = System::MakeObject<Project>(System::String(u"input.mpp"));
+auto pdfSaveOptions = System::MakeObject<Saving::PdfSaveOptions>();
+pdfSaveOptions->set_StartDate(p->get_StartDate());
+pdfSaveOptions->set_EndDate(p->get_FinishDate());
+pdfSaveOptions->set_PageSize(Aspose::Tasks::Visualization::PageSize::A4);
+pdfSaveOptions->set_LegendDrawingOptions(Aspose::Tasks::Saving::LegendDrawingOptions::OnEveryPage);
+pdfSaveOptions->set_ViewSettings(p->get_Views()->GetByName(u"&Gantt Chart"));
+       
+pdfSaveOptions->set_LegendItems(System::MakeArray<System::SharedPtr<Aspose::Tasks::Visualization::PageLegendItem>>({
+    System::MakeObject<Visualization::PageLegendItem>(Aspose::Tasks::Visualization::BarItemType::Task, u"Task"), 
+    System::MakeObject<Visualization::PageLegendItem>(Aspose::Tasks::Visualization::BarItemType::ExternalMilestone, u"External Milestone"), 
+    System::MakeObject<Visualization::PageLegendItem>(Aspose::Tasks::Visualization::BarItemType::SummaryRollup, u"Summary Rollup"), 
+    System::MakeObject<Visualization::PageLegendItem>(Aspose::Tasks::Visualization::BarItemType::InactiveTask, u"Inactive Task"), 
+    System::MakeObject<Visualization::PageLegendItem>(Aspose::Tasks::Visualization::BarItemType::ManualSummary, u"Manual Summary")
+}));       
+p->Save(u"output.pdf", pdfSaveOptions);
 ```
 
 **TASKSNET-11224 - Add a setting which allows to specify that the timescale should stretch to the end of the page**
 
 The property SaveOptions.TimescaleFitBehavior was added to allow contol of the rendering of the timescale's right end:
-```cs
-var p = new Project("NewProductDev.mpp");
-var pdfSaveOptions = new PdfSaveOptions();
-pdfSaveOptions.ViewSettings = p.Views.GetByName("&Gantt Chart");
-pdfSaveOptions.TimescaleFitBehavior = TimescaleFitBehavior.NoScaleToEndOfPage;
-pdfSaveOptions.EndDate = new DateTime(2012, 7, 15);
-p.Save("output.pdf", pdfSaveOptions);
+```cpp
+auto p = System::MakeObject<Project>(System::String(u"NewProductDev.mpp"));
+auto pdfSaveOptions = System::MakeObject<Saving::PdfSaveOptions>();
+pdfSaveOptions->set_ViewSettings(p->get_Views()->GetByName(u"&Gantt Chart"));
+pdfSaveOptions->set_TimescaleFitBehavior(Aspose::Tasks::Visualization::TimescaleFitBehavior::NoScaleToEndOfPage);
+pdfSaveOptions->set_EndDate(System::DateTime(2012, 7, 15));
+p->Save(u"output.pdf", pdfSaveOptions);
 ```
 
 The following diagram show layouts of the timescale when different values of TimescaleFitBehavior are used:
@@ -129,59 +127,57 @@ The property bool SaveOptions.FitTimescaleToEndOfPage was marked as obsolete and
 The method Calendar.GetIntersectionCalendar was added to allow the user to get and perform calendar-related calculations using "intersection" of two calendars.
 The API can be useful for calculations of dates or durations of resource assignments when assignment's task and resource have their own non-default calendars:
 
-```cs
-var p = new Project();
+```cpp
+auto p = System::MakeObject<Project>();
 
-var resource = p.Resources.Add("Work Resource");
+auto resource = p->get_Resources()->Add(u"Work Resource");
 
-var resourceCalendar = p.Calendars.Add("Work Resource", p.Calendar);
-resourceCalendar.WeekDays.Add(new WeekDay(DayType.Monday, new WorkingTime(9, 16)));
-resourceCalendar.WeekDays.Add(new WeekDay(DayType.Tuesday, new WorkingTime(9, 16)));
-resourceCalendar.WeekDays.Add(new WeekDay(DayType.Wednesday, new WorkingTime(9, 16)));
-resourceCalendar.WeekDays.Add(new WeekDay(DayType.Thursday, new WorkingTime(9, 16)));
-resourceCalendar.WeekDays.Add(new WeekDay(DayType.Friday, new WorkingTime(9, 16)));
-resourceCalendar.WeekDays.Add(new WeekDay(DayType.Saturday, new WorkingTime(9, 16)));
-resourceCalendar.WeekDays.Add(new WeekDay(DayType.Sunday, new WorkingTime(9, 16)));
+auto resourceCalendar = p->get_Calendars()->Add(u"Work Resource", p->get_Calendar());
+resourceCalendar->get_WeekDays()->Add(System::MakeObject<WeekDay>(Aspose::Tasks::DayType::Monday, System::MakeArray<System::SharedPtr<Aspose::Tasks::WorkingTime>>({ System::MakeObject<WorkingTime>(9, 16)})));
+resourceCalendar->get_WeekDays()->Add(System::MakeObject<WeekDay>(Aspose::Tasks::DayType::Tuesday, System::MakeArray<System::SharedPtr<Aspose::Tasks::WorkingTime>>({ System::MakeObject<WorkingTime>(9, 16)})));
+resourceCalendar->get_WeekDays()->Add(System::MakeObject<WeekDay>(Aspose::Tasks::DayType::Wednesday, System::MakeArray<System::SharedPtr<Aspose::Tasks::WorkingTime>>({ System::MakeObject<WorkingTime>(9, 16)})));
+resourceCalendar->get_WeekDays()->Add(System::MakeObject<WeekDay>(Aspose::Tasks::DayType::Thursday, System::MakeArray<System::SharedPtr<Aspose::Tasks::WorkingTime>>({ System::MakeObject<WorkingTime>(9, 16)})));
+resourceCalendar->get_WeekDays()->Add(System::MakeObject<WeekDay>(Aspose::Tasks::DayType::Friday, System::MakeArray<System::SharedPtr<Aspose::Tasks::WorkingTime>>({ System::MakeObject<WorkingTime>(9, 16)})));
+resourceCalendar->get_WeekDays()->Add(System::MakeObject<WeekDay>(Aspose::Tasks::DayType::Saturday, System::MakeArray<System::SharedPtr<Aspose::Tasks::WorkingTime>>({ System::MakeObject<WorkingTime>(9, 16)})));
+resourceCalendar->get_WeekDays()->Add(System::MakeObject<WeekDay>(Aspose::Tasks::DayType::Sunday, System::MakeArray<System::SharedPtr<Aspose::Tasks::WorkingTime>>({ System::MakeObject<WorkingTime>(9, 16)})));
 
-var task = p.RootTask.Children.Add("Task");
+auto task = p->get_RootTask()->get_Children()->Add(u"Task");
 
-var taskCalendar = p.Calendars.Add("Task calendar");
-taskCalendar.WeekDays.Add(new WeekDay(DayType.Monday, new WorkingTime(8, 12), new WorkingTime(15, 18)));
-taskCalendar.WeekDays.Add(new WeekDay(DayType.Tuesday, new WorkingTime(8, 12), new WorkingTime(15, 18)));
-taskCalendar.WeekDays.Add(new WeekDay(DayType.Wednesday, new WorkingTime(8, 12), new WorkingTime(15, 18)));
-taskCalendar.WeekDays.Add(new WeekDay(DayType.Thursday, new WorkingTime(8, 12), new WorkingTime(15, 18)));
-taskCalendar.WeekDays.Add(new WeekDay(DayType.Friday, new WorkingTime(8, 12), new WorkingTime(15, 18)));
-taskCalendar.WeekDays.Add(new WeekDay(DayType.Saturday));
-taskCalendar.WeekDays.Add(new WeekDay(DayType.Sunday));
+auto taskCalendar = p->get_Calendars()->Add(u"Task calendar");
+taskCalendar->get_WeekDays()->Add(System::MakeObject<WeekDay>(Aspose::Tasks::DayType::Monday, System::MakeArray<System::SharedPtr<Aspose::Tasks::WorkingTime>>({ System::MakeObject<WorkingTime>(8, 12), System::MakeObject<WorkingTime>(15, 18)})));
+taskCalendar->get_WeekDays()->Add(System::MakeObject<WeekDay>(Aspose::Tasks::DayType::Tuesday, System::MakeArray<System::SharedPtr<Aspose::Tasks::WorkingTime>>({ System::MakeObject<WorkingTime>(8, 12), System::MakeObject<WorkingTime>(15, 18)})));
+taskCalendar->get_WeekDays()->Add(System::MakeObject<WeekDay>(Aspose::Tasks::DayType::Wednesday, System::MakeArray<System::SharedPtr<Aspose::Tasks::WorkingTime>>({ System::MakeObject<WorkingTime>(8, 12), System::MakeObject<WorkingTime>(15, 18)})));
+taskCalendar->get_WeekDays()->Add(System::MakeObject<WeekDay>(Aspose::Tasks::DayType::Thursday, System::MakeArray<System::SharedPtr<Aspose::Tasks::WorkingTime>>({ System::MakeObject<WorkingTime>(8, 12), System::MakeObject<WorkingTime>(15, 18)})));
+taskCalendar->get_WeekDays()->Add(System::MakeObject<WeekDay>(Aspose::Tasks::DayType::Friday, System::MakeArray<System::SharedPtr<Aspose::Tasks::WorkingTime>>({ System::MakeObject<WorkingTime>(8, 12), System::MakeObject<WorkingTime>(15, 18)})));
+taskCalendar->get_WeekDays()->Add(System::MakeObject<WeekDay>(Aspose::Tasks::DayType::Saturday));
+taskCalendar->get_WeekDays()->Add(System::MakeObject<WeekDay>(Aspose::Tasks::DayType::Sunday));
 
-task.Calendar = taskCalendar;
+task->set_Calendar(taskCalendar);
 
-var assignment = p.ResourceAssignments.Add(task, resource);
+auto assignment = p->get_ResourceAssignments()->Add(task, resource);
 
-var intersectionCalendar = Calendar.GetIntersectionCalendar(taskCalendar, resourceCalendar);
+auto intersectionCalendar = Calendar::GetIntersectionCalendar(taskCalendar, resourceCalendar);
 
-Console.WriteLine("{0} plus 30 working hours is {1}", 
-    new DateTime(2025, 4, 14, 8, 0, 0),
-    intersectionCalendar.GetFinishDateByStartAndWork(new DateTime(2025, 4, 14, 8, 0, 0), TimeSpan.FromHours(30)));
+System::Console::WriteLine(u"{0} plus 30 working hours is {1}", System::DateTime(2025, 4, 14, 8, 0, 0), intersectionCalendar->GetFinishDateByStartAndWork(System::DateTime(2025, 4, 14, 8, 0, 0), System::TimeSpan::FromHours(30)));
 
-var date = new DateTime(2025, 4, 14, 8, 0, 0);
-for (int i = 0; i < 7; i++)
+System::DateTime date(2025, 4, 14, 8, 0, 0);
+for (int32_t i = 0; i < 7; i++)
 {
-    var d = date.AddDays(i);
+    System::DateTime d = date.AddDays(i);
 
-    var wts = intersectionCalendar.GetWorkingTimes(d);
+    auto wts = intersectionCalendar->GetWorkingTimes(d);
 
-    if (wts.Count == 0)
+    if (wts->get_Count() == 0)
     {
-        Console.WriteLine("{0:yyyy-MM-dd} is a non working day", d);
+        System::Console::WriteLine(u"{0:yyyy-MM-dd} is a non working day", d);
         continue;
     }
 
-    Console.WriteLine("Working times for date {0:yyyy-MM-dd}:", d);
+    System::Console::WriteLine(u"Working times for date {0:yyyy-MM-dd}:", d);
 
-    foreach (var w in wts)
+    for (auto && w : wts)
     {
-        Console.WriteLine("{0} - {1}", w.From.TimeOfDay, w.To.TimeOfDay);
+        System::Console::WriteLine(u"{0} - {1}", w->get_From().get_TimeOfDay(), w->get_To().get_TimeOfDay());
     }
 }
 ```
