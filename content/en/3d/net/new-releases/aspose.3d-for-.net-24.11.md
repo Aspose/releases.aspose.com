@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.3d-for-.net-24.11"
-description: " "
+title: "Aspose.3D 24.11 Adds GLB Deformer Support & Morph Target Triangulation"
+description: "Aspose.3D for .NET 24.11 introduces GLB deformer support, morph target triangulation, and resolves FBX animation curve errors."
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-24.11/"
@@ -14,11 +13,9 @@ download_count: " 30/11/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 10.11MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
-
 tags: "3d"
 release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-11-release-notes/"
 weight: 377
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,44 @@ weight: 377
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 24.11 release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.3D for .NET 24.11 enhances support for morphing and deformation workflows by enabling **GLB deformer preservation**, **morph target triangulation**, and mesh-splitting with deformers intact. This release also resolves a critical issue related to malformed FBX animation curve data and expands the vertex semantic capabilities to accommodate morphing attributes such as **MorphPosition** and **MorphNormal**.
+
+### ✳️ New Feature
+
+- **GLB Deformer Support**: Added the ability to load and retain deformers when importing `.glb` files.
+- **Morph Target Triangulation**: `TriMesh` now supports morph-based positional and normal triangulation.
+
+### 🔧 Enhancement
+
+- **Split Meshes with Deformers**: Preserves deformers while performing mesh-splitting operations.
+
+### 🛠 Fix
+
+- **FBX Import Fix**: Resolved `System.InvalidOperationException` caused by malformed animation curve definitions in FBX files.
+
+---
+
+#### 🚨 API Changes
+
+**New Vertex Semantics Added** to `Aspose.ThreeD.Utilities.VertexFieldSemantic`:
+- `MorphPosition`: Represents positional offsets used for morphing.
+- `MorphNormal`: Represents normal vector offsets used for morphing.
+
+#### 👉 Full release changelog available at [Aspose.3D for .NET 24.11 Release Notes](https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-11-release-notes/)
+
+---
+
+[`glb deformer support`](https://search.aspose.com/q/glb-deformer-support.html) | [`aspose 3d morph target triangulation`](https://search.aspose.com/q/aspose-3d-morph-target-triangulation.html) | [`fbx animation curve fix`](https://search.aspose.com/q/fbx-animation-curve-fix.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

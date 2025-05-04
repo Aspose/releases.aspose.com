@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.3d-for-.net-25.1"
-description: " "
+title: "Aspose.3D for .NET 25.1 Adds glTF Animation and Fixes DRC Bugs"
+description: "Aspose.3D for .NET 25.1 introduces glTF animation and skinning import, deform weight export, and major Draco decoding fixes."
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-25.1/"
@@ -14,11 +13,9 @@ download_count: " 25/1/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 10.15MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
-
 tags: "3d"
 release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2025/aspose-3d-for-net-25-1-release-notes/"
 weight: 381
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,45 @@ weight: 381
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 25.1 release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.3D for .NET 25.1 enhances its glTF handling with full **animation import**, **skinning support**, and **deform weight export**. This release also addresses key issues in **Draco compression**, ensuring accurate decoding and export behavior across glTF and FBX formats.
+
+### ✳️ New Feature
+
+- **glTF Animation Import**: Added support for loading animation data directly from `.gltf` files.
+- **Skinning Import (glTF)**: Import glTF files with bone-based skin deformation.
+- **glTF Export - Deform Weight Animation**: Export animated morph weights to glTF with improved precision.
+
+### 🔧 Enhancement
+
+- None in this release.
+
+### 🛠 Fix
+
+- **Draco Compression Issues**:
+  - Fixed decoding failure when loading certain DRC files.
+  - Resolved broken Draco mesh loading in glTF importer.
+  - Fixed regression causing broken Draco compression during glTF export.
+- **FBX Morph Target Bug**: Resolved issue where animations on `MorphTargetChannel.ChannelWeight` could not be exported to FBX.
+
+#### 🚨 API Changes
+
+No public API changes introduced in this release.
+
+#### 👉 Full changelog available at [Aspose.3D for .NET 25.1 Release Notes](https://releases.aspose.com/3d/net/release-notes/2025/aspose-3d-for-net-25-1-release-notes/)
+
+---
+
+[`gltf animation import`](https://search.aspose.com/q/gltf-animation-import.html) | [`draco decoding fix`](https://search.aspose.com/q/draco-decoding-fix.html) | [`fbx morph animation export`](https://search.aspose.com/q/fbx-morph-animation-export.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

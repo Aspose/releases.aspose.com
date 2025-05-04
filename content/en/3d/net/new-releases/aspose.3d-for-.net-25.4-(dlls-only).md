@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.3d-for-.net-25.4-(dlls-only)"
-description: " "
+title: "DLLs: Aspose.3D for .NET 25.4 Supports glTF Metadata Extensions"
+description: "This DLLs-only package introduces support for glTF metadata via EXT_structural_metadata and EXT_mesh_features, plus critical import fixes."
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-25.4-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 30/4/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 6.9MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
-
 tags: "3d"
 release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2025/aspose-3d-for-net-25-4-release-notes/"
 weight: 388
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,35 @@ weight: 388
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 25.4 release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.3D for .NET 25.4 (DLLs-only) unlocks metadata capabilities for glTF via support for `EXT_structural_metadata` and `EXT_mesh_features`, improving 3D object context and data semantics. Additionally, this release resolves GLTF import failures caused by metadata content.
+
+### ✳️ New Feature
+
+- **Structured Metadata API**: Added new API classes to extract structured metadata (property tables, enums, class definitions) from GLTF scenes.
+
+### 🔧 Enhancement
+
+- **Metadata Interoperability**: Enhanced parsing of glTF extensions from custom and 3rd-party generators.
+
+### 🛠 Fix
+
+- **GLTF Import Handling**: Fixed edge cases causing metadata-related import errors.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.3D for .NET 25.4 Release Notes](https://releases.aspose.com/3d/net/release-notes/2025/aspose-3d-for-net-25-4-release-notes/)
+
+---
+
+[`gltf metadata api`](https://search.aspose.com/q/gltf-metadata-api.html) | [`3d mesh features`](https://search.aspose.com/q/3d-mesh-features.html) | [`glb metadata fix`](https://search.aspose.com/q/glb-metadata-fix.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

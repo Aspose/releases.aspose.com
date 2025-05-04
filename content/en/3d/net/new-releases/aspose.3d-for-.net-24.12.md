@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.3d-for-.net-24.12"
-description: " "
+title: "Aspose.3D for .NET 24.12 Enhances GLB Morphing & Fixes FBX Bugs"
+description: "Aspose.3D for .NET 24.12 improves GLB deformer support, morph target triangulation, and resolves malformed FBX animation curve errors."
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-24.12/"
@@ -14,11 +13,9 @@ download_count: " 31/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 10.14MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
-
 tags: "3d"
 release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-12-release-notes/"
 weight: 379
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,42 @@ weight: 379
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 24.12 release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.3D for .NET 24.12 further advances 3D rendering workflows with **enhanced morphing support** in GLB files and **improved TriMesh capabilities**. This version also maintains deformers during mesh splitting and resolves a key issue affecting animation curves in malformed FBX files. A core class renaming improves long-term code clarity and extension possibilities.
+
+### ✳️ New Feature
+
+- **GLB Deformer Import**: Load deformers within `.glb` files and preserve animation integrity.
+- **Morph Target Triangulation**: `TriMesh` now fully supports morph positions and normals for animation blending.
+
+### 🔧 Enhancement
+
+- **Mesh Split + Deformer Retention**: Mesh splitting now retains deformer metadata.
+- **IO Extension Refactoring**: `IOUtils` class has been renamed to `IOExtension` for clearer utility function classification.
+
+### 🛠 Fix
+
+- **FBX Curve Fix**: Fixed `System.InvalidOperationException` from malformed animation curves in `.fbx` files.
+
+#### 🚨 API Changes
+
+- 🔁 **Renamed Class**:  
+  `Aspose.ThreeD.Utilities.IOUtils` → `Aspose.ThreeD.Utilities.IOExtension`
+
+#### 👉 View full change log at [Aspose.3D for .NET 24.12 Release Notes](https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-12-release-notes/)
+
+---
+
+[`glb deformer import`](https://search.aspose.com/q/glb-deformer-import.html) | [`aspose 3d morph triangulation`](https://search.aspose.com/q/aspose-3d-morph-triangulation.html) | [`fbx animation curve bug`](https://search.aspose.com/q/fbx-animation-curve-bug.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

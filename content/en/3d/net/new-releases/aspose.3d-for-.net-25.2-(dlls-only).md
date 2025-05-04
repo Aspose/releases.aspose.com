@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.3d-for-.net-25.2-(dlls-only)"
-description: " "
+title: "DLLs: Aspose.3D for .NET 25.2 Adds Format Discovery API & glTF Fixes"
+description: "DLLs of Aspose.3D for .NET 25.2 deliver glTF skinning import, IFC file fixes, and a new API to list all supported formats."
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-25.2-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 28/2/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 6.66MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
-
 tags: "3d"
 release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2025/aspose-3d-for-net-25-2-release-notes/"
 weight: 384
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,39 @@ weight: 384
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 25.2 release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+This DLLs-only version of Aspose.3D for .NET 25.2 delivers **enhanced glTF skinning import**, critical **bug fixes for IFC models**, and introduces a developer-friendly method to list all **supported 3D file formats** via `FileFormat.Formats`.
+
+### ✳️ New Feature
+
+- **FileFormat.Formats API**: Easily enumerate all file formats supported by Aspose.3D for dynamic integration and diagnostics.
+
+### 🔧 Enhancement
+
+- **glTF Skinning Enhancements**: Greater accuracy in importing skinned mesh data from glTF files for rigged models.
+
+### 🛠 Fix
+
+- **IFC Loader Patch**: Certain customer-submitted IFC files that previously failed now open correctly.
+
+#### 🚨 API Changes
+
+- `FileFormat.Formats`: A new collection listing all file types supported by Aspose.3D, ideal for format-agnostic tooling.
+
+#### 👉 Visit [Aspose.3D for .NET 25.2 Release Notes](https://releases.aspose.com/3d/net/release-notes/2025/aspose-3d-for-net-25-2-release-notes/) for full technical breakdown.
+
+---
+
+[`aspose.3d fileformat api`](https://search.aspose.com/q/aspose.3d-fileformat-api.html) | [`gltf skinned mesh`](https://search.aspose.com/q/gltf-skinned-mesh.html) | [`open ifc file error`](https://search.aspose.com/q/open-ifc-file-error.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

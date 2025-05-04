@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.3d-for-.net-25.4"
-description: " "
+title: "Aspose.3D for .NET 25.4 Adds glTF Structural Metadata Support"
+description: "Aspose.3D for .NET 25.4 introduces EXT_structural_metadata and EXT_mesh_features support for glTF, enabling powerful 3D metadata handling."
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-25.4/"
@@ -14,11 +13,9 @@ download_count: " 30/4/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 10.3MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
-
 tags: "3d"
 release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2025/aspose-3d-for-net-25-4-release-notes/"
 weight: 387
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,44 @@ weight: 387
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 25.4 release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.3D for .NET 25.4 adds robust **glTF metadata support** via the EXT_structural_metadata and EXT_mesh_features extensions. This enables importing and exporting structured metadata in glTF scenes. Also included is a key fix for loading glTF files exported from Ready Player Me.
+
+### ✳️ New Feature
+
+- **EXT_mesh_features Export**: Introduced metadata export support for glTF using the `EXT_mesh_features` extension, enabling semantic annotations of 3D elements.
+- **glTF Structural Metadata**: New API allows importing EXT_structural_metadata with class definitions, enum types, and property tables.
+
+### 🔧 Enhancement
+
+- **glTF Interoperability**: Enhanced compatibility with third-party tools like Ready Player Me. glTF files previously unreadable can now be successfully loaded and processed.
+
+### 🛠 Fix
+
+- **GLTF Import**: Fixed a critical bug preventing the import of GLTF files exported by Ready Player Me, ensuring wider interoperability.
+
+#### 🚨 API Changes
+
+- **New Classes**:
+  - `Aspose.ThreeD.Formats.GLTF.StructuralMetadata`
+  - `ClassType`, `EnumType`, `EnumValue`, `Property`, `PropertyTable`
+
+These classes allow full read access to metadata embedded in glTF files.
+
+#### 👉 View full update at [Aspose.3D for .NET 25.4 Release Notes](https://releases.aspose.com/3d/net/release-notes/2025/aspose-3d-for-net-25-4-release-notes/)
+
+---
+
+[`gltf structural metadata`](https://search.aspose.com/q/gltf-structural-metadata.html) | [`EXT_mesh_features export`](https://search.aspose.com/q/EXT_mesh_features-export.html) | [`ready player me gltf fix`](https://search.aspose.com/q/ready-player-me-gltf-fix.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.3d-for-.net-24.12-(dlls-only)"
-description: " "
+title: "DLLs: Aspose.3D 24.12 Adds GLB Morphing, FBX Fixes & API Cleanup"
+description: "Aspose.3D for .NET 24.12 DLLs improve GLB deformer handling, fix FBX curve issues, and introduce IOExtension class rename."
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-24.12-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 31/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 6.65MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
-
 tags: "3d"
 release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-12-release-notes/"
 weight: 380
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,41 @@ weight: 380
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 24.12 release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+This DLLs-only release of Aspose.3D for .NET 24.12 refines GLB and FBX workflows with **better morphing mesh support** and a **fix for invalid animation curves**. It also includes a minor but important **class renaming for IO utilities** to ensure future extensibility.
+
+### ✳️ New Feature
+
+- **GLB Morph + Deformer Integration**: Improved data retention and morph animation precision for `.glb` assets.
+- **Mesh Splitting with Deformers**: Splitting operations now respect and preserve deformers for animation continuity.
+
+### 🔧 Enhancement
+
+- **IOUtils Renamed**: `IOUtils` → `IOExtension` for semantic clarity in internal file operations.
+
+### 🛠 Fix
+
+- **FBX Fix**: Eliminated runtime error from malformed FBX animation curve definitions.
+
+#### 🚨 API Change Summary
+
+- **Renamed**:  
+  `Aspose.ThreeD.Utilities.IOUtils` → `Aspose.ThreeD.Utilities.IOExtension`
+
+#### 👉 Detailed notes available at [Aspose.3D 24.12 Release Notes](https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-12-release-notes/)
+
+---
+
+[`triMesh morph support`](https://search.aspose.com/q/triMesh-morph-support.html) | [`aspose 3d ioextension`](https://search.aspose.com/q/aspose-3d-ioextension.html) | [`fbx malformed animation fix`](https://search.aspose.com/q/fbx-malformed-animation-fix.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

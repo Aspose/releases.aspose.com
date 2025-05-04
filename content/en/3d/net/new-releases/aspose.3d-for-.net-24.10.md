@@ -1,6 +1,6 @@
 ---
-title: "Enhanced IFC Support & New Features | Aspose.3D for .NET 24.10"
-description: "Explore the latest Aspose.3D for .NET 24.10 release featuring center line profile support, Boolean IFC improvements, enhanced IFC compatibility, and crucial bug fixes for an improved 3D experience."
+title: "Aspose.3D 24.10 Adds CenterLine Profile and IFC Enhancements"
+description: "Aspose.3D for .NET 24.10 adds CenterLineProfile support for procedural modeling and improves IFC compatibility and transformations."
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-24.10/"
@@ -112,24 +112,40 @@ weight: 375
 {{% Releases/ReleasesFileFeatures %}}
 
 
-#### Release Notes Highlights
+#### Release Highlights
 
-Explore the latest Aspose.3D for .NET 24.10 release featuring center line profile support, Boolean IFC improvements, enhanced IFC compatibility, and crucial bug fixes for an improved 3D experience.
+Aspose.3D for .NET 24.10 introduces the **CenterLineProfile** class for **extrusion-based modeling**, enabling the creation of solid geometry from curves with thickness. This release also delivers significant improvements in **IFC compatibility**, including better mesh generation, support for Boolean data types, and fixes for transformation inaccuracies. It enhances import behavior for **Blender files**, ensuring robust and predictable results.
 
-Discover what's new in Aspose.3D for .NET 24.10:
-- **New Feature**: Center line profile support added, enabling thickness control for curves in procedural modeling, ideal for LinearExtrusion tasks.
-- **Improvement**: Boolean support integrated into IFC, enhancing modeling operations.
-- **Bug Fixes**:
-  - Corrected transformation issues in imported IFC scenes.
-  - Resolved mesh generation errors for IFC files with IfcRevolvedAreaSolid.
-- **Compatibility Update**: Improved overall IFC compatibility for better 3D model handling.
+### ✳️ New Feature
 
-**API Changes**:
-- Added class: `Aspose.ThreeD.Profiles.CenterLineProfile` to support thickness in procedural modeling.
+- **CenterLineProfile Class**: Enables creating extrudable solids from curves by specifying thickness—ideal for procedural geometry workflows.
 
-> You can view the list of all new features, enhancements, and bug fixes introduced in this release by visiting [Aspose.3D for .NET 24.10 Release Notes](https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-10-release-notes/).
+### 🔧 Enhancement
+
+- **IFC Boolean Support**: Adds native handling of Boolean values in IFC models.
+- **Improved IFC Compatibility**: Expanded support for various IFC schema elements.
+
+### 🛠 Fix
+
+- **IFC Transformation Fixes**: Corrected transformation matrices applied to imported IFC models.
+- **Resolved Mesh Errors**: Fixed incorrect mesh generation for `IfcRevolvedAreaSolid` geometry.
+- **Blender Array Handling**: Addressed unsupported `bGPdata` and unresolved arrays in Blender file imports.
 
 ---
+
+#### 🚨 API Changes
+
+**Added Class:**
+- `Aspose.ThreeD.Profiles.CenterLineProfile` – Defines a thickness for curve-based geometry; usable with `LinearExtrusion`.
+
+#### 👉 View the full changelog in [Aspose.3D for .NET 24.10 Release Notes](https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-10-release-notes/)
+
+---
+
+[`centerline profile extrusion`](https://search.aspose.com/q/centerline-profile-extrusion.html) | [`ifc import transformation fix`](https://search.aspose.com/q/ifc-import-transformation-fix.html) | [`aspose 3d blender array`](https://search.aspose.com/q/aspose-3d-blender-array.html)
+
+---
+
 
 {{% Releases/ReleasesFileFeatures %}}
 {{< /Releases/ReleasesFileFeatures >}}

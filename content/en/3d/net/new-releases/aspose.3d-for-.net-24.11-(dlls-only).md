@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.3d-for-.net-24.11-(dlls-only)"
-description: " "
+title: "DLLs: Aspose.3D 24.11 Supports Morph Deformers and FBX Fixes"
+description: "Aspose.3D for .NET 24.11 DLLs improve morph target handling and fix animation issues in FBX models."
 keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-24.11-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 30/11/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 6.64MB"
 parent_path: "3d/net"
 section_parent_path: "3d/net"
-
 tags: "3d"
 release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-11-release-notes/"
 weight: 378
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,44 @@ weight: 378
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.3D for .NET 24.11 release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The DLLs-only package of Aspose.3D for .NET 24.11 brings advanced **morphing support** and **deformer integration** for GLB/FBX workflows. It ensures reliable triangulation of morph targets and maintains deformers when splitting meshes—essential for high-quality 3D animations and blend shapes.
+
+### ✳️ New Feature
+
+- **GLB Morph Deformers**: Supports deformer retention during import of `.glb` assets.
+- **Vertex Morphing Attributes**: Enhanced `TriMesh` to include morph-based vertex transformations.
+
+### 🔧 Enhancement
+
+- Mesh-splitting operations now retain linked deformers.
+
+### 🛠 Fix
+
+- Fixed FBX animation curve loading failure caused by malformed definitions.
+
+---
+
+#### 🚨 API Additions
+
+**To `Aspose.ThreeD.Utilities.VertexFieldSemantic`**:
+- `MorphPosition` – Enables morph-based position attributes.
+- `MorphNormal` – Enables morph-based normal attributes.
+
+#### 👉 Visit the [Aspose.3D 24.11 Release Notes](https://releases.aspose.com/3d/net/release-notes/2024/aspose-3d-for-net-24-11-release-notes/) for full technical details.
+
+---
+
+[`morphposition vertex semantic`](https://search.aspose.com/q/morphposition-vertex-semantic.html) | [`glb morph deformers`](https://search.aspose.com/q/glb-morph-deformers.html) | [`fbx malformed curve error`](https://search.aspose.com/q/fbx-malformed-curve-error.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
