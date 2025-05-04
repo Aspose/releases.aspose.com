@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.omr-for-.net-25.1"
-description: " "
+title: "Faster Interactive PDFs & Clean API | Aspose.OMR .NET 25.1 MSI"
+description: "Aspose.OMR for .NET 25.1 MSI boosts interactive PDF generation speed and removes deprecated APIs for a cleaner, high-performance experience."
 keywords: ""
 page_type: single_release_page
 folder_link: "/omr/net/new-releases/aspose.omr-for-.net-25.1/"
@@ -14,11 +13,9 @@ download_count: " 24/1/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 217.74MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2025/aspose-omr-for-net-25-1-0-release-notes/"
 weight: 164
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,49 @@ weight: 164
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Contains Aspose.OMR for .NET 25.1 release</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.OMR for .NET 25.1 delivers a high-performance leap in interactive PDF generation and finalizes the removal of deprecated APIs for a cleaner, more maintainable codebase.
+
+### ✳️ New Feature
+
+- *No new APIs introduced in this release.*
+
+### 🔧 Enhancement
+
+- **Up to 30x Faster PDF Generation**: Generating interactive PDFs with 200+ answer bubbles—such as full-page answer sheets—is now dramatically faster and consumes fewer system resources.
+- **API Cleanup for Better Maintenance**: All deprecated generation methods have been fully removed to improve performance, readability, and long-term stability of your code.
+
+### 🛠 Fix
+
+- **Right-to-Left (RTL) Fixes**:
+  - Corrected padding issues in RTL layouts.
+  - Fixed missing footers when generating RTL forms.
+- **Metered License Bug Resolved**:
+  - Fixed occasional “Authentication failed” error under .NET Framework 4 when using a metered license.
+
+#### ⚠️ BREAKING CHANGES
+
+The following **deprecated methods have been removed**:
+- `GenerateTemplate()`
+- `GenerateJSONTemplate()`
+- `GenerateJSONTemplateFromString()`
+
+✅ Use the universal `OmrEngine.Generate()` method going forward. It auto-detects source format and simplifies template creation.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.OMR for .NET 25.1.0 Release Notes](https://releases.aspose.com/omr/net/release-notes/2025/aspose-omr-for-net-25-1-0-release-notes/)
+
+---
+
+[`interactive pdf performance`](https://search.aspose.com/q/interactive-pdf-performance.html) | [`omr api cleanup`](https://search.aspose.com/q/omr-api-cleanup.html) | [`rtl omr fix`](https://search.aspose.com/q/rtl-omr-fix.html) | [`aspose omr authentication`](https://search.aspose.com/q/aspose-omr-authentication.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

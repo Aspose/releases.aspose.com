@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.omr-for-.net-24.9-(dlls-only)"
-description: " "
+title: "DLL Update: Unified Form API in Aspose.OMR for .NET 24.9"
+description: "Aspose.OMR for .NET 24.9 DLLs only package delivers a universal form generator API and marks legacy methods for future removal."
 keywords: ""
 page_type: single_release_page
 folder_link: "/omr/net/new-releases/aspose.omr-for-.net-24.9-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 12/9/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 159.05MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2024/aspose-omr-for-net-24-9-0-release-notes/"
 weight: 156
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,44 @@ weight: 156
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.e. you cannot run MSI installers on Mono</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The DLLs-only version of Aspose.OMR for .NET 24.9 delivers a powerful new universal API for rendering printable forms, replacing multiple older methods with a single smart interface.
+
+### ✳️ New Feature
+
+- **All-in-One Form Generator**: The new `OmrEngine.Generate()` method supports both text and JSON source templates, offering automatic format detection and simplified code maintenance.
+
+### 🔧 Enhancement
+
+- **Streamlined Workflow**: Replaces legacy methods with a single smart call, optimizing integration and reducing boilerplate.
+
+### 🛠 Fix
+
+- No specific bug fixes included in this DLL update.
+
+#### ⚠️ Deprecation Notice
+
+The following functions have been deprecated and will be removed in version 25.1.0:
+- `GenerateTemplate()`
+- `GenerateJSONTemplate()`
+- `GenerateJSONTemplateFromString()`
+
+Plan your upgrade accordingly.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.OMR for .NET 24.9.0 Release Notes](https://releases.aspose.com/omr/net/release-notes/2024/aspose-omr-for-net-24-9-0-release-notes/)
+
+---
+
+[`omr dll api`](https://search.aspose.com/q/omr-dll-api.html) | [`form rendering .net`](https://search.aspose.com/q/form-rendering-dotnet.html) | [`deprecated omr methods`](https://search.aspose.com/q/deprecated-omr-methods.html) | [`generate omr template`](https://search.aspose.com/q/generate-omr-template.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

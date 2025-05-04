@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.omr-for-.net-25.4"
-description: " "
+title: "Custom Bubble Controls Added | Aspose.OMR .NET 25.4 MSI"
+description: "Aspose.OMR for .NET 25.4 MSI adds fine-grained layout control to CustomAnswerSheet bubbles and fixes display issues in multilingual templates."
 keywords: ""
 page_type: single_release_page
 folder_link: "/omr/net/new-releases/aspose.omr-for-.net-25.4/"
@@ -14,11 +13,9 @@ download_count: " 30/4/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 217.75MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2025/aspose-omr-for-net-25-4-0-release-notes/"
 weight: 170
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,42 @@ weight: 170
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Contains Aspose.OMR for .NET 25.4 release</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.OMR for .NET 25.4 delivers powerful new layout controls for CustomAnswerSheet bubbles, giving developers precise formatting options for enhanced readability and recognition accuracy.
+
+### ✳️ New Feature
+
+- **Custom Bubble Configuration**: Added new properties to `BubbleArray` for precise layout control in custom answer sheets:
+  - `threshold`: Define bubble mark sensitivity at the array level.
+  - `height`: Override row height (in pixels) for consistent spacing.
+  - `vertical_padding`: Add padding inside top and bottom of rows.
+  - `horizontal_padding`: Add padding inside left and right of rows.
+
+These attributes provide granular control over how answer bubbles are displayed and interpreted in high-density forms.
+
+### 🔧 Enhancement
+
+- *No additional enhancements introduced.*
+
+### 🛠 Fix
+
+- **Bubble Display in Correction UI**: Fixed rendering bugs in the `CorrectionUI` wrapper where bubbles were misaligned or not displayed correctly.
+- **Non-Western Digit Support**: Resolved issues where non-Western numerals in custom answer rows were incorrectly generated or displayed.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.OMR for .NET 25.4.0 Release Notes](https://releases.aspose.com/omr/net/release-notes/2025/aspose-omr-for-net-25-4-0-release-notes/)
+
+---
+
+[`custom bubble padding`](https://search.aspose.com/q/custom-bubble-padding.html) | [`omr threshold setting`](https://search.aspose.com/q/omr-threshold-setting.html) | [`non-western digits omr`](https://search.aspose.com/q/non-western-digits-omr.html) | [`bubble array height`](https://search.aspose.com/q/bubble-array-height.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

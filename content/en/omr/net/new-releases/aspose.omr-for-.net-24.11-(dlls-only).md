@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.omr-for-.net-24.11-(dlls-only)"
-description: " "
+title: "DLLs Only: Interactive Form PDFs | Aspose.OMR .NET 24.11"
+description: "Aspose.OMR for .NET 24.11 DLLs add support for exporting and recognizing interactive PDFs in digital and print workflows."
 keywords: ""
 page_type: single_release_page
 folder_link: "/omr/net/new-releases/aspose.omr-for-.net-24.11-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 29/11/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 208.48MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2024/aspose-omr-for-net-24-11-0-release-notes/"
 weight: 161
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,45 @@ weight: 161
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.e. you cannot run MSI installers on Mono</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The DLLs-only release of Aspose.OMR for .NET 24.11 introduces full support for interactive form PDFs—making digital OMR workflows as seamless as printed ones.
+
+### ✳️ New Feature
+
+- **Save Fillable Forms**: Generate interactive PDFs with embedded checkboxes and fields using new `SaveAsInteractivePdf()` APIs for both individual and batch forms.
+- **Digital Recognition**: Aspose.OMR now reads completed interactive forms with the same precision as scanned paper forms, streamlining hybrid data collection.
+
+### 🔧 Enhancement
+
+- **Streamlined Output Options**: Export interactive PDFs directly to a stream using `ExportPageInteractivePdf()` or `ExportFormInteractivePdf()` for finer control in memory-based workflows.
+
+### 🛠 Fix
+
+- No fixes included in this DLL update.
+
+#### ⚠️ Deprecation Reminder
+
+Legacy generation methods are still operational but scheduled for removal in 25.1.0:
+- `GenerateTemplate()`
+- `GenerateJSONTemplate()`
+- `GenerateJSONTemplateFromString()`
+
+Migration window ends in January 2025.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.OMR for .NET 24.11.0 Release Notes](https://releases.aspose.com/omr/net/release-notes/2024/aspose-omr-for-net-24-11-0-release-notes/)
+
+---
+
+[`omr digital forms`](https://search.aspose.com/q/omr-digital-forms.html) | [`interactive pdf generation`](https://search.aspose.com/q/interactive-pdf-generation.html) | [`pdf checkbox api`](https://search.aspose.com/q/pdf-checkbox-api.html) | [`aspose omr stream export`](https://search.aspose.com/q/aspose-omr-stream-export.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

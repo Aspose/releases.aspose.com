@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.omr-for-.net-25.1-(dlls-only)"
-description: " "
+title: "DLLs Only: Fast PDF & Clean API | Aspose.OMR .NET 25.1"
+description: "Aspose.OMR for .NET 25.1 DLLs deliver faster PDF output and fully remove legacy generation APIs for a more streamlined developer experience."
 keywords: ""
 page_type: single_release_page
 folder_link: "/omr/net/new-releases/aspose.omr-for-.net-25.1-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 24/1/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 217.13MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2025/aspose-omr-for-net-25-1-0-release-notes/"
 weight: 165
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,49 @@ weight: 165
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.OMR for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.OMR without the MSI installer, i.e. you cannot run MSI installers on Mono</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The DLLs-only version of Aspose.OMR for .NET 25.1 offers blazing-fast PDF output, resolves RTL layout issues, and completes the long-planned cleanup of deprecated generation APIs.
+
+### ✳️ New Feature
+
+- *No new APIs added in this release.*
+
+### 🔧 Enhancement
+
+- **Lightning-Fast PDF Forms**: Up to 30x improvement when generating interactive PDFs with hundreds of bubbles—ideal for educational forms and surveys.
+- **API Simplification**: Legacy generation APIs have been removed, leaving only the modern, universal `Generate()` method for streamlined usage and better long-term support.
+
+### 🛠 Fix
+
+- **RTL Improvements**:
+  - Fixed spacing/padding anomalies.
+  - Restored footer generation in RTL mode.
+- **.NET Framework 4 Licensing Fix**:
+  - Resolved “Authentication failed” bug when using a metered license.
+
+#### ⚠️ BACKWARD INCOMPATIBILITY
+
+The following methods have been **removed** permanently:
+- `GenerateTemplate()`
+- `GenerateJSONTemplate()`
+- `GenerateJSONTemplateFromString()`
+
+✅ Migrate to the `Generate()` method introduced in version 24.9 for compatibility and better functionality.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.OMR for .NET 25.1.0 Release Notes](https://releases.aspose.com/omr/net/release-notes/2025/aspose-omr-for-net-25-1-0-release-notes/)
+
+---
+
+[`omr dll speed boost`](https://search.aspose.com/q/omr-dll-speed-boost.html) | [`generate method aspose`](https://search.aspose.com/q/generate-method-aspose.html) | [`rtl form fixes`](https://search.aspose.com/q/rtl-form-fixes.html) | [`aspose omr deprecated removed`](https://search.aspose.com/q/aspose-omr-deprecated-removed.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

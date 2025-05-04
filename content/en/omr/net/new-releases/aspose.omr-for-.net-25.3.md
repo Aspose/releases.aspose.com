@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.omr-for-.net-25.3"
-description: " "
+title: "No Limits or Watermarks | Aspose.OMR .NET 25.3 MSI"
+description: "Aspose.OMR for .NET 25.3 MSI removes evaluation limits and watermarking in template generation for a better free-trial experience."
 keywords: ""
 page_type: single_release_page
 folder_link: "/omr/net/new-releases/aspose.omr-for-.net-25.3/"
@@ -14,11 +13,9 @@ download_count: " 31/3/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 217.75MB"
 parent_path: "omr/net"
 section_parent_path: "omr/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/omr/net/release-notes/2025/aspose-omr-for-net-25-3-0-release-notes/"
 weight: 169
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,36 @@ weight: 169
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Contains Aspose.OMR for .NET 25.3 release</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.OMR for .NET 25.3 improves the free evaluation experience by removing key restrictions during template generation. Users can now test the full range of OMR features—without watermarks or content limits.
+
+### ✳️ New Feature
+
+- **Unlimited Elements Without License**: Evaluation users can now generate templates with any number of elements, removing the previous cap that restricted complex form design.
+- **Watermark-Free Output**: Evaluation mode no longer adds a watermark to generated templates, allowing for clean previews and testing in presentation environments.
+
+### 🔧 Enhancement
+
+- *No additional enhancements in this release.*
+
+### 🛠 Fix
+
+- **License Restriction Fix**: Barcode generation and recognition now require a valid license, aligning this feature with standard licensing expectations.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.OMR for .NET 25.3.0 Release Notes](https://releases.aspose.com/omr/net/release-notes/2025/aspose-omr-for-net-25-3-0-release-notes/)
+
+---
+
+[`omr trial limits removed`](https://search.aspose.com/q/omr-trial-limits-removed.html) | [`omr template watermark`](https://search.aspose.com/q/omr-template-watermark.html) | [`aspose omr evaluation`](https://search.aspose.com/q/aspose-omr-evaluation.html) | [`barcode license enforcement`](https://search.aspose.com/q/barcode-license-enforcement.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
