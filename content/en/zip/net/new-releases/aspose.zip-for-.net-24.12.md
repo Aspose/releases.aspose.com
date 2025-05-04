@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.zip-for-.net-24.12"
-description: " "
+title: "Delta + Adaptive Huffman Support | Aspose.ZIP .NET 24.12 MSI"
+description: "Aspose.ZIP for .NET 24.12 MSI adds support for adaptive Huffman compression in LHA archives and Delta encoding in 7z extraction."
 keywords: ""
 page_type: single_release_page
 folder_link: "/zip/net/new-releases/aspose.zip-for-.net-24.12/"
@@ -14,11 +13,9 @@ download_count: " 14/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 15.39MB"
 parent_path: "zip/net"
 section_parent_path: "zip/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/zip/net/release-notes/2024/aspose-zip-for-net-24-12-release-notes/"
 weight: 166
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,39 @@ weight: 166
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.ZIP for .NET 24.12 release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.ZIP for .NET 24.12 enhances support for legacy and modern archive formats by enabling the extraction of additional compression methods used in LHA and 7z files.
+
+### ✳️ New Feature
+
+- **Adaptive Huffman Compression in LHA**:
+  - Now supports extraction of LHA entries compressed using adaptive Huffman coding—a legacy algorithm used in Japanese and DOS-era LHA files.
+
+### 🔧 Enhancement
+
+- **7z Delta Encoding Extraction**:
+  - Added support for extracting entries compressed using Delta encoding in 7z archives, which is commonly used for multimedia and binary differential data.
+  - New enum value added:
+    - `SevenZipCompressionMethod.Delta`: Represents Delta-coded files in a 7z archive stream.
+
+### 🛠 Fix
+
+- *No bug fixes included in this release.*
+
+#### 👉 You can view the full list of updates by visiting [Aspose.ZIP for .NET 24.12 Release Notes](https://releases.aspose.com/zip/net/release-notes/2024/aspose-zip-for-net-24-12-release-notes/)
+
+---
+
+[`adaptive huffman lha`](https://search.aspose.com/q/adaptive-huffman-lha.html) | [`delta encoding 7z`](https://search.aspose.com/q/delta-encoding-7z.html) | [`aspose zip delta extract`](https://search.aspose.com/q/aspose-zip-delta-extract.html) | [`lha archive decompression`](https://search.aspose.com/q/lha-archive-decompression.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
