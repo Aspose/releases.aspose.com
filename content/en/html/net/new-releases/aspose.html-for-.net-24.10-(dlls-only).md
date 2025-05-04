@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.html-for-.net-24.10-(dlls-only)"
-description: " "
+title: "DLLs: No System.Drawing dependence + Rendering Fixes | Aspose.HTML .NET 24.10"
+description: "The DLLs-only release of Aspose.HTML for .NET 24.10 introduces new rendering options, drops System.Drawing, and enhances PDF and Markdown support."
 keywords: ""
 page_type: single_release_page
 folder_link: "/html/net/new-releases/aspose.html-for-.net-24.10-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 31/10/2024 Downloads: 18  Views: 1 "
 file_size: "File Size: 4.29MB"
 parent_path: "html/net"
 section_parent_path: "html/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-10-release-notes/"
 weight: 290
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,42 @@ weight: 290
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.HTML for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.HTML without the MSI installer, i.e. you cannot run MSI installers on Mono. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.HTML for .NET 24.10 (DLLs Only) continues the evolution of a fully platform-agnostic rendering engine. The update removes reliance on System.Drawing, enhances HTML-to-image rendering through modern APIs, and provides fixes to long-standing document conversion issues.
+
+### ✳️ New Feature
+
+- **WebFontStyle Enum**: Replaces legacy `FontStyle` with platform-neutral rendering logic.
+- **Improved Rendering Options**: Introduced `UseAntialiasing` and `UseHinting` for image precision.
+- **Markdown Toolkit**: Adds support for fenced/indented code blocks, link destinations, and whitespace via `MarkdownSyntaxFactory`.
+
+### 🔧 Enhancement
+
+- **Removed Platform-Specific APIs**:
+  - `TextRenderingHint` and `SmoothingMode` removed to eliminate `System.Drawing.Common` dependency.
+- **Graphics Context Update**:
+  - `GraphicContext.FontStyle` now uses the new `WebFontStyle` enum for better control and future extensibility.
+
+### 🛠 Fix
+
+- Fixed exception for unit type mismatches when parsing complex HTML layouts.
+- Addressed Linux-specific `NullReferenceException` in PDF conversion.
+- Improved diagnostics for checkbox rendering and unreachable image links.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.HTML for .NET 24.10 Release Notes](https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-10-release-notes/)
+
+---
+
+[`image rendering quality .net`](https://search.aspose.com/q/image-rendering-quality-.net.html) | [`html markdown parser`](https://search.aspose.com/q/html-markdown-parser.html) | [`aspose html remove text rendering hint`](https://search.aspose.com/q/aspose-html-remove-text-rendering-hint.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

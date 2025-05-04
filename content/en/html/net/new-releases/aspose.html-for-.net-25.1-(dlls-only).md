@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.html-for-.net-25.1-(dlls-only)"
-description: " "
+title: "DLLs-Only: Markdown Engine & 20+ Fixes | Aspose.HTML .NET 25.1"
+description: "Includes DLLs-only upgrade for Markdown-to-HTML accuracy, better WebP rendering, and over 20 fixes for HTML-to-PDF and image conversions."
 keywords: ""
 page_type: single_release_page
 folder_link: "/html/net/new-releases/aspose.html-for-.net-25.1-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 31/1/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 4.29MB"
 parent_path: "html/net"
 section_parent_path: "html/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/html/net/release-notes/2025/aspose-html-for-net-25-1-release-notes/"
 weight: 296
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,39 @@ weight: 296
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.HTML for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.HTML without the MSI installer, i.e. you cannot run MSI installers on Mono. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.HTML for .NET 25.1 (DLLs only) is a stability-focused release delivering 20+ fixes and major Markdown processing improvements. Ideal for microservice and container-based deployments, this update ensures smoother document rendering with reduced crashes, lower memory usage, and improved format support.
+
+### ✳️ New Feature
+
+- **Improved Markdown-to-HTML Engine**: Refactored syntax parser improves fidelity when converting `.md` files to styled HTML outputs.
+
+### 🔧 Enhancement
+
+- **WebP Image Optimization**: Better decoding support ensures WebP visuals appear correctly in converted PDF/image outputs.
+- **Performance & Reliability**: Lower memory consumption and CPU usage during export of large, complex HTML files.
+
+### 🛠 Fix
+
+- Addressed formatting issues in **HTML to PDF** involving borders, spacing, and block elements (HTMLNET-5496, HTMLNET-4283).
+- Fixed HTML rendering failures when file names had **special characters** (HTMLNET-3694).
+- Resolved **application freeze and memory spike bugs** during long conversions (HTMLNET-3272, HTMLNET-5190).
+- Eliminated rare conversion exceptions: **Overflow**, **ReflectionTypeLoadException**, and async operation failures (HTMLNET-3329, HTMLNET-4595, HTMLNET-5205).
+
+#### 👉 You can view the full list of updates by visiting [Aspose.HTML for .NET 25.1 Release Notes](https://releases.aspose.com/html/net/release-notes/2025/aspose-html-for-net-25-1-release-notes/)
+
+---
+
+[`markdown conversion .net`](https://search.aspose.com/q/markdown-conversion-.net.html) | [`aspose html freezing`](https://search.aspose.com/q/aspose-html-freezing.html) | [`overflowexception html pdf`](https://search.aspose.com/q/overflowexception-html-pdf.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

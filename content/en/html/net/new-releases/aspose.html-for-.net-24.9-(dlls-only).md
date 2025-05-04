@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.html-for-.net-24.9-(dlls-only)"
-description: " "
+title: "DLLs: HTML-PDF/PNG Fixes, Speed Boost | Aspose.HTML .NET 24.9"
+description: "Aspose.HTML for .NET 24.9 DLLs enhance rendering precision, improve HTML to PDF/PNG conversion, and optimize document load times."
 keywords: ""
 page_type: single_release_page
 folder_link: "/html/net/new-releases/aspose.html-for-.net-24.9-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 25/9/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 4.28MB"
 parent_path: "html/net"
 section_parent_path: "html/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-9-release-notes/"
 weight: 288
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,46 @@ weight: 288
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.HTML for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.HTML without the MSI installer, i.e. you cannot run MSI installers on Mono. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The DLLs-only release of Aspose.HTML for .NET 24.9 focuses on reliability, rendering accuracy, and performance across key HTML conversion tasks. Key improvements include streamlined document parsing, image handling, and EPUB support.
+
+### ✳️ New Feature
+
+- *(No new public APIs introduced in this version.)*
+
+### 🔧 Enhancement
+
+- **Faster HTML Document Initialization**:
+  - Reduced delay in `HTMLDocument` construction for invalid or missing image paths.
+
+- **Enhanced Format Conversion**:
+  - Improved output for HTML to PNG rendering.
+  - Enhanced PDF layout generation with better table and text alignment.
+
+- **EPUB Handling**:
+  - Resolved EPUB to PDF issues and improved layout translation from reflowable formats.
+
+### 🛠 Fix
+
+- Addressed cell truncation issues in HTML to PDF export.
+- Corrected table nesting logic to render structure accurately in output files.
+- Stabilized handling of embedded base64 images in HTML-to-PDF scenarios.
+- Fixed InvalidOperationException during EPUB conversions.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.HTML for .NET 24.9 Release Notes](https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-9-release-notes/)
+
+---
+
+[`html to image .net`](https://search.aspose.com/q/html-to-image-.net.html) | [`html to pdf truncation fix`](https://search.aspose.com/q/html-to-pdf-truncation-fix.html) | [`epub pdf conversion`](https://search.aspose.com/q/epub-pdf-conversion.html) | [`system.drawing replacement`](https://search.aspose.com/q/system.drawing-replacement.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

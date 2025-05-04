@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.html-for-.net--24.10"
-description: " "
+title: "System.Drawing dependency Removed | Aspose.HTML for .NET 24.10 MSI"
+description: "Aspose.HTML for .NET 24.10 removes System.Drawing dependency, improves PDF/HTML rendering, and enhances rendering APIs for cross-platform reliability."
 keywords: ""
 page_type: single_release_page
 folder_link: "/html/net/new-releases/aspose.html-for-.net--24.10/"
@@ -14,11 +13,9 @@ download_count: " 31/10/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 4.8MB"
 parent_path: "html/net"
 section_parent_path: "html/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-10-release-notes/"
 weight: 291
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,42 @@ weight: 291
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.HTML for .NET 24.10 release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.HTML for .NET 24.10 delivers a significant update by completely removing dependencies on `System.Drawing.Common`, ensuring smoother cross-platform behavior on Linux and macOS. It also introduces better text and image rendering APIs and resolves key PDF and HTML rendering bugs.
+
+### ✳️ New Feature
+
+- **Unified Text Styling API**: Introduced `WebFontStyle` enum to replace platform-dependent `FontStyle`.
+- **Enhanced Image Rendering**: Added `UseAntialiasing` and `UseHinting` options for image clarity control.
+- **Markdown Improvements**: Introduced a `MarkdownSyntaxFactory` to simplify Markdown element creation.
+- **Rendering Environment Control**: Added `IUserAgentService.ShowImagePlaceholders` to manage fallback image visibility.
+
+### 🔧 Enhancement
+
+- **Cross-Platform Readiness**: Removed deprecated properties such as `TextRenderingHint` and `SmoothingMode`, previously dependent on System.Drawing.
+- **Better Developer Experience**: Simplified API for `ImageRenderingOptions` and `TextOptions` classes, making rendering logic cleaner and .NET-native.
+
+### 🛠 Fix
+
+- Resolved `Incompatible unit types` exception during HTML load.
+- Fixed `NullReferenceException` on Linux during HTML-to-PDF conversion.
+- Investigated checkbox rendering issues in HTML-to-PDF output.
+- Investigated HTMLDocument initialization error with unreachable file paths.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.HTML for .NET 24.10 Release Notes](https://releases.aspose.com/html/net/release-notes/2024/aspose-html-for-net-24-10-release-notes/)
+
+---
+
+[`cross-platform html rendering`](https://search.aspose.com/q/cross-platform-html-rendering.html) | [`html to pdf linux`](https://search.aspose.com/q/html-to-pdf-linux.html) | [`remove system.drawing`](https://search.aspose.com/q/remove-system.drawing.html) | [`webfontstyle aspose`](https://search.aspose.com/q/webfontstyle-aspose.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

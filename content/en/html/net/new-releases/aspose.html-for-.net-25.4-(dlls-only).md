@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.html-for-.net-25.4-(dlls-only)"
-description: " "
+title: "DLLs: Aspose.HTML 25.4 Improves SVG Rendering & URL Handling"
+description: "Aspose.HTML 25.4 DLLs offer enhanced SVG to PDF output quality and fix issues with URL-to-image conversion that caused execution stalls."
 keywords: ""
 page_type: single_release_page
 folder_link: "/html/net/new-releases/aspose.html-for-.net-25.4-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 2/4/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 4.3MB"
 parent_path: "html/net"
 section_parent_path: "html/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/html/net/release-notes/2025/aspose-html-for-net-25-4-release-notes/"
 weight: 302
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,37 @@ weight: 302
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.HTML for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.HTML without the MSI installer, i.e. you cannot run MSI installers on Mono. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The DLLs-only release of Aspose.HTML for .NET 25.4 focuses on rendering engine refinements and process stabilization. Developers working in isolated or low-dependency environments will benefit from the improved performance of SVG to PDF output and safer URL-based document rendering workflows.
+
+### ✳️ New Feature
+
+- _No new public APIs or features added in this version._
+
+### 🔧 Enhancement
+
+- **SVG Engine Refinement**: Enhanced the accuracy of complex vector graphics when converting SVG files to PDF.
+- **Stability in URL Conversions**: Prevents indefinite runtime during image conversions from web sources, enabling better control in production scenarios.
+
+### 🛠 Fix
+
+- Resolved improper rendering of certain SVG files in PDF exports (HTMLNET-6191).
+- Fixed hanging process behavior during URL-to-image conversion (HTMLNET-2822).
+
+#### 👉 You can view the full list of updates by visiting [Aspose.HTML for .NET 25.4 Release Notes](https://releases.aspose.com/html/net/release-notes/2025/aspose-html-for-net-25-4-release-notes/)
+
+---
+
+[`svg rendering .net`](https://search.aspose.com/q/svg-rendering-.net.html) | [`html url to image fix`](https://search.aspose.com/q/html-url-to-image-fix.html) | [`aspose html infinite loop`](https://search.aspose.com/q/aspose-html-infinite-loop.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

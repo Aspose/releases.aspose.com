@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.html-for-.net--25.2"
-description: " "
+title: "Aspose.HTML .NET 25.2 Enhances MHT, Lists & WebP Support"
+description: "Aspose.HTML for .NET 25.2 improves MHTML-to-PDF conversion, list item rendering, WebP format handling, and fixes performance issues."
 keywords: ""
 page_type: single_release_page
 folder_link: "/html/net/new-releases/aspose.html-for-.net--25.2/"
@@ -14,11 +13,9 @@ download_count: " 18/2/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 4.81MB"
 parent_path: "html/net"
 section_parent_path: "html/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/html/net/release-notes/2025/aspose-html-for-net-25-2-release-notes/"
 weight: 299
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,39 @@ weight: 299
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.HTML for .NET 25.2 release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.HTML for .NET 25.2 brings targeted upgrades for converting MHTML to PDF, rendering `<li>` elements accurately, and extending WebP format compatibility. Performance optimizations address long execution times and memory exceptions in complex rendering tasks.
+
+### ✳️ New Feature
+
+- **List Item Rendering Improved**: Enhanced rendering fidelity for HTML list items (`<li>`), especially within nested or styled structures.
+- **WebP Handling Extended**: More stable decoding and display of WebP images in output formats like PDF and JPEG.
+
+### 🔧 Enhancement
+
+- **Conversion Accuracy**: Better handling of MHT (MHTML) files during PDF export, ensuring layout and content integrity.
+- **Performance Optimization**: Faster rendering for complex or malformed HTML documents with fewer memory spikes.
+
+### 🛠 Fix
+
+- Resolved **OutOfMemoryException** during HTML to TIFF conversions involving large or multi-layered documents (HTMLNET-4749).
+- Fixed **long execution/hang** when rendering certain HTML pages to JPEG (HTMLNET-5902).
+- Addressed **exception issue in MHT to PDF** conversion under specific HTML structures (HTMLNET-6077).
+
+#### 👉 You can view the full list of updates by visiting [Aspose.HTML for .NET 25.2 Release Notes](https://releases.aspose.com/html/net/release-notes/2025/aspose-html-for-net-25-2-release-notes/)
+
+---
+
+[`html list rendering .net`](https://search.aspose.com/q/html-list-rendering-.net.html) | [`convert mhtml to pdf .net`](https://search.aspose.com/q/convert-mhtml-to-pdf-.net.html) | [`html to tiff memory issue`](https://search.aspose.com/q/html-to-tiff-memory-issue.html) | [`webp to pdf aspose`](https://search.aspose.com/q/webp-to-pdf-aspose.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
