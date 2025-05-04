@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.barcode-for-.net-25.4-(dlls-only)"
-description: " "
+title: "DLLs: CMYK PDF Barcode & Faster DataMatrix in Aspose.BarCode 25.4"
+description: "This DLLs-only package enhances barcode image output with CMYK PDF color support and improves the performance of DataMatrix barcode recognition."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/net/new-releases/aspose.barcode-for-.net-25.4-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 23/4/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 13.1MB"
 parent_path: "barcode/net"
 section_parent_path: "barcode/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/barcode/net/release-notes/2025/aspose-barcode-for-net-25-4-release-notes/"
 weight: 625
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,38 @@ weight: 625
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 25.4 (DLLs Only) release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.BarCode for .NET 25.4 (DLLs-only) introduces CMYK color controls for high-fidelity PDF output and enhances the DataMatrix engine for faster, more reliable decoding performance.
+
+### ✳️ New Feature
+
+- **PDF CMYK Color Output**:
+  - New `CMYKColor` class allows CMYK values for barcode styling.
+  - `PdfParameters` class now supports: `CMYKBarColor`, `CMYKBackColor`, `CMYKCodetextColor`, `CMYKCaptionAboveColor`, and `CMYKCaptionBelowColor`.
+
+### 🔧 Enhancement
+
+- **DataMatrix Performance**:
+  - Improved recognition speed and accuracy of DataMatrix codes in various resolutions and environments.
+
+### 🛠 Fix
+
+- _No bug fixes introduced in this version._
+
+#### 👉 You can view the full list of updates by visiting [Aspose.BarCode for .NET 25.4 Release Notes](https://releases.aspose.com/barcode/net/release-notes/2025/aspose-barcode-for-net-25-4-release-notes/)
+
+---
+
+[`cmyk color barcode pdf`](https://search.aspose.com/q/cmyk-color-barcode-pdf.html) | [`datamatrix decoder performance`](https://search.aspose.com/q/datamatrix-decoder-performance.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

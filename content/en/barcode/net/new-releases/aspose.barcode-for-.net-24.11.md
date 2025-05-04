@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.barcode-for-.net-24.11"
-description: " "
+title: "Aspose.BarCode for .NET 24.11 Adds 1D QualitySettings and Fixes MaxiCode Bug"
+description: "November update introduces QualitySettings support for 1D barcodes and resolves a critical MaxiCode codetext generation bug."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/net/new-releases/aspose.barcode-for-.net-24.11/"
@@ -14,11 +13,9 @@ download_count: " 18/11/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 11.81MB"
 parent_path: "barcode/net"
 section_parent_path: "barcode/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-11-release-notes/"
 weight: 615
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,35 @@ weight: 615
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 24.11 release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.BarCode for .NET 24.11 focuses on boosting the reliability of MaxiCode handling and improving the configurability of 1D barcode recognition. This version introduces a new QualitySettings structure for the 1D barcode engine and addresses a critical NullPointerException when generating structured codetext for MaxiCode symbologies.
+
+### ✳️ New Feature
+
+- *(No user-facing new features introduced in this release)*
+
+### 🔧 Enhancement
+
+- **QualitySettings for 1D Barcodes**: Internally added support for a new `QualitySettings` structure to optimize 1D barcode recognition behavior under different image quality scenarios.
+
+### 🛠 Fix
+
+- **MaxiCode Bug Fix**: Resolved a `NullPointerException` occurring in `MaxiCodeStructuredCodetext.GetConstructedCodetext()` for certain codetext configurations.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.BarCode for .NET 24.11 Release Notes](https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-11-release-notes/)
+
+---
+
+[`maxicode codetext fix`](https://search.aspose.com/q/maxicode-codetext-fix.html) | [`1d barcode qualitysettings`](https://search.aspose.com/q/1d-barcode-qualitysettings.html) | [`structured codetext crash`](https://search.aspose.com/q/structured-codetext-crash.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

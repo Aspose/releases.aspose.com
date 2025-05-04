@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.barcode-for-.net-24.10-(dlls-only)"
-description: " "
+title: "DLLs: Aspose.BarCode for .NET 24.10 Enhances 2D Barcode Recognition on Mobile"
+description: "DLLs-only release increases recognition speed and reliability for QR and other 2D codes on mobile devices."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/net/new-releases/aspose.barcode-for-.net-24.10-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 20/10/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 11.76MB"
 parent_path: "barcode/net"
 section_parent_path: "barcode/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-10-release-notes/"
 weight: 613
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,37 @@ weight: 613
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 24.10 (DLLs-only) release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The DLLs-only release of Aspose.BarCode for .NET 24.10 introduces core performance enhancements targeting mobile devices. Recognition of 2D barcodes such as QR, Aztec, DotCode, and others is now faster and more reliable, with fixes applied to address previous hang-ups during decoding.
+
+### ✳️ New Feature
+
+- *(No new APIs introduced in this build)*
+
+### 🔧 Enhancement
+
+- **Accelerated Recognition on Mobile**: Enhanced decoder engine speeds up scanning performance on Android and other mobile platforms for:
+  - QR, Aztec, DotCode, HanXin
+  - DataMatrix, Pdf417, MicroPdf417
+
+### 🛠 Fix
+
+- **Fixed Freezing During Recognition**: Resolved bugs causing decoding operations to hang intermittently in mobile environments.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.BarCode for .NET 24.10 Release Notes](https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-10-release-notes/)
+
+---
+
+[`barcode recognition android`](https://search.aspose.com/q/barcode-recognition-android.html) | [`qr speed mobile`](https://search.aspose.com/q/qr-speed-mobile.html) | [`hang issue fix`](https://search.aspose.com/q/hang-issue-fix.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

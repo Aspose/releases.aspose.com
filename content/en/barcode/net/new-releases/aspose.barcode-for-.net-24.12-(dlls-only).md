@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.barcode-for-.net-24.12-(dlls-only)"
-description: " "
+title: "DLLs: Aspose.BarCode for .NET 24.12 Enhances Accuracy and Adds PDF Output"
+description: "Library-only update adds PDF vector output support, accelerates 1D recognition, and fixes USPS OneCode, SwissQR, and rotation exceptions."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/net/new-releases/aspose.barcode-for-.net-24.12-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 18/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 11.82MB"
 parent_path: "barcode/net"
 section_parent_path: "barcode/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-12-release-notes/"
 weight: 617
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,39 @@ weight: 617
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 24.12 (DLLs Only) release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The DLLs-only package of Aspose.BarCode for .NET 24.12 brings improved 1D barcode recognition across NBase and WBase families, a new PDF output format for high-quality vector rendering, and vital bug fixes in structured codetext generation and rendering logic.
+
+### ✳️ New Feature
+
+- **Experimental PDF Output**: Save barcodes as vector graphics via `BarCodeImageFormat.Pdf`, perfect for high-resolution needs.
+- **Advanced Quality Settings**: Improved internal handling of recognition for complex 1D barcode sets.
+
+### 🔧 Enhancement
+
+- **Faster NBase/WBase Recognition**: Speed and accuracy optimizations for over 20 1D symbologies including Code128, GS1, Codabar, HIBC, ITF14, and more.
+
+### 🛠 Fix
+
+- **USPS OneCode Start Code Issue**: Corrected misread issue for codes beginning with `00`.
+- **AutoSizeMode Nearest Crash Fix**: Generator now successfully renders rotated barcodes.
+- **SwissQR NullReference Fix**: More reliable initialization of `ComplexBarcode.Address` fields.
+- **Elliptical Recursion in Rendering**: QuadPointsHelper now safely exits invalid geometry paths.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.BarCode for .NET 24.12 Release Notes](https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-12-release-notes/)
+
+---
+
+[`barcode to pdf`](https://search.aspose.com/q/barcode-to-pdf.html) | [`barcode rotation fix`](https://search.aspose.com/q/barcode-rotation-fix.html) | [`swissqr exception`](https://search.aspose.com/q/swissqr-exception.html) | [`barcode autosize mode`](https://search.aspose.com/q/barcode-autosize-mode.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

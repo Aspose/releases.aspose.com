@@ -1,5 +1,4 @@
 ---
-
 title: "Streamline .NET Barcode Apps | Aspose.BarCode 24.8 (DLLs)"
 description: "Compliment Australia Post & PZ barcode generation & recognition features in your C# projects with Aspose.BarCode for .NET 24.8 (DLLs only). Download now!"
 keywords: ""
@@ -14,11 +13,9 @@ download_count: " 20/8/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 11.76MB"
 parent_path: "barcode/net"
 section_parent_path: "barcode/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-8-release-notes/"
 weight: 609
-
 ---
 
 {{< Releases/ReleasesWapper >}}

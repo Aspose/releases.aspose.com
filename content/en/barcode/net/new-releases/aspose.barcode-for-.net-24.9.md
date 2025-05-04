@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.barcode-for-.net-24.9"
-description: " "
+title: "Aspose.BarCode for .NET 24.9 Improves Thread-Safety in QR Detection"
+description: "The 24.9 release enhances QR/MicroQR recognition on multicore systems and resolves Java-specific exceptions during detection."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/net/new-releases/aspose.barcode-for-.net-24.9/"
@@ -14,11 +13,9 @@ download_count: " 18/9/2024 Downloads: 2  Views: 1 "
 file_size: "File Size: 11.79MB"
 parent_path: "barcode/net"
 section_parent_path: "barcode/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-9-release-notes/"
 weight: 611
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,36 @@ weight: 611
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for .NET 24.9 (MSI) release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.BarCode for .NET 24.9 introduces a more robust, thread-safe QR detection engine optimized for multicore environments. This version also includes a fix for AutoSizeMode rendering issues and resolves a crash that previously occurred in Java with the QRTargetDetector.
+
+### ✳️ New Feature
+
+- *(No new user-facing features introduced in this release)*
+
+### 🔧 Enhancement
+
+- **AutoSizeMode Fixed**: Improved handling of AutoSizeMode for consistent barcode rendering across different display scenarios.
+- **Thread-Safe QR Detection**: Ensures QR, MicroQR, and RectMicroQR target detection is now safe and stable on multicore systems.
+
+### 🛠 Fix
+
+- **QRTargetDetector Exception (Java)**: Resolved an issue where the QR sorting algorithm failed under certain Java configurations, improving cross-platform reliability.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.BarCode for .NET 24.9 Release Notes](https://releases.aspose.com/barcode/net/release-notes/2024/aspose-barcode-for-net-24-9-release-notes/)
+
+---
+
+[`qr thread safety`](https://search.aspose.com/q/qr-thread-safety.html) | [`autosize mode fix`](https://search.aspose.com/q/autosize-mode-fix.html) | [`qr target detector crash`](https://search.aspose.com/q/qr-target-detector-crash.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
