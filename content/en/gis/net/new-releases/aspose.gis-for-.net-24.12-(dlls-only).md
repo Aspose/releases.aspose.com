@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.gis-for-.net-24.12-(dlls-only)"
-description: " "
+title: "DLLs: DB Without SQL & OSM Tag Fix | Aspose.GIS .NET 24.12"
+description: "Aspose.GIS for .NET 24.12 DLLs enable schema-defined DB access without SQL, automatic map sizing, and OSM tag copying corrections."
 keywords: ""
 page_type: single_release_page
 folder_link: "/gis/net/new-releases/aspose.gis-for-.net-24.12-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 27/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 9.68MB"
 parent_path: "gis/net"
 section_parent_path: "gis/net"
-
 tags: "gis, net, zip, dll, cartography, geo, geographic, geography, geolocation, geospatial, latitude, longitude, location, map, c#"
 release_notes_url: "https://releases.aspose.com/gis/net/release-notes/2024/aspose-gis-for-net-24-12-release-notes/"
 weight: 250
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,45 @@ weight: 250
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.GIS for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.GIS for .NET 24.12 DLLs improve developer efficiency by eliminating the need for raw SQL, simplifying map rendering, and fixing tag loss in OSM workflows.
+
+### ✳️ New Feature
+
+- **Schema-Driven DB Access (No SQL Required)**:
+  - Create editable GIS layers from a table definition using:
+    - `FromDefinition(string tableName)`
+    - `AddAttribute()`, `IdentityAttribute()`, `GeometryField()`
+    - Full async data layer creation and commit with `SubmitChangesAsync()`
+  - Ideal for CRUD operations directly on GIS databases such as PostGIS.
+
+- **Automatic Map Dimensioning**:
+  - Initialize `new Map()` without parameters and let Aspose.GIS infer optimal render size from spatial layer extents.
+  - Supports mixed vector/raster rendering.
+
+### 🔧 Enhancement
+
+- *No general enhancements were logged beyond the main feature set.*
+
+### 🛠 Fix
+
+- **OSM Node Tag Copy Bug**:
+  - Now ensures complete tag transfer when copying nodes from one `.osm` file to another using `Drivers.OsmXml`.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.GIS for .NET 24.12 Release Notes](https://releases.aspose.com/gis/net/release-notes/2024/aspose-gis-for-net-24-12-release-notes/)
+
+---
+
+[`fromdefinition postgis`](https://search.aspose.com/q/fromdefinition-postgis.html) | [`auto map dimension aspose.gis`](https://search.aspose.com/q/auto-map-dimension-aspose.gis.html) | [`osmxml preserve tags`](https://search.aspose.com/q/osmxml-preserve-tags.html) | [`layer without sql`](https://search.aspose.com/q/layer-without-sql.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

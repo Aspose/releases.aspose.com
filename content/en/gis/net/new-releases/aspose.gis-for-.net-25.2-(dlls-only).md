@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.gis-for-.net-25.2-(dlls-only)"
-description: " "
+title: "DLLs: GARS, Plus Codes, Maidenhead Added | Aspose.GIS .NET 25.2"
+description: "Aspose.GIS for .NET 25.2 DLLs now support GARS, Plus Code, and Maidenhead formats for converting points to and from alternative geocoding systems."
 keywords: ""
 page_type: single_release_page
 folder_link: "/gis/net/new-releases/aspose.gis-for-.net-25.2-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 26/2/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 9.68MB"
 parent_path: "gis/net"
 section_parent_path: "gis/net"
-
 tags: "gis, net, C#, zip, cartography, geo, geographic, geography, geolocation, geospatial, latitude, longitude, location, map"
 release_notes_url: "https://releases.aspose.com/gis/net/release-notes/2025/aspose-gis-for-net-25-2-release-notes/"
 weight: 254
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,43 @@ weight: 254
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.GIS for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The DLLs-only release of Aspose.GIS for .NET 25.2 introduces seamless conversion between standard coordinates and popular alternative geolocation systems such as GARS, Plus Code, and Maidenhead.
+
+### ✳️ New Feature
+
+- **Global Area Reference System (GARS)**:
+  - Convert standard latitude/longitude to GARS codes and vice versa using `GeoConvert` API.
+  - Suitable for military-grade GIS applications.
+
+- **Google Plus Codes (OLC)**:
+  - Easily convert between decimal coordinates and Plus Codes using `PointFormats.PlusCode`.
+
+- **Maidenhead Grid Locator**:
+  - Added `PointFormats.Maidenhead` for encoding and decoding in grid-square systems commonly used in ham radio and scientific mapping.
+
+### 🔧 Enhancement
+
+- *No performance or behavior changes beyond format support.*
+
+### 🛠 Fix
+
+- *No issues were resolved in this update.*
+
+#### 👉 You can view the full list of updates by visiting [Aspose.GIS for .NET 25.2 Release Notes](https://releases.aspose.com/gis/net/release-notes/2025/aspose-gis-for-net-25-2-release-notes/)
+
+---
+
+[`parse gars to point`](https://search.aspose.com/q/parse-gars-to-point.html) | [`aspose.gis pluscode support`](https://search.aspose.com/q/aspose.gis-pluscode-support.html) | [`maidenhead locator gis`](https://search.aspose.com/q/maidenhead-locator-gis.html) | [`geoencode gps formats`](https://search.aspose.com/q/geoencode-gps-formats.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.gis-for-.net-25.3-(dlls-only)"
-description: " "
+title: "DLLs: MapInfo Writing & UTM/UPS Formats | Aspose.GIS .NET 25.3"
+description: "Aspose.GIS for .NET 25.3 DLLs now support writing MapInfo Interchange files and converting geospatial points using UTM and UPS formats."
 keywords: ""
 page_type: single_release_page
 folder_link: "/gis/net/new-releases/aspose.gis-for-.net-25.3-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 31/3/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 9.7MB"
 parent_path: "gis/net"
 section_parent_path: "gis/net"
-
 tags: "gis, net, cartography, geo, geographic, geography, geolocation, geospatial, latitude, longitude, location, map, c#, shp, shx, dbf, qix, cpg, json, geojson, gdb, gml, kml, gpx, topojson, mif, tab, dat, dbf, map, id, osm, csv, msi"
 release_notes_url: "https://releases.aspose.com/gis/net/release-notes/2025/aspose-gis-for-net-25-3-release-notes/"
 weight: 256
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,45 @@ weight: 256
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.GIS for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The DLLs-only release of Aspose.GIS for .NET 25.3 adds vital GIS format capabilities, including export to MapInfo Interchange format and robust support for UTM and UPS coordinate systems.
+
+### ✳️ New Feature
+
+- **Export to MapInfo Interchange (.mif/.mid)**:
+  - Generate MapInfo-compatible vector data directly via `MapInfoInterchangeDriver.CreateLayer(...)`.
+  - Fine-tune output using `MapInfoInterchangeOptions.Delimiter` and `Charset`.
+
+- **UTM Coordinate Format Support**:
+  - Convert decimal points to and from UTM strings using `GeoConvert`.
+  - Useful for zone-based mapping in civil and military systems.
+
+- **UPS Format Conversion**:
+  - Easily encode/decode polar points using `PointFormats.Ups`.
+  - Applications include glaciology, Arctic/Antarctic logistics, and more.
+
+### 🔧 Enhancement
+
+- *No additional enhancements beyond new APIs.*
+
+### 🛠 Fix
+
+- *No bug fixes listed in this release.*
+
+#### 👉 You can view the full list of updates by visiting [Aspose.GIS for .NET 25.3 Release Notes](https://releases.aspose.com/gis/net/release-notes/2025/aspose-gis-for-net-25-3-release-notes/)
+
+---
+
+[`create mapinfo layer aspose`](https://search.aspose.com/q/create-mapinfo-layer-aspose.html) | [`utm conversion gis`](https://search.aspose.com/q/utm-conversion-gis.html) | [`ups gis coordinate`](https://search.aspose.com/q/ups-gis-coordinate.html) | [`aspose.gis mif mid export`](https://search.aspose.com/q/aspose.gis-mif-mid-export.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

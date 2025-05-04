@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.gis-for-.net-25.4"
-description: " "
+title: "GML & BigTIFF Support | Aspose.GIS for .NET 25.4 MSI"
+description: "Aspose.GIS for .NET 25.4 MSI adds GML writing, BigTIFF GeoTIFF support, Auto ID saving, and compatibility for .NET 6/8 with Aspose.Drawing."
 keywords: ""
 page_type: single_release_page
 folder_link: "/gis/net/new-releases/aspose.gis-for-.net-25.4/"
@@ -14,11 +13,9 @@ download_count: " 21/4/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 30.81MB"
 parent_path: "gis/net"
 section_parent_path: "gis/net"
-
 tags: "gis, net, cartography, geo, geographic, geography, geolocation, geospatial, latitude, longitude, location, map, c#"
 release_notes_url: "https://releases.aspose.com/gis/net/release-notes/2025/aspose-gis-for-net-25-4-release-notes/"
 weight: 257
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,52 @@ weight: 257
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.GIS for .NET 25.4 release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.GIS for .NET 25.4 significantly expands data format support with GML write functionality, BigTIFF GeoTIFF handling, and modern .NET compatibility. Enhanced database save logic, improved FileGDB geometry handling, and new API options ensure greater flexibility across spatial workflows.
+
+### ✳️ New Feature
+
+- **GML Format Export**:
+  - Introduced `GmlDriver.CreateLayer` and `GmlOptions.ApplicationNamespace` for writing valid GML feature collections with application schemas.
+
+- **Auto ID Support in `SaveTo()`**:
+  - Automatically assigns feature IDs during GeoJSON export using `AutoId = AutoIds.Number`.
+
+- **BigTIFF (GeoTIFF) Support**:
+  - Enables loading of large raster datasets in BigTIFF format.
+  - Supports full band statistics, SRS validation, cell size/scaling checks.
+
+- **MapInfo Interchange & FileGDB (Z/M)**:
+  - Writing FileGDB geometries now respects HasZ and HasM configurations reliably.
+
+- **.NET 6 & .NET 8 Support with Aspose.Drawing**:
+  - New builds are compatible with latest .NET platforms via Aspose.Drawing integration, replacing System.Drawing.
+
+### 🔧 Enhancement
+
+- **Improved Spatial Compatibility**:
+  - Enhanced abstraction path logic for multi-stream shapefiles.
+  - GML schema location handling improved for cross-platform builds.
+
+### 🛠 Fix
+
+- **FileGDB Writing**:
+  - Fixed HasZ/HasM attribute inconsistency when generating layers.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.GIS for .NET 25.4 Release Notes](https://releases.aspose.com/gis/net/release-notes/2025/aspose-gis-for-net-25-4-release-notes/)
+
+---
+
+[`write gml format`](https://search.aspose.com/q/write-gml-format.html) | [`bigtiff geotiff support`](https://search.aspose.com/q/bigtiff-geotiff-support.html) | [`autoid save geojson`](https://search.aspose.com/q/autoid-save-geojson.html) | [`aspose.gis .net8`](https://search.aspose.com/q/aspose.gis-.net8.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

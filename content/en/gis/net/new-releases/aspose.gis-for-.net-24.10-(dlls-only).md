@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.gis-for-.net-24.10-(dlls-only)"
-description: " "
+title: "DLLs: Render SVG Tiles, Edit DB Layers | Aspose.GIS .NET 24.10"
+description: "Aspose.GIS for .NET 24.10 DLLs add map tile rendering as SVG, editable PostGIS layer support, and control over geometry dimensions in FileGDB layers."
 keywords: ""
 page_type: single_release_page
 folder_link: "/gis/net/new-releases/aspose.gis-for-.net-24.10-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 25/10/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 9.65MB"
 parent_path: "gis/net"
 section_parent_path: "gis/net"
-
 tags: "gis, net, zip, dll, cartography, geo, geographic, geography, geolocation, geospatial, latitude, longitude, location, map, c#"
 release_notes_url: "https://releases.aspose.com/gis/net/release-notes/2024/aspose-gis-for-net-24-10-release-notes/"
 weight: 245
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,46 @@ weight: 245
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.GIS for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The DLLs-only release of Aspose.GIS for .NET 24.10 introduces a powerful set of APIs for geospatial data creation, rendering, and editing across vector formats and live databases.
+
+### ✳️ New Feature
+
+- **Render Tiles as SVG Collections**:
+  - Generate styled, tile-based vector map output with `GeneratorTiles.GenerateTiles()`.
+  - Full control over rendering options via `GeneratorTilesRenderOptions`, including custom tile names and symbolization.
+
+- **Create & Update GIS Databases**:
+  - PostGIS and SQL-driven layers are now writable via the new database editing API.
+  - Use `IDatabaseEditableDataSource.SubmitChangesAsync()` for in-place record modification.
+
+- **FileGDB Layer Schema Definition**:
+  - Control whether new FileGDB layers include Z and M coordinates using `FileGdbOptions.HasZ` and `HasM`.
+
+### 🔧 Enhancement
+
+- **Advanced SQL and SRS Integration**:
+  - Compose spatial queries with external SRS loading from database schema.
+  - Query-driven data sources support tracking changes using user-defined keys.
+
+### 🛠 Fix
+
+- *No specific fixes documented in this release.*
+
+#### 👉 You can view the full list of updates by visiting [Aspose.GIS for .NET 24.10 Release Notes](https://releases.aspose.com/gis/net/release-notes/2024/aspose-gis-for-net-24-10-release-notes/)
+
+---
+
+[`gis dll render svg`](https://search.aspose.com/q/gis-dll-render-svg.html) | [`editable gis database`](https://search.aspose.com/q/editable-gis-database.html) | [`custom filegdb schema`](https://search.aspose.com/q/custom-filegdb-schema.html) | [`submitchangesasync aspose.gis`](https://search.aspose.com/q/submitchangesasync-aspose.gis.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

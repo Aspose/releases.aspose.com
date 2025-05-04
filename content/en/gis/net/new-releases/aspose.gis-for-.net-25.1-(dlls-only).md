@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.gis-for-.net-25.1-(dlls-only)"
-description: " "
+title: "DLLs: OSM Editing & In-Memory Layer Streams | Aspose.GIS .NET 25.1"
+description: "Aspose.GIS for .NET 25.1 DLLs offer editable OSM XML layers, in-memory layer composition with MultiStreamPath, and fixes for resaved OSM compatibility."
 keywords: ""
 page_type: single_release_page
 folder_link: "/gis/net/new-releases/aspose.gis-for-.net-25.1-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 29/1/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 9.68MB"
 parent_path: "gis/net"
 section_parent_path: "gis/net"
-
 tags: "gis, net, C#, zip, cartography, geo, geographic, geography, geolocation, geospatial, latitude, longitude, location, map"
 release_notes_url: "https://releases.aspose.com/gis/net/release-notes/2025/aspose-gis-for-net-25-1-release-notes/"
 weight: 252
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,45 @@ weight: 252
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.GIS for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The DLLs-only release of Aspose.GIS for .NET 25.1 empowers developers with OSM editing capabilities, advanced in-memory layer loading, and critical format reliability fixes.
+
+### ✳️ New Feature
+
+- **OSM XML File Editing**:
+  - Create, modify, and update OpenStreetMap `.osm` layers.
+  - Smart duplicate handling via tag-based feature merging.
+  - Fully compatible with OSM tools and workflows.
+
+- **MultiStreamPath for Stream-Based GIS Files**:
+  - Load multi-part GIS formats like `.shp`, `.dbf`, `.prj` from streams via a unified `MultiStreamPath`.
+  - Enables dynamic GIS data handling, embedded storage, and testing without disk access.
+
+### 🔧 Enhancement
+
+- **AbstractPath Upgrade**:
+  - `MultiStreamPath` extends `AbstractPath`, allowing logical grouping of GIS component files in memory.
+  - Optimized for containerized environments and secure data workflows.
+
+### 🛠 Fix
+
+- **Resaved OSM Files Remain Valid**:
+  - Corrected serialization logic ensures `.osm` files saved with Aspose.GIS remain readable and intact.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.GIS for .NET 25.1 Release Notes](https://releases.aspose.com/gis/net/release-notes/2025/aspose-gis-for-net-25-1-release-notes/)
+
+---
+
+[`osm xml edit api`](https://search.aspose.com/q/osm-xml-edit-api.html) | [`in-memory shapefile open`](https://search.aspose.com/q/in-memory-shapefile-open.html) | [`aspose.gis multistreampath`](https://search.aspose.com/q/aspose.gis-multistreampath.html) | [`resave osmxml valid`](https://search.aspose.com/q/resave-osmxml-valid.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

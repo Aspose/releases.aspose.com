@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.gis-for-.net-25.4-(dlls-only)"
-description: " "
+title: "DLLs: GML Write, BigTIFF, AutoId | Aspose.GIS .NET 25.4"
+description: "Aspose.GIS for .NET 25.4 DLLs introduce GML export, BigTIFF raster reading, AutoID feature saving, and full .NET 6/8 compatibility via Aspose.Drawing."
 keywords: ""
 page_type: single_release_page
 folder_link: "/gis/net/new-releases/aspose.gis-for-.net-25.4-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 21/4/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 30.62MB"
 parent_path: "gis/net"
 section_parent_path: "gis/net"
-
 tags: "gis, net, cartography, geo, geographic, geography, geolocation, geospatial, latitude, longitude, location, map"
 release_notes_url: "https://releases.aspose.com/gis/net/release-notes/2025/aspose-gis-for-net-25-4-release-notes/"
 weight: 258
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,49 @@ weight: 258
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.GIS for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The DLLs-only distribution of Aspose.GIS for .NET 25.4 delivers major functionality updates for geospatial developers, including new export formats, enhanced raster processing, and improved platform targeting.
+
+### ✳️ New Feature
+
+- **GML Writing Capability**:
+  - Export vector data to GML with schema validation and application-level namespaces.
+
+- **Automatic ID Assignment on Save**:
+  - Simplify GeoJSON exports with built-in feature indexing via `GeoJsonOptions.AutoId`.
+
+- **BigTIFF Raster Support**:
+  - Open, analyze, and extract data from large TIFF imagery with band-level statistics and accurate SRS handling.
+
+- **FileGDB Z/M Geometry Fixes**:
+  - Ensures accurate writing of 2D, 3D, and measured geometry types using FileGDB.
+
+- **Multi-Platform Targeting**:
+  - Added support for .NET 6 and .NET 8 with `Aspose.Drawing`, replacing deprecated `System.Drawing`.
+
+### 🔧 Enhancement
+
+- Enhanced schema resolution for GML on .NET Core.
+- Optimized raster metadata calculations for TIFF.
+
+### 🛠 Fix
+
+- Corrected inconsistencies when writing geometries with Z/M values to FileGDB layers.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.GIS for .NET 25.4 Release Notes](https://releases.aspose.com/gis/net/release-notes/2025/aspose-gis-for-net-25-4-release-notes/)
+
+---
+
+[`gml driver aspose.gis`](https://search.aspose.com/q/gml-driver-aspose.gis.html) | [`geotiff bigtiff load`](https://search.aspose.com/q/geotiff-bigtiff-load.html) | [`.net6 aspose.gis support`](https://search.aspose.com/q/.net6-aspose.gis-support.html) | [`geojson save autoid`](https://search.aspose.com/q/geojson-save-autoid.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
