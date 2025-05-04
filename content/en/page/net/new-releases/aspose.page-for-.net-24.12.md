@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.page-for-.net-24.12"
-description: " "
+title: "Font Substitution & PS Fixes | Aspose.Page for .NET 24.12 MSI"
+description: "Aspose.Page for .NET 24.12 MSI adds font substitution for corrupted fonts and resolves key PS-to-PDF/image rendering issues."
 keywords: ""
 page_type: single_release_page
 folder_link: "/page/net/new-releases/aspose.page-for-.net-24.12/"
@@ -14,11 +13,9 @@ download_count: " 19/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 24.94MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/page/net/release-notes/2024/aspose-page-for-net-24-12-release-notes/"
 weight: 165
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,41 @@ weight: 165
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Page for .NET 24.12 release Windows installer.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Page for .NET 24.12 introduces robust font substitution for corrupted embedded fonts and resolves critical bugs that previously prevented accurate PostScript-to-PDF and image conversions.
+
+### ✳️ New Feature
+
+- **Corrupted Font Substitution**: Added support for automatically replacing unreadable or damaged embedded fonts during rendering. This enhancement ensures PDF output remains complete even when font data is partially corrupt or missing.
+
+### 🔧 Enhancement
+
+- *No general enhancements introduced beyond new feature capabilities.*
+
+### 🛠 Fix
+
+- **PS to Image Rendering**: Fixed a bug where page content failed to render due to inconsistent page sizing between `save` and `restore` instructions in PostScript.
+- **Printer-Generated PS to PDF Issue**: Resolved failures in converting certain printer-generated PS files to PDF.
+- **Font Extraction Bug**: Corrected issues where embedded fonts could not be extracted during PS to PDF conversion.
+- **Missing Fonts in PDF Output**: Addressed cases where certain fonts were not appearing in the final PDF stream.
+- **Unsupported Profile Version**: Fixed an issue related to an outdated maximum profile version introduced in legacy releases.
+- **Text and Page Content Loss**:
+  - Resolved bugs where specific PS files resulted in missing text or blank pages when converted to PDF.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Page for .NET 24.12 Release Notes](https://releases.aspose.com/page/net/release-notes/2024/aspose-page-for-net-24-12-release-notes/)
+
+---
+
+[`font substitution pdf`](https://search.aspose.com/q/font-substitution-pdf.html) | [`postscript page render fix`](https://search.aspose.com/q/postscript-page-render-fix.html) | [`ps to pdf font issue`](https://search.aspose.com/q/ps-to-pdf-font-issue.html) | [`missing content postscript`](https://search.aspose.com/q/missing-content-postscript.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

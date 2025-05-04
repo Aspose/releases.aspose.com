@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.page-for-.net-25.3"
-description: " "
+title: "Type3 Font Caching Added | Aspose.Page for .NET 25.3 MSI"
+description: "Aspose.Page for .NET 25.3 MSI introduces Type3 font caching for improved rendering efficiency in complex PostScript and PDF workflows."
 keywords: ""
 page_type: single_release_page
 folder_link: "/page/net/new-releases/aspose.page-for-.net-25.3/"
@@ -14,11 +13,9 @@ download_count: " 25/3/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 25.09MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/page/net/release-notes/2025/aspose-page-for-net-25-3-release-notes/"
 weight: 171
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,36 @@ weight: 171
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Page for .NET 25.3 release Windows installer.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Page for .NET 25.3 improves performance in font-heavy documents by adding support for Type3 font caching, reducing memory usage and speeding up repeated glyph rendering.
+
+### ✳️ New Feature
+
+- **Type3 Font Caching Implemented**:  
+  Introduced internal caching for Type3 fonts, which are commonly used in complex or custom PostScript and PDF documents. This enhancement accelerates rendering speed and reduces overhead when the same glyphs are used repeatedly within a file.
+
+### 🔧 Enhancement
+
+- *No additional enhancements introduced in this release.*
+
+### 🛠 Fix
+
+- *No bug fixes included in this version.*
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Page for .NET 25.3 Release Notes](https://releases.aspose.com/page/net/release-notes/2025/aspose-page-for-net-25-3-release-notes/)
+
+---
+
+[`type3 font performance`](https://search.aspose.com/q/type3-font-performance.html) | [`font caching aspose`](https://search.aspose.com/q/font-caching-aspose.html) | [`postscript type3 optimization`](https://search.aspose.com/q/postscript-type3-optimization.html) | [`aspose page font cache`](https://search.aspose.com/q/aspose-page-font-cache.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.page-for-.net-24.10-(dlls-and-docs)"
-description: " "
+title: "DLLs: EPS Header/Footer Fix | Aspose.Page for .NET 24.10"
+description: "The 24.10 DLLs-only release of Aspose.Page for .NET fixes header/footer issues in EPS to PDF conversion for more reliable output."
 keywords: ""
 page_type: single_release_page
 folder_link: "/page/net/new-releases/aspose.page-for-.net-24.10-(dlls-and-docs)/"
@@ -14,11 +13,9 @@ download_count: " 24/10/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 24.21MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/page/net/release-notes/2024/aspose-page-for-net-24-10-release-notes/"
 weight: 160
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,35 @@ weight: 160
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">We are pleased to announce a new version of Aspose.Page for .Net.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Page for .NET 24.10 DLLs-only package includes a key bug fix to ensure accurate header and footer rendering during EPS to PDF conversion, enhancing document output reliability.
+
+### ✳️ New Feature
+
+- *No new APIs or features included in this release.*
+
+### 🔧 Enhancement
+
+- *No enhancements included.*
+
+### 🛠 Fix
+
+- **EPS Header/Footer Alignment Fixed**: Resolved a formatting issue where EPS files converted to PDF displayed incorrect or missing headers and footers. The fix enhances the visual fidelity of converted documents, especially for professional printing and document sharing.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Page for .NET 24.10 Release Notes](https://releases.aspose.com/page/net/release-notes/2024/aspose-page-for-net-24-10-release-notes/)
+
+---
+
+[`eps conversion bug`](https://search.aspose.com/q/eps-conversion-bug.html) | [`aspose.page dll update`](https://search.aspose.com/q/aspose.page-dll-update.html) | [`header footer bug fix`](https://search.aspose.com/q/header-footer-bug-fix.html) | [`eps rendering issue`](https://search.aspose.com/q/eps-rendering-issue.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

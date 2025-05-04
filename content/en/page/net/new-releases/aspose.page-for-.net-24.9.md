@@ -1,5 +1,4 @@
 ---
-
 title: "Downloads ---New Releases-aspose.page-for-.net-24.9"
 description: " "
 keywords: ""
@@ -14,11 +13,9 @@ download_count: " 23/9/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 24.48MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/page/net/release-notes/2024/aspose-page-for-net-24-9-release-notes/"
 weight: 159
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,12 @@ weight: 159
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Page for .NET 24.9 release Windows installer.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -1,5 +1,4 @@
 ---
-
 title: "Downloads ---New Releases-aspose.page-for-.net-25.1-(dlls-and-docs)"
 description: " "
 keywords: ""
@@ -14,11 +13,9 @@ download_count: " 28/1/2025 Downloads: 2  Views: 1 "
 file_size: "File Size: 24.73MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/page/net/release-notes/2025/aspose-page-for-net-25-1-release-notes/"
 weight: 166
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,12 @@ weight: 166
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">We are pleased to announce a new version of Aspose.Page for .Net.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

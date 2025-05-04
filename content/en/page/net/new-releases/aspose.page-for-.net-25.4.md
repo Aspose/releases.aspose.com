@@ -1,5 +1,4 @@
 ---
-
 title: "Downloads ---New Releases-aspose.page-for-.net-25.4"
 description: " "
 keywords: ""
@@ -14,11 +13,9 @@ download_count: " 22/4/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 25.09MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/page/net/release-notes/2025/aspose-page-for-net-25-4-release-notes/"
 weight: 173
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,12 @@ weight: 173
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Page for .NET 25.4 release Windows installer.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
