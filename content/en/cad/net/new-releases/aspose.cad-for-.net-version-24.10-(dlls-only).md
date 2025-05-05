@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.cad-for-.net-version-24.10-(dlls-only)"
-description: " "
+title: "DLLs: Aspose.CAD for .NET 24.10 Brings IGS, Gradient Hatch & OBJ Enhancements"
+description: "Aspose.CAD for .NET 24.10 DLLs-only improves IGS, hatch gradient, DWG-to-OBJ, and text-to-3D export accuracy. Enhanced PDF attribute layout and DWF handling."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cad/net/new-releases/aspose.cad-for-.net-version-24.10-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 28/10/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 71.99MB"
 parent_path: "cad/net"
 section_parent_path: "cad/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/cad/net/release-notes/2024/aspose-cad-for-net-24-10-release-notes/"
 weight: 239
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,43 @@ weight: 239
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.CAD for .NET assemblies v24.10. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.CAD for .NET without the MSI installer.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.CAD for .NET 24.10 (DLLs-only) delivers extensive improvements across vector and 3D formats. With full IGS/IGES import/export support, hatch gradient rendering, and improved text export to 3D, this update offers precision control across CAD pipelines.
+
+### ✳️ Enhancement
+
+- **IGS/IGES Interoperability**:  
+  Enable import and export of IGS files with accurate geometry and layer data retention. [CADNET-9157, CADNET-9180, CADNET-9192]
+
+- **Gradient Hatch Improvements**:  
+  Added linear gradient support in hatch elements to ensure visual fidelity in DXF/DWG files. [CADNET-9462, CADNET-9888]
+
+- **Better DWG to OBJ Conversion**:  
+  Fixed export errors and enhanced support for geometry transformations. [CADNET-9870]
+
+- **3D Text Conversion Fixes**:  
+  Significantly improved how text entities are mapped to 3D models. [CADNET-9360]
+
+- **Fixed Attribute Position in PDF**:  
+  Ensured that modified attribute values don’t shift position during PDF export. [CADNET-9831]
+
+- **Enhanced DWF to OBJ Support**:  
+  Streamlined geometry handling and improved object alignment during export. [CADNET-9197]
+
+#### 👉 You can view the full list of updates by visiting [Aspose.CAD for .NET 24.10 Release Notes](https://releases.aspose.com/cad/net/release-notes/2024/aspose-cad-for-net-24-10-release-notes/)
+
+---
+
+[`dll iges to pdf`](https://search.aspose.com/q/dll-iges-to-pdf.html) | [`dll dwg to obj`](https://search.aspose.com/q/dll-dwg-to-obj.html) | [`dll hatch gradient support`](https://search.aspose.com/q/dll-hatch-gradient-support.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.cad-for-.net-24.11"
-description: " "
+title: "MSI: Aspose.CAD for .NET 24.11 Adds DWF/DWFx Export & DWG Enhancements"
+description: "Aspose.CAD for .NET 24.11 MSI adds support for DWF/DWFx export, improves DWG/DXF processing, hatch parsing, and custom line style rendering."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cad/net/new-releases/aspose.cad-for-.net-24.11/"
@@ -14,11 +13,9 @@ download_count: " 1/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 72.13MB"
 parent_path: "cad/net"
 section_parent_path: "cad/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/cad/net/release-notes/2024/aspose-cad-for-net-24-11-release-notes/"
 weight: 240
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,57 @@ weight: 240
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Contains MSI installer for full product installation of Aspose.CAD for .NET v24.11</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.CAD for .NET 24.11 (MSI) introduces support for exporting to **DWF and DWFx** formats and improves DWG and DXF workflows with optimized export speed, enhanced custom line styles, and simplified hatch object handling. This release also includes better error resilience when creating DXF files from scratch and improved Collada and SHX support.
+
+### ✳️ New Feature
+
+- **DWF and DWFx Export Support**  
+  Added capability to export CAD files to Autodesk’s DWF and DWFx formats using the eModel interface. [CADNET-9674, CADNET-9542]
+
+### 🔧 Enhancement
+
+- **DWG to DXF Performance Boost**  
+  Significantly reduced export time for large DWG files when converting to DXF. [CADNET-9916]
+
+- **Custom Line Style Rendering**  
+  Implemented a rendering algorithm to display user-defined line styles. [CADNET-9871]
+
+- **Simplified Hatch Object Handling**  
+  Removed redundant Hatch properties and improved parsing consistency during read/write. [CADNET-9901]
+
+- **Set Initial Coordinates in DWG Export**  
+  You can now define starting entity coordinates for DWG exports. [CADNET-9899]
+
+- **Export Stability with simplex.shx**  
+  Fixed PDF export exceptions related to simplex.shx font. [CADNET-9951]
+
+- **Improved Collada File Loading**  
+  Addressed issues with loading certain Collada (.dae) formats. [CADNET-9857]
+
+- **DXF File Creation from Scratch**  
+  Added API support for generating DXF drawings entirely programmatically. [CADNET-8952, CADNET-9042]
+
+- **Documentation Improvements**  
+  Enhanced clarity of `STPImage` class documentation for developers. [CADNET-9891]
+
+- **Improved Object Parsing**  
+  Expanded parsing coverage for simple objects in CAD formats. [CADNET-9947]
+
+#### 👉 You can view the full list of updates by visiting [Aspose.CAD for .NET 24.11 Release Notes](https://releases.aspose.com/cad/net/release-notes/2024/aspose-cad-for-net-24-11-release-notes/)
+
+---
+
+[`msi dwg to dxf export`](https://search.aspose.com/q/msi-dwg-to-dxf-export.html) | [`msi dwfx export`](https://search.aspose.com/q/msi-dwfx-export.html) | [`msi custom line style rendering`](https://search.aspose.com/q/msi-custom-line-style-rendering.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

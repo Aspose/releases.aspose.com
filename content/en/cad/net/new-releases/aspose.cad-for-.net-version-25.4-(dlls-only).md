@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.cad-for-.net-version-25.4-(dlls-only)"
-description: " "
+title: "DLLs: Aspose.CAD for .NET 25.4 Adds Path Parsing, STP/DGN Improvements"
+description: "Aspose.CAD for .NET 25.4 DLLs bring DGN text extraction, fixes STP-to-DWG/GLB-to-GLTF issues, and adds path construction parsing for improved 2D graphic support."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cad/net/new-releases/aspose.cad-for-.net-version-25.4-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 10/4/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 50.31MB"
 parent_path: "cad/net"
 section_parent_path: "cad/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/cad/net/release-notes/2025/aspose-cad-for-net-25-4-release-notes/"
 weight: 251
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,48 @@ weight: 251
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">This ZIP file contains only the Aspose.CAD for .NET assemblies v25.4. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.CAD for .NET without the MSI installer.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.CAD for .NET 25.4 (DLLs-only) brings essential fixes and new features including **path construction parsing**, enhanced **STP to DWG interoperability**, **DGN text extraction**, and more robust **multi-format CAD rendering**.
+
+### ✳️ New Feature
+
+- **Support for Path Construction Operators**  
+  Core parsing capabilities extended to support path-building commands in vector graphics workflows. [CADNET-10069]
+
+### 🔧 Enhancement
+
+- **STP to DWG Conversion Fixes**  
+  - Lexer enhancements and implementation of missing surface types to improve STEP compatibility. [CADNET-10073, CADAPP-2267]
+
+- **Robust DWG to PDF Export**  
+  Eliminated null reference exceptions during export. [CADNET-10078]
+
+- **DXF to DXF Reliability Upgraded**  
+  More stable and accurate processing of DXF files. [CADAPP-2146]
+
+- **GLB to GLTF Stability Fix**  
+  Resolved JSON parsing errors impacting asset conversion. [CADNET-10081]
+
+- **DGN File Text Parsing Added**  
+  Programmatic access to embedded text in DGN CAD drawings. [CADNET-10079]
+
+- **Text Preservation in DWG Polylines**  
+  Fixed missing labels in converted polyline shapes. [CADNET-10067]
+
+#### 👉 You can view the full list of updates by visiting [Aspose.CAD for .NET 25.4 Release Notes](https://releases.aspose.com/cad/net/release-notes/2025/aspose-cad-for-net-25-4-release-notes/)
+
+---
+
+[`dwg to pdf null fix`](https://search.aspose.com/q/dwg-to-pdf-null-fix.html) | [`step to dwg .net`](https://search.aspose.com/q/step-to-dwg-dotnet.html) | [`dgn text to string`](https://search.aspose.com/q/dgn-text-to-string.html) | [`glb json issue`](https://search.aspose.com/q/glb-json-issue.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
