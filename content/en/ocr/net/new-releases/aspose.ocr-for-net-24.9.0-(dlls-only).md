@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.ocr-for-net-24.9.0-(dlls-only)"
-description: " "
+title: "Aspose.OCR .NET 24.9: PDF Size Optimization & OCR Accuracy Boost"
+description: "Save smaller PDFs with quality control and use an improved OCR engine with enhanced multi-language and orientation accuracy in Aspose.OCR for .NET 24.9 DLLs."
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/net/new-releases/aspose.ocr-for-net-24.9.0-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 28/9/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 146.18MB"
 parent_path: "ocr/net"
 section_parent_path: "ocr/net"
-
 tags: "OCR, NET"
 release_notes_url: "https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-9-0-release-notes/"
 weight: 367
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,35 @@ weight: 367
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">ability to reduce PDF file size, improved text orientation detection</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.OCR for .NET 24.9.0 introduces a new PDF optimization engine and delivers enhanced OCR performance, especially for text-in-wild, rotated images, and multilingual content.
+
+### ✳️ New Feature
+
+- **PDF Size Optimization Modes**: Added `PdfOptimizationMode` enumeration to **balance PDF file size vs image quality** with options from `MAXIMUM_QUALITY` to `AGGRESSIVE`. This enables tailored PDF export for storage-sensitive or high-quality workflows.
+
+### 🔧 Enhancement
+
+- **Next-Gen OCR Model**: Implemented an upgraded **text-in-wild recognition engine** with **higher accuracy** across multiple languages and complex backgrounds.
+- **Orientation Detection Fixes**: Improved detection of image orientation to **prevent upside-down text recognition** errors.
+- **TABLE & PHOTO Mode Improvements**: Enhanced **content area detection** algorithms, boosting OCR precision for structured layouts and photographs.
+
+### 🛠 Fix
+
+- *(No specific bug fixes listed beyond enhancements)*
+
+#### 👉 You can view the full list of updates by visiting [Aspose.OCR for .NET 24.9.0 Release Notes](https://releases.aspose.com/ocr/net/release-notes/2024/aspose-ocr-for-net-24-9-0-release-notes/)
+
+---
+
+[`ocr pdf size optimization`](https://search.aspose.com/q/ocr-pdf-size-optimization.html) | [`multi-language ocr`](https://search.aspose.com/q/multi-language-ocr.html) | [`ocr image orientation fix`](https://search.aspose.com/q/ocr-image-orientation-fix.html) | [`text in wild recognition`](https://search.aspose.com/q/text-in-wild-recognition.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

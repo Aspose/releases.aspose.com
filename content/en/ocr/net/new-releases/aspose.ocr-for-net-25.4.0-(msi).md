@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.ocr-for-net-25.4.0-(msi)"
-description: " "
+title: "Aspose.OCR for .NET 25.4.0 – Markdown Output & Auto Language"
+description: "Aspose.OCR for .NET 25.4.0 adds automatic language detection and Markdown export format with accurate layout detection. Download the MSI package."
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/net/new-releases/aspose.ocr-for-net-25.4.0-(msi)/"
@@ -14,11 +13,9 @@ download_count: " 8/4/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 81.04MB"
 parent_path: "ocr/net"
 section_parent_path: "ocr/net"
-
 tags: "OCR, NET"
 release_notes_url: "https://releases.aspose.com/ocr/net/release-notes/2025/aspose-ocr-for-net-25-4-0-release-notes/"
 weight: 385
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,33 @@ weight: 385
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Auto detection languages. Md and Docx output</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.OCR for .NET 25.4.0 adds support for Markdown output and automatic language detection at page, paragraph, or word level for precise multilingual OCR.
+
+### ✳️ New Feature
+
+- **Markdown Export**: Save recognition results with layout as `.md` files using `SaveFormat.Md`. Ideal for lightweight document storage with readability.
+- **Automatic Language Detection**: Detect and OCR documents with mixed languages using `Language.Auto`, `Language.Multilanguage`, or `Language.Universal`.
+- **Granular Language Detection**: Use `LanguageDetectionLevel` to identify languages per page, paragraph, or word for more targeted recognition.
+
+### 🔧 Enhancement
+
+- **Improved DOCX Output**: Enhanced layout accuracy and formatting when saving recognized content to Word documents.
+
+---
+
+#### 👉 You can view the full list of updates by visiting [Aspose.OCR for .NET 25.4.0 Release Notes](https://releases.aspose.com/ocr/net/release-notes/2025/aspose-ocr-for-net-25-4-0-release-notes/)
+
+---
+
+[`ocr markdown export`](https://search.aspose.com/q/ocr-markdown-export.html) | [`multilingual ocr`](https://search.aspose.com/q/multilingual-ocr.html) | [`auto language detection ocr`](https://search.aspose.com/q/auto-language-detection-ocr.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.ocr-for-net-25.4.0-(dlls-only)"
-description: " "
+title: "Aspose.OCR for .NET 25.4.0 DLLs – Multilingual OCR + Markdown"
+description: "Process multilingual images and export structured Markdown documents using Aspose.OCR for .NET 25.4.0 DLLs only release."
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/net/new-releases/aspose.ocr-for-net-25.4.0-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 8/4/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 80.08MB"
 parent_path: "ocr/net"
 section_parent_path: "ocr/net"
-
 tags: "OCR, NET"
 release_notes_url: "https://releases.aspose.com/ocr/net/release-notes/2025/aspose-ocr-for-net-25-4-0-release-notes/"
 weight: 386
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,33 @@ weight: 386
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Auto detection languages. Md and Docx output</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The Aspose.OCR for .NET 25.4.0 (DLLs Only) release empowers developers with language-aware OCR and Markdown output, ideal for structured and multilingual document processing.
+
+### ✳️ New Feature
+
+- **Markdown Format**: Export recognition output with structure in `.md` format. Great for documentation workflows and content pipelines.
+- **Auto Language Detection**: Automatically detect mixed-language content using `Language.Auto`, `Language.Multilanguage`, and `Language.Universal`.
+- **Flexible Detection Levels**: Use `LanguageDetectionLevel.ByPage`, `ByParagraph`, or `ByWord` for tailored multilingual recognition.
+
+### 🔧 Enhancement
+
+- **DOCX Layout Fidelity**: Recognized content now retains better formatting when saved as Word documents.
+
+---
+
+#### 👉 You can view the full list of updates by visiting [Aspose.OCR for .NET 25.4.0 Release Notes](https://releases.aspose.com/ocr/net/release-notes/2025/aspose-ocr-for-net-25-4-0-release-notes/)
+
+---
+
+[`aspose ocr dll language detection`](https://search.aspose.com/q/aspose-ocr-dll-language-detection.html) | [`save to markdown ocr`](https://search.aspose.com/q/save-to-markdown-ocr.html) | [`ocr dll auto language`](https://search.aspose.com/q/ocr-dll-auto-language.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

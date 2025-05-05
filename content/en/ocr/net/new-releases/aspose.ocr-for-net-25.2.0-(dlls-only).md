@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.ocr-for-net-25.2.0-(dlls-only)"
-description: " "
+title: "Aspose.OCR for .NET 25.2.0 DLLs – Language Detection, ONNX Config"
+description: "v25.2.0 adds multilingual text detection in images and gives devs full ONNX session config for parallel execution and tuning in OCR pipelines."
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/net/new-releases/aspose.ocr-for-net-25.2.0-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 27/2/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 80.07MB"
 parent_path: "ocr/net"
 section_parent_path: "ocr/net"
-
 tags: "OCR, NET"
 release_notes_url: "https://releases.aspose.com/ocr/net/release-notes/2025/aspose-ocr-for-net-25-2-0-release-notes/"
 weight: 382
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,32 @@ weight: 382
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Language detection, ONNX session options</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.OCR for .NET 25.2.0 (DLLs Only) introduces multilingual text detection capabilities and full control over ONNX runtime threading and optimization levels.
+
+### ✳️ New Feature
+
+- **LanguageDetectionOutput**: Get a list of languages (with probabilities) detected in an image using the new `DetectLanguages()` API.
+- **ONNX Runtime Session Control**: Fine-tune execution using `GraphOptimizationLevel`, `ExecutionMode`, `IntraOpNumThreads`, and `InterOpNumThreads`.
+
+### 🔧 Enhancement
+
+- **Advanced OCR Optimization**: Run parallel inference tasks and tune OCR pipelines for high-load or multicore servers using low-level ONNX tuning.
+
+---
+
+#### 👉 You can view the full list of updates by visiting [Aspose.OCR for .NET 25.2.0 Release Notes](https://releases.aspose.com/ocr/net/release-notes/2025/aspose-ocr-for-net-25-2-0-release-notes/)
+
+---
+
+[`onnx ocr optimization`](https://search.aspose.com/q/onnx-ocr-optimization.html) | [`ocr language classification`](https://search.aspose.com/q/ocr-language-classification.html) | [`custom threading aspose ocr`](https://search.aspose.com/q/custom-threading-aspose-ocr.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

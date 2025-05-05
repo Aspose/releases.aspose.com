@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.ocr-for-net-25.2.0-(msi)"
-description: " "
+title: "Aspose.OCR for .NET 25.2.0 – Language Detection + ONNX Tuning"
+description: "Detect multiple languages in images and control ONNX runtime threading and optimization with the latest Aspose.OCR for .NET 25.2.0 MSI."
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/net/new-releases/aspose.ocr-for-net-25.2.0-(msi)/"
@@ -14,11 +13,9 @@ download_count: " 27/2/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 81.03MB"
 parent_path: "ocr/net"
 section_parent_path: "ocr/net"
-
 tags: "OCR, NET"
 release_notes_url: "https://releases.aspose.com/ocr/net/release-notes/2025/aspose-ocr-for-net-25-2-0-release-notes/"
 weight: 381
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,32 @@ weight: 381
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Language detection, ONNX session options</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.OCR for .NET 25.2.0 delivers automatic image language detection and low-level ONNX session configuration for high-performance OCR on tailored systems.
+
+### ✳️ New Feature
+
+- **Multi-language Detection**: Added `DetectLanguages()` method to identify text language(s) in images, including English, Cyrillic, Arabic, Chinese, Japanese, Korean, Hindi, Tamil, Telugu, and Kannada.
+- **ONNX Runtime Control**: Developers can now configure graph optimization, execution mode, and threading behavior via `OnnxRuntimeSessionOptions`.
+
+### 🔧 Enhancement
+
+- **Custom Hardware Tuning**: Set intra-op and inter-op thread counts and execution modes for optimal performance on multicore systems.
+
+---
+
+#### 👉 You can view the full list of updates by visiting [Aspose.OCR for .NET 25.2.0 Release Notes](https://releases.aspose.com/ocr/net/release-notes/2025/aspose-ocr-for-net-25-2-0-release-notes/)
+
+---
+
+[`onnx runtime settings`](https://search.aspose.com/q/onnx-runtime-settings.html) | [`image language detection`](https://search.aspose.com/q/image-language-detection.html) | [`aspose ocr threading`](https://search.aspose.com/q/aspose-ocr-threading.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
