@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.tasks-for-.net-24.9-(dlls-only)"
-description: " "
+title: "Aspose.Tasks .NET 24.9 DLLs: Bar Styles & Calculation Fixes"
+description: "Get the DLLs-only package for Aspose.Tasks .NET 24.9 featuring new Gantt bar styles, duration fixes, and exception diagnostics."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/net/new-releases/aspose.tasks-for-.net-24.9-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 26/9/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 22.85MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-9-release-notes/"
 weight: 529
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,40 @@ weight: 529
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for .NET 24.9 (DLLs Only) release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Tasks for .NET 24.9 DLLs package introduces precision improvements in Gantt bar customization, resource calculations, and task validation diagnostics.
+
+### ✳️ New Feature
+
+- **TaskException Extension**: `TaskUid` now available in `TaskValidationException` for better debugging.
+- **Advanced Gantt Bar Shapes**: New shape types (`RectangleBottom`, `LineMiddle`, `LineTop`) for detailed project visualization.
+
+### 🔧 Enhancement
+
+- **Public API Update**: Access new properties (`StartShapeType`, `EndShapeType`, `From`, `To`) in `BarStyle` for fine control of rendering.
+- **Enumeration Additions**: Support for `HalfHeightBottom`, `LineTop`, and `Circle` shapes for diverse Gantt representations.
+
+### 🛠 Fix
+
+- Fixed Gantt chart bar text indents affecting task name clarity.
+- Resolved issues in calculating resource peak units and durations.
+- Corrected reading of overlapping calendar exceptions in timephased data.
+- Improved baseline bar rendering consistency in Gantt charts.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Tasks for .NET 24.9 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-9-release-notes/)
+
+---
+
+[`gantt bar customization`](https://search.aspose.com/q/gantt-bar-customization.html) | [`task duration calculation`](https://search.aspose.com/q/task-duration-calculation.html) | [`taskuid exception`](https://search.aspose.com/q/taskuid-exception.html) | [`baseline gantt chart`](https://search.aspose.com/q/baseline-gantt-chart.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

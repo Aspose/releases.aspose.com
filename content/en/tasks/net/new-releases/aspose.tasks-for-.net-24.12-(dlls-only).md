@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.tasks-for-.net-24.12-(dlls-only)"
-description: " "
+title: "Aspose.Tasks 24.12 DLLs: Gantt Font Tweaks & XLSX Fixes"
+description: "Apply custom fonts to Gantt task labels, generate TIFFs on Linux, and resolve XLSX export bugs in Aspose.Tasks .NET 24.12 DLLs."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/net/new-releases/aspose.tasks-for-.net-24.12-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 14/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 23.05MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-12-release-notes/"
 weight: 535
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,43 @@ weight: 535
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for .NET 24.12 (DLLs Only) release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The DLLs-only package of Aspose.Tasks for .NET 24.12 delivers improved Gantt chart rendering, TIFF export on Linux, and accurate spreadsheet and formula handling.
+
+### ✳️ New Feature
+
+- *(No new features in this release)*
+
+### 🔧 Enhancement
+
+- **Custom Font Support**: Set specific fonts for task bar text labels in Gantt views.
+- **TIFF for Linux**: TIFF output now supported for `.NET 6.0` on Linux-based systems.
+- **Timescale Label Alignment**: Full alignment control using `TimescaleTier.Alignment` across page boundaries.
+- **Render Labels Per Page**: Use `RenderLabelOnEachPage` to maintain consistent label rendering across multiple pages.
+
+### 🛠 Fix
+
+- Fixed page-edge rendering bugs in Gantt chart timescales.
+- Removed unintended column insertion when exporting to XLSX.
+- Corrected visual misplacement of task bars in rendered Gantt views.
+- Gridline colors now correctly reflect `NormalColor` values.
+- Baseline2 field references in formulas now compute accurately.
+- Addressed missing timescale text labels due to tier start misalignment.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Tasks for .NET 24.12 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-12-release-notes/)
+
+---
+
+[`gantt task label font`](https://search.aspose.com/q/gantt-task-label-font.html) | [`tiff rendering net6 linux`](https://search.aspose.com/q/tiff-rendering-net6-linux.html) | [`xlsx export empty column fix`](https://search.aspose.com/q/xlsx-export-empty-column-fix.html) | [`baseline2 formula bug`](https://search.aspose.com/q/baseline2-formula-bug.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

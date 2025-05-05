@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.tasks-for-.net-25.4"
-description: " "
+title: "Aspose.Tasks .NET 25.4: Gantt Legend Control & Calendar Intersection"
+description: "Customize Gantt legends, align timescale to page end, and compute task-resource calendar intersections in Aspose.Tasks .NET 25.4 MSI."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/net/new-releases/aspose.tasks-for-.net-25.4/"
@@ -14,11 +13,9 @@ download_count: " 16/4/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 19.08MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2025/aspose-tasks-for-net-25-4-release-notes/"
 weight: 542
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,40 @@ weight: 542
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains MSI with Aspose.Tasks for .NET 25.4 release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Tasks for .NET 25.4 introduces advanced visual and calendar-based control, including Gantt chart legend configuration, calendar intersection calculations, and rendering alignment improvements for multi-format exports.
+
+### ✳️ New Feature
+
+- *(No new features in this release)*
+
+### 🔧 Enhancement
+
+- **Gantt Chart Legend Customization**: Control legend entries using `SaveOptions.LegendItems`, allowing fine-tuned bar visibility (e.g., Inactive Task, Manual Summary).
+- **Calendar Intersection API**: New `Calendar.GetIntersectionCalendar` method for calculating working time intersections between task and resource calendars.
+- **Timescale Fit Behavior**: Added `TimescaleFitBehavior` enum for aligning timescale rendering with the page's right edge (including `ScaleToEndOfPage`, `NoScaleToEndDate`, etc.).
+
+### 🛠 Fix
+
+- **Primavera Export Accuracy**: Resolved invalid structure when exporting to P6 XML and incorrect summary task assignments in XER/P6 formats.
+- **TaskUsage View**: Fixed rendering glitches in `TaskUsage` views, especially when `RenderToSinglePage` is used.
+- **Timescale Display Fix**: Corrected display at page edges when timescale rendering extended past visible layout.
+- **Task Scheduling Logic**: Fixed task misalignment when an auto-scheduled task follows a manual task in sequence.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Tasks for .NET 25.4 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2025/aspose-tasks-for-net-25-4-release-notes/)
+
+---
+
+[`gantt legend customization`](https://search.aspose.com/q/gantt-legend-customization.html) | [`calendar intersection api`](https://search.aspose.com/q/calendar-intersection-api.html) | [`timescale fit behavior`](https://search.aspose.com/q/timescale-fit-behavior.html) | [`primavera p6 xml export fix`](https://search.aspose.com/q/primavera-p6-xml-export-fix.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

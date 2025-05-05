@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.tasks-for-.net-24.10-(dlls-only)"
-description: " "
+title: "Aspose.Tasks .NET 24.10 DLLs: MPP Indicators & XER Fixes"
+description: "Get .NET DLLs to manage MPP graphical indicators, validate resource data, and fix XER parsing in Aspose.Tasks 24.10."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/net/new-releases/aspose.tasks-for-.net-24.10-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 23/10/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 22.93MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-10-release-notes/"
 weight: 531
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,39 @@ weight: 531
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for .NET 24.10 (DLLs Only) release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The DLLs-only release of Aspose.Tasks for .NET 24.10 empowers developers with fine-grained control over MPP graphical indicators and advanced resource data validation.
+
+### ✳️ New Feature
+
+- **Full Graphical Indicator Support**: Create and apply graphical indicators to extended attributes using a structured API, including image mapping and row-based criteria.
+- **MPP File Write-Back**: Now supports saving indicators back to MPP format without data loss.
+
+### 🔧 Enhancement
+
+- **Resource Validation API**: New `ResourceValidationException` ensures reliable project scheduling through validated availability periods.
+- **Extended Attribute Expansion**: Enrich attribute handling with `GraphicalIndicatorsInfo`, `Criteria`, and tooltip visibility toggles.
+
+### 🛠 Fix
+
+- Corrected XER (v6.0.0) imports for time-related fields such as `MinutesPerDay` and `HoursPerMonth`.
+- Fixed lag format inheritance for `TaskLinkCollection.Add`.
+- Ensured accurate writing of `AvailabilityPeriod` data into project files.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Tasks for .NET 24.10 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2024/aspose-tasks-for-net-24-10-release-notes/)
+
+---
+
+[`aspose.tasks indicators`](https://search.aspose.com/q/aspose.tasks-indicators.html) | [`mpp extended attributes`](https://search.aspose.com/q/mpp-extended-attributes.html) | [`xer file fix`](https://search.aspose.com/q/xer-file-fix.html) | [`resource data integrity`](https://search.aspose.com/q/resource-data-integrity.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

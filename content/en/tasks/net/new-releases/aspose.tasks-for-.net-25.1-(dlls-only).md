@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.tasks-for-.net-25.1-(dlls-only)"
-description: " "
+title: "Aspose.Tasks 25.1 DLLs: Resource Table Support & MPP Fixes"
+description: "DLLs-only release adds resource table creation and resolves bugs in ActualStart, Resume, and baseline data parsing in Aspose.Tasks .NET 25.1."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/net/new-releases/aspose.tasks-for-.net-25.1-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 25/1/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 23.08MB"
 parent_path: "tasks/net"
 section_parent_path: "tasks/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/tasks/net/release-notes/2025/aspose-tasks-for-net-25-1-release-notes/"
 weight: 537
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,38 @@ weight: 537
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for .NET 25.1 (DLLs Only) release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Tasks for .NET 25.1 DLLs package enhances the SDK with a resource-focused API and critical fixes in MPP assignment and baseline data interpretation.
+
+### ✳️ New Feature
+
+- *(No new features in this release)*
+
+### 🔧 Enhancement
+
+- **Resource Table API**: Added support for generating and managing **Tables for Resources**, enabling structured resource overviews in project files.
+
+### 🛠 Fix
+
+- Resolved logic error in calculating `Assignment.Stop` and `Assignment.Resume` when `ActualWork` ends with zero-duration entries.
+- Fixed improper reading of `ActualStart` and `ActualFinish` from MPP files, ensuring timeline accuracy.
+- Eliminated “NA” issue in task `Finish` when recalculating saved files in MS Project.
+- Fixed baseline timephased data display to reflect correct scheduling history.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Tasks for .NET 25.1 Release Notes](https://releases.aspose.com/tasks/net/release-notes/2025/aspose-tasks-for-net-25-1-release-notes/)
+
+---
+
+[`aspose.tasks resource table`](https://search.aspose.com/q/aspose.tasks-resource-table.html) | [`actualfinish parsing fix`](https://search.aspose.com/q/actualfinish-parsing-fix.html) | [`baseline repair aspose`](https://search.aspose.com/q/baseline-repair-aspose.html) | [`aspose.tasks dlls update`](https://search.aspose.com/q/aspose.tasks-dlls-update.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
