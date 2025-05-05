@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.diagram-for-.net-25.3-(dlls-only)"
-description: " "
+title: "DLLs: Aspose.Diagram 25.3 Adds VSS/VST Export & .NET 9 Compatibility"
+description: "Aspose.Diagram for .NET 25.3 DLLs-only adds VSS/VST support, .NET 9 compatibility, shape action APIs, and bug fixes in Visio rendering and PDF layout."
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/net/new-releases/aspose.diagram-for-.net-25.3-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 14/3/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 48.26MB"
 parent_path: "diagram/net"
 section_parent_path: "diagram/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/diagram/net/release-notes/2025/aspose-diagram-for-net-25-3-release-notes/"
 weight: 537
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,48 @@ weight: 537
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for .NET 25.3 (DLLs Only)</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Diagram for .NET 25.3 DLLs-only release introduces export support for VSS and VST formats, extends compatibility to .NET 9, and fixes critical layout and rendering issues in Visio, PDF, and HTML.
+
+### ✳️ Enhancement
+
+- **New Export Formats**:  
+  Added support for saving diagrams as **VSS (stencil)** and **VST (template)** binary formats via `SaveFileFormat`.
+
+- **.NET 9 Compatibility**:  
+  Ensures seamless use of Aspose.Diagram in .NET 9.0 environments.
+
+- **Shape Action Enhancements**:  
+  New `InheritActs` property enables access to inherited actions from master shapes.
+
+- **Security Compliance**:  
+  Addressed security advisory for System.Drawing.Common dependency (CVE-2021-24112).
+
+### 🛠 Fix
+
+- **Shape Grouping & Layout Issues**:  
+  Corrected layout bugs such as missing text under grouped shapes and misaligned connectors.
+
+- **HTML Output Issues**:  
+  Fixed diagram clipping issues during HTML conversion.
+
+- **PDF Rendering**:  
+  Resolved bugs in text layout and incorrect background rendering in foreground-only pages.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Diagram for .NET 25.3 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2025/aspose-diagram-for-net-25-3-release-notes/)
+
+---
+
+[`dlls vss vst save support`](https://search.aspose.com/q/dlls-vss-vst-save-support.html) | [`shape inherit actions`](https://search.aspose.com/q/shape-inherit-actions.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

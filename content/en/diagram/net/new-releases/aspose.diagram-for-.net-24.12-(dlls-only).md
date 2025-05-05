@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.diagram-for-.net-24.12-(dlls-only)"
-description: " "
+title: "DLLs: VSDX to VSD Conversion + Arabic PDF Fix | Diagram 24.12"
+description: "Aspose.Diagram for .NET 24.12 DLLs-only release adds support for VSDX to VSD conversion, enhances Arabic in PDF exports, and resolves SVG and HTML save issues."
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/net/new-releases/aspose.diagram-for-.net-24.12-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 11/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 38.55MB"
 parent_path: "diagram/net"
 section_parent_path: "diagram/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-12-release-notes/"
 weight: 531
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,39 @@ weight: 531
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for .NET 24.12 (DLLs Only)</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The DLLs-only package of Aspose.Diagram for .NET 24.12 adds VSDX-to-VSD diagram conversion, fixes cut-off connectors in SVG exports, and improves support for Arabic in PDF rendering and HTML output stability.
+
+### ✳️ Enhancement
+
+- **Legacy Format Conversion**:  
+  Added ability to save VSDX format diagrams as VSD, enabling backward compatibility and integration with older systems.
+
+- **Arabic PDF Text Rendering**:  
+  Enhanced rendering fidelity for Arabic and other RTL languages when exporting to PDF.
+
+### 🛠 Fix
+
+- **SVG Connector Bug**:  
+  Addressed issue where connectors became cut off after grouping shapes and exporting to SVG.
+
+- **HTML Save Exception**:  
+  Fixed exception thrown during HTML output generation for specific diagram files.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Diagram for .NET 24.12 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-12-release-notes/)
+
+---
+
+[`dll vsdx to vsd`](https://search.aspose.com/q/dll-vsdx-to-vsd.html) | [`svg grouped shape fix`](https://search.aspose.com/q/svg-grouped-shape-fix.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

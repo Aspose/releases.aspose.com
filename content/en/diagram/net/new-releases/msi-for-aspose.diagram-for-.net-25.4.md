@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-msi-for-aspose.diagram-for-.net-25.4"
-description: " "
+title: "MSI: Aspose.Diagram 25.4 Fixes PDF Rendering & Enhances Connector Logic"
+description: "Aspose.Diagram for .NET 25.4 MSI improves parent-child connector logic, removes invalid master references, and resolves major PDF export issues."
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/net/new-releases/msi-for-aspose.diagram-for-.net-25.4/"
@@ -14,11 +13,9 @@ download_count: " 14/4/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 28.14MB"
 parent_path: "diagram/net"
 section_parent_path: "diagram/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/diagram/net/release-notes/2025/aspose-diagram-for-net-25-4-release-notes/"
 weight: 539
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,48 @@ weight: 539
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Msi for Aspose.Diagram for .NET 25.4</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Diagram for .NET 25.4 MSI version introduces improved connector distinguishability, cleans up master references, and delivers fixes for whitespace, text wrapping, and rendering problems in PDF and grouped shapes.
+
+### ✳️ Enhancement
+
+- **Improved Connector Recognition**:  
+  Parent-child relationship connectors are now distinguishable, enhancing visual hierarchy interpretation.
+
+- **Invalid Master Reference Cleanup**:  
+  Removed broken references to non-existent `masters.xml` files in VSDX structure, ensuring cleaner file output.
+
+### 🛠 Fix
+
+- **Whitespace & Layout Fixes**:  
+  Eliminated extra white space issues within grouped shapes that appeared in previous exports.
+
+- **Text Positioning in PDF**:  
+  Corrected misplaced text and added accurate positioning for hyphens, slashes, and brackets.
+
+- **Line Rendering in PDF**:  
+  Resolved double-line artifacts, incorrect line breaks, and newline insertions after bracket characters.
+
+- **IndexOutOfRangeException Fix**:  
+  Fixed crash when saving specific diagrams to PDF.
+
+- **Text Input Accuracy**:  
+  Fixed character input bug where numbers like “61” displayed incorrectly as “661”.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Diagram for .NET 25.4 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2025/aspose-diagram-for-net-25-4-release-notes/)
+
+---
+
+[`msi pdf export whitespace fix`](https://search.aspose.com/q/msi-pdf-export-whitespace-fix.html) | [`msi connector layout improvement`](https://search.aspose.com/q/msi-connector-layout-improvement.html) | [`msi vsdx cleanup`](https://search.aspose.com/q/msi-vsdx-cleanup.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

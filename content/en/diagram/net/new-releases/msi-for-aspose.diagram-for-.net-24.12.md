@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-msi-for-aspose.diagram-for-.net-24.12"
-description: " "
+title: "MSI: Aspose.Diagram 24.12 Adds VSDX to VSD Conversion, SVG Fixes"
+description: "MSI release of Aspose.Diagram for .NET 24.12 adds VSDX to VSD conversion support, fixes SVG grouping bugs, enhances PDF Arabic output, and resolves HTML save exception."
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/net/new-releases/msi-for-aspose.diagram-for-.net-24.12/"
@@ -14,11 +13,9 @@ download_count: " 11/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 23.3MB"
 parent_path: "diagram/net"
 section_parent_path: "diagram/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-12-release-notes/"
 weight: 530
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,39 @@ weight: 530
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Msi for Aspose.Diagram for .NET 24.12</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The MSI installer for Aspose.Diagram for .NET 24.12 introduces streamlined VSDX to VSD format conversion, improved Arabic language rendering in PDF exports, and fixes critical issues related to SVG grouping and HTML export operations.
+
+### ✳️ Enhancement
+
+- **VSDX to VSD Conversion**:  
+  Added native ability to convert modern VSDX diagrams into the legacy VSD binary format.
+
+- **Arabic Text in PDF**:  
+  Enhanced support for right-to-left scripts like Arabic when exporting Visio diagrams to PDF format.
+
+### 🛠 Fix
+
+- **Grouped Shape SVG Output**:  
+  Resolved issue where grouped shapes caused disconnected connectors when saved as SVG.
+
+- **HTML Export Exception**:  
+  Fixed a runtime exception that occurred when saving diagrams to HTML format.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Diagram for .NET 24.12 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-12-release-notes/)
+
+---
+
+[`vsdx to vsd msi`](https://search.aspose.com/q/vsdx-to-vsd-msi.html) | [`arabic pdf export`](https://search.aspose.com/q/arabic-pdf-export.html) | [`msi visio svg fix`](https://search.aspose.com/q/msi-visio-svg-fix.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

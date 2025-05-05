@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.diagram-for-.net-25.2"
-description: " "
+title: "MSI: Aspose.Diagram 25.2 Fixes Shape/Image Bugs & VSDX Masters"
+description: "MSI release of Aspose.Diagram for .NET 25.2 resolves VSD corruption, shape-to-image conversion issues, and VSDX master export bugs for enterprise diagrams."
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/net/new-releases/aspose.diagram-for-.net-25.2/"
@@ -14,11 +13,9 @@ download_count: " 11/2/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 23.39MB"
 parent_path: "diagram/net"
 section_parent_path: "diagram/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/diagram/net/release-notes/2025/aspose-diagram-for-net-25-2-release-notes/"
 weight: 534
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,42 @@ weight: 534
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Msi for Aspose.Diagram for .NET 25.2</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Diagram for .NET 25.2 MSI improves VSD integrity on save, fixes master shape refresh and export issues in VSDX/PDF formats, and corrects image rendering bugs in EMF-to-PNG conversions.
+
+### ✳️ Enhancement
+
+- **Stability in Legacy VSD**:  
+  Improved support for loading and saving legacy VSD files without data corruption.
+
+### 🛠 Fix
+
+- **EMF to PNG Rendering**:  
+  Resolved blank output during EMF image conversion to PNG using Shape-to-Image API.
+
+- **VSD to VSDX Conversion**:  
+  Fixed issue where the VSDX file produced an empty `masters` directory upon export.
+
+- **Master Shape & RefreshData Bugs**:  
+  Addressed incorrect behavior when working with masters containing multiple shapes or NURBS geometry, including RefreshData errors.
+
+- **PDF Export Colors**:  
+  Fixed issue where VSDX color themes were unintentionally modified in PDF output.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Diagram for .NET 25.2 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2025/aspose-diagram-for-net-25-2-release-notes/)
+
+---
+
+[`msi emf to png fix`](https://search.aspose.com/q/msi-emf-to-png-fix.html) | [`vsdx export masters empty`](https://search.aspose.com/q/vsdx-export-masters-empty.html) | [`pdf color header replaced`](https://search.aspose.com/q/pdf-color-header-replaced.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

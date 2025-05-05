@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.diagram-for-.net-24.10-(dlls-only)"
-description: " "
+title: "DLLs: VSDX to PDF Fix & Grouping Stability | Aspose.Diagram 24.10"
+description: "The DLLs-only package of Aspose.Diagram 24.10 includes key fixes for grouped shape exceptions and rogue PDF lines, enhancing rendering and diagram stability."
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/net/new-releases/aspose.diagram-for-.net-24.10-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 14/10/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 38.17MB"
 parent_path: "diagram/net"
 section_parent_path: "diagram/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-10-release-notes/"
 weight: 527
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,31 @@ weight: 527
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for .NET 24.10 (DLLs Only)</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+This DLLs-only update for Aspose.Diagram for .NET 24.10 addresses two key bug fixes, improving the reliability of grouped shape logic and VSDX to PDF rendering quality.
+
+### 🛠 Fix
+
+- **Unexpected Lines in PDF Export**:  
+  Corrected visual artifacts where a rogue line would appear in the exported PDF output from VSDX files.
+
+- **Group Method Exception**:  
+  Fixed an `ArgumentOutOfRangeException` that was occasionally thrown when calling `Shapes.Group()` in complex Visio diagrams.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Diagram for .NET 24.10 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2024/aspose-diagram-for-net-24-10-release-notes/)
+
+---
+
+[`dll vsdx to pdf`](https://search.aspose.com/q/dll-vsdx-to-pdf.html) | [`shapes.group dlls only`](https://search.aspose.com/q/shapes.group-dlls-only.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.diagram-for-.net-25.2-(dlls-only)"
-description: " "
+title: "DLLs: Aspose.Diagram 25.2 Fixes VSDX Masters, Image & PDF Export"
+description: "DLLs-only release of Aspose.Diagram for .NET 25.2 resolves issues with image conversion, shape refresh, and broken colors in PDF exports from VSDX."
 keywords: ""
 page_type: single_release_page
 folder_link: "/diagram/net/new-releases/aspose.diagram-for-.net-25.2-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 11/2/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 38.69MB"
 parent_path: "diagram/net"
 section_parent_path: "diagram/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/diagram/net/release-notes/2025/aspose-diagram-for-net-25-2-release-notes/"
 weight: 535
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,45 @@ weight: 535
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.Diagram for .NET 25.2 (DLLs Only)</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Diagram for .NET 25.2 DLLs-only release delivers key fixes to shape rendering, diagram master exports, and diagram-to-PDF color handling.
+
+### ✳️ Enhancement
+
+- **VSD Save Improvements**:  
+  Enhanced stability when saving legacy VSD files to prevent corruption during open/save cycles.
+
+### 🛠 Fix
+
+- **Shape-to-Image (EMF to PNG)**:  
+  Corrected rendering bug that produced blank PNG files when converting from EMF.
+
+- **Empty Masters in VSDX**:  
+  Fixed export error where converted VSDX files contained empty master directories.
+
+- **Master with Multiple Shapes**:  
+  Resolved broken diagram output when working with complex masters using RefreshData.
+
+- **NURBS Geometry Breakage**:  
+  Corrected issues with RefreshData corrupting shapes with non-uniform rational B-splines (NURBS).
+
+- **PDF Header Color Loss**:  
+  Fixed incorrect color theme behavior in PDF output from VSDX files.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Diagram for .NET 25.2 Release Notes](https://releases.aspose.com/diagram/net/release-notes/2025/aspose-diagram-for-net-25-2-release-notes/)
+
+---
+
+[`dlls-only vsd corruption fix`](https://search.aspose.com/q/dlls-only-vsd-corruption-fix.html) | [`vsdx master export issue`](https://search.aspose.com/q/vsdx-master-export-issue.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
