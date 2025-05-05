@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.note-for-.net-24.11-(dlls-only)"
-description: " "
+title: "DLLs: Aspose.Note for .NET 24.11 Resolves Broken Link Parsing"
+description: "DLLs-only release addresses an issue where invalid hyperlinks were being returned when parsing OneNote documents."
 keywords: ""
 page_type: single_release_page
 folder_link: "/note/net/new-releases/aspose.note-for-.net-24.11-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 8/11/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 118.13MB"
 parent_path: "note/net"
 section_parent_path: "note/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/note/net/release-notes/2024/aspose-note-for-net-24-11-release-notes/"
 weight: 217
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,28 @@ weight: 217
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Note for .NET 24.11 (Dlls Only) release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Note for .NET 24.11 (DLLs-only) delivers a key bug fix that corrects **broken or invalid hyperlink extraction** from OneNote files. This release ensures more accurate link processing for developers using programmatic access to document elements.
+
+### 🛠 Fix
+
+- **Broken or Invalid Hyperlinks Fixed in Parsing Logic**  
+  Corrected the link extraction behavior to prevent retrieval of malformed URLs from OneNote pages. [NOTENET-5849]
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Note for .NET 24.11 Release Notes](https://releases.aspose.com/note/net/release-notes/2024/aspose-note-for-net-24-11-release-notes/)
+
+---
+
+[`onenote hyperlink extraction`](https://search.aspose.com/q/onenote-hyperlink-extraction.html) | [`aspose.note dlls`](https://search.aspose.com/q/aspose.note-dlls.html) | [`broken links onenote`](https://search.aspose.com/q/broken-links-onenote.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

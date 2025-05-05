@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.note-for-.net-24.12-(dlls-only)"
-description: " "
+title: "DLLs: Aspose.Note 24.12 Fixes Image Rendering and Text Layout Issues"
+description: "This DLLs-only release resolves OneNote-to-PDF conversion bugs related to misplaced images and Chinese text formatting."
 keywords: ""
 page_type: single_release_page
 folder_link: "/note/net/new-releases/aspose.note-for-.net-24.12-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 17/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 118.13MB"
 parent_path: "note/net"
 section_parent_path: "note/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/note/net/release-notes/2024/aspose-note-for-net-24-12-release-notes/"
 weight: 219
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,34 @@ weight: 219
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Note for .NET 24.12 (Dlls Only) release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Note for .NET 24.12 (DLLs-only) introduces important fixes for OneNote to PDF conversion workflows, targeting **image rendering** accuracy and **text formatting consistency**, especially for complex character sets like Chinese.
+
+### 🛠 Fix
+
+- **PDF Export Misplaces Embedded Images**  
+  Fixed a bug causing **images to shift or scatter** during export to PDF. [NOTENET-5783]
+
+- **Visual Artifacts and Layout Errors in PDFs**  
+  Addressed layout distortions and resolved PDF output inconsistencies. [NOTENET-5850]
+
+- **Improved Support for Formatted Chinese Characters**  
+  Corrected handling of **mixed-style Chinese text blocks** in exported PDF files. [NOTENET-5854]
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Note for .NET 24.12 Release Notes](https://releases.aspose.com/note/net/release-notes/2024/aspose-note-for-net-24-12-release-notes/)
+
+---
+
+[`onenote image bug fix`](https://search.aspose.com/q/onenote-image-bug-fix.html) | [`dlls onenote to pdf`](https://search.aspose.com/q/dlls-onenote-to-pdf.html) | [`chinese character layout fix`](https://search.aspose.com/q/chinese-character-layout-fix.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

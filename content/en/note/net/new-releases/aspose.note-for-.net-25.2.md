@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.note-for-.net-25.2"
-description: " "
+title: "MSI: New Loop Component Support for OneNote Structures"
+description: "Adds support for Microsoft Loop Components in OneNote and new public APIs for loop metadata in the MSI release."
 keywords: ""
 page_type: single_release_page
 folder_link: "/note/net/new-releases/aspose.note-for-.net-25.2/"
@@ -14,11 +13,9 @@ download_count: " 20/2/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 118.99MB"
 parent_path: "note/net"
 section_parent_path: "note/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/note/net/release-notes/2025/aspose-note-for-net-25-2-release-notes/"
 weight: 222
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,45 @@ weight: 222
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Note for .NET 25.2 release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Note for .NET 25.2 (MSI) introduces **support for Microsoft Loop components**, enabling developers to programmatically retrieve and interact with Loop-related data in OneNote documents. This release includes a new public `Loop` class and extended visitor methods to handle Loop nodes.
+
+### ✳️ New Feature
+
+- **Microsoft Loop Components Support**  
+  Retrieve details of Loop components including:
+  - `LastModifiedTime`
+  - `Link`
+  - Loop identification via `NodeType.Loop`
+
+- **Document Visitor Enhancements**  
+  Added visitor methods to walk through Loop structures:
+  - `VisitLoopStart()`
+  - `VisitLoopEnd()`
+
+### 🔧 Public API Changes
+
+- **New Class**: `Aspose.Note.Loop`
+- **New NodeType Constant**: `NodeType.Loop`
+- **New Methods**:
+  - `Loop.Accept()`
+  - `DocumentVisitor.VisitLoopStart()`
+  - `DocumentVisitor.VisitLoopEnd()`
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Note for .NET 25.2 Release Notes](https://releases.aspose.com/note/net/release-notes/2025/aspose-note-for-net-25-2-release-notes/)
+
+---
+
+[`onenote loop api`](https://search.aspose.com/q/onenote-loop-api.html) | [`onenote loop metadata`](https://search.aspose.com/q/onenote-loop-metadata.html) | [`loop component onenote`](https://search.aspose.com/q/loop-component-onenote.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

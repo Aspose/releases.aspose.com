@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.note-for-.net-24.12"
-description: " "
+title: "MSI: Fixes for Image Artifacts and Text Handling in OneNote PDFs"
+description: "Improves OneNote to PDF export by resolving image displacement and Chinese character formatting issues in the MSI version."
 keywords: ""
 page_type: single_release_page
 folder_link: "/note/net/new-releases/aspose.note-for-.net-24.12/"
@@ -14,11 +13,9 @@ download_count: " 17/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 118.98MB"
 parent_path: "note/net"
 section_parent_path: "note/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/note/net/release-notes/2024/aspose-note-for-net-24-12-release-notes/"
 weight: 220
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,34 @@ weight: 220
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Note for .NET 24.12 release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Note for .NET 24.12 (MSI) focuses on enhancing PDF export accuracy by resolving issues with image layout and multilingual text rendering. The update eliminates visual artifacts, ensures correct image positioning, and improves the formatting of Chinese characters during OneNote-to-PDF conversion.
+
+### 🛠 Fix
+
+- **Image Positioning Fixed During PDF Conversion**  
+  Resolved an issue where images were **misplaced and scattered** after export to PDF. [NOTENET-5783]
+
+- **Layout Distortion and Visual Artifacts in Exported PDFs**  
+  Corrected rendering of **image artifacts** and visual layout misalignments in converted PDFs. [NOTENET-5850]
+
+- **Chinese Character Formatting Inconsistency**  
+  Fixed inaccurate display and formatting issues for **Chinese text segments** with mixed styles. [NOTENET-5854]
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Note for .NET 24.12 Release Notes](https://releases.aspose.com/note/net/release-notes/2024/aspose-note-for-net-24-12-release-notes/)
+
+---
+
+[`onenote to pdf images`](https://search.aspose.com/q/onenote-to-pdf-images.html) | [`pdf layout distortion`](https://search.aspose.com/q/pdf-layout-distortion.html) | [`chinese text rendering pdf`](https://search.aspose.com/q/chinese-text-rendering-pdf.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

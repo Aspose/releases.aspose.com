@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.note-for-.net-24.11"
-description: " "
+title: "MSI: Aspose.Note for .NET 24.11 Fixes Invalid Link Extraction"
+description: "This MSI update resolves issues with invalid hyperlinks retrieved from OneNote documents to improve data accuracy."
 keywords: ""
 page_type: single_release_page
 folder_link: "/note/net/new-releases/aspose.note-for-.net-24.11/"
@@ -14,11 +13,9 @@ download_count: " 8/11/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 118.98MB"
 parent_path: "note/net"
 section_parent_path: "note/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/note/net/release-notes/2024/aspose-note-for-net-24-11-release-notes/"
 weight: 218
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,28 @@ weight: 218
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Note for .NET 24.11 release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Note for .NET 24.11 (MSI) brings a focused update that corrects the extraction of hyperlinks from OneNote (.one) documents. It fixes a regression where **invalid links** were incorrectly parsed, ensuring reliable content parsing for developers working with OneNote data.
+
+### 🛠 Fix
+
+- **Invalid Links Returned from OneNote Files**  
+  Addressed an issue where hyperlinks extracted from OneNote pages were malformed or did not point to valid destinations. [NOTENET-5849]
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Note for .NET 24.11 Release Notes](https://releases.aspose.com/note/net/release-notes/2024/aspose-note-for-net-24-11-release-notes/)
+
+---
+
+[`onenote hyperlink parsing`](https://search.aspose.com/q/onenote-hyperlink-parsing.html) | [`invalid link bug`](https://search.aspose.com/q/invalid-link-bug.html) | [`aspose.note msi`](https://search.aspose.com/q/aspose.note-msi.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

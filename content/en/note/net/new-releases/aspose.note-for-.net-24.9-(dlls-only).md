@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.note-for-.net-24.9-(dlls-only)"
-description: " "
+title: "DLLs: Aspose.Note for .NET 24.9 Fixes Unicode Link Text Issue"
+description: "DLLs-only release resolves incorrect rendering of link or anchor text containing Unicode characters in OneNote documents."
 keywords: ""
 page_type: single_release_page
 folder_link: "/note/net/new-releases/aspose.note-for-.net-24.9-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 27/9/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 118.14MB"
 parent_path: "note/net"
 section_parent_path: "note/net"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/note/net/release-notes/2024/aspose-note-for-net-24-9-release-notes/"
 weight: 215
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,28 @@ weight: 215
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Note for .NET 24.9 (Dlls Only) release.</div>
+
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Note for .NET 24.9 (DLLs-only) includes a critical fix for incorrect display of **anchor text containing Unicode characters** in linked elements. This update ensures better fidelity and consistency when working with internationalized content in OneNote files.
+
+### 🛠 Fix
+
+- **Unicode Anchor Text Bug Resolved**  
+  Fixed an issue where Unicode content in link/anchor text would display incorrectly in rendered output or programmatic access. [NOTENET-5846]
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Note for .NET 24.9 Release Notes](https://releases.aspose.com/note/net/release-notes/2024/aspose-note-for-net-24-9-release-notes/)
+
+---
+
+[`onenote unicode rendering`](https://search.aspose.com/q/onenote-unicode-rendering.html) | [`aspose.note link fix`](https://search.aspose.com/q/aspose.note-link-fix.html) | [`aspose.note dlls`](https://search.aspose.com/q/aspose.note-dlls.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
+
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
