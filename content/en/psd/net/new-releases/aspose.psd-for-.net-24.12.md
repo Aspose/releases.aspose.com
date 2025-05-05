@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.psd-for-.net-24.12"
-description: " "
+title: "Aspose.PSD .NET 24.12: AI Shading, Blending & Shape Mask Fixes"
+description: "Add AI axial & gradient shading, blend modes, and proper handling of shape vector/raster masks in Aspose.PSD for .NET 24.12 MSI."
 keywords: ""
 page_type: single_release_page
 folder_link: "/psd/net/new-releases/aspose.psd-for-.net-24.12/"
@@ -14,11 +13,9 @@ download_count: " 13/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 31.61MB"
 parent_path: "psd/net"
 section_parent_path: "psd/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/psd/net/aspose-psd-for-net-24-12-release-notes/"
 weight: 222
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,37 @@ weight: 222
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.PSD for .NET 24.12 release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.PSD for .NET 24.12 adds advanced support for AI shading, compound paths, and multi-page handling. It also enhances PSD shape rendering and corrects SmartObject resource initialization.
+
+### ✳️ New Feature
+
+- **AI Gradient Shading Support**: Implemented **Axial (Type 2)** and **Freeform (Type 7)** gradient shading in `.ai` files.
+- **AI Blending**: Added support for Adobe Illustrator **blending modes** during rendering.
+- **Multi-Page AI Reading**: Introduced `AiImage.PageCount` and multi-page rendering for `.ai` documents.
+- **Vector + Raster Mask Handling**: PSD Shape layers with combined **vector and raster masks** are now properly rendered.
+
+### 🔧 Enhancement
+
+- **Refactored LayerResources**: Optimized internal structure by removing rarely used properties and simplifying resource constructors.
+- **APS Compound Paths**: Reworked AI Compound Path rendering through **APS engine** for increased accuracy.
+
+### 🛠 Fix
+
+- Fixed rendering issues with **Shape layers** from legacy PSDs (e.g., stroke clipping and effects loss).
+- Improved handling of AI files lacking proper `OCG` layer data or using unusual `DictionaryObject` structures for page layers.
+- Ensured `GlobalResources` are initialized for new PSD files to avoid SmartObject exceptions.
+
+---
+
+[`ai gradient shading`](https://search.aspose.com/q/ai-gradient-shading.html) | [`psd vector raster mask`](https://search.aspose.com/q/psd-vector-raster-mask.html) | [`ai blend mode support`](https://search.aspose.com/q/ai-blend-mode-support.html) | [`smartobject globalresources fix`](https://search.aspose.com/q/smartobject-globalresources-fix.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

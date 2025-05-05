@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.psd-for-.net-24.9-(dlls-only)"
-description: " "
+title: "Aspose.PSD 24.9 DLLs: AI Speed Boost & Artboard Resource API"
+description: "DLLs-only release includes artboard layer resources, faster AI file rendering, and fixes for Fill layers, color parsing, and text data handling."
 keywords: ""
 page_type: single_release_page
 folder_link: "/psd/net/new-releases/aspose.psd-for-.net-24.9-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 23/9/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 29.75MB"
 parent_path: "psd/net"
 section_parent_path: "psd/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/psd/net/aspose-psd-for-net-24-9-release-notes/"
 weight: 215
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,36 @@ weight: 215
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.PSD for .NET 24.9 (Dlls only) release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.PSD for .NET 24.9 DLLs-only package improves rendering efficiency for AI files and adds robust artboard layer support, while also fixing several critical layer parsing bugs.
+
+### ✳️ New Feature
+
+- **Artboard Resource APIs**: Now supports `ArtBResource`, `ArtDResource`, `AbddResource`, and `LyvrResource` for **full artboard layer compatibility** via public API access.
+
+### 🔧 Enhancement
+
+- **APS-Based AI Rendering**: Speeds up loading of `.ai` files by switching to APS conversion for more responsive processing.
+
+### 🛠 Fix
+
+- Fixed incorrect Fill layer detection in shape-based PSD files.
+- Eliminated crashes during TextLayer manipulation involving large or complex documents.
+- Resolved exceptions from reading embedded `FillLayer` streams in reports.
+- Corrected parsing of invalid or malformed color values in PSD files.
+- Addressed failure when accessing layers beyond index 99 in specific documents.
+- Enhanced loading speed of AI files previously delayed by rendering inefficiencies.
+
+---
+
+[`ai rendering performance`](https://search.aspose.com/q/ai-rendering-performance.html) | [`aspose.psd artboard api`](https://search.aspose.com/q/aspose.psd-artboard-api.html) | [`embedded filllayer bug`](https://search.aspose.com/q/embedded-filllayer-bug.html) | [`color parsing exception fix`](https://search.aspose.com/q/color-parsing-exception-fix.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

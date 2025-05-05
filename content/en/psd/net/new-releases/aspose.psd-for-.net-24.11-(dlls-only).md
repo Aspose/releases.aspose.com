@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.psd-for-.net-24.11-(dlls-only)"
-description: " "
+title: "Aspose.PSD 24.11 DLLs: Artboard API & Fill Layer Enhancements"
+description: "Access DLLs with new Artboard layer API, flexible FillSettings management, and fixes for AI vector bounds and PSD fill layer rendering."
 keywords: ""
 page_type: single_release_page
 folder_link: "/psd/net/new-releases/aspose.psd-for-.net-24.11-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 11/11/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 29.69MB"
 parent_path: "psd/net"
 section_parent_path: "psd/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/psd/net/aspose-psd-for-net-24-11-release-notes/"
 weight: 219
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,35 @@ weight: 219
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.PSD for .NET 24.11 (Dlls only) release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The DLLs-only package of Aspose.PSD for .NET 24.11 enables developers to work with Artboard layers and provides complete programmatic control over FillLayer updates and rendering.
+
+### ✳️ New Feature
+
+- **Artboard Layer Support**: Added `ArtboardLayer` class with properties like `Width`, `Height`, `Top`, `Left`, and background color — along with ability to export individual artboards.
+- **Advanced FillLayer Control**: Enabled direct manipulation of `FillSettings`, including changing the fill type at runtime and ensuring resources are properly detached or reused.
+
+### 🔧 Enhancement
+
+- *(No enhancements in this release)*
+
+### 🛠 Fix
+
+- Fixed unsupported `UnitTypes.Millimeters` bug in vector origin coordinates.
+- Resolved issue with AI files that contain no visible layers (OCG block).
+- Fixed delayed `FillSettings` update when modifying `SoCoResource` values.
+- Prevented exceptions when reading gradient-filled PSD files with broken or missing resource definitions.
+
+---
+
+[`aspose.psd artboardlayer api`](https://search.aspose.com/q/aspose.psd-artboardlayer-api.html) | [`filllayer settings control`](https://search.aspose.com/q/filllayer-settings-control.html) | [`ai format ocg fix`](https://search.aspose.com/q/ai-format-ocg-fix.html) | [`psd vector unit bug`](https://search.aspose.com/q/psd-vector-unit-bug.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

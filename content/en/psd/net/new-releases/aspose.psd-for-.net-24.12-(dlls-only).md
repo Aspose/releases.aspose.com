@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.psd-for-.net-24.12-(dlls-only)"
-description: " "
+title: "Aspose.PSD 24.12 DLLs: AI Page Support & PSD Mask Handling"
+description: "Get .NET DLLs with support for AI axial gradients, multi-page documents, and PSD vector/raster mask fixes in Aspose.PSD 24.12."
 keywords: ""
 page_type: single_release_page
 folder_link: "/psd/net/new-releases/aspose.psd-for-.net-24.12-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 13/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 29.73MB"
 parent_path: "psd/net"
 section_parent_path: "psd/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/psd/net/aspose-psd-for-net-24-12-release-notes/"
 weight: 221
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,41 @@ weight: 221
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.PSD for .NET 24.12 (Dlls only) release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.PSD for .NET 24.12 DLLs package provides refined rendering for AI files, including axial shading, blending, and compound path support. PSD-specific improvements cover shape stroke rendering and dual mask logic.
+
+### ✳️ New Feature
+
+- **AI Format Upgrades**:
+  - Added **Axial Shading (Type 2)** and **Freeform Shading (Type 7)**.
+  - Implemented **blend mode support** for enhanced AI visual fidelity.
+  - Introduced `PageCount` for rendering multi-page `.ai` files with `ActivePageIndex`.
+
+- **PSD Layer Enhancement**:
+  - Enabled rendering of Shape layers with **both vector and raster masks**.
+
+### 🔧 Enhancement
+
+- **LayerResource Refactor**: Simplified constructors and removed obsolete properties for better performance and clarity.
+- **APS-Based Compound Paths**: Improved complex shape rendering in `.ai` using the new APS compound path engine.
+
+### 🛠 Fix
+
+- Fixed clipped strokes in Shape layers saved from older Photoshop versions.
+- Resolved rendering errors in AI files with missing or malformed OCG/layer data.
+- Corrected null `GlobalResources` in newly created PSDs to prevent SmartObject crashes.
+- Improved compatibility for AI files with non-standard page property dictionaries.
+
+---
+
+[`ai axial shading dll`](https://search.aspose.com/q/ai-axial-shading-dll.html) | [`psd smartobject init error`](https://search.aspose.com/q/psd-smartobject-init-error.html) | [`aspose.psd pagecount`](https://search.aspose.com/q/aspose.psd-pagecount.html) | [`compound path aps`](https://search.aspose.com/q/compound-path-aps.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

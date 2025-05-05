@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.psd-for-.net-25.3"
-description: " "
+title: "Aspose.PSD .NET 25.3: Fix AI & APS Rendering + Improved Blending"
+description: "Resolve APS and AI rendering regressions and enhance blending quality across formats with Aspose.PSD for .NET 25.3 MSI."
 keywords: ""
 page_type: single_release_page
 folder_link: "/psd/net/new-releases/aspose.psd-for-.net-25.3/"
@@ -14,11 +13,9 @@ download_count: " 26/3/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 31.6MB"
 parent_path: "psd/net"
 section_parent_path: "psd/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/psd/net/aspose-psd-for-net-25-3-release-notes/"
 weight: 228
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,32 @@ weight: 228
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.PSD for .NET 25.3 release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.PSD for .NET 25.3 focuses on stabilizing APS and AI rendering after regression issues and introduces a more consistent and accurate blending algorithm across PSD formats.
+
+### ✳️ New Feature
+
+- *(No new features introduced in this release)*
+
+### 🔧 Enhancement
+
+- **Unified Blending System**: Reworked blending logic to provide **smoother visual transitions** across layers and formats—resulting in more consistent rendering between PSD, AI, and output formats.
+
+### 🛠 Fix
+
+- **APS Rendering Regression**: Fixed visual distortions and path handling introduced after APS renderer integration in recent versions.
+- **AI Rendering Regression**: Corrected layer and object visibility problems in `.ai` files affected by previous format updates.
+
+---
+
+[`aps rendering regression fix`](https://search.aspose.com/q/aps-rendering-regression-fix.html) | [`ai format regression`](https://search.aspose.com/q/ai-format-regression.html) | [`psd layer blending improvement`](https://search.aspose.com/q/psd-layer-blending-improvement.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

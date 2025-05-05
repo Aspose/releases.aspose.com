@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.psd-for-.net-25.2"
-description: " "
+title: "Aspose.PSD .NET 25.2: PSB >2GB Save, Noise Gradient & Shadow Fix"
+description: "Save PSB files over 2GB, handle Noise Gradients in effects, and fix Drop Shadow rendering with Aspose.PSD for .NET 25.2 MSI."
 keywords: ""
 page_type: single_release_page
 folder_link: "/psd/net/new-releases/aspose.psd-for-.net-25.2/"
@@ -14,11 +13,9 @@ download_count: " 27/2/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 31.58MB"
 parent_path: "psd/net"
 section_parent_path: "psd/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/psd/net/aspose-psd-for-net-25-2-release-notes/"
 weight: 226
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,34 @@ weight: 226
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.PSD for .NET 25.2 release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.PSD for .NET 25.2 introduces support for saving PSB files larger than 2GB, full editing of Noise Gradients in layer effects, and a rebuilt Drop Shadow engine for more accurate rendering.
+
+### ✳️ New Feature
+
+- **Save Large PSB Files**: Added ability to save **Photoshop Big (PSB)** files exceeding 2GB, making the library suitable for high-resolution, layered graphics workflows.
+- **Noise Gradient in Effects**: Implemented handling and editing of **Noise Gradient FillSettings** within layer effects such as strokes.
+
+### 🔧 Enhancement
+
+- **Drop Shadow Redesign**: Drop Shadow effect engine has been fully **remade for precision and performance**, eliminating rendering discrepancies.
+- **Mask Processing Optimization**: Significant performance improvements applied to **mask reading and writing**, especially in multi-layered documents.
+
+### 🛠 Fix
+
+- Fixed **shadow rendering failure** in certain PSDs with blended or subtle shadow layers.
+- Resolved **“Index outside bounds” exception** when saving large PSB files (~1GB+), improving memory safety.
+
+---
+
+[`save psb over 2gb`](https://search.aspose.com/q/save-psb-over-2gb.html) | [`noise gradient effect`](https://search.aspose.com/q/noise-gradient-effect.html) | [`drop shadow fix`](https://search.aspose.com/q/drop-shadow-fix.html) | [`psb index out of range bug`](https://search.aspose.com/q/psb-index-out-of-range-bug.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

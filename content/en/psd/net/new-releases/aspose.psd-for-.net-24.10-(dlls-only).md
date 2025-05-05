@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.psd-for-.net-24.10-(dlls-only)"
-description: " "
+title: "Aspose.PSD 24.10 DLLs: SmartObject, Text & Gradient Fixes"
+description: "Get DLLs to fix SmartObject crashes, optimize gradient rendering, and improve text update handling in Aspose.PSD for .NET 24.10."
 keywords: ""
 page_type: single_release_page
 folder_link: "/psd/net/new-releases/aspose.psd-for-.net-24.10-(dlls-only)/"
@@ -14,11 +13,9 @@ download_count: " 14/10/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 29.68MB"
 parent_path: "psd/net"
 section_parent_path: "psd/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/psd/net/aspose-psd-for-net-24-10-release-notes/"
 weight: 217
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,38 @@ weight: 217
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.PSD for .NET 24.10 (Dlls only) release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+The DLLs-only package of Aspose.PSD for .NET 24.10 offers enhanced gradient rendering speed and critical bug fixes in SmartObject, TextLayer, and vector shape workflows.
+
+### ✳️ New Feature
+
+- *(No new features in this release)*
+
+### 🔧 Enhancement
+
+- **Faster Gradient Effects**: Optimized the save operation speed for images using Gradient fill layers or stroke effects—especially beneficial for unlicensed use cases.
+
+### 🛠 Fix
+
+- Fixed `UpdateText` bugs causing loss of newline characters or clipped text endings in multilanguage documents.
+- Corrected crashes from invalid SmartObject replacements after third-party PSD edits.
+- Resolved error when embedding JPEGs or other images as new SmartObject layers.
+- Eliminated exceptions when processing complex clipping mask layers in high-layer-count PSDs.
+- Improved parsing of gradient shapes, allowing safe editing and saving of NoiseGradient settings.
+- Addressed reading errors tied to invalid or missing color values in `TextLayer` and `ShapeLayer`.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.PSD for .NET 24.10 Release Notes](https://releases.aspose.com/psd/net/release-notes/2024/aspose-psd-for-net-24-10-release-notes/)
+
+---
+
+[`aspose.psd dll update`](https://search.aspose.com/q/aspose.psd-dll-update.html) | [`textlayer cut last letter`](https://search.aspose.com/q/textlayer-cut-last-letter.html) | [`smartobject embed fix`](https://search.aspose.com/q/smartobject-embed-fix.html) | [`gradient shape crash`](https://search.aspose.com/q/gradient-shape-crash.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

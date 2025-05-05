@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.psd-for-.net-24.9"
-description: " "
+title: "Aspose.PSD .NET 24.9: Artboard Support & Faster AI Loading"
+description: "Add artboard resource support, boost AI file loading, and fix Fill layer and TextLayer issues in Aspose.PSD for .NET 24.9 MSI installer."
 keywords: ""
 page_type: single_release_page
 folder_link: "/psd/net/new-releases/aspose.psd-for-.net-24.9/"
@@ -14,11 +13,9 @@ download_count: " 23/9/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 31.59MB"
 parent_path: "psd/net"
 section_parent_path: "psd/net"
-
 tags: ""
 release_notes_url: "https://docs.aspose.com/psd/net/aspose-psd-for-net-24-9-release-notes/"
 weight: 216
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,36 @@ weight: 216
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.PSD for .NET 24.9 release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.PSD for .NET 24.9 improves artboard compatibility, boosts AI file performance, and introduces stability fixes for PSD and embedded content handling.
+
+### ✳️ New Feature
+
+- **Artboard Resource Support**: Added support for `artb`, `artd`, `abdd`, and `lyvr` resources, enabling full compatibility with **Artboard layers**.
+
+### 🔧 Enhancement
+
+- **AI File Loading Optimization**: Replaced default rendering with **APS conversion** to significantly reduce loading times of Adobe Illustrator files.
+
+### 🛠 Fix
+
+- **Fill Layer Detection**: Resolved misidentification of Fill layers across complex shape configurations.
+- **TextLayer Stability**: Fixed `IndexOutOfRangeException` during TextLayer updates and retrieval in layered documents.
+- **Embedded Resource Handling**: Resolved failure in loading `FillLayer` from embedded streams.
+- **Invalid Color Data**: Fixed exceptions caused by corrupt or invalid color values in PSD documents.
+- **Layer Iteration Bug**: Corrected "Index out of range" issue that appeared when iterating over layers in some PSD files.
+- **AI File Performance**: Prevented long delays (over 18 seconds) when opening specific `.ai` files.
+
+---
+
+[`psd artboard support`](https://search.aspose.com/q/psd-artboard-support.html) | [`ai file fast load`](https://search.aspose.com/q/ai-file-fast-load.html) | [`fill layer fix`](https://search.aspose.com/q/fill-layer-fix.html) | [`textlayer index out of range`](https://search.aspose.com/q/textlayer-index-out-of-range.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
