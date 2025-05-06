@@ -1,7 +1,7 @@
 ---
 id: "aspose-words-for-net-25-4-release-notes"
 slug: "aspose-words-for-net-25-4-release-notes"
-linktitle: "Aspose.Words for .NET 25.3 Release Notes"
+linktitle: "Aspose.Words for .NET 25.4 Release Notes"
 title: "Aspose.Words for .NET 25.4 Release Notes"
 weight: 55
 description: "Aspose.Words for .NET 25.4 Release Notes – Latest Updates and Fixes in February 2025"
@@ -139,7 +139,7 @@ JisB4,
 JisB5
 {{< /highlight >}}
 
-This use case explains how use new paper sizes:
+This use case explains how to use new paper sizes:
 {{< gist "aspose-words-gists" "12a3a3cfe30f3145220db88428a9f814" "jisb-paper-size.cs" >}}
 
 ### Added new public option HtmlSaveOptions.RemoveJavaScriptFromLinks
