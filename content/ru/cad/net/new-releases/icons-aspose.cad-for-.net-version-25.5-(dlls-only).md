@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/cad/net/new-releases/icons-aspose.cad-for-.net-version-25.5-(dlls-only)/"
-folder_name: "Значки Aspose.CAD для .NET версии 25.5 (только Dll)"
+folder_name: "Aspose.CAD для .NET версии 25.5 (только Dll)"
 download_link: "/cad/net/new-releases/icons-aspose.cad-for-.net-version-25.5-(dlls-only)/cfc818f07a61e57d5e29920f231a9489-15-13032"
 download_text: "Скачать"
 intro_text: "Этот ZIP-файл содержит только сборки Aspose.CAD for .NET v25.5. Сборки те же, что и в MSI-установщике продукта той же версии. Загрузите его, если хотите использовать Aspose.CAD для .NET без установщика MSI."
@@ -22,7 +22,7 @@ weight: 253
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Значки Aspose.CAD для .NET версии 25.5 (только Dll)" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.CAD для .NET версии 25.5 (только Dll)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Скачать" link="/cad/net/new-releases/icons-aspose.cad-for-.net-version-25.5-(dlls-only)/cfc818f07a61e57d5e29920f231a9489-15-13032" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/cad" >}}

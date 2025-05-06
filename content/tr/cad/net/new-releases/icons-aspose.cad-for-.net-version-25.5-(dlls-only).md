@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/cad/net/new-releases/icons-aspose.cad-for-.net-version-25.5-(dlls-only)/"
-folder_name: "Simgeler Aspose.CAD for .NET sürüm 25.5 (yalnızca DLL'ler)"
+folder_name: "Aspose.CAD for .NET sürüm 25.5 (yalnızca DLL'ler)"
 download_link: "/cad/net/new-releases/icons-aspose.cad-for-.net-version-25.5-(dlls-only)/cfc818f07a61e57d5e29920f231a9489-15-13032"
 download_text: "İndirmek"
 intro_text: "Bu ZIP dosyası yalnızca Aspose.CAD for .NET derlemeleri v25.5'i içerir. Montajlar, aynı sürümdeki ürünün MSI yükleyicisindekilerle aynıdır. Aspose.CAD for .NET'i MSI yükleyicisi olmadan kullanmak istiyorsanız bunu indirin."
@@ -22,7 +22,7 @@ weight: 253
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Simgeler Aspose.CAD for .NET sürüm 25.5 (yalnızca DLL'ler)" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.CAD for .NET sürüm 25.5 (yalnızca DLL'ler)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="İndirmek" link="/cad/net/new-releases/icons-aspose.cad-for-.net-version-25.5-(dlls-only)/cfc818f07a61e57d5e29920f231a9489-15-13032" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/cad" >}}

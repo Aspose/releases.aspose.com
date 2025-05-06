@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/cad/net/new-releases/icons-aspose.cad-for-.net-version-25.5-(dlls-only)/"
-folder_name: "Ikon Aspose.CAD untuk .NET versi 25.5 (khusus Dll)"
+folder_name: "Aspose.CAD untuk .NET versi 25.5 (khusus Dll)"
 download_link: "/cad/net/new-releases/icons-aspose.cad-for-.net-version-25.5-(dlls-only)/cfc818f07a61e57d5e29920f231a9489-15-13032"
 download_text: "Unduh"
 intro_text: "File ZIP ini hanya berisi Aspose.CAD untuk rakitan .NET v25.5. Rakitannya sama seperti pada penginstal MSI produk dengan versi yang sama. Unduh ini jika Anda ingin menggunakan Aspose.CAD untuk .NET tanpa penginstal MSI."
@@ -22,7 +22,7 @@ weight: 253
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Ikon Aspose.CAD untuk .NET versi 25.5 (khusus Dll)" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.CAD untuk .NET versi 25.5 (khusus Dll)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Unduh" link="/cad/net/new-releases/icons-aspose.cad-for-.net-version-25.5-(dlls-only)/cfc818f07a61e57d5e29920f231a9489-15-13032" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/cad" >}}
