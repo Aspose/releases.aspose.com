@@ -173,7 +173,7 @@ using (Presentation pres = new Presentation("Presentation.pptx"))
 }
 ```
 
-### Marked as Obsolete Properties: `IHtml5Options.NotesCommentsLayouting`, `ISwfOptions.NotesCommentsLayouting`
+### Marked as Obsolete Properties: IHtml5Options.NotesCommentsLayouting, ISwfOptions.NotesCommentsLayouting
 
 The properties `IHtml5Options.NotesCommentsLayouting`, `Html5Options.NotesCommentsLayouting`, `ISwfOptions.NotesCommentsLayouting`, and `SwfOptions.NotesCommentsLayouting` have been marked as obsolete and will be removed after the release of version 25.8.
 
