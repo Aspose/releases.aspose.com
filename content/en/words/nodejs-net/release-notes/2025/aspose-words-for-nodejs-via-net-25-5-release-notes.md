@@ -24,7 +24,7 @@ This page contains release notes for [Aspose.Words for Node.js via .NET 25.5](ht
 
 There are 83 improvements and fixes in this regular monthly release. The most notable are:
 
-- **AI** Integrated support for document [summarization, grammar checking and translation](https://reference.aspose.com/words/nodejs-net/aspose.words.ai/aimodel/) using OpenAI, Google and Anthropic generative language models.
+- **AI:** Integrated support for document [summarization, grammar checking and translation](https://reference.aspose.com/words/nodejs-net/aspose.words.ai/aimodel/) using OpenAI, Google and Anthropic generative language models.
 - **Chart Styling:** Added the ability to set [chart style](https://reference.aspose.com/words/nodejs-net/aspose.words.drawing.charts/chartstyle/).
 - **Markdown Export:** Added the possibility to control how [empty paragraphs](https://reference.aspose.com/words/nodejs-net/aspose.words.saving/markdownemptyparagraphexportmode/) are exported into Markdown.
  
