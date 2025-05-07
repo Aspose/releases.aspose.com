@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.barcode-for-c++-25.2"
-description: " "
+title: "Aspose.BarCode C++ 25.2 for Windows – Faster 1D Recognition & PDF Fix"
+description: "Aspose.BarCode for C++ 25.2 on Windows enhances 1D barcode recognition speed, improves PatchCode accuracy, and resolves PDF export issues."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/cpp/new-releases/aspose.barcode-for-c++-25.2/"
@@ -14,11 +13,9 @@ download_count: " 26/2/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 157.3MB"
 parent_path: "barcode/cpp"
 section_parent_path: "barcode/cpp"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/barcode/cpp/release-notes/2025/aspose-barcode-for-cpp-25-2-release-notes/"
 weight: 152
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,39 @@ weight: 152
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for C++ 25.2 release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.BarCode for C++ 25.2 for Windows boosts barcode recognition speed across 1D symbologies and resolves critical bugs affecting PDF export and barcode region detection.
+
+#### New Features and Enhancements
+
+- **1D Barcode Engine Optimization**:
+  - Faster recognition for 1D barcodes with enhanced PBase processor support.
+  - Targeted improvements for **PatchCode** and **Pharmacode** symbologies.
+
+- **Improved Recognition Stability**:
+  - General performance uplift across all 1D barcode types.
+
+#### Fixes
+
+- **PDF Format Output Fix**:
+  - Ensures consistent barcode PDF output across all system locales.
+
+- **Barcode Region Detection Fix**:
+  - Corrected region misalignment caused by `RotateFlipType` transformations.
+
+#### 👉 View full update details at [Aspose.BarCode for C++ 25.2 Release Notes](https://releases.aspose.com/barcode/cpp/release-notes/2025/aspose-barcode-for-cpp-25-2-release-notes/)
+
+---
+
+[`PatchCode quality boost`](https://search.aspose.com/q/PatchCode-quality-boost.html) | [`PDF export localization fix`](https://search.aspose.com/q/PDF-export-localization-fix.html) | [`barcode region detection`](https://search.aspose.com/q/barcode-region-detection.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

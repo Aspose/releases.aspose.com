@@ -1,5 +1,4 @@
 ---
-
 title: "Downloads ---New Releases-aspose.barcode-for-c++-25.4-macos"
 description: " "
 keywords: ""
@@ -14,11 +13,9 @@ download_count: " 30/4/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 81.43MB"
 parent_path: "barcode/cpp"
 section_parent_path: "barcode/cpp"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/barcode/cpp/release-notes/2025/aspose-barcode-for-cpp-25-4-release-notes/"
 weight: 156
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,10 @@ weight: 156
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for C++ 25.4 MacOS release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

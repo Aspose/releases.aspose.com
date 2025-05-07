@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.barcode-for-c++-24.11"
-description: " "
+title: "Aspose.BarCode C++ 24.11 for Windows – 1D Quality Boost + MaxiCode Fix"
+description: "Aspose.BarCode for C++ 24.11 for Windows adds QualitySettings support to the 1D engine and fixes a MaxiCode structured codetext exception."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/cpp/new-releases/aspose.barcode-for-c++-24.11/"
@@ -14,11 +13,9 @@ download_count: " 20/11/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 156.74MB"
 parent_path: "barcode/cpp"
 section_parent_path: "barcode/cpp"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-11-release-notes/"
 weight: 143
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,35 @@ weight: 143
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for C++ 24.11 release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.BarCode for C++ 24.11 for Windows delivers both stability and quality improvements. It introduces QualitySettings support to the 1D barcode engine, enhancing recognition accuracy, and resolves a key issue with MaxiCode structured codetext handling.
+
+#### New Features and Fixes
+
+- **1D Barcode QualitySettings Support**:
+  - Improved control and accuracy when reading 1D barcodes using a new QualitySettings structure.
+  - Enhanced adaptability in noisy or low-resolution barcode scans.
+
+- **MaxiCode Codetext Fix**:
+  - Resolved `NullPointerException` thrown by `MaxiCodeStructuredCodetext.GetConstructedCodetext()` method.
+
+#### Public API
+
+- No changes in public API. All enhancements are backward-compatible.
+
+#### 👉 View full update details at [Aspose.BarCode for C++ 24.11 Release Notes](https://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-11-release-notes/)
+
+---
+
+[`1D barcode quality C++`](https://search.aspose.com/q/1D-barcode-quality-C++.html) | [`MaxiCode null fix`](https://search.aspose.com/q/MaxiCode-null-fix.html) | [`barcode QualitySettings`](https://search.aspose.com/q/barcode-QualitySettings.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

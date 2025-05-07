@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.barcode-for-c++-24.9-macos"
-description: " "
+title: "Aspose.BarCode C++ 24.9 macOS – QR Threading & Render Fixes"
+description: "Aspose.BarCode for C++ 24.9 on macOS adds thread safety for QR detection and improves AutoSizeMode rendering behavior."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/cpp/new-releases/aspose.barcode-for-c++-24.9-macos/"
@@ -14,11 +13,9 @@ download_count: " 25/9/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 80.67MB"
 parent_path: "barcode/cpp"
 section_parent_path: "barcode/cpp"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-9-release-notes/"
 weight: 135
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,35 @@ weight: 135
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for C++ 24.9 MacOS release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.BarCode for C++ 24.9 for macOS improves threading safety in QR barcode detection, solving potential concurrency issues. The update also refines barcode scaling with a fix to AutoSizeMode for accurate rendering across devices.
+
+#### New Features and Enhancements
+
+- **Thread-Safe QR Recognition**:
+  - Supports safe barcode recognition for QR, Micro QR, and Rectangular Micro QR codes in concurrent macOS environments.
+
+- **Improved Barcode Sizing**:
+  - AutoSizeMode works as expected, ensuring consistent rendering results.
+
+#### Fixes
+
+- **Stability Fix for QR Detection**:
+  - Corrected issue causing exception during QR detection from malformed sort logic.
+
+#### 👉 View full update details at [Aspose.BarCode for C++ 24.9 Release Notes](https://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-9-release-notes/)
+
+---
+
+[`thread-safe QR macOS`](https://search.aspose.com/q/thread-safe-QR-macOS.html) | [`autosize rendering fix`](https://search.aspose.com/q/autosize-rendering-fix.html) | [`QR detection crash`](https://search.aspose.com/q/QR-detection-crash.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

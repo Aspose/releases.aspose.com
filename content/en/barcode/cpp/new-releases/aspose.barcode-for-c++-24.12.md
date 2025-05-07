@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.barcode-for-c++-24.12"
-description: " "
+title: "Aspose.BarCode C++ 24.12 for Windows – PDF Encoder, USPS Fixes"
+description: "Aspose.BarCode for C++ 24.12 on Windows adds a PDF encoder, USPS OneCode fix, and barcode rendering improvements in rotated mode."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/cpp/new-releases/aspose.barcode-for-c++-24.12/"
@@ -14,11 +13,9 @@ download_count: " 20/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 157.13MB"
 parent_path: "barcode/cpp"
 section_parent_path: "barcode/cpp"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-12-release-notes/"
 weight: 146
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,45 @@ weight: 146
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for C++ 24.12 release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.BarCode for C++ 24.12 for Windows introduces an experimental PDF encoder and enhanced barcode recognition through QualitySettings for 1D symbologies. Critical fixes address USPS OneCode decoding, SwissQR exceptions, and AutoSizeMode behavior with rotated barcodes.
+
+#### New Features and Enhancements
+
+- **New PDF Encoder (Experimental)**:
+  - Save generated barcodes in vector-based PDF format using `BarCodeImageFormat::Pdf`.
+
+- **Recognition Enhancements**:
+  - QualitySettings support added to NBase and WBase processors for symbologies including Code128, Codabar, Interleaved2of5, and many others.
+  - Improved recognition quality and speed for over 30 barcode types.
+
+#### Fixes
+
+- **USPS OneCode Issue Fixed**:
+  - Correctly recognizes codes starting with "00".
+
+- **Rotation Bug in AutoSizeMode**:
+  - Fixed rendering issue when generating barcodes at 45° rotation with `AutoSizeMode::Nearest`.
+
+- **SwissQR Exception Clarity**:
+  - Improved exception messages during generation when required fields (e.g., country code) are missing.
+
+- **Address Field Initialization Bug**:
+  - Resolved improper initialization in `ComplexBarcode.Address`.
+
+#### 👉 View full update details at [Aspose.BarCode for C++ 24.12 Release Notes](https://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-12-release-notes/)
+
+---
+
+[`PDF encoder C++`](https://search.aspose.com/q/PDF-encoder-C++.html) | [`OneCode USPS bug`](https://search.aspose.com/q/OneCode-USPS-bug.html) | [`barcode rotation fix`](https://search.aspose.com/q/barcode-rotation-fix.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.barcode-for-c++-24.11-macos"
-description: " "
+title: "Aspose.BarCode C++ 24.11 macOS – MaxiCode Stability & 1D Tuning"
+description: "Aspose.BarCode for C++ 24.11 on macOS improves 1D recognition accuracy and fixes a MaxiCode structured codetext bug."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/cpp/new-releases/aspose.barcode-for-c++-24.11-macos/"
@@ -14,11 +13,9 @@ download_count: " 20/11/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 81MB"
 parent_path: "barcode/cpp"
 section_parent_path: "barcode/cpp"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-11-release-notes/"
 weight: 141
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,34 @@ weight: 141
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for C++ 24.11 MacOS release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.BarCode for C++ 24.11 for macOS provides enhanced recognition for 1D barcodes and stabilizes MaxiCode processing. These updates improve barcode decoding reliability across devices and use cases.
+
+#### New Features and Fixes
+
+- **1D Barcode Engine Enhancement**:
+  - QualitySettings structure introduced for refined decoding under variable quality conditions.
+
+- **MaxiCode Codetext Null Fix**:
+  - Prevents application crashes during structured MaxiCode text generation.
+
+#### Public API
+
+- No interface changes or backward compatibility concerns.
+
+#### 👉 View full update details at [Aspose.BarCode for C++ 24.11 Release Notes](https://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-11-release-notes/)
+
+---
+
+[`macOS barcode quality`](https://search.aspose.com/q/macOS-barcode-quality.html) | [`structured codetext fix`](https://search.aspose.com/q/structured-codetext-fix.html) | [`1D decoding tuning`](https://search.aspose.com/q/1D-decoding-tuning.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

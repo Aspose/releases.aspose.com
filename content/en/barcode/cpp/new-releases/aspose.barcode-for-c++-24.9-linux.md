@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.barcode-for-c++-24.9-linux"
-description: " "
+title: "Aspose.BarCode C++ 24.9 Linux – Stable QR Code Detection & Sizing Fix"
+description: "Aspose.BarCode for C++ 24.9 on Linux enhances QR barcode detection with thread safety and corrects AutoSizeMode rendering."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/cpp/new-releases/aspose.barcode-for-c++-24.9-linux/"
@@ -14,11 +13,9 @@ download_count: " 25/9/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 45.91MB"
 parent_path: "barcode/cpp"
 section_parent_path: "barcode/cpp"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-9-release-notes/"
 weight: 136
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,35 @@ weight: 136
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for C++ 24.9 Linux release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.BarCode for C++ 24.9 for Linux improves the reliability of barcode detection in multi-threaded environments and corrects scaling issues with AutoSizeMode. The updates ensure consistent output in QR-based barcode recognition workflows.
+
+#### New Features and Enhancements
+
+- **Multi-Threaded QR Support**:
+  - QR-type barcode recognition logic is now thread-safe for robust parallel processing.
+
+- **Barcode AutoSizeMode Stability**:
+  - Fixed rendering discrepancies when using auto-sizing features.
+
+#### Fixes
+
+- **QR Sorting Bug Resolved**:
+  - Patched error in sorting logic affecting QRTargetDetector during detection.
+
+#### 👉 View full update details at [Aspose.BarCode for C++ 24.9 Release Notes](https://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-9-release-notes/)
+
+---
+
+[`linux QR thread-safe`](https://search.aspose.com/q/linux-QR-thread-safe.html) | [`autosize mode linux`](https://search.aspose.com/q/autosize-mode-linux.html) | [`QR detector exception`](https://search.aspose.com/q/QR-detector-exception.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

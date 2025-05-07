@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.barcode-for-c++-25.2-linux"
-description: " "
+title: "Aspose.BarCode C++ 25.2 Linux – Enhanced 1D Engine & Region Detection Fix"
+description: "Aspose.BarCode for C++ 25.2 on Linux improves 1D recognition speed, PatchCode accuracy, and fixes PDF consistency and region detection."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/cpp/new-releases/aspose.barcode-for-c++-25.2-linux/"
@@ -14,11 +13,9 @@ download_count: " 26/2/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 46.3MB"
 parent_path: "barcode/cpp"
 section_parent_path: "barcode/cpp"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/barcode/cpp/release-notes/2025/aspose-barcode-for-cpp-25-2-release-notes/"
 weight: 151
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,36 @@ weight: 151
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for C++ 25.2 Linux release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.BarCode for C++ 25.2 for Linux features recognition engine optimizations for faster and more reliable barcode processing and ensures consistency in PDF output across system locales.
+
+#### New Features and Enhancements
+
+- **Optimized 1D Processing**:
+  - Recognition speed and precision improvements across 1D formats.
+  - Focused enhancements for **PatchCode** and **Pharmacode** via PBase processor.
+
+#### Fixes
+
+- **Cross-Locale PDF Consistency**:
+  - Resolved system-dependent behavior in PDF barcode generation.
+
+- **Corrected Region Detection**:
+  - Fixed barcode region errors when using rotated images.
+
+#### 👉 View full update details at [Aspose.BarCode for C++ 25.2 Release Notes](https://releases.aspose.com/barcode/cpp/release-notes/2025/aspose-barcode-for-cpp-25-2-release-notes/)
+
+---
+
+[`linux barcode engine`](https://search.aspose.com/q/linux-barcode-engine.html) | [`PDF output Linux`](https://search.aspose.com/q/PDF-output-Linux.html) | [`rotate image detection`](https://search.aspose.com/q/rotate-image-detection.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

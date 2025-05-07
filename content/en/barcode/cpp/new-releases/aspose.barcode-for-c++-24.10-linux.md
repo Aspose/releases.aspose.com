@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.barcode-for-c++-24.10-linux"
-description: " "
+title: "Aspose.BarCode C++ 24.10 Linux – Barcode Hang Fix & QR Tuning"
+description: "Aspose.BarCode for C++ 24.10 on Linux enhances stability by fixing hangs in QR and other symbologies and boosts QR detection performance."
 keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/cpp/new-releases/aspose.barcode-for-c++-24.10-linux/"
@@ -14,11 +13,9 @@ download_count: " 22/10/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 45.94MB"
 parent_path: "barcode/cpp"
 section_parent_path: "barcode/cpp"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-10-release-notes/"
 weight: 139
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,32 @@ weight: 139
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.BarCode for C++ 24.10 Linux release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.BarCode for C++ 24.10 for Linux focuses on barcode engine stabilization by resolving recognition hang issues across several barcode types. It also includes performance tuning for QR images, improving recognition accuracy and responsiveness.
+
+#### Enhancement & Fixes
+
+- **Recognition Engine Optimization**:
+  - Addressed slow QR decoding through back-end logic refinements, based on performance studies from Android usage.
+
+- **Multisymbology Hang Fixes**:
+  - Stability improved for these barcode types:
+    - Aztec, DataMatrix, DotCode, HanXin
+    - QR, Pdf417, MicroPdf417
+
+#### 👉 View full update details at [Aspose.BarCode for C++ 24.10 Release Notes](https://releases.aspose.com/barcode/cpp/release-notes/2024/aspose-barcode-for-cpp-24-10-release-notes/)
+
+---
+
+[`linux QR recognition`](https://search.aspose.com/q/linux-QR-recognition.html) | [`hang fix DataMatrix`](https://search.aspose.com/q/hang-fix-DataMatrix.html) | [`MicroPdf417 stability`](https://search.aspose.com/q/MicroPdf417-stability.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
