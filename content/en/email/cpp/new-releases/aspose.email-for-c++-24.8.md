@@ -1,5 +1,4 @@
 ---
-
 title: "Aspose.Email C++ 24.8 (MSI) - .NET 8 Project Support & More"
 description: "Download Aspose.Email for C++ 24.8 (MSI) with .NET 8 support, improved ICS loading, and resolved PST, MSG, VCard issues. Perfect for API developers!"
 keywords: ""
@@ -14,11 +13,9 @@ download_count: " 28/8/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 460.32MB"
 parent_path: "email/cpp"
 section_parent_path: "email/cpp"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/email/cpp/release-notes/2024/aspose-email-for-cpp-24-8-release-notes/"
 weight: 95
-
 ---
 
 {{< Releases/ReleasesWapper >}}

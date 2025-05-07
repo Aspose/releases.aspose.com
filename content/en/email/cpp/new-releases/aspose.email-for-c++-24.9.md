@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.email-for-c++-24.9"
-description: " "
+title: "Aspose.Email for C++ 24.9: Enhanced Email Processing"
+description: "Aspose.Email for C++ 24.9 introduces SMIME enhancements, recurrence fixes, and improved Mboxrd handling for Windows, Linux, and macOS platforms."
 keywords: ""
 page_type: single_release_page
 folder_link: "/email/cpp/new-releases/aspose.email-for-c++-24.9/"
@@ -14,11 +13,9 @@ download_count: " 2/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 460.34MB"
 parent_path: "email/cpp"
 section_parent_path: "email/cpp"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/email/cpp/release-notes/2024/aspose-email-for-cpp-24-9-release-notes/"
 weight: 96
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,40 @@ weight: 96
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Email for C++ 24.9 release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.Email for C++ 24.9 brings significant improvements in email processing, including enhanced SMIME content handling, recurrence pattern fixes, and better Mboxrd support. This release ensures robust email management across Windows, Linux, and macOS platforms.
+
+#### New Feature
+
+- **SMIME Content-Type Enhancement**: Added `smime-type` parameter to the SMIME Content-Type header, improving compatibility with secure email clients.
+
+#### Fixes
+
+- **Recurrence Pattern Fix**: Addressed the issue where the `EndDate` of recurrence was empty when saving `MapiCalendar` to ICS format.
+- **IMAP FetchMessage Exception**: Resolved the exception "Length cannot be less than zero" encountered during `ImapClient.FetchMessage`.
+- **Mboxrd Writer Issue**: Fixed problems related to Mboxrd writer, ensuring accurate message writing.
+- **Soft Deleted Items Extraction**: Corrected the behavior of `FindAndExtractSoftDeletedItems` method for reliable extraction.
+- **.NET 7 to .NET 8 Migration**: Fixed errors occurring during migration from .NET 7 to .NET 8.
+- **Zimbra (.tgz) File Reading**: Resolved exceptions while reading Zimbra (.tgz) files using Aspose.Email.
+
+#### Platform Notes
+
+- This release delivers all enhancements and fixes across Windows, Linux, and macOS, ensuring consistent email processing and platform parity.
+
+#### 👉 For a detailed list of updates, visit [Aspose.Email for C++ 24.9 Release Notes](https://releases.aspose.com/email/cpp/release-notes/2024/aspose-email-for-cpp-24-9-release-notes/)
+
+---
+
+[`SMIME Content-Type`](https://search.aspose.com/q/SMIME-Content-Type.html) | [`MapiCalendar ICS`](https://search.aspose.com/q/MapiCalendar-ICS.html) | [`ImapClient FetchMessage`](https://search.aspose.com/q/ImapClient-FetchMessage.html) | [`Mboxrd Writer`](https://search.aspose.com/q/Mboxrd-Writer.html) | [`SoftDeletedItems Extraction`](https://search.aspose.com/q/SoftDeletedItems-Extraction.html)
+
+---
+
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
