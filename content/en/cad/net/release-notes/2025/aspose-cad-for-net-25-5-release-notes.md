@@ -24,16 +24,13 @@ This page contains release notes for Aspose.CAD for .NET 25.5
 | :- | :- | :- |
 | CADNET-10109 | DWF -> DXF conversion produces invalid file | Enhancement |
 | CADNET-10083 | Implement Draco compression for GLB format (GLB to GLTF conversion issue) | Feature |
-| CADNET-10077 | SHX symbols are exported into one position | Enhancement |
 | CADNET-10095 | Exception occurs when exporting tssdeng.ttf font | Enhancement |
 | CADNET-10104 | Wrong DWF viewport/page/layout size and scale | Enhancement |
-| CADAPP-2214 | IFC to DWG conversion issue | Enhancement |
 | CADNET-10096 | Dashed polylines don’t retain style or radius | Enhancement |
 | CADNET-9989 | Saving without options to DXF R12 produces incorrect file | Enhancement |
 | CADNET-10112 | Fix reading and writing for properties and handles of the TABLESTYLE object | Enhancement |
 | CADNET-10125 | DXF to PDF conversion fails with NullReferenceException | Enhancement |
 | CADNET-10113 | Unable to add layers and assign entities in DWG using DwgImage (Aspose.CAD) | Enhancement |
-| CADNET-10110 | Implement support for the text inside polylines with plinegen flag | Enhancement |
 | CADNET-10106 | Empty result of conversion from STP (STEP to DWG conversion issue) | Enhancement |
 | CADNET-10099 | Export of SVG to DXF results in invalid file from 24.12 | Enhancement |
 | CADNET-10105 | Add saving of missing properties of the ACAD_TABLE object | Enhancement |
