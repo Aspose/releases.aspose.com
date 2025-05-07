@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.slides-for-c++-25.1-linux"
-description: " "
+title: "Aspose.Slides C++ 25.1 Linux – PDF Font Import & Metadata API"
+description: "Aspose.Slides for C++ 25.1 on Linux supports embedded font import from PDFs, document property access, and exporting slides or SVG to EMF."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/cpp/new-releases/aspose.slides-for-c++-25.1-linux/"
@@ -14,11 +13,9 @@ download_count: " 23/1/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 89.51MB"
 parent_path: "slides/cpp"
 section_parent_path: "slides/cpp"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/slides/cpp/release-notes/2025/aspose-slides-for-cpp-25-1-release-notes/"
 weight: 267
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,33 @@ weight: 267
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for C++ 25.1 Linux release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.Slides for C++ 25.1 for Linux introduces robust presentation file management, metadata access, and file export capabilities. New methods support extracting full document metadata, converting slides or SVGs to EMF, and more.
+
+#### New Features and Enhancements
+
+- **Embedded Font Import**: Reuse fonts from PDFs directly in your PowerPoint decks.
+- **Metadata & Property APIs**: Retrieve comprehensive document details via `IDocumentProperties`.
+- **EMF Export Features**: Save individual slides or SVG images as EMF using `WriteAsEmf()` methods.
+- **Image Compression**: Optimize embedded visuals with DPI-specific compression logic.
+
+#### API Modernization
+
+- New options in `PptxOptions`, `PictureFillFormat`, and `DocumentProperties` enhance output control and metadata precision.
+
+#### 👉 View full details at [Aspose.Slides for C++ 25.1 Release Notes](https://releases.aspose.com/slides/cpp/release-notes/2025/aspose-slides-for-cpp-25-1-release-notes/)
+
+---
+
+[`compress image Linux`](https://search.aspose.com/q/compress-image-Linux.html) | [`HeadingPair metadata`](https://search.aspose.com/q/HeadingPair-metadata.html) | [`presentation export EMF`](https://search.aspose.com/q/presentation-export-EMF.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

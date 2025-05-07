@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.slides-for-c++-25.4-windows"
-description: " "
+title: "Aspose.Slides C++ 25.4 for Windows – Text Columns & Shape Adjustments"
+description: "Aspose.Slides for C++ 25.4 for Windows improves shape image quality, adds shape adjustment extraction, and supports multi-column text retrieval."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/cpp/new-releases/aspose.slides-for-c++-25.4-windows/"
@@ -14,11 +13,9 @@ download_count: " 18/4/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 371.74MB"
 parent_path: "slides/cpp"
 section_parent_path: "slides/cpp"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/slides/cpp/release-notes/2025/aspose-slides-for-cpp-25-4-release-notes/"
 weight: 275
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,36 @@ weight: 275
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for C++ 25.4 Windows release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.Slides for C++ 25.4 for Windows delivers visual quality and shape data access enhancements, including precise control over image rendering and the ability to extract structured multi-column text from slides. Developers can now programmatically analyze and modify shape geometry adjustments.
+
+#### New Features and Enhancements
+
+- **Multi-Column Text Extraction**:
+  - Retrieve text by columns using enhanced `TextFrame` processing.
+
+- **High-Quality Shape Thumbnails**:
+  - Improved rendering fidelity for shape-to-image conversion.
+
+- **Adjustment Point Access**:
+  - Access shape geometry controls using `IAdjustValue::get_Type()` to retrieve `ShapeAdjustmentType` (e.g., radius, curvature, angle).
+
+- **Improved EMF to PDF Handling**:
+  - Bug fix ensures proper text wrapping when converting EMF to PDF.
+
+#### 👉 View full update details at [Aspose.Slides for C++ 25.4 Release Notes](https://releases.aspose.com/slides/cpp/release-notes/2025/aspose-slides-for-cpp-25-4-release-notes/)
+
+---
+
+[`multi column text extraction`](https://search.aspose.com/q/multi-column-text-extraction.html) | [`shape thumbnail quality`](https://search.aspose.com/q/shape-thumbnail-quality.html) | [`ShapeAdjustmentType enum`](https://search.aspose.com/q/ShapeAdjustmentType-enum.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

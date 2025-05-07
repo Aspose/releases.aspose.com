@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.slides-for-c++-25.2-windows"
-description: " "
+title: "Aspose.Slides C++ 25.2 for Windows – Audio, Ligatures, Parents"
+description: "Aspose.Slides for C++ 25.2 on Windows adds audio trim/fade, ligature export control, and parent access for text frames and cells."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/cpp/new-releases/aspose.slides-for-c++-25.2-windows/"
@@ -14,11 +13,9 @@ download_count: " 19/2/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 370.56MB"
 parent_path: "slides/cpp"
 section_parent_path: "slides/cpp"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/slides/cpp/release-notes/2025/aspose-slides-for-cpp-25-2-release-notes/"
 weight: 269
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,38 @@ weight: 269
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for C++ 25.2 Windows release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.Slides for C++ 25.2 for Windows adds powerful multimedia and export controls, including audio trimming, fade durations, font ligature toggling, and access to parent shapes or cells of text frames. This release improves both presentation fidelity and programmatic flexibility.
+
+#### New Features and Enhancements
+
+- **Audio Frame Enhancements**:
+  - Set trim durations with `set_TrimFromStart()` and `set_TrimFromEnd()`.
+  - Control fade-in and fade-out with `set_FadeInDuration()` and `set_FadeOutDuration()`.
+  - Adjust volume via `set_VolumeValue()`.
+
+- **Export Font Ligature Control**:
+  - Disable font ligatures during export using `set_DisableFontLigatures()` in HTML, SVG, and rendering options.
+
+- **Text Frame Parent Access**:
+  - Retrieve parent `IShape` or `ICell` of a `TextFrame` with `get_ParentShape()` or `get_ParentCell()`.
+
+- **Merged Letter Rendering Fix**:
+  - Corrects ligature rendering when saving to PNG or HTML.
+
+#### 👉 View full details at [Aspose.Slides for C++ 25.2 Release Notes](https://releases.aspose.com/slides/cpp/release-notes/2025/aspose-slides-for-cpp-25-2-release-notes/)
+
+---
+
+[`audio frame C++`](https://search.aspose.com/q/audio-frame-C++.html) | [`disable ligatures export`](https://search.aspose.com/q/disable-ligatures-export.html) | [`parent shape text frame`](https://search.aspose.com/q/parent-shape-text-frame.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

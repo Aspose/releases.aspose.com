@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.slides-for-c++-24.10-macos"
-description: " "
+title: "Aspose.Slides C++ 24.10 macOS – Advanced Zoom Animation Support"
+description: "Aspose.Slides for C++ 24.10 on macOS adds vanishing point retrieval for Zoom animations and new FadedZoom effect subtypes for richer presentations."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/cpp/new-releases/aspose.slides-for-c++-24.10-macos/"
@@ -14,11 +13,9 @@ download_count: " 18/10/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 170.19MB"
 parent_path: "slides/cpp"
 section_parent_path: "slides/cpp"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-10-release-notes/"
 weight: 259
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,26 @@ weight: 259
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for C++ 24.10 macOS release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Slides for C++ 24.10 for macOS enhances animation capabilities by allowing retrieval of vanishing point options for Zoom animations and introducing new effect subtypes for FadedZoom transitions, enabling more dynamic and engaging presentations.
+
+#### New Features and Enhancements
+
+- **Retrieve Vanishing Point in Zoom Animations**: Gain access to the vanishing point settings of Zoom animations for refined slide transitions.
+- **New EffectSubtype Enum Members**: Added `SlideCenter` and `ObjectCenter` to the `EffectSubtype` enum, offering additional customization for FadedZoom effects.
+
+#### 👉 For a full list of updates, visit [Aspose.Slides for C++ 24.10 Release Notes](https://releases.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-10-release-notes/)
+
+---
+
+[`Zoom animation macOS`](https://search.aspose.com/q/Zoom-animation-macOS.html) | [`EffectSubtype enum C++`](https://search.aspose.com/q/EffectSubtype-enum-C++.html) | [`FadedZoom animation macOS`](https://search.aspose.com/q/FadedZoom-animation-macOS.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

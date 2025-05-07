@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.slides-for-c++-24.12-windows"
-description: " "
+title: "Aspose.Slides C++ 24.12 for Windows – Spreadsheet Functions Support"
+description: "Aspose.Slides for C++ 24.12 on Windows adds spreadsheet formula support in charts and simplifies layout options by removing deprecated methods."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/cpp/new-releases/aspose.slides-for-c++-24.12-windows/"
@@ -14,11 +13,9 @@ download_count: " 19/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 370.03MB"
 parent_path: "slides/cpp"
 section_parent_path: "slides/cpp"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-12-release-notes/"
 weight: 263
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,34 @@ weight: 263
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for C++ 24.12 Windows release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.Slides for C++ 24.12 for Windows introduces enhanced chart support with spreadsheet function compatibility in embedded worksheets. This version also streamlines rendering and export workflows by removing outdated layout methods, promoting a cleaner API structure.
+
+#### New Features and Enhancements
+
+- **Spreadsheet Function Support in Charts**:
+  - Adds support for frequently used worksheet formulas within chart data sheets.
+  - Enables advanced calculations and dynamic data visualization.
+
+#### API Updates
+
+- **Deprecated Method Removal**:
+  - `get_NotesCommentsLayouting()` methods removed from PDF, HTML, TIFF, and rendering options classes.
+  - Developers should now use `get_SlidesLayoutOptions()` and `set_SlidesLayoutOptions()`.
+
+#### 👉 View full details at [Aspose.Slides for C++ 24.12 Release Notes](https://releases.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-12-release-notes/)
+
+---
+
+[`chart worksheet formulas`](https://search.aspose.com/q/chart-worksheet-formulas.html) | [`SlidesLayoutOptions API`](https://search.aspose.com/q/SlidesLayoutOptions-API.html) | [`spreadsheet functions C++`](https://search.aspose.com/q/spreadsheet-functions-C++.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

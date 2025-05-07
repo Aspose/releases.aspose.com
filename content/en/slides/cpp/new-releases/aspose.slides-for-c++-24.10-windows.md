@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.slides-for-c++-24.10-windows"
-description: " "
+title: "Aspose.Slides C++ 24.10 for Windows – Zoom Animations Enhanced"
+description: "Aspose.Slides for C++ 24.10 for Windows adds vanishing point support for Zoom animations and new effect subtypes for FadedZoom transitions."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/cpp/new-releases/aspose.slides-for-c++-24.10-windows/"
@@ -14,11 +13,9 @@ download_count: " 18/10/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 369.12MB"
 parent_path: "slides/cpp"
 section_parent_path: "slides/cpp"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-10-release-notes/"
 weight: 257
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,26 @@ weight: 257
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for C++ 24.10 Windows release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Slides for C++ 24.10 for Windows introduces enhanced animation capabilities, including vanishing point options for Zoom animations and new effect subtypes for FadedZoom transitions. These features provide developers with greater control over presentation animations.
+
+#### New Features and Enhancements
+
+- **Vanishing Point for Zoom Animations**: Retrieve the vanishing point option of Zoom animations, allowing for more dynamic slide transitions.
+- **New EffectSubtype Enum Members**: Added `SlideCenter` and `ObjectCenter` to the `EffectSubtype` enum, enhancing the customization of FadedZoom effects.
+
+#### 👉 For a full list of updates, visit [Aspose.Slides for C++ 24.10 Release Notes](https://releases.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-10-release-notes/)
+
+---
+
+[`Zoom animation vanishing point`](https://search.aspose.com/q/Zoom-animation-vanishing-point.html) | [`EffectSubtype SlideCenter`](https://search.aspose.com/q/EffectSubtype-SlideCenter.html) | [`FadedZoom effect C++`](https://search.aspose.com/q/FadedZoom-effect-C++.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

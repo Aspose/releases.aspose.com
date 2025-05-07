@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.slides-for-c++-25.4-linux"
-description: " "
+title: "Aspose.Slides C++ 25.4 Linux – Shape Adjustments & Thumbnail Quality"
+description: "Aspose.Slides for C++ 25.4 on Linux enhances shape rendering, enables extraction of adjustment points, and supports multi-column text processing."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/cpp/new-releases/aspose.slides-for-c++-25.4-linux/"
@@ -14,11 +13,9 @@ download_count: " 18/4/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 89.82MB"
 parent_path: "slides/cpp"
 section_parent_path: "slides/cpp"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/slides/cpp/release-notes/2025/aspose-slides-for-cpp-25-4-release-notes/"
 weight: 276
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,36 @@ weight: 276
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for C++ 25.4 Linux release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.Slides for C++ 25.4 for Linux refines presentation rendering with enhanced thumbnail generation, better geometry analysis of shapes, and support for column-based text extraction. These improvements benefit both export fidelity and content accessibility.
+
+#### New Features and Enhancements
+
+- **Improved Shape Rendering**:
+  - Higher-quality thumbnails from individual shapes and enhanced conversion outputs.
+
+- **Access to Shape Adjustment Points**:
+  - Use `get_Type()` to analyze or adjust shape properties such as angles, corner radius, and curvature.
+
+- **Extract Text by Columns**:
+  - Access individual column content from `TextFrame` objects.
+
+- **Text Wrapping Fix in EMF-to-PDF**:
+  - Ensures text in EMF images wraps correctly when exported to PDF.
+
+#### 👉 View full update details at [Aspose.Slides for C++ 25.4 Release Notes](https://releases.aspose.com/slides/cpp/release-notes/2025/aspose-slides-for-cpp-25-4-release-notes/)
+
+---
+
+[`adjustment point C++`](https://search.aspose.com/q/adjustment-point-C++.html) | [`textframe columns`](https://search.aspose.com/q/textframe-columns.html) | [`thumbnail export Linux`](https://search.aspose.com/q/thumbnail-export-Linux.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

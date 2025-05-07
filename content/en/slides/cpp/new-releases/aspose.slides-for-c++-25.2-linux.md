@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.slides-for-c++-25.2-linux"
-description: " "
+title: "Aspose.Slides C++ 25.2 Linux – Audio Settings & Ligature Fix"
+description: "Aspose.Slides for C++ 25.2 on Linux introduces audio fade, trim, volume control, ligature toggling, and better shape-parent access."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/cpp/new-releases/aspose.slides-for-c++-25.2-linux/"
@@ -14,11 +13,9 @@ download_count: " 19/2/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 89.53MB"
 parent_path: "slides/cpp"
 section_parent_path: "slides/cpp"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/slides/cpp/release-notes/2025/aspose-slides-for-cpp-25-2-release-notes/"
 weight: 270
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,35 @@ weight: 270
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for C++ 25.2 Linux release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.Slides for C++ 25.2 for Linux delivers enhanced control over audio playback and text rendering. Developers can now programmatically manage volume, trim durations, and ligature rendering, while gaining deeper insight into the structure of text frames within slides or tables.
+
+#### New Features and Enhancements
+
+- **Multimedia Control**:
+  - Set audio fade-in/out durations.
+  - Trim audio from start/end.
+  - Adjust playback volume precisely.
+
+- **Ligature Toggle on Export**:
+  - Export presentations to HTML, SVG, or images with font ligatures disabled.
+
+- **Text Structure Navigation**:
+  - Determine whether a `TextFrame` belongs to a shape or table cell via `get_ParentShape()` and `get_ParentCell()`.
+
+#### 👉 View full details at [Aspose.Slides for C++ 25.2 Release Notes](https://releases.aspose.com/slides/cpp/release-notes/2025/aspose-slides-for-cpp-25-2-release-notes/)
+
+---
+
+[`fade trim audio Linux`](https://search.aspose.com/q/fade-trim-audio-Linux.html) | [`font ligature off Linux`](https://search.aspose.com/q/font-ligature-off-Linux.html) | [`text frame table shape`](https://search.aspose.com/q/text-frame-table-shape.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

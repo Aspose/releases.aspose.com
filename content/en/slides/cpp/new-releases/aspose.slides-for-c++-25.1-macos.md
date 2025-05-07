@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.slides-for-c++-25.1-macos"
-description: " "
+title: "Aspose.Slides C++ 25.1 macOS – EMF, Metadata & Font Import"
+description: "Aspose.Slides for C++ 25.1 on macOS supports font import from PDF, extended document metadata access, and exporting slides or SVG to EMF."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/cpp/new-releases/aspose.slides-for-c++-25.1-macos/"
@@ -14,11 +13,9 @@ download_count: " 23/1/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 170.97MB"
 parent_path: "slides/cpp"
 section_parent_path: "slides/cpp"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/slides/cpp/release-notes/2025/aspose-slides-for-cpp-25-1-release-notes/"
 weight: 268
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,30 @@ weight: 268
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for C++ 25.1 macOS release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.Slides for C++ 25.1 for macOS expands content handling capabilities with support for embedded font reuse, full metadata extraction, and EMF output. Developers can now build more feature-rich applications on both ARM64 and x86_64 macOS platforms.
+
+#### New Features and Enhancements
+
+- **PDF Font Extraction**: Access and reuse embedded fonts from PDF files.
+- **Comprehensive Document Metadata**: View slides, notes, word count, and multimedia details with the updated `DocumentProperties` API.
+- **Export to EMF**: Use `WriteAsEmf()` on slides or SVG images for high-quality vector output.
+- **Thumbnail Control in PPTX**: Disable automatic thumbnail generation for streamlined saves.
+- **Picture Optimization**: Use `CompressImage()` with defined DPI and cropping options.
+
+#### 👉 View full details at [Aspose.Slides for C++ 25.1 Release Notes](https://releases.aspose.com/slides/cpp/release-notes/2025/aspose-slides-for-cpp-25-1-release-notes/)
+
+---
+
+[`macOS presentation EMF`](https://search.aspose.com/q/macOS-presentation-EMF.html) | [`Pdf embedded font import`](https://search.aspose.com/q/Pdf-embedded-font-import.html) | [`PptxOptions macOS`](https://search.aspose.com/q/PptxOptions-macOS.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

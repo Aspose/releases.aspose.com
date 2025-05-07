@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.slides-for-c++-24.11-macos"
-description: " "
+title: "Aspose.Slides C++ 24.11 macOS – Add Grid Lines & Drawing Guides"
+description: "Aspose.Slides for C++ 24.11 on macOS introduces grid spacing control, adjustable drawing guides, and improved text extraction from PPTX files."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/cpp/new-releases/aspose.slides-for-c++-24.11-macos/"
@@ -14,11 +13,9 @@ download_count: " 27/11/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 170.74MB"
 parent_path: "slides/cpp"
 section_parent_path: "slides/cpp"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-11-release-notes/"
 weight: 262
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,34 @@ weight: 262
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for C++ 24.11 macOS release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.Slides for C++ 24.11 for macOS brings design-level control with new APIs for grid spacing and slide drawing guides. Additionally, developers can expect more accurate text extraction and chart rendering across Apple Silicon and Intel-based macOS systems.
+
+#### New Features and Enhancements
+
+- **Drawing Guide APIs**:
+  - Easily define and manage slide alignment guides with `DrawingGuidesCollection`.
+  - Retrieve guides by index using `get_DrawingGuide()`.
+
+- **Grid Layout Adjustments**:
+  - Use `set_GridSpacing()` to specify grid resolution, enabling precise slide layout work.
+
+- **Enhanced Content Output**:
+  - Improves extracted text formatting and resolves chart placeholder rendering in image formats.
+
+#### 👉 View full update details at [Aspose.Slides for C++ 24.11 Release Notes](https://releases.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-11-release-notes/)
+
+---
+
+[`macOS grid spacing`](https://search.aspose.com/q/macOS-grid-spacing.html) | [`PowerPoint guides`](https://search.aspose.com/q/PowerPoint-guides.html) | [`extract comments PPTX`](https://search.aspose.com/q/extract-comments-PPTX.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

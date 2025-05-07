@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.slides-for-c++-24.12-linux"
-description: " "
+title: "Aspose.Slides C++ 24.12 Linux – Chart Formulas & API Cleanup"
+description: "Aspose.Slides for C++ 24.12 on Linux adds support for spreadsheet formulas in charts and deprecates older layout methods for cleaner development."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/cpp/new-releases/aspose.slides-for-c++-24.12-linux/"
@@ -14,11 +13,9 @@ download_count: " 19/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 89.41MB"
 parent_path: "slides/cpp"
 section_parent_path: "slides/cpp"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-12-release-notes/"
 weight: 264
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,34 @@ weight: 264
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for C++ 24.12 Linux release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.Slides for C++ 24.12 for Linux introduces key updates for data-driven presentations. Developers can now use common spreadsheet functions inside embedded chart worksheets, improving analytical capabilities. This version also removes legacy layouting methods for consistency.
+
+#### New Features and Enhancements
+
+- **Embedded Chart Formula Support**:
+  - Enables use of standard worksheet functions (SUM, AVERAGE, etc.) within chart data.
+  - Ideal for presentations involving live or calculated metrics.
+
+#### API Modernization
+
+- **Legacy Layout Methods Removed**:
+  - Removed `get_NotesCommentsLayouting()` from export option classes.
+  - Replaced with the more flexible `SlidesLayoutOptions` methods.
+
+#### 👉 View full details at [Aspose.Slides for C++ 24.12 Release Notes](https://releases.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-12-release-notes/)
+
+---
+
+[`chart formula Linux`](https://search.aspose.com/q/chart-formula-Linux.html) | [`remove NotesCommentsLayouting`](https://search.aspose.com/q/remove-NotesCommentsLayouting.html) | [`Slides API cleanup`](https://search.aspose.com/q/Slides-API-cleanup.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

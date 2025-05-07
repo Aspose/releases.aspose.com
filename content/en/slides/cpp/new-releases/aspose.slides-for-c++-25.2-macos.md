@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.slides-for-c++-25.2-macos"
-description: " "
+title: "Aspose.Slides C++ 25.2 macOS – Audio FX & Text Frame Enhancements"
+description: "Aspose.Slides for C++ 25.2 on macOS enables audio fade/trim, toggles ligature rendering, and lets developers access shape/cell parents of text frames."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/cpp/new-releases/aspose.slides-for-c++-25.2-macos/"
@@ -14,11 +13,9 @@ download_count: " 19/2/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 171.01MB"
 parent_path: "slides/cpp"
 section_parent_path: "slides/cpp"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/slides/cpp/release-notes/2025/aspose-slides-for-cpp-25-2-release-notes/"
 weight: 271
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,37 @@ weight: 271
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for C++ 25.2 macOS release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.Slides for C++ 25.2 for macOS introduces detailed control over audio effects and presentation exports. The update provides new methods for setting trim durations, fades, and volume on audio frames, alongside fine control over ligature behavior and text frame parent tracking.
+
+#### New Features and Enhancements
+
+- **Audio Enhancements**:
+  - Apply fade-in/out and trimming effects to embedded audio.
+  - Set volume levels per audio frame.
+
+- **Ligature Export Customization**:
+  - Choose whether to render font ligatures in SVG, HTML, and image exports.
+
+- **Parent Tracking for TextFrames**:
+  - Gain clarity on whether a `TextFrame` belongs to a shape or a cell using new methods.
+
+- **Rendering Fixes**:
+  - Merged characters in PNG/HTML exports are now correctly separated.
+
+#### 👉 View full details at [Aspose.Slides for C++ 25.2 Release Notes](https://releases.aspose.com/slides/cpp/release-notes/2025/aspose-slides-for-cpp-25-2-release-notes/)
+
+---
+
+[`audio fade macOS`](https://search.aspose.com/q/audio-fade-macOS.html) | [`text frame parent macOS`](https://search.aspose.com/q/text-frame-parent-macOS.html) | [`ligature toggle export`](https://search.aspose.com/q/ligature-toggle-export.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.slides-for-c++-24.11-linux"
-description: " "
+title: "Aspose.Slides C++ 24.11 Linux – Drawing Guides & Grid Support"
+description: "Aspose.Slides for C++ 24.11 on Linux adds grid and drawing guide APIs, plus better text and chart output for PPTX files."
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/cpp/new-releases/aspose.slides-for-c++-24.11-linux/"
@@ -14,11 +13,9 @@ download_count: " 27/11/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 89.45MB"
 parent_path: "slides/cpp"
 section_parent_path: "slides/cpp"
-
 tags: ""
 release_notes_url: "https://releases.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-11-release-notes/"
 weight: 261
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,32 @@ weight: 261
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Slides for C++ 24.11 Linux release.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.Slides for C++ 24.11 for Linux gives developers powerful new layout and positioning tools through the new grid spacing and drawing guide APIs. Chart export fidelity and text handling are also improved, ensuring high-quality output across scenarios.
+
+#### New Features and Enhancements
+
+- **Drawing Guide & Grid Customization**:
+  - New `DrawingGuidesCollection` API lets you add or retrieve guides programmatically.
+  - Set precise `GridSpacing` in points to align slide elements accurately.
+
+- **Text & Chart Output Improvements**:
+  - Enhanced control over word spacing on line breaks in text extraction.
+  - Placeholder rendering issues fixed when converting charts to JPEG/PDF.
+
+#### 👉 View full update details at [Aspose.Slides for C++ 24.11 Release Notes](https://releases.aspose.com/slides/cpp/release-notes/2024/aspose-slides-for-cpp-24-11-release-notes/)
+
+---
+
+[`chart conversion fix`](https://search.aspose.com/q/chart-conversion-fix.html) | [`slide guides`](https://search.aspose.com/q/slide-guides.html) | [`grid layout C++`](https://search.aspose.com/q/grid-layout-C++.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
