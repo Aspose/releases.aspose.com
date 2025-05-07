@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.cells-for-c++-25.1(windows)"
-description: " "
+title: "Aspose.Cells C++ 25.1 Windows – Pivot, HTML CSS, Font Fixes"
+description: "Aspose.Cells for C++ 25.1 (Windows) adds external table formula handling, pivot formatting upgrades, CSS-based HTML export, and font style fixes."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/cpp/new-releases/aspose.cells-for-c++-25.1(windows)/"
@@ -14,11 +13,9 @@ download_count: " 13/1/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 49.29MB"
 parent_path: "cells/cpp"
 section_parent_path: "cells/cpp"
-
 tags: "C++ Excel Windows image html"
 release_notes_url: "https://releases.aspose.com/cells/cpp/release-notes/2025/aspose-cells-for-cpp-25-1-release-notes/"
 weight: 157
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,47 @@ weight: 157
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Cells for C++ version 25.1 (Windows). For more information, see the release notes and readme file.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.Cells for C++ 25.1 (Windows) introduces enhanced pivot formatting with a restructured API, external table reference support in formulas, and optimized HTML output using CSS custom properties. This release also includes extensive bug fixes for chart rendering, font styles, and formula accuracy.
+
+#### New Feature
+
+- **Dynamic Array Preservation**: Skip custom function calculation to retain spilled values.
+- **Pivot Area Selection API**: New methods to select and convert pivot areas to cell ranges.
+
+#### Enhancement
+
+- **ODS Shape Export**: Support for exporting auto and free shapes to ODS files.
+- **External Table Reference Evaluation**: Handle expressions via user engines and pre-set sources.
+- **Pivot Conditional Formatting API**: Introduces `PivotConditionalFormatCollection`, replacing older methods.
+- **Forms in Tables**: Read and write form settings embedded within tables.
+- **CSS Optimization**: Use custom CSS properties to improve HTML size/performance.
+- **Improved Style Management**: Create styles with control over default style inheritance.
+
+#### Fix
+
+- Corrected strikethrough and font rendering issues in chart to XPS/PDF conversions.
+- Fixed chart content overlap and misalignment in XLSX exports.
+- Addressed formula miscalculations in TEXTSPLIT, HYPERLINK, INDIRECT functions.
+- Resolved font name corruption in PDF output.
+- Prevented workbook corruption after formula recalculations and pivot replacement.
+- Fixed conditional format mismatch vs. Excel.
+- Eliminated NullReferenceExceptions when importing JSON for SmartMarkers.
+- Solved Blazor WebAssembly compatibility and loading errors.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Cells for C++ 25.1 Release Notes](https://releases.aspose.com/cells/cpp/release-notes/2025/aspose-cells-for-cpp-25-1-release-notes/)
+
+---
+
+[`pivot conditional formatting`](https://search.aspose.com/q/pivot-conditional-formatting.html) | [`html css export`](https://search.aspose.com/q/html-css-export.html) | [`external table reference`](https://search.aspose.com/q/external-table-reference.html) | [`ods shape export`](https://search.aspose.com/q/ods-shape-export.html) | [`chart font fix`](https://search.aspose.com/q/chart-font-fix.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

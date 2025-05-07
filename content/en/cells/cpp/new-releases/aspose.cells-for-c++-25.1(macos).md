@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.cells-for-c++-25.1(macos)"
-description: " "
+title: "Aspose.Cells C++ 25.1 macOS – External Refs, Pivot Styles, Fonts"
+description: "Aspose.Cells for C++ 25.1 (macOS) improves pivot formatting, supports external table references, CSS-based HTML export, and resolves major rendering bugs."
 keywords: ""
 page_type: single_release_page
 folder_link: "/cells/cpp/new-releases/aspose.cells-for-c++-25.1(macos)/"
@@ -14,11 +13,9 @@ download_count: " 13/1/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 66.29MB"
 parent_path: "cells/cpp"
 section_parent_path: "cells/cpp"
-
 tags: "C++ Excel macOS image html"
 release_notes_url: "https://releases.aspose.com/cells/cpp/release-notes/2025/aspose-cells-for-cpp-25-1-release-notes/"
 weight: 156
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,43 @@ weight: 156
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Cells for C++ version 25.1 (macOS). For more information, see the release notes and readme file.</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.Cells for C++ 25.1 (macOS) introduces support for external table reference evaluation, improved pivot table styling, optimized HTML export using CSS, and resolves font and rendering issues in PDF/XPS/chart outputs.
+
+#### New Feature
+
+- **Spilled Array Preservation**: Keep original formula values by skipping custom evaluation.
+- **Pivot Range Management**: Select pivot fields and extract pivot areas into cell ranges.
+
+#### Enhancement
+
+- **New Pivot Format API**: Replaces old formatting system with `PivotConditionalFormatCollection`.
+- **ODS Shape Output**: Export complex shapes directly into ODS format.
+- **Style Creation Options**: Create custom styles with default cloning control.
+- **Optimized HTML Export**: Reduce HTML size with shared base64 image handling using CSS properties.
+- **Custom Engine Formula Evaluation**: Support user-managed external reference calculation.
+
+#### Fix
+
+- Fixed HYPERLINK and INDIRECT formula issues with data types and case sensitivity.
+- Resolved corrupted outputs when working with ODS, JSON, and Python formula content.
+- Corrected font styling, strikethrough, and italics issues in chart to image/XPS/PDF.
+- Eliminated smart tag residue in output files and incorrect pivot filters on “(blank)” values.
+- Prevented NullReferenceExceptions when importing smartmarker JSON or recalculating pivots.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.Cells for C++ 25.1 Release Notes](https://releases.aspose.com/cells/cpp/release-notes/2025/aspose-cells-for-cpp-25-1-release-notes/)
+
+---
+
+[`external table reference mac`](https://search.aspose.com/q/external-table-reference-mac.html) | [`pivot style api`](https://search.aspose.com/q/pivot-style-api.html) | [`mac html export`](https://search.aspose.com/q/mac-html-export.html) | [`chart font correction`](https://search.aspose.com/q/chart-font-correction.html) | [`ods export mac`](https://search.aspose.com/q/ods-export-mac.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
