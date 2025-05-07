@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.pdf-for-c++-25.3-linux"
-description: " "
+title: "Aspose.PDF for C++ 25.3 Linux – Markdown Output, Bates Numbering & Structure Tagging"
+description: "Aspose.PDF for C++ 25.3 on Linux adds Markdown conversion, tagged structure layout tools, and legal Bates numbering with new APIs."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-25.3-linux/"
@@ -14,11 +13,9 @@ download_count: " 18/3/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 122.38MB"
 parent_path: "pdf/cpp"
 section_parent_path: "pdf/cpp"
-
 tags: "PDF C++ Linux Ubuntu"
 release_notes_url: "https://releases.aspose.com/pdf/cpp/release-notes/2025/aspose-pdf-for-cpp-25-3-release-notes/"
 weight: 248
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,40 @@ weight: 248
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Linux version</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.PDF for C++ 25.3 on Linux enables Markdown document generation, legal-ready Bates numbering, and fine-tuned tagging control for structured content. This release is optimized for document publishing and PDF accessibility use cases on Linux servers.
+
+#### New Feature
+
+- **Markdown Format Support**: Export structured PDF content to `.md` format for documentation pipelines.
+- **BatesNArtifact API**: Insert legal page identifiers with configurable digit length, prefix/suffix, and custom pagination logic.
+- **Tagged PDF Improvements**:
+  - Define vertical/horizontal alignment and margin settings with `PositionSettings`.
+  - Adjust element layout using `AdjustPosition()` on `LinkElement`, `TableCellElement`, and others.
+- **Pagination & Page Collection API**:
+  - Apply artifacts and control subsets using `PageCollectionExtensions`.
+  - Streamlined tagging structure across Even/Odd page ranges.
+
+#### Enhancement
+
+- Expanded support for PDF/UA and PDF/A structure validation via `PaginationArtifact` and layout control extensions.
+
+#### Fix
+
+- Removed outdated structure manipulation APIs to ensure compatibility with modern Linux-based rendering engines.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.PDF for C++ 25.3 Release Notes](https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-25-3-release-notes/)
+
+---
+
+[`linux pdf markdown`](https://search.aspose.com/q/linux-pdf-markdown.html) | [`bates stamp linux`](https://search.aspose.com/q/bates-stamp-linux.html) | [`tagged pdf linux`](https://search.aspose.com/q/tagged-pdf-linux.html) | [`aspose pdf cpp linux`](https://search.aspose.com/q/aspose-pdf-cpp-linux.html) | [`pdf logical structure linux`](https://search.aspose.com/q/pdf-logical-structure-linux.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

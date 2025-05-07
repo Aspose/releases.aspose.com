@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.pdf-for-c++-24.9-macos"
-description: " "
+title: "Aspose.PDF for C++ 24.9 macOS – Image Diffing, Crash Reports & Bitmap APIs"
+description: "Aspose.PDF for C++ 24.9 on macOS adds PDF page comparison, bitmap rendering, and detailed crash diagnostics for Intel 64-bit systems."
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-24.9-macos/"
@@ -14,11 +13,9 @@ download_count: " 18/9/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 227.08MB"
 parent_path: "pdf/cpp"
 section_parent_path: "pdf/cpp"
-
 tags: "PDF C++ macOS x86_64 arm64"
 release_notes_url: "https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-9-release-notes/"
 weight: 231
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,37 @@ weight: 231
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">Aspose.PDF for C++ macOS version</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.PDF for C++ 24.9 for macOS introduces graphical document comparison, crash logging via `CrashReportOptions`, and direct bitmap manipulation with the new `BitmapInfo` class—engineered for 64-bit Intel macOS environments.
+
+#### New Feature
+
+- **Graphical Comparison**: Compare PDF documents visually and generate **diff images or PDF output** using `GraphicalPdfComparer`.
+- **Stream-Based Bitmap APIs**: Integrate raw image data via `BitmapInfo` and enhanced `XImageCollection` import options.
+- **Crash Reports**: Use `PdfException::GenerateCrashReport()` for **macOS-compliant error logs**.
+- **PDF Version Targeting**: Choose your desired output format using `PdfVersion` constructor.
+
+#### Enhancement
+
+- **macOS Support**: Compatible with **macOS Monterey 12.0+**, focused on PDF page rendering, metafile drawing, and stream-based resource handling.
+- **Image Rendering Improvements**: Enhanced rendering fidelity for WMF/EMF files and flipped matrix transformations.
+
+#### Fix
+
+- Removed support for deprecated flattening operations to improve PDF layer compatibility on macOS file systems.
+
+#### 👉 You can view the full list of updates by visiting [Aspose.PDF for C++ 24.9 Release Notes](https://releases.aspose.com/pdf/cpp/release-notes/2024/aspose-pdf-for-cpp-24-9-release-notes/)
+
+---
+
+[`pdf comparison mac`](https://search.aspose.com/q/pdf-comparison-mac.html) | [`bitmapinfo macos`](https://search.aspose.com/q/bitmapinfo-macos.html) | [`macos pdf crash reporting`](https://search.aspose.com/q/macos-pdf-crash-reporting.html) | [`macos cpp stream bitmap`](https://search.aspose.com/q/macos-cpp-stream-bitmap.html) | [`intel pdf sdk mac`](https://search.aspose.com/q/intel-pdf-sdk-mac.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
