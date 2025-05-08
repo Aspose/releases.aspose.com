@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.tasks-for-c++-25.3-linux"
-description: " "
+title: "Aspose.Tasks C++ 25.3 Linux – Negative Slacks, P6 Enhancements & TD Fixes"
+description: "Boost Primavera support and resolve calendar, timephased, and baseline bugs in Aspose.Tasks for C++ 25.3 on Linux."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-25.3-linux/"
@@ -14,11 +13,9 @@ download_count: " 30/3/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 54.59MB"
 parent_path: "tasks/cpp"
 section_parent_path: "tasks/cpp"
-
 tags: "Aspose.Tasks C++ Linux"
 release_notes_url: "https://releases.aspose.com/tasks/cpp/release-notes/2025/aspose-tasks-for-cpp-25-3-release-notes/"
 weight: 257
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,36 @@ weight: 257
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 25.3 binaries for Linux only</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Tasks for C++ 25.3 (Linux) offers better Primavera integration, negative slack handling, and vital fixes for resource scheduling accuracy.
+
+#### Enhancements
+
+- Extended P6 activity code reading support.
+- Slack calculations now support negative values.
+- MPP now saves actual work exceptions correctly.
+
+#### Fixes
+
+- Baseline work excludes material assignments.
+- Resume/Stop task fields now accurate.
+- Fixed TD errors caused by calendar shifts.
+- Eliminated duplicate key errors in task link addition.
+- Actual data preserved after calendar changes.
+- Safe outdent operation for task structures.
+
+#### 👉 Full list of updates: [Aspose.Tasks for C++ 25.3 Release Notes](https://releases.aspose.com/tasks/cpp/release-notes/2025/aspose-tasks-for-cpp-25-3-release-notes/)
+
+---
+
+[`linux gantt fix`](https://search.aspose.com/q/linux-gantt-fix.html) | [`p6 xer xml linux`](https://search.aspose.com/q/p6-xer-xml-linux.html) | [`slack timeline scheduling`](https://search.aspose.com/q/slack-timeline-scheduling.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

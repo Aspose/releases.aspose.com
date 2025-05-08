@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.tasks-for-c++-25.2-macos"
-description: " "
+title: "Aspose.Tasks C++ 25.2 macOS – Fixes for Baseline, Timephased, and Task Start"
+description: "Correct task start times, baseline costs, and timephased data misalignments in MPP with Aspose.Tasks for C++ 25.2 on macOS."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-25.2-macos/"
@@ -14,11 +13,9 @@ download_count: " 28/2/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 38.33MB"
 parent_path: "tasks/cpp"
 section_parent_path: "tasks/cpp"
-
 tags: "Aspose.Tasks C++ MacOS"
 release_notes_url: "https://releases.aspose.com/tasks/cpp/release-notes/2025/aspose-tasks-for-cpp-25-2-release-notes/"
 weight: 252
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,30 @@ weight: 252
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 25.2 MacOS only binaries</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Tasks for C++ 25.2 (macOS) improves handling of project schedule and cost breakdowns by addressing issues in MPP file timephased data generation, baseline visibility, and task start times.
+
+#### Fixes
+
+- Baseline work recalculates accurately after baseline application.
+- Fixed timephased start and finish values rendering incorrectly.
+- Visibility of baseline cost values with zero data is restored in MS Project.
+- Start date now respects project-wide default start time when time is omitted.
+- Assignments starting early now generate valid timephased records.
+- Baseline cost distribution is now correctly calculated and rendered.
+
+#### 👉 Explore release notes at [Aspose.Tasks for C++ 25.2 Release Notes](https://releases.aspose.com/tasks/cpp/release-notes/2025/aspose-tasks-for-cpp-25-2-release-notes/)
+
+---
+
+[`macOS gantt cost fix`](https://search.aspose.com/q/macOS-gantt-cost-fix.html) | [`macOS timephased rendering`](https://search.aspose.com/q/macOS-timephased-rendering.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

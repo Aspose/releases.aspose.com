@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.tasks-for-c++-24.11-macos"
-description: " "
+title: "Aspose.Tasks C++ 24.11 macOS – MPP Grouping, Macro Removal, Fixes"
+description: "Aspose.Tasks for C++ 24.11 on macOS adds MPP group write capability, removes VBA macros, and fixes formatting & font behavior."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-24.11-macos/"
@@ -14,11 +13,9 @@ download_count: " 30/11/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 38.23MB"
 parent_path: "tasks/cpp"
 section_parent_path: "tasks/cpp"
-
 tags: "Aspose.Tasks C++ MacOS"
 release_notes_url: "https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-11-release-notes/"
 weight: 240
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,46 @@ weight: 240
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 24.11 release for MacOS</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.Tasks for C++ 24.11 (macOS) empowers C++ developers targeting macOS with tools to write grouped task/resource data to MPP files and remove macros programmatically. It improves project file safety and format fidelity.
+
+#### New Features
+
+- **MPP Macro Sanitization on Save**:  
+  Easily remove VBA macro code from MPP files using `MPPSaveOptions::ClearVba(true)`.
+
+- **Group Definition and Export**:  
+  Assign visual styles, color coding, and group-on rules before exporting project data in structured group views.
+
+#### Enhancements
+
+- Full support for `GroupAssignments` and `WriteGroups` to tailor MPP output.
+- Text and font-related fixes across macOS environments.
+
+#### Fixes
+
+- Corrects font handling and rollup visibility issues for MSP 2010 files.
+- Fixes specific crashes related to font injection and duplicate key conflicts.
+
+#### Public API Additions
+
+- `Group::GroupAssignments(bool)`
+- `MPPSaveOptions::WriteGroups(bool)`
+- `MPPSaveOptions::ClearVba(bool)`
+
+#### 👉 Explore the release at [Aspose.Tasks for C++ 24.11 Release Notes](https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-11-release-notes/)
+
+---
+
+[`macOS macro strip MPP`](https://search.aspose.com/q/macOS-macro-strip-MPP.html) | [`macOS project group writer`](https://search.aspose.com/q/macOS-project-group-writer.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

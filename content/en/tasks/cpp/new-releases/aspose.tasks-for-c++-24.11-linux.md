@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.tasks-for-c++-24.11-linux"
-description: " "
+title: "Aspose.Tasks C++ 24.11 for Linux – MPP Group Export & Macro Cleanup"
+description: "Enhance project file control on Linux with macro stripping and group definition writing using Aspose.Tasks for C++ 24.11."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-24.11-linux/"
@@ -14,11 +13,9 @@ download_count: " 30/11/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 56.86MB"
 parent_path: "tasks/cpp"
 section_parent_path: "tasks/cpp"
-
 tags: "Aspose.Tasks C++ Linux"
 release_notes_url: "https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-11-release-notes/"
 weight: 241
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,48 @@ weight: 241
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 24.11 release for Linux</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.Tasks for C++ 24.11 (Linux) extends its project manipulation capabilities with support for writing task/resource group definitions to MPP and removing embedded VBA macros. Improved formatting consistency and exception handling enhance reliability for Linux-based project systems.
+
+#### New Features
+
+- **Remove VBA Code in MPP Files**:  
+  Strip embedded macro code using `MPPSaveOptions::ClearVba`.
+
+- **Support for Writing Task & Resource Groups**:  
+  Define group criteria with font styles, intervals, and inheritance, then export them via `MPPSaveOptions::WriteGroups`.
+
+#### Enhancements
+
+- Added ability to group assignments directly via `GroupAssignments` toggle.
+- Font and grouping consistency improved across Linux targets.
+
+#### Fixes
+
+- Fixed improper reading of group interval settings.
+- Baseline summary tasks now preserve their `TimephasedData`.
+- Handled duplicate key exceptions when opening certain MPPs.
+- Font saving issue resolved for new group text styles.
+
+#### Public API Additions
+
+- `Group::GroupAssignments` (getter/setter)
+- `MPPSaveOptions::WriteGroups` (getter/setter)
+- `MPPSaveOptions::ClearVba` (getter/setter)
+
+#### 👉 See all changes at [Aspose.Tasks for C++ 24.11 Release Notes](https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-11-release-notes/)
+
+---
+
+[`Linux remove VBA from MPP`](https://search.aspose.com/q/Linux-remove-VBA-from-MPP.html) | [`MPP export groups Linux`](https://search.aspose.com/q/MPP-export-groups-Linux.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

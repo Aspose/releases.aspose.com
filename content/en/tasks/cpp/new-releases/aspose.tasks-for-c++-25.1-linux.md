@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.tasks-for-c++-25.1-linux"
-description: " "
+title: "Aspose.Tasks C++ 25.1 Linux – Resource Tables, Gantt Fixes & MPP Alignment"
+description: "Create resource tables and correct baseline data, stop/resume, and actual dates from MPP in Aspose.Tasks for C++ 25.1 on Linux."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-25.1-linux/"
@@ -14,11 +13,9 @@ download_count: " 31/1/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 56.9MB"
 parent_path: "tasks/cpp"
 section_parent_path: "tasks/cpp"
-
 tags: "Aspose.Tasks C++ Linux"
 release_notes_url: "https://releases.aspose.com/tasks/cpp/release-notes/2025/aspose-tasks-for-cpp-25-1-release-notes/"
 weight: 249
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,33 @@ weight: 249
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 25.1 release for Linux</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Tasks for C++ 25.1 (Linux) empowers developers with the ability to define resource-level tables while enhancing MPP data integrity and chart accuracy across Linux-based project systems.
+
+#### Enhancement
+
+- **Add Resource Tables**:  
+  Create and configure resource-oriented tables for refined MPP visualizations and analytics.
+
+#### Fixes
+
+- Fixed assignment timing issues when ending with zero-work actual timephased items.
+- Resolved issues with incorrect ActualStart and ActualFinish extraction from MPP.
+- Eliminated NA values for task Finish dates during MS Project recalculations.
+- Corrected display issues with baseline timephased data.
+
+#### 👉 Review all updates at [Aspose.Tasks for C++ 25.1 Release Notes](https://releases.aspose.com/tasks/cpp/release-notes/2025/aspose-tasks-for-cpp-25-1-release-notes/)
+
+---
+
+[`MPP fix Linux`](https://search.aspose.com/q/MPP-fix-Linux.html) | [`resource table Linux`](https://search.aspose.com/q/resource-table-Linux.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

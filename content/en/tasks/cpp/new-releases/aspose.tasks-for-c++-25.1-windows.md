@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.tasks-for-c++-25.1-windows"
-description: " "
+title: "Aspose.Tasks C++ 25.1 for Windows – Resource Tables & Timephased Fixes"
+description: "Create resource tables and fix MPP recalculation, ActualStart, and baseline issues with Aspose.Tasks for C++ 25.1 for Windows."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-25.1-windows/"
@@ -14,11 +13,9 @@ download_count: " 31/1/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 199.53MB"
 parent_path: "tasks/cpp"
 section_parent_path: "tasks/cpp"
-
 tags: "Aspose.Tasks C++ Windows"
 release_notes_url: "https://releases.aspose.com/tasks/cpp/release-notes/2025/aspose-tasks-for-cpp-25-1-release-notes/"
 weight: 250
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,40 @@ weight: 250
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 25.1 release for Windows</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Tasks for C++ 25.1 (Windows) introduces the ability to programmatically define resource tables and resolves several issues with assignment calculations and baseline rendering, ensuring better compatibility with Microsoft Project.
+
+#### Enhancement
+
+- **Resource Tables Creation**:  
+  Developers can now define and manage tables specific to project resources, expanding custom reporting and layout capabilities.
+
+#### Fixes
+
+- **Incorrect Stop/Resume on ActualWork**:  
+  Fixed assignment timing when zero-work segments end ActualWork timephased data.
+
+- **ActualStart/Finish Reading**:  
+  Corrected extraction of `Asn.ActualStart` and `Asn.ActualFinish` from MPP format.
+
+- **Finish Date Recalculation**:  
+  Prevented task finish date from reverting to NA when recalculated in MS Project after saving with Aspose.Tasks.
+
+- **Baseline Timephased Display**:  
+  Restored accurate rendering of baseline timephased values in Gantt views.
+
+#### 👉 Full changelog: [Aspose.Tasks for C++ 25.1 Release Notes](https://releases.aspose.com/tasks/cpp/release-notes/2025/aspose-tasks-for-cpp-25-1-release-notes/)
+
+---
+
+[`resource table C++ Windows`](https://search.aspose.com/q/resource-table-C++-Windows.html) | [`baseline timephased fix`](https://search.aspose.com/q/baseline-timephased-fix.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

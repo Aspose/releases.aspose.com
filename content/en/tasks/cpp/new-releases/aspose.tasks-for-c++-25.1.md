@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.tasks-for-c++-25.1"
-description: " "
+title: "Aspose.Tasks C++ 25.1 – Cross-Platform MPP Date Fixes & Resource Tables"
+description: "Resource tables and accurate baseline/assignment data are now fully supported in Aspose.Tasks for C++ 25.1 across all platforms."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-25.1/"
@@ -14,11 +13,9 @@ download_count: " 31/1/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 275.39MB"
 parent_path: "tasks/cpp"
 section_parent_path: "tasks/cpp"
-
 tags: "Aspose.Tasks C++ Windows Linux MacOS"
 release_notes_url: "https://releases.aspose.com/tasks/cpp/release-notes/2025/aspose-tasks-for-cpp-25-1-release-notes/"
 weight: 251
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,33 @@ weight: 251
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 25.1 release for Windows, Linux and MacOS</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Tasks for C++ 25.1 (Bundled) delivers unified support for creating resource-level tables and fixes across timephased assignment data, MPP field integrity, and visual accuracy for baseline rendering—on Windows, Linux, and macOS.
+
+#### Enhancement
+
+- **Resource Table Support Added**:  
+  Programmatically define and save structured views for project resources.
+
+#### Fixes
+
+- Corrected Stop/Resume behavior with trailing zero-work actuals.
+- Fixed inaccuracies in reading ActualStart/Finish from MPP.
+- Solved recalculation issues where Finish dates turned to NA.
+- Enhanced baseline visuals for consistent project state representation.
+
+#### 👉 Complete release notes: [Aspose.Tasks for C++ 25.1 Release Notes](https://releases.aspose.com/tasks/cpp/release-notes/2025/aspose-tasks-for-cpp-25-1-release-notes/)
+
+---
+
+[`C++ MPP ActualFinish fix`](https://search.aspose.com/q/C++-MPP-ActualFinish-fix.html) | [`cross-platform resource tables`](https://search.aspose.com/q/cross-platform-resource-tables.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

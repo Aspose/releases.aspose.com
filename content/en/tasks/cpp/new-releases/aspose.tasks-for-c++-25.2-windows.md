@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.tasks-for-c++-25.2-windows"
-description: " "
+title: "Aspose.Tasks C++ 25.2 for Windows – Timephased & Baseline Fixes"
+description: "Fix MPP baseline and timephased cost data, and align task start with project defaults using Aspose.Tasks for C++ 25.2 on Windows."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-25.2-windows/"
@@ -14,11 +13,9 @@ download_count: " 28/2/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 200.12MB"
 parent_path: "tasks/cpp"
 section_parent_path: "tasks/cpp"
-
 tags: "Aspose.Tasks C++ Windows"
 release_notes_url: "https://releases.aspose.com/tasks/cpp/release-notes/2025/aspose-tasks-for-cpp-25-2-release-notes/"
 weight: 254
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,44 @@ weight: 254
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 25.2 Windows only binaries</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+#### Release Highlights
+
+Aspose.Tasks for C++ 25.2 (Windows) focuses on correcting critical inconsistencies in baseline work, cost, and timephased data when handling Microsoft Project (MPP) files. This release ensures smoother integration with MS Project by aligning behavior with expected rendering and calculation standards.
+
+#### Fixes
+
+- **Baseline Work Accuracy**:  
+  Resolved issues where assignment baseline work values were incorrect after setting a project’s baseline.
+
+- **Correct Timephased Start/Finish**:  
+  Fixed date misalignments in timephased data.
+
+- **Zero Cost Data Visibility**:  
+  Ensures baseline cost timephased values with zero amounts are now shown when the MPP file is opened in MS Project.
+
+- **Task Start Time Handling**:  
+  Adjusted task start to match `Prj.DefaultStartTime` when only date (without time) is set.
+
+- **Early Assignment Start Logic**:  
+  Proper generation of timephased data for assignments starting before defined working hours.
+
+- **Cost Timephased Rendering**:  
+  Fixed cost data display when MPP files are reviewed in MS Project.
+
+- **Baseline Cost Timephased Computation**:  
+  Improved calculations to reflect accurate baseline cost distribution.
+
+#### 👉 Full details: [Aspose.Tasks for C++ 25.2 Release Notes](https://releases.aspose.com/tasks/cpp/release-notes/2025/aspose-tasks-for-cpp-25-2-release-notes/)
+
+---
+
+[`baseline cost fix`](https://search.aspose.com/q/baseline-cost-fix.html) | [`timephased start adjustment`](https://search.aspose.com/q/timephased-start-adjustment.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

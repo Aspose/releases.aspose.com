@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.tasks-for-c++-24.10-windows"
-description: " "
+title: "Aspose.Tasks C++ 24.10 for Windows – Graphical Indicators API Added"
+description: "Read and write graphical indicators in MPP files and validate resource availability using Aspose.Tasks for C++ 24.10 on Windows."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-24.10-windows/"
@@ -14,11 +13,9 @@ download_count: " 31/10/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 198.8MB"
 parent_path: "tasks/cpp"
 section_parent_path: "tasks/cpp"
-
 tags: "Aspose.Tasks C++ Windows"
 release_notes_url: "https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-10-release-notes/"
 weight: 238
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,51 @@ weight: 238
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 24.10 binaries for Windows only</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.Tasks for C++ 24.10 (Windows) introduces full support for graphical indicators, enabling project developers on Windows to read, define, and modify visual cues in MPP files. Resource availability validation and extended scheduling fixes boost enterprise-grade accuracy.
+
+#### New Features
+
+- **Graphical Indicator Support**:  
+  Read, write, and define graphical indicators in `ExtendedAttributeDefinition`, enabling detailed visualization in project data.
+
+- **Enhanced Resource Validation**:  
+  Introduced `ResourceValidationException` to capture issues with resource availability.
+
+#### Fixes and Improvements
+
+- Corrected writing and validation of resource availability periods.
+- Fixed initialization of scheduling properties (`MinutesPerDay`, etc.) when reading XER v6.0.0.
+- Ensured correct propagation of `Duration.TimeUnit` in `TaskLinkCollection.Add`.
+
+#### Public API Additions
+
+- **New Classes**:
+  - `GraphicalIndicatorCriteria`
+  - `GraphicalIndicatorCriteriaValue`
+  - `GraphicalIndicatorsInfo`
+  - `ResourceValidationException`
+
+- **New Enumerations**:
+  - `GraphicalIndicatorCriteriaType`: `NonSummaryRows`, `SummaryRows`, `ProjectSummary`
+  - `FilterComparisonType`: `IsAnyValue`
+
+- **New Methods and Properties**:
+  - `ExtendedAttributeDefinition::get_GraphicalIndicator` / `set_GraphicalIndicator`
+  - `GraphicalIndicatorsInfo::get_Criteria`, `get_ShowDataValuesInTooltip`, and inheritance flags
+  - `GraphicalIndicatorCriteria` and `GraphicalIndicatorCriteriaValue` constructors for values, fields, and comparisons
+
+#### 👉 Full details available at [Aspose.Tasks for C++ 24.10 Release Notes](https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-10-release-notes/)
+
+---
+
+[`Windows graphical indicator C++`](https://search.aspose.com/q/Windows-graphical-indicator-C++.html) | [`MPP visual indicator API`](https://search.aspose.com)
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

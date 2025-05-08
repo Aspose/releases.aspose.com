@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.tasks-for-c++-24.10-macos"
-description: " "
+title: "Aspose.Tasks C++ 24.10 macOS – Graphical Indicators and Resource Fixes"
+description: "Add conditional graphics to project attributes and validate resource schedules using Aspose.Tasks for C++ 24.10 on macOS."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-24.10-macos/"
@@ -14,11 +13,9 @@ download_count: " 31/10/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 38.13MB"
 parent_path: "tasks/cpp"
 section_parent_path: "tasks/cpp"
-
 tags: "Aspose.Tasks C++ MacOS"
 release_notes_url: "https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-10-release-notes/"
 weight: 236
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,47 @@ weight: 236
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 24.10 binaries for MacOS only</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.Tasks for C++ 24.10 (macOS) enhances visual project clarity with support for graphical indicators tied to attribute logic. Developers on macOS can now model, validate, and export enriched project plans from MPP and XER sources.
+
+#### New Features
+
+- **Visual Indicators API on macOS**:  
+  Introduce logical comparisons and icon indicators for tasks using new classes and enums in the extended attribute API.
+
+- **Resource Validation and Scheduling**:  
+  Introduces exception reporting for invalid availability periods via `ResourceValidationException`.
+
+#### Fixes and Improvements
+
+- Fixed unit initializations in XER schedules.
+- Task link lag formats now align with input durations and time units.
+- Improved consistency in attribute-driven visuals across macOS targets.
+
+#### Public API Additions
+
+- **New Types**:
+  - `GraphicalIndicatorsInfo`, `GraphicalIndicatorCriteria`, `GraphicalIndicatorCriteriaValue`
+  - `ResourceValidationException`
+
+- **New Fields and Properties**:
+  - Indicator criteria list and row-type application
+  - Tooltip display and summary row inheritance flags
+  - Support for value-based and field-link-based conditions
+
+#### 👉 View the complete update at [Aspose.Tasks for C++ 24.10 Release Notes](https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-10-release-notes/)
+
+---
+
+[`macOS project visuals`](https://search.aspose.com/q/macOS-project-visuals.html) | [`macOS resource scheduling fix`](https://search.aspose.com/q/macOS-resource-scheduling-fix.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

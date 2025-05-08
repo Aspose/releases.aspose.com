@@ -1,7 +1,6 @@
 ---
-
-title: "Downloads ---New Releases-aspose.tasks-for-c++-24.12-windows"
-description: " "
+title: "Aspose.Tasks C++ 24.12 for Windows – Gantt Labels & Timescale Fixes"
+description: "Customize Gantt label fonts, fix timescale alignment, and correct XLSX export with Aspose.Tasks for C++ 24.12 on Windows."
 keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-24.12-windows/"
@@ -14,11 +13,9 @@ download_count: " 28/12/2024 Downloads: 1  Views: 1 "
 file_size: "File Size: 199.69MB"
 parent_path: "tasks/cpp"
 section_parent_path: "tasks/cpp"
-
 tags: "Aspose.Tasks C++ Windows"
 release_notes_url: "https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-12-release-notes/"
 weight: 246
-
 ---
 
 {{< Releases/ReleasesWapper >}}
@@ -44,6 +41,49 @@ weight: 246
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Tasks for C++ 24.12 release for Windows</div>
+{{% Releases/ReleasesFileFeatures %}}
+
+
+#### Release Highlights
+
+Aspose.Tasks for C++ 24.12 (Windows) enhances Gantt chart customization and cross-format rendering stability. Windows developers now gain precise control over label alignment and rendering consistency when exporting to PDF or XLSX.
+
+#### Enhancements
+
+- **Custom Gantt Label Fonts**:  
+  Font styling support added for Gantt task bar text labels.
+
+- **Timescale Alignment Honored**:  
+  Labels now respect `TimescaleTier.Alignment` settings during rendering.
+
+- **TIFF Export Stability**:  
+  Improved TIFF rendering setup for .NET 6 on Windows systems.
+
+#### Fixes
+
+- Corrected misalignment of timescale labels on multi-page spans.
+- Prevented an extra empty column insertion during XLSX export.
+- Gantt bars now maintain correct position and gridline styling.
+- Fixed formula evaluation involving `Baseline2 Start/Finish` fields.
+- Resolved issues with missing timescale labels at unaligned start points.
+
+#### Public API Changes
+
+- **New Property**:  
+  - `TimescaleTier::get_RenderLabelOnEachPage()` / `set_RenderLabelOnEachPage(bool)`
+
+- **Removed Property**:  
+  - `SaveOptions::get_LegendOnEachPage()` / `set_LegendOnEachPage(bool)`
+
+#### 👉 Full release details at [Aspose.Tasks for C++ 24.12 Release Notes](https://releases.aspose.com/tasks/cpp/release-notes/2024/aspose-tasks-for-cpp-24-12-release-notes/)
+
+---
+
+[`Windows Gantt label font`](https://search.aspose.com/q/Windows-Gantt-label-font.html) | [`C++ Timescale alignment`](https://search.aspose.com/q/C++-Timescale-alignment.html) | [`Windows XLSX export fix`](https://search.aspose.com/q/Windows-XLSX-export-fix.html)
+
+---
+
+{{% Releases/ReleasesFileFeatures %}}
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
