@@ -6,59 +6,6 @@ layout: packages
 type: repository
 categories:
   - fundamentals
-keywords:
-- Aspose Total
-- Aspose Email
-- Aspose Java API
-- email java library
-- email java class
-- MSG
-- PST
-- OST
-- OFT
-- OLM
-- EML
-- EMLX
-- MBOX
-- ICS
-- VCF
-- HTML
-- MHTML
-- mail
-- electronic mail
-- import email
-- export email
-- mail merge
-- email embedded object
-- email attachment
-- email calendar
-- email utility
-- mime
-- email mime
-- email parsing
-- pop3
-- email pop3
-- exchange
-- email exchange
-- imap
-- email imap
-- email validation
-- icalendar
-- protocols
-- email protocols
-- RFC822
-- bulk mail
-- email parsing
-- parse emails
-- APOP
-- RFC2195
-- RFC283
-- exchange server
-- RFC2831
-- RFC2595
-- email authentication
-- RFC2445
-- http
 family_listing_page_title: "Aspose.Email for Java"
 family_listing_page_description: "Aspose.Email for Java is a set of email processing APIs to create, manipulate or convert message formats such as MSG, EML & MHT from within Java applications. The API provides the ability to manipulate message contents, headers, attachments and Mapi properties as well as capability to send and receive messages via a number of popular protocols"
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java-min.png"
