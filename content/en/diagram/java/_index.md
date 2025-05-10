@@ -6,48 +6,6 @@ layout: packages
 type: repository
 categories:
   - fundamentals
-keywords:
-- Aspose Total
-- Aspose Diagram
-- Aspose Java API
-- diagram java library
-- diagram java class
-- Maven
-- visio to pdf
-- visio to html
-- visio to image
-- VSD to VDX
-- VSD to VTX
-- VSD to XPS
-- diagram to SVG
-- diagram to XAML
-- shape
-- page
-- VSDX
-- VDX
-- VSD
-- VSX
-- VTX
-- VSSX
-- VSTX
-- VSDM
-- VSSM
-- VSTM
-- VDW
-- VSS
-- VST
-- PDF
-- XPS
-- XAML
-- SVG
-- EMF
-- JPEG
-- PNG
-- BMP
-- TIFF
-- HTML
-- Linux
-- Unix
 family_listing_page_title: "Aspose.Diagram for Java"
 family_listing_page_description: "Aspose.Diagram for Java is an easy-to-use, high-performance and well-documented Java API that allows developers to create, manipulate & convert native Visio file formats from within their Java applications, and without the need to rely on Microsoft Visio®."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-java-min.png"
