@@ -6,38 +6,6 @@ layout: packages
 type: repository
 categories:
   - fundamentals
-keywords:
-- Aspose Total
-- Aspose Tasks
-- Aspose Java API
-- task java library
-- task java class
-- Maven
-- MPP
-- XML
-- MPT
-- XER
-- P6XML
-- MPX
-- XLSX
-- HTML
-- TXT
-- TIFF
-- SVG
-- PNG
-- JPEG
-- Windows
-- Linux
-- Mac
-- J2SE
-- formula
-- calendar
-- task
-- task scheduling
-- assignment
-- task cost
-- project cost
-- project scheduling
 family_listing_page_title: "Aspose.Tasks for Java"
 family_listing_page_description: "Aspose.Tasks for Java offers project management APIs that enables Java application developers to provide Microsoft Project ® documents manipulation capability in their applications - all without using Microsoft Project ®."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-java-min.png"
