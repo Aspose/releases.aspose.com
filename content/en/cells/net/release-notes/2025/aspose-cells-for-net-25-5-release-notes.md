@@ -82,71 +82,35 @@ This page contains release notes for [Aspose.Cells for .NET 25.5](https://www.nu
 
 The following is a list of any changes made to the public API such as added, renamed, removed or deprecated members as well as any non-backward compatible change made to Aspose.Cells for .NET. If you have concerns about any change listed, please raise it on the Aspose.Cells support forum.
 
-### **Changes the behavior of shifting shapes when deleting blank rows.**
+### **Adds Cells.GetFirstDataRow(Int32) method.**
 
-In old versions, when deleting blank rows above shapes, the shapes were not shifted upward. Starting from 25.4, we shift those shapes upward accordingly when blank rows above them are deleted.
+Gets the first data row in the column.
 
-### **Adds property HasCustomFunction for Cell and Workbook.**
+### **Adds PictureCollection.Camera(Int32,Int32,String) method.**
 
-Checks whether there is custom function used by the cell and workbook.
+Takes a photo of the range.
 
-### **Adds Aspose.Cells.LowCode namespace and apis under it.**
+### **Adds ListColumn.IsArrayFormula property.**
 
-Provides a set of simple and easy-to-use apis for the most frequently used operations in a low code way.
+Indicates whether the formula of list column is an array formula.
 
-### **Adds SvgImageOptions class that inherits from ImageOrPrintOptions class.**
+### **Adds Range.Clear(), Range.ClearContents(), Range.ClearFormats(),Range.ClearComments() and Range.ClearHyperlinks(Boolean) method.**
 
-Options for generating Svg image.
+Clear data of the range.
 
-### **Adds SvgEmbeddedFontType enum.**
+### **Adds PaginatedSaveOptions.GridlineColor property.**
 
-Represents the embedded font type in Svg image.
+Gets or sets gridline color while rendering, it will ignore the gridline color settings in the source file.
 
-### **Obsoletes ImageOrPrintOptions.EmbededImageNameInSvg property.**
+### **Adds MarkdownSaveOptions.ImageOptions property.**
 
-Images are always embedded in Svg with base64 format, please remove this property.
+Get the ImageOrPrintOptions object before exporting.
 
-### **Obsoletes ImageOrPrintOptions.SVGFitToViewPort property.**
+### **Adds MarkdownSaveOptions.ExportImagesAsBase64property.**
 
-Please use SvgImageOptions.FitToViewPort property instead.
+Specifies whether images are saved in Base64 format to Markdown.
 
-### **Obsoletes ImageOrPrintOptions.SvgCssPrefix property.**
+### **Adds MarkdownSaveOptions.StreamProvider property.**
 
-Please use SvgImageOptions.CssPrefix property instead.
-
-### **Adds SensitivityLabel and SensitivityLabelCollection classes.**
-
-Gets and sets the sensitivity label.
-
-### **Adds PowerQueryFormulaCollection.RemoveBy(String) method.**
-
-Remove power query formulas by the name.
-
-### **Adds WorksheetCollection.SensitivityLabels property.**
-
-Gets all sensitivity labels.
-
-### **Adds Worksheet.GridlineColor property.**
-
-Gets and sets the color of gridline in the worksheet.
-
-### **Adds Worksheet.GetSelectedAreas() and Obsoleted Worksheet.GetSelectedRanges() method.**
-
-Use Worksheet.GetSelectedAreas() instead.
-
-### **Adds DocxSaveOptions.SaveAsEditableShaps property.**
-
-Indicates whether saving editable shapes to docx file. Only supports chart now.
-
-### **Adds DocxSaveOptions.SaveAsEditableShaps property.**
-
-Indicates whether saving editable shapes to docx file. Only supports chart now.
-
-### **Adds LoadFormat.Markdown enum.**
-
-Represents a Markdown file.
-
-### **Adds HtmlSaveOptions.SheetSet property.**
-
-Gets or sets the sheets to render.
+Gets or sets the IStreamProvider for exporting objects.
 
