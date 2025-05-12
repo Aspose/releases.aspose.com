@@ -76,6 +76,7 @@ This page contains release notes for [Aspose.Cells for .NET 25.5](https://www.nu
 |CELLSGRIDJS-1634|Date picker was not displayed in date formatted cells|Bug
 |CELLSNET-58235|NullReferenceException when calculating user provided template files|Exception
 |CELLSNET-58219|NullReferenceException caused by Cell.GetValidationValue()|Exception
+|CELLSNET-58376|Excel Table Missing Column in HTML output|Bug
 
 ## **Public API and Backwards Incompatible Changes**
 
