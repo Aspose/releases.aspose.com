@@ -106,7 +106,7 @@ Gets or sets gridline color while rendering, it will ignore the gridline color s
 
 Get the ImageOrPrintOptions object before exporting.
 
-### **Adds MarkdownSaveOptions.ExportImagesAsBase64property.**
+### **Adds MarkdownSaveOptions.ExportImagesAsBase64 property.**
 
 Specifies whether images are saved in Base64 format to Markdown.
 
