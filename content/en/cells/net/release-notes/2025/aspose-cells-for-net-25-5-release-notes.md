@@ -94,17 +94,21 @@ Takes a photo of the range.
 
 Indicates whether the formula of list column is an array formula.
 
-### **Adds Range.Clear(), Range.ClearContents(), Range.ClearFormats(),Range.ClearComments() and Range.ClearHyperlinks(Boolean) method.**
+### **Adds Range.Clear(), Range.ClearContents(), Range.ClearFormats(),Range.ClearComments() and Range.ClearHyperlinks(Boolean) methods.**
 
-Clear data of the range.
+Clears data of the range.
 
 ### **Adds PaginatedSaveOptions.GridlineColor property.**
 
 Gets or sets gridline color while rendering, it will ignore the gridline color settings in the source file.
 
+### **Adds ImageOrPrintOptions.GridlineColor property.**
+
+Gets or sets gridline color while rendering, it will ignore the gridline color settings in the source file.
+
 ### **Adds MarkdownSaveOptions.ImageOptions property.**
 
-Get the ImageOrPrintOptions object before exporting.
+Gets the ImageOrPrintOptions object before exporting.
 
 ### **Adds MarkdownSaveOptions.ExportImagesAsBase64 property.**
 
