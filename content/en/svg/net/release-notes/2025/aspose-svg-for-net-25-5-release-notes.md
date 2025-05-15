@@ -97,7 +97,7 @@ The following groups have been **fully removed**. If you used any of these types
 
 ---
 
-These changes continue our long-term roadmap of simplifying Aspose.SVG, improving performance, and paving the way for GPU-accelerated rendering later this year.  
+These changes continue our long-term roadmap of simplifying Aspose.SVG, improving performance.
 For detailed examples, please refer to the updated online documentation, or contact Aspose support if you need assistance upgrading existing projects.
 
 
