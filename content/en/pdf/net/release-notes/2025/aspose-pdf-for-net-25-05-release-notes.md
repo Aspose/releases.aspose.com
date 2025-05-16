@@ -56,7 +56,7 @@ private static void ExtractCertificate()
 }
 ```
 
-Functionality to create ordered lists has been added. The intent of this technique is to create lists of related items using list elements appropriate for their purposes. PDF files containing lists are normally created or repaired using a tool for authoring PDF. When markup is used that visually formats items as a list but does not indicate the list relationship, users may have difficulty navigating the information.
+Functionality to create ordered lists has been added. This technique creates lists of related items using list elements appropriate for their purposes. PDF files containing lists are normally created or repaired using a tool for authoring PDF. When markup is used to visually format items as a list but does not indicate the list relationship, users may have difficulty navigating the information.
 
 The PDF specification defines list structure in section 14.8.4.3.3 (List Elements). The structure types for lists in PDF documents are:
 * L - the List tag, which contains one or more LI tags.
@@ -229,7 +229,7 @@ private static bool VerifyWithPublicKeyCertificate1(X509Certificate2 certificate
 }
 ```
 
-In some cases (e.g in case of static XFA form), conversion to AcroForm may suffer from disabled `NeedsRendering` flag that signals that form isn't dynamically rendered. To convert such forms and remove XFA form it's recommended to use `IgnoreNeedsRendering` property to count document as dynamically rendered and to calculate element conversion properly. This enhancement is logged as PDFNET-59659 in our issue tracker.
+In some cases (e.g, in the case of a static XFA form), conversion to AcroForm may suffer from the disabled `NeedsRendering` flag that signals that the form isn't dynamically rendered. To convert such forms and remove the XFA form, it's recommended to use the `IgnoreNeedsRendering` property to count the document as dynamically rendered and to calculate element conversion properly. This enhancement is logged as PDFNET-59659 in our issue tracker.
 
 ```csharp
 
@@ -257,7 +257,7 @@ private static void ConvertXFAFormWithIgnoreNeedsRendering()
 }
 ```
 
-Sometimes when converting PDF to XPS, you may find that the fonts embedded in the PDF are not in a format suitable for XPS. At the same time, if a font with such a name is not found in the system, this leads to corrupted text. While we can't fix an embedded font during conversion without access to the original font file, we can replace it. Also, avoiding the use of embedded TrueType fonts can reduce conversion time. This enhancement is logged as PDFNET-59784 in our issue tracker.
+When converting PDF to XPS, you may find that the fonts embedded in the PDF are not in a format suitable for XPS. At the same time, if a font with such a name is not found in the system, this leads to corrupted text. While we can't fix an embedded font during conversion without access to the original font file, we can replace it. Also, avoiding the use of embedded TrueType fonts can reduce conversion time. This enhancement is logged as PDFNET-59784 in our issue tracker.
 The following code demonstrates the use of the new options.
 
 ```csharp
