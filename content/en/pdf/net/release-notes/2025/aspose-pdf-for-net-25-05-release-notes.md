@@ -29,31 +29,31 @@ Ability to get System.Security.Cryptography.X509Certificates.X509Certificate2 ha
 
 ```csharp
 
-// For complete examples and data files, visit https://github.com/aspose-pdf/Aspose.PDF-for-.NET
-private static void ExtractCertificate()
-{
-    // The path to the documents directory
-    var dataDir = RunExamples.GetDataDir_AsposePdf_SecuritySignatures();
-
-    // Open PDF document
-    using (var document = new Aspose.Pdf.Document(dataDir + "ExtractSignatureInfo.pdf"))
+    // For complete examples and data files, visit https://github.com/aspose-pdf/Aspose.PDF-for-.NET
+    private static void ExtractCertificate()
     {
-        using (var signature = new Aspose.Pdf.Facades.PdfFileSignature(document))
+        // The path to the documents directory
+        var dataDir = RunExamples.GetDataDir_AsposePdf_SecuritySignatures();
+
+        // Open PDF document
+        using (var document = new Aspose.Pdf.Document(dataDir + "ExtractSignatureInfo.pdf"))
         {
-            // Get signature names
-            var signatureNames = signature.GetSignatureNames();
-            foreach (var signatureName in signatureNames)
+            using (var signature = new Aspose.Pdf.Facades.PdfFileSignature(document))
             {
-                // Extract certificate
-                X509Certificate2 certificate;
-                if (signature.TryExtractCertificate(signatureName, out certificate))
+                // Get signature names
+                var signatureNames = signature.GetSignatureNames();
+                foreach (var signatureName in signatureNames)
                 {
-                    Console.WriteLine(certificate.SerialNumber);
+                    // Extract certificate
+                    X509Certificate2 certificate;
+                    if (signature.TryExtractCertificate(signatureName, out certificate))
+                    {
+                        Console.WriteLine(certificate.SerialNumber);
+                    }
                 }
             }
         }
     }
-}
 ```
 
 Functionality to create ordered lists has been added. This technique creates lists of related items using list elements appropriate for their purposes. PDF files containing lists are normally created or repaired using a tool for authoring PDF. When markup is used to visually format items as a list but does not indicate the list relationship, users may have difficulty navigating the information.
@@ -69,192 +69,192 @@ The provided code snippet demonstrates the creation of nested list.
 
 ```csharp
 
-// For complete examples and data files, visit https://github.com/aspose-pdf/Aspose.PDF-for-.NET
-private static void CreateOrderedList()
-{
-    // The path to the documents directory
-    var dataDir = RunExamples.GetDataDir_AsposePdf_WorkingDocuments();
-
-    // Create or open PDF document
-    using (var document = new Document())
+    // For complete examples and data files, visit https://github.com/aspose-pdf/Aspose.PDF-for-.NET
+    private static void CreateOrderedList()
     {
-        ITaggedContent content = document.TaggedContent;
-        StructureElement rootElement = content.RootElement;
+        // The path to the documents directory
+        var dataDir = RunExamples.GetDataDir_AsposePdf_WorkingDocuments();
 
-        content.SetLanguage("en-US");
-
-        ListElement rootList = content.CreateListElement();
-
-        SpanElement spanForLbl_1 = content.CreateSpanElement();
-        spanForLbl_1.SetText("1. ");
-        spanForLbl_1.AdjustPosition(new PositionSettings
+        // Create or open PDF document
+        using (var document = new Document())
         {
-            IsInLineParagraph = true
-        });
-        SpanElement spanForBody_1 = content.CreateSpanElement();
-        spanForBody_1.SetText("bread");
-        spanForBody_1.AdjustPosition(new PositionSettings
-        {
-            IsInLineParagraph = true
-        });
+            ITaggedContent content = document.TaggedContent;
+            StructureElement rootElement = content.RootElement;
 
-        ListLblElement lbl_1 = content.CreateListLblElement();
-        lbl_1.AppendChild(spanForLbl_1);
-        ListLBodyElement lBody_1 = content.CreateListLBodyElement();
-        lBody_1.AppendChild(spanForBody_1);
+            content.SetLanguage("en-US");
 
-        ListLIElement li_1 = content.CreateListLIElement();
-        li_1.AppendChild(lbl_1);
-        li_1.AppendChild(lBody_1);
-        rootList.AppendChild(li_1);
+            ListElement rootList = content.CreateListElement();
 
-        SpanElement spanForLbl_2 = content.CreateSpanElement();
-        spanForLbl_2.SetText("2. ");
-        SpanElement spanForBody_2 = content.CreateSpanElement();
-        spanForBody_2.SetText("milk");
-        spanForBody_2.AdjustPosition(new PositionSettings
-        {
-            IsInLineParagraph = true,
-        });
-
-        ListLblElement lbl_2 = content.CreateListLblElement();
-        lbl_2.AppendChild(spanForLbl_2);
-        ListLBodyElement lBody_2 = content.CreateListLBodyElement();
-        lBody_2.AppendChild(spanForBody_2);
-
-        ListLIElement li_2 = content.CreateListLIElement();
-        li_2.AppendChild(lbl_2);
-        li_2.AppendChild(lBody_2);
-        rootList.AppendChild(li_2);
-
-        ListElement nestedListDepth1 = content.CreateListElement();
-        SpanElement spanForLbl_3_1 = content.CreateSpanElement();
-        spanForLbl_3_1.SetText("3.1. ");
-        spanForLbl_3_1.AdjustPosition(new PositionSettings
-        {
-            IsInLineParagraph = false,
-            Margin = new MarginInfo
+            SpanElement spanForLbl_1 = content.CreateSpanElement();
+            spanForLbl_1.SetText("1. ");
+            spanForLbl_1.AdjustPosition(new PositionSettings
             {
-                Left = 50
-            }
-        });
-        SpanElement spanForBody_3_1 = content.CreateSpanElement();
-        spanForBody_3_1.SetText("apples");
-        spanForBody_3_1.AdjustPosition(new PositionSettings
-        {
-            IsInLineParagraph = true,
-        });
-
-        ListLblElement lbl_3_1 = content.CreateListLblElement();
-        lbl_3_1.AppendChild(spanForLbl_3_1);
-        ListLBodyElement lBody_3_1 = content.CreateListLBodyElement();
-        lBody_3_1.AppendChild(spanForBody_3_1);
-
-        ListLIElement li_3_1 = content.CreateListLIElement();
-        li_3_1.AppendChild(lbl_3_1);
-        li_3_1.AppendChild(lBody_3_1);
-        nestedListDepth1.AppendChild(li_3_1);
-
-        SpanElement spanForLbl_3_2 = content.CreateSpanElement();
-        spanForLbl_3_2.SetText("3.2. ");
-        spanForLbl_3_2.AdjustPosition(new PositionSettings
-        {
-            IsInLineParagraph = false,
-            Margin = new MarginInfo
+                IsInLineParagraph = true
+            });
+            SpanElement spanForBody_1 = content.CreateSpanElement();
+            spanForBody_1.SetText("bread");
+            spanForBody_1.AdjustPosition(new PositionSettings
             {
-                Left = 50
-            }
-        });
-        SpanElement spanForBody_3_2 = content.CreateSpanElement();
-        spanForBody_3_2.SetText("banana");
-        spanForBody_3_2.AdjustPosition(new PositionSettings
-        {
-            IsInLineParagraph = true,
-        });
+                IsInLineParagraph = true
+            });
 
-        ListLblElement lbl_3_2 = content.CreateListLblElement();
-        lbl_3_2.AppendChild(spanForLbl_3_2);
-        ListLBodyElement lBody_3_2 = content.CreateListLBodyElement();
-        lBody_3_2.AppendChild(spanForBody_3_2);
+            ListLblElement lbl_1 = content.CreateListLblElement();
+            lbl_1.AppendChild(spanForLbl_1);    
+            ListLBodyElement lBody_1 = content.CreateListLBodyElement();
+            lBody_1.AppendChild(spanForBody_1);
 
-        ListLIElement li_3_2 = content.CreateListLIElement();
-        li_3_2.AppendChild(lbl_3_2);
-        li_3_2.AppendChild(lBody_3_2);
-        nestedListDepth1.AppendChild(li_3_2);
+            ListLIElement li_1 = content.CreateListLIElement();
+            li_1.AppendChild(lbl_1);
+            li_1.AppendChild(lBody_1);
+            rootList.AppendChild(li_1);
 
-        SpanElement spanForLbl_3 = content.CreateSpanElement();
-        spanForLbl_3.SetText("3. ");
-        SpanElement spanForBody_3 = content.CreateSpanElement();
-        spanForBody_3.SetText("fruits");
-        spanForBody_3.AdjustPosition(new PositionSettings
-        {
-            IsInLineParagraph = true
-        });
+            SpanElement spanForLbl_2 = content.CreateSpanElement();
+            spanForLbl_2.SetText("2. ");
+            SpanElement spanForBody_2 = content.CreateSpanElement();
+            spanForBody_2.SetText("milk");
+            spanForBody_2.AdjustPosition(new PositionSettings
+            {
+                IsInLineParagraph = true,
+            });
 
-        ListLblElement lbl_3 = content.CreateListLblElement();
-        lbl_3.AppendChild(spanForLbl_3);
-        ListLBodyElement lBody_3 = content.CreateListLBodyElement();
-        lBody_3.AppendChild(spanForBody_3);
+            ListLblElement lbl_2 = content.CreateListLblElement();
+            lbl_2.AppendChild(spanForLbl_2);
+            ListLBodyElement lBody_2 = content.CreateListLBodyElement();
+            lBody_2.AppendChild(spanForBody_2);
 
-        ListLIElement li_3 = content.CreateListLIElement();
-        li_3.AppendChild(lbl_3);
-        li_3.AppendChild(lBody_3);
-        lBody_3.AppendChild(nestedListDepth1);
-        rootList.AppendChild(li_3);
+            ListLIElement li_2 = content.CreateListLIElement();
+            li_2.AppendChild(lbl_2);
+            li_2.AppendChild(lBody_2);
+            rootList.AppendChild(li_2);
 
-        rootElement.AppendChild(rootList);
+            ListElement nestedListDepth1 = content.CreateListElement();
+            SpanElement spanForLbl_3_1 = content.CreateSpanElement();
+            spanForLbl_3_1.SetText("3.1. ");
+            spanForLbl_3_1.AdjustPosition(new PositionSettings
+            {
+                IsInLineParagraph = false,
+                Margin = new MarginInfo
+                {
+                    Left = 50
+                }
+            });
+            SpanElement spanForBody_3_1 = content.CreateSpanElement();
+            spanForBody_3_1.SetText("apples");
+            spanForBody_3_1.AdjustPosition(new PositionSettings
+            {
+                IsInLineParagraph = true,
+            });
 
-        // Save Tagged PDF Document
-        document.Save(dataDir + "OrderedList_out.pdf");
+            ListLblElement lbl_3_1 = content.CreateListLblElement();
+            lbl_3_1.AppendChild(spanForLbl_3_1);
+            ListLBodyElement lBody_3_1 = content.CreateListLBodyElement();
+            lBody_3_1.AppendChild(spanForBody_3_1);
+
+            ListLIElement li_3_1 = content.CreateListLIElement();
+            li_3_1.AppendChild(lbl_3_1);
+            li_3_1.AppendChild(lBody_3_1);
+            nestedListDepth1.AppendChild(li_3_1);
+
+            SpanElement spanForLbl_3_2 = content.CreateSpanElement();
+            spanForLbl_3_2.SetText("3.2. ");
+            spanForLbl_3_2.AdjustPosition(new PositionSettings
+            {
+                IsInLineParagraph = false,
+                Margin = new MarginInfo
+                {
+                    Left = 50
+                }
+            });
+            SpanElement spanForBody_3_2 = content.CreateSpanElement();
+            spanForBody_3_2.SetText("banana");
+            spanForBody_3_2.AdjustPosition(new PositionSettings
+            {
+                IsInLineParagraph = true,
+            });
+
+            ListLblElement lbl_3_2 = content.CreateListLblElement();
+            lbl_3_2.AppendChild(spanForLbl_3_2);
+            ListLBodyElement lBody_3_2 = content.CreateListLBodyElement();
+            lBody_3_2.AppendChild(spanForBody_3_2);
+
+            ListLIElement li_3_2 = content.CreateListLIElement();
+            li_3_2.AppendChild(lbl_3_2);
+            li_3_2.AppendChild(lBody_3_2);
+            nestedListDepth1.AppendChild(li_3_2);
+
+            SpanElement spanForLbl_3 = content.CreateSpanElement();
+            spanForLbl_3.SetText("3. ");
+            SpanElement spanForBody_3 = content.CreateSpanElement();
+            spanForBody_3.SetText("fruits");
+            spanForBody_3.AdjustPosition(new PositionSettings
+            {
+                IsInLineParagraph = true
+            });
+
+            ListLblElement lbl_3 = content.CreateListLblElement();
+            lbl_3.AppendChild(spanForLbl_3);
+            ListLBodyElement lBody_3 = content.CreateListLBodyElement();
+            lBody_3.AppendChild(spanForBody_3);
+
+            ListLIElement li_3 = content.CreateListLIElement();
+            li_3.AppendChild(lbl_3);
+            li_3.AppendChild(lBody_3);
+            lBody_3.AppendChild(nestedListDepth1);
+            rootList.AppendChild(li_3);
+
+            rootElement.AppendChild(rootList);
+
+            // Save Tagged PDF Document
+            document.Save(dataDir + "OrderedList_out.pdf");
+        }
     }
-}
 ```
 
 Starting from version 25.5, you can use an external certificate containing the public key that corresponds to the private key used to sign the document to verify the signature. This was made at the User's request for ID PDFNET-38869.
 
 ```csharp
 
-// For complete examples and data files, visit https://github.com/aspose-pdf/Aspose.PDF-for-.NET
-private static bool VerifyWithPublicKeyCertificate1(X509Certificate2 certificate, string inputPdfFilePath)
-{
-    // Create an instance of PdfFileSignature for working with signatures in the document
-    using (var fileSign = new Aspose.Pdf.Facades.PdfFileSignature(inputPdfFilePath))
+    // For complete examples and data files, visit https://github.com/aspose-pdf/Aspose.PDF-for-.NET
+    private static bool VerifyWithPublicKeyCertificate1(X509Certificate2 certificate, string inputPdfFilePath)
     {
-        // Get a list of signatures
-        IList<Aspose.Pdf.Facades.SignatureName> signatureNames = fileSign.GetSignatureNames();
+        // Create an instance of PdfFileSignature for working with signatures in the document
+        using (var fileSign = new Aspose.Pdf.Facades.PdfFileSignature(inputPdfFilePath))
+        {
+            // Get a list of signatures
+            IList<Aspose.Pdf.Facades.SignatureName> signatureNames = fileSign.GetSignatureNames();
         
-        // Verify the signature with the given name.
-        return fileSign.VerifySignature(signatureNames[0], certificate);
+            // Verify the signature with the given name.
+            return fileSign.VerifySignature(signatureNames[0], certificate);
+        }
     }
-}
 ```
 
 In some cases (e.g, in the case of a static XFA form), conversion to AcroForm may suffer from the disabled `NeedsRendering` flag that signals that the form isn't dynamically rendered. To convert such forms and remove the XFA form, it's recommended to use the `IgnoreNeedsRendering` property to count the document as dynamically rendered and to calculate element conversion properly. This enhancement is logged as PDFNET-59659 in our issue tracker.
 
 ```csharp
 
-// For complete examples and data files, please go to https://github.com/aspose-pdf/Aspose.PDF-for-.NET
-private static void ConvertXFAFormWithIgnoreNeedsRendering()
-{
-    // The path to the documents directory.
-    string dataDir = RunExamples.GetDataDir_AsposePdf_Forms();
-
-    // Load dynamic XFA form
-    using (var document = new Aspose.Pdf.Document(dataDir + "DynamicXFAToAcroForm.pdf")) 
+    // For complete examples and data files, please go to https://github.com/aspose-pdf/Aspose.PDF-for-.NET
+    private static void ConvertXFAFormWithIgnoreNeedsRendering()
     {
-        //check if XFA is present & if rendering should be overwritten
-        if (!doc.Form.NeedsRendering && doc.Form.HasXfa)
+        // The path to the documents directory.
+        string dataDir = RunExamples.GetDataDir_AsposePdf_Forms();
+
+        // Load dynamic XFA form
+        using (var document = new Aspose.Pdf.Document(dataDir + "DynamicXFAToAcroForm.pdf")) 
         {
-            doc.Form.IgnoreNeedsRendering = true;
+            //check if XFA is present & if rendering should be overwritten
+            if (!doc.Form.NeedsRendering && doc.Form.HasXfa)
+            {
+                doc.Form.IgnoreNeedsRendering = true;
+            }
+
+            // Set the form fields type as standard AcroForm
+            document.Form.Type = Aspose.Pdf.Forms.FormType.Standard;
+
+            // Save the resultant PDF
+            document.Save(dataDir + "Standard_AcroForm_out.pdf");
         }
-
-        // Set the form fields type as standard AcroForm
-        document.Form.Type = Aspose.Pdf.Forms.FormType.Standard;
-
-        // Save the resultant PDF
-        document.Save(dataDir + "Standard_AcroForm_out.pdf");
     }
-}
 ```
 
 When converting PDF to XPS, you may find that the fonts embedded in the PDF are not in a format suitable for XPS. At the same time, if a font with such a name is not found in the system, this leads to corrupted text. While we can't fix an embedded font during conversion without access to the original font file, we can replace it. Also, avoiding the use of embedded TrueType fonts can reduce conversion time. This enhancement is logged as PDFNET-59784 in our issue tracker.
@@ -262,17 +262,17 @@ The following code demonstrates the use of the new options.
 
 ```csharp
 
-// Create XpsSaveOptions instance
-XpsSaveOptions xpsSaveOptions = new XpsSaveOptions();
-// UseEmbeddedTrueTypeFonts option specifies whether to use embedded TrueType fonts
-xpsSaveOptions.UseEmbeddedTrueTypeFonts = false;
-// The specified default font will be used if the embedded font name cannot be found in the system
-xpsSaveOptions.DefaultFont = "Courier New";
+    // Create XpsSaveOptions instance
+    XpsSaveOptions xpsSaveOptions = new XpsSaveOptions();
+    // UseEmbeddedTrueTypeFonts option specifies whether to use embedded TrueType fonts
+    xpsSaveOptions.UseEmbeddedTrueTypeFonts = false;
+    // The specified default font will be used if the embedded font name cannot be found in the system
+    xpsSaveOptions.DefaultFont = "Courier New";
 
-// Open PDF document
-Document doc = new Document(inputPath);
-// Save the resultant XPS
-doc.Save(outPath, xpsSaveOptions);
+    // Open PDF document
+    Document doc = new Document(inputPath);
+    // Save the resultant XPS
+    doc.Save(outPath, xpsSaveOptions);
 ```
 
 **Other notable enhancements**
