@@ -7,49 +7,6 @@ type: repository
 categories:
   - fundamentals
 weight:  1
-keywords:
-- Aspose Total
-- Aspose PSD
-- Aspose Java API
-- psd java library
-- psd java package
-- psd java class
-- PSD
-- PSB
-- TIFF
-- JPEG
-- PNG
-- GIF
-- BMP
-- JPEG2000
-- PDF
-- AI
-- convert format
-- image loading
-- photoshop
-- raw data processing
-- image compression
-- psd compression
-- image rotation
-- flip image
-- image scale
-- exif data
-- dithering
-- crop
-- vector to raster
-- matrix transformation
-- adjustment layer
-- linked layer
-- text layer
-- smart object
-- smart filter
-- shape layer
-- fill layer
-- Maven
-- Windows
-- Linux
-- Mac
-- JDK
 family_listing_page_title: "Aspose.PSD for Java"
 family_listing_page_description: "Aspose.PSD for Java provides extensive manipulation capabilities for PSD & PSB file formats without requiring Adobe Photoshop. Aspose.PSD for Java allows to edit and create the Photoshop files as well as provides the ability to update layer properties, add watermarks, perform graphics operations or convert PSD and PSB files to Jpeg, Png, Gif, Tiff, Pdf, Bmp, Jpeg2000."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/psd/272x272/aspose_psd-for-java.png"
@@ -90,19 +47,19 @@ packages_refs:
 - "23-7"
 - "23-6"
 - "23-4"
+- "21-7"
+- "21-6"
+- "21-5"
+- "20-9"
+- "20-8"
+- "20-7"
+- "20-6"
+- "20-5"
+- "20-4"
+- "20-3"
+- "20-2"
 - "19-12"
 - "19-4"
-- "20-2"
-- "20-3"
-- "20-4"
-- "20-5"
-- "20-6"
-- "20-7"
-- "20-8"
-- "20-9"
-- "21-5"
-- "21-6"
-- "21-7"
 ---
 
 # Java Library for Photoshop Files

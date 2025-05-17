@@ -6,32 +6,6 @@ layout: packages
 type: repository
 categories:
   - fundamentals
-keywords:
-- Aspose Total
-- Aspose ZIP
-- Aspose Java API
-- zip java library
-- zip java class
-- Maven
-- Archive
-- Decompression
-- ZIP
-- BZ2
-- BZIP2
-- GZIP
-- LZMA
-- LZMA2
-- 7z
-- 7-ZIP
-- AES
-- AES-128
-- AES-192
-- AES-256
-- decrypt
-- Windows
-- Linux
-- Mac
-- J2SE
 family_listing_page_title: "Aspose.ZIP for Java"
 family_listing_page_description: "Aspose.ZIP for Java is a flexible and easy to use Java API that lets you work with files compression in standard zip format. It saves you time and efforts by allowing you to achieve compression/decompression of files and folders without going into the underlying complexity of the compress file formats."
 family_listing_page_iconurl: "https://releases.aspose.com/images/aspose/aspose_zip-for-java.svg"
@@ -41,7 +15,6 @@ family_listing_page_venture: "4"
 family_listing_page_package: "103"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-zip/"
-tags: ["Aspose Total", "Aspose ZIP", "Aspose Java API", "zip java library", "zip java class", "Maven", "Archive", "Decompression", "ZIP", "BZ2", "BZIP2", "GZIP", "LZMA", "LZMA2", "7z", "7-ZIP", "AES", "AES-128", "AES-192", "AES-256", "decrypt", "Windows", "Linux", "Mac", "J2SE"]
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/zip
 productLink: https://products.aspose.com/zip/java/

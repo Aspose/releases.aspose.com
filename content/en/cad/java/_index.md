@@ -6,7 +6,6 @@ layout: packages
 type: repository
 categories:
   - fundamentals
-keywords: ["Aspose CAD", "Aspose Java API", "cad java library", "cad java class", "DWG", "DXF", "DXB", "DWT", "DGN", "IFC", "IGES", "STL", "DWT", "PLT", "DWF", "DWFx", "DAE", "CF2", "OBJ", "3DS", "U3D", DXB, Collada, STP, "PDF", "TIFF", "JPEG", "PNG", "GIF", "BMP", "PSD", "Maven", "Windows", "Linux", "Mac", "J2SE", "drawing", "cad drawing", "raster image", "export 3D", "cad layout", "mesh model", "ATTRIB", "MTEXT", "3D solids", "conic", "sphere", "torus", "cylinder", "box", "wedge", "wired models", "3D faces", "Unix"]
 family_listing_page_title: "Aspose.CAD for Java"
 family_listing_page_description: "Aspose.CAD for Java is an advanced Java CAD processing API and SDK allows to perform a wide range of CAD and BIM drawings processing tasks directly within your Java applications."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java.png"
@@ -16,7 +15,6 @@ family_listing_page_venture: "4"
 family_listing_page_package: "3"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-cad/"
-tags: ["Aspose Total", "Aspose CAD", "Aspose Java API", "cad java library", "cad java class", "DWG", "DXF", "DAE", "DGN", "IFC", "IGES", "STL", "DWT", "PLT", "DWF", "DWFx", "CF2", "OBJ", "U3D", "3DS", DXB, Collada, STP, "PDF", "TIFF", "JPEG", "PNG", "GIF", "BMP", "Maven", "Windows", "Linux", "Mac", "J2SE", "drawing", "cad drawing", "raster image", "export 3D", "autocad", "cad layout", "mesh model", "ATTRIB", "MTEXT", "3D solids", "conic", "sphere", "torus", "cylinder", "box", "wedge", "wired models", "3D faces", "Unix"]
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/cad/19
 productLink: https://products.aspose.com/cad/java/
