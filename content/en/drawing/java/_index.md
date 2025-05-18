@@ -6,18 +6,6 @@ layout: packages
 type: repository
 categories:
   - fundamentals
-keywords:
-- Aspose Total
-- Aspose Drawing
-- Aspose Java API
-- 2D graphics java library
-- TIFF
-- PNG
-- BMP
-- EMF
-- WMF
-- JPEG
-- GIF
 family_listing_page_title: "Aspose.Drawing for Java"
 family_listing_page_description: "Aspose.Drawing for Java supports rendering vector graphics such as lines, curves, and figures as well as text in a variety of fonts, sizes, and styles onto raster images."
 family_listing_page_iconurl: "/res_repo/img/aspose_drawing-for-java.png"
