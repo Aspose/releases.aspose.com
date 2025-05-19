@@ -111,7 +111,7 @@ The `Dataset` class now includes a `GetPrivateTag` method to help manage private
 {{< highlight csharp >}}
 // Assuming 'dataset' is an instance of Aspose.Medical.Dicom.Dataset
 // And 'dictionaryTag' is a Tag object for a private tag (e.g., new Tag(0x3011, 0xXX00, "CUSTOM PRIVATE CREATOR"))
-Aspose.Medical.Dicom.Tags.Tag privateTagForDataset = dataset.GetPrivateTag(dictionaryTag); [cite: 454]
+Aspose.Medical.Dicom.Tags.Tag privateTagForDataset = dataset.GetPrivateTag(dictionaryTag); 
 
 // Now use 'privateTagForDataset' to add or retrieve data
 // dataset.Add(privateTagForDataset, "SomeValue");
@@ -122,7 +122,7 @@ Aspose.Medical.Dicom.Tags.Tag privateTagForDataset = dataset.GetPrivateTag(dicti
 Aspose.Medical for .NET now includes support for deflatable datasets. This enhancement broadens the range of DICOM files the library can process, particularly those using Deflated Explicit VR Little Endian transfer syntax, providing better compression and compatibility.
 
 - **API Refinements:**
-    - The `Tag` class now offers a `Parse` method for easier tag creation from string representations. [cite: 337, 350]
-    - `TagDictionary` has new methods like `FindByKeyword` and `Load` for improved tag management. [cite: 364, 368]
+    - The `Tag` class now offers a `Parse` method for easier tag creation from string representations.
+    - `TagDictionary` has new methods like `FindByKeyword` and `Load` for improved tag management.
     - `MetaInfoEqualityComparer` and other comparators have updated and more detailed descriptions for clarity.
-    - The `License` class documentation has been updated for better understanding of licensing methods. [cite: 500, 501, 506, 510, 516]
+    - The `License` class documentation has been updated for better understanding of licensing methods.
