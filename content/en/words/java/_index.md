@@ -22,6 +22,7 @@ productLink: https://products.aspose.com/words/java/
 releaseNotesLink: https://releases.aspose.com/words/java/release-notes/
 dataFolder: aspose_words
 packages_refs:
+- "25-5"
 - "25-4"
 - "25-3"
 - "25-2"
