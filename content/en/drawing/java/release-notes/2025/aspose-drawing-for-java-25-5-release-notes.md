@@ -21,4 +21,3 @@ This page contains release notes information for Aspose.Drawing for Java 25.5.
 - Fixed creating a font with a new style from an existing font (DRAWINGNET-1625)
 - Improved correctness of image file codecs (DRAWINGNET-1617)
 - Fixed image loading with only 2 colors in the palette (DRAWINGNET-1617)
-- Fixed InvalidCSharpIdentifierName build error with .NET Native toolchain (DRAWINGNET-1618)
