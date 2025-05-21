@@ -15,7 +15,6 @@ family_listing_page_venture: "4"
 family_listing_page_package: "268"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-font/"
-tags: ["Aspose Total", "Aspose Font", "Aspose Java API", "font java library", "font java class", "TTF", "TTC", "OpenType", "CFF", "Type1", "postscript", "scalabale font", "true type", "compact font", "latin font", "symbols", "glyphs", "font rendering", "render text", "Windows", "Linux", "Mac", "J2SE", "Maven", "font converter", "font conversion", "WOFF", "WOFF2", "EOT", "TTF to WOFF", "TTF to WOFF2", "WOFF to TTF", "WOFF to WOFF2", "WOFF2 to TTF", "WOFF2 to WOFF", "EOT to TTF", "EOT to WOFF", "EOT to WOFF2", "Type1 to TFF", "Type1 to WOFF", "Type1 to WOFF2", "CFF to TTF", "CFF to WOFF", "CFF to WOFF2", "load font"]
 weight: 02	#rem
 forumLink: https://forum.aspose.com/c/font/41
 productLink: https://products.aspose.com/font/java/
