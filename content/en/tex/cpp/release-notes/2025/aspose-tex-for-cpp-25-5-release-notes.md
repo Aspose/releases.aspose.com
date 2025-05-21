@@ -14,7 +14,7 @@ menuItemWithNoContent: false
 ---
 ## Improvements and Changes
 
-Aspose.TeX for C++ 25.5 is technical release. It use codeporting.translator.cs2cpp.framework library ver 25.5. So you can use Aspose C++ products ver 25.5.
+Aspose.TeX for C++ 25.5 is technical release. It use Codeporting.Translator.Cs2Cpp.Framework library ver 25.5. So you can use Aspose C++ products ver 25.5.
 
 You can consult Aspose.TeX for C++ [API reference](https://reference.aspose.com/tex/cpp/) for documentation.
 
