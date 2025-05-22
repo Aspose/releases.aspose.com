@@ -1,7 +1,7 @@
 ---
-id: "aspose-total-for-net-25-4-security-reports"
-slug: "aspose-total-for-net-25-4-security-reports"
-linktitle: "Aspose.Total for .NET 25.4 Security Reports"
+id: "aspose-total-for-net-25-4-compliance-reports"
+slug: "aspose-total-for-net-25-4-compliance-reports"
+linktitle: "Aspose.Total for .NET 25.4 Compliance Reports"
 title: "Aspose.Total for .NET 25.4 – Compliance & Security"
 weight: 19
 description: "Aspose.Total for .NET Compliance & Security Reports | Release 2025.4"
@@ -9,7 +9,7 @@ type: "repository"
 layout: "release"
 hideChildren: false
 toc: false
-family_listing_page_title: "Aspose.Total for .NET 25.4 Security Reports"
+family_listing_page_title: "Aspose.Total for .NET 25.4 Compliance & Security Reports"
 menuItemWithNoContent: false
 ---
 
@@ -59,9 +59,8 @@ This compliance matrix summarizes the security posture of all Aspose.Total for .
 | Aspose.Words for .NET              | 25.4      | 🌐 `HTML` &#124; 📄 `PDF` | 🌐 `HTML` &#124; 📄 `PDF` | ![Rating](https://img.shields.io/badge/NR-lightgray) |
 | Aspose.ZIP for .NET                | 25.4      | 🌐 `HTML` &#124; 📄 `PDF` | 🌐 `HTML` &#124; 📄 `PDF` | ![Rating](https://img.shields.io/badge/NR-lightgray) |
 
-**Legend**  
-- ![A](https://img.shields.io/badge/A-brightgreen) — Security rating "A" based on available CWE Top 25 and OWASP Top 10 compliance reports  
-- ![NR](https://img.shields.io/badge/NR-lightgray) — Not Rated: No automated security report available for this product version as yet
+> - ![A](https://img.shields.io/badge/A-brightgreen) — Security rating "A" based on available CWE Top 25 and OWASP Top 10 compliance reports  
+> - ![NR](https://img.shields.io/badge/NR-lightgray) — Not Rated: No automated security report available for this product version as yet
 
 </details>
 

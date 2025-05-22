@@ -4,7 +4,7 @@ linktitle: "2025"
 title: "Compliance Reports - 2025"
 productName: "Aspose.Total for .NET"
 weight: 97
-description: "Explore Aspose.Total for .NET compliance reports featuring SonarQube security analysis, SBOMs in CycloneDX and SPDX formats, and vulnerability assessments based on CWE Top 25 and OWASP Top 10—designed to support secure .NET development and regulatory transparency."
+description: "Explore Aspose.Total for .NET compliance reports for 2025, featuring SonarQube security analysis, SBOMs in CycloneDX and SPDX formats, and vulnerability assessments based on CWE Top 25 and OWASP Top 10—designed to support secure .NET development and regulatory transparency."
 type: "repository"
 layout: "releases"
 hideChildren: false
