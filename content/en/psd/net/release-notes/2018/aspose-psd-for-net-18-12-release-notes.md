@@ -3,7 +3,7 @@ id: "aspose-psd-for-net-18-12-release-notes"
 slug: "aspose-psd-for-net-18-12-release-notes"
 linktitle: "Aspose.PSD for .NET 18.12 - Release Notes"
 title: "Aspose.PSD for .NET 18.12 - Release Notes"
-weight: 10
+weight: -12
 description: "Aspose.PSD for .NET 18.12 - Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"

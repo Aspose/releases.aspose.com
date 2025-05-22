@@ -3,7 +3,7 @@ id: "aspose-psd-for-net-21-6-release-notes"
 slug: "aspose-psd-for-net-21-6-release-notes"
 linktitle: "Aspose.PSD for .NET 21.6 - Release Notes"
 title: "Aspose.PSD for .NET 21.6 - Release Notes"
-weight: 70
+weight: -6
 description: "Aspose.PSD for .NET 21.6 - Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
