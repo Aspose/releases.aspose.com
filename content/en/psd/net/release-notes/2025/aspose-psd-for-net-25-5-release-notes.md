@@ -50,14 +50,6 @@ This page contains release notes for [Aspose.PSD for .NET 25.5](https://www.nug
 
 ## **Usage examples:**
 
-**PSDNET-1838. [AI Format] Handle inline images in content streams**
-
-{{< highlight csharp >}}
-{{< /highlight >}}
-
-
-
-
 **PSDNET-1460. Create default layer mask for Fill layer.**
 
 {{< highlight csharp >}}
