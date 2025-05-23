@@ -29,6 +29,7 @@ This page contains release notes for [Aspose.Slides for Python via .NET 25.5](ht
 ## Other Improvements and Changes
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
+|SLIDESPYNET-259|EMF image is missing when converting PPTX to PDF|Bug||
 |SLIDESPYNET-273|Use Aspose.Slides for Net 25.5 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2025/aspose-slides-for-net-25-5-release-notes/>|
 
 ## Public API Changes
