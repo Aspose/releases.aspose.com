@@ -46,10 +46,10 @@ These methods allow you to control the mode in which slides are placed on the pa
 The following code sample demonstrates how to use new methods:
 
 ```cpp
-SharedPtr<Presentation> pres = MakeObject<Presentation>(u"pres.pptx");
-SharedPtr<HandoutLayoutingOptions> slidesLayoutOptions = MakeObject<HandoutLayoutingOptions>();
+auto pres = MakeObject<Presentation>(u"pres.pptx");
+auto slidesLayoutOptions = MakeObject<HandoutLayoutingOptions>();
 slidesLayoutOptions->set_Handout(HandoutType::Handouts4Horizontal);
-SharedPtr<Html5Options> options = MakeObject<Html5Options>();
+auto options = MakeObject<Html5Options>();
 options->set_SlidesLayoutOptions(slidesLayoutOptions);
 pres->Save(u"pres.html", SaveFormat::Html5, options);
 ```
@@ -57,10 +57,10 @@ pres->Save(u"pres.html", SaveFormat::Html5, options);
 The following code sample demonstrates how to use this new property instead of the obsolete `NotesCommentsLayouting` property:
 
 ```cpp
-SharedPtr<Presentation> pres = MakeObject<Presentation>(u"test.pptx");
-SharedPtr<NotesCommentsLayoutingOptions> slidesLayoutOptions = MakeObject<NotesCommentsLayoutingOptions>();
+auto pres = MakeObject<Presentation>(u"test.pptx");
+auto slidesLayoutOptions = MakeObject<NotesCommentsLayoutingOptions>();
 slidesLayoutOptions->set_NotesPosition(NotesPositions::BottomTruncated);
-SharedPtr<Html5Options> options = MakeObject<Html5Options>();
+auto options = MakeObject<Html5Options>();
 options->set_OutputPath(u"test_pptx");
 options->set_SlidesLayoutOptions(slidesLayoutOptions);
 pres->Save(u"index.html", SaveFormat::Html5, options);
@@ -73,10 +73,10 @@ Please note that this property does not support assigning instances of the `Hand
 The following code sample demonstrates how to use new methods:
 
 ```cpp
-SharedPtr<Presentation> pres = MakeObject<Presentation>(u"pres.pptx");
-SharedPtr<NotesCommentsLayoutingOptions> slidesLayoutOptions = MakeObject<NotesCommentsLayoutingOptions>();
+auto pres = MakeObject<Presentation>(u"pres.pptx");
+auto slidesLayoutOptions = MakeObject<NotesCommentsLayoutingOptions>();
 slidesLayoutOptions->set_CommentsPosition(CommentsPositions::Right);
-SharedPtr<SwfOptions> options = MakeObject<SwfOptions>();
+auto options = MakeObject<SwfOptions>();
 options->set_SlidesLayoutOptions(slidesLayoutOptions);
 pres->Save(u"pres.swf", SaveFormat::Swf, options);
 ```
@@ -92,8 +92,8 @@ New methods have been added to the `MarkdownSaveOptions` class, providing greate
 The following code sample demonstrates how to use these properties:
 
 ```cpp
-SharedPtr<Presentation> pres = MakeObject<Presentation>(u"demo.pptx");
-SharedPtr<MarkdownSaveOptions> options = MakeObject<MarkdownSaveOptions>();
+auto pres = MakeObject<Presentation>(u"demo.pptx");
+auto options = MakeObject<MarkdownSaveOptions>();
 options->set_RemoveEmptyLines(true);
 options->set_HandleRepeatedSpaces(HandleRepeatedSpaces::AlternateSpacesToNbsp);
 options->set_SlideNumberFormat(u"## Slide {0} -");
@@ -116,7 +116,7 @@ These methods allow you to control how HTML content is inserted - either startin
 The following code sample demonstrates how to insert HTML content into the presentation slide collection, starting from the empty space on the slide with index equal to 2:
 
 ```cpp
-SharedPtr<Presentation> pres = MakeObject<Presentation>(u"presentation.pptx");
+auto pres = MakeObject<Presentation>(u"presentation.pptx");
 auto htmlStream = System::IO::File::OpenRead(u"content.html");
 pres->get_Slides()->InsertFromHtml(2, htmlStream, true);
 pres->Save(u"output.pptx", SaveFormat::Pptx);
@@ -130,8 +130,8 @@ This property allows you to detect whether a picture frame is a Cameo object - a
 The following code sample demonstrates how to use the `get_IsCameo` method:
 
 ```cpp
-SharedPtr<Presentation> pres = MakeObject<Presentation>(u"Presentation.pptx");
-SharedPtr<PictureFrame> shape = System::AsCast<PictureFrame>(pres->get_Slide(0)->get_Shape(0));
+auto pres = MakeObject<Presentation>(u"Presentation.pptx");
+auto shape = System::AsCast<PictureFrame>(pres->get_Slide(0)->get_Shape(0));
 if (shape != nullptr)
 {
     System::Console::WriteLine("IsCameo: {0}", shape->get_IsCameo());
@@ -141,14 +141,14 @@ if (shape != nullptr)
 ### Marked as Obsolete Methods: IHtml5Options::get_NotesCommentsLayouting(), IHtml5Options::set_NotesCommentsLayouting(), ISwfOptions::get_NotesCommentsLayouting(), ISwfOptions::set_NotesCommentsLayouting()
 
 The next methods have been marked as obsolete and will be removed after the release of version 25.8:
-- IHtml5Options::get_NotesCommentsLayouting()
-- IHtml5Options::set_NotesCommentsLayouting()
-- ISwfOptions::get_NotesCommentsLayouting()
-- ISwfOptions::set_NotesCommentsLayouting()
-- Html5Options::get_NotesCommentsLayouting()
-- Html5Options::set_NotesCommentsLayouting()
-- SwfOptions::get_NotesCommentsLayouting()
-- SwfOptions::set_NotesCommentsLayouting()
+- `IHtml5Options::get_NotesCommentsLayouting()`
+- `IHtml5Options::set_NotesCommentsLayouting()`
+- `ISwfOptions::get_NotesCommentsLayouting()`
+- `ISwfOptions::set_NotesCommentsLayouting()`
+- `Html5Options::get_NotesCommentsLayouting()`
+- `Html5Options::set_NotesCommentsLayouting()`
+- `SwfOptions::get_NotesCommentsLayouting()`
+- `SwfOptions::set_NotesCommentsLayouting()`
 
 ### Marked as Obsolete Interface: INotesCommentsLayoutingOptions 
 
