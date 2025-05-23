@@ -46,10 +46,10 @@ import aspose.slides as slides
 
 with slides.Presentation("pres.pptx") as pres:
     slides_layout_options = slides.export.HandoutLayoutingOptions()
-	slides_layout_options.handout = slides.export.HandoutType.HANDOUTS_4_HORIZONTAL
+    slides_layout_options.handout = slides.export.HandoutType.HANDOUTS_4_HORIZONTAL
     options = slides.export.Html5Options()
-	options.slides_layout_options = slides_layout_options
-	pres.save("pres.html", slides.export.SaveFormat.HTML5, options)
+    options.slides_layout_options = slides_layout_options
+    pres.save("pres.html", slides.export.SaveFormat.HTML5, options)
 ```
 
 The following code sample demonstrates how to use this new property instead of the obsolete [`notes_comments_layouting`](https://reference.aspose.com/slides/python-net/aspose.slides.export/html5options/notes_comments_layouting/) property:
@@ -59,10 +59,10 @@ import aspose.slides as slides
 
 with slides.Presentation("test.pptx") as pres:
     slides_layout_options = slides.export.NotesCommentsLayoutingOptions()
-	slides_layout_options.notes_position = slides.export.NotesPositions.BOTTOM_TRUNCATED
-	options = slides.export.Html5Options()
-	options.output_path = "test_pptx"
-	options.slides_layout_options = slides_layout_options
+    slides_layout_options.notes_position = slides.export.NotesPositions.BOTTOM_TRUNCATED
+    options = slides.export.Html5Options()
+    options.output_path = "test_pptx"
+    options.slides_layout_options = slides_layout_options
     pres.save("index.html", slides.export.SaveFormat.HTML5, options)
 ```
 
@@ -77,10 +77,10 @@ import aspose.slides as slides
 
 with slides.Presentation("pres.pptx") as pres:
     slides_layout_options = slides.export.NotesCommentsLayoutingOptions()
-	slides_layout_options.comments_position = slides.export.CommentsPositions.RIGHT
-	options = slides.export.SwfOptions()
-	options.slides_layout_options = slides_layout_options
-	pres.save("pres.swf", slides.export.SaveFormat.SWF, options)
+    slides_layout_options.comments_position = slides.export.CommentsPositions.RIGHT
+    options = slides.export.SwfOptions()
+    options.slides_layout_options = slides_layout_options
+    pres.save("pres.swf", slides.export.SaveFormat.SWF, options)
 ```
 
 ### Markdown Export Enhancements
@@ -100,12 +100,12 @@ import aspose.slides as slides
 with slides.Presentation("demo.pptx") as pres:
     options = slides.export.MarkdownSaveOptions()
     options.remove_empty_lines = True
-	options.handle_repeated_spaces = slides.export.HandleRepeatedSpaces.ALTERNATE_SPACES_TO_NBSP
+    options.handle_repeated_spaces = slides.export.HandleRepeatedSpaces.ALTERNATE_SPACES_TO_NBSP
     options.slide_number_format = "## Slide {0} -"
-	options.show_slide_number = True
+    options.show_slide_number = True
     options.export_type = slides.export.MarkdownExportType.TEXT_ONLY
     options.flavor = slides.export.Flavor.DEFAULT
-	pres.save("output.md", slides.export.SaveFormat.MD, options)
+    pres.save("output.md", slides.export.SaveFormat.MD, options)
 ```
 
 ### Added New Methods: ISlideCollection.insert_from_html
@@ -125,7 +125,7 @@ import aspose.slides as slides
 
 with slides.Presentation("presentation.pptx") as pres:
     with open("content.html", "rb") as html_stream:
-	    pres.slides.insert_from_html(2, html_stream, True)
+        pres.slides.insert_from_html(2, html_stream, True)
     pres.save("output.pptx", slides.export.SaveFormat.PPTX)
 ```
 
@@ -141,8 +141,8 @@ import aspose.slides as slides
 
 with slides.Presentation("presentation.pptx") as pres:
     shape = pres.slides[0].shapes[0]
-	if type(shape) is slides.PictureFrame:
-	    print("IsCameo:", shape.is_cameo)
+    if type(shape) is slides.PictureFrame:
+        print("IsCameo:", shape.is_cameo)
 ```
 
 ### Marked as Obsolete Properties: IHtml5Options.notes_comments_layouting, ISwfOptions.notes_comments_layouting
