@@ -30,7 +30,6 @@ This page contains release notes information for [Aspose.BarCode for PHP via Jav
 ### CMYK Color Support for PDF Barcode Generation
 
 **Added Class:**
-- 
 - `Generation.CMYKColor`  
   Represents a color in CMYK format.
 
