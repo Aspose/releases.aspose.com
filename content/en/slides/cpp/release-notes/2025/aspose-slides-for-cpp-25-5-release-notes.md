@@ -3,7 +3,7 @@ id: "aspose-slides-for-cpp-25-5-release-notes"
 slug: "aspose-slides-for-cpp-25-5-release-notes"
 linktitle: "Aspose.Slides for C++ 25.5 Release Notes"
 title: "Aspose.Slides for C++ 25.5 Release Notes"
-weight: 170
+weight: 160
 description: "Aspose.Slides for C++ 25.5 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
