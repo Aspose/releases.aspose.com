@@ -36,9 +36,6 @@ This page contains release notes information for [Aspose.BarCode for PHP via Jav
 **Constructor:**
 - `CMYKColor(int cyan, int magenta, int yellow, int black)`  
   Initializes a CMYK color with specified component values.
-**Functions:**
-- `parseCMYK(string)`
-- `formatCMYK():string`
 
 **Behavior:** When a CMYK color is set, it overrides the RGB color for the corresponding element during PDF generation.
 
