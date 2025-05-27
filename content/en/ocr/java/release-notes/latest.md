@@ -17,9 +17,8 @@ keywords:
 - changelog
 ---
 
-
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for Java 25.4.0 (April 2025)** release.
+This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for Java 25.5.0 (May 2025)** release.
 
 GPU version: **23.10.1**
 {{% /alert %}}
@@ -28,107 +27,37 @@ GPU version: **23.10.1**
 
 Key | Summary | Category
 --- | ------- | --------
-OCRJAVA&#8209;423 | Added universal recognition of Arabic, Persian and English alphabets. | New feature
-OCRJAVA&#8209;422 | Automatic analysis of image content and detection of layout blocks. | New feature
-OCRJAVA&#8209;421 | Add markdown output format with document layout. | New feature
-OCRJAVA&#8209;418 | Automatic language detection during recognition. | New feature
-OCRJAVA&#8209;420 | Docx output format improvements. | Enhancement
+OCRJAVA&#8209;430 | Exposed control over ONNX session options for advanced users. | New feature
+OCRJAVA&#8209;429 | Optimization: create classes for one-time InferenceSession initialization and optimize performance. | Enhancement
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OCR for Java 25.4.0** that may affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OCR for Java 25.5.0** that may affect the code of existing applications.
 
 ### Added public APIs:
 
 The following public APIs have been introduced in this release:
 
-#### `com.aspose.ocr.models.ContentArea` class
+### `OnnxRuntimeSessionOptions` class
 
-This class stores a layout block detected in an image.
+Allows overriding the default ONNX runtime settings. Aspose.OCR for Java is already optimized, so modifications are recommended only for fine-tuning the library's behavior on specific hardware.
 
-Property    | Type                   | Description
------------ | ---------------------- | -----------
-`index`     | `Integer`              | The sequential index of the content area, unique within the entire image.
-`image`     | `BufferedImage`        | Image region with the content.
-`rectangle` | `java.awt.Rectangle`   | The bounding rectangle of the content area.
+`OnnxRuntimeSessionOptions` is a static class that exposes the following properties:
 
-#### `com.aspose.ocr.models.LayoutOutput`
+Property | Type | Description
+-------- | -----| -----------
+`graphOptimizationLevel` | `GraphOptimizationLevelOnnx` | Graph optimization level for the session:<ul><li>`ORT_DISABLE_ALL` - disable all optimizations.</li><li>`ORT_ENABLE_BASIC` - enable basic optimizations, such as node fusion and constant folding.</li><li>`ORT_ENABLE_EXTENDED` - enable extended optimizations, including memory layout improvements.</li><li>`ORT_ENABLE_ALL` - enable all available optimizations for maximum performance.</li></ul>By default, all available optimizations are enabled.
+`executionMode` | `ExecutionModeOnnx` | Execution mode for the session:<ul><li>`ORT_SEQUENTIAL` - execute operators sequentially, ensuring that each operation is completed before the next one starts.</li><li>`ORT_PARALLEL` - execute operators in parallel (whenever possible), to improve performance.</li></ul>By default, operators are executed concurrently, whenever possible.
+`intraOpNumThreads` | `int` | Number of threads for a single operations.
+`interOpNumThreads` | `int` | Number of threads for running multiple operations in parallel. If sequential execution (`ExecutionModeOnnx.ORT_SEQUENTIAL`) is enabled in `ExecutionMode` property, this value is ignored.
 
-This class stores a layout block detected in an image.
-
-Property     | Type                                           | Description
------------- | ---------------------------------------------- | -----------
-`source`     | `String`                                       | The full path to the file or URL, if applicable. Empty for images provided as a stream, byte array, or Base64.
-`page`       | `Integer`                                      | Page number for multi-page images.
-`paragraphs` | `ArrayList<com.aspose.ocr.models.ContentArea>` | Detected paragraphs.
-`images`     | `ArrayList<com.aspose.ocr.models.ContentArea>` | Detected illustrations.
-`headers`    | `ArrayList<com.aspose.ocr.models.ContentArea>` | Detected headers.
-`tables`     | `ArrayList<com.aspose.ocr.models.ContentArea>` | Detected tables.
-`lists`      | `ArrayList<com.aspose.ocr.models.ContentArea>` | Detected lists.
-`captions`   | `ArrayList<com.aspose.ocr.models.ContentArea>` | Detected captions.
-`equations`  | `ArrayList<com.aspose.ocr.models.ContentArea>` | Detected equations.
-
-#### `DetectDocumentLayout` method
-
-Analyzes [images](https://docs.aspose.com/ocr/java/ocrinput/) and identifies the different types of layout blocks within it. This method supports PDF, GIF, PNG, JPEG, BMP, or single-page TIFF from files, streams, and can bulk process folders and archives.
-
-Detected layout blocks are returned as `com.aspose.ocr.models.LayoutOutput` object.
-
-
-#### `com.aspose.ocr.models.LanguageDetectionLevel` enumeration
-
-Defines the level of language detection for text recognition in an image:
-
-Level | Value | Description
------- | ----- | -----------
-BY_PAGE | `com.aspose.ocr.models.LanguageDetectionLevel.BY_PAGE` | Detects a single language for the entire image.
-BY_PARAGRAPH | `com.aspose.ocr.models.LanguageDetectionLevel.BY_PARAGRAPH` | Detects the language separately for each paragraph.
-BY_WORD | `com.aspose.ocr.models.LanguageDetectionLevel.BY_WORD` | Detects the language separately for each word.
+{{% alert color="caution" %}} 
+If you decide to override the default ONNX runtime settings, perform it  before calling any other recognition method.
+{{% /alert %}}
 
 ### Updated public APIs:
 
-The following public APIs have been updated in Aspose.OCR for .NET 25.4.0 release:
-
-#### `com.aspose.ocr.models.Language`
-
-{{% alert color="info" %}}
-**Compatibility: fully backward compatible.** See details below.
-{{% /alert %}}
-
-Aspose.OCR for Java can now extract mixed-language texts in Persian, Arabic and English alphabets.Use the following language identifier in recognition settings:
-
-- `com.aspose.ocr.models.Language.PersoArabic`
-- `com.aspose.ocr.models.Language.Islamic`
-
-{{% alert color="primary" %}}
-- Universal Persian/Arabic text recognition requires **aspose-ocr-arabic-v1** OCR feature to be [installed](https://docs.aspose.com/ocr/java/modules/).
-{{% /alert %}}
-
-#### `com.aspose.ocr.models.Language`
-
-{{% alert color="info" %}}
-**Compatibility: fully backward compatible.** See details below.
-{{% /alert %}}
-
-Aspose.OCR for Java can now Automatically detects the language in the input document or image. Use the following language identifier in recognition settings:
-
-- `com.aspose.ocr.models.Language.Multilanguage`
-- `com.aspose.ocr.models.Language.Auto`
-- `com.aspose.ocr.models.Language.Universal`
-
-{{% alert color="primary" %}}
-- Universal text recognition and language detection requires **aspose-ocr-language-classification-v1** OCR feature to be [installed](https://docs.aspose.com/ocr/java/modules/).
-{{% /alert %}}
-
-#### `com.aspose.ocr.models.Format`
-
-{{% alert color="info" %}}
-**Compatibility: fully backward compatible.** See details below.
-{{% /alert %}}
-
-Aspose.OCR for Java can now save the document as a Markdown (.md) file. If `com.aspose.ocr.models.DetectAreasMode.MULTICOLUMN` is used, images will also be extracted.
-
-- `com.aspose.ocr.models.Format.Md`
+_No changes._
 
 ### Deprecated APIs
 
@@ -146,44 +75,19 @@ _No changes._
 
 The code samples below illustrate the changes introduced in this release:
 
-### Detect and recognize tables in an image
+### Change the number of threads for ONNX runtime
 
 ```java
-AsposeOCR recognitionEngine = new AsposeOCR();
-// Add an image to OcrInput object
-OcrInput input = new OcrInput(com.aspose.ocr.InputType.SingleImage);
-input.add("source.png");
-// Detect layout
-com.aspose.ocr.models.LayoutOutput layout = recognitionEngine.DetectDocumentLayout(input).get(0);
-ArrayList<com.aspose.ocr.models.ContentArea> tables = layout.tables;
-// Recognize tables
-com.aspose.ocr.OcrInput tableAreas = new OcrInput(com.aspose.ocr.InputType.SingleImage);
-for(com.aspose.ocr.models.ContentArea table : tables)
-{
-    tableAreas.add(table.image);
-}
+import com.aspose.ocr.models.*;
 
-com.aspose.ocr.OcrOutput recognResult = api.Recognize(tableAreas);
-```
-
-### Recognize the image with auto detection languages:
-
-```java
-
-AsposeOCR recognitionEngine = new AsposeOCR();
+OnnxRuntimeSessionOptions.intraOpNumThreads = 8;
+// Initialize recognition API
+AsposeOCR api = new AsposeOCR();
 // Add an image to OcrInput object
 OcrInput input = new OcrInput(InputType.SingleImage);
-input.add("source.png");
-// Set language detection and it is level.
-RecognitionSettings settings = new RecognitionSettings();
-settings.setLanguage(com.aspose.ocr.models.Language.Auto);
-settings.setLanguageDetectionLevel(LanguageDetectionLevel.BY_PARAGRAPH);
-		
-// Recognize with detect languages
-List<RecognitionResult> result = recognitionEngine.Recognize(input, );
-for (RecognitionResult item : result)
-{
-    System.out.println("Text: "+item.recognitionText);
-}
+input.Add("source.png");
+// Recognize image
+ArrayList<RecognitionResult> results = api.Recognize(input);
 ```
+
 
