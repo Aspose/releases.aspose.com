@@ -5,7 +5,6 @@ linktitle: "Aspose.PSD for Python via .NET 25.5 - Release Notes"
 title: "Aspose.PSD for Python via .NET 25.5 - Release Notes"
 weight: 10
 description: "Aspose.PSD for Python via .NET 25.5 - Release Notes – the latest updates and fixes."
-url: /python-net/aspose-psd-for-python-via-net-25-5-release-notes/
 layout: "release"
 hideChildren: false
 toc: false
