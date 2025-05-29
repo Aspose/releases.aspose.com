@@ -1,0 +1,17 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-pdf",
+  "id" : "25-5",
+  "packageFiles" : [ {
+    "size" : "87 MB",
+    "name" : "aspose-pdf-25.5-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "452 bytes",
+    "name" : "aspose-pdf-25.5.pom"
+  } ],
+  "releasehDate" : "2025-05-29T22:24:54+00:00",
+  "version" : "25.5",
+  "ReleaseNotes" : "https://releases.aspose.com/pdf/java/release-notes/2025/aspose-pdf-for-java-25-5-release-notes/"
+}
