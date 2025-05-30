@@ -45,7 +45,7 @@ for [Aspose.BarCode for Java 25.5](https://releases.aspose.com/barcode/java/25-5
 
 **Behavior:** When a CMYK color is set, it overrides the RGB color for the corresponding element during PDF generation.
 
-### New Properties in `com.aspose.barcode.generation.PdfParameters`:
+**Added class** `com.aspose.barcode.generation.PdfParameters`
 
 Allows setting CMYK colors for individual elements of the barcode in PDF format:
 
@@ -63,10 +63,6 @@ Allows setting CMYK colors for individual elements of the barcode in PDF format:
 
 - `setCMYKCaptionBelowColor(CMYKColor)` — set Caption below text color
 - `getCMYKCaptionBelowColor()` — get Caption below text color
-
-
-**Added class** `com.aspose.barcode.generation.PdfParameters`
-
 
 **Updated Class** `com.aspose.barcode.generation.ImageParameters`
 Added methods
