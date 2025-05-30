@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/gis/python-net/new-releases/icons-aspose.gis-for-python-via-.net-25.5.0-macos-10.14-mojave-x86_64/"
-folder_name: "Simgeler Aspose.GIS for Python via .NET 25.5.0 macOS 10.14 Mojave x86_64"
+folder_name: "Python için Aspose.GIS .NET üzerinden 25.5.0 macOS 10.14 Mojave x86_64"
 download_link: "/gis/python-net/new-releases/icons-aspose.gis-for-python-via-.net-25.5.0-macos-10.14-mojave-x86_64/d8a40472b8ccc0dba7430875b22e71c1-15-13164"
 download_text: "İndirmek"
 intro_text: "Bu tekerlek, macOS 10.14 (Mojave) için oluşturulmuş ve x86_64 mimarisini hedefleyen .NET sürüm 25.5.0 üzerinden Python için Aspose.GIS'i içerir."
@@ -22,7 +22,7 @@ weight: 28
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Simgeler Aspose.GIS for Python via .NET 25.5.0 macOS 10.14 Mojave x86_64" imagelink="/resources/img/random-file-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Python için Aspose.GIS .NET üzerinden 25.5.0 macOS 10.14 Mojave x86_64" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="İndirmek" link="/gis/python-net/new-releases/icons-aspose.gis-for-python-via-.net-25.5.0-macos-10.14-mojave-x86_64/d8a40472b8ccc0dba7430875b22e71c1-15-13164" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/gis" >}}

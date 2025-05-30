@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/gis/python-net/new-releases/icons-aspose.gis-for-python-via-.net-25.5.0-macos-10.14-mojave-x86_64/"
-folder_name: "アイコン Aspose.GIS for Python via .NET 25.5.0 macOS 10.14 Mojave x86_64"
+folder_name: "Aspose.GIS for Python via .NET 25.5.0 macOS 10.14 Mojave x86_64"
 download_link: "/gis/python-net/new-releases/icons-aspose.gis-for-python-via-.net-25.5.0-macos-10.14-mojave-x86_64/d8a40472b8ccc0dba7430875b22e71c1-15-13164"
 download_text: "ダウンロード"
 intro_text: "このホイールには、macOS 10.14 (Mojave) 用にビルドされ、x86_64 アーキテクチャをターゲットとする、.NET バージョン 25.5.0 経由の Aspose.GIS for Python が含まれています。"
@@ -22,7 +22,7 @@ weight: 28
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="アイコン Aspose.GIS for Python via .NET 25.5.0 macOS 10.14 Mojave x86_64" imagelink="/resources/img/random-file-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.GIS for Python via .NET 25.5.0 macOS 10.14 Mojave x86_64" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="ダウンロード" link="/gis/python-net/new-releases/icons-aspose.gis-for-python-via-.net-25.5.0-macos-10.14-mojave-x86_64/d8a40472b8ccc0dba7430875b22e71c1-15-13164" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/gis" >}}
