@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-imaging",
+  "id" : "25-6",
+  "packageFiles" : [ {
+    "size" : "7 MB",
+    "name" : "aspose-imaging-25.6-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "22 MB",
+    "name" : "aspose-imaging-25.6.jar"
+  }, {
+    "size" : "783 bytes",
+    "name" : "aspose-imaging-25.6.pom"
+  } ],
+  "releasehDate" : "2025-06-03T11:05:42+00:00",
+  "version" : "25.6",
+  "ReleaseNotes" : "https://releases.aspose.com/imaging/java/release-notes/2025/aspose-imaging-for-java-25-6-release-notes/"
+}
