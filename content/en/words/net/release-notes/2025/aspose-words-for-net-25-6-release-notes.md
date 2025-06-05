@@ -199,4 +199,4 @@ public float BorderWidth { get; set; }
 {{< /highlight >}}
 
 This use case explains how to save a 5-page document into JPG image with multi-page layout settings:
-{{< gist "aspose-words-gists" "70330eacdfc2e253f00a9adea8972975" "grid-layout.cs" >}}
+{{< gist "aspose-words-gists" "70330eacdfc2e253f00a9adea8972975" "grid-layout.cs" lineNumbers="false" >}}
