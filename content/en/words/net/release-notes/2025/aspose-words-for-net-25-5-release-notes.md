@@ -264,7 +264,7 @@ public class Chart
 {{< /highlight >}}
 
 This use case explains how to set a specific chart style:
-{{< gist "aspose-words-gists" "ad73e0dd58a8c2ae742bb64f8561df35" "set-chart-style.cs" >}}
+{{< gist "aspose-words-gists" "ad73e0dd58a8c2ae742bb64f8561df35" "set-chart-style.cs" hideLineNumbers="true" >}}
 
 ### Added possibility to control how empty paragraphs are exported into Markdown
 
@@ -288,4 +288,4 @@ public enum MarkdownEmptyParagraphExportMode
 {{< /highlight >}}
 
 This use case explains how to remove empty paragraphs from the Markdown output:
-{{< gist "aspose-words-gists" "ad73e0dd58a8c2ae742bb64f8561df35" "empty-paragraph-export-mode.cs" >}}
+{{< gist "aspose-words-gists" "ad73e0dd58a8c2ae742bb64f8561df35" "empty-paragraph-export-mode.cs" hideLineNumbers="true" >}}
