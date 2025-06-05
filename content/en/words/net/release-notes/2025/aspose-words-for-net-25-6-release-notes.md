@@ -171,12 +171,12 @@ public static MultiPageLayout Grid(int columns, float horizontalGap, float verti
 /// Creates a layout where each page is rendered as a separate frame in a multi-frame TIFF image.
 /// Applicable only to TIFF image formats.
 /// </summary>
-public static MultiPageLayout TiffFrames { get; }
+public static MultiPageLayout TiffFrames()
 
 /// <summary>
 /// Creates a layout that renders only the first of specified pages.
 /// </summary>
-public static MultiPageLayout SinglePage { get; }
+public static MultiPageLayout SinglePage()
 
 /// <summary>
 /// Gets or sets the background color of the output.
