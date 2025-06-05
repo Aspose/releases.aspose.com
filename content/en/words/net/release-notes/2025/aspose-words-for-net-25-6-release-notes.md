@@ -30,8 +30,6 @@ A comprehensive description of all methods and properties, along with code examp
 
 There are 60 improvements and fixes in this regular monthly release. The most notable are:
 
-Okay, here are the items rewritten in a similar style to the first line:
-
 - **Multi-Page Export:** Added multi-page export to raster image formats (PNG/JPG/etc.) with [customizable layouts](https://reference.aspose.com/words/net/aspose.words.saving/multipagelayout/) (Horizontal/Vertical/Grid).
 - **MathML Connectors:** Added rendering for connector lines in MathML, ensuring more accurate formula visualization.
 - **Math Formula Wrapping:** Improved rendering to correctly wrap formulas with multiple slashes, enhancing layout clarity.
