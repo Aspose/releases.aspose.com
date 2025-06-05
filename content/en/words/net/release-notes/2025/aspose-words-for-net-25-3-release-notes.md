@@ -4,7 +4,7 @@ slug: "aspose-words-for-net-25-3-release-notes"
 linktitle: "Aspose.Words for .NET 25.3 Release Notes"
 title: "Aspose.Words for .NET 25.3 Release Notes"
 weight: 60
-description: "Aspose.Words for .NET 25.3 Release Notes – Latest Updates and Fixes in February 2025"
+description: "Aspose.Words for .NET 25.3 Release Notes – Latest Updates and Fixes in March 2025"
 type: "repository"
 layout: "release"
 hideChildren: false
