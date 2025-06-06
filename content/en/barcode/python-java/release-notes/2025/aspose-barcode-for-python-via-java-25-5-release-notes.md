@@ -58,3 +58,8 @@ Allows setting CMYK colors for individual elements of the barcode in PDF format:
 
 - `setCMYKCaptionBelowColor(CMYKColor)` — set Caption below text color
 - `getCMYKCaptionBelowColor():CMYKColor` — get Caption below text color
+
+**Updated Class** `Generation.ImageParameters`
+Added methods
+- `getPdf():PdfParameters` - get PDF-specific parameters including CMYK color support
+- `setPdf(PdfParameters)` — set PDF-specific parameters including CMYK color support

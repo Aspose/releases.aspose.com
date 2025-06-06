@@ -15,29 +15,17 @@ menuItemWithNoContent: false
 
 ## Competitive features:
 
-- **
-Explore the CDR version 25.10 and fix rendering errors in the provided file
-**
+- **Explore the CDR version 25.10 and fix rendering errors in the provided file**
 - **Corrupted text drawing when using LineAlligment.Center**
 
 | **Key**         | **Summary**                                                                                                                                                              | **Category** |
 |-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| IMAGINGJAVA-8956 | 
-Explore the CDR version 25.10 and fix rendering errors in the provided file
-                                                                                                                                  | Feature      |
+| IMAGINGJAVA-8956 | Explore the CDR version 25.10 and fix rendering errors in the provided file                                                                                                                                   | Feature      |
 | IMAGINGJAVA-8955 | Corrupted text drawing when using LineAlligment.Center                                                                                                                                  | Feature      |
-| IMAGINGJAVA-8954 | 
-Investigate Cdr loading errors
-                                                                                                                                  | Enhancement      |
-| IMAGINGJAVA-8950 | 
-Improve color export quality and performance for Tiff with Icc profiles, decrease memory usage on Tiff & Jpeg export, add native Tiff 64 bit export
-                                                                                                                                  | Enhancement      |
-| IMAGINGJAVA-8944 | 
-Cannot convert the Jpg image to Svg format
-                                                                                                                                  | Enhancement      |
-| IMAGINGJAVA-8941 | 
-TIFF saving performance degradation
-                                                                                                                                  | Enhancement      |
+| IMAGINGJAVA-8954 | Investigate Cdr loading errors                                                                                                                                  | Enhancement      |
+| IMAGINGJAVA-8950 | Improve color export quality and performance for Tiff with Icc profiles, decrease memory usage on Tiff & Jpeg export, add native Tiff 64 bit export                                                                                                                                  | Enhancement      |
+| IMAGINGJAVA-8944 | Cannot convert the Jpg image to Svg format                                                                                                                                  | Enhancement      |
+| IMAGINGJAVA-8941 | TIFF saving performance degradation                                                                                                                                  | Enhancement      |
 
 ## Public API changes:
 
@@ -53,7 +41,7 @@ Please see corresponding cumulative [API changes for Aspose.Imaging for .NET 25.
 
 **IMAGINGJAVA-8956 Explore the CDR version 25.10 and fix rendering errors in the provided file**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("Trotec Test.cdr"))
 {
@@ -64,7 +52,7 @@ try (Image image = Image.load("Trotec Test.cdr"))
 
 **IMAGINGJAVA-8955 Corrupted text drawing when using LineAlligment.Center**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 public static void drawString()
 {
@@ -106,7 +94,7 @@ public static void drawString(String outputPath, int alignment, int lineAlignmen
 
 **IMAGINGJAVA-8954 Investigate Cdr loading errors**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 String folder = "D:\\";
  String[] files = { "YCKT 52-201319.cdr", "YCKT 21283R-SP25.cdr", "YCKT 21407R-SP25.cdr" };
@@ -123,7 +111,7 @@ String folder = "D:\\";
 
 **IMAGINGJAVA-8950 Improve color export quality and performance for Tiff with Icc profiles, decrease memory usage on Tiff & Jpeg export, add native Tiff 64 bit export**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 String inputPath = "input-with-Icc.tiff";
 try (Image image = Image.load(inputPath))
@@ -135,7 +123,7 @@ try (Image image = Image.load(inputPath))
 
 **IMAGINGJAVA-8944 Cannot convert the Jpg image to Svg format**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 String inputPath = "input.jpeg";
 try (Image image = Image.load(inputPath))
@@ -147,7 +135,7 @@ try (Image image = Image.load(inputPath))
 
 **IMAGINGJAVA-8941 TIFF saving performance degradation**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 public static void saveAsTiffCmyk(String inputPath)
 {
