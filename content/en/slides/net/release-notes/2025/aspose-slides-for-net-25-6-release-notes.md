@@ -19,6 +19,7 @@ This page contains release notes for [Aspose.Slides for .NET 25.6](https://www.n
 ## New Features and Improvements
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
+|SLIDESNET-45008|Implement AI presentation translator withing Aspose.Slides|Feature||
 |SLIDESNET-44967|Text looks different when converting a text box to an image|Bug|<https://docs.aspose.com/slides/net/convert-slide/>|
 |SLIDESNET-44953|The text wraps and appears outside the bounding box|Bug|<https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/>|
 |SLIDESNET-44980|Failed to extract name and alternative text from a shape in ODP file|Bug|<https://docs.aspose.com/slides/net/group/#access-alttext-property>|
