@@ -95,16 +95,15 @@ Gets the shape of the Timeline.
 
 Gets the localized text of "All Periods" for rendering the timeline.
 
-### **Adds Slicer.Shape property and obsoletes properties related to the slicer��s position and size.**
+### **Adds Slicer.Shape property and obsoletes properties related to the slicer's position and size.**
 
- 
 Gets the shape of slicer.
 
 ### **Adds JsonSaveOptions.ExportStylePool property.**
 
 Indicates whether to export styles collectively or individually to each cell.
 
-### **Obsoletes DocxSaveOptions.SaveAsEditableShaps and adds DocxSaveOptions.SaveAsEditableShapes property**
+### **Obsoletes DocxSaveOptions.SaveAsEditableShaps and adds DocxSaveOptions.SaveAsEditableShapes property.**
 
 Use DocxSaveOptions.SaveAsEditableShapes property instead.
 
