@@ -93,7 +93,7 @@ void SetEmbedFont(bool value)
 
 Represents custom settings during rendering.
 
-### **Adds the same set of methods to class PaginatedSaveOptions and class ImageOrPrintOptions respectively.
+### **Adds the same set of methods to class PaginatedSaveOptions and class ImageOrPrintOptions respectively.**
 
 Gets or sets custom settings during rendering.
 
