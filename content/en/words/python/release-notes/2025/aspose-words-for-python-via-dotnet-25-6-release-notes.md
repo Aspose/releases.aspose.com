@@ -115,7 +115,7 @@ Added a new **MultiPageLayout** factory class to create the muli-page layout con
 
 This use case explains how to save a 5-page document into JPG image with multi-page layout settings:
 
-{< highlight python >}}
+{{< highlight python >}}
 doc = aw.Document(file_name=MY_DIR + 'Rendering.docx')
 options = aw.saving.ImageSaveOptions(aw.SaveFormat.JPEG)
 # Set up a grid layout with:
