@@ -6,11 +6,11 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/php/new-releases/aspose.barcode-for-php-via-java-25.5.1/"
 folder_name: "Aspose.BarCode pour PHP via Java 25.5.1"
-download_link: "/barcode/php/new-releases/aspose.barcode-for-php-via-java-25.5.1/08182370f111e6fa78cecf1a28b92e00-5-13207"
+download_link: "/barcode/php/new-releases/aspose.barcode-for-php-via-java-25.5.1/a5c2fafe078f84de845e3185cfad6aed-5-13207"
 download_text: "Télécharger"
 intro_text: "Aspose.BarCode pour PHP via Java 25.5.1 est sorti"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 10/6/2025 Téléchargers: 1  Views: 1 "
+download_count: " 10/6/2025 Téléchargers: 3  Views: 1 "
 file_size: "File Size: 20.52MB"
 parent_path: "barcode/php"
 section_parent_path: "barcode/php"
@@ -24,19 +24,19 @@ weight: 85
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.BarCode pour PHP via Java 25.5.1" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Télécharger" link="/barcode/php/new-releases/aspose.barcode-for-php-via-java-25.5.1/08182370f111e6fa78cecf1a28b92e00-5-13207" >}}
+    {{< Releases/ReleasesSingleButtons text="Télécharger" link="/barcode/php/new-releases/aspose.barcode-for-php-via-java-25.5.1/a5c2fafe078f84de845e3185cfad6aed-5-13207" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Téléchargers: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-08182370f111e6fa78cecf1a28b92e00-5-13207" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-a5c2fafe078f84de845e3185cfad6aed-5-13207" >}} 3 {{< /Common/li >}}
       {{< Common/li >}} Taille du fichier: {{< /Common/li >}}
-      {{< Common/li id="size-update-08182370f111e6fa78cecf1a28b92e00-5-13207" >}} 20.52MB {{< /Common/li >}}
+      {{< Common/li id="size-update-a5c2fafe078f84de845e3185cfad6aed-5-13207" >}} 20.52MB {{< /Common/li >}}
 
       {{< Common/li >}} date ajoutée: {{< /Common/li >}}
-      {{< Common/li id="added-update-08182370f111e6fa78cecf1a28b92e00-5-13207" >}}10/6/2025 {{< /Common/li >}}
+      {{< Common/li id="added-update-a5c2fafe078f84de845e3185cfad6aed-5-13207" >}}10/6/2025 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
