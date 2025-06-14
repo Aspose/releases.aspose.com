@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/php/new-releases/aspose.barcode-for-php-via-java-25.5.1/"
 folder_name: "Aspose.BarCode para PHP a través de Java 25.5.1"
-download_link: "/barcode/php/new-releases/aspose.barcode-for-php-via-java-25.5.1/a5c2fafe078f84de845e3185cfad6aed-5-13207"
+download_link: "/barcode/php/new-releases/aspose.barcode-for-php-via-java-25.5.1/6517df85ceb94f178114aa9997912272-5-13207"
 download_text: "Descargar"
 intro_text: "Se ha lanzado Aspose.BarCode para PHP a través de Java 25.5.1"
 image_link: "/resources/img/zip-icon.png"
@@ -24,19 +24,19 @@ weight: 85
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.BarCode para PHP a través de Java 25.5.1" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Descargar" link="/barcode/php/new-releases/aspose.barcode-for-php-via-java-25.5.1/a5c2fafe078f84de845e3185cfad6aed-5-13207" >}}
+    {{< Releases/ReleasesSingleButtons text="Descargar" link="/barcode/php/new-releases/aspose.barcode-for-php-via-java-25.5.1/6517df85ceb94f178114aa9997912272-5-13207" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="detalles del archivo">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Descargars: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-a5c2fafe078f84de845e3185cfad6aed-5-13207" >}} 3 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-6517df85ceb94f178114aa9997912272-5-13207" >}} 3 {{< /Common/li >}}
       {{< Common/li >}} Tamaño del archivo: {{< /Common/li >}}
-      {{< Common/li id="size-update-a5c2fafe078f84de845e3185cfad6aed-5-13207" >}} 20.52MB {{< /Common/li >}}
+      {{< Common/li id="size-update-6517df85ceb94f178114aa9997912272-5-13207" >}} 20.52MB {{< /Common/li >}}
 
       {{< Common/li >}} Fecha Agregada: {{< /Common/li >}}
-      {{< Common/li id="added-update-a5c2fafe078f84de845e3185cfad6aed-5-13207" >}}10/6/2025 {{< /Common/li >}}
+      {{< Common/li id="added-update-6517df85ceb94f178114aa9997912272-5-13207" >}}10/6/2025 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
