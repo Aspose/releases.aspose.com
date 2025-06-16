@@ -28,7 +28,7 @@ Since Aspose.PDF 25.6, we've added support for the latest .NET 9. At the same ti
 
 ### Features and Enhancements
 
-Ability to get and set alternative text for the images has been added for `XImage` class. The task, ID PDFNET-37355, has been carried out on the User request. New `GetAlternativeText` and `TrySetAlternativeText` methods allow you to [get and set the alternative text](https://docs.aspose.com/pdf/net/get-set-alt-text/) corresponding to an image.
+The ability to get and set alternative text for the images has been added for the `XImage` class. The task, ID PDFNET-37355, has been carried out on the User request. New `GetAlternativeText` and `TrySetAlternativeText` methods allow you to [get and set the alternative text](https://docs.aspose.com/pdf/net/get-set-alt-text/) corresponding to an image.```
 The following code snippet shows you how to use these methods to set alternative text for an image in a PDF file and get it.
 
 ```csharp
