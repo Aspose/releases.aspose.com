@@ -24,7 +24,7 @@ This page contains release notes information for Aspose.PDF for .NET 25.6.
 
 ### Changes in .NET and .NET Framework versions support
 
-Since Aspose.PDF 25.6 we've added support of the latest .NET 9. At the same time, support for .NET 6 has ceased. Also, at the request of Windows Server 2019 Users, we've downgraded the version of the provided .NET framework assembly from 4.8.1 to 4.8.
+Since Aspose.PDF 25.6, we've added support for the latest .NET 9. At the same time, support for .NET 6 has ceased. Also, at the request of Windows Server 2019 Users, we've downgraded the version of the provided .NET framework assembly from 4.8.1 to 4.8.
 
 ### Features and Enhancements
 
