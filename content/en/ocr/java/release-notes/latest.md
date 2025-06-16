@@ -18,7 +18,7 @@ keywords:
 ---
 
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for Java 25.5.0 (May 2025)** release.
+This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for Java 25.6.0 (June 2025)** release.
 
 GPU version: **23.10.1**
 {{% /alert %}}
@@ -27,32 +27,55 @@ GPU version: **23.10.1**
 
 Key | Summary | Category
 --- | ------- | --------
-OCRJAVA&#8209;430 | Exposed control over ONNX session options for advanced users. | New feature
-OCRJAVA&#8209;429 | Optimization: create classes for one-time InferenceSession initialization and optimize performance. | Enhancement
+OCRJAVA&#8209;432 | Add Debug mode in the API to allow for customer view the areas detection results on the image. | New feature
+OCRJAVA&#8209;431 | Add the Confidence for the text lines in the RecognitionResult. | New feature
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OCR for Java 25.5.0** that may affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OCR for Java 25.6.0** that June affect the code of existing applications.
 
 ### Added public APIs:
 
 The following public APIs have been introduced in this release:
 
-### `OnnxRuntimeSessionOptions` class
+#### Debug mode
 
-Allows overriding the default ONNX runtime settings. Aspose.OCR for Java is already optimized, so modifications are recommended only for fine-tuning the library's behavior on specific hardware.
-
-`OnnxRuntimeSessionOptions` is a static class that exposes the following properties:
+You can save intermediate image processing results — such as preprocessed images and text detection overlays — for visual inspection and troubleshooting. Debug mode is enabled through static properties of the AsposeOCR class:
 
 Property | Type | Description
 -------- | -----| -----------
-`graphOptimizationLevel` | `GraphOptimizationLevelOnnx` | Graph optimization level for the session:<ul><li>`ORT_DISABLE_ALL` - disable all optimizations.</li><li>`ORT_ENABLE_BASIC` - enable basic optimizations, such as node fusion and constant folding.</li><li>`ORT_ENABLE_EXTENDED` - enable extended optimizations, including memory layout improvements.</li><li>`ORT_ENABLE_ALL` - enable all available optimizations for maximum performance.</li></ul>By default, all available optimizations are enabled.
-`executionMode` | `ExecutionModeOnnx` | Execution mode for the session:<ul><li>`ORT_SEQUENTIAL` - execute operators sequentially, ensuring that each operation is completed before the next one starts.</li><li>`ORT_PARALLEL` - execute operators in parallel (whenever possible), to improve performance.</li></ul>By default, operators are executed concurrently, whenever possible.
-`intraOpNumThreads` | `int` | Number of threads for a single operations.
-`interOpNumThreads` | `int` | Number of threads for running multiple operations in parallel. If sequential execution (`ExecutionModeOnnx.ORT_SEQUENTIAL`) is enabled in `ExecutionMode` property, this value is ignored.
+`AsposeOCR.DebugMode` | `Boolean` | Enables or disables debug image saving.
+`AsposeOCR.DebugModeSaveDirectory` | `String` | Specifies the folder where debug images will be saved. If not set, the current working directory is used.
 
-{{% alert color="caution" %}} 
-If you decide to override the default ONNX runtime settings, perform it  before calling any other recognition method.
+{{% alert color="info" %}}
+**Compatibility: fully backward compatible.** See details below.
+{{% /alert %}}
+
+
+#### Confidence score
+
+Each recognized text line includes an optional confidence score — a floating-point value between `0.0` and `1.0` stored in the `confidence` field of the `LinesResult` class.
+
+This score reflects the recognition certainty of the line:
+
+* **`1.0`** — the engine is completely confident the recognition is correct.
+* **`0.0`** — recognition confidence is unknown or not calculated.
+
+> ⚠️ The value is **always set to `0.0`** when using a **temporary license**.
+
+The confidence score is only calculated for specific languages:
+
+✅ **Supported:**
+Chinese (all groups), Arabic, Hindi, European, Korean, Japanese, Telugu, Tamil, Kannada
+
+❌ **Not supported:**
+ExtLatin or languages with diacritical marks
+
+You can use this value to filter or highlight low-confidence results in your application.
+
+
+{{% alert color="info" %}}
+**Compatibility: fully backward compatible.** See details below.
 {{% /alert %}}
 
 ### Updated public APIs:
@@ -63,9 +86,26 @@ _No changes._
 
 The following public APIs have been marked as deprecated and will be removed in **25.10.0 (October 2025)** release:
 
+#### `RectangleOutput` class
+
+#### `AsposeOCR.DetectRectangles` method
+
 #### `RecognitionResult.recognitionAreasText`
 
 #### `RecognitionResult.recognitionAreasRectangles`
+
+#### `RecognitionResult.skew`
+
+#### `CharacterRecognitionResult.ImageIndex`
+
+#### `SkewOutput.ImageIndex`
+
+#### `RecognitionResult.skew`
+
+#### `RecognitionResult.skew`
+
+#### `RecognitionResult.skew`
+
 
 ### Removed public APIs:
 
@@ -75,19 +115,50 @@ _No changes._
 
 The code samples below illustrate the changes introduced in this release:
 
-### Change the number of threads for ONNX runtime
+### Enable Debug Mode for Logging
 
 ```java
 import com.aspose.ocr.models.*;
 
-OnnxRuntimeSessionOptions.intraOpNumThreads = 8;
+// Enable debug mode to log internal processing information
+AsposeOCR.DebugMode = true;
+AsposeOCR.DebugModeSaveDirectory = "D:\\output\\debug";
+
 // Initialize recognition API
 AsposeOCR api = new AsposeOCR();
+
 // Add an image to OcrInput object
 OcrInput input = new OcrInput(InputType.SingleImage);
 input.Add("source.png");
+
 // Recognize image
-ArrayList<RecognitionResult> results = api.Recognize(input);
+OcrOutput results = api.Recognize(input);
+
 ```
 
+### Get Confidence of Recognized Text
+```java
 
+import com.aspose.ocr.models.*;
+
+// Initialize recognition API
+AsposeOCR api = new AsposeOCR();
+
+// Add an image to OcrInput object
+OcrInput input = new OcrInput(InputType.SingleImage);
+input.Add("source.png");
+
+// Recognize image
+OcrOutput results = api.Recognize(input);
+
+// Print recognized text with confidence
+for (RecognitionResult result : results) {
+    System.out.println("Text: " + result.recognitionText);
+
+    for(RecognitionResult.LinesResult line : result.recognitionLinesResult){
+			System.out.print(line.textInLine+" ");
+			System.out.println("Confidence: " + line.confidence);
+		}    
+}
+
+```
