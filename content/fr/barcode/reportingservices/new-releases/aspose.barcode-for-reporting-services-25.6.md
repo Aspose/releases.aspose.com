@@ -1,0 +1,51 @@
+---
+
+title: "Téléchargements ---Nouvelles versions-aspose.barcode-for-reporting-services-25.6"
+description: " "
+keywords: ""
+page_type: single_release_page
+folder_link: "/barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-25.6/"
+folder_name: "Aspose.BarCode pour Reporting Services 25.6"
+download_link: "/barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-25.6/2378057348dbd4af70d1535027254e9f-3-13262"
+download_text: "Télécharger"
+intro_text: "Il contient Aspose.BarCode pour la version Reporting Services 25.6."
+image_link: "/resources/img/msi-icon.png"
+download_count: " 18/6/2025 Téléchargers: 1  Views: 1 "
+file_size: "File Size: 12.55MB"
+parent_path: "barcode/reportingservices"
+section_parent_path: "barcode/reportingservices"
+
+tags: ""
+release_notes_url: "https://releases.aspose.com/barcode/reportingservices/release-notes/2025/aspose-barcode-for-reporting-services-25-6-release-notes/"
+weight: 344
+
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.BarCode pour Reporting Services 25.6" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text="Télécharger" link="/barcode/reportingservices/new-releases/aspose.barcode-for-reporting-services-25.6/2378057348dbd4af70d1535027254e9f-3-13262" >}}
+    {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/barcode" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}
+    {{< Releases/ReleasesDetailsUl >}}
+      {{< Common/li >}} Téléchargers: {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-2378057348dbd4af70d1535027254e9f-3-13262" >}} 1 {{< /Common/li >}}
+      {{< Common/li >}} Taille du fichier: {{< /Common/li >}}
+      {{< Common/li id="size-update-2378057348dbd4af70d1535027254e9f-3-13262" >}} 12.55MB {{< /Common/li >}}
+
+      {{< Common/li >}} date ajoutée: {{< /Common/li >}}
+      {{< Common/li id="added-update-2378057348dbd4af70d1535027254e9f-3-13262" >}}18/6/2025 {{< /Common/li >}}
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/barcode/reportingservices/release-notes/2025/aspose-barcode-for-reporting-services-25-6-release-notes/'>https://releases.aspose.com/barcode/reportingservices/release-notes/2025/aspose-barcode-for-reporting-services-25-6-release-notes/</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>La description</h4><div class="HTMLDescription">Il contient Aspose.BarCode pour la version Reporting Services 25.6.</div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+
