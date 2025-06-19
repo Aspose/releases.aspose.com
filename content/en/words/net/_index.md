@@ -31,8 +31,6 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.Words/" text="N
 
 ![Nuget](https://img.shields.io/nuget/v/Aspose.Words) ![Nuget](https://img.shields.io/nuget/dt/Aspose.Words?label=nuget%20downloads)
 
-[![banner](https://raw.githubusercontent.com/Aspose/aspose.github.io/master/img/banners/aspose_words-for-net-banner.png)](https://downloads.aspose.com/words/net)
-
 [Product Page](https://products.aspose.com/words/net/) | [Docs](https://docs.aspose.com/words/net/) | [Demos](https://products.aspose.app/words/family) | [API Reference](https://reference.aspose.com/words/net/) | [Examples](https://github.com/aspose-words/Aspose.Words-for-.NET/tree/master/Examples) | [Blog](https://blog.aspose.com/category/words/) | [Releases](https://releases.aspose.com/words/net/) | [Free Support](https://forum.aspose.com/c/words) | [Temporary License](https://purchase.aspose.com/temporary-license/)
 
 [Aspose.Words for .NET](https://products.aspose.com/words/net/) is a powerful class library designed for C#, F#, and VB.NET developers to perform a wide range of document-processing tasks, including document generation, editing, conversion, and rendering. The library is fully self-contained and does not require any third-party software like Microsoft Word or OpenOffice. With the addition of our new AI-powered features—such as document summarization, translation, and grammar checking—you can now bring intelligent automation into your document workflows using your preferred AI model.
@@ -53,66 +51,6 @@ This package can be used to develop applications for a vast range of operating s
 - Provides a rich set of utility functions, you can use to [split a document](https://docs.aspose.com/words/net/split-a-document/) into parts, [join documents together](https://docs.aspose.com/words/net/insert-and-append-documents/), [compare documents](https://docs.aspose.com/words/net/compare-documents/), and much more.
 
 To become familiar with the most popular Aspose.Words functionality, please have a look at our [free online applications](https://products.aspose.app/words/family).
-
-## Supported Formats
-| Format    | Description                                                   | Load | Save |
-|-----------|-----------------------------------------------------------------|------|------|
-| **Microsoft Word Formats** | **Formats related to Microsoft Word document and template files** |   |   |
-| DOC       | Microsoft Word 97–2003 document format | :heavy_check_mark:    | :heavy_check_mark:    |
-| DOT       | 	Microsoft Word 97–2003 template format | :heavy_check_mark:    | :heavy_check_mark:    |
-| DOCX      | Microsoft Word Open XML document format | :heavy_check_mark:    | :heavy_check_mark:    |
-| DOTX      | Microsoft Word Open XML template format | :heavy_check_mark:    | :heavy_check_mark:    |
-| DOTM      | Microsoft Word Open XML template format with macros | :heavy_check_mark:    | :heavy_check_mark:    |
-| FlatOpc   | Open Packaging Convention flat file format for Word documents | :heavy_check_mark:    | :heavy_check_mark:    |
-| FlatOpcMacroEnabled | Open Packaging Convention flat file format for macro-enabled documents | :heavy_check_mark:    | :heavy_check_mark:    |
-| FlatOpcTemplate | Open Packaging Convention flat file format for templates | :heavy_check_mark:    | :heavy_check_mark:    |
-| FlatOpcTemplateMacroEnabled | Open Packaging Convention flat file format for macro-enabled templates | :heavy_check_mark:    | :heavy_check_mark:    |
-| RTF       | Rich Text Format, used for cross-platform document exchange | :heavy_check_mark:    | :heavy_check_mark:    |
-| WML       | XML-based format for Word documents introduced in Word 2003 | :heavy_check_mark:    | :heavy_check_mark:    |
-| DocPreWord60 | Microsoft Word formats older than Word 6.0             | :heavy_check_mark:    |      |
-| **OpenDocument Formats** | **OpenDocument file formats used by OpenOffice and LibreOffice** |   |   |
-| ODT       | OpenDocument Text format, used by OpenOffice and LibreOffice | :heavy_check_mark:    | :heavy_check_mark:    |
-| OTT       | OpenDocument Text template format | :heavy_check_mark:    | :heavy_check_mark:    |
-| **Web Formats** | **Formats for web-based document presentation.**  |   |   |
-| HTML      | HyperText Markup Language for web pages | :heavy_check_mark:    | :heavy_check_mark:    |
-| MHTML     | MIME encapsulation of aggregate HTML documents (web archive format) | :heavy_check_mark:    | :heavy_check_mark:    |
-| **Text Formats** | **Plain text format and formats for lightweight markup language text files** |   |   |
-| MD        | Markdown format for lightweight text-to-HTML conversion | :heavy_check_mark:    | :heavy_check_mark:    |
-| TXT       | Plain text format | :heavy_check_mark:    | :heavy_check_mark:    |
-| **Fixed-Layout Formats** | **Formats for fixed-layout document representation** |   |   |
-| PDF       | Portable Document Format, widely used for fixed-layout documents | :heavy_check_mark:    | :heavy_check_mark:    |
-| **eBook Formats** | **Formats used for eBooks** |   |   |
-| AZW3      | Amazon Kindle eBook format | :heavy_check_mark:    | :heavy_check_mark:    |
-| EPUB      | Open standard eBook format | :heavy_check_mark:    | :heavy_check_mark:    |
-| MOBI      | Mobipocket eBook format | :heavy_check_mark:    | :heavy_check_mark:    |
-| CHM       | Compiled HTML Help format, used for software documentation | :heavy_check_mark:    |     |
-| **XPS Formats** | **XML-based formats for document printing and archiving** |   |   |
-| XPS       | XML Paper Specification format, used for document printing and archivin          |      | :heavy_check_mark:    |
-| OpenXps   | Open standard for XPS documents          |      | :heavy_check_mark:    |
-| **PostScript Formats** | **PostScript-based formats for printing workflows** |   |   |
-| PS        | PostScript format, commonly used for professional printing workflows          |      | :heavy_check_mark:    |
-| EPS       | Encapsulated PostScript, a variant of PostScript for images and graphics          |      | :heavy_check_mark:    |
-| **Printer Formats** | **Formats used for direct printing instructions** |   |   |
-| PCL       | Printer Command Language, used by HP printers          |      | :heavy_check_mark:    |
-| **XAML and HTML Fixed Formats** | **Fixed and flow-layout formats for digital viewing** |   |   |
-| XamlFixed | XAML-based fixed layout format for displaying documents          |      | :heavy_check_mark:    |
-| HtmlFixed | HTML-based fixed layout format for displaying documents in web browser          |      | :heavy_check_mark:    |
-| XamlFlow  | XAML-based flow layout format for displaying reflowable content          |      | :heavy_check_mark:    |
-| XamlFlowPack | Packaged XAML flow layout format          |      | :heavy_check_mark:    |
-| **Image Formats** | **Formats for converting documents into image representations** |   |   |
-| SVG       | Scalable Vector Graphics format for vector-based images          |      | :heavy_check_mark:    |
-| TIFF      | Tagged Image File Format for high-quality raster images          |      | :heavy_check_mark:    |
-| PNG       | Portable Network Graphics format for lossless raster images          |      | :heavy_check_mark:    |
-| BMP       | Bitmap format for uncompressed raster images          |      | :heavy_check_mark:    |
-| JPEG      | Joint Photographic Experts Group format for compressed raster images          |      | :heavy_check_mark:    |
-| GIF       | Graphics Interchange Format, often used for animations and small images          |      | :heavy_check_mark:    |
-| WEBP      | Modern image format providing both lossy and lossless compressio          |      | :heavy_check_mark:    |
-| **Vector Graphics Formats** | **Formats for vector graphics** |   |   |
-| EMF       | Enhanced Metafile format for vector graphics on Windows platform          |      | :heavy_check_mark:    |
-| **Spreadsheet Formats** | **Formats for handling spreadsheet files**  |   |   |
-| XLSX      | Microsoft Excel Open XML spreadsheet format          |      | :heavy_check_mark:    |
-| **XML Formats** | **Custom XML-based formats**  |   |   |
-| XML       | Custom XML-based document format             | :heavy_check_mark:    |      |
 
 ## Getting Started
 
