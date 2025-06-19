@@ -1,8 +1,8 @@
 ---
-id: "aspose-html-for-net-25-5-release-notes"
-slug: "aspose-html-for-net-25-5-release-notes"
-linktitle: "Aspose.HTML for .NET 25.5 Release Notes"
-title: "Aspose.HTML for .NET 25.5 Release Notes"
+id: "aspose-html-for-net-25-6-release-notes"
+slug: "aspose-html-for-net-25-6-release-notes"
+linktitle: "Aspose.HTML for .NET 25.6 Release Notes"
+title: "Aspose.HTML for .NET 25.6 Release Notes"
 weight: 70
 description: "This release of Aspose.HTML for .NET introduces key improvements: enhanced Document API with CancellationToken support for the Navigate() method to manage asynchronous operations, and optimized processing of CSS @font-face rules. It also significantly boosts output rendering fidelity across all formats and reduces memory consumption by over 28% for complex documents."
 type: "repository"
