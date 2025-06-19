@@ -43,13 +43,14 @@ This package can be used to develop applications for a vast range of operating s
 
 ## Functionality
 
-- Provides comprehensive document import and export with 35+ supported file formats. This allows developers to convert documents from one file format to another. For example, you can convert PDF to Word and Word to PDF documents with professional quality.
+- Provides comprehensive [document import and export](https://docs.aspose.com/words/net/loading-saving-and-converting/) with [35+ supported file formats](https://docs.aspose.com/words/net/supported-document-formats/). This allows developers to [convert documents](https://docs.aspose.com/words/net/convert-a-document/) from [one file format](https://apireference.aspose.com/words/net/aspose.words/loadformat) to [another](https://apireference.aspose.com/words/net/aspose.words/saveformat). For example, you can convert PDF to Word and Word to PDF documents with professional quality.
+- Provides [AI-powered features](https://docs.aspose.com/words/net/ai-powered-features/) to summarize documents, translate content, and check grammar, enhancing document intelligence and productivity.
 - Provides full access to all Word and OpenOffice document elements, including formatting properties and styling.
-- Provides high-fidelity rendering of Word documents to PDF, JPG, PNG and other imaging formats.
-- Provides the ability to print OpenOffice and Word documents programmatically.
-- Supports powerful Report Generation with Mail Merge functionality, which allows to create documents dynamically using templates and data sources.
-- Contains a flexible LINQ Reporting Engine, designed to fetch data from databases, XML, JSON, OData, external documents.
-- Provides a rich set of utility functions, you can use to split a document into parts, join documents together, compare documents, and much more.
+- Provides [high-fidelity rendering](https://docs.aspose.com/words/net/rendering/) of Word documents to PDF, JPG, PNG and other imaging formats.
+- Provides the ability to [print](https://docs.aspose.com/words/net/print-a-document-programmatically-or-using-dialogs/) OpenOffice and Word documents programmatically.
+- Supports powerful [Report Generation with Mail Merge](https://docs.aspose.com/words/net/mail-merge-and-reporting/) functionality, which allows creating documents dynamically using templates and data sources.
+- Contains a flexible [LINQ Reporting Engine](https://docs.aspose.com/words/net/linq-reporting-engine/), designed to fetch data from databases, XML, JSON, OData, external documents.
+- Provides a rich set of utility functions, you can use to [split a document](https://docs.aspose.com/words/net/split-a-document/) into parts, [join documents together](https://docs.aspose.com/words/net/insert-and-append-documents/), [compare documents](https://docs.aspose.com/words/net/compare-documents/), and much more.
 
 To become familiar with the most popular Aspose.Words functionality, please have a look at our [free online applications](https://products.aspose.app/words/family).
 ### Supported Read and Write Formats
