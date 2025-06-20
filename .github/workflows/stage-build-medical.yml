@@ -1,0 +1,368 @@
+# This is a basic workflow to help you get started with Actions
+
+name: staging-medical
+
+# Controls when the action will run.
+on:
+  # Triggers the workflow on push or pull request events but only for the mentioned branches
+  push:
+    branches: [ stage ]
+    paths:
+      - 'content/de/medical/**'
+      - 'content/el/medical/**'
+      - 'content/en/medical/**'
+      - 'content/es/medical/**'
+      - 'content/fr/medical/**'
+      - 'content/id/medical/**'
+      - 'content/ja/medical/**'
+      - 'content/pt/medical/**'
+      - 'content/ru/medical/**'
+      - 'content/tr/medical/**'
+      - 'content/zh/medical/**'
+
+  # Allows the workflow run manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  # This workflow contains a single job called "deploy"
+  deploy:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+          submodules: true  # Fetch Hugo themes
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+          hugo-version: '0.101.0'
+
+    - name: Remove unwanted folders
+      run: |
+
+        if [ -d "./content/de" ]; then
+        find ./content/de -mindepth 1 ! -regex '^./content/de/medical\(/.*\)?' -delete
+        fi
+        if [ -d "./content/el" ]; then
+        find ./content/el -mindepth 1 ! -regex '^./content/el/medical\(/.*\)?' -delete
+        fi
+        if [ -d "./content/en" ]; then
+        find ./content/en -mindepth 1 ! -regex '^./content/en/medical\(/.*\)?' -delete
+        fi
+        if [ -d "./content/es" ]; then
+        find ./content/es -mindepth 1 ! -regex '^./content/es/medical\(/.*\)?' -delete
+        fi
+        if [ -d "./content/fr" ]; then
+        find ./content/fr -mindepth 1 ! -regex '^./content/fr/medical\(/.*\)?' -delete
+        fi
+        if [ -d "./content/id" ]; then
+        find ./content/id -mindepth 1 ! -regex '^./content/id/medical\(/.*\)?' -delete
+        fi
+        if [ -d "./content/ja" ]; then
+        find ./content/ja -mindepth 1 ! -regex '^./content/ja/medical\(/.*\)?' -delete
+        fi
+        if [ -d "./content/pt" ]; then
+        find ./content/pt -mindepth 1 ! -regex '^./content/pt/medical\(/.*\)?' -delete
+        fi
+        if [ -d "./content/ru" ]; then
+        find ./content/ru -mindepth 1 ! -regex '^./content/ru/medical\(/.*\)?' -delete
+        fi
+        if [ -d "./content/tr" ]; then
+        find ./content/tr -mindepth 1 ! -regex '^./content/tr/medical\(/.*\)?' -delete
+        fi
+        if [ -d "./content/zh" ]; then
+        find ./content/zh -mindepth 1 ! -regex '^./content/zh/medical\(/.*\)?' -delete
+        fi
+        rm ./layouts/sitemap.xml;
+        ls content/ -all;
+
+    - name: Build medical pages
+      run: hugo --config "./config/config-stage-releases-aspose-com.toml"  -b "https://releases-qa.aspose.com/" --disableKinds=taxonomy,category --cleanDestinationDir --minify
+
+    - name: Prepare public folder
+      run: |
+
+        mv public/de/sitemap.xml public/de/sitemap-medical.xml;
+        mv public/el/sitemap.xml public/el/sitemap-medical.xml;
+        mv public/en/sitemap.xml public/en/sitemap-medical.xml;
+        mv public/es/sitemap.xml public/es/sitemap-medical.xml;
+        mv public/fr/sitemap.xml public/fr/sitemap-medical.xml;
+        mv public/id/sitemap.xml public/id/sitemap-medical.xml;
+        mv public/ja/sitemap.xml public/ja/sitemap-medical.xml;
+        mv public/pt/sitemap.xml public/pt/sitemap-medical.xml;
+        mv public/ru/sitemap.xml public/ru/sitemap-medical.xml;
+        mv public/tr/sitemap.xml public/tr/sitemap-medical.xml;
+        mv public/zh/sitemap.xml public/zh/sitemap-medical.xml;
+
+        rm public/index.html;
+        rm public/index.json;
+        ls public -all;
+
+    - name: Upload medical sitemap index
+      uses: zdurham/s3-upload-github-action@master
+      with:
+        args: --acl public-read
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        S3_BUCKET: 'releases-qa.aspose.com'
+        FILE: 'public/sitemap.xml'
+        AWS_REGION: 'us-west-2'
+        S3_KEY: 'sitemap.xml'
+
+    - name: Upload default language folder
+      uses: jakejarvis/s3-sync-action@master
+      with:
+        args: --acl public-read --follow-symlinks --delete
+      env:
+        AWS_S3_BUCKET: 'releases-qa.aspose.com'
+        AWS_ACCESS_KEY_ID:  ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        AWS_REGION: 'us-west-2'
+        SOURCE_DIR: 'public/medical'
+        DEST_DIR: 'medical'
+
+    - name: Upload en sitemap
+      uses: swimlane/s3-upload-file-action@main
+      with:
+        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
+        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
+        aws_bucket: 'releases-qa.aspose.com'
+        file_path: 'public/en/sitemap-medical.xml'
+        file_mime_type: 'application/xml'
+        dest_dir: 'en/'
+
+    - name: Upload de folder
+      uses: jakejarvis/s3-sync-action@master
+      with:
+        args: --acl public-read --follow-symlinks --delete
+      env:
+        AWS_S3_BUCKET: 'releases-qa.aspose.com'
+        AWS_ACCESS_KEY_ID:  ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        AWS_REGION: 'us-west-2'
+        SOURCE_DIR: 'public/de/medical'
+        DEST_DIR: 'de/medical'
+
+    - name: Upload de sitemap
+      uses: swimlane/s3-upload-file-action@main
+      with:
+        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
+        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
+        aws_bucket: 'releases-qa.aspose.com'
+        file_path: 'public/de/sitemap-medical.xml'
+        file_mime_type: 'application/xml'
+        dest_dir: 'de/'
+
+    - name: Upload el folder
+      uses: jakejarvis/s3-sync-action@master
+      with:
+        args: --acl public-read --follow-symlinks --delete
+      env:
+        AWS_S3_BUCKET: 'releases-qa.aspose.com'
+        AWS_ACCESS_KEY_ID:  ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        AWS_REGION: 'us-west-2'
+        SOURCE_DIR: 'public/el/medical'
+        DEST_DIR: 'el/medical'
+
+    - name: Upload el sitemap
+      uses: swimlane/s3-upload-file-action@main
+      with:
+        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
+        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
+        aws_bucket: 'releases-qa.aspose.com'
+        file_path: 'public/el/sitemap-medical.xml'
+        file_mime_type: 'application/xml'
+        dest_dir: 'el/'
+
+    - name: Upload es folder
+      uses: jakejarvis/s3-sync-action@master
+      with:
+        args: --acl public-read --follow-symlinks --delete
+      env:
+        AWS_S3_BUCKET: 'releases-qa.aspose.com'
+        AWS_ACCESS_KEY_ID:  ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        AWS_REGION: 'us-west-2'
+        SOURCE_DIR: 'public/es/medical'
+        DEST_DIR: 'es/medical'
+
+    - name: Upload es sitemap
+      uses: swimlane/s3-upload-file-action@main
+      with:
+        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
+        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
+        aws_bucket: 'releases-qa.aspose.com'
+        file_path: 'public/es/sitemap-medical.xml'
+        file_mime_type: 'application/xml'
+        dest_dir: 'es/'
+
+    - name: Upload fr folder
+      uses: jakejarvis/s3-sync-action@master
+      with:
+        args: --acl public-read --follow-symlinks --delete
+      env:
+        AWS_S3_BUCKET: 'releases-qa.aspose.com'
+        AWS_ACCESS_KEY_ID:  ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        AWS_REGION: 'us-west-2'
+        SOURCE_DIR: 'public/fr/medical'
+        DEST_DIR: 'fr/medical'
+
+    - name: Upload fr sitemap
+      uses: swimlane/s3-upload-file-action@main
+      with:
+        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
+        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
+        aws_bucket: 'releases-qa.aspose.com'
+        file_path: 'public/fr/sitemap-medical.xml'
+        file_mime_type: 'application/xml'
+        dest_dir: 'fr/'
+
+    - name: Upload id folder
+      uses: jakejarvis/s3-sync-action@master
+      with:
+        args: --acl public-read --follow-symlinks --delete
+      env:
+        AWS_S3_BUCKET: 'releases-qa.aspose.com'
+        AWS_ACCESS_KEY_ID:  ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        AWS_REGION: 'us-west-2'
+        SOURCE_DIR: 'public/id/medical'
+        DEST_DIR: 'id/medical'
+
+    - name: Upload id sitemap
+      uses: swimlane/s3-upload-file-action@main
+      with:
+        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
+        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
+        aws_bucket: 'releases-qa.aspose.com'
+        file_path: 'public/id/sitemap-medical.xml'
+        file_mime_type: 'application/xml'
+        dest_dir: 'id/'
+
+    - name: Upload ja folder
+      uses: jakejarvis/s3-sync-action@master
+      with:
+        args: --acl public-read --follow-symlinks --delete
+      env:
+        AWS_S3_BUCKET: 'releases-qa.aspose.com'
+        AWS_ACCESS_KEY_ID:  ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        AWS_REGION: 'us-west-2'
+        SOURCE_DIR: 'public/ja/medical'
+        DEST_DIR: 'ja/medical'
+
+    - name: Upload ja sitemap
+      uses: swimlane/s3-upload-file-action@main
+      with:
+        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
+        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
+        aws_bucket: 'releases-qa.aspose.com'
+        file_path: 'public/ja/sitemap-medical.xml'
+        file_mime_type: 'application/xml'
+        dest_dir: 'ja/'
+
+    - name: Upload pt folder
+      uses: jakejarvis/s3-sync-action@master
+      with:
+        args: --acl public-read --follow-symlinks --delete
+      env:
+        AWS_S3_BUCKET: 'releases-qa.aspose.com'
+        AWS_ACCESS_KEY_ID:  ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        AWS_REGION: 'us-west-2'
+        SOURCE_DIR: 'public/pt/medical'
+        DEST_DIR: 'pt/medical'
+
+    - name: Upload pt sitemap
+      uses: swimlane/s3-upload-file-action@main
+      with:
+        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
+        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
+        aws_bucket: 'releases-qa.aspose.com'
+        file_path: 'public/pt/sitemap-medical.xml'
+        file_mime_type: 'application/xml'
+        dest_dir: 'pt/'
+
+    - name: Upload ru folder
+      uses: jakejarvis/s3-sync-action@master
+      with:
+        args: --acl public-read --follow-symlinks --delete
+      env:
+        AWS_S3_BUCKET: 'releases-qa.aspose.com'
+        AWS_ACCESS_KEY_ID:  ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        AWS_REGION: 'us-west-2'
+        SOURCE_DIR: 'public/ru/medical'
+        DEST_DIR: 'ru/medical'
+
+    - name: Upload ru sitemap
+      uses: swimlane/s3-upload-file-action@main
+      with:
+        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
+        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
+        aws_bucket: 'releases-qa.aspose.com'
+        file_path: 'public/ru/sitemap-medical.xml'
+        file_mime_type: 'application/xml'
+        dest_dir: 'ru/'
+
+    - name: Upload tr folder
+      uses: jakejarvis/s3-sync-action@master
+      with:
+        args: --acl public-read --follow-symlinks --delete
+      env:
+        AWS_S3_BUCKET: 'releases-qa.aspose.com'
+        AWS_ACCESS_KEY_ID:  ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        AWS_REGION: 'us-west-2'
+        SOURCE_DIR: 'public/tr/medical'
+        DEST_DIR: 'tr/medical'
+
+    - name: Upload tr sitemap
+      uses: swimlane/s3-upload-file-action@main
+      with:
+        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
+        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
+        aws_bucket: 'releases-qa.aspose.com'
+        file_path: 'public/tr/sitemap-medical.xml'
+        file_mime_type: 'application/xml'
+        dest_dir: 'tr/'
+
+    - name: Upload zh folder
+      uses: jakejarvis/s3-sync-action@master
+      with:
+        args: --acl public-read --follow-symlinks --delete
+      env:
+        AWS_S3_BUCKET: 'releases-qa.aspose.com'
+        AWS_ACCESS_KEY_ID:  ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        AWS_REGION: 'us-west-2'
+        SOURCE_DIR: 'public/zh/medical'
+        DEST_DIR: 'zh/medical'
+
+    - name: Upload zh sitemap
+      uses: swimlane/s3-upload-file-action@main
+      with:
+        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
+        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
+        aws_bucket: 'releases-qa.aspose.com'
+        file_path: 'public/zh/sitemap-medical.xml'
+        file_mime_type: 'application/xml'
+        dest_dir: 'zh/'
+
+    # Invalidate Cloudfront (this action)
+    - name: invalidate
+      uses: chetan/invalidate-cloudfront-action@master
+      env:
+        DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION }}
+        PATHS: / /index.html /index.json /sitemap.xml /medical/* /de/medical/* /el/medical/* /en/medical/* /es/medical/* /fr/medical/* /id/medical/* /ja/medical/* /pt/medical/* /ru/medical/* /tr/medical/* /zh/medical/*
+        AWS_REGION: 'us-west-2'
+        AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
