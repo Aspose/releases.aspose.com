@@ -27,6 +27,7 @@ This page contains release notes information for [Aspose.Tasks for .Net 25.5](ht
 | TASKSNET-710 | Implement updating of VBA source code for the existing VBA modules in MPP file | New Feature |
 | TASKSNET-11496 | Add VbaModuleType to public API | Enhancement |
 | TASKSNET-11484 | Fix VBA Forms, Project and ClassModule are not included in VbaProject.Modules | Enhancement |
+| TASKSNET-3422 | Add rendering of "Title Horizontal" and "Title Vertical" gridlines of Gantt chart | Enhancement |
 
 ## **Public API and Backwards Incompatible Changes**
 
