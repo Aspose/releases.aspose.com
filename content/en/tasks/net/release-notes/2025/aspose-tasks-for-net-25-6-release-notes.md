@@ -66,6 +66,7 @@ This page contains release notes information for [Aspose.Tasks for .Net 25.5](ht
 
 Starting with version 25.6 source code of the existing VBA modules can be updated:
 
+```cs
 Project project = new Project("FileWithVbaProject.mpp");
 
 if (p.VbaProject.Modules.Count == 0)
@@ -76,11 +77,11 @@ if (p.VbaProject.Modules.Count == 0)
 var existingModule = project.VbaProject.Modules["Module1"];
 existingModule.SourceCode = @"Sub Method()
 MsgBox ""This is an updated text.""
-End Sub
-";
+End Sub";
            
 // WriteVba flag should be specified in order to apply changes to MPP file.
 project.Save("output.mpp", new MPPSaveOptions { WriteVba = true });
+```
 
 
 **Related issue: TASKSNET-11497 - Add and ability to add new VBA module to the project with existing VBA modules.**
