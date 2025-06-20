@@ -1,3 +1,4 @@
+---
 id: "aspose-medical-for-net-25-6-release-notes"
 slug: "aspose-medical-for-net-25-6-release-notes"
 linktitle: "Aspose.Medical for .NET 25.6 Release Notes"
