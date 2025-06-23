@@ -12,7 +12,7 @@ family_listing_page_type: "1"
 family_listing_page_venture: "4"
 family_listing_page_package: "290"
 weight: 15
-tags: ['PDF-RUST', 'RUST', 'CONVERT', 'PDF-to-DOC', 'PDF-to-DOCX', 'PDF-to-SVG', 'PDF-Images', 'PDF-Text-Extraction', 'PDF-to-Image', 'PDF-to-PNG', 'PDF-to-JPEG', 'PDF-to-BMP']
+tags: ['PDF-RUST', 'RUST', 'CONVERT', 'PDF-to-DOC', 'PDF-to-DOCX', 'PDF-to-XLSX', 'PDF-to-SVG', 'PDF-Images', 'PDF-Text-Extraction', 'PDF-to-Image', 'PDF-to-PNG', 'PDF-to-JPEG', 'PDF-to-BMP']
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/pdf/10" linktext="Support Forum" >}}
@@ -24,7 +24,7 @@ Aspose.PDF for Rust allows the developers to manipulate PDF files directly and h
 {{< Common/release-notes-link family="pdf" product="rustcpp" href="https://releases.aspose.com/pdf/rustcpp/release-notes/" text="https://releases.aspose.com/pdf/rustcpp/release-notes/"  >}}
 
 {{< Common/hr >}}
-[Product Page](https://products.aspose.com/pdf/rust-cpp/) | [Docs](https://docs.aspose.com/pdf/rust-cpp/) | [Demos](https://products.aspose.app/pdf/family) | [API Reference](https://reference.aspose.com/pdf/rust-cpp/) | [Examples](https://github.com/aspose-pdf/aspose-pdf-rust-cpp/) | [Blog](https://blog.aspose.com/caterustry/pdf/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pdf) |  [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+[Product Page](https://products.aspose.com/pdf/rust-cpp/) | [Docs](https://docs.aspose.com/pdf/rust-cpp/) | [Demos](https://products.aspose.app/pdf/family) | [API Reference](https://reference.aspose.com/pdf/rust-cpp/) | [Examples](https://github.com/aspose-pdf/aspose-pdf-rust-cpp/) | [Blog](https://blog.aspose.com/category/pdf/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/pdf) |  [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 <!-- /ProductPageContent-->
 
 {{< Tags/TagsWrapper >}}
