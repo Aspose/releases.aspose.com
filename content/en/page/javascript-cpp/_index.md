@@ -15,7 +15,7 @@ weight: 5
 
 {{< Common/h2 text="Download JavaScript Library to manipulate XPS, EPS, PS Files"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Download library from this site and include into your project. For the detailed instructions please visit the *{{< Common/link href="https://docs.aspose.com/page/javascript-cpp/installation/" text="Installation"  >}}* documentation page.
+Download library from this site and include into your project. For the detailed instructions please visit the {{<b>< Common/link href="https://docs.aspose.com/page/javascript-cpp/installation/" text="Installation"  ></b>}} documentation page.
 {{< Common/release-notes-link family="page" product="javascript-cpp" href="https://releases.aspose.com/page/javascript-cpp/release-notes/" text="https://releases.aspose.com/page/javascript-cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 ```
@@ -32,15 +32,15 @@ const AsposePageWebWorker = new Worker("AsposePageforJS.js");
 
 [Product Page](https://products.aspose.com/page/javascript-cpp/) | [Docs](https://docs.aspose.com/page/javascript-cpp/) | [Demos](https://products.aspose.app/page/family) | [API Reference](https://reference.aspose.com/page/javascript-cpp) | [Examples](https://github.com/aspose-page/Aspose.Page-for-JavaScript-C) | [Blog](https://blog.aspose.com/category/page/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/page) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
-## Why download Aspsoe.Page for JavaScript via C++?
+## Why download Aspsoe.Page for JavaScript via C++? Major Features
 
 Aspose.Page for JavaScript via C++ is an on premise JavaScript API developed on Aspose.Page for C++ library that allows you manipulateXPS/Postscript files on your own applications.
 
-## Postscript/XPS Converting Features
+### Postscript/XPS Converting Features
 
 Convert PS,EPS,XPS to BMP, TIFF, JPEG, PNG, GIF or PDF
 
-## Postscript/XPS Merging Features
+### Postscript/XPS Merging Features
 
 Merge PS, EPS, XPS to PDF or several XPS to single
 
@@ -53,11 +53,11 @@ XPS, EPS, PS
 **Fixed Layout:** PDF\
 **Image:** BMP, JPEG, PNG, GIF, TIFF
 
-## EPS functionality
+### EPS functionality
 
 Crop, resize EPS file
 
-## Save image as EPS
+### Save image as EPS
 
 ```js
   var fImageAsEPS = function (e) {
