@@ -15,7 +15,7 @@ weight: 5
 
 {{< Common/h2 text="Download JavaScript Library to manipulate XPS, EPS, PS Files"  >}}
 {{< Common/paragraph class="package-instructions">}}
-Download library from this site and include into your project. For the detailed instructions please visit the {{<b>< Common/link href="https://docs.aspose.com/page/javascript-cpp/installation/" text="Installation"  ></b>}} documentation page.
+Download library from this site and include into your project. For the detailed instructions please visit the <b>{{< Common/link href="https://docs.aspose.com/page/javascript-cpp/installation/" text="Installation"  >}}</b> documentation page.
 {{< Common/release-notes-link family="page" product="javascript-cpp" href="https://releases.aspose.com/page/javascript-cpp/release-notes/" text="https://releases.aspose.com/page/javascript-cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
 ```
