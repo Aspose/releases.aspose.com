@@ -27,6 +27,8 @@ You can easily download Aspose.Page for Node.js via C++ from {{< Common/link hre
    {{< consolebox/textarea id="npm" >}} npm install asposepagenodejs {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 
+{{< Common/release-notes-link family="page" product="nodejs-cpp" href="https://releases.aspose.com/page/nodejs-cpp/release-notes/" text="https://releases.aspose.com/page/nodejs-cpp/release-notes/"  >}}
+
 {{< Common/hr >}}
 
 [Product Page](https://products.aspose.com/page/nodejs-cpp/) | [Docs](https://docs.aspose.com/page/nodejs-cpp/) | [Demos](https://products.aspose.app/page/family) | [API Reference](https://reference.aspose.com/page/nodejs-cpp) | [Examples](https://github.com/aspose-page/Aspose.Page-for-Node.js-C) | [Blog](https://blog.aspose.com/category/page/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/page) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
