@@ -58,7 +58,7 @@ The following code sample demonstrates how to use the [`OpenAIWebClient`](https:
 import aspose.slides as slides
 
 with slides.ai.OpenAIWebClient("gpt-4o-mini", api_key, None) as ai_web_client, slides.Presentation("test.pptx") as pres:
-	ai_agent = slides.ai.SlidesAIAgent(ai_web_client)
+    ai_agent = slides.ai.SlidesAIAgent(ai_web_client)
     ai_agent.translate(pres, "chinese")
     pres.save("test_translated.pptx", slides.export.SaveFormat.PPTX)
 ```
