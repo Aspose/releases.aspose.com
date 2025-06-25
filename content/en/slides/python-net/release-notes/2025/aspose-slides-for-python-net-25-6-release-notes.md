@@ -62,3 +62,8 @@ with slides.ai.OpenAIWebClient("gpt-4o-mini", api_key, None) as ai_web_client, s
     ai_agent.translate(pres, "chinese")
     pres.save("test_translated.pptx", slides.export.SaveFormat.PPTX)
 ```
+
+### Added New Method: Metered.get_product_name
+
+The new method, [`get_product_name`](https://reference.aspose.com/slides/python-net/aspose.slides/metered/get_product_name/), has been added to the [`Metered`](https://reference.aspose.com/slides/python-net/aspose.slides/metered/) class.
+This method returns the name of the product for which the current Metered license was issued.
