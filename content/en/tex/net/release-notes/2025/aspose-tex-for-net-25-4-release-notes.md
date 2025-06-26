@@ -4,7 +4,7 @@ slug: "aspose-tex-for-net-25-4-release-notes"
 linktitle: "Aspose.TeX for .NET 25.4 Release Notes"
 title: "Aspose.TeX for .NET 25.4 Release Notes"
 weight: 19
-description: "C# .NET API Solution for developers to manipulate and process TeX and LaTeX files. Release Notes of Aspose.TeX API solution for .NET | Release 2025.02"
+description: "C# .NET API Solution for developers to manipulate and process TeX and LaTeX files. Release Notes of Aspose.TeX API solution for .NET | Release 2025.04"
 type: "repository"
 layout: "release"
 hideChildren: false
