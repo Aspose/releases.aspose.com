@@ -35,8 +35,8 @@ This page contains release notes information for Aspose.PDF for Java 25.6.
 |PDFJAVA-45099|PDF to DOCX: Text moved to the next line|Bug|
 |PDFJAVA-45094|PDF to Word - No spacing between text lines|Bug|
 |PDFJAVA-45095|PDF to DOCX: Text shifted to the right|Bug|
-|PDFJAVA-42521|Images in pdf (DocuSign signatures) are turning black after optimization
-PDFJAVA-45093 PDF to Docx: Image is shifted|Bug|
+|PDFJAVA-42521|Images in pdf (DocuSign signatures) are turning black after optimization|Bug|
+|PDFJAVA-45093|PDF to Docx: Image is shifted|Bug|
 |PDFJAVA-39838|paragraph.getText() sometimes fails to recognize empty space between words|Bug|
 |PDFJAVA-45129|PDF to Word: Numbered item is not recognized|Bug|
 |PDFJAVA-45108|Adobe Acrobat Error: Insufficient data for an image.|Bug|
