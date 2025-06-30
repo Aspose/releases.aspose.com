@@ -23,7 +23,7 @@ This page contains release notes information for [Aspose.GIS for Python via .NET
 
 |**Key**     |**Summary**                                                       |**Category**|
 |:-----------|:-----------------------------------------------------------------|:-----------|
-|GISPYTHON-27| Support Reading Kmz Format									    |Feature     |
+|GISPYTHON-27| Support Reading Kmz Format                                       |Feature     |
 |GISPYTHON-32| Rework And Update Generator Of Tiles                             |Feature     |
 |GISPYTHON-28| Unclear error message when database connection is not open.      |Enhancement |
 |GISPYTHON-29| Fixes For SonarQube Bugs                                         |Enhancement |
