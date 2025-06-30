@@ -33,7 +33,7 @@ This page contains release notes information for [Aspose.Tasks for C++ 25.6](htt
 
 |**The following public types were added:**|**Description**|
 | :- | :- |
-| Aspose.Tasks.VbaModuleType | Specifies the type of a module in a VBA project. |
+| Aspose::Tasks::VbaModuleType | Specifies the type of a module in a VBA project. |
 
 |**The following public methods and properties were added:**|**Description**|
 | :- | :- |
