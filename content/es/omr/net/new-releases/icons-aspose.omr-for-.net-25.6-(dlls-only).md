@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/omr/net/new-releases/icons-aspose.omr-for-.net-25.6-(dlls-only)/"
-folder_name: "Iconos Aspose.OMR para .NET 25.6 (solo DLL)"
+folder_name: "Aspose.OMR para .NET 25.6 (solo DLL)"
 download_link: "/omr/net/new-releases/icons-aspose.omr-for-.net-25.6-(dlls-only)/e87a019d7a82f2525f5a9aca5a7cab91-44-13339"
 download_text: "Descargar"
 intro_text: "Este archivo ZIP contiene únicamente los ensamblados de Aspose.OMR para .NET. Los ensamblados son los mismos que los del instalador MSI del producto de la misma versión. Descárguelo si desea usar Aspose.OMR sin el instalador MSI; es decir, no puede ejecutar instaladores MSI en Mono."
@@ -22,7 +22,7 @@ weight: 176
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Iconos Aspose.OMR para .NET 25.6 (solo DLL)" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.OMR para .NET 25.6 (solo DLL)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Descargar" link="/omr/net/new-releases/icons-aspose.omr-for-.net-25.6-(dlls-only)/e87a019d7a82f2525f5a9aca5a7cab91-44-13339" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/omr" >}}
