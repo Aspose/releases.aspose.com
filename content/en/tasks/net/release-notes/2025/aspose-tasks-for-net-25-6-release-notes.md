@@ -15,7 +15,7 @@ menuItemWithNoContent: false
 
 {{% alert color="primary" %}} 
 
-This page contains release notes information for [Aspose.Tasks for .Net 25.5](https://releases.aspose.com/tasks/net/new-releases/aspose.tasks-for-.net-25.5/).
+This page contains release notes information for [Aspose.Tasks for .Net 25.6](https://releases.aspose.com/tasks/net/new-releases/aspose.tasks-for-.net-25.6/).
 
 {{% /alert %}}
 
