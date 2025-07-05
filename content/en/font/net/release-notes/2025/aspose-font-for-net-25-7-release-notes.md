@@ -27,7 +27,7 @@ don't reference subroutines can be combined into a resultant font.
 
 Next code snippets show how to merge glyphs from 2 **CFF** fonts.
 
-# Combining fonts using object of type Aspose.Font.Common_FontMerger.FontCharactersMerger
+# Combining fonts using object of type [Aspose.Font.Common_FontMerger.FontCharactersMerger](https://reference.aspose.com/font/net/aspose.font.common_fontmerger/fontcharactersmerger/)
 {{< highlight csharp >}}
 using System;
 using System.IO;
@@ -76,17 +76,17 @@ using Aspose.Font.Common_FontMerger;
 
 ## Public API and Backwards Incompatible Changes
 ### Added APIs
-* Class **Aspose.Font.Common_FontMerger.FontCharactersMerger**
-* Property *Aspose.Font.Common_FontMerger.FontCharactersMerger.PrimaryFont*
-* Property *Aspose.Font.Common_FontMerger.FontCharactersMerger.SecondaryFont*
-* Method *Aspose.Font.Common_FontMerger.FontCharactersMerger.MergeFonts(Aspose.Font.Glyphs.GlyphId[],Aspose.Font.Glyphs.GlyphId[],System.String)*
-* Method *Aspose.Font.Common_FontMerger.FontCharactersMerger.MergeFonts(System.UInt32[],System.UInt32[],System.String)*
-* Method *Aspose.Font.Common_FontMerger.FontCharactersMerger.MergeFonts(System.Collections.Generic.IDictionary<System.UInt32,Aspose.Font.Glyphs.GlyphId>,System.Collections.Generic.IDictionary<System.UInt32,Aspose.Font.Glyphs.GlyphId>,System.String)*
-* Class **Aspose.Font.Exceptions.FontMergeException**
-* Constructor *Aspose.Font.Exceptions.FontMergeException*
-* Constructor *Aspose.Font.Exceptions.FontMergeException(System.String)*
-* Constructor *Aspose.Font.Exceptions.FontMergeException(System.String,System.Exception)*
-* Constructor *Aspose.Font.Exceptions.FontMergeException(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)*
-* Method *Aspose.Font.Factories.TextUtilsFactory.GetFontCharactersMerger(Aspose.Font.Font,Aspose.Font.Font,Aspose.Font.FontType)*
+* Class [**Aspose.Font.Common_FontMerger.FontCharactersMerger**](https://reference.aspose.com/font/net/aspose.font.common_fontmerger/fontcharactersmerger/)
+* Property [*Aspose.Font.Common_FontMerger.FontCharactersMerger.PrimaryFont*](https://reference.aspose.com/font/net/aspose.font.common_fontmerger/fontcharactersmerger/primaryfont/)
+* Property [*Aspose.Font.Common_FontMerger.FontCharactersMerger.SecondaryFont*](https://reference.aspose.com/font/net/aspose.font.common_fontmerger/fontcharactersmerger/secondaryfont/)
+* Method [*Aspose.Font.Common_FontMerger.FontCharactersMerger.MergeFonts(Aspose.Font.Glyphs.GlyphId[],Aspose.Font.Glyphs.GlyphId[],System.String)*](https://reference.aspose.com/font/net/aspose.font.common_fontmerger/fontcharactersmerger/mergefonts/#mergefonts)
+* Method [*Aspose.Font.Common_FontMerger.FontCharactersMerger.MergeFonts(System.UInt32[],System.UInt32[],System.String)*](https://reference.aspose.com/font/net/aspose.font.common_fontmerger/fontcharactersmerger/mergefonts/#mergefonts_2)
+* Method [*Aspose.Font.Common_FontMerger.FontCharactersMerger.MergeFonts(System.Collections.Generic.IDictionary<System.UInt32,Aspose.Font.Glyphs.GlyphId>,System.Collections.Generic.IDictionary<System.UInt32,Aspose.Font.Glyphs.GlyphId>,System.String)*](https://reference.aspose.com/font/net/aspose.font.common_fontmerger/fontcharactersmerger/mergefonts/#mergefonts_1)
+* Class [**Aspose.Font.Exceptions.FontMergeException**](https://reference.aspose.com/font/net/aspose.font.exceptions/fontmergeexception/)
+* Constructor [*Aspose.Font.Exceptions.FontMergeException*](https://reference.aspose.com/font/net/aspose.font.exceptions/fontmergeexception/fontmergeexception/#constructor)
+* Constructor [*Aspose.Font.Exceptions.FontMergeException(System.String)*](https://reference.aspose.com/font/net/aspose.font.exceptions/fontmergeexception/fontmergeexception/#constructor_2)
+* Constructor [*Aspose.Font.Exceptions.FontMergeException(System.String,System.Exception)*](https://reference.aspose.com/font/net/aspose.font.exceptions/fontmergeexception/fontmergeexception/#constructor_3)
+* Constructor [*Aspose.Font.Exceptions.FontMergeException(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)*](https://reference.aspose.com/font/net/aspose.font.exceptions/fontmergeexception/fontmergeexception/#constructor_1)
+* Method [*Aspose.Font.Factories.TextUtilsFactory.GetFontCharactersMerger(Aspose.Font.Font,Aspose.Font.Font,Aspose.Font.FontType)*](https://reference.aspose.com/font/net/aspose.font.factories/textutilsfactory/getfontcharactersmerger/)
 ## Got Queries?
 If you have any query related to Aspose.Font for .NET API, please feel free to write to reach us on [Aspose.Font forum](https://forum.aspose.com/c/font/). We'll be glad to assist you with your inquiries.
