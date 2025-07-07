@@ -122,7 +122,7 @@ This section lists public API changes that were introduced in Aspose.Words 25.7.
 
 Related issue: WORDSNET-28298
 
-Added new members into Aspose.Words.AI.AiModel class:
+Added new members into [Aspose.Words.AI.AiModel](https://reference.aspose.com/words/net/aspose.words.ai/aimodel/) class:
 
 Added protected properties:
 {{< highlight csharp >}}
@@ -172,7 +172,7 @@ public virtual Document CheckGrammar(Document sourceDocument, CheckGrammarOption
 public abstract Document Translate(Document sourceDocument, Language targetLanguage);
 {{< /highlight >}}
 
-Also added new protected virtual properties into Aspose.Words.AI.OpenAiModel class:
+Also added new protected virtual properties into [Aspose.Words.AI.OpenAiModel](https://reference.aspose.com/words/net/aspose.words.ai/openaimodel/) class:
 {{< highlight csharp >}}
 /// <summary>
 /// Gets integer value representing a size of context window of the model.
@@ -184,7 +184,7 @@ protected virtual int ContextWindow { get; }
 protected virtual int MaxOutputTokens { get; }
 {{< /highlight >}}
 
-Added new protected virtual properties into Aspose.Words.AI.GoogleAiModel class:
+Added new protected virtual properties into [Aspose.Words.AI.GoogleAiModel](https://reference.aspose.com/words/net/aspose.words.ai/googleaimodel/) class:
 {{< highlight csharp >}}
 /// <summary>
 /// Gets input token limit.
@@ -196,7 +196,7 @@ protected virtual int InputTokenLimit { get; }
 protected virtual int OutputTokenLimit { get; }
 {{< /highlight >}}
 
-Added new protected virtual properties into Aspose.Words.AI.AnthropicAiModel class:
+Added new protected virtual properties into [Aspose.Words.AI.AnthropicAiModel](https://reference.aspose.com/words/net/aspose.words.ai/anthropicaimodel/) class:
 {{< highlight csharp >}}
 /// <summary>
 /// Gets input token limit.
@@ -215,7 +215,7 @@ This use case explains how to use self-hosted LLM implementations:
 
 Related issue: WORDSNET-28070
 
-Implemented new public property in Aspose.Words.Replacing.ReplacingArgs class:
+Implemented new public property in [Aspose.Words.Replacing.ReplacingArgs](https://reference.aspose.com/words/net/aspose.words.replacing/replacingargs/) class:
 {{< highlight csharp >}}
 /// <summary>
 /// Gets the node that contains the end of the match.
@@ -223,14 +223,14 @@ Implemented new public property in Aspose.Words.Replacing.ReplacingArgs class:
 public Node MatchEndNode { get; }
 {{< /highlight >}}
 
-This use case explains how to use MatchEndNode public property:
+This use case explains how to use [MatchEndNode](https://reference.aspose.com/words/net/aspose.words.replacing/replacingargs/matchendnode/) public property:
 {{< gist "aspose-words-gists" "67c1d01ce69d189983b497fd497a7768" "match-end-node.cs" >}}
 
 ### Added the Row.Hidden public property, enabling the ability to programmatically show or hide specific rows within a table.
 
 Related issue: WORDSNET-25899
 
-A new public property Hidden has been added in Row class:
+A new public property [Hidden](https://reference.aspose.com/words/net/aspose.words.tables/row/hidden/) has been added in [Row](https://reference.aspose.com/words/net/aspose.words.tables/row/) class:
 {{< highlight csharp >}}
 /// <summary>
 /// Gets or sets a flag indicating whether this row is hidden or not.
@@ -255,3 +255,10 @@ Limitations:
 - Not supported glyph outlines retrieval (used in cases like WordArt text effects and 3D text effects).
 
 Also OpenType Font Varation support affects font search cache export/import. In order for font variations to work properly, the cache should be generated in the new Aspose.Words version.
+
+### Removed obsolete PdfSaveOptions.EmbedAttachments property.
+
+Related issue: WORDSNET-27923
+
+Obsolete property PdfSaveOptions.EmbedAttachments has been removed. 
+[PdfSaveOptions.AttachmentsEmbeddingMode](https://reference.aspose.com/words/net/aspose.words.saving/pdfsaveoptions/attachmentsembeddingmode/) should be used instead.
