@@ -40,3 +40,9 @@ WebP is widely used in modern web development to optimize image loading and redu
 #### Resources:
 
 * 📘 [Official WebP Documentation by Google](https://developers.google.com/speed/webp)
+
+##### List of issues that have been improved
+| **Key**       | **Summary**                                                       | **Category** |
+|---------------|-------------------------------------------------------------------|--------------|
+| HTMLJAVA-2004 | Fixed incorrect display of certain WebP images in documents       | Bug          | 
+| HTMLJAVA-2121 | 	Partially fixed issues with rendering specific WebP image cases  | Bug          |
