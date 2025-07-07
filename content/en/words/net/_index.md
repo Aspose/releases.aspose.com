@@ -121,7 +121,7 @@ Document pdf = new Document("InputDocument.pdf");
 pdf.Save("OutputWordDocument.docx");
 ```
 
-### Generate a summary of the document(s) using OpenAI or Google models.
+### Generate a summary of the document(s) using your preferred AI model, such as OpenAI, Google models, or any custom local language model.
 
 ```c#
 Document firstDoc = new Document("DocumentA.docx");
@@ -136,7 +136,7 @@ summary.Save("SummaryA.docx");
 Document multiSummary = model.Summarize(new Document[] { firstDoc, secondDoc }, new SummarizeOptions() { SummaryLength = SummaryLength.Long });
 multiSummary.Save("SummaryA+B.docx");
 ```
-### Translate a Word document using your preferred AI model, such as OpenAI or Google models.
+### Translate the document using your preferred AI model, such as OpenAI, Google models, or any custom local language model.
 ```c#
 Document doc = new Document("Document.docx");
 
