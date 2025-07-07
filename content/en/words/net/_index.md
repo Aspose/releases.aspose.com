@@ -128,7 +128,7 @@ Document firstDoc = new Document("DocumentA.docx");
 Document secondDoc = new Document("DocumentB.docx");
 
 // Use OpenAI or Google generative language models.
-IAiModelText model = (IAiModelText)AiModel.Create(AiModelType.Gpt4OMini).WithApiKey(apiKey);
+AiModel model = AiModel.Create(AiModelType.Gpt4OMini).WithApiKey(apiKey);
 
 Document summary = model.Summarize(firstDoc, new SummarizeOptions() { SummaryLength = SummaryLength.Short });
 summary.Save("SummaryA.docx");
@@ -141,7 +141,7 @@ multiSummary.Save("SummaryA+B.docx");
 Document doc = new Document("Document.docx");
 
 // Use Google generative language models.
-IAiModelText model = (GoogleAiModel)AiModel.Create(AiModelType.Gemini15Flash).WithApiKey(apiKey);
+AiModel model = AiModel.Create(AiModelType.Gemini15Flash).WithApiKey(apiKey);
 
 Document translatedDoc = model.Translate(doc, Language.Arabic);
 translatedDoc.Save("AiTranslated.docx");
