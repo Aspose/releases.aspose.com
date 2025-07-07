@@ -1,0 +1,8 @@
+{{/* compliance-file shortcode Usage: 
+   {{< compliance-file relpath="/compliance-reports/drawing/net/2025/25.9/filename.pdf" text="PDF" >}}
+*/}}
+{{ $relpath := .Get "relpath" }}
+{{ $text := .Get "text" | default (path.Base $relpath) }}
+{{ $base := .Site.Params.complianceFilesBaseUrl }}
+
+<a href="{{ printf "%s%s" $base $relpath }}">{{ $text }}</a>
