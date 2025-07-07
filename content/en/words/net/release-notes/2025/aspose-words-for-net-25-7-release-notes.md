@@ -244,17 +244,17 @@ public bool Hidden
 This use case explains how to programmatically show or hide specific rows within a table:
 {{< gist "aspose-words-gists" "67c1d01ce69d189983b497fd497a7768" "hidden-row.cs" >}}
 
-### First version of OpenType Font Varation support.
+### First version of OpenType Font Variation support.
 
 Related issue: WORDSNET-18994
 
-First version of OpenType Font Varation support has been released. Now variable font named instances are correctly laid-out both with and without HarfBuzz shaping and correctly embedded into PDF and XPS.
+First version of OpenType Font Variation support has been released. Now variable font named instances are correctly laid-out both with and without HarfBuzz shaping and correctly embedded into PDF and XPS.
 
 Limitations:
 - Limited support when rendering to fixed page formats other than PDF and XPS
 - Not supported glyph outlines retrieval (used in cases like WordArt text effects and 3D text effects).
 
-Also OpenType Font Varation support affects font search cache export/import. In order for font variations to work properly, the cache should be generated in the new Aspose.Words version.
+Also OpenType Font Variation support affects font search cache export/import. In order for font variations to work properly, the cache should be generated in the new Aspose.Words version.
 
 ### Removed obsolete PdfSaveOptions.EmbedAttachments property.
 
