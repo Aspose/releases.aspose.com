@@ -37,6 +37,11 @@ committed_by: "saud.naushahi@aspose.com"
 
 
 
+### EULA & Third-Party License Disclosure
+
+- [aspose End User License Agreement (EULA)](https://files.conholdate.app/viewer/view/4Y8UNm7laVFjMAd0r/aspose_end-user-license-agreement_2024-05-16.pdf)
+- {{< compliance-file relpath="/compliance-reports/third-party-licenses/net/third-party-licenses-aspose-total-net.pdf" text="Aspose.Total for .NET – Third-Party Licenses" >}}
+
 
 
 ---
