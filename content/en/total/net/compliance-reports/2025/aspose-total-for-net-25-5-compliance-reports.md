@@ -20,6 +20,11 @@ committed_by: "saud.naushahi@aspose.com"
 
 ## This 25.5 .NET release includes the following transparency and audit artifacts:
 
+### Software Bill of Materials (SBOM)
+
+- 🧾 {{< compliance-file relpath="/compliance-reports/total/net/2025/25.5/aspose-total-net-25.5_sbom.json" text="SBOM JSON" >}}
+- 📦 {{< compliance-file relpath="/compliance-reports/total/net/2025/25.5/aspose-total-net-25.5_sbom.xml" text="SBOM XML" >}}
+
 
 
 ### Security Weakness Coverage Reports (CWE & OWASP)
@@ -31,11 +36,6 @@ committed_by: "saud.naushahi@aspose.com"
   - 📄 {{< compliance-file relpath="/compliance-reports/total/net/2025/25.5/aspose-total-net-25.5_owasp-top-10-2021.pdf" text="PDF" >}}
 
 
-
-### EULA & Third-Party License Disclosure
-
-- [aspose End User License Agreement (EULA)](https://files.conholdate.app/viewer/view/4Y8UNm7laVFjMAd0r/aspose_end-user-license-agreement_2024-05-16.pdf)
-- {{< compliance-file relpath="/compliance-reports/third-party-licenses/net/third-party-licenses-aspose-total-net.pdf" text="Aspose.Total for .NET – Third-Party Licenses" >}}
 
 
 
