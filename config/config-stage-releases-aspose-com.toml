@@ -96,7 +96,7 @@ defaultContentLang = 'en'
      dynamicmenuid = "aspose-en"
      faviconfolder = "aspose"
      contentsection = "com"
-
+     complianceFilesBaseUrl = "https://artifacts-qa.aspose.com"
 
 [markup]
   [markup.goldmark]

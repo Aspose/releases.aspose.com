@@ -99,7 +99,7 @@ defaultContentLang = 'en'
      faviconfolder = "aspose"
      contentsection = "com"
      env = "production"
-
+     complianceFilesBaseUrl = "https://artifacts.aspose.com"
 
 [markup]
   [markup.goldmark]
