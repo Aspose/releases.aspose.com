@@ -1,0 +1,38 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-html",
+  "id" : "25-7",
+  "packageFiles" : [ {
+    "size" : "35 MB",
+    "name" : "aspose-html-25.7-jdk1.8.jar",
+    "classifier" : "jdk1.8"
+  }, {
+    "size" : "35 MB",
+    "name" : "aspose-html-25.7-jdk11.jar",
+    "classifier" : "jdk11"
+  }, {
+    "size" : "35 MB",
+    "name" : "aspose-html-25.7-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "35 MB",
+    "name" : "aspose-html-25.7-jdk21.jar",
+    "classifier" : "jdk21"
+  }, {
+    "size" : "35 MB",
+    "name" : "aspose-html-25.7-jdk8.jar",
+    "classifier" : "jdk8"
+  }, {
+    "size" : "35 MB",
+    "name" : "aspose-html-25.7.jar"
+  }, {
+    "size" : "4 KB",
+    "name" : "aspose-html-25.7.pom"
+  }, {
+    "size" : "219 MB",
+    "name" : "aspose-html-25.7.zip"
+  } ],
+  "releasehDate" : "2025-07-07T11:57:37+00:00",
+  "version" : "25.7",
+  "ReleaseNotes" : "https://releases.aspose.com/html/java/release-notes/2025/aspose-html-for-java-25-7-release-notes/"
+}

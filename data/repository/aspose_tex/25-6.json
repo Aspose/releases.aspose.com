@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-tex",
+  "id" : "25-6",
+  "packageFiles" : [ {
+    "size" : "554 KB",
+    "name" : "aspose-tex-25.6-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "25 MB",
+    "name" : "aspose-tex-25.6.jar"
+  }, {
+    "size" : "1 KB",
+    "name" : "aspose-tex-25.6.pom"
+  } ],
+  "releasehDate" : "2025-06-27T13:16:52+00:00",
+  "version" : "25.6",
+  "ReleaseNotes" : "https://releases.aspose.com/tex/java/release-notes/2025/aspose-tex-for-java-25-6-release-notes/"
+}

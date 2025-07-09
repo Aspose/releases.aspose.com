@@ -3,7 +3,7 @@ id: "aspose-barcode-for-reporting-services-25-3-release-notes"
 slug: "aspose-barcode-for-reporting-services-25-3-release-notes"
 linktitle: "Aspose.BarCode for Reporting Services 25.3 Release Notes"
 title: "Aspose.BarCode for Reporting Services 25.3 Release Notes"
-weight: 195
+weight: 190
 description: "Aspose.BarCode for Reporting Services 25.3 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
