@@ -1,18 +1,24 @@
 ---
-weight: 1
-id: "aspose-omr-for-java-latest-release-notes"
-slug: "latest"
 date: "2025-07-02"
+id: "aspose-omr-for-java-25-7-0-release-notes"
+slug: "aspose-omr-for-java-25-7-0-release-notes"
+linktitle: "Aspose.OMR for Java 25.7.0 - Release Notes"
+title: "Aspose.OMR for Java 25.7.0 - Release Notes"
 author: "Nikita Korobeynikov"
+weight: 11
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for Java 25.7.0 (July 2025) release."
 type: "repository"
 layout: "release"
-title: Latest release
-description: A summary of recent changes, enhancements and bug fixes in the latest release of Aspose.OMR for Java.
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OMR for Java 25.7.0 - Release Notes"
 keywords:
-- latest
-- new
-- release
-- changelog
+- "2025"
+- "July"
+- "new"
+- "release"
+- "changelog"
+menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}

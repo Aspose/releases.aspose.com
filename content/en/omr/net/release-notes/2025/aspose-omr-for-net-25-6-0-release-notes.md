@@ -114,7 +114,7 @@ MainQuestions19,"B,D"
 MainQuestions20,"B,D"
 MainQuestions21,"C"
 MainQuestions22,"C"
-MainQuestions23,"C"
+MainQuestions23,""
 ```
 
 
