@@ -6,7 +6,7 @@ slug: "aspose-omr-for-net-25-4-0-release-notes"
 linktitle: "Aspose.OMR for .NET 25.4.0 - Release Notes"
 title: "Aspose.OMR for .NET 25.4.0 - Release Notes"
 weight: 91
-description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for .NET 25.4.0 (March 2025) release."
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for .NET 25.4.0 (April 2025) release."
 type: "repository"
 layout: "release"
 hideChildren: false
@@ -22,7 +22,7 @@ menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OMR for .NET 25.4.0 (March 2025)**](https://www.nuget.org/packages/Aspose.OMR/25.4.0) release.
+This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OMR for .NET 25.4.0 (April 2025)**](https://www.nuget.org/packages/Aspose.OMR/25.4.0) release.
 {{% /alert %}}
 
 ## What was changed

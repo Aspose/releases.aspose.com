@@ -1,18 +1,24 @@
 ---
-id: "aspose-omr-for-net-latest-release-notes"
-slug: "latest"
-weight: 1
 date: "2025-06-30"
 author: "Nikita Korobeynikov"
+id: "aspose-omr-for-net-25-6-0-release-notes"
+slug: "aspose-omr-for-net-25-6-0-release-notes"
+linktitle: "Aspose.OMR for .NET 25.6.0 - Release Notes"
+title: "Aspose.OMR for .NET 25.6.0 - Release Notes"
+weight: 91
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for .NET 25.6.0 (June 2025) release."
 type: "repository"
 layout: "release"
-title: Latest release
-description: A summary of recent changes, enhancements and bug fixes in the latest release of Aspose.OMR for .NET.
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OMR for .NET 25.6.0 - Release Notes"
 keywords:
-- latest
+- "2025"
+- June
 - new
 - release
 - changelog
+menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
@@ -66,7 +72,7 @@ File.WriteAllText(@"C:\Users\User\Desktop\results\A001-20250709-001.csv", csv);
 
 ### Example of recognition results without pencil support
 
-![pencil-marks](../2025/pencil-marks.png)
+![pencil-marks](../pencil-marks.png)
 
 **no pencil support**
 ```
@@ -90,7 +96,7 @@ MainQuestions23,""
 
 ### Example of recognition results with pencil support
 
-![pencil-marks](../2025/pencil-marks.png)
+![pencil-marks](../pencil-marks.png)
 
 **enabled pencil support**
 ```
