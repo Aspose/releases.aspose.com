@@ -99,7 +99,7 @@ Specifies to use temporary file as cache for cells data model.
 
 ### **Adds WorkbookDesigner.ContainsVariables property.**
 
-Indicates whether this workbook contains Variable worksheet.
+Indicates whether this workbook contains "Variable" worksheet.
 
 ### **Adds Cells.IsDefaultColumnHidden property.**
 
