@@ -85,7 +85,7 @@ static void SetCacheFolder(const char16_t* cache)
 
 {{% /alert %}}
 
-### **Add the enumeration item MemorySetting::FileCache.*
+### **Add the enumeration item MemorySetting::FileCache.**
 
 Specifies to use temporary file as cache for cells data model.
 
