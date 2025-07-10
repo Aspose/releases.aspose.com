@@ -19,6 +19,7 @@ This page contains release notes for Aspose.Cells for Node.js via C++ 25.7.
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
+|CELLSNODEJSCPP-59|Overridden properties should be exposed as methods rather than properties|Bug
 |CELLSCPP-1172|Aspose.Cells 25.6 C++ - core dump running on Linux|Bug
 |CELLSNET-58586|Support ISOMITTED function in calculating LAMBDA function|New Feature
 |CELLSNET-58216|Support TAKE function|New Feature
