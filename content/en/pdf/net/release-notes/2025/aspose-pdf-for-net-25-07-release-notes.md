@@ -295,4 +295,3 @@ We have updated the version of the dependency System.Net.Http.Json up to 8.0.1. 
 * Field: Aspose.Pdf.Annotations.Annotation.message1 System.String
 * Method: Aspose.Pdf.Operator.FloatToStr(System.Double) System.String
 
-
