@@ -87,7 +87,7 @@ ZIP, 7z, TAR, GZIP, BZ2
 
 Aspose.ZIP Java APIs are hosted at the [Aspose Repository](https://releases.aspose.com/zip/java/). You can easily use Aspose.ZIP for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.ZIP for Java from Maven Repository](https://docs.aspose.com/zip/java/installation/) documentation page.
 
-## Read Project Data from Microsoft Project Database
+## Creating a ZIP archive
 
 ```java
   String dir = "full directory path";
