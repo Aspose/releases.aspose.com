@@ -25,8 +25,10 @@ committed_by: "Johnson.Shi@aspose.com"
 ### Security Weakness Coverage Reports (CWE & OWASP)
 - **CWE Top 25 (2024)**:
   - 🌐 {{< compliance-file relpath="/compliance-reports/cells/net/2025/25.7/aspose-cells-net-25.7_cwe-top-25-2024.htm" text="HTML" >}}
+  - 📄 {{< compliance-file relpath="/compliance-reports/cells/net/2025/25.7/aspose-cells-net-25.7_cwe-top-25-2024.pdf" text="PDF" >}}
 - **OWASP Top 10 (2017/2021)**:
   - 🌐 {{< compliance-file relpath="/compliance-reports/cells/net/2025/25.7/aspose-cells-net-25.7_owasp-top-10-2021.htm" text="HTML" >}}
+  - 📄 {{< compliance-file relpath="/compliance-reports/cells/net/2025/25.7/aspose-cells-net-25.7_owasp-top-10-2021.pdf" text="PDF" >}}
 
 
 
