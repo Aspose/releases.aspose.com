@@ -25,7 +25,7 @@ This page contains release notes for [Aspose.Slides for Java 25.7](https://rele
 |SLIDESJAVA-39680|Text is rendered incorrectly when converting a slide to PNG|Bug|https://docs.aspose.com/slides/java/convert-powerpoint-to-png/|
 |SLIDESJAVA-39447|Creating the Area chart using a given series order|Investigation|https://docs.aspose.com/slides/java/powerpoint-charts/|
 |SLIDESJAVA-39657|Incorrect drawing color when saving Ink object from PPTX to image|Bug|https://docs.aspose.com/slides/java/manage-ink/|
-
+|SLIDESJAVA-38548|Aspose.Slides for Java style errors PDF conversion|Bug|https://docs.aspose.com/slides/java/convert-powerpoint-to-pdf/|
 
 ## Public API Changes
 
