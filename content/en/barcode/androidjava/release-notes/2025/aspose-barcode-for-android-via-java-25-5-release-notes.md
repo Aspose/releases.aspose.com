@@ -20,10 +20,14 @@ This page contains release notes information for [Aspose.BarCode for Android via
 {{% /alert %}} 
 ## **All Changes**
 
-| **Key**           | **Summary**                                                | **Category** |
-|:------------------|:-----------------------------------------------------------|:-------------|
-| BARCODENET-37926  | Barcode image generation as CMYK PDF       | Enhancement  |
-| BARCODENET-39278  | Improve DataMatrix recognition performance | Enhancement  |
+| **Key**             | **Summary**                                                           | **Category**   |
+|:--------------------|:----------------------------------------------------------------------|:---------------|
+| BARCODENET-37926    | Barcode image generation as CMYK PDF                                  | Enhancement    |
+| BARCODENET-39278    | Improve DataMatrix recognition performance                            | Enhancement    |
+| BARCODEANDROID-1278 | Design the Barcode Recognition Component based on OpenGL graphics     | Enhancement    |
+| BARCODEANDROID-1288 | Develop core features of the BarcodeScannerView component             | Enhancement    |
+| BARCODEJAVA-2075    | Remove deprecated methods that use java.util.Date from the public API | Enhancement    |
+| BARCODEJAVA-2076    | Remove non‑public methods from the public API                         | Enhancement    |
 
 ## Public API changes and backwards compatibility
 
@@ -67,3 +71,25 @@ Allows setting CMYK colors for individual elements of the barcode in PDF format:
 Added methods
 - `getPdf():PdfParameters` - get PDF-specific parameters including CMYK color support
 - `setPdf(PdfParameters)` — set PDF-specific parameters including CMYK color support
+
+**Removed methods**
+- `SecondaryAndAdditionalData.setExpiryDate(java.util.Date value)`
+- `SecondaryAndAdditionalData.setDateOfManufacture(java.util.Date value)`
+- `BarcodeParameters.getComplexBarcode()`
+- `BarcodeParameters.getCalculatedBarCodeWidth()`
+- `BarcodeParameters.setCalculatedBarCodeWidth()`
+- `BarcodeParameters.getBackColor()`
+- `BarcodeParameters.getResolution()`
+- `BarcodeParameters.getSupplementSpace()`
+- `BarcodeParameters.getPostalShortBarHeight()`
+- `BarcodeParameters.getAspectRatio()`
+- `BarcodeParameters.getColumns()`
+- `BarcodeParameters.getRows()`
+- `BarcodeParameters.getQuietZonesWidthInXDim()`
+- `CodetextParameters.getBackColor()`
+- `CodetextParameters.setBackColor()`
+- `CodetextParameters.setCodetextMaxHeightPercent()`
+- `CodetextParameters.getCodetextMaxHeightPercent()`
+- `CodetextParameters.getChecksum()`
+- `CodetextParameters.setChecksum()`
+- `FontUnit.getFont()`
