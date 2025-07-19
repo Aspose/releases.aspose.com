@@ -26,10 +26,10 @@ Aspose.Page for C++ 25.7 based on latest [Aspose.Page for .NET 25.7](https://rel
 ## **Public API and Backwards Incompatible Changes**
  ### **Added APIs**
 
-M: void Aspose.Page.EPS.PsDocument.SaveAsImage(System::SharedPtr&lt;Aspose::Page::EPS::Device::ImageSaveOptions&gt;)
-M: void Aspose.Page.EPS.PsDocument.SaveAsImage(System::SharedPtr&lt;Aspose::Page::EPS::Device::ImageSaveOptions&gt;, System::String, System::String)
+- M: void Aspose.Page.EPS.PsDocument.SaveAsImage(System::SharedPtr&lt;Aspose::Page::EPS::Device::ImageSaveOptions&gt;)
+- M: void Aspose.Page.EPS.PsDocument.SaveAsImage(System::SharedPtr&lt;Aspose::Page::EPS::Device::ImageSaveOptions&gt;, System::String, System::String)
 ### **Renamed APIs**
-M: System::ArrayPtr&lt;System::ArrayPtr&lt;uint8_t&gt;&gt; Aspose::Page::EPS::PsDocument::SaveAsImage(System::SharedPtr&lt;Aspose::Page::EPS::Device::ImageSaveOptions&gt;) -> System::ArrayPtr&lt;System::ArrayPtr&lt;uint8_t&gt;&gt; Aspose::Page::EPS::PsDocument::SaveAsImagesBytes(System::SharedPtr&lt;Aspose::Page::EPS::Device::ImageSaveOptions&gt;)
+- M: System::ArrayPtr&lt;System::ArrayPtr&lt;uint8_t&gt;&gt; Aspose::Page::EPS::PsDocument::SaveAsImage(System::SharedPtr&lt;Aspose::Page::EPS::Device::ImageSaveOptions&gt;) -> System::ArrayPtr&lt;System::ArrayPtr&lt;uint8_t&gt;&gt; Aspose::Page::EPS::PsDocument::SaveAsImagesBytes(System::SharedPtr&lt;Aspose::Page::EPS::Device::ImageSaveOptions&gt;)
 
 
 
