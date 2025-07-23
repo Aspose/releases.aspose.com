@@ -1,8 +1,21 @@
-{{/* compliance-file shortcode Usage: 
-   {{< compliance-file relpath="/compliance-reports/drawing/net/2025/25.9/filename.pdf" text="PDF" >}}
+{{/*
+  compliance-file shortcode
+
+  Usage:
+  {{< compliance-file relpath="/path/file.pdf" text="View" >}}
+  {{< compliance-file relpath="/path/file.pdf" text="Download" download="true" >}}
 */}}
+
 {{ $relpath := .Get "relpath" }}
 {{ $text := .Get "text" | default (path.Base $relpath) }}
+{{ $download := .Get "download" | default "false" }}
 {{ $base := .Site.Params.complianceFilesBaseUrl }}
 
-<a href="{{ printf "%s%s" $base $relpath }}">{{ $text }}</a>
+<a href="{{ printf "%s%s" $base $relpath }}"
+   {{ if eq $download "true" }}
+     download
+   {{ else }}
+     target="_blank" rel="noopener"
+   {{ end }}>
+   {{ $text }}
+</a>
