@@ -29,14 +29,23 @@ committed_by: "saud.naushahi@aspose.com"
 
 ### Software Bill of Materials (SBOM)
 
-- {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.4/aspose-3d-nodejs-java-24.4_all_sboms.zip" text="Download All SBOMs (ZIP)" download="true" >}} - *Last updated: July 24, 2025, 9:21 PM UTC*
+- {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.4/aspose-3d-nodejs-java-24.4_all_sboms.zip" text="Download All SBOMs (ZIP)" download="true" >}} - *Last updated: July 24, 2025, 9:28 PM UTC*
 
 | Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
 |----------|----------------|---------------|-----------|----------|
 | .NET 4.8 | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.4/aspose-3d-nodejs-java-24.4-net4.8_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.4/aspose-3d-nodejs-java-24.4-net4.8_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.4/aspose-3d-nodejs-java-24.4-net4.8_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.4/aspose-3d-nodejs-java-24.4-net4.8_sbom-SPDX.xml" text="View XML" >}} |
 | .NET 7.0 | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.4/aspose-3d-nodejs-java-24.4-net7.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.4/aspose-3d-nodejs-java-24.4-net7.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.4/aspose-3d-nodejs-java-24.4-net7.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.4/aspose-3d-nodejs-java-24.4-net7.0_sbom-SPDX.xml" text="View XML" >}} |
+| .NET 8.0 | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.4/aspose-3d-nodejs-java-24.4-net8.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.4/aspose-3d-nodejs-java-24.4-net8.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.4/aspose-3d-nodejs-java-24.4-net8.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.4/aspose-3d-nodejs-java-24.4-net8.0_sbom-SPDX.xml" text="View XML" >}} |
+| .NET 9.0 | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.4/aspose-3d-nodejs-java-24.4-net9.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.4/aspose-3d-nodejs-java-24.4-net9.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.4/aspose-3d-nodejs-java-24.4-net9.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.4/aspose-3d-nodejs-java-24.4-net9.0_sbom-SPDX.xml" text="View XML" >}} |
 
 
+
+### Security Weakness Coverage (CWE & OWASP)
+
+| Report | HTML | PDF |
+|--------|------|-----|
+| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.4/aspose-3d-nodejs-java-24.4_cwe-top-25-2024.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.4/aspose-3d-nodejs-java-24.4_cwe-top-25-2024.pdf" text="View PDF" >}} |
+| OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.4/aspose-3d-nodejs-java-24.4_owasp-top-10-2021.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.4/aspose-3d-nodejs-java-24.4_owasp-top-10-2021.pdf" text="View PDF" >}} |
 
 
 
