@@ -20,16 +20,11 @@ committed_by: "saud.naushahi@aspose.com"
 
 ## This 24.1 Node.js via Java release includes the following transparency and audit artifacts:
 
-### EULA & Third-Party Licenses
-
-- <a href="https://files.conholdate.app/viewer/view/4Y8UNm7laVFjMAd0r/aspose_end-user-license-agreement_2024-05-16.pdf" target="_blank" rel="noopener">Aspose End User License Agreement</a>
-- {{< compliance-file relpath="/compliance-reports/third-party-licenses/nodejs-java/third-party-licenses-aspose-3d-nodejs-java.pdf" text="Aspose.3D for Node.js via Java Third-Party License" >}}
-
 
 
 ### Software Bill of Materials (SBOM)
 
-- {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.1/aspose-3d-nodejs-java-24.1_all_sboms.zip" text="Download All SBOMs (ZIP)" download="true" >}} - *Last updated: July 24, 2025, 7:36 PM UTC*
+- {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.1/aspose-3d-nodejs-java-24.1_all_sboms.zip" text="Download All SBOMs (ZIP)" download="true" >}} - *Last updated: July 24, 2025, 7:42 PM UTC*
 
 | Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
 |----------|----------------|---------------|-----------|----------|
