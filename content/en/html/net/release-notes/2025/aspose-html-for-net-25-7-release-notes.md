@@ -4,7 +4,7 @@ slug: "aspose-html-for-net-25-7-release-notes"
 linktitle: "Aspose.HTML for .NET 25.7 Release Notes"
 title: "Aspose.HTML for .NET 25.7 Release Notes"
 weight: 60
-description: "This release significantly improves PDF conversion stability by resolving critical NullReferenceExceptions and font recognition failures. Additionally, it introduces the PageSetup.ScaleLimit property for granular control over document scaling during rendering."
+description: "This release significantly improves PDF conversion stability by resolving critical NullReferenceExceptions and font recognition failures. Additionally, it introduces the PageSetup.ScaleLimit property for granular control over document scaling during rendering. It also optimizes memory consumption across rendering operations for enhanced performance and efficiency, particularly with large or complex documents. "
 type: "repository"
 layout: "release"
 hideChildren: false
@@ -20,7 +20,7 @@ As per the regular monthly update process of all APIs being offered by Aspose, w
 
 ### Release Notes
 
-This release significantly improves PDF conversion stability by resolving critical NullReferenceExceptions and font recognition failures. Additionally, it introduces the PageSetup.ScaleLimit property for granular control over document scaling during rendering.
+This release significantly improves PDF conversion stability by resolving critical NullReferenceExceptions and font recognition failures. Additionally, it introduces the PageSetup.ScaleLimit property for granular control over document scaling during rendering. It also optimizes memory consumption across rendering operations for enhanced performance and efficiency, particularly with large or complex documents. 
 
 
 **Package references**<br>
@@ -38,6 +38,8 @@ Aspose.HTML for Python via .NET 25.7.0 [PyPI](https://pypi.org/project/aspose-ht
 | HTMLNET-6334 | Fails when recognize the installed Helvetica Neue LT Std font and throws a NullReferenceException. | Bug |
 | HTMLNET-6446 | System.NullReferenceException: Object reference not set to an instance of an object. | Bug |
 | HTMLNET-4616 | Unable to convert a web-page content to pdf - System.ArgumentException: Incompatible unit types | Bug |
+| HTMLNET-6193 | HTML to PDF conversion memory leak | Investigation |
+| HTMLNET-5860 | HTML to PDF: Memory is not release after converison | Bug |
 
 
 ## Public API and Backward Incompatible Changes
