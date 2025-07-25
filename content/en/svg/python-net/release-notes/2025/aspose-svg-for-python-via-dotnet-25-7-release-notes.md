@@ -3,7 +3,7 @@ id: "aspose-svg-python-via-dotnet-25-7-release-notes"
 slug: "aspose-svg-python-via-dotnet-25-7-release-notes"
 linktitle: "Aspose.SVG for Python via .NET 25.7 Release Notes"
 title: "Aspose.SVG for Python via .NET 25.7 Release Notes"
-weight: 45
+weight: 44
 description: "Aspose.SVG for Python via .NET 25.7 Release Notes – summary of improvements and fixes."
 type: "repository"
 layout: "release"
