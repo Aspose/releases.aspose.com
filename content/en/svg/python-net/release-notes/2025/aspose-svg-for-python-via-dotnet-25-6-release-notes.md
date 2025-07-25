@@ -13,7 +13,7 @@ family_listing_page_title: "Aspose.SVG for Python via .NET 25.6 Release Notes"
 menuItemWithNoContent: false
 ---
 {{% alert color="primary" %}}
-This page contains release-note information for **Aspose.SVG for Python via .NET 25.6.0** (June 2024).
+This page contains release-note information for **Aspose.SVG for Python via .NET 25.6.0** (June 2025).
 {{% /alert %}}
 
 ## **Major Features**
