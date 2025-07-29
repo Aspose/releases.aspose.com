@@ -29,12 +29,14 @@ committed_by: "saud.naushahi@aspose.com"
 
 ### Software Bill of Materials (SBOM)
 
-- {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5_all_sboms.zip?t=1753812470" text="Download All SBOMs (ZIP)" download="true" >}} - *Last updated: July 29, 2025, 6:07 PM UTC*
+- {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5_all_sboms.zip?t=1753813110" text="Download All SBOMs (ZIP)" download="true" >}} - *Last updated: July 29, 2025, 6:18 PM UTC*
 
 | Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
 |----------|----------------|---------------|-----------|----------|
 | .NET 4.8 | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5-net4.8_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5-net4.8_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5-net4.8_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5-net4.8_sbom-SPDX.xml" text="View XML" >}} |
 | .NET 7.0 | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5-net7.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5-net7.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5-net7.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5-net7.0_sbom-SPDX.xml" text="View XML" >}} |
+| .NET 8.0 | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5-net8.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5-net8.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5-net8.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5-net8.0_sbom-SPDX.xml" text="View XML" >}} |
+| .NET 9.0 | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5-net9.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5-net9.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5-net9.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5-net9.0_sbom-SPDX.xml" text="View XML" >}} |
 
 
 
