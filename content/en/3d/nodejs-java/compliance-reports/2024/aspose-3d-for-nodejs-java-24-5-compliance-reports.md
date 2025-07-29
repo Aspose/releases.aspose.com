@@ -29,7 +29,7 @@ committed_by: "saud.naushahi@aspose.com"
 
 ### Software Bill of Materials (SBOM)
 
-- {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5_all_sboms.zip?t=1753813110" text="Download All SBOMs (ZIP)" download="true" >}} - *Last updated: July 29, 2025, 6:18 PM UTC*
+- {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5_all_sboms.zip?t=1753814054" text="Download All SBOMs (ZIP)" download="true" >}} - *Last updated: July 29, 2025, 6:34 PM UTC*
 
 | Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
 |----------|----------------|---------------|-----------|----------|
@@ -44,7 +44,8 @@ committed_by: "saud.naushahi@aspose.com"
 
 | Report | HTML | PDF |
 |--------|------|-----|
-| OWASP Top 10 (2021) | - | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5_owasp-top-10-2021.pdf" text="View PDF" >}} |
+| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5_cwe-top-25-2024.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5_cwe-top-25-2024.pdf" text="View PDF" >}} |
+| OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5_owasp-top-10-2021.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5_owasp-top-10-2021.pdf" text="View PDF" >}} |
 
 
 
