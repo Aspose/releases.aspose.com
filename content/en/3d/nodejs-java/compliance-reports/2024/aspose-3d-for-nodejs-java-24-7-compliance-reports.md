@@ -14,6 +14,8 @@ menuItemWithNoContent: false
 committed_by: "saud.naushahi@aspose.com"
 ---
 
+![Security Rating](https://img.shields.io/badge/Security%20Rating-A-brightgreen?style=flat-square&logo=verizon)
+![CWE Top 25](https://img.shields.io/badge/CWE%20Top%2025-2024-blue?style=flat-square&logo=checkmarx)
 
 
 ## This 24.7 Node.js via Java release includes the following transparency and audit artifacts:
@@ -27,7 +29,7 @@ committed_by: "saud.naushahi@aspose.com"
 
 ### Software Bill of Materials (SBOM)
 
-- {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.7/aspose-3d-nodejs-java-24.7_all_sboms.zip?t=1753818501" text="Download All SBOMs (ZIP)" download="true" >}} - 289.2 KB - *Last updated: July 29, 2025, 7:48 PM UTC*
+- {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.7/aspose-3d-nodejs-java-24.7_all_sboms.zip?t=1753819066" text="Download All SBOMs (ZIP)" download="true" >}} - 289.2 KB - *Last updated: July 29, 2025, 7:57 PM UTC*
 
 | Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
 |----------|----------------|---------------|-----------|----------|
@@ -38,6 +40,12 @@ committed_by: "saud.naushahi@aspose.com"
 | .NET Standard 2.0 | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.7/aspose-3d-nodejs-java-24.7-netstandard2.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.7/aspose-3d-nodejs-java-24.7-netstandard2.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.7/aspose-3d-nodejs-java-24.7-netstandard2.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.7/aspose-3d-nodejs-java-24.7-netstandard2.0_sbom-SPDX.xml" text="View XML" >}} |
 
 
+
+### Security Weakness Coverage (CWE & OWASP)
+
+| Report | HTML | PDF |
+|--------|------|-----|
+| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.7/aspose-3d-nodejs-java-24.7_cwe-top-25-2024.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.7/aspose-3d-nodejs-java-24.7_cwe-top-25-2024.pdf" text="View PDF" >}} |
 
 
 
