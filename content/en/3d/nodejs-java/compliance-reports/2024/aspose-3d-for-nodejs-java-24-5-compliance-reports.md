@@ -29,7 +29,7 @@ committed_by: "saud.naushahi@aspose.com"
 
 ### Software Bill of Materials (SBOM)
 
-- {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5_all_sboms.zip?t=1753814054" text="Download All SBOMs (ZIP)" download="true" >}} - *Last updated: July 29, 2025, 6:34 PM UTC*
+- {{< compliance-file relpath="/compliance-reports/3d/nodejs-java/2024/24.5/aspose-3d-nodejs-java-24.5_all_sboms.zip?t=1753814898" text="Download All SBOMs (ZIP)" download="true" >}} - 224.1 KB - *Last updated: July 29, 2025, 6:48 PM UTC*
 
 | Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
 |----------|----------------|---------------|-----------|----------|
