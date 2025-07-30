@@ -5,12 +5,12 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/gis/net/new-releases/icons-aspose.gis-for-.net-25.6-(dlls-only)/"
-folder_name: "Icons Aspose.GIS για .NET 25.6 (μόνο DLL)"
+folder_name: "Aspose.GIS για .NET 25.6 (μόνο DLL)"
 download_link: "/gis/net/new-releases/icons-aspose.gis-for-.net-25.6-(dlls-only)/969f731f3d165ede1eacfc02b8708021-7-13317"
 download_text: "Κατεβάστε"
 intro_text: "Αυτό το αρχείο ZIP περιέχει μόνο το Aspose.GIS για συγκροτήσεις .NET. Τα συγκροτήματα είναι τα ίδια όπως στο πρόγραμμα εγκατάστασης MSI του προϊόντος της ίδιας έκδοσης."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 27/6/2025 Κατεβάστεs: 1  Views: 1 "
+download_count: " 27/6/2025 Κατεβάστεs: 83  Views: 1 "
 file_size: "File Size: 30.64MB"
 parent_path: "gis/net"
 section_parent_path: "gis/net"
@@ -22,7 +22,7 @@ weight: 262
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Icons Aspose.GIS για .NET 25.6 (μόνο DLL)" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.GIS για .NET 25.6 (μόνο DLL)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Κατεβάστε" link="/gis/net/new-releases/icons-aspose.gis-for-.net-25.6-(dlls-only)/969f731f3d165ede1eacfc02b8708021-7-13317" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/gis" >}}
@@ -31,7 +31,7 @@ weight: 262
     {{< Releases/ReleasesHeading h4txt="Λεπτομέρειες αρχείου">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Κατεβάστεs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-969f731f3d165ede1eacfc02b8708021-7-13317" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-969f731f3d165ede1eacfc02b8708021-7-13317" >}} 83 {{< /Common/li >}}
       {{< Common/li >}} Μέγεθος αρχείου: {{< /Common/li >}}
       {{< Common/li id="size-update-969f731f3d165ede1eacfc02b8708021-7-13317" >}} 30.64MB {{< /Common/li >}}
 

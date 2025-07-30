@@ -5,12 +5,12 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/gis/net/new-releases/icons-aspose.gis-for-.net-25.6-(dlls-only)/"
-folder_name: "Iconos Aspose.GIS para .NET 25.6 (solo DLL)"
+folder_name: "Aspose.GIS para .NET 25.6 (solo DLL)"
 download_link: "/gis/net/new-releases/icons-aspose.gis-for-.net-25.6-(dlls-only)/969f731f3d165ede1eacfc02b8708021-7-13317"
 download_text: "Descargar"
 intro_text: "Este archivo ZIP contiene únicamente los ensambles de Aspose.GIS para .NET. Los ensambles son los mismos que los del instalador MSI del producto de la misma versión."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 27/6/2025 Descargars: 1  Views: 1 "
+download_count: " 27/6/2025 Descargars: 83  Views: 1 "
 file_size: "File Size: 30.64MB"
 parent_path: "gis/net"
 section_parent_path: "gis/net"
@@ -22,7 +22,7 @@ weight: 262
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Iconos Aspose.GIS para .NET 25.6 (solo DLL)" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.GIS para .NET 25.6 (solo DLL)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Descargar" link="/gis/net/new-releases/icons-aspose.gis-for-.net-25.6-(dlls-only)/969f731f3d165ede1eacfc02b8708021-7-13317" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/gis" >}}
@@ -31,7 +31,7 @@ weight: 262
     {{< Releases/ReleasesHeading h4txt="detalles del archivo">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Descargars: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-969f731f3d165ede1eacfc02b8708021-7-13317" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-969f731f3d165ede1eacfc02b8708021-7-13317" >}} 83 {{< /Common/li >}}
       {{< Common/li >}} Tamaño del archivo: {{< /Common/li >}}
       {{< Common/li id="size-update-969f731f3d165ede1eacfc02b8708021-7-13317" >}} 30.64MB {{< /Common/li >}}
 

@@ -5,12 +5,12 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/gis/net/new-releases/icons-aspose.gis-for-.net-25.6-(dlls-only)/"
-folder_name: "アイコン Aspose.GIS for .NET 25.6 (DLL のみ)"
+folder_name: "Aspose.GIS for .NET 25.6 (DLL のみ)"
 download_link: "/gis/net/new-releases/icons-aspose.gis-for-.net-25.6-(dlls-only)/969f731f3d165ede1eacfc02b8708021-7-13317"
 download_text: "ダウンロード"
 intro_text: "このZIPファイルには、Aspose.GIS for .NETのアセンブリのみが含まれています。アセンブリは、同バージョンの製品のMSIインストーラーに含まれるものと同じです。"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 27/6/2025 ダウンロードs: 1  Views: 1 "
+download_count: " 27/6/2025 ダウンロードs: 83  Views: 1 "
 file_size: "File Size: 30.64MB"
 parent_path: "gis/net"
 section_parent_path: "gis/net"
@@ -22,7 +22,7 @@ weight: 262
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="アイコン Aspose.GIS for .NET 25.6 (DLL のみ)" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.GIS for .NET 25.6 (DLL のみ)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="ダウンロード" link="/gis/net/new-releases/icons-aspose.gis-for-.net-25.6-(dlls-only)/969f731f3d165ede1eacfc02b8708021-7-13317" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/gis" >}}
@@ -31,7 +31,7 @@ weight: 262
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} ダウンロードs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-969f731f3d165ede1eacfc02b8708021-7-13317" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-969f731f3d165ede1eacfc02b8708021-7-13317" >}} 83 {{< /Common/li >}}
       {{< Common/li >}} ファイルサイズ: {{< /Common/li >}}
       {{< Common/li id="size-update-969f731f3d165ede1eacfc02b8708021-7-13317" >}} 30.64MB {{< /Common/li >}}
 
