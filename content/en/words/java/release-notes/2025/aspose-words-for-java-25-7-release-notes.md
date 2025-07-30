@@ -24,8 +24,8 @@ This page contains release notes for [Aspose.Words for Java 25.7](https://releas
 There are 79 improvements and fixes in this regular monthly release. The most notable are:
 
 - **AI Features:** Added the ability to use self-hosted LLM implementations, allowing for greater privacy and control over [AI-driven features](https://reference.aspose.com/words/java/com.aspose.words/aimodel/).
-- **Replacing:** Introduced the [ReplacingArgs.MatchEndNode](https://reference.aspose.com/words/java/com.aspose.words/replacingargs/#getMatchEndNode/) public property to provide developers with more precise control during text replacement operations.
-- **Table Management:** Added the [Row.Hidden](https://reference.aspose.com/words/java/com.aspose.words/row/#getHidden/) public property, enabling the ability to programmatically show or hide specific rows within a table.
+- **Replacing:** Introduced the [ReplacingArgs.MatchEndNode](https://reference.aspose.com/words/java/com.aspose.words/replacingargs/#getMatchEndNode) public property to provide developers with more precise control during text replacement operations.
+- **Table Management:** Added the [Row.Hidden](https://reference.aspose.com/words/java/com.aspose.words/row/#getHidden) public property, enabling the ability to programmatically show or hide specific rows within a table.
 - **Font Rendering:** Implemented initial support for OpenType Font Variations, allowing for richer and more flexible typographic display.
 - **TIFF Reading:** Implement a new TIFF reader.
 
@@ -261,14 +261,14 @@ Implemented new public property in [Aspose.Words.Replacing.ReplacingArgs](https:
 public Node MatchEndNode { get; }
 {{< /highlight >}}
 
-This use case explains how to use [MatchEndNode](https://reference.aspose.com/words/java/com.aspose.words/replacingargs/#getMatchEndNode/) public property:
+This use case explains how to use [MatchEndNode](https://reference.aspose.com/words/java/com.aspose.words/replacingargs/#getMatchEndNode) public property:
 {{< gist "aspose-words-gists" "67c1d01ce69d189983b497fd497a7768" "match-end-node.cs" >}}
 
 ### Added the Row.Hidden public property, enabling the ability to programmatically show or hide specific rows within a table.
 
 Related issue: WORDSNET-25899
 
-A new public property [Hidden](https://reference.aspose.com/words/java/com.aspose.words/row/#getHidden/) has been added in [Row](https://reference.aspose.com/words/java/com.aspose.words/row/) class:
+A new public property [Hidden](https://reference.aspose.com/words/java/com.aspose.words/row/#getHidden) has been added in [Row](https://reference.aspose.com/words/java/com.aspose.words/row/) class:
 {{< highlight csharp >}}
 /// <summary>
 /// Gets or sets a flag indicating whether this row is hidden or not.
@@ -299,4 +299,4 @@ Also OpenType Font Variation support affects font search cache export/import. In
 Related issue: WORDSNET-27923
 
 Obsolete property PdfSaveOptions.EmbedAttachments has been removed. 
-[PdfSaveOptions.AttachmentsEmbeddingMode](https://reference.aspose.com/words/java/com.aspose.words/pdfsaveoptions/#setAttachmentsEmbeddingMode-int/) should be used instead.
+[PdfSaveOptions.AttachmentsEmbeddingMode](https://reference.aspose.com/words/java/com.aspose.words/pdfsaveoptions/#setAttachmentsEmbeddingMode-int) should be used instead.
