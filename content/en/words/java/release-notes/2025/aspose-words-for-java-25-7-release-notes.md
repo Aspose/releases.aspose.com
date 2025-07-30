@@ -23,9 +23,9 @@ This page contains release notes for [Aspose.Words for Java 25.7](https://releas
 
 There are 79 improvements and fixes in this regular monthly release. The most notable are:
 
-- **AI Features:** Added the ability to use self-hosted LLM implementations, allowing for greater privacy and control over [AI-driven features](https://reference.aspose.com/words/net/aspose.words.ai/aimodel/#methods).
-- **Replacing:** Introduced the [ReplacingArgs.MatchEndNode](https://reference.aspose.com/words/net/aspose.words.replacing/replacingargs/matchendnode/) public property to provide developers with more precise control during text replacement operations.
-- **Table Management:** Added the [Row.Hidden](https://reference.aspose.com/words/net/aspose.words.tables/row/hidden/) public property, enabling the ability to programmatically show or hide specific rows within a table.
+- **AI Features:** Added the ability to use self-hosted LLM implementations, allowing for greater privacy and control over [AI-driven features](https://reference.aspose.com/words/java/com.aspose.words/aimodel/).
+- **Replacing:** Introduced the [ReplacingArgs.MatchEndNode](https://reference.aspose.com/words/java/com.aspose.words/replacingargs/#getMatchEndNode/) public property to provide developers with more precise control during text replacement operations.
+- **Table Management:** Added the [Row.Hidden](https://reference.aspose.com/words/java/com.aspose.words/row/#getHidden/) public property, enabling the ability to programmatically show or hide specific rows within a table.
 - **Font Rendering:** Implemented initial support for OpenType Font Variations, allowing for richer and more flexible typographic display.
 - **TIFF Reading:** Implement a new TIFF reader.
 
@@ -134,7 +134,7 @@ This section lists public API changes that were introduced in Aspose.Words 25.7.
 
 Related issue: WORDSNET-28298
 
-Added new members into [Aspose.Words.AI.AiModel](https://reference.aspose.com/words/net/aspose.words.ai/aimodel/) class:
+Added new members into [Aspose.Words.AI.AiModel](https://reference.aspose.com/words/java/com.aspose.words/aimodel/) class:
 
 Added protected properties:
 {{< highlight csharp >}}
@@ -184,7 +184,7 @@ public virtual Document CheckGrammar(Document sourceDocument, CheckGrammarOption
 public abstract Document Translate(Document sourceDocument, Language targetLanguage);
 {{< /highlight >}}
 
-Also added new protected virtual properties into [Aspose.Words.AI.OpenAiModel](https://reference.aspose.com/words/net/aspose.words.ai/openaimodel/) class:
+Also added new protected virtual properties into [Aspose.Words.AI.OpenAiModel](https://reference.aspose.com/words/java/com.aspose.words/openaimodel/) class:
 {{< highlight csharp >}}
 /// <summary>
 /// Gets integer value representing a size of context window of the model.
@@ -196,7 +196,7 @@ protected virtual int ContextWindow { get; }
 protected virtual int MaxOutputTokens { get; }
 {{< /highlight >}}
 
-Added new protected virtual properties into [Aspose.Words.AI.GoogleAiModel](https://reference.aspose.com/words/net/aspose.words.ai/googleaimodel/) class:
+Added new protected virtual properties into [Aspose.Words.AI.GoogleAiModel](https://reference.aspose.com/words/java/com.aspose.words/googleaimodel/) class:
 {{< highlight csharp >}}
 /// <summary>
 /// Gets input token limit.
@@ -208,7 +208,7 @@ protected virtual int InputTokenLimit { get; }
 protected virtual int OutputTokenLimit { get; }
 {{< /highlight >}}
 
-Added new protected virtual properties into [Aspose.Words.AI.AnthropicAiModel](https://reference.aspose.com/words/net/aspose.words.ai/anthropicaimodel/) class:
+Added new protected virtual properties into [Aspose.Words.AI.AnthropicAiModel](https://reference.aspose.com/words/java/com.aspose.words/anthropicaimodel/) class:
 {{< highlight csharp >}}
 /// <summary>
 /// Gets input token limit.
@@ -221,13 +221,39 @@ protected virtual int OutputTokenLimit { get; }
 {{< /highlight >}}
 
 This use case explains how to use self-hosted LLM implementations:
-{{< gist "aspose-words-gists" "67c1d01ce69d189983b497fd497a7768" "self-hosted-model.cs" >}}
+{{< highlight java >}}
+    public void selfHostedModel() throws Exception
+    {
+        Document doc = new Document(getMyDir() + "Big document.docx");
+
+        String apiKey = System.getenv("API_KEY");
+        // Use OpenAI generative language models.
+        AiModel model = new CustomAiModel().withApiKey(apiKey);
+
+        Document translatedDoc = model.translate(doc, Language.RUSSIAN);
+        translatedDoc.save(getArtifactsDir() + "AI.SelfHostedModel.docx");
+    }
+
+    // Custom self-hosted AI model.
+    static class CustomAiModel extends OpenAiModel
+    {
+        protected String getUrl()
+        {
+            return "https://localhost/";
+        }
+
+        protected String getName()
+        {
+            return "my-model-24b";
+        }
+    }
+{{< /highlight >}}
 
 ### Introduced the ReplacingArgs.MatchEndNode public property to provide developers with more precise control during text replacement operations.
 
 Related issue: WORDSNET-28070
 
-Implemented new public property in [Aspose.Words.Replacing.ReplacingArgs](https://reference.aspose.com/words/net/aspose.words.replacing/replacingargs/) class:
+Implemented new public property in [Aspose.Words.Replacing.ReplacingArgs](https://reference.aspose.com/words/java/com.aspose.words/replacingargs/) class:
 {{< highlight csharp >}}
 /// <summary>
 /// Gets the node that contains the end of the match.
@@ -235,14 +261,14 @@ Implemented new public property in [Aspose.Words.Replacing.ReplacingArgs](https:
 public Node MatchEndNode { get; }
 {{< /highlight >}}
 
-This use case explains how to use [MatchEndNode](https://reference.aspose.com/words/net/aspose.words.replacing/replacingargs/matchendnode/) public property:
+This use case explains how to use [MatchEndNode](https://reference.aspose.com/words/java/com.aspose.words/replacingargs/#getMatchEndNode/) public property:
 {{< gist "aspose-words-gists" "67c1d01ce69d189983b497fd497a7768" "match-end-node.cs" >}}
 
 ### Added the Row.Hidden public property, enabling the ability to programmatically show or hide specific rows within a table.
 
 Related issue: WORDSNET-25899
 
-A new public property [Hidden](https://reference.aspose.com/words/net/aspose.words.tables/row/hidden/) has been added in [Row](https://reference.aspose.com/words/net/aspose.words.tables/row/) class:
+A new public property [Hidden](https://reference.aspose.com/words/java/com.aspose.words/row/#getHidden/) has been added in [Row](https://reference.aspose.com/words/java/com.aspose.words/row/) class:
 {{< highlight csharp >}}
 /// <summary>
 /// Gets or sets a flag indicating whether this row is hidden or not.
@@ -273,4 +299,4 @@ Also OpenType Font Variation support affects font search cache export/import. In
 Related issue: WORDSNET-27923
 
 Obsolete property PdfSaveOptions.EmbedAttachments has been removed. 
-[PdfSaveOptions.AttachmentsEmbeddingMode](https://reference.aspose.com/words/net/aspose.words.saving/pdfsaveoptions/attachmentsembeddingmode/) should be used instead.
+[PdfSaveOptions.AttachmentsEmbeddingMode](https://reference.aspose.com/words/java/com.aspose.words/pdfsaveoptions/#setAttachmentsEmbeddingMode-int/) should be used instead.
