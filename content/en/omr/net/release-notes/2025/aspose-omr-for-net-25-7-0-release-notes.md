@@ -1,20 +1,24 @@
 ---
-id: "aspose-omr-for-net-latest-release-notes"
-slug: "latest"
-weight: 1
 date: "2025-07-31"
 author: "Nikita Korobeynikov"
+id: "aspose-omr-for-net-25-7-0-release-notes"
+slug: "aspose-omr-for-net-25-7-0-release-notes"
+linktitle: "Aspose.OMR for .NET 25.7.0 - Release Notes"
+title: "Aspose.OMR for .NET 25.7.0 - Release Notes"
+weight: 91
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for .NET 25.7.0 (July 2025) release."
 type: "repository"
 layout: "release"
-title: Latest release
-description: A summary of recent changes, enhancements and bug fixes in the latest release of Aspose.OMR for .NET.
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OMR for .NET 25.7.0 - Release Notes"
 keywords:
-- latest
+- "2025"
+- July
 - new
 - release
 - changelog
----
-
+menuItemWithNoContent: false
 ---
 {{% alert color="primary" %}}
 This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OMR for .NET 25.7.0 (July 2025)**](https://www.nuget.org/packages/Aspose.OMR/25.7.0) release.
@@ -83,12 +87,20 @@ result.Save(@"C:\Users\User\Desktop\two_digits_in_bubble","two_digits");
 ```txt
 ?choicebox=Do you have to mark up every question on the page?
 ?option=Yes, that will help a lot! 
-    bubble_value=Yes
+	bubble_value=Yes
 ?option=No, it is optional 
-    bubble_value=No
+	bubble_value=No
 &choicebox
 ```
 
 ### Example of generated template
 
-![multiple symbols inside bubble](../2025/multiple_symbols.png)
+![multiple symbols inside bubble](../multiple_symbols.png)
+
+
+
+
+
+
+
+
