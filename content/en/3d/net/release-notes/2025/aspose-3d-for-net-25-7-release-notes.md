@@ -1,17 +1,17 @@
 ---
-id: "aspose-3d-for-python-net-25-7-release-notes"
-slug: "aspose-3d-for-python-net-25-7-release-notes"
-linktitle: "Aspose.3D for Python via .NET 25.7 Release Notes"
-title: "Aspose.3D for Python via .NET 25.7 Release Notes"
+id: "aspose-3d-for-net-25-7-release-notes"
+slug: "aspose-3d-for-net-25-7-release-notes"
+linktitle: "Aspose.3D for .NET 25.7 Release Notes"
+title: "Aspose.3D for .NET 25.7 Release Notes"
 weight: 6
-description: "Aspose.3D for Python via .NET 25.7 Release Notes – the latest updates and fixes."
+description: "Aspose.3D for .NET 25.7 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
 ---
 
 {{% alert color="primary" %}}
 
-This page contains release notes information for Aspose.3D for Python via .NET 25.7.
+This page contains release notes information for Aspose.3D for .NET 25.7.
 
 {{% /alert %}}
 ## **Improvements and Changes**
