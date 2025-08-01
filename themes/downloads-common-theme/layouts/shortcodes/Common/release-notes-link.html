@@ -5,19 +5,43 @@
 {{$parent_path := print $family "/" $product}}
 {{- $.Scratch.Set "latest_release_notes_url" $href -}}
 {{- $.Scratch.Set "latest_release_download_link" "" -}}
+
 {{ range first 1 ( where (where (where $.Site.Pages.ByWeight.Reverse ".Section" $family ) ".Params.page_type" "single_release_page") ".Params.section_parent_path" $parent_path ) }}
         {{ if isset .Params "download_link" }}
                 {{- $.Scratch.Set "latest_release_download_link" .Params.download_link -}}
         {{ end }}
 {{ end }}
+
 {{$backendURL := print (replaceRE "(\\s)" ""  (.Site.Params.backendURL) ) "" (replaceRE "(\\s)" ""  ($.Scratch.Get "latest_release_download_link"))  }}
+
 <div class="downloadandnotes">
-{{ if (not (eq ($.Scratch.Get "latest_release_notes_url") "")) }}
-<a class="release-notes-link-latest btn btn-primary" href='{{ $.Scratch.Get "latest_release_notes_url" }}'>{{ i18n "Release_Notes" }}</a>
-{{ end }}
-<!--<a href='{{ $backendURL }}'  class="btn btn-primary dwnam3">
-<i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i> Download</a>-->
-{{ if (not (eq ($.Scratch.Get "latest_release_download_link") "")) }}
-<a onclick="downloadrelease('{{ $.Scratch.Get "latest_release_download_link" }}')" href="#" title="Download" class="btn btn-primary dwnam3"><i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i> {{ i18n "Download" }} </a>
-{{ end }}
+
+    <!-- Release Notes -->
+    {{ if (not (eq ($.Scratch.Get "latest_release_notes_url") "")) }}
+        <a class="release-notes-link-latest btn btn-primary" 
+        href='{{ $.Scratch.Get "latest_release_notes_url" }}' 
+        target="_blank" rel="noopener">
+                {{ i18n "Release_Notes" }}
+        </a>
+    {{ end }}
+
+    <!-- Download -->
+    {{ if (not (eq ($.Scratch.Get "latest_release_download_link" ) "")) }}
+        <a onclick="downloadrelease('{{ $.Scratch.Get "latest_release_download_link" }}')" href="#" title="Download" class="btn btn-primary dwnam3">
+            <i class="glyphicon glyphicon-download-alt" style="padding-right: 10px"></i> {{ i18n "Download" }}
+        </a>
+    {{ end }}
+
+    <!-- Compliance Reports (conditional) -->
+    {{ $compliancePath := printf "%s/%s/compliance-reports" $family $product }}
+    {{ $compliancePage := site.GetPage $compliancePath }}
+    {{ if $compliancePage }}
+        <a class="btn btn-primary" 
+       href="https://releases.aspose.com/{{ $family }}/{{ $product }}/compliance-reports/" 
+       title="View SBOMs, Security Reports, and License Disclosures"
+       target="_blank" rel="noopener">
+        Compliance Reports
+    </a>
+    {{ end }}
+
 </div>
