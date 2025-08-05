@@ -156,7 +156,7 @@ This use case explains how to replace text in OfficeMath:
 
 ### Added new public property AsposeWordsPrintDocument.PagesRemaining
 
-Related issue: https://issue.auckland.dynabic.com/issues/WORDSNET-28439
+Related issue: WORDSNET-28439
 
 A new public property [PagesRemaining](https://reference.aspose.com/words/net/aspose.words.rendering/asposewordsprintdocument/pagesremaining/) providing the number of pages remaining in the current print job was added to [AsposeWordsPrintDocument](https://reference.aspose.com/words/net/aspose.words.rendering/asposewordsprintdocument/asposewordsprintdocument/) class:
 {{< highlight csharp >}}
