@@ -23,10 +23,10 @@ This page contains release notes for [Aspose.Words for C++ 25.4](https://www.nug
 
 There are 75 improvements and fixes in this regular monthly release. The most notable are:
 
-- **Paper Size Options:** Added JisB4 and JisB5 [paper size](https://reference.aspose.com/words/net/aspose.words/papersize/) support.
-- **HTML Output Control:** Added the [HtmlSaveOptions.RemoveJavaScriptFromLinks](https://reference.aspose.com/words/net/aspose.words.saving/htmlsaveoptions/removejavascriptfromlinks/) option.
-- **Watermark Enhancement:** Added a new overload for [Watermark.SetImage](https://reference.aspose.com/words/net/aspose.words/watermark/setimage/#setimage_2) with Stream as parameter.
-- **LowCode API Usability:** Significantly improved the usability of the [LowCode](https://reference.aspose.com/words/net/aspose.words.lowcode/) API.
+- **Paper Size Options:** Added JisB4 and JisB5 [paper size](https://reference.aspose.com/words/cpp/aspose.words/papersize/) support.
+- **HTML Output Control:** Added the [HtmlSaveOptions.RemoveJavaScriptFromLinks](https://reference.aspose.com/words/cpp/aspose.words.saving/htmlsaveoptions/removejavascriptfromlinks/) option.
+- **Watermark Enhancement:** Added a new overload for [Watermark.SetImage](https://reference.aspose.com/words/cpp/aspose.words/watermark/setimage/#setimage_2) with Stream as parameter.
+- **LowCode API Usability:** Significantly improved the usability of the [LowCode](https://reference.aspose.com/words/cpp/aspose.words.lowcode/) API.
 
 ## Full List of Issues Covering all Changes in this Release
 
