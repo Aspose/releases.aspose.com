@@ -131,7 +131,7 @@ using (Presentation pres = new Presentation(pptxFileName))
 In previous versions of Aspose.Slides for .NET, there were cases, when adding placeholders from a layout to a slide, the placeholder text was copied along with its shape. Since this behavior does not match that of PowerPoint, starting from Aspose.Slides for .NET 25.8, this inconsistency has been corrected.
 The new `GetTextBoxesContainsText` and `FindShapesByPlaceholderType` methods have been added to the `Aspose.Slides.Util.SlideUtil` class to make it easier to switch to the new version.
 
-**Usage examples:
+Usage examples:
 
 If you previously used the `SlideUtil.GetAllTextBoxes(IBaseSlide slide)` method to search for specific text in all slide shapes, including placeholders, for example like this:
 
