@@ -1,0 +1,42 @@
+---
+id: "aspose-3d-for-python-net-25-7-release-notes"
+slug: "aspose-3d-for-python-net-25-7-release-notes"
+linktitle: Aspose.3D για Python μέσω .NET 25.7 Σημειώσεις Έκδοσης
+title: Aspose.3D για Python μέσω .NET 25.7 Σημειώσεις Έκδοσης
+weight: 6
+description: Aspose.3D για Python μέσω .NET 25.7 Σημειώσεις έκδοσης – οι τελευταίες ενημερώσεις και διορθώσεις.
+type: repository
+layout: release
+---
+
+{{% alert color="primary" %}}
+
+Αυτή η σελίδα περιέχει πληροφορίες σημειώσεων έκδοσης για το Aspose.3D για Python μέσω .NET 25.7.
+
+{{% /alert %}}
+## **Βελτιώσεις και Αλλαγές**
+|**Κλειδί**|**Περίληψη**|**Κατηγορία**|
+| :- | :- | :- |
+| THREEDNET-1614 | Βελτίωση συμβατότητας IFC | Εργασία |
+| THREEDNET-1698 | Βελτίωση ποιότητας απόδοσης | Εργασία |
+| THREEDNET-1699 | Προσθήκη υποστήριξης ομαδοποίησης IFC | Εργασία |
+| THREEDNET-1693 | Προσθήκη υποστήριξης υλικού για IFC4 | Βελτίωση |
+| THREEDNET-1697 | Το EXT_structural_metadata δεν υποστηρίζει εξωτερικό σχήμα | Βελτίωση |
+| THREEDNET-1690 |  "Δεν είναι δυνατή η ανοίγματος αυτού του αρχείου" για μορφή gLTF | Διόρθωση σφαλμάτων |
+| THREEDNET-1692 | Αποτυχία ανοίγματος αρχείου DRC | Διόρθωση σφαλμάτων |
+| THREEDNET-1694 | Η μετασχηματισμός αντικειμένου είναι εσφαλμένη σε αρχεία IFC4 | Διόρθωση σφαλμάτων |
+
+## Αλλαγές API ##
+
+### Προστέθηκε κλάση **aspose.threed.Group**
+
+Αυτή η κλάση ορίζει λογικές ομαδοποιήσεις σχέσεων, διακριτές από την κλάση `Node` η οποία αντιπροσωπεύει ιεραρχικές σχέσεις για απόδοση. Αυτή η λειτουργικότητα είναι διαθέσιμη μόνο κατά την εργασία με τη μορφή IFC.
+
+### Προστέθηκαν μέλη στην κλάση **aspose.threed.entities.NurbsDirection**:
+
+{{< highlight python >}}
+        @property
+        def degree(self) -> int
+        @degree.setter
+        def degree(self, value : int) -> None
+{{< /highlight >}}
