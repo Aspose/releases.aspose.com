@@ -4,7 +4,7 @@ slug: "aspose-3d-for-net-25-3-release-notes"
 linktitle: Notas de la versión de Aspose.3D para .NET 25.3
 title: Notas de la versión de Aspose.3D para .NET 25.3
 weight: 10
-description: Notas de la versión de Aspose.3D para .NET 25.3: las últimas actualizaciones y correcciones.
+description: "Notas de la versión de Aspose.3D para .NET 25.3: las últimas actualizaciones y correcciones."
 type: repository
 layout: release
 ---

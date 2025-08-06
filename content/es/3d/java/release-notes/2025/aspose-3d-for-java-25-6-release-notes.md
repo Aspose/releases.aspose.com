@@ -4,7 +4,7 @@ slug: "aspose-3d-for-java-25-6-release-notes"
 linktitle: Aspose.3D para Java 25.6 Notas de la versión
 title: Notas de la versión 25.6 de Aspose.3D para Java
 weight: 7
-description: Notas de la versión 25.6 de Aspose.3D para Java: las últimas actualizaciones y correcciones.
+description: "Notas de la versión 25.6 de Aspose.3D para Java: las últimas actualizaciones y correcciones."
 type: repository
 layout: release
 ---

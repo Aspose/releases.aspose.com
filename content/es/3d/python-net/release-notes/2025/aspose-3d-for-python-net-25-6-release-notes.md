@@ -4,7 +4,7 @@ slug: "aspose-3d-for-python-net-25-6-release-notes"
 linktitle: Aspose.3D para Python vía .NET 25.6 Notas de la versión
 title: Aspose.3D para Python vía .NET 25.6 Notas de la versión
 weight: 7
-description: Aspose.3D para Python vía .NET 25.6 – Notas de la versión: las últimas actualizaciones y correcciones.
+description: "Aspose.3D para Python vía .NET 25.6 – Notas de la versión: las últimas actualizaciones y correcciones."
 type: repository
 layout: release
 ---
