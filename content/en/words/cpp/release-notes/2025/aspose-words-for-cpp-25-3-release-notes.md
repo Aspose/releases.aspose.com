@@ -23,9 +23,9 @@ This page contains release notes for [Aspose.Words for C++ 25.3](https://www.nug
 
 There are 64 improvements and fixes in this regular monthly release. The most notable are:
 
-- **Save Options:** Added the [UpdateAmbiguousTextFont](https://reference.aspose.com/words/net/aspose.words.saving/saveoptions/updateambiguoustextfont/) option to the [SaveOptions](https://reference.aspose.com/words/net/aspose.words.saving/saveoptions/) class.
+- **Save Options:** Added the [UpdateAmbiguousTextFont](https://reference.aspose.com/words/cpp/aspose.words.saving/saveoptions/updateambiguoustextfont/) option to the [SaveOptions](https://reference.aspose.com/words/cpp/aspose.words.saving/saveoptions/) class.
 - **PDF Export:** Improved the export of attachments to PDF.
-- **AI-Powered Grammar:** Added the possibility to implement [Grammar Checker](https://reference.aspose.com/words/net/aspose.words.ai/iaimodeltext/checkgrammar/) using AI.
+- **AI-Powered Grammar:** Added the possibility to implement [Grammar Checker](https://reference.aspose.com/words/cpp/aspose.words.ai/iaimodeltext/checkgrammar/) using AI.
 
 ## Full List of Issues Covering all Changes in this Release
 

@@ -23,8 +23,8 @@ This page contains release notes for [Aspose.Words for C++ 25.5](https://www.nug
 
 There are 79 improvements and fixes in this regular monthly release. The most notable are:
 
-- **Chart Styling:** Added the ability to set [chart style](https://reference.aspose.com/words/net/aspose.words.drawing.charts/chartstyle/).
-- **Markdown Export:** Added the possibility to control how [empty paragraphs](https://reference.aspose.com/words/net/aspose.words.saving/markdownemptyparagraphexportmode/) are exported into Markdown.
+- **Chart Styling:** Added the ability to set [chart style](https://reference.aspose.com/words/cpp/aspose.words.drawing.charts/chartstyle/).
+- **Markdown Export:** Added the possibility to control how [empty paragraphs](https://reference.aspose.com/words/cpp/aspose.words.saving/markdownemptyparagraphexportmode/) are exported into Markdown.
 
 ## Full List of Issues Covering all Changes in this Release
 

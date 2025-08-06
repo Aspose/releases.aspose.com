@@ -23,10 +23,10 @@ This page contains release notes for [Aspose.Words for C++ 25.6](https://www.nug
 
 There are 60 improvements and fixes in this regular monthly release. The most notable are:
 
-- **Multi-Page Export:** Added multipage export to raster image formats (PNG/JPG/etc.) with [customizable layouts](https://reference.aspose.com/words/net/aspose.words.saving/multipagelayout/) (Horizontal/Vertical/Grid).
+- **Multi-Page Export:** Added multipage export to raster image formats (PNG/JPG/etc.) with [customizable layouts](https://reference.aspose.com/words/cpp/aspose.words.saving/multipagelayout/) (Horizontal/Vertical/Grid).
 - **MathML Connectors:** Added rendering for connector lines in MathML, ensuring more accurate formula visualization.
 - **Math Formula Wrapping:** Improved rendering to correctly wrap formulas with multiple slashes, enhancing layout clarity.
-- **Waterfall Chart Legends:** Added legend rendering for ["Waterfall"](https://reference.aspose.com/words/net/aspose.words.drawing.charts/chartseriestype/) charts, improving data understanding and chart completeness.
+- **Waterfall Chart Legends:** Added legend rendering for ["Waterfall"](https://reference.aspose.com/words/cpp/aspose.words.drawing.charts/chartseriestype/) charts, improving data understanding and chart completeness.
 
 ## Full List of Issues Covering all Changes in this Release
 
