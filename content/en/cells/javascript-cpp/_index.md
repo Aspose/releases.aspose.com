@@ -27,7 +27,7 @@ You can easily use <b>aspose.cells.js</b> for JavaScript from {{< Common/link hr
    {{< consolebox/spantext text=" " >}}
    {{< consolebox/textarea id="npm" >}} npm i aspose.cells.js {{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
-{{< Common/release-notes-link family="cells" product="js-cpp" href="https://releases.aspose.com/cells/js-cpp/release-notes/" text="https://releases.aspose.com/cells/js-cpp/release-notes/"  >}}
+{{< Common/release-notes-link family="cells" product="javascript-cpp" href="https://releases.aspose.com/cells/javascript-cpp/release-notes/" text="https://releases.aspose.com/cells/javascript-cpp/release-notes/"  >}}
 
 {{< Common/hr >}}
 
@@ -55,7 +55,7 @@ You can easily use <b>aspose.cells.js</b> for JavaScript from {{< Common/link hr
 - **Fully compatible with modern browsers (Chrome, Firefox, Edge, Safari) and Node.js runtimes.**
 - **Ensures consistent behavior across both client-side and server-side applications for seamless integration and execution.**
 
-[Product Page](https://products.aspose.com/cells/js-cpp/) | [Docs]() | [Demos](https://products.aspose.app/cells/family) | [API Reference](https://reference.aspose.com/cells/js-cpp/) | [Blog](https://blog.aspose.com/categories/aspose.cells-product-family/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cells/9) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+[Product Page](https://products.aspose.com/cells/javascript-cpp/) | [Docs]() | [Demos](https://products.aspose.app/cells/family) | [API Reference](https://reference.aspose.com/cells/javascript-cpp/) | [Blog](https://blog.aspose.com/categories/aspose.cells-product-family/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/cells/9) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 {{< Tags/TagsWrapper >}}
 {{< Tags/TagsList >}}
@@ -67,7 +67,7 @@ You can easily use <b>aspose.cells.js</b> for JavaScript from {{< Common/link hr
 
 <!-- ReleasesListProductPage-->
 
-{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="cells" product="js-cpp" >}}
+{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="cells" product="javascript-cpp" >}}
 
 <!-- /ReleasesListProductPage-->
 
