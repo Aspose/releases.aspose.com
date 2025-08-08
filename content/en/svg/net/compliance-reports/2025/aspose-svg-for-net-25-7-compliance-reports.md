@@ -11,7 +11,7 @@ hideChildren: false
 toc: false
 family_listing_page_title: "Aspose.SVG for .NET 25.7 Compliance & Security Reports"
 menuItemWithNoContent: false
-committed_by: "saud.naushahi@aspose.com"
+committed_by: "Victor.Deviatov@aspose.com"
 ---
 
 ![Security Rating](https://img.shields.io/badge/Security%20Rating-A-brightgreen?style=flat-square&logo=verizon)
