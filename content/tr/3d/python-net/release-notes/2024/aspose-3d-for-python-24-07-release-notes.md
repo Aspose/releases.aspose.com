@@ -1,0 +1,27 @@
+---
+id: "aspose-3d-for-python-net-24-7-release-notes"
+slug: "aspose-3d-for-python-net-24-7-release-notes"
+linktitle: Aspose.3D for Python aracılığıyla .NET 24.7 Yayın Notları
+title: Aspose.3D for Python aracılığıyla .NET 24.7 Yayın Notları
+weight: 6
+description: Aspose.3D for Python aracılığıyla .NET 24.7 Yayın Notları – en son güncellemeler ve düzeltmeler.
+type: repository
+layout: release
+---
+
+{{% alert color="primary" %}}
+
+Bu sayfa, Aspose.3D for Python için .NET 24.7 yayın notlarını içerir.
+
+{{% /alert %}}
+## **İyileştirmeler ve Değişiklikler**
+
+|**Anahtar**|**Özet**|**Kategori**|
+| :- | :- | :- |
+| THREEDNET-1571 | JT'nin ayrıştırma kodunu sürüm 10'u desteklemek için yeniden düzenleyin | Görev |
+| THREEDNET-1570 | Siemens JT 9 için Float64 CDP sıkıştırma codec'ini uygulayın | Görev |
+
+
+## API değişiklikleri ##
+
+Bu sürümde API değişiklikleri bulunmuyor.
