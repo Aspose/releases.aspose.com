@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/cad/python-net/new-releases/icons-aspose.cad-for-python-via-.net-25.8.0-windows-amd64/"
-folder_name: "Ícones Aspose.CAD para Python via .NET 25.8.0 Windows AMD64"
+folder_name: "Aspose.CAD para Python via .NET 25.8.0 Windows AMD64"
 download_link: "/cad/python-net/new-releases/icons-aspose.cad-for-python-via-.net-25.8.0-windows-amd64/1e7fbe725b58204c37a3aef22e33929e-24-13552"
 download_text: "Download"
 intro_text: "Esta roda contém o Aspose.CAD para Python via .NET versão 25.8.0, criado para Windows e voltado para a arquitetura AMD64."
@@ -22,7 +22,7 @@ weight: 40
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Ícones Aspose.CAD para Python via .NET 25.8.0 Windows AMD64" imagelink="/resources/img/random-file-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.CAD para Python via .NET 25.8.0 Windows AMD64" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/cad/python-net/new-releases/icons-aspose.cad-for-python-via-.net-25.8.0-windows-amd64/1e7fbe725b58204c37a3aef22e33929e-24-13552" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/cad" >}}
