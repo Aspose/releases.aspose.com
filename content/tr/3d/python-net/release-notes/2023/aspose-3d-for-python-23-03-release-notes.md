@@ -1,0 +1,35 @@
+---
+id: "aspose-3d-for-python-net-23-3-release-notes"
+slug: "aspose-3d-for-python-net-23-3-release-notes"
+linktitle: Aspose.3D for Python aracılığıyla .NET 23.3 Yayın Notları
+title: Aspose.3D for Python aracılığıyla .NET 23.3 Yayın Notları
+weight: 10
+description: Aspose.3D for Python aracılığıyla .NET 23.3 Sürüm Notları – en son güncellemeler ve düzeltmeler.
+type: repository
+layout: release
+---
+
+{{% alert color="primary" %}}
+
+Bu sayfa, Aspose.3D for Python via .NET 23.3 için yayın notları bilgilerini içerir.
+
+{{% /alert %}}
+## **Geliştirmeler ve Değişiklikler**
+
+|**Anahtar**|**Özet**|**Kategori**|
+| :- | :- | :- |
+| THREEDPYTHON-72 | PYI oluşturmayı eklemek için PyRefGenerator'ı iyileştirin | Geliştirme |
+| THREEDNET-1340 | Bir sahneyi fbx'ten usd'ye kaydetmek bir istisna oluşturabilir | Hata düzeltme |
+| THREEDNET-1341 | Uygulama hatası - Bir dosyayı html'ye kaydetmek ArgumentNullException oluşturabilir | Hata düzeltme |
+| THREEDNET-1343 | Null etiketli meta veri FBX dosyasına kaydedildiğinde başarısız olur | Hata düzeltme |
+| THREEDNET-1350 | FBX ihracatçısında kısa int türündeki özellik desteklenmiyor | Hata düzeltme |
+| THREEDNET-1352 | İkili maya dosyasındaki desteklenmeyen maya bölümü VEC# | Hata düzeltme |
+| THREEDNET-1353 | İkili maya dosyasındaki desteklenmeyen maya bölümü SBDS | Hata düzeltme |
+| THREEDNET-1354 | İkili maya dosya formatında bilinmeyen UV seti | Hata düzeltme |
+| THREEDNET-1355 | GLB dosyası yüklerken NullReferenceException | Hata düzeltme |
+| THREEDNET-1356 | Desteklenmeyen maya komutu: instanceable | Hata düzeltme |
+
+
+## API değişiklikleri ##
+
+23.3'te FBX ve Maya'daki bazı hatalar düzeltildi ve API değişiklikleri bulunmuyor.
