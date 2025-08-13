@@ -22,7 +22,7 @@ This page contains release notes information for Aspose.PDF for .NET 25.8.
 
 ## Features and Enhancements
 
-Starting from version 25.8, Aspose.PDF for .NET supports generating fully accessible [Tagged Table of Contents (TOC)](https://docs.aspose.com/pdf/net/create-tagged-pdf/#creating-tagged-pdf-with-table-of-contents-toc-page) pages with proper navigation to corresponding sections, ensuring PDF/UA-1 compliance. This feature (ID PDFNET-59503) enables creating TOC pages with linked headers and nested sublists, improving document accessibility.
+Starting from version 25.8, Aspose.PDF for .NET supports generating fully accessible [Tagged Table of Contents (TOC)](https://docs.aspose.com/pdf/net/create-tagged-pdf/#creating-tagged-pdf-with-table-of-contents-toc-page) pages with proper navigation to corresponding sections, ensuring PDF/UA-1 compliance. This feature (ID PDFNET-59503) enables the creation of TOC pages with linked headers and nested sublists, thereby improving document accessibility.
 
 ```csharp
  // For complete examples and data files, visit https://github.com/aspose-pdf/Aspose.PDF-for-.NET
