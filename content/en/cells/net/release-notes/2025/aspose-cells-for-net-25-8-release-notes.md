@@ -88,13 +88,9 @@ The following is a list of any changes made to the public API such as added, ren
 
 Specifies the value type of ShapePathPoint object.
 
-### **Adds MarkdownLoadOptions class.**
+### **Adds ShapePathPoint.Type property.**
 
-Represents the options for loading markdown document.
-
-### **Adds ShapePathPoint.Type properties.**
-
-Specifies the value type(position coordinate or  angle marker) of the current object.
+Specifies the value type (position coordinate or angle marker) of the current object.
 
 ### **Adds ShapePathPoint.XPixel/YPixel properties.**
 
@@ -106,7 +102,7 @@ When the object is an angle marker, get or set the first/second angle in degrees
 
 ### **Obsoletes ShapePathPoint.X/Y property.**
 
-Please use ShapePathPoint.XPixel/YPixel or XAngle/YAngle instead in unit of pixel/degree accordingly.
+Please use ShapePathPoint.XPixel/YPixel or XAngle/YAngle instead in units of pixels/degrees accordingly.
 
 ### **Obsoletes ShapePathPointCollection.Add method.**
 
@@ -115,8 +111,9 @@ Please use the MoveTo, LineTo, CubicBezierTo and ArcTo methods of ShapePath inst
 ### **Obsoletes WorkbookDesigner.Process(Range,Boolean) method and WorkbookDesigner.LineByLine property.**
 
 Please use range smart marker instead.
-In order to process all smart markers of a range before the version 25.8, the range must be named as "_CellsSmartMarkers" and WorkbookDesigner.LineByLine must be false.
-For example: if we need to process all smart markers in the range A1:D4, in the old versions, we have to named the range A1:D4 as "_CellsSmartMarkers" and LineByLine as false, then we can process them together; Starting from 25.8, we only need to set the first smart marker in the range as &=table.column1(range:A1:D4).
+In order to process all smart markers of a range before the version 25.8, the range must be named as `_CellsSmartMarkers` and `WorkbookDesigner.LineByLine` must be false.
+
+For example: if we need to process all smart markers in the range `A1:D4`, in the old versions, we have to name the range `A1:D4` as `_CellsSmartMarkers` and `LineByLine` as false, then we can process them together; Starting from 25.8, we only need to set the first smart marker in the range as `&=table.column1(range:A1:D4)`.
 
 ### **Adds WorkbookDesigner.SortDataSource property.**
 
@@ -130,11 +127,15 @@ Gets the default settings for smart tags.
 
 Indicates whether to keep tables in the destination range.
 
+### **Adds MarkdownLoadOptions class.**
+
+Represents the options for loading markdown document.
+
 ### **Adds enum ChartColorPaletteType.**
 
 Enumerates all Monochromatic Palettes used in Excel chart.
 
 ### **Adds method SeriesCollection.ChangeColors(ChartColorPaletteType type).**
 
-Set Monochromatic Palette for chart series.
+Sets Monochromatic Palette for chart series.
 
