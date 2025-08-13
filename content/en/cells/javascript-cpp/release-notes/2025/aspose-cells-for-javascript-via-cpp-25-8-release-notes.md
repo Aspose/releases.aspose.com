@@ -1,25 +1,24 @@
 ---
-id: "aspose-cells-for-node-js-via-cpp-25-8-release-notes"
-slug: "aspose-cells-for-node-js-via-cpp-25-8-release-notes"
-linktitle: "Aspose.Cells for Node.js via C++ 25.8 Release Notes"
-title: "Aspose.Cells for Node.js via C++ 25.8 Release Notes"
+id: "aspose-cells-for-javascript-via-cpp-25-8-release-notes"
+slug: "aspose-cells-for-javascript-via-cpp-25-8-release-notes"
+linktitle: "Aspose.Cells for JavaScript via C++ 25.8 Release Notes"
+title: "Aspose.Cells for JavaScript via C++ 25.8 Release Notes"
 weight: 5
-description: "Aspose.Cells for Node.js via C++ 25.8 Release Notes – the latest enhancements, new features, and fixes."
+description: "Aspose.Cells for JavaScript via C++ 25.8 Release Notes – the latest enhancements, new features, and fixes."
 type: "repository"
 layout: "release"
-family_listing_page_title: "Aspose.Cells for Node.js via C++ 25.8 Release Notes"
-keywords: "Aspose.Cells for Node.js via C++ 25.8 Release Notes, Aspose.Cells for Node.js via C++ 25.8 updates and fixes"
+family_listing_page_title: "Aspose.Cells for JavaScript via C++ 25.8 Release Notes"
+keywords: "Aspose.Cells for JavaScript via C++ 25.8 Release Notes, Aspose.Cells for JavaScript via C++ 25.8 updates and fixes"
 ---
 
 {{% alert color="primary" %}}
 
-This page contains release notes for Aspose.Cells for Node.js via C++ 25.8.
+This page contains release notes for Aspose.Cells for JavaScript via C++ 25.8.
 
 {{% /alert %}}
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|CELLSNODEJSCPP-61|Segmentation faults back with Aspose.Cells for Node.js via C++ when saving Excel file to HTML|Bug
 |CELLSNET-54523|Support for EXPAND formula|New Feature
 |CELLSNET-58806|Support COT/COTH function|New Feature
 |CELLSNET-58809|Support REDUCE function|New Feature
