@@ -21,7 +21,7 @@ This page contains release notes for [Aspose.PSD for .NET 25.8](https://www.nug
 
 | **Key**     | **Summary**                                                                               | **Category** |
 |:------------|:------------------------------------------------------------------------------------------|:-------------|
-| PSDNET-1647 | Investigate ways to make adapters for different Imaging Sources for Aspose.PSD            | Feature      |
+| PSDNET-1675 | Investigate ways to make adapters for different Imaging Sources for Aspose.PSD            | Feature      |
 | PSDNET-2321 | Image.Open method with with psd file in arguments cause a spike in RAM and eventually crash | Feature      |
 | PSDNET-2276 | [Ai format] Rework loading and storing data of AiImage.                                   | Enhancement  |
 | PSDNET-2394 | [Regression] Fix the export of Ai file to a gif file                                      | Bug          |
@@ -45,7 +45,7 @@ This page contains release notes for [Aspose.PSD for .NET 25.8](https://www.nug
 
 ## **Usage examples:**
 
-**PSDNET-1647. Investigate ways to make adapters for different Imaging Sources for Aspose.PSD**
+**PSDNET-1675. Investigate ways to make adapters for different Imaging Sources for Aspose.PSD**
 
 {{< highlight csharp >}}
 string sourceFile = Path.Combine(baseFolder, "text_test.ai");
