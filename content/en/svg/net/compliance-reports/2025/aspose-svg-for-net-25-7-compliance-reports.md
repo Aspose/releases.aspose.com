@@ -23,7 +23,7 @@ committed_by: "Victor.Deviatov@aspose.com"
 
 ### EULA & Third-Party Licenses
 
-- <a href="https://files.conholdate.app/viewer/view/4Y8UNm7laVFjMAd0r/aspose_end-user-license-agreement_2024-05-16.pdf" target="_blank" rel="noopener">Aspose End User License Agreement</a>
+- <a href="https://about.aspose.com/legal/eula/" target="_blank" rel="noopener">Aspose End User License Agreement</a>
 - {{< compliance-file relpath="/compliance-reports/third-party-licenses/net/third-party-licenses-aspose-svg-net.pdf" text="Aspose.SVG for .NET Third-Party License" >}}
 
 
