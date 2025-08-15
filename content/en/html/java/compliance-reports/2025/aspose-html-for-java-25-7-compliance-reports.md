@@ -11,7 +11,7 @@ hideChildren: false
 toc: false
 family_listing_page_title: "Aspose.HTML for Java 25.7 Compliance & Security Reports"
 menuItemWithNoContent: false
-committed_by: "saud.naushahi@aspose.com"
+committed_by: "Pavel.Terechshenkov@aspose.com"
 ---
 
 ![Security Rating](https://img.shields.io/badge/Security%20Rating-A-brightgreen?style=flat-square&logo=verizon)
@@ -23,7 +23,7 @@ committed_by: "saud.naushahi@aspose.com"
 
 ### EULA & Third-Party Licenses
 
-- <a href="https://files.conholdate.app/viewer/view/4Y8UNm7laVFjMAd0r/aspose_end-user-license-agreement_2024-05-16.pdf" target="_blank" rel="noopener">Aspose End User License Agreement</a>
+- <a href="https://about.aspose.com/legal/eula/" target="_blank" rel="noopener">Aspose End User License Agreement</a>
 - {{< compliance-file relpath="/compliance-reports/third-party-licenses/java/third-party-licenses-aspose-html-java.pdf" text="Aspose.HTML for Java Third-Party License" >}}
 
 
