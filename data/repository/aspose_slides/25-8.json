@@ -1,12 +1,17 @@
 {
   "groupId" : "com.aspose",
+  "classifier" : "jdk16",
   "artifactId" : "aspose-slides",
   "id" : "25-8",
   "packageFiles" : [ {
-    "size" : "1 KB",
+    "size" : "29 MB",
+    "name" : "aspose-slides-25.8-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "395 bytes",
     "name" : "aspose-slides-25.8.pom"
   } ],
-  "releasehDate" : "2025-08-15T14:22:23+00:00",
+  "releasehDate" : "2025-08-15T14:40:08+00:00",
   "version" : "25.8",
   "ReleaseNotes" : "https://releases.aspose.com/slides/java/release-notes/2025/aspose-slides-for-java-25-8-release-notes/"
 }
