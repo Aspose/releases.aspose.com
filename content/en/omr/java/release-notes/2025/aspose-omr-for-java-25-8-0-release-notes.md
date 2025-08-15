@@ -1,18 +1,24 @@
 ---
-weight: 1
-id: "aspose-omr-for-java-latest-release-notes"
-slug: "latest"
 date: "2025-08-15"
+id: "aspose-omr-for-java-25-8-0-release-notes"
+slug: "aspose-omr-for-java-25-8-0-release-notes"
+linktitle: "Aspose.OMR for Java 25.8.0 - Release Notes"
+title: "Aspose.OMR for Java 25.8.0 - Release Notes"
 author: "Nikita Korobeynikov"
+weight: 111
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for Java 25.8.0 (August 2025) release."
 type: "repository"
 layout: "release"
-title: Latest release
-description: A summary of recent changes, enhancements and bug fixes in the latest release of Aspose.OMR for Java.
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OMR for Java 25.8.0 - Release Notes"
 keywords:
-- latest
-- new
-- release
-- changelog
+- "2025"
+- "August"
+- "new"
+- "release"
+- "changelog"
+menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
@@ -67,7 +73,7 @@ Forms generated with Aspose.OMR for Java 25.8 cannot be recognized with Aspose.O
 
 To improve and speed up the processing of rotated scans of photos, a new positioning marker has been added. Exact position can be changed based on GlobalPageSettings. For example, to the upper right corner of printable OMR form.
 
-![Positioning markers](../2025/markers.png)
+![Positioning markers](../markers.png)
 
 All forms generated with previous versions of Aspose.OMR for Java (that lack that extra marker) will not be recognized by Aspose.OMR for Java 25.8. The following error will be returned: _"Unable to detect rotation rectangle. Since version 25.8 we use 5 reference points. Please generate template using latest version.""_.
 
@@ -84,7 +90,7 @@ This change will not affect existing code, print forms, or recognition results.
 
 The algorithm for detecting OMR form positioning markers has been significantly improved. Now it can filter out additional elements on the form that might otherwise be mistaken for a position marker.
 
-![Filter out elements that look like a position marker](../2025/filter_example.png)
+![Filter out elements that look like a position marker](../filter_example.png)
 
 
 

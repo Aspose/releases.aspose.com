@@ -5,7 +5,7 @@ slug: "aspose-omr-for-java-25-7-0-release-notes"
 linktitle: "Aspose.OMR for Java 25.7.0 - Release Notes"
 title: "Aspose.OMR for Java 25.7.0 - Release Notes"
 author: "Nikita Korobeynikov"
-weight: 11
+weight: 121
 description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for Java 25.7.0 (July 2025) release."
 type: "repository"
 layout: "release"
