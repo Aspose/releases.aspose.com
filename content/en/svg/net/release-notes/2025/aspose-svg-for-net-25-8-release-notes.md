@@ -25,17 +25,17 @@ This version introduces powerful new boolean geometry operations for SVG graphic
 
 | Feature / Change | Benefit |
 |------------------|---------|
-| **Boolean Geometry Operations (SVGNET-512)** | New API to combine any `SVGGeometryElement` (e.g., `<circle>`, `<rect>`, `<path>`) using **Union**, **Difference**, or **Intersection (Crop)** operations. Simplifies complex shape construction and editing workflows. |
-| **Accurate Text Layout (SVGNET-505)** | Fixed an issue where text was incorrectly positioned when using `dx` / `dy` attributes, which could cause overlapping or misaligned text in rendered output. |
+| **Boolean Geometry Operations (SVGNET-505)** | New API to combine any `SVGGeometryElement` (e.g., `<circle>`, `<rect>`, `<path>`) using **Union**, **Difference**, or **Intersection (Crop)** operations. Simplifies complex shape construction and editing workflows. |
+| **Accurate Text Layout (SVGNET-510)** | Fixed an issue where text was incorrectly positioned when using `dx` / `dy` attributes, which could cause overlapping or misaligned text in rendered output. |
 
 ---
 
 ## Enhancements and Fixes
 
-- **SVGNET-512:**  
+- **SVGNET-505:**  
   Added boolean geometry operations (`Union`, `Difference`, `Intersection`) for all `SVGGeometryElement` types. The `Combine` method produces a new `<path>` element representing the merged result, enabling advanced shape composition.
 
-- **SVGNET-505:**  
+- **SVGNET-510:**  
   Fixed incorrect text positioning due to miscalculated `dx`/`dy` values. The text layout algorithm now renders text consistently and correctly, preventing overlaps or broken visual output.
 
 ---
