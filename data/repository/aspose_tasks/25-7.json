@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk18",
+  "artifactId" : "aspose-tasks",
+  "id" : "25-7",
+  "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-tasks-25.7-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "15 MB",
+    "name" : "aspose-tasks-25.7-jdk18.jar",
+    "classifier" : "jdk18"
+  }, {
+    "size" : "395 bytes",
+    "name" : "aspose-tasks-25.7.pom"
+  } ],
+  "releasehDate" : "2025-07-31T09:34:33+00:00",
+  "version" : "25.7",
+  "ReleaseNotes" : "https://releases.aspose.com/tasks/java/release-notes/2025/aspose-tasks-for-java-25-7-release-notes/"
+}

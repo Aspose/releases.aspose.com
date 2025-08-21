@@ -2,7 +2,7 @@
 id: "aspose-omr-for-net-latest-release-notes"
 slug: "latest"
 weight: 1
-date: "2025-06-30"
+date: "2025-07-31"
 author: "Nikita Korobeynikov"
 type: "repository"
 layout: "release"
@@ -15,27 +15,24 @@ keywords:
 - changelog
 ---
 
+---
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OMR for .NET 25.6.0 (June 2025)**](https://www.nuget.org/packages/Aspose.OMR/25.6.0) release.
+This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OMR for .NET 25.7.0 (July 2025)**](https://www.nuget.org/packages/Aspose.OMR/25.7.0) release.
 {{% /alert %}}
 
 ## What was changed
 
 Key | Summary | Category
 --- | ------- | --------
-OMRNET&#8209;1120 | Added new optional mechanism to detect soft pencil marks.  | New feature
+OMRNET&#8209;1156 | Added support for multiple symbols inside ChoiceBox bubble  | New feature
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OMR for .NET 25.6.0** that may affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OMR for .NET 25.7.0** that may affect the code of existing applications.
 
 ### Added public APIs:
 
-The following public APIs have been added to Aspose.OMR for .NET 25.6.0:
-
-
-##### `Aspose.OMR.Api.TemplateProcessor.ApplyLightShadeProcessing` property
-Boolean flag, disabled by default(`false`). When `true` will detect lightly shaded pencil marks.
+_No changes._
 
 ### Updated public APIs:
 
@@ -49,70 +46,49 @@ _No changes._
 
 See the examples below to learn more about the changes introduced in this release:
 
-### C# code for recognizing math test with full pencil support
+### C# code for template generation with multiple symbols inside bubble
 
 ```csharp
-OmrEngine engine = new OmrEngine();
-string templatePath = @"C:\Users\User\Desktop\Math01.omr";
-TemplateProcessor processor = engine.GetTemplateProcessor(templatePath);
-processor.ApplyLightShadeProcessing = true;
+var templateConfig = new TemplateConfig();
+var choiceBoxConfig = new ChoiceBoxConfig()
+{
+    Name = "Is mark required",
+    DisplayQuestionNumber = false,
+    QuestionText = $"Do you have to mark up every question on the page?",
+    
+};
 
-string scan = @"C:\Users\User\Desktop\scans\A001-20250709-001.png";
-RecognitionResult result = processor.Recognize(scan);
+var yesAnswer = new ChoiceBoxAnswerConfig()
+{
+    Name = "Yes, that will help a lot!",
+    BubbleValue = $"Yes",
+};
 
-string csv = result.GetCsv();
-File.WriteAllText(@"C:\Users\User\Desktop\results\A001-20250709-001.csv", csv);
+var noAnswer = new ChoiceBoxAnswerConfig()
+{
+    Name = "No, it is optional",
+    BubbleValue = $"No",
+};
+
+
+choiceBoxConfig.Children.Add(noAnswer);
+choiceBoxConfig.Children.Add(yesAnswer);
+templateConfig.Children.Add(choiceBoxConfig);
+
+var result = engine.Generate(templateConfig, settings);
+result.Save(@"C:\Users\User\Desktop\two_digits_in_bubble","two_digits");
 ```
 
-### Example of recognition results without pencil support
-
-![pencil-marks](../2025/pencil-marks.png)
-
-**no pencil support**
-```
-Element Name,Value,
-MainQuestions10,"A,D"
-MainQuestions11,""
-MainQuestions12,""
-MainQuestions13,"B"
-MainQuestions14,"C"
-MainQuestions15,""
-MainQuestions16,""
-MainQuestions17,"B,D"
-MainQuestions18,""
-MainQuestions19,"D"
-MainQuestions20,"D"
-MainQuestions21,""
-MainQuestions22,""
-MainQuestions23,""
+### Text markup for template generation with multiple symbols inside bubble
+```txt
+?choicebox=Do you have to mark up every question on the page?
+?option=Yes, that will help a lot! 
+    bubble_value=Yes
+?option=No, it is optional 
+    bubble_value=No
+&choicebox
 ```
 
+### Example of generated template
 
-### Example of recognition results with pencil support
-
-![pencil-marks](../2025/pencil-marks.png)
-
-**enabled pencil support**
-```
-Element Name,Value,
-MainQuestions10,"A,D"
-MainQuestions11,"C"
-MainQuestions12,"C"
-MainQuestions13,"B"
-MainQuestions14,"C"
-MainQuestions15,"A"
-MainQuestions16,"C"
-MainQuestions17,"B,D"
-MainQuestions18,""
-MainQuestions19,"B,D"
-MainQuestions20,"B,D"
-MainQuestions21,"C"
-MainQuestions22,"C"
-MainQuestions23,"C"
-```
-
-
-
-
-
-
+![multiple symbols inside bubble](../2025/multiple_symbols.png)

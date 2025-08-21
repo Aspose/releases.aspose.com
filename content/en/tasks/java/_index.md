@@ -21,6 +21,7 @@ productLink: https://products.aspose.com/tasks/java/
 releaseNotesLink: https://releases.aspose.com/tasks/java/release-notes/
 dataFolder: aspose_tasks
 packages_refs:
+- "25-7"
 - "25-6"
 - "25-5"
 - "25-4"

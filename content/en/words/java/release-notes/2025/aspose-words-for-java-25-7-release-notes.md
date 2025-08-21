@@ -221,33 +221,7 @@ protected virtual int OutputTokenLimit { get; }
 {{< /highlight >}}
 
 This use case explains how to use self-hosted LLM implementations:
-{{< highlight java >}}
-    public void selfHostedModel() throws Exception
-    {
-        Document doc = new Document(getMyDir() + "Big document.docx");
-
-        String apiKey = System.getenv("API_KEY");
-        // Use OpenAI generative language models.
-        AiModel model = new CustomAiModel().withApiKey(apiKey);
-
-        Document translatedDoc = model.translate(doc, Language.RUSSIAN);
-        translatedDoc.save(getArtifactsDir() + "AI.SelfHostedModel.docx");
-    }
-
-    // Custom self-hosted AI model.
-    static class CustomAiModel extends OpenAiModel
-    {
-        protected String getUrl()
-        {
-            return "https://localhost/";
-        }
-
-        protected String getName()
-        {
-            return "my-model-24b";
-        }
-    }
-{{< /highlight >}}
+{{< gist "aspose-words-gists" "2af5a850f2e0a83c3b114274a838c092" "self-hosted-model.java" >}}
 
 ### Introduced the ReplacingArgs.MatchEndNode public property to provide developers with more precise control during text replacement operations.
 
@@ -262,7 +236,7 @@ public Node MatchEndNode { get; }
 {{< /highlight >}}
 
 This use case explains how to use [MatchEndNode](https://reference.aspose.com/words/java/com.aspose.words/replacingargs/#getMatchEndNode) public property:
-{{< gist "aspose-words-gists" "67c1d01ce69d189983b497fd497a7768" "match-end-node.cs" >}}
+{{< gist "aspose-words-gists" "2af5a850f2e0a83c3b114274a838c092" "match-end-node.java" >}}
 
 ### Added the Row.Hidden public property, enabling the ability to programmatically show or hide specific rows within a table.
 
@@ -280,7 +254,7 @@ public bool Hidden
 {{< /highlight >}}
 
 This use case explains how to programmatically show or hide specific rows within a table:
-{{< gist "aspose-words-gists" "67c1d01ce69d189983b497fd497a7768" "hidden-row.cs" >}}
+{{< gist "aspose-words-gists" "2af5a850f2e0a83c3b114274a838c092" "hidden-row.java" >}}
 
 ### First version of OpenType Font Variation support.
 
