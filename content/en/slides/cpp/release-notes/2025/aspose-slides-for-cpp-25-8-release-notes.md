@@ -40,6 +40,7 @@ This page contains release notes for [Aspose.Slides for C++ 25.8](https://www.nu
 | :- | :- | :- | :- |
 |SLIDESCPP-3977|Extracting brightness and contrast properties of an image|Feature||
 |SLIDESCPP-4036|PptxReadException is thrown while reading a presentation|Bug||
+|SLIDESCPP-4038|IShape::GetImage throws an ArgumentNullException|Bug||
 |SLIDESCPP-4055|Use Aspose.Slides for .NET 25.8 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2025/aspose-slides-for-net-25-8-release-notes/>|
 
 ## Public API Changes
