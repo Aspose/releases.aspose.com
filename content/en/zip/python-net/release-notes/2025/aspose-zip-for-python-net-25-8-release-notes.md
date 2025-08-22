@@ -37,5 +37,6 @@ This page contains release notes information for [Aspose.ZIP for Python via .NET
 |aspose.zip.saving.ArchiveSaveOptions.data_descriptor_policy|Gets or sets settings for Data Descriptor emission.|
 
 |**The following public enumerations were added:**|**Description**|
+| :- | :- |
 |aspose.zip.saving.ZipDataDescriptorPolicy.ALWAYS|Data Descriptor is always present for all zip entries.|
 |aspose.zip.saving.ZipDataDescriptorPolicy.FOR_ALL_FILE_ENTRIES|Data Descriptor present only for entries with file data; omitted for directories.|
