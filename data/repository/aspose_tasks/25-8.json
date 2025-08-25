@@ -1,0 +1,16 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-tasks",
+  "id" : "25-8",
+  "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-tasks-25.8-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "395 bytes",
+    "name" : "aspose-tasks-25.8.pom"
+  } ],
+  "releasehDate" : "2025-08-25T13:07:57+00:00",
+  "version" : "25.8",
+  "ReleaseNotes" : "https://releases.aspose.com/tasks/java/release-notes/2025/aspose-tasks-for-java-25-8-release-notes/"
+}
