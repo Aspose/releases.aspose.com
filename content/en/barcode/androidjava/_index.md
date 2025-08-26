@@ -38,13 +38,13 @@ implementation group: 'com.aspose', name: 'aspose-barcode-android-java', classif
 
 {{< Common/hr >}}
 
-[Product Page](https://products.aspose.com/barcode/android-java/) | [Docs](https://docs.aspose.com/barcode/androidjava/) | [Demos](https://products.aspose.app/barcode/family) | [API Reference](https://reference.aspose.com/barcode/java) | [Examples](https://github.com/aspose-barcode/Aspose.BarCode-for-Java) | [Blog](https://blog.aspose.com/category/barcode/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/barcode) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
+[Product Page](https://products.aspose.com/barcode/android-java/) | [Docs](https://docs.aspose.com/barcode/androidjava/) | [Demos](https://products.aspose.app/barcode/family) | [API Reference](https://reference.aspose.com/barcode/androidjava) | [Examples](https://github.com/aspose-barcode/Android-Library-Usage-Examples) | [Blog](https://blog.aspose.com/category/barcode/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/barcode) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
 ### Barcode Android Features
 
 - Supports most established barcode standards and barcode specifications.
 - Ability to export barcode to multiple image formats including: BMP, GIF, JPEG, PNG, TIFF and SVG.
-- Supports checksum & supplement data.
+- Supports checksum and supplement data.
 - Optimize barcode scanning & recognition for speed & quality.
 
 ### Supported Input & Output Formats
