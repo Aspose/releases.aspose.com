@@ -34,8 +34,8 @@ committed_by: "petr.tetenko@aspose.com"
 
 | Report | HTML | PDF |
 |--------|------|-----|
-| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/slides/java/2025/25.8/aspose-slides-java-25.8_cwe-top-25-2024.html" text="View HTML" >}} | - |
-| OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/slides/java/2025/25.8/aspose-slides-java-25.8_owasp-top-10-2021.html" text="View HTML" >}} | - |
+| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/slides/java/2025/25.8/aspose-slides-java-25.8_cwe-top-25-2024.html" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/slides/java/2025/25.8/aspose-slides-java-25.8_cwe-top-25-2024.pdf" text="View PDF" >}} |
+| OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/slides/java/2025/25.8/aspose-slides-java-25.8_owasp-top-10-2021.html" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/slides/java/2025/25.8/aspose-slides-java-25.8_owasp-top-10-2021.pdf" text="View PDF" >}} |
 
 
 
