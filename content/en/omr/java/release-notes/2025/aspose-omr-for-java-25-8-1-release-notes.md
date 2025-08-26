@@ -1,20 +1,25 @@
 ---
-weight: 1
-id: "aspose-omr-for-java-latest-release-notes"
-slug: "latest"
 date: "2025-08-26"
+id: "aspose-omr-for-java-25-8-1-release-notes"
+slug: "aspose-omr-for-java-25-8-1-release-notes"
+linktitle: "Aspose.OMR for Java 25.8.1 - Release Notes"
+title: "Aspose.OMR for Java 25.8.1 - Release Notes"
 author: "Nikita Korobeynikov"
+weight: 111
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for Java 25.8.1 (August 2025) release."
 type: "repository"
 layout: "release"
-title: Latest release
-description: A summary of recent changes, enhancements and bug fixes in the latest release of Aspose.OMR for Java.
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OMR for Java 25.8.1 - Release Notes"
 keywords:
-- latest
-- new
-- release
-- changelog
+- "2025"
+- "August"
+- "new"
+- "release"
+- "changelog"
+menuItemWithNoContent: false
 ---
-
 
 {{% alert color="primary" %}}
 This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OMR for Java 25.8.1 (August 2025)**](https://releases.aspose.com/java/repo/com/aspose/aspose-omr/25.8/) release.
@@ -67,4 +72,7 @@ We are happy to receive your feedback on features\bugs at our [Free support foru
  Enum | Position |
 ------- | ------- | 
  RotationPointPosition.TopRight1 (default)| ![TopRight1](../TopRight1.png)
+
+
+
 
