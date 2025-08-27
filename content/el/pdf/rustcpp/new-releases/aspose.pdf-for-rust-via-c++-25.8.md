@@ -6,11 +6,11 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/rustcpp/new-releases/aspose.pdf-for-rust-via-c++-25.8/"
 folder_name: "Aspose.PDF για Rust μέσω C++ 25.8"
-download_link: "/pdf/rustcpp/new-releases/aspose.pdf-for-rust-via-c++-25.8/a5acbf52f196ef18da101c9b3e38d20e-64-13638"
+download_link: "/pdf/rustcpp/new-releases/aspose.pdf-for-rust-via-c++-25.8/2543f46976e015827c86365b81f9bc1d-64-13638"
 download_text: "Κατεβάστε"
 intro_text: "Aspose.PDF για το Rust"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 26/8/2025 Κατεβάστεs: 1  Views: 1 "
+download_count: " 26/8/2025 Κατεβάστεs: 5  Views: 1 "
 file_size: "File Size: 318.43MB"
 parent_path: "pdf/rustcpp"
 section_parent_path: "pdf/rustcpp"
@@ -24,19 +24,19 @@ weight: 3
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.PDF για Rust μέσω C++ 25.8" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Κατεβάστε" link="/pdf/rustcpp/new-releases/aspose.pdf-for-rust-via-c++-25.8/a5acbf52f196ef18da101c9b3e38d20e-64-13638" >}}
+    {{< Releases/ReleasesSingleButtons text="Κατεβάστε" link="/pdf/rustcpp/new-releases/aspose.pdf-for-rust-via-c++-25.8/2543f46976e015827c86365b81f9bc1d-64-13638" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Λεπτομέρειες αρχείου">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Κατεβάστεs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-a5acbf52f196ef18da101c9b3e38d20e-64-13638" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-2543f46976e015827c86365b81f9bc1d-64-13638" >}} 5 {{< /Common/li >}}
       {{< Common/li >}} Μέγεθος αρχείου: {{< /Common/li >}}
-      {{< Common/li id="size-update-a5acbf52f196ef18da101c9b3e38d20e-64-13638" >}} 318.43MB {{< /Common/li >}}
+      {{< Common/li id="size-update-2543f46976e015827c86365b81f9bc1d-64-13638" >}} 318.43MB {{< /Common/li >}}
 
       {{< Common/li >}} Ημερομηνία προστέθηκε: {{< /Common/li >}}
-      {{< Common/li id="added-update-a5acbf52f196ef18da101c9b3e38d20e-64-13638" >}}26/8/2025 {{< /Common/li >}}
+      {{< Common/li id="added-update-2543f46976e015827c86365b81f9bc1d-64-13638" >}}26/8/2025 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
