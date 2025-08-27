@@ -1,0 +1,39 @@
+---
+id: "aspose-omr-for-java-25-8-1-compliance-reports"
+slug: "aspose-omr-for-java-25-8-1-compliance-reports"
+linktitle: "Aspose.OMR for Java 25.8.1 Compliance Reports"
+title: "Aspose.OMR for Java 25.8.1 – Compliance & Security"
+weight: 999
+description: "Aspose.OMR for Java Compliance & Security Reports | Release 25.8.1"
+type: "repository"
+layout: "release"
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OMR for Java 25.8.1 Compliance & Security Reports"
+menuItemWithNoContent: false
+committed_by: "Nikita.Korobeynikov@aspose.com"
+---
+
+![Security Rating](https://img.shields.io/badge/Security%20Rating-A-brightgreen?style=flat-square&logo=verizon)
+![CWE Top 25](https://img.shields.io/badge/CWE%20Top%2025-2024-blue?style=flat-square&logo=checkmarx)
+
+
+## This 25.8.1 Java release includes the following transparency and audit artifacts:
+
+
+
+
+
+### Security Weakness Coverage (CWE & OWASP)
+
+| Report | HTML | PDF |
+|--------|------|-----|
+| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/omr/java/2025/25.8.1/aspose-omr-java-25.8.1_cwe-top-25-2024.htm" text="View HTML" >}} | - |
+
+
+
+---
+
+## Got Queries?
+
+If you have any query related to Aspose.OMR for Java API, please feel free to reach us on [Aspose.OMR for Java forum](https://forum.aspose.com/c/omr/). We'll be glad to assist you with your inquiries.
