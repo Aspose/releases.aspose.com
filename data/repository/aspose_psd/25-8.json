@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-psd",
+  "id" : "25-8",
+  "packageFiles" : [ {
+    "size" : "4 MB",
+    "name" : "aspose-psd-25.8-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "24 MB",
+    "name" : "aspose-psd-25.8-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "643 bytes",
+    "name" : "aspose-psd-25.8.pom"
+  } ],
+  "releasehDate" : "2025-08-28T12:20:32+00:00",
+  "version" : "25.8",
+  "ReleaseNotes" : "https://releases.aspose.com/psd/java/release-notes/2025/aspose-psd-for-java-25-8-release-notes/"
+}
