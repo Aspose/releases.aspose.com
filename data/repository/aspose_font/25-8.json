@@ -1,0 +1,15 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-font",
+  "id" : "25-8",
+  "packageFiles" : [ {
+    "size" : "13 MB",
+    "name" : "aspose-font-25.8.jar"
+  }, {
+    "size" : "393 bytes",
+    "name" : "aspose-font-25.8.pom"
+  } ],
+  "releasehDate" : "2025-08-28T07:42:48+00:00",
+  "version" : "25.8",
+  "ReleaseNotes" : "https://releases.aspose.com/font/java/release-notes/2025/aspose-font-for-java-25-8-release-notes/"
+}
