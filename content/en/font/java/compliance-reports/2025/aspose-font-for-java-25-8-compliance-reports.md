@@ -21,10 +21,6 @@ committed_by: "sergey.kolodyazhnyy@aspose.com"
 
 ## This 25.8 Java release includes the following transparency and audit artifacts:
 
-### EULA & Third-Party Licenses
-
-- <a href="https://about.aspose.com/legal/eula/" target="_blank" rel="noopener">Aspose End User License Agreement</a>
-
 
 
 
