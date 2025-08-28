@@ -21,7 +21,7 @@ This page contains release notes information for Aspose.PDF for JavaScript via C
 
 ### Added APIs
 
-Convert to PDF functions:
+Convert from PDF functions:
 * **AsposePdfToMarkdown** - Convert a PDF-file to Markdown
 
 ### Removed APIs
