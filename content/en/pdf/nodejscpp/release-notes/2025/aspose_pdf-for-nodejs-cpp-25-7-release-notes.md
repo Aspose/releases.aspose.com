@@ -20,7 +20,7 @@ This page contains release notes information for Aspose.PDF for Node.js via C++ 
 # Public API and Backward Incompatible Changes
 ## Added APIs
 
-Convert to PDF functions:
+Convert from PDF functions:
 * **AsposePdfToMarkdown** - Convert a PDF-file to Markdown
 
 Complete details of API can be referenced from [Aspose.PDF for Node.js via C++ API Reference Guide](https://reference.aspose.com/pdf/nodejs-cpp/).
