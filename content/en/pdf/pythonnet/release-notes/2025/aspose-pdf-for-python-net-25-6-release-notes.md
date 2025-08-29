@@ -50,8 +50,6 @@ This page contains release notes information for Aspose PDF for Python via .NET 
 * Method: aspose.pdf.XImage.get_alternative_text(aspose.pdf.Page) list[]
 * Method: aspose.pdf.XImage.try_set_alternative_text(str,aspose.pdf.Page) bool
 
-Removed:
-
 ### Removed APIs
 
 No removings.
