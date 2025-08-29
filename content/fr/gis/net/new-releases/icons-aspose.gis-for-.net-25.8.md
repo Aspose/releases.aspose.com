@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/gis/net/new-releases/icons-aspose.gis-for-.net-25.8/"
-folder_name: "Icônes Aspose.GIS pour .NET 25.8"
+folder_name: "Aspose.GIS pour .NET 25.8"
 download_link: "/gis/net/new-releases/icons-aspose.gis-for-.net-25.8/42a122a6fb49df9030649ae1c839895d-7-13676"
 download_text: "Télécharger"
 intro_text: "Version Aspose.GIS pour .NET 25.8."
@@ -22,7 +22,7 @@ weight: 265
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Icônes Aspose.GIS pour .NET 25.8" imagelink="/resources/img/msi-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.GIS pour .NET 25.8" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Télécharger" link="/gis/net/new-releases/icons-aspose.gis-for-.net-25.8/42a122a6fb49df9030649ae1c839895d-7-13676" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/gis" >}}
