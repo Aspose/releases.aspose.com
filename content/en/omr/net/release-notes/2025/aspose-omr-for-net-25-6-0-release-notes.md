@@ -5,7 +5,7 @@ id: "aspose-omr-for-net-25-6-0-release-notes"
 slug: "aspose-omr-for-net-25-6-0-release-notes"
 linktitle: "Aspose.OMR for .NET 25.6.0 - Release Notes"
 title: "Aspose.OMR for .NET 25.6.0 - Release Notes"
-weight: 91
+weight: 71
 description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for .NET 25.6.0 (June 2025) release."
 type: "repository"
 layout: "release"

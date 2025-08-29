@@ -1,15 +1,16 @@
 ---
-id: "aspose-omr-for-net-latest-release-notes"
-slug: "latest"
-weight: 1
-date: "2025-07-31"
+date: "2025-08-29"
+id: "aspose-omr-for-net-25-8-0-release-notes"
 author: "Nikita Korobeynikov"
+slug: "aspose-omr-for-net-25-8-0-release-notes"
+weight: 51
 type: "repository"
 layout: "release"
-title: Latest release
-description: A summary of recent changes, enhancements and bug fixes in the latest release of Aspose.OMR for .NET.
+title: "Aspose.OMR for .NET 25.8 - Release Notes"
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for .NET 25.8 (August 2025) release."
 keywords:
-- latest
+- "2025"
+- August
 - new
 - release
 - changelog
@@ -53,16 +54,20 @@ We are happy to receive your feedback on features\bugs at our [Free support foru
 
  Enum | Position |
 ------- | ------- | 
- RotationPointPosition.BottomLeft1  | ![BottomLeft1](../2022/BottomLeft1.png)
- RotationPointPosition.BottomLeft2 | ![BottomLeft2](../2022/BottomLeft2.png)
- RotationPointPosition.BottomRight1 | ![BottomRight1](../2022/BottomRight1.png)
- RotationPointPosition.BottomRight2 | ![BottomRight2](../2022/BottomRight2.png)
- RotationPointPosition.TopLeft1 | ![TopLeft1](../2022/TopLeft1.png)
- RotationPointPosition.TopLeft2 | ![TopLeft2](../2022/TopLeft2.png)
- RotationPointPosition.TopRight2 | ![TopRight2](../2022/TopRight2.png)
+ RotationPointPosition.BottomLeft1  | ![BottomLeft1](../../2022/BottomLeft1.png)
+ RotationPointPosition.BottomLeft2 | ![BottomLeft2](../../2022/BottomLeft2.png)
+ RotationPointPosition.BottomRight1 | ![BottomRight1](../../2022/BottomRight1.png)
+ RotationPointPosition.BottomRight2 | ![BottomRight2](../../2022/BottomRight2.png)
+ RotationPointPosition.TopLeft1 | ![TopLeft1](../../2022/TopLeft1.png)
+ RotationPointPosition.TopLeft2 | ![TopLeft2](../../2022/TopLeft2.png)
+ RotationPointPosition.TopRight2 | ![TopRight2](../../2022/TopRight2.png)
 
  
 ### Unaffected rotation point positions
  Enum | Position |
 ------- | ------- | 
- RotationPointPosition.TopRight1 (default)| ![TopRight1](../2022/TopRight1.png)
+ RotationPointPosition.TopRight1 (default)| ![TopRight1](../../2022/TopRight1.png)
+
+
+
+
