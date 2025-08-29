@@ -57,33 +57,33 @@ This page contains release notes information for Aspose.PDF for Java 25.8.
 - com.aspose.pdf.tagged.logicalstructure.elements.grouping.TOCIElement.getGetElement()
 
 **Added new Exceptions:**
-- com.aspose.pdf.tagged.logicalstructure.elements.bls.HeaderElementTextConflictException
-- com.aspose.pdf.tagged.logicalstructure.elements.bls.TOCpageHasNoTitleException
+- com.aspose.pdf.tagged.logicalstructure.elements.bls. HeaderElementTextConflictException
+- com.aspose.pdf.tagged.logicalstructure.elements.bls. TOCpageHasNoTitleException
 
 **Deleted outdated methods:**
-- com.aspose.pdf.tagged.helpers.logicalstructure.MCRElementTextFragmentHandler.isCreatedElement()
-- com.aspose.pdf.tagged.helpers.logicalstructure.MCRElementTextFragmentHandler.setContent(String)
-- com.aspose.pdf.tagged.helpers.logicalstructure.MCRElementTextFragmentHandler.preSave()
-- com.aspose.pdf.tagged.helpers.logicalstructure.MCRElementTextFragmentHandler.save()
-- com.aspose.pdf.tagged.helpers.logicalstructure.MCRElementTextFragmentHandler.setHyperlink(Hyperlink)
+- com.aspose.pdf.tagged.helpers.logicalstructure. MCRElementTextFragmentHandler.isCreatedElement()
+- com.aspose.pdf.tagged.helpers.logicalstructure. MCRElementTextFragmentHandler.setContent(String)
+- com.aspose.pdf.tagged.helpers.logicalstructure. MCRElementTextFragmentHandler.preSave()
+- com.aspose.pdf.tagged.helpers.logicalstructure. MCRElementTextFragmentHandler.save()
+- com.aspose.pdf.tagged.helpers.logicalstructure. MCRElementTextFragmentHandler.setHyperlink(Hyperlink)
 
 **Added new classes:**
-- com.aspose.pdf.tagged.logicalstructure.elements.bls.MCRElementHeadingHandler
-- com.aspose.pdf.tagged.logicalstructure.elements.bls.MCRElementTextContentHandlerBase
+- com.aspose.pdf.tagged.logicalstructure.elements.bls. MCRElementHeadingHandler
+- com.aspose.pdf.tagged.logicalstructure.elements.bls. MCRElementTextContentHandlerBase
 - com.aspose.pdf.tagged.logicalstructure.elements.grouping.ITociElement
-- com.aspose.pdf.Nullable<T>
+- com.aspose.pdf.Nullable< T >
 	
 **Refactored class with constants into enum:**
 - com.aspose.pdf.StampIcon
 
 **Replaced some wrapped in array parameters into Nullable instance in some methods:**
-- com.aspose.pdf.tagged.helpers.logicalstructure.MCRElementImageHandler.setImageResolution(Double[]) - >  com.aspose.pdf.tagged.helpers.logicalstructure.MCRElementImageHandler.setImageResolution(Nullable<Double>)
-- com.aspose.pdf.tagged.helpers.logicalstructure.MCRElementImageHandler.setImageWidth(Double[]) - >  com.aspose.pdf.tagged.helpers.logicalstructure.MCRElementImageHandler.setImageWidth(Nullable<Double>)
-- com.aspose.pdf.tagged.helpers.logicalstructure.MCRElementImageHandler.setImageHeight(Double[]) - >  com.aspose.pdf.tagged.helpers.logicalstructure.MCRElementImageHandler.setImageHeight(Nullable<Double>)
- - com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setFontSize(Float) - > - com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setFontSize(Nullable<Float>)
-- com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setHorizontalScaling(Float) - >  com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setHorizontalScaling(Nullable<Float>)
-- com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setLineSpacing(Float) - > - com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setLineSpacing(Nullable<Float>)
-- com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setCharacterSpacing(Float) - >  com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setCharacterSpacing(Nullable<Float>)
-- com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setWordSpacing(Float) - >  com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setWordSpacing(Nullable<Float>)
+- com.aspose.pdf.tagged.helpers.logicalstructure.MCRElementImageHandler.setImageResolution(Double[]) - >  com.aspose.pdf.tagged.helpers.logicalstructure.MCRElementImageHandler.setImageResolution(Nullable< Double >)
+- com.aspose.pdf.tagged.helpers.logicalstructure.MCRElementImageHandler.setImageWidth(Double[]) - >  com.aspose.pdf.tagged.helpers.logicalstructure.MCRElementImageHandler.setImageWidth(Nullable< Double >)
+- com.aspose.pdf.tagged.helpers.logicalstructure.MCRElementImageHandler.setImageHeight(Double[]) - >  com.aspose.pdf.tagged.helpers.logicalstructure.MCRElementImageHandler.setImageHeight(Nullable< Double >)
+ - com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setFontSize(Float) - >  com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setFontSize(Nullable< Float >)
+- com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setHorizontalScaling(Float) - >  com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setHorizontalScaling(Nullable< Float >)
+- com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setLineSpacing(Float) - >  com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setLineSpacing(Nullable< Float >)
+- com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setCharacterSpacing(Float) - >  com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setCharacterSpacing(Nullable< Float >)
+- com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setWordSpacing(Float) - >  com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setWordSpacing(Nullable< Float >)
 
 
