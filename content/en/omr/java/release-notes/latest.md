@@ -54,17 +54,17 @@ We are happy to receive your feedback on features\bugs at our [Free support foru
 
  Enum | Position |
 ------- | ------- | 
- RotationPointPosition.BottomLeft1  | ![BottomLeft1](../BottomLeft1.png)
- RotationPointPosition.BottomLeft2 | ![BottomLeft2](../BottomLeft2.png)
- RotationPointPosition.BottomRight1 | ![BottomRight1](../BottomRight1.png)
- RotationPointPosition.BottomRight2 | ![BottomRight2](../BottomRight2.png)
- RotationPointPosition.TopLeft1 | ![TopLeft1](../TopLeft1.png)
- RotationPointPosition.TopLeft2 | ![TopLeft2](../TopLeft2.png)
- RotationPointPosition.TopRight2 | ![TopRight2](../TopRight2.png)
+ RotationPointPosition.BottomLeft1  | ![BottomLeft1](../2025/BottomLeft1.png)
+ RotationPointPosition.BottomLeft2 | ![BottomLeft2](../2025/BottomLeft2.png)
+ RotationPointPosition.BottomRight1 | ![BottomRight1](../2025/BottomRight1.png)
+ RotationPointPosition.BottomRight2 | ![BottomRight2](../2025/BottomRight2.png)
+ RotationPointPosition.TopLeft1 | ![TopLeft1](../2025/TopLeft1.png)
+ RotationPointPosition.TopLeft2 | ![TopLeft2](../2025/TopLeft2.png)
+ RotationPointPosition.TopRight2 | ![TopRight2](../2025/TopRight2.png)
 
  
 ### Unaffected rotation point positions
  Enum | Position |
 ------- | ------- | 
- RotationPointPosition.TopRight1 (default)| ![TopRight1](../TopRight1.png)
+ RotationPointPosition.TopRight1 (default)| ![TopRight1](../2025/TopRight1.png)
 
