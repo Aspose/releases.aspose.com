@@ -30,6 +30,17 @@ This page contains release notes information for Aspose.Email for .NET 25.8
 
 ## New Enhancements
 
+### Support for X.500 Exchange Addresses in MailAddress
+
+* Added a new `X500Address` property to the `MailAddress` class.
+* This property provides access to the email address in Exchange (X.500) format, if available.
+
+Code example:
+
+```csharp
+var mailMessage = MailMessage.Load(fileName);
+string exaddr = mailMessage.From.X500Address;
+```
 
 
 
