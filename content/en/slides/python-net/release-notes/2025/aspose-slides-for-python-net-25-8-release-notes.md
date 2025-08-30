@@ -87,7 +87,7 @@ with slides.Presentation("audio with captions.pptx") as pres:
     pres.save("audio without captions.pptx", slides.export.SaveFormat.PPTX)
 ```
 
-### Added New Methods: `IFonts.get_script_font_map()`, `IFonts.get_script_font()`, `IFonts.set_script_font()` and `IFonts.remove_script_font()` 
+### Added New Methods: `get_script_font_map()`, `get_script_font()`, `set_script_font()` and `remove_script_font()` 
 
 New methods `get_script_font_map`, `get_script_font`, `set_script_font` and `remove_script_font` added to `IFonts` interface and its implementation. These enhancements allow developers to programmatically access, set, remove, and list font mappings for different script tags (e.g., Latn, Cyrl, Jpan) following the BCP-47 script code standard.
 These APIs are particularly useful for customizing font behavior in multilingual presentations. For example, when working with East Asian, Arabic, Hebrew, or Devanagari scripts, it's now possible to apply precise font control to match branding or localization requirements.
@@ -108,7 +108,7 @@ with slides.Presentation(pptx_file_name) as pres:
     pres.master_theme.font_scheme.minor.remove_script_font("Geor")
 ```
 
-### Added New Methods: `SlideUtil.find_shapes_by_placeholder_type()` and `SlideUtil.get_text_boxes_contains_text()`
+### Added New Methods: `find_shapes_by_placeholder_type()` and `get_text_boxes_contains_text()` in `SlideUtil`
 
 In previous versions of Aspose.Slides for Python via .NET, there were cases, when adding placeholders from a layout to a slide, the placeholder text was copied along with its shape. Since this behavior does not match that of PowerPoint, starting from Aspose.Slides for Python via .NET 25.8, this inconsistency has been corrected.
 The new `get_text_boxes_contains_text` and `find_shapes_by_placeholder_type` methods have been added to the `aspose.slides.util.SlideUtil` class to make it easier to switch to the new version.
