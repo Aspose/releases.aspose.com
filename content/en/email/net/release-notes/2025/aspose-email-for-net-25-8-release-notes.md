@@ -42,6 +42,90 @@ var mailMessage = MailMessage.Load(fileName);
 string exaddr = mailMessage.From.X500Address;
 ```
 
+### Enhanced Microsoft Graph Queries with OData Support
+
+* Introduced the new `Aspose.Email.Clients.Graph.ODataQueryBuilder` class to construct OData query parameters supported by Microsoft Graph.
+* Extended multiple `GraphClient` methods (`ListFolders`, `ListMessages`, `ListContacts`, `ListCalendarItems`, `ListAttachments`, `ListCategories`, `ListOverrides`, `ListRules`, `ListTaskLists`, `ListTasks`, `ListNotebooks`) with an optional `ODataQueryBuilder` parameter for advanced filtering, ordering, selection, and paging.
+
+Code sample:
+
+```csharp
+var accessParameters = Settings.User1;
+
+var provider = new AzureConfidentialTokenProvider(
+    accessParameters.TenantId,
+    accessParameters.ClientId,
+    accessParameters.ClientSecret);
+
+var client = GraphClient.GetClient(provider, accessParameters.TenantId);
+
+client.Resource = Aspose.Email.Clients.Graph.ResourceType.Users;
+client.ResourceId = accessParameters.Username;
+client.EndPoint = "https://graph.microsoft.com";
+
+var builder = new ODataQueryBuilder { OrderBy = "name asc" };
+var folders = client.ListFolders(builder);
+foreach (var folder in folders)
+{
+    Console.WriteLine(folder.DisplayName);
+}
+
+var folderId = folders.Find(x => x.DisplayName == "Inbox").ItemId;
+builder = new ODataQueryBuilder
+{
+    Filter = "startswith(name,'A')",
+    OrderBy = "name asc",
+    Top = 10,
+    Skip = 5,
+    Select = new[] { "name", "age" },
+    Expand = new[] { "children", "parents" },
+    Count = true,
+    Search = "\"John Doe\"",
+    Format = "json"
+};
+
+var msgs = client.ListMessages(folderId, builder);
+foreach (var msg in msgs)
+{
+    Console.WriteLine(msg.Subject);
+}
+```
+
+### Asynchronous Support for Microsoft Graph Client
+
+* Added the `Aspose.Email.Clients.Graph.IGraphClientAsync` interface to support asynchronous operations with GraphClient.
+* Introduced new factory methods `GraphClient.GetClientAsync(ITokenProvider, string)` and `GraphClient.GetClientAsync(IMultipleServicesTokenProvider, string)` to initialize asynchronous Graph clients.
+
+Code sample:
+
+```csharp
+var accessParameters = Settings.User1;
+
+var provider = new AzureConfidentialTokenProvider(
+    accessParameters.TenantId,
+    accessParameters.ClientId,
+    accessParameters.ClientSecret);
+
+var client = GraphClient.GetClientAsync(provider, accessParameters.TenantId);
+
+client.Resource = Aspose.Email.Clients.Graph.ResourceType.Users;
+client.ResourceId = accessParameters.Username;
+client.EndPoint = "https://graph.microsoft.com";
+
+var folders = await client.ListFoldersAsync();
+foreach (var folder in folders)
+{
+    Console.WriteLine(folder.DisplayName);
+}
+
+var folderId = folders.Find(x => x.DisplayName == "Inbox").ItemId;
+var msgsPage = await client.ListMessagesAsync(folderId, new PageInfo(15) { PageOffset = 0 }, null);
+var msgs = msgsPage.Items;
+foreach (var msg in msgs)
+{
+    Console.WriteLine(msg.Subject);
+}
+```
 
 
 
