@@ -20,3 +20,18 @@ This page contains release notes for Aspose.HTML for Java 25.8
 {{% /alert %}}
 
 We are honored to announce the August release of Aspose.HTML for Java.
+
+## **Improvements and Changes**
+
+##### List of issues that have been fixed
+| **Key**       | **Summary**                                                                                       | **Category**            |
+|---------------|---------------------------------------------------------------------------------------------------|-------------------------|
+| HTMLJAVA-2006 | Mht to pdf - exception - com.aspose.html.dom.DOMException: The string contains invalid characters | Bug, Low                |
+| HTMLJAVA-2121 | Image missing in PDF output when converting MHTML                                                 | Bug, Enterprise Support |
+| HTMLJAVA-2091 | Cannot convert from HTML to MHTML in Java                                                         | Bug, Low                |
+| HTMLJAVA-2132 | Html to pdf conversion - Cookie domain not set error                                              | Bug, Low                |
+
+##### List of issues that have been improved
+| **Key**       | **Summary**                                                                                          | **Category**        |
+|---------------|------------------------------------------------------------------------------------------------------|---------------------|
+
