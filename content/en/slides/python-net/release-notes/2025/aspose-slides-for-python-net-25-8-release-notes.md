@@ -39,10 +39,10 @@ This page contains release notes for [Aspose.Slides for Python via .NET 25.8](ht
 
 ### Added New Property: `AudioFrame.caption_tracks`
 
-The new property, `caption_tracks`, has been added to the `IAudioFrame` interface and implemented in the `AudioFrame` class.
+The new property, [`caption_tracks`](https://reference.aspose.com/slides/python-net/aspose.slides/audioframe/caption_tracks/), has been added to the [`IAudioFrame`](https://reference.aspose.com/slides/python-net/aspose.slides/iaudioframe/) interface and implemented in the [`AudioFrame`](https://reference.aspose.com/slides/python-net/aspose.slides/audioframe/) class.
 This property returns a collection containing all caption tracks.
 
-The following sample code shows how to insert a new `AudioFrame`, add captions to it, and save the PowerPoint presentation:
+The following sample code shows how to insert a new [`AudioFrame`](https://reference.aspose.com/slides/python-net/aspose.slides/audioframe/), add captions to it, and save the PowerPoint presentation:
 
 ```python
 import aspose.slides as slides
@@ -59,7 +59,7 @@ with slides.Presentation() as pres:
     pres.save("audio with captions.pptx", slides.export.SaveFormat.PPTX)
 ```
 
-The following example demonstrates how to extract captions from the `AudioFrame` on the first slide and save them to files:
+The following example demonstrates how to extract captions from the [`AudioFrame`](https://reference.aspose.com/slides/python-net/aspose.slides/audioframe/) on the first slide and save them to files:
 
 ```python
 import aspose.slides as slides
@@ -73,7 +73,7 @@ with slides.Presentation("audio with captions.pptx") as pres:
                     f.write(caption_track.binary_data)
 ```
 
-The following example shows how to remove all captions from an `AudioFrame` and save the PowerPoint presentation:
+The following example shows how to remove all captions from an [`AudioFrame`](https://reference.aspose.com/slides/python-net/aspose.slides/audioframe/) and save the PowerPoint presentation:
 
 ```python
 import aspose.slides as slides
@@ -89,7 +89,7 @@ with slides.Presentation("audio with captions.pptx") as pres:
 
 ### Added New Methods: `get_script_font_map()`, `get_script_font()`, `set_script_font()` and `remove_script_font()` 
 
-New methods `get_script_font_map`, `get_script_font`, `set_script_font` and `remove_script_font` added to `IFonts` interface and its implementation. These enhancements allow developers to programmatically access, set, remove, and list font mappings for different script tags (e.g., Latn, Cyrl, Jpan) following the BCP-47 script code standard.
+New methods [`get_script_font_map`](https://reference.aspose.com/slides/python-net/aspose.slides/ifonts/get_script_font_map/), [`get_script_font`](https://reference.aspose.com/slides/python-net/aspose.slides/ifonts/get_script_font/), [`set_script_font`](https://reference.aspose.com/slides/python-net/aspose.slides/ifonts/set_script_font/) and [`remove_script_font`](https://reference.aspose.com/slides/python-net/aspose.slides/ifonts/remove_script_font/) added to [`IFonts`](https://reference.aspose.com/slides/python-net/aspose.slides/ifonts/) interface and its implementation. These enhancements allow developers to programmatically access, set, remove, and list font mappings for different script tags (e.g., Latn, Cyrl, Jpan) following the BCP-47 script code standard.
 These APIs are particularly useful for customizing font behavior in multilingual presentations. For example, when working with East Asian, Arabic, Hebrew, or Devanagari scripts, it's now possible to apply precise font control to match branding or localization requirements.
 
 Code example:
@@ -111,7 +111,7 @@ with slides.Presentation(pptx_file_name) as pres:
 ### Added New Methods: `find_shapes_by_placeholder_type()` and `get_text_boxes_contains_text()` in `SlideUtil`
 
 In previous versions of Aspose.Slides for Python via .NET, there were cases, when adding placeholders from a layout to a slide, the placeholder text was copied along with its shape. Since this behavior does not match that of PowerPoint, starting from Aspose.Slides for Python via .NET 25.8, this inconsistency has been corrected.
-The new `get_text_boxes_contains_text` and `find_shapes_by_placeholder_type` methods have been added to the `aspose.slides.util.SlideUtil` class to make it easier to switch to the new version.
+The new [`get_text_boxes_contains_text`](https://reference.aspose.com/slides/python-net/aspose.slides.util/slideutil/get_text_boxes_contains_text/) and [`find_shapes_by_placeholder_type`](https://reference.aspose.com/slides/python-net/aspose.slides.util/slideutil/find_shapes_by_placeholder_type/) methods have been added to the [`SlideUtil`](https://reference.aspose.com/slides/python-net/aspose.slides.util/slideutil/) class to make it easier to switch to the new version.
 
 Usage examples:
 
@@ -155,11 +155,11 @@ with slides.Presentation(file_path) as presentation:
 
 #### Added `IBrightnessContrast` interface and its implementation `BrightnessContrast` class
 
-The `aspose.slides.effects.BrightnessContrast` represents BrightnessContrast effect, which allows you to adjust brightness and contrast.
+The [`BrightnessContrast`](https://reference.aspose.com/slides/python-net/aspose.slides.effects/brightnesscontrast/) represents BrightnessContrast effect, which allows you to adjust brightness and contrast.
 
-#### Added `IBrightnessContrastEffectiveData` interface and its implementation `BrightnessContrastEffectiveData` class
+#### Added `IBrightnessContrastEffectiveData` interface
 
-The `aspose.slides.effects.BrightnessContrastEffectiveData` is an immutable object which represents a BrightnessContrast effect.
+The [`IBrightnessContrastEffectiveData`](https://reference.aspose.com/slides/python-net/aspose.slides.effects/ibrightnesscontrasteffectivedata/) is an interface which represents a BrightnessContrast effect.
 
 #### Added `add_brightness_contrast_effect(brightness, contrast)` method to the `IImageTransformOperationCollection` interface and to its implementation `ImageTransformOperationCollection` class
 
@@ -186,18 +186,18 @@ with slides.Presentation(path_to_presentation) as presentation:
 ### Implemented the ability to extract data from Excel tables and use it in PowerPoint presentations
 
 The following interfaces and classes have been added:
-- `IExcelDataWorkbook`, `ExcelDataWorkbook`
-- `IExcelDataCell`, `ExcelDataCell`
+- [`IExcelDataWorkbook`](https://reference.aspose.com/slides/python-net/aspose.slides.excel/iexceldataworkbook/), [`ExcelDataWorkbook`](https://reference.aspose.com/slides/python-net/aspose.slides.excel/exceldataworkbook/)
+- [`IExcelDataCell`](https://reference.aspose.com/slides/python-net/aspose.slides.excel/iexceldatacell/), [`ExcelDataCell`](https://reference.aspose.com/slides/python-net/aspose.slides.excel/exceldatacell/)
 
-Unlike the `ChartDataWorkbook`, which is designed specifically to handle data used in charts and is tightly integrated with chart-related functionality, the newly introduced types - `ExcelDataWorkbook` and related classes - offer a more flexible and general-purpose approach to accessing data from Excel workbooks. These types provide read-only access to Excel content, enabling developers to retrieve values from cells, access worksheet names, and interact with Excel structures.
+Unlike the `ChartDataWorkbook`, which is designed specifically to handle data used in charts and is tightly integrated with chart-related functionality, the newly introduced types - [`ExcelDataWorkbook`](https://reference.aspose.com/slides/python-net/aspose.slides.excel/exceldataworkbook/) and related classes - offer a more flexible and general-purpose approach to accessing data from Excel workbooks. These types provide read-only access to Excel content, enabling developers to retrieve values from cells, access worksheet names, and interact with Excel structures.
 
 #### Added `IExcelDataWorkbook` interface and `ExcelDataWorkbook` class
 
-The `aspose.slides.excel.ExcelDataWorkbook` class provides functionality to load an Excel workbook from a file path or stream. It offers several overloads for retrieving data cells.
+The [`ExcelDataWorkbook`](https://reference.aspose.com/slides/python-net/aspose.slides.excel/exceldataworkbook/) class provides functionality to load an Excel workbook from a file path or stream. It offers several overloads for retrieving data cells.
 
 #### Added `IExcelDataCell` interface and `ExcelDataCell` class
 
-The `aspose.slides.excel.ExcelDataCell` class represents a single cell in an Excel workbook. It exposes properties such as cell name, position, and value.
+The[`ExcelDataCell`](https://reference.aspose.com/slides/python-net/aspose.slides.excel/exceldatacell/) class represents a single cell in an Excel workbook. It exposes properties such as cell name, position, and value.
 
 The following example demonstrates how to extract a value from a cell:
 
@@ -226,7 +226,7 @@ for name in sheet_names:
 
 ### Support for importing charts from an Excel workbook into a presentation
 
-The new `ExcelWorkbookImporter` class has been added. It provides functionality for importing content from an Excel workbook into a presentation.
+The new [`ExcelWorkbookImporter`](https://reference.aspose.com/slides/python-net/aspose.slides.importing/excelworkbookimporter/) class has been added. It provides functionality for importing content from an Excel workbook into a presentation.
 
 The following example demonstrates how to import all charts from an Excel workbook to a presentation. Only the chart data will be embedded:
 
