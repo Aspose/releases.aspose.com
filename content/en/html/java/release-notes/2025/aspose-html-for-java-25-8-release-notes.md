@@ -21,6 +21,15 @@ This page contains release notes for Aspose.HTML for Java 25.8
 
 We are honored to announce the August release of Aspose.HTML for Java.
 
+In this release, we have introduced several important improvements to enhance stability and accuracy:
+
+* Improved MHTML support – Fixed an issue with the HTMLDocument.save() method to ensure correct saving in the MHTML format.
+* DOM enhancements – Addressed problems in element creation and document location processing within the DOM module.
+* Better cookie handling – Reviewed and improved the processing of HTTP cookies for more consistent behavior.
+* Accurate layout conversion – Fixed a conversion issue that previously caused distortions in the original document layout.
+
+These updates improve reliability, ensure greater fidelity in conversions, and provide a smoother developer experience.
+
 ## **Improvements and Changes**
 
 ##### List of issues that have been fixed
@@ -32,6 +41,9 @@ We are honored to announce the August release of Aspose.HTML for Java.
 | HTMLJAVA-2132 | Html to pdf conversion - Cookie domain not set error                                              | Bug, Low                |
 
 ##### List of issues that have been improved
-| **Key**       | **Summary**                                                                                          | **Category**        |
-|---------------|------------------------------------------------------------------------------------------------------|---------------------|
+| **Key**       | **Summary**                                                                                                 | **Category**      |
+|---------------|-------------------------------------------------------------------------------------------------------------|-------------------|
+| HTMLJAVA-2132 | MHT imaging using aspose.html v24.12.2, AccuWeather.mthml file conversion doesn’t work partially when tried | Bug, Low          |
+| HTMLJAVA-346  | MHTML not converted to PDF                                                                                  | Bug, Low          |
+
 
