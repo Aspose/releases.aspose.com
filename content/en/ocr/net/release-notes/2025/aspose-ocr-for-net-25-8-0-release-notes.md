@@ -60,11 +60,11 @@ Implements: IOcrAIPostProcessor
 
 Performs AI-driven table detection, extraction, and reconstruction.
 
-| Method             | Description                                               |
-| ------------------ | --------------------------------------------------------- |
+| Method             | Description                                                 |
+| ------------------ | ----------------------------------------------------------- |
 | `GetResult()`	     | 	Returns extracted structured tables as `AIResult` objects. |
-| `SaveTxt(path)`	   | 	Saves processed results into .txt format.                |
-| `SaveXlsx(path)`   | 	Saves structured tables into an .xlsx Excel file.        |
+| `SaveTxt(path)`	   | 	Saves processed results into .txt format.                  |
+| `SaveXlsx(path)`   | 	Saves structured tables into an .xlsx Excel file.          |
 
 ### AITableDetectionMode — a new enum for controlling AI-powered table detection modes:
   - `NONE` — Does not explicitly detect tables, processes the entire image as if it were a single table.  
@@ -114,11 +114,6 @@ You can also pass optional logging and customization callbacks.
 | `SetPostProcessor(IOcrAIPostProcessor processor, AsposeAIModelConfig customSettings = null)` | Adds a custom AI postprocessor to enhance OCR results.              |
 | `RunPostprocessor(List<string> texts)`                                                       | Enhances plain recognized text strings using registered AI modules. |
 | `RunPostprocessor(OcrOutput output, AITableDetectionMode mode = AITableDetectionMode.NONE)`  | Enhances structured OCR output using registered AI modules.         |
-| `Dispose()`                                                                                  | Cleans up and releases resources used by the AI component.          |
-| `FreeResources()`                                                                            | Explicitly unloads AI models and clears memory.                     |
-| `ListLocal()`                                                                                | Lists all local AI models available in the configured folder.       |
-| `GetLocalPath()`                                                                             | Returns the directory path of the current model location.           |
-| `IsInitialized()`                                                                            | Checks if the AI engine and model are ready to use.                 |
 
 
 ### 🔤 SpellCheckAIProcessor Class – Postprocessor Module
