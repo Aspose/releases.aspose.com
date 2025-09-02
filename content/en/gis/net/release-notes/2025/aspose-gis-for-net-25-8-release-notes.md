@@ -25,7 +25,7 @@ This page contains release notes information for [Aspose.GIS for .NET 25.8](http
 |:--------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------|
 |GISNET-1203|Support of geospatial data reading from GeoPackage (GPKG)                                                                                                        |Feature     |
 |GISNET-1885|Support of Tiles in GeoPackage (GPKG) Layers                                                                                                                     |Feature     |
-|GISNET-1826|Support new Aspose.GIS KmlLayer Class for the support of Format-Specific Features and Non-Destructive Edit                                                       |Feature     |
+|GISNET-1890|Support new Aspose.GIS KmlLayer Class for the support of Format-Specific Features and Non-Destructive Edit                                                       |Feature     |
 |GISNET-1830|Support Reading Extended Tags (Region, GroundOverlay, NetworkLink)                                                                                               |Feature     |
 
 ## **Public API changes**
