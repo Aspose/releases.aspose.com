@@ -32,7 +32,6 @@ This page contains release notes for [Aspose.Slides for Python via .NET 25.8](ht
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
 |SLIDESPYNET-296|Use Aspose.Slides for Net 25.8 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2025/aspose-slides-for-net-25-8-release-notes/>|
-|SLIDESPYNET-282|Text in an EMF image is missing when converting PPTX to PDF||
 |SLIDESPYNET-277|Setting the typeface of the major and minor fonts in the master theme’s font scheme||
 
 ## Public API Changes
