@@ -169,12 +169,12 @@ This use case explains how to work with Colors and Transparency:
 
 Related issue: WORDSNET-28492
 
-A new public enumeration has been added to [Aspose.Words.Saving.MarkdownOfficeMathExportMode](https://reference.aspose.com/words/net/aspose.words.saving/markdownsaveoptions/officemathexportmode/):
+A new public enumeration [MarkdownOfficeMathExportMode](https://reference.aspose.com/words/net/aspose.words.saving/markdownsaveoptions/officemathexportmode/) has been added:
 {{< highlight csharp >}}
 /// <summary>
 /// Export OfficeMath as LaTeX.
 /// </summary>
-Latex = 3
+Latex
 {{< /highlight >}}
 
 This use case explains how to export oMath as LaTex based expressions into Markdown:
@@ -182,7 +182,7 @@ This use case explains how to export oMath as LaTex based expressions into Markd
 
 ### Improved diagnostics by introducing typed warnings for font substitution, allowing for more robust error handling.
 
-Related issue: https://issue.auckland.dynabic.com/issues/WORDSNET-28356
+Related issue: WORDSNET-28356
 
 New public class [FontSubstitutionWarningInfo](https://reference.aspose.com/words/net/aspose.words/fontsubstitutionwarninginfo/) and [FontSubstitutionReason](https://reference.aspose.com/words/net/aspose.words/fontsubstitutionwarninginfo/reason/) enum were added.
 
