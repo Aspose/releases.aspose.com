@@ -5,7 +5,7 @@ slug: "aspose-ocr-for-java-25-6-0-release-notes"
 linktitle: "Aspose.OCR for Java 25.6.0 - Release Notes"
 title: "Aspose.OCR for Java 25.6.0 - Release Notes"
 author: "Anna Pylaieva"
-weight: 101
+weight: 71
 description: "A summary of recent changes, enhancements and bug fixes in Aspose.OCR for Java 25.6.0 (June 2025) release."
 type: "repository"
 layout: "release"
