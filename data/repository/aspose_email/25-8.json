@@ -1,5 +1,6 @@
 {
   "groupId" : "com.aspose",
+  "classifier" : "jdk16",
   "artifactId" : "aspose-email",
   "id" : "25-8",
   "packageFiles" : [ {
@@ -11,10 +12,14 @@
     "name" : "aspose-email-25.8-jdk16.jakarta.jar",
     "classifier" : "jdk16.jakarta"
   }, {
+    "size" : "14 MB",
+    "name" : "aspose-email-25.8-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
     "size" : "1 KB",
     "name" : "aspose-email-25.8.pom"
   } ],
-  "releasehDate" : "2025-09-08T06:29:44+00:00",
+  "releasehDate" : "2025-09-08T06:47:55+00:00",
   "version" : "25.8",
   "ReleaseNotes" : "https://releases.aspose.com/email/java/release-notes/2025/aspose-email-for-java-25-8-release-notes/"
 }
