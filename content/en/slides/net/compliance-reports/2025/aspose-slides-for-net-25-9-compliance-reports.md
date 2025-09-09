@@ -33,7 +33,7 @@ committed_by: "nikolay.saulyak@aspose.com"
 
 | Report | HTML | PDF |
 |--------|------|-----|
-| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/slides/net/2025/25.9/aspose-slides-net-25.9_cwe-top-25-2024.htm" text="View HTML" >}} | - |
+| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/slides/net/2025/25.9/aspose-slides-net-25.9_cwe-top-25-2024.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/slides/net/2025/25.9/aspose-slides-net-25.9_cwe-top-25-2024.pdf" text="View PDF" >}} |
 
 
 
