@@ -27,14 +27,8 @@ This page contains release notes for Aspose.Cells for C++ 25.9.
 |CELLSNET-58945|Support FlatOPC file format|New Feature
 |CELLSNET-58963|Support converting chart to flapOpc without table tags|New Feature
 |CELLSNET-58967|Supported editable charts to pptx file|New Feature
-|CELLSGRIDJS-1866|Add support for pattern settings.|New Feature
-|CELLSGRIDJS-1867|Research data structure adjustments to accommodate support for scatter plots.|New Feature
 |CELLSNET-58933|Support const values as data source of chart in the docx file|Enhancement
 |CELLSNET-58970|Support exporting editable ole object to pptx|Enhancement
-|CELLSGRIDJS-1864|Optimize the logic for cell formatting to change values only after clicking "OK" instead of changing them in real time.|Enhancement
-|CELLSGRIDJS-1869|Optimizing row and column menu handling for bulk inserts.|Enhancement
-|CELLSGRIDJS-1877|Optimize the code calling method for batch style modification.|Enhancement
-|CELLSGRIDJS-1884|Disable/hide menu to InsertRow below the maximum row|Enhancement
 |CELLSNET-58904|XLSX to PDF: Shape not rendered correctly in the output|Bug
 |CELLSNET-58924|XLSX to XPS: WordArt rendered incorrectly in output|Bug
 |CELLSNET-58490|The date texts are displayed as # when converting file to xps|Bug
@@ -50,9 +44,6 @@ This page contains release notes for Aspose.Cells for C++ 25.9.
 |CELLSNET-58958|Exception while rendering to DOCX|Bug
 |CELLSNET-58972|NullReferenceException occurs when calling Cells.InsertCutCells method|Bug
 |CELLSNET-58978|Formulas with relative references aren't carried over when copied to a new location|Bug
-|CELLSGRIDJS-1852|Added hyperlinks/links are not saved in the output Excel file.|Bug
-|CELLSGRIDJS-1853|Editing text in the text box and clicking on the cell clears the cell unexpectedly|Bug
-|CELLSGRIDJS-1854|Fail to sync image history after server restart in collabrative mode|Bug
 
 
 
