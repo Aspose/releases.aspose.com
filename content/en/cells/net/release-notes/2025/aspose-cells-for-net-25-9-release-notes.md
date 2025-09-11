@@ -25,8 +25,8 @@ This page contains release notes for [Aspose.Cells for .NET 25.9](https://www.nu
 |CELLSNET-58961|Support embedding fonts when converting file to html|New Feature
 |CELLSNET-58945|Support FlatOPC file format|New Feature
 |CELLSNET-58963|Support converting chart to flapOpc without table tags|New Feature
-|CELLSNET-58967|Supported editable charts to pptx file|New Feature
-|CELLSGRIDJS-1866|Add support for pattern settings.|New Feature
+|CELLSNET-58967|Support editable charts to pptx file|New Feature
+|CELLSGRIDJS-1866|Support pattern settings.|New Feature
 |CELLSGRIDJS-1867|Research data structure adjustments to accommodate support for scatter plots.|New Feature
 |CELLSNET-58933|Support const values as data source of chart in the docx file|Enhancement
 |CELLSNET-58970|Support exporting editable ole object to pptx|Enhancement
@@ -67,23 +67,23 @@ Represents Microsoft Flat Opc Document file format.
 
 ### **Adds OoxmlSaveOptions.AsFlatOpc,PptxSaveOptions.AsFlatOpc and DocxSaveOptions.AsFlatOpc properties.**
 
-Indicates whether saving as Flat Opc file.
+Indicates whether to save as Flat Opc file.
 
 ### **Obsoleted WorkbookDesigner.ContainsVariables property and add WorkbookDesigner.VariablesWorksheetName property.**
 
 Use WorkbookDesigner.VariablesWorksheetName property to set which worksheet contains Variables.
 
-### **Adds SaveElementType enum and DocxSaveOptions.SaveElementType.**
+### **Adds SaveElementType enum and DocxSaveOptions.SaveElementType property.**
 
 Represents what should be saved to docx file.
 
-### **Adds DocxSaveOptions.EmbedXlsxAsChartDataSource and PptxSaveOptions.EmbedXlsxAsChartDataSource  property.**
+### **Adds DocxSaveOptions.EmbedXlsxAsChartDataSource and PptxSaveOptions.EmbedXlsxAsChartDataSource property.**
 
-Indicates whether embedding an xlsx file as data source of the chart.
+Indicates whether to embed an xlsx file as data source of the chart.
 
 ### **Adds PptxSaveOptions.SaveAsEditableShapes property.**
 
-Indicates whether saving editable shapes or images to pptx.
+Indicates whether to save editable shapes or images to pptx.
 
 ### **Adds HtmlEmbeddedFontType enum and HtmlSaveOptions.EmbeddedFontType property.**
 
