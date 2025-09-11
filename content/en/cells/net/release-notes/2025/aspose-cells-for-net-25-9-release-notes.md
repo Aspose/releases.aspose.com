@@ -57,19 +57,19 @@ This page contains release notes for [Aspose.Cells for .NET 25.9](https://www.nu
 
 The following is a list of any changes made to the public API such as added, renamed, removed or deprecated members as well as any non-backward compatible change made to Aspose.Cells for .NET. If you have concerns about any change listed, please raise it on the Aspose.Cells support forum.
 
-### **Changes default date format for locale of Japan.**
+### **Changes default date format for the Japan locale.**
 
-For default date format(built-in number 14 for the number formatting), old versions of ms excel use the pattern of "yyyy/MM/dd" to format date value. But in office 365, now ms excel uses the pattern of "yyyy/M/d" instead. Now that some users require to get the same result with what they get in office 365, starting from 25.9 we use "yyyy/M/d" to format date by default.
+For default date format(built-in number 14 for the number formatting), old versions of Microsoft Exce use the pattern of "yyyy/MM/dd" to format date value. But in Office 365, Excel uses the pattern of "yyyy/M/d" instead. Since some users require the same result as in Office 365, starting from 25.9 we use "yyyy/M/d" to format date by default.
 
 ### **Adds FileFormatType.FlatOpc enum.**
 
 Represents Microsoft Flat Opc Document file format.
 
-### **Adds OoxmlSaveOptions.AsFlatOpc,PptxSaveOptions.AsFlatOpc and DocxSaveOptions.AsFlatOpc properties.**
+### **Adds OoxmlSaveOptions.AsFlatOpc, PptxSaveOptions.AsFlatOpc and DocxSaveOptions.AsFlatOpc properties.**
 
 Indicates whether to save as Flat Opc file.
 
-### **Obsoleted WorkbookDesigner.ContainsVariables property and add WorkbookDesigner.VariablesWorksheetName property.**
+### **Obsoletes WorkbookDesigner.ContainsVariables property and adds WorkbookDesigner.VariablesWorksheetName property.**
 
 Use WorkbookDesigner.VariablesWorksheetName property to set which worksheet contains Variables.
 
@@ -77,7 +77,7 @@ Use WorkbookDesigner.VariablesWorksheetName property to set which worksheet cont
 
 Represents what should be saved to docx file.
 
-### **Adds DocxSaveOptions.EmbedXlsxAsChartDataSource and PptxSaveOptions.EmbedXlsxAsChartDataSource property.**
+### **Adds DocxSaveOptions.EmbedXlsxAsChartDataSource and PptxSaveOptions.EmbedXlsxAsChartDataSource properties.**
 
 Indicates whether to embed an xlsx file as data source of the chart.
 
