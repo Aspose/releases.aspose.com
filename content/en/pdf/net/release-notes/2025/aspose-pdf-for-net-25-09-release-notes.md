@@ -1038,7 +1038,4 @@ private static void AddTaggedImageFromStream()
 * Method: Aspose.Pdf.Plugins.XlsConverter.Process(Aspose.Pdf.Plugins.IPluginOptions) Aspose.Pdf.Plugins.ResultContainer
 * Method: Aspose.Pdf.Plugins.XlsConverter.Dispose System.Void
 
-### Removed APIs
-
-No removings.
 
