@@ -8,7 +8,7 @@ description: "This page contains new Aspose.PDF for .NET features, enhancements,
 type: "repository"
 layout: "release"
 family_listing_page_title: "Aspose.PDF for .NET 25.9"
-lastmod: "2025-08-13"
+lastmod: "2025-09-15"
 sitemap:
   changefreq: "monthly"
   priority: 0.7
