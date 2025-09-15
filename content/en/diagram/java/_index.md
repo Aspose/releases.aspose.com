@@ -22,6 +22,7 @@ productLink: https://products.aspose.com/diagram/java/
 releaseNotesLink: https://releases.aspose.com/diagram/java/release-notes/
 dataFolder: aspose_diagram
 packages_refs:
+- "25-9"
 - "25-8"
 - "25-7"
 - "25-6"
