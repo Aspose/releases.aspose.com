@@ -26,7 +26,7 @@ This page contains release notes for [Aspose.Slides for Android via Java 25.6](
 We are pleased to introduce a new development initiative in Aspose.Slides centered around artificial intelligence (AI). This marks the beginning of incorporating AI-powered features into the product, enabling smarter presentation creation, content analysis, and optimization. This direction opens the door to more intelligent and streamlined workflows, and we look forward to sharing more updates in future releases.
 
 
-## Public API Changes ##
+## Public API Changes
 
 ### Added New Method: Metered.IsMeteredLicensed
 

@@ -41,7 +41,7 @@ The method provide an AI-powered presentation generator that creates presentatio
 > ⚠️ Note: To use the OpenAI API, you need a valid API key and an active OpenAI account with billing enabled.  
 > You must pass your OpenAI API key and preferred model (e.g., `"gpt-4o-mini"`) as constructor parameters.
 
-### Code Examples
+#### Code Examples
 
 ```python
 import aspose.slides as slides
@@ -65,8 +65,6 @@ with slides.ai.OpenAIWebClient("gpt-4o-mini", api_key, None) as ai_web_client:
         pres = ai_agent.generate_presentation(prompt, PresentationContentAmountType.MEDIUM, template)
         pres.save("Aspose.Slides.pptx", slides.export.SaveFormat.PPTX)
 ```
-
-## Public API Changes
 
 ### Added New Property: InkBrush.ink_effect
 
