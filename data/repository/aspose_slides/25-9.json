@@ -4,6 +4,10 @@
   "artifactId" : "aspose-slides",
   "id" : "25-9",
   "packageFiles" : [ {
+    "size" : "4 MB",
+    "name" : "aspose-slides-25.9-android.via.java-javadoc.jar",
+    "classifier" : "android.via.java-javadoc"
+  }, {
     "size" : "30 MB",
     "name" : "aspose-slides-25.9-android.via.java.jar",
     "classifier" : "android.via.java"
@@ -22,7 +26,7 @@
     "size" : "395 bytes",
     "name" : "aspose-slides-25.9.pom"
   } ],
-  "releasehDate" : "2025-09-16T16:59:57+00:00",
+  "releasehDate" : "2025-09-16T17:05:25+00:00",
   "version" : "25.9",
   "ReleaseNotes" : "https://releases.aspose.com/slides/java/release-notes/2025/aspose-slides-for-java-25-9-release-notes/"
 }
