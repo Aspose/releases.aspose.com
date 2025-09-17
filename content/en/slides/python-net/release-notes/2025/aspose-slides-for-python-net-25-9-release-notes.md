@@ -28,6 +28,7 @@ This page contains release notes for [Aspose.Slides for Python via .NET 25.9](ht
 | :- | :- | :- | :- |
 |SLIDESPYNET-303|Use Aspose.Slides for Net 25.9 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2025/aspose-slides-for-net-25-9-release-notes/>|
 |SLIDESPYNET-282|Text in an EMF image is missing when converting PPTX to PDF|Bug||
+|SLIDESPYNET-235|WMF image is missing when converting PPT to PDF|Bug||
 
 ## Public API Changes
 
