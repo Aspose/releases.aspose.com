@@ -69,7 +69,7 @@ Both methods and their overloads provide an AI-powered presentation generator th
 > ⚠️ Note: To use the OpenAI API, you need a valid API key and an active OpenAI account with billing enabled.  
 > You must pass your OpenAI API key and preferred model (e.g., `"gpt-4o-mini"`) as constructor parameters.
 
-### Code Examples
+#### Code Examples
 
 ```csharp
 string prompt = "Generate a presentation on Aspose.Slides for .NET, highlighting its key features, common use cases, and the advantages it offers over competing solutions.";
@@ -95,8 +95,6 @@ using (OpenAIWebClient aiWebClient = new OpenAIWebClient("gpt-4o-mini", apiKey, 
    }
 }
 ```
-
-## Public API Changes
 
 ### Added New Property: InkBrush.InkEffect
 

@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk17",
+  "artifactId" : "aspose-words",
+  "id" : "25-9",
+  "packageFiles" : [ {
+    "size" : "18 MB",
+    "name" : "aspose-words-25.9-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "18 MB",
+    "name" : "aspose-words-25.9-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "5 KB",
+    "name" : "aspose-words-25.9.pom"
+  } ],
+  "releasehDate" : "2025-09-15T18:19:13+00:00",
+  "version" : "25.9",
+  "ReleaseNotes" : "https://releases.aspose.com/words/java/release-notes/2025/aspose-words-for-java-25-9-release-notes/"
+}
