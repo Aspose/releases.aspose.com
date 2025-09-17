@@ -1,18 +1,24 @@
 ---
-weight: 1
-id: "aspose-omr-for-java-latest-release-notes"
-slug: "latest"
 date: "2025-08-26"
+id: "aspose-omr-for-java-25-9-0-release-notes"
+slug: "aspose-omr-for-java-25-9-0-release-notes"
+linktitle: "Aspose.OMR for Java 25.9 - Release Notes"
+title: "Aspose.OMR for Java 25.9 - Release Notes"
 author: "Nikita Korobeynikov"
+weight: 111
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for Java 25.9 (September 2025) release."
 type: "repository"
 layout: "release"
-title: Latest release
-description: A summary of recent changes, enhancements and bug fixes in the latest release of Aspose.OMR for Java.
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OMR for Java 25.9 - Release Notes"
 keywords:
-- latest
-- new
-- release
-- changelog
+- "2025"
+- "September"
+- "new"
+- "release"
+- "changelog"
+menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
@@ -45,4 +51,7 @@ _No changes._
 There were a an issue with org.bouncycastle namespace present in .jar that could interfere with client's version of bouncycastle via same namespace.
 
 We are happy to receive your feedback on features\bugs at our [Free support forum](https://forum.aspose.com/c/omr/38);
+
+
+
 
