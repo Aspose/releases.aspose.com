@@ -1,7 +1,7 @@
 ---
 date: "2025-08-15"
-id: "aspose-omr-for-java-25-8-0-release-notes"
-slug: "aspose-omr-for-java-25-8-0-release-notes"
+id: "aspose-omr-for-java-25-8-release-notes"
+slug: "aspose-omr-for-java-25-8-release-notes"
 linktitle: "Aspose.OMR for Java 25.8.0 - Release Notes"
 title: "Aspose.OMR for Java 25.8.0 - Release Notes"
 author: "Nikita Korobeynikov"

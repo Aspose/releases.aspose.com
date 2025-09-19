@@ -1,17 +1,17 @@
 ---
 date: "2025-07-02"
-id: "aspose-omr-for-java-25-7-0-release-notes"
-slug: "aspose-omr-for-java-25-7-0-release-notes"
-linktitle: "Aspose.OMR for Java 25.7.0 - Release Notes"
-title: "Aspose.OMR for Java 25.7.0 - Release Notes"
+id: "aspose-omr-for-java-25-7-release-notes"
+slug: "aspose-omr-for-java-25-7-release-notes"
+linktitle: "Aspose.OMR for Java 25.7 - Release Notes"
+title: "Aspose.OMR for Java 25.7 - Release Notes"
 author: "Nikita Korobeynikov"
 weight: 121
-description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for Java 25.7.0 (July 2025) release."
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for Java 25.7 (July 2025) release."
 type: "repository"
 layout: "release"
 hideChildren: false
 toc: false
-family_listing_page_title: "Aspose.OMR for Java 25.7.0 - Release Notes"
+family_listing_page_title: "Aspose.OMR for Java 25.7 - Release Notes"
 keywords:
 - "2025"
 - "July"
@@ -22,7 +22,7 @@ menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OMR for Java 25.7.0 (July 2025)**](https://releases.aspose.com/java/repo/com/aspose/aspose-omr/25.7/) release.
+This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OMR for Java 25.7 (July 2025)**](https://releases.aspose.com/java/repo/com/aspose/aspose-omr/25.7/) release.
 {{% /alert %}}
 
 ## What was changed
@@ -33,7 +33,7 @@ OMRJAVA&#8209;97 | Added API to recognize images as InputStream or BufferedImage
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OMR for Java 25.7.0** that may affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OMR for Java 25.7** that may affect the code of existing applications.
 
 ### Added public APIs:
 
