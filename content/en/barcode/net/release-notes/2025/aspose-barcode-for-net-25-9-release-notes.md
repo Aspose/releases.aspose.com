@@ -2,8 +2,8 @@
 date: "2025-09-17"
 id: "aspose-barcode-for-net-25-9-release-notes"
 slug: "aspose-barcode-for-net-25-9-release-notes"
-linktitle: "Aspose.BarCode for .NET 25.8 Release Notes"
-title: "Aspose.BarCode for .NET 25.8 Release Notes"
+linktitle: "Aspose.BarCode for .NET 25.9 Release Notes"
+title: "Aspose.BarCode for .NET 25.9 Release Notes"
 author: "Alexander Gavriluk"
 weight: 160
 description: "A summary of recent changes, enhancements and bug fixes in Aspose.BarCode for .NET 25.9.0 (September 2025) release."
