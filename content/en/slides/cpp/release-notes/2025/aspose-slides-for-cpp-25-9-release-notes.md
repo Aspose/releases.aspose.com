@@ -24,6 +24,9 @@ This page contains release notes for [Aspose.Slides for C++ 25.9](https://www.nu
 ## New Features and Enhancements
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
+|SLIDESNET-45084|Missing X, Y, Width, and Height values for chart elements|Enhancement|<https://docs.aspose.com/slides/net/chart-calculations/>|
+|SLIDESNET-45082|Improve import of extended Excel charts|Enhancement||
+|SLIDESNET-45057|Accessibility errors of PDF structure with PowerPoint zoom links when validating the file with PAC (PDF Accessibility Checker)|Investigation|<https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/>|
 
 ## Other Improvements and Changes
 |**Key**|**Summary**|**Category**|**Related Documentation**|
