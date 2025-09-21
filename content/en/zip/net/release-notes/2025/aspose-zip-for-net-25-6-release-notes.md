@@ -29,15 +29,15 @@ This page contains release notes information for [Aspose.ZIP for .NET 25.6](http
 ## **Public API and Backwards Incompatible Changes**
 |**The following public types were added:**|**Description**|
 | :- | :- |
-|Aspose.Zip.Arj.ArjLoadOptions|Options with which ARJ archive is loaded from a compressed file.|
-|Aspose.Zip.Cab.CabLoadOptions|Options with which Cab archive is loaded from a compressed file.|
-|Aspose.Zip.Gzip.GzipLoadOptions|Options with which Gzip archive is loaded from a compressed file.|
-|Aspose.Zip.Lha.LhaLoadOptions|Options with which Lha archive is loaded from a compressed file.|
-|Aspose.Zip.Lz4.Lz4Loadoptions|Options with which Lz4 archive is loaded from a compressed file.|
-|Aspose.Zip.Lzip.LzipLoadOptions|Options with which Lzip archive is loaded from a compressed file.|
-|Aspose.Zip.SevenZip.SevenZipLoadOptions|Options with which 7z archive is loaded from a compressed file.|
-|Aspose.Zip.Wim.WimLoadOptions|Options with which Wim archive is loaded from a compressed file.|
-|Aspose.Zip.Xz.XzLoadOptions|Options with which XZ archive is loaded from a compressed file.|
+|Aspose.Zip.Arj.ArjLoadOptions|Options used when loading an Arj archive from a compressed file.|
+|Aspose.Zip.Cab.CabLoadOptions|Options used when loading an Cab archive from a compressed file.|
+|Aspose.Zip.Gzip.GzipLoadOptions|Options used when loading an Gzip archive from a compressed file.|
+|Aspose.Zip.Lha.LhaLoadOptions|Options used when loading an Lha archive from a compressed file.|
+|Aspose.Zip.Lz4.Lz4Loadoptions|Options used when loading an Lz4 archive from a compressed file.|
+|Aspose.Zip.Lzip.LzipLoadOptions|Options used when loading an Lzip archive from a compressed file.|
+|Aspose.Zip.SevenZip.SevenZipLoadOptions|Options used when loading an 7z archive from a compressed file.|
+|Aspose.Zip.Wim.WimLoadOptions|Options used when loading an Wim archive from a compressed file.|
+|Aspose.Zip.Xz.XzLoadOptions|Options used when loading an Xz archive from a compressed file.|
 |Aspose.Zip.ProgressCancelEventArgs|Class for cancelable event data containing the number of bytes proceeded.|
 
 |**The following public methods and properties were added:**|**Description**|

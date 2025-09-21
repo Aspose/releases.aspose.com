@@ -23,11 +23,11 @@ This page contains release notes information for [Aspose.ZIP for .NET 25.7](http
 |**Key**|**Summary**|**Issue Type**|
 | :- | :- | :- |
 |ZIPNET-1329|Solid compression for plain 7z archives.|Feature|
-|ZIPNET-1342|Proper instrantiation of detected Arj archive.|Bug|
+|ZIPNET-1342|Proper instantiation of detected Arj archive.|Bug|
 |ZIPNET-1335|Correct commentaries for XarLoadOptions.|Enhancement|
 
 ## **Public API and Backwards Incompatible Changes**
 
 |**The following public methods and properties were added:**|**Description**|
 | :- | :- |
-|Aspose.Zip.Saving.SevenZipEntrySettings.Solid|Gets or sets a whether to concatenate entries and treat them as a single data block.|
+|Aspose.Zip.Saving.SevenZipEntrySettings.Solid|Gets or sets whether to concatenate entries and treat them as a single data block.|

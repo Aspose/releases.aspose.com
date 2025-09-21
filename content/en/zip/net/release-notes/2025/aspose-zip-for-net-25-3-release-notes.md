@@ -39,4 +39,4 @@ This page contains release notes information for [Aspose.ZIP for .NET 25.3](http
 |Aspose.Zip.Lz4.Lz4Archive.ExtractToDirectory()|Extracts content of the archive to the directory provided.|
 |Aspose.Zip.IArchive.Format|Gets the detected archive format.|
 |**The following public types were added:**|**Description**|
-|Aspose.Zip.Lz4.Lz4Archive|Class representing Lz4 archive.|
+|Aspose.Zip.Lz4.Lz4Archive|A class representing an Lz4 archive.|

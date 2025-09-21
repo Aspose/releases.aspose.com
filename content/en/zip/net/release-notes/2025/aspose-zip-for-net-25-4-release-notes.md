@@ -28,7 +28,7 @@ This page contains release notes information for [Aspose.ZIP for .NET 25.4](http
 |ZIPNET-1296|Verify password for traditionally encrypted ZIP before decompression.|Bug|
 |ZIPNET-1294|Set Unix file mode on tar extraction.|Enhancement|
 |ZIPNET-1299|Keep Unix file mode for ZIP entry and set it on extraction in Unix.|Enhancement|
-|ZIPNET-1300|Compose LZ4 archive.|Feature|
+|ZIPNET-1300|Compose an LZ4 archive.|Feature|
 |ZIPNET-1305|Correct grammar in commentaries.|Enhancement|
 
 ## **Public API and Backwards Incompatible Changes**
