@@ -3,7 +3,7 @@ id: "aspose-barcode-for-cpp-25-8-release-notes"
 slug: "aspose-barcode-for-cpp-25-8-release-notes"
 linktitle: "Aspose.BarCode for Cpp 25.8 Release Notes"
 title: "Aspose.BarCode for Cpp 25.8 Release Notes"
-weight: 140
+weight: 130
 description: "A summary of recent changes, enhancements and bug fixes in Aspose.BarCode for C++ 25.8 release."
 type: "repository"
 layout: "release"
@@ -12,7 +12,7 @@ toc: false
 family_listing_page_title: "Aspose.BarCode for Cpp 25.8 Release Notes"
 keywords:
 - "2025"
-- "July"
+- "August"
 
 
 menuItemWithNoContent: false
