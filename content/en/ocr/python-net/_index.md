@@ -26,11 +26,6 @@ Aspose.OCR for Python via .NET can be download here and installed from local fil
        {{< consolebox/textarea id="pip" >}} pip install aspose-ocr-python-net {{< /consolebox/textarea >}}       
 {{< /consolebox/consoleboxwrapper >}}
 
-{{< consolebox/consoleboxwrapper id="pip1" >}}
-       {{< consolebox/spantext text=" " >}}
-       {{< consolebox/textarea id="pip1" >}} pip install <downloaded-package-path> {{< /consolebox/textarea >}}       
-{{< /consolebox/consoleboxwrapper >}}
-
 {{< Common/hr >}}
 
 [Product Page](https://products.aspose.com/ocr/python-net/) | [Docs](https://docs.aspose.com/ocr/python-net/) | [Demos](https://products.aspose.app/ocr/family/) | [Blog](https://blog.aspose.com/categories/aspose.ocr-product-family/) | [Code Samples](https://docs.aspose.com/ocr/python-net/getting-started/) | [Free Support](https://forum.aspose.com/c/ocr/16) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
