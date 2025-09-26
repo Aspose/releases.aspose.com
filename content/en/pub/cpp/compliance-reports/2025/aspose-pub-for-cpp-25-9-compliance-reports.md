@@ -11,7 +11,7 @@ hideChildren: false
 toc: false
 family_listing_page_title: "Aspose.PUB for C++ 25.9 Compliance & Security Reports"
 menuItemWithNoContent: false
-committed_by: "andrey.malokhovetskiy@aspose.com"
+committed_by: "saud.naushahi@aspose.com"
 ---
 
 ![Security Rating](https://img.shields.io/badge/Security%20Rating-A-brightgreen?style=flat-square&logo=verizon)
@@ -21,11 +21,6 @@ committed_by: "andrey.malokhovetskiy@aspose.com"
 
 ## This 25.9 C++ release includes the following transparency and audit artifacts:
 
-### EULA & Third-Party Licenses
-
-- <a href="https://about.aspose.com/legal/eula/" target="_blank" rel="noopener">Aspose End User License Agreement</a>
-- {{< compliance-file relpath="/compliance-reports/third-party-licenses/cpp/third-party-licenses-aspose-pub-cpp.pdf" text="Aspose.PUB for C++ Third-Party License" >}}
-
 
 
 
@@ -34,8 +29,8 @@ committed_by: "andrey.malokhovetskiy@aspose.com"
 
 | Report | HTML | PDF |
 |--------|------|-----|
-| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/pub/cpp/2025/25.9/aspose-pub-cpp-25.9-cwe-top-25-2024.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/pub/cpp/2025/25.9/aspose-pub-cpp-25.9-cwe-top-25-2024.pdf" text="View PDF" >}} |
-| OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/pub/cpp/2025/25.9/aspose-pub-cpp-25.9-owasp-top-10-2021.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/pub/cpp/2025/25.9/aspose-pub-cpp-25.9-owasp-top-10-2021.pdf" text="View PDF" >}} |
+| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/pub/cpp/2025/25.9/aspose-pub-cpp-25.9_cwe-top-25-2024.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/pub/cpp/2025/25.9/aspose-pub-cpp-25.9_cwe-top-25-2024.pdf" text="View PDF" >}} |
+| OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/pub/cpp/2025/25.9/aspose-pub-cpp-25.9_owasp-top-10-2021.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/pub/cpp/2025/25.9/aspose-pub-cpp-25.9_owasp-top-10-2021.pdf" text="View PDF" >}} |
 
 
 
