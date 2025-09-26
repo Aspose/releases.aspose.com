@@ -45,7 +45,7 @@ for result in barCodeResults:
 [Han Xin code](https://en.wikipedia.org/wiki/Han_Xin_code) ecognition performance has been refined, leading to more consistent decoding.
 
 ```python
-barCodeReader = BarCodeReader(self.folder  + "HanXinCode.png", None, DecodeType.HAN_XIN,)
+barCodeReader = BarCodeReader(self.folder  + "HanXinCode.png", None, DecodeType.HAN_XIN)
 barCodeResults = barCodeReader.readBarCodes()
 for result in barCodeResults:
     codeType = result.getCodeTypeName()
