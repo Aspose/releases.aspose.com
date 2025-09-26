@@ -31,7 +31,7 @@ for [Aspose.BarCode for Java 25.9](https://releases.aspose.com/barcode/java/25-9
 
 [Pdf417](https://en.wikipedia.org/wiki/PDF417) barcode recognition performance has been enhanced, with better results on mobile devices and in document processing scenarios.
 
-```cs
+```java
  BarCodeReader reader = new BarCodeReader(folderPath + "Pdf417.png", DecodeType.PDF_417, DecodeType.COMPACT_PDF_417);
  BarCodeResult[] results = reader.readBarCodes();
  for(BarCodeResult result:results){
@@ -44,7 +44,7 @@ for [Aspose.BarCode for Java 25.9](https://releases.aspose.com/barcode/java/25-9
 
 [Han Xin code](https://en.wikipedia.org/wiki/Han_Xin_code) ecognition performance has been refined, leading to more consistent decoding.
 
-```cs
+```java
 BarCodeReader reader = new BarCodeReader(folderPath + "HanXinCode.png", DecodeType.HAN_XIN);
 BarCodeResult[] results = reader.readBarCodes();
 for(BarCodeResult result:results){
