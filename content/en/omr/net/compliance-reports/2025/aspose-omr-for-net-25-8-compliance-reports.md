@@ -21,6 +21,11 @@ committed_by: "Nikita.Korobeynikov@aspose.com"
 
 ## This 25.8 .NET release includes the following transparency and audit artifacts:
 
+### EULA & Third-Party Licenses
+
+- <a href="https://about.aspose.com/legal/eula/" target="_blank" rel="noopener">Aspose End User License Agreement</a>
+- {{< compliance-file relpath="/compliance-reports/third-party-licenses/net/third-party-licenses-aspose-omr-net.pdf" text="Aspose.OMR for .NET Third-Party License" >}}
+
 
 
 

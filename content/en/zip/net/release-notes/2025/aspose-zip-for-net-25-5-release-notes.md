@@ -35,4 +35,4 @@ This page contains release notes information for [Aspose.ZIP for .NET 25.5](http
 | :- | :- |
 |Aspose.Zip.Lz4.Lz4ArchiveSetting.IncludeContentSize|Gets or sets a value indicating whether to include the content size in the frame of LZ4 archive.|
 |Aspose.Zip.Lz4.Lz4ArchiveSetting.IncludeBlockChecksum|Gets or sets a value indicating whether to include compressed xxh32 hash at the end of compressed block.|
-|Aspose.Zip.Tar.TarArchive.SaveLZ4Compressed(...)|Saves archive to the destination with LZ4 compression..|
+|Aspose.Zip.Tar.TarArchive.SaveLZ4Compressed(...)|Saves archive to the destination with LZ4 compression.|

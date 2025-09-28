@@ -2,7 +2,7 @@
 id: "aspose-ocr-for-net-latest-release-notes"
 slug: "latest"
 weight: 1
-date: "2025-07-13"
+date: "2025-09-14"
 author: "Anna Pylaieva"
 type: docs
 type: "repository"
@@ -18,7 +18,7 @@ keywords:
 ---
 
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for .NET 25.7.0 (July 2025)** release.
+This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for .NET 25.9.1 (September 2025)** release.
 
 GPU version: **23.10.1**
 {{% /alert %}}
@@ -27,129 +27,36 @@ GPU version: **23.10.1**
 
 Key | Summary | Category
 --- | ------- | --------
-OCRNET&#8209;1022 | LLM integration. | New feature
+OCRNET&#8209;1096 | Issue with OCR Accuracy using Aspose.OCR on PDF. Table recognition improved. | Enhancement
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OCR for .NET 25.7.0** that July affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OCR for .NET 25.9.1** that September affect the code of existing applications.
 
 ### Added public APIs:
 
-The following public APIs have been introduced in this release:
-
-#### AI Component
-
-The `AsposeAI` class provides the bridge between LLM models and the OCR engine.
-The `AsposeAI` class integrates external AI models (e.g., from Hugging Face) into OCR recognition results for **spell-check correction** and intelligent postprocessing.
-
-### 🛠 Constructors
-
-```csharp
-public AsposeAI();
-public AsposeAI(AsposeAIModelConfig config, ILogger? logger = null);
-```
-
-You can also pass optional logging and customization callbacks.
-
-### Configuration
-### ⚙️ AsposeAIModelConfig
-
-| Property                  | Type     | Description                                                                                                                                                    |
-| ------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `AllowAutoDownload`       | `string` | If true, the model will be automatically downloaded if not available locally.                                                                                  |
-| `DirectoryModelPath`      | `string` | Optional path where downloaded or processed models will be cached. If not set, a default system location will be used.                                         |
-| `FileModelPath`           | `string` | Local path to the folder containing the model files. If specified, this will be used instead of downloading. Default empty.                                    |
-| `HuggingFaceQuantization` | `string` | Optional quantization type to use when downloading from HuggingFace. Examples: “int8”, “fp16”, “none”. Default q4_k_m.                                         |
-| `HuggingFaceRepoId`       | `string` | ID of the model on HuggingFace (e.g., “openai/gpt2”). If specified, the model will be downloaded from HuggingFace. Default bartowski/Qwen2.5-3B-Instruct-GGUF. |
-
-### 🧠 AsposeAI Class – Core Methods
-| Method                                            | Description                                                         |
-| ------------------------------------------------- | ------------------------------------------------------------------- |
-| `AddPostProcessor(IOcrAIPostProcessor processor)` | Adds a custom AI postprocessor to enhance OCR results.              |
-| `CorrectResult(OcrOutput output)`                 | Applies AI-based spell correction to the full OCR result.           |
-| `CorrectResult(RecognitionResult result)`         | Applies spell correction to a single recognition result.            |
-| `RunPostprocessor(List<string> texts)`            | Enhances plain recognized text strings using registered AI modules. |
-| `RunPostprocessor(OcrOutput output)`              | Enhances structured OCR output using registered AI modules.         |
-| `Dispose()`                                       | Cleans up and releases resources used by the AI component.          |
-| `FreeResources()`                                 | Explicitly unloads AI models and clears memory.                     |
-| `ListLocal()`                                     | Lists all local AI models available in the configured folder.       |
-| `GetLocalPath()`                                  | Returns the directory path of the current model location.           |
-| `IsInitialized()`                                 | Checks if the AI engine and model are ready to use.                 |
-
-{{% alert color="info" %}}
-**Compatibility: fully backward compatible.** See details below.
-{{% /alert %}}
-
-
-### 🔤 SpellCheckAIProcessor Class – Postprocessor Module
-
-- Implements: `IOcrAIPostProcessor`
-- Description: A built-in module that performs AI-powered spell-check correction.
-- Usage: Register using `AsposeAI.AddPostProcessor(new SpellCheckAIProcessor())`
-
-## 🔗 API References
-
-- [`AsposeAI`](https://reference.aspose.com/ocr/net/aspose.ocr/asposeai/)  
-  Core class to load, configure, and apply AI models (e.g., for spell correction) to OCR results.
-
-- [`SpellCheckAIProcessor`](https://reference.aspose.com/ocr/net/aspose.ocr.ai/spellcheckaiprocessor/)  
-  Built-in AI postprocessor that uses a language model to fix spelling mistakes in recognized text.
-
-
-
-{{% alert color="info" %}}
-**Compatibility: fully backward compatible.** See details below.
-{{% /alert %}}
+_No changes._
 
 ### Updated public APIs:
 
-_No changes._
+The following public APIs have been updated in Aspose.OCR for .NET 25.9.1 release:
 
-### Deprecated APIs
+#### `BaseRecognitionSettings.RecognizeVerticalLines` property
 
-The following public APIs have been marked as deprecated and will be removed in **25.11.0 (October 2025)** release:
+Aspose.OCR for .NET no longer detects and recognizes vertical lines automatically. Set this property to <c>true</c> to explicitly enable 
+vertical text recognition (useful for vertically oriented text fragments on an image that primarily contains horizontal text)
 
-#### `RectangleOutput` class
+**New property**
+| Method                     | Description                                                                                                                                    |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| `RecognizeVerticalLines`   | Gets or sets a value indicating whether vertical text lines should be detected and recognized in addition to horizontal ones. Default is false.|
 
-#### `AsposeOcr.DetectRectangles` method
 
-#### `RecognitionResult.RecognitionAreasText`
-
-#### `RecognitionResult.RecognitionAreasRectangles`
-
-#### `RecognitionResult.Skew`
-
-#### `CharacterRecognitionResult.ImageIndex`
-
-#### `SkewOutput.ImageIndex`
-
-#### `OcrPageRecognizeEventsArgs.CurrentImage`
+{{% alert color="info" %}}
+**Compatibility: fully backward compatible.** See details below.
+{{% /alert %}}
 
 
 ### Removed public APIs:
 
 _No changes._
-
-## Examples
-
-The code samples below illustrate the changes introduced in this release:
-
-### Enable Debug Mode for Logging
-
-```csharp
-   ILogger logger = new ConsoleLogger(); // can be null
-   AsposeAIModelConfig modelConfig = new AsposeAIModelConfig
-   {
-       AllowAutoDownload = true,
-       DirectoryModelPath = "D://test",
-   };
-
-   AsposeAI ai = new AsposeAI(modelConfig, logger);
-
-   ai.AddPostProcessor(new SpellCheckAIProcessor());
-   ai.RunPostprocessor(res);
-
-   Console.WriteLine("CORRECTED RESULT\n");
-   Console.WriteLine(res[0].RecognitionText)
-   ai.Dispose();
-```

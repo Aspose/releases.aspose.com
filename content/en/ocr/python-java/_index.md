@@ -24,10 +24,6 @@ Aspose.OCR for Python via Java can be installed from a local file or form PyPi w
        {{< consolebox/spantext text=" " >}}
        {{< consolebox/textarea id="pip" >}} pip install aspose-ocr-python-java {{< /consolebox/textarea >}}       
 {{< /consolebox/consoleboxwrapper >}}
-{{< consolebox/consoleboxwrapper id="pip1" >}}
-       {{< consolebox/spantext text=" " >}}
-       {{< consolebox/textarea id="pip1" >}} pip install <downloaded-package-path> {{< /consolebox/textarea >}}       
-{{< /consolebox/consoleboxwrapper >}}
 
 {{< Common/hr >}}
 

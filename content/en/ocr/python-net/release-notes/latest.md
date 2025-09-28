@@ -3,7 +3,7 @@ id: "aspose-ocr-for-python-net-latest-release-notes"
 slug: "latest"
 weight: 1
 date: "2025-03-03"
-author: "Vladimir Lapin"
+author: "Anna Pylaieva"
 type: "repository"
 layout: "release"
 title: Latest Release
@@ -17,71 +17,51 @@ keywords:
 ---
 
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for Python via .NET 25.6.0 (June 2025)** release.
-
-GPU version: **23.10.1**
-{{% /alert %}}
+This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for Python via .NET 25.9.0 (September 2025)** release.
 
 ## What was changed
 
 Key | Summary | Category
 --- | ------- | --------
-OCRNET&#8209;1036 | Add Debug mode in the API to allow for customer view the areas detection results on the image. | New feature
-OCRNET&#8209;1038 | Add the Confidence for the text lines in the RecognitionResult. | New feature
-OCRNET&#8209;992 | Fix hOCR output formatting. | Bug fix
+OCRNET&#8209;1097 | Improve markdown output format with table detection. | New feature
+OCRNET&#8209;1093 | HOCR export to MemoryStream and incompatibility with Aspose.PDF conversion. | Bug fix
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OCR for Python via .NET 25.6.0** that June affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OCR for Python via .NET 25.9.0** that September affect the code of existing applications.
 
 ### Added public APIs:
 
-The following public APIs have been introduced in this release:
-
-#### Debug mode
-
-You can save intermediate image processing results — such as preprocessed images and text detection overlays — for visual inspection and troubleshooting. Debug mode is enabled through set methods of the AsposeOcr class:
-
-| Method                                     | Type   | Description                                                                                               |
-| ------------------------------------------ | ------ | --------------------------------------------------------------------------------------------------------- |
-| `set_debug_mode(debug: bool)`              | `None` | Enables or disables debug image saving.                                                                   |
-| `set_debug_mode_save_directory(path: str)` | `None` | Specifies the folder where debug images will be saved. If not set, the current working directory is used. |
-
-
-{{% alert color="info" %}}
-**Compatibility: fully backward compatible.** See details below.
-{{% /alert %}}
-
-
-#### Confidence score
-
-Each recognized text line includes an optional confidence score — a floating-point value between `0.0` and `1.0` stored in the `confidence` field of the `LinesResult` class.
-
-This score reflects the recognition certainty of the line:
-
-* **`1.0`** — the engine is completely confident the recognition is correct.
-* **`0.0`** — recognition confidence is unknown or not calculated.
-
-> ⚠️ The value is **always set to `0.0`** when using a **temporary license**.
-
-The confidence score is only calculated for specific languages:
-
-✅ **Supported:**
-Chinese (all groups), Arabic, Hindi, European, Korean, Japanese, Telugu, Tamil, Kannada
-
-❌ **Not supported:**
-ExtLatin or languages with diacritical marks
-
-You can use this value to filter or highlight low-confidence results in your application.
-
-
-{{% alert color="info" %}}
-**Compatibility: fully backward compatible.** See details below.
-{{% /alert %}}
+_No changes._
 
 ### Updated public APIs:
 
-_No changes._
+The following public APIs have been updated in Aspose.OCR for .NET 25.9.0 release:
+
+#### `aspose.ocr.ai.TableAIProcessor` class
+
+### 🛠 Constructors
+
+```python
+    # Initializes a new instance of the TableAIProcessor class
+    TableAIProcessor(mode) #AITableDetectionMode
+```
+
+Aspose.OCR for Python vis .NET can now automatically detect tables and save them in Markdown format.
+
+**New Methods**
+| Method             | Description                                                      |
+| ------------------ | ---------------------------------------------------------------- |
+| `save_md(path)`    | Saves the extracted structured tables into a Markdown (.md) file.|
+
+
+{{% alert color="caution" %}} 
+**Compatibility: partial backward compatibility.** See details below.
+{{% /alert %}}
+
+
+#### `aspose.ocr.OcrOutput` class
+The `save(full_file_name, save_format)` method has been enhanced: now the Markdown output also supports automatic table detection and insertion.
 
 ### Deprecated APIs
 
@@ -116,48 +96,32 @@ _No changes._
 
 The code samples below illustrate the changes introduced in this release:
 
-### Enable Debug Mode for Logging
+### Enable Table AI postprocessor
 
 ```python
+from aspose.ocr import *
+from aspose.ocr.ai import *
 from aspose.ocr.models import *
 
 
 # Initialize recognition API
-api = new AsposeOcr()
-
-# Enable debug mode to log internal processing information
-api.set_debug_mode_save_directory("D:\\output\\debug")
-api.set_debug_mode(True)
+api = AsposeOcr()
 
 # Add an image to OcrInput object
-input = new OcrInput(InputType.SINGLE_IMAGE)
+input = OcrInput(InputType.SINGLE_IMAGE)
 input.add("source.png")
 
 # Recognize image
 results = api.recognize(input)
 
-```
-
-### Get Confidence of Recognized Text
-```python
-
-from aspose.ocr.models import *
-
-# Initialize recognition API
-api = new AsposeOCR();
-
-# Add an image to OcrInput object
-input = new OcrInput(InputType.SINGLE_IMAGE)
-input.add("source.png");
-
-# Recognize image
-OcrOutput results = api.recognize(input);
-
-# Print recognized text with confidence
-for result in results:
-    print("Text:", result.recognition_text)
-
-    for line in result.recognition_lines_result:
-        print(f"{line.text_in_line} — Confidence: {line.confidence}")
+# Initialize AI API
+ai = AsposeAI()
+config = AsposeAIModelConfig()
+proces = TableAIProcessor(AITableDetectionMode.AUTO)
+ai.set_post_processor(proces, config)
+ai.run_postprocessor(result)
+corrected = proces.get_result()
+print(corrected[0].recognition_text)
+ai.free_resources()
 
 ```

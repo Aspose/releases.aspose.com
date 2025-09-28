@@ -36,4 +36,4 @@ This page contains release notes information for [Aspose.ZIP for .NET 25.8](http
 | :- | :- |
 |Aspose.Zip.Saving.ArchiveSaveOptions.DataDescriptorPolicy|Gets or sets settings for Data Descriptor emission.|
 |Aspose.Zip.Saving.ZipDataDescriptorPolicy.Always|Data Descriptor is always present for all zip entries.|
-|Aspose.Zip.Saving.ZipDataDescriptorPolicy.ForAllFileEntries|Data Descriptor present only for entries with file data; omitted for directories.|
+|Aspose.Zip.Saving.ZipDataDescriptorPolicy.ForAllFileEntries|Data Descriptor present only for entries with file data; it is omitted for directories.|

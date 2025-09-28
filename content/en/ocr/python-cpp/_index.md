@@ -1,24 +1,33 @@
 ---
-
-title: "Download and install Aspose.OCR for Python via С++"
-description:  "Extract text from images on Linux, MacOS and Windows with a few lines of Python code with our powerful and developer-friendly cross-platform API for optical character recognition."
+title: "Aspose.OCR for Python via C++ – Cross-Platform OCR API"
+description:  "Extract text from images, scans, and PDFs in Python apps with Aspose.OCR for C++. High-accuracy OCR supports 28+ languages on Windows, Linux, and macOS."
 keywords:  "C,C++,Python,PIP,OCR,Recognize,Image-To-Text,Extract text from images, optical character recognition"
 family_listing_page_title:  "Aspose.OCR for Python via С++"
 family_listing_page_description:  "Extract text from images on Linux, MacOS and Windows with a few lines of Python code with our powerful and developer-friendly cross-platform API for optical character recognition."
 family_listing_page_iconurl:  "https://releases.aspose.com/images/aspose/aspose_ocr-for-python-cpp.svg"
 weight: 9
-
+homepage_package_type: "Pip"
+homepage_package_link: "https://pypi.org/project/aspose-ocr-python-cpp/"
 ---
 
 {{< dbToolbar link="https://forum.aspose.com/c/ocr/16" linktext="Support Forum" >}}
 
-{{< Common/h1 text="Aspose.OCR for Python via C++" >}}
-
-{{< Common/hr >}}
+{{< Common/h3 text="Download Aspose.OCR for Python via C++ for image recognition."  >}}
+{{< Common/paragraph class="package-instructions">}}
+Aspose.OCR for Python via C++ lets developers extract text from images, scans, and PDFs with just a few lines of Python code, delivering fast and accurate OCR across Windows, Linux, and macOS.
+{{< /Common/paragraph>}}
 
 {{< Common/paragraph class="package-instructions">}}
+Aspose.OCR for Python via C++ can be installed from a local file or form PyPi with the following {{< Common/link href="https://pypi.org/project/aspose-ocr-python-cpp/" text="pip"  >}} command:
 {{< Common/release-notes-link family="ocr" product="python-cpp" href="https://releases.aspose.com/ocr/python-cpp/release-notes/" text="https://releases.aspose.com/ocr/python-cpp/release-notes/"  >}}
 {{< /Common/paragraph>}}
+
+{{< consolebox/consoleboxwrapper id="pip" >}}
+       {{< consolebox/spantext text=" " >}}
+       {{< consolebox/textarea id="pip" >}} pip install aspose-ocr-python-cpp {{< /consolebox/textarea >}}       
+{{< /consolebox/consoleboxwrapper >}}
+
+{{< Common/hr >}}
 
 [Product Page](https://products.aspose.com/ocr/python-cpp/) | [Docs](https://docs.aspose.com/ocr/python-cpp/) | [Demos](https://products.aspose.app/ocr/family) | [API Reference](https://reference.aspose.com/ocr/python-cpp) | [Examples](https://github.com/aspose-ocr/Aspose.OCR-for-Python-via-Cpp) | [Blog](https://blog.aspose.com/category/ocr/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/ocr) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 

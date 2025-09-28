@@ -1,0 +1,34 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-pdf",
+  "id" : "25-8",
+  "packageFiles" : [ {
+    "size" : "87 MB",
+    "name" : "aspose-pdf-25.8-java.zip"
+  }, {
+    "size" : "6 MB",
+    "name" : "aspose-pdf-25.8-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "89 MB",
+    "name" : "aspose-pdf-25.8-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "89 MB",
+    "name" : "aspose-pdf-25.8-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "89 MB",
+    "name" : "aspose-pdf-25.8-tomee.jar",
+    "classifier" : "tomee"
+  }, {
+    "size" : "89 MB",
+    "name" : "aspose-pdf-25.8.jar"
+  }, {
+    "size" : "452 bytes",
+    "name" : "aspose-pdf-25.8.pom"
+  } ],
+  "releasehDate" : "2025-08-29T20:49:37+00:00",
+  "version" : "25.8",
+  "ReleaseNotes" : "https://releases.aspose.com/pdf/java/release-notes/2025/aspose-pdf-for-java-25-8-release-notes/"
+}

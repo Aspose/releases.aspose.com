@@ -33,7 +33,7 @@ This page contains release notes information for [Aspose.ZIP for .NET 25.1](http
 |Aspose.Zip.ARJ.ArjArchive|Class representing ARJ archive file.|
 |Aspose.Zip.ARJ.ArjEntryPlain|Class representing single file within ARJ archive.|
 |**The following public methods and properties were added:**|**Description**|
-|Aspose.Zip.ARJ.ArjArchive.#ctor(...)|Initializes a new instance of the ArjArchive prepared for extraction|
+|Aspose.Zip.ARJ.ArjArchive.#ctor(...)|Initializes a new instance of the ArjArchive prepared for extraction.|
 |Aspose.Zip.ARJ.ArjArchive.ExtractToDirectory(string)|Extracts all entries to the specified directory.|
 |Aspose.Zip.ARJ.ArjArchive.Name|Gets the original name.|
 |Aspose.Zip.ARJ.ArjArchive.Entries|Gets entries constituting the ARJ archive.|
@@ -42,7 +42,7 @@ This page contains release notes information for [Aspose.ZIP for .NET 25.1](http
 |Aspose.Zip.ARJ.ArjEntryPlain.Name|Gets name of the entry within archive.|
 |Aspose.Zip.ARJ.ArjEntryPlain.UncompressedSize|Gets size of original file.|
 |Aspose.Zip.ARJ.ArjEntryPlain.Extract(...)|Extracts the entry to the destination provided.|
-|Aspose.Zip.Lha.LhaArchiveEntry.IsDirectory|Gets a value indicating whether this entry a directory.|
+|Aspose.Zip.Lha.LhaArchiveEntry.IsDirectory|Gets a value indicating whether this entry is a directory.|
 |Aspose.Zip.Lha.LhaArchiveEntry.LastModified|Gets the last modified time of the entry.|
 |**The following public types were removed:**|**Description**|
-|Aspose.Zip.Lha.LhaDirectoryEntry|Entry representying directory.|
+|Aspose.Zip.Lha.LhaDirectoryEntry|Entry representing directory.|
