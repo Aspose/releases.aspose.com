@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk17",
+  "artifactId" : "aspose-pdf",
+  "id" : "25-9",
+  "packageFiles" : [ {
+    "size" : "89 MB",
+    "name" : "aspose-pdf-25.9-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "90 MB",
+    "name" : "aspose-pdf-25.9-tomee.jar",
+    "classifier" : "tomee"
+  }, {
+    "size" : "452 bytes",
+    "name" : "aspose-pdf-25.9.pom"
+  } ],
+  "releasehDate" : "2025-09-28T19:53:13+00:00",
+  "version" : "25.9",
+  "ReleaseNotes" : "https://releases.aspose.com/pdf/java/release-notes/2025/aspose-pdf-for-java-25-9-release-notes/"
+}
