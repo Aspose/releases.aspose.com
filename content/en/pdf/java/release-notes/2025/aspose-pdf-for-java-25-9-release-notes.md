@@ -59,11 +59,11 @@ This page contains release notes information for Aspose.PDF for Java 25.9.
 **Added new enum value:**
 - com.aspose.pdf.PdfFormat#PDF_E_1
 
-**Refactored class TextRenderingMode with constants in a natural java enum**
+**Refactored the TextRenderingMode class. It now uses a standard Java enum for constants.**
 
 **Renamed package com.aspose.pdf.plugins into com.aspose.pdf.lowcode**
 
-**Jdk 1.6 is not supported any more**
+**java version 1.6 is not supported. The minimum version required is 1.7.**
 
 
 
