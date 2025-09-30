@@ -1,21 +1,21 @@
 ---
-id: "aspose-barcode-for-android-via-java-25-8-release-notes"
-slug: "aspose-barcode-for-android-via-java-25-8-release-notes"
-linktitle: "Aspose.BarCode for Android via Java 25.8"
-title: "Aspose.BarCode for Android via Java 25.8"
-weight: 880
-description: "Aspose.BarCode for Android via Java 25.8 – the latest updates and fixes."
+id: "aspose-barcode-for-android-via-java-25-9-release-notes"
+slug: "aspose-barcode-for-android-via-java-25-9-release-notes"
+linktitle: "Aspose.BarCode for Android via Java 25.9"
+title: "Aspose.BarCode for Android via Java 25.9"
+weight: 840
+description: "Aspose.BarCode for Android via Java 25.9 – the latest updates and fixes."
 type: "repository"
 layout: "release"
 hideChildren: false
 toc: false
-family_listing_page_title: "Aspose.BarCode for Android via Java 25.8"
+family_listing_page_title: "Aspose.BarCode for Android via Java 25.9"
 menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}} 
 
-This page contains release notes information for [Aspose.BarCode for Android via Java 25.8](https://releases.aspose.com/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-25.8/).
+This page contains release notes information for [Aspose.BarCode for Android via Java 25.9](https://releases.aspose.com/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-25.9/).
 
 {{% /alert %}} 
 ## **All Changes**
