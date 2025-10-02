@@ -1,0 +1,16 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-tasks",
+  "id" : "25-9",
+  "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-tasks-25.9-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "395 bytes",
+    "name" : "aspose-tasks-25.9.pom"
+  } ],
+  "releasehDate" : "2025-10-02T09:05:40+00:00",
+  "version" : "25.9",
+  "ReleaseNotes" : "https://releases.aspose.com/tasks/java/release-notes/2025/aspose-tasks-for-java-25-9-release-notes/"
+}
