@@ -22,11 +22,10 @@ This page contains release notes for [Aspose.Words for Node.js via .NET 25.10](h
 
 ## Major Features
 
-There are 65 improvements and fixes in this regular monthly release. The most notable are:
+There are 64 improvements and fixes in this regular monthly release. The most notable are:
 
 - **Text Export:** Enhanced plain text conversion by adding the ability to export Office Math objects as [LaTeX expressions](https://reference.aspose.com/words/nodejs-net/aspose.words.saving/txtsaveoptions/officemathexportmode/).
 - **PDF Export:** Introduced a new [save option](https://reference.aspose.com/words/nodejs-net/aspose.words.saving/pdfsaveoptions/exportfloatingshapesasinlinetag/) for more precise control over the tagging of floating shapes as either inline or block-level elements.
-- **Markdown Export:** Implemented a [resource-saving callback](https://reference.aspose.com/words/nodejs-net/aspose.words.saving/markdownsaveoptions/resourcesavingcallback/), providing developers with greater flexibility in managing how images and other resources are exported.
 - **PDF/UA Export & Accessibility:** Improved compliance by correctly tagging horizontal rules as artifacts, enhancing the experience for users of assistive technologies.
 
 <details>
