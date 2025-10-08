@@ -24,8 +24,8 @@ This page contains release notes information for [Aspose.GIS for .NET 25.9](http
 |**Key**    |**Summary**                                                                                                                                                      |**Category**|
 |:--------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------|
 |GISNET-683 |Ability to intersect huge shape files                                                                                                                            |Feature     |
-|GISNET-1885|Ability to union extra complex geometries                                                                                                                        |Feature     |
-|GISNET-1890|Optimization of performance and RAM usage of new KmlLayer                                                                                                        |Enhancement |
+|GISNET-814 |Ability to union extra complex geometries                                                                                                                        |Feature     |
+|GISNET-1891|Optimization of performance and RAM usage of new KmlLayer                                                                                                        |Enhancement |
 
 ## **Public API changes**
 Following members have been added:
@@ -104,7 +104,7 @@ Following members have been removed:
 
 
 
-**GISNET-1885. Ability to union extra complex geometries**
+**GISNET-814. Ability to union extra complex geometries**
 
 {{< highlight csharp >}}
 	var pointList1 = new List<Point>();
