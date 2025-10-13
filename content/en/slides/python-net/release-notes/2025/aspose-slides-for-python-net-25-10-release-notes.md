@@ -37,7 +37,7 @@ This page contains release notes for [Aspose.Slides for Python via .NET 25.10](h
 The `FontStyleType` enumeration specifies formatting styles that can be applied to text.
 It is introduced in the API as a replacement for `aspose.pydrawing.FontStyle`.
 
-| Name | Value | Description |
+| Name | Description |
 | --- | --- | --- |
 | `REGULAR` | Standard text |
 | `BOLD` | Bold text |
