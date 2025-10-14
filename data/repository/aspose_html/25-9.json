@@ -3,7 +3,7 @@
   "artifactId" : "aspose-html",
   "id" : "25-9",
   "packageFiles" : [ {
-    "size" : "3 KB",
+    "size" : "4 KB",
     "name" : "aspose-html-25.9-bom.pom"
   }, {
     "size" : "2 MB",
@@ -37,13 +37,13 @@
     "size" : "34 MB",
     "name" : "aspose-html-25.9.jar"
   }, {
-    "size" : "478 bytes",
+    "size" : "2 KB",
     "name" : "aspose-html-25.9.pom"
   }, {
     "size" : "212 MB",
     "name" : "aspose-html-25.9.zip"
   } ],
-  "releasehDate" : "2025-10-14T19:21:18+00:00",
+  "releasehDate" : "2025-10-14T21:03:32+00:00",
   "version" : "25.9",
   "ReleaseNotes" : "https://releases.aspose.com/html/java/release-notes/2025/aspose-html-for-java-25-9-release-notes/"
 }
