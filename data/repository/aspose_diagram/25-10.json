@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-diagram",
+  "id" : "25-10",
+  "packageFiles" : [ {
+    "size" : "1 MB",
+    "name" : "aspose-diagram-25.10-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "3 MB",
+    "name" : "aspose-diagram-25.10.jar"
+  }, {
+    "size" : "798 bytes",
+    "name" : "aspose-diagram-25.10.pom"
+  } ],
+  "releasehDate" : "2025-10-14T03:05:02+00:00",
+  "version" : "25.10",
+  "ReleaseNotes" : "https://releases.aspose.com/diagram/java/release-notes/2025/aspose-diagram-for-java-25-10-release-notes/"
+}
