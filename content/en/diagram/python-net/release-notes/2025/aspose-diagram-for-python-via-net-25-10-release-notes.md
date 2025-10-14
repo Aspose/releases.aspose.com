@@ -24,7 +24,7 @@ This page contains release notes for Aspose.Diagram for Python via .NET 25.10.
 |DIAGRAMNET-53814|Color not set correctly for copied shapes|Bug|
 |DIAGRAMNET-53815|Issue of Shape copying|Bug|
 |DIAGRAMNET-53816|Issue converting VSD with embedded EMF picture to SVG|Bug|
-|DIAGRAMNET-53818|Issue of Shape copying|Bug|
+|DIAGRAMNET-53818|Visio file layout shifts after upload/import|Bug|
 
 ## **Public API and Backward Incompatible Changes**
 The following is a list of any changes made to the public API such as added, renamed, removed or deprecated members as well as any non-backward compatible change made to Aspose.Diagram for .NET. If you have concerns about any change listed, please raise it on the Aspose.Diagram support forum.
