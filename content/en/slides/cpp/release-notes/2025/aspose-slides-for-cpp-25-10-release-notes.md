@@ -50,14 +50,14 @@ It is introduced in the API as a replacement for `System::Drawing::FontStyle`.
 | `Underline` | 4 | Underlined text |
 | `Strikeout` | 8 | Text crossed out with a horizontal line |
 
-### Added New Method: IFontsManager::GetFontBytes(SharedPtr<IFontData> fontData, FontStyleType fontStyle)
+### Added New Method: IFontsManager::GetFontBytes
 
-The new method, `GetFontBytes`, have been added to the `Aspose::Slides::IFontsManager` interface and implemented in the `Aspose::Slides::FontsManager` class. 
+The new method, `GetFontBytes(SharedPtr<IFontData> fontData, FontStyleType fontStyle)`, have been added to the `Aspose::Slides::IFontsManager` interface and implemented in the `Aspose::Slides::FontsManager` class. 
 It replaces the obsolete method that used `System::Drawing::FontStyle` as a parameter type.
 
-### Added New Method: Export::SlideImageFormat::Bitmap(float scale, ImageFormat imageFormat)
+### Added New Method: Export::SlideImageFormat::Bitmap
 
-The new method, `Bitmap`, have been added to the `Aspose::Slides::Export::SlideImageFormat` class. 
+The new method, `Bitmap(float scale, ImageFormat imageFormat)`, have been added to the `Aspose::Slides::Export::SlideImageFormat` class. 
 It replaces the obsolete method that used `System::Drawing::Imaging::ImageFormat` as a parameter type.
 
 ### Marked as Obsolete
