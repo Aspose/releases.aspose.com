@@ -63,7 +63,7 @@ The following is a list of any changes made to the public API such as added, ren
 
 ### **Changes behavior of Workbook.CalculateFormula(...) methods for refreshing dynamic array formulas.**
 
-Dynamic array formula is becoming more and more popular in more and more users' cases. Old versions of Aspose.Cells require users to call Workbook.RefreshDynamicArrayFormulas(...) explicitly before calling Workbook.CalculateFormula() if there are dynamic array formulas that need to be refreshed. Starting from 25.10, we include this step into Workbook.CalculateFormula(...) automatically. So users do not need to explicitly call Workbook.RefreshDynamicArrayFormulas(...) any more before calculating formulas for the workbook.
+Dynamic array formulas are becoming more and more popular in more and more users' cases. Old versions of Aspose.Cells required users to call Workbook.RefreshDynamicArrayFormulas(...) explicitly before calling Workbook.CalculateFormula() if there are dynamic array formulas that need to be refreshed. Starting from 25.10, we include this step into Workbook.CalculateFormula(...) automatically. So users do not need to explicitly call Workbook.RefreshDynamicArrayFormulas(...) anymore before calculating formulas for the workbook.
 
 ### **Adds property RefreshDynamicArrayFormula for CalculationOptions.**
 
@@ -75,7 +75,7 @@ Indicates whether user has specified CalculationOptions.RefreshDynamicArrayFormu
 
 ### **Adds SignificantDigitsType enum.**
 
-Represents the type of significant digits for outputing numeric values.
+Represents the type of significant digits for outputting numeric values.
 
 ### **Adds SignificantDigitsType property for WorkbookSettings and CellsHelper.**
 
