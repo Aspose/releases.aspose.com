@@ -20,7 +20,6 @@ This page contains release notes information for Aspose.Page for Java 25.9.
 {{% /alert %}}
 ## **Improvements and Changes**
 
-Fixed saving PsDocument in .NET 7.
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
