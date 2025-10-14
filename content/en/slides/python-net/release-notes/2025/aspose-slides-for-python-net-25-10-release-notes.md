@@ -38,7 +38,7 @@ The `FontStyleType` enumeration specifies formatting styles that can be applied 
 It is introduced in the API as a replacement for `aspose.pydrawing.FontStyle`.
 
 | Name | Description |
-| --- | --- | --- |
+| --- | --- |
 | `REGULAR` | Standard text |
 | `BOLD` | Bold text |
 | `ITALIC` | Italic text |
