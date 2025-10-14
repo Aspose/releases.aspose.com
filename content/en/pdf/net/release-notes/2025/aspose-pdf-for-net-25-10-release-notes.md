@@ -146,12 +146,9 @@ Aspose.PDF for .NET now correctly handles dash pattern scaling for lines of vary
 * Type: Aspose.Pdf.DefaultState 
 * Field: Aspose.Pdf.DefaultState.Visible 
 * Field: Aspose.Pdf.DefaultState.Hidden 
-* Method: Aspose.Pdf.Document.Save(System.String,Aspose.Pdf.SaveOptions) System.Void
-* Method: Aspose.Pdf.Document.SaveAsync(System.String,Aspose.Pdf.SaveOptions,System.Threading.CancellationToken) System.Threading.Tasks.Task
 * Proerty: Aspose.Pdf.Layer.DefaultState Aspose.Pdf.DefaultState
 
 ### Removed APIs
-* Method: Aspose.Pdf.Document.Save(System.String,Aspose.Pdf.SaveOptions) System.Void
-* Method: Aspose.Pdf.Document.SaveAsync(System.String,Aspose.Pdf.SaveOptions,System.Threading.CancellationToken) System.Threading.Tasks.Task
 
+No removings.
 
