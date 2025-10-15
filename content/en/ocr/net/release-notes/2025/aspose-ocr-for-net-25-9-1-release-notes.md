@@ -24,7 +24,7 @@ menuItemWithNoContent: false
 {{% alert color="primary" %}}
 This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for .NET 25.9.1 (September 2025)** release.
 
-GPU version: **23.10.1**
+GPU version: **25.10.0**
 {{% /alert %}}
 
 ## What was changed
