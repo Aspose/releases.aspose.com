@@ -10,13 +10,13 @@ download_link: "/page/net/new-releases/aspose.page-for-.net-25.9/414ab35df1cbdb1
 download_text: "下载"
 intro_text: "它包含 Aspose.Page for .NET 25.9 版本 Windows 安装程序。"
 image_link: "/resources/img/msi-icon.png"
-download_count: " 22/9/2025 下载s: 1  Views: 1 "
+download_count: " 22/9/2025 下载s: 27  Views: 1 "
 file_size: "File Size: 25.21MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
 
 tags: ""
-release_notes_url: "https://releases.aspose.com/page/net/release-notes/2025/aspose-page-for-net-25-8-release-notes/"
+release_notes_url: "https://releases.aspose.com/page/net/release-notes/2025/aspose-page-for-net-25-9-release-notes/"
 weight: 183
 
 ---
@@ -31,7 +31,7 @@ weight: 183
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} 下载s: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-414ab35df1cbdb15748da09366137542-6-13869" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-414ab35df1cbdb15748da09366137542-6-13869" >}} 27 {{< /Common/li >}}
       {{< Common/li >}} 文件大小: {{< /Common/li >}}
       {{< Common/li id="size-update-414ab35df1cbdb15748da09366137542-6-13869" >}} 25.21MB {{< /Common/li >}}
 
@@ -40,7 +40,7 @@ weight: 183
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>发行说明</h4><div><a href='https://releases.aspose.com/page/net/release-notes/2025/aspose-page-for-net-25-8-release-notes/'>https://releases.aspose.com/page/net/release-notes/2025/aspose-page-for-net-25-8-release-notes/</a></div>
+      <h4>发行说明</h4><div><a href='https://releases.aspose.com/page/net/release-notes/2025/aspose-page-for-net-25-9-release-notes/'>https://releases.aspose.com/page/net/release-notes/2025/aspose-page-for-net-25-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>描述</h4><div class="HTMLDescription">它包含 Aspose.Page for .NET 25.9 版本 Windows 安装程序。</div>
