@@ -20,6 +20,14 @@ This page contains release notes for [Aspose.Cells for .NET 25.10](https://www.n
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |CELLSNET-58944|Provide option to determine how to output significant digits for numeric values|New Feature
+|CELLSGRIDJS-1737|Support filter in client js|New Feature
+|CELLSGRIDJS-1961|Support css identifier for modal window|New Feature
+|CELLSGRIDJS-1971|Support custom toast|New Feature
+|CELLSGRIDJS-1898|Support for strikethrough settings in cell formatting|New Feature
+|CELLSGRIDJS-1899|Support for superscript settings in cell formatting|New Feature
+|CELLSGRIDJS-1900|Support for subscript settings in cell formatting|New Feature
+|CELLSGRIDJS-1936|Support for different types of underline settings under cell format|New Feature
+|CELLSGRIDJS-1946|Support for rendering double underlines in cells|New Feature
 |CELLSNET-59052|Support to process exported cell with custom ExportTableOptions when ExportAsString is true|Enhancement
 |CELLSNET-59074|Support to parse datetime with calendar of Japanese Emperor Reign|Enhancement
 |CELLSNET-59078|Support to refresh dynamic array formulas by default when calculating formulas for Workbook|Enhancement
@@ -27,6 +35,15 @@ This page contains release notes for [Aspose.Cells for .NET 25.10](https://www.n
 |CELLSNET-59114|Support to calculate style for pivot table while rendering pivot table range to image|Enhancement
 |CELLSNET-59071|Export advanced charts of Excel 2016 to docx|Enhancement
 |CELLSNET-59123|Support to populate comment on a cell using Smart Markers|Enhancement
+|CELLSGRIDJS-1922|Provide workaround for custom hover styles for toolbar items|Enhancement
+|CELLSGRIDJS-1937|Optimize console output on the client side|Enhancement
+|CELLSGRIDJS-1944|Support option "Fit all columns on one page" while exporting to PDF in GridJs|Enhancement
+|CELLSGRIDJS-1955|Support to load charts that depend on data across multiple worksheets during lazy loading|Enhancement
+|CELLSGRIDJS-1982|Show Formulas feature is not matched with MS Excel|Enhancement
+|CELLSGRIDJS-1917|Optimized to not display the batch insert button in read-only mode|Enhancement
+|CELLSGRIDJS-1919|Optimize performance issues with pattern rendering|Enhancement
+|CELLSGRIDJS-1920|The preview in the pattern settings of the cell format cannot clear the existing pattern|Enhancement
+|CELLSGRIDJS-1954|Optimize the row appender button display to only show on non-chart type sheets|Enhancement
 |CELLSNET-51941|XLSX to PDF: Shapes messed up after conversion|Bug
 |CELLSNET-54573|Incomplete TextBox display when converting files to Pdf|Bug
 |CELLSNET-56230|A vertical green line appears from top to bottom when saving file to pdf|Bug
@@ -55,6 +72,15 @@ This page contains release notes for [Aspose.Cells for .NET 25.10](https://www.n
 |CELLSNET-59103|Copying formulas with cell referecing other sheets is not working as excel|Bug
 |CELLSNET-59124|Table's column formula was not copied when importing data with false value for "InsertRows" option|Bug
 |CELLSNET-59125|Importing data with true for "InsertRows" option caused invalid formula|Bug
+|CELLSGRIDJS-1914|The reference in the validation formula retrieved by Cells API does not match the one displayed in Excel|Bug
+|CELLSGRIDJS-1908|Filter values are not retained in collabrative mode after applying the filter and saving the file|Bug
+|CELLSGRIDJS-1913|The scrollbar overlaps the viewer content|Bug
+|CELLSGRIDJS-1931|View does not scroll to the matching result when searching for a term using the search popup|Bug
+|CELLSGRIDJS-1945|There are some unnecessary spaces in search window|Bug
+|CELLSGRIDJS-1949|Unable to view content and charts in the online editor created by Aspose.Cells.GridJs|Bug
+|CELLSGRIDJS-1904|CustomValidation with ISNUMBER function does not accept numeric input|Bug
+|CELLSGRIDJS-1932|Date format and date validation errors in European regions|Bug
+|CELLSGRIDJS-1935|Incorrect determination occurred when comparing two dates|Bug
 |CELLSNET-59117|ArgumentOutOfRangeException on Workbook.RefreshDynamicArrayFormulas(true) method|Exception
 
 ## **Public API and Backwards Incompatible Changes**
@@ -92,4 +118,10 @@ Indicates whether blank rows in the worksheet should be treated as table separat
 ### **Adds property WorkbookSettings.MaxUniqueItemsPerField.**
 
 Represents the limitation of unique items per pivot field.
+
+Adds property Config.CustomPdfSaveOptions in GridJs.
+Represents the the custom PdfSaveOptions for PDF export. If set, this will be used instead of the default PdfSaveOptions.
+
+Adds property GridJsOptions.CustomPdfSaveOptions in GridJs.
+Represents the the custom PdfSaveOptions for PDF export. If set, this will be used instead of the default PdfSaveOptions.
 
