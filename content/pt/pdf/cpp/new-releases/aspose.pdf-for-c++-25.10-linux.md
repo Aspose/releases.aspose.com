@@ -6,11 +6,11 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-25.10-linux/"
 folder_name: "Aspose.PDF para C++ 25.10 Linux"
-download_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-25.10-linux/ca9a60b7c49727bc5d6f7a2841a65d65-26-14042"
+download_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-25.10-linux/39a79df33cf64e92642b67bbc767cc12-26-14042"
 download_text: "Download"
 intro_text: "Versão Linux"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 20/10/2025 Downloads: 1  Views: 1 "
+download_count: " 20/10/2025 Downloads: 9  Views: 1 "
 file_size: "File Size: 125.98MB"
 parent_path: "pdf/cpp"
 section_parent_path: "pdf/cpp"
@@ -24,19 +24,19 @@ weight: 269
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.PDF para C++ 25.10 Linux" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/pdf/cpp/new-releases/aspose.pdf-for-c++-25.10-linux/ca9a60b7c49727bc5d6f7a2841a65d65-26-14042" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/pdf/cpp/new-releases/aspose.pdf-for-c++-25.10-linux/39a79df33cf64e92642b67bbc767cc12-26-14042" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detalhes do arquivo">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-ca9a60b7c49727bc5d6f7a2841a65d65-26-14042" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-39a79df33cf64e92642b67bbc767cc12-26-14042" >}} 9 {{< /Common/li >}}
       {{< Common/li >}} Tamanho do arquivo: {{< /Common/li >}}
-      {{< Common/li id="size-update-ca9a60b7c49727bc5d6f7a2841a65d65-26-14042" >}} 125.98MB {{< /Common/li >}}
+      {{< Common/li id="size-update-39a79df33cf64e92642b67bbc767cc12-26-14042" >}} 125.98MB {{< /Common/li >}}
 
       {{< Common/li >}} data adicionada: {{< /Common/li >}}
-      {{< Common/li id="added-update-ca9a60b7c49727bc5d6f7a2841a65d65-26-14042" >}}20/10/2025 {{< /Common/li >}}
+      {{< Common/li id="added-update-39a79df33cf64e92642b67bbc767cc12-26-14042" >}}20/10/2025 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
