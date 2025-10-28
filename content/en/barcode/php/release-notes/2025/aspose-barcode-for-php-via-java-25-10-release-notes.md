@@ -29,7 +29,7 @@ This page contains release notes information for [Aspose.BarCode for PHP via Jav
 [Aztec Code](https://en.wikipedia.org/wiki/Aztec_Code) barcode recognition performance has been enhanced, with better results in document processing scenarios.
 
 ```php
-public function testReadAztecExample(): void
+public function ReadAztecExample(): void
 {
     $reader = new BarCodeReader(ReleaseNotes::folder . "Aztec.png", null, DecodeType::AZTEC);
     foreach ($reader->readBarCodes() as $result) {
