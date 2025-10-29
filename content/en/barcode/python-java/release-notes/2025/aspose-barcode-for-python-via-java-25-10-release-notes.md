@@ -30,49 +30,30 @@ This page contains release notes information for [Aspose.BarCode for Python via 
 ### Aztec Code recognition performance
 [Aztec Code](https://en.wikipedia.org/wiki/Aztec_Code) barcode recognition performance has been enhanced, with better results in document processing scenarios.
 
-```java
-import com.aspose.barcode.barcoderecognition.BarCodeReader;
-import com.aspose.barcode.barcoderecognition.BarCodeResult;
-import com.aspose.barcode.barcoderecognition.DecodeType;
-
-public class ReadAztecExample {
-    public static void main(String[] args) throws Exception {
-        // Create a BarCodeReader instance for the Aztec image
-        try (BarCodeReader reader = new BarCodeReader("Aztec.png", DecodeType.AZTEC)) {
-            // Iterate through all recognized barcodes
-            for (BarCodeResult result : reader.readBarCodes()) {
-                System.out.println(result.getCodeText());
-            }
-        }
-    }
-}
+```python
+reader = BarCodeReader(self.folder + "Aztec.png", None, DecodeType.AZTEC)
+results = reader.readBarCodes()
+for result in results:
+    print("Code Text: " + result.getCodeText(None))
+    print("Code Type: " + result.getCodeTypeName())
 
 ```
 
 ### GS1 Composite Barcode recognition process
 [GS1 Composite Barcode](https://docs.aspose.com/barcode/net/gs1-composite-barcodes/) recognition process has been updated to eliminate delays when using ***DecodeType.Types2D***.
 
-```java
-// Create a barcode generator for GS1 Composite Bar
-import com.aspose.barcode.barcoderecognition.*;
-import com.aspose.barcode.generation.*;
-
-public class GS1CompositeBarExample {
-    public static void main(String[] args) throws Exception {
-        BarcodeGenerator gen = new BarcodeGenerator(EncodeTypes.GS_1_COMPOSITE_BAR, "(01)13112345678906|(17)010615(10)A123456");
-
-        gen.getParameters().getBarcode().getGS1CompositeBar().setLinearComponentType(EncodeTypes.GS_1_CODE_128);
-        gen.getParameters().getBarcode().getGS1CompositeBar().setTwoDComponentType(TwoDComponentType.CC_C);
-        gen.getParameters().getBarcode().getGS1CompositeBar().setAllowOnlyGS1Encoding(true);
-        gen.getParameters().getBarcode().getCodeTextParameters().setLocation(CodeLocation.NONE);
-
-        BarCodeReader reader = new BarCodeReader(
-                gen.generateBarCodeImage(),
-                DecodeType.GS_1_COMPOSITE_BAR);
-
-        for (BarCodeResult result : reader.readBarCodes())
-            System.out.println(result.getCodeText());
-    }
-}
-
+```python
+code_text = '(01)13112345678906|(17)010615(10)A123456'
+generator = BarcodeGenerator(EncodeTypes.GS_1_COMPOSITE_BAR, code_text)
+generator.getParameters().getBarcode().getGS1CompositeBar().setLinearComponentType(EncodeTypes.GS_1_CODE_128)
+generator.getParameters().getBarcode().getGS1CompositeBar().setTwoDComponentType(TwoDComponentType.CC_C)
+generator.getParameters().getBarcode().getGS1CompositeBar().setAllowOnlyGS1Encoding(True)
+generator.getParameters().getBarcode().getCodeTextParameters().setLocation(CodeLocation.NONE)
+out_path = ReleaseNotes.folder + "Gs1CompositeBarExample.png"
+generator.save(out_path, BarCodeImageFormat.PNG)
+reader = BarCodeReader(out_path, None, DecodeType.GS_1_COMPOSITE_BAR)
+results = reader.readBarCodes()
+for result in results:
+    print("Code Text: " + result.getCodeText(None))
+    print("Code Type: " + result.getCodeTypeName())
 ```
