@@ -22,7 +22,6 @@ This page contains release notes information for [Aspose.BarCode for Python via 
 
 | **Key**          | **Summary**                                                 | **Category** |
 |:-----------------|:------------------------------------------------------------|:-------------|
-|:-----------------|:----------------------------------------------------------|:---------------|
 | BARCODENET-39007   | Optimize Han Xin recognition speed        | Enhancement  |
 | BARCODENET-39348   | Improve Pdf417 recognition performance    | Enhancement  |
 
