@@ -8,7 +8,7 @@ folder_link: "/words/jasperreports/new-releases/aspose.words-for-jasperreports-2
 folder_name: "JasperReports 23.10.4 için Aspose.Words"
 download_link: "/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.10.4/b200e82c283e38e9d427d26041986424-14-14049"
 download_text: "İndirmek"
-intro_text: "AlloHtmlList özelliklerinin iyileştirilmesiyle JasperReports 23.10.4 sürümü için Aspose.Words'ü içerir"
+intro_text: "JasperReports 23.10.4 sürümü için allowHtmlLists özelliklerinin iyileştirilmesiyle Aspose.Words'ü içerir"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 29/10/2025 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 68.71MB"
@@ -43,7 +43,7 @@ weight: 165
       <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-10-4-release-notes/'>https://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-10-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Tanım</h4><div class="HTMLDescription">AlloHtmlList özelliklerinin iyileştirilmesiyle JasperReports 23.10.4 sürümü için Aspose.Words'ü içerir</div>
+      <h4>Tanım</h4><div class="HTMLDescription">JasperReports 23.10.4 sürümü için allowHtmlLists özelliklerinin iyileştirilmesiyle Aspose.Words'ü içerir</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

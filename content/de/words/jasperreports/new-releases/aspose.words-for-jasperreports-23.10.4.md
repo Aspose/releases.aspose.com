@@ -8,7 +8,7 @@ folder_link: "/words/jasperreports/new-releases/aspose.words-for-jasperreports-2
 folder_name: "Aspose.Words für JasperReports 23.10.4"
 download_link: "/words/jasperreports/new-releases/aspose.words-for-jasperreports-23.10.4/b200e82c283e38e9d427d26041986424-14-14049"
 download_text: "Download"
-intro_text: "Es enthält die Version 23.10.4 von Aspose.Words für JasperReports mit Verbesserungen der alloHtmlList-Funktionen."
+intro_text: "Es enthält die Version 23.10.4 von Aspose.Words für JasperReports mit Verbesserungen der allowHtmlLists-Funktionen."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 29/10/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 68.71MB"
@@ -43,7 +43,7 @@ weight: 165
       <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-10-4-release-notes/'>https://releases.aspose.com/words/jasperreports/release-notes/2023/aspose-words-for-jasperreports-23-10-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Beschreibung</h4><div class="HTMLDescription">Es enthält die Version 23.10.4 von Aspose.Words für JasperReports mit Verbesserungen der alloHtmlList-Funktionen.</div>
+      <h4>Beschreibung</h4><div class="HTMLDescription">Es enthält die Version 23.10.4 von Aspose.Words für JasperReports mit Verbesserungen der allowHtmlLists-Funktionen.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
