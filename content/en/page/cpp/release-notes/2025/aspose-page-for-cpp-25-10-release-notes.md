@@ -30,23 +30,23 @@ Either this:
 {{< highlight csharp >}}
 
 // Load XPS document form the XPS file
-System::SharedPtr&lt;XpsDocument&gt; document = System::MakeObject&lt;XpsDocument&gt;(dataDir + u"input.xps", System::MakeObject&lt;XpsLoadOptions&gt;());
+System::SharedPtr<XpsDocument> document = System::MakeObject<XpsDocument>(dataDir + u"input.xps", System::MakeObject<XpsLoadOptions>());
 
 //Save XPS document as image files in the folder where input XPS file is located with the name of this XPS file with index of page suffix.
-document->SaveAsImage(System::MakeObject&lt;JpegSaveOptions&gt;());
+document->SaveAsImage(System::MakeObject<JpegSaveOptions>;());
 {{< /highlight >}}
 
 or that:
 {{< highlight csharp >}}
 
 // Load XPS document form the XPS file
-System::SharedPtr&lt;XpsDocument&gt; document = System::MakeObject&lt;XpsDocument&gt;(dataDir + u"input.xps", System::MakeObject&lt;XpsLoadOptions&gt;());
+System::SharedPtr<XpsDocument> document = System::MakeObject<XpsDocument>(dataDir + u"input.xps", System::MakeObject<XpsLoadOptions>());
 
 //Save XPS document as image files in the assigned folder and file name template.
 //Index of the page will be added as a suffix to file name template and the extension will be obtained from the save options. 
 System::String outputDir = dataDir + u"output";
 System::String fileNameTemplate = u"outputPngImage.png";
-document->SaveAsImage(System::MakeObject&lt;PngSaveOptions&gt;(), outputDir, fileNameTemplate);
+document->SaveAsImage(System::MakeObject<PngSaveOptions>(), outputDir, fileNameTemplate);
 {{< /highlight >}}
 
 
