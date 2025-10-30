@@ -27,8 +27,6 @@ for [Aspose.BarCode for Java 25.10](https://releases.aspose.com/barcode/java/25-
 |BARCODENET-39385|Improve Aztec recognition performance on mobile devices|Enhancement|
 |BARCODENET-39397|Optimize 2D barcode recognition, change the recognition algorithm of GS1CompositeBar|Enhancement|
 
-## Public API changes and backwards compatibility
-
 ### Aztec Code recognition performance
 [Aztec Code](https://en.wikipedia.org/wiki/Aztec_Code) barcode recognition performance has been enhanced, with better results in document processing scenarios.
 
@@ -67,4 +65,4 @@ public void GS1CompositeBarExample()
 }
 
 ```
-
+## Public API changes and backwards compatibility
