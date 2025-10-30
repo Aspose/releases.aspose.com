@@ -56,11 +56,11 @@ This page contains release notes information for Aspose.PDF for Java 25.10.
 - com.aspose.pdf.MemoryExtender.setTryToCreateFolderIfAbsent(boolean)
 
 **Changed method parameter:**
-- com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setFontStyle(Integer) -> setFontStyle(Nullable<Integer>)
-- com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setUnderline(Integer) -> setUnderline(Nullable<Integer>)
-- com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setStrikeOut(Integer) -> setStrikeOut(Nullable<Integer>)
-- com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setSuperscript(Integer) -> setSuperscript(Nullable<Integer>)
-- com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setSubscript(Integer) -> setSubscript(Nullable<Integer>)
+- com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setFontStyle(Integer) -> setFontStyle(Nullable < Integer>)
+- com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setUnderline(Integer) -> setUnderline(Nullable < Integer>)
+- com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setStrikeOut(Integer) -> setStrikeOut(Nullable < Integer>)
+- com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setSuperscript(Integer) -> setSuperscript(Nullable < Integer>)
+- com.aspose.pdf.tagged.logicalstructure.elements.StructureTextState.setSubscript(Integer) -> setSubscript(Nullable < Integer>)
 
 **Jdk 1.7 is not supported any more**
 
