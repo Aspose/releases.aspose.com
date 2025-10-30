@@ -33,7 +33,7 @@ Either this:
 System::SharedPtr<XpsDocument> document = System::MakeObject<XpsDocument>(dataDir + u"input.xps", System::MakeObject<XpsLoadOptions>());
 
 //Save XPS document as image files in the folder where input XPS file is located with the name of this XPS file with index of page suffix.
-document->SaveAsImage(System::MakeObject<JpegSaveOptions>;());
+document->SaveAsImage(System::MakeObject<JpegSaveOptions>());
 {{< /highlight >}}
 
 or that:
