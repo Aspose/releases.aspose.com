@@ -1,6 +1,6 @@
 ---
-id: "aspose-html-for-java--release-notes"
-slug: "aspose-html-for-java--release-notes"
+id: "aspose-html-for-java-25-10-release-notes"
+slug: "aspose-html-for-java-25-10-release-notes"
 linktitle: "Aspose.HTML for Java 25.10 Release Notes"
 title: "Aspose.HTML for Java 25.10 Release Notes"
 weight: 30
