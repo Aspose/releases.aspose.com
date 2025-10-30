@@ -25,7 +25,7 @@ This page contains release notes information for [Aspose.BarCode for Python via 
 | BARCODENET-39385  | Improve Aztec recognition performance on mobile devices                                                  |Enhancement|
 | BARCODENET-39397  | Optimize 2D barcode recognition, change the recognition algorithm of GS1CompositeBar                     |Enhancement|
 
-## Public API changes and backwards compatibility
+
 
 ### Aztec Code recognition performance
 [Aztec Code](https://en.wikipedia.org/wiki/Aztec_Code) barcode recognition performance has been enhanced, with better results in document processing scenarios.
@@ -57,3 +57,6 @@ for result in results:
     print("Code Text: " + result.getCodeText(None))
     print("Code Type: " + result.getCodeTypeName())
 ```
+## Public API changes and backwards compatibility
+
+No changes in this release.
