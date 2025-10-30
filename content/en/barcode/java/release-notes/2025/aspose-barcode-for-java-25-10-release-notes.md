@@ -33,19 +33,13 @@ for [Aspose.BarCode for Java 25.10](https://releases.aspose.com/barcode/java/25-
 [Aztec Code](https://en.wikipedia.org/wiki/Aztec_Code) barcode recognition performance has been enhanced, with better results in document processing scenarios.
 
 ```java
-import com.aspose.barcode.barcoderecognition.BarCodeReader;
-import com.aspose.barcode.barcoderecognition.BarCodeResult;
-import com.aspose.barcode.barcoderecognition.DecodeType;
-
-public class ReadAztecExample {
-    public static void main(String[] args) throws Exception {
-        // Create a BarCodeReader instance for the Aztec image
-        try (BarCodeReader reader = new BarCodeReader("Aztec.png", DecodeType.AZTEC)) {
-            // Iterate through all recognized barcodes
-            for (BarCodeResult result : reader.readBarCodes()) {
-                System.out.println(result.getCodeText());
-            }
-        }
+public void readAztecExample()
+{
+    BarCodeReader reader = new BarCodeReader(folderPath + "Aztec.png", DecodeType.AZTEC);
+    for (BarCodeResult result : reader.readBarCodes())
+    {
+        System.out.println(result.getCodeText());
+        System.out.println(result.getCodeTypeName());
     }
 }
 
@@ -55,25 +49,20 @@ public class ReadAztecExample {
 [GS1 Composite Barcode](https://docs.aspose.com/barcode/net/gs1-composite-barcodes/) recognition process has been updated to eliminate delays when using ***DecodeType.Types2D***.
 
 ```java
-// Create a barcode generator for GS1 Composite Bar
-import com.aspose.barcode.barcoderecognition.*;
-import com.aspose.barcode.generation.*;
+public void GS1CompositeBarExample()
+{
+    BarcodeGenerator gen = new BarcodeGenerator(EncodeTypes.GS_1_COMPOSITE_BAR, "(01)13112345678906|(17)010615(10)A123456");
 
-public class GS1CompositeBarExample {
-    public static void main(String[] args) throws Exception {
-        BarcodeGenerator gen = new BarcodeGenerator(EncodeTypes.GS_1_COMPOSITE_BAR, "(01)13112345678906|(17)010615(10)A123456");
+    gen.getParameters().getBarcode().getGS1CompositeBar().setLinearComponentType(EncodeTypes.GS_1_CODE_128);
+    gen.getParameters().getBarcode().getGS1CompositeBar().setTwoDComponentType(TwoDComponentType.CC_C);
+    gen.getParameters().getBarcode().getGS1CompositeBar().setAllowOnlyGS1Encoding(true);
+    gen.getParameters().getBarcode().getCodeTextParameters().setLocation(CodeLocation.NONE);
 
-        gen.getParameters().getBarcode().getGS1CompositeBar().setLinearComponentType(EncodeTypes.GS_1_CODE_128);
-        gen.getParameters().getBarcode().getGS1CompositeBar().setTwoDComponentType(TwoDComponentType.CC_C);
-        gen.getParameters().getBarcode().getGS1CompositeBar().setAllowOnlyGS1Encoding(true);
-        gen.getParameters().getBarcode().getCodeTextParameters().setLocation(CodeLocation.NONE);
-
-        BarCodeReader reader = new BarCodeReader(
-                gen.generateBarCodeImage(),
-                DecodeType.GS_1_COMPOSITE_BAR);
-
-        for (BarCodeResult result : reader.readBarCodes())
-            System.out.println(result.getCodeText());
+    BarCodeReader reader = new BarCodeReader(gen.generateBarCodeImage(), DecodeType.GS_1_COMPOSITE_BAR);
+    for (BarCodeResult result : reader.readBarCodes())
+    {
+        System.out.println(result.getCodeText());
+        System.out.println(result.getCodeTypeName());
     }
 }
 
