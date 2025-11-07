@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-zip",
+  "id" : "25-10",
+  "packageFiles" : [ {
+    "size" : "1 MB",
+    "name" : "aspose-zip-25.10-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "8 MB",
+    "name" : "aspose-zip-25.10.jar"
+  }, {
+    "size" : "394 bytes",
+    "name" : "aspose-zip-25.10.pom"
+  } ],
+  "releasehDate" : "2025-11-07T21:50:33+00:00",
+  "version" : "25.10",
+  "ReleaseNotes" : "https://releases.aspose.com/zip/java/release-notes/2025/aspose-zip-for-java-25-10-release-notes/"
+}
