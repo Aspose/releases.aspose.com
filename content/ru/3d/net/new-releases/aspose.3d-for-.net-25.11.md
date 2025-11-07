@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-25.11/"
 folder_name: "Aspose.3D для .NET 25.11"
-download_link: "/3d/net/new-releases/aspose.3d-for-.net-25.11/4e0c9f4e16c053f0dd20a63564287050-2-14073"
+download_link: "/3d/net/new-releases/aspose.3d-for-.net-25.11/4e0c9f4e16c053f0dd20a63564287050-2-14075"
 download_text: "Скачать"
 intro_text: "Содержит Aspose.3D для версии .NET 25.11."
 image_link: "/resources/img/msi-icon.png"
@@ -17,26 +17,26 @@ section_parent_path: "3d/net"
 
 tags: "3d"
 release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2025/aspose-3d-for-net-25-11-release-notes/"
-weight: 405
+weight: 407
 
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.3D для .NET 25.11" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Скачать" link="/3d/net/new-releases/aspose.3d-for-.net-25.11/4e0c9f4e16c053f0dd20a63564287050-2-14073" >}}
+    {{< Releases/ReleasesSingleButtons text="Скачать" link="/3d/net/new-releases/aspose.3d-for-.net-25.11/4e0c9f4e16c053f0dd20a63564287050-2-14075" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/3d" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Детали файла">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Скачатьs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-4e0c9f4e16c053f0dd20a63564287050-2-14073" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-4e0c9f4e16c053f0dd20a63564287050-2-14075" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Размер файла: {{< /Common/li >}}
-      {{< Common/li id="size-update-4e0c9f4e16c053f0dd20a63564287050-2-14073" >}} 10.54MB {{< /Common/li >}}
+      {{< Common/li id="size-update-4e0c9f4e16c053f0dd20a63564287050-2-14075" >}} 10.54MB {{< /Common/li >}}
 
       {{< Common/li >}} Дата добавления: {{< /Common/li >}}
-      {{< Common/li id="added-update-4e0c9f4e16c053f0dd20a63564287050-2-14073" >}}7/11/2025 {{< /Common/li >}}
+      {{< Common/li id="added-update-4e0c9f4e16c053f0dd20a63564287050-2-14075" >}}7/11/2025 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
