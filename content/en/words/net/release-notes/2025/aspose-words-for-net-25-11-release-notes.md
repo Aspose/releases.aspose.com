@@ -32,9 +32,9 @@ There are 72 improvements and fixes in this regular monthly release. The most no
 
 - **AI Model Integration:** Enhanced the API to allow configuration of [AI model](https://reference.aspose.com/words/net/aspose.words.ai/aimodel/) service endpoints, including setting [custom URLs](https://reference.aspose.com/words/net/aspose.words.ai/aimodel/url/) and [request timeouts](https://reference.aspose.com/words/net/aspose.words.ai/aimodel/timeout/) for greater flexibility in integration.
 - **Markdown Export:** Improved document conversion fidelity by enabling the [export of OfficeMath](https://reference.aspose.com/words/net/aspose.words.saving/markdownofficemathexportmode/) objects into LaTeX format, ensuring compatibility with MarkItDown renderers.
-- **Advanced Print Control:** Introduced a new callback interface (IWarningCallback style) to enable programmatic control over page skipping during print operations.
-- **Advanced Print Control:** Exposed a new public property to accurately retrieve the actual number of pages rendered by a print job.
-- **Advanced Print Control:** Provided the ability to specify distinct target printers for color and monochrome (black & white) page output within a single print job.
+- **Advanced Print Control:** Introduced a new callback interface (IWarningCallback style) to enable programmatic control over page skipping during [print operations](https://reference.aspose.com/words/net/aspose.words.rendering/asposewordsprintdocument/).
+- **Advanced Print Control:** Exposed a new public property to accurately retrieve the actual [number of pages](https://reference.aspose.com/words/net/aspose.words.rendering/asposewordsprintdocument/totalpagesprinted/) rendered by a print job.
+- **Advanced Print Control:** Provided the ability to specify distinct target printers for [color and monochrome](https://reference.aspose.com/words/net/aspose.words.rendering/asposewordsprintdocument/colormode/) (black & white) page output within a single print job.
 
 ## Full List of Issues Covering all Changes in this Release
 
