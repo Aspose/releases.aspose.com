@@ -1,18 +1,18 @@
 ---
-id: "aspose-email-for-net-25-10-release-notes"
-slug: "aspose-email-for-net-25-10-release-notes"
-linktitle: "Aspose.Email for .NET 25.10 Release Notes"
-title: "Aspose.Email for .NET 25.10 Release Notes"
+id: "aspose-email-for-net-25-11-release-notes"
+slug: "aspose-email-for-net-25-11-release-notes"
+linktitle: "Aspose.Email for .NET 25.11 Release Notes"
+title: "Aspose.Email for .NET 25.11 Release Notes"
 weight: 15
-description: "Aspose.Email for .NET 25.10 Release Notes – the latest updates and fixes."
+description: "Aspose.Email for .NET 25.11 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
-family_listing_page_title: "Aspose.Email for .NET 25.10 Release Notes"
+family_listing_page_title: "Aspose.Email for .NET 25.11 Release Notes"
 ---
 
 {{% alert color="primary" %}}
 
-This page contains release notes information for Aspose.Email for .NET 25.10
+This page contains release notes information for Aspose.Email for .NET 25.11
 
 {{% /alert %}}
 
