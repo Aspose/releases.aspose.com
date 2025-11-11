@@ -43,7 +43,7 @@ This page contains release notes for [Aspose.Slides for .NET 25.11](https://www.
 
 ## Updates to Supported Target Platforms
 
-Starting with version *25.11*, Aspose.Slides for .NET no longer includes assemblies targeting the outdated .NET Framework versions 2.0, 3.5, and 4.0.
+Starting with version **25.11**, Aspose.Slides for .NET no longer includes assemblies targeting the outdated .NET Framework versions 2.0, 3.5, and 4.0.
 These have been replaced with assemblies built for more modern and secure .NET versions, ensuring improved performance, compatibility, and security.
 
 We recommend updating your projects to use the supported .NET target frameworks.
