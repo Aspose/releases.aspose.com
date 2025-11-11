@@ -189,7 +189,7 @@ using (Presentation presentation = new Presentation("demo.pptx"))
 
 The obsolete `INotesCommentsLayoutingOptions` interface has been removed. Please use the `ISlidesLayoutOptions` interface instead.
 
-### Removed Obsolete Property: INotesCommentsLayoutingOptions 
+### Removed Obsolete Property: NotesCommentsLayouting 
 
 The obsolete `NotesCommentsLayouting` property has been removed from `ISwfOptions` interface and `SwfOptions` class. Please use the `SlidesLayoutOptions` property instead.
 
