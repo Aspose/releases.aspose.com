@@ -147,7 +147,7 @@ var phant = new MathPhantom(new MathFraction(new MathematicalText("1"), new Math
 //...
 ```
 
-### Added New Property: Duration
+### Added New Property: ISlideShowTransition.Duration
 
 The new property, `Duration`, has been added to the `ISlideShowTransition` interface and implemented in the `SlideShowTransition` class. This property gets or sets the duration of the slide transition effect in milliseconds. 
 It corresponds to the `p14:dur` attribute of the `p:transition` element in the PresentationML schema. If not set, the duration is determined automatically based on the `Speed` property and the transition type.
@@ -159,14 +159,12 @@ presentation.Slides[0].SlideShowTransition.Duration = 500; // Sets the transitio
 //...
 ```
 
-### Added New Property: IncludeNotes
+### Added New Property: ITextSearchOptions.IncludeNotes
 
 The new property, `IncludeNotes`, has been added to the `ITextSearchOptions` interface and implemented in the `TextSearchOptions` class. This property allows including text contained in slide notes when performing text replacement or highlighting operations using the `Presentation.ReplaceText` or `Presentation.HighlightText` methods.
 
 **Behavior:**
-
 - `true` - text inside slide notes is included in the replacement or highlighting process.
-
 - `false` _(default)_ - text inside slide notes is ignored.
 
 The following code sample demonstrates how to use this option:
@@ -189,10 +187,10 @@ using (Presentation presentation = new Presentation("demo.pptx"))
 
 The obsolete `INotesCommentsLayoutingOptions` interface has been removed. Please use the `ISlidesLayoutOptions` interface instead.
 
-### Removed Obsolete Property: NotesCommentsLayouting 
+### Removed Obsolete Property: ISwfOptions.NotesCommentsLayouting
 
 The obsolete `NotesCommentsLayouting` property has been removed from `ISwfOptions` interface and `SwfOptions` class. Please use the `SlidesLayoutOptions` property instead.
 
-### Removed Obsolete Property: NotesCommentsLayouting
+### Removed Obsolete Property: IHtml5Options.NotesCommentsLayouting
 
 The obsolete `NotesCommentsLayouting` property has been removed from `IHtml5Options` interface and `Html5Options` class. Please use the `SlidesLayoutOptions` property instead.
