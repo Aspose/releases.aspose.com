@@ -82,8 +82,6 @@ PivotFieldGroupSettings GetGroupSettings()
 
 {{% /alert %}}
 
-Removes obsoleted methods:
-
 Use PivotField::IsValuesField() instead.
 
 {{% alert color="primary" %}}
@@ -118,9 +116,9 @@ Gets the binary value of worksheet custom property.
 
 {{% alert color="primary" %}}
 
-Vector<uint8_t> GetBinaryValue()
+Vector&lt;uint8_t&gt; GetBinaryValue()
 
-void SetBinaryValue(const Vector<uint8_t>& value)
+void SetBinaryValue(const Vector&lt;uint8_t&gt;& value)
 
 {{% /alert %}}
 
@@ -185,9 +183,9 @@ Gets or sets the styles for the columns of the table.
 
 {{% alert color="primary" %}}
 
-Vector<Style> GetStyles()
+Vector&lt;Style&gt; GetStyles()
 
-void SetStyles(const Vector<Style>& value)
+void SetStyles(const Vector&lt;Style&gt;& value)
 
 {{% /alert %}}
 
@@ -266,6 +264,5 @@ HtmlLayoutMode GetLayoutMode()
 void SetLayoutMode(HtmlLayoutMode value)
 
 {{% /alert %}}
-
 
 
