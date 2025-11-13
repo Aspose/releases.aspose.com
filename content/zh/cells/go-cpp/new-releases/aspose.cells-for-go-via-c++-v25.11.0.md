@@ -6,11 +6,11 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/cells/go-cpp/new-releases/aspose.cells-for-go-via-c++-v25.11.0/"
 folder_name: "Aspose.Cells for Go via C++ v25.11.0"
-download_link: "/cells/go-cpp/new-releases/aspose.cells-for-go-via-c++-v25.11.0/68dabc208ae00da50d78020e38f73f59-14-14113"
+download_link: "/cells/go-cpp/new-releases/aspose.cells-for-go-via-c++-v25.11.0/797907377898934df3a7a82c87888eb0-14-14113"
 download_text: "下载"
 intro_text: "Aspose.Cells for Go via C++ v25.11.0"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 12/11/2025 下载s: 1  Views: 1 "
+download_count: " 12/11/2025 下载s: 3  Views: 1 "
 file_size: "File Size: 66.68MB"
 parent_path: "cells/go-cpp"
 section_parent_path: "cells/go-cpp"
@@ -24,19 +24,19 @@ weight: 12
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Cells for Go via C++ v25.11.0" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="下载" link="/cells/go-cpp/new-releases/aspose.cells-for-go-via-c++-v25.11.0/68dabc208ae00da50d78020e38f73f59-14-14113" >}}
+    {{< Releases/ReleasesSingleButtons text="下载" link="/cells/go-cpp/new-releases/aspose.cells-for-go-via-c++-v25.11.0/797907377898934df3a7a82c87888eb0-14-14113" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/cells" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} 下载s: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-68dabc208ae00da50d78020e38f73f59-14-14113" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-797907377898934df3a7a82c87888eb0-14-14113" >}} 3 {{< /Common/li >}}
       {{< Common/li >}} 文件大小: {{< /Common/li >}}
-      {{< Common/li id="size-update-68dabc208ae00da50d78020e38f73f59-14-14113" >}} 66.68MB {{< /Common/li >}}
+      {{< Common/li id="size-update-797907377898934df3a7a82c87888eb0-14-14113" >}} 66.68MB {{< /Common/li >}}
 
       {{< Common/li >}} 添加日期: {{< /Common/li >}}
-      {{< Common/li id="added-update-68dabc208ae00da50d78020e38f73f59-14-14113" >}}12/11/2025 {{< /Common/li >}}
+      {{< Common/li id="added-update-797907377898934df3a7a82c87888eb0-14-14113" >}}12/11/2025 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
