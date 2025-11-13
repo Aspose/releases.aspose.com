@@ -296,4 +296,4 @@ public enum MarkdownEmptyParagraphExportMode
 {{< /highlight >}}
 
 This use case explains how to remove empty paragraphs from the Markdown output:
-{{< gist "aspose-words-gists" "ad73e0dd58a8c2ae742bb64f8561df35" "empty-paragraph-export-mode.cs" >}}
+{{< gist "aspose-words-gists" "b62c3f2b553726aa85992f50f6d39aaa" "empty-paragraph-export-mode.java" >}}

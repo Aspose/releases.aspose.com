@@ -148,7 +148,7 @@ public enum DocumentRecoveryMode
 {{< /highlight >}}
 
 This use case explains how to define the recovery mode behavior when loading a document:
-{{< gist "aspose-words-gists" "045648ef22da6b384ebcf0344717bfb5" "recovery-mode.cs" >}}
+{{< gist "aspose-words-gists" "dc4330996b4f0cff009f0e6aed2c8643" "recovery-mode.java" >}}
 
 ### Enhanced control over shadow effects with the addition of new public properties.
 
@@ -170,7 +170,7 @@ public double Transparency { get; set; }
 {{< /highlight >}}
 
 This use case explains how to work with Colors and Transparency:
-{{< gist "aspose-words-gists" "045648ef22da6b384ebcf0344717bfb5" "shadow-format-transparency.cs" >}}
+{{< gist "aspose-words-gists" "dc4330996b4f0cff009f0e6aed2c8643" "shadow-format-transparency.java" >}}
 
 ### Added support for exporting mathematical equations (Office Math) to LaTeX expressions.
 
@@ -185,7 +185,7 @@ Latex
 {{< /highlight >}}
 
 This use case explains how to export oMath as LaTex based expressions into Markdown:
-{{< gist "aspose-words-gists" "045648ef22da6b384ebcf0344717bfb5" "export-office-math-as-latex.cs" >}}
+{{< gist "aspose-words-gists" "dc4330996b4f0cff009f0e6aed2c8643" "export-office-math-as-latex.java" >}}
 
 ### Improved diagnostics by introducing typed warnings for font substitution, allowing for more robust error handling.
 
@@ -260,4 +260,4 @@ public enum FontSubstitutionReason
 {{< /highlight >}}
 
 This use case explains how to use FontSubstitutionWarningInfo:
-{{< gist "aspose-words-gists" "045648ef22da6b384ebcf0344717bfb5" "substitution-warnings.cs" >}}
+{{< gist "aspose-words-gists" "dc4330996b4f0cff009f0e6aed2c8643" "substitution-warnings.java" >}}

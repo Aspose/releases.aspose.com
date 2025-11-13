@@ -157,7 +157,7 @@ public enum TxtOfficeMathExportMode
 {{< /highlight >}}
 
 This use case explains how to export OfficeMath equations as Latex while saving document to Text:
-{{< gist "aspose-words-gists" "67ab3fcab43d41e5dc207060f8f5faba" "export-office-math-as-latex-to-text.cs" >}}
+{{< gist "aspose-words-gists" "30bd3f6ca3ff3877bf46aa89a2140b49" "export-office-math-as-latex-to-text.java" >}}
 
 ### Added new public option PdfSaveOptions.ExportFloatingShapesAsInlineTag.
 
@@ -179,7 +179,7 @@ public bool ExportFloatingShapesAsInlineTag { get; set; }
 {{< /highlight >}}
 
 This use case explains how to select between inline and block-level tag export for floating shapes:
-{{< gist "aspose-words-gists" "67ab3fcab43d41e5dc207060f8f5faba" "export-floating-shapes-as-inline-tag.cs" >}}
+{{< gist "aspose-words-gists" "30bd3f6ca3ff3877bf46aa89a2140b49" "export-floating-shapes-as-inline-tag.java" >}}
 
 ### Added support for IResourceSavingCallback to MarkdownSaveOptions class.
 
@@ -201,4 +201,4 @@ public IResourceSavingCallback ResourceSavingCallback { get; set; }
 {{< /highlight >}}
 
 This use case explains how change file URI while saving document to Markdown:
-{{< gist "aspose-words-gists" "67ab3fcab43d41e5dc207060f8f5faba" "markdown-resource-saving-callback.cs" >}}
+{{< gist "aspose-words-gists" "30bd3f6ca3ff3877bf46aa89a2140b49" "markdown-resource-saving-callback.java" >}}
