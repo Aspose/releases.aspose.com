@@ -19,6 +19,8 @@ This page contains release notes for [Aspose.Cells for .NET 25.11](https://www.n
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
+|CELLSGRIDJS-1960|Support scroll event call back|New Feature
+|CELLSGRIDJS-1930|Support fill color settings for charts|New Feature
 |CELLSNET-59210|Add check to prevent deletion of partial table including the header|Enhancement
 |CELLSNET-59222|Add check to prevent setting the name of one existing defined name to another Table|Enhancement
 |CELLSNET-59168|Support to copy pivot tables when copying a range|Enhancement
@@ -27,6 +29,11 @@ This page contains release notes for [Aspose.Cells for .NET 25.11](https://www.n
 |CELLSNET-59223|Support custom properties of worksheet in xlsb files|Enhancement
 |CELLSNET-59251|Support to remove AutoFilter of the Table completely|Enhancement
 |CELLSNET-59305|Support Style array as format setting when importing DataTable|Enhancement
+|CELLSGRIDJS-2016|Support filter for date value|Enhancement
+|CELLSGRIDJS-2054|Support jakarta servelet and spring boot v3.x for GridJs java|Enhancement
+|CELLSGRIDJS-2057|Merged cell does not allow copy pasting operation in GridJS|Enhancement
+|CELLSGRIDJS-1986|DatePicker default value always shows 7th of the month? instead of? the selected cell value|Enhancement
+|CELLSGRIDJS-1994|Add? insert textbox menu item in toolbar|Enhancement
 |CELLSNET-58673|Formula text overlapping display when converting file to xps|Bug
 |CELLSNET-59184|Calculating LET function results in "#NAME?" error|Bug
 |CELLSNET-59195|XLS file becomes unsavable after the first save|Bug
@@ -62,7 +69,13 @@ This page contains release notes for [Aspose.Cells for .NET 25.11](https://www.n
 |CELLSNET-59291|Aspose.Cells cannot load camera shape correctly|Bug
 |CELLSNET-59294|Invalid borders of default style after saving xlsb|Bug
 |CELLSNET-59295|Using Cells.ImportData to import and format empty DateTime columns|Bug
+|CELLSGRIDJS-1981|The state of CheckBox and RadioButton controls is not persisting|Bug
+|CELLSGRIDJS-2013|Cell values starting or ending with spaces cannot be filtered correctly in AutoFilter|Bug
+|CELLSGRIDJS-2021|Some checkbox and radio button are not displayed|Bug
+|CELLSGRIDJS-1942|Wrapped text is cut off when changing the display scale from 125% to 100%|Bug
+|CELLSGRIDJS-2056|Copy pasting multiple words from excel creates new line in GridJS|Bug
 |CELLSGRIDJS-2022|File can not open after apply filter|Bug
+|CELLSGRIDJS-1989|Chart bar colors are incorrect|Bug
 |CELLSNET-59252|NullReferenceException occurs when calling WorksheetCollection.GetRangeByName method|Exception
 
 ## **Public API and Backwards Incompatible Changes**
