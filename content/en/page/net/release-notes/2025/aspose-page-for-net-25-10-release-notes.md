@@ -43,8 +43,8 @@ document.SaveAsImage(new PngSaveOption(), outputDir, fileNameTemplate);
 
 ## **Public API and Backwards Incompatible Changes**
 ### **Added APIs**
-M:Aspose.Page.EPS.PsDocument.SaveAsImage(Aspose.Page.EPS.Device.ImageSaveOptions,System.String,System.String)
-M:Aspose.Page.EPS.PsDocument.SaveAsImageBytes(Aspose.Page.EPS.Device.ImageSaveOptions)
+M:Aspose.Page.XPS.XpsDocument.SaveAsImage(Aspose.Page.XPS.Presentation.Image.ImageSaveOptions,System.String,System.String)
+M:Aspose.Page.XPS.XpsDocument.SaveAsImageBytes(Aspose.Page.XPS.Presentation.Image.ImageSaveOptions)
 
 
 
