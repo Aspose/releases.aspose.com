@@ -32,12 +32,12 @@ This page contains release notes for [Aspose.Cells for .NET 25.11](https://www.n
 |CELLSGRIDJS-2016|Support filter for date value|Enhancement
 |CELLSGRIDJS-2054|Support jakarta servelet and spring boot v3.x for GridJs java|Enhancement
 |CELLSGRIDJS-2057|Merged cell does not allow copy pasting operation in GridJS|Enhancement
-|CELLSGRIDJS-1986|DatePicker default value always shows 7th of the month? instead of? the selected cell value|Enhancement
-|CELLSGRIDJS-1994|Add? insert textbox menu item in toolbar|Enhancement
+|CELLSGRIDJS-1986|DatePicker default value always shows 7th of the month instead of the selected cell value|Enhancement
+|CELLSGRIDJS-1994|Add insert textbox menu item in toolbar|Enhancement
 |CELLSNET-58673|Formula text overlapping display when converting file to xps|Bug
 |CELLSNET-59184|Calculating LET function results in "#NAME?" error|Bug
 |CELLSNET-59195|XLS file becomes unsavable after the first save|Bug
-|CELLSNET-59196|Lambda functions loaded from XLSB file were calculated as #NAME?|Bug
+|CELLSNET-59196|Lambda functions loaded from XLSB file were calculated as "#NAME?"|Bug
 |CELLSNET-59201|Calculating Rand function used in the nested LET function results in "#NUM!" error|Bug
 |CELLSNET-59212|Getting errors when trying to open the output Excel file in MS Excel|Bug
 |CELLSNET-59225|Array formulas are not returning correct values|Bug
