@@ -14,6 +14,7 @@ menuItemWithNoContent: false
 committed_by: "Alexander.Pavlysh@aspose.com"
 ---
 
+![SBOM Available](https://img.shields.io/badge/SBOM-Available-brightgreen?style=flat-square&logo=dependabot)
 ![Security Rating](https://img.shields.io/badge/Security%20Rating-A-brightgreen?style=flat-square&logo=verizon)
 ![CWE Top 25](https://img.shields.io/badge/CWE%20Top%2025-2024-blue?style=flat-square&logo=checkmarx)
 ![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-2021-blue?style=flat-square&logo=openaccess)
@@ -27,6 +28,14 @@ committed_by: "Alexander.Pavlysh@aspose.com"
 - {{< compliance-file relpath="/compliance-reports/third-party-licenses/net/third-party-licenses-aspose-html-net.pdf" text="Aspose.HTML for .NET Third-Party License" >}}
 
 
+
+### Software Bill of Materials (SBOM)
+
+- {{< compliance-file relpath="/compliance-reports/html/net/2025/25.10/aspose-html-net-25.10_all_sboms.zip?t=1763131905" text="Download All SBOMs (ZIP)" download="true" >}} - 101.3 KB - *Last updated: November 14, 2025, 2:51 PM UTC*
+
+| Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
+|----------|----------------|---------------|-----------|----------|
+| .NET Standard 2.0 | {{< compliance-file relpath="/compliance-reports/html/net/2025/25.10/aspose-html-net-25.10-netstandard2.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/html/net/2025/25.10/aspose-html-net-25.10-netstandard2.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/html/net/2025/25.10/aspose-html-net-25.10-netstandard2.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/html/net/2025/25.10/aspose-html-net-25.10-netstandard2.0_sbom-SPDX.xml" text="View XML" >}} |
 
 
 
