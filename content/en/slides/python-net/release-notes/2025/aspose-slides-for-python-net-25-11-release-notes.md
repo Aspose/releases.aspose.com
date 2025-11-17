@@ -3,7 +3,7 @@ id: "aspose-slides-for-python-net-25-11-release-notes"
 slug: "aspose-slides-for-python-net-25-11-release-notes"
 linktitle: "Aspose.Slides for Python via .NET 25.11 Release Notes"
 title: "Aspose.Slides for Python via .NET 25.11 Release Notes"
-weight: 55
+weight: 50
 description: "Aspose.Slides for Python via .NET 25.11 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
@@ -46,9 +46,9 @@ As previously noted in the [24.4 Release Notes](https://releases.aspose.com/slid
 
 Please note that types that are proxy of types from `System.Drawing.Primitives` remain in the public API.
 
-### Added New Method: IFontsManager.GetSubstitutions
+### Added New Method: IFontsManager.get_substitutions
 
-The new method, [`get_substitutions(slides)`](https://reference.aspose.com/slides/python-net/aspose.slides/ifontsmanager/get_substitutions/#listint), has been added to the [`IFontsManager`](https://reference.aspose.com/slides/python-net/aspose.slides/ifontsmanager/) interface and implemented in the [`FontsManager`]((https://reference.aspose.com/slides/python-net/aspose.slides/fontsmanager/) class. 
+The new method, [`get_substitutions(slides)`](https://reference.aspose.com/slides/python-net/aspose.slides/ifontsmanager/get_substitutions/#listint), has been added to the [`IFontsManager`](https://reference.aspose.com/slides/python-net/aspose.slides/ifontsmanager/) interface and implemented in the [`FontsManager`](https://reference.aspose.com/slides/python-net/aspose.slides/fontsmanager/) class. 
 This enhancement allows developers to obtain information about fonts that will be substituted during the rendering of the specified slides.
 
 The following code sample demonstrates how to use this method:
@@ -117,12 +117,12 @@ with slides.Presentation("demo.pptx") as presentation:
 
 ### Removed Obsolete Interface: INotesCommentsLayoutingOptions
 
-The obsolete `INotesCommentsLayoutingOptions` interface has been removed. Please use the [`ISlidesLayoutOptions`](https://reference.aspose.com/slides/python-net/aspose.slides.export/islideslayoutoptions/） interface instead.
+The obsolete `INotesCommentsLayoutingOptions` interface has been removed. Please use the [`ISlidesLayoutOptions`](https://reference.aspose.com/slides/python-net/aspose.slides.export/islideslayoutoptions/) interface instead.
 
 ### Removed Obsolete Property: ISwfOptions.notes_comments_layouting
 
-The obsolete `notes_comments_layouting` property has been removed from [`ISwfOptions`](https://reference.aspose.com/slides/python-net/aspose.slides.export/iswfoptions/) interface and [`SwfOptions`](https://reference.aspose.com/slides/python-net/aspose.slides.export/swfoptions/) class. Please use the [`slides_layout_options`](https://reference.aspose.com/slides/python-net/aspose.slides.export/iswfoptions/slides_layout_options/） property instead.
+The obsolete `notes_comments_layouting` property has been removed from [`ISwfOptions`](https://reference.aspose.com/slides/python-net/aspose.slides.export/iswfoptions/) interface and [`SwfOptions`](https://reference.aspose.com/slides/python-net/aspose.slides.export/swfoptions/) class. Please use the [`slides_layout_options`](https://reference.aspose.com/slides/python-net/aspose.slides.export/iswfoptions/slides_layout_options/) property instead.
 
 ### Removed Obsolete Property: IHtml5Options.NotesCommentsLayouting
 
-The obsolete `notes_comments_layouting` property has been removed from [`IHtml5Options`](https://reference.aspose.com/slides/python-net/aspose.slides.export/ihtml5options/) interface and [`Html5Options`](https://reference.aspose.com/slides/python-net/aspose.slides.export/html5options/ class. Please use the [`slides_layout_options`](https://reference.aspose.com/slides/python-net/aspose.slides.export/ihtml5options/slides_layout_options/) property instead.
+The obsolete `notes_comments_layouting` property has been removed from [`IHtml5Options`](https://reference.aspose.com/slides/python-net/aspose.slides.export/ihtml5options/) interface and [`Html5Options`](https://reference.aspose.com/slides/python-net/aspose.slides.export/html5options/) class. Please use the [`slides_layout_options`](https://reference.aspose.com/slides/python-net/aspose.slides.export/ihtml5options/slides_layout_options/) property instead.
