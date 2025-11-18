@@ -8,9 +8,9 @@ folder_link: "/html/python-net/new-releases/aspose.html-for-python-via-.net-25.9
 folder_name: ".NET 25.9.0 Linux x86-64 üzerinden Python için Aspose.HTML"
 download_link: "/html/python-net/new-releases/aspose.html-for-python-via-.net-25.9.0-linux-x86-64/7240ce18b9839ad69aa2e9886198b813-15-13898"
 download_text: "İndirmek"
-intro_text: "Bu paket, Linux için oluşturulmuş ve x86_64 mimarisini hedefleyen .NET sürüm 25.8.0 aracılığıyla Python için Aspose.HTML'i sunar."
+intro_text: "Bu paket, Linux için oluşturulmuş ve x86_64 mimarisini hedefleyen .NET sürüm 25.9.0 aracılığıyla Python için Aspose.HTML'i sunar."
 image_link: "/resources/img/random-file-icon.png"
-download_count: " 26/9/2025 İndirmeks: 1  Views: 1 "
+download_count: " 26/9/2025 İndirmeks: 2  Views: 1 "
 file_size: "File Size: 74.35MB"
 parent_path: "html/python-net"
 section_parent_path: "html/python-net"
@@ -31,7 +31,7 @@ weight: 43
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} İndirmeks: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-7240ce18b9839ad69aa2e9886198b813-15-13898" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-7240ce18b9839ad69aa2e9886198b813-15-13898" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} Dosya boyutu: {{< /Common/li >}}
       {{< Common/li id="size-update-7240ce18b9839ad69aa2e9886198b813-15-13898" >}} 74.35MB {{< /Common/li >}}
 
@@ -43,7 +43,7 @@ weight: 43
       <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/html/python-net/release-notes/2025/aspose-html-for-python-via-dotnet-25-9-release-notes/'>https://releases.aspose.com/html/python-net/release-notes/2025/aspose-html-for-python-via-dotnet-25-9-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Tanım</h4><div class="HTMLDescription">Bu paket, Linux için oluşturulmuş ve x86_64 mimarisini hedefleyen .NET sürüm 25.8.0 aracılığıyla Python için Aspose.HTML'i sunar.</div>
+      <h4>Tanım</h4><div class="HTMLDescription">Bu paket, Linux için oluşturulmuş ve x86_64 mimarisini hedefleyen .NET sürüm 25.9.0 aracılığıyla Python için Aspose.HTML'i sunar.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
