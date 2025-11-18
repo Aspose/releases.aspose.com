@@ -29,8 +29,8 @@ committed_by: "alexander.gavriluk@aspose.com"
 
 | Report | HTML | PDF |
 |--------|------|-----|
-| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/barcode/net/2025/25.10/aspose-barcode-net-25.10-cwe-top-25-2024.htm" text="View HTML" >}} | - |
-| OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/barcode/net/2025/25.10/aspose-barcode-net-25.10-owasp-top-10-2021.htm" text="View HTML" >}} | - |
+| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/barcode/net/2025/25.10/aspose-barcode-net-25.10-cwe-top-25-2024.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/barcode/net/2025/25.10/aspose-barcode-net-25.10-cwe-top-25-2024.pdf" text="View PDF" >}} |
+| OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/barcode/net/2025/25.10/aspose-barcode-net-25.10-owasp-top-10-2021.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/barcode/net/2025/25.10/aspose-barcode-net-25.10-owasp-top-10-2021.pdf" text="View PDF" >}} |
 
 
 
