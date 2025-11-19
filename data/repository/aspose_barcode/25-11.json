@@ -4,12 +4,19 @@
   "id" : "25-11",
   "packageFiles" : [ {
     "size" : "14 MB",
+    "name" : "aspose-barcode-25.11-java.zip"
+  }, {
+    "size" : "680 KB",
+    "name" : "aspose-barcode-25.11-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "14 MB",
     "name" : "aspose-barcode-25.11.jar"
   }, {
     "size" : "398 bytes",
     "name" : "aspose-barcode-25.11.pom"
   } ],
-  "releasehDate" : "2025-11-19T15:08:46+00:00",
+  "releasehDate" : "2025-11-19T15:09:42+00:00",
   "version" : "25.11",
   "ReleaseNotes" : "https://releases.aspose.com/barcode/java/release-notes/2025/aspose-barcode-for-java-25-11-release-notes/"
 }
