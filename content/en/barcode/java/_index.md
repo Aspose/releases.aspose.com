@@ -22,6 +22,7 @@ productLink: https://products.aspose.com/barcode/java/
 releaseNotesLink: https://releases.aspose.com/barcode/java/release-notes/
 dataFolder: aspose_barcode
 packages_refs:
+- "25-11"
 - "25-10"
 - "25-9"
 - "25-8"
