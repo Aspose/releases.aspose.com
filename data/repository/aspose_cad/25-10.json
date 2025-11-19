@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-cad",
+  "id" : "25-10",
+  "packageFiles" : [ {
+    "size" : "27 MB",
+    "name" : "aspose-cad-25.10-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "38 MB",
+    "name" : "aspose-cad-25.10.jar"
+  }, {
+    "size" : "837 bytes",
+    "name" : "aspose-cad-25.10.pom"
+  } ],
+  "releasehDate" : "2025-10-31T18:18:21+00:00",
+  "version" : "25.10",
+  "ReleaseNotes" : "https://releases.aspose.com/cad/java/release-notes/2025/aspose-cad-for-java-25-10-release-notes/"
+}

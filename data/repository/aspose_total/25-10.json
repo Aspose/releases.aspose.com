@@ -1,0 +1,13 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-total",
+  "id" : "25-10",
+  "packageFiles" : [ {
+    "size" : "6 KB",
+    "name" : "aspose-total-25.10.pom"
+  } ],
+  "type" : "pom",
+  "releasehDate" : "2025-11-02T18:05:41+00:00",
+  "version" : "25.10",
+  "ReleaseNotes" : "https://releases.aspose.com/total/java/release-notes/2025/aspose-total-for-java-25-10-release-notes/"
+}

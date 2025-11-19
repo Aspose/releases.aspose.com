@@ -5,7 +5,7 @@ slug: "aspose-omr-for-java-25-8-1-release-notes"
 linktitle: "Aspose.OMR for Java 25.8.1 - Release Notes"
 title: "Aspose.OMR for Java 25.8.1 - Release Notes"
 author: "Nikita Korobeynikov"
-weight: 111
+weight: 101
 description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for Java 25.8.1 (August 2025) release."
 type: "repository"
 layout: "release"
@@ -22,7 +22,7 @@ menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OMR for Java 25.8.1 (August 2025)**](https://releases.aspose.com/java/repo/com/aspose/aspose-omr/25.8/) release.
+This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OMR for Java 25.8.1 (August 2025)**](https://releases.aspose.com/java/repo/com/aspose/aspose-omr/25.8.1/) release.
 {{% /alert %}}
 
 ## What was changed

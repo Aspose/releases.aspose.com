@@ -144,7 +144,7 @@ NonCompatibleTables = 0x0002
 {{< /highlight >}}
 
 This use case describes how to export only those tables as HTML that cannot be accurately represented using plain Markdown:
-{{< gist "aspose-words-gists" "571cc6e23284a2ec075d15d4c32e3bbf" "non-compatible-tables.cs" >}}
+{{< gist "aspose-words-gists" "c05450e3d327a4d75ab0491b754145ba" "non-compatible-tables.java" >}}
 
 ### Added new public option FindReplaceOptions.IgnoreOfficeMath
 
@@ -160,7 +160,7 @@ public bool IgnoreOfficeMath {get; set;}
 {{< /highlight >}}
 
 This use case explains how to replace text in OfficeMath:
-{{< gist "aspose-words-gists" "571cc6e23284a2ec075d15d4c32e3bbf" "ignore-office-math.cs" >}}
+{{< gist "aspose-words-gists" "c05450e3d327a4d75ab0491b754145ba" "ignore-office-math.java" >}}
 
 ### Added new public property AsposeWordsPrintDocument.PagesRemaining
 
@@ -182,10 +182,10 @@ public int PagesRemaining { get; }
 This makes it much easier to track print jobs.
 
 Sample Print Tracker Implementation:
-{{< gist "aspose-words-gists" "571cc6e23284a2ec075d15d4c32e3bbf" "print-tracker.cs" >}}
+{{< gist "aspose-words-gists" "c05450e3d327a4d75ab0491b754145ba" "print-tracker.java" >}}
 
 This use case explains how to printing a word document to PDF with event tracking using Aspose.Words:
-{{< gist "aspose-words-gists" "571cc6e23284a2ec075d15d4c32e3bbf" "print-pages-remaining.cs" >}}
+{{< gist "aspose-words-gists" "c05450e3d327a4d75ab0491b754145ba" "print-pages-remaining.java" >}}
 
 ### New public MarkdownLoadOptions.SoftLineBreakCharacter option has been introduced
 
@@ -205,7 +205,7 @@ public char SoftLineBreakCharacter {get; set;}
 {{< /highlight >}}
 
 This use case explains how to change the default soft line break character `SPACE` to some another character `\v`:
-{{< gist "aspose-words-gists" "571cc6e23284a2ec075d15d4c32e3bbf" "soft-line-break-character.cs" >}}
+{{< gist "aspose-words-gists" "c05450e3d327a4d75ab0491b754145ba" "soft-line-break-character.java" >}}
 
 ### New public PageExtractOptions has been introduced
 
@@ -233,4 +233,4 @@ public class PageExtractOptions
 {{< /highlight >}}
 
 This use case explains how to change the code behavior when extracting pages:
-{{< gist "aspose-words-gists" "571cc6e23284a2ec075d15d4c32e3bbf" "extract-pages-with-options.cs" >}}
+{{< gist "aspose-words-gists" "c05450e3d327a4d75ab0491b754145ba" "extract-pages-with-options.java" >}}

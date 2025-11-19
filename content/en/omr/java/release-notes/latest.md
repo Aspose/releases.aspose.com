@@ -2,7 +2,7 @@
 weight: 1
 id: "aspose-omr-for-java-latest-release-notes"
 slug: "latest"
-date: "2025-08-26"
+date: "2025-11-7"
 author: "Nikita Korobeynikov"
 type: "repository"
 layout: "release"
@@ -16,18 +16,18 @@ keywords:
 ---
 
 {{% alert color="primary" %}}
-This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OMR for Java 25.9 (September 2025)**](https://releases.aspose.com/java/repo/com/aspose/aspose-omr/25.8/) release.
+This article contains a summary of recent changes, enhancements and bug fixes in [**Aspose.OMR for Java 25.10 (October 2025)**](https://releases.aspose.com/java/repo/com/aspose/aspose-omr/25.10/) release.
 {{% /alert %}}
 
 ## What was changed
 
 Key | Summary | Category
 --- | ------- | --------
-OMRJAVA&#8209;126 | Fixed issue third-party namespaces: [Issues with rotation detection](#issue-with-bouncycastle) | Fix
+OMRJAVA&#8209;129 | Fixed security vulnerabilities: [List of CVE](#issue-with-bouncycastle) | Fix
 
 ## Public API changes and backwards compatibility
 
-This section lists all public API changes introduced in **Aspose.OMR for Java 25.9** that may affect the code of existing applications.
+This section lists all public API changes introduced in **Aspose.OMR for Java 25.10** that may affect the code of existing applications.
 
 ### Added public APIs:
 
@@ -42,7 +42,15 @@ _No changes._
 _No changes._
 
 ### Issue with bouncycastle
-There were a an issue with org.bouncycastle namespace present in .jar that could interfere with client's version of bouncycastle via same namespace.
+There were a number of security vulnerabilities with previous version of org.bouncycastle, for example:
+
+CVE-2025-8885
+CVE-2025-9092
+CVE-2025-9340
+CVE-2025-9341
+CVE-2024-29857
+CVE-2022-45146
+
+With this update they are resolved.
 
 We are happy to receive your feedback on features\bugs at our [Free support forum](https://forum.aspose.com/c/omr/38);
-
