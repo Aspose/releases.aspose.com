@@ -1,0 +1,42 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-html",
+  "id" : "25-10",
+  "packageFiles" : [ {
+    "size" : "4 KB",
+    "name" : "aspose-html-25.10-bom.pom"
+  }, {
+    "size" : "35 MB",
+    "name" : "aspose-html-25.10-jdk1.8.jar",
+    "classifier" : "jdk1.8"
+  }, {
+    "size" : "35 MB",
+    "name" : "aspose-html-25.10-jdk11.jar",
+    "classifier" : "jdk11"
+  }, {
+    "size" : "35 MB",
+    "name" : "aspose-html-25.10-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "35 MB",
+    "name" : "aspose-html-25.10-jdk21.jar",
+    "classifier" : "jdk21"
+  }, {
+    "size" : "35 MB",
+    "name" : "aspose-html-25.10-jdk25.jar",
+    "classifier" : "jdk25"
+  }, {
+    "size" : "35 MB",
+    "name" : "aspose-html-25.10-jdk8.jar",
+    "classifier" : "jdk8"
+  }, {
+    "size" : "35 MB",
+    "name" : "aspose-html-25.10.jar"
+  }, {
+    "size" : "395 bytes",
+    "name" : "aspose-html-25.10.pom"
+  } ],
+  "releasehDate" : "2025-10-31T12:18:41+00:00",
+  "version" : "25.10",
+  "ReleaseNotes" : "https://releases.aspose.com/html/java/release-notes/2025/aspose-html-for-java-25-10-release-notes/"
+}

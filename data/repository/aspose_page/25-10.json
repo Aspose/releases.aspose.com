@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-page",
+  "id" : "25-10",
+  "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-page-25.10-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "20 MB",
+    "name" : "aspose-page-25.10.jar"
+  }, {
+    "size" : "394 bytes",
+    "name" : "aspose-page-25.10.pom"
+  } ],
+  "releasehDate" : "2025-10-30T03:47:51+00:00",
+  "version" : "25.10",
+  "ReleaseNotes" : "https://releases.aspose.com/page/java/release-notes/2025/aspose-page-for-java-25-10-release-notes/"
+}

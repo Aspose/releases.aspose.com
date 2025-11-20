@@ -34,8 +34,8 @@ committed_by: "Peyton.Xu@aspose.com"
 
 | Report | HTML | PDF |
 |--------|------|-----|
-| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/cells/java/2025/25.8/aspose-cells-java-25.8_cwe-top-25-2024.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/cells/java/2025/25.8/aspose-cells-java-25.8_cwe-top-25-2024.pdf" text="View PDF" >}} |
-| OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/cells/java/2025/25.8/aspose-cells-java-25.8_owasp-top-10-2021.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/cells/java/2025/25.8/aspose-cells-java-25.8_owasp-top-10-2021.pdf" text="View PDF" >}} |
+| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/cells/java/2025/25.8/aspose-cells-java-25.8-cwe-top-25-2024.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/cells/java/2025/25.8/aspose-cells-java-25.8-cwe-top-25-2024.pdf" text="View PDF" >}} |
+| OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/cells/java/2025/25.8/aspose-cells-java-25.8-owasp-top-10-2021.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/cells/java/2025/25.8/aspose-cells-java-25.8-owasp-top-10-2021.pdf" text="View PDF" >}} |
 
 
 

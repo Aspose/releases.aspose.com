@@ -76,7 +76,8 @@ Aspose.BarCode for Reporting Services supports rendering barcode labels in 5 ima
 
 BarcodeGenerator class can generate barcode labels in two additional vector formats but they are not supported for rendering by SQL Server Reporting Services engine:
 - [EMF](https://docs.fileformat.com/Image/EMF/) - Enhanced Metafile Format.
-- [SVG](https://docs.fileformat.com/page-description-language/SVG/) -Scalable Vector Graphics Files.
+- [SVG](https://docs.fileformat.com/page-description-language/SVG/) - Scalable Vector Graphics Files.
+- [PDF](https://docs.fileformat.com/pdf/) - Portable Document Format.
 
 ## **System Compatibility**
 - VS2022 / VS2019 / VS2017 / VS2015 / VS2013 / VS2012 / VS2010

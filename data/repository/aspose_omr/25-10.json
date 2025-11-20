@@ -1,0 +1,15 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-omr",
+  "id" : "25-10",
+  "packageFiles" : [ {
+    "size" : "14 MB",
+    "name" : "aspose-omr-25.10.jar"
+  }, {
+    "size" : "2 KB",
+    "name" : "aspose-omr-25.10.pom"
+  } ],
+  "releasehDate" : "2025-10-18T08:29:30+00:00",
+  "version" : "25.10",
+  "ReleaseNotes" : "https://releases.aspose.com/omr/java/release-notes/2025/aspose-omr-for-java-25-10-release-notes/"
+}

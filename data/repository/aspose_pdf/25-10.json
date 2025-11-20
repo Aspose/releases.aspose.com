@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-pdf",
+  "id" : "25-10",
+  "packageFiles" : [ {
+    "size" : "89 MB",
+    "name" : "aspose-pdf-25.10-java.zip"
+  }, {
+    "size" : "91 MB",
+    "name" : "aspose-pdf-25.10-tomee.jar",
+    "classifier" : "tomee"
+  }, {
+    "size" : "453 bytes",
+    "name" : "aspose-pdf-25.10.pom"
+  } ],
+  "releasehDate" : "2025-10-30T01:26:56+00:00",
+  "version" : "25.10",
+  "ReleaseNotes" : "https://releases.aspose.com/pdf/java/release-notes/2025/aspose-pdf-for-java-25-10-release-notes/"
+}
