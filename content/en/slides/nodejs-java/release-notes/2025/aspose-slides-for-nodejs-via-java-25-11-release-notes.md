@@ -18,8 +18,8 @@ This page contains release notes for [Aspose.Slides for Node.js via Java](https:
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|SLIDESNODEJS-108|[Use Aspose.Slides for Java 25.11 features](/slides/java/release-notes/2025/aspose-slides-for-java-25-11-release-notes/)|Enhancement|
-
+|SLIDESNODEJS-110|[Use Aspose.Slides for Java 25.11 features](/slides/java/release-notes/2025/aspose-slides-for-java-25-11-release-notes/)|Enhancement|
+|SLIDESNODEJS-146|Aspose.Slides builds blocked by node-java vulnerability|Investigation|
 
 
 ## Public API Changes
