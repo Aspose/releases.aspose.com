@@ -18,6 +18,7 @@ keywords:
 
 {{% alert color="primary" %}}
 This article contains a summary of recent changes, enhancements and bug fixes in **Aspose.OCR for Python via .NET 25.11.0 (November 2025)** release.
+{{% /alert %}}
 
 ## What was changed
 
