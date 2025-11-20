@@ -18,7 +18,7 @@ This page contains release notes for [Aspose.Slides for Python via Java](https:/
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|SLIDESPYJAVA-45|[Use Aspose.Slides for Java 25.11 features](/slides/java/release-notes/2024/aspose-slides-for-java-25-11-release-notes/)|Enhancement|
+|SLIDESPYJAVA-65|[Use Aspose.Slides for Java 25.11 features](/slides/java/release-notes/2024/aspose-slides-for-java-25-11-release-notes/)|Enhancement|
 
 ## Downgrade JPyte library to v1.14.1
 

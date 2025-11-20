@@ -18,9 +18,20 @@ This page contains release notes for [Aspose.Slides for Java 25.11](https://rel
 
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
-
-|SLIDESJAVA-39577|[Use Aspose.Slides for Net 25.11 features](/slides/net/release-notes/2025/aspose-slides-for-net-25-11-release-notes/)|Enhancement||
-
+|SLIDESNET-45154|Retrieving font substitutions per slide|Feature||
+|SLIDESNET-45126|Convert PPTX to MD with insertion of links to images uploaded to a remote server|Feature||
+|SLIDESNET-45132|Implement the ability to assign custom image-saving handlers|Feature||
+|SLIDESNET-44826|GIF animations are not played when converting PPTX to MPEG-4|Enhancement||
+|SLIDESJAVA-39579|[Use Aspose.Slides for Net 25.11 features](/slides/net/release-notes/2025/aspose-slides-for-net-25-11-release-notes/)|Enhancement||
+|SLIDESJAVA-39304|Wrong text wrapping when converting PPT to PDF|Bug|https://docs.aspose.com/slides/java/convert-powerpoint-to-pdf/|
+|SLIDESJAVA-39687|Converting PPTX to PDF in Java, charts are not rendered properly|Bug|https://docs.aspose.com/slides/java/convert-powerpoint-to-pdf/|
+|SLIDESJAVA-39716|PptxReadException is thrown when reading a PPTX file|Bug|https://docs.aspose.com/slides/java/open-presentation/|
+|SLIDESJAVA-39720|Prevent PPTX-to-MD conversion from escaping inserted image links|Feature|https://docs.aspose.com/slides/java/convert-powerpoint-to-markdown/|
+|SLIDESJAVA-39724|Chart axis display units label is missing when converting a slide to an image|Bug|https://docs.aspose.com/slides/java/convert-powerpoint-to-png/|
+|SLIDESJAVA-39727|Chart is missing when converting a slide to an image|Bug|https://docs.aspose.com/slides/java/convert-powerpoint-to-png/|
+|SLIDESJAVA-39729|Chart titles are displayed incorrectly when converting a slide to an image|Bug|https://docs.aspose.com/slides/java/convert-powerpoint-to-png/|
+|SLIDESJAVA-39730|Text is displayed incorrectly when converting a slide to an image|Bug|https://docs.aspose.com/slides/java/convert-powerpoint-to-png/|
+|SLIDESJAVA-39742|Waterfall chart is displayed incorrectly after restoring from ByteArrayOutputStream|Bug|https://docs.aspose.com/slides/java/save-presentation/|
 
 
 ## Public API Changes
