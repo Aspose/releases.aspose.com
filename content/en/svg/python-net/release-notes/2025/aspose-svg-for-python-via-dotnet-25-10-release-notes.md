@@ -1,3 +1,4 @@
+---
 id: "aspose-svg-python-via-dotnet-25-10-release-notes"
 slug: "aspose-svg-python-via-dotnet-25-10-release-notes"
 linktitle: "Aspose.SVG for Python via .NET 25.10 Release Notes"
