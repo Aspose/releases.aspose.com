@@ -55,8 +55,8 @@ This change not only allows us to further enhance the cross-platform capabilitie
 
 New events `ImageSaving` and `SvgImageSaving` added to the `MarkdownSaveOptions` class. These events allow developers to control the process of saving images and generating links to them in the resulting Markdown file.
 
-- MarkdownSaveOptions::ImageSaving - occurs for each image except SVG. Allows overriding the default image saving behavior and specifying a custom link (such as a relative path, absolute path, or external URL).
-- MarkdownSaveOptions::SvgImageSaving - occurs only when saving SVG images. Allows manually saving SVG data and defining a custom Markdown link.
+- `MarkdownSaveOptions::ImageSaving` - occurs for each image except SVG. Allows overriding the default image saving behavior and specifying a custom link (such as a relative path, absolute path, or external URL).
+- `MarkdownSaveOptions::SvgImageSaving` - occurs only when saving SVG images. Allows manually saving SVG data and defining a custom Markdown link.
 
 The following code sample demonstrates how to use these events:
 
@@ -93,7 +93,7 @@ auto presentation = System::MakeObject<Presentation>(u"demo.pptx");
 presentation->Save(u"output.md", SaveFormat::Md, options);
 ```
 
-### Added New Method: `IFontsManager::GetSubstitutions(System::SharedPtr<int32_t> slides)`
+### Added New Method: IFontsManager::GetSubstitutions()
 
 The new method, `GetSubstitutions(System::ArrayPtr<int32_t> slides)`, has been added to the `IFontsManager` interface and implemented in the `FontsManager` class.
 This enhancement allows developers to obtain information about fonts that will be substituted during the rendering of the specified slides.
@@ -109,7 +109,7 @@ for (auto&& fontSubstitution : pres->get_FontsManager()->GetSubstitutions(target
 }
 ```
 
-### Added New Class: `MathPhantom`
+### Added New Class: MathPhantom
 
 The `MathPhantom` class and the `IMathPhantom` interface have been added. They represent a phantom math object (`<m:phant>`) that affects the layout of its child element without necessarily displaying it. 
 A phantom can hide its base expression while preserving its width, height, or depth - useful for aligning formulas or reserving space.
@@ -125,7 +125,7 @@ phant->set_Show(false);
 phant->set_ZeroAsc(true);
 ```
 
-### Added New Methods: `ISlideShowTransition::get_Duration()` and `ISlideShowTransition::set_Duration(int32_t value)`
+### Added New Methods: ISlideShowTransition::get_Duration() and ISlideShowTransition::set_Duration()
 
 The new methods, `get_Duration()` and `set_Duration(int32_t value)`, have been added to the `ISlideShowTransition` interface and implemented in the `SlideShowTransition` class. This property gets or sets the duration of the slide transition effect in milliseconds. 
 It corresponds to the `p14:dur` attribute of the `p:transition` element in the PresentationML schema. If not set, the duration is determined automatically based on the `get_Speed()` method output value and the transition type.
@@ -135,7 +135,7 @@ Example:
 presentation->get_Slide(0)->get_SlideShowTransition()->set_Duration(500); // Sets the transition duration to 500 ms
 ```
 
-### Added New Methods: `ITextSearchOptions::get_IncludeNotes()` and `ITextSearchOptions::set_IncludeNotes(bool value)`
+### Added New Methods: ITextSearchOptions::get_IncludeNotes() and ITextSearchOptions::set_IncludeNotes()
 
 The new methods, `get_IncludeNotes()` and `set_IncludeNotes(bool value)`, have been added to the `ITextSearchOptions` interface and implemented in the `TextSearchOptions` class. This property allows including text contained in slide notes when performing text replacement or highlighting operations using the `Presentation::ReplaceText` or `Presentation::HighlightText` methods.
 
@@ -156,14 +156,14 @@ presentation->ReplaceText(u"Aspose", u"Aspose.Slides", options, nullptr);
 presentation->Save(u"demo_out.pptx", SaveFormat::Pptx);
 ```
 
-### Removed Obsolete Interface: `INotesCommentsLayoutingOptions`
+### Removed Obsolete Interface: INotesCommentsLayoutingOptions
 
 The obsolete `INotesCommentsLayoutingOptions` interface has been removed. Please use the `ISlidesLayoutOptions` interface instead.
 
-### Removed Obsolete Method: `ISwfOptions::get_NotesCommentsLayouting()`
+### Removed Obsolete Method: ISwfOptions::get_NotesCommentsLayouting()
 
 The obsolete `get_NotesCommentsLayouting()` method has been removed from `ISwfOptions` interface and `SwfOptions` class. Please use the `get_SlidesLayoutOptions()` method instead.
 
-### Removed Obsolete Method: `IHtml5Options::get_NotesCommentsLayouting()`
+### Removed Obsolete Method: IHtml5Options::get_NotesCommentsLayouting()
 
 The obsolete `get_NotesCommentsLayouting()` method has been removed from `IHtml5Options` interface and `Html5Options` class. Please use the `get_SlidesLayoutOptions()` method instead.
