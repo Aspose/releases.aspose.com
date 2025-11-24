@@ -116,23 +116,19 @@ Stream GetTestPngImage()
 string sourceFile = Path.Combine(baseFolder, "pirate_x3.psd");
 string outputFile = Path.Combine(outputFolder, "export.png");
 
-const int etalonWidth = 3;
-const int etalonHeight = 3;
-
 using (var psdImage = (PsdImage)Image.Load(sourceFile, new PsdLoadOptions() { AllowWarpRepaint = true, LoadEffectsResource = true }))
 {
-    Size s = ((SmartObjectLayer)(psdImage.Layers[0])).WarpSettings.GridSize;
+    // Get warp settings
+    WarpSettings warpSettings = ((SmartObjectLayer)(psdImage.Layers[0])).WarpSettings;
 
-    if (s.Width != etalonWidth)
-    {
-        throw new Exception("The width of warp grid size is not correct. Wait " + etalonWidth + ", but is " + s.Width);
-    }
+    // Set new size
+    // For Photoshop, the value can be between 1 and 50, and you will not be able to save a valid PSD file.
+    warpSettings.GridSize = new Size(100, 100);
 
-    if (s.Height != etalonHeight)
-    {
-        throw new Exception("The height of warp grid size is not correct. Wait " + etalonHeight + ", but is " + s.Height);
-    }
+    // Set valid value
+    warpSettings.GridSize = new Size(3, 3);
 
+    // Render example file with x3 grid
     psdImage.Save(outputFile, new PngOptions
     {
         ColorType = PngColorType.TruecolorWithAlpha
