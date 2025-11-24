@@ -51,7 +51,7 @@ Please note that primitive types from `System::Drawing` (like `System::Drawing::
 
 This change not only allows us to further enhance the cross-platform capabilities of the product, but also significantly improves compatibility with other Aspose products and third-party solutions.
 
-### Added New Events: `MarkdownSaveOptions::ImageSaving` and `MarkdownSaveOptions::SvgImageSaving`
+### Added New Events: MarkdownSaveOptions::ImageSaving and MarkdownSaveOptions::SvgImageSaving
 
 New events `ImageSaving` and `SvgImageSaving` added to the `MarkdownSaveOptions` class. These events allow developers to control the process of saving images and generating links to them in the resulting Markdown file.
 
