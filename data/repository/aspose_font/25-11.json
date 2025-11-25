@@ -1,0 +1,12 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-font",
+  "id" : "25-11",
+  "packageFiles" : [ {
+    "size" : "394 bytes",
+    "name" : "aspose-font-25.11.pom"
+  } ],
+  "releasehDate" : "2025-11-25T11:03:14+00:00",
+  "version" : "25.11",
+  "ReleaseNotes" : "https://releases.aspose.com/font/java/release-notes/2025/aspose-font-for-java-25-11-release-notes/"
+}
