@@ -21,6 +21,11 @@ committed_by: "dmitry.samodurov@aspose.com"
 
 ## This 25.9 C++ release includes the following transparency and audit artifacts:
 
+### EULA & Third-Party Licenses
+
+- <a href="https://about.aspose.com/legal/eula/" target="_blank" rel="noopener">Aspose End User License Agreement</a>
+- {{< compliance-file relpath="/compliance-reports/third-party-licenses/cpp/third-party-licenses-aspose-email-cpp.pdf" text="Aspose.Email for C++ Third-Party License" >}}
+
 
 
 
