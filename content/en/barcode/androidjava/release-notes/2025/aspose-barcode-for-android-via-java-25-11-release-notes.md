@@ -37,8 +37,8 @@ public void example() {
     // Initialize the barcode generator with Data Matrix type and input text
     BarcodeGenerator generator = new BarcodeGenerator(EncodeTypes.DATA_MATRIX, "0126789ABCDEFabcdef");
     // Set barcode foreground (bar) and background colors
-    generator.getParameters().getBarcode().setBarColor(com.aspose.barcode.generation.Color.getWhite());
-    generator.getParameters().setBackColor(com.aspose.barcode.generation.Color.getBlack());
+    generator.getParameters().getBarcode().setBarColor(Color.WHITE);
+    generator.getParameters().setBackColor(Color.BLACK);
     // Generate the barcode image as a Bitmap
     Bitmap barcodeBitmap = generator.generateBarCodeImage();
     // Initialize the barcode reader with the generated image and specify the decode type
