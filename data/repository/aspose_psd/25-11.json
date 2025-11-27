@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-psd",
+  "id" : "25-11",
+  "packageFiles" : [ {
+    "size" : "4 MB",
+    "name" : "aspose-psd-25.11-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "24 MB",
+    "name" : "aspose-psd-25.11-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "644 bytes",
+    "name" : "aspose-psd-25.11.pom"
+  } ],
+  "releasehDate" : "2025-11-27T17:35:59+00:00",
+  "version" : "25.11",
+  "ReleaseNotes" : "https://releases.aspose.com/psd/java/release-notes/2025/aspose-psd-for-java-25-11-release-notes/"
+}
