@@ -21,6 +21,11 @@ committed_by: "Sergey.Vlasov@aspose.com"
 
 ## This 25.11 .NET release includes the following transparency and audit artifacts:
 
+### EULA & Third-Party Licenses
+
+- <a href="https://about.aspose.com/legal/eula/" target="_blank" rel="noopener">Aspose End User License Agreement</a>
+- {{< compliance-file relpath="/compliance-reports/third-party-licenses/net/third-party-licenses-aspose-drawing-net.pdf" text="Aspose.Drawing for .NET Third-Party License" >}}
+
 
 
 
