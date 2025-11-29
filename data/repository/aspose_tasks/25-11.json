@@ -1,0 +1,12 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-tasks",
+  "id" : "25-11",
+  "packageFiles" : [ {
+    "size" : "396 bytes",
+    "name" : "aspose-tasks-25.11.pom"
+  } ],
+  "releasehDate" : "2025-11-29T14:15:57+00:00",
+  "version" : "25.11",
+  "ReleaseNotes" : "https://releases.aspose.com/tasks/java/release-notes/2025/aspose-tasks-for-java-25-11-release-notes/"
+}
