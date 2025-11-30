@@ -3,10 +3,14 @@
   "artifactId" : "aspose-zip",
   "id" : "25-11",
   "packageFiles" : [ {
+    "size" : "8 MB",
+    "name" : "aspose-zip-25.11-jdk18.jar",
+    "classifier" : "jdk18"
+  }, {
     "size" : "394 bytes",
     "name" : "aspose-zip-25.11.pom"
   } ],
-  "releasehDate" : "2025-11-29T12:46:39+00:00",
+  "releasehDate" : "2025-11-30T14:14:11+00:00",
   "version" : "25.11",
   "ReleaseNotes" : "https://releases.aspose.com/zip/java/release-notes/2025/aspose-zip-for-java-25-11-release-notes/"
 }
