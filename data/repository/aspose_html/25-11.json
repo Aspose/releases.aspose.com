@@ -1,0 +1,15 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-html",
+  "id" : "25-11",
+  "packageFiles" : [ {
+    "size" : "35 MB",
+    "name" : "aspose-html-25.11.jar"
+  }, {
+    "size" : "395 bytes",
+    "name" : "aspose-html-25.11.pom"
+  } ],
+  "releasehDate" : "2025-11-30T16:41:43+00:00",
+  "version" : "25.11",
+  "ReleaseNotes" : "https://releases.aspose.com/html/java/release-notes/2025/aspose-html-for-java-25-11-release-notes/"
+}
