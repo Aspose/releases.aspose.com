@@ -37,8 +37,11 @@
     "size" : "35 MB",
     "name" : "aspose-html-25.11.jar"
   }, {
-    "size" : "395 bytes",
+    "size" : "424 bytes",
     "name" : "aspose-html-25.11.pom"
+  }, {
+    "size" : "219 MB",
+    "name" : "aspose-html-25.11.zip"
   } ],
   "releasehDate" : "2025-11-30T17:35:36+00:00",
   "version" : "25.11",
