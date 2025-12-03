@@ -16,76 +16,26 @@ tags: ['net-development', 'net-3d-api', 'net-3d-component', '3D', '3D-Modeling',
 weight:  1
 ---
 
+{{< dbToolbar link="https://forum.aspose.com/c/3d" linktext=" Support Forum " >}}
+
+{{< Common/h2 text="Download Aspose.3D to Process & Manipulate 3D Files"  >}}
+{{< Common/paragraph class="package-instructions">}}
+Open {{< Common/link href="https://www.nuget.org/packages/Aspose.3D/" text="NuGet"  >}} Package Manager within the Microsoft Visual Studio&reg;, search for <b>Aspose.3D</b> and install. You may also use the following command within the Package Manager Console. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/3d/net/installation/" text="Installation"  >}} documentation page.
+{{< Common/release-notes-link family="3d" product="net" href="https://releases.aspose.com/3d/net/release-notes/" text="https://releases.aspose.com/3d/net/release-notes/"  >}}
+{{< /Common/paragraph>}}
+{{< consolebox/consoleboxwrapper id="nuget" >}}
+       {{< consolebox/spantext text="PM" >}}
+       {{< consolebox/textarea id="nuget" >}} Install-Package Aspose.3D {{< /consolebox/textarea >}}
+{{< /consolebox/consoleboxwrapper >}}
+{{< Common/hr >}}
+
+![Nuget](https://img.shields.io/nuget/v/Aspose.3D) ![Nuget](https://img.shields.io/nuget/dt/Aspose.3D?label=nuget%20downloads)
+
 ## Aspose.3D for .NET Releases
 
-[![Product Page](https://img.shields.io/badge/Product-0288d1?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://products.aspose.com/3d/net/) [![Docs](https://img.shields.io/badge/Docs-388e3c?style=for-the-badge&logo=Hugo&logoColor=white)](https://docs.aspose.com/3d/net/) [![API Ref](https://img.shields.io/badge/Reference-f39c12?style=for-the-badge&logo=html5&logoColor=white)](https://reference.aspose.com/3d/net/) [![Examples](https://img.shields.io/badge/Examples-1565c0?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/aspose-3d/Aspose.3D-for-.NET/tree/master/Examples) [![Blog](https://img.shields.io/badge/Blog-d32f2f?style=for-the-badge&logo=WordPress&logoColor=white)](https://blog.aspose.com/category/3d/) [![Releases](https://img.shields.io/badge/Releases-43a047?style=for-the-badge&logo=semanticrelease&logoColor=white)](https://releases.aspose.com/) [![Support](https://img.shields.io/badge/Support-7b1fa2?style=for-the-badge&logo=Discourse&logoColor=white)](https://forum.aspose.com/c/3d) [![License](https://img.shields.io/badge/License-ff6f00?style=for-the-badge&logo=rocket&logoColor=white)](https://purchase.aspose.com/temporary-license)
+[Product Page](https://products.aspose.com/3d/net/) | [Docs](https://docs.aspose.com/3d/net/) | [API Ref](https://reference.aspose.com/3d/net/) | [Examples](https://github.com/aspose-3d/Aspose.3D-for-.NET/tree/master/Examples) | [Blog](https://blog.aspose.com/category/3d/) | [Releases](https://releases.aspose.com/) | [Support](https://forum.aspose.com/c/3d) | [License](https://purchase.aspose.com/temporary-license)
 
-### **Installation**
 
-<details> <summary>The package is available on <a href="https://www.nuget.org/packages/Aspose.3D">nuget.org</a>. Please expand to view the installation commands.</summary>
-
-<details>
-  <summary><b>.NET CLI</b></summary>
-  
-  > ```
-  > > dotnet add package Aspose.3D
-  > ```
-
-</details>
-
-<details>
-  <summary><b>Package Manager</b></summary>
-  
-  > ```
-  > PM> NuGet\Install-Package Aspose.3D
-  > ```
-
-</details>
-
-<details>
-  <summary><b>PackageReference</b></summary>
-  
-  > ```
-  > <PackageReference Include="Aspose.3D" />
-  > ```
-
-</details>
-
-<details>
-  <summary><b>Paket CLI</b></summary>
-  
-  > ```
-  > paket add Aspose.3D
-  > ```
-
-</details>
-
-<details>
-  <summary><b>Script & Interactive</b></summary>
-  
-  > ```
-  > #r "nuget: Aspose.3D"
-  > ```
-
-</details>
-
-<details>
-  <summary><b>Cake</b></summary>
-  
-  > ```
-  > // Install Aspose.3D as a Cake Addin
-  > #addin nuget:?package=Aspose.3D
-  > // Install Aspose.3D as a Cake Tool
-  > #tool nuget:?package=Aspose.3D
-  > ```
-
-</details>
-
-</details>
-
----
-
-[![Version](https://img.shields.io/nuget/v/Aspose.3D?style=for-the-badge&logo=NuGet&logoColor=white)](https://www.nuget.org/packages/Aspose.3D) ![NuGet](https://img.shields.io/nuget/dt/Aspose.3D?style=for-the-badge&logo=nuget&logoColor=white&color=007EC6) [![NuGet-asposenet](https://img.shields.io/badge/NuGet-asposenet-blue?style=for-the-badge&logo=NuGet&logoColor=white&color=007EC6)](https://www.nuget.org/profiles/asposenet)
 
 [Aspose.3D for .NET](https://products.aspose.com/3d/net/) empowers .NET applications to connect with 3D document formats. 3D .NET API lets engineers read, convert, build, alter, and control the substance of the [3D document formats](https://docs.aspose.com/3d/net/supported-file-formats/) without any 3D modeling and rendering software installed on the machine.
 
