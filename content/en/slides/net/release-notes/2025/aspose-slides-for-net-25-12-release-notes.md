@@ -20,6 +20,8 @@ This page contains release notes for [Aspose.Slides for .NET 25.12](https://www.
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
 |SLIDESNET-45203|Opening and saving a PPT file throws a NullReferenceException|Bug||
+|SLIDESNET-45208|Update Aspose.Slides.NET6.CrossPlatform.targets to support TargetFramework=net10.0|Enhancement||
+|SLIDESNET-45219|Support for .NET 10|Feature||
 |SLIDESNET-44457|Aspose.Slides.NET6.CrossPlatform and Aspose.Drawing.Common|Investigation||
 |SLIDESNET-45213|Converting ODP to HTML produces an empty document|Bug||
 |SLIDESNET-45078|Implement Aspose.Slides Plugins|Feature||
