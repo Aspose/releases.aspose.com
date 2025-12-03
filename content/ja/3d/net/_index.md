@@ -1,6 +1,6 @@
 ---
 title: C# Gameware、CAD と 3D 処理 DLL をダウンロード | Aspose.3D
-description: 3DS、3MF、DAE、DFX、USD、Blender、OpenUSD、MA、gITF、U3D の 3D ファイル、メッシュ、ジオメトリ、シーン、アニメーションを操作する C# クラスライブラリを含む DLL をダウンロードし、.NET のオンプレミス API で使用します。
+description: 3DS、3MF、DAE、DFX、USD、Blender、OpenUSD、MA、glTF、U3D の 3D ファイル、メッシュ、ジオメトリ、シーン、アニメーションを操作する C# クラスライブラリを含む DLL をダウンロードし、.NET のオンプレミス API で使用します。
 keywords: 3D .NET API, 3D .NET Library
 linktitle: Aspose.3D for .NET
 family_listing_page_title: Aspose.3D for .NET
@@ -12,7 +12,7 @@ family_listing_page_venture: 4
 family_listing_page_package: 13
 homepage_package_type: NuGet
 homepage_package_link: "https://www.nuget.org/packages/Aspose.3D/"
-tags: "['net-development', 'net-3d-api', 'net-3d-component', '3D', '3D-Modeling', '3D-Objects', '3D-PDF', '3D-Scene', '3D-Studio-Max', '3D-Viewports', '3DS', '3D-to-GLTF2.0', '3D-to-HTML', '3D-to-PDF', '3MF', 'AMF', 'Animation', 'ASE', 'Aspose.3D', 'Aspose.Total', 'AutoCAD', 'Autodesk', 'Collada', 'Conholdate', 'Conholdate.Total', 'Cylinder', 'DAE', 'Darco', 'DirectX', 'DRC', 'DXF', 'FBX', 'Geometry', 'gITF', 'HTML', 'JT', 'Linear-Extrusion', 'Mesh', 'Morph', 'NURBS', 'OBJ', 'PDF', 'PLY', 'PointCloud', 'Polygons', 'Redenring', 'RVM', 'Skeleton', 'STL', 'U3D', 'VRML', 'Wavefront', 'X', 'Maya', 'Blender', 'OpenUSD', 'USD']"
+tags: ['net-development', 'net-3d-api', 'net-3d-component', '3D', '3D-PDF', '3D-to-GLTF2.0', '3MF', 'AMF', 'Animation', 'Aspose.3D', 'Aspose.Total', 'AutoCAD', 'Autodesk', 'Collada', 'Conholdate', 'Conholdate.Total', 'Cylinder', 'DAE', 'Darco', 'DirectX', 'DRC', 'DXF', 'FBX', 'Geometry', 'glTF', 'HTML', 'JT', 'Linear-Extrusion', 'Mesh', 'Morph', 'NURBS', 'OBJ', 'PDF', 'PLY', 'PointCloud', 'Polygons', 'Redenring', 'RVM', 'Skeleton', 'STL', 'U3D', 'VRML', 'Wavefront', 'X', 'Maya', 'Blender', 'OpenUSD', 'USD']
 weight: 1
 i18n_hash: 21b7b7514ac23a2cda163d13cf5fb03f
 ---
