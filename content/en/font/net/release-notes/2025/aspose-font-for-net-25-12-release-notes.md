@@ -28,5 +28,11 @@ Added *CompressionUtils* class providing **Brotli** compression and decompressio
 |---|---|---|
 | FONTNET-827 | Provide support for Brotli compression and decompression utilities for font data | New Feature |
 
+## Public API and Backwards Incompatible Changes
+### Added APIs
+* Class [**Aspose.Font.Utils.CompressionUtils**](https://reference.aspose.com/font/net/aspose.font.utils/compressionutils/)
+* Constructor [*Aspose.Font.Utils.CompressionUtils*](https://reference.aspose.com/font/net/aspose.font.utils/compressionutils/#constructor)
+* Method [*Aspose.Font.Utils.CompressionUtils.DecodeByBrotli(System.Byte[])*](https://reference.aspose.com/font/net/aspose.font.utils/compressionutils/decodebybrotli)
+* Method [*Aspose.Font.Utils.CompressionUtils.EncodeByBrotli(System.Byte[])*](https://reference.aspose.com/font/net/aspose.font.utils/compressionutils/encodebybrotli)
 ## Got Queries?
 If you have any query related to Aspose.Font for .NET API, please feel free to write to reach us on [Aspose.Font forum](https://forum.aspose.com/c/font/). We'll be glad to assist you with your inquiries.
