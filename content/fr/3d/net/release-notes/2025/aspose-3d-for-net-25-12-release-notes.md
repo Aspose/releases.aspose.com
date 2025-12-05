@@ -23,7 +23,6 @@ Cette page contient les informations des notes de version pour Aspose.3D for .NE
 | THREEDNET-1743 | Enquêter sur l'exportation du maillage vers GLB qui entraîne des textures incorrectes | Correction de bug |
 
 ## Modifications de l'API ##
-Chargement de l'assembly depuis https://globalcdn.nuget.org/packages/aspose.3d.25.11.0.nupkg
 
 ### Membres ajoutés à la classe **Aspose.ThreeD.Metered** :
 

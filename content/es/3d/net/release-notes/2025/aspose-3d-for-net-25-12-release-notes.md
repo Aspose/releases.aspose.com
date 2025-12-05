@@ -23,7 +23,6 @@ Esta página contiene información de notas de la versión para Aspose.3D para .
 | THREEDNET-1743 | Investigar la exportación de malla a GLB que tendrá texturas incorrectas | Corrección de errores |
 
 ## Cambios en la API ##
-Cargando ensamblado desde https://globalcdn.nuget.org/packages/aspose.3d.25.11.0.nupkg
 
 ### Miembros añadidos a la clase **Aspose.ThreeD.Metered**:
 

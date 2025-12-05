@@ -23,7 +23,6 @@ Esta página contém informações de notas de versão para Aspose.3D for .NET 2
 | THREEDNET-1743 | Investigar exportação de malha para GLB que apresenta texturas incorretas | Correção de bug |
 
 ## Alterações na API ##
-Carregando assembly de https://globalcdn.nuget.org/packages/aspose.3d.25.11.0.nupkg
 
 ### Membros adicionados à classe **Aspose.ThreeD.Metered**:
 

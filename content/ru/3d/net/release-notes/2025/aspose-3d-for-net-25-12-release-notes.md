@@ -23,7 +23,6 @@ i18n_hash: 6a0f8fc9ba284e06e981fce960f52db4
 | THREEDNET-1743 | Исследовать проблему, при экспорте сетки в GLB появляются некорректные текстуры | Исправление ошибки |
 
 ## Изменения API ##
-Загрузка сборки из https://globalcdn.nuget.org/packages/aspose.3d.25.11.0.nupkg
 
 ### Добавлены члены в класс **Aspose.ThreeD.Metered**:
 

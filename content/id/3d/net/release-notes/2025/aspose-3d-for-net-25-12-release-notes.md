@@ -23,7 +23,6 @@ Halaman ini berisi informasi catatan rilis untuk Aspose.3D for .NET 25.12.
 | THREEDNET-1743 | Menyelidiki ekspor mesh ke GLB yang akan memiliki tekstur yang tidak tepat | Perbaikan bug |
 
 ## Perubahan API ##
-Loading assembly from https://globalcdn.nuget.org/packages/aspose.3d.25.11.0.nupkg
 
 ### Anggota yang ditambahkan ke kelas **Aspose.ThreeD.Metered**:
 

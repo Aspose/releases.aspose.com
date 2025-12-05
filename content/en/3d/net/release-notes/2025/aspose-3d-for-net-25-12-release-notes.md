@@ -22,7 +22,6 @@ This page contains release notes information for Aspose.3D for .NET 25.12.
 | THREEDNET-1743 | Investigate export mesh to GLB will have incorrect textures | Bug fixing |
 
 ## API Changes ##
-Loading assembly from https://globalcdn.nuget.org/packages/aspose.3d.25.11.0.nupkg
 
 ### Added members to class **Aspose.ThreeD.Metered**:
 

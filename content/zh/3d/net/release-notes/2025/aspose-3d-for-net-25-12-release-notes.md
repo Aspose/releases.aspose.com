@@ -23,7 +23,6 @@ i18n_hash: 6a0f8fc9ba284e06e981fce960f52db4
 | THREEDNET-1743 | 调查导出网格为 GLB 时纹理不正确的问题 | 错误修复 |
 
 ## API 更改 ##
-正在从 https://globalcdn.nuget.org/packages/aspose.3d.25.11.0.nupkg 加载程序集
 
 ### 已向类 **Aspose.ThreeD.Metered** 添加成员：
 

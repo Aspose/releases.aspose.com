@@ -23,7 +23,6 @@ Bu sayfa Aspose.3D for .NET 25.12 sürümü için sürüm notları bilgilerini i
 | THREEDNET-1743 | GLB'ye mesh dışa aktarımının hatalı dokulara neden olduğunu araştır | Hata düzeltme |
 
 ## API Değişiklikleri ##
-Şu adresten derleme yükleniyor: https://globalcdn.nuget.org/packages/aspose.3d.25.11.0.nupkg
 
 ### Sınıfa eklenen üyeler **Aspose.ThreeD.Metered**:
 
