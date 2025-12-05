@@ -113,7 +113,7 @@ with slides.Presentation("MasterSlideDrawingGuides_out.pptx") as pres:
 
 ### Added New Methods: lowcode.Convert.to_jpeg(), to_png() and to_tiff()
 
-New convenience methods [`to_jpeg()`](https://reference.aspose.com/slides/python-net/aspose.slides.lowcode/convert/to_jpeg/), [`to_png()`](https://reference.aspose.com/slides/python-net/aspose.slides.lowcode/convert/to_png/）, and [`to_tiff()`](https://reference.aspose.com/slides/python-net/aspose.slides.lowcode/convert/to_tiff/) have been added to the [`lowcode.Convert`](https://reference.aspose.com/slides/python-net/aspose.slides.lowcode/convert/) class.
+New convenience methods [`to_jpeg()`](https://reference.aspose.com/slides/python-net/aspose.slides.lowcode/convert/to_jpeg/), [`to_png()`](https://reference.aspose.com/slides/python-net/aspose.slides.lowcode/convert/to_png/), and [`to_tiff()`](https://reference.aspose.com/slides/python-net/aspose.slides.lowcode/convert/to_tiff/) have been added to the [`lowcode.Convert`](https://reference.aspose.com/slides/python-net/aspose.slides.lowcode/convert/) class.
 These methods simplify converting presentations into sets of raster images.
 
 #### Usage examples
