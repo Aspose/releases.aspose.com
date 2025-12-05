@@ -19,11 +19,15 @@ This page contains release notes for [Aspose.Slides for Python via .NET 25.12](h
 ## New Features and Enhancements
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
+|SLIDESNET-45190|Populating data tags with data from another file|Feature||
+|SLIDESNET-44993|Image is slightly shifted when converting a slide to an image|Enhancement|<https://docs.aspose.com/slides/net/convert-slide/>|
+|SLIDESNET-45194|JoinPortionsWithSameFormatting carries over the "err" flag from the first text run|Enhancement||
+|SLIDESNET-45176|Managing Guides on masters and slide layouts|Feature||
 
 ## Other Improvements and Changes
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
-|SLIDESPYNET-317|Use Aspose.Slides for Net 25.12 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2025/aspose-slides-for-net-25-12-release-notes/>|
+|SLIDESPYNET-322|Use Aspose.Slides for Net 25.12 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2025/aspose-slides-for-net-25-12-release-notes/>|
 
 ## Public API Changes
 
