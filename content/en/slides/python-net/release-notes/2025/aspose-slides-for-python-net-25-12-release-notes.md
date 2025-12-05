@@ -29,7 +29,7 @@ This page contains release notes for [Aspose.Slides for Python via .NET 25.12](h
 
 ### Added New Property: IBasePortionFormat.spell_check
 
-The new property, [`spell_check`](https://reference2.aspose.com/slides/python-net/aspose.slides/ibaseportionformat/spell_check/), has been added to the [`IBasePortionFormat`](https://reference2.aspose.com/slides/python-net/aspose.slides/ibaseportionformat/spell_check/) interface and implemented in the corresponding text formatting classes.
+The new property, [`spell_check`](https://reference.aspose.com/slides/python-net/aspose.slides/ibaseportionformat/spell_check/), has been added to the [`IBasePortionFormat`](https://reference.aspose.com/slides/python-net/aspose.slides/ibaseportionformat/spell_check/) interface and implemented in the corresponding text formatting classes.
 This enhancement allows developers to enable or disable spell checking for individual text portions within a presentation.
 
 #### Usage examples
@@ -52,14 +52,14 @@ with slides.Presentation("input.pptx") as pres:
 
 The new `drawing_guides` property has been added to the following interfaces and classes:
 
-- [`IMasterSlide`](https://reference2.aspose.com/slides/python-net/aspose.slides/imasterslide/)
-- [`IMasterNotesSlide`](https://reference2.aspose.com/slides/python-net/aspose.slides/imasternotesslide/)
-- [`IMasterHandoutSlide`](https://reference2.aspose.com/slides/python-net/aspose.slides/imasterhandoutslide/)
-- [`ILayoutSlide`](https://reference2.aspose.com/slides/python-net/aspose.slides/ilayoutslide/)
-- [`MasterSlide`](https://reference2.aspose.com/slides/python-net/aspose.slides/masterslide/)
-- [`MasterNotesSlide`](https://reference2.aspose.com/slides/python-net/aspose.slides/masternotesslide/)
-- [`MasterHandoutSlide`](https://reference2.aspose.com/slides/python-net/aspose.slides/masterhandoutslide/)
-- [`LayoutSlide`](https://reference2.aspose.com/slides/python-net/aspose.slides/layoutslide/)
+- [`IMasterSlide`](https://reference.aspose.com/slides/python-net/aspose.slides/imasterslide/)
+- [`IMasterNotesSlide`](https://reference.aspose.com/slides/python-net/aspose.slides/imasternotesslide/)
+- [`IMasterHandoutSlide`](https://reference.aspose.com/slides/python-net/aspose.slides/imasterhandoutslide/)
+- [`ILayoutSlide`](https://reference.aspose.com/slides/python-net/aspose.slides/ilayoutslide/)
+- [`MasterSlide`](https://reference.aspose.com/slides/python-net/aspose.slides/masterslide/)
+- [`MasterNotesSlide`](https://reference.aspose.com/slides/python-net/aspose.slides/masternotesslide/)
+- [`MasterHandoutSlide`](https://reference.aspose.com/slides/python-net/aspose.slides/masterhandoutslide/)
+- [`LayoutSlide`](https://reference.aspose.com/slides/python-net/aspose.slides/layoutslide/)
 
 This property returns a collection of adjustable drawing guides for the slide.
 
@@ -90,7 +90,7 @@ with slides.Presentation("MasterSlideDrawingGuides_out.pptx") as pres:
 
 ### Added New Property: IDrawingGuide.color
 
-The [`color`](https://reference2.aspose.com/slides/python-net/aspose.slides/idrawingguide/color/) property has been added to the [`IDrawingGuide`](https://reference2.aspose.com/slides/python-net/aspose.slides/idrawingguide/) interface and implemented in the [`DrawingGuide`](https://reference2.aspose.com/slides/python-net/aspose.slides/drawingguide/) class.
+The [`color`](https://reference.aspose.com/slides/python-net/aspose.slides/idrawingguide/color/) property has been added to the [`IDrawingGuide`](https://reference.aspose.com/slides/python-net/aspose.slides/idrawingguide/) interface and implemented in the [`DrawingGuide`](https://reference.aspose.com/slides/python-net/aspose.slides/drawingguide/) class.
 It allows developers to customize the color of drawing guides.
 
 #### Usage examples
@@ -109,7 +109,7 @@ with slides.Presentation("MasterSlideDrawingGuides_out.pptx") as pres:
 
 ### Added New Methods: lowcode.Convert.to_jpeg(), to_png() and to_tiff()
 
-New convenience methods [`to_jpeg()`](https://reference2.aspose.com/slides/python-net/aspose.slides.lowcode/convert/to_jpeg/), [`to_png()`](https://reference2.aspose.com/slides/python-net/aspose.slides.lowcode/convert/to_png/）, and [`to_tiff()`](https://reference2.aspose.com/slides/python-net/aspose.slides.lowcode/convert/to_tiff/) have been added to the [`lowcode.Convert`](https://reference2.aspose.com/slides/python-net/aspose.slides.lowcode/convert/) class.
+New convenience methods [`to_jpeg()`](https://reference.aspose.com/slides/python-net/aspose.slides.lowcode/convert/to_jpeg/), [`to_png()`](https://reference.aspose.com/slides/python-net/aspose.slides.lowcode/convert/to_png/）, and [`to_tiff()`](https://reference.aspose.com/slides/python-net/aspose.slides.lowcode/convert/to_tiff/) have been added to the [`lowcode.Convert`](https://reference.aspose.com/slides/python-net/aspose.slides.lowcode/convert/) class.
 These methods simplify converting presentations into sets of raster images.
 
 #### Usage examples
@@ -171,16 +171,16 @@ with slides.Presentation("pres.pptx") as pres:
 
 ### Added New Class: lowcode.Merger
 
-The new [`lowcode.Merger`](https://reference2.aspose.com/slides/python-net/aspose.slides.lowcode/merger/) class provides API methods for merging multiple presentations of the same format into a single output file.
+The new [`lowcode.Merger`](https://reference.aspose.com/slides/python-net/aspose.slides.lowcode/merger/) class provides API methods for merging multiple presentations of the same format into a single output file.
 
 #### API Overview
 
-Following methods for merging PowerPoint presentations of same format into one file are present in [`lowcode.Merger`](https://reference2.aspose.com/slides/python-net/aspose.slides.lowcode/merger/) class:
+Following methods for merging PowerPoint presentations of same format into one file are present in [`lowcode.Merger`](https://reference.aspose.com/slides/python-net/aspose.slides.lowcode/merger/) class:
 
-- [`lowcode.Merger.process`](https://reference2.aspose.com/slides/python-net/aspose.slides.lowcode/merger/process/#liststr-str)`(input_file_names: list[str], output_file_name: str)`
-- [`lowcode.Merger.process`](https://reference2.aspose.com/slides/python-net/aspose.slides.lowcode/merger/process/#liststr-iorawiobase)`(input_file_names: list[str], output_stream: io.RawIOBase)`
-- [`lowcode.Merger.process`](https://reference2.aspose.com/slides/python-net/aspose.slides.lowcode/merger/process/#liststr-str-asposeslidesexportisaveoptions)`(input_file_names: list[str], output_file_name: str, options: ISaveOptions)`
-- [`lowcode.Merger.process`](https://reference2.aspose.com/slides/python-net/aspose.slides.lowcode/merger/process/#liststr-iorawiobase-asposeslidesexportisaveoptions)`(input_file_names: list[str], output_stream: io.RawIOBase, options: ISaveOptions)`
+- [`lowcode.Merger.process`](https://reference.aspose.com/slides/python-net/aspose.slides.lowcode/merger/process/#liststr-str)`(input_file_names: list[str], output_file_name: str)`
+- [`lowcode.Merger.process`](https://reference.aspose.com/slides/python-net/aspose.slides.lowcode/merger/process/#liststr-iorawiobase)`(input_file_names: list[str], output_stream: io.RawIOBase)`
+- [`lowcode.Merger.process`](https://reference.aspose.com/slides/python-net/aspose.slides.lowcode/merger/process/#liststr-str-asposeslidesexportisaveoptions)`(input_file_names: list[str], output_file_name: str, options: ISaveOptions)`
+- [`lowcode.Merger.process`](https://reference.aspose.com/slides/python-net/aspose.slides.lowcode/merger/process/#liststr-iorawiobase-asposeslidesexportisaveoptions)`(input_file_names: list[str], output_stream: io.RawIOBase, options: ISaveOptions)`
 
 #### Usage examples
 
