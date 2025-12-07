@@ -4,6 +4,18 @@
   "id" : "25-12",
   "packageFiles" : [ {
     "size" : "35 MB",
+    "name" : "aspose-html-25.12-jdk1.8.jar",
+    "classifier" : "jdk1.8"
+  }, {
+    "size" : "35 MB",
+    "name" : "aspose-html-25.12-jdk11.jar",
+    "classifier" : "jdk11"
+  }, {
+    "size" : "35 MB",
+    "name" : "aspose-html-25.12-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "35 MB",
     "name" : "aspose-html-25.12-jdk8.jar",
     "classifier" : "jdk8"
   }, {
@@ -13,7 +25,7 @@
     "size" : "395 bytes",
     "name" : "aspose-html-25.12.pom"
   } ],
-  "releasehDate" : "2025-12-07T16:57:30+00:00",
+  "releasehDate" : "2025-12-07T16:57:46+00:00",
   "version" : "25.12",
   "ReleaseNotes" : "https://releases.aspose.com/html/java/release-notes/2025/aspose-html-for-java-25-12-release-notes/"
 }
