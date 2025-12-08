@@ -11,7 +11,7 @@ hideChildren: false
 toc: false
 family_listing_page_title: "Aspose.PDF for C++ 25.11 Compliance & Security Reports"
 menuItemWithNoContent: false
-committed_by: "alexander.malokhovetskiy@aspose.com"
+committed_by: "saud.naushahi@aspose.com"
 ---
 
 ![Security Rating](https://img.shields.io/badge/Security%20Rating-A-brightgreen?style=flat-square&logo=verizon)
@@ -20,6 +20,11 @@ committed_by: "alexander.malokhovetskiy@aspose.com"
 
 
 ## This 25.11 C++ release includes the following transparency and audit artifacts:
+
+### EULA & Third-Party Licenses
+
+- <a href="https://about.aspose.com/legal/eula/" target="_blank" rel="noopener">Aspose End User License Agreement</a>
+- {{< compliance-file relpath="/compliance-reports/third-party-licenses/cpp/third-party-licenses-aspose-pdf-cpp.pdf" text="Aspose.PDF for C++ Third-Party License" >}}
 
 
 
