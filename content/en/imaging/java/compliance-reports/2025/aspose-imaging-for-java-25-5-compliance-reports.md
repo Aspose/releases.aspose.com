@@ -3,7 +3,7 @@ id: "aspose-imaging-for-java-25-5-compliance-reports"
 slug: "aspose-imaging-for-java-25-5-compliance-reports"
 linktitle: "Aspose.Imaging for Java 25.5 Compliance Reports"
 title: "Aspose.Imaging for Java 25.5 – Compliance & Security"
-weight: 999
+weight: 7
 description: "Aspose.Imaging for Java Compliance & Security Reports | Release 25.5"
 type: "repository"
 layout: "release"

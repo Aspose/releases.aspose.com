@@ -1,15 +1,15 @@
 ---
 id: aspose-imaging-for-java-25-7-release-notes
 slug: aspose-imaging-for-java-25-7-release-notes
-linktitle: Aspose.Imaging for JAVA 25.7 - Release notes
-title: Aspose.Imaging for JAVA 25.7 - Release notes
+linktitle: Aspose.Imaging for Java 25.7 - Release notes
+title: Aspose.Imaging for Java 25.7 - Release notes
 weight: 43
-description: Aspose.Imaging for JAVA 25.7 - Release notes the latest updates and fixes.
+description: Aspose.Imaging for Java 25.7 - Release notes the latest updates and fixes.
 type: repository
 layout: release
 hideChildren: false
 toc: false
-family_listing_page_title: Aspose.Imaging for JAVA 25.7 - Release notes
+family_listing_page_title: Aspose.Imaging for Java 25.7 - Release notes
 menuItemWithNoContent: false
 ---
 
