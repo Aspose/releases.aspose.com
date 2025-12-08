@@ -3,7 +3,7 @@ id: "aspose-imaging-for-java-25-12-compliance-reports"
 slug: "aspose-imaging-for-java-25-12-compliance-reports"
 linktitle: "Aspose.Imaging for Java 25.12 Compliance Reports"
 title: "Aspose.Imaging for Java 25.12 – Compliance & Security"
-weight: 1
+weight: 999
 description: "Aspose.Imaging for Java Compliance & Security Reports | Release 25.12"
 type: "repository"
 layout: "release"
@@ -34,8 +34,8 @@ committed_by: "evgeniy.sidenko@aspose.com"
 
 | Report | HTML | PDF |
 |--------|------|-----|
-| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/imaging/java/2025/25.12/aspose-imaging-java-25.12_cwe-top-25-2025.htm" text="View HTML" >}} | - |
-| OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/imaging/java/2025/25.12/aspose-imaging-java-25.12_owasp-top-10-2021.html" text="View HTML" >}} | - |
+| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/imaging/java/2025/25.12/aspose-imaging-java-25.12_cwe-top-25-2025.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/imaging/java/2025/25.12/aspose-imaging-java-25.12-cwe-top-25-2024.pdf" text="View PDF" >}} |
+| OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/imaging/java/2025/25.12/aspose-imaging-java-25.12_owasp-top-10-2021.html" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/imaging/java/2025/25.12/aspose-imaging-java-25.12-owasp-top-10-2021.pdf" text="View PDF" >}} |
 
 
 
