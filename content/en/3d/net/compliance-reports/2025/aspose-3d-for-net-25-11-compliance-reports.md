@@ -15,21 +15,36 @@ committed_by: "lex.chou@aspose.com"
 ---
 
 ![SBOM Available](https://img.shields.io/badge/SBOM-Available-brightgreen?style=flat-square&logo=dependabot)
+![Security Rating](https://img.shields.io/badge/Security%20Rating-A-brightgreen?style=flat-square&logo=verizon)
+![CWE Top 25](https://img.shields.io/badge/CWE%20Top%2025-2024-blue?style=flat-square&logo=checkmarx)
+![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-2021-blue?style=flat-square&logo=openaccess)
 
 
 ## This 25.11 .NET release includes the following transparency and audit artifacts:
+
+### EULA & Third-Party Licenses
+
+- <a href="https://about.aspose.com/legal/eula/" target="_blank" rel="noopener">Aspose End User License Agreement</a>
+- {{< compliance-file relpath="/compliance-reports/third-party-licenses/net/third-party-licenses-aspose-3d-net.pdf" text="Aspose.3D for .NET Third-Party License" >}}
 
 
 
 ### Software Bill of Materials (SBOM)
 
-- {{< compliance-file relpath="/compliance-reports/3d/net/2025/25.11/aspose-3d-net-25.11_all_sboms.zip?t=1764586902" text="Download All SBOMs (ZIP)" download="true" >}} - 4.4 KB - *Last updated: December 1, 2025, 11:01 AM UTC*
+- {{< compliance-file relpath="/compliance-reports/3d/net/2025/25.11/aspose-3d-net-25.11_all_sboms.zip?t=1765286186" text="Download All SBOMs (ZIP)" download="true" >}} - 8.8 KB - *Last updated: December 9, 2025, 1:16 PM UTC*
 
 | Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
 |----------|----------------|---------------|-----------|----------|
-| .NET 8.0 | {{< compliance-file relpath="/compliance-reports/3d/net/2025/25.11/aspose-3d-net-25.11-net8.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/3d/net/2025/25.11/aspose-3d-net-25.11-net8.0_sbom-CycloneDX.xml" text="View XML" >}} | - | - |
+| .NET 8.0 | {{< compliance-file relpath="/compliance-reports/3d/net/2025/25.11/aspose-3d-net-25.11-net8.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/3d/net/2025/25.11/aspose-3d-net-25.11-net8.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/3d/net/2025/25.11/aspose-3d-net-25.11-net8.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/3d/net/2025/25.11/aspose-3d-net-25.11-net8.0_sbom-SPDX.xml" text="View XML" >}} |
 
 
+
+### Security Weakness Coverage (CWE & OWASP)
+
+| Report | HTML | PDF |
+|--------|------|-----|
+| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/3d/net/2025/25.11/aspose-3d-net-25.11.0_cwe-top-25-2024.htm" text="View HTML" >}} | - |
+| OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/3d/net/2025/25.11/aspose-3d-net-25.11.0_owasp-top-10-2021.htm" text="View HTML" >}} | - |
 
 
 
