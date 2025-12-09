@@ -20,6 +20,7 @@ This page contains release notes for [Aspose.Cells for .NET 25.12](https://www.n
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |CELLSNET-56963|Adds API for importing LaTeX format strings in Aspose equation objects|New Feature
+|CELLSNET-58628|Support to export charts to Numbers|New Feature
 |CELLSNET-59436|Remove the special exception of SkipCalculation() for user's custom engine|Enhancement
 |CELLSNET-58957|Support public API to get data values from chart|Enhancement
 |CELLSNET-59345|Remove bookmark when exporting a named range to html|Enhancement
@@ -38,6 +39,7 @@ This page contains release notes for [Aspose.Cells for .NET 25.12](https://www.n
 |CELLSNET-59441|Image attribute settings are lost after copying the worksheet|Bug
 |CELLSNET-59348|ReferredArea.GetValues() caused exception in debug mode for custom function's parameter |Bug
 |CELLSNET-59478|XLOOKUP formula returns "#VALUE!" after calculations|Bug
+|CELLSNET-59491|The result file crashed after resaving the sample file|Bug
 |CELLSNET-59337|The result file crashed after creating RadialHistogram chart|Bug
 |CELLSNET-59419|Data labels are not rendered correctly in Excel to PDF conversion|Bug
 |CELLSNET-59471|Excel chart data label text alignment changes|Bug
