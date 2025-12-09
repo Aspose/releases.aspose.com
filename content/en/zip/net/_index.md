@@ -1,5 +1,5 @@
 ---
-title: "Download Doc Compression & Archiving DLL | Aspose.ZIP C# API"
+title: "Download .NET DLL Component for Compression & Archiving | Aspose.ZIP C# API"
 description: "Download DLL containing C# Class Library to create, manipulate, extract, protect archive file formats; ZIP, BZIP, BZ2, TAR via .NET on-premise High Code API."
 linktitle: "Aspose.ZIP for .NET"
 keywords: "ZIP API .NET"
@@ -12,7 +12,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "103"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.Zip/"
-tags: ['7z', '7-ZIP', 'AES', 'AES-128', 'AES-192', 'AES-256', 'Archive', 'BZ2', 'BZIP2', 'Decompression', 'decrypt', 'Decryption', 'GZIP', 'Library', 'LZMA', 'LZMA2']
+tags: ['7z', '7-ZIP', 'AES', 'AES-256', 'Archive', 'RAR', 'CAB', 'BZIP2', 'Decompression', 'decrypt', 'Decryption', 'GZIP', 'Library', 'LZMA', 'LZMA2']
 weight:  1
 ---
 
@@ -33,31 +33,29 @@ Open {{< Common/link href="https://www.nuget.org/packages/Aspose.ZIP/" text="NuG
 
 [Product Page](https://products.aspose.com/zip/net/) | [Docs](https://docs.aspose.com/zip/net/) | [Demos](https://products.aspose.app/zip/family) | [API Reference](https://reference.aspose.com/zip/net/) | [Examples](https://github.com/aspose-zip/Aspose.ZIP-for-.NET) | [Blog](https://blog.aspose.com/category/zip/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/zip) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
-It is a standalone .NET API to create, manipulate, extract & protect archive formats including ZIP, BZIP, BZ2 & TAR.
+It is a standalone .NET API to create, manipulate, extract & protect archive formats including ZIP, BZIP, 7-ZIP and many others.
 
 Aspose.ZIP for .NET class library allows your .NET applications to compress/decompress files and folders without getting into the complexity of coding new compression algorithms or understanding the existing ones. Enable your programs to work with a vast range of features, such as creating archives, saving archives, archive extraction, encrypting/decrypting archives, compressing single or multiple files as well as directory contents. It also allows you to apply security to your archived and compressed files and folders via password, AES (128, 192, 256) encryption, or mixed encryption.
 
 ## Archive Processing Features
 
 - Compress files and folders into standard ZIP formats.
-- Supports Deflate, `Bzip2` & `LZMA` compression algorithms.
+- Supports Deflate, Bzip2, LZMA, PPMd, Xz or Zstandard compression algorithms.
 - Apply simple password or `AES128`, `AES192`, `AES256` encryption to archives.
 - Employ different protection schemes for each file within an archive.
 - Append more files to an existing zipped archive.
-- Use `Gzip` or `Bzip2` to pack files & folders into a `TAR` archive.
-- Supports `LZMA` or `LZMA2` compression & optional encryption to create `7z` archives.
+- Encrypt existing archive without repacking. 
+- Use `Gzip`, `Bzip2`, `Lzip`, `Xz`, `Zstandard` or `Z` to pack files & folders into a `TAR` archive.
+- Supports `LZMA`, `LZMA2`, `PPMd` or `Bzip2` compression & optional encryption to create `7z` archives.
 - Create self-extracting compressed archives.
 
-### Read & Write ZIP Formats
+### Read  Formats
 
-**ZIP:** ZIP\
-**Unix:** TAR\
-**GNU:** GZIP\
-**Unix/Linux:** BZ2
+Zip, Rar, Cab, Tar, Cpio, GZip, Bz2, Z, Xar, Xz, Lzip, LZ4, Arj, Lha, Lzx, Wim, Zstandard
 
-### Save ZIP Formats As
+### Compose Formats
 
-7z
+Zip, Tar, Cpio, GZip, Bz2, Cab, Iso, Lzip, LZ4, LZMA, Xar, Xz, Z, Zstandard, 7z
 
 {{< Common/hr >}}
 
