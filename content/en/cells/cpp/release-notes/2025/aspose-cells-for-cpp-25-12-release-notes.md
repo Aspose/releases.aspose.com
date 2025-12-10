@@ -19,6 +19,10 @@ This page contains release notes for Aspose.Cells for C++ 25.12.
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
+|CELLSCPP-1186|Adds PivotGlobalizationSettings::GetNameOfDataField Api|Improvement
+|CELLSCPP-1187|Adds AbstractCalculationEngine::SkipCalculation Api|Improvement
+|CELLSCPP-1189|Adds some member functions to the U16String class|Improvement
+|CELLSCPP-1195|Adds read and write functionality for Numbers|Improvement
 |CELLSNET-56963|Adds API for importing LaTeX format strings in Aspose equation objects|New Feature
 |CELLSNET-59436|Remove the special exception of SkipCalculation() for user's custom engine|Enhancement
 |CELLSNET-58957|Support public API to get data values from chart|Enhancement
