@@ -21,11 +21,23 @@ This page contains release notes for [Aspose.Cells for .NET 25.12](https://www.n
 | :- | :- | :- |
 |CELLSNET-56963|Adds API for importing LaTeX format strings in Aspose equation objects|New Feature
 |CELLSNET-58628|Support to export charts to Numbers|New Feature
+|CELLSGRIDJS-1839|Support for multi-select dropdowns|New Feature
+|CELLSGRIDJS-1978|Support to show/hide autofilter in GridJs|New Feature
+|CELLSGRIDJS-2089|Support to sort by cell background color|New Feature
+|CELLSGRIDJS-1957|Support to translate all text values to target locale in worksheet|New Feature
+|CELLSGRIDJS-1421|Support setting for Pie Charts in GridJs UI|New Feature
+|CELLSGRIDJS-1423|Support setting for Area Charts in GridJs UI|New Feature
+|CELLSGRIDJS-2109|Added client-side rendering support for line charts.|New Feature
+|CELLSGRIDJS-2110|Added client-side rendering support for area charts.|New Feature
+|CELLSGRIDJS-2112|Support for setting Scatter plot in GridJs Charts|New Feature
 |CELLSNET-59436|Remove the special exception of SkipCalculation() for user's custom engine|Enhancement
 |CELLSNET-58957|Support public API to get data values from chart|Enhancement
 |CELLSNET-59345|Remove bookmark when exporting a named range to html|Enhancement
 |CELLSNET-56744|Support to convert cell area to pivot area setting list|Enhancement
 |CELLSNET-59351|Support to obtain full external URL/link with path|Enhancement
+|CELLSGRIDJS-2092|Support validation in lazyloading mode|Enhancement
+|CELLSGRIDJS-2059|Retain original value when clicking cancel button in validation|Enhancement
+|CELLSGRIDJS-2114|Improve the visual effect for row appender toolbar|Enhancement
 |CELLSNET-49741|Issue with shapes rendering and formatting in XLSX to HTML|Bug
 |CELLSNET-49763|Arrows are shifted or not visible for XLSX to HTML|Bug
 |CELLSNET-51578|A textbox having two columns in it is rendered with one column only in Excel to PDF rendering|Bug
@@ -55,6 +67,13 @@ This page contains release notes for [Aspose.Cells for .NET 25.12](https://www.n
 |CELLSNET-59447|Invalid subtotal function when loading xlsb|Bug
 |CELLSNET-59452|Fill color of formatted pivot area is incorrect|Bug
 |CELLSNET-59508|Cells.MaxColumn returns -1 but MaxDataColumn return 13|Bug
+|CELLSGRIDJS-2098|Sort function does not work as MS-Excel when there are hidden rows/columns|Bug
+|CELLSGRIDJS-1966|Error displayed after adding rows and columns|Bug
+|CELLSGRIDJS-2062|Unable to view the charts/graphs |Bug
+|CELLSGRIDJS-2074|Some charts are not displayed due to unparseable formatted data content|Bug
+|CELLSGRIDJS-2075|Date text was incorrectly converted to a numeric value, causing a rendering overflow.|Bug
+|CELLSGRIDJS-2093|Gantt chart transparent fill failing.|Bug
+|CELLSGRIDJS-2094|X-axis date format labels not being formatted.|Bug
 |CELLSNET-59415|Exception was watched on  SkipCalculation() method in debug mode|Exception
 |CELLSNET-59369|Exception "The input string '' was not in a correct format" for Cell.HtmlString|Exception
 
