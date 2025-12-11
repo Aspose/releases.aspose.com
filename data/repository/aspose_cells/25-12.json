@@ -1,0 +1,43 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-cells",
+  "id" : "25-12",
+  "packageFiles" : [ {
+    "size" : "253 KB",
+    "name" : "aspose-cells-25.12-gridjs.jar",
+    "classifier" : "gridjs"
+  }, {
+    "size" : "8 MB",
+    "name" : "aspose-cells-25.12-gridweb-jakarta.jar",
+    "classifier" : "gridweb-jakarta"
+  }, {
+    "size" : "482 KB",
+    "name" : "aspose-cells-25.12-gridweb-javadoc.jar",
+    "classifier" : "gridweb-javadoc"
+  }, {
+    "size" : "113 KB",
+    "name" : "aspose-cells-25.12-gridweb-resources.jar",
+    "classifier" : "gridweb-resources"
+  }, {
+    "size" : "8 MB",
+    "name" : "aspose-cells-25.12-gridweb.jar",
+    "classifier" : "gridweb"
+  }, {
+    "size" : "3 MB",
+    "name" : "aspose-cells-25.12-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "9 MB",
+    "name" : "aspose-cells-25.12-jdk18.jar",
+    "classifier" : "jdk18"
+  }, {
+    "size" : "9 MB",
+    "name" : "aspose-cells-25.12.jar"
+  }, {
+    "size" : "389 bytes",
+    "name" : "aspose-cells-25.12.pom"
+  } ],
+  "releasehDate" : "2025-12-11T12:32:22+00:00",
+  "version" : "25.12",
+  "ReleaseNotes" : "https://releases.aspose.com/cells/java/release-notes/2025/aspose-cells-for-java-25-12-release-notes/"
+}
