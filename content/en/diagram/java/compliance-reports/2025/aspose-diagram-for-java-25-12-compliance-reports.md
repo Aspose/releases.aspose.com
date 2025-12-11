@@ -33,7 +33,7 @@ committed_by: "philip.zhou@aspose.com"
 
 | Report | HTML | PDF |
 |--------|------|-----|
-| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/diagram/java/2025/25.12/aspose-diagram-java-25.12_cwe-top-25-2024.html" text="View HTML" >}} | - |
+| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/diagram/java/2025/25.12/aspose-diagram-java-25.12_cwe-top-25-2024.html" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/diagram/java/2025/25.12/aspose-diagram-java-25.12_cwe-top-25-2024.pdf" text="View PDF" >}} |
 
 
 
