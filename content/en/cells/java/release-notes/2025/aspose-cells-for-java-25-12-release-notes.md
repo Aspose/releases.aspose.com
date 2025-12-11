@@ -32,6 +32,7 @@ This page contains release notes for [Aspose.Cells for Java 25.12](https://relea
 The following is a list of any changes made to the public API such as added, renamed, removed or deprecated members as well as any non-backward compatible change made to Aspose.Cells for Java. If you have concerns about any change listed, please raise it on the Aspose.Cells support forum.
 
 From Aspose.Cells for Java 25.12, we provide `aspose-cells-{Version}-jdk18.jar` package to support **Stream API** operations for collections classes in Aspose.Cells.
+
 ```java
 Workbook workbook = new Workbook("Book1.xlsx");
 
@@ -42,23 +43,30 @@ workbook.getWorksheets()
         .forEach(ws -> System.out.println(ws.getName()));
 ```
 
-Adds ChartDataValue class.
+### **Adds ChartDataValue class.**
+
 Encapsulates chart data value.
 
-Adds Series.PointValues property.
+### **Adds Series.PointValues property.**
+
 Represents the actual values that are used to plot every point in the chart. When Series.Values is a link, you can use this attribute to get specific data.
 
-Adds Series.CategoryValues property.
+### **Adds Series.CategoryValues property.**
+
 Represents the actual category values that are used in the chart. When Series.XValues is a link, you can use this attribute to get specific data.
 
-Removes ChartType.RadialHistogram.
+### **Removes ChartType.RadialHistogram.**
+
 This is a chart type that does not exist in Excel, which may cause errors.
 
-Adds HtmlSaveOptions.ExportNamedRangeAnchors property.
+### **Adds HtmlSaveOptions.ExportNamedRangeAnchors property.**
+
 Indicates whether to export anchor elements  for named ranges when saving as HTML.
 
-Adds DataBarRenderMode enum and HtmlSaveOptions.DataBarRenderMode property.
+### **Adds DataBarRenderMode enum and HtmlSaveOptions.DataBarRenderMode property.**
+
 Represents the mode  of how to render DataBar when converting Excel files to html files.
 
-Adds ShapeCollection.AddLaTeXEquation method.
+### **Adds ShapeCollection.AddLaTeXEquation method.**
+
 Adds an equation object to the worksheet using LaTeX format strings.
