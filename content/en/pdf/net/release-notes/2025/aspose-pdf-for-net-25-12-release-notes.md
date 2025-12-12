@@ -53,7 +53,7 @@ private static void ConvertHtmlToPdfWithLogicalStructure()
 }
 ```
 
-A new capability to extract unsigned content from a digitally signed PDF has been introduced. This enhancement, is implemented through the [UnsignedContentAbsorber](https://docs.aspose.com/pdf/net/extract-image-and-signature-information/#1-unsignedcontentabsorberresult) class, which can detect changes to pages, form fields, annotations, and XForms that are not covered by a signature.
+A new capability to extract unsigned content from a digitally signed PDF has been introduced. This enhancement is implemented by the [UnsignedContentAbsorber](https://docs.aspose.com/pdf/net/extract-image-and-signature-information/#1-unsignedcontentabsorberresult) class, which detects changes to pages, form fields, annotations, and XForms that are not covered by a signature.
 
 ```csharp
 // For complete examples and data files, visit https://github.com/aspose-pdf/Aspose.PDF-for-.NET
