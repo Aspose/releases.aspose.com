@@ -34,7 +34,7 @@ This page contains release notes for [Aspose.PSD for .NET 25.12](https://www.nu
 
 ## **Public API Changes**
 
-# Marked as Obsolete:**
+# **Marked as Obsolete:**
 - P:Aspose.PSD.FileFormats.Psd.Layers.Gradient.SolidGradient.Color
 
 # **Added APIs:**
