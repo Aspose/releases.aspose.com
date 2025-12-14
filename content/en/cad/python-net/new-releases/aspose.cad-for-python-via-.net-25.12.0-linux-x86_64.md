@@ -8,7 +8,7 @@ folder_link: "/cad/python-net/new-releases/aspose.cad-for-python-via-.net-25.12.
 folder_name: "Aspose.CAD for Python via .NET 25.12.0 Linux x86_64"
 download_link: "/cad/python-net/new-releases/aspose.cad-for-python-via-.net-25.12.0-linux-x86_64/3f27f9ad1947c7140451c2f30d1b21fa-45-14329"
 download_text: "Download"
-intro_text: "This wheel contains Aspose.CAD for Python via .NET version 25.8.0, built for Linux."
+intro_text: "This wheel contains Aspose.CAD for Python via .NET version 25.12.0, built for Linux."
 image_link: "/resources/img/random-file-icon.png"
 download_count: " 14/12/2025 Downloads: 1  Views: 1 "
 file_size: "File Size: 223.25MB"
@@ -43,7 +43,7 @@ weight: 42
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/cad/python-net/release-notes/2025/aspose-cad-for-python-25-12-release-notes/'>https://releases.aspose.com/cad/python-net/release-notes/2025/aspose-cad-for-python-25-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">This wheel contains Aspose.CAD for Python via .NET version 25.8.0, built for Linux.</div>
+      <h4>Description</h4><div class="HTMLDescription">This wheel contains Aspose.CAD for Python via .NET version 25.12.0, built for Linux.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

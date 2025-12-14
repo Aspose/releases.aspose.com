@@ -8,7 +8,7 @@ folder_link: "/cad/python-net/new-releases/aspose.cad-for-python-via-.net-25.12.
 folder_name: "Aspose.CAD for Python via .NET 25.12.0 Linux x86_64"
 download_link: "/cad/python-net/new-releases/aspose.cad-for-python-via-.net-25.12.0-linux-x86_64/3f27f9ad1947c7140451c2f30d1b21fa-45-14329"
 download_text: "İndirmek"
-intro_text: "Bu wheel dosyası, Linux için derlenmiş .NET sürüm 25.8.0 üzerinden Python için Aspose.CAD'i içermektedir."
+intro_text: "Bu wheel dosyası, Linux için derlenmiş .NET sürüm 25.12.0 üzerinden Python için Aspose.CAD'i içermektedir."
 image_link: "/resources/img/random-file-icon.png"
 download_count: " 14/12/2025 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 223.25MB"
@@ -43,7 +43,7 @@ weight: 42
       <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/cad/python-net/release-notes/2025/aspose-cad-for-python-25-12-release-notes/'>https://releases.aspose.com/cad/python-net/release-notes/2025/aspose-cad-for-python-25-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Tanım</h4><div class="HTMLDescription">Bu wheel dosyası, Linux için derlenmiş .NET sürüm 25.8.0 üzerinden Python için Aspose.CAD'i içermektedir.</div>
+      <h4>Tanım</h4><div class="HTMLDescription">Bu wheel dosyası, Linux için derlenmiş .NET sürüm 25.12.0 üzerinden Python için Aspose.CAD'i içermektedir.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
