@@ -1,12 +1,17 @@
 {
   "groupId" : "com.aspose",
+  "classifier" : "jdk17",
   "artifactId" : "aspose-words",
   "id" : "25-12",
   "packageFiles" : [ {
+    "size" : "18 MB",
+    "name" : "aspose-words-25.12-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
     "size" : "5 KB",
     "name" : "aspose-words-25.12.pom"
   } ],
-  "releasehDate" : "2025-12-16T17:03:40+00:00",
+  "releasehDate" : "2025-12-16T17:05:16+00:00",
   "version" : "25.12",
   "ReleaseNotes" : "https://releases.aspose.com/words/java/release-notes/2025/aspose-words-for-java-25-12-release-notes/"
 }
