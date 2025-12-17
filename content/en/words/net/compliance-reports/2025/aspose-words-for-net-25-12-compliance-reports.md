@@ -31,7 +31,7 @@ committed_by: "andrey.noskov@aspose.com"
 
 ### Software Bill of Materials (SBOM)
 
-- {{< compliance-file relpath="/compliance-reports/words/net/2025/25.12/aspose-words-net-25.12_all_sboms.zip?t=1765982641" text="Download All SBOMs (ZIP)" download="true" >}} - 56 KB - *Last updated: December 17, 2025, 2:44 PM UTC*
+- {{< compliance-file relpath="/compliance-reports/words/net/2025/25.12/aspose-words-net-25.12_all_sboms.zip?t=1765982931" text="Download All SBOMs (ZIP)" download="true" >}} - 56 KB - *Last updated: December 17, 2025, 2:48 PM UTC*
 
 | Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
 |----------|----------------|---------------|-----------|----------|
@@ -46,8 +46,8 @@ committed_by: "andrey.noskov@aspose.com"
 
 | Report | HTML | PDF |
 |--------|------|-----|
-| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/words/net/2025/25.12/aspose-words-net-25.12_cwe-top-25-2024.htm" text="View HTML" >}} | - |
-| OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/words/net/2025/25.12/aspose-words-net-25.12-owasp-top-10-2021.htm" text="View HTML" >}} | - |
+| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/words/net/2025/25.12/aspose-words-net-25.12_cwe-top-25-2024.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/words/net/2025/25.12/aspose-words-net-25.12-cwe-top-25-2024.pdf" text="View PDF" >}} |
+| OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/words/net/2025/25.12/aspose-words-net-25.12-owasp-top-10-2021.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/words/net/2025/25.12/aspose-words-net-25.12-owasp-top-10-2021.pdf" text="View PDF" >}} |
 
 
 
