@@ -24,6 +24,11 @@ This page contains release notes for [Aspose.Slides for C++ 25.12](https://www.n
 ## New Features and Enhancements
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
+|SLIDESNET-45078|Implement Aspose.Slides Plugins|Feature||
+|SLIDESNET-45190|Populating data tags with data from another file|Feature|<https://forum.aspose.com/t/powerpoint-populating-data-tags-with-data-from-another-file-in-c/320505>|
+|SLIDESNET-44993|Image is slightly shifted when converting a slide to an image|Enhancement|<https://docs.aspose.com/slides/net/convert-slide/>|
+|SLIDESNET-45194|JoinPortionsWithSameFormatting carries over the "err" flag from the first text run|Enhancement||
+|SLIDESNET-45176|Managing Guides on masters and slide layouts|Feature||
 
 ## Other Improvements and Changes
 |**Key**|**Summary**|**Category**|**Related Documentation**|
