@@ -45,7 +45,7 @@ The following code sample demonstrates how to use these events:
 
 ```javascript
 let options = new aspose.slides.MarkdownSaveOptions();
-options.setImagesSaveFolderName("Images");
+options.setImagesSaveFolderName("ExportedImages");
 options.setExportType(aspose.slides.MarkdownExportType.Visual);
 
 const pngSaving = java.newProxy("com.aspose.slides.MarkdownSaveOptions$MarkdownImageSavingHandler", {
