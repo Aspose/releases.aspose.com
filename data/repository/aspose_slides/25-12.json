@@ -1,12 +1,20 @@
 {
   "groupId" : "com.aspose",
+  "classifier" : "jdk16",
   "artifactId" : "aspose-slides",
   "id" : "25-12",
   "packageFiles" : [ {
+    "size" : "1 KB",
+    "name" : "aspose-slides-25.12-android.via.java.pom"
+  }, {
+    "size" : "29 MB",
+    "name" : "aspose-slides-25.12-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
     "size" : "396 bytes",
     "name" : "aspose-slides-25.12.pom"
   } ],
-  "releasehDate" : "2025-12-18T16:28:33+00:00",
+  "releasehDate" : "2025-12-18T16:40:38+00:00",
   "version" : "25.12",
   "ReleaseNotes" : "https://releases.aspose.com/slides/java/release-notes/2025/aspose-slides-for-java-25-12-release-notes/"
 }
