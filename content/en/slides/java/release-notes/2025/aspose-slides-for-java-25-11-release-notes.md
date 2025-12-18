@@ -57,7 +57,7 @@ The following code sample demonstrates how to use these events:
 
 ```java
 MarkdownSaveOptions options = new MarkdownSaveOptions();
-options.setImagesSaveFolderName("Images");
+options.setImagesSaveFolderName("ExportedImages");
 options.setExportType(MarkdownExportType.Visual);
 
 options.setImageSaving((image, format, link) ->
