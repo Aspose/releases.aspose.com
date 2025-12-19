@@ -31,7 +31,7 @@ Added *CompressionUtils* class providing **Brotli** compression and decompressio
 ## Public API and Backwards Incompatible Changes
 ### Added APIs
 * Class [**Aspose.Font.Utils.CompressionUtils**](https://reference.aspose.com/font/net/aspose.font.utils/compressionutils/)
-* Constructor [Aspose.Font.Utils.CompressionUtils](https://reference.aspose.com/font/net/aspose.font.utils/compressionutils/#constructor)
+* Constructor [Aspose.Font.Utils.CompressionUtils](https://reference.aspose.com/font/net/aspose.font.utils/compressionutils/compressionutils/#constructor)
 * Method [Aspose.Font.Utils.CompressionUtils.DecodeByBrotli(System.Byte[])](https://reference.aspose.com/font/net/aspose.font.utils/compressionutils/decodebybrotli)
 * Method [Aspose.Font.Utils.CompressionUtils.EncodeByBrotli(System.Byte[])](https://reference.aspose.com/font/net/aspose.font.utils/compressionutils/encodebybrotli)
 ## Got Queries?
