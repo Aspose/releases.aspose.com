@@ -1,0 +1,12 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-psd",
+  "id" : "25-12",
+  "packageFiles" : [ {
+    "size" : "644 bytes",
+    "name" : "aspose-psd-25.12.pom"
+  } ],
+  "releasehDate" : "2025-12-19T11:11:04+00:00",
+  "version" : "25.12",
+  "ReleaseNotes" : "https://releases.aspose.com/psd/java/release-notes/2025/aspose-psd-for-java-25-12-release-notes/"
+}
