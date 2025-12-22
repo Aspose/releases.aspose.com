@@ -56,21 +56,3 @@ This version introduces **asynchronous navigation APIs** for `Document` and upda
 | `Aspose.Svg.Dom.Document` | `Task NavigateAsync(string, string, CancellationToken)` | Asynchronously navigates from content with a base URL (string) and cancellation support. |
 | `Aspose.Svg.Dom.Document` | `Task NavigateAsync(string, CancellationToken)` | Asynchronously navigates to the specified URL (string) with cancellation support. |
 
-```csharp
-using System.IO;
-using System.Threading;
-using System.Threading.Tasks;
-using Aspose.Svg.Dom;
-using Aspose.Svg;
-
-// Example: async navigation with cancellation
-public static async Task LoadSvgAsync(Document document, CancellationToken ct)
-{
-    await document.NavigateAsync(new Url("https://example.com/sample.svg"), ct);
-}
-
-// Example: async navigation from stream + base URL
-public static async Task LoadSvgFromStreamAsync(Document document, Stream svgStream, CancellationToken ct)
-{
-    await document.NavigateAsync(svgStream, new Url("https://example.com/"), ct);
-}
