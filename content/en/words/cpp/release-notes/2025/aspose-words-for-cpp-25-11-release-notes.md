@@ -19,91 +19,87 @@ This page contains release notes for [Aspose.Words for C++ 25.11](https://www.nu
 
 {{% /alert %}}
 
+{{% alert color="primary" %}}
+
+A comprehensive description of all classes, methods, and properties, along with code examples, is available on the [API reference pages](https://reference.aspose.com/words/cpp/).
+
+{{% /alert %}}
+
 ## Major Features
 
-There are 63 improvements and fixes in this regular monthly release. The most notable are:
+There are 60 improvements and fixes in this regular monthly release. The most notable are:
 
-- **AI Model Integration:** Enhanced the API to allow configuration of [AI model](https://reference.aspose.com/words/net/aspose.words.ai/aimodel/) service endpoints, including setting [custom URLs](https://reference.aspose.com/words/net/aspose.words.ai/aimodel/url/) and [request timeouts](https://reference.aspose.com/words/net/aspose.words.ai/aimodel/timeout/) for greater flexibility in integration.
-- **Markdown Export:** Improved document conversion fidelity by enabling the [export of OfficeMath](https://reference.aspose.com/words/net/aspose.words.saving/markdownofficemathexportmode/) objects into LaTeX format, ensuring compatibility with MarkItDown renderers.
-- **Advanced Print Control:** Introduced a new callback interface (IWarningCallback style) to enable programmatic control over page skipping during [print operations](https://reference.aspose.com/words/net/aspose.words.rendering/asposewordsprintdocument/).
-- **Advanced Print Control:** Exposed a new public property to accurately retrieve the actual [number of pages](https://reference.aspose.com/words/net/aspose.words.rendering/asposewordsprintdocument/totalpagesprinted/) rendered by a print job.
-- **Advanced Print Control:** Provided the ability to specify distinct target printers for [color and monochrome](https://reference.aspose.com/words/net/aspose.words.rendering/asposewordsprintdocument/colormode/) (black & white) page output within a single print job.
+- **AI Model Integration:** Enhanced the API to allow configuration of [AI model](https://reference.aspose.com/words/cpp/aspose.words.ai/aimodel/) service endpoints, including setting [custom URLs](https://reference.aspose.com/words/cpp/aspose.words.ai/aimodel/get_url/) and [request timeouts](https://reference.aspose.com/words/cpp/aspose.words.ai/aimodel/get_timeout/) for greater flexibility in integration.
+- **Markdown Export:** Improved document conversion fidelity by enabling the [export of OfficeMath](https://reference.aspose.com/words/cpp/aspose.words.saving/markdownofficemathexportmode/) objects into LaTeX format, ensuring compatibility with MarkItDown renderers.
 
 ## Full List of Issues Covering all Changes in this Release
 
-{{% alert color="secondary" %}}
-<details><summary>Expand to view the full list of reported issues.</summary>
+<details>
+
+<summary>Expand to view the full list of reported issues.</summary>
 
 1. Implement native rendering of PDF radial gradients
-2. Consider providing a way to specify different printers to be used for colored and black&white pages
-3. Add public property to get the actual number of printed pages
-4. Implement a callback interface to control page skipping when printing
-5. Support MSO properties during import footnotes and endnotes
-6. Improve rendering of gradient brushes
-7. Border-radius in HTML tables not preserved upon converting to PDF
-8. Consider updating github demo code to .NET 6
-9. Incorrect shapes layout in the document after rendering
-10. HTML document is loaded as TXT
-11. Blurred math formula image on Linux
-12. MHTML to PDF conversion produces invalid characters on Linux
-13. Negative cell preferred does not match MS Word on loading an RTF document
-14. Add ability to change default URL of the AI models
-15. DOCX to PDF - Footer alignment issue
-16. Aspose.Words hangs upon rendering document
-17. Hangs upon rendering document using Aspose.Words
-18. DOC to PDF: Tables are misaligned in the output
-19. DOCM to PDF: Footer table is missing 
-20. Some characters are missed upon rendering document to HtmlFixed
-21. Latex output is unreadable in popular Markdown viewers
-22. Add option to control timeout when requesting AI model
-23. Document.RemoveBlankPages() doesn't remove the last blank page
-24. Xmpeg file is detected as Markdown by FileFormatUtil
-25. DOCX to PDF: Content controls appear in grey font color
-26. PAC reports "Possibly inappropriate use of a ?Note? structure element"
-27. Reword warning message that occurs when JPEG is saved to HtmlFixed
-28. RTF to DOCX conversion issue
-29. Changing TextBox.TextBoxWrapMode in model is not detected by document comaparer
-30. InvalidOperationException when calling UpdatePageLayout() after updating CustomXmlPart and changing namespace URI
-31. Style of cell's borders isn't preserved after DOCX->HTML->DOCX round-trip
-32. Mobi to Epub conversion fix
-33. Image isn't displayed in md file after docx to md conversion
-34. Import of MsoHtml lists differs from MS Word's result
-35. Missed shape text upon conversion to PDF
-36. Cells' borders aren't preserved after DOCX->HTML->DOCX round-trip
-37. The document round trip causes losing borders
-38. Import of MsoHtml lists differs from MS Word's result
-39. MsoHtml lists differs from MS Word's result
-40. MsoHtml lists import differs from MS Word's result
-41. Lists in MsoHtml differs from the one from MS Word's output
-42. Number of revision returned by Aspose.Words does not match MS Word
-43. Parent SDT is missing from output file
-44. The "Revision" style is imported incorrectly from MsoHtml
-45. EQ field is rendered improperly
-46. Observe EQ field is rendered improperly with Aspose.Words
-47. Spacing issue in RTF to PDF conversion
-48. Aspose.Words hangs upon loading TXT document
-49. Arabic text converts to mix of Korean and Chinese chars
-50. InvalidOperationException when saving DOCX after updating CustomXmlPart
-51. Number of revision returned by Aspose.Words does not match MS Word
-52. Formatting multi-level list issue
-53. Incorrect formatting of built-in styles after loading MsoHtml
-54. Import of MsoHtml lists differs from MS Word's result
-55. FileCorruptedException is thrown upon loading WordML document.
-56. Spaces are rendered incorrect in math formulas after converting to PDF
-57. Axis labels are rendered improperly and overlap each other
-58. InvalidOperationException is thrown upon appending document
-59. Extra page appears during DOCX to PDF conversion
-60. InsertHtml() renders placeholder text when replacing SDT content in DesignMode
-61. Content of cell is not rendered correctly
-62. Missed text in tables in specific file
-63. AW push floating table to next page if it cross footer
+2. Support MSO properties during import footnotes and endnotes
+3. Improve rendering of gradient brushes
+4. Border-radius in HTML tables not preserved upon converting to PDF
+5. Consider updating github demo code to .NET 6
+6. Incorrect shapes layout in the document after rendering
+7. HTML document is loaded as TXT
+8. Blurred math formula image on Linux
+9. MHTML to PDF conversion produces invalid characters on Linux
+10. Negative cell preferred does not match MS Word on loading an RTF document
+11. Add ability to change default URL of the AI models
+12. DOCX to PDF - Footer alignment issue
+13. Aspose.Words hangs upon rendering document
+14. Hangs upon rendering document using Aspose.Words
+15. DOC to PDF: Tables are misaligned in the output
+16. DOCM to PDF: Footer table is missing 
+17. Some characters are missed upon rendering document to HtmlFixed
+18. Latex output is unreadable in popular Markdown viewers
+19. Add option to control timeout when requesting AI model
+20. Document.RemoveBlankPages() doesn't remove the last blank page
+21. Xmpeg file is detected as Markdown by FileFormatUtil
+22. DOCX to PDF: Content controls appear in grey font color
+23. PAC reports "Possibly inappropriate use of a ?Note? structure element"
+24. Reword warning message that occurs when JPEG is saved to HtmlFixed
+25. RTF to DOCX conversion issue
+26. Changing TextBox.TextBoxWrapMode in model is not detected by document comaparer
+27. InvalidOperationException when calling UpdatePageLayout() after updating CustomXmlPart and changing namespace URI
+28. Style of cell's borders isn't preserved after DOCX->HTML->DOCX round-trip
+29. Mobi to Epub conversion fix
+30. Image isn't displayed in md file after docx to md conversion
+31. Import of MsoHtml lists differs from MS Word's result
+32. Missed shape text upon conversion to PDF
+33. Cells' borders aren't preserved after DOCX->HTML->DOCX round-trip
+34. The document round trip causes losing borders
+35. Import of MsoHtml lists differs from MS Word's result
+36. MsoHtml lists differs from MS Word's result
+37. MsoHtml lists import differs from MS Word's result
+38. Lists in MsoHtml differs from the one from MS Word's output
+39. Number of revision returned by Aspose.Words does not match MS Word
+40. Parent SDT is missing from output file
+41. The "Revision" style is imported incorrectly from MsoHtml
+42. EQ field is rendered improperly
+43. Observe EQ field is rendered improperly with Aspose.Words
+44. Spacing issue in RTF to PDF conversion
+45. Aspose.Words hangs upon loading TXT document
+46. Arabic text converts to mix of Korean and Chinese chars
+47. InvalidOperationException when saving DOCX after updating CustomXmlPart
+48. Number of revision returned by Aspose.Words does not match MS Word
+49. Formatting multi-level list issue
+50. Incorrect formatting of built-in styles after loading MsoHtml
+51. Import of MsoHtml lists differs from MS Word's result
+52. FileCorruptedException is thrown upon loading WordML document.
+53. Spaces are rendered incorrect in math formulas after converting to PDF
+54. Axis labels are rendered improperly and overlap each other
+55. InvalidOperationException is thrown upon appending document
+56. Extra page appears during DOCX to PDF conversion
+57. InsertHtml() renders placeholder text when replacing SDT content in DesignMode
+58. Content of cell is not rendered correctly
+59. Missed text in tables in specific file
+60. AW push floating table to next page if it cross footer
 
 </details>
-{{% /alert %}}
-
-## Public API and Backward Incompatible Changes
-
-This section lists public API changes introduced in Aspose.Words 25.11. It includes not only new and obsoleted public methods, but also a description of any changes in the behavior behind the scenes in Aspose.Words which may affect existing code. Any behavior introduced that could be seen as regression and modifies the existing behavior is especially important and is documented here.
 
 ## Limitations and API Differences
 
@@ -113,6 +109,7 @@ Aspose.Words for C++ has some differences as compared to its equivalent .NET ver
 - The current release does not support LINQ and Reporting features.
 - The current release does not support OpenGL 3D Shapes rendering.
 - The current release does not support loading PDF documents.
+- The current release does not support printing.
 - The current release has limited support for database features. C++ doesn't have a common API for DB like .NET System.Data.
 - The current release supports Microsoft Visual C++ version 2019 or higher.
 - The current release supports Clang 3.9.1 or higher on Linux and only for the x86_x64 platform.
