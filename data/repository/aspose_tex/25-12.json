@@ -3,10 +3,17 @@
   "artifactId" : "aspose-tex",
   "id" : "25-12",
   "packageFiles" : [ {
+    "size" : "554 KB",
+    "name" : "aspose-tex-25.12-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "27 MB",
+    "name" : "aspose-tex-25.12.jar"
+  }, {
     "size" : "1 KB",
     "name" : "aspose-tex-25.12.pom"
   } ],
-  "releasehDate" : "2025-12-23T05:19:15+00:00",
+  "releasehDate" : "2025-12-23T10:32:52+00:00",
   "version" : "25.12",
   "ReleaseNotes" : "https://releases.aspose.com/tex/java/release-notes/2025/aspose-tex-for-java-25-12-release-notes/"
 }
