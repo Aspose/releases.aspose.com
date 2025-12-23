@@ -3,10 +3,17 @@
   "artifactId" : "aspose-font",
   "id" : "25-11",
   "packageFiles" : [ {
+    "size" : "869 KB",
+    "name" : "aspose-font-25.11-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "13 MB",
+    "name" : "aspose-font-25.11.jar"
+  }, {
     "size" : "394 bytes",
     "name" : "aspose-font-25.11.pom"
   } ],
-  "releasehDate" : "2025-11-28T10:13:45+00:00",
+  "releasehDate" : "2025-12-23T10:38:40+00:00",
   "version" : "25.11",
   "ReleaseNotes" : "https://releases.aspose.com/font/java/release-notes/2025/aspose-font-for-java-25-11-release-notes/"
 }
