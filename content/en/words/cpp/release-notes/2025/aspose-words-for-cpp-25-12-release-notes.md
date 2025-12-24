@@ -19,7 +19,6 @@ This page contains release notes for [Aspose.Words for C++ 25.12](https://www.nu
 
 {{% /alert %}}
 
-
 {{% alert color="primary" %}}
 
 A comprehensive description of all classes, methods, and properties, along with code examples, is available on the [API reference pages](https://reference.aspose.com/words/cpp/).
@@ -27,6 +26,8 @@ A comprehensive description of all classes, methods, and properties, along with 
 {{% /alert %}}
 
 ## Major Features
+
+There are most notable improvements and fixes in this regular monthly release:
 
 - **PDF Export:** Implemented Base URI export into PDF to correctly resolve and handle relative hyperlinks within the exported documents.
 - **Font Rendering:** Added robust support for Variable Fonts when saving documents to SVG and Html-Fixed formats. This ensures correct rendering of different font variations (including weight, width, and other parameters) defined within a single font file.
@@ -79,10 +80,10 @@ A comprehensive description of all classes, methods, and properties, along with 
 38. Table is moved to the next page upon rendering
 39. DOCX to PDF conversion issue
 40. The formatting of converted from DOCX to PDF document does not match the original document
-41. Colon position is changed after RTF to PDF conversion 
+41. Colon position is changed after RTF to PDF conversion
 42. DOCX to PDF conversion layout issue
 43. When converting specific DOCX document - page break cuts off text and image in table
-44. Contents are pushed up to page after DOCX to PDF conversion 
+44. Contents are pushed up to page after DOCX to PDF conversion
 45. Improve TOC comparison algorithm
 46. AW breaks a table across pages incorrectly on conversion to PDF
 47. Data bars are lost after converging HTML to DOCX
