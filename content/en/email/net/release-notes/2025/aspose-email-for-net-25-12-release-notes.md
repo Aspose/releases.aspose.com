@@ -16,11 +16,11 @@ family_listing_page_title: "Aspose.Email for .NET 25.12 Release Notes"
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-| EMAILNET-41572 | Implement batch update support for message read/unread flags in PST | Investigation |
+| EMAILNET-41572 | Implement batch update support for message read/unread flags in PST | Feature |
 | EMAILNET-40762 | Save MapiContact contacts to vCard 3.0 and vCard 4.0 | Feature |
 | EMAILNET-41120 | Extract Tasks from .tgz file | Enhancement |
-| EMAILNET-41676 | ContentId no longer auto-generated for MHT AlternateViews/Attachments since 25.7 | Investigation |
-| EMAILNET-41674 | Add Aspose.Email.DKIM.Verify method for MailMessage verification | Investigation |
+| EMAILNET-41676 | ContentId no longer auto-generated for MHT AlternateViews/Attachments since 25.7 | Enhancement |
+| EMAILNET-41674 | Add Aspose.Email.DKIM.Verify method for MailMessage verification | Feature |
 | EMAILNET-41665 | FormatException when decoding malformed Base64 subject header containing misplaced period in encoded-word | Enhancement |
 
 ## New Features
@@ -89,7 +89,9 @@ foreach(var alternateView in mailMessage.AlternateViews)
 
 ### DKIM Verification Support for MailMessage
 
-The library now includes DKIM verification methods, allowing you to validate the authenticity of incoming email messages. This feature is currently available only in the .NET Framework builds of Aspose.Email.
+{% alert color="primary" %} This feature is currently available only in the .NET Framework builds of Aspose.Email. {% /alert %}
+
+The library now includes DKIM verification methods, allowing you to validate the authenticity of incoming email messages. 
 
 **Public API Changes:**
 - Aspose.Email.DKIM.DkimVerifier.Verify(Stream mimeStream) – Verifies DKIM signature of the MIME stream.  
