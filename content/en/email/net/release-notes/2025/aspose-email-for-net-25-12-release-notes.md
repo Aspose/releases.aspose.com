@@ -10,7 +10,11 @@ layout: "release"
 family_listing_page_title: "Aspose.Email for .NET 25.12 Release Notes"
 ---
 
-{% alert color="primary" %} This page contains release notes information for Aspose.Email for .NET 25.12 {% /alert %}
+{{% alert color="primary" %}}
+
+This page contains release notes information for Aspose.Email for .NET 25.12 
+
+{{% /alert %}}
 
 ## **All Changes**
 
@@ -89,7 +93,11 @@ foreach(var alternateView in mailMessage.AlternateViews)
 
 ### DKIM Verification Support for MailMessage
 
-{% alert color="primary" %} This feature is currently available only in the .NET Framework builds of Aspose.Email. {% /alert %}
+{{% alert color="primary" %}}
+
+This feature is currently available only in the .NET Framework builds of Aspose.Email. 
+
+{{% /alert %}}
 
 The library now includes DKIM verification methods, allowing you to validate the authenticity of incoming email messages. 
 
