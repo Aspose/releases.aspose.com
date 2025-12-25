@@ -10,7 +10,7 @@ download_link: "/page/net/new-releases/aspose.page-for-.net-25.12-(dlls-and-docs
 download_text: "Télécharger"
 intro_text: "Nous sommes heureux d'annoncer une nouvelle version d'Aspose.Page pour .Net."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 19/12/2025 Téléchargers: 1  Views: 1 "
+download_count: " 19/12/2025 Téléchargers: 6  Views: 1 "
 file_size: "File Size: 26.45MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
@@ -31,7 +31,7 @@ weight: 188
     {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Téléchargers: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-85aa4567cd3b9a7943eaee940c8afca0-6-14354" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-85aa4567cd3b9a7943eaee940c8afca0-6-14354" >}} 6 {{< /Common/li >}}
       {{< Common/li >}} Taille du fichier: {{< /Common/li >}}
       {{< Common/li id="size-update-85aa4567cd3b9a7943eaee940c8afca0-6-14354" >}} 26.45MB {{< /Common/li >}}
 

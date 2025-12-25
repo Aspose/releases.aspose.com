@@ -10,7 +10,7 @@ download_link: "/page/net/new-releases/aspose.page-for-.net-25.12-(dlls-and-docs
 download_text: "下载"
 intro_text: "我们很高兴地宣布推出适用于 .Net 的 Aspose.Page 新版本。"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 19/12/2025 下载s: 1  Views: 1 "
+download_count: " 19/12/2025 下载s: 6  Views: 1 "
 file_size: "File Size: 26.45MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
@@ -31,7 +31,7 @@ weight: 188
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} 下载s: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-85aa4567cd3b9a7943eaee940c8afca0-6-14354" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-85aa4567cd3b9a7943eaee940c8afca0-6-14354" >}} 6 {{< /Common/li >}}
       {{< Common/li >}} 文件大小: {{< /Common/li >}}
       {{< Common/li id="size-update-85aa4567cd3b9a7943eaee940c8afca0-6-14354" >}} 26.45MB {{< /Common/li >}}
 
