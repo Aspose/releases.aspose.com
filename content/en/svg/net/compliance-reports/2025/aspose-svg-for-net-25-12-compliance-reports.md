@@ -14,6 +14,7 @@ menuItemWithNoContent: false
 committed_by: "Victor.Deviatov@aspose.com"
 ---
 
+![SBOM Available](https://img.shields.io/badge/SBOM-Available-brightgreen?style=flat-square&logo=dependabot)
 ![Security Rating](https://img.shields.io/badge/Security%20Rating-A-brightgreen?style=flat-square&logo=verizon)
 ![CWE Top 25](https://img.shields.io/badge/CWE%20Top%2025-2024-blue?style=flat-square&logo=checkmarx)
 ![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-2021-blue?style=flat-square&logo=openaccess)
@@ -21,12 +22,15 @@ committed_by: "Victor.Deviatov@aspose.com"
 
 ## This 25.12 .NET release includes the following transparency and audit artifacts:
 
-### EULA & Third-Party Licenses
-
-- <a href="https://about.aspose.com/legal/eula/" target="_blank" rel="noopener">Aspose End User License Agreement</a>
-- {{< compliance-file relpath="/compliance-reports/third-party-licenses/net/third-party-licenses-aspose-svg-net.pdf" text="Aspose.SVG for .NET Third-Party License" >}}
 
 
+### Software Bill of Materials (SBOM)
+
+- {{< compliance-file relpath="/compliance-reports/svg/net/2025/25.12/aspose-svg-net-25.12_all_sboms.zip?t=1766622360" text="Download All SBOMs (ZIP)" download="true" >}} - 65.5 KB - *Last updated: December 25, 2025, 12:26 AM UTC*
+
+| Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
+|----------|----------------|---------------|-----------|----------|
+| .NET Standard 2.0 | {{< compliance-file relpath="/compliance-reports/svg/net/2025/25.12/aspose-svg-net-25.12-netstandard2.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/svg/net/2025/25.12/aspose-svg-net-25.12-netstandard2.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/svg/net/2025/25.12/aspose-svg-net-25.12-netstandard2.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/svg/net/2025/25.12/aspose-svg-net-25.12-netstandard2.0_sbom-SPDX.xml" text="View XML" >}} |
 
 
 
