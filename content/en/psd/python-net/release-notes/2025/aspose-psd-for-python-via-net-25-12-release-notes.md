@@ -1,4 +1,3 @@
-
 ---
 id: "aspose-psd-for-python-via-net-25-12-release-notes"
 slug: "aspose-psd-for-python-via-net-25-12-release-notes"
@@ -75,7 +74,7 @@ This page contains release notes for [Aspose.PSD for Python via .NET 25.12](htt
         inputFile = "123 1.psd"
         outputFile = "output.psd"
 
-		loadOpt = PsdLoadOptions()
+        loadOpt = PsdLoadOptions()
         loadOpt.load_effects_resource = True
 
         # First pass - load and modify
@@ -159,4 +158,3 @@ This page contains release notes for [Aspose.PSD for Python via .NET 25.12](htt
         with PsdImage.load(inputFile) as psdImage:
             psdImage.save(outputFile, PngOptions())
 {{< /highlight >}}
----
