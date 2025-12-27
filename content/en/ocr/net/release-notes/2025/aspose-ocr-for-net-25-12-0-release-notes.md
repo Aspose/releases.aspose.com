@@ -1,11 +1,11 @@
-25-12-0---
+---
 date: "2025-12-26"
 id: "aspose-ocr-for-net-25-12-0-release-notes"
 slug: "aspose-ocr-for-net-25-12-0-release-notes"
 linktitle: "Aspose.OCR for .NET 25.12.0 - Release Notes"
 title: "Aspose.OCR for .NET 25.12.0 - Release Notes"
 author: "Anna Pylaieva"
-weight: 31
+weight: 21
 description: "A summary of recent changes, enhancements and bug fixes in Aspose.OCR for .NET 25.12.0 (December 2025) release."
 type: "repository"
 layout: "release"
