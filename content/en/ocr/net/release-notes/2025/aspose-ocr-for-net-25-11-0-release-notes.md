@@ -46,46 +46,46 @@ The following public APIs have been introduced in this release:
 
 A specialized recognition method for extracting and recognizing formulas from images.
 
-[`RecognizeFormula()`](https://reference.aspose.com/ocr/java/com.aspose.ocr/asposeocr/#RecognizeFormula-com.aspose.ocr.OcrInput-boolean) method has parameter:
+[`RecognizeFormula()`](https://reference.aspose.com/ocr/net/aspose.ocr/asposeocr/recognizeformula/) method has parameter:
 
 - `boolean detectAreas` If set to true, automatically detects and isolates formula regions before performing recognition. If false, processes the entire image as a formula.
 
 
-#### [`OCRTable`](https://reference.aspose.com/ocr/java/com.aspose.ocr.models/ocrtable/) class
+#### [`OCRTable`](https://reference.aspose.com/ocr/net/aspose.ocr/ocrtable/) class
 
 Represents the full result of table recognition for all processed pages.
 
 Method         | Return                        | 
 -------------- | ----------------------------- | 
-`getPages()	`  | `List<OCRTablePage>`          | 
+`Pages	`      | `List<OCRTablePage>`          | 
 
-#### [`OCRTablePage`](https://reference.aspose.com/ocr/java/com.aspose.ocr.models/ocrtablepage/) class
+#### [`OCRTablePage`](https://reference.aspose.com/ocr/net/aspose.ocr/ocrtablepage/) class
 
 Represents table recognition results for a single page. A page consists of multiple rows extracted from the recognized table.
 
 Method            | Return             | 
 ----------------- | -------------------| 
-`getRows()	`     | `List<OCRTableRow>`| 
-`getPageIndex()	` | `Integer`          | 
+`Rows`            | `List<OCRTableRow>`| 
+`PageIndex	`     | `Integer`          | 
 
-#### [`OCRTableRow`](https://reference.aspose.com/ocr/java/com.aspose.ocr.models/ocrtablerow/) class
+#### [`OCRTableRow`](https://reference.aspose.com/ocr/net/aspose.ocr/ocrtablerow/) class
 
 A row contains a collection of cells, each holding text from a corresponding column.
 
 Method            | Return              | 
 ----------------- | --------------------| 
-`getCells()	`     | `List<OCRTableCell>`| 
-`getRowIndex()`   | `Integer`           | 
+`Cells	`         | `List<OCRTableCell>`| 
+`RowIndex`        | `Integer`           | 
 
-#### [`OCRTableCell`](https://reference.aspose.com/ocr/java/com.aspose.ocr.models/ocrtablecell/) class
+#### [`OCRTableCell`](https://reference.aspose.com/ocr/net/aspose.ocr/ocrtablecell/) class
 
 Represents a single table cell.
 A cell contains recognized text and its position in the row.
 
 Method             | Return              | 
 ------------------ | --------------------| 
-`getText()	`      | `String`            | 
-`getColumnIndex()` | `Integer`           | 
+`Text	`          | `String`            | 
+`ColumnIndex`      | `Integer`           | 
 
 
 {{% alert color="info" %}}
@@ -96,24 +96,24 @@ Method             | Return              |
 
 ### Updated public APIs:
 
-The following public APIs have been changed in **Aspose.OCR for Java 25.11.0** release:
+The following public APIs have been changed in **Aspose.OCR for .NET 25.11.0** release:
 
 #### `Format` enumeration
 
-Aspose.OCR for Java can now output `csv` files:
+Aspose.OCR for .NET can now output `csv` files:
 
 Value          | Description
 -------------- | --------
-[`Format.Csv`](https://reference.aspose.com/ocr/java/com.aspose.ocr.models/format/#Csv)   | Saves the recognition result as a CSV (.csv) file.
+[`Format.Csv`](https://reference.aspose.com/ocr/net/aspose.ocr/saveformat/)   | Saves the recognition result as a CSV (.csv) file.
 
 
 #### `OcrOutput` class with method `getTableData()`
 
-Aspose.OCR for Java can now output table data:
+Aspose.OCR for .NET can now output table data:
 
 Method          | Return
 --------------  | --------
-[`getTableData()`](https://reference.aspose.com/ocr/java/com.aspose.ocr/ocroutput/#getTableData)   | [`OCRTable`](https://reference.aspose.com/ocr/java/com.aspose.ocr.models/ocrtable/) object.
+[`GetTableData()`](https://reference.aspose.com/ocr/net/aspose.ocr/ocroutput/gettabledata/)   | [`OCRTable`](https://reference.aspose.com/ocr/net/aspose.ocr/ocrtable/) object.
 
 {{% alert color="info" %}}
 **Compatibility: fully backward compatible.** See details below.
