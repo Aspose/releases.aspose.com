@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/gis/python-net/new-releases/icons-aspose.gis-for-python-via-.net-25.12.0-macos-10.14-mojave-x86_64/"
-folder_name: "Εικονίδια Aspose.GIS για Python μέσω .NET 25.12.0 macOS 10.14 Mojave x86_64"
+folder_name: "Aspose.GIS για Python μέσω .NET 25.12.0 macOS 10.14 Mojave x86_64"
 download_link: "/gis/python-net/new-releases/icons-aspose.gis-for-python-via-.net-25.12.0-macos-10.14-mojave-x86_64/5d78601c54db114d3d75393818af5a0a-15-14417"
 download_text: "Κατεβάστε"
 intro_text: "Αυτός ο τροχός περιέχει το Aspose.GIS για Python μέσω της έκδοσης .NET 25.12.0, που έχει δημιουργηθεί για macOS 10.14 (Mojave) και στοχεύει στην αρχιτεκτονική x86_64."
@@ -22,7 +22,7 @@ weight: 61
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Εικονίδια Aspose.GIS για Python μέσω .NET 25.12.0 macOS 10.14 Mojave x86_64" imagelink="/resources/img/random-file-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.GIS για Python μέσω .NET 25.12.0 macOS 10.14 Mojave x86_64" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Κατεβάστε" link="/gis/python-net/new-releases/icons-aspose.gis-for-python-via-.net-25.12.0-macos-10.14-mojave-x86_64/5d78601c54db114d3d75393818af5a0a-15-14417" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/gis" >}}

@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/gis/python-net/new-releases/icons-aspose.gis-for-python-via-.net-25.12.0-macos-10.14-mojave-x86_64/"
-folder_name: "Aspose.GIS for Python（通过 .NET 25.12.0）图标，适用于 macOS 10.14 Mojave x86_64"
+folder_name: "Aspose.GIS for Python via .NET 25.12.0 macOS 10.14 Mojave x86_64"
 download_link: "/gis/python-net/new-releases/icons-aspose.gis-for-python-via-.net-25.12.0-macos-10.14-mojave-x86_64/5d78601c54db114d3d75393818af5a0a-15-14417"
 download_text: "下载"
 intro_text: "此 wheel 文件包含适用于 Python 的 Aspose.GIS（通过 .NET 版本 25.12.0），专为 macOS 10.14 (Mojave) 构建，面向 x86_64 架构。"
@@ -22,7 +22,7 @@ weight: 61
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.GIS for Python（通过 .NET 25.12.0）图标，适用于 macOS 10.14 Mojave x86_64" imagelink="/resources/img/random-file-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.GIS for Python via .NET 25.12.0 macOS 10.14 Mojave x86_64" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="下载" link="/gis/python-net/new-releases/icons-aspose.gis-for-python-via-.net-25.12.0-macos-10.14-mojave-x86_64/5d78601c54db114d3d75393818af5a0a-15-14417" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/gis" >}}
