@@ -37,6 +37,7 @@ jobs:
    # runs-on: macos-14
     runs-on: ubuntu-latest
     # timeout-minutes: 120 # 2 hours
+    timeout-minutes: 240 # 4 hours
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
