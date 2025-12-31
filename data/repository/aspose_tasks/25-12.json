@@ -1,0 +1,16 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-tasks",
+  "id" : "25-12",
+  "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-tasks-25.12-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "396 bytes",
+    "name" : "aspose-tasks-25.12.pom"
+  } ],
+  "releasehDate" : "2025-12-31T11:24:58+00:00",
+  "version" : "25.12",
+  "ReleaseNotes" : "https://releases.aspose.com/tasks/java/release-notes/2025/aspose-tasks-for-java-25-12-release-notes/"
+}
