@@ -4,7 +4,7 @@
   "artifactId" : "aspose-note",
   "id" : "25-6",
   "packageFiles" : [ {
-    "size" : "537 KB",
+    "size" : "3 MB",
     "name" : "aspose-note-25.6-javadoc.jar",
     "classifier" : "javadoc"
   }, {
@@ -12,10 +12,10 @@
     "name" : "aspose-note-25.6-jdk17.jar",
     "classifier" : "jdk17"
   }, {
-    "size" : "393 bytes",
+    "size" : "394 bytes",
     "name" : "aspose-note-25.6.pom"
   } ],
-  "releasehDate" : "2025-06-23T07:49:26+00:00",
+  "releasehDate" : "2026-01-06T21:00:54+00:00",
   "version" : "25.6",
   "ReleaseNotes" : "https://releases.aspose.com/note/java/release-notes/2025/aspose-note-for-java-25-6-release-notes/"
 }
