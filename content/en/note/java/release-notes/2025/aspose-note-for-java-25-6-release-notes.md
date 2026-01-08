@@ -21,10 +21,9 @@ This page contains release notes information for [Aspose.Note for Java 25.6](htt
 
 ## **Features and Improvements**
 
-|**Key**|**Summary**|**Category**|
-| :- | :- | :- |
-|NOTENET-5861|Support retrieving information about Loop Components|Bug|
-|NOTENET-5871|Exception “System.InvalidOperationException: Sequence contains no elements” when converting OneNote document to PDF|Bug|
+|**Key**|**Summary**|**Category**|
+| :- | :- | :- |
+|#NOTEJAVA-1210|Minor bug fixes and internal optimizations|Bug|
 
 ## **Public API and Backward Incompatible Changes**
 
