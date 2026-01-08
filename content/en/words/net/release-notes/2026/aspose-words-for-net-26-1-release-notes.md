@@ -1,8 +1,8 @@
 ---
 id: "aspose-words-for-net-26-1-release-notes"
 slug: "aspose-words-for-net-26-1-release-notes"
-linktitle: "Aspose.Words for .NET 25.12 Release Notes"
-title: "Aspose.Words for .NET 25.12 Release Notes"
+linktitle: "Aspose.Words for .NET 26.1 Release Notes"
+title: "Aspose.Words for .NET 26.1 Release Notes"
 weight: 70
 description: "Aspose.Words for .NET 26.1 Release Notes – Latest Updates and Fixes in January 2026"
 type: "repository"
