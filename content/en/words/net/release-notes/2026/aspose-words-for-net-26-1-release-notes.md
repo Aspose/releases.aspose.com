@@ -148,22 +148,6 @@ GeminiProLatest = 6,
 This use case explains how to create instance of GoogleAiModel class and summarize a document:
 {{< gist "aspose-words-gists" "0da8468118377c4860b28603bc95ffe6" "gemini.cs" >}}
 
-### 
-
-Related issue: WORDSNET-28735
-
-A new public option has been added into [Aspose.Words.AI.AiModel](https://reference.aspose.com/words/net/aspose.words.ai/aimodel/) class:
-{{< highlight csharp >}}
-/// <summary>
-/// Gets or sets a URL of the model.
-/// The default value is specific for the model.
-/// </summary>
-public abstract string Url { get; set; }
-{{< /highlight >}}
-
-This use case explains how to change the default URL for AI model:
-{{< gist "aspose-words-gists" "0da8468118377c4860b28603bc95ffe6" "change-default-url.cs" >}}
-
 ### Added option to control first imported section type in AppendDocument() method
 
 Related issue: WORDSNET-28336
@@ -200,11 +184,12 @@ Related issue: WORDSNET-21493
 
 An ability to save documents as Docling JSON format (Deep Search document) has been implemented.
 
-The following changes have been made to the API:
-
 A new class [DoclingSaveOptions](https://reference.aspose.com/words/net/aspose.words.saving/doclingsaveoptions/doclingsaveoptions/) has been implemented.
+
 A new item Docling has been added to the [SaveFormat](https://reference.aspose.com/words/net/aspose.words/saveformat/) enum type.
+
 A new item Docling has been added to the [WarningSource](https://reference.aspose.com/words/net/aspose.words/warningsource/) enum type.
+
 {{< highlight csharp >}}
 /// <summary>
 /// Can be used to specify additional options when saving a document into the <see cref="SaveFormat.Docling"/>
