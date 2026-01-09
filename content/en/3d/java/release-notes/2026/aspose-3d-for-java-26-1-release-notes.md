@@ -1,16 +1,16 @@
 ---
-id: "aspose-3d-for-java-26-1.0-release-notes"
-slug: "aspose-3d-for-java-26-1.0-release-notes"
-linktitle: "Aspose.3D for Java 26.1.0 Release Notes"
-title: "Aspose.3D for Java 26.1.0 Release Notes"
+id: "aspose-3d-for-java-26-1-release-notes"
+slug: "aspose-3d-for-java-26-1-release-notes"
+linktitle: "Aspose.3D for Java 26.1 Release Notes"
+title: "Aspose.3D for Java 26.1 Release Notes"
 weight: 1
-description: "Aspose.3D for Java 26.1.0 Release Notes ? the latest updates and fixes."
+description: "Aspose.3D for Java 26.1 Release Notes ? the latest updates and fixes."
 type: "repository"
 layout: "release"
 ---
 
 {{% alert color="primary" %}}
-This page contains release notes information for Aspose.3D for Java 26.1.0.
+This page contains release notes information for Aspose.3D for Java 26.1.
 {{% /alert %}}
 
 ## **Improvements and Changes**
