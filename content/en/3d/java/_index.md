@@ -22,6 +22,7 @@ productLink: https://products.aspose.com/3d/java/
 releaseNotesLink: https://releases.aspose.com/3d/java/release-notes/
 dataFolder: aspose_3d
 packages_refs:
+- "26-1-0"
 - "25-11-0"
 - "25-9-0"
 - "25-7-0"
