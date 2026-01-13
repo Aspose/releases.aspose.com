@@ -127,7 +127,7 @@ pdf.Save("OutputWordDocument.docx");
 Document firstDoc = new Document("DocumentA.docx");
 Document secondDoc = new Document("DocumentB.docx");
 
-// Use OpenAI or Google generative language models.
+// Create an instance of the specific generative model using the factory method and configure the API key.
 AiModel model = AiModel.Create(AiModelType.Gpt4OMini).WithApiKey(apiKey);
 
 Document summary = model.Summarize(firstDoc, new SummarizeOptions() { SummaryLength = SummaryLength.Short });
