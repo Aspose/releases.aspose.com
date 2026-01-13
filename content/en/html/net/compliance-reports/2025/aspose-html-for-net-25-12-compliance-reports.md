@@ -22,11 +22,16 @@ committed_by: "Alexander.Pavlysh@aspose.com"
 
 ## This 25.12 .NET release includes the following transparency and audit artifacts:
 
+### EULA & Third-Party Licenses
+
+- <a href="https://about.aspose.com/legal/eula/" target="_blank" rel="noopener">Aspose End User License Agreement</a>
+- {{< compliance-file relpath="/compliance-reports/third-party-licenses/net/third-party-licenses-aspose-html-net.pdf" text="Aspose.HTML for .NET Third-Party License" >}}
+
 
 
 ### Software Bill of Materials (SBOM)
 
-- {{< compliance-file relpath="/compliance-reports/html/net/2025/25.12/aspose-html-net-25.12_all_sboms.zip?t=1768298534" text="Download All SBOMs (ZIP)" download="true" >}} - 98 KB - *Last updated: January 13, 2026, 10:02 AM UTC*
+- {{< compliance-file relpath="/compliance-reports/html/net/2025/25.12/aspose-html-net-25.12_all_sboms.zip?t=1768298757" text="Download All SBOMs (ZIP)" download="true" >}} - 98 KB - *Last updated: January 13, 2026, 10:05 AM UTC*
 
 | Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
 |----------|----------------|---------------|-----------|----------|
