@@ -33,7 +33,6 @@ This page contains release notes for [Aspose.Cells for .NET 26.1](https://www.nu
 |CELLSGRIDJS-2182|Optimize the UI of the Insert Image toolbar and its popup dialog.|Enhancement
 |CELLSNET-59486|CalculateTextSize is less than the original height of the textbox.|Bug
 |CELLSNET-59510|Text line spacing error when saving file to pdf|Bug
-|CELLSNET-59561|NullReferenceException occurs when copying worksheet|Exception
 |CELLSNET-59585|Excel file hangs while generating HTML.|Bug
 |CELLSNET-59439|Calculating LET involving within complex nested functions results in "#NAME?" error|Bug
 |CELLSNET-59534|Cell.HasCustomFunction cannot detect custom function for array formulas|Bug
@@ -47,26 +46,27 @@ This page contains release notes for [Aspose.Cells for .NET 26.1](https://www.nu
 |CELLSNET-59563|Solve the bug in LegendEntry.IsDeleted in Aspose.Cells versions higher than 25.9|Bug
 |CELLSNET-59512|The spacing between text lines becomes smaller when saving file to pdf|Bug
 |CELLSNET-59552|When rendering range to PNG image, there is an issue with rendering text that has accounting underline|Bug
-|CELLSNET-59632|Exception "Aspose.Cells.CellsException:'Metafile::PixelForamt'" when rendering Excel file to PDF|Exception
 |CELLSNET-59606|Angled text is larger and misplaced in HTML|Bug
 |CELLSNET-59663|Converts Excel file to HTML hung|Bug
 |CELLSNET-59568|Invalid order of item in the slicer|Bug
 |CELLSNET-59569|Invalid color of missing slicer cache item.|Bug
 |CELLSNET-59575|The horizontal alignment type is not right when cell text is vertical orientation|Bug
 |CELLSNET-59576|Lost the top-to-bottom settings when reading xlsb|Bug
-|CELLSNET-59578|Exception "Input string was not in a correct format" when loading an XLSX file|Exception
 |CELLSNET-59628|The inner richtext font is not changed after changing cell font|Bug
-|CELLSNET-59636|NullReferenceException when copying worksheet|Exception
-|CELLSNET-59658|Exception while refreshing pivot tables|Exception
 |CELLSNET-59665|InsertCutCells does not keep format condition formulas relative to new cell locations|Bug
 |CELLSNET-59668|InsertCutCells method wipes out invalid custom function names|Bug
-|CELLSNET-59675|An exception occurred while converting the Excel file to HTML.|Exception
 |CELLSGRIDJS-2156|Checkbox disappears after scrolling|Bug
 |CELLSGRIDJS-2179|The content edited in the cell should match the value in Excel|Bug
 |CELLSGRIDJS-2181|The context menu list in the right-click menu for images or shapes is showing an increasing number of "Delete Image" options|Bug
 |CELLSGRIDJS-2154|Text format causes the leading zero in ?01234? to be dropped|Bug
 |CELLSGRIDJS-2165|The bottom portion of the date picker is cut off and does not fully opened|Bug
 |CELLSGRIDJS-2167|Unable to retrieve the complete range of cell validation.|Bug
+|CELLSNET-59561|NullReferenceException occurs when copying worksheet|Exception
+|CELLSNET-59632|Exception "Aspose.Cells.CellsException:'Metafile::PixelForamt'" when rendering Excel file to PDF|Exception
+|CELLSNET-59578|Exception "Input string was not in a correct format" when loading an XLSX file|Exception
+|CELLSNET-59636|NullReferenceException when copying worksheet|Exception
+|CELLSNET-59658|Exception while refreshing pivot tables|Exception
+|CELLSNET-59675|An exception occurred while converting the Excel file to HTML.|Exception
 
 ## **Public API and Backwards Incompatible Changes**
 
