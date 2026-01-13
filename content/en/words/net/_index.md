@@ -140,8 +140,8 @@ multiSummary.Save("SummaryA+B.docx");
 ```c#
 Document doc = new Document("Document.docx");
 
-// Use Google generative language models.
-AiModel model = AiModel.Create(AiModelType.GeminiProLatest).WithApiKey(apiKey);
+// Instantiates the GoogleAiModel class for the specified generative model identifier and API key.
+GoogleAiModel model = new GoogleAiModel("gemini-flash-latest", apiKey);
 
 Document translatedDoc = model.Translate(doc, Language.Arabic);
 translatedDoc.Save("AiTranslated.docx");
