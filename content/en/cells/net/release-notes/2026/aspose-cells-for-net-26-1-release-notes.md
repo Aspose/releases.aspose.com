@@ -19,7 +19,18 @@ This page contains release notes for [Aspose.Cells for .NET 26.1](https://www.nu
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
+|CELLSGRIDJS-2173|Support custom sorting for left to right|New Feature
+|CELLSGRIDJS-1424|Support setting for Bubble Charts in GridJs UI|New Feature
+|CELLSGRIDJS-1780|Support format painter|New Feature
+|CELLSGRIDJS-2129|Support setting for Radar Charts in GridJs|New Feature
+|CELLSGRIDJS-2130|Support setting for Box Plot Charts in GridJs UI|New Feature
+|CELLSGRIDJS-2157|Support setting for Funnel Charts in GridJs|New Feature
 |CELLSNET-59584|Enhance refreshing slicers with pivot table data source.|Enhancement
+|CELLSGRIDJS-2155|Add defensive checks for abnormal dimensions/shapes to prevent rendering issues.|Enhancement
+|CELLSGRIDJS-2180|The highlighted text position is incorrect when the cell content is vertically oriented|Enhancement
+|CELLSGRIDJS-2058|Right border does not show for the merged cell|Enhancement
+|CELLSGRIDJS-2143|Unnecessary scrollbars are displayed|Enhancement
+|CELLSGRIDJS-2182|Optimize the UI of the Insert Image toolbar and its popup dialog.|Enhancement
 |CELLSNET-59486|CalculateTextSize is less than the original height of the textbox.|Bug
 |CELLSNET-59510|Text line spacing error when saving file to pdf|Bug
 |CELLSNET-59561|NullReferenceException occurs when copying worksheet|Exception
@@ -50,6 +61,12 @@ This page contains release notes for [Aspose.Cells for .NET 26.1](https://www.nu
 |CELLSNET-59665|InsertCutCells does not keep format condition formulas relative to new cell locations|Bug
 |CELLSNET-59668|InsertCutCells method wipes out invalid custom function names|Bug
 |CELLSNET-59675|An exception occurred while converting the Excel file to HTML.|Exception
+|CELLSGRIDJS-2156|Checkbox disappears after scrolling|Bug
+|CELLSGRIDJS-2179|The content edited in the cell should match the value in Excel|Bug
+|CELLSGRIDJS-2181|The context menu list in the right-click menu for images or shapes is showing an increasing number of "Delete Image" options|Bug
+|CELLSGRIDJS-2154|Text format causes the leading zero in ?01234? to be dropped|Bug
+|CELLSGRIDJS-2165|The bottom portion of the date picker is cut off and does not fully opened|Bug
+|CELLSGRIDJS-2167|Unable to retrieve the complete range of cell validation.|Bug
 
 ## **Public API and Backwards Incompatible Changes**
 
@@ -130,23 +147,23 @@ Specifies how items with no data are shown in a slicer.
 ### **Adds new properties to Slicer:**
 
 - **SortOrderType** – Indicates the type of sorting items.
-- **ShowMissing **– Indicates whether to show items deleted from the data source.
-- **ShowTypeOfItemsWithNoData**– Controls how items with no data are displayed.
-- **ShowAllItems -** Indicates whether to show all items even if there is no data.
-- **ShowCaption ** – Indicates whether the slicer header is visible.
-- **FirstItemIndex ** – Specifies the zero based index of the first slicer item.
-- **Worksheet  **– Returns the worksheet that contains the slicer (replaces the obsolete **Parent** property).
+- **ShowMissing** – Indicates whether to show items deleted from the data source.
+- **ShowTypeOfItemsWithNoData** – Controls how items with no data are displayed.
+- **ShowAllItems** - Indicates whether to show all items even if there is no data.
+- **ShowCaption** – Indicates whether the slicer header is visible.
+- **FirstItemIndex** – Specifies the zero based index of the first slicer item.
+- **Worksheet** – Returns the worksheet that contains the slicer (replaces the obsolete **Parent** property).
 
 ### **Obsoletes the following Slicer members:**
 
-- **Title ** – Use **Shape.Title** instead.
-- **AlternativeText ** – Use **Shape.AlternativeText** instead.
-- **IsPrintable ** – Use **Shape.IsPrintable** instead.
-- **IsLocked **– Use **Shape.IsLocked** instead.
-- **Placement ** – Use **Shape.Placement** instead.
-- **LockedAspectRatio **– Use **Shape.IsLockAspectRatio** property instead.
-- **CaptionVisible **– Use **Slicer.ShowCaption** instead.
-- **Parent ** – Replaced by **Slicer.Worksheet** property.
+- **Title** – Use **Shape.Title** instead.
+- **AlternativeText** – Use **Shape.AlternativeText** instead.
+- **IsPrintable** – Use **Shape.IsPrintable** instead.
+- **IsLocked** – Use **Shape.IsLocked** instead.
+- **Placement** – Use **Shape.Placement** instead.
+- **LockedAspectRatio** – Use **Shape.IsLockAspectRatio** property instead.
+- **CaptionVisible** – Use **Slicer.ShowCaption** instead.
+- **Parent** – Replaced by **Slicer.Worksheet** property.
 
 ### **Obsoletes  enum SlicerCacheCrossFilterType.**
 
@@ -155,12 +172,12 @@ Please use ItemsWithNoDataShowMode enum instead.
 ### **Adds new properties to Timeline:**
 
 - **ShowHeader** – Indicates whether to display the header.
-- **ShowSelectionLabel **– Indicates whether to display the selection label.
-- **ShowTimeLevel ** – Indicates whether to display the time level.
-- **ShowHorizontalScrollbar ** – Indicates whether to display the horizontal scroll bar.
-- **StartDate ** – Gets or sets the start date of the timespan scrolling position.
-- **CurrentLevel ** – Gets or sets the current time level.
-- **SelectionLevel ** – Gets or sets the time level at which the current selection was made for the Timeline.
+- **ShowSelectionLabel** – Indicates whether to display the selection label.
+- **ShowTimeLevel** – Indicates whether to display the time level.
+- **ShowHorizontalScrollbar** – Indicates whether to display the horizontal scroll bar.
+- **StartDate** – Gets or sets the start date of the timespan scrolling position.
+- **CurrentLevel** – Gets or sets the current time level.
+- **SelectionLevel** – Gets or sets the time level at which the current selection was made for the Timeline.
 
 ### **Adds new enum TimelineLevelType.**
 
