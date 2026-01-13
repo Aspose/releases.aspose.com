@@ -1,15 +1,15 @@
 ---
-id: "aspose-3d-for-net-26-1-0-compliance-reports"
-slug: "aspose-3d-for-net-26-1-0-compliance-reports"
-linktitle: "Aspose.3D for .NET 26.1.0 Compliance Reports"
-title: "Aspose.3D for .NET 26.1.0 – Compliance & Security"
+id: "aspose-3d-for-net-26-1-compliance-reports"
+slug: "aspose-3d-for-net-26-1-compliance-reports"
+linktitle: "Aspose.3D for .NET 26.1 Compliance Reports"
+title: "Aspose.3D for .NET 26.1 – Compliance & Security"
 weight: 999
-description: "Aspose.3D for .NET Compliance & Security Reports | Release 26.1.0"
+description: "Aspose.3D for .NET Compliance & Security Reports | Release 26.1"
 type: "repository"
 layout: "release"
 hideChildren: false
 toc: false
-family_listing_page_title: "Aspose.3D for .NET 26.1.0 Compliance & Security Reports"
+family_listing_page_title: "Aspose.3D for .NET 26.1 Compliance & Security Reports"
 menuItemWithNoContent: false
 committed_by: "lex.chou@aspose.com"
 ---
@@ -20,7 +20,7 @@ committed_by: "lex.chou@aspose.com"
 ![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-2021-blue?style=flat-square&logo=openaccess)
 
 
-## This 26.1.0 .NET release includes the following transparency and audit artifacts:
+## This 26.1 .NET release includes the following transparency and audit artifacts:
 
 ### EULA & Third-Party Licenses
 
