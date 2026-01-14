@@ -69,8 +69,8 @@ using (Presentation pres = new Presentation("shape.pptx"))
     {
         Console.WriteLine("Start element");
 
-        byte[] types = element.PathTypes;
-        PointF[] points = element.PathPoints;
+        byte[] types = ((ShapeElement)element).PathTypes;
+        PointF[] points = ((ShapeElement)element).PathPoints;
         for (int i = 0; i < types.Length; i++)
         {
             switch (types[i])
