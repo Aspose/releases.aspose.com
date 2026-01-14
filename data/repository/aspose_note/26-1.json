@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk17",
+  "artifactId" : "aspose-note",
+  "id" : "26-1",
+  "packageFiles" : [ {
+    "size" : "3 MB",
+    "name" : "aspose-note-26.1-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "10 MB",
+    "name" : "aspose-note-26.1-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "394 bytes",
+    "name" : "aspose-note-26.1.pom"
+  } ],
+  "releasehDate" : "2026-01-14T16:58:05+00:00",
+  "version" : "26.1",
+  "ReleaseNotes" : "https://releases.aspose.com/note/java/release-notes/2025/aspose-note-for-java-26-1-release-notes/"
+}
