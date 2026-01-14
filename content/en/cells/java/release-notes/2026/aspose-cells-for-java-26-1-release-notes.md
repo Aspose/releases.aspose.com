@@ -19,6 +19,7 @@ This page contains release notes for [Aspose.Cells for Java 26.1](https://releas
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |CELLSJAVA-46581|Support smart expression as variable of another smart expression|Enhancement
+|CELLSJAVA-46575|Implement JSON arrays with personalized styles to single cell in Smart Markers|Enhancement
 |CELLSJAVA-46595|Support embedded image of XLS for WPS compatibility|Bug
 |CELLSJAVA-46596|Support converting the embedded image from xls to xlsx|Bug
 
