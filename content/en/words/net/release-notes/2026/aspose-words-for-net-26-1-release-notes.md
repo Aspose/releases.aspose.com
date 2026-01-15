@@ -35,6 +35,9 @@ There are 38 improvements and fixes in this regular monthly release. The most no
 - **AI Integration:** Enhanced the Aspose.Words.AI namespace by allowing direct instantiation of the [GoogleAiModel](https://reference.aspose.com/words/net/aspose.words.ai/googleaimodel/googleaimodel/) class.
 - **Document Merging:** Added an [option](https://reference.aspose.com/words/net/aspose.words/importformatoptions/appenddocumentwithnewpage/) to the [AppendDocument()](https://reference.aspose.com/words/net/aspose.words/document/appenddocument/) method to explicitly define the SectionStart behavior for the first imported section.
 - **PDF Rendering:** Extended [PdfSaveOptions.PreserveFormFields](https://reference.aspose.com/words/net/aspose.words.saving/pdfsaveoptions/preserveformfields/) functionality to be compatible with all PDF compliance standards (including PDF/A and PDF/UA).
+- **PDF Export:** Implemented support for tagging PDF AcroForms to enhance document accessibility.
+- **Field Rendering:** Improved displacement handling for EQ fields with updated layout logic for precise positioning and bounds.
+- **Mathematical Equations:** Added support for rendering MathML with East Asian characters while correctly preserving Latin and Hebrew text when an East Asian font is specified.
 
 ## Full List of Issues Covering all Changes in this Release
 
