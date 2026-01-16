@@ -1182,3 +1182,5 @@ rewrite ^/omr/net/new-releases/icons-aspose\.omr\.handwriting-for-\.net-24\.7/$ 
 rewrite ^/omr/net/new-releases/icons-aspose\.omr-for-\.net-24\.7/$ https://releases.aspose.com/omr/net/new-releases/aspose.omr-for-.net-24.7/ permanent;
 # Redirect "/pdf/jassperreport/" and all pages under it to the correct path "/pdf/jasperreports/" and sub paths (202503282103)
 rewrite ^/pdf/jassperreport(/.*)?$ https://releases.aspose.com/pdf/jasperreports$1 permanent;
+# Redirect for GridJS 26.1 release notes
+rewrite ^/cells/net/release-notes/2025/aspose-cells-for-net-26-1-release-notes/$ https://releases.aspose.com/cells/net/release-notes/2026/aspose-cells-for-net-26-1-release-notes/ permanent;
