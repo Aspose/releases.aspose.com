@@ -38,7 +38,7 @@ This page contains release notes information for Aspose.PDF for .NET 26.1.
 | PDFNET-39150 | PDF to HTML: results in incorrect HTML contents | Bug |
 | PDFNET-39153 | Problem concatenating PDF documents | Bug |
 | PDFNET-39158 | OCR clinched after PDF-A3b conversion | Bug |
-| PDFNET-50941 | PDF to HTML - Only the highlighted color can be seen not text | Bug |
+| PDFNET-50941 | PDF to HTML - Only the highlighted color can be seen, not the text | Bug |
 | PDFNET-53708 | Concatenate fails to concatenate on certain pdfs | Bug |
 | PDFNET-57101 | When converting PDF to HTML annotated text is transparent and not visible | Bug |
 | PDFNET-57349 | Aspose.PDF can't convert multipage PS file | Bug |
