@@ -35,7 +35,7 @@ This page contains release notes information for Aspose.PDF for .NET 26.1.
 | PDFNET-38618 | PDF to HTML - The vertical text on the left side of PDF is missing | Bug |
 | PDFNET-39120 | HTML to PDF: Word-wrap issue is not resolved completely | Bug |
 | PDFNET-39137 | PDF to PDFA1b: resultant file fails the compliance test | Bug |
-| PDFNET-39150 | PDF to HTML: results into incorrect HTML contents | Bug |
+| PDFNET-39150 | PDF to HTML: results in incorrect HTML contents | Bug |
 | PDFNET-39153 | Problem concatenating PDF documents | Bug |
 | PDFNET-39158 | OCR clinched after PDF-A3b conversion | Bug |
 | PDFNET-50941 | PDF to HTML - Only the highlighted color can be seen not text | Bug |
