@@ -27,5 +27,5 @@ Below is a summary of the key improvements included in this release:
 - Added safety constraints (null guards) in rendering SVG image to prevent null-related issues during SVG rendering.
 - Improved handling for missing SVG, missing style (width calculation), and missing/empty viewBox values by adding defensive checks and safe defaults.
 - When SVG input is absent, processing now returns an empty result instead of failing.
-- Fixed RegExp behavior for both matching and RegExp construction.
+- Fixed RegExp behavior for matching expressions and RegExp construction.
 
