@@ -23,7 +23,7 @@ This page contains release notes information for [Aspose.Note for Java 26.1](htt
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|#NOTEJAVA-1210|Internal architecture and reliability enhancements|Bug|
+|#NOTEJAVA-1212|Incremental enhancements to existing features|Task|
 
 ## **Public API and Backward Incompatible Changes**
 
