@@ -1,0 +1,21 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk17",
+  "artifactId" : "aspose-words",
+  "id" : "26-1",
+  "packageFiles" : [ {
+    "size" : "18 MB",
+    "name" : "aspose-words-26.1-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "18 MB",
+    "name" : "aspose-words-26.1-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "5 KB",
+    "name" : "aspose-words-26.1.pom"
+  } ],
+  "releasehDate" : "2026-01-21T14:00:32+00:00",
+  "version" : "26.1",
+  "ReleaseNotes" : "https://releases.aspose.com/words/java/release-notes/2026/aspose-words-for-java-26-1-release-notes/"
+}
