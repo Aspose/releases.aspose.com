@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-html",
+  "id" : "26-1",
+  "packageFiles" : [ {
+    "size" : "35 MB",
+    "name" : "aspose-html-26.1-jdk8.jar",
+    "classifier" : "jdk8"
+  }, {
+    "size" : "35 MB",
+    "name" : "aspose-html-26.1.jar"
+  }, {
+    "size" : "394 bytes",
+    "name" : "aspose-html-26.1.pom"
+  } ],
+  "releasehDate" : "2026-01-21T05:39:34+00:00",
+  "version" : "26.1",
+  "ReleaseNotes" : "https://releases.aspose.com/html/java/release-notes/2026/aspose-html-for-java-26-1-release-notes/"
+}
