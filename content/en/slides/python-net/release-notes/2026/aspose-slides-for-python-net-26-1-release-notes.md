@@ -72,7 +72,7 @@ The new [`SensitivityLabelAssignmentType`](https://reference.aspose.com/slides/p
 
 #### Added New Enumeration: SensitivityLabelContentType
 
-The new `SensitivityLabelContentType` enumeration has been added. This enumeration represents the types of content marking that ought to be applied to a presentation document.
+The new [`SensitivityLabelContentType`](https://reference.aspose.com/slides/python-net/aspose.slides/sensitivitylabelcontenttype/) enumeration has been added. This enumeration represents the types of content marking that ought to be applied to a presentation document.
 
 | Name | Description |
 | --- | --- |
