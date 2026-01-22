@@ -75,28 +75,27 @@ string outputFile = Path.Combine(outputFolder, "output_ComplexGradientFillLayer.
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     var fillLayer = image.Layers[1] as FillLayer;
-    var resources = fillLayer.Resources;
-    var resource = fillLayer.Resources[0] as GdFlResource;
+    var fillSettings = fillLayer.FillSettings as GradientFillSettings;
 
     // Reading
-    AssertAreEqual(GradientType.Linear, resource.GradientType);
-    AssertAreEqual("Custom\0", resource.GradientName);
+    AssertAreEqual(GradientType.Linear, fillSettings.GradientType);
+    AssertAreEqual("Custom\0", fillSettings.Gradient.GradientName);
 
     // Editing
-    resource.GradientType = GradientType.Diamond;
-    resource.GradientName = "UpdatedGradient";
+    fillSettings.GradientType = GradientType.Diamond;
+    fillSettings.Gradient.GradientName = "UpdatedGradient";
 
+    fillLayer.Update();
     image.Save(outputFile);
 }
 
 using (PsdImage image = (PsdImage)Image.Load(outputFile))
 {
     var fillLayer = image.Layers[1] as FillLayer;
-    var resources = fillLayer.Resources;
-    var resource = fillLayer.Resources[0] as GdFlResource;
+    var fillSettings = fillLayer.FillSettings as GradientFillSettings;
 
-    AssertAreEqual(GradientType.Diamond, resource.GradientType);
-    AssertAreEqual("UpdatedGradient", resource.GradientName);
+    AssertAreEqual(GradientType.Diamond, fillSettings.GradientType);
+    AssertAreEqual("UpdatedGradient", fillSettings.Gradient.GradientName);
 }
 
 void AssertAreEqual(object expected, object actual, string message = null)
@@ -137,6 +136,8 @@ using (PsdImage image = (PsdImage)Image.Load(
 // Verify that the size of the saved file does not exceed the size of the original file by more than 50 percent.
 // Check that output psd file can be opened in PS.
 AssertIsTrue(sourceFileSize * 1.5 >= new FileInfo(outputFile).Length);
+
+File.Delete(outputFile);
 
 void AssertIsTrue(bool actual)
 {
