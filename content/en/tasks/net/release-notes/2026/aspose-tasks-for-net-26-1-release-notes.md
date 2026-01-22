@@ -26,6 +26,8 @@ This page contains release notes information for [Aspose.Tasks for .Net 26.1](ht
 | TASKSNET-11528 | Add public API for customization of task links color when rendering Gantt Chart view | Enhancement |
 | TASKSNET-11645 | Summary task material assignment TimephasedData not refreshed on duration change | Bug |
 | TASKSNET-11643 | Fix incorrect behavior of MS Project when working with formula-calculated extended attributes in project created by Aspose.Tasks | Bug |
+| TASKSNET-11646 | Fix reading of task-specific calendars from Primavera DB | Bug |
+| TASKSNET-11649 | Fix CalculationType for OutlineCode is None in some cases when project is read from MPP file | Bug |
 
 ## **Public API and Backwards Incompatible Changes**
 
