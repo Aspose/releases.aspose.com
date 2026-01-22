@@ -30,7 +30,7 @@ This page contains release notes for [Aspose.Slides for Python via .NET 26.1](ht
 
 ### Added New Properties: `ShapeElement.path_points` and `ShapeElement.path_types`
 
-The new [`path_points`](https://reference2.aspose.com/slides/python-net/aspose.slides/shapeelement/path_points/) and [`path_types`](https://reference2.aspose.com/slides/python-net/aspose.slides/shapeelement/path_types/) properties have been added to the [`ShapeElement`](https://reference2.aspose.com/slides/python-net/aspose.slides/shapeelement/) class. These properties return the graphics path information from the [`ShapeElement`](https://reference2.aspose.com/slides/python-net/aspose.slides/shapeelement/).
+The new [`path_points`](https://reference.aspose.com/slides/python-net/aspose.slides/shapeelement/path_points/) and [`path_types`](https://reference.aspose.com/slides/python-net/aspose.slides/shapeelement/path_types/) properties have been added to the [`ShapeElement`](https://reference.aspose.com/slides/python-net/aspose.slides/shapeelement/) class. These properties return the graphics path information from the [`ShapeElement`](https://reference.aspose.com/slides/python-net/aspose.slides/shapeelement/).
 
 #### Usage examples
 
@@ -61,7 +61,7 @@ with slides.Presentation("shape.pptx") as pres:
 
 #### Added New Enumeration: SensitivityLabelAssignmentType
 
-The new [`SensitivityLabelAssignmentType`](https://reference2.aspose.com/slides/python-net/aspose.slides/sensitivitylabelassignmenttype/) enumeration has been added. This enumeration represents the assignment method for the sensitivity label.
+The new [`SensitivityLabelAssignmentType`](https://reference.aspose.com/slides/python-net/aspose.slides/sensitivitylabelassignmenttype/) enumeration has been added. This enumeration represents the assignment method for the sensitivity label.
 
 | Name | Description |
 | --- | --- |
@@ -82,15 +82,15 @@ The new `SensitivityLabelContentType` enumeration has been added. This enumerati
 
 #### Added New Class: SensitivityLabel
 
-The new [`SensitivityLabel`](https://reference2.aspose.com/slides/python-net/aspose.slides/sensitivitylabel/) class and [`ISensitivityLabel`](https://reference2.aspose.com/slides/python-net/aspose.slides/isensitivitylabel/) interface have been added. It represents the sensitivity label from Microsoft Purview Information Protection.
+The new [`SensitivityLabel`](https://reference.aspose.com/slides/python-net/aspose.slides/sensitivitylabel/) class and [`ISensitivityLabel`](https://reference.aspose.com/slides/python-net/aspose.slides/isensitivitylabel/) interface have been added. It represents the sensitivity label from Microsoft Purview Information Protection.
 
 #### Added New Class: SensitivityLabelCollection
 
-The new [`SensitivityLabelCollection`](https://reference2.aspose.com/slides/python-net/aspose.slides/isensitivitylabelcollection/) class and [`ISensitivityLabelCollection`](https://reference2.aspose.com/slides/python-net/aspose.slides/isensitivitylabelcollection/) interface have been added for storing the collection of sensitivity labels applied to the document.
+The new [`SensitivityLabelCollection`](https://reference.aspose.com/slides/python-net/aspose.slides/isensitivitylabelcollection/) class and [`ISensitivityLabelCollection`](https://reference.aspose.com/slides/python-net/aspose.slides/isensitivitylabelcollection/) interface have been added for storing the collection of sensitivity labels applied to the document.
 
 #### Added New Property: Presentation.sensitivity_labels
 
-The new [`sensitivity_labels`](https://reference2.aspose.com/slides/python-net/aspose.slides/presentation/sensitivity_labels/) property has been added to the [`IPresentation`](https://reference2.aspose.com/slides/python-net/aspose.slides/ipresentation/) interface and [`Presentation`](https://reference2.aspose.com/slides/python-net/aspose.slides/presentation/) class. It returns the collection of sensitivity labels applied to the presentation document.
+The new [`sensitivity_labels`](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/sensitivity_labels/) property has been added to the [`IPresentation`](https://reference.aspose.com/slides/python-net/aspose.slides/ipresentation/) interface and [`Presentation`](https://reference.aspose.com/slides/python-net/aspose.slides/presentation/) class. It returns the collection of sensitivity labels applied to the presentation document.
 
 #### Usage examples
 
@@ -124,7 +124,7 @@ with slides.Presentation("SomePresentation.pptx") as pres:
 
 #### Added New Method: DocumentProperties.get_sensitivity_labels()
 
-The new [`get_sensitivity_labels`](https://reference2.aspose.com/slides/python-net/aspose.slides/documentproperties/get_sensitivity_labels/) method has been added to the [`IDocumentProperties`](https://reference2.aspose.com/slides/python-net/aspose.slides/documentproperties/) interface and [`DocumentProperties`](https://reference2.aspose.com/slides/python-net/aspose.slides/documentproperties/) class. This method gets an array of sensitivity labels from the custom document properties (Microsoft Information Protection SDK Metadata).
+The new [`get_sensitivity_labels`](https://reference.aspose.com/slides/python-net/aspose.slides/documentproperties/get_sensitivity_labels/) method has been added to the [`IDocumentProperties`](https://reference.aspose.com/slides/python-net/aspose.slides/documentproperties/) interface and [`DocumentProperties`](https://reference.aspose.com/slides/python-net/aspose.slides/documentproperties/) class. This method gets an array of sensitivity labels from the custom document properties (Microsoft Information Protection SDK Metadata).
 
 #### Usage example
 
