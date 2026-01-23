@@ -1,15 +1,16 @@
 ---
-id: "aspose-omr-for-net-latest-release-notes"
-slug: "latest"
-weight: 1
 date: "2026-01-23"
+id: "aspose-omr-for-net-26-1-0-release-notes"
 author: "Nikita Korobeynikov"
+slug: "aspose-omr-for-net-26-1-0-release-notes"
+weight: 121
 type: "repository"
 layout: "release"
-title: Latest release
-description: A summary of recent changes, enhancements and bug fixes in the latest release of Aspose.OMR for .NET.
+title: "Aspose.OMR for .NET 26.1 - Release Notes"
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OMR for .NET 26.1 (January 2026) release."
 keywords:
-- latest
+- "2026"
+- August
 - new
 - release
 - changelog
@@ -93,7 +94,6 @@ Execution time is improved 2-3 times:
 |      64    |       63,333.6 ms         |       26,178.4 ms        |  
 |      128   |       89,164.0 ms         |       36,164.1 ms        | 
 
-
 ### Process RAM usage
 
 By pooling and reusing arrays process memory size improved approximately in half.
@@ -101,11 +101,11 @@ Also it fixes potential issues with memory leaks in long-running services.
 
 Aspose OMR for .NET 25.8 after recognizing 128 different templates in a row.
 
-![OMR-25.8-release](../2026/OMR_25.8.png)
+![OMR-25.8-release](../OMR_25.8.png)
 
 Aspose OMR for .NET 26.1 after recognizing 128 different templates in a row.
 
-![OMR-26.1-release](../2026/OMR_26.1.png)
+![OMR-26.1-release](../OMR_26.1.png)
 
 
 We are happy to receive your feedback on features\bugs at our [Free support forum](https://forum.aspose.com/c/omr/38);
