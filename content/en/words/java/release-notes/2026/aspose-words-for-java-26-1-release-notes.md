@@ -23,7 +23,6 @@ This page contains release notes for [Aspose.Words for Java 26.1](https://releas
 
 There are 41 improvements and fixes in this regular monthly release. The most notable are:
 
-- **Platform Support:** Introduced a dedicated build for the .NET 10.0 target framework.
 - **Document Conversion:** Implemented a new export format allowing documents to be serialized as [Docling](https://reference.aspose.com/words/net/aspose.words.saving/doclingsaveoptions/) JSON.
 - **AI Integration:** Enhanced the Aspose.Words.AI namespace by allowing direct instantiation of the [GoogleAiModel](https://reference.aspose.com/words/net/aspose.words.ai/googleaimodel/googleaimodel/) class.
 - **Document Merging:** Added an [option](https://reference.aspose.com/words/net/aspose.words/importformatoptions/appenddocumentwithnewpage/) to the [AppendDocument()](https://reference.aspose.com/words/net/aspose.words/document/appenddocument/) method to explicitly define the SectionStart behavior for the first imported section.
