@@ -200,7 +200,7 @@ pres->Save(u"SensitivityLabel.pptx", SaveFormat::Pptx);
 
 #### Added New Method: `DocumentProperties::GetSensitivityLabels()`
 
-The new `GetSensitivityLabels` method has been added to the `IDocumentProperties` interface and `DocumentProperties` class. This method gets an array of sensitivity labels from the custom document properties (Microsoft Information Protection SDK Metadata).
+The new `GetSensitivityLabels()` method has been added to the `IDocumentProperties` interface and `DocumentProperties` class. This method gets an array of sensitivity labels from the custom document properties (Microsoft Information Protection SDK Metadata).
 
 #### Usage example
 
