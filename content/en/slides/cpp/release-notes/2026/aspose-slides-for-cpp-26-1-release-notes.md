@@ -36,7 +36,7 @@ This page contains release notes for [Aspose.Slides for C++ 26.1](https://www.nu
 
 ### Added New Methods: `ShapeElement::get_PathPoints()` and `ShapeElement::get_PathTypes()`
 
-The new `get_PathPoints()` and `get_PathTypes()` properties have been added to the `ShapeElement` class. These properties return the graphics path information from the `ShapeElement`.
+The new `get_PathPoints()` and `get_PathTypes()` methods have been added to the `ShapeElement` class. These methods return the graphics path information from the `ShapeElement`.
 
 ```cpp
 /// <summary>
@@ -167,7 +167,7 @@ The new `SensitivityLabel` class and `ISensitivityLabel` interface have been add
 
 The new `SensitivityLabelCollection` class and `ISensitivityLabelCollection` interface have been added for storing the collection of sensitivity labels applied to the document.
 
-#### Added New Property: `Presentation::get_SensitivityLabels()`
+#### Added New Method: `Presentation::get_SensitivityLabels()`
 
 The new `get_SensitivityLabels()` method has been added to the `IPresentation` interface and `Presentation` class. It returns the collection of sensitivity labels applied to the presentation document.
 
