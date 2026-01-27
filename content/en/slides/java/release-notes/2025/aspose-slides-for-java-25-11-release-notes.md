@@ -3,7 +3,7 @@ id: "aspose-slides-for-java-25-11-release-notes"
 slug: "aspose-slides-for-java-25-11-release-notes"
 linktitle: "Aspose.Slides for Java 25.11 Release Notes"
 title: "Aspose.Slides for Java 25.11 Release Notes"
-weight: 30
+weight: 20
 description: "Aspose.Slides for Java 25.11 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"

@@ -3,7 +3,7 @@ id: "aspose-slides-for-java-25-12-release-notes"
 slug: "aspose-slides-for-java-25-12-release-notes"
 linktitle: "Aspose.Slides for Java 25.12 Release Notes"
 title: "Aspose.Slides for Java 25.12 Release Notes"
-weight: 30
+weight: 10
 description: "Aspose.Slides for Java 25.12 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
@@ -23,7 +23,7 @@ This page contains release notes for [Aspose.Slides for Java 25.12](https://rel
 |SLIDESNET-45176|Managing Guides on masters and slide layouts|Feature||
 |SLIDESNET-45190|Populating data tags with data from another file|Feature||
 |SLIDESNET-45194|JoinPortionsWithSameFormatting carries over the "err" flag from the first text run|Enhancement||
-|SLIDESJAVA-39579|[Use Aspose.Slides for Net 25.12 features](/slides/net/release-notes/2025/aspose-slides-for-net-25-12-release-notes/)|Enhancement||
+|SLIDESJAVA-39581|[Use Aspose.Slides for Net 25.12 features](/slides/net/release-notes/2025/aspose-slides-for-net-25-12-release-notes/)|Enhancement||
 |SLIDESJAVA-38861|Combo chart missing when converting PPTX to PDF|Bug|https://docs.aspose.com/slides/java/convert-powerpoint-to-pdf/|
 |SLIDESJAVA-38860|Combo chart displays differently when converting PPTX to PDF|Bug|https://docs.aspose.com/slides/java/convert-powerpoint-to-pdf/|
 |SLIDESJAVA-38880|Data label format is not applied when presentation is saved as PDF|Bug|https://docs.aspose.com/slides/java/convert-powerpoint-to-pdf/|
