@@ -48,7 +48,7 @@ for (BarCodeResult result : reader.readBarCodes()) {
 
 In this release, we reviewed and refined the public API. 
 We corrected misspellings, clarified unclear naming, and removed redundant naming patterns. 
-The previous names remain available for backward compatibility, but they are now marked with the `Obsolete` attribute. 
+The previous names remain available for backward compatibility, but they are now marked with the `Deprecated` attribute. 
 We recommend using the updated names listed below.
 
 `com.aspose.barcode.generation.CodabarParameters.getCodabarChecksumMode()` -> `com.aspose.barcode.generation.CodabarParameters.getChecksumMode()`
