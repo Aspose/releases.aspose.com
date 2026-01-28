@@ -4,7 +4,7 @@ linktitle: "2025"
 title: "Release Notes - 2025"
 productName: "Aspose.Words for Java"
 weight: 12
-description: "This section contains the release notes of Aspose.Words for Java for the year 2024. In these release notes, we are publishing the list of issues that have been fixed in the current version, as well as any public API and behavioral changes."
+description: "This section contains the release notes of Aspose.Words for Java for the year 2025. In these release notes, we are publishing the list of issues that have been fixed in the current version, as well as any public API and behavioral changes."
 type: "repository"
 layout: "releases"
 hideChildren: false

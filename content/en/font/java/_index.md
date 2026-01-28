@@ -21,6 +21,7 @@ productLink: https://products.aspose.com/font/java/
 releaseNotesLink: https://releases.aspose.com/font/java/release-notes/
 dataFolder: aspose_font
 packages_refs:
+- "26-1"
 - "25-12"
 - "25-11"
 - "25-10"

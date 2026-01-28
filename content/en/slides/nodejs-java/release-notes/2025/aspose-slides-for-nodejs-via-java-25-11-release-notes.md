@@ -3,7 +3,7 @@ id: "aspose-slides-for-nodejs-via-java-25-11-release-notes"
 slug: "aspose-slides-for-nodejs-via-java-25-11-release-notes"
 linktitle: "Aspose.Slides for Node.js via Java 25.11 Release Notes"
 title: "Aspose.Slides for Node.js via Java 25.11 Release Notes"
-weight: 30
+weight: 20
 description: "Aspose.Slides for Node.js via Java 25.11 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
