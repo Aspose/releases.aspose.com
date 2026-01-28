@@ -31,7 +31,7 @@ committed_by: "evgeniy.sidenko@aspose.com"
 
 ### Software Bill of Materials (SBOM)
 
-- {{< compliance-file relpath="/compliance-reports/imaging/java/2026/26.2/aspose-imaging-java-26.2_all_sboms.zip?t=1769639503" text="Download All SBOMs (ZIP)" download="true" >}} - 47.4 KB - *Last updated: January 28, 2026, 10:31 PM UTC*
+- {{< compliance-file relpath="/compliance-reports/imaging/java/2026/26.2/aspose-imaging-java-26.2_all_sboms.zip?t=1769642296" text="Download All SBOMs (ZIP)" download="true" >}} - 47.4 KB - *Last updated: January 28, 2026, 11:18 PM UTC*
 
 | Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
 |----------|----------------|---------------|-----------|----------|
@@ -43,8 +43,8 @@ committed_by: "evgeniy.sidenko@aspose.com"
 
 | Report | HTML | PDF |
 |--------|------|-----|
-| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/imaging/java/2026/26.2/aspose-imaging-java-26.2_cwe-top-25-2025.htm" text="View HTML" >}} | - |
-| OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/imaging/java/2026/26.2/aspose-imaging-java-26.2_owasp-top-10-2021.html" text="View HTML" >}} | - |
+| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/imaging/java/2026/26.2/aspose-imaging-java-26.2_cwe-top-25-2025.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/imaging/java/2026/26.2/aspose-imaging-java-26.2_cwe-top-25-2025.pdf" text="View PDF" >}} |
+| OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/imaging/java/2026/26.2/aspose-imaging-java-26.2_owasp-top-10-2021.html" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/imaging/java/2026/26.2/aspose-imaging-java-26.2_owasp-top-10-2021.pdf" text="View PDF" >}} |
 
 
 
