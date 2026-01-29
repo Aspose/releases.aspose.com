@@ -1,0 +1,46 @@
+---
+id: "aspose-tasks-for-java-26-1-release-notes"
+slug: "aspose-tasks-for-java-26-1-release-notes"
+linktitle: "Aspose.Tasks for Java 26.1 Release Notes"
+title: "Aspose.Tasks for Java 26.1 Release Notes"
+weight: 100
+description: "The page contains the release notes for Aspose.Tasks for Java 26.1."
+type: "repository"
+layout: "release"
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.Tasks for Java 26.1 Release Notes"
+menuItemWithNoContent: false
+---
+
+{{% alert color="primary" %}} 
+
+This page contains release notes information for [Aspose.Tasks for Java 26.1](https://releases.aspose.com/tasks/java/26-1/).
+
+{{% /alert %}}
+
+## **All Changes**
+
+|**Key**|**Summary**|**Issue Type**|
+| :- | :- | :- |
+| TASKSNET-11528 | Add public API for customization of task links color when rendering Gantt Chart view | Enhancement |
+| TASKSNET-11645 | Summary task material assignment TimephasedData not refreshed on duration change | Bug |
+| TASKSNET-11643 | Fix incorrect behavior of MS Project when working with formula-calculated extended attributes in project created by Aspose.Tasks | Bug |
+| TASKSNET-11646 | Fix reading of task-specific calendars from Primavera DB | Bug |
+| TASKSNET-11649 | Fix CalculationType for OutlineCode is None in some cases when project is read from MPP file | Bug |
+
+## **Public API and Backwards Incompatible Changes**
+
+|**The following public types were added:**|**Description**|
+| :- | :- |
+| com.aspose.tasks.TaskLinkDrawingCallbackDelegate | Represents a callback that is called when a task link is rendered in a Gantt chart view. |
+| com.aspose.tasks.TaskLinkDrawingArgs | Provides arguments for the callback that is invoked when task link is rendered. |
+
+|**The following public methods and properties were added:**|**Description**|
+| :- | :- |
+| com.aspose.tasks.SaveOptions.getTaskLinkDrawingCallback() | Gets a callback that can be used to customize some aspects of task links rendering. |
+| com.aspose.tasks.SaveOptions.setTaskLinkDrawingCallback(TaskLinkDrawingCallbackDelegate) | Sets a callback that can be used to customize some aspects of task links rendering. |
+| com.aspose.tasks.TaskLinkDrawingArgs.getLink() | Gets the rendered task link. |
+| com.aspose.tasks.TaskLinkDrawingArgs.getColor() | Gets color used to render the task link. Can be used for customization of task links colors. |
+| com.aspose.tasks.TaskLinkDrawingArgs.setColor(Color) | Gets color used to render the task link. Can be used for customization of task links colors. |
+
