@@ -33,7 +33,6 @@ Aspose.HTML for Python via .NET  26.1.0 [PyPI](https://pypi.org/project/aspose-h
 | **Key**      | **Summary**                                                                            | **Category** |
 | ------------ | -------------------------------------------------------------------------------------- | ------------ |
 | HTMLNET-6411 | HTML to PDF: High Memory and CPU usage | Bug |
-| HTMLNET-6385 | HTMLDocument Save AccessDenied Exception on MacOS | Investigation |
 | HTMLNET-6062 | HTML to Image (Single Image) | Investigation |
 | HTMLNET-5876 | Exception is thrown when trying to convert particular Html to Docx | Bug |
 | HTMLNET-6166 | Table row splitting between pages when converting HTML to PDF | Bug |
