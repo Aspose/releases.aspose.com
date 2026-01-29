@@ -4,7 +4,7 @@ slug: "aspose-html-for-net-26-1-release-notes"
 linktitle: "Aspose.HTML for .NET 26.1 Release Notes"
 title: "Aspose.HTML for .NET 26.1 Release Notes"
 weight: 10
-description: "In this release, we have improved font processing when converting html to various formats. We have also improved the rendering of tables in HTML and their pagination. The public API for navigateAsync methods has also been changed, they will only be available starting with NETStandard 2.0."
+description: "In this release, we have improved font processing when converting HTML to various formats. We have also improved the rendering of tables in HTML and their pagination. The public API for navigateAsync methods has also been changed, they will only be available starting with NETStandard 2.0."
 type: "repository"
 layout: "release"
 hideChildren: false

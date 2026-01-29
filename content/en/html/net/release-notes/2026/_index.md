@@ -4,7 +4,7 @@ linktitle: "2026"
 title: "Release Notes - 2026"
 productName: "Aspose.HTML for .NET"
 weight: 89
-description: "This section contains the release notes of Aspose.HTML for .NET for the year 2026 In these release notes, we are publishing the list of issues that have been fixed in the current version, as well as any public API and behavioral changes."
+description: "This section contains the release notes of Aspose.HTML for .NET for the year 2026. In these release notes, we are publishing the list of issues that have been fixed in the current version, as well as any public API and behavioral changes."
 type: "repository"
 layout: "releases"
 hideChildren: false
