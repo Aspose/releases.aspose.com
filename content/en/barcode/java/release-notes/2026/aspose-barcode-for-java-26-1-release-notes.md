@@ -24,7 +24,6 @@ for [Aspose.BarCode for Java 26.1](https://releases.aspose.com/barcode/java/26-1
 
 | **Key**          | **Summary**                                                                                                             | **Category** |
 |:-----------------|:------------------------------------------------------------------------------------------------------------------------|:-------------|
-|BARCODENET-39471|Add .Net 10 support|Enhancement|
 |BARCODENET-39006|Review & Update API|Enhancement|
 |BARCODENET-39419|Optimize Han Xin recognition speed|Enhancement|
 |BARCODENET-39432|Add support of new QualitySettings structure to MicroQR engine|Enhancement|
