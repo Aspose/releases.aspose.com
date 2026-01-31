@@ -10,7 +10,11 @@ layout: "release"
 family_listing_page_title: "Aspose.Email for .NET 26.1 Release Notes"
 ---
 
-{% alert color="primary" %} This page contains release notes information for Aspose.Email for .NET 26.1 {% /alert %}
+{{% alert color="primary" %}}
+
+This page contains release notes information for Aspose.Email for .NET 26.1
+
+{{% /alert %}}
 
 ## **All Changes**
 
