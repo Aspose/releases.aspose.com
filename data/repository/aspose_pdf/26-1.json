@@ -16,8 +16,11 @@
   }, {
     "size" : "392 bytes",
     "name" : "aspose-pdf-26.1.pom"
+  }, {
+    "size" : "98 MB",
+    "name" : "aspose-pdf-26.1.zip"
   } ],
-  "releasehDate" : "2026-02-01T18:21:31+00:00",
+  "releasehDate" : "2026-02-01T18:34:15+00:00",
   "version" : "26.1",
   "ReleaseNotes" : "https://releases.aspose.com/pdf/java/release-notes/2026/aspose-pdf-for-java-26-1-release-notes/"
 }
