@@ -94,7 +94,7 @@ Method             | Return              |
 
 ### Updated public APIs:
 
-The following public APIs have been changed in **Aspose.OCR for Java 25.11.0** release:
+The following public APIs have been changed in **Aspose.OCR for Python via .NET 25.11.0** release:
 
 #### `Format` enumeration
 
