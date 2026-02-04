@@ -1,5 +1,6 @@
 {
   "groupId" : "com.aspose",
+  "classifier" : "jdk16",
   "artifactId" : "aspose-email",
   "id" : "26-1",
   "packageFiles" : [ {
@@ -11,10 +12,14 @@
     "name" : "aspose-email-26.1-jdk16.jakarta.jar",
     "classifier" : "jdk16.jakarta"
   }, {
+    "size" : "14 MB",
+    "name" : "aspose-email-26.1-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
     "size" : "1 KB",
     "name" : "aspose-email-26.1.pom"
   } ],
-  "releasehDate" : "2026-02-04T16:01:45+00:00",
+  "releasehDate" : "2026-02-04T16:12:27+00:00",
   "version" : "26.1",
   "ReleaseNotes" : "https://releases.aspose.com/email/java/release-notes/2026/aspose-email-for-java-26-1-release-notes/"
 }
