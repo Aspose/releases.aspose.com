@@ -20,7 +20,8 @@ This page contains release notes information for [Aspose.BarCode for Python via 
 ## Important notice for the next release
 
 In the next release, Aspose.BarCode for Python via Java will introduce a redesigned Python package structure aligned with modern Python standards.
-The public Python API will be reorganized into dedicated functional modules. As a result, import paths and module structure used in existing client applications may require updates.
+The public Python API will be reorganized into dedicated functional modules.
+As a result, import paths and module structure used in existing client applications may need to be updated.
 This change may require code modifications in applications using the current API structure.  
 We strongly recommend reviewing and adapting your code in advance when planning to upgrade to the next version.
 
