@@ -33,7 +33,7 @@ committed_by: "philip.zhou@aspose.com"
 
 | Report | HTML | PDF |
 |--------|------|-----|
-| OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/diagram/java/2026/26.2/aspose-diagram-java-26.2_owasp-top-10-2021.htm" text="View HTML" >}} | - |
+| OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/diagram/java/2026/26.2/aspose-diagram-java-26.2_owasp-top-10-2021.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/diagram/java/2026/26.2/aspose-diagram-java-26.2_owasp-top-10-2021.pdf" text="View PDF" >}} |
 
 
 
