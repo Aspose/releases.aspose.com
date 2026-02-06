@@ -1,0 +1,12 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-imaging",
+  "id" : "26-2",
+  "packageFiles" : [ {
+    "size" : "783 bytes",
+    "name" : "aspose-imaging-26.2.pom"
+  } ],
+  "releasehDate" : "2026-02-06T15:52:22+00:00",
+  "version" : "26.2",
+  "ReleaseNotes" : "https://releases.aspose.com/imaging/java/release-notes/2026/aspose-imaging-for-java-26-2-release-notes/"
+}
