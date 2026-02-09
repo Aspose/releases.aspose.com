@@ -106,7 +106,7 @@ This section lists public API changes that were introduced in Aspose.Words 26.2.
 
 Related issue: WORDSNET-28864
 
-The properties [Orientation](https://reference.aspose.com/words/net/aspose.words.drawing.charts/charttitle/orientation/) and [Rotation](https://reference.aspose.com/words/net/aspose.words.drawing.charts/charttitle/rotation/) have been added to the [ChartTitle]{https://reference.aspose.com/words/net/aspose.words.drawing.charts/charttitle/} and [ChartAxisTitle](https://reference.aspose.com/words/net/aspose.words.drawing.charts/chartaxistitle/) classes:
+The properties [Orientation](https://reference.aspose.com/words/net/aspose.words.drawing.charts/charttitle/orientation/) and [Rotation](https://reference.aspose.com/words/net/aspose.words.drawing.charts/charttitle/rotation/) have been added to the [ChartTitle](https://reference.aspose.com/words/net/aspose.words.drawing.charts/charttitle/) and [ChartAxisTitle](https://reference.aspose.com/words/net/aspose.words.drawing.charts/chartaxistitle/) classes:
 
 {{< highlight csharp >}}
 public class ChartTitle
