@@ -19,7 +19,7 @@ This page contains release notes for [Aspose.Cells for .NET 26.2](https://www.nu
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|CELLSNET-59382|Support getting script of python formula for Cell|New Feature
+|CELLSNET-59382|Support getting python script from cell that uses python formula|New Feature
 |CELLSNET-59733|Allow user to calculate defined LAMBDA function in custom calculation engine|New Feature
 |CELLSNET-59756|Provide specific assembly for .NET 4.8|New Feature
 |CELLSNET-59481|Support ODF 1.4|New Feature
