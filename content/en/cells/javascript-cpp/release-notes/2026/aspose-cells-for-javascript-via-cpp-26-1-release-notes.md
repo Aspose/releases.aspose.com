@@ -3,7 +3,7 @@ id: "aspose-cells-for-javascript-via-cpp-26-1-release-notes"
 slug: "aspose-cells-for-javascript-via-cpp-26-1-release-notes"
 linktitle: "Aspose.Cells for JavaScript via C++ 26.1 Release Notes"
 title: "Aspose.Cells for JavaScript via C++ 26.1 Release Notes"
-weight: 1
+weight: 12
 description: "Aspose.Cells for JavaScript via C++ 26.1 Release Notes – the latest enhancements, new features, and fixes."
 type: "repository"
 layout: "release"
