@@ -4,6 +4,10 @@
   "artifactId" : "aspose-slides",
   "id" : "26-2",
   "packageFiles" : [ {
+    "size" : "4 MB",
+    "name" : "aspose-slides-26.2-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
     "size" : "29 MB",
     "name" : "aspose-slides-26.2-jdk16.jar",
     "classifier" : "jdk16"
@@ -11,7 +15,7 @@
     "size" : "395 bytes",
     "name" : "aspose-slides-26.2.pom"
   } ],
-  "releasehDate" : "2026-02-11T16:28:57+00:00",
+  "releasehDate" : "2026-02-11T16:40:25+00:00",
   "version" : "26.2",
   "ReleaseNotes" : "https://releases.aspose.com/slides/java/release-notes/2026/aspose-slides-for-java-26-2-release-notes/"
 }
