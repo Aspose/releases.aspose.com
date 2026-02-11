@@ -3,6 +3,14 @@
   "artifactId" : "aspose-cells",
   "id" : "26-2",
   "packageFiles" : [ {
+    "size" : "120 KB",
+    "name" : "aspose-cells-26.2-gridjs-javadoc.jar",
+    "classifier" : "gridjs-javadoc"
+  }, {
+    "size" : "258 KB",
+    "name" : "aspose-cells-26.2-gridjs.jar",
+    "classifier" : "gridjs"
+  }, {
     "size" : "8 MB",
     "name" : "aspose-cells-26.2-gridweb-jakarta.jar",
     "classifier" : "gridweb-jakarta"
@@ -33,7 +41,7 @@
     "size" : "388 bytes",
     "name" : "aspose-cells-26.2.pom"
   } ],
-  "releasehDate" : "2026-02-11T09:35:33+00:00",
+  "releasehDate" : "2026-02-11T09:35:50+00:00",
   "version" : "26.2",
   "ReleaseNotes" : "https://releases.aspose.com/cells/java/release-notes/2026/aspose-cells-for-java-26-2-release-notes/"
 }
