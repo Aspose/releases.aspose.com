@@ -4,7 +4,7 @@ slug: "aspose-pdf-for-net-26-2-release-notes"
 linktitle: "Aspose.PDF for .NET 26.2"
 title: "Aspose.PDF for .NET 26.2"
 weight: 120
-description: "This page contains new Aspose.PDF for .NET features, enhancement, and bug fixes in 2026, version 26.2."
+description: "This page contains new Aspose.PDF for .NET features, enhancements, and bug fixes in 2026, version 26.2."
 type: "repository"
 layout: "release"
 family_listing_page_title: "Aspose.PDF for .NET 26.2"
@@ -53,7 +53,7 @@ private static void ConvertRtfToPdf()
 
 #### Table Placement After Last Page Element
 
-Aspose.PDF for .NET now provides the ability to add tables precisely after the last content element on a page. By using the [`Page.CalculateContentBBox()`](https://docs.aspose.com/pdf/net/working-with-tables/) method to determine the bounding box of existing content, developers can now calculate the exact position where the last element ends and place tables immediately after it. When table data exceeds the available space on the current page, the table will automatically flow to the next page starting from the top, rather than from the same position as the original table.
+Aspose.PDF for .NET now allows tables to be added precisely after the last content element on a page. By using the [`Page.CalculateContentBBox()`](https://docs.aspose.com/pdf/net/working-with-tables/) method to determine the bounding box of existing content, developers can calculate the exact position where the last element ends and place tables immediately after it. When table data exceeds the available space on the current page, the table automatically flows to the next page, starting at the top rather than continuing from the same position as the original table.
 
 Here is an example of how to use this feature:
 
@@ -137,7 +137,7 @@ using (Aspose.Pdf.Document doc = new Aspose.Pdf.Document(myDir + "HelloWorld.pdf
 
 #### Complete Deletion of Invisible Text Objects
 
-Aspose.PDF for .NET now supports complete deletion of invisible text objects from PDF documents. The [`TextFragmentAbsorber`](https://docs.aspose.com/pdf/net/extract-text/) class can now properly identify and remove text fragments that have their `TextState.Invisible` property set to `true`, or have a `RenderingMode` of `TextRenderingMode.Invisible`, or have a foreground color with zero alpha channel. Previously, attempting to remove invisible text using `TextFragments.Remove()` did not fully remove the text objects from the document. Now the original code snippet works as expected and successfully removes invisible text fragments from the document.
+Aspose.PDF for .NET now supports the complete deletion of invisible text objects from PDF documents. The [`TextFragmentAbsorber`](https://docs.aspose.com/pdf/net/extract-text/) class can now properly identify and remove text fragments that have their `TextState.Invisible` property set to `true`, or have a `RenderingMode` of `TextRenderingMode.Invisible`, or have a foreground color with zero alpha channel. Previously, attempting to remove invisible text using `TextFragments.Remove()` did not fully remove the text objects from the document. Now the original code snippet works as expected and successfully removes invisible text fragments from the document.
 
 ```csharp
 // For complete examples and data files, visit https://github.com/aspose-pdf/Aspose.PDF-for-.NET
