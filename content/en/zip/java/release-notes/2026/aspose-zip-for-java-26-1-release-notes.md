@@ -40,6 +40,7 @@ This page contains release notes information for [Aspose.ZIP for Java 26.1](http
 |com.aspose.zip.SevenZipArchiveSaveOptions|Options for saving a 7Z archive|
 
 |**The following public methods and properties were added:**|**Description**|
+| :- | :- |
 |com.aspose.zip.CabArchive.createEntry(...)|Create an entry within the CAB archive.|
 |com.aspose.zip.CabArchive.createEntries(...)|Adds to the CAB archive all files, recursively, from the directory.|
 |com.aspose.zip.CabArchive.save(...)|Saves CAB archive to the destination provided.|
