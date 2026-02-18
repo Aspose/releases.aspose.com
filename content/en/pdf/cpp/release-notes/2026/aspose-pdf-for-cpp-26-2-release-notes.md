@@ -23,7 +23,7 @@ The new version of Aspose.PDF for C++ has a codebase of Aspose.PDF for .Net 26.2
 
 ### RTF to PDF Conversion
 
-Aspose.PDF for .NET now supports direct conversion of Rich Text Format (RTF) files to PDF format. The conversion can be achieved by using the RtfLoadOptions class, which should be passed as a parameter when creating an instance of the Document class.
+Aspose.PDF for C++ now supports direct conversion of Rich Text Format (RTF) files to PDF format. The conversion can be achieved by using the RtfLoadOptions class, which should be passed as a parameter when creating an instance of the Document class.
 
 ### Complete Deletion of Invisible Text Objects
 
