@@ -1,0 +1,12 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-words",
+  "id" : "26-2",
+  "packageFiles" : [ {
+    "size" : "5 KB",
+    "name" : "aspose-words-26.2.pom"
+  } ],
+  "releasehDate" : "2026-02-21T10:04:54+00:00",
+  "version" : "26.2",
+  "ReleaseNotes" : "https://releases.aspose.com/words/java/release-notes/2026/aspose-words-for-java-26-2-release-notes/"
+}
