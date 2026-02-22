@@ -24,7 +24,7 @@ This page contains release notes for [Aspose.Slides for C++ 26.2](https://www.nu
 ## New Features and Enhancements
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
-|SLIDESCPP-4105|Use Aspose.Slides for .NET 26.2 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2025/aspose-slides-for-net-26-2-release-notes/>|
+|SLIDESCPP-4105|Use Aspose.Slides for .NET 26.2 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2026/aspose-slides-for-net-26-2-release-notes/>|
 
 ## Public API Changes
 
