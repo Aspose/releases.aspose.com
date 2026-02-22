@@ -20,7 +20,7 @@ This page contains release notes for [Aspose.Slides for Python via .NET 26.2](ht
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
 |SLIDESPYNET-283|Elements of a drawing are missing when converting PPTX to PDF/PNG|Bug||
-|SLIDESPYNET-331|Use Aspose.Slides for Net 26.2 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2025/aspose-slides-for-net-26-2-release-notes/>|
+|SLIDESPYNET-331|Use Aspose.Slides for Net 26.2 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2026/aspose-slides-for-net-26-2-release-notes/>|
 
 ## Public API Changes
 
