@@ -24,7 +24,7 @@ This page contains release notes for [Aspose.Slides for Python via .NET 26.1](ht
 ## Other Improvements and Changes
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
-|SLIDESPYNET-|Use Aspose.Slides for Net 26.1 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2025/aspose-slides-for-net-26-1-release-notes/>|
+|SLIDESPYNET-|Use Aspose.Slides for Net 26.1 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2026/aspose-slides-for-net-26-1-release-notes/>|
 
 ## Public API Changes
 
