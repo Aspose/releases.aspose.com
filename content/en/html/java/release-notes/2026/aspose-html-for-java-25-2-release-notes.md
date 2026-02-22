@@ -21,7 +21,7 @@ This page contains release notes for Aspose.HTML for Java 26.2
 
 We are honored to announce the February release of Aspose.HTML for Java.
 
-## Fix: more reliable line wrapping in flex blocks with spacing
+### Fix: more reliable line wrapping in flex blocks with spacing
 
 We fixed an issue in flex layout width calculation: previously, spacing (borders/margins/padding) could be accounted for incorrectly, making the engine think there was more horizontal space than actually available.
 
