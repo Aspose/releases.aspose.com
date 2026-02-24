@@ -29,31 +29,40 @@ for [Aspose.BarCode for Java 26.2](https://releases.aspose.com/barcode/java/26-2
 
 ## Public API changes and New Features
 
+Escape sequence processing
 
-To process escape sequences explicitly, use the standard .NET method [***Regex.Unescape***](https://learn.microsoft.com/dotnet/api/system.text.regularexpressions.regex.unescape).
+The EnableEscape functionality has been deprecated and is no longer applied internally by BarcodeGenerator.
 
-```cs
-string rawText = @"Line1\nLine2\tValue";
-string barcodeText = System.Text.RegularExpressions.Regex.Unescape(rawText);
-BarcodeGenerator gen = new BarcodeGenerator(EncodeTypes.Code128, barcodeText);
-gen.Save("c:\\code128.png", BarCodeImageFormat.Png);
+Escape sequence processing is not performed automatically. If required, escape sequences should be handled explicitly before passing the text to the generator.
+
+For example:
+
+```java
+String rawText = "Line1\\nLine2\\tValue";
+
+// Optional: perform unescaping if the text contains escaped sequences
+String barcodeText = rawText.replace("\\n", "\n").replace("\\t", "\t");
+
+BarcodeGenerator gen = new BarcodeGenerator(EncodeTypes.CODE_128, barcodeText);
+
+gen.save("c:\\code128.png", BarCodeImageFormat.PNG);
 ```
 
-### BarCodeReadType property
-A new ***BarCodeReadType*** property has been added to ***BarCodeReader***, allowing you to get and set the barcode decode types used for recognition.
+### BarCodeReadType getter update
 
-The ***SetBarCodeReadType(BaseDecodeType type)*** method has been deprecated in favor of this property.
+The getBarCodeReadType() method has been added to BarCodeReader, allowing you to retrieve the barcode decode types used for recognition.
 
-```cs
-using (BarCodeReader reader = new BarCodeReader())
-{
-    reader.BarCodeReadType = new MultiDecodeType(DecodeType.Code39, DecodeType.Code128);
-    reader.SetBarCodeImage(@"c:\test.png");
-    foreach (BarCodeResult result in reader.ReadBarCodes())
-    {
-        Console.WriteLine("BarCode Type: " + result.CodeTypeName);
-        Console.WriteLine("BarCode CodeText: " + result.CodeText);
-    }
-    Console.WriteLine("BarCodeReadType: " + reader.BarCodeReadType.ToString());
-}
+The previously available getBarCodeDecodeType() method has been removed.
+
+Added
+```java
+public BaseDecodeType getBarCodeReadType()
+```
+Removed
+```java
+/**
+ * Gets the decode type of the input barcode decoding
+ */
+public BaseDecodeType getBarCodeDecodeType()
+
 ```
