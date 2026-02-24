@@ -14,6 +14,7 @@ menuItemWithNoContent: false
 committed_by: "samer.el-khatib@aspose.com"
 ---
 
+![SBOM Available](https://img.shields.io/badge/SBOM-Available-brightgreen?style=flat-square&logo=dependabot)
 ![Security Rating](https://img.shields.io/badge/Security%20Rating-A-brightgreen?style=flat-square&logo=verizon)
 ![CWE Top 25](https://img.shields.io/badge/CWE%20Top%2025-2024-blue?style=flat-square&logo=checkmarx)
 ![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-2021-blue?style=flat-square&logo=openaccess)
@@ -27,6 +28,18 @@ committed_by: "samer.el-khatib@aspose.com"
 - {{< compliance-file relpath="/compliance-reports/third-party-licenses/net/third-party-licenses-aspose-imaging-net.pdf" text="Aspose.Imaging for .NET Third-Party License" >}}
 
 
+
+### Software Bill of Materials (SBOM)
+
+- {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.2/aspose-imaging-net-26.2_all_sboms.zip?t=1771923621" text="Download All SBOMs (ZIP)" download="true" >}} - 394.7 KB - *Last updated: February 24, 2026, 9:00 AM UTC*
+
+| Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
+|----------|----------------|---------------|-----------|----------|
+| .NET 4.0 | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.2/aspose-imaging-net-26.2-net4.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.2/aspose-imaging-net-26.2-net4.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.2/aspose-imaging-net-26.2-net4.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.2/aspose-imaging-net-26.2-net4.0_sbom-SPDX.xml" text="View XML" >}} |
+| .NET 6.0 | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.2/aspose-imaging-net-26.2-net6.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.2/aspose-imaging-net-26.2-net6.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.2/aspose-imaging-net-26.2-net6.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.2/aspose-imaging-net-26.2-net6.0_sbom-SPDX.xml" text="View XML" >}} |
+| .NET 7.0 | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.2/aspose-imaging-net-26.2-net7.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.2/aspose-imaging-net-26.2-net7.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.2/aspose-imaging-net-26.2-net7.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.2/aspose-imaging-net-26.2-net7.0_sbom-SPDX.xml" text="View XML" >}} |
+| .NET 8.0 | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.2/aspose-imaging-net-26.2-net8.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.2/aspose-imaging-net-26.2-net8.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.2/aspose-imaging-net-26.2-net8.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.2/aspose-imaging-net-26.2-net8.0_sbom-SPDX.xml" text="View XML" >}} |
+| .NET Standard 2.0 | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.2/aspose-imaging-net-26.2-netstandard2.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.2/aspose-imaging-net-26.2-netstandard2.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.2/aspose-imaging-net-26.2-netstandard2.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.2/aspose-imaging-net-26.2-netstandard2.0_sbom-SPDX.xml" text="View XML" >}} |
 
 
 
