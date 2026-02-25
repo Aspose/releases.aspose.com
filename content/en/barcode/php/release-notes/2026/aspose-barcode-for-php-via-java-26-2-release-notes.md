@@ -1,0 +1,45 @@
+---
+id: "aspose-barcode-for-php-via-java-26-2-release-notes"
+slug: "aspose-barcode-for-php-via-java-26-2-release-notes"
+linktitle: "Aspose.BarCode for PHP via Java 26.1"
+title: "Aspose.BarCode for PHP via Java 26.1"
+weight: 9900
+description: "Aspose.BarCode for PHP via Java 26.1 – the latest updates and fixes."
+type: "repository"
+layout: "release"
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.BarCode for PHP via Java 26.1"
+menuItemWithNoContent: false
+---
+
+{{% alert color="primary" %}}
+
+This page contains release notes information for [Aspose.BarCode for PHP via Java 26.1](https://releases.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-26.1/).
+
+{{% /alert %}}
+## **All Changes**
+
+| **Key**             | **Summary**                                                  | **Category** |
+|:--------------------|:-------------------------------------------------------------|:-------------|
+| BARCODENET-38024    | Remove EnableEscape property                                 | Enhancement  |
+| BARCODENET-39421    | Expose BarCodeReader.GetBarCodeDecodeType() as public method | Enhancement  |
+
+## Public API changes and New Features
+
+### BarCodeReadType getter update
+
+The getBarCodeReadType() method has been added to Aspose\Barcode\Recognition\BarCodeReader, 
+allowing you to retrieve the barcode decode types used for recognition.
+
+The previously available getBarCodeDecodeType() method has been marked as deprecated.
+
+Added
+```php
+getBarCodeReadType():array
+```
+Marked as deprecated
+```php
+getBarCodeDecodeType():array
+
+```
