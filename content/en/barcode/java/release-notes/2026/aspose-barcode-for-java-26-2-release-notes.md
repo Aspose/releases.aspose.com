@@ -56,13 +56,10 @@ The previously available getBarCodeDecodeType() method has been removed.
 
 Added
 ```java
-public BaseDecodeType getBarCodeReadType()
+getBarCodeReadType():BaseDecodeType
 ```
 Removed
 ```java
-/**
- * Gets the decode type of the input barcode decoding
- */
-public BaseDecodeType getBarCodeDecodeType()
+getBarCodeDecodeType():BaseDecodeType
 
 ```
