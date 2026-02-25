@@ -1,21 +1,21 @@
 ---
 id: "aspose-barcode-for-php-via-java-26-2-release-notes"
 slug: "aspose-barcode-for-php-via-java-26-2-release-notes"
-linktitle: "Aspose.BarCode for PHP via Java 26.1"
-title: "Aspose.BarCode for PHP via Java 26.1"
+linktitle: "Aspose.BarCode for PHP via Java 26.2"
+title: "Aspose.BarCode for PHP via Java 26.2"
 weight: 9900
-description: "Aspose.BarCode for PHP via Java 26.1 – the latest updates and fixes."
+description: "Aspose.BarCode for PHP via Java 26.2 – the latest updates and fixes."
 type: "repository"
 layout: "release"
 hideChildren: false
 toc: false
-family_listing_page_title: "Aspose.BarCode for PHP via Java 26.1"
+family_listing_page_title: "Aspose.BarCode for PHP via Java 26.2"
 menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
 
-This page contains release notes information for [Aspose.BarCode for PHP via Java 26.1](https://releases.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-26.1/).
+This page contains release notes information for [Aspose.BarCode for PHP via Java 26.2](https://releases.aspose.com/barcode/php/new-releases/aspose.barcode-for-php-via-java-26.2/).
 
 {{% /alert %}}
 ## **All Changes**
