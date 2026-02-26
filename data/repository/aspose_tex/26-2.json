@@ -1,0 +1,12 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-tex",
+  "id" : "26-2",
+  "packageFiles" : [ {
+    "size" : "1 KB",
+    "name" : "aspose-tex-26.2.pom"
+  } ],
+  "releasehDate" : "2026-02-26T08:03:59+00:00",
+  "version" : "26.2",
+  "ReleaseNotes" : "https://releases.aspose.com/tex/java/release-notes/2026/aspose-tex-for-java-26-2-release-notes/"
+}
