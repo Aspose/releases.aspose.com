@@ -3,10 +3,17 @@
   "artifactId" : "aspose-tex",
   "id" : "26-2",
   "packageFiles" : [ {
+    "size" : "554 KB",
+    "name" : "aspose-tex-26.2-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "27 MB",
+    "name" : "aspose-tex-26.2.jar"
+  }, {
     "size" : "1 KB",
     "name" : "aspose-tex-26.2.pom"
   } ],
-  "releasehDate" : "2026-02-26T08:03:59+00:00",
+  "releasehDate" : "2026-02-26T09:09:23+00:00",
   "version" : "26.2",
   "ReleaseNotes" : "https://releases.aspose.com/tex/java/release-notes/2026/aspose-tex-for-java-26-2-release-notes/"
 }
