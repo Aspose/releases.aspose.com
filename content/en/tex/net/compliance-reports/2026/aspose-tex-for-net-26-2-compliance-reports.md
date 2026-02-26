@@ -1,0 +1,39 @@
+---
+id: "aspose-tex-for-net-26-2-compliance-reports"
+slug: "aspose-tex-for-net-26-2-compliance-reports"
+linktitle: "Aspose.TeX for .NET 26.2 Compliance Reports"
+title: "Aspose.TeX for .NET 26.2 – Compliance & Security"
+weight: 999
+description: "Aspose.TeX for .NET Compliance & Security Reports | Release 26.2"
+type: "repository"
+layout: "release"
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.TeX for .NET 26.2 Compliance & Security Reports"
+menuItemWithNoContent: false
+committed_by: "vadym.kiprich@aspose.com"
+---
+
+![Security Rating](https://img.shields.io/badge/Security%20Rating-A-brightgreen?style=flat-square&logo=verizon)
+![CWE Top 25](https://img.shields.io/badge/CWE%20Top%2025-2024-blue?style=flat-square&logo=checkmarx)
+
+
+## This 26.2 .NET release includes the following transparency and audit artifacts:
+
+
+
+
+
+### Security Weakness Coverage (CWE & OWASP)
+
+| Report | HTML | PDF |
+|--------|------|-----|
+| CWE Top 25 (2024) | - | {{< compliance-file relpath="/compliance-reports/tex/net/2026/26.2/aspose-tex-net-26.2_cwe-top-25-2026.pdf" text="View PDF" >}} |
+
+
+
+---
+
+## Got Queries?
+
+If you have any query related to Aspose.TeX for .NET API, please feel free to reach us on [Aspose.TeX for .NET forum](https://forum.aspose.com/c/tex/). We'll be glad to assist you with your inquiries.
