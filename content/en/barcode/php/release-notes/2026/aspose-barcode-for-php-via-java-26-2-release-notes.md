@@ -26,6 +26,9 @@ This page contains release notes information for [Aspose.BarCode for PHP via Jav
 | BARCODENET-39421    | Expose BarCodeReader.GetBarCodeDecodeType() as public method | Enhancement  |
 
 ## Public API changes and New Features
+The EnableEscape functionality has been deprecated and is no longer applied internally by BarcodeGenerator.
+Escape sequence processing is not performed automatically.
+If required, escape sequences should be handled explicitly before passing the text to the generator.
 
 ### BarCodeReadType getter update
 
