@@ -58,5 +58,4 @@ getBarCodeReadType():BaseDecodeType
 Removed
 ```java
 getBarCodeDecodeType():BaseDecodeType
-
 ```
