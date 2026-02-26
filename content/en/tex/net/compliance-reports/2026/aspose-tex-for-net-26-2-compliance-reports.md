@@ -14,6 +14,7 @@ menuItemWithNoContent: false
 committed_by: "vadym.kiprich@aspose.com"
 ---
 
+![SBOM Available](https://img.shields.io/badge/SBOM-Available-brightgreen?style=flat-square&logo=dependabot)
 ![Security Rating](https://img.shields.io/badge/Security%20Rating-A-brightgreen?style=flat-square&logo=verizon)
 ![CWE Top 25](https://img.shields.io/badge/CWE%20Top%2025-2024-blue?style=flat-square&logo=checkmarx)
 ![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-2021-blue?style=flat-square&logo=openaccess)
@@ -22,6 +23,14 @@ committed_by: "vadym.kiprich@aspose.com"
 ## This 26.2 .NET release includes the following transparency and audit artifacts:
 
 
+
+### Software Bill of Materials (SBOM)
+
+- {{< compliance-file relpath="/compliance-reports/tex/net/2026/26.2/aspose-tex-net-26.2_all_sboms.zip?t=1772116791" text="Download All SBOMs (ZIP)" download="true" >}} - 6.8 KB - *Last updated: February 26, 2026, 2:39 PM UTC*
+
+| Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
+|----------|----------------|---------------|-----------|----------|
+| .NET 7.0 | {{< compliance-file relpath="/compliance-reports/tex/net/2026/26.2/aspose-tex-net-26.2-net7.0_sbom-CycloneDX.json" text="View JSON" >}} | - | - | - |
 
 
 
