@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-drawing",
+  "id" : "26-2",
+  "packageFiles" : [ {
+    "size" : "1014 KB",
+    "name" : "aspose-drawing-26.2-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "14 MB",
+    "name" : "aspose-drawing-26.2.jar"
+  }, {
+    "size" : "1 KB",
+    "name" : "aspose-drawing-26.2.pom"
+  } ],
+  "releasehDate" : "2026-02-27T07:13:42+00:00",
+  "version" : "26.2",
+  "ReleaseNotes" : "https://releases.aspose.com/drawing/java/release-notes/2026/aspose-drawing-for-java-26-2-release-notes/"
+}
