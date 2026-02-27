@@ -3,7 +3,7 @@ id: "aspose-html-for-python-via-dotnet-26-2-release-notes"
 slug: "aspose-html-for-python-via-dotnet-26-2-release-notes"
 linktitle: "Aspose.HTML for Python via .NET 26.2 Release Notes"
 title: "Aspose.HTML for Python via .NET 26.2 Release Notes"
-weight: 20
+weight: 110
 description: "This release includes several critical bug fixes and improvements. Key changes include fixing an infinite loop in table-in-table page break handling, resolving encoding detection issues , and addressing accessibility compliance with C28 rule fixes . Additionally,contains numerous rendering engine improvements across layout calculations for blocks, tables, flexbox, and grid layouts."
 type: "repository"
 layout: "release"
