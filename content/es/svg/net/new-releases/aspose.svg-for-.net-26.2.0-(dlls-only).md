@@ -1,0 +1,51 @@
+---
+
+title: "Descargas ---Nuevas versiones-aspose.svg-para-.net-26.2.0-(solo dlls)"
+description: " "
+keywords: ""
+page_type: single_release_page
+folder_link: "/svg/net/new-releases/aspose.svg-for-.net-26.2.0-(dlls-only)/"
+folder_name: "Aspose.SVG para .NET 26.2.0 (solo DLL)"
+download_link: "/svg/net/new-releases/aspose.svg-for-.net-26.2.0-(dlls-only)/b93e2549806c6458631b174c34fa9a0b-1-14736"
+download_text: "Descargar"
+intro_text: "Este archivo ZIP contiene únicamente los ensamblados Aspose.SVG para .NET 26.2.0. Los ensamblados son los mismos que los del instalador MSI del producto de la misma versión. Descárguelo si desea usar Aspose.SVG sin el instalador MSI; es decir, no puede ejecutar instaladores MSI en Mono. Esta descarga ZIP no contiene la documentación del usuario en formato de Ayuda de Microsoft, que se incluye en el instalador MSI."
+image_link: "/resources/img/zip-icon.png"
+download_count: " 27/2/2026 Descargars: 1  Views: 1 "
+file_size: "File Size: 4.04MB"
+parent_path: "svg/net"
+section_parent_path: "svg/net"
+
+tags: ""
+release_notes_url: "https://releases.aspose.com/svg/net/release-notes/2026/aspose-svg-for-net-26-2-release-notes/"
+weight: 198
+
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.SVG para .NET 26.2.0 (solo DLL)" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text="Descargar" link="/svg/net/new-releases/aspose.svg-for-.net-26.2.0-(dlls-only)/b93e2549806c6458631b174c34fa9a0b-1-14736" >}}
+    {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/svg" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="detalles del archivo">}}
+    {{< Releases/ReleasesDetailsUl >}}
+      {{< Common/li >}} Descargars: {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-b93e2549806c6458631b174c34fa9a0b-1-14736" >}} 1 {{< /Common/li >}}
+      {{< Common/li >}} Tamaño del archivo: {{< /Common/li >}}
+      {{< Common/li id="size-update-b93e2549806c6458631b174c34fa9a0b-1-14736" >}} 4.04MB {{< /Common/li >}}
+
+      {{< Common/li >}} Fecha Agregada: {{< /Common/li >}}
+      {{< Common/li id="added-update-b93e2549806c6458631b174c34fa9a0b-1-14736" >}}27/2/2026 {{< /Common/li >}}
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Notas de lanzamiento</h4><div><a href='https://releases.aspose.com/svg/net/release-notes/2026/aspose-svg-for-net-26-2-release-notes/'>https://releases.aspose.com/svg/net/release-notes/2026/aspose-svg-for-net-26-2-release-notes/</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Descripción</h4><div class="HTMLDescription">Este archivo ZIP contiene únicamente los ensamblados Aspose.SVG para .NET 26.2.0. Los ensamblados son los mismos que los del instalador MSI del producto de la misma versión. Descárguelo si desea usar Aspose.SVG sin el instalador MSI; es decir, no puede ejecutar instaladores MSI en Mono. Esta descarga ZIP no contiene la documentación del usuario en formato de Ayuda de Microsoft, que se incluye en el instalador MSI.</div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+
