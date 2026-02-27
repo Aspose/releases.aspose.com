@@ -3,7 +3,7 @@ id: "aspose-svg-for-net-26-2-release-notes"
 slug: "aspose-svg-for-net-26-2-release-notes"
 linktitle: "Aspose.SVG for .NET 26.2 Release Notes"
 title: "Aspose.SVG for .NET 26.2 Release Notes"
-weight: 98
+weight: 49
 description: "Aspose.SVG for .NET 26.2 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
