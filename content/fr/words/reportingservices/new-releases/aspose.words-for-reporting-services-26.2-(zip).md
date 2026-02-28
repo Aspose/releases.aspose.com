@@ -10,13 +10,13 @@ download_link: "/words/reportingservices/new-releases/aspose.words-for-reporting
 download_text: "Télécharger"
 intro_text: "Mettez à jour Aspose.Words for Net vers sa dernière version (26.2). Corrections de bogues."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 28/2/2026 Téléchargers: 1  Views: 1 "
+download_count: " 28/2/2026 Téléchargers: 2  Views: 1 "
 file_size: "File Size: 92.51MB"
 parent_path: "words/reportingservices"
 section_parent_path: "words/reportingservices"
 
 tags: "ssrs report viewer export  rdl rdlc"
-release_notes_url: "https://releases.aspose.com/words/reportingservices/release-notes/2025/aspose-words-for-reporting-services-26-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/words/reportingservices/release-notes/2026/aspose-words-for-reporting-services-26-2-release-notes/"
 weight: 309
 
 ---
@@ -31,7 +31,7 @@ weight: 309
     {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Téléchargers: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-104570ea2ec88599cf5d27c6302a6c48-19-14758" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-104570ea2ec88599cf5d27c6302a6c48-19-14758" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} Taille du fichier: {{< /Common/li >}}
       {{< Common/li id="size-update-104570ea2ec88599cf5d27c6302a6c48-19-14758" >}} 92.51MB {{< /Common/li >}}
 
@@ -40,7 +40,7 @@ weight: 309
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/words/reportingservices/release-notes/2025/aspose-words-for-reporting-services-26-2-release-notes/'>https://releases.aspose.com/words/reportingservices/release-notes/2025/aspose-words-for-reporting-services-26-2-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/words/reportingservices/release-notes/2026/aspose-words-for-reporting-services-26-2-release-notes/'>https://releases.aspose.com/words/reportingservices/release-notes/2026/aspose-words-for-reporting-services-26-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Mettez à jour Aspose.Words for Net vers sa dernière version (26.2). Corrections de bogues.</div>
