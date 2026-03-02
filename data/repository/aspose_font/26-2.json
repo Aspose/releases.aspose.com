@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-font",
+  "id" : "26-2",
+  "packageFiles" : [ {
+    "size" : "870 KB",
+    "name" : "aspose-font-26.2-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "13 MB",
+    "name" : "aspose-font-26.2.jar"
+  }, {
+    "size" : "393 bytes",
+    "name" : "aspose-font-26.2.pom"
+  } ],
+  "releasehDate" : "2026-02-26T09:14:50+00:00",
+  "version" : "26.2",
+  "ReleaseNotes" : "https://releases.aspose.com/font/java/release-notes/2026/aspose-font-for-java-26-2-release-notes/"
+}

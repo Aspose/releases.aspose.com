@@ -25,7 +25,7 @@ This page contains release notes for [Aspose.Slides for Python via .NET 26.1](ht
 ## Other Improvements and Changes
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
-|SLIDESPYNET-327|Use Aspose.Slides for Net 26.1 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2025/aspose-slides-for-net-26-1-release-notes/>|
+|SLIDESPYNET-327|Use Aspose.Slides for Net 26.1 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2026/aspose-slides-for-net-26-1-release-notes/>|
 |SLIDESPYNET-320|Missing layout placeholders when cloning slide with AddClone|Bug||
 
 ## Public API Changes

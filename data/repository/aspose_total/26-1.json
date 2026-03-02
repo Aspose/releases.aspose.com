@@ -1,0 +1,13 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-total",
+  "id" : "26-1",
+  "packageFiles" : [ {
+    "size" : "6 KB",
+    "name" : "aspose-total-26.1.pom"
+  } ],
+  "type" : "pom",
+  "releasehDate" : "2026-02-02T23:48:02+00:00",
+  "version" : "26.1",
+  "ReleaseNotes" : "https://releases.aspose.com/total/java/release-notes/2026/aspose-total-for-java-26-1-release-notes/"
+}
