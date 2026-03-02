@@ -13,9 +13,9 @@ family_listing_page_title: "Aspose.SVG for .NET 26.2 Release Notes"
 menuItemWithNoContent: false
 ---
 
-{% alert color="primary" %}
+{{% alert color="primary" %}}
 This page contains release notes information for **Aspose.SVG for .NET 26.2.0 (February)**.
-{% /alert %}
+{{% /alert %}}
 
 ## Major Features
 
