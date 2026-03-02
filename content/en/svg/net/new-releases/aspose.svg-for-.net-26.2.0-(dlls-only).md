@@ -17,7 +17,7 @@ section_parent_path: "svg/net"
 
 tags: ""
 release_notes_url: "https://releases.aspose.com/svg/net/release-notes/2026/aspose-svg-for-net-26-2-release-notes/"
-weight: 200
+weight: 199
 
 ---
 
