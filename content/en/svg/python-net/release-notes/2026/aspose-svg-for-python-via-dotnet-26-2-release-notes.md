@@ -13,11 +13,11 @@ family_listing_page_title: "Aspose.SVG for Python via .NET 26.2 Release Notes"
 menuItemWithNoContent: false
 ---
 
-{% alert color="primary" %}
+{{% alert color="primary" %}}
 
 This page contains release notes for [Aspose.SVG for Python via .NET 26.2](https://pypi.org/project/aspose-svg-net/26.2.0/).
 
-{% /alert %}
+{{% /alert %}}
 
 ## **Major Features**
 
