@@ -31,7 +31,7 @@ committed_by: "sergey.kolodyazhnyy@aspose.com"
 
 ### Software Bill of Materials (SBOM)
 
-- {{< compliance-file relpath="/compliance-reports/page/net/2026/26.2/aspose-page-net-26.2_all_sboms.zip?t=1772596207" text="Download All SBOMs (ZIP)" download="true" >}} - 25.5 KB - *Last updated: March 4, 2026, 3:50 AM UTC*
+- {{< compliance-file relpath="/compliance-reports/page/net/2026/26.2/aspose-page-net-26.2_all_sboms.zip?t=1772596240" text="Download All SBOMs (ZIP)" download="true" >}} - 25.5 KB - *Last updated: March 4, 2026, 3:50 AM UTC*
 
 | Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
 |----------|----------------|---------------|-----------|----------|
