@@ -38,6 +38,10 @@ We substantially reworked the Han Xin recognition engine and achieved up to thre
 The Python API has been redesigned to follow Python language conventions.
 This release introduces breaking changes and is not backward compatible with previous versions.
 
+### Breaking changes
+The API is not backward compatible with previous versions.
+Existing Python projects must update imports, method names and property access according to the new API conventions.
+
 
 ### Module rename
 The root module was renamed:
@@ -68,13 +72,28 @@ Classes were reorganized into dedicated subpackages:
 
 Classes can no longer be imported from the root module.
 
+### Class and file layout
+
+The internal module layout now follows Python conventions:
+
+- each class is located in a separate file
+- file names follow the `snake_case` naming style
+- modules are organized as real Python packages instead of grouped source files
+
 ### Naming convention changes
+
 The public API now follows Python naming conventions.
-CamelCase method names → snake_case
-camelCase members → snake_case
+
+- `CamelCase` method names → `snake_case`
+- `camelCase` members → `snake_case`
+- properties follow Python naming style
+
 Examples:
+
 ```python
 ReadBarCodes() → read_barcodes()
+GetCodeText() → code_text
+GetParameters() → parameters
 Save() → save()
 ```
 
@@ -122,5 +141,44 @@ Additional constructors are provided for advanced scenarios:
 reader = BarCodeReader.from_image_with_areas(image, [10,10,100,100], DecodeType.CODE_128)
 ```
 
+### File structure changes
+
+Classes can no longer be imported from the root module.
+
+Old
+
+```python
+from asposebarcode import *
+```
+New
+
+```python
+from aspose_barcode.generation import BarcodeGenerator
+from aspose_barcode.recognition import BarCodeReader
+```
+
+### Usage examples
+
+Barcode generation:
+
+```python
+from aspose_barcode import generation
+generator = generation.barcode_generator.BarcodeGenerator(generation.encode_types.EncodeTypes.QR, "Hello!")
+params = generator.parameters
+params.auto_size_mode = generation.auto_size_mode.AutoSizeMode.NEAREST
+params.image_height.millimeters = 45
+params.image_width.millimeters = 45
+params.barcode.codetext_parameters.location = generation.code_location.CodeLocation.NONE
+pil_image = generator.generate_barcode_image()
+```
+Barcode recognition:
+```python
+from aspose_barcode import recognition
+
+reader = recognition.barcode_reader.BarCodeReader("/image.jpg", recognition.decode_type.DecodeType.GS_1_CODE_128)
+reader.quality_settings = recognition.quality_settings.QualitySettings.high_performance()
+barcode_results = reader.read_barcodes()
+print(reader.found_barcodes[0].code_text)
+```
 
 
