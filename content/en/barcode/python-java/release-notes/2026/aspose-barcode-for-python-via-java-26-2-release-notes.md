@@ -28,9 +28,6 @@ This page contains release notes information for [Aspose.BarCode for Python via 
 |:------------------|:------------------------------------------------------------------------------------------------------------------------|:-------------|
 |BARCODENET-38024|Remove EnableEscape property|Enhancement|
 |BARCODENET-39421|Expose BarCodeReader.barcode_read_type as public method|Enhancement|
-### Han Xin recognition speed
-We substantially reworked the Han Xin recognition engine and achieved up to three times faster decoding on high-quality Han Xin images.
-
 
 ## Public API changes and New Features
 
