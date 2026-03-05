@@ -87,5 +87,3 @@ using (var presentation = new Presentation("FillColor.pptx"))
     }
 }
 ```
-
-
