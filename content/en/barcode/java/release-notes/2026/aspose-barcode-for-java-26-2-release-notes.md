@@ -28,12 +28,9 @@ for [Aspose.BarCode for Java 26.2](https://releases.aspose.com/barcode/java/26-2
 | BARCODENET-39421    |Expose BarCodeReader.GetBarCodeDecodeType() as public method|Enhancement|
 
 ## Public API changes and New Features
-
-Escape sequence processing
-
 The EnableEscape functionality has been deprecated and is no longer applied internally by BarcodeGenerator.
-
-Escape sequence processing is not performed automatically. If required, escape sequences should be handled explicitly before passing the text to the generator.
+Escape sequence processing is not performed automatically. 
+If required, escape sequences should be handled explicitly before passing the text to the generator.
 
 For example:
 
@@ -56,13 +53,9 @@ The previously available getBarCodeDecodeType() method has been removed.
 
 Added
 ```java
-public BaseDecodeType getBarCodeReadType()
+getBarCodeReadType():BaseDecodeType
 ```
 Removed
 ```java
-/**
- * Gets the decode type of the input barcode decoding
- */
-public BaseDecodeType getBarCodeDecodeType()
-
+getBarCodeDecodeType():BaseDecodeType
 ```

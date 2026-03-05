@@ -22,6 +22,7 @@ productLink: https://products.aspose.com/tex/java/
 releaseNotesLink: https://releases.aspose.com/tex/java/release-notes/
 dataFolder: aspose_tex
 packages_refs:
+- "26-2"
 - "25-12"
 - "25-10"
 - "25-8"

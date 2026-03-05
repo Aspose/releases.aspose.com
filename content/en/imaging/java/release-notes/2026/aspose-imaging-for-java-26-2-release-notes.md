@@ -1,15 +1,15 @@
 ---
 id: aspose-imaging-for-java-26-2-release-notes
 slug: aspose-imaging-for-java-26-2-release-notes
-linktitle: Aspose.Imaging for JAVA 26.2 - Release notes
-title: Aspose.Imaging for JAVA 26.2 - Release notes
+linktitle: Aspose.Imaging for Java 26.2 - Release notes
+title: Aspose.Imaging for Java 26.2 - Release notes
 weight: 48
-description: Aspose.Imaging for JAVA 26.2 - Release notes the latest updates and fixes.
+description: Aspose.Imaging for Java 26.2 - Release notes the latest updates and fixes.
 type: repository
 layout: release
 hideChildren: false
 toc: false
-family_listing_page_title: Aspose.Imaging for JAVA 26.2 - Release notes
+family_listing_page_title: Aspose.Imaging for Java 26.2 - Release notes
 menuItemWithNoContent: false
 ---
 
@@ -42,7 +42,7 @@ Please see corresponding cumulative [API changes for Aspose.Imaging for .NET 26.
 
 **IMAGINGJAVA-9138 RasterImage.AutoRotate throws an exception**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 double horizontalResolutionFromImage = 72;
 double verticalResolutionFromImage = 72;
@@ -66,13 +66,11 @@ try (Image image = Image.load(inputFile, new LoadOptions()))
     }
 }
 
-{
-
 {{< /highlight >}}
 
 **IMAGINGJAVA-9136 Optimize and speed up Png pixel loading: remove temp buffers resulting unnecessary memory pressure**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 public static void measurePngLoadingPerformance(String pngFile)
 {
@@ -134,15 +132,11 @@ public class StopWatch {
     }
 }
 
-
-
-{
-
 {{< /highlight >}}
 
 **IMAGINGJAVA-9135 Support of HDR images**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 String baseFolder = "D:\\test\\hdr\\";
 String[] sourceFiles = new string[] { "DSC_6918.jpg", "DSC_6919.jpg", "DSC_6920.jpg" };
@@ -175,27 +169,22 @@ for (RasterImage image : images)
     image.close();
 }
 
-
-{
-
 {{< /highlight >}}
 
 **IMAGINGJAVA-9131 CDR: some layers are overlapped with background during rasterization**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 try (Image image = Image.load("sample.cdr"))
 {
 	image.save("sample.cdr.png");
 }
 
-{
-
 {{< /highlight >}}
 
 **IMAGINGJAVA-9129 Fix bugs with pixel colors in JPEG**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 String basePath = "D:\\";
 String inputFilePath = basePath + "manor_normal.jpg";
@@ -239,24 +228,11 @@ for (String fileName : referenceFiles)
     i++;
 }
 
-
-{
-
-{{< /highlight >}}
-
-**IMAGINGJAVA-9111 Remove all ThreadLocal variables to make the product server-friendly (avoiding memory leaking)**
-
-{{< highlight csharp >}}
-
-No example as related to inner code
-
-{
-
 {{< /highlight >}}
 
 **IMAGINGJAVA-8551 CDR to PDF - Image Loading Failed**
 
-{{< highlight csharp >}}
+{{< highlight java >}}
 
 String baseFolder = "D:\\";
 String fileName = "2020 BCF Golf Program.cdr";
@@ -266,8 +242,6 @@ try (Image image = Image.load(inputFilePath))
 {
    image.save(outputFilePath);
 }
-
-{
 
 {{< /highlight >}}
 

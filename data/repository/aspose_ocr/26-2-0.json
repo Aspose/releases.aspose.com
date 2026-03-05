@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-ocr",
+  "id" : "26-2-0",
+  "packageFiles" : [ {
+    "size" : "463 KB",
+    "name" : "aspose-ocr-26.2.0-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "35 MB",
+    "name" : "aspose-ocr-26.2.0.jar"
+  }, {
+    "size" : "1 KB",
+    "name" : "aspose-ocr-26.2.0.pom"
+  } ],
+  "releasehDate" : "2026-02-27T21:44:50+00:00",
+  "version" : "26.2.0",
+  "ReleaseNotes" : "https://releases.aspose.com/ocr/java/release-notes/2026/aspose-ocr-for-java-26-2-0-release-notes/"
+}

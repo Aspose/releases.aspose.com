@@ -3,7 +3,7 @@ id: "aspose-words-for-java-26-2-release-notes"
 slug: "aspose-words-for-java-26-2-release-notes"
 linktitle: "Aspose.Words for Java 26.2 Release Notes"
 title: "Aspose.Words for Java 26.2 Release Notes"
-weight: 120
+weight: 110
 description: "Aspose.Words for Java 26.2 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
