@@ -38,4 +38,4 @@ Please copy **ONLY ONE** jar library according to the version of installed Jas
 
 |Key|Summary|Category|
 | :- | :- | :- |
-| WORDSJR-408 | Upgrade to the latest version of [Aspose.Words for Java (26.1)](/words/java/release-notes/2025/aspose-words-for-java-26-1-release-notes/) | New feature |
+| WORDSJR-408 | Upgrade to the latest version of [Aspose.Words for Java (26.1)](/words/java/release-notes/2026/aspose-words-for-java-26-1-release-notes/) | New feature |
