@@ -35,12 +35,12 @@ jobs:
     # The type of runner that the job will run on
     ## Updated the runner as per https://github.com/actions/runner-images/issues/13046
     # runs-on: macos-14
-    # runs-on: macos-15-intel  # was: macos-13 or ubuntu-latest
+    runs-on: macos-15-intel  # was: macos-13 or ubuntu-latest
     # runner changed from macos-15-intel to ubuntu-latest due to intermittent issues;
     # https://github.com/actions/runner-images/issues/13358
     # https://github.com/actions/runner-images/issues/12545
     # https://github.com/actions/runner-images/issues/11509
-    runs-on: ubuntu-latest
+    # runs-on: ubuntu-latest this one didnt work.
     # timeout-minutes: 120 # 2 hours
     
 

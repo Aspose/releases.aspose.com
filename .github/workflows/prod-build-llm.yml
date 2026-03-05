@@ -35,11 +35,42 @@ jobs:
     - name: Remove unwanted folders
       run: |
 
+        if [ -d "./content/de" ]; then
+        find ./content/de -mindepth 1 ! -regex '^./content/de/llm\(/.*\)?' -delete
+        fi
+        if [ -d "./content/el" ]; then
+        find ./content/el -mindepth 1 ! -regex '^./content/el/llm\(/.*\)?' -delete
+        fi
         if [ -d "./content/en" ]; then
         find ./content/en -mindepth 1 ! -regex '^./content/en/llm\(/.*\)?' -delete
         fi
+        if [ -d "./content/es" ]; then
+        find ./content/es -mindepth 1 ! -regex '^./content/es/llm\(/.*\)?' -delete
+        fi
+        if [ -d "./content/fr" ]; then
+        find ./content/fr -mindepth 1 ! -regex '^./content/fr/llm\(/.*\)?' -delete
+        fi
+        if [ -d "./content/id" ]; then
+        find ./content/id -mindepth 1 ! -regex '^./content/id/llm\(/.*\)?' -delete
+        fi
+        if [ -d "./content/ja" ]; then
+        find ./content/ja -mindepth 1 ! -regex '^./content/ja/llm\(/.*\)?' -delete
+        fi
+        if [ -d "./content/pt" ]; then
+        find ./content/pt -mindepth 1 ! -regex '^./content/pt/llm\(/.*\)?' -delete
+        fi
+        if [ -d "./content/ru" ]; then
+        find ./content/ru -mindepth 1 ! -regex '^./content/ru/llm\(/.*\)?' -delete
+        fi
+        if [ -d "./content/tr" ]; then
+        find ./content/tr -mindepth 1 ! -regex '^./content/tr/llm\(/.*\)?' -delete
+        fi
+        if [ -d "./content/zh" ]; then
+        find ./content/zh -mindepth 1 ! -regex '^./content/zh/llm\(/.*\)?' -delete
+        fi
         rm ./layouts/sitemap.xml;
         ls content/ -all;
+
 
     - name: Build llm pages
       run: hugo --config "./config/config-prod-releases-aspose-com.toml"  -b "https://releases.aspose.com/" --disableKinds=taxonomy,category --cleanDestinationDir --minify
