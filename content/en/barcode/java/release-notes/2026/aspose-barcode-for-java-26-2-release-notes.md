@@ -22,10 +22,10 @@ for [Aspose.BarCode for Java 26.2](https://releases.aspose.com/barcode/java/26-2
 
 ## **All Changes**
 
-| **Key**          | **Summary**                                                                                                             | **Category** |
-|:-----------------|:------------------------------------------------------------------------------------------------------------------------|:-------------|
-|BARCODENET-38024|Remove EnableEscape property|Enhancement|
-|BARCODENET-39421|Expose BarCodeReader.GetBarCodeDecodeType() as public method|Enhancement|
+| **Key**             | **Summary**                                                                                                             | **Category** |
+|:--------------------|:------------------------------------------------------------------------------------------------------------------------|:-------------|
+| BARCODENET-38024    |Remove EnableEscape property|Enhancement|
+| BARCODENET-39421    |Expose BarCodeReader.GetBarCodeDecodeType() as public method|Enhancement|
 
 ## Public API changes and New Features
 
