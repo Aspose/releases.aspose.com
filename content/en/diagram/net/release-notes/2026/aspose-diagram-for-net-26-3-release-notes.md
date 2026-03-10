@@ -18,9 +18,9 @@ This page contains release notes information for Aspose.Diagram for .NET 26.3.
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|DIAGRAMNET-50279|Support for older Visio formats|Enhancement|	
-|DIAGRAMNET-53897|Issue of svg when setting FitToViewPort to true|Bug|
+|DIAGRAMNET-50279|Support for older Visio formats|Enhancement|
 |DIAGRAMNET-53904|Incorrect hyperlink area in PDF|Bug|
+|DIAGRAMNET-53911|Issue of svg when setting FitToViewPort to true|Bug|
 
 ## **Public API and Backward Incompatible Changes**
 The following is a list of any changes made to the public API such as added, renamed, removed or deprecated members as well as any non-backward compatible change made to Aspose.Diagram for .NET. If you have concerns about any change listed, please raise it on the Aspose.Diagram support forum.
