@@ -15,6 +15,8 @@ committed_by: "philip.zhou@aspose.com"
 ---
 
 ![SBOM Available](https://img.shields.io/badge/SBOM-Available-brightgreen?style=flat-square&logo=dependabot)
+![Security Rating](https://img.shields.io/badge/Security%20Rating-A-brightgreen?style=flat-square&logo=verizon)
+![CWE Top 25](https://img.shields.io/badge/CWE%20Top%2025-2024-blue?style=flat-square&logo=checkmarx)
 
 
 ## This 26.3 .NET release includes the following transparency and audit artifacts:
@@ -28,13 +30,19 @@ committed_by: "philip.zhou@aspose.com"
 
 ### Software Bill of Materials (SBOM)
 
-- {{< compliance-file relpath="/compliance-reports/diagram/net/2026/26.3/aspose-diagram-net-26.3_all_sboms.zip?t=1773136035" text="Download All SBOMs (ZIP)" download="true" >}} - 6.2 KB - *Last updated: March 10, 2026, 9:47 AM UTC*
+- {{< compliance-file relpath="/compliance-reports/diagram/net/2026/26.3/aspose-diagram-net-26.3_all_sboms.zip?t=1773136103" text="Download All SBOMs (ZIP)" download="true" >}} - 6.2 KB - *Last updated: March 10, 2026, 9:48 AM UTC*
 
 | Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
 |----------|----------------|---------------|-----------|----------|
 | .NET 6.0 | {{< compliance-file relpath="/compliance-reports/diagram/net/2026/26.3/aspose-diagram-net-26.3-net6.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/diagram/net/2026/26.3/aspose-diagram-net-26.3-net6.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/diagram/net/2026/26.3/aspose-diagram-net-26.3-net6.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/diagram/net/2026/26.3/aspose-diagram-net-26.3-net6.0_sbom-SPDX.xml" text="View XML" >}} |
 
 
+
+### Security Weakness Coverage (CWE & OWASP)
+
+| Report | HTML | PDF |
+|--------|------|-----|
+| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/diagram/net/2026/26.3/aspose-diagram-net-26.3_cwe-top-25-2024.htm" text="View HTML" >}} | - |
 
 
 
