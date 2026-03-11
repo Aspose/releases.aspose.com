@@ -59,7 +59,7 @@ The following is a list of any changes made to the public API such as added, ren
 
 ### **Adds two methods in HtmlLoadOptions class.**
 
-Specifies how <p> elements are rendered when loading HTML.
+Specifies how &lt;p&gt; elements are rendered when loading HTML.
 
 {{% alert color="primary" %}}
 
@@ -83,7 +83,7 @@ void SetBackgroundMode(BackgroundMode value)
 
 ### **Adds new enum HtmlParagraphLayoutMode.**
 
-Represents how <p> elements are rendered during HTML load.
+Represents how &lt;p&gt; elements are rendered during HTML load.
 
 ### **Adds two methods in TableStyle class.**
 
