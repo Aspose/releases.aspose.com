@@ -6,12 +6,12 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/cells/nodejs-cpp/new-releases/aspose.cells-for-node.js-via-c++-26.3-(macos-arm64-&-x64)/"
 folder_name: "Aspose.Cells for Node.js via C++ 26.3 (macOS arm64 & x64)"
-download_link: "/cells/nodejs-cpp/new-releases/aspose.cells-for-node.js-via-c++-26.3-(macos-arm64-&-x64)/52e1eb46b0dcc0c950dcfcc76b4a8e8a-17-14837"
+download_link: "/cells/nodejs-cpp/new-releases/aspose.cells-for-node.js-via-c++-26.3-(macos-arm64-&-x64)/d12660d938fb3c54b0c1eb5cbc5c04e5-17-14837"
 download_text: "İndirmek"
 intro_text: "macOS arm64 ve x64'te Node.js için"
 image_link: "/resources/img/random-file-icon.png"
 download_count: " 12/3/2026 İndirmeks: 1  Views: 1 "
-file_size: "File Size: 81.47MB"
+file_size: "File Size: 81.72MB"
 parent_path: "cells/nodejs-cpp"
 section_parent_path: "cells/nodejs-cpp"
 
@@ -24,19 +24,19 @@ weight: 70
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Cells for Node.js via C++ 26.3 (macOS arm64 & x64)" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="İndirmek" link="/cells/nodejs-cpp/new-releases/aspose.cells-for-node.js-via-c++-26.3-(macos-arm64-&-x64)/52e1eb46b0dcc0c950dcfcc76b4a8e8a-17-14837" >}}
+    {{< Releases/ReleasesSingleButtons text="İndirmek" link="/cells/nodejs-cpp/new-releases/aspose.cells-for-node.js-via-c++-26.3-(macos-arm64-&-x64)/d12660d938fb3c54b0c1eb5cbc5c04e5-17-14837" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/cells" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} İndirmeks: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-52e1eb46b0dcc0c950dcfcc76b4a8e8a-17-14837" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-d12660d938fb3c54b0c1eb5cbc5c04e5-17-14837" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Dosya boyutu: {{< /Common/li >}}
-      {{< Common/li id="size-update-52e1eb46b0dcc0c950dcfcc76b4a8e8a-17-14837" >}} 81.47MB {{< /Common/li >}}
+      {{< Common/li id="size-update-d12660d938fb3c54b0c1eb5cbc5c04e5-17-14837" >}} 81.72MB {{< /Common/li >}}
 
       {{< Common/li >}} Ekleme Tarihi: {{< /Common/li >}}
-      {{< Common/li id="added-update-52e1eb46b0dcc0c950dcfcc76b4a8e8a-17-14837" >}}12/3/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-d12660d938fb3c54b0c1eb5cbc5c04e5-17-14837" >}}12/3/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
