@@ -13,7 +13,7 @@ keywords: "Aspose.Cells for JavaScript via C++ 26.3 Release Notes, Aspose.Cells 
 
 {{% alert color="primary" %}}
 
-This page contains release notes for Aspose.Cells for C++ 26.3.
+This page contains release notes for Aspose.Cells for JavaScript via C++ 26.3.
 
 {{% /alert %}}
 

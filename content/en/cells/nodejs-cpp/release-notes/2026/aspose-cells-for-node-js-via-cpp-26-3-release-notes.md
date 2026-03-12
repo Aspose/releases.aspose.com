@@ -13,7 +13,7 @@ keywords: "Aspose.Cells for Node.js via C++ 26.3 Release Notes, Aspose.Cells for
 
 {{% alert color="primary" %}}
 
-This page contains release notes for Aspose.Cells for C++ 26.3.
+This page contains release notes for Aspose.Cells for Node.js via C++ 26.3.
 
 {{% /alert %}}
 
