@@ -56,15 +56,15 @@ The following is a list of any changes made to the public API such as added, ren
 
 ### **Adds new property HtmlLoadOptions.ParagrahLayoutMode.**
 
-Specifies how <p> elements are rendered when loading HTML.
+Specifies how `<p>` elements are rendered when loading HTML.
 
-### **Obsoletes ChartFrame.BackgroundMode.**
+### **Obsoletes ChartFrame.BackgroundMode property.**
 
 Please use ChartFrame.Area.FillFormat.FillType property instead.
 
 ### **Adds new enum HtmlParagraphLayoutMode.**
 
-Represents how <p> elements are rendered during HTML load.
+Represents how `<p>` elements are rendered during HTML load.
 
 ### **Adds new method TableStyle.Create(System.String, WorksheetCollection).**
 
