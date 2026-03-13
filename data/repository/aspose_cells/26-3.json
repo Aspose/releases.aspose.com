@@ -3,6 +3,18 @@
   "artifactId" : "aspose-cells",
   "id" : "26-3",
   "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-cells-26.3-android.via.java-javadoc.jar",
+    "classifier" : "android.via.java-javadoc"
+  }, {
+    "size" : "1 MB",
+    "name" : "aspose-cells-26.3-android.via.java-resources.jar",
+    "classifier" : "android.via.java-resources"
+  }, {
+    "size" : "8 MB",
+    "name" : "aspose-cells-26.3-android.via.java.jar",
+    "classifier" : "android.via.java"
+  }, {
     "size" : "120 KB",
     "name" : "aspose-cells-26.3-gridjs-javadoc.jar",
     "classifier" : "gridjs-javadoc"
@@ -41,7 +53,7 @@
     "size" : "388 bytes",
     "name" : "aspose-cells-26.3.pom"
   } ],
-  "releasehDate" : "2026-03-13T07:15:56+00:00",
+  "releasehDate" : "2026-03-13T08:40:54+00:00",
   "version" : "26.3",
   "ReleaseNotes" : "https://releases.aspose.com/cells/java/release-notes/2026/aspose-cells-for-java-26-3-release-notes/"
 }
