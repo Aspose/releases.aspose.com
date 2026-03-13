@@ -19,6 +19,9 @@ This page contains release notes for [Aspose.Cells for .NET 26.3](https://www.nu
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
+|CELLSGRIDJS-1489|Support set protection in GridJs UI|New Feature
+|CELLSGRIDJS-2241|Add support for sheet protected range settings.|New Feature
+|CELLSGRIDJS-2259|Add toolbar buttons for font zooming|New Feature
 |CELLSNET-59900|Enhancement for saving some advanced functions in formula for XLSB|Enhancement
 |CELLSNET-59844|Support to parse legend tag when importing HTML|Enhancement
 |CELLSNET-59807|Support to parse label tag when importing HTML|Enhancement
@@ -49,6 +52,15 @@ This page contains release notes for [Aspose.Cells for .NET 26.3](https://www.nu
 |CELLSNET-59897|Excel Data Types caused NullReferenceException when saving workbook to Xlsb format|Bug
 |CELLSNET-59898|Stock rich data does not work when saving as xlsb|Bug
 |CELLSNET-59887|Exception occurs when converting an XLSX file with images to Numbers|Bug
+|CELLSGRIDJS-2273|Empty rows appeared after filtering|Bug
+|CELLSGRIDJS-2274|The filter result is not correct|Bug
+|CELLSGRIDJS-2272|Two arrows appeared for filter columns|Bug
+|CELLSGRIDJS-2279|Validation list is wrong|Bug
+|CELLSGRIDJS-2265|Exception occurred when rendering an Excel file that includes a chart with a name containing the '&' character|Bug
+|CELLSGRIDJS-2270|Date category axis showing Excel serial numbers instead of formatted dates|Bug
+|CELLSGRIDJS-2285|Chart rendering is inconsistent with Excel.|Bug
+|CELLSGRIDJS-2294|Group chart display inconsistency with Excel|Bug
+|CELLSGRIDJS-2295|Charts not displaying chart annotation content|Bug
 
 ## **Public API and Backwards Incompatible Changes**
 
