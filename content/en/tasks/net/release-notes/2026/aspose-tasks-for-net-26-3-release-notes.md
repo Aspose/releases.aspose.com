@@ -23,7 +23,6 @@ This page contains release notes information for [Aspose.Tasks for .Net 26.3](ht
 
 |**Key**|**Summary**|**Issue Type**|
 | :- | :- | :- |
-| TASKSNET-4254 | Implement a support of UWP and Unity projects | New Feature |
 | TASKSNET-11596 | Fix CalendarException.ToDate property setter logic | Enhancement |
 | TASKSNET-11682 | Fix writing of EarnedValueMethod and PhysicalPercentComplete fields to MPP format | Bug |
 | TASKSNET-11680 | Fix incorrect calculation of formula with absent Date fields values | Bug |
