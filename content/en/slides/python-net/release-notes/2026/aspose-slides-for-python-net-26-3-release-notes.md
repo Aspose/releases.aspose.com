@@ -19,6 +19,16 @@ This page contains release notes for [Aspose.Slides for Python via .NET 26.3](ht
 ## New Features and Enhancements
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
+|SLIDESNET-45298|Failed to find a way to determine an inherited scheme color|Enhancement|<https://docs.aspose.com/slides/net/presentation-theme/>|
+|SLIDESNET-45264|PowerPoint → PDF/UA: Decorative elements not tagged as artifacts|Investigation|<https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/>|
+|SLIDESNET-45262|PowerPoint → PDF/UA: Structure tags remain although text box is marked as decorative (artifact)|Investigation|<https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/>|
+|SLIDESNET-45284|Support opening text disguised as .ppt/.pps as text-imported presentations|Feature||
+|SLIDESNET-45260|PowerPoint → PDF/UA: Inconsistent decorative marking for SmartArt and charts (text remains in structure tree)|Investigation|<https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/>|
+
+## Other Improvements and Changes
+|**Key**|**Summary**|**Category**|**Related Documentation**|
+| :- | :- | :- | :- |
+|SLIDESPYNET-334|Issue running basic code including Aspose.slides on google colab|Bug||
 |SLIDESPYNET-338|Use Aspose.Slides for Net 26.3 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2026/aspose-slides-for-net-26-3-release-notes/>|
 
 ## Public API Changes
