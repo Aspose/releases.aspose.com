@@ -1,0 +1,12 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-psd",
+  "id" : "26-3",
+  "packageFiles" : [ {
+    "size" : "643 bytes",
+    "name" : "aspose-psd-26.3.pom"
+  } ],
+  "releasehDate" : "2026-03-25T10:17:34+00:00",
+  "version" : "26.3",
+  "ReleaseNotes" : "https://releases.aspose.com/psd/java/release-notes/2026/aspose-psd-for-java-26-3-release-notes/"
+}
