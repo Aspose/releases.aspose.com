@@ -19,11 +19,13 @@ This page contains release notes for [Aspose.Slides for Python via .NET 26.4](ht
 ## New Features and Enhancements
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
+|SLIDESNET-45253|PowerPoint → PDF/UA: Paragraph split into multiple \<P\> tags |Investigation|<https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/>|
 
 ## Other Improvements and Changes
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
-|SLIDESPYNET-338|Use Aspose.Slides for Net 26.4 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2026/aspose-slides-for-net-26-4-release-notes/>|
+|SLIDESPYNET-332|SVG image is missing when converting a slide to SVG|Bug||
+|SLIDESPYNET-341|Use Aspose.Slides for Net 26.4 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2026/aspose-slides-for-net-26-4-release-notes/>|
 
 ## Public API Changes
 
