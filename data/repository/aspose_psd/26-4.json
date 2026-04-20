@@ -1,12 +1,21 @@
 {
   "groupId" : "com.aspose",
+  "classifier" : "jdk16",
   "artifactId" : "aspose-psd",
   "id" : "26-4",
   "packageFiles" : [ {
+    "size" : "4 MB",
+    "name" : "aspose-psd-26.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "24 MB",
+    "name" : "aspose-psd-26.4-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
     "size" : "643 bytes",
     "name" : "aspose-psd-26.4.pom"
   } ],
-  "releasehDate" : "2026-04-20T14:43:02+00:00",
+  "releasehDate" : "2026-04-20T14:45:57+00:00",
   "version" : "26.4",
   "ReleaseNotes" : "https://releases.aspose.com/psd/java/release-notes/2026/aspose-psd-for-java-26-4-release-notes/"
 }
