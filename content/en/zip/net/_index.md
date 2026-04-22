@@ -12,7 +12,7 @@ family_listing_page_venture: "4"
 family_listing_page_package: "103"
 homepage_package_type: "NuGet"
 homepage_package_link: "https://www.nuget.org/packages/Aspose.Zip/"
-tags: ['7z', '7-ZIP', 'AES', 'AES-256', 'Archive', 'RAR', 'CAB', 'BZIP2', 'Decompression', 'decrypt', 'Decryption', 'GZIP', 'Library', 'LZMA', 'LZMA2']
+tags: ['7z', '7-ZIP', 'AES', 'Tar', 'Archive', 'RAR', 'CAB', 'BZIP2', 'Decompression',  'Decryption', 'GZIP', 'Library', 'LZMA', 'LZMA2', 'AAR']
 weight:  1
 ---
 
@@ -55,7 +55,7 @@ Zip, Rar, Cab, Tar, Cpio, GZip, Bz2, Z, Xar, Xz, Lzip, LZ4, Arj, Lha, Lzx, Wim, 
 
 ### Compose Formats
 
-Zip, Tar, Cpio, GZip, Bz2, Cab, Iso, Lzip, LZ4, LZMA, Xar, Xz, Z, Zstandard, 7z
+Zip, Tar, Cpio, GZip, Bz2, Cab, Iso, Lzip, LZ4, LZMA, Xar, Aar, Xz, Z, Zstandard, 7z
 
 {{< Common/hr >}}
 
