@@ -1,0 +1,51 @@
+---
+
+title: "Downloads ---Novos lançamentos-aspose.zip-para-python-via-.net-26.4-linux"
+description: " "
+keywords: ""
+page_type: single_release_page
+folder_link: "/zip/python-net/new-releases/aspose.zip-for-python-via-.net-26.4-linux/"
+folder_name: "Aspose.Zip para Python via .NET 26.4 Linux"
+download_link: "/zip/python-net/new-releases/aspose.zip-for-python-via-.net-26.4-linux/e043157c1e5175c317644c70a2e3c0a1-6-15092"
+download_text: "Download"
+intro_text: "Contém o arquivo Aspose.Zip para Python via .NET 26.4 (binários exclusivos para Linux)."
+image_link: "/resources/img/random-file-icon.png"
+download_count: " 23/4/2026 Downloads: 1  Views: 1 "
+file_size: "File Size: 44.09MB"
+parent_path: "zip/python-net"
+section_parent_path: "zip/python-net"
+
+tags: "Aspose.Zip Python Linux"
+release_notes_url: "https://releases.aspose.com/zip/python-net/release-notes/2026/aspose-zip-for-python-net-26-4-release-notes/"
+weight: 133
+
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Zip para Python via .NET 26.4 Linux" imagelink="/resources/img/random-file-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/zip/python-net/new-releases/aspose.zip-for-python-via-.net-26.4-linux/e043157c1e5175c317644c70a2e3c0a1-6-15092" >}}
+    {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/zip" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="Detalhes do arquivo">}}
+    {{< Releases/ReleasesDetailsUl >}}
+      {{< Common/li >}} Downloads: {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-e043157c1e5175c317644c70a2e3c0a1-6-15092" >}} 1 {{< /Common/li >}}
+      {{< Common/li >}} Tamanho do arquivo: {{< /Common/li >}}
+      {{< Common/li id="size-update-e043157c1e5175c317644c70a2e3c0a1-6-15092" >}} 44.09MB {{< /Common/li >}}
+
+      {{< Common/li >}} data adicionada: {{< /Common/li >}}
+      {{< Common/li id="added-update-e043157c1e5175c317644c70a2e3c0a1-6-15092" >}}23/4/2026 {{< /Common/li >}}
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/zip/python-net/release-notes/2026/aspose-zip-for-python-net-26-4-release-notes/'>https://releases.aspose.com/zip/python-net/release-notes/2026/aspose-zip-for-python-net-26-4-release-notes/</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Descrição</h4><div class="HTMLDescription">Contém o arquivo Aspose.Zip para Python via .NET 26.4 (binários exclusivos para Linux).</div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+
