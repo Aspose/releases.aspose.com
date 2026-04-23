@@ -1,0 +1,25 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk18",
+  "artifactId" : "aspose-tasks",
+  "id" : "26-4",
+  "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-tasks-26.4-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "15 MB",
+    "name" : "aspose-tasks-26.4-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "15 MB",
+    "name" : "aspose-tasks-26.4-jdk18.jar",
+    "classifier" : "jdk18"
+  }, {
+    "size" : "395 bytes",
+    "name" : "aspose-tasks-26.4.pom"
+  } ],
+  "releasehDate" : "2026-04-23T13:29:19+00:00",
+  "version" : "26.4",
+  "ReleaseNotes" : "https://releases.aspose.com/tasks/java/release-notes/2026/aspose-tasks-for-java-26-4-release-notes/"
+}
