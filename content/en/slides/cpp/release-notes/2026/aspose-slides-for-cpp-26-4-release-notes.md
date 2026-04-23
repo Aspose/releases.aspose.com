@@ -24,6 +24,7 @@ This page contains release notes for [Aspose.Slides for C++ 26.4](https://www.nu
 ## New Features and Enhancements
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
+|SLIDESNET-45253|PowerPoint → PDF/UA: Paragraph split into multiple \<P\> tags |Investigation|<https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/>|
 
 ## Other Improvements and Changes
 |**Key**|**Summary**|**Category**|**Related Documentation**|
@@ -99,9 +100,9 @@ for (auto&& shape : presentation->get_Slide(0)->get_Shapes())
     }
 
     // Read or modify chart workbook data.
-    Console::WriteLine(chartData->get_Series(0)->get_Name()->AsCells()->GetHashCode());
+    Console::WriteLine(chartData->get_ChartSeries(0)->get_Name()->get_AsCells().GetHashCode());
 
-    auto cell = chartData->get_Series(0)->get_DataPoint(0)->get_Value()->AsCell();
+    auto cell = chartData->get_ChartSeries(0)->get_DataPoint(0)->get_Value()->get_AsCell();
     Console::WriteLine(cell->get_Value());
 }
 ```
