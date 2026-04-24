@@ -35,9 +35,6 @@ Aspose.HTML for Python via .NET  26.4.0 [PyPI](https://pypi.org/project/aspose-h
 | HTMLNET-6670 | Fixed an ArgumentException that could occur when processing auto values during HTML layout. | Bug |
 | HTMLNET-6967 | Improved tagged PDF generation for nested and definition lists, ensuring correct structuretree mapping and accessibility semantics. | Bug |
 | HTMLNET-6957 | Fixed PDF rendering problems when drawing complex borders and paths. | Bug |
-| HTMLNET-7020 | Fixed the PDF error "Natural language is not set" by correctly initializing the document language metadata. | Bug |
 | HTMLNET-6287 | Enhanced Flex layout handling and standards compliance for complex sizing and alignment scenarios. | Bug |
 | HTMLNET-7045 | Fixed tagged PDF link and table-header semantics to improve PDF/UA accessibility compliance. | Bug |
-| HTMLNET-2718 | Improved PDF form and control rendering and related drawing behavior for greater visual and functional consistency. | Enhancement |
-| HTMLNET-7033 | Added mapping of HTML alt and label text to the PDF form field /TU tooltip/accessible name metadata. | Feature |
 | HTMLNET-6851 | Added support for named @page rules with mixed page sizes in the generated output. | Feature |
