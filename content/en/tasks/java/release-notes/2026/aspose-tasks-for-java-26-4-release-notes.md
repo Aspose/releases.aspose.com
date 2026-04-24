@@ -19,16 +19,20 @@ This page contains release notes information for [Aspose.Tasks for Java 26.4](ht
 
 {{% /alert %}}
 
-> &#9888; **IMPORTANT DEPRECATION NOTICE**
-> Starting with version 26.10, support for JDK 1.7 will be completely discontinued.
->
-> **What is changing:**
-> - The minimum supported Java version will be JDK 1.8 (Java 8) or higher.
-> - JDK 1.7 will no longer be compatible with the product.
->
-> **Recommended actions:**
-> Please plan to migrate your environments and deployment scripts to JDK 1.8 or higher to avoid failures when upgrading to version 26.10.
-> *The current version (up to 26.9 inclusive) continues to work with JDK 1.7, but we strongly recommend starting the migration process now.*
+## &#9888; IMPORTANT DEPRECATION NOTICE
+
+Starting with version 26.10, support for JDK 1.7 will be completely discontinued.
+
+**What is changing:**
+
+- The minimum supported Java version will be JDK 1.8 (Java 8) or higher.
+- JDK 1.7 will no longer be compatible with the product.
+
+**Recommended actions:**
+
+Please plan to migrate your environments and deployment scripts to JDK 1.8 or higher to avoid failures when upgrading to version 26.10.
+
+*The current version (up to 26.9 inclusive) continues to work with JDK 1.7, but we strongly recommend starting the migration process now.*
 
 ## **All Changes**
 
