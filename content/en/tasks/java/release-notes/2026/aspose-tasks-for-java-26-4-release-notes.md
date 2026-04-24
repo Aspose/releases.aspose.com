@@ -19,7 +19,7 @@ This page contains release notes information for [Aspose.Tasks for Java 26.4](ht
 
 {{% /alert %}}
 
-## :warning: IMPORTANT DEPRECATION NOTICE
+## &#9888; IMPORTANT DEPRECATION NOTICE
 
 Starting with version 26.10, support for JDK 1.7 will be completely discontinued.
 
