@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/html/net/new-releases/aspose.html-for-.net-26.4.0/"
 folder_name: "Aspose.HTML für .NET 26.4.0"
-download_link: "/html/net/new-releases/aspose.html-for-.net-26.4.0/97dbe807f3af19aed8e2107030f29c0d-1-15096"
+download_link: "/html/net/new-releases/aspose.html-for-.net-26.4.0/97dbe807f3af19aed8e2107030f29c0d-1-15101"
 download_text: "Download"
 intro_text: "Aspose.HTML für .NET 26.4.0 MSI-Installationsprogramm. Installiert die Produktassemblys und die Dokumentation im Standardverzeichnis „Programme“."
 image_link: "/resources/img/msi-icon.png"
@@ -17,26 +17,26 @@ section_parent_path: "html/net"
 
 tags: ""
 release_notes_url: "auto"
-weight: 326
+weight: 328
 
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.HTML für .NET 26.4.0" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/html/net/new-releases/aspose.html-for-.net-26.4.0/97dbe807f3af19aed8e2107030f29c0d-1-15096" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/html/net/new-releases/aspose.html-for-.net-26.4.0/97dbe807f3af19aed8e2107030f29c0d-1-15101" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/html" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dateidetails">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-97dbe807f3af19aed8e2107030f29c0d-1-15096" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-97dbe807f3af19aed8e2107030f29c0d-1-15101" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Dateigröße: {{< /Common/li >}}
-      {{< Common/li id="size-update-97dbe807f3af19aed8e2107030f29c0d-1-15096" >}} 4.94MB {{< /Common/li >}}
+      {{< Common/li id="size-update-97dbe807f3af19aed8e2107030f29c0d-1-15101" >}} 4.94MB {{< /Common/li >}}
 
       {{< Common/li >}} Datum hinzugefügt: {{< /Common/li >}}
-      {{< Common/li id="added-update-97dbe807f3af19aed8e2107030f29c0d-1-15096" >}}24/4/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-97dbe807f3af19aed8e2107030f29c0d-1-15101" >}}24/4/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
