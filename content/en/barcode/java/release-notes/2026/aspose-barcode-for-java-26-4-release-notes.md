@@ -33,11 +33,15 @@ for [Aspose.BarCode for Java 26.4](https://releases.aspose.com/barcode/java/26-4
 
 ### OnlyRequestedTypes property for strict barcode type filtering
 
-The ***OnlyRequestedTypes*** property has been added to ***BarcodeSettings***.
+Methods ***setOnlyRequestedTypes(boolean)***
+and ***isOnlyRequestedTypes():boolean*** have been added to the
+***com.aspose.barcode.barcoderecognition.BarcodeSettings*** class.
 
-When enabled, ***BarCodeReader*** returns only barcode types explicitly specified in the decoding settings. Compatible or equivalent barcode types are excluded from the results, even if they can be successfully recognized.
+When enabled, ***com.aspose.barcode.barcoderecognitionBarCodeReader*** returns only the barcode types explicitly specified in the decoding settings.
+Compatible or equivalent barcode types are excluded from the results, even if they can be successfully recognized.
 
-When disabled, compatible and equivalent barcode types may be returned according to internal type mapping (for example, EAN-13 may also be returned when UPC-A is specified as the decoding type).
+When disabled, compatible and equivalent barcode types may be returned according to internal type mapping.
+For example, EAN-13 may also be returned when UPC-A is specified as the decoding type.
 
 ```java
 public void example() throws IOException {
