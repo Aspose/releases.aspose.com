@@ -35,11 +35,11 @@ Methods ***setOnlyRequestedTypes(bool $value)***
 and ***isOnlyRequestedTypes()*** have been added to the
 ***Aspose\Barcode\Recognition\BarcodeSettings*** class.
 
-When enabled, ***Aspose\Barcode\Recognition\BarCodeReader*** returns only barcode types explicitly specified in the decoding settings. Compatible
-or equivalent barcode types are excluded from the results, even if they can be successfully recognized.
+When enabled, ***Aspose\Barcode\Recognition\BarCodeReader*** returns only the barcode types explicitly specified in the decoding settings. 
+Compatible or equivalent barcode types are excluded from the results, even if they can be successfully recognized.
 
-When disabled, compatible and equivalent barcode types may be returned according to internal type mapping (for example,
-EAN-13 may also be returned when UPC-A is specified as the decoding type).
+When disabled, compatible and equivalent barcode types may be returned according to internal type mapping.
+For example, EAN-13 may also be returned when UPC-A is specified as the decoding type.
 
 ```php
 public function test()
