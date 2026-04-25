@@ -31,9 +31,11 @@ This page contains release notes information for [Aspose.BarCode for PHP via Jav
 
 ### OnlyRequestedTypes property for strict barcode type filtering
 
-The ***OnlyRequestedTypes*** property has been added to ***BarcodeSettings***.
+Methods ***setOnlyRequestedTypes(bool $value)***
+and ***isOnlyRequestedTypes()*** have been added to the
+***Aspose\Barcode\Recognition\BarcodeSettings*** class.
 
-When enabled, ***BarCodeReader*** returns only barcode types explicitly specified in the decoding settings. Compatible
+When enabled, ***Aspose\Barcode\Recognition\BarCodeReader*** returns only barcode types explicitly specified in the decoding settings. Compatible
 or equivalent barcode types are excluded from the results, even if they can be successfully recognized.
 
 When disabled, compatible and equivalent barcode types may be returned according to internal type mapping (for example,
