@@ -42,7 +42,7 @@ When disabled, compatible and equivalent barcode types may be returned according
 For example, EAN-13 may also be returned when UPC-A is specified as the decoding type.
 
 ```javascript
-let file_name = "test-NODEJS.png";
+let file_name = "test.png";
 let filePath = ReleaseNotes.folder + file_name;
 
 // --- generate barcode ---
