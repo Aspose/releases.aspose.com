@@ -22,16 +22,17 @@ for [Aspose.BarCode for Java 26.4](https://releases.aspose.com/barcode/java/26-4
 
 ## **All Changes**
 
-| **Key**             | **Summary**                                                                                                             | **Category** |
-|:--------------------|:------------------------------------------------------------------------------------------------------------------------|:-------------|
-|BARCODENET-37745|Reading barcodes from PDF - barcode is not recognized|Bug|
-|BARCODENET-38384|Recognition of EAN barcodes while barcode read type is set to UPC|Bug|
-|BARCODENET-38386|Reader detects fragments of Code39Extended instead of VIN |Bug|
-|BARCODENET-38387|Add option to BarCodeReader to recognize only required barcode types|Enhancement|
+| **Key**          | **Summary**                                                          | **Category** |
+|:-----------------|:---------------------------------------------------------------------|:-------------|
+| BARCODENET-37745 | Reading barcodes from PDF - barcode is not recognized                | Bug          |
+| BARCODENET-38384 | Recognition of EAN barcodes while barcode read type is set to UPC    | Bug          |
+| BARCODENET-38386 | Reader detects fragments of Code39Extended instead of VIN            | Bug          |
+| BARCODENET-38387 | Add option to BarCodeReader to recognize only required barcode types | Enhancement  |
 
 ## Public API changes and New Features
 
 ### OnlyRequestedTypes property for strict barcode type filtering
+
 The ***OnlyRequestedTypes*** property has been added to ***BarcodeSettings***.
 
 When enabled, ***BarCodeReader*** returns only barcode types explicitly specified in the decoding settings. Compatible or equivalent barcode types are excluded from the results, even if they can be successfully recognized.
