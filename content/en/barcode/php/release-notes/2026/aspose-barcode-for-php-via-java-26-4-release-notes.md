@@ -44,7 +44,7 @@ For example, EAN-13 may also be returned when UPC-A is specified as the decoding
 ```php
 public function test()
 {
-    $file_name = "test-PHP.png";
+    $file_name = "test.png";
     // generate barcode
     $generator = new BarcodeGenerator(EncodeTypes::EAN_13, "2383823482894");
     $generator->save(self::FOLDER . $file_name, BarCodeImageFormat::PNG);
