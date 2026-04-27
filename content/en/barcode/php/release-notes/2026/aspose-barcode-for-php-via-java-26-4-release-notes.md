@@ -63,7 +63,7 @@ public function test()
         echo "BarCode CodeText: " . $result->getCodeText() . "\n";
     }
 
-    // recognize compatible types
+    // recognize compatible types: EAN13, UPCA, ISSN, ISMN, ISBN (EAN13 will be returned as UPCA-equivalent)
     $reader2 = new BarCodeReader(self::FOLDER . $file_name, null, DecodeType::UPCA);
     $reader2->getBarcodeSettings()->setOnlyRequestedTypes(false);
 
