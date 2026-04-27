@@ -66,7 +66,7 @@ for (let i = 0; i < results1.length; i++) {
     console.log("BarCode CodeText: " + results1[i].getCodeText());
 }
 
-// recognize compatible types
+// recognize compatible types: EAN13, UPCA, ISSN, ISMN, ISBN (EAN13 will be returned as UPCA-equivalent)
 let reader2 = new BarCodeReader(filePath,null,DecodeType.UPCA);
 
 reader2.getBarcodeSettings().setOnlyRequestedTypes(false);
