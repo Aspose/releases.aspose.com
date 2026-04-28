@@ -3,7 +3,7 @@ id: "aspose-barcode-for-cpp-26-3-release-notes"
 slug: "aspose-barcode-for-cpp-26-3-release-notes"
 linktitle: "Aspose.BarCode for Cpp 26.3 Release Notes"
 title: "Aspose.BarCode for Cpp 26.3 Release Notes"
-weight: 200
+weight: 180
 description: "A summary of recent changes, enhancements and bug fixes in Aspose.BarCode for C++ 26.3 release."
 type: "repository"
 layout: "release"
