@@ -8,7 +8,7 @@ folder_link: "/llm/net/new-releases/aspose.llm-for-.net-26.4.0-(msi-installer)/"
 folder_name: "Aspose.LLM for .NET 26.4.0 (MSI installer)"
 download_link: "/llm/net/new-releases/aspose.llm-for-.net-26.4.0-(msi-installer)/0604f3c3a01a8f054f8e436d0d159e13-1-15141"
 download_text: "Download"
-intro_text: "Llama.cpp runtime version upgrade, chat session fixes"
+intro_text: "It contains Aspose.LLM for .NET 26.4.0 MSI installer."
 image_link: "/resources/img/msi-icon.png"
 download_count: " 28/4/2026 Downloads: 1  Views: 1 "
 file_size: "File Size: 844KB"
@@ -43,7 +43,7 @@ weight: 6
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/llm/net/release-notes/2026/aspose-llm-for-net-26-4-0-release-notes/'>https://releases.aspose.com/llm/net/release-notes/2026/aspose-llm-for-net-26-4-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">Llama.cpp runtime version upgrade, chat session fixes</div>
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.LLM for .NET 26.4.0 MSI installer.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
