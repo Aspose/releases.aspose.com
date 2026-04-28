@@ -44,7 +44,7 @@ For example, EAN-13 may also be returned when UPC-A is specified as the decoding
 
 ```python
  def example(self):
-    file_name = "test-PYTHON.png"
+    file_name = "test.png"
     filePath = self.FOLDER + file_name
     generator = BarcodeGenerator(EncodeTypes.EAN_13, "2383823482894")
     generator.save(filePath, BarCodeImageFormat.PNG)
