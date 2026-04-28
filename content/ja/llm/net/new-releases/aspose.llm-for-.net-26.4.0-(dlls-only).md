@@ -8,7 +8,7 @@ folder_link: "/llm/net/new-releases/aspose.llm-for-.net-26.4.0-(dlls-only)/"
 folder_name: "Aspose.LLM for .NET 26.4.0 (DLLのみ)"
 download_link: "/llm/net/new-releases/aspose.llm-for-.net-26.4.0-(dlls-only)/4882e94d1c53e76384c1f3da4eca22b1-1-15142"
 download_text: "ダウンロード"
-intro_text: "Llama.cppランタイムバージョンのアップグレード、チャットセッションの修正"
+intro_text: "このアーカイブには、.NET 26.4.0 用の Aspose.LLM の DLL のみが含まれています。"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 28/4/2026 ダウンロードs: 1  Views: 1 "
 file_size: "File Size: 437.72KB"
@@ -43,7 +43,7 @@ weight: 7
       <h4>リリースノート</h4><div><a href='https://releases.aspose.com/llm/net/release-notes/2026/aspose-llm-for-net-26-4-0-release-notes/'>https://releases.aspose.com/llm/net/release-notes/2026/aspose-llm-for-net-26-4-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>説明</h4><div class="HTMLDescription">Llama.cppランタイムバージョンのアップグレード、チャットセッションの修正</div>
+      <h4>説明</h4><div class="HTMLDescription">このアーカイブには、.NET 26.4.0 用の Aspose.LLM の DLL のみが含まれています。</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

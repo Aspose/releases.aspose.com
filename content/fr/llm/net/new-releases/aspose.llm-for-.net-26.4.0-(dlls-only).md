@@ -8,7 +8,7 @@ folder_link: "/llm/net/new-releases/aspose.llm-for-.net-26.4.0-(dlls-only)/"
 folder_name: "Aspose.LLM pour .NET 26.4.0 (DLL uniquement)"
 download_link: "/llm/net/new-releases/aspose.llm-for-.net-26.4.0-(dlls-only)/4882e94d1c53e76384c1f3da4eca22b1-1-15142"
 download_text: "Télécharger"
-intro_text: "Mise à jour de la version d'exécution de Llama.cpp, corrections de session de chat"
+intro_text: "Elle contient uniquement l'archive des DLL Aspose.LLM pour .NET 26.4.0."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 28/4/2026 Téléchargers: 1  Views: 1 "
 file_size: "File Size: 437.72KB"
@@ -43,7 +43,7 @@ weight: 7
       <h4>Notes de version</h4><div><a href='https://releases.aspose.com/llm/net/release-notes/2026/aspose-llm-for-net-26-4-0-release-notes/'>https://releases.aspose.com/llm/net/release-notes/2026/aspose-llm-for-net-26-4-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>La description</h4><div class="HTMLDescription">Mise à jour de la version d'exécution de Llama.cpp, corrections de session de chat</div>
+      <h4>La description</h4><div class="HTMLDescription">Elle contient uniquement l'archive des DLL Aspose.LLM pour .NET 26.4.0.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

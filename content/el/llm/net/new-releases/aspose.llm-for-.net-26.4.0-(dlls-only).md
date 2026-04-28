@@ -8,7 +8,7 @@ folder_link: "/llm/net/new-releases/aspose.llm-for-.net-26.4.0-(dlls-only)/"
 folder_name: "Aspose.LLM για .NET 26.4.0 (μόνο DLL)"
 download_link: "/llm/net/new-releases/aspose.llm-for-.net-26.4.0-(dlls-only)/4882e94d1c53e76384c1f3da4eca22b1-1-15142"
 download_text: "Κατεβάστε"
-intro_text: "Αναβάθμιση έκδοσης χρόνου εκτέλεσης Llama.cpp, διορθώσεις περιόδου λειτουργίας συνομιλίας"
+intro_text: "Περιέχει το αρχείο Aspose.LLM μόνο για αρχεία DLL .NET 26.4.0."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 28/4/2026 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 437.72KB"
@@ -43,7 +43,7 @@ weight: 7
       <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/llm/net/release-notes/2026/aspose-llm-for-net-26-4-0-release-notes/'>https://releases.aspose.com/llm/net/release-notes/2026/aspose-llm-for-net-26-4-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Περιγραφή</h4><div class="HTMLDescription">Αναβάθμιση έκδοσης χρόνου εκτέλεσης Llama.cpp, διορθώσεις περιόδου λειτουργίας συνομιλίας</div>
+      <h4>Περιγραφή</h4><div class="HTMLDescription">Περιέχει το αρχείο Aspose.LLM μόνο για αρχεία DLL .NET 26.4.0.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

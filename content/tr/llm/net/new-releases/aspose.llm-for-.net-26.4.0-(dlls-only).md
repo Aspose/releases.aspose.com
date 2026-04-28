@@ -8,7 +8,7 @@ folder_link: "/llm/net/new-releases/aspose.llm-for-.net-26.4.0-(dlls-only)/"
 folder_name: "Aspose.LLM for .NET 26.4.0 (yalnızca DLL'ler)"
 download_link: "/llm/net/new-releases/aspose.llm-for-.net-26.4.0-(dlls-only)/4882e94d1c53e76384c1f3da4eca22b1-1-15142"
 download_text: "İndirmek"
-intro_text: "Llama.cpp çalışma zamanı sürüm yükseltmesi, sohbet oturumu düzeltmeleri"
+intro_text: "Bu dosya yalnızca Aspose.LLM for .NET 26.4.0 DLL'lerini içeren bir arşivdir."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 28/4/2026 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 437.72KB"
@@ -43,7 +43,7 @@ weight: 7
       <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/llm/net/release-notes/2026/aspose-llm-for-net-26-4-0-release-notes/'>https://releases.aspose.com/llm/net/release-notes/2026/aspose-llm-for-net-26-4-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Tanım</h4><div class="HTMLDescription">Llama.cpp çalışma zamanı sürüm yükseltmesi, sohbet oturumu düzeltmeleri</div>
+      <h4>Tanım</h4><div class="HTMLDescription">Bu dosya yalnızca Aspose.LLM for .NET 26.4.0 DLL'lerini içeren bir arşivdir.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
