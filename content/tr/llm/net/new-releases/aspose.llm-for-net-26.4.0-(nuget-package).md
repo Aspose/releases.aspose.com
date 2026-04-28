@@ -8,7 +8,7 @@ folder_link: "/llm/net/new-releases/aspose.llm-for-net-26.4.0-(nuget-package)/"
 folder_name: "Aspose.LLM for NET 26.4.0 (NuGet paketi)"
 download_link: "/llm/net/new-releases/aspose.llm-for-net-26.4.0-(nuget-package)/9b3a3f69344e1cbc2e740e645ed2a9a2-1-15140"
 download_text: "İndirmek"
-intro_text: "Llama.cpp çalışma zamanı sürüm yükseltmesi, sohbet oturumu düzeltmeleri"
+intro_text: "Bu, Aspose.LLM for .NET 26.4.0 NuGet paketini içerir."
 image_link: "/resources/img/random-file-icon.png"
 download_count: " 28/4/2026 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 400.15KB"
@@ -43,7 +43,7 @@ weight: 5
       <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/llm/net/release-notes/2026/aspose-llm-for-net-26-4-0-release-notes/'>https://releases.aspose.com/llm/net/release-notes/2026/aspose-llm-for-net-26-4-0-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Tanım</h4><div class="HTMLDescription">Llama.cpp çalışma zamanı sürüm yükseltmesi, sohbet oturumu düzeltmeleri</div>
+      <h4>Tanım</h4><div class="HTMLDescription">Bu, Aspose.LLM for .NET 26.4.0 NuGet paketini içerir.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
