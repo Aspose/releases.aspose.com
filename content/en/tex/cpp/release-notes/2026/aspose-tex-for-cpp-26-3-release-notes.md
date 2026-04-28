@@ -3,7 +3,7 @@ id: "aspose-tex-for-cpp-26-3-release-notes"
 slug: "aspose-tex-for-cpp-26-3-release-notes"
 linktitle: "Aspose.TeX for C++ 26.3 Release Notes"
 title: "Aspose.TeX for C++ 26.3 Release Notes"
-weight: 11
+weight: 10
 description: "C++ API Solution for developers to manipulate and process TeX and LaTeX files. Release Notes of Aspose.TeX API solution for C++ | Release 2026.3"
 type: "repository"
 layout: "release"
