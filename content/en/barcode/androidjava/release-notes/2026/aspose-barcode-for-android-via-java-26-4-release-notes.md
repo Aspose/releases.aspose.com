@@ -35,7 +35,7 @@ Methods ***setOnlyRequestedTypes(boolean)***
 and ***isOnlyRequestedTypes():boolean*** have been added to the
 ***com.aspose.barcode.barcoderecognition.BarcodeSettings*** class.
 
-When enabled, ***com.aspose.barcode.barcoderecognitionBarCodeReader*** returns only the barcode types explicitly specified in the decoding settings.
+When enabled, ***com.aspose.barcode.barcoderecognition.BarCodeReader*** returns only the barcode types explicitly specified in the decoding settings.
 Compatible or equivalent barcode types are excluded from the results, even if they can be successfully recognized.
 
 When disabled, compatible and equivalent barcode types may be returned according to internal type mapping.
@@ -43,41 +43,46 @@ For example, EAN-13 may also be returned when UPC-A is specified as the decoding
 
 ```java
 public void example() throws IOException {
- File file = File.createTempFile("barcode", ".png");
+    File file = File.createTempFile("barcode", ".png");
 
- BarcodeGenerator generator = new BarcodeGenerator(EncodeTypes.EAN_13, "2383823482894");
- generator.save(file.getAbsolutePath());
- Log.d("BarcodeExample", "File saved to: " + file.getAbsolutePath());
+    try {
+        BarcodeGenerator generator = new BarcodeGenerator(EncodeTypes.EAN_13, "2383823482894");
+        generator.save(file.getAbsolutePath());
 
- // recognize only UPCA barcodes (no results, because source is EAN13)
- BarCodeReader reader1 = new BarCodeReader(file.getAbsolutePath(), DecodeType.UPCA);
- reader1.getBarcodeSettings().setOnlyRequestedTypes(true);
+        Log.d("BarcodeExample", "File saved to: " + file.getAbsolutePath());
 
- BarCodeResult[] barCodeResults1 = reader1.readBarCodes();
+        // recognize only UPCA barcodes (no results, because source is EAN13)
+        BarCodeReader reader1 = new BarCodeReader(file.getAbsolutePath(), DecodeType.UPCA);
+        reader1.getBarcodeSettings().setOnlyRequestedTypes(true);
 
- if (barCodeResults1.length == 0) {
-  Log.d("BarcodeExample", "No barcodes found (OnlyRequestedTypes = true)");
- }
+        BarCodeResult[] barCodeResults1 = reader1.readBarCodes();
 
- for (BarCodeResult result : barCodeResults1) {
-  Log.d("BarcodeExample", "BarCode CodeText: " + result.getCodeText());
- }
+        if (barCodeResults1.length == 0) {
+            Log.d("BarcodeExample", "No barcodes found (OnlyRequestedTypes = true)");
+        }
 
- // recognize compatible types: EAN13, UPCA, ISSN, ISMN, ISBN
- // EAN13 will be returned as UPCA-equivalent
- BarCodeReader reader2 = new BarCodeReader(file.getAbsolutePath(), DecodeType.UPCA);
- reader2.getBarcodeSettings().setOnlyRequestedTypes(false);
+        for (BarCodeResult result : barCodeResults1) {
+            Log.d("BarcodeExample", "BarCode CodeText: " + result.getCodeText());
+        }
 
- BarCodeResult[] barCodeResults2 = reader2.readBarCodes();
+        // recognize compatible types: EAN13, UPCA, ISSN, ISMN, ISBN
+        // EAN13 will be returned as UPCA-equivalent
+        BarCodeReader reader2 = new BarCodeReader(file.getAbsolutePath(), DecodeType.UPCA);
+        reader2.getBarcodeSettings().setOnlyRequestedTypes(false);
 
- if (barCodeResults2.length == 0) {
-  Log.d("BarcodeExample", "No barcodes found (OnlyRequestedTypes = false)");
- }
+        BarCodeResult[] barCodeResults2 = reader2.readBarCodes();
 
- for (BarCodeResult result : barCodeResults2) {
-  Log.d("BarcodeExample", "BarCode CodeText: " + result.getCodeText());
- }
+        if (barCodeResults2.length == 0) {
+            Log.d("BarcodeExample", "No barcodes found (OnlyRequestedTypes = false)");
+        }
 
- file.delete();
+        for (BarCodeResult result : barCodeResults2) {
+            Log.d("BarcodeExample", "BarCode CodeText: " + result.getCodeText());
+        }
+    } finally {
+        if (file.exists()) {
+            file.delete();
+        }
+    }
 }
 ```
