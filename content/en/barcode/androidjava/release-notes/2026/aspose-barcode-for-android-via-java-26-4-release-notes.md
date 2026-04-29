@@ -31,17 +31,27 @@ This page contains release notes information for [Aspose.BarCode for Android via
 
 ### OnlyRequestedTypes property for strict barcode type filtering
 
-Methods ***setOnlyRequestedTypes(boolean)***
-and ***isOnlyRequestedTypes():boolean*** have been added to the
+Methods ***setOnlyRequestedTypes(boolean)*** and ***isOnlyRequestedTypes():boolean*** have been added to the
 ***com.aspose.barcode.barcoderecognition.BarcodeSettings*** class.
 
-When enabled, ***com.aspose.barcode.barcoderecognition.BarCodeReader*** returns only the barcode types explicitly specified in the decoding settings.
-Compatible or equivalent barcode types are excluded from the results, even if they can be successfully recognized.
+When enabled, ***com.aspose.barcode.barcoderecognition.BarCodeReader*** returns only barcode types explicitly specified in the decoding settings.
+Compatible or equivalent barcode types are excluded from the results, even if they can be recognized.
 
 When disabled, compatible and equivalent barcode types may be returned according to internal type mapping.
-For example, EAN-13 may also be returned when UPC-A is specified as the decoding type.
+For example, an EAN-13 barcode may be recognized when UPC-A is specified as the decoding type.
 
 ```java
+import android.util.Log;
+
+import com.aspose.barcode.barcoderecognition.BarCodeReader;
+import com.aspose.barcode.barcoderecognition.BarCodeResult;
+import com.aspose.barcode.barcoderecognition.DecodeType;
+import com.aspose.barcode.generation.BarcodeGenerator;
+import com.aspose.barcode.generation.EncodeTypes;
+
+import java.io.File;
+import java.io.IOException;
+
 public void example() throws IOException {
     File file = File.createTempFile("barcode", ".png");
 
@@ -51,7 +61,8 @@ public void example() throws IOException {
 
         Log.d("BarcodeExample", "File saved to: " + file.getAbsolutePath());
 
-        // recognize only UPCA barcodes (no results, because source is EAN13)
+        // Recognize only UPC-A barcodes.
+        // No results are expected because the source barcode is EAN-13.
         BarCodeReader reader1 = new BarCodeReader(file.getAbsolutePath(), DecodeType.UPCA);
         reader1.getBarcodeSettings().setOnlyRequestedTypes(true);
 
@@ -65,8 +76,8 @@ public void example() throws IOException {
             Log.d("BarcodeExample", "BarCode CodeText: " + result.getCodeText());
         }
 
-        // recognize compatible types: EAN13, UPCA, ISSN, ISMN, ISBN
-        // EAN13 will be returned as UPCA-equivalent
+        // Recognize compatible types: EAN-13, UPC-A, ISSN, ISMN, ISBN.
+        // EAN-13 may be returned as a UPC-A-compatible result.
         BarCodeReader reader2 = new BarCodeReader(file.getAbsolutePath(), DecodeType.UPCA);
         reader2.getBarcodeSettings().setOnlyRequestedTypes(false);
 
@@ -85,4 +96,3 @@ public void example() throws IOException {
         }
     }
 }
-```
