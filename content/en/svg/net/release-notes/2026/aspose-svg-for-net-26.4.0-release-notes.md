@@ -1,9 +1,9 @@
 ---
-id: "aspose-html-for-net-26-4-release-notes"
-slug: "aspose-html-for-net-26-4-release-notes"
+id: "aspose-svg-for-net-26-4-release-notes"
+slug: "aspose-svg-for-net-26-4-release-notes"
 linktitle: "Aspose.SVG for .NET 26.4 Release Notes"
 title: "Aspose.SVG for .NET 26.4 Release Notes"
-weight: 90
+weight: 47
 description: "Aspose.SVG for .NET 26.4 Release Notes - the latest updates and fixes."
 type: "repository"
 layout: "release"
@@ -21,23 +21,13 @@ As per the regular monthly update process of all APIs being offered by Aspose, w
 
 ### Release Notes
 
-This release includes targeted april improvements focused on conversion stability, rendering correctness, and standards compliance.
+The April update for Aspose.SVG for .NET carries refinements affecting rendering consistency and overall stability.
 
 **Package references**<br>
-Aspose.HTML for .NET 26.4.0 [NuGet](https://www.nuget.org/packages/Aspose.Html)<br>
-Aspose.HTML.Drawing for .NET 26.4.0 [NuGet](https://www.nuget.org/packages/Aspose.Html.Drawing)<br>
-Aspose.HTML for Python via .NET  26.4.0 [PyPI](https://pypi.org/project/aspose-html-net/)
+Aspose.SVG for .NET 26.4.0 [NuGet](https://www.nuget.org/packages/Aspose.Svg)<br>
+Aspose.SVG for Python via .NET  26.4.0 [PyPI](https://pypi.org/project/aspose-svg-net/)
 
 ## **Improvements and Changes**
 
-| **Key** | **Summary** | **Category** |
-| ------------ | -------------------------------------------------------------------------------------- | ------------ |
-| HTMLNET-6670 | Fixed an ArgumentException that could occur when processing auto values during HTML layout. | Bug |
-| HTMLNET-6967 | Improved tagged PDF generation for nested and definition lists to ensure correct structuretree mapping and accessibility semantics. | Bug |
-| HTMLNET-6957 | Fixed PDF rendering issues in complex border and path drawing scenarios. | Bug |
-| HTMLNET-7020 | Fixed the PDF error "Natural language is not set" by correctly initializing the document language metadata. | Bug |
-| HTMLNET-6287 | Improved Flex layout behavior and conformance for complex sizing and alignment cases. | Bug |
-| HTMLNET-7045 | Fixed tagged PDF link and table-header semantics to improve PDF/UA accessibility compliance. | Bug |
-| HTMLNET-2718 | Enhanced PDF form and control rendering, along with drawing behavior, to provide more consistent visual appearance and functionality. | Enhancement |
-| HTMLNET-7033 | Added mapping of HTML alt and label text to the PDF form field /TU tooltip/accessible name metadata. | Feature |
-| HTMLNET-6851 | Added support for named @page rules with mixed page sizes in the generated output. | Feature |
+- SVG documents with complex borders or paths now render correctly when exported to PDF.
+- SVG rendering now handles embedded HTML elements with "auto" layout values without throwing an ArgumentException.
