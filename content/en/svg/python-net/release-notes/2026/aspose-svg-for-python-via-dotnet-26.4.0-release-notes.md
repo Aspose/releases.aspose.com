@@ -24,7 +24,6 @@ As per the regular monthly update process of all APIs being offered by Aspose, w
 The April update for Aspose.SVG for Python via .NET carries refinements affecting rendering consistency and overall stability.
 
 **Package references**<br>
-Aspose.SVG for Python via .NET 26.4.0 [NuGet](https://www.nuget.org/packages/Aspose.Svg)<br>
 Aspose.SVG for Python via .NET  26.4.0 [PyPI](https://pypi.org/project/aspose-svg-net/)
 
 ## **Improvements and Changes**
