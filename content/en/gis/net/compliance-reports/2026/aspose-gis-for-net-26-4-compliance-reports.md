@@ -20,11 +20,6 @@ committed_by: "dmitriy.sorokin@aspose.com"
 
 ## This 26.4 .NET release includes the following transparency and audit artifacts:
 
-### EULA & Third-Party Licenses
-
-- <a href="https://about.aspose.com/legal/eula/" target="_blank" rel="noopener">Aspose End User License Agreement</a>
-- {{< compliance-file relpath="/compliance-reports/third-party-licenses/net/third-party-licenses-aspose-gis-net.pdf" text="Aspose.GIS for .NET Third-Party License" >}}
-
 
 
 
