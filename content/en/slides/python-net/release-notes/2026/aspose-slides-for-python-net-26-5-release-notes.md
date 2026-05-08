@@ -32,7 +32,7 @@ This page contains release notes for [Aspose.Slides for Python via .NET 26.5](ht
 
 ### Support for Importing Excel Cell Ranges as Native Tables into Presentations
 
-The new [`add_table_from_workbook`](https://reference.aspose.com/slides/python-net/aspose.slides.importing/excelworkbookimporter/add_chart_from_workbook/) methods have been added to the [`ExcelWorkbookImporter`](https://reference.aspose.com/slides/python-net/aspose.slides.importing/excelworkbookimporter/) class. These methods allows you to import the table from a workbook by its range and worksheet name.
+The new [`add_table_from_workbook`](https://reference.aspose.com/slides/python-net/aspose.slides.importing/excelworkbookimporter/add_table_from_workbook/) methods have been added to the [`ExcelWorkbookImporter`](https://reference.aspose.com/slides/python-net/aspose.slides.importing/excelworkbookimporter/) class. These methods allows you to import the table from a workbook by its range and worksheet name.
 
 **Usage examples**
 
