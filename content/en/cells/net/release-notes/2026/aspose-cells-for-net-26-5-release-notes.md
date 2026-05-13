@@ -77,7 +77,7 @@ Supports saving to Open Fixed-layout Document(OFD).
 
 Specifies how hyperlinks are handled when loading HTML.
 
-### **Adds LeftBorder,RightBorder,TopBorder and Bottom properties of Style.**
+### **Adds LeftBorder,RightBorder,TopBorder and BottomBorder properties of Style.**
 
 Gets the border setting of the style.
 
@@ -93,8 +93,9 @@ Set the max and min value of vertical axis with type.
 
 Gets the index of the field which this filter refers to. 
 
-== Adds PivotTable.GetDependentPivotTables() and obsoleted GetChildren() method.
-Gets all PivotTables which are in the source of this pivot table. ==
+### **Adds PivotTable.GetDependentPivotTables() and obsoleted GetChildren() method.**
+
+Gets all PivotTables which are in the source of this pivot table. 
 
 ### **Adds PivotTable.ClearFilters() method.**
 
