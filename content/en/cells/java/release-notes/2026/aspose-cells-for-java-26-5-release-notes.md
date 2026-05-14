@@ -28,6 +28,7 @@ This page contains release notes for [Aspose.Cells for Java 26.5](https://releas
 |CELLSJAVA-46715|Smart marker 'group:repeat' fails to repeat parent property for nested child records|Bug
 |CELLSJAVA-46716|Landray RDM EKP-25735-1 Convert Effect|Bug
 |CELLSJAVA-46717|Padding not in the XLSX file added for a cell with Cells 26.4 compared to 26.3 when converting to PNG/PDF|Bug
+|CELLSJAVA-46727|"java.lang.StringIndexOutOfBoundsException" on ExternalConnection.getPowerQueryFormula() method|Exception
 
 ## **Public API and Backwards Incompatible Changes**
 
