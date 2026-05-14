@@ -21,6 +21,8 @@ This page contains release notes for [Aspose.Cells for .NET 26.5](https://www.nu
 | :- | :- | :- |
 |CELLSNET-59747|New Workbook() with environment variables and default values|New Feature
 |CELLSNET-59762|Support converting workbook to OFD(Open Fixed-layout Document)|New Feature
+|CELLSGRIDJS-2376|Support snap to cell boundaries in zoom in/out|New Feature
+|CELLSGRIDJS-2442|Add event to determine if transparent mode is currently active or inactive|New Feature
 |CELLSNET-60104|"Unsupported function: CUBEMEMBER" exception on Workbook.CalculateFormula() method|Enhancement
 |CELLSNET-60165|Support multiple aggregations for GROUPBY function|Enhancement
 |CELLSNET-60103|Upgrade version of the referenced SkiaSharp to 3.119.0 for .net9/10 target framework|Enhancement
@@ -30,6 +32,16 @@ This page contains release notes for [Aspose.Cells for .NET 26.5](https://www.nu
 |CELLSNET-60092|Support refreshing the format of pivot table view with indent setting|Enhancement
 |CELLSNET-60094|Support PivotTable.MergeLabels when calcuating style of pivot table view|Enhancement
 |CELLSNET-60098|Support merging inserted blank rows of pivot table|Enhancement
+|CELLSGRIDJS-2394|Support wrap for redaction label|Enhancement
+|CELLSGRIDJS-2395|Support showing tooltip when redaction label is not fully displayed|Enhancement
+|CELLSGRIDJS-2405|Support redaction feature in lazy-loading|Enhancement
+|CELLSGRIDJS-2406|Support event for add/clear redaction reason|Enhancement
+|CELLSGRIDJS-2409|Redaction reason dropdown in toolbar shall always be 250px width instead of changing width based on length of the selected text|Enhancement
+|CELLSGRIDJS-2424|Support client API to load excel file with batch redaction operations|Enhancement
+|CELLSGRIDJS-2433|Support for customizing the "Add Redaction Reason" window|Enhancement
+|CELLSGRIDJS-2437|Refine event description for npm type declaration|Enhancement
+|CELLSGRIDJS-2441|Add client APIs to delete/clear redactions from sheet|Enhancement
+|CELLSGRIDJS-2396|Improve worksheet protection options|Enhancement
 |CELLSNET-60074|Numbers wrap in the middle of the value in PDF despite disabled 'Allow Latin text wrapping' on Workbook.Save() method|Bug
 |CELLSNET-58350|Cell.StringValue returns #VALUE! when using complex data type cards|Bug
 |CELLSNET-60035|Data corruption and '#VALUE!' errors after converting to html|Bug
@@ -64,6 +76,23 @@ This page contains release notes for [Aspose.Cells for .NET 26.5](https://www.nu
 |CELLSNET-60155|Power query functions are read the type as Formula|Bug
 |CELLSNET-60156|GETPIVOTDATA returning #REF! on Workbook.CalculateFormula method|Bug
 |CELLSNET-60158|Incorrect file format detection for OTG, ODB|Bug
+|CELLSGRIDJS-2382|Cannot click checkbox in GridJs|Bug
+|CELLSGRIDJS-2389|Fail to download in GridJs|Bug
+|CELLSGRIDJS-2392|Right-clicking on empty area was showing "remove redaction", it should still show "remove redaction" if it is right-clicked on redaction shape|Bug
+|CELLSGRIDJS-2393|Extra empty rows rendered|Bug
+|CELLSGRIDJS-2410|Drop down list searching works only for the first letter typed in Aspose.GridJs|Bug
+|CELLSGRIDJS-2435|Redaction shape becomes distorted after scrolling in a worksheet with freeze pane|Bug
+|CELLSGRIDJS-2436|Redaction zorder issue|Bug
+|CELLSGRIDJS-2447|Redaction shrinks and reverts to original position when moved to the first column|Bug
+|CELLSGRIDJS-2448|Support fuzzy search for drop-down options|Bug
+|CELLSGRIDJS-2454|Fail to set text for shape|Bug
+|CELLSGRIDJS-2298|Data loss and vertical scrollbar disappearance after Range.Copy operation|Bug
+|CELLSGRIDJS-2366|Row scrollingis is not pixel-based.when freeze panes is enabled and row height is excessive|Bug
+|CELLSGRIDJS-2381|Conditional formatting display is inconsistent with Excel.|Bug
+|CELLSGRIDJS-2383|Dragging value from a cell over filtered-out rows affects those row values in Aspose.GridJs|Bug
+|CELLSGRIDJS-2384|Submenu options misalignment in context menu|Bug
+|CELLSGRIDJS-2403|When a cell with a dropdown text that is too long, the text is not shown properly|Bug
+|CELLSGRIDJS-2444|chart loading renders into sheet that does not belong to it when chart sheet is frozen|Bug
 
 ## **Public API and Backwards Incompatible Changes**
 
