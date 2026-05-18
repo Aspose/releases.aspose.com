@@ -26,7 +26,7 @@ This page contains release notes information for Aspose.PDF for .NET 26.5.
 
 Starting with Aspose.PDF for .NET 26.5, publication of the `net40` compatibility package, `Aspose.PDF for .NET Framework 4.0 (DLLs only)`, has resumed. This package was discontinued starting with Aspose.PDF for .NET 26.3.
 
-The package publication has been restored in response to customer requests for .NET Framework 4.6.2 and .NET Framework 4.7 compatibility, tracked as `PDFNET-62130` and `PDFNET-62139`.
+The package has been republished in response to customer requests for .NET Framework 4.6.2 and .NET Framework 4.7 compatibility, tracked as `PDFNET-62130` and `PDFNET-62139`.
 
 ### Features and Enhancements
 
