@@ -8,7 +8,7 @@ description: "This article decsribes changes and updates in version 26.5 of Aspo
 type: "repository"
 layout: "release"
 family_listing_page_title: "Aspose.PDF for Go via C++ 26.5 Release Notes"
-lastmod: "2026-04-21"
+lastmod: "2026-05-20"
 ---
 
 {{% alert color="primary" %}}
