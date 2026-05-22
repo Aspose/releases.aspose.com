@@ -16,8 +16,3 @@ family_listing_page_title: "Aspose.Font for Node.js via C++ 26.5 Release Notes"
 ## Major Features
 
 Aspose.Font for Node.js via C++ 26.5 is based on latest Aspose.Font for C++ 26.5.
-
-{{< /highlight >}}
-
-
-

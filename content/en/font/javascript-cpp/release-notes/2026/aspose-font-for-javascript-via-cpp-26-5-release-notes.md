@@ -17,8 +17,3 @@ family_listing_page_title: "Aspose.Font for JavaScript via C++ 26.5 Release Note
 
 Aspose.Font for JavaScript via C++ 26.5 is based on latest Aspose.Font for C++ 26.5.
 
-
-{{< /highlight >}}
-
-
-
