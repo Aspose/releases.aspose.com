@@ -28,8 +28,8 @@ There are 44 improvements and fixes in this regular monthly release. The most no
 - **HTML Rendering:** Added support for Far East vertical orientation in HTML within EQ fields.
 - **Font Rendering:** Improved the handling of AAT-enabled fonts when rendering to fixed-page formats.
 - **Field Rendering:** Improved the visual rendering of the EQ field's frame.
-- **Clear Caches** Added the ability to clear caches to prevent memory leak.
-- **Update BouncyCastle Library** Update bc-fips library to 2.1.2 version.
+- **Clear Caches:** Added the ability to clear caches to prevent memory leak.
+- **Update BouncyCastle Library:** Update bc-fips library to 2.1.2 version.
 
 ## Full List of Issues Covering all Changes in this Release
 
