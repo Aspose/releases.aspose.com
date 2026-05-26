@@ -21,15 +21,18 @@ This page contains release notes for Aspose.HTML for Java 26.5
 
 We are honored to announce the May release of Aspose.HTML for Java.
 
-In this release, we resolved an issue that caused hangs during document structure processing.
-We also fixed the handling of dictionaries in Web Accessibility.
-Additionally, the library has been improved to better support graphical environments: 
-it is now tolerant of Headless mode and no longer throws a HeadlessException.
+In this release, we resolved an issue that caused incorrect PNG dimensions
+when converting HTML tables with FitToContent options by improving the
+page scaling and resizing logic based on content dimensions and selected
+layout options. As part of this work, page margin handling during scaling
+operations was improved, restoration of original page heights after layout
+adjustments when `canAdjust` is enabled was implemented, and the page scaling
+logic was integrated into `Draw`, simplifying and unifying the handling of page
+layout options.
 
 ## **Improvements and Changes**
 
 ##### List of issues that have been fixed
-| **Key**       | **Summary**                                            | **Category**      |
-|---------------|--------------------------------------------------------|-------------------|
-| HTMLJAVA-1902 | HeadlessException when converting HTML to PDF (Java)   | Bug               | 
-| HTMLJAVA-2008 | Unable to convert HTML to PDF when there is CSS script | Bug, Performance  |
+| **Key**       | **Summary**                                                                    | **Category**      |
+|---------------|--------------------------------------------------------------------------------|-------------------|
+| HTMLJAVA-2436 | Incorrect PNG Dimensions When Converting HTML Table with FitToContent Options  | Bug               |
