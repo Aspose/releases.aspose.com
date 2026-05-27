@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/html/net/new-releases/aspose.html-for-.net-26.5.0-(dlls-only)/"
 folder_name: "Aspose.HTML for .NET 26.5.0（仅限 DLL 文件）"
-download_link: "/html/net/new-releases/aspose.html-for-.net-26.5.0-(dlls-only)/17d271ef2cb94fa5f59d83afad62f911-1-15275"
+download_link: "/html/net/new-releases/aspose.html-for-.net-26.5.0-(dlls-only)/17d271ef2cb94fa5f59d83afad62f911-1-15280"
 download_text: "下载"
 intro_text: "此 ZIP 文件仅包含适用于 .NET 26.5.0 的 Aspose.HTML 程序集。这些程序集与同版本产品的 MSI 安装程序中的程序集相同。如果您想在不使用 MSI 安装程序的情况下使用 Aspose.HTML（例如，您无法在 Mono 上运行 MSI 安装程序），请下载此文件。此 ZIP 下载不包含 MSI 安装程序中包含的 Microsoft Help 格式的用户文档。"
 image_link: "/resources/img/zip-icon.png"
@@ -17,26 +17,26 @@ section_parent_path: "html/net"
 
 tags: ""
 release_notes_url: "https://releases.aspose.com/html/net/release-notes/2026/aspose-html-for-net-26-5-release-notes/"
-weight: 332
+weight: 334
 
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.HTML for .NET 26.5.0（仅限 DLL 文件）" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="下载" link="/html/net/new-releases/aspose.html-for-.net-26.5.0-(dlls-only)/17d271ef2cb94fa5f59d83afad62f911-1-15275" >}}
+    {{< Releases/ReleasesSingleButtons text="下载" link="/html/net/new-releases/aspose.html-for-.net-26.5.0-(dlls-only)/17d271ef2cb94fa5f59d83afad62f911-1-15280" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/html" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} 下载s: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-17d271ef2cb94fa5f59d83afad62f911-1-15275" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-17d271ef2cb94fa5f59d83afad62f911-1-15280" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} 文件大小: {{< /Common/li >}}
-      {{< Common/li id="size-update-17d271ef2cb94fa5f59d83afad62f911-1-15275" >}} 4.52MB {{< /Common/li >}}
+      {{< Common/li id="size-update-17d271ef2cb94fa5f59d83afad62f911-1-15280" >}} 4.52MB {{< /Common/li >}}
 
       {{< Common/li >}} 添加日期: {{< /Common/li >}}
-      {{< Common/li id="added-update-17d271ef2cb94fa5f59d83afad62f911-1-15275" >}}27/5/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-17d271ef2cb94fa5f59d83afad62f911-1-15280" >}}27/5/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
