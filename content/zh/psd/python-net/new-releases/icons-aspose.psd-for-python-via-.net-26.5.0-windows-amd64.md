@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/psd/python-net/new-releases/icons-aspose.psd-for-python-via-.net-26.5.0-windows-amd64/"
-folder_name: "适用于 Python 的 Aspose 图标（PSD 格式），通过 .NET 26.5.0 和 Windows AMD64 平台提供。"
+folder_name: "Aspose.PSD for Python via .NET 26.5.0 Windows AMD64"
 download_link: "/psd/python-net/new-releases/icons-aspose.psd-for-python-via-.net-26.5.0-windows-amd64/4c4d8a687f5d73e611e21fd041cdef64-12-15287"
 download_text: "下载"
 intro_text: "此 wheel 文件包含适用于 Python 的 Aspose.PSD，通过 .NET 版本 26.5.0 构建，适用于 Windows 系统，面向 AMD64 架构。"
@@ -22,7 +22,7 @@ weight: 146
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="适用于 Python 的 Aspose 图标（PSD 格式），通过 .NET 26.5.0 和 Windows AMD64 平台提供。" imagelink="/resources/img/random-file-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.PSD for Python via .NET 26.5.0 Windows AMD64" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="下载" link="/psd/python-net/new-releases/icons-aspose.psd-for-python-via-.net-26.5.0-windows-amd64/4c4d8a687f5d73e611e21fd041cdef64-12-15287" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/psd" >}}

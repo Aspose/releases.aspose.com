@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/psd/python-net/new-releases/icons-aspose.psd-for-python-via-.net-26.5.0-windows-amd64/"
-folder_name: "Ícones Aspose.PSD para Python via .NET 26.5.0 Windows AMD64"
+folder_name: "Aspose.PSD para Python via .NET 26.5.0 Windows AMD64"
 download_link: "/psd/python-net/new-releases/icons-aspose.psd-for-python-via-.net-26.5.0-windows-amd64/4c4d8a687f5d73e611e21fd041cdef64-12-15287"
 download_text: "Download"
 intro_text: "Este pacote contém o Aspose.PSD para Python via .NET versão 26.5.0, compilado para Windows e direcionado à arquitetura AMD64."
@@ -22,7 +22,7 @@ weight: 146
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Ícones Aspose.PSD para Python via .NET 26.5.0 Windows AMD64" imagelink="/resources/img/random-file-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.PSD para Python via .NET 26.5.0 Windows AMD64" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/psd/python-net/new-releases/icons-aspose.psd-for-python-via-.net-26.5.0-windows-amd64/4c4d8a687f5d73e611e21fd041cdef64-12-15287" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/psd" >}}
