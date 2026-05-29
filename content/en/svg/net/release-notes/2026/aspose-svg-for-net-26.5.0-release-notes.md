@@ -29,4 +29,4 @@ Aspose.SVG for Python via .NET  26.5.0 [PyPI](https://pypi.org/project/aspose-sv
 
 ## **Improvements and Changes**
 
-- Maintenance build for the May 26.5.0 release of Aspose.SVG for .NET.
+- Improved reliability in shared HTML/SVG rendering code paths, including CSS math value handling, layout stability, and general document processing refinements relevant to SVG-based workflows.
