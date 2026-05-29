@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/svg/python-net/new-releases/aspose.svg-for-python-via-.net-26.5.0-windows-amd64/"
 folder_name: "Aspose.SVG for Python via .NET 26.5.0 Windows AMD64"
-download_link: "/svg/python-net/new-releases/aspose.svg-for-python-via-.net-26.5.0-windows-amd64/adadd60a47086612df4af25efa0719e1-1-15320"
+download_link: "/svg/python-net/new-releases/aspose.svg-for-python-via-.net-26.5.0-windows-amd64/adadd60a47086612df4af25efa0719e1-1-15324"
 download_text: "下载"
 intro_text: "此 wheel 文件包含适用于 Python 的 Aspose.SVG（通过 .NET 版本 26.5.0），专为 Windows 构建，面向 AMD64 架构。"
 image_link: "/resources/img/random-file-icon.png"
@@ -17,26 +17,26 @@ section_parent_path: "svg/python-net"
 
 tags: ""
 release_notes_url: "https://releases.aspose.com/svg/python-net/release-notes/2026/aspose-svg-for-python-via-dotnet-26-5-release-notes/"
-weight: 81
+weight: 85
 
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.SVG for Python via .NET 26.5.0 Windows AMD64" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="下载" link="/svg/python-net/new-releases/aspose.svg-for-python-via-.net-26.5.0-windows-amd64/adadd60a47086612df4af25efa0719e1-1-15320" >}}
+    {{< Releases/ReleasesSingleButtons text="下载" link="/svg/python-net/new-releases/aspose.svg-for-python-via-.net-26.5.0-windows-amd64/adadd60a47086612df4af25efa0719e1-1-15324" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/svg" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} 下载s: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-adadd60a47086612df4af25efa0719e1-1-15320" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-adadd60a47086612df4af25efa0719e1-1-15324" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} 文件大小: {{< /Common/li >}}
-      {{< Common/li id="size-update-adadd60a47086612df4af25efa0719e1-1-15320" >}} 54.63MB {{< /Common/li >}}
+      {{< Common/li id="size-update-adadd60a47086612df4af25efa0719e1-1-15324" >}} 54.63MB {{< /Common/li >}}
 
       {{< Common/li >}} 添加日期: {{< /Common/li >}}
-      {{< Common/li id="added-update-adadd60a47086612df4af25efa0719e1-1-15320" >}}29/5/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-adadd60a47086612df4af25efa0719e1-1-15324" >}}29/5/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
