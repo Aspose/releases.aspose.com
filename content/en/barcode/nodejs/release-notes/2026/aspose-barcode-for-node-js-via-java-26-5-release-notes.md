@@ -39,29 +39,12 @@ The recognition quality of postal barcode symbologies has been improved, includi
 * RM4SCC
 
 ```javascript
-let file_name = "let file_name = "test-NODEJS-2.png";
+let file_name = "example1.png";
+
 let filePath = ReleaseNotes.folder + file_name;
 
-let generator = new BarcodeGenerator(EncodeTypes.CODE_39,"S");
-
-generator.save(filePath, BarCodeImageFormat.PNG);
-
-let decode_types = [
-    DecodeType.CODE_39,
-    DecodeType.CODE_39_FULL_ASCII
-];
-
-let reader = new BarCodeReader(filePath, null, decode_types);
-
-reader.getBarcodeSettings().setOnlyRequestedTypes(true);
-
-let results = reader.readBarCodes();
-
-for (let i = 0; i < results.length; i++) {
-    console.log("BarCode CodeText: " + results[i].getCodeText());
-}.png";
-let filePath = ReleaseNotes.folder + file_name;
 let generator = new BarcodeGenerator(EncodeTypes.RM_4_SCC,"ASPOSE");
+
 generator.save(filePath, BarCodeImageFormat.PNG);
 
 let decode_types = [
@@ -91,7 +74,7 @@ The recognition quality of short Code39 barcodes (including single-character bar
 * Code39FullASCII
 
 ```javascript
-let file_name = "example_2.png";
+let file_name = "example2.png";
 let filePath = ReleaseNotes.folder + file_name;
 
 let generator = new BarcodeGenerator(EncodeTypes.CODE_39,"S");
