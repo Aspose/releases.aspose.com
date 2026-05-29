@@ -20,11 +20,11 @@ This page contains release notes information for Aspose.Email for .NET 26.5
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-| EMAILNET-41765 | Null ref exception when saving vcf | Bug |
+| EMAILNET-41498 | Implement the method to build a TGZ backup archive from eml files | Feature |
 | EMAILNET-41749 | Implement Throttling Handling for Microsoft Graph in IGraphClient | Enhancement |
 | EMAILNET-41750 | Implement Large Message Upload via Graph Upload Session in IGraphClient | Enhancement |
-| EMAILNET-41498 | Implement the method to build a TGZ backup archive from eml files | Task |
 | EMAILNET-41751 | MSG to PDF: throws System.FormatException | Bug |
+| EMAILNET-41765 | Null ref exception when saving vcf | Bug |
 
 ## New Features
 
