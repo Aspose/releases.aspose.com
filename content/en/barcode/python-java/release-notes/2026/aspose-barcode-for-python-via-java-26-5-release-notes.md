@@ -1,21 +1,21 @@
 ---
-id: "aspose-barcode-for-python-via-java-26-4-release-notes"
-slug: "aspose-barcode-for-python-via-java-26-4-release-notes"
-linktitle: "Aspose.BarCode for Python via Java 26.4"
-title: "Aspose.BarCode for Python via Java 26.4"
-weight: 940
-description: "Aspose.BarCode for Python via Java 26.4 – the latest updates and fixes."
+id: "aspose-barcode-for-python-via-java-26-5-release-notes"
+slug: "aspose-barcode-for-python-via-java-26-5-release-notes"
+linktitle: "Aspose.BarCode for Python via Java 26.5"
+title: "Aspose.BarCode for Python via Java 26.5"
+weight: 930
+description: "Aspose.BarCode for Python via Java 26.5 – the latest updates and fixes."
 type: "repository"
 layout: "release"
 hideChildren: false
 toc: false
-family_listing_page_title: "Aspose.BarCode for Python via Java 26.4"
+family_listing_page_title: "Aspose.BarCode for Python via Java 26.5"
 menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}} 
 
-This page contains release notes information for [Aspose.BarCode for Python via Java 26.4](https://releases.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-26.4/).
+This page contains release notes information for [Aspose.BarCode for Python via Java 26.5](https://releases.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-26.5/).
 
 ## Important notice for the next release
 
