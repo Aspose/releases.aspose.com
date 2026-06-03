@@ -25,7 +25,7 @@ Added support for combining characters from different fonts of Compact Font Form
 Current functionality for combining CFF fonts is limited in that the use of compound glyphs (glyphs that require subroutines to draw themselves) is not supported. Only glyphs that
 don't reference subroutines can be combined into a resultant font.
 
-Next code snippets show how to merge glyphs from 2 **CFF** fonts.
+The following code snippet shows how to merge glyphs from 2 **CFF** fonts.
 
 # Combining fonts using object of type [Aspose.Font.Common_FontMerger.FontCharactersMerger](https://reference.aspose.com/font/net/aspose.font.common_fontmerger/fontcharactersmerger/)
 {{< highlight csharp >}}
