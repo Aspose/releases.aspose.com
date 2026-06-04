@@ -7,32 +7,25 @@ weight: 10
 description: "Aspose.LLM for .NET 26.5.0 Release Notes - the latest updates and fixes."
 type: "repository"
 layout: "release"
-family_listing_page_title: "Aspose.LLM for .NET 26.5.0 Release Notes"
-keywords: "Aspose.LLM for .NET 26.5.0 Release Notes, Aspose.LLM for .NET 26.5.0 updates and fixes"
 ---
 
-{{% alert color="primary" %}}
+This release improves Aspose.LLM for .NET model support, preset coverage, and chat reliability.
 
-This page contains release notes for [Aspose.LLM for .NET 26.5.0](https://www.nuget.org/packages/Aspose.LLM/26.5.0).
+## Improvements
 
-{{% /alert %}}
+- Migrated to llama.cpp runtime version b8816 with improved model compatibility, enhanced multimodal support, and better inference reliability.
+- Added CPU-friendly preset variants for Qwen 3, Gemma 3, and Llama 3.2 models, making them available for CPU-only inference without GPU acceleration.
+- Added CPU-friendly twin presets for all 14 new model presets, enabling CPU-only inference with optimized settings including 4K context cap.
+- Added 8 new production-relevant model presets plus CPU-friendly twin variants with optimized settings for GPU and CPU inference.
+- Added 17 new production-relevant model presets plus CPU-friendly twin variants for newly discovered and large models.
+- Added support for new model presets with enhanced formatting and documentation updates.
+- Added support for new model presets with enhanced formatting capabilities and updated documentation.
 
-Aspose.LLM for .NET 26.5.0 focuses on updated runtime compatibility, improved multimodal behavior, and more reliable chat session initialization.
+## Fixes
 
-## **Improvements and Changes**
-
-| **Summary** | **Category** |
-| :- | :- |
-| Updated the default bundled `llama.cpp` runtime used by the library. | Enhancement |
-| Improved compatibility with newer multimodal runtime behavior. | Enhancement |
-| Improved runtime package handling for macOS ARM64 `.tar.gz` assets. | Enhancement |
-| Improved session startup so preset-captured chat parameters are applied more consistently when creating a new session. | Enhancement |
-| Fixed a session initialization issue where preset-captured `ChatParameters` could be ignored when creating a new session. | Bug |
-| Fixed compatibility issues that could affect multimodal decoding with updated runtime packages. | Bug |
-| Fixed runtime asset parsing for additional archive naming variants. | Bug |
-
-## **Public API and Backwards Incompatible Changes**
-
-- Existing preset-based initialization remains supported.
-- Existing chat session and persistence APIs remain supported.
-- The default runtime package was updated without requiring changes to the common chat APIs.
+- Fixed BinaryManager to correctly select the optimal acceleration method with clear warnings when auto-detected acceleration differs from user preference.
+- Fixed chat-template handling for gpt-oss, Qwen3-VL, and MTMD turns with improved token processing and proper Harmony format support.
+- Fixed Qwen25VL3B preset to use Q4_K_M quantization instead of UD-IQ2_XXS for coherent model responses.
+- Fixed Phi4 preset to use unsloth mirror after the bartowski repo became inaccessible, ensuring seamless model loading.
+- Added StableCodeFormatter to prevent control-token leakage and hallucinated follow-up turns in stable-code-3b responses.
+- Improved error messages for model loading failures with detailed diagnostic information about common causes and troubleshooting steps.
