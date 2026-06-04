@@ -28,14 +28,15 @@ A comprehensive description of all methods and properties, along with code examp
 
 ## Major Features
 
-There are 58 improvements and fixes in this regular monthly release. The most notable are:
+There are 59 improvements and fixes in this regular monthly release. The most notable are:
 
+- **Printing:** Added Windows-specific target framework monickers (net6.0-windows and net8.0-windows) to the NuGet package. This enables the use of [Document.Print()](https://reference.aspose.com/words/net/aspose.words/document/print/) and related printing APIs in .NET Core applications running on Windows.
 - **Document Customization:** Added a [new method](https://reference.aspose.com/words/net/aspose.words/document/removecustomizations/) to easily clear custom toolbars and keyboard shortcuts, helping you reset or secure document settings.
 - **PDF Export:** Enabled seamless export of datetime form fields to PDF, ensuring your date and time data transfers accurately.
-- **Tables:** Improved the handling of repeated table header rows for cleaner, more predictable layouts in multi-page tables.
 - **PDF Export:** Introduced JavaScript trigger support for date/time fields in PDF AcroForms, making your exported forms more interactive and responsive.
 - **PDF Export:** Enhanced hyphenation rendering; if a font lacks an optional hyphen (U+00AD), it now automatically falls back to a visual hyphen while keeping your text fully searchable.
 - **PDF Export:** Improved overall PDF output quality by fully preserving date picker content controls.
+- **Tables:** Improved the handling of repeated table header rows for cleaner, more predictable layouts in multi-page tables.
 
 ## Full List of Issues Covering all Changes in this Release
 
@@ -47,6 +48,7 @@ There are 58 improvements and fixes in this regular monthly release. The most no
 |WORDSNET-29265|Consider providing a method in LINQ Reporting Engine to export data source dump|New Feature
 |WORDSNET-29239|Add support for 'mso-spacerun' in MsoHtml documents|New Feature
 |WORDSNET-24983|Support date picker content control in PDF|New Feature
+|WORDSNET-17369|Support Print method in NET Core app project|New Feature
 |WORDSNET-11005|TOC page numbers incorrectly calculated|New Feature
 |WORDSNET-28675|Provide public access to Document.AttachedToolbars|New Feature
 |WORDSNET-19467|Repeated table header row should not be rendered on pages where the row does not fit in 2013 mode|Enhancement
