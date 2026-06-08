@@ -351,3 +351,5 @@ MigrationBackup/
 
 # JetBrains folders
 .idea
+
+.claude/
