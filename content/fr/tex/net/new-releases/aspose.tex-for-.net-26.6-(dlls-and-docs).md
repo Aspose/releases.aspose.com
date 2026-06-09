@@ -16,7 +16,7 @@ parent_path: "tex/net"
 section_parent_path: "tex/net"
 
 tags: ""
-release_notes_url: "https://releases.aspose.com/tex/net/release-notes/2025/aspose-tex-for-net-26-6-release-notes/"
+release_notes_url: "https://releases.aspose.com/tex/net/release-notes/2026/aspose-tex-for-net-26-6-release-notes/"
 weight: 77
 
 ---
@@ -40,7 +40,7 @@ weight: 77
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/tex/net/release-notes/2025/aspose-tex-for-net-26-6-release-notes/'>https://releases.aspose.com/tex/net/release-notes/2025/aspose-tex-for-net-26-6-release-notes/</a></div>
+      <h4>Notes de version</h4><div><a href='https://releases.aspose.com/tex/net/release-notes/2026/aspose-tex-for-net-26-6-release-notes/'>https://releases.aspose.com/tex/net/release-notes/2026/aspose-tex-for-net-26-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>La description</h4><div class="HTMLDescription">Il contient la version Aspose.TeX pour .NET 26.6 (DLL et documentation).</div>
