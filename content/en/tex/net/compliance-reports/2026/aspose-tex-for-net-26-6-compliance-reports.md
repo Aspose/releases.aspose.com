@@ -35,7 +35,7 @@ committed_by: "vadym.kiprich@aspose.com"
 | Report | HTML | PDF |
 |--------|------|-----|
 | CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/tex/net/2026/26.6/aspose-tex-net-26.6_cwe-top-25-2026.html" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/tex/net/2026/26.6/aspose-tex-net-26.6_cwe-top-25-2026.pdf" text="View PDF" >}} |
-| OWASP Top 10 (2021) | - | {{< compliance-file relpath="/compliance-reports/tex/net/2026/26.6/aspose-tex-net-26.6_owasp-top-10-2026.pdf" text="View PDF" >}} |
+| OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/tex/net/2026/26.6/aspose-tex-net-26.6_owasp-top-10-2026.html" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/tex/net/2026/26.6/aspose-tex-net-26.6_owasp-top-10-2026.pdf" text="View PDF" >}} |
 
 
 
