@@ -54,7 +54,7 @@ There are 43 improvements and fixes in this regular monthly release. The most no
 |High memory usage upon comparing documents|Bug
 |InvalidOperationException is thrown upon building document layout|Bug
 |Font subsets lack GSUB table causing incorrect rendering of complex scripts (Arabic, Indic, etc.) in Html export|Bug
-|IndexOutOfRangeException upon saving document with OoxmlCompliance.Iso29500_2008_Strict|Bug
+|IndexOutOfRangeException upon saving document with ooxmlCompliance.iso29500_2008_Strict|Bug
 |Remove outdated pages from products.aspose.net/words|Bug
 |Tick mark is rendered outside the axis line|Bug
 |Content is moved to the previous pages after rendering|Bug
