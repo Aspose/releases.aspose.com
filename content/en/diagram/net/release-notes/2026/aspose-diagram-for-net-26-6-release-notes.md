@@ -1,6 +1,6 @@
 ---
 id: "aspose-diagram-for-net-26-6-release-notes"
-slug: "aspose-diagram-for-net-26-66-release-notes"
+slug: "aspose-diagram-for-net-26-6-release-notes"
 linktitle: "Aspose.Diagram for .NET 26.6 Release Notes"
 title: "Aspose.Diagram for .NET 26.6 Release Notes"
 weight: 12
