@@ -128,14 +128,11 @@ jobs:
         DEST_DIR: 'diagram'
 
     - name: Upload en sitemap
-      uses: swimlane/s3-upload-file-action@main
-      with:
-        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
-        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
-        aws_bucket: 'releases-qa.aspose.com'
-        file_path: 'public/en/sitemap-diagram.xml'
-        file_mime_type: 'application/xml'
-        dest_dir: 'en/'
+      run: aws s3 cp public/en/sitemap-diagram.xml s3://releases-qa.aspose.com/en/sitemap-diagram.xml --content-type application/xml --acl public-read
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
+        AWS_DEFAULT_REGION: us-west-2
 
     - name: Upload de folder
       uses: jakejarvis/s3-sync-action@master
@@ -150,14 +147,11 @@ jobs:
         DEST_DIR: 'de/diagram'
 
     - name: Upload de sitemap
-      uses: swimlane/s3-upload-file-action@main
-      with:
-        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
-        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
-        aws_bucket: 'releases-qa.aspose.com'
-        file_path: 'public/de/sitemap-diagram.xml'
-        file_mime_type: 'application/xml'
-        dest_dir: 'de/'
+      run: aws s3 cp public/de/sitemap-diagram.xml s3://releases-qa.aspose.com/de/sitemap-diagram.xml --content-type application/xml --acl public-read
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
+        AWS_DEFAULT_REGION: us-west-2
 
     - name: Upload el folder
       uses: jakejarvis/s3-sync-action@master
@@ -172,14 +166,11 @@ jobs:
         DEST_DIR: 'el/diagram'
 
     - name: Upload el sitemap
-      uses: swimlane/s3-upload-file-action@main
-      with:
-        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
-        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
-        aws_bucket: 'releases-qa.aspose.com'
-        file_path: 'public/el/sitemap-diagram.xml'
-        file_mime_type: 'application/xml'
-        dest_dir: 'el/'
+      run: aws s3 cp public/el/sitemap-diagram.xml s3://releases-qa.aspose.com/el/sitemap-diagram.xml --content-type application/xml --acl public-read
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
+        AWS_DEFAULT_REGION: us-west-2
 
     - name: Upload es folder
       uses: jakejarvis/s3-sync-action@master
@@ -194,14 +185,11 @@ jobs:
         DEST_DIR: 'es/diagram'
 
     - name: Upload es sitemap
-      uses: swimlane/s3-upload-file-action@main
-      with:
-        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
-        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
-        aws_bucket: 'releases-qa.aspose.com'
-        file_path: 'public/es/sitemap-diagram.xml'
-        file_mime_type: 'application/xml'
-        dest_dir: 'es/'
+      run: aws s3 cp public/es/sitemap-diagram.xml s3://releases-qa.aspose.com/es/sitemap-diagram.xml --content-type application/xml --acl public-read
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
+        AWS_DEFAULT_REGION: us-west-2
 
     - name: Upload fr folder
       uses: jakejarvis/s3-sync-action@master
@@ -216,14 +204,11 @@ jobs:
         DEST_DIR: 'fr/diagram'
 
     - name: Upload fr sitemap
-      uses: swimlane/s3-upload-file-action@main
-      with:
-        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
-        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
-        aws_bucket: 'releases-qa.aspose.com'
-        file_path: 'public/fr/sitemap-diagram.xml'
-        file_mime_type: 'application/xml'
-        dest_dir: 'fr/'
+      run: aws s3 cp public/fr/sitemap-diagram.xml s3://releases-qa.aspose.com/fr/sitemap-diagram.xml --content-type application/xml --acl public-read
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
+        AWS_DEFAULT_REGION: us-west-2
 
     - name: Upload id folder
       uses: jakejarvis/s3-sync-action@master
@@ -238,14 +223,11 @@ jobs:
         DEST_DIR: 'id/diagram'
 
     - name: Upload id sitemap
-      uses: swimlane/s3-upload-file-action@main
-      with:
-        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
-        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
-        aws_bucket: 'releases-qa.aspose.com'
-        file_path: 'public/id/sitemap-diagram.xml'
-        file_mime_type: 'application/xml'
-        dest_dir: 'id/'
+      run: aws s3 cp public/id/sitemap-diagram.xml s3://releases-qa.aspose.com/id/sitemap-diagram.xml --content-type application/xml --acl public-read
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
+        AWS_DEFAULT_REGION: us-west-2
 
     - name: Upload ja folder
       uses: jakejarvis/s3-sync-action@master
@@ -260,14 +242,11 @@ jobs:
         DEST_DIR: 'ja/diagram'
 
     - name: Upload ja sitemap
-      uses: swimlane/s3-upload-file-action@main
-      with:
-        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
-        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
-        aws_bucket: 'releases-qa.aspose.com'
-        file_path: 'public/ja/sitemap-diagram.xml'
-        file_mime_type: 'application/xml'
-        dest_dir: 'ja/'
+      run: aws s3 cp public/ja/sitemap-diagram.xml s3://releases-qa.aspose.com/ja/sitemap-diagram.xml --content-type application/xml --acl public-read
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
+        AWS_DEFAULT_REGION: us-west-2
 
     - name: Upload pt folder
       uses: jakejarvis/s3-sync-action@master
@@ -282,14 +261,11 @@ jobs:
         DEST_DIR: 'pt/diagram'
 
     - name: Upload pt sitemap
-      uses: swimlane/s3-upload-file-action@main
-      with:
-        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
-        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
-        aws_bucket: 'releases-qa.aspose.com'
-        file_path: 'public/pt/sitemap-diagram.xml'
-        file_mime_type: 'application/xml'
-        dest_dir: 'pt/'
+      run: aws s3 cp public/pt/sitemap-diagram.xml s3://releases-qa.aspose.com/pt/sitemap-diagram.xml --content-type application/xml --acl public-read
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
+        AWS_DEFAULT_REGION: us-west-2
 
     - name: Upload ru folder
       uses: jakejarvis/s3-sync-action@master
@@ -304,14 +280,11 @@ jobs:
         DEST_DIR: 'ru/diagram'
 
     - name: Upload ru sitemap
-      uses: swimlane/s3-upload-file-action@main
-      with:
-        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
-        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
-        aws_bucket: 'releases-qa.aspose.com'
-        file_path: 'public/ru/sitemap-diagram.xml'
-        file_mime_type: 'application/xml'
-        dest_dir: 'ru/'
+      run: aws s3 cp public/ru/sitemap-diagram.xml s3://releases-qa.aspose.com/ru/sitemap-diagram.xml --content-type application/xml --acl public-read
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
+        AWS_DEFAULT_REGION: us-west-2
 
     - name: Upload tr folder
       uses: jakejarvis/s3-sync-action@master
@@ -326,14 +299,11 @@ jobs:
         DEST_DIR: 'tr/diagram'
 
     - name: Upload tr sitemap
-      uses: swimlane/s3-upload-file-action@main
-      with:
-        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
-        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
-        aws_bucket: 'releases-qa.aspose.com'
-        file_path: 'public/tr/sitemap-diagram.xml'
-        file_mime_type: 'application/xml'
-        dest_dir: 'tr/'
+      run: aws s3 cp public/tr/sitemap-diagram.xml s3://releases-qa.aspose.com/tr/sitemap-diagram.xml --content-type application/xml --acl public-read
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
+        AWS_DEFAULT_REGION: us-west-2
 
     - name: Upload zh folder
       uses: jakejarvis/s3-sync-action@master
@@ -348,14 +318,11 @@ jobs:
         DEST_DIR: 'zh/diagram'
 
     - name: Upload zh sitemap
-      uses: swimlane/s3-upload-file-action@main
-      with:
-        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
-        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
-        aws_bucket: 'releases-qa.aspose.com'
-        file_path: 'public/zh/sitemap-diagram.xml'
-        file_mime_type: 'application/xml'
-        dest_dir: 'zh/'
+      run: aws s3 cp public/zh/sitemap-diagram.xml s3://releases-qa.aspose.com/zh/sitemap-diagram.xml --content-type application/xml --acl public-read
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
+        AWS_DEFAULT_REGION: us-west-2
 
     # Invalidate Cloudfront (this action)
     - name: invalidate
