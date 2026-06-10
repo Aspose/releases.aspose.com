@@ -103,7 +103,7 @@ void RemoveAt(int32_t index)
 
 {{% /alert %}}
 
-### **two methods in Worksheet.**
+### **Adds two methods in Worksheet.**
 
 Indicates whether to show data type icons.
 
