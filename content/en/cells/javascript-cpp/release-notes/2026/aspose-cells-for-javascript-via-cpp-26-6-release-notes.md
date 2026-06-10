@@ -1,19 +1,19 @@
 ---
-id: "aspose-cells-for-cpp-26-6-release-notes"
-slug: "aspose-cells-for-cpp-26-6-release-notes"
-linktitle: "Aspose.Cells for CPP 26.6 Release Notes"
-title: "Aspose.Cells for CPP 26.6 Release Notes"
+id: "aspose-cells-for-javascript-via-cpp-26-6-release-notes"
+slug: "aspose-cells-for-javascript-via-cpp-26-6-release-notes"
+linktitle: "Aspose.Cells for JavaScript via C++ 26.6 Release Notes"
+title: "Aspose.Cells for JavaScript via C++ 26.6 Release Notes"
 weight: 7
-description: "Aspose.Cells for CPP 26.6 Release Notes – the latest enhancements, new features, and fixes."
+description: "Aspose.Cells for JavaScript via C++ 26.6 Release Notes – the latest enhancements, new features, and fixes."
 type: "repository"
 layout: "release"
-family_listing_page_title: "Aspose.Cells for CPP 26.6 Release Notes"
-keywords: "Aspose.Cells for CPP 26.6 Release Notes, Aspose.Cells for CPP 26.6 updates and fixes"
+family_listing_page_title: "Aspose.Cells for JavaScript via C++ 26.6 Release Notes"
+keywords: "Aspose.Cells for JavaScript via C++ 26.6 Release Notes, Aspose.Cells for JavaScript via C++ 26.6 updates and fixes"
 ---
 
 {{% alert color="primary" %}}
 
-This page contains release notes for Aspose.Cells for C++ 26.6.
+This page contains release notes for Aspose.Cells for JavaScript via C++ 26.6.
 
 {{% /alert %}}
 

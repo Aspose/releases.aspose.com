@@ -1,24 +1,25 @@
 ---
-id: "aspose-cells-for-cpp-26-6-release-notes"
-slug: "aspose-cells-for-cpp-26-6-release-notes"
-linktitle: "Aspose.Cells for CPP 26.6 Release Notes"
-title: "Aspose.Cells for CPP 26.6 Release Notes"
+id: "aspose-cells-for-node-js-via-cpp-26-6-release-notes"
+slug: "aspose-cells-for-node-js-via-cpp-26-6-release-notes"
+linktitle: "Aspose.Cells for Node.js via C++ 26.6 Release Notes"
+title: "Aspose.Cells for Node.js via C++ 26.6 Release Notes"
 weight: 7
-description: "Aspose.Cells for CPP 26.6 Release Notes – the latest enhancements, new features, and fixes."
+description: "Aspose.Cells for Node.js via C++ 26.6 Release Notes – the latest enhancements, new features, and fixes."
 type: "repository"
 layout: "release"
-family_listing_page_title: "Aspose.Cells for CPP 26.6 Release Notes"
-keywords: "Aspose.Cells for CPP 26.6 Release Notes, Aspose.Cells for CPP 26.6 updates and fixes"
+family_listing_page_title: "Aspose.Cells for Node.js via C++ 26.6 Release Notes"
+keywords: "Aspose.Cells for Node.js via C++ 26.6 Release Notes, Aspose.Cells for Node.js via C++ 26.6 updates and fixes"
 ---
 
 {{% alert color="primary" %}}
 
-This page contains release notes for Aspose.Cells for C++ 26.6.
+This page contains release notes for Aspose.Cells for Node.js via C++ 26.6.
 
 {{% /alert %}}
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
+|CELLSNODEJSCPP-107|Converting XLS to XLSX produces malformed XML when non-ASCII metadata|Bug
 |CELLSNET-59550|Support long text exceeding 256 characters in formula|New Feature
 |CELLSNET-60201|Preserve original data of calculation chain when re-saving a Workbook without changing cells data|New Feature
 |CELLSNET-60262|Reconstruct long text concated by _LONGTEXT() function into single string parameter of formula|New Feature
