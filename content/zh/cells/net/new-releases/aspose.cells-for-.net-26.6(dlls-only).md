@@ -6,11 +6,11 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/cells/net/new-releases/aspose.cells-for-.net-26.6(dlls-only)/"
 folder_name: "Aspose.Cells for .NET 26.6（仅限 DLL 文件）"
-download_link: "/cells/net/new-releases/aspose.cells-for-.net-26.6(dlls-only)/ef77cc5fd8f9b0d9f8a1a1ae32a1fef8-18-15374"
+download_link: "/cells/net/new-releases/aspose.cells-for-.net-26.6(dlls-only)/a48cb15492fc78fefd5b5dc846a0ca97-18-15374"
 download_text: "下载"
 intro_text: "此 ZIP 文件仅包含 Aspose.Cells for .NET 程序集。这些程序集与同版本产品 MSI 安装程序中的程序集相同。如果您想在不使用 MSI 安装程序的情况下使用 Aspose.Cells，例如，您可能无法在 Mono 或其他某些环境中运行 MSI 安装程序，请下载此文件。此 ZIP 下载不包含 MSI 安装程序中包含的 Microsoft Help 格式的用户文档。"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 10/6/2026 下载s: 1  Views: 1 "
+download_count: " 10/6/2026 下载s: 2  Views: 1 "
 file_size: "File Size: 89.01MB"
 parent_path: "cells/net"
 section_parent_path: "cells/net"
@@ -24,19 +24,19 @@ weight: 760
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Cells for .NET 26.6（仅限 DLL 文件）" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="下载" link="/cells/net/new-releases/aspose.cells-for-.net-26.6(dlls-only)/ef77cc5fd8f9b0d9f8a1a1ae32a1fef8-18-15374" >}}
+    {{< Releases/ReleasesSingleButtons text="下载" link="/cells/net/new-releases/aspose.cells-for-.net-26.6(dlls-only)/a48cb15492fc78fefd5b5dc846a0ca97-18-15374" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/cells" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} 下载s: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-ef77cc5fd8f9b0d9f8a1a1ae32a1fef8-18-15374" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-a48cb15492fc78fefd5b5dc846a0ca97-18-15374" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} 文件大小: {{< /Common/li >}}
-      {{< Common/li id="size-update-ef77cc5fd8f9b0d9f8a1a1ae32a1fef8-18-15374" >}} 89.01MB {{< /Common/li >}}
+      {{< Common/li id="size-update-a48cb15492fc78fefd5b5dc846a0ca97-18-15374" >}} 89.01MB {{< /Common/li >}}
 
       {{< Common/li >}} 添加日期: {{< /Common/li >}}
-      {{< Common/li id="added-update-ef77cc5fd8f9b0d9f8a1a1ae32a1fef8-18-15374" >}}10/6/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-a48cb15492fc78fefd5b5dc846a0ca97-18-15374" >}}10/6/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
