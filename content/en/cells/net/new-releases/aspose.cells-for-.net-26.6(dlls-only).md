@@ -6,11 +6,11 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/cells/net/new-releases/aspose.cells-for-.net-26.6(dlls-only)/"
 folder_name: "Aspose.Cells for .NET 26.6(DLLs Only)"
-download_link: "/cells/net/new-releases/aspose.cells-for-.net-26.6(dlls-only)/ef77cc5fd8f9b0d9f8a1a1ae32a1fef8-18-15374"
+download_link: "/cells/net/new-releases/aspose.cells-for-.net-26.6(dlls-only)/a48cb15492fc78fefd5b5dc846a0ca97-18-15374"
 download_text: "Download"
 intro_text: "This ZIP file contains only the Aspose.Cells for .NET assemblies. The assemblies are the same as in the MSI installer of the product of the same version. Download this if you want to use Aspose.Cells without the MSI installer, for example, you might not run MSI installers on Mono or some other environments. This ZIP download does not contain the user documentation in the Microsoft Help format which is included in the MSI installer."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 10/6/2026 Downloads: 1  Views: 1 "
+download_count: " 10/6/2026 Downloads: 2  Views: 1 "
 file_size: "File Size: 89.01MB"
 parent_path: "cells/net"
 section_parent_path: "cells/net"
@@ -24,19 +24,19 @@ weight: 760
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Cells for .NET 26.6(DLLs Only)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/cells/net/new-releases/aspose.cells-for-.net-26.6(dlls-only)/ef77cc5fd8f9b0d9f8a1a1ae32a1fef8-18-15374" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/cells/net/new-releases/aspose.cells-for-.net-26.6(dlls-only)/a48cb15492fc78fefd5b5dc846a0ca97-18-15374" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/cells" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-ef77cc5fd8f9b0d9f8a1a1ae32a1fef8-18-15374" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-a48cb15492fc78fefd5b5dc846a0ca97-18-15374" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
-      {{< Common/li id="size-update-ef77cc5fd8f9b0d9f8a1a1ae32a1fef8-18-15374" >}} 89.01MB {{< /Common/li >}}
+      {{< Common/li id="size-update-a48cb15492fc78fefd5b5dc846a0ca97-18-15374" >}} 89.01MB {{< /Common/li >}}
 
       {{< Common/li >}} Date Added: {{< /Common/li >}}
-      {{< Common/li id="added-update-ef77cc5fd8f9b0d9f8a1a1ae32a1fef8-18-15374" >}}10/6/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-a48cb15492fc78fefd5b5dc846a0ca97-18-15374" >}}10/6/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
