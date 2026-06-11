@@ -15,6 +15,7 @@ committed_by: "philip.zhou@aspose.com"
 ---
 
 ![Security Rating](https://img.shields.io/badge/Security%20Rating-A-brightgreen?style=flat-square&logo=verizon)
+![CWE Top 25](https://img.shields.io/badge/CWE%20Top%2025-2024-blue?style=flat-square&logo=checkmarx)
 ![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-2021-blue?style=flat-square&logo=openaccess)
 
 
@@ -33,6 +34,7 @@ committed_by: "philip.zhou@aspose.com"
 
 | Report | HTML | PDF |
 |--------|------|-----|
+| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/diagram/net/2026/26.6/aspose-diagram-net-26.6_cwe-top-25-2024.htm" text="View HTML" >}} | - |
 | OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/diagram/net/2026/26.6/aspose-diagram-net-26.6_owasp-top-10-2021.htm" text="View HTML" >}} | - |
 
 
