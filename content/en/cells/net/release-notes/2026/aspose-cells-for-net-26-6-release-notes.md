@@ -92,7 +92,3 @@ Removes the ListColumn at the specified index.
 
 Indicates whether to show data type icons.
 
-### **Removes Worksheet.GetSelectedRanges().**
-
-The obsolete `GetSelectedRanges` method has been removed.
-

@@ -55,7 +55,3 @@ Removes the ListColumn at the specified index.
 ### **Adds new property Worksheet.ShowDataTypeIcons and enum ShapeDisplayType.**
 
 Indicates whether to show data type icons.
-
-### **Removes Worksheet.GetSelectedRanges().**
-
-The obsolete `GetSelectedRanges` method has been removed.
