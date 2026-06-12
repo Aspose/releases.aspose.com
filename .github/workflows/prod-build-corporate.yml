@@ -106,14 +106,11 @@ jobs:
         DEST_DIR: 'corporate'
 
     - name: Upload en sitemap
-      uses: swimlane/s3-upload-file-action@main
-      with:
-        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
-        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
-        aws_bucket: 'releases.aspose.com'
-        file_path: 'public/en/sitemap-corporate.xml'
-        file_mime_type: 'application/xml'
-        dest_dir: 'en/'
+      run: aws s3 cp public/en/sitemap-corporate.xml s3://releases.aspose.com/en/sitemap-corporate.xml --content-type application/xml --acl public-read
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        AWS_DEFAULT_REGION: us-west-2
 
     # Invalidate Cloudfront (this action)
     - name: invalidate
