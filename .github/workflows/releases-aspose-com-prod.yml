@@ -48,14 +48,14 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v5
         with:
             submodules: true  # Fetch Hugo themes
             fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       # Step 2 - Sets up the latest version of Hugo
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
             hugo-version: '0.101.0'
 
@@ -84,13 +84,12 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
 
-      # Invalidate Cloudfront Home Page
+      # Invalidate Cloudfront Home Page (AWS CLI; Docker actions are not supported on macOS runners)
       - name: invalidate
         continue-on-error: true
-        uses: chetan/invalidate-cloudfront-action@master
+        run: aws cloudfront create-invalidation --distribution-id "${{ secrets.AWS_DISTRIBUTION_PROD }}" --paths "/" "/*"
         env:
-          DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION_PROD }}
-          PATHS: / /**
-          AWS_REGION: 'us-west-2'
           AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
+          AWS_REGION: us-west-2
+          AWS_DEFAULT_REGION: us-west-2

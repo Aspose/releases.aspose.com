@@ -351,3 +351,7 @@ MigrationBackup/
 
 # JetBrains folders
 .idea
+
+# AI assistant working folders
+.claude/
+.codex/
