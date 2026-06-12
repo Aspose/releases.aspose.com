@@ -32,6 +32,13 @@ This page contains release notes for [Aspose.Cells for .NET 26.6](https://www.nu
 |CELLSGRIDJS-2473|Add separate year, month, and Today navigation controls.|New Feature
 |CELLSNET-60296|Add patch for formula engine to calculate XLOOKUP with large data set in the same way with ms excel|Enhancement
 |CELLSNET-60269|Support to set how the application displays shapes in this workbook|Enhancement
+|CELLSGRIDJS-2492|Improve display for filter list for long text content|Enhancement
+|CELLSGRIDJS-2502|Show redaction reasons in sorting order|Enhancement
+|CELLSGRIDJS-2509|Support print preview with user-defined cell area|Enhancement
+|CELLSGRIDJS-2510|Improve the performace for print preview for sheet with huge cells|Enhancement
+|CELLSGRIDJS-2511|Improve the display for print preview|Enhancement
+|CELLSGRIDJS-2513|Support show validation list with large string length|Enhancement
+|CELLSGRIDJS-2519|Hover on comments on Excel cell shows extra long text along with comment|Enhancement
 |CELLSGRIDJS-2493|Opening the Excel scroll bar cannot scroll to the corresponding cell selection position.|Enhancement
 |CELLSGRIDJS-2494|Add configuration item to locate to the last row after batch inserting rows.|Enhancement
 |CELLSNET-60195|Incorrect paragraph numbering in text boxes during PDF conversion|Bug
@@ -53,6 +60,13 @@ This page contains release notes for [Aspose.Cells for .NET 26.6](https://www.nu
 |CELLSNET-60264|Handle block comments of power query formulas improperly|Bug
 |CELLSNET-60265|Incorrect rendering of Excel charts and symbols to image|Bug
 |CELLSNET-60268|Generated xlsb file with advanced slicer was corrupted|Bug
+|CELLSGRIDJS-2508|Data validation dropdown list fails to take effect when containing excessive items|Bug
+|CELLSGRIDJS-2479|Sometimes the loading GIF does not clear after adding image/shape in the python version|Bug
+|CELLSGRIDJS-2495|Redaction fail to resize in zoom in/out view|Bug
+|CELLSGRIDJS-2507|Cells under merged columns are covered when filtering other columns in Aspose.GridJS|Bug
+|CELLSGRIDJS-2512|Duplicate context menu items appear after right-clicking|Bug
+|CELLSGRIDJS-2518|Row count mismatch on zoom change|Bug
+|CELLSGRIDJS-2520|Clicking on image after it has been redacted is hiding redaction - After switching between documents|Bug
 |CELLSGRIDJS-2475|Error occurs when pasting a cell that exceeds the maximum displayed rows|Bug
 |CELLSGRIDJS-2478|Display and editing of percentage format data are inconsistent with Excel.|Bug
 |CELLSGRIDJS-2499|Edge scroll misfires and lingering timers cause auto rollback click jitter and post revert scroll state corruption|Bug
