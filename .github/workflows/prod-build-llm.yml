@@ -22,13 +22,13 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v5
       with:
           submodules: true  # Fetch Hugo themes
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
     - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2
+      uses: peaceiris/actions-hugo@v3
       with:
           hugo-version: '0.101.0'
 
@@ -109,14 +109,11 @@ jobs:
         DEST_DIR: 'llm'
 
     - name: Upload en sitemap
-      uses: swimlane/s3-upload-file-action@main
-      with:
-        aws_access_key_id: ${{ secrets.ACCESS_KEY }}
-        aws_secret_access_key: ${{ secrets.SECRET_ACCESS}}
-        aws_bucket: 'releases.aspose.com'
-        file_path: 'public/en/sitemap-llm.xml'
-        file_mime_type: 'application/xml'
-        dest_dir: 'en/'
+      run: aws s3 cp public/en/sitemap-llm.xml s3://releases.aspose.com/en/sitemap-llm.xml --content-type application/xml --acl public-read
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        AWS_DEFAULT_REGION: us-west-2
 
     # Invalidate Cloudfront (this action)
     - name: invalidate
