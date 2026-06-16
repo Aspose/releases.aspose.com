@@ -37,60 +37,60 @@ There are 43 improvements and fixes in this regular monthly release. The most no
 
 |Summary|Category|
 | :- | :- |
-|Add support for 'mso-spacerun' in MsoHtml documents|New Feature
-|Support date picker content control in PDF|New Feature
-|TOC page numbers incorrectly calculated|New Feature
-|Provide public access to Document.attachedToolbars|New Feature
-|Repeated table header row should not be rendered on pages where the row does not fit in 2013 mode|Enhancement
-|Investigate whether it is possible to preserve pick date form fields in PDF|Enhancement
-|Support for preserving date picker content control in PDF output|Bug
-|JPEG image color is changed after rendering |Bug
-|Minor differences in VML shape sizes|Bug
-|Revisions are grouped improperly when there is footnote|Bug
-|Footer overlaps body content during DOC to PNG conversion|Bug
-|Import of MsoHtml footnote options for second section differs from MS Word's result|Bug
-|Import of MsoHtml headers differs from MS Word's result|Bug
-|Import of MsoHtml lists differs from MS Word's result|Bug
-|High memory usage upon comparing documents|Bug
-|InvalidOperationException is thrown upon building document layout|Bug
-|Font subsets lack GSUB table causing incorrect rendering of complex scripts (Arabic, Indic, etc.) in Html export|Bug
-|IndexOutOfRangeException upon saving document with OoxmlCompliance.Iso29500_2008_Strict|Bug
-|Remove outdated pages from products.aspose.net/words|Bug
-|Tick mark is rendered outside the axis line|Bug
-|Content is moved to the previous pages after rendering|Bug
-|Rendering DOCX with Arabic chars to HTML format with HarfBuzz shaper enabled produces distorted HTML|Bug
-|MHT to PDF: MHT file corrupted|Bug
-|Aspose.Words incorrectly imports consecutive bookmarks from MsoHtml|Bug
-|Hyphenation symbol is not rendered |Bug
-|Enhance Asian text breaking logic to consider Unicode Script in addition to Locale|Bug
-|MD to MD: Content within < > is altered|Bug
-|MathML is incorrectly imported from HTML|Bug
-|Endnotes that MS Word removes present on rtf to docx conversion|Bug
-|Repeated table header row is rendered improperly|Bug
-|DataLabel is rendered improperly after setting DataLabels.format.fill.color|Bug
-|Table header row is repeated improperly after rendering|Bug
-|Content position is incorrect in the rendered EQ field|Bug
-|Headers and footers aren't exported to Docling JSON|Bug
-|PDF output differences when using Baskerville font subfamilies|Bug
-|Improve import of table styles from MsoHtml|Bug
-|Document comparison shows incorrect insertion|Bug
-|Incorrect table header rendering in output PDF|Bug
-|Part of content is moved to next page|Bug
-|Import symbols from MsoHtml like MS Word does|Bug
-|Table header should not be repeated above a tall row|Bug
-|New page not started after a table with a tall header|Bug
-|Additional Paragraph with list style added after setMapping|Bug
-|Part of content is moved to the next page upon rendering.|Bug
-|Incorrect handling of repeated table header rows in a broken table on conversion to PDF|Bug
-|DOCX to PDF: Table header not rendered correctly|Bug
-|Table with tall header row is rendered improperly|Bug
-|Revisions.rejectAll does not work correctly and generates incorrect output|Bug
-|Content after not-fitting table row is in a wrong main text column in 2013 mode|Bug
-|Assertion in debug code during layout build|Bug
-|Line break issue and Korean Font problem in PDF and Images|Bug
-|In 2013 mode, table header row should not be present above the row with "allow to break across pages" OFF if the row is still broken|Bug
-|Conversion MHTML to PDF issue|Bug
-|Default font substitution does not work when converting DOCX to PDF|Bug
+|Add support for 'mso-spacerun' in MsoHtml documents|New Feature|
+|Support date picker content control in PDF|New Feature|
+|TOC page numbers incorrectly calculated|New Feature|
+|Provide public access to Document.attachedToolbars|New Feature|
+|Repeated table header row should not be rendered on pages where the row does not fit in 2013 mode|Enhancement|
+|Investigate whether it is possible to preserve pick date form fields in PDF|Enhancement|
+|Support for preserving date picker content control in PDF output|Bug|
+|JPEG image color is changed after rendering |Bug|
+|Minor differences in VML shape sizes|Bug|
+|Revisions are grouped improperly when there is footnote|Bug|
+|Footer overlaps body content during DOC to PNG conversion|Bug|
+|Import of MsoHtml footnote options for second section differs from MS Word's result|Bug|
+|Import of MsoHtml headers differs from MS Word's result|Bug|
+|Import of MsoHtml lists differs from MS Word's result|Bug|
+|High memory usage upon comparing documents|Bug|
+|InvalidOperationException is thrown upon building document layout|Bug|
+|Font subsets lack GSUB table causing incorrect rendering of complex scripts (Arabic, Indic, etc.) in Html export|Bug|
+|IndexOutOfRangeException upon saving document with OoxmlCompliance.Iso29500_2008_Strict|Bug|
+|Remove outdated pages from products.aspose.net/words|Bug|
+|Tick mark is rendered outside the axis line|Bug|
+|Content is moved to the previous pages after rendering|Bug|
+|Rendering DOCX with Arabic chars to HTML format with HarfBuzz shaper enabled produces distorted HTML|Bug|
+|MHT to PDF: MHT file corrupted|Bug|
+|Aspose.Words incorrectly imports consecutive bookmarks from MsoHtml|Bug|
+|Hyphenation symbol is not rendered |Bug|
+|Enhance Asian text breaking logic to consider Unicode Script in addition to Locale|Bug|
+|MD to MD: Content within < > is altered|Bug|
+|MathML is incorrectly imported from HTML|Bug|
+|Endnotes that MS Word removes present on rtf to docx conversion|Bug|
+|Repeated table header row is rendered improperly|Bug|
+|DataLabel is rendered improperly after setting DataLabels.format.fill.color|Bug|
+|Table header row is repeated improperly after rendering|Bug|
+|Content position is incorrect in the rendered EQ field|Bug|
+|Headers and footers aren't exported to Docling JSON|Bug|
+|PDF output differences when using Baskerville font subfamilies|Bug|
+|Improve import of table styles from MsoHtml|Bug|
+|Document comparison shows incorrect insertion|Bug|
+|Incorrect table header rendering in output PDF|Bug|
+|Part of content is moved to next page|Bug|
+|Import symbols from MsoHtml like MS Word does|Bug|
+|Table header should not be repeated above a tall row|Bug|
+|New page not started after a table with a tall header|Bug|
+|Additional Paragraph with list style added after setMapping|Bug|
+|Part of content is moved to the next page upon rendering.|Bug|
+|Incorrect handling of repeated table header rows in a broken table on conversion to PDF|Bug|
+|DOCX to PDF: Table header not rendered correctly|Bug|
+|Table with tall header row is rendered improperly|Bug|
+|Revisions.rejectAll does not work correctly and generates incorrect output|Bug|
+|Content after not-fitting table row is in a wrong main text column in 2013 mode|Bug|
+|Assertion in debug code during layout build|Bug|
+|Line break issue and Korean Font problem in PDF and Images|Bug|
+|In 2013 mode, table header row should not be present above the row with "allow to break across pages" OFF if the row is still broken|Bug|
+|Conversion MHTML to PDF issue|Bug|
+|Default font substitution does not work when converting DOCX to PDF|Bug|
 
 
 </details>
