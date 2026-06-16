@@ -54,6 +54,6 @@ In Primavera, the relationship is actually: ActualDuration + RemainingDuration =
 Starting from version 26.6, the mapping has been corrected:
 
 Task.Duration - now maps to Primavera's "At Completion Duration"
-Task.PrimaveraProperties.PlannedDuration - now correctly maps to Primavera's "Planned duration" field
+Primavera's "Planned duration" field is now mapped to Task.PrimaveraProperties.PlannedDuration
 
 See also [Primavera to Aspose.Tasks for .NET properties mapping](https://docs.aspose.com/tasks/net/primavera-formats/properties-mapping/)
