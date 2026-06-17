@@ -40,7 +40,7 @@ There are 43 improvements and fixes in this regular monthly release. The most no
 |Add support for 'mso-spacerun' in MsoHtml documents|New Feature
 |Support date picker content control in PDF|New Feature
 |TOC page numbers incorrectly calculated|New Feature
-|Provide public access to Document.attachedToolbars|New Feature
+|Provide public access to document.attachedToolbars|New Feature
 |Repeated table header row should not be rendered on pages where the row does not fit in 2013 mode|Enhancement
 |Investigate whether it is possible to preserve pick date form fields in PDF|Enhancement
 |Support for preserving date picker content control in PDF output|Bug
@@ -67,7 +67,7 @@ There are 43 improvements and fixes in this regular monthly release. The most no
 |MathML is incorrectly imported from HTML|Bug
 |Endnotes that MS Word removes present on rtf to docx conversion|Bug
 |Repeated table header row is rendered improperly|Bug
-|DataLabel is rendered improperly after setting DataLabels.format.fill.color|Bug
+|DataLabel is rendered improperly after setting dataLabels.format.fill.color|Bug
 |Table header row is repeated improperly after rendering|Bug
 |Content position is incorrect in the rendered EQ field|Bug
 |Headers and footers aren't exported to Docling JSON|Bug
