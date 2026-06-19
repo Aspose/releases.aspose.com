@@ -33,7 +33,7 @@ committed_by: "sergey.kolodyazhnyy@aspose.com"
 
 | Report | HTML | PDF |
 |--------|------|-----|
-| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/page/net/2026/26.6/aspose-page-net-26.6-cwe-top-25-2026.html" text="View HTML" >}} | - |
+| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/page/net/2026/26.6/aspose-page-net-26.6-cwe-top-25-2026.html" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/page/net/2026/26.6/aspose-page-net-26.6-cwe-top-25-2026.pdf" text="View PDF" >}} |
 
 
 
