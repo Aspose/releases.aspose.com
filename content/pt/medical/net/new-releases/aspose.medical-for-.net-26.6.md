@@ -5,12 +5,12 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/medical/net/new-releases/aspose.medical-for-.net-26.6/"
-folder_name: "Aspose.Medical para .NET 26.6"
+folder_name: "Aspose.Medical para .NET 26.6 (somente DLLs)"
 download_link: "/medical/net/new-releases/aspose.medical-for-.net-26.6/8fdbc65d0c67436a97a2451117505d59-15411"
 download_text: "Download"
 intro_text: "Contém as DLLs do Aspose.Medical para .NET 26.6."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 18/6/2026 Downloads: 1  Views: 1 "
+download_count: " 18/6/2026 Downloads: 2  Views: 1 "
 file_size: "File Size: 2.05MB"
 parent_path: "medical/net"
 section_parent_path: "medical/net"
@@ -22,7 +22,7 @@ weight: 7
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Medical para .NET 26.6" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Medical para .NET 26.6 (somente DLLs)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Download" link="/medical/net/new-releases/aspose.medical-for-.net-26.6/8fdbc65d0c67436a97a2451117505d59-15411" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/medical" >}}
@@ -31,7 +31,7 @@ weight: 7
     {{< Releases/ReleasesHeading h4txt="Detalhes do arquivo">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-8fdbc65d0c67436a97a2451117505d59-15411" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-8fdbc65d0c67436a97a2451117505d59-15411" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} Tamanho do arquivo: {{< /Common/li >}}
       {{< Common/li id="size-update-8fdbc65d0c67436a97a2451117505d59-15411" >}} 2.05MB {{< /Common/li >}}
 

@@ -5,12 +5,12 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/medical/net/new-releases/aspose.medical-for-.net-26.6/"
-folder_name: "Aspose.Medical for .NET 26.6"
+folder_name: "Aspose.Medical for .NET 26.6 (yalnızca DLL'ler)"
 download_link: "/medical/net/new-releases/aspose.medical-for-.net-26.6/8fdbc65d0c67436a97a2451117505d59-15411"
 download_text: "İndirmek"
 intro_text: "Bu dosya, .NET 26.6 için Aspose.Medical DLL'lerini içermektedir."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 18/6/2026 İndirmeks: 1  Views: 1 "
+download_count: " 18/6/2026 İndirmeks: 2  Views: 1 "
 file_size: "File Size: 2.05MB"
 parent_path: "medical/net"
 section_parent_path: "medical/net"
@@ -22,7 +22,7 @@ weight: 7
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Medical for .NET 26.6" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Medical for .NET 26.6 (yalnızca DLL'ler)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="İndirmek" link="/medical/net/new-releases/aspose.medical-for-.net-26.6/8fdbc65d0c67436a97a2451117505d59-15411" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/medical" >}}
@@ -31,7 +31,7 @@ weight: 7
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} İndirmeks: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-8fdbc65d0c67436a97a2451117505d59-15411" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-8fdbc65d0c67436a97a2451117505d59-15411" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} Dosya boyutu: {{< /Common/li >}}
       {{< Common/li id="size-update-8fdbc65d0c67436a97a2451117505d59-15411" >}} 2.05MB {{< /Common/li >}}
 
