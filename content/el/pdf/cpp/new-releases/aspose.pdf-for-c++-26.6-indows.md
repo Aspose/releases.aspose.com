@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-26.6-indows/"
-folder_name: "Aspose.PDF για C++ 26.6 indows"
+folder_name: "Aspose.PDF για C++ 26.6 Windows"
 download_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-26.6-indows/f954241b2018939d2ba889bb44574c3c-100-15415"
 download_text: "Κατεβάστε"
 intro_text: "Aspose.PDF για εγγενή βιβλιοθήκη C++"
@@ -22,7 +22,7 @@ weight: 292
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.PDF για C++ 26.6 indows" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.PDF για C++ 26.6 Windows" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Κατεβάστε" link="/pdf/cpp/new-releases/aspose.pdf-for-c++-26.6-indows/f954241b2018939d2ba889bb44574c3c-100-15415" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/pdf" >}}

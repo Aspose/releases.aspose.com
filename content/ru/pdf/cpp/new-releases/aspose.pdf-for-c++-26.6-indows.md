@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-26.6-indows/"
-folder_name: "Aspose.PDF для C++ 26.6 для Windows"
+folder_name: "Aspose.PDF для C++ 26.6 Windows"
 download_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-26.6-indows/f954241b2018939d2ba889bb44574c3c-100-15415"
 download_text: "Скачать"
 intro_text: "Нативная библиотека Aspose.PDF для C++"
@@ -22,7 +22,7 @@ weight: 292
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.PDF для C++ 26.6 для Windows" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.PDF для C++ 26.6 Windows" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Скачать" link="/pdf/cpp/new-releases/aspose.pdf-for-c++-26.6-indows/f954241b2018939d2ba889bb44574c3c-100-15415" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/pdf" >}}
