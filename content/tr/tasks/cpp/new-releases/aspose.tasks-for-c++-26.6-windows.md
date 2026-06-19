@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-26.6-windows/"
 folder_name: "Aspose.Tasks for C++ 26.6 Windows"
-download_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-26.6-windows/14531717b4f81f7906755a7f289ff2db-16-15414"
+download_link: "/tasks/cpp/new-releases/aspose.tasks-for-c++-26.6-windows/14531717b4f81f7906755a7f289ff2db-16-15418"
 download_text: "İndirmek"
 intro_text: "Bu dosya, Aspose.Tasks for C++ 26.6 Windows'a özel ikili dosyalarını içerir."
 image_link: "/resources/img/zip-icon.png"
@@ -17,26 +17,26 @@ section_parent_path: "tasks/cpp"
 
 tags: "Aspose.Tasks C++ Windows Win32 Win64"
 release_notes_url: "https://releases.aspose.com/tasks/cpp/release-notes/2026/aspose-tasks-for-cpp-26-6-release-notes/"
-weight: 321
+weight: 322
 
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Tasks for C++ 26.6 Windows" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="İndirmek" link="/tasks/cpp/new-releases/aspose.tasks-for-c++-26.6-windows/14531717b4f81f7906755a7f289ff2db-16-15414" >}}
+    {{< Releases/ReleasesSingleButtons text="İndirmek" link="/tasks/cpp/new-releases/aspose.tasks-for-c++-26.6-windows/14531717b4f81f7906755a7f289ff2db-16-15418" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/tasks" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} İndirmeks: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-14531717b4f81f7906755a7f289ff2db-16-15414" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-14531717b4f81f7906755a7f289ff2db-16-15418" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Dosya boyutu: {{< /Common/li >}}
-      {{< Common/li id="size-update-14531717b4f81f7906755a7f289ff2db-16-15414" >}} 123.34MB {{< /Common/li >}}
+      {{< Common/li id="size-update-14531717b4f81f7906755a7f289ff2db-16-15418" >}} 123.34MB {{< /Common/li >}}
 
       {{< Common/li >}} Ekleme Tarihi: {{< /Common/li >}}
-      {{< Common/li id="added-update-14531717b4f81f7906755a7f289ff2db-16-15414" >}}19/6/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-14531717b4f81f7906755a7f289ff2db-16-15418" >}}19/6/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

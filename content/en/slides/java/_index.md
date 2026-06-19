@@ -21,6 +21,7 @@ productLink: https://products.aspose.com/slides/java/
 releaseNotesLink: https://releases.aspose.com/slides/java/release-notes/
 dataFolder: aspose_slides
 packages_refs:
+- "26-6"
 - "26-5"
 - "26-4"
 - "26-3"
