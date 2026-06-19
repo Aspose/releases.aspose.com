@@ -7,32 +7,33 @@ weight: 10
 description: "Aspose.LLM for .NET 26.5.0 Release Notes - the latest updates and fixes."
 type: "repository"
 layout: "release"
-family_listing_page_title: "Aspose.LLM for .NET 26.5.0 Release Notes"
-keywords: "Aspose.LLM for .NET 26.5.0 Release Notes, Aspose.LLM for .NET 26.5.0 updates and fixes"
 ---
 
-{{% alert color="primary" %}}
+This release improves Aspose.LLM for .NET model support, preset coverage, and chat reliability.
 
-This page contains release notes for [Aspose.LLM for .NET 26.5.0](https://www.nuget.org/packages/Aspose.LLM/26.5.0).
+## Improvements
 
-{{% /alert %}}
+- Improved model compatibility, chat template support, multimodal behavior, and inference reliability through the default llama.cpp runtime by updating from b7793 to b8816.
+- Expanded model preset coverage with 15 new CPU-friendly variants and the SmallModelPreset for broader inference environments including limited-resource systems.
+- Improved chat template handling by always appending assistant suffix and adding support for qwen3vl, gptoss, and gpt-oss architectures.
+- Added CloseSession and CloseChatSession public API methods to enable explicit chat session closure and resource release.
+- Added explicit chat session close lifecycle functionality with proper session tracking and switching behavior.
+- Implemented cache path precedence logic for models and runtimes using ASPOSE_LLM_MODEL_CACHE_DIR and ASPOSE_LLM_RUNTIME_CACHE_DIR environment variables.
 
-Aspose.LLM for .NET 26.5.0 focuses on updated runtime compatibility, improved multimodal behavior, and more reliable chat session initialization.
+## Fixes
 
-## **Improvements and Changes**
+- Fixed BinaryManager to explicitly select the optimal acceleration asset with clear fallback logic and warnings when auto-detected acceleration doesn't match.
+- Added StableCodeFormatter to prevent control-token leaks in stable-code-3b responses, ensuring the generation loop stops properly at turn boundaries.
+- Improved error messages for model loading failures in MultimodalModel with detailed diagnostics for common causes like insufficient RAM/VRAM and GGUF mismatches.
+- HttpFileDownloader now removes orphaned .download files from interrupted attempts to prevent IOException failures on subsequent downloads.
+- Fixed DefaultFormatter to stop truncating responses on blank lines by setting ArtificalEOSToken to null, allowing multi-paragraph output.
+- Fixed cache path precedence logic and session close behavior to ensure proper resource cleanup and correct path resolution.
 
-| **Summary** | **Category** |
-| :- | :- |
-| Updated the default bundled `llama.cpp` runtime used by the library. | Enhancement |
-| Improved compatibility with newer multimodal runtime behavior. | Enhancement |
-| Improved runtime package handling for macOS ARM64 `.tar.gz` assets. | Enhancement |
-| Improved session startup so preset-captured chat parameters are applied more consistently when creating a new session. | Enhancement |
-| Fixed a session initialization issue where preset-captured `ChatParameters` could be ignored when creating a new session. | Bug |
-| Fixed compatibility issues that could affect multimodal decoding with updated runtime packages. | Bug |
-| Fixed runtime asset parsing for additional archive naming variants. | Bug |
+## Public API and Backwards Incompatible Changes
 
-## **Public API and Backwards Incompatible Changes**
-
-- Existing preset-based initialization remains supported.
-- Existing chat session and persistence APIs remain supported.
-- The default runtime package was updated without requiring changes to the common chat APIs.
+- Engine.CloseSession(string sessionId)
+- AsposeLLMApi.CloseChatSession(string sessionId)
+- NemotronFormatter (IPromptFormatter implementation)
+- SmallModelPreset
+- PresetCachePathResolver
+- LoadFromJson method for inline JSON preset loading
