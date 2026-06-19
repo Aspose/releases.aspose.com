@@ -22,6 +22,7 @@ productLink: https://products.aspose.com/drawing/java/
 releaseNotesLink: https://releases.aspose.com/drawing/java/release-notes/
 dataFolder: aspose_drawing
 packages_refs:
+- "26-6"
 - "26-4"
 - "26-3"
 - "26-2"

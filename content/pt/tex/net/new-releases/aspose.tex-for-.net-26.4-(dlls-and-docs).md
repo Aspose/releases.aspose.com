@@ -10,13 +10,13 @@ download_link: "/tex/net/new-releases/aspose.tex-for-.net-26.4-(dlls-and-docs)/0
 download_text: "Download"
 intro_text: "Contém o Aspose.TeX para .NET 26.4 (DLLs e documentação)."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 25/4/2026 Downloads: 1  Views: 1 "
+download_count: " 25/4/2026 Downloads: 8  Views: 1 "
 file_size: "File Size: 49.92MB"
 parent_path: "tex/net"
 section_parent_path: "tex/net"
 
 tags: ""
-release_notes_url: "https://releases.aspose.com/tex/net/release-notes/2025/aspose-tex-for-net-26-4-release-notes/"
+release_notes_url: "https://releases.aspose.com/tex/net/release-notes/2026/aspose-tex-for-net-26-4-release-notes/"
 weight: 76
 
 ---
@@ -31,7 +31,7 @@ weight: 76
     {{< Releases/ReleasesHeading h4txt="Detalhes do arquivo">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-04f3942e93b9a4e4b9415be3d0f18abe-10-15106" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-04f3942e93b9a4e4b9415be3d0f18abe-10-15106" >}} 8 {{< /Common/li >}}
       {{< Common/li >}} Tamanho do arquivo: {{< /Common/li >}}
       {{< Common/li id="size-update-04f3942e93b9a4e4b9415be3d0f18abe-10-15106" >}} 49.92MB {{< /Common/li >}}
 
@@ -40,7 +40,7 @@ weight: 76
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/tex/net/release-notes/2025/aspose-tex-for-net-26-4-release-notes/'>https://releases.aspose.com/tex/net/release-notes/2025/aspose-tex-for-net-26-4-release-notes/</a></div>
+      <h4>Notas de liberação</h4><div><a href='https://releases.aspose.com/tex/net/release-notes/2026/aspose-tex-for-net-26-4-release-notes/'>https://releases.aspose.com/tex/net/release-notes/2026/aspose-tex-for-net-26-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Descrição</h4><div class="HTMLDescription">Contém o Aspose.TeX para .NET 26.4 (DLLs e documentação).</div>

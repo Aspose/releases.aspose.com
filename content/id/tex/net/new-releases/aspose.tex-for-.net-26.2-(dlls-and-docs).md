@@ -10,13 +10,13 @@ download_link: "/tex/net/new-releases/aspose.tex-for-.net-26.2-(dlls-and-docs)/1
 download_text: "Unduh"
 intro_text: "Ini berisi rilis Aspose.TeX for .NET 26.2 (DLL dan dokumentasi)."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 26/2/2026 Unduhs: 1  Views: 1 "
+download_count: " 26/2/2026 Unduhs: 6  Views: 1 "
 file_size: "File Size: 50.58MB"
 parent_path: "tex/net"
 section_parent_path: "tex/net"
 
 tags: ""
-release_notes_url: "https://releases.aspose.com/tex/net/release-notes/2025/aspose-tex-for-net-26-2-release-notes/"
+release_notes_url: "https://releases.aspose.com/tex/net/release-notes/2026/aspose-tex-for-net-26-2-release-notes/"
 weight: 73
 
 ---
@@ -31,7 +31,7 @@ weight: 73
     {{< Releases/ReleasesHeading h4txt="Detail File">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Unduhs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-1a04f56293f030f0d116f80573394d6e-11-14727" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-1a04f56293f030f0d116f80573394d6e-11-14727" >}} 6 {{< /Common/li >}}
       {{< Common/li >}} Ukuran file: {{< /Common/li >}}
       {{< Common/li id="size-update-1a04f56293f030f0d116f80573394d6e-11-14727" >}} 50.58MB {{< /Common/li >}}
 
@@ -40,7 +40,7 @@ weight: 73
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/tex/net/release-notes/2025/aspose-tex-for-net-26-2-release-notes/'>https://releases.aspose.com/tex/net/release-notes/2025/aspose-tex-for-net-26-2-release-notes/</a></div>
+      <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/tex/net/release-notes/2026/aspose-tex-for-net-26-2-release-notes/'>https://releases.aspose.com/tex/net/release-notes/2026/aspose-tex-for-net-26-2-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Keterangan</h4><div class="HTMLDescription">Ini berisi rilis Aspose.TeX for .NET 26.2 (DLL dan dokumentasi).</div>
