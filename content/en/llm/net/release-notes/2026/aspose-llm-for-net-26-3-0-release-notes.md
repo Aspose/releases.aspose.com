@@ -3,7 +3,7 @@ id: "aspose-llm-for-net-26-3-0-release-notes"
 slug: "aspose-llm-for-net-26-3-0-release-notes"
 linktitle: "Aspose.LLM for .NET 26.3.0 Release Notes"
 title: "Aspose.LLM for .NET 26.3.0 Release Notes"
-weight: 30
+weight: 40
 description: "Aspose.LLM for .NET 26.3.0 Release Notes - the latest updates and fixes."
 type: "repository"
 layout: "release"
