@@ -8,7 +8,7 @@ folder_link: "/medical/net/new-releases/aspose.medical-for-.net-26.6/"
 folder_name: "Aspose.Medical for .NET 26.6 (yalnızca DLL'ler)"
 download_link: "/medical/net/new-releases/aspose.medical-for-.net-26.6/8fdbc65d0c67436a97a2451117505d59-15411"
 download_text: "İndirmek"
-intro_text: "Bu dosya, .NET 26.6 için Aspose.Medical DLL'lerini içermektedir."
+intro_text: "Bu ZIP dosyası, .NET için Aspose.Medical'i içermektedir. Derlemeler, aynı sürümün NuGet paketindekiyle aynıdır."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 18/6/2026 İndirmeks: 2  Views: 1 "
 file_size: "File Size: 2.05MB"
@@ -43,7 +43,7 @@ weight: 7
       <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/medical/net/release-notes/2026/aspose-medical-for-net-26-6-release-notes/'>https://releases.aspose.com/medical/net/release-notes/2026/aspose-medical-for-net-26-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Tanım</h4><div class="HTMLDescription">Bu dosya, .NET 26.6 için Aspose.Medical DLL'lerini içermektedir.</div>
+      <h4>Tanım</h4><div class="HTMLDescription">Bu ZIP dosyası, .NET için Aspose.Medical'i içermektedir. Derlemeler, aynı sürümün NuGet paketindekiyle aynıdır.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
