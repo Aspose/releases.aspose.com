@@ -1,21 +1,21 @@
 ---
-id: "aspose-tasks-for-python-net-26-6-release-notes"
-slug: "aspose-tasks-for-python-net-26-6-release-notes"
-linktitle: "Aspose.Tasks for Python via .NET 26.6 Release Notes"
-title: "Aspose.Tasks for Python via .NET 26.6 Release Notes"
+id: "aspose-tasks-for-java-26-6-release-notes"
+slug: "aspose-tasks-for-java-26-6-release-notes"
+linktitle: "Aspose.Tasks for Java 26.6 Release Notes"
+title: "Aspose.Tasks for Java 26.6 Release Notes"
 weight: 95
-description: "The page contains the release notes for Aspose.Tasks for Python via .NET 26.6."
+description: "The page contains the release notes for Aspose.Tasks for Java 26.6."
 type: "repository"
 layout: "release"
 hideChildren: false
 toc: false
-family_listing_page_title: "Aspose.Tasks for Python via .NET 26.6 Release Notes"
+family_listing_page_title: "Aspose.Tasks for Java 26.6 Release Notes"
 menuItemWithNoContent: false
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
-This page contains release notes information for [Aspose.Tasks for Python via .Net 26.6](https://pypi.org/project/aspose-tasks/26.6.0/).
+This page contains release notes information for [Aspose.Tasks for Java 26.6](https://releases.aspose.com/tasks/java/26-6/).
 
 {{% /alert %}}
 
@@ -32,9 +32,9 @@ This page contains release notes information for [Aspose.Tasks for Python via .N
 | TASKSNET-11463 | Fix task bar rendered outside of Gantt chart's calendar's area | Bug |
 
 ## **Public API and Backwards Incompatible Changes**
-|**The following public methods and properties were added:**|**Description**|
+|**The following public methods were added:**|**Description**|
 | :- | :- |
-| aspose.tasks.PrimaveraTaskProperties.planned_duration | Gets the original or planned duration -- the total working time from the task planned start date to the planned finish date.. |
+| com.aspose.tasks.PrimaveraTaskProperties.getPlannedDuration() | Gets the original or planned duration -- the total working time from the task planned start date to the planned finish date.. |
 
 **Related issue: TASKSNET-11647 - Change source field of Task.Duration to "At completion Duration" instead of "Planned duration" when reading a project from Primavera formats.**
 
@@ -43,11 +43,11 @@ This page contains release notes information for [Aspose.Tasks for Python via .N
 The following applies to reading projects from Primavera formats (XER, XML, DB).
 Before version 26.6, the Task.Duration property was incorrectly populated from Primavera's "Planned duration" field. This created counter-intuitive behavior where:
 
-task.actual_duration + task.remaining_duration ≠ task.duration
+Task.getActualDuration() + Task.getRemainingDuration() ≠ Task.getDuration()
 
-In Primavera, the relationship is actually: actual_duration + remaining_duration = 'At Completion Duration'
+In Primavera, the relationship is actually: getActualDuration() + getRemainingDuration() = 'At Completion Duration'
 
 Starting from version 26.6, the mapping has been corrected:
 
-task.duration - now maps to Primavera's "At Completion Duration"
-Primavera's "Planned duration" field is now mapped to task.primavera_properties.planned_duration
+Task.getDuration() - now maps to Primavera's "At Completion Duration"
+Primavera's "Planned duration" field is now mapped to Task.getPrimaveraProperties().getPlannedDuration()
