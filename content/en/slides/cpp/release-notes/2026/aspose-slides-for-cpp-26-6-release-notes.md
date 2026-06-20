@@ -38,52 +38,19 @@ This page contains release notes for [Aspose.Slides for C++ 26.6](https://www.nu
 
 The new `CompressionLevel` enumeration has been added. This enumeration specifies ZIP compression levels for OpenXML file.
 
-```cpp
-enum class CompressionLevel
-{
-    /// <summary>
-    /// No compression is applied. Files are stored as-is.
-    /// </summary>
-    None = 0,
-    /// <summary>
-    /// Fastest compression with the lowest compression ratio.
-    /// </summary>
-    Level1 = 1,
-    /// <summary>
-    /// Faster compression with slightly better compression ratio than <see cref="CompressionLevel::Level1"></see>.
-    /// </summary>
-    Level2 = 2,
-    /// <summary>
-    /// Provides better compression than <see cref="CompressionLevel::Level2"></see> with moderate performance impact.
-    /// </summary>
-    Level3 = 3,
-    /// <summary>
-    /// Provides better compression than <see cref="CompressionLevel::Level3"></see>.
-    /// </summary>
-    Level4 = 4,
-    /// <summary>
-    /// Provides improved compression over <see cref="CompressionLevel::Level4"></see> with additional processing time.
-    /// </summary>
-    Level5 = 5,
-    /// <summary>
-    /// Standard compression, offering a good balance between compression speed and file size.
-    /// The default compression level.
-    /// </summary>
-    Level6 = 6,
-    /// <summary>
-    /// Provides higher compression than <see cref="CompressionLevel::Level6"></see> with slower processing.
-    /// </summary>
-    Level7 = 7,
-    /// <summary>
-    /// Provides higher compression than <see cref="CompressionLevel::Level7"></see>.
-    /// </summary>
-    Level8 = 8,
-    /// <summary>
-    /// Maximum compression. Produces the smallest file size with the slowest processing speed.
-    /// </summary>
-    Level9 = 9
-};
-```
+| Type | Description |
+| --- | --- |
+| None | No compression is applied. Files are stored as-is. |
+| Level1 | Fastest compression with the lowest compression ratio. |
+| Level2 | Faster compression with slightly better compression ratio than CompressionLevel::Level1. |
+| Level3 | Provides better compression than CompressionLevel::Level2 with moderate performance impact. |
+| Level4 | Provides better compression than CompressionLevel::Level3. |
+| Level5 | Provides improved compression over CompressionLevel::Level4 with additional processing time. |
+| Level6 | Standard compression, offering a good balance between compression speed and file size. The default compression level. |
+| Level7 | Provides higher compression than CompressionLevel::Level6 with slower processing. |
+| Level8 | Provides higher compression than CompressionLevel::Level7. |
+| Level9 | Maximum compression. Produces the smallest file size with the slowest processing speed. |
+
 
 ### Added New Methods: IPptxOptions::get_CompressionLevel() and IPptxOptions::set_CompressionLevel()
 
