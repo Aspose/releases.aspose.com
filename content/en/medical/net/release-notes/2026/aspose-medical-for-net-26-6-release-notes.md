@@ -112,8 +112,8 @@ DicomFile dicomFile = DicomFile.Open("ct-scan-jxl.dcm");
 // Get the transfer syntax from the file meta information
 TransferSyntax syntax = dicomFile.MetaInfo.TransferSyntax;
 
-// Check the lossy compression method
-LossyCompressionMethods method = syntax.LossyCompressionMethod;
+// Check the lossy compression method (the property is nullable)
+LossyCompressionMethods? method = syntax.LossyCompressionMethod;
 System.Console.WriteLine($"Lossy compression method: {method}");
 {{< /highlight >}}
 
@@ -136,77 +136,7 @@ DicomFile transcoded = dicomFile.Transcode(TransferSyntax.Jpeg2000Lossless);
 transcoded.Save("ct-16bit-mono-j2k.dcm");
 {{< /highlight >}}
 
-### PNM Image Export
-
-The new `RawImageExtension.SaveAsPnmAsync` extension method saves a rendered DICOM image in the PNM family of formats. The current implementation writes a binary PPM (P6) file with 8-bit RGB samples.
-
-**Example: Rendering a DICOM Frame and Saving as PNM**
-
-{{< highlight csharp >}}
-using Aspose.Medical.Dicom;
-using Aspose.Medical.Imaging;
-
-// Open a DICOM file
-DicomFile dicomFile = DicomFile.Open("chest-xray.dcm");
-
-// Render the first frame
-IRawImage image = dicomFile.RenderImage(0);
-
-// Save as PNM (binary PPM P6 format)
-await image.SaveAsPnmAsync("chest-xray.ppm");
-{{< /highlight >}}
-
-Supporting types for PNM encoding are also available in the `Aspose.Medical.Imaging.Codecs.Pnm` namespace:
-
-- `PnmColorType` - identifies the PNM image kind: `BitMap` (PBM), `GrayMap` (PGM), or `PixMap` (PPM)
-- `PnmEncoding` - specifies sample representation: `Text` or `Binary`
-- `PnmSampleDepth` - specifies bit depth: `OneBit`, `EightBit`, or `SixteenBit`
-
-### Rgb24 Pixel Format
-
-The new `Aspose.Medical.Imaging.PixelFormats.Rgb24` struct represents a packed pixel with three 8-bit unsigned normalized values (R, G, B). It implements the same pixel interface as `Rgba32` and supports conversion via `FromRgba32`, `ToScaledVector4`, and related methods.
-
-**Example: Working with Rgb24 Pixels**
-
-{{< highlight csharp >}}
-using Aspose.Medical.Imaging.PixelFormats;
-
-// Create an Rgb24 pixel
-Rgb24 pixel = new Rgb24();
-pixel.R = 255;
-pixel.G = 128;
-pixel.B = 0;
-
-System.Console.WriteLine($"Pixel: {pixel}");
-
-// Convert from Rgba32
-Rgba32 rgba = new Rgba32 { R = 200, G = 100, B = 50, A = 255 };
-Rgb24 fromRgba = new Rgb24();
-fromRgba.FromRgba32(rgba);
-
-System.Console.WriteLine($"Converted: {fromRgba}");
-
-// Equality comparison
-Rgb24 another = new Rgb24 { R = 200, G = 100, B = 50 };
-bool areEqual = fromRgba == another;
-System.Console.WriteLine($"Are equal: {areEqual}");
-{{< /highlight >}}
-
 ## API Changes Summary
-
-### New Enumerations
-
-- `Aspose.Medical.Imaging.Codecs.Pnm.PnmColorType` - identifies the PNM image kind (BitMap, GrayMap, PixMap)
-- `Aspose.Medical.Imaging.Codecs.Pnm.PnmEncoding` - specifies PNM sample representation (Text, Binary)
-- `Aspose.Medical.Imaging.Codecs.Pnm.PnmSampleDepth` - specifies PNM sample bit depth (OneBit, EightBit, SixteenBit)
-
-### New Classes
-
-- `Aspose.Medical.Imaging.RawImageExtension` - extension methods for saving `IRawImage` instances
-
-### New Structures
-
-- `Aspose.Medical.Imaging.PixelFormats.Rgb24` - packed 24-bit RGB pixel format
 
 ### New Fields
 
@@ -217,7 +147,3 @@ System.Console.WriteLine($"Are equal: {areEqual}");
 - `Aspose.Medical.Dicom.Uid.JpegXLLossless` - UID constant for JPEG XL Lossless transfer syntax
 - `Aspose.Medical.Dicom.Uid.JpegXLJpegRecompression` - UID constant for JPEG XL JPEG Recompression transfer syntax
 - `Aspose.Medical.Dicom.Uid.JpegXL` - UID constant for JPEG XL transfer syntax
-
-### New Methods
-
-- `Aspose.Medical.Imaging.RawImageExtension.SaveAsPnmAsync(IRawImage, string, CancellationToken)` - saves a raw image as PNM (binary PPM P6)
