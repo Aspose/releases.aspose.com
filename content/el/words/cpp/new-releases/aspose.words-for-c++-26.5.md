@@ -6,12 +6,12 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/words/cpp/new-releases/aspose.words-for-c++-26.5/"
 folder_name: "Aspose.Words για C++ 26.5"
-download_link: "/words/cpp/new-releases/aspose.words-for-c++-26.5/210a6e12e040a17935f488364b60d99f-1-15436"
+download_link: "/words/cpp/new-releases/aspose.words-for-c++-26.5/b95da7955c33e3565311ceff8d9ccd4e-106-15436"
 download_text: "Κατεβάστε"
 intro_text: "Περιέχει το Aspose.Words για την έκδοση C++"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 21/6/2026 Κατεβάστεs: 1  Views: 1 "
-file_size: "File Size: 134 B"
+file_size: "File Size: 526.93MB"
 parent_path: "words/cpp"
 section_parent_path: "words/cpp"
 
@@ -24,19 +24,19 @@ weight: 255
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Words για C++ 26.5" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Κατεβάστε" link="/words/cpp/new-releases/aspose.words-for-c++-26.5/210a6e12e040a17935f488364b60d99f-1-15436" >}}
+    {{< Releases/ReleasesSingleButtons text="Κατεβάστε" link="/words/cpp/new-releases/aspose.words-for-c++-26.5/b95da7955c33e3565311ceff8d9ccd4e-106-15436" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/words" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Λεπτομέρειες αρχείου">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Κατεβάστεs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-210a6e12e040a17935f488364b60d99f-1-15436" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-b95da7955c33e3565311ceff8d9ccd4e-106-15436" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Μέγεθος αρχείου: {{< /Common/li >}}
-      {{< Common/li id="size-update-210a6e12e040a17935f488364b60d99f-1-15436" >}} 134 B {{< /Common/li >}}
+      {{< Common/li id="size-update-b95da7955c33e3565311ceff8d9ccd4e-106-15436" >}} 526.93MB {{< /Common/li >}}
 
       {{< Common/li >}} Ημερομηνία προστέθηκε: {{< /Common/li >}}
-      {{< Common/li id="added-update-210a6e12e040a17935f488364b60d99f-1-15436" >}}21/6/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-b95da7955c33e3565311ceff8d9ccd4e-106-15436" >}}21/6/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
