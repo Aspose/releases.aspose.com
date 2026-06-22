@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-page",
+  "id" : "26-6",
+  "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-page-26.6-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "21 MB",
+    "name" : "aspose-page-26.6.jar"
+  }, {
+    "size" : "393 bytes",
+    "name" : "aspose-page-26.6.pom"
+  } ],
+  "releasehDate" : "2026-06-22T09:29:39+00:00",
+  "version" : "26.6",
+  "ReleaseNotes" : "https://releases.aspose.com/page/java/release-notes/2026/aspose-page-for-java-26-6-release-notes/"
+}
