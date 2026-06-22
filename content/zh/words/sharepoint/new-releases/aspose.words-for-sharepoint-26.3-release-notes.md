@@ -5,12 +5,12 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/words/sharepoint/new-releases/aspose.words-for-sharepoint-26.3-release-notes/"
-folder_name: "Aspose.Words for SharePoint 26.3 发行说明"
+folder_name: "Aspose.Words for SharePoint 26.3"
 download_link: "/words/sharepoint/new-releases/aspose.words-for-sharepoint-26.3-release-notes/b71b19bc6360384b4975a8b997c173aa-6-14975"
 download_text: "下载"
 intro_text: "请升级至最新版本的 Aspose.Words for Net (26.3)。修复了已知错误。"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 1/4/2026 下载s: 2  Views: 1 "
+download_count: " 1/4/2026 下载s: 46  Views: 1 "
 file_size: "File Size: 28.97MB"
 parent_path: "words/sharepoint"
 section_parent_path: "words/sharepoint"
@@ -22,7 +22,7 @@ weight: 85
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Words for SharePoint 26.3 发行说明" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Words for SharePoint 26.3" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="下载" link="/words/sharepoint/new-releases/aspose.words-for-sharepoint-26.3-release-notes/b71b19bc6360384b4975a8b997c173aa-6-14975" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/words" >}}
@@ -31,7 +31,7 @@ weight: 85
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} 下载s: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-b71b19bc6360384b4975a8b997c173aa-6-14975" >}} 2 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-b71b19bc6360384b4975a8b997c173aa-6-14975" >}} 46 {{< /Common/li >}}
       {{< Common/li >}} 文件大小: {{< /Common/li >}}
       {{< Common/li id="size-update-b71b19bc6360384b4975a8b997c173aa-6-14975" >}} 28.97MB {{< /Common/li >}}
 

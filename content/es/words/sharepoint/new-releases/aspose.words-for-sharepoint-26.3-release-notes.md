@@ -5,12 +5,12 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/words/sharepoint/new-releases/aspose.words-for-sharepoint-26.3-release-notes/"
-folder_name: "Notas de la versión 26.3 de Aspose.Words para SharePoint"
+folder_name: "Aspose.Words para SharePoint 26.3"
 download_link: "/words/sharepoint/new-releases/aspose.words-for-sharepoint-26.3-release-notes/b71b19bc6360384b4975a8b997c173aa-6-14975"
 download_text: "Descargar"
 intro_text: "Actualiza a la última versión de Aspose.Words para Net (26.3). Corrección de errores."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 1/4/2026 Descargars: 2  Views: 1 "
+download_count: " 1/4/2026 Descargars: 46  Views: 1 "
 file_size: "File Size: 28.97MB"
 parent_path: "words/sharepoint"
 section_parent_path: "words/sharepoint"
@@ -22,7 +22,7 @@ weight: 85
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Notas de la versión 26.3 de Aspose.Words para SharePoint" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Words para SharePoint 26.3" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Descargar" link="/words/sharepoint/new-releases/aspose.words-for-sharepoint-26.3-release-notes/b71b19bc6360384b4975a8b997c173aa-6-14975" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/words" >}}
@@ -31,7 +31,7 @@ weight: 85
     {{< Releases/ReleasesHeading h4txt="detalles del archivo">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Descargars: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-b71b19bc6360384b4975a8b997c173aa-6-14975" >}} 2 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-b71b19bc6360384b4975a8b997c173aa-6-14975" >}} 46 {{< /Common/li >}}
       {{< Common/li >}} Tamaño del archivo: {{< /Common/li >}}
       {{< Common/li id="size-update-b71b19bc6360384b4975a8b997c173aa-6-14975" >}} 28.97MB {{< /Common/li >}}
 
