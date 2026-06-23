@@ -15,6 +15,6 @@ family_listing_page_title: "Aspose.Page for C++ 26.6 Release Notes"
 
 ## Improvements and Changes
 
-This release of Aspose.Page for Ñ++ is a maintenance release. No changes have been added.
+This release of Aspose.Page for C++ is a maintenance release. No changes have been added.
 
 You can consult Aspose.Page for C++ [API Reference](https://apireference.aspose.com/cpp/page/) for documentation.
