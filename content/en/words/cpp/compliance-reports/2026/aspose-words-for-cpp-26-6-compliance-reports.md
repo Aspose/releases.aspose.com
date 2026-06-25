@@ -21,11 +21,6 @@ committed_by: "evgeny.vasilev@aspose.com"
 
 ## This 26.6 C++ release includes the following transparency and audit artifacts:
 
-### EULA & Third-Party Licenses
-
-- <a href="https://about.aspose.com/legal/eula/" target="_blank" rel="noopener">Aspose End User License Agreement</a>
-- {{< compliance-file relpath="/compliance-reports/third-party-licenses/cpp/third-party-licenses-aspose-words-cpp.pdf" text="Aspose.Words for C++ Third-Party License" >}}
-
 
 
 
@@ -34,7 +29,7 @@ committed_by: "evgeny.vasilev@aspose.com"
 
 | Report | HTML | PDF |
 |--------|------|-----|
-| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/words/cpp/2026/26.6/aspose-words-cpp-26.6-cwe-top-25-2024.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/words/cpp/2026/26.6/aspose-words-cpp-26.6-cwe-top-25-2024.pdf" text="View PDF" >}} |
+| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/words/cpp/2026/26.6/aspose-words-cpp-26.6-cwe-top-25-2024.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/words/cpp/2026/26.6/aspose-words-cpp-26.6_cwe-top-25-2026.pdf" text="View PDF" >}} |
 | OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/words/cpp/2026/26.6/aspose-words-cpp-26.6-owasp-top-10-2021.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/words/cpp/2026/26.6/aspose-words-cpp-26.6-owasp-top-10-2021.pdf" text="View PDF" >}} |
 
 
