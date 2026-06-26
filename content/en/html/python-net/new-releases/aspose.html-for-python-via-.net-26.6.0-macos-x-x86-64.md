@@ -5,45 +5,45 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/html/python-net/new-releases/aspose.html-for-python-via-.net-26.6.0-macos-x-x86-64/"
-folder_name: "Aspose.HTML for Python via .NET 26.6.0 Windows AMD64"
-download_link: "/html/python-net/new-releases/aspose.html-for-python-via-.net-26.6.0-macos-x-x86-64/bd49cf6b81b0c40127aad12a8d50f4df-12-15465"
+folder_name: "Aspose.HTML for Python via .NET 26.6.0 MacOS X x86-64"
+download_link: "/html/python-net/new-releases/aspose.html-for-python-via-.net-26.6.0-macos-x-x86-64/110113429df8fc88921c32d9b680283d-14-15466"
 download_text: "Download"
-intro_text: "This wheel contains Aspose.HTML for Python via .NET version 26.6.0, built for Windows and targeting the AMD64 architecture."
+intro_text: "This package delivers Aspose.HTML for Python via .NET version 26.6.0, built for MacOS X and targeting the x86_64 architecture."
 image_link: "/resources/img/random-file-icon.png"
 download_count: " 26/6/2026 Downloads: 1  Views: 1 "
-file_size: "File Size: 56.08MB"
+file_size: "File Size: 67.3MB"
 parent_path: "html/python-net"
 section_parent_path: "html/python-net"
 
 tags: ""
 release_notes_url: "https://releases.aspose.com/html/python-net/release-notes/2026/aspose-html-for-python-via-dotnet-26-6-release-notes/"
-weight: 101
+weight: 102
 
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.HTML for Python via .NET 26.6.0 Windows AMD64" imagelink="/resources/img/random-file-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.HTML for Python via .NET 26.6.0 MacOS X x86-64" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/html/python-net/new-releases/aspose.html-for-python-via-.net-26.6.0-macos-x-x86-64/bd49cf6b81b0c40127aad12a8d50f4df-12-15465" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/html/python-net/new-releases/aspose.html-for-python-via-.net-26.6.0-macos-x-x86-64/110113429df8fc88921c32d9b680283d-14-15466" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/html" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-bd49cf6b81b0c40127aad12a8d50f4df-12-15465" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-110113429df8fc88921c32d9b680283d-14-15466" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
-      {{< Common/li id="size-update-bd49cf6b81b0c40127aad12a8d50f4df-12-15465" >}} 56.08MB {{< /Common/li >}}
+      {{< Common/li id="size-update-110113429df8fc88921c32d9b680283d-14-15466" >}} 67.3MB {{< /Common/li >}}
 
       {{< Common/li >}} Date Added: {{< /Common/li >}}
-      {{< Common/li id="added-update-bd49cf6b81b0c40127aad12a8d50f4df-12-15465" >}}26/6/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-110113429df8fc88921c32d9b680283d-14-15466" >}}26/6/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
       <h4>Release Notes</h4><div><a href='https://releases.aspose.com/html/python-net/release-notes/2026/aspose-html-for-python-via-dotnet-26-6-release-notes/'>https://releases.aspose.com/html/python-net/release-notes/2026/aspose-html-for-python-via-dotnet-26-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4><div class="HTMLDescription">This wheel contains Aspose.HTML for Python via .NET version 26.6.0, built for Windows and targeting the AMD64 architecture.</div>
+      <h4>Description</h4><div class="HTMLDescription">This package delivers Aspose.HTML for Python via .NET version 26.6.0, built for MacOS X and targeting the x86_64 architecture.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
