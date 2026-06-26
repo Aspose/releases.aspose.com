@@ -30,7 +30,7 @@ This page contains release notes information for [Aspose.GIS for .NET 26.6](http
 ## **Public API and Backward Incompatible Changes**
 Following members have been added:
 
-+ + P:Aspose.Gis.DriverOptions.ErrorCollector
++ P:Aspose.Gis.DriverOptions.ErrorCollector
 + T:Aspose.Gis.Operations.OperationError
 + M:Aspose.Gis.Operations.OperationError.#ctor(System.String,System.Exception)
 + P:Aspose.Gis.Operations.OperationError.Message
@@ -65,8 +65,8 @@ Following members have been removed:
 // After fix this code works correct:
 ConversionOptions conversionOptions = new ConversionOptions();
 conversionOptions.SourceDriverOptions = new GmlOptions { RestoreSchema = true };
-string sourcePath = Path.Combine(TestConfiguration.TestDataPath, "gml", "gml7.gml");
-string destinationPath = GetOutputPath(".gml");
+string sourcePath = Path.Combine("gml", "gml7.gml");
+string destinationPath = "output.gml";
 VectorLayer.Convert(sourcePath, Drivers.Gml, destinationPath, Drivers.Gml, conversionOptions);
 using (var layer = VectorLayer.Open(destinationPath, Drivers.Gml, new GmlOptions { RestoreSchema = true }))
 {
@@ -190,6 +190,7 @@ public void Example_Wkt()
         var polygon = (Polygon)layer[2].Geometry;
         if (polygon.ExteriorRing.Count != 5)
             throw new Exception($"Expected polygon exterior ring with 5 points but got {polygon.ExteriorRing.Count}");
+			
         AssertCoordinate(polygon.ExteriorRing[0], 100, 0);
         AssertCoordinate(polygon.ExteriorRing[1], 100, 1);
         AssertCoordinate(polygon.ExteriorRing[2], 101.000100010001, 1);
