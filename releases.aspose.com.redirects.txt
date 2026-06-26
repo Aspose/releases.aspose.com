@@ -1184,3 +1184,5 @@ rewrite ^/omr/net/new-releases/icons-aspose\.omr-for-\.net-24\.7/$ https://relea
 rewrite ^/pdf/jassperreport(/.*)?$ https://releases.aspose.com/pdf/jasperreports$1 permanent;
 # Redirect for GridJS 26.1 release notes
 rewrite ^/cells/net/release-notes/2025/aspose-cells-for-net-26-1-release-notes/$ https://releases.aspose.com/cells/net/release-notes/2026/aspose-cells-for-net-26-1-release-notes/ permanent;
+# Aspose.HTML for .NET: NuGet packages link release notes with the full version slug (e.g. 26-6-0) while the pages use the major-minor slug (26-6). Redirect the -0 patch form to the correct page. (202606261)
+rewrite ^/html/net/release-notes/(\d{4})/aspose-html-for-net-(\d+)-(\d+)-0-release-notes/?$ https://releases.aspose.com/html/net/release-notes/$1/aspose-html-for-net-$2-$3-release-notes/ permanent;
