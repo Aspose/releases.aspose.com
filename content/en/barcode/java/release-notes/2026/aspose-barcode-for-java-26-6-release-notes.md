@@ -33,7 +33,7 @@ for [Aspose.BarCode for Java 26.6](https://releases.aspose.com/barcode/java/26-6
 
 The recognition quality of EAN-13 barcode symbology has been improved.
 
-```cs
+```java
 public void example1() throws IOException {
     BarcodeGenerator gen = new BarcodeGenerator(EncodeTypes.EAN_13, "8700216723077");
     gen.getParameters().getBarcode().getPdf417().setTruncate(true);
