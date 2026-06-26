@@ -1,30 +1,31 @@
 ---
-id: "aspose-html-for-net-26-6-release-notes"
-slug: "aspose-html-for-net-26-6-release-notes"
-linktitle: "Aspose.HTML for .NET 26.6 Release Notes"
-title: "Aspose.HTML for .NET 26.6 Release Notes"
+id: "aspose-html-for-python-via-dotnet-26-6-release-notes"
+slug: "aspose-html-for-python-via-dotnet-26-6-release-notes"
+linktitle: "Aspose.HTML for Python via .NET 26.6 Release Notes"
+title: "Aspose.HTML for Python via .NET 26.6 Release Notes"
 weight: 70
-description: "Aspose.HTML for .NET 26.6 Release Notes - the latest updates and fixes."
+description: "Aspose.HTML for Python via .NET 26.6 Release Notes - the latest updates and fixes."
 type: "repository"
 layout: "release"
 hideChildren: false
 toc: false
-family_listing_page_title: "Aspose.HTML for .NET 26.6 Release Notes"
+family_listing_page_title: "Aspose.HTML for Python via .NET 26.6 Release Notes"
 menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
-This page contains release notes information for Aspose.HTML for .NET 26.6.
+This page contains release notes information for Aspose.HTML for Python via .NET 26.6.
 {{% /alert %}}
-
-As per the regular monthly update process of all APIs being offered by Aspose, we are honored to announce the June release of Aspose.HTML for .NET.
-
-### Release Notes
 
 The June update for Aspose.HTML for .NET focuses on rendering consistency, advanced layout behavior, and overall stability.
 
+### Release Notes
+
+This release introduces comprehensive support for CSS calc() expressions in layout calculations, improving the precision and flexibility of CSS dimension handling. The table layout engine has been enhanced with proper handling of the 'break-after: avoid' property. Additionally, page dimension handling during DOCX conversion has been fixed, and PDF/UA-1 validation support has been added for tagged PDF testing.
+
 **Package references**<br>
-Aspose.HTML for .NET 26.6.0 [NuGet](https://www.nuget.org/packages/Aspose.Html)<br>
+Aspose.HTML for Python via .NET 26.6.0 [NuGet](https://www.nuget.org/packages/Aspose.Html)<br>
+Aspose.HTML.Drawing for .NET 26.6.0 [NuGet](https://www.nuget.org/packages/Aspose.Html.Drawing)<br>
 Aspose.HTML for Python via .NET  26.6.0 [PyPI](https://pypi.org/project/aspose-html-net/)
 
 ## **Improvements and Changes**
@@ -40,3 +41,4 @@ Aspose.HTML for Python via .NET  26.6.0 [PyPI](https://pypi.org/project/aspose-h
 | HTMLNET-6925 | The library now supports the `space-evenly` value for `align-content` and `justify-content` in Flexbox and Grid layouts. | Feature |
 | HTMLNET-5407 | The library now supports the CSS textalignlast property and lastline text justification. | Feature |
 | HTMLNET-3072 | Rendering issues when converting certain web pages to PDF | Bug |
+
