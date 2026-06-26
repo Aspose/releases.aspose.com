@@ -5,10 +5,10 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/html/python-net/new-releases/aspose.html-for-python-via-.net-26.6.0-macos-x-x86-64/"
-folder_name: "Aspose.HTML for Python via .NET 26.6.0 MacOS X x86-64"
+folder_name: "Aspose.HTML for Python via .NET 26.6.0 Windows AMD64"
 download_link: "/html/python-net/new-releases/aspose.html-for-python-via-.net-26.6.0-macos-x-x86-64/bd49cf6b81b0c40127aad12a8d50f4df-12-15465"
 download_text: "İndirmek"
-intro_text: "Bu paket, MacOS X için geliştirilmiş ve x86_64 mimarisini hedefleyen .NET sürüm 26.6.0 aracılığıyla Python için Aspose.HTML'i sunmaktadır."
+intro_text: "Bu paket, Windows için geliştirilmiş ve AMD64 mimarisini hedefleyen, .NET sürüm 26.6.0 üzerinden Python için Aspose.HTML'i içermektedir."
 image_link: "/resources/img/random-file-icon.png"
 download_count: " 26/6/2026 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 56.08MB"
@@ -22,7 +22,7 @@ weight: 101
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.HTML for Python via .NET 26.6.0 MacOS X x86-64" imagelink="/resources/img/random-file-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.HTML for Python via .NET 26.6.0 Windows AMD64" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="İndirmek" link="/html/python-net/new-releases/aspose.html-for-python-via-.net-26.6.0-macos-x-x86-64/bd49cf6b81b0c40127aad12a8d50f4df-12-15465" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/html" >}}
@@ -43,7 +43,7 @@ weight: 101
       <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/html/python-net/release-notes/2026/aspose-html-for-python-via-dotnet-26-6-release-notes/'>https://releases.aspose.com/html/python-net/release-notes/2026/aspose-html-for-python-via-dotnet-26-6-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Tanım</h4><div class="HTMLDescription">Bu paket, MacOS X için geliştirilmiş ve x86_64 mimarisini hedefleyen .NET sürüm 26.6.0 aracılığıyla Python için Aspose.HTML'i sunmaktadır.</div>
+      <h4>Tanım</h4><div class="HTMLDescription">Bu paket, Windows için geliştirilmiş ve AMD64 mimarisini hedefleyen, .NET sürüm 26.6.0 üzerinden Python için Aspose.HTML'i içermektedir.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
