@@ -3,7 +3,7 @@ id: "aspose-pub-for-cpp-26-5-release-notes"
 slug: "aspose-pub-for-cpp-26-5-release-notes"
 linktitle: "Aspose.PUB for CPP 26.5 Release Notes"
 title: "Aspose.PUB for CPP 26.5 Release Notes"
-weight: 19
+weight: 8
 description: "C++ APIs to manipulate Publisher files. This page contains new features Aspose.PUB for C++, enhancement, and bug fixes in 2026, version 26.5."
 type: "repository"
 layout: "release"
