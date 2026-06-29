@@ -23,6 +23,7 @@ productLink: https://products.aspose.com/psd/java/
 releaseNotesLink: https://releases.aspose.com/psd/java/release-notes/
 dataFolder: aspose_psd
 packages_refs:
+- "26-6"
 - "26-5"
 - "26-4"
 - "26-3"
