@@ -30,3 +30,4 @@ Aspose.SVG for Python via .NET  26.6.0 [PyPI](https://pypi.org/project/aspose-sv
 ## **Improvements and Changes**
 
 - Maintenance build for the June 26.6.0 release of Aspose.SVG for .NET.
+- Fixed a stack overflow that could occur when processing documents with deeply nested elements.
