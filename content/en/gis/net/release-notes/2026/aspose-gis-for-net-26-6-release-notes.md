@@ -26,6 +26,7 @@ This page contains release notes information for [Aspose.GIS for .NET 26.6](http
 |GISNET-2051|Gml To Gml - Results Not The Same In QGIS|Bug|
 |GISNET-2041|Fix TopoJSON to CSV conversion with nested properties|Bug|
 |GISNET-2042|Add optional SRS transform error collection for invalid Shapefile conversion|Feature|
+|GISNET-2047|TopoJson to Gml - QGIS does not see output|Bug|
 
 ## **Public API and Backward Incompatible Changes**
 Following members have been added:
@@ -61,8 +62,9 @@ Following members have been removed:
 
 **GISNET-2051. Gml To Gml - Results Not The Same In QGIS**
 {{< highlight csharp >}}
-// During conversion aspose.gis can’t write correctly feature ‘Antwerpen’ with MultiPolygon geometry type in sample gml7.gml.
+// During conversion aspose.gis can't write correctly feature 'Antwerpen' with MultiPolygon geometry type in sample gml7.gml.
 // After fix this code works correct:
+
 ConversionOptions conversionOptions = new ConversionOptions();
 conversionOptions.SourceDriverOptions = new GmlOptions { RestoreSchema = true };
 string sourcePath = Path.Combine("gml", "gml7.gml");
@@ -190,7 +192,7 @@ public void Example_Wkt()
         var polygon = (Polygon)layer[2].Geometry;
         if (polygon.ExteriorRing.Count != 5)
             throw new Exception($"Expected polygon exterior ring with 5 points but got {polygon.ExteriorRing.Count}");
-			
+
         AssertCoordinate(polygon.ExteriorRing[0], 100, 0);
         AssertCoordinate(polygon.ExteriorRing[1], 100, 1);
         AssertCoordinate(polygon.ExteriorRing[2], 101.000100010001, 1);
@@ -275,5 +277,30 @@ public void ErrorsAndSkipsInvalidFeatures()
         if (layer.Count < 444)
             throw new Exception($"Expected at least 444 features after skipping errors but got {layer.Count}");
     }
+}
+{{< /highlight >}}
+
+**GISNET-2047. TopoJson to Gml - QGIS does not see output**
+{{< highlight csharp >}}
+// Example from issue GISNET-2047
+string sourcePath = "2047_5248_topojson1.json";
+string destinationPath = "2047_5248_topojson1_restored_schema_out.gml";
+
+VectorLayer.Convert(sourcePath, Drivers.TopoJson, destinationPath, Drivers.Gml);
+
+var options = new GmlOptions
+{
+    RestoreSchema = true,
+};
+
+using (var layer = VectorLayer.Open(destinationPath, Drivers.Gml, options))
+{
+    Console.WriteLine("Feature count: " + layer.Count);
+    Console.WriteLine("Attribute count: " + layer.Attributes.Count);
+
+    var geometry = (GeometryCollection)layer[0].Geometry;
+    Console.WriteLine("Geometry type: " + geometry.GeometryType);
+    Console.WriteLine("Geometry dimension: " + geometry.Dimension);
+    Console.WriteLine("Geometry length: " + geometry.GetLength());
 }
 {{< /highlight >}}
