@@ -26,7 +26,7 @@ This page contains release notes information for Aspose.Email for .NET 26.6
 | EMAILNET-41772 | Aspose.Email recognized some regular attachments as linked resources. | Bug |
 | EMAILNET-41769 | iCalendar read error | Bug |
 | EMAILNET-41764 | VCardPhotoType.PNG does not exist | Bug |
-| EMAILNET-41754 | Error moving emails between folders using Microsoft Graph | Investigation |
+| EMAILNET-41754 | Error moving emails between folders using Microsoft Graph | Bug |
 
 ## New Features
 
