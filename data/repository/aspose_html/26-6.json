@@ -11,6 +11,22 @@
     "classifier" : "javadoc"
   }, {
     "size" : "34 MB",
+    "name" : "aspose-html-26.6-jdk1.8.jar",
+    "classifier" : "jdk1.8"
+  }, {
+    "size" : "34 MB",
+    "name" : "aspose-html-26.6-jdk11.jar",
+    "classifier" : "jdk11"
+  }, {
+    "size" : "34 MB",
+    "name" : "aspose-html-26.6-jdk17.jar",
+    "classifier" : "jdk17"
+  }, {
+    "size" : "34 MB",
+    "name" : "aspose-html-26.6-jdk8.jar",
+    "classifier" : "jdk8"
+  }, {
+    "size" : "34 MB",
     "name" : "aspose-html-26.6.jar"
   }, {
     "size" : "394 bytes",
