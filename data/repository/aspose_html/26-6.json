@@ -10,8 +10,14 @@
     "name" : "aspose-html-26.6-javadoc.jar",
     "classifier" : "javadoc"
   }, {
+    "size" : "34 MB",
+    "name" : "aspose-html-26.6.jar"
+  }, {
     "size" : "394 bytes",
     "name" : "aspose-html-26.6.pom"
+  }, {
+    "size" : "212 MB",
+    "name" : "aspose-html-26.6.zip"
   } ],
   "releasehDate" : "2026-06-30T15:12:42+00:00",
   "version" : "26.6",
