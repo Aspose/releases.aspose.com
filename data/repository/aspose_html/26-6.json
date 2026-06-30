@@ -3,6 +3,9 @@
   "artifactId" : "aspose-html",
   "id" : "26-6",
   "packageFiles" : [ {
+    "size" : "4 KB",
+    "name" : "aspose-html-26.6-bom.pom"
+  }, {
     "size" : "2 MB",
     "name" : "aspose-html-26.6-javadoc.jar",
     "classifier" : "javadoc"
@@ -10,7 +13,7 @@
     "size" : "394 bytes",
     "name" : "aspose-html-26.6.pom"
   } ],
-  "releasehDate" : "2026-06-30T15:08:38+00:00",
+  "releasehDate" : "2026-06-30T15:12:42+00:00",
   "version" : "26.6",
   "ReleaseNotes" : "https://releases.aspose.com/html/java/release-notes/2026/aspose-html-for-java-26-6-release-notes/"
 }
