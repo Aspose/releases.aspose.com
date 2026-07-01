@@ -23,14 +23,14 @@ This page contains release notes information for Aspose.PDF for Java 26.6.
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|PDFJAVA-45596|Symbols not rendered correctly after converting PDF to PPTX|
-|PDFJAVA-45312|Issue with the conversion PDF => PDF/A_2B of a particular PDF file|
-|PDFJAVA-35488|PDF to HTML: throws OutOfMemory Exception|
-|PDFJAVA-45985|Encrypt PDF version 2.0 error|
-|PDFJAVA-37692|PDF to SVG - the text characters are overlapping|
-|PDFJAVA-36335|PDF document conversion to JPEG hangs forever|
-|PDFJAVA-35863|XPS to PDF: incorrect Z-index of image|
-|PDFJAVA-35664|PDF to PNG conversion throws OutOfMemoryError|
+|PDFJAVA-45596|Symbols not rendered correctly after converting PDF to PPTX|Bug|
+|PDFJAVA-45312|Issue with the conversion PDF => PDF/A_2B of a particular PDF file|Bug|
+|PDFJAVA-35488|PDF to HTML: throws OutOfMemory Exception|Bug|
+|PDFJAVA-45985|Encrypt PDF version 2.0 error|Bug|
+|PDFJAVA-37692|PDF to SVG - the text characters are overlapping|Bug|
+|PDFJAVA-36335|PDF document conversion to JPEG hangs forever|Bug|
+|PDFJAVA-35863|XPS to PDF: incorrect Z-index of image|Bug|
+|PDFJAVA-35664|PDF to PNG conversion throws OutOfMemoryError|Bug|
 
 ## Public API and Backward Incompatible Changes
 
