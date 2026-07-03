@@ -6,12 +6,12 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-26.7/"
 folder_name: "Aspose.Slides untuk Reporting Services 26.7"
-download_link: "/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-26.7/8645512d6d028f9372c89d2a7c9f5940-7-15502"
+download_link: "/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-26.7/e716ebc4cf757f1026655d4625d56dc1-7-15502"
 download_text: "Unduh"
 intro_text: "Ini berisi Aspose.Slides untuk rilis Reporting Services 26.7."
-image_link: "/resources/img/zip-icon.png"
+image_link: "/resources/img/msi-icon.png"
 download_count: " 3/7/2026 Unduhs: 1  Views: 1 "
-file_size: "File Size: 33.83MB"
+file_size: "File Size: 30.91MB"
 parent_path: "slides/reportingservices"
 section_parent_path: "slides/reportingservices"
 
@@ -22,21 +22,21 @@ weight: 516
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Slides untuk Reporting Services 26.7" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Slides untuk Reporting Services 26.7" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Unduh" link="/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-26.7/8645512d6d028f9372c89d2a7c9f5940-7-15502" >}}
+    {{< Releases/ReleasesSingleButtons text="Unduh" link="/slides/reportingservices/new-releases/aspose.slides-for-reporting-services-26.7/e716ebc4cf757f1026655d4625d56dc1-7-15502" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/slides" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detail File">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Unduhs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-8645512d6d028f9372c89d2a7c9f5940-7-15502" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-e716ebc4cf757f1026655d4625d56dc1-7-15502" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Ukuran file: {{< /Common/li >}}
-      {{< Common/li id="size-update-8645512d6d028f9372c89d2a7c9f5940-7-15502" >}} 33.83MB {{< /Common/li >}}
+      {{< Common/li id="size-update-e716ebc4cf757f1026655d4625d56dc1-7-15502" >}} 30.91MB {{< /Common/li >}}
 
       {{< Common/li >}} Tanggal Ditambahkan: {{< /Common/li >}}
-      {{< Common/li id="added-update-8645512d6d028f9372c89d2a7c9f5940-7-15502" >}}3/7/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-e716ebc4cf757f1026655d4625d56dc1-7-15502" >}}3/7/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
