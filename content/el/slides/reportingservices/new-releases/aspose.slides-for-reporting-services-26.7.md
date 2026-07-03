@@ -10,7 +10,7 @@ download_link: "/slides/reportingservices/new-releases/aspose.slides-for-reporti
 download_text: "Κατεβάστε"
 intro_text: "Περιέχει την έκδοση 26.7 του Aspose.Slides for Reporting Services."
 image_link: "/resources/img/msi-icon.png"
-download_count: " 3/7/2026 Κατεβάστεs: 1  Views: 1 "
+download_count: " 3/7/2026 Κατεβάστεs: 2  Views: 1 "
 file_size: "File Size: 30.91MB"
 parent_path: "slides/reportingservices"
 section_parent_path: "slides/reportingservices"
@@ -31,7 +31,7 @@ weight: 516
     {{< Releases/ReleasesHeading h4txt="Λεπτομέρειες αρχείου">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Κατεβάστεs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-e716ebc4cf757f1026655d4625d56dc1-7-15502" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-e716ebc4cf757f1026655d4625d56dc1-7-15502" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} Μέγεθος αρχείου: {{< /Common/li >}}
       {{< Common/li id="size-update-e716ebc4cf757f1026655d4625d56dc1-7-15502" >}} 30.91MB {{< /Common/li >}}
 
