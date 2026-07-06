@@ -32,7 +32,7 @@ This page contains release notes for [Aspose.Slides for Python via .NET 26.7](ht
 
 ### Added New Class: AsposeAIWebClient
 
-The [`AsposeAIWebClient`](https://reference.aspose.com/slides/python-net/aspose.slides.ai/asposeaiwebclient/) class has been added as the built-in `IAIWebClient` implementation that connects to Aspose's own LLM.
+The [`AsposeAIWebClient`](https://reference.aspose.com/slides/python-net/aspose.slides.ai/asposeaiwebclient/) class has been added as the built-in [`IAIWebClient`](https://reference.aspose.com/slides/python-net/aspose.slides.ai/iaiwebclient/) implementation that connects to Aspose's own LLM.
 
 **Usage examples**:
 
