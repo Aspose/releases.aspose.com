@@ -10,7 +10,7 @@ download_link: "/email/net/new-releases/aspose.email-for-.net-26.5/b1bc6e03a9e54
 download_text: "ダウンロード"
 intro_text: "これには、Aspose.Email for .NET 26.5 (MSI) リリースが含まれています。"
 image_link: "/resources/img/msi-icon.png"
-download_count: " 31/5/2026 ダウンロードs: 1  Views: 1 "
+download_count: " 31/5/2026 ダウンロードs: 14  Views: 1 "
 file_size: "File Size: 46.64MB"
 parent_path: "email/net"
 section_parent_path: "email/net"
@@ -31,7 +31,7 @@ weight: 642
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} ダウンロードs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-b1bc6e03a9e547ddde27351b5cab74dc-10-15342" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-b1bc6e03a9e547ddde27351b5cab74dc-10-15342" >}} 14 {{< /Common/li >}}
       {{< Common/li >}} ファイルサイズ: {{< /Common/li >}}
       {{< Common/li id="size-update-b1bc6e03a9e547ddde27351b5cab74dc-10-15342" >}} 46.64MB {{< /Common/li >}}
 
