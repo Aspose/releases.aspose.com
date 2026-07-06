@@ -62,7 +62,7 @@ with slides.ai.AsposeAIWebClient(custom_url) as ai_client:
 
 ### Added New Class: OpenAICompatibleWebClient
 
-The [`OpenAICompatibleWebClient`](https://reference.aspose.com/slides/python-net/aspose.slides.ai/openaicompatiblewebclient/) class has beem added as a built-in `IAIWebClient` implementation that connects to an OpenAI-compatible LLM provider.
+The [`OpenAICompatibleWebClient`](https://reference.aspose.com/slides/python-net/aspose.slides.ai/openaicompatiblewebclient/) class has beem added as a built-in [`IAIWebClient`](https://reference.aspose.com/slides/python-net/aspose.slides.ai/iaiwebclient/) implementation that connects to an OpenAI-compatible LLM provider.
 
 **Usage example**:
 
