@@ -15,6 +15,7 @@ committed_by: "Eugene.Shashkov@aspose.com"
 ---
 
 ![Security Rating](https://img.shields.io/badge/Security%20Rating-A-brightgreen?style=flat-square&logo=verizon)
+![CWE Top 25](https://img.shields.io/badge/CWE%20Top%2025-2024-blue?style=flat-square&logo=checkmarx)
 ![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-2021-blue?style=flat-square&logo=openaccess)
 
 
@@ -28,6 +29,7 @@ committed_by: "Eugene.Shashkov@aspose.com"
 
 | Report | HTML | PDF |
 |--------|------|-----|
+| CWE Top 25 (2024) | - | {{< compliance-file relpath="/compliance-reports/zip/net/2026/26.7/aspose-zip-net-26.7-cwe-top-25-2024.pdf" text="View PDF" >}} |
 | OWASP Top 10 (2021) | - | {{< compliance-file relpath="/compliance-reports/zip/net/2026/26.7/aspose-zip-net-26.7-owasp-top-10-2021.pdf" text="View PDF" >}} |
 
 
