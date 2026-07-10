@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-26.7/"
 folder_name: "Aspose.Slides für Node.js über Java 26.7"
-download_link: "/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-26.7/505f59ca165cf2793b0da224f38d62db-6-15565"
+download_link: "/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-26.7/ff6e808efb8d444680cc3534e5e169c5-6-15565"
 download_text: "Download"
 intro_text: "Es enthält Aspose.Slides für Node.js über die Java-Version 26.7."
 image_link: "/resources/img/zip-icon.png"
@@ -24,19 +24,19 @@ weight: 36
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Slides für Node.js über Java 26.7" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-26.7/505f59ca165cf2793b0da224f38d62db-6-15565" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/slides/nodejs-java/new-releases/aspose.slides-for-node.js-via-java-26.7/ff6e808efb8d444680cc3534e5e169c5-6-15565" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/slides" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dateidetails">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-505f59ca165cf2793b0da224f38d62db-6-15565" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-ff6e808efb8d444680cc3534e5e169c5-6-15565" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Dateigröße: {{< /Common/li >}}
-      {{< Common/li id="size-update-505f59ca165cf2793b0da224f38d62db-6-15565" >}} 27.83MB {{< /Common/li >}}
+      {{< Common/li id="size-update-ff6e808efb8d444680cc3534e5e169c5-6-15565" >}} 27.83MB {{< /Common/li >}}
 
       {{< Common/li >}} Datum hinzugefügt: {{< /Common/li >}}
-      {{< Common/li id="added-update-505f59ca165cf2793b0da224f38d62db-6-15565" >}}10/7/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-ff6e808efb8d444680cc3534e5e169c5-6-15565" >}}10/7/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
