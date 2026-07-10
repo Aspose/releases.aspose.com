@@ -218,7 +218,7 @@ void SetRefreshOption(const PivotTableRefreshOption& value)
 
 {{% /alert %}}
 
-### **Adds onew method in Slicer class.**
+### **Adds one method in Slicer class.**
 
 Unselects the specified items in the slicer.
 
