@@ -38,15 +38,17 @@ This page contains release notes information for [Aspose.Tasks for .Net 26.7](ht
 | :- | :- |
 | Aspose.Tasks.Connectivity.DbSettings.ProviderFactory | Gets or sets an instance of DbProviderFactory which is used to connect to DB. If both ProviderFactory and ProviderInvariantName are set, ProviderFactory has a priority. |
 
+
 **Related issue: TASKSNET-11767 - Allow passing an instance of DbProviderFactory instead of ProviderInvariantName when using DbSettings**
 
 When reading a project from a database, the database provider can now be specified by setting DbSettings.ProviderFactory property:
 
 ```cs
-PrimaveraDbSettings settings = new PrimaveraDbSettings(string.Format("Data Source=test.db", fileName), 1);
+PrimaveraDbSettings settings = new PrimaveraDbSettings("Data Source=test.db", 1);
 settings.ProviderFactory = SqliteFactory.Instance; // Here SqliteFactory from Microsoft.Data.Sqlite package is used.
 var p = new Project(settings);
 ```
+
 
 **Related issue: TASKSNET-11584 - Fix incorrect (multiplied by 100) values in baseline cost timephased data**
 
