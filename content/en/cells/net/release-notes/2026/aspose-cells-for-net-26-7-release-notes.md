@@ -23,7 +23,11 @@ This page contains release notes for [Aspose.Cells for .NET 26.7](https://www.nu
 |CELLSNET-41627|Support converting HTML Table into Excel|New Feature
 |CELLSNET-55544|Support copying chart to word file|New Feature
 |CELLSNET-59679|Support filter of timeline|New Feature
+|CELLSGRIDJS-2574|Support font substitution for GridJs|New Feature
 |CELLSGRIDJS-2575|IWarningCallback does not trigger|New Feature
+|CELLSGRIDJS-2521|chart and shape add  name value in JSON output|New Feature
+|CELLSGRIDJS-2522|Add a draggable zoom progress bar at the bottom.|New Feature
+|CELLSGRIDJS-2529|Add support for text extraction and filtering.|New Feature
 |CELLSNET-59979|Update table formula when deleting columns|Enhancement
 |CELLSNET-60339|Update formulas in other sheets automatically by default when insert/delete rows/columns in one sheet|Enhancement
 |CELLSNET-60293|Support parsing text-transform:capitalize when importing HTML|Enhancement
@@ -31,6 +35,9 @@ This page contains release notes for [Aspose.Cells for .NET 26.7](https://www.nu
 |CELLSNET-49411|Only exporting the table’s borders to docx when pagestupe.PrintGridLines is true.|Enhancement
 |CELLSNET-59676|Support selecting and unselecting item of slicer|Enhancement
 |CELLSNET-60306|Enhancement to get slicer items with Table source|Enhancement
+|CELLSGRIDJS-2591|Slow front-end loading and rendering of radio buttons in Column A|Enhancement
+|CELLSGRIDJS-2542|Data bars obscure cell content after parsing/rendering|Enhancement
+|CELLSGRIDJS-2576|Column and bar chart spacing metadata is missing from backend JSON|Enhancement
 |CELLSNET-60349|TextBox AutoSize and FitToTextSize fail to resize dimensions correctly|Bug
 |CELLSNET-60289|Incorrect cell number formatting for accounting format in de-de culture on Cell.StringValue|Bug
 |CELLSNET-60310|REDUCE was calculated incorrectly when using LET-bound LAMBDA function|Bug
@@ -56,7 +63,26 @@ This page contains release notes for [Aspose.Cells for .NET 26.7](https://www.nu
 |CELLSNET-60364|Merging Cells is not allowed within Table.|Bug
 |CELLSNET-60371|Structured references shift to neighboring columns instead of #REF! on Cells.DeleteColumn() method|Bug
 |CELLSNET-60370|Bug inside latest version 25.8 when using range (_CellsSmartMarkers)|Bug
+|CELLSGRIDJS-2563|Background color lost when converting shape to image|Bug
 |CELLSNET-60366|PivotTable value filters not reapplied after ChangeDataSource and CalculateData methods|Bug
+|CELLSGRIDJS-2544|Investigate the issue that receiving 2 different behaviours for burn-in redactionCoordinate scenario|Bug
+|CELLSGRIDJS-2552|TypeError Spreadsheet is not a constructor raised when use npm import|Bug
+|CELLSGRIDJS-2553|Font size not preserved for redaction reason during update|Bug
+|CELLSGRIDJS-2558|On double-click, the burnt redaction color changes to white and reappears when clicking elsewhere.|Bug
+|CELLSGRIDJS-2559|Content in the excel file is hidden when clicked on in the native viewer - RCA, Shapes are overlapping|Bug
+|CELLSGRIDJS-2560|Transparent view is not working|Bug
+|CELLSGRIDJS-2561|Burnt in excel files does not display the applied redaction colors|Bug
+|CELLSGRIDJS-2571|Incorrect redaction placement|Bug
+|CELLSGRIDJS-2564|PivotChart ToImage does not render chart|Bug
+|CELLSGRIDJS-2556|Fail to show pivot tables chart|Bug
+|CELLSGRIDJS-2557|Scroll bars disappear after applying freeze panes at long row cell|Bug
+|CELLSGRIDJS-2570|Charts not rendering full data in viewer causing layout shift|Bug
+|CELLSGRIDJS-2577|Clustered and stacked column/bar series render with incorrect width and gaps|Bug
+|CELLSGRIDJS-2578|Stacked column data labels and value axis range do not match Excel|Bug
+|CELLSGRIDJS-2579|Percentage chart data labels and value axis display decimal values instead of percentages|Bug
+|CELLSGRIDJS-2580|Chart series names are missing when values use external workbook-style ranges|Bug
+|CELLSGRIDJS-2581|Value axis labels are clipped in narrow charts|Bug
+|CELLSGRIDJS-2582|Threaded comment tooltip becomes too large for long comments|Bug
 
 ## **Public API and Backwards Incompatible Changes**
 
@@ -153,4 +179,14 @@ Selects a date time range on the timeline with an optional calculation flag.
 ### **Adds new property WorksheetCollection.PivotCaches.**
 
 Provides access to the collection of PivotCache objects in the worksheet collection.
+
+### **Adds new method GridJsService.Dispose() in GridJs.**
+
+Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
+
+### **Adds new method GridJsService.SetWarningCallback(IWarningCallback ) in GridJs.**
+
+Sets custom warning callback for file import.
+
+ 
 
