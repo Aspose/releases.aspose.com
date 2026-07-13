@@ -32,6 +32,7 @@ There are 54 improvements and fixes in this regular monthly release. The most no
 
 - **Readability Statistics:** Added a feature to calculate document text [Flesch reading scores](https://reference.aspose.com/words/net/aspose.words/readabilitystatistics/).
 - **Lists:** Added a [public method](https://reference.aspose.com/words/net/aspose.words.lists/listlevel/removetabstop/) to clear a list level tab stop.
+- **Layout:** Multiple improvements in repeated table header rows handling.
 - **Rendering:** Added handling of textbox inner shape alt text during rendering.
 - **Export PDF:** Implemented the export of numbering fields to PDF AcroForms during rendering.
 - **Export PDF:** Implemented link annotation joining for tagged output when rendering PDFs.
