@@ -188,5 +188,63 @@ Performs application-defined tasks associated with freeing, releasing, or resett
 
 Sets custom warning callback for file import.
 
- 
+### **Obsoletes ArcShape.BeginArrowheadStyle property.**
+
+Use Shape.Line.BeginArrowheadStyle property instead.
+
+### **Obsoletes ArcShape.BeginArrowheadWidth property.**
+
+Use Shape.Line.BeginArrowheadWidth property instead.
+
+### **Obsoletes ArcShape.BeginArrowheadLength property.**
+
+Use Shape.Line.BeginArrowheadLength property instead.
+
+### **Obsoletes ArcShape.EndArrowheadStyle property.**
+
+Use Shape.Line.EndArrowheadStyle property instead.
+
+### **Obsoletes ArcShape.EndArrowheadWidth property.**
+
+Use Shape.Line.EndArrowheadWidth property instead.
+
+### **Obsoletes ArcShape.EndArrowheadLength property.**
+
+Use Shape.Line.EndArrowheadLength property instead.
+
+### **Obsoletes LineShape.BeginArrowheadStyle property.**
+
+Use Shape.Line.BeginArrowheadStyle property instead.
+
+### **Obsoletes LineShape.BeginArrowheadWidth property.**
+
+Use Shape.Line.BeginArrowheadWidth property instead.
+
+### **Obsoletes LineShape.BeginArrowheadLength property.**
+
+Use Shape.Line.BeginArrowheadLength property instead.
+
+### **Obsoletes LineShape.EndArrowheadStyle property.**
+
+Use Shape.Line.EndArrowheadStyle property instead.
+
+### **Obsoletes LineShape.EndArrowheadWidth property.**
+
+Use Shape.Line.EndArrowheadWidth property instead.
+
+### **Obsoletes LineShape.EndArrowheadLength property.**
+
+Use Shape.Line.EndArrowheadLength property instead.
+
+### **Obsoletes Comment.GetCharacters() method.**
+
+Use Comment.GetRichFormattings() method instead.
+
+### **Obsoletes CheckBox.CheckValue property.**
+
+Use CheckBox.CheckValueType property instead.
+
+### **Obsoletes OleObject.SourceFullName property.**
+
+Use OleObject.ObjectSourceFullName property instead.
 
