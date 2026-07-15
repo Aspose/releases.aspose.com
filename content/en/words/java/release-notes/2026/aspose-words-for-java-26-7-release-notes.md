@@ -142,7 +142,7 @@ public double ReadabilityStatistics.FleschKincaidGradeLevel {get; }
 {{< /highlight >}}
 
 This use case explains how to calculate text readability statistics and scores in a word document:
-{{< gist "aspose-words-gists" "1e92948c24f1db379b293ab9f71558ab" "readability-statistics-flesch-scores.cs" >}}
+{{< gist "aspose-words-gists" "f99d87e10ab87a581c52206321d8b617" "readability-statistics-flesch-scores.java" >}}
 
 ### Added public method to clear list level tab stop
 
@@ -157,4 +157,4 @@ public void RemoveTabStop()
 {{< /highlight >}}
 
 This use case explains how to remove a custom tab stop from a list level in a word document:
-{{< gist "aspose-words-gists" "1e92948c24f1db379b293ab9f71558ab" "remove-tab-stop-from-list-level.cs" >}}
+{{< gist "aspose-words-gists" "f99d87e10ab87a581c52206321d8b617" "remove-tab-stop-from-list-level.java" >}}
