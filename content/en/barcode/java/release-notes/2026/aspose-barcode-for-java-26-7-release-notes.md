@@ -80,7 +80,7 @@ public void example2() throws IOException {
 
 The **com.aspose.barcode.generation.QrExtCodetextBuilder** class has been extended with support for explicit QR compaction mode selection through the **QrExtCompactionMode** enumeration.
 
-Added enum **QrExtCompactionMode**.
+Added enum **com.aspose.barcode.generation.QrExtCompactionMode**.
 
 Supported compaction modes:
 
@@ -128,7 +128,7 @@ The **BYTES** compaction mode can also be used to encode the entire codetext in 
 
 ```java
 public void example4() throws IOException {
-    QrExtCodetextBuilder textBuilder = new QrExtCodetextBuilder();
+    QrExtCodetextBuilder textBuilder = new QrExtCodetextBuilder();[BuildVersionInfo.class](../../../../../../../../../Release/2026/26.7/Java/lib/com/aspose/barcode/BuildVersionInfo.class)
     // Force the entire codetext to be encoded in QR Byte mode.
     textBuilder.addCodetextWithCompactionMode(QrExtCompactionMode.BYTES, "1234567890ASPOSE2026aspose2026");
     String codetext = textBuilder.getExtendedCodetext();
