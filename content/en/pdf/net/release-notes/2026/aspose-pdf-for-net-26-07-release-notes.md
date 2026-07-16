@@ -28,7 +28,7 @@ This page contains release notes information for Aspose.PDF for .NET 26.7.
 
 Aspose.PDF for .NET 26.7 enhances 'SideBySidePdfComparer' by returning comparison results from both document and page comparison methods. The 'Compare' methods now return 'SideBySideDocsComparisonResult' or 'SideBySidePagesComparisonResult', allowing you to determine whether differences were found using 'HasChanges' and inspect detailed changes through 'FirstDocChanges', 'SecondDocChanges', and 'FullChanges'.
 
-The comparison methods also have overloads that write the visual comparison result to a `Stream` instead of a file path. These enhancements address `PDFNET-62001`, `PDFNET-62285`, and `PDFNET-62002`.
+The comparison methods also include overloads that write the visual comparison result to a 'Stream' rather than to a file path. These enhancements address 'PDFNET-62001', 'PDFNET-62285', and ' PDFNET-62002 '.
 
 The return type of the existing `Compare` overloads that accept an output file path has changed from `void`. This is a public API change; applications compiled against earlier releases should be recompiled when upgrading to 26.7.
 
