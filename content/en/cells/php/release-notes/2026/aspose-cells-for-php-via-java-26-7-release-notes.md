@@ -221,3 +221,63 @@ Selects a date time range on the timeline with an optional calculation flag.
 ### **Adds new property WorksheetCollection.PivotCaches.**
 
 Provides access to the collection of PivotCache objects in the worksheet collection.
+
+### **Removes ArcShape.BeginArrowheadStyle property.**
+
+Use Shape.Line.BeginArrowheadStyle property instead.
+
+### **Removes ArcShape.BeginArrowheadWidth property.**
+
+Use Shape.Line.BeginArrowheadWidth property instead.
+
+### **Removes ArcShape.BeginArrowheadLength property.**
+
+Use Shape.Line.BeginArrowheadLength property instead.
+
+### **Removes ArcShape.EndArrowheadStyle property.**
+
+Use Shape.Line.EndArrowheadStyle property instead.
+
+### **Removes ArcShape.EndArrowheadWidth property.**
+
+Use Shape.Line.EndArrowheadWidth property instead.
+
+### **Removes ArcShape.EndArrowheadLength property.**
+
+Use Shape.Line.EndArrowheadLength property instead.
+
+### **Removes LineShape.BeginArrowheadStyle property.**
+
+Use Shape.Line.BeginArrowheadStyle property instead.
+
+### **Removes LineShape.BeginArrowheadWidth property.**
+
+Use Shape.Line.BeginArrowheadWidth property instead.
+
+### **Removes LineShape.BeginArrowheadLength property.**
+
+Use Shape.Line.BeginArrowheadLength property instead.
+
+### **Removes LineShape.EndArrowheadStyle property.**
+
+Use Shape.Line.EndArrowheadStyle property instead.
+
+### **Removes LineShape.EndArrowheadWidth property.**
+
+Use Shape.Line.EndArrowheadWidth property instead.
+
+### **Removes LineShape.EndArrowheadLength property.**
+
+Use Shape.Line.EndArrowheadLength property instead.
+
+### **Removes Comment.GetCharacters() method.**
+
+Use Comment.GetRichFormattings() method instead.
+
+### **Removes CheckBox.CheckValue property.**
+
+Use CheckBox.CheckValueType property instead.
+
+### **Removes OleObject.SourceFullName property.**
+
+Use OleObject.ObjectSourceFullName property instead.
