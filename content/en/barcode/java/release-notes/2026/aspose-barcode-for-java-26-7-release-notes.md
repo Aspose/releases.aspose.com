@@ -49,9 +49,14 @@ public void example1() throws IOException {
 
 ### New EncodeGS1SeparatorInByteMode option
 
-Added **EncodeGS1SeparatorInByteMode** option to the QR encoder for the **GS1QR** symbology.
-Added methods **setEncodeGS1SeparatorInByteMode(boolean)** and **getEncodeGS1SeparatorInByteMode():boolean** to class
-**com.aspose.barcode.generation.renderers.barcoderenderers.encoders.parameters.QrEncoderParameters**.
+Added the **EncodeGS1SeparatorInByteMode** option to the QR encoder for the **GS_1_QR** symbology.
+
+Added methods:
+
+- **setEncodeGS1SeparatorInByteMode(boolean value)**
+- **getEncodeGS1SeparatorInByteMode()**
+
+to the **com.aspose.barcode.generation.renderers.barcoderenderers.encoders.parameters.QrEncoderParameters** class.
 
 When enabled, GS1 group separators and the **%** character are encoded in Byte mode instead of using the QR Alphanumeric representation. This option improves compatibility with legacy barcode decoders that expect the GS1 group separator to be encoded as the **0x1D** byte.
 
@@ -71,22 +76,21 @@ public void example2() throws IOException {
 }
 ```
 
-### New compaction modes support in QrExtCodetextBuilder
+### New compaction mode support in QrExtCodetextBuilder
 
-The **com.aspose.barcode.generation.QrExtCodetextBuilder** class has been extended with support 
-for explicit QR compaction mode selection through the **QrExtCompactionMode** enumeration.
+The **com.aspose.barcode.generation.QrExtCodetextBuilder** class has been extended with support for explicit QR compaction mode selection through the **QrExtCompactionMode** enumeration.
 
-Added enum QrExtCompactionMode.
+Added enum **QrExtCompactionMode**.
+
 Supported compaction modes:
+
 - **AUTO** – automatically selects the most efficient QR compaction mode.
 - **NUMERIC** – encodes codetext in QR Numeric mode (digits **0-9** only).
 - **ALPHA_NUMERIC** – encodes codetext in QR Alphanumeric mode.
 - **BYTES** – encodes codetext in QR Byte mode.
 - **KANJI** – encodes codetext in QR Kanji mode.
 
-Added method **getCompactionModeSelector(QrExtCompactionMode mode):String** to com.aspose.barcode.generation.QrExtCodetextBuilder.
-
-This feature allows manual control over the compaction mode of individual codetext fragments when generating QR barcodes in **QREncodeMode.Extended**.
+This feature allows manual control over the compaction mode of individual codetext fragments when generating QR barcodes in **QREncodeMode.EXTENDED**.
 
 ```java
 public void example3() throws IOException {
@@ -147,6 +151,7 @@ public void example4() throws IOException {
 The **QREncodeMode.EXTENDED** encoding mode has been extended with support for explicit QR compaction mode selectors.
 
 Supported compaction mode selectors:
+
 - **\auto** – automatically selects the most efficient QR compaction mode.
 - **\num** – encodes subsequent codetext in QR Numeric mode.
 - **\alnum** – encodes subsequent codetext in QR Alphanumeric mode.
@@ -174,9 +179,10 @@ public void example5() throws IOException {
 ```
 
 The **\byte** selector can be used to encode the entire codetext in QR Byte mode:
+
 ```java
 public void example6() throws IOException {
-    // string literals, '\' must be escaped as "\\".
+    // String literals, '\' must be escaped as "\\".
     String codetext = "\\byte1234567890ASPOSE2026aspose2026";
 
     BarcodeGenerator gen = new BarcodeGenerator(EncodeTypes.QR, codetext);
