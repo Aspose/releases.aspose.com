@@ -30,7 +30,7 @@ Aspose.PDF for .NET 26.7 enhances 'SideBySidePdfComparer' by returning compariso
 
 The comparison methods also include overloads that write the visual comparison result to a 'Stream' rather than to a file path. These enhancements address 'PDFNET-62001', 'PDFNET-62285', and ' PDFNET-62002 '.
 
-The return type of the existing `Compare` overloads that accept an output file path has changed from `void`. This is a public API change; applications compiled against earlier releases should be recompiled when upgrading to 26.7.
+The return type of the existing 'Compare' overloads that accept an output file path has changed from 'void' to SideBySideDocsComparisonResult. This is a public API change; applications compiled against earlier releases should be recompiled when upgrading to version 26.7.
 
 The following example compares two documents, saves the visual comparison result to a stream, and checks whether changes were detected:
 
