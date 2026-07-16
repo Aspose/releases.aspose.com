@@ -42,7 +42,7 @@ public void example1() throws IOException {
     for (BarCodeResult result : results)
     {
         System.out.println(result.getCodeTypeName());
-        System.out.println(result.getCodeText() );
+        System.out.println(result.getCodeText());
     }
 }
 ```
@@ -57,7 +57,8 @@ When enabled, GS1 group separators and the **%** character are encoded in Byte m
 
 ```java
 public void example2() throws IOException {
-    BarcodeGenerator gen = new BarcodeGenerator(EncodeTypes.GS_1_QR, "(10)ASPOSE2001(10)ASPOSE2026");
+    BarcodeGenerator gen = new BarcodeGenerator(EncodeTypes.GS_1_QR, "(10)ASPOSE2001(21)ASPOSE2026");
+    // Encode the GS1 separator in QR Byte mode.
     gen.getParameters().getBarcode().getQR().setEncodeGS1SeparatorInByteMode(true);
     gen.save(folder + "example2.png");
     BarCodeReader reader = new BarCodeReader(folder + "example2.png", DecodeType.GS_1_QR);
@@ -65,7 +66,7 @@ public void example2() throws IOException {
     for (BarCodeResult result : results)
     {
         System.out.println(result.getCodeTypeName());
-        System.out.println(result.getCodeText() );
+        System.out.println(result.getCodeText());
     }
 }
 ```
@@ -89,16 +90,21 @@ This feature allows manual control over the compaction mode of individual codete
 
 ```java
 public void example3() throws IOException {
-    // custom compaction mode support
+    // Build an extended QR codetext with explicitly selected compaction modes.
     QrExtCodetextBuilder textBuilder = new QrExtCodetextBuilder();
-    // encodes codetext in Numeric mode
+
+    // Encode the numeric fragment in QR Numeric mode.
     textBuilder.addCodetextWithCompactionMode(QrExtCompactionMode.NUMERIC, "1234567");
-    // encodes codetext in Alphanumeric mode
+
+    // Encode the uppercase fragment in QR Alphanumeric mode.
     textBuilder.addCodetextWithCompactionMode(QrExtCompactionMode.ALPHA_NUMERIC, "ASPOSE2026");
-    // encodes codetext in Byte mode
+
+    // Encode the lowercase fragment in QR Byte mode.
     textBuilder.addCodetextWithCompactionMode(QrExtCompactionMode.BYTES, "aspose2026");
-    // encodes codetext in Kanji mode
+
+    // Encode the Japanese fragment in QR Kanji mode.
     textBuilder.addCodetextWithCompactionMode(QrExtCompactionMode.KANJI, "ぢっつづてでとどな");
+
     String codetext = textBuilder.getExtendedCodetext();
 
     BarcodeGenerator gen = new BarcodeGenerator(EncodeTypes.QR, codetext);
@@ -109,7 +115,7 @@ public void example3() throws IOException {
     for (BarCodeResult result : results)
     {
         System.out.println(result.getCodeTypeName());
-        System.out.println(result.getCodeText() );
+        System.out.println(result.getCodeText());
     }
 }
 ```
@@ -119,8 +125,8 @@ The **BYTES** compaction mode can also be used to encode the entire codetext in 
 ```java
 public void example4() throws IOException {
     QrExtCodetextBuilder textBuilder = new QrExtCodetextBuilder();
-    // encodes the entire codetext in Byte mode
-    textBuilder.addCodetextWithCompactionMode(QrExtCompactionMode.BYTES, "1234567890");
+    // Force the entire codetext to be encoded in QR Byte mode.
+    textBuilder.addCodetextWithCompactionMode(QrExtCompactionMode.BYTES, "1234567890ASPOSE2026aspose2026");
     String codetext = textBuilder.getExtendedCodetext();
 
     BarcodeGenerator gen = new BarcodeGenerator(EncodeTypes.QR, codetext);
@@ -131,7 +137,7 @@ public void example4() throws IOException {
     for (BarCodeResult result : results)
     {
         System.out.println(result.getCodeTypeName());
-        System.out.println(result.getCodeText() );
+        System.out.println(result.getCodeText());
     }
 }
 ```
@@ -150,28 +156,38 @@ Supported compaction mode selectors:
 This feature allows manual control over the compaction mode of individual codetext fragments.
 
 ```java
-// custom compaction mode support
-// switch back to automatic compaction mode
-string codetext = @"\num1234567890\alnumASPOSE2026\byteaspose2026\kanjiぢっつづてでとどな\auto";
+public void example5() throws IOException {
+    // Use explicit QR compaction mode selectors and then switch back to automatic mode.
+    String codetext = "\\num1234567890\\alnumASPOSE2026\\byteaspose2026\\kanjiぢっつづてでとどな\\auto123ABCabc";
 
-BarcodeGenerator gen = new BarcodeGenerator(EncodeTypes.QR, codetext);
-gen.Parameters.Barcode.QR.EncodeMode = QREncodeMode.Extended;
-gen.Save("test.png");
-
-using (BarCodeReader reader = new BarCodeReader("test.png", DecodeType.QR))
-    foreach (BarCodeResult result in reader.ReadBarCodes())
-        Console.WriteLine("BarCode CodeText: " + result.CodeText);
+    BarcodeGenerator gen = new BarcodeGenerator(EncodeTypes.QR, codetext);
+    gen.getParameters().getBarcode().getQR().setEncodeMode(QREncodeMode.EXTENDED);
+    gen.save(folder + "example5.png");
+    BarCodeReader reader = new BarCodeReader(folder + "example5.png", DecodeType.QR);
+    BarCodeResult[] results = reader.readBarCodes();
+    for (BarCodeResult result : results)
+    {
+        System.out.println(result.getCodeTypeName());
+        System.out.println(result.getCodeText());
+    }
+}
 ```
 
 The **\byte** selector can be used to encode the entire codetext in QR Byte mode:
 ```java
-string codetext = @"\byte1234567890ASPOSE2026aspose2026";
+public void example6() throws IOException {
+    // string literals, '\' must be escaped as "\\".
+    String codetext = "\\byte1234567890ASPOSE2026aspose2026";
 
-BarcodeGenerator gen = new BarcodeGenerator(EncodeTypes.QR, codetext);
-gen.Parameters.Barcode.QR.EncodeMode = QREncodeMode.Extended;
-gen.Save("test.png");
-
-using (BarCodeReader reader = new BarCodeReader("test.png", DecodeType.QR))
-    foreach (BarCodeResult result in reader.ReadBarCodes())
-        Console.WriteLine("BarCode CodeText: " + result.CodeText);
+    BarcodeGenerator gen = new BarcodeGenerator(EncodeTypes.QR, codetext);
+    gen.getParameters().getBarcode().getQR().setEncodeMode(QREncodeMode.EXTENDED);
+    gen.save(folder + "example6.png");
+    BarCodeReader reader = new BarCodeReader(folder + "example6.png", DecodeType.QR);
+    BarCodeResult[] results = reader.readBarCodes();
+    for (BarCodeResult result : results)
+    {
+        System.out.println(result.getCodeTypeName());
+        System.out.println(result.getCodeText());
+    }
+}
 ```
