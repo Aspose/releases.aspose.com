@@ -188,63 +188,63 @@ Performs application-defined tasks associated with freeing, releasing, or resett
 
 Sets custom warning callback for file import.
 
-### **Obsoletes ArcShape.BeginArrowheadStyle property.**
+### **Removes ArcShape.BeginArrowheadStyle property.**
 
 Use Shape.Line.BeginArrowheadStyle property instead.
 
-### **Obsoletes ArcShape.BeginArrowheadWidth property.**
+### **Removes ArcShape.BeginArrowheadWidth property.**
 
 Use Shape.Line.BeginArrowheadWidth property instead.
 
-### **Obsoletes ArcShape.BeginArrowheadLength property.**
+### **Removes ArcShape.BeginArrowheadLength property.**
 
 Use Shape.Line.BeginArrowheadLength property instead.
 
-### **Obsoletes ArcShape.EndArrowheadStyle property.**
+### **Removes ArcShape.EndArrowheadStyle property.**
 
 Use Shape.Line.EndArrowheadStyle property instead.
 
-### **Obsoletes ArcShape.EndArrowheadWidth property.**
+### **Removes ArcShape.EndArrowheadWidth property.**
 
 Use Shape.Line.EndArrowheadWidth property instead.
 
-### **Obsoletes ArcShape.EndArrowheadLength property.**
+### **Removes ArcShape.EndArrowheadLength property.**
 
 Use Shape.Line.EndArrowheadLength property instead.
 
-### **Obsoletes LineShape.BeginArrowheadStyle property.**
+### **Removes LineShape.BeginArrowheadStyle property.**
 
 Use Shape.Line.BeginArrowheadStyle property instead.
 
-### **Obsoletes LineShape.BeginArrowheadWidth property.**
+### **Removes LineShape.BeginArrowheadWidth property.**
 
 Use Shape.Line.BeginArrowheadWidth property instead.
 
-### **Obsoletes LineShape.BeginArrowheadLength property.**
+### **Removes LineShape.BeginArrowheadLength property.**
 
 Use Shape.Line.BeginArrowheadLength property instead.
 
-### **Obsoletes LineShape.EndArrowheadStyle property.**
+### **Removes LineShape.EndArrowheadStyle property.**
 
 Use Shape.Line.EndArrowheadStyle property instead.
 
-### **Obsoletes LineShape.EndArrowheadWidth property.**
+### **Removes LineShape.EndArrowheadWidth property.**
 
 Use Shape.Line.EndArrowheadWidth property instead.
 
-### **Obsoletes LineShape.EndArrowheadLength property.**
+### **Removes LineShape.EndArrowheadLength property.**
 
 Use Shape.Line.EndArrowheadLength property instead.
 
-### **Obsoletes Comment.GetCharacters() method.**
+### **Removes Comment.GetCharacters() method.**
 
 Use Comment.GetRichFormattings() method instead.
 
-### **Obsoletes CheckBox.CheckValue property.**
+### **Removes CheckBox.CheckValue property.**
 
 Use CheckBox.CheckValueType property instead.
 
-### **Obsoletes OleObject.SourceFullName property.**
+### **Removes OleObject.SourceFullName property.**
 
 Use OleObject.ObjectSourceFullName property instead.
 
