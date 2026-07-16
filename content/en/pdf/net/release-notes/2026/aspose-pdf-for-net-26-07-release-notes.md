@@ -70,7 +70,7 @@ private static void ComparePdfDocumentsToStream()
 
 Aspose.PDF for .NET 26.7 adds 'TryVerifySignature' methods to 'PdfFileSignature' and 'TryVerify' methods to 'Signature'. These methods avoid throwing exceptions during signature verification and instead return a 'VerificationResult' that reports the verification state, a message, whether the signature structure is compromised, and the original verification exception, when available. This enhancement addresses 'PDFNET-62322'.
 
-`TryVerifySignature` returns `true` when verification completed without a technical error. In that case, check `VerificationResult.State` to distinguish valid and invalid signatures. It returns `false` when verification encounters a technical error or the signature structure appears compromised.
+'TryVerifySignature' returns 'true' when verification completes without a technical error. In that case, check 'VerificationResult'.State to distinguish between valid and invalid signatures. It returns 'false' when verification encounters a technical error or when the signature structure appears compromised.
 
 ```csharp
 // For complete examples and data files, visit https://github.com/aspose-pdf/Aspose.PDF-for-.NET
