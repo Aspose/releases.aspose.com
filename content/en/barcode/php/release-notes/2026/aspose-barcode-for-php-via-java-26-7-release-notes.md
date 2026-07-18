@@ -116,23 +116,23 @@ This feature allows manual control over the compaction mode of individual codete
 The **BYTES** compaction mode can also be used to encode the entire codetext in QR Byte mode:
 
 ```php
-public void example4() throws IOException {
-    QrExtCodetextBuilder textBuilder = new QrExtCodetextBuilder();[BuildVersionInfo.class](../../../../../../../../../Release/2026/26.7/Java/lib/com/aspose/barcode/BuildVersionInfo.class)
-    // Force the entire codetext to be encoded in QR Byte mode.
-    textBuilder.addCodetextWithCompactionMode(QrExtCompactionMode.BYTES, "1234567890ASPOSE2026aspose2026");
-    String codetext = textBuilder.getExtendedCodetext();
+    $file_name = "example-4.png";
 
-    BarcodeGenerator gen = new BarcodeGenerator(EncodeTypes.QR, codetext);
-    gen.getParameters().getBarcode().getQR().setEncodeMode(QREncodeMode.EXTENDED);
-    gen.save(folder + "example4.png");
-    BarCodeReader reader = new BarCodeReader(folder + "example4.png", DecodeType.QR);
-    BarCodeResult[] results = reader.readBarCodes();
-    for (BarCodeResult result : results)
-    {
-        System.out.println(result.getCodeTypeName());
-        System.out.println(result.getCodeText());
+    $qrExtCodetextBuilder = new QrExtCodetextBuilder();
+   // Force the entire codetext to be encoded in QR Byte mode.
+    $qrExtCodetextBuilder->addCodetextWithCompactionMode(QrExtCompactionMode::BYTES, "1234567890ASPOSE2026aspose2026");
+    $codetext = $qrExtCodetextBuilder->getExtendedCodetext();
+
+    $generator = new BarcodeGenerator(EncodeTypes::QR, $codetext);
+    $generator->getParameters()->getBarcode()->getQR()->setEncodeMode(QREncodeMode::EXTENDED);
+    $generator->save(self::folder . $file_name, BarCodeImageFormat::PNG);
+
+    $reader = new BarCodeReader(self::folder . $file_name, null, DecodeType::QR);
+    $results = $reader->readBarCodes();
+    foreach ($results as $result) {
+        echo "BarCode CodeType: " . $result->getCodeTypeName() . "\n";
+        echo "BarCode CodeText: " . $result->getCodeText() . "\n";
     }
-}
 ```
 
 ### New compaction mode support in QREncodeMode.EXTENDED
@@ -150,39 +150,37 @@ Supported compaction mode selectors:
 This feature allows manual control over the compaction mode of individual codetext fragments.
 
 ```php
-public void example5() throws IOException {
+    $file_name = "example-5.png";
+    
     // Use explicit QR compaction mode selectors and then switch back to automatic mode.
-    String codetext = "\\num1234567890\\alnumASPOSE2026\\byteaspose2026\\kanjiぢっつづてでとどな\\auto123ABCabc";
-
-    BarcodeGenerator gen = new BarcodeGenerator(EncodeTypes.QR, codetext);
-    gen.getParameters().getBarcode().getQR().setEncodeMode(QREncodeMode.EXTENDED);
-    gen.save(folder + "example5.png");
-    BarCodeReader reader = new BarCodeReader(folder + "example5.png", DecodeType.QR);
-    BarCodeResult[] results = reader.readBarCodes();
-    for (BarCodeResult result : results)
-    {
-        System.out.println(result.getCodeTypeName());
-        System.out.println(result.getCodeText());
+    $codetext = "\\num1234567890\\alnumASPOSE2026\\byteaspose2026\\kanjiぢっつづてでとどな\\auto123ABCabc";
+    
+    $generator = new BarcodeGenerator(EncodeTypes::QR, $codetext);
+    $generator->getParameters()->getBarcode()->getQR()->setEncodeMode(QREncodeMode::EXTENDED);
+    $generator->save(self::folder . $file_name, BarCodeImageFormat::PNG);
+    
+    $reader = new BarCodeReader(self::folder . $file_name, null, DecodeType::QR);
+    $results = $reader->readBarCodes();
+    foreach ($results as $result) {
+        echo "BarCode CodeType: " . $result->getCodeTypeName() . "\n";
+        echo "BarCode CodeText: " . $result->getCodeText() . "\n";
     }
-}
 ```
 
 The **\byte** selector can be used to encode the entire codetext in QR Byte mode:
 
 ```php
-public void example6() throws IOException {
-    // String literals, '\' must be escaped as "\\".
-    String codetext = "\\byte1234567890ASPOSE2026aspose2026";
+$file_name = "example-6.png";
 
-    BarcodeGenerator gen = new BarcodeGenerator(EncodeTypes.QR, codetext);
-    gen.getParameters().getBarcode().getQR().setEncodeMode(QREncodeMode.EXTENDED);
-    gen.save(folder + "example6.png");
-    BarCodeReader reader = new BarCodeReader(folder + "example6.png", DecodeType.QR);
-    BarCodeResult[] results = reader.readBarCodes();
-    for (BarCodeResult result : results)
-    {
-        System.out.println(result.getCodeTypeName());
-        System.out.println(result.getCodeText());
-    }
+$codetext = "\\byte1234567890ASPOSE2026aspose2026";
+$generator = new BarcodeGenerator(EncodeTypes::QR, $codetext);
+$generator->getParameters()->getBarcode()->getQR()->setEncodeMode(QREncodeMode::EXTENDED);
+$generator->save(self::folder . $file_name, BarCodeImageFormat::PNG);
+
+$reader = new BarCodeReader(self::folder . $file_name, null, DecodeType::QR);
+$results = $reader->readBarCodes();
+foreach ($results as $result) {
+    echo "BarCode CodeType: " . $result->getCodeTypeName() . "\n";
+    echo "BarCode CodeText: " . $result->getCodeText() . "\n";
 }
 ```
