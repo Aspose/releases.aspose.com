@@ -128,7 +128,7 @@ The **BYTES** compaction mode can also be used to encode the entire codetext in 
 
 ```java
 public void example4() throws IOException {
-    QrExtCodetextBuilder textBuilder = new QrExtCodetextBuilder();[BuildVersionInfo.class](../../../../../../../../../Release/2026/26.7/Java/lib/com/aspose/barcode/BuildVersionInfo.class)
+    QrExtCodetextBuilder textBuilder = new QrExtCodetextBuilder();
     // Force the entire codetext to be encoded in QR Byte mode.
     textBuilder.addCodetextWithCompactionMode(QrExtCompactionMode.BYTES, "1234567890ASPOSE2026aspose2026");
     String codetext = textBuilder.getExtendedCodetext();
