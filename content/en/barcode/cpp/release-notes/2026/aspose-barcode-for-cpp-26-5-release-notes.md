@@ -12,7 +12,7 @@ toc: false
 family_listing_page_title: "Aspose.BarCode for Cpp 26.5 Release Notes"
 keywords:
 - "2026"
-- "April"
+- "May"
 
 menuItemWithNoContent: false
 ---
