@@ -31,11 +31,11 @@ committed_by: "sergey.kolodyazhnyy@aspose.com"
 
 ### Software Bill of Materials (SBOM)
 
-- {{< compliance-file relpath="/compliance-reports/page/net/2026/26.7/aspose-page-net-26.7_all_sboms.zip?t=1784623343" text="Download All SBOMs (ZIP)" download="true" >}} - 5.8 KB - *Last updated: July 21, 2026, 8:42 AM UTC*
+- {{< compliance-file relpath="/compliance-reports/page/net/2026/26.7/aspose-page-net-26.7_all_sboms.zip?t=1784623351" text="Download All SBOMs (ZIP)" download="true" >}} - 11.6 KB - *Last updated: July 21, 2026, 8:42 AM UTC*
 
 | Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
 |----------|----------------|---------------|-----------|----------|
-| .NET 4.0 | {{< compliance-file relpath="/compliance-reports/page/net/2026/26.7/aspose-page-net-26.7-net4.0_sbom-CycloneDX.json" text="View JSON" >}} | - | - | - |
+| .NET 4.0 | {{< compliance-file relpath="/compliance-reports/page/net/2026/26.7/aspose-page-net-26.7-net4.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/page/net/2026/26.7/aspose-page-net-26.7-net4.0_sbom-CycloneDX.xml" text="View XML" >}} | - | - |
 
 
 
