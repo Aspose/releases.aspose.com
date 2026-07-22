@@ -24,11 +24,15 @@ This page contains release notes for [Aspose.Slides for C++ 26.7](https://www.nu
 ## New Features and Enhancements
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
+|SLIDESNET-43224|DPI option for images in generated HTML5 document|Feature||
+|SLIDESNET-45420|Notes and comments are missing when saving a presentation as ODP|Enhancement|<https://docs.aspose.com/slides/net/convert-openoffice-odp/>|
 
 ## Other Improvements and Changes
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
-|SLIDESCPP-|Use Aspose.Slides for .NET 26.7 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2026/aspose-slides-for-net-26-7-release-notes/>|
+|SLIDESCPP-4076|Slide content is displayed incorrectly when converting PPTX to HTML5|Bug||
+|SLIDESCPP-4132|Incorrect positions are returned for shapes inside SmartArt when the SmartArt is placed in a group|Bug||
+|SLIDESCPP-4145|Use Aspose.Slides for .NET 26.7 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2026/aspose-slides-for-net-26-7-release-notes/>|
 
 ## Public API Changes
 
