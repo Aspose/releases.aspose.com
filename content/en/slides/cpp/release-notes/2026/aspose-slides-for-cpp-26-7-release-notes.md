@@ -40,11 +40,11 @@ This page contains release notes for [Aspose.Slides for C++ 26.7](https://www.nu
 
 The new `get_PicturesCompression()` and `set_PicturesCompression()` methods have been added to the `IHtml5Options` interface and implemented in the `Html5Options` class. These methods work in the same way as `IHtmlOptions::get_PicturesCompression()`/`set_PicturesCompression()`.
 
-Image compression is applied according to the image usage bounds in the exported document and the selected DPI. For example, suppose there is an image on a slide with an original size of 1000x1000 pixels, and the image is scaled to 100x100 pixels on the slide. If `PicturesCompression` is set to `PicturesCompression::Dpi72`, the image will be exported at 100x100 pixels. If, under the same conditions, `PicturesCompression` is set to `PicturesCompression::Dpi150`, the image will be exported at 208x208 pixels (100 x 150 / 72). The `PicturesCompression::DocumentResolution` value preserves the original image dimensions. The default value is `PicturesCompression::DocumentResolution`.
-
-**Usage example**
+Image compression is applied according to the image usage bounds in the exported document and the selected DPI. For example, suppose there is an image on a slide with an original size of 1000×1000 pixels, and the image is scaled to 100×100 pixels on the slide. If `PicturesCompression` is set to `Dpi72`, the image will be exported at 100×100 pixels. If, under the same conditions, `PicturesCompression` is set to `Dpi150`, the image will be exported at 208×208 pixels (100 × 150 / 72). The `DocumentResolution` value preserves the original image dimensions. The default value is `PicturesCompression::DocumentResolution`.
 
 The following example demonstrates how to use these methods:
+
+**Usage example**
 
 ```cpp
 SharedPtr<Presentation> pres = MakeObject<Presentation>(u"demo.pptx");
