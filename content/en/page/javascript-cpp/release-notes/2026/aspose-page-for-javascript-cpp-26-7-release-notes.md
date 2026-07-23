@@ -15,7 +15,7 @@ family_listing_page_title: "Aspose.Page for JavaScript via C++ Release Notes"
 
 ## Major Features
 
-Added a function `AsposePSGetBoundingBox` tat extract bounding box of eps image, and `AsposePSExtractText` that extract text from PS-document.
+Added a function `AsposePSGetPageCount` , and `AsposeXPSGetPageCount` that get pages count of PS and XPS document.
 
 
 ## Public API and Backwards Incompatible Changes
