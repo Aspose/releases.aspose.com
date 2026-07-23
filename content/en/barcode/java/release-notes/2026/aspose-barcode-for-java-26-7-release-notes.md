@@ -56,7 +56,7 @@ Added methods:
 - **setEncodeGS1SeparatorInByteMode(boolean value)**
 - **getEncodeGS1SeparatorInByteMode()**
 
-to the **com.aspose.barcode.generation.renderers.barcoderenderers.encoders.parameters.QrEncoderParameters** class.
+to the **com.aspose.barcode.generation.QrParameters** class.
 
 When enabled, GS1 group separators and the **%** character are encoded in Byte mode instead of using the QR Alphanumeric representation. This option improves compatibility with legacy barcode decoders that expect the GS1 group separator to be encoded as the **0x1D** byte.
 
