@@ -53,7 +53,7 @@ Added the **EncodeGS1SeparatorInByteMode** option to the QR encoder for the **GS
 
 Added methods:
 
-- **setEncodeGS1SeparatorInByteMode(boolean value)**
+- **setEncodeGS1SeparatorInByteMode(boolean)**
 - **getEncodeGS1SeparatorInByteMode()**
 
 to the **com.aspose.barcode.generation.QrParameters** class.
