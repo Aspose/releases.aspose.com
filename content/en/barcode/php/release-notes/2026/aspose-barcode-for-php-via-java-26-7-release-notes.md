@@ -50,10 +50,10 @@ Added the **EncodeGS1SeparatorInByteMode** option to the QR encoder for the **GS
 
 Added methods:
 
-- **setEncodeGS1SeparatorInByteMode(boolean value)**
+- **setEncodeGS1SeparatorInByteMode(bool)**
 - **getEncodeGS1SeparatorInByteMode()**
 
-to the **com.aspose.barcode.generation.renderers.barcoderenderers.encoders.parameters.QrEncoderParameters** class.
+to the **Aspose\Barcode\Generation\QrParameters** class.
 
 When enabled, GS1 group separators and the **%** character are encoded in Byte mode instead of using the QR Alphanumeric representation. This option improves compatibility with legacy barcode decoders that expect the GS1 group separator to be encoded as the **0x1D** byte.
 
@@ -74,9 +74,9 @@ When enabled, GS1 group separators and the **%** character are encoded in Byte m
 
 ### New compaction mode support in QrExtCodetextBuilder
 
-The **com.aspose.barcode.generation.QrExtCodetextBuilder** class has been extended with support for explicit QR compaction mode selection through the **QrExtCompactionMode** enumeration.
-
-Added enum **com.aspose.barcode.generation.QrExtCompactionMode**.
+The **Aspose\Barcode\Generation\QrExtCodetextBuilder** class has been extended with support for explicit QR compaction mode selection through the **QrExtCompactionMode** enumeration.
+Added function **addCodetextWithCompactionMode(int $mode, string $codetext)**.
+Added class **Aspose\Barcode\Generation\QrExtCompactionMode**.
 
 Supported compaction modes:
 
