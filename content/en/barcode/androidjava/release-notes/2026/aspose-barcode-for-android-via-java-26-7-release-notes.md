@@ -20,10 +20,10 @@ This page contains release notes information for [Aspose.BarCode for Android via
 {{% /alert %}} 
 ## **All Changes**
 
-| **Key**           | **Summary**                                        | **Category** |
-|:------------------|:---------------------------------------------------|:-------------|
-| BARCODENET-39571  | Pdf417 cannot be recognized from the image  | Bug          |
-| BARCODENET-39579  | Improve QR encoding                         | Enhancement  |
+| **Key**           | **Summary**                                  | **Category** |
+|:------------------|:---------------------------------------------|:-------------|
+| BARCODENET-39571  | Pdf417 cannot be recognized from the image   | Bug          |
+| BARCODENET-39579  | Improve QR encoding                          | Enhancement  |
 
 ## Public API changes and New Features
 
@@ -62,7 +62,7 @@ Added methods:
 - **setEncodeGS1SeparatorInByteMode(boolean value)**
 - **getEncodeGS1SeparatorInByteMode()**
 
-to the **com.aspose.barcode.generation.renderers.barcoderenderers.encoders.parameters.QrEncoderParameters** class.
+to the **com.aspose.barcode.generation.QrParameters** class.
 
 When enabled, GS1 group separators and the **%** character are encoded in Byte mode instead of using the QR Alphanumeric representation. This option improves compatibility with legacy barcode decoders that expect the GS1 group separator to be encoded as the **0x1D** byte.
 
