@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-26.7/"
 folder_name: "Aspose.BarCode για Node.js μέσω Java 26.7"
-download_link: "/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-26.7/9e16b36547520ce776d243d323b4aef3-4-15620"
+download_link: "/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-26.7/d81d90426e9cb37d6ca0702fce1c3d07-4-15620"
 download_text: "Κατεβάστε"
 intro_text: "Το Aspose.BarCode για Node.js μέσω Java 26.7 κυκλοφόρησε"
 image_link: "/resources/img/zip-icon.png"
@@ -24,19 +24,19 @@ weight: 89
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.BarCode για Node.js μέσω Java 26.7" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Κατεβάστε" link="/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-26.7/9e16b36547520ce776d243d323b4aef3-4-15620" >}}
+    {{< Releases/ReleasesSingleButtons text="Κατεβάστε" link="/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-26.7/d81d90426e9cb37d6ca0702fce1c3d07-4-15620" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Λεπτομέρειες αρχείου">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Κατεβάστεs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-9e16b36547520ce776d243d323b4aef3-4-15620" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-d81d90426e9cb37d6ca0702fce1c3d07-4-15620" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Μέγεθος αρχείου: {{< /Common/li >}}
-      {{< Common/li id="size-update-9e16b36547520ce776d243d323b4aef3-4-15620" >}} 19.19MB {{< /Common/li >}}
+      {{< Common/li id="size-update-d81d90426e9cb37d6ca0702fce1c3d07-4-15620" >}} 19.19MB {{< /Common/li >}}
 
       {{< Common/li >}} Ημερομηνία προστέθηκε: {{< /Common/li >}}
-      {{< Common/li id="added-update-9e16b36547520ce776d243d323b4aef3-4-15620" >}}23/7/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-d81d90426e9cb37d6ca0702fce1c3d07-4-15620" >}}23/7/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
