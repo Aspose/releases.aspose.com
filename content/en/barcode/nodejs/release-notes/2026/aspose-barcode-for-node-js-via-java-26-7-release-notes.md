@@ -194,9 +194,9 @@ for (const result of results)
 
 ### New compaction mode support in QrExtCodetextBuilder
 
-The **com.aspose.barcode.generation.QrExtCodetextBuilder** class has been extended with support for explicit QR compaction mode selection through the **QrExtCompactionMode** enumeration.
+The **generation.QrExtCodetextBuilder** class has been extended with support for explicit QR compaction mode selection through the **QrExtCompactionMode** enumeration.
 
-Added enum **com.aspose.barcode.generation.QrExtCompactionMode**.
+Added class **generation.QrExtCompactionMode**.
 
 Supported compaction modes:
 
