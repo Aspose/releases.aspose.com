@@ -1,0 +1,18 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-barcode",
+  "id" : "26-7-1",
+  "packageFiles" : [ {
+    "size" : "15 MB",
+    "name" : "aspose-barcode-26.7.1-java.zip"
+  }, {
+    "size" : "15 MB",
+    "name" : "aspose-barcode-26.7.1.jar"
+  }, {
+    "size" : "428 bytes",
+    "name" : "aspose-barcode-26.7.1.pom"
+  } ],
+  "releasehDate" : "2026-07-24T12:46:34+00:00",
+  "version" : "26.7.1",
+  "ReleaseNotes" : "https://releases.aspose.com/barcode/java/release-notes/2026/aspose-barcode-for-java-26-7-1-release-notes/"
+}
