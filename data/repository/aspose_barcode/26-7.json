@@ -6,7 +6,7 @@
     "size" : "15 MB",
     "name" : "aspose-barcode-26.7-java.zip"
   }, {
-    "size" : "768 KB",
+    "size" : "759 KB",
     "name" : "aspose-barcode-26.7-javadoc.jar",
     "classifier" : "javadoc"
   }, {
@@ -20,7 +20,7 @@
     "size" : "397 bytes",
     "name" : "aspose-barcode-26.7.pom"
   } ],
-  "releasehDate" : "2026-07-16T15:33:22+00:00",
+  "releasehDate" : "2026-07-24T13:34:01+00:00",
   "version" : "26.7",
   "ReleaseNotes" : "https://releases.aspose.com/barcode/java/release-notes/2026/aspose-barcode-for-java-26-7-release-notes/"
 }
