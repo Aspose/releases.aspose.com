@@ -49,7 +49,7 @@ The following obsolete API members have been removed from the ***Aspose.BarCode.
 - ***QREncodeMode.Utf8BOM*** and ***QREncodeMode.Utf16BEBOM*** have been removed. Use ***BarcodeGenerator.SetCodeText*** with the required encoding instead.
 - The obsolete ***QREncodeType*** enum has been removed. Use ***EncodeTypes.QR*** or ***EncodeTypes.MicroQR***, together with ***MicroQRVersion*** where applicable.
 
-### Removed obsolete ***BarcodeGenerator*** parameter properties
+### Removed obsolete BarcodeGenerator parameter properties
 
 The following obsolete properties have been removed from the parameter classes used by ***BarcodeGenerator***:
 - From ***BarcodeParameters***: ***EnableEscape***. Use ***Regex.Unescape*** instead.
@@ -72,7 +72,7 @@ The following obsolete properties have been removed from the parameter classes u
 - From ***GS1CompositeBarParameters***: ***IsAllowOnlyGS1Encoding***. Use ***AllowOnlyGS1Encoding*** instead.
 - From ***PostalParameters***: ***PostalShortBarHeight***. Use ***ShortBarHeight*** instead.
 
-### Removed obsolete complex barcode API
+### Removed obsolete Complex Barcode API
 
 The following obsolete API members have been removed from the ***Aspose.BarCode.ComplexBarcode*** namespace:
 - ***MaxiCodeCodetext.MaxiCodeEncodeMode***. Use ***MaxiCodeCodetext.EncodeMode*** instead.
@@ -88,7 +88,7 @@ The following obsolete API members have been removed from the ***Aspose.BarCode.
 - From ***DotCodeExtendedParameters***: ***DotCodeIsReaderInitialization***, ***DotCodeStructuredAppendModeBarcodeId***, and ***DotCodeStructuredAppendModeBarcodesCount***. Use ***IsReaderInitialization***, ***StructuredAppendModeBarcodeId***, and ***StructuredAppendModeBarcodesCount*** instead.
 - From ***CodabarExtendedParameters***: ***CodabarStartSymbol*** and ***CodabarStopSymbol***. Use ***StartSymbol*** and ***StopSymbol*** instead.
 
-### WinForms ***BarCodeGeneratorControl*** API changes
+### WinForms BarCodeGeneratorControl API changes
 
 The following obsolete properties have been removed:
 - From ***BarCodeGeneratorControl***: ***EnableEscape***. Use ***Regex.Unescape*** instead.
@@ -106,7 +106,7 @@ The following properties have been added to ***QrParametersUI***:
 - ***ECIEncoding***
 - ***EncodeGS1SeparatorInByteMode***
 
-### WPF ***BarcodeGeneratorElement*** API changes
+### WPF BarcodeGeneratorElement API changes
 
 The following obsolete properties have been removed:
 - ***EnableEscape***. Use ***Regex.Unescape*** instead.
