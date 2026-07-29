@@ -29,4 +29,91 @@ Aspose.HTML for Python via .NET  26.7.0 [PyPI](https://pypi.org/project/aspose-h
 
 ## **Improvements and Changes**
 
-- Maintenance build for the July 26.7.0 release of Aspose.HTML for .NET.
+| **Key** | **Summary** | **Category** |
+| ------------ | -------------------------------------------------------------------------------------- | ------------ |
+| HTMLNET-7138 | HtmlRenderer.Render ignores CancellationToken when loading a stalled external webfont | Bug |
+| HTMLNET-7139 | HTMLDocument.RenderTo hangs indefinitely when processing a malformed stylesheet URL | Bug |
+| HTMLNET-7199 | Regression: Words overlap and broken right alignment | Bug |
+| HTMLNET-6950 | Memory Cap of 4GB when converting HTML to PDF | Bug |
+| HTMLNET-6349 | Dynamically Adjust Margin per Page | Task |
+| HTMLNET-7136 | Regression in HTML->PDF conversion after updating to Aspose.Html 26.5 | Task |
+
+## Public API and Backward Incompatible Changes
+
+### Added APIs
+
+```
+namespace Aspose.Html.Net
+{
+    /// <summary>
+    /// Represents a base class for an HTTP entity body and content headers.
+    /// </summary>
+    public abstract class Content : IDisposable
+    {
+        /// <summary>
+        /// Serialize the HTTP content and return a stream that represents the content.
+        /// </summary>
+        /// <param name="cancellationToken">The cancellation token.</param>
+        /// <returns>Serialized stream that represents the content</returns>
+        public Stream ReadAsStream(CancellationToken cancellationToken)
+        {
+        }
+
+        /// <summary>
+        /// Serialize the HTTP content and return a byte array that represents the content.
+        /// </summary>
+        /// <param name="cancellationToken">The cancellation token.</param>
+        /// <returns>Serialized byte array that represents the content</returns>
+        public byte[] ReadAsByteArray(CancellationToken cancellationToken)
+        {
+        }
+
+        /// <summary>
+        /// Serialize the HTTP content and return a string that represents the content.
+        /// </summary>
+        /// <param name="cancellationToken">The cancellation token.</param>
+        /// <returns>Serialized string that represents the content</returns>
+        public string ReadAsString(CancellationToken cancellationToken)
+        {
+        }
+
+        /// <summary>
+        /// Serialize the content to a specified stream and observes the cancellation token.
+        /// </summary>
+        /// <param name="stream">The stream.</param>
+        /// <param name="cancellationToken">The cancellation token.</param>
+        protected virtual void SerializeToStream(Stream stream, CancellationToken cancellationToken)
+        {
+        }
+    }
+
+    /// <summary>
+    /// Represents a request message.
+    /// </summary>
+    public class RequestMessage : IDisposable
+    {
+        /// <summary>
+        /// Gets or sets a token that cancels the request and response body read.
+        /// </summary>
+        /// <value>
+        /// The cancellation token associated with this request.
+        /// </value>
+        public CancellationToken CancellationToken { get; set; }
+    }
+
+    /// <summary>
+    /// Represents content based on a stream.
+    /// </summary>
+    public class StreamContent : Content
+    {
+        /// <summary>
+        /// Initializes a new instance of the <see cref="StreamContent"/> class.
+        /// </summary>
+        /// <param name="content">The content.</param>
+        /// <param name="cancellationToken">The cancellation token.</param>
+        public StreamContent(Stream content, CancellationToken cancellationToken)
+        {
+        }
+    }
+}
+```
