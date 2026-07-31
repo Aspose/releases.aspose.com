@@ -30,3 +30,4 @@ Aspose.SVG for Python via .NET  26.7.0 [PyPI](https://pypi.org/project/aspose-sv
 ## **Improvements and Changes**
 
 - Maintenance build for the July 26.7.0 release of Aspose.SVG for .NET.
+- Improved the performance of SVG path geometry calculations: the arc-length evaluation for cubic Bézier curve segments has been optimized, making `SVGPathElement.getTotalLength()` and `getPointAtLength()` significantly faster, especially on paths with many curve segments.
