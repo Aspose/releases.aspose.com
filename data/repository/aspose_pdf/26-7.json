@@ -1,0 +1,23 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-pdf",
+  "id" : "26-7",
+  "packageFiles" : [ {
+    "size" : "98 MB",
+    "name" : "aspose-pdf-26.7-java.zip"
+  }, {
+    "size" : "6 MB",
+    "name" : "aspose-pdf-26.7-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "90 MB",
+    "name" : "aspose-pdf-26.7-tomee.jar",
+    "classifier" : "tomee"
+  }, {
+    "size" : "421 bytes",
+    "name" : "aspose-pdf-26.7.pom"
+  } ],
+  "releasehDate" : "2026-07-31T05:53:11+00:00",
+  "version" : "26.7",
+  "ReleaseNotes" : "https://releases.aspose.com/pdf/java/release-notes/2026/aspose-pdf-for-java-26-7-release-notes/"
+}
