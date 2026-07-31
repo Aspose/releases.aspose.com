@@ -21,7 +21,7 @@ As per the regular monthly update process of all APIs being offered by Aspose, w
 
 ### Release Notes
 
-Aspose.HTML for .NET 26.7.0 is published as part of the July monthly release.
+This release improves network resource handling and rendering stability. Cancellation token support has been added to the networking API, allowing requests and content reading operations to be canceled — this fixes cases where rendering could hang indefinitely on stalled external webfonts or malformed stylesheet URLs. Additionally, a text overlap and right-alignment regression has been fixed, and memory consumption during HTML to PDF conversion has been significantly reduced.
 
 **Package references**<br>
 Aspose.HTML for .NET 26.7.0 [NuGet](https://www.nuget.org/packages/Aspose.Html)<br>
