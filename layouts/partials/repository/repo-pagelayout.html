@@ -194,6 +194,17 @@ implementation group: '{{ .groupId }}', name: '{{ .artifactId }}', classifier: '
               </li>
               {{ end }}
 
+              {{ with .context.GetPage "compliance-reports" }}
+              <li role="presentation">
+                 <a href="{{ .RelPermalink }}" role="tab" id="compliance-reports-body-tab" class="body-tab"
+                    title="View SBOMs, Security Reports, and License Disclosures"
+                    target="_blank" rel="noopener">
+                 <i class="fa-clipboard fa" aria-hidden="true"></i>
+                 Compliance Reports
+                 </a>
+              </li>
+              {{ end }}
+
            </ul>
 
       </div> <!-- end of body-tabs" -->
