@@ -10,7 +10,7 @@ layout: "release"
 hideChildren: false
 toc: false
 family_listing_page_title: "Aspose.PDF for Java 26.5 Release Notes"
-lastmod: "2026-04-22"
+lastmod: "2026-05-30"
 menuItemWithNoContent: false
 ---
 
