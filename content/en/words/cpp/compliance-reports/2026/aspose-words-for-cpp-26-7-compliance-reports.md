@@ -35,7 +35,7 @@ committed_by: "evgeny.vasilev@aspose.com"
 | Report | HTML | PDF |
 |--------|------|-----|
 | CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/words/cpp/2026/26.7/aspose-words-cpp-26.7_cwe-top-25-2026.html" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/words/cpp/2026/26.7/aspose-words-cpp-26.7_cwe-top-25-2026.pdf" text="View PDF" >}} |
-| OWASP Top 10 (2021) | - | {{< compliance-file relpath="/compliance-reports/words/cpp/2026/26.7/aspose-words-cpp-26.7_owasp-top-10-2026.pdf" text="View PDF" >}} |
+| OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/words/cpp/2026/26.7/aspose-words-cpp-26.7_owasp-top-10-2026.html" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/words/cpp/2026/26.7/aspose-words-cpp-26.7_owasp-top-10-2026.pdf" text="View PDF" >}} |
 
 
 
