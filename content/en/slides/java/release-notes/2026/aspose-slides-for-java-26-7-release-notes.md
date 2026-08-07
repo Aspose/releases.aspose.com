@@ -22,7 +22,7 @@ This page contains release notes for [Aspose.Slides for Java 26.7](https://rele
 |SLIDESNET-44594|Add picture compression option to the WebExtensions and/or public API|Feature||
 |SLIDESNET-45420|Notes and comments are missing when saving a presentation as ODP|Enhancement|https://docs.aspose.com/slides/net/convert-openoffice-odp/|
 |SLIDESNET-45411|Implement an AI client for the internal Aspose LLM|Feature||
-|SLIDESJAVA-39591|[Use Aspose.Slides for Net 26.7 features](/slides/net/release-notes/2026/aspose-slides-for-net-26-7-release-notes/)|Enhancement||
+|SLIDESJAVA-39595|[Use Aspose.Slides for Net 26.7 features](/slides/net/release-notes/2026/aspose-slides-for-net-26-7-release-notes/)|Enhancement||
 |SLIDESJAVA-39818|Regression: multi-level category axis labels missing in 3D chart when external workbook is unavailable|Bug|https://docs.aspose.com/slides/java/convert-powerpoint-to-pdf/|
 |SLIDESJAVA-39829|Boxed characters appear in PPTX on Windows after importing PDF|Bug|https://docs.aspose.com/slides/java/import-presentation/|
 |SLIDESJAVA-39834|Chart is displayed incorrectly after loading and saving a PPTX file|Bug|https://docs.aspose.com/slides/java/save-presentation/|

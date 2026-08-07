@@ -19,7 +19,7 @@ This page contains release notes for [Aspose.Slides for Java 26.6](https://rele
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
 |SLIDESNET-45394|Support importing PDF Graphic Paths as native PowerPoint shapes|Enhancement|https://docs.aspose.com/slides/net/import-presentation/#import-powerpoint-from-pdf|
-|SLIDESJAVA-39591|[Use Aspose.Slides for Net 26.6 features](/slides/net/release-notes/2026/aspose-slides-for-net-26-6-release-notes/)|Enhancement||
+|SLIDESJAVA-39593|[Use Aspose.Slides for Net 26.6 features](/slides/net/release-notes/2026/aspose-slides-for-net-26-6-release-notes/)|Enhancement||
 |SLIDESJAVA-39802|Chart outline becomes excessively thick after Excel-to-PDF-to-PPTX conversion|Bug|https://docs.aspose.com/slides/java/import-presentation/#import-powerpoint-from-pdf|
 |SLIDESJAVA-39821|Text is shifted when converting PPTX to PDF|Bug|https://docs.aspose.com/slides/java/convert-powerpoint-to-pdf/|
 |SLIDESJAVA-39825|ArgumentException occurrs when importing a PDF document|Bug|https://docs.aspose.com/slides/java/import-presentation/#import-powerpoint-from-pdf|
