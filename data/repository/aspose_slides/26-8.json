@@ -1,0 +1,12 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-slides",
+  "id" : "26-8",
+  "packageFiles" : [ {
+    "size" : "395 bytes",
+    "name" : "aspose-slides-26.8.pom"
+  } ],
+  "releasehDate" : "2026-08-07T15:24:09+00:00",
+  "version" : "26.8",
+  "ReleaseNotes" : "https://releases.aspose.com/slides/java/release-notes/2026/aspose-slides-for-java-26-8-release-notes/"
+}
