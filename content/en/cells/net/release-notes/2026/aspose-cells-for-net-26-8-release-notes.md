@@ -130,7 +130,7 @@ Please use PivotNumericRangeGroupSettings class instead.
 
 Represents the numeric range group of the pivot field.
 
-### **Obsoletes?property PivotItem.Index.**
+### **Obsoletes property PivotItem.Index.**
 
 Please do not use this property.
 
@@ -202,11 +202,11 @@ Please use PivotItem.IsHidden property instead..
 
 Please use PivotItem.IsDetailHidden property instead.
 
-### **Obsoletes?method PivotField.HideItemDetail(Int32, Boolean).**
+### **Obsoletes method PivotField.HideItemDetail(Int32, Boolean).**
 
 Please use PivotItem.IsDetailHidden property instead.
 
-### **Obsoletes?method PivotField.HideDetail(Boolean).**
+### **Obsoletes method PivotField.HideDetail(Boolean).**
 
 Please use PivotItemCollection.HideAllDetail() method instead.
 
