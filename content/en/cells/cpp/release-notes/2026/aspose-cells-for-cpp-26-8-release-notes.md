@@ -127,7 +127,7 @@ ShapeSegmentPathCollection GetPathSegementList()
 
 Add:
 
-Specifies how HTML <p> elements are rendered when loading HTML. The default value is HtmlParagraphLayoutMode.Normal.
+Specifies how HTML &lt;p&gt; elements are rendered when loading HTML. The default value is HtmlParagraphLayoutMode.Normal.
 
 {{% alert color="primary" %}}
 
@@ -557,9 +557,7 @@ int32_t AddProjectRefrernce(const char16_t* name, const char16_t* absoluteLibid,
 
 {{% /alert %}}
 
-### **Adds and obsoletes some methods in Worksheet class.**
-
-Add:
+### **Adds some methods in Worksheet class.**
 
 Query cell areas that mapped/linked to the specific path of xml map.
 
@@ -567,14 +565,6 @@ Query cell areas that mapped/linked to the specific path of xml map.
 
 Vector<CellArea> GetAreasOfXmlMapQuery(const U16String& path, const XmlMap& xmlMap)
 Vector<CellArea> GetAreasOfXmlMapQuery(const char16_t* path, const XmlMap& xmlMap)
-
-{{% /alert %}}
-
-Obsoletes:
-
-{{% alert color="primary" %}}
-
-XmlMapQuery(String,XmlMap)
 
 {{% /alert %}}
 
