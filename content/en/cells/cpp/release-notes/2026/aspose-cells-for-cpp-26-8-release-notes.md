@@ -80,13 +80,14 @@ This page contains release notes for [Aspose.Cells for CPP 26.8](https://www.nug
 The following is a list of any changes made to the public API such as added, renamed, removed or deprecated members as well as any non-backward compatible change made to Aspose.Cells for C++. If you have concerns about any change listed, please raise it on the Aspose.Cells support forum.
 
 
-### **Adds one method in BorderCollection class.**
+### **Adds two methods in BorderCollection class.**
 
 Indicates if left, right, top, and bottom borders should be applied only to outside borders of a cell range. Default value is true.
 
 {{% alert color="primary" %}}
 
 bool IsOutline()
+
 void SetIsOutline(bool value)
 
 {{% /alert %}}
@@ -132,6 +133,7 @@ Specifies how HTML &lt;p&gt; elements are rendered when loading HTML. The defaul
 {{% alert color="primary" %}}
 
 HtmlParagraphLayoutMode GetParagraphLayoutMode()
+
 void SetParagraphLayoutMode(HtmlParagraphLayoutMode value)
 
 {{% /alert %}}
@@ -143,6 +145,7 @@ Please use HtmlLoadOptions::GetParagrahLayoutMode()/HtmlLoadOptions::SetParagrah
 {{% alert color="primary" %}}
 
 HtmlParagraphLayoutMode GetParagrahLayoutMode()
+
 void SetParagrahLayoutMode(HtmlParagraphLayoutMode value)
 
 {{% /alert %}}
@@ -156,6 +159,7 @@ Gets and sets the active pane.
 {{% alert color="primary" %}}
 
 RectangleAlignmentType GetActivePaneType()
+
 void SetActivePaneType(RectangleAlignmentType value)
 
 {{% /alert %}}
@@ -167,6 +171,7 @@ Please use PaneCollection::GetActivePaneType()/PaneCollection::SetActivePaneType
 {{% alert color="primary" %}}
 
 RectangleAlignmentType GetAcitvePaneType()
+
 void SetAcitvePaneType(RectangleAlignmentType value)
 
 {{% /alert %}}
@@ -218,6 +223,7 @@ Gets or sets the subtotals of the field. Only for Row or Column pivot field.
 {{% alert color="primary" %}}
 
 PivotFieldSubtotalType GetSubtotals()
+
 void SetSubtotals(PivotFieldSubtotalType value)
 
 {{% /alert %}}
@@ -227,6 +233,7 @@ Indicates whether the specified field can be dragged to the row region. The defa
 {{% alert color="primary" %}}
 
 bool GetAllowDraggingToRow()
+
 void SetAllowDraggingToRow(bool value)
 
 {{% /alert %}}
@@ -236,6 +243,7 @@ Indicates whether the specified field can be dragged to the column region. The d
 {{% alert color="primary" %}}
 
 bool GetAllowDraggingToColumn()
+
 void SetAllowDraggingToColumn(bool value)
 
 {{% /alert %}}
@@ -245,6 +253,7 @@ Indicates whether the specified field can be dragged to the page region. The def
 {{% alert color="primary" %}}
 
 bool GetAllowDraggingToPage()
+
 void SetAllowDraggingToPage(bool value)
 
 {{% /alert %}}
@@ -254,6 +263,7 @@ Indicates whether this pivot field can be removed from the PivotTable view. The 
 {{% alert color="primary" %}}
 
 bool GetAllowRemovingFromView()
+
 void SetAllowRemovingFromView(bool value)
 
 {{% /alert %}}
@@ -263,6 +273,7 @@ Indicates whether the specified field can be dragged to the values region. The d
 {{% alert color="primary" %}}
 
 bool GetAllowDraggingToData()
+
 void SetAllowDraggingToData(bool value)
 
 {{% /alert %}}
@@ -290,6 +301,7 @@ Please use PivotField::GetPivotItems().Get(const U16String&).IsHidden()/PivotFie
 {{% alert color="primary" %}}
 
 void HideItem(const U16String& itemValue, bool isHidden)
+
 void HideItem(const char16_t* itemValue, bool isHidden)
 
 {{% /alert %}}
@@ -331,6 +343,7 @@ Please use PivotField::GetAllowDraggingToRow()/PivotField::SetAllowDraggingToRow
 {{% alert color="primary" %}}
 
 bool GetDragToRow()
+
 void SetDragToRow(bool value)
 
 {{% /alert %}}
@@ -340,6 +353,7 @@ Please use PivotField::GetAllowDraggingToColumn()/PivotField::SetAllowDraggingTo
 {{% alert color="primary" %}}
 
 bool GetDragToColumn()
+
 void SetDragToColumn(bool value)
 
 {{% /alert %}}
@@ -349,6 +363,7 @@ Please use PivotField::GetAllowDraggingToPage()/PivotField::SetAllowDraggingToPa
 {{% alert color="primary" %}}
 
 bool GetDragToPage()
+
 void SetDragToPage(bool value)
 
 {{% /alert %}}
@@ -358,6 +373,7 @@ Please use PivotField::GetAllowRemovingFromView()/PivotField::SetAllowRemovingFr
 {{% alert color="primary" %}}
 
 bool GetDragToHide()
+
 void SetDragToHide(bool value)
 
 {{% /alert %}}
@@ -367,6 +383,7 @@ Please use PivotField::GetAllowDraggingToData()/PivotField::SetAllowDraggingToDa
 {{% alert color="primary" %}}
 
 bool GetDragToData()
+
 void SetDragToData(bool value)
 
 {{% /alert %}}
@@ -408,6 +425,7 @@ Please use PivotItem::GetPosition()/PivotItem::SetPosition(int32_t) methods inst
 {{% alert color="primary" %}}
 
 int32_t GetIndex()
+
 void SetIndex(int32_t value)
 
 {{% /alert %}}
@@ -445,6 +463,7 @@ Indicates whether to preserve cell formatting (PivotTableFormat) when the pivot 
 {{% alert color="primary" %}}
 
 bool GetPreserveCellFormattingOnUpdate()
+
 void SetPreserveCellFormattingOnUpdate(bool value)
 
 {{% /alert %}}
@@ -456,6 +475,7 @@ Please use PivotTable::GetPreserveCellFormattingOnUpdate()/PivotTable::SetPreser
 {{% alert color="primary" %}}
 
 bool GetPreserveFormatting()
+
 void SetPreserveFormatting(bool value)
 
 {{% /alert %}}
@@ -489,6 +509,7 @@ Set the outline borders
 {{% alert color="primary" %}}
 
 void SetOutlineBorders(CellBorderType borderStyle, const Aspose::Cells::Color& borderColor)
+
 void SetOutlineBorders(CellBorderType borderStyle, const CellsColor& borderColor)
 
 {{% /alert %}}
@@ -524,6 +545,7 @@ Add a reference to a twiddled type library and its extended type library.
 {{% alert color="primary" %}}
 
 int32_t AddControlReferernce(const U16String& name, const U16String& libid, const U16String& twiddledlibid, const U16String& extendedLibid)
+
 int32_t AddControlReferernce(const char16_t* name, const char16_t* libid, const char16_t* twiddledlibid, const char16_t* extendedLibid)
 
 {{% /alert %}}
@@ -533,6 +555,7 @@ Adds a reference to an external VBA project.
 {{% alert color="primary" %}}
 
 int32_t AddProjectReferernce(const U16String& name, const U16String& absoluteLibid, const U16String& relativeLibid)
+
 int32_t AddProjectReferernce(const char16_t* name, const char16_t* absoluteLibid, const char16_t* relativeLibid)
 
 {{% /alert %}}
@@ -544,6 +567,7 @@ Please use VbaProjectReferenceCollection::AddControlReferernce(const U16String&,
 {{% alert color="primary" %}}
 
 int32_t AddControlRefrernce(const U16String& name, const U16String& libid, const U16String& twiddledlibid, const U16String& extendedLibid)
+
 int32_t AddControlRefrernce(const char16_t* name, const char16_t* libid, const char16_t* twiddledlibid, const char16_t* extendedLibid)
 
 {{% /alert %}}
@@ -553,6 +577,7 @@ Please use VbaProjectReferenceCollection::AddProjectReferernce(const U16String&,
 {{% alert color="primary" %}}
 
 int32_t AddProjectRefrernce(const U16String& name, const U16String& absoluteLibid, const U16String& relativeLibid)
+
 int32_t AddProjectRefrernce(const char16_t* name, const char16_t* absoluteLibid, const char16_t* relativeLibid)
 
 {{% /alert %}}
@@ -564,6 +589,7 @@ Query cell areas that mapped/linked to the specific path of xml map.
 {{% alert color="primary" %}}
 
 Vector<CellArea> GetAreasOfXmlMapQuery(const U16String& path, const XmlMap& xmlMap)
+
 Vector<CellArea> GetAreasOfXmlMapQuery(const char16_t* path, const XmlMap& xmlMap)
 
 {{% /alert %}}
@@ -573,6 +599,7 @@ Vector<CellArea> GetAreasOfXmlMapQuery(const char16_t* path, const XmlMap& xmlMa
 {{% alert color="primary" %}}
 
 bool Aspose::Cells::FindOptions::GetSearchOrderByRows()
+
 void Aspose::Cells::FindOptions::SetSearchOrderByRows(bool value)
 
 {{% /alert %}}
