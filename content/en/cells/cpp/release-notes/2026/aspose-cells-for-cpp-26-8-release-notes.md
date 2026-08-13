@@ -140,7 +140,7 @@ void SetParagraphLayoutMode(HtmlParagraphLayoutMode value)
 
 Obsoletes:
 
-Please use HtmlLoadOptions::GetParagrahLayoutMode()/HtmlLoadOptions::SetParagrahLayoutMode(HtmlParagraphLayoutMode) methods instead.
+Please use HtmlLoadOptions::GetParagraphLayoutMode()/HtmlLoadOptions::SetParagraphLayoutMode(HtmlParagraphLayoutMode) methods instead.
 
 {{% alert color="primary" %}}
 
