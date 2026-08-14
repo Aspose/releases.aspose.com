@@ -21,13 +21,45 @@ This page contains release notes for [Aspose.Cells for .NET 26.8](https://www.nu
 | :- | :- | :- |
 |CELLSNET-57270|Support GROUPBY and PIVOTBY cell formulas/functions|New Feature
 |CELLSNET-50176|Support phonetic text while converting to pdf/xps|New Feature
+|CELLSGRIDJS-2594|Support render thread comment|New Feature
+|CELLSGRIDJS-2685|Customize the font for column headers (A, B, C, etc.) and row headers (1, 2, 3, etc.) to align with the Epiq standard font|New Feature
+|CELLSGRIDJS-2648|Support redaction for sheet name|New Feature
+|CELLSGRIDJS-2666|Support redaction for entire sheet|New Feature
+|CELLSGRIDJS-2702|Support AutoFit for rows and columns in GridJs client|New Feature
+|CELLSGRIDJS-2703|Support sequential navigation/highlighting of redactions in sheet|New Feature
+|CELLSGRIDJS-1461|Provide option to support displaying the fully content of a cell when it is not entirely visible within the cell area upon mouse hovering.|New Feature
+|CELLSGRIDJS-2657|Support batch deletion of blank rows|New Feature
+|CELLSGRIDJS-2658|Support batch deletion of leading spaces|New Feature
+|CELLSGRIDJS-2659|Support batch deletion of all spaces|New Feature
+|CELLSGRIDJS-2660|Support batch deletion of trailing spaces|New Feature
+|CELLSGRIDJS-2661|Support batch clearing of zero values|New Feature
+|CELLSGRIDJS-2662|Support batch clearing of non-numeric values|New Feature
+|CELLSGRIDJS-2663|Support batch deletion of comments|New Feature
+|CELLSGRIDJS-2664|Support batch removal of hyperlinks|New Feature
+|CELLSGRIDJS-2665|Support batch deletion of objects, including charts and shapes|New Feature
+|CELLSGRIDJS-2681|Support batch deletion of blank worksheets|New Feature
+|CELLSGRIDJS-2682|Support batch deletion of blank rows in the selected range|New Feature
+|CELLSGRIDJS-2683|Support deleting text at specified positions in the selected range|New Feature
+|CELLSGRIDJS-2696|Support solid fill formatting for shapes|New Feature
+|CELLSGRIDJS-2697|Support picture and shape size adjustment|New Feature
+|CELLSGRIDJS-2698|Support picture and shape position adjustment|New Feature
 |CELLSNET-60387|Support calculating BYROW/BYCOL with functions other than LAMBDA|Enhancement
 |CELLSNET-60444|Remove useless formula chains|Enhancement
 |CELLSNET-60384|Improve reading and writing phonetic settings for xls and xlsb|Enhancement
 |CELLSNET-60411|Simplify subtotal setting of pivot field|Enhancement
 |CELLSNET-60421|Support saving pivot alignment format setting of pivot table for xlsb|Enhancement
 |CELLSNET-60430|Support calculating style of pivot table with outline border setting|Enhancement
+|CELLSGRIDJS-2623|Performance: Viewer is slow while applying 4000+ redactions|Enhancement
+|CELLSGRIDJS-2667|Add log support|Enhancement
 |CELLSGRIDJS-2606|The AutoFit columns behavior shall be consistent with Excel|Enhancement
+|CELLSGRIDJS-2585|pressing the Esc key restores the formula to its state before modification.|Enhancement
+|CELLSGRIDJS-2613|Add a demo for how to use GridJs in Vue|Enhancement
+|CELLSGRIDJS-2615|Add a demo for how to use GridJs in Angular|Enhancement
+|CELLSGRIDJS-2617|Add a demo for how to use GridJs in React|Enhancement
+|CELLSGRIDJS-2620|Remove GridJs dependency on jQuery|Enhancement
+|CELLSGRIDJS-2634|Hide chart editing options in read-only mode|Enhancement
+|CELLSGRIDJS-2639|Slow performance on UpdateCell request after selecting big area dropdown|Enhancement
+|CELLSGRIDJS-2670|If the row or column is resized, the charts do not expand or resize accordingly|Enhancement
 |CELLSNET-41504|Excel to PDF graph issue|Bug
 |CELLSNET-43712|Yellow rectangles locations are changing in the output pdf|Bug
 |CELLSNET-43913|Shadow of the object is lost while rendering the spreadsheet to PDF|Bug
@@ -67,6 +99,13 @@ This page contains release notes for [Aspose.Cells for .NET 26.8](https://www.nu
 |CELLSNET-60442|Missing count numbers subtotal result of multiple data pivot fields|Bug
 |CELLSNET-60443|Count function of pivot table is changed.|Bug
 |CELLSNET-60374|Fixed incorrect cell values during Numbers to XLSX conversion|Bug
+|CELLSGRIDJS-2635|SyncRedactionsBatch payload sent during the resize operation is missing the fontSetting property|Bug
+|CELLSGRIDJS-2604|position of the upper right corner of the chart is inconsistent with Excel.|Bug
+|CELLSGRIDJS-2619|Download an Excel file with data bar styles fails|Bug
+|CELLSGRIDJS-2642|Mouse wheel scrolls worksheet instead of dropdown list in data validation cells|Bug
+|CELLSGRIDJS-2655|Fix dropdowns and date picker popups being covered by frozen panes|Bug
+|CELLSGRIDJS-2672|Unprotected columns cannot be edited again.|Bug
+|CELLSGRIDJS-2687|Date and Time Picker Selections Do Not Trigger the `cell-edited|Bug
 |CELLSNET-60435|Exception "Unexpected EXP token" when setting intersection of ranges to shape's formula|Exception
 |CELLSNET-60414|"Chart/Picture to image Error!" on SheetRender.ToImage method|Exception
 |CELLSNET-60441|"Overflow error" on Workbook.Save method when exporting to Markdown|Exception
