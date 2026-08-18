@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-cad",
+  "id" : "26-8",
+  "packageFiles" : [ {
+    "size" : "27 MB",
+    "name" : "aspose-cad-26.8-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "39 MB",
+    "name" : "aspose-cad-26.8.jar"
+  }, {
+    "size" : "842 bytes",
+    "name" : "aspose-cad-26.8.pom"
+  } ],
+  "releasehDate" : "2026-08-18T18:08:31+00:00",
+  "version" : "26.8",
+  "ReleaseNotes" : "https://releases.aspose.com/cad/java/release-notes/2026/aspose-cad-for-java-26-8-release-notes/"
+}
