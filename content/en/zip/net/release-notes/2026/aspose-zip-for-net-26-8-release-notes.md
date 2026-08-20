@@ -39,11 +39,11 @@ This page contains release notes information for [Aspose.ZIP for .NET 26.8](http
 |Aspose.Zip.Alz.AlzEntryEncrypted|ALZ entry that needs to be decrypted before decompression.|
 |Aspose.Zip.Alz.AlzEntryPlain|ALZ entry that needs to be decompressed without decryption.|
 |**The following public methods and properties were added:**|**Description**|
-|Aspose.Zip.Alz.AlzArchive.ExtractToDirectory()|Extracts all the files and directories in the archive to the directory provided.|
+|Aspose.Zip.Alz.AlzArchive.ExtractToDirectory(...)|Extracts all the files and directories in the archive to the directory provided.|
 |Aspose.Zip.Alz.AlzArchive.Entries|Gets the list of files in the archive.|
 |Aspose.Zip.Alz.AlzArchiveLoadOptions.CancellationToken|Gets or sets a cancellation token used to cancel the extraction operation.|
 |Aspose.Zip.Alz.AlzArchiveLoadOptions.DecryptionPassword|Gets or sets the password to decrypt entries.|
-|Aspose.Zip.Alz.AlzArchiveLoadOptions.Encodingthe encoding for entries' names. Default is Korean Windows code page 949.|
+|Aspose.Zip.Alz.AlzArchiveLoadOptions.Encoding|The encoding for entries' names. Default is Korean Windows code page 949.|
 |Aspose.Zip.Alz.AlzArchiveLoadOptions.SkipChecksumVerification|Gets or sets a value indicating whether checksum verification of ALZ entries be skipped and mismatch ignored.|
 |Aspose.Zip.Alz.AlzEntry.CompressedSize|Compressed size of the file data in bytes.|
 |Aspose.Zip.Alz.AlzEntry.IsDirectory|Returns true if this entry represents a directory.|
