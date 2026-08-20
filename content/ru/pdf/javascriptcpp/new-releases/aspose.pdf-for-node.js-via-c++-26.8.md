@@ -5,24 +5,24 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/javascriptcpp/new-releases/aspose.pdf-for-node.js-via-c++-26.8/"
-folder_name: "Aspose.PDF для Node.js через C++ 26.8"
+folder_name: "Aspose.PDF для JavaScript через C++ 26.8"
 download_link: "/pdf/javascriptcpp/new-releases/aspose.pdf-for-node.js-via-c++-26.8/9ccc6efc53560e816574bfc27c31bb39-11-15766"
 download_text: "Скачать"
-intro_text: "Aspose.PDF для Node.js"
+intro_text: "Aspose.PDF для JavaScript"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 20/8/2026 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 51.52MB"
 parent_path: "pdf/javascriptcpp"
 section_parent_path: "pdf/javascriptcpp"
 
-tags: "PDF Node.js JS"
-release_notes_url: "https://releases.aspose.com/pdf/nodejscpp/release-notes/2026/aspose_pdf-for-nodejs-cpp-26-8-release-notes/"
+tags: "PDF JavaScript JS Convert"
+release_notes_url: "https://releases.aspose.com/pdf/javascriptcpp/release-notes/2026/aspose_pdf-for-javascript-cpp-26-8-release-notes/"
 weight: 45
 
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.PDF для Node.js через C++ 26.8" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.PDF для JavaScript через C++ 26.8" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Скачать" link="/pdf/javascriptcpp/new-releases/aspose.pdf-for-node.js-via-c++-26.8/9ccc6efc53560e816574bfc27c31bb39-11-15766" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/pdf" >}}
@@ -40,10 +40,10 @@ weight: 45
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/pdf/nodejscpp/release-notes/2026/aspose_pdf-for-nodejs-cpp-26-8-release-notes/'>https://releases.aspose.com/pdf/nodejscpp/release-notes/2026/aspose_pdf-for-nodejs-cpp-26-8-release-notes/</a></div>
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/pdf/javascriptcpp/release-notes/2026/aspose_pdf-for-javascript-cpp-26-8-release-notes/'>https://releases.aspose.com/pdf/javascriptcpp/release-notes/2026/aspose_pdf-for-javascript-cpp-26-8-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Описание</h4><div class="HTMLDescription">Aspose.PDF для Node.js</div>
+      <h4>Описание</h4><div class="HTMLDescription">Aspose.PDF для JavaScript</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
