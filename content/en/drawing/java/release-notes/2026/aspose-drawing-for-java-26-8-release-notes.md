@@ -15,6 +15,5 @@ This page contains release notes information for Aspose.Drawing for Java 26.8.
 
 {{% /alert %}}
 ## **Improvements and Changes**
-- Added direct support for the .NET 10 target (DRAWINGNET-1681)
 - Added corrections for invalid BMP header values on image loading (DRAWINGNET-1683)
 
