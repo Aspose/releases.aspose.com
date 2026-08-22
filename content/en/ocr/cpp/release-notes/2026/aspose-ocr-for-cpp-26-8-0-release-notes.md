@@ -1,19 +1,24 @@
 ---
-id: "aspose-ocr-for-cpp-latest-release-notes"
-slug: "latest"
-weight: 1
 date: "2026-08-20"
+id: "aspose-ocr-for-cpp-26-8-0-release-notes"
+slug: "aspose-ocr-for-cpp-26-8-0-release-notes"
+linktitle: "Aspose.OCR for C++ 26.8.0 - Release Notes"
+title: "Aspose.OCR for C++ 26.8.0 - Release Notes"
 author: "Anna Pylaieva"
+weight: 101
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OCR for C++ 26.8.0 (August 2026) release."
 type: "repository"
 layout: "release"
-title: Latest release
-linktitle: "Latest release"
-description: A summary of recent changes, enhancements and bug fixes in the latest release of Aspose.OCR for C++.
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OCR for C++ 26.8.0 - Release Notes"
 keywords:
-- latest
-- new
-- release
-- changelog
+- "2026"
+- "August"
+- "new"
+- "release"
+- "changelog"
+menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
