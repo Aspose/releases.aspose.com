@@ -32,23 +32,23 @@ for [Aspose.BarCode for Java 26.8](https://releases.aspose.com/barcode/java/26-8
 
 ### Removed deprecated enum members and types
 
-The following obsolete API members have been removed from the ***com.aspose.barcode.generation*** package:
+The following deprecated API members have been removed from the ***com.aspose.barcode.generation*** package:
 
 - ***AztecEncodeMode.BYTES*** and ***AztecEncodeMode.EXTENDED_CODETEXT*** have been removed. Use ***AztecEncodeMode.BINARY*** and ***AztecEncodeMode.EXTENDED*** instead.
 - ***DataMatrixEncodeMode.BYTES*** and ***DataMatrixEncodeMode.EXTENDED_CODETEXT*** have been removed. Use ***DataMatrixEncodeMode.BINARY*** and ***DataMatrixEncodeMode.EXTENDED*** instead.
 - ***DataMatrixVersion.ROWS_COLUMNS*** has been removed.
 - ***DotCodeEncodeMode.BYTES*** and ***DotCodeEncodeMode.EXTENDED_CODETEXT*** have been removed. Use ***DotCodeEncodeMode.BINARY*** and ***DotCodeEncodeMode.EXTENDED*** instead.
-- The obsolete ***Pdf417CompactionMode*** enum has been removed.
+- The deprecated ***Pdf417CompactionMode*** enum has been removed.
 - ***MaxiCodeEncodeMode.BYTES*** and ***MaxiCodeEncodeMode.EXTENDED_CODETEXT*** have been removed. Use ***MaxiCodeEncodeMode.BINARY*** and ***MaxiCodeEncodeMode.EXTENDED*** instead.
 - ***QRVersion.VERSION_M1***, ***QRVersion.VERSION_M2***, ***QRVersion.VERSION_M3***, and ***QRVersion.VERSION_M4*** have been removed. Use ***MicroQRVersion*** instead.
 - ***QREncodeMode.BYTES*** and ***QREncodeMode.EXTENDED_CODETEXT*** have been removed. Use ***QREncodeMode.BINARY*** and ***QREncodeMode.EXTENDED*** instead.
 - ***QREncodeMode.ECI_ENCODING*** has been removed. Use ***QREncodeMode.ECI*** instead.
 - ***QREncodeMode.UTF_8_BOM*** and ***QREncodeMode.UTF_16_BEBOM*** have been removed. Use ***BarcodeGenerator.setCodeText*** with the required encoding instead.
-- The obsolete ***QREncodeType*** enum has been removed. Use ***EncodeTypes.QR*** or ***EncodeTypes.MICRO_QR***, together with ***MicroQRVersion*** where applicable.
+- The deprecated ***QREncodeType*** enum has been removed. Use ***EncodeTypes.QR*** or ***EncodeTypes.MICRO_QR***, together with ***MicroQRVersion*** where applicable.
 
-### Removed obsolete BarcodeGenerator parameter properties
+### Removed deprecated BarcodeGenerator parameter properties
 
-The following obsolete properties have been removed from the parameter classes used by ***BarcodeGenerator***:
+The following deprecated properties have been removed from the parameter classes used by ***BarcodeGenerator***:
 
 - From ***BarcodeParameters***: ***getEnableEscape()*** and ***setEnableEscape(boolean)***. Use ***Regex.Unescape*** instead.
 - From ***CodabarParameters***: ***getCodabarChecksumMode()***, ***setCodabarChecksumMode(...)***, ***getCodabarStartSymbol()***, ***setCodabarStartSymbol(...)***, ***getCodabarStopSymbol()***, and ***setCodabarStopSymbol(...)***. Use ***getChecksumMode()***, ***setChecksumMode(...)***, ***getStartSymbol()***, ***setStartSymbol(...)***, ***getStopSymbol()***, and ***setStopSymbol(...)*** instead.
@@ -61,7 +61,7 @@ The following obsolete properties have been removed from the parameter classes u
 - From ***QrParameters***: ***getQrEncodeType()*** and ***setQrEncodeType(...)***. Use ***EncodeTypes.MICRO_QR*** and ***MicroQRVersion*** to generate Micro QR barcodes.
 - From ***Pdf417Parameters***: ***getPdf417EncodeMode()***, ***setPdf417EncodeMode(...)***, ***getPdf417ErrorLevel()***, ***setPdf417ErrorLevel(...)***, ***getPdf417ECIEncoding()***, ***setPdf417ECIEncoding(...)***, ***getPdf417Truncate()***, and ***setPdf417Truncate(...)***. Use ***getEncodeMode()***, ***setEncodeMode(...)***, ***getErrorLevel()***, ***setErrorLevel(...)***, ***getECIEncoding()***, ***setECIEncoding(...)***, ***getTruncate()***, and ***setTruncate(...)*** instead.
 - From ***Pdf417Parameters***: ***getPdf417CompactionMode()*** and ***setPdf417CompactionMode(...)***.
-- From ***Pdf417Parameters***, the obsolete Macro PDF417 aliases ***getPdf417MacroFileID()***, ***setPdf417MacroFileID(...)***, ***getPdf417MacroSegmentID()***, ***setPdf417MacroSegmentID(...)***, ***getPdf417MacroSegmentsCount()***, ***setPdf417MacroSegmentsCount(...)***, ***getPdf417MacroECIEncoding()***, ***setPdf417MacroECIEncoding(...)***, ***getPdf417MacroTerminator()***, ***setPdf417MacroTerminator(...)***, ***getPdf417MacroFileName()***, ***setPdf417MacroFileName(...)***, ***getPdf417MacroTimeStamp()***, ***setPdf417MacroTimeStamp(...)***, ***getPdf417MacroSender()***, ***setPdf417MacroSender(...)***, ***getPdf417MacroAddressee()***, ***setPdf417MacroAddressee(...)***, ***getPdf417MacroFileSize()***, ***setPdf417MacroFileSize(...)***, ***getPdf417MacroChecksum()***, and ***setPdf417MacroChecksum(...)***. Use the corresponding ***getMacroPdf417FileID()***, ***setMacroPdf417FileID(...)***, ***getMacroPdf417SegmentID()***, ***setMacroPdf417SegmentID(...)***, ***getMacroPdf417SegmentsCount()***, ***setMacroPdf417SegmentsCount(...)***, ***getMacroPdf417ECIEncoding()***, ***setMacroPdf417ECIEncoding(...)***, ***getMacroPdf417Terminator()***, ***setMacroPdf417Terminator(...)***, ***getMacroPdf417FileName()***, ***setMacroPdf417FileName(...)***, ***getMacroPdf417TimeStamp()***, ***setMacroPdf417TimeStamp(...)***, ***getMacroPdf417Sender()***, ***setMacroPdf417Sender(...)***, ***getMacroPdf417Addressee()***, ***setMacroPdf417Addressee(...)***, ***getMacroPdf417FileSize()***, ***setMacroPdf417FileSize(...)***, ***getMacroPdf417Checksum()***, and ***setMacroPdf417Checksum(...)*** methods instead.
+- From ***Pdf417Parameters***, the deprecated Macro PDF417 aliases ***getPdf417MacroFileID()***, ***setPdf417MacroFileID(...)***, ***getPdf417MacroSegmentID()***, ***setPdf417MacroSegmentID(...)***, ***getPdf417MacroSegmentsCount()***, ***setPdf417MacroSegmentsCount(...)***, ***getPdf417MacroECIEncoding()***, ***setPdf417MacroECIEncoding(...)***, ***getPdf417MacroTerminator()***, ***setPdf417MacroTerminator(...)***, ***getPdf417MacroFileName()***, ***setPdf417MacroFileName(...)***, ***getPdf417MacroTimeStamp()***, ***setPdf417MacroTimeStamp(...)***, ***getPdf417MacroSender()***, ***setPdf417MacroSender(...)***, ***getPdf417MacroAddressee()***, ***setPdf417MacroAddressee(...)***, ***getPdf417MacroFileSize()***, ***setPdf417MacroFileSize(...)***, ***getPdf417MacroChecksum()***, and ***setPdf417MacroChecksum(...)***. Use the corresponding ***getMacroPdf417FileID()***, ***setMacroPdf417FileID(...)***, ***getMacroPdf417SegmentID()***, ***setMacroPdf417SegmentID(...)***, ***getMacroPdf417SegmentsCount()***, ***setMacroPdf417SegmentsCount(...)***, ***getMacroPdf417ECIEncoding()***, ***setMacroPdf417ECIEncoding(...)***, ***getMacroPdf417Terminator()***, ***setMacroPdf417Terminator(...)***, ***getMacroPdf417FileName()***, ***setMacroPdf417FileName(...)***, ***getMacroPdf417TimeStamp()***, ***setMacroPdf417TimeStamp(...)***, ***getMacroPdf417Sender()***, ***setMacroPdf417Sender(...)***, ***getMacroPdf417Addressee()***, ***setMacroPdf417Addressee(...)***, ***getMacroPdf417FileSize()***, ***setMacroPdf417FileSize(...)***, ***getMacroPdf417Checksum()***, and ***setMacroPdf417Checksum(...)*** methods instead.
 - From ***ITFParameters***: ***getItfBorderThickness()***, ***setItfBorderThickness(...)***, ***getItfBorderType()***, and ***setItfBorderType(...)***. Use ***getBorderThickness()***, ***setBorderThickness(...)***, ***getBorderType()***, and ***setBorderType(...)*** instead.
 - From ***DataMatrixParameters***: ***getDataMatrixEcc()***, ***setDataMatrixEcc(...)***, ***getDataMatrixVersion()***, ***setDataMatrixVersion(...)***, ***getDataMatrixEncodeMode()***, and ***setDataMatrixEncodeMode(...)***. Use ***getEccType()***, ***setEccType(...)***, ***getVersion()***, ***setVersion(...)***, ***getEncodeMode()***, and ***setEncodeMode(...)*** instead.
 - From ***DataMatrixParameters***: ***getColumns()***, ***setColumns(...)***, ***getRows()***, and ***setRows(...)***. Use ***getVersion()*** and ***setVersion(...)*** instead.
@@ -70,16 +70,16 @@ The following obsolete properties have been removed from the parameter classes u
 - From ***GS1CompositeBarParameters***: ***isAllowOnlyGS1Encoding()*** and ***setAllowOnlyGS1Encoding(...)***. Use ***getAllowOnlyGS1Encoding()*** and ***setAllowOnlyGS1Encoding(...)*** instead.
 - From ***PostalParameters***: ***getPostalShortBarHeight()*** and ***setPostalShortBarHeight(...)***. Use ***getShortBarHeight()*** and ***setShortBarHeight(...)*** instead.
 
-### Removed obsolete Complex Barcode API
+### Removed deprecated Complex Barcode API
 
-The following obsolete API members have been removed from the ***com.aspose.barcode.complexbarcode*** package:
+The following deprecated API members have been removed from the ***com.aspose.barcode.complexbarcode*** package:
 
 - ***MaxiCodeCodetext.getMaxiCodeEncodeMode()*** and ***MaxiCodeCodetext.setMaxiCodeEncodeMode(...)***. Use ***MaxiCodeCodetext.getEncodeMode()*** and ***MaxiCodeCodetext.setEncodeMode(...)*** instead.
 - The misspelled ***MaxiCodeStandartSecondMessage*** class. Use ***MaxiCodeStandardSecondMessage*** instead.
 
-### Removed obsolete recognition API
+### Removed deprecated recognition API
 
-The following obsolete API members have been removed from the ***com.aspose.barcode.barcoderecognition*** package:
+The following deprecated API members have been removed from the ***com.aspose.barcode.barcoderecognition*** package:
 
 - The ***MultyDecodeType*** class. Use ***MultiDecodeType*** instead.
 - ***BarCodeReader.setBarCodeReadType(BaseDecodeType)***.
@@ -90,7 +90,7 @@ The following obsolete API members have been removed from the ***com.aspose.barc
 
 ### Swing BarCodeGeneratorControl API changes
 
-The following obsolete properties have been removed from ***BarCodeGeneratorControl***.
+The following deprecated properties have been removed from ***BarCodeGeneratorControl***.
 
 ***BarCodeGeneratorControl*** is designed for use in Swing applications. It extends Swing class ***JLabel*** and can be placed onto UI.
 
@@ -101,7 +101,7 @@ The following obsolete properties have been removed from ***BarCodeGeneratorCont
 - From ***HanXinParametersUI***: ***getHanXinECIEncoding()***, ***setHanXinECIEncoding(...)***, ***getHanXinEncodeMode()***, ***setHanXinEncodeMode(...)***, ***getHanXinErrorLevel()***, ***setHanXinErrorLevel(...)***, ***getHanXinVersion()***, and ***setHanXinVersion(...)***. Use ***getECIEncoding()***, ***setECIEncoding(...)***, ***getEncodeMode()***, ***setEncodeMode(...)***, ***getErrorLevel()***, ***setErrorLevel(...)***, ***getVersion()***, and ***setVersion(...)*** instead.
 - From ***Pdf417ParametersUI***: ***getPdf417EncodeMode()***, ***setPdf417EncodeMode(...)***, ***getPdf417ErrorLevel()***, ***setPdf417ErrorLevel(...)***, ***getPdf417Truncate()***, and ***setPdf417Truncate(...)***. Use ***getEncodeMode()***, ***setEncodeMode(...)***, ***getErrorLevel()***, ***setErrorLevel(...)***, ***getTruncate()***, and ***setTruncate(...)*** instead.
 - From ***Pdf417ParametersUI***: ***getPdf417CompactionMode()*** and ***setPdf417CompactionMode(...)***.
-- From ***Pdf417ParametersUI***, the obsolete Macro PDF417 aliases ***getPdf417MacroFileID()***, ***setPdf417MacroFileID(...)***, ***getPdf417MacroSegmentID()***, ***setPdf417MacroSegmentID(...)***, ***getPdf417MacroSegmentsCount()***, ***setPdf417MacroSegmentsCount(...)***, ***getPdf417MacroECIEncoding()***, ***setPdf417MacroECIEncoding(...)***, ***getPdf417MacroTerminator()***, ***setPdf417MacroTerminator(...)***, ***getPdf417MacroFileName()***, ***setPdf417MacroFileName(...)***, ***getPdf417MacroTimeStamp()***, ***setPdf417MacroTimeStamp(...)***, ***getPdf417MacroSender()***, ***setPdf417MacroSender(...)***, ***getPdf417MacroAddressee()***, ***setPdf417MacroAddressee(...)***, ***getPdf417MacroFileSize()***, ***setPdf417MacroFileSize(...)***, ***getPdf417MacroChecksum()***, and ***setPdf417MacroChecksum(...)***. Use the corresponding ***getMacroPdf417FileID()***, ***setMacroPdf417FileID(...)***, ***getMacroPdf417SegmentID()***, ***setMacroPdf417SegmentID(...)***, ***getMacroPdf417SegmentsCount()***, ***setMacroPdf417SegmentsCount(...)***, ***getMacroPdf417ECIEncoding()***, ***setMacroPdf417ECIEncoding(...)***, ***getMacroPdf417Terminator()***, ***setMacroPdf417Terminator(...)***, ***getMacroPdf417FileName()***, ***setMacroPdf417FileName(...)***, ***getMacroPdf417TimeStamp()***, ***setMacroPdf417TimeStamp(...)***, ***getMacroPdf417Sender()***, ***setMacroPdf417Sender(...)***, ***getMacroPdf417Addressee()***, ***setMacroPdf417Addressee(...)***, ***getMacroPdf417FileSize()***, ***setMacroPdf417FileSize(...)***, ***getMacroPdf417Checksum()***, and ***setMacroPdf417Checksum(...)*** instead.
+- From ***Pdf417ParametersUI***, the deprecated Macro PDF417 aliases ***getPdf417MacroFileID()***, ***setPdf417MacroFileID(...)***, ***getPdf417MacroSegmentID()***, ***setPdf417MacroSegmentID(...)***, ***getPdf417MacroSegmentsCount()***, ***setPdf417MacroSegmentsCount(...)***, ***getPdf417MacroECIEncoding()***, ***setPdf417MacroECIEncoding(...)***, ***getPdf417MacroTerminator()***, ***setPdf417MacroTerminator(...)***, ***getPdf417MacroFileName()***, ***setPdf417MacroFileName(...)***, ***getPdf417MacroTimeStamp()***, ***setPdf417MacroTimeStamp(...)***, ***getPdf417MacroSender()***, ***setPdf417MacroSender(...)***, ***getPdf417MacroAddressee()***, ***setPdf417MacroAddressee(...)***, ***getPdf417MacroFileSize()***, ***setPdf417MacroFileSize(...)***, ***getPdf417MacroChecksum()***, and ***setPdf417MacroChecksum(...)***. Use the corresponding ***getMacroPdf417FileID()***, ***setMacroPdf417FileID(...)***, ***getMacroPdf417SegmentID()***, ***setMacroPdf417SegmentID(...)***, ***getMacroPdf417SegmentsCount()***, ***setMacroPdf417SegmentsCount(...)***, ***getMacroPdf417ECIEncoding()***, ***setMacroPdf417ECIEncoding(...)***, ***getMacroPdf417Terminator()***, ***setMacroPdf417Terminator(...)***, ***getMacroPdf417FileName()***, ***setMacroPdf417FileName(...)***, ***getMacroPdf417TimeStamp()***, ***setMacroPdf417TimeStamp(...)***, ***getMacroPdf417Sender()***, ***setMacroPdf417Sender(...)***, ***getMacroPdf417Addressee()***, ***setMacroPdf417Addressee(...)***, ***getMacroPdf417FileSize()***, ***setMacroPdf417FileSize(...)***, ***getMacroPdf417Checksum()***, and ***setMacroPdf417Checksum(...)*** instead.
 - From ***QrParametersUI***: ***getQrEncodeMode()***, ***setQrEncodeMode(...)***, ***getQrErrorLevel()***, ***setQrErrorLevel(...)***, ***getQrVersion()***, and ***setQrVersion(...)***. Use ***getEncodeMode()***, ***setEncodeMode(...)***, ***getErrorLevel()***, ***setErrorLevel(...)***, ***getVersion()***, and ***setVersion(...)*** instead.
 - From ***QrParametersUI***: ***getQrEncodeType()*** and ***setQrEncodeType(...)***. Use ***EncodeTypes.MICRO_QR*** and ***MicroQRVersion*** to generate Micro QR barcodes.
 
