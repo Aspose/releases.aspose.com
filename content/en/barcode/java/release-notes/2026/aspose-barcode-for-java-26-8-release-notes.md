@@ -44,7 +44,8 @@ The following deprecated API members have been removed from the ***com.aspose.ba
 - ***QREncodeMode.BYTES*** and ***QREncodeMode.EXTENDED_CODETEXT*** have been removed. Use ***QREncodeMode.BINARY*** and ***QREncodeMode.EXTENDED*** instead.
 - ***QREncodeMode.ECI_ENCODING*** has been removed. Use ***QREncodeMode.ECI*** instead.
 - ***QREncodeMode.UTF_8_BOM*** and ***QREncodeMode.UTF_16_BEBOM*** have been removed. Use ***BarcodeGenerator.setCodeText*** with the required encoding instead.
-- The deprecated ***QREncodeType*** enum has been removed. Use ***EncodeTypes.QR*** or ***EncodeTypes.MICRO_QR***, together with ***MicroQRVersion*** where applicable.
+- The deprecated ***QREncodeType*** enum has been removed. 
+Use ***EncodeTypes.QR*** or ***EncodeTypes.MICRO_QR***, together with ***MicroQRVersion*** where applicable.
 
 ### Removed deprecated BarcodeGenerator parameter properties
 
@@ -112,7 +113,7 @@ Cleaned up artifacts left by the automatic .NET-to-Java porter and replaced redu
 
 Changes include:
 
-- Removed porter-specific hash code helpers such as `getHashCode()` and `getStateHash()` and replaced their usage with the standard Java `hashCode()`.
+- Removed hash code helpers such as `getHashCode()` and `getStateHash()` and replaced their usage with the standard Java `hashCode()`.
 - Normalized `equals()` implementations according to standard Java conventions.
 - Normalized `toString()` implementations.
 - Removed other redundant porter-generated constructs where native Java equivalents are available.
