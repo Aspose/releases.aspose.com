@@ -33,7 +33,8 @@ This page contains release notes information for [Aspose.BarCode for PHP via Jav
 
 The following deprecated API members have been removed:
 
-- `AztecEncodeMode::BYTES` and `AztecEncodeMode::EXTENDED_CODETEXT` have been removed. Use `AztecEncodeMode::BINARY` and `AztecEncodeMode::EXTENDED` instead.
+- `AztecEncodeMode::BYTES` and `AztecEncodeMode::EXTENDED_CODETEXT` have been removed. 
+Use `AztecEncodeMode::BINARY` and `AztecEncodeMode::EXTENDED` instead.
 - `DataMatrixEncodeMode::BYTES` and `DataMatrixEncodeMode::EXTENDED_CODETEXT` have been removed. Use `DataMatrixEncodeMode::BINARY` and `DataMatrixEncodeMode::EXTENDED` instead.
 - `DataMatrixVersion::ROWS_COLUMNS` has been removed.
 - `DotCodeEncodeMode::BYTES` and `DotCodeEncodeMode::EXTENDED_CODETEXT` have been removed. Use `DotCodeEncodeMode::BINARY` and `DotCodeEncodeMode::EXTENDED` instead.
@@ -49,7 +50,8 @@ The following deprecated API members have been removed:
 
 The following deprecated properties have been removed from the parameter classes used by `BarcodeGenerator`:
 
-- From `BarcodeParameters`: `getEnableEscape()` and `setEnableEscape(...)`. Use `Regex.Unescape` instead.
+- From `BarcodeParameters`: `getEnableEscape()` and `setEnableEscape(boolean)` have been removed.
+If required, process escape sequences in the codetext before passing it to `BarcodeGenerator`.
 - From `CodabarParameters`: `getCodabarChecksumMode()`, `setCodabarChecksumMode(...)`, `getCodabarStartSymbol()`, `setCodabarStartSymbol(...)`, `getCodabarStopSymbol()`, and `setCodabarStopSymbol(...)`. Use `getChecksumMode()`, `setChecksumMode(...)`, `getStartSymbol()`, `setStartSymbol(...)`, `getStopSymbol()`, and `setStopSymbol(...)` instead.
 - From `Code128Parameters`: `getCode128EncodeMode()` and `setCode128EncodeMode(...)`. Use `getEncodeMode()` and `setEncodeMode(...)` instead.
 - From `AztecParameters`: `getAztecEncodeMode()`, `setAztecEncodeMode(...)`, `getAztecErrorLevel()`, `setAztecErrorLevel(...)`, `getAztecSymbolMode()`, and `setAztecSymbolMode(...)`. Use `getEncodeMode()`, `setEncodeMode(...)`, `getErrorLevel()`, `setErrorLevel(...)`, `getSymbolMode()`, and `setSymbolMode(...)` instead.
