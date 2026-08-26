@@ -51,7 +51,8 @@ Use `EncodeTypes.QR` or `EncodeTypes.MICRO_QR`, together with `MicroQRVersion` w
 
 The following deprecated properties have been removed from the parameter classes used by `BarcodeGenerator`:
 
-- From `BarcodeParameters`: `getEnableEscape()` and `setEnableEscape(boolean)`. Use `Regex.Unescape` instead.
+- From `BarcodeParameters`: `getEnableEscape()` and `setEnableEscape(boolean)` have been removed. 
+If required, process escape sequences in the codetext before passing it to `BarcodeGenerator`.
 - From `CodabarParameters`: `getCodabarChecksumMode()`, `setCodabarChecksumMode(...)`, `getCodabarStartSymbol()`, `setCodabarStartSymbol(...)`, `getCodabarStopSymbol()`, and `setCodabarStopSymbol(...)`. Use `getChecksumMode()`, `setChecksumMode(...)`, `getStartSymbol()`, `setStartSymbol(...)`, `getStopSymbol()`, and `setStopSymbol(...)` instead.
 - From `Code128Parameters`: `getCode128EncodeMode()` and `setCode128EncodeMode(...)`. Use `getEncodeMode()` and `setEncodeMode(...)` instead.
 - From `AztecParameters`: `getAztecEncodeMode()`, `setAztecEncodeMode(...)`, `getAztecErrorLevel()`, `setAztecErrorLevel(...)`, `getAztecSymbolMode()`, and `setAztecSymbolMode(...)`. Use `getEncodeMode()`, `setEncodeMode(...)`, `getErrorLevel()`, `setErrorLevel(...)`, `getSymbolMode()`, and `setSymbolMode(...)` instead.
