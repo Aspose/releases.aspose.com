@@ -75,16 +75,16 @@ If required, process escape sequences in the codetext before passing it to `Barc
 
 The following deprecated API members have been removed from the Complex Barcode API:
 
-- `MaxiCodeCodetext->getMaxiCodeEncodeMode()` and `MaxiCodeCodetext->setMaxiCodeEncodeMode(...)`. Use `MaxiCodeCodetext->getEncodeMode()` and `MaxiCodeCodetext->setEncodeMode(...)` instead.
+- `MaxiCodeCodetext->getMaxiCodeEncodeMode()` and `MaxiCodeCodetext->setMaxiCodeEncodeMode(...)`. 
+Use `MaxiCodeCodetext->getEncodeMode()` and `MaxiCodeCodetext->setEncodeMode(...)` instead.
 - The misspelled `MaxiCodeStandartSecondMessage` class. Use `MaxiCodeStandardSecondMessage` instead.
 
 ### Removed deprecated recognition API
 
 The following deprecated API members have been removed from the barcode recognition API:
 
-- The `MultyDecodeType` class. Use `MultiDecodeType` instead.
-- `BarCodeReader->setBarCodeReadType(BaseDecodeType)`.
-- From `QRExtendedParameters`: `getQRStructuredAppendModeBarCodesQuantity()`, `getQRStructuredAppendModeBarCodeIndex()`, `getQRStructuredAppendModeParityData()`, `getQRVersion()`, and `getQRErrorLevel()`. Use `getStructuredAppendModeBarCodesQuantity()`, `getStructuredAppendModeBarCodeIndex()`, `getStructuredAppendModeParityData()`, `getVersion()`, and `getErrorLevel()` instead.
+- From `QRExtendedParameters`: `getQRStructuredAppendModeBarCodesQuantity()`, `getQRStructuredAppendModeBarCodeIndex()`, `getQRStructuredAppendModeParityData()`, `getQRVersion()`, and `getQRErrorLevel()`. 
+Use `getStructuredAppendModeBarCodesQuantity()`, `getStructuredAppendModeBarCodeIndex()`, `getStructuredAppendModeParityData()`, `getVersion()`, and `getErrorLevel()` instead.
 - From `MaxiCodeExtendedParameters`: `getMaxiCodeMode()`, `getMaxiCodeStructuredAppendModeBarcodeId()`, and `getMaxiCodeStructuredAppendModeBarcodesCount()`. Use `getMode()`, `getStructuredAppendModeBarcodeId()`, and `getStructuredAppendModeBarcodesCount()` instead.
 - From `DotCodeExtendedParameters`: `getDotCodeIsReaderInitialization()`, `getDotCodeStructuredAppendModeBarcodeId()`, and `getDotCodeStructuredAppendModeBarcodesCount()`. Use `getIsReaderInitialization()`, `getStructuredAppendModeBarcodeId()`, and `getStructuredAppendModeBarcodesCount()` instead.
 - From `CodabarExtendedParameters`: `getCodabarStartSymbol()` and `getCodabarStopSymbol()`. Use `getStartSymbol()` and `getStopSymbol()` instead.
