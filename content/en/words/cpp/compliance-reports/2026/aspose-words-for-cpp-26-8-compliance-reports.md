@@ -33,7 +33,7 @@ committed_by: "evgeny.vasilev@aspose.com"
 
 | Report | HTML | PDF |
 |--------|------|-----|
-| CWE Top 25 (2026) | - | {{< compliance-file relpath="/compliance-reports/words/cpp/2026/26.8/aspose-words-cpp-26.8_cwe-top-25-2026.pdf" text="View PDF" >}} |
+| CWE Top 25 (2026) | {{< compliance-file relpath="/compliance-reports/words/cpp/2026/26.8/aspose-words-cpp-26.8_cwe-top-25-2026.html" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/words/cpp/2026/26.8/aspose-words-cpp-26.8_cwe-top-25-2026.pdf" text="View PDF" >}} |
 
 
 
