@@ -96,7 +96,8 @@ The following deprecated properties have been removed from `BarCodeGeneratorCont
 
 `BarCodeGeneratorControl` is designed for use in Swing applications. It extends Swing class `JLabel` and can be placed onto UI.
 
-- From `BarCodeGeneratorControl`: `getEnableEscape()` and `setEnableEscape(boolean)`. Use `Regex.Unescape` instead.
+- From `BarCodeGeneratorControl`: `getEnableEscape()` and `setEnableEscape(boolean)`.
+If required, process escape sequences in the codetext before passing it to `BarcodeGenerator`.
 - From `AztecParametersUI`: `getAztecErrorLevel()`, `setAztecErrorLevel(...)`, `getAztecSymbolMode()`, `setAztecSymbolMode(...)`, `getAztecEncodeMode()`, and `setAztecEncodeMode(...)`. Use `getErrorLevel()`, `setErrorLevel(...)`, `getSymbolMode()`, `setSymbolMode(...)`, `getEncodeMode()`, and `setEncodeMode(...)` instead.
 - From `DataMatrixParametersUI`: `getDataMatrixEcc()`, `setDataMatrixEcc(...)`, `getDataMatrixVersion()`, `setDataMatrixVersion(...)`, `getDataMatrixEncodeMode()`, and `setDataMatrixEncodeMode(...)`. Use `getEccType()`, `setEccType(...)`, `getVersion()`, `setVersion(...)`, `getEncodeMode()`, and `setEncodeMode(...)` instead.
 - From `DataMatrixParametersUI`: `getColumns()`, `setColumns(...)`, `getRows()`, and `setRows(...)`. Use `getVersion()` and `setVersion(...)` instead.
