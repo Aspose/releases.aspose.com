@@ -17,7 +17,6 @@ menuItemWithNoContent: false
 
 This page contains release notes information for [Aspose.BarCode for Python via Java 26.8](https://releases.aspose.com/barcode/python-java/new-releases/aspose.barcode-for-python-via-java-26.8/).
 
-## Important notice for the next release
 
 {{% /alert %}} 
 ## **All Changes**
@@ -43,7 +42,8 @@ The following deprecated API members have been removed:
 - `QRVersion.VERSION_M1`, `QRVersion.VERSION_M2`, `QRVersion.VERSION_M3`, and `QRVersion.VERSION_M4` have been removed. Use `MicroQRVersion` instead.
 - `QREncodeMode.BYTES` and `QREncodeMode.EXTENDED_CODETEXT` have been removed. Use `QREncodeMode.BINARY` and `QREncodeMode.EXTENDED` instead.
 - `QREncodeMode.ECI_ENCODING` has been removed. Use `QREncodeMode.ECI` instead.
-- `QREncodeMode.UTF_8_BOM` and `QREncodeMode.UTF_16_BEBOM` have been removed. Use `BarcodeGenerator.set_code_text` with the required encoding instead.
+- `QREncodeMode.UTF_8_BOM` and `QREncodeMode.UTF_16_BEBOM` have been removed. 
+Use `BarcodeGenerator.set_code_text(code_text, encoding, True)` with the required encoding to insert a BOM instead.
 - The deprecated `QREncodeType` enum has been removed. Use `EncodeTypes.QR` or `EncodeTypes.MICRO_QR`, together with `MicroQRVersion` where applicable.
 
 ### Removed deprecated BarcodeGenerator parameter properties
@@ -62,7 +62,7 @@ If required, process escape sequences in the codetext before passing it to `Barc
 - From `QrParameters`: `qr_encode_type`. Use `EncodeTypes.MICRO_QR` and `MicroQRVersion` to generate Micro QR barcodes.
 - From `Pdf417Parameters`: `pdf417_encode_mode`, `pdf417_error_level`, `pdf417_eci_encoding`, and `pdf417_truncate`. Use `encode_mode`, `error_level`, `eci_encoding`, and `truncate` instead.
 - From `Pdf417Parameters`: `pdf417_compaction_mode`.
-- From `Pdf417Parameters`, the deprecated Macro PDF417 aliases `pdf417_macro_file_id`, `pdf417_macro_segment_id`, `pdf417_macro_segments_count`, `pdf417_macro_eci_encoding`, `pdf417_macro_terminator`, `pdf417_macro_file_name`, `pdf417_macro_time_stamp`, `pdf417_macro_sender`, `pdf417_macro_addressee`, `pdf417_macro_file_size`, and `pdf417_macro_checksum`. Use the corresponding `macro_pdf417_file_id`, `macro_pdf417_segment_id`, `macro_pdf417_segments_count`, `macro_pdf417_eci_encoding`, `macro_pdf417_terminator`, `macro_pdf417_file_name`, `macro_pdf417_time_stamp`, `macro_pdf417_sender`, `macro_pdf417_addressee`, `macro_pdf417_file_size`, and `macro_pdf417_checksum` properties instead.
+- From `Pdf417Parameters`, the deprecated Macro PDF417 aliases `pdf417_macro_file_id`, `pdf417_macro_segment_id`, `pdf417_macro_segments_count`, `pdf417_macro_eci_encoding`, `pdf417_macro_terminator`, `pdf417_macro_file_name`, `pdf417_macro_time_stamp`, `pdf417_macro_sender`, `pdf417_macro_addressee`, `pdf417_macro_file_size`, and `pdf417_macro_checksum`. Use the corresponding `macro_pdf_417_file_id`, `macro_pdf_417_segment_id`, `macro_pdf_417_segments_count`, `macro_pdf_417_eci_encoding`, `macro_pdf_417_terminator`, `macro_pdf_417_file_name`, `macro_pdf_417_time_stamp`, `macro_pdf_417_sender`, `macro_pdf_417_addressee`, `macro_pdf_417_file_size`, and `macro_pdf_417_checksum` properties instead.
 - From `ITFParameters`: `itf_border_thickness` and `itf_border_type`. Use `border_thickness` and `border_type` instead.
 - From `DataMatrixParameters`: `data_matrix_ecc`, `data_matrix_version`, and `data_matrix_encode_mode`. Use `ecc_type`, `version`, and `encode_mode` instead.
 - From `DataMatrixParameters`: `columns` and `rows`. Use `version` instead.
