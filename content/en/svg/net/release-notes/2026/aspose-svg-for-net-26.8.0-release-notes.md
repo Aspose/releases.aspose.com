@@ -24,9 +24,9 @@ As per the regular monthly update process of all APIs being offered by Aspose, w
 Aspose.SVG for .NET 26.8.0 is published as part of the August monthly release.
 
 **Package references**<br>
-Aspose.SVG for .NET 26.8.0 [NuGet](https://www.nuget.org/packages/Aspose.Svg)<br>
-Aspose.SVG for Python via .NET  26.8.0 [PyPI](https://pypi.org/project/aspose-svg-net/)
+Aspose.SVG for .NET 26.8.0 [NuGet](https://www.nuget.org/packages/Aspose.Svg)
 
 ## **Improvements and Changes**
 
-- Maintenance build for the August 26.8.0 release of Aspose.SVG for .NET.
+- `SVGTextContentElement.GetComputedTextLength()` now returns the actual text advance distance for `<text>` content.
+- Improved parameter binding between the scripting engine and the DOM, so callbacks passed to platform methods are invoked reliably.
