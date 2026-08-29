@@ -24,7 +24,7 @@ menuItemWithNoContent: false
 | PSDJAVA-872 | Improving Layer Effects processing according to the logic of the new Overlay Effects Blending algorithm. | Bug          |
 | PSDJAVA-873 | Arithmetic operation resulted in an overflow on Image.Load in file with complex smart filter Liquify.    | Bug          |
 | PSDJAVA-874 | Effect loss when working with smart objects.                                                             | Bug          |
-| PSDJAVA-874 | Regression: Output becomes much darker than the source image.                                            | Bug          |
+| PSDJAVA-875 | Regression: Output becomes much darker than the source image.                                            | Bug          |
 
 ## **Public API Changes**
 
