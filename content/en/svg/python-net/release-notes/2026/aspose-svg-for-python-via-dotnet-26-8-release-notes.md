@@ -28,5 +28,5 @@ Aspose.SVG for Python via .NET 26.8.0 [NuGet](https://www.nuget.org/packages/Asp
 
 ## **Improvements and Changes**
 
-- `SVGTextContentElement.GetComputedTextLength()` now returns the actual text advance distance for `<text>` content.
+- `SVGTextContentElement.getComputedTextLength()` now returns the actual text advance distance for `<text>` content.
 - Improved parameter binding between the scripting engine and the DOM, so callbacks passed to platform methods are invoked reliably.
