@@ -20,15 +20,13 @@ This page contains release notes information for [Aspose.BarCode for Android via
 {{% /alert %}} 
 ## **All Changes**
 
-| **Key**           | **Summary**                                  | **Category** |
-|:------------------|:---------------------------------------------|:-------------|
-| BARCODENET-39614 | Remove obsolete APIs to improve library quality                                              | Enhancement  |
-| BARCODEJAVA-2393 | Clean up ported Java code and replace redundant porter artifacts with native Java constructs | Enhancement  |
-| BARCODEJAVA-2394 | Refactor ported enum classes to native Java enums                                            | Enhancement  |
+| **Key**            | **Summary**                                                                                  | **Category** |
+|:-------------------|:---------------------------------------------------------------------------------------------|:-------------|
+| BARCODENET-39614   | Remove deprecated APIs to improve library quality                                            | Enhancement  |
+| BARCODEJAVA-2393   | Clean up ported Java code and replace redundant porter artifacts with native Java constructs | Enhancement  |
+| BARCODEJAVA-2394   | Refactor ported enum classes to native Java enums                                            | Enhancement  |
 
 ## Public API changes
-
-### Removed deprecated enum members and types
 
 The following deprecated API members have been removed from the `com.aspose.barcode.generation` package:
 
@@ -42,8 +40,8 @@ The following deprecated API members have been removed from the `com.aspose.barc
 - `QREncodeMode.BYTES` and `QREncodeMode.EXTENDED_CODETEXT` have been removed. Use `QREncodeMode.BINARY` and `QREncodeMode.EXTENDED` instead.
 - `QREncodeMode.ECI_ENCODING` has been removed. Use `QREncodeMode.ECI` instead.
 - `QREncodeMode.UTF_8_BOM` and `QREncodeMode.UTF_16_BEBOM` have been removed. Use `BarcodeGenerator.setCodeText` with the required encoding instead.
-- The deprecated `QREncodeType` enum has been removed.
-  Use `EncodeTypes.QR` or `EncodeTypes.MICRO_QR`, together with `MicroQRVersion` where applicable.
+- The deprecated `QREncodeType` enum has been removed. 
+Use `EncodeTypes.QR` or `EncodeTypes.MICRO_QR`, together with `MicroQRVersion` where applicable.
 
 ### Removed deprecated BarcodeGenerator parameter properties
 
@@ -87,25 +85,6 @@ The following deprecated API members have been removed from the `com.aspose.barc
 - From `MaxiCodeExtendedParameters`: `getMaxiCodeMode()`, `getMaxiCodeStructuredAppendModeBarcodeId()`, and `getMaxiCodeStructuredAppendModeBarcodesCount()`. Use `getMode()`, `getStructuredAppendModeBarcodeId()`, and `getStructuredAppendModeBarcodesCount()` instead.
 - From `DotCodeExtendedParameters`: `getDotCodeIsReaderInitialization()`, `getDotCodeStructuredAppendModeBarcodeId()`, and `getDotCodeStructuredAppendModeBarcodesCount()`. Use `getIsReaderInitialization()`, `getStructuredAppendModeBarcodeId()`, and `getStructuredAppendModeBarcodesCount()` instead.
 - From `CodabarExtendedParameters`: `getCodabarStartSymbol()` and `getCodabarStopSymbol()`. Use `getStartSymbol()` and `getStopSymbol()` instead.
-
-### Swing BarCodeGeneratorControl API changes
-
-The following deprecated properties have been removed from `BarCodeGeneratorControl`.
-
-`BarCodeGeneratorControl` is designed for use in Swing applications. It extends Swing class `JLabel` and can be placed onto UI.
-
-- From `BarCodeGeneratorControl`: `getEnableEscape()` and `setEnableEscape(boolean)`.
-  If required, process escape sequences in the codetext before passing it to `BarcodeGenerator`.
-- From `AztecParametersUI`: `getAztecErrorLevel()`, `setAztecErrorLevel(...)`, `getAztecSymbolMode()`, `setAztecSymbolMode(...)`, `getAztecEncodeMode()`, and `setAztecEncodeMode(...)`. Use `getErrorLevel()`, `setErrorLevel(...)`, `getSymbolMode()`, `setSymbolMode(...)`, `getEncodeMode()`, and `setEncodeMode(...)` instead.
-- From `DataMatrixParametersUI`: `getDataMatrixEcc()`, `setDataMatrixEcc(...)`, `getDataMatrixVersion()`, `setDataMatrixVersion(...)`, `getDataMatrixEncodeMode()`, and `setDataMatrixEncodeMode(...)`. Use `getEccType()`, `setEccType(...)`, `getVersion()`, `setVersion(...)`, `getEncodeMode()`, and `setEncodeMode(...)` instead.
-- From `DataMatrixParametersUI`: `getColumns()`, `setColumns(...)`, `getRows()`, and `setRows(...)`. Use `getVersion()` and `setVersion(...)` instead.
-- From `HanXinParametersUI`: `getHanXinECIEncoding()`, `setHanXinECIEncoding(...)`, `getHanXinEncodeMode()`, `setHanXinEncodeMode(...)`, `getHanXinErrorLevel()`, `setHanXinErrorLevel(...)`, `getHanXinVersion()`, and `setHanXinVersion(...)`. Use `getECIEncoding()`, `setECIEncoding(...)`, `getEncodeMode()`, `setEncodeMode(...)`, `getErrorLevel()`, `setErrorLevel(...)`, `getVersion()`, and `setVersion(...)` instead.
-- From `Pdf417ParametersUI`: `getPdf417EncodeMode()`, `setPdf417EncodeMode(...)`, `getPdf417ErrorLevel()`, `setPdf417ErrorLevel(...)`, `getPdf417Truncate()`, and `setPdf417Truncate(...)`. Use `getEncodeMode()`, `setEncodeMode(...)`, `getErrorLevel()`, `setErrorLevel(...)`, `getTruncate()`, and `setTruncate(...)` instead.
-- From `Pdf417ParametersUI`: `getPdf417CompactionMode()` and `setPdf417CompactionMode(...)`.
-- From `Pdf417ParametersUI`, the deprecated Macro PDF417 aliases `getPdf417MacroFileID()`, `setPdf417MacroFileID(...)`, `getPdf417MacroSegmentID()`, `setPdf417MacroSegmentID(...)`, `getPdf417MacroSegmentsCount()`, `setPdf417MacroSegmentsCount(...)`, `getPdf417MacroECIEncoding()`, `setPdf417MacroECIEncoding(...)`, `getPdf417MacroTerminator()`, `setPdf417MacroTerminator(...)`, `getPdf417MacroFileName()`, `setPdf417MacroFileName(...)`, `getPdf417MacroTimeStamp()`, `setPdf417MacroTimeStamp(...)`, `getPdf417MacroSender()`, `setPdf417MacroSender(...)`, `getPdf417MacroAddressee()`, `setPdf417MacroAddressee(...)`, `getPdf417MacroFileSize()`, `setPdf417MacroFileSize(...)`, `getPdf417MacroChecksum()`, and `setPdf417MacroChecksum(...)`. Use the corresponding `getMacroPdf417FileID()`, `setMacroPdf417FileID(...)`, `getMacroPdf417SegmentID()`, `setMacroPdf417SegmentID(...)`, `getMacroPdf417SegmentsCount()`, `setMacroPdf417SegmentsCount(...)`, `getMacroPdf417ECIEncoding()`, `setMacroPdf417ECIEncoding(...)`, `getMacroPdf417Terminator()`, `setMacroPdf417Terminator(...)`, `getMacroPdf417FileName()`, `setMacroPdf417FileName(...)`, `getMacroPdf417TimeStamp()`, `setMacroPdf417TimeStamp(...)`, `getMacroPdf417Sender()`, `setMacroPdf417Sender(...)`, `getMacroPdf417Addressee()`, `setMacroPdf417Addressee(...)`, `getMacroPdf417FileSize()`, `setMacroPdf417FileSize(...)`, `getMacroPdf417Checksum()`, and `setMacroPdf417Checksum(...)` instead.
-- From `QrParametersUI`: `getQrEncodeMode()`, `setQrEncodeMode(...)`, `getQrErrorLevel()`, `setQrErrorLevel(...)`, `getQrVersion()`, and `setQrVersion(...)`. Use `getEncodeMode()`, `setEncodeMode(...)`, `getErrorLevel()`, `setErrorLevel(...)`, `getVersion()`, and `setVersion(...)` instead.
-- From `QrParametersUI`: `getQrEncodeType()` and `setQrEncodeType(...)`. Use `EncodeTypes.MICRO_QR` and `MicroQRVersion` to generate Micro QR barcodes.
-
 
 ### BARCODEJAVA-2393
 - Removed hash code helpers such as `getHashCode()` and `getStateHash()` and replaced their usage with the standard Java `hashCode()`.
