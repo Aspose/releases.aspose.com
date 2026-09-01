@@ -25,7 +25,14 @@ menuItemWithNoContent: false
 | IMAGINGPYTHONNET-542 | EMF: incorrect export to PNG and PDF | Enhancement | 
 | IMAGINGPYTHONNET-541 | Implement VectorImage.Create method that provide the ability to create a vector image without specifying its format. | Feature | 
 
+
 ## Public API changes:
+
+### Added APIs:
+
+Method aspose.imaging.VectorImage.create(width, height, graphics_unit)
+
+### Removed APIs:
 
 
 ## Usage Examples:
