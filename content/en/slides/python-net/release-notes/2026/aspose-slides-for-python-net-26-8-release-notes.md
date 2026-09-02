@@ -30,25 +30,10 @@ This page contains release notes for [Aspose.Slides for Python via .NET 26.8](ht
 
 **Read this page if your code worked on 26.7 and stopped working on 26.8.**
 
-Version 26.8 replaces the engine that connects Python to .NET. Two things changed as a result: the drawing primitives moved into the `aspose.slides` module, and the bundled runtime now requires OpenSSL 3.
-Both are quick to fix. Jump straight to [I Have an Error](#i-have-an-error) if you already have a traceback in front of you.
+Version 26.8 replaces the engine that connects Python to .NET. The drawing primitives moved into the `aspose.slides` module.
+Jump straight to [I Have an Error](#i-have-an-error) if you have an issues after upgrade.
 
-## What Changed and Why
-
-Aspose.Slides for Python via .NET is a Python wrapper around the .NET version of the product. Version 26.8 ships a **new connection engine** between the two layers.
-
-|**Layer**|**Before 26.8**|**26.8 and later**|
-| :- | :- | :- |
-|Python to .NET bridge|Previous interop engine with Python dynamic modules|New connection engine with direct calls|
-|Underlying .NET product|Earlier target framework|.NET 6 build of Aspose.Slides for .NET|
-|Bundled runtime|Earlier runtime|.NET 10 runtime|
-|Cryptography backend|OpenSSL 1.1|OpenSSL 3|
-
-The new engine changes how .NET types are projected into Python. Under the old engine, the basic geometry and color types were surfaced through a separate `aspose.pydrawing` module. The new engine projects them directly into the main module, so they are now part of `aspose.slides`.
-
-This is why **your imports break even though the API itself did not change**. `Color.red` still means the same thing and takes the same arguments - only the module it comes from is different.
-
-#### Types That Moved
+### Types That Moved
 
 |**Type**|**Before 26.8**|**26.8 and later**|
 | :- | :- | :- |
@@ -69,7 +54,6 @@ Find your traceback in the left column.
 |`AttributeError: module 'aspose.pydrawing' has no attribute 'Color'` (or `Point`, `Rectangle`, ...)|The package is 26.8, the code still points at the old module|[Updating Your Code](#updating-your-code)|
 |`ImportError: cannot import name 'Color' from 'aspose.pydrawing'`|Same cause, `from`-import form|[Updating Your Code](#updating-your-code)|
 |`ImportError: cannot import name 'Color' from 'aspose.slides'`|The code was migrated but the package is still 26.7 or older|`pip install --upgrade aspose.slides`|
-|`ImportError: libssl.so.3: cannot open shared object file`|The OS provides OpenSSL 1.1 only|[Upgrade the environment](#openssl-3-requirement)|
 |`ModuleNotFoundError: No module named 'aspose.pydrawing'`|Old `aspose.pydrawing` side module still importing|[Updating Your Code](#updating-your-code)|
 |`NameError: name 'slides' is not defined`|A migration script rewrote a reference in a scope where `aspose.slides` is not imported|Add the import to that scope; see [Local Imports](#local-imports)|
 |`TypeError` on a color or point argument|A value from `aspose.pydrawing` is being passed to the new API|Both sides must come from `aspose.slides`|
@@ -131,16 +115,19 @@ This handles every import form at once - including aliases and `as` renames - wi
 
 **Linux:**
 
+{{% collapse title="Simple replacement on Linux/MacOS" %}}
 ```bash
 grep -rlZ --include='*.py' 'aspose\.pydrawing' . \
   | xargs -0 -r sed -i.bak 's/aspose\.pydrawing/aspose.slides/g'
 ```
+{{% /collapse %}}
 
 On macOS use `sed -i ''` instead of `sed -i.bak`, or install GNU sed as `gsed`.
 
 **Windows (PowerShell):**
 
-```powershell
+{{% collapse title="Simple replacement on Windows" %}}
+```
 Get-ChildItem -Recurse -Filter *.py | ForEach-Object {
   $t = Get-Content $_ -Raw
   $new = $t -replace 'aspose\.pydrawing', 'aspose.slides'
@@ -151,20 +138,25 @@ Get-ChildItem -Recurse -Filter *.py | ForEach-Object {
   }
 }
 ```
+{{% /collapse %}}
 
 To undo on Linux:
 
+{{% collapse title="Restore on Linux" %}}
 ```bash
 find . -name '*.py.bak' -exec sh -c 'mv "$1" "${1%.bak}"' _ {} \;
 ```
+{{% /collapse %}}
 
 To undo on Windows:
 
-```powershell
+{{% collapse title="Restore on Windows" %}}
+```
 Get-ChildItem -Recurse -Filter *.py.bak | ForEach-Object {
   Move-Item $_.FullName ($_.FullName -replace '\.bak$', '') -Force
 }
 ```
+{{% /collapse %}}
 
 Two things to be aware of. This is a plain text replacement, so it also rewrites occurrences inside strings, comments and docstrings - review the diff.
 And an aliased import becomes `import aspose.slides as drawing`, which works correctly but leaves a misleading alias name; rename it if you care about readability.
@@ -328,18 +320,15 @@ import aspose.slides as slides
 color = slides.Color.red
 ```
 
-### OpenSSL 3 Requirement
+## OpenSSL 3 is supported
 
-This is the change most likely to break a build pipeline rather than a single script, so check it first.
+OpenSSL 3 is now supported on Windows, Linux, macOS (both x86-64 and ARM64). If both OpenSSL 1.1.1 and 3.x are present on the host, the 3.x library is loaded by default.
 
-The bundled .NET 10 runtime links against OpenSSL 3. On a system that provides only OpenSSL 1.1, the package fails to load and no amount of code migration will help.
+## Linux ARM64 platform is supported
 
-Check the environment before doing anything else:
+We are pleased to announce the release of the ARM64 edition of Aspose.Slides for Python via .NET for Linux, optimized for ARM-based platforms. This architecture powers a growing share of modern cloud and edge infrastructure - from AWS Graviton and Ampere-based servers to single-board devices - delivering strong performance with excellent energy efficiency.
 
-```bash
-openssl version                                            # expect OpenSSL 3.x
-ldconfig -p | grep -E 'libssl\.so\.3|libcrypto\.so\.3'     # expect two matches
-```
+Aspose.Slides for Python on Linux ARM64 offers the same features as Aspose.Slides for Python on Windows (they share the same documentation and API reference). For more information on Aspose.Slides capabilities, see [Features Overview](https://docs.aspose.com/slides/python-net/features-overview/).
 
 ## Public API Changes
 
