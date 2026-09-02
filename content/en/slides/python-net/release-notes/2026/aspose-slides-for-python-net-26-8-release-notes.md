@@ -66,11 +66,11 @@ Find your traceback in the left column.
 
 |**Error**|**Cause**|**Fix**|
 | :- | :- | :- |
-|`AttributeError: module 'aspose.pydrawing' has no attribute 'Color'` (or `Point`, `Rectangle`, ...)|The package is 26.8, the code still points at the old module|[Update the imports](#updating-your-code)|
-|`ImportError: cannot import name 'Color' from 'aspose.pydrawing'`|Same cause, `from`-import form|[Update the imports](#updating-your-code)|
+|`AttributeError: module 'aspose.pydrawing' has no attribute 'Color'` (or `Point`, `Rectangle`, ...)|The package is 26.8, the code still points at the old module|[Updating Your Code](#updating-your-code)|
+|`ImportError: cannot import name 'Color' from 'aspose.pydrawing'`|Same cause, `from`-import form|[Updating Your Code](#updating-your-code)|
 |`ImportError: cannot import name 'Color' from 'aspose.slides'`|The code was migrated but the package is still 26.7 or older|`pip install --upgrade aspose.slides`|
 |`ImportError: libssl.so.3: cannot open shared object file`|The OS provides OpenSSL 1.1 only|[Upgrade the environment](#openssl-3-requirement)|
-|`ModuleNotFoundError: No module named 'aspose.pydrawing'`|Old `aspose.pydrawing` side module still importing|[Update the imports](#updating-your-code)|
+|`ModuleNotFoundError: No module named 'aspose.pydrawing'`|Old `aspose.pydrawing` side module still importing|[Updating Your Code](#updating-your-code)|
 |`NameError: name 'slides' is not defined`|A migration script rewrote a reference in a scope where `aspose.slides` is not imported|Add the import to that scope; see [Local Imports](#local-imports)|
 |`TypeError` on a color or point argument|A value from `aspose.pydrawing` is being passed to the new API|Both sides must come from `aspose.slides`|
 
@@ -116,7 +116,7 @@ The practical consequences:
 - **You do not need to keep the module around for anything.** There are no leftover types that only exist there.
 - **Any surviving reference is a bug.** After migration there should be no `aspose.pydrawing`.
 
-### Updating Your Code
+### **Updating Your Code** {#updating-your-code}
 
 Pick the approach that matches the size of your code base.
 
