@@ -1,0 +1,9 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+{{ $title := .Get "title" | default (.Get 0) | default "Details" }}
+{{ $open := or (eq (.Get "open") "true") (.Get "open" | eq true) }}
+<details class="collapse-block"{{ if $open }} open{{ end }}>
+<summary class="collapse-summary">{{ $title | safeHTML }}</summary>
+<div class="collapse-content">
+{{ .Inner | markdownify }}
+</div>
+</details>

@@ -173,7 +173,7 @@ And an aliased import becomes `import aspose.slides as drawing`, which works cor
 
 The same rename, portable across Linux, macOS and Windows. Runs as a preview by default.
 
-{{</* details summary="Show script migrate.py" */>}}
+{{% collapse title="Script migrate.py" %}}
 ```python
 import sys
 from pathlib import Path
@@ -209,7 +209,7 @@ for p in files:
 print(f"{changed} file(s) {'changed' if W else 'to change'}"
       + ("" if W or not changed else "; rerun with --write to apply"))
 ```
-{{</* /details */>}}
+{{% /collapse %}}
 
 Run `python migrate.py` to preview, then `python migrate.py --write [--backup]`. Same caveat as above: it does not distinguish code from strings and comments.
 Files could be restored by using undo script from previous chapter.
@@ -222,7 +222,7 @@ Because the module has no remaining contents, the script deletes every `aspose.p
 
 Where it cannot be certain, it prints a warning and changes nothing rather than guessing.
 
-{{</* details summary="Show script migrate_advanced.py" */>}}
+{{% collapse title="Script migrate_advanced.py" %}}
 ```python
 import ast, sys
 from pathlib import Path
@@ -294,7 +294,7 @@ for p in files:
                 p.with_suffix(p.suffix + ".bak").write_text(s, encoding="utf-8")
             p.write_text(n, encoding="utf-8")
 ```
-{{</* /details */>}}
+{{% /collapse %}}
 
 Run `python migrate_advanced.py src/` first and read the warnings, then `python migrate_advanced.py src/ --write [--backup]`. The script is idempotent: running it a second time on already migrated code changes nothing.
 Files could be restored by using undo script from pre-previous chapter.
