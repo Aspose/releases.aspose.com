@@ -128,7 +128,6 @@ grep -rlZ --include='*.py' 'aspose\.pydrawing' . \
 ```
 {{% /collapse %}}
 
-
 On macOS use `sed -i ''` instead of `sed -i.bak`, or install GNU sed as `gsed`.
 
 **Windows (PowerShell):**
@@ -147,7 +146,6 @@ Get-ChildItem -Recurse -Filter *.py | ForEach-Object {
 ```
 {{% /collapse %}}
 
-
 To undo on Linux:
 
 {{% collapse title="Restore on Linux" %}}
@@ -155,7 +153,6 @@ To undo on Linux:
 find . -name '*.py.bak' -exec sh -c 'mv "$1" "${1%.bak}"' _ {} \;
 ```
 {{% /collapse %}}
-
 
 To undo on Windows (PowerShell):
 
@@ -166,7 +163,6 @@ Get-ChildItem -Recurse -Filter *.py.bak | ForEach-Object {
 }
 ```
 {{% /collapse %}}
-
 
 Two things to be aware of. This is a plain text replacement, so it also rewrites occurrences inside strings, comments and docstrings - review the diff.
 And an aliased import becomes `import aspose.slides as drawing`, which works correctly but leaves a misleading alias name; rename it if you care about readability.
@@ -212,7 +208,6 @@ print(f"{changed} file(s) {'changed' if W else 'to change'}"
       + ("" if W or not changed else "; rerun with --write to apply"))
 ```
 {{% /collapse %}}
-
 
 Run `python migrate.py` to preview, then `python migrate.py --write [--backup]`. Same caveat as above: it does not distinguish code from strings and comments.
 Files could be restored by using undo script from previous chapter.
@@ -299,7 +294,6 @@ for p in files:
 ```
 {{% /collapse %}}
 
-
 Run `python migrate_advanced.py src/` first and read the warnings, then `python migrate_advanced.py src/ --write [--backup]`. The script is idempotent: running it a second time on already migrated code changes nothing.
 Files could be restored by using undo script from pre-previous chapter.
 
@@ -319,7 +313,6 @@ color = drawing.Color.red
 ```
 {{% /collapse %}}
 
-
 This is correct and works in any scope. Because the alias is left untouched, an import inside a function body migrates exactly like one at module level:
 
 {{% collapse title="Not readable code after migration" %}}
@@ -330,7 +323,6 @@ def get_red_color():
 ```
 {{% /collapse %}}
 
-
 No new name is introduced, so there is nothing that can fall out of scope. The only downside is a misleading name: an alias called `drawing` now points at `aspose.slides`. Rename it if you care about readability, or make the intent explicit by converting to the plain form:
 
 {{% collapse title="Readable code after migration" %}}
@@ -339,7 +331,6 @@ import aspose.slides as slides
 color = slides.Color.red
 ```
 {{% /collapse %}}
-
 
 #### Documentation
 
@@ -361,7 +352,7 @@ Aspose.Slides for Python on Linux ARM64 offers the same features as Aspose.Slide
 
 ### Support for rendering an image of an individual paragraph
 
-The new `GetImage` methods have been added to the `IParagraph` interface and `Paragraph` class. These methods allow you to render a paragraph as an image.
+The new `get_image` methods have been added to the `IParagraph` interface and `Paragraph` class. These methods allow you to render a paragraph as an image.
 
 **Usage examples**
 
