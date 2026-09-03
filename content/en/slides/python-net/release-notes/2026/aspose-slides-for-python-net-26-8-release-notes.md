@@ -63,6 +63,7 @@ Find your traceback in the left column.
 
 If you only have a handful of call sites, this is the whole migration:
 
+{{% collapse title="Changes in code with standard imports" %}}
 ```python
 # Before
 import aspose.pydrawing as drawing
@@ -76,7 +77,9 @@ import aspose.slides as slides
 shape.fill_format.solid_fill_color.color = slides.Color.red
 origin = slides.Point(10, 20)
 ```
+{{% /collapse %}}
 
+{{% collapse title="Changes in code with from-imports" %}}
 The `from`-import form:
 
 ```python
@@ -86,6 +89,8 @@ from aspose.pydrawing import Color, Point
 # After
 from aspose.slides import Color, Point
 ```
+{{% /collapse %}}
+
 
 Names, arguments and behaviour are unchanged. Only the module differs.
 
@@ -123,6 +128,7 @@ grep -rlZ --include='*.py' 'aspose\.pydrawing' . \
 ```
 {{% /collapse %}}
 
+
 On macOS use `sed -i ''` instead of `sed -i.bak`, or install GNU sed as `gsed`.
 
 **Windows (PowerShell):**
@@ -141,6 +147,7 @@ Get-ChildItem -Recurse -Filter *.py | ForEach-Object {
 ```
 {{% /collapse %}}
 
+
 To undo on Linux:
 
 {{% collapse title="Restore on Linux" %}}
@@ -148,6 +155,7 @@ To undo on Linux:
 find . -name '*.py.bak' -exec sh -c 'mv "$1" "${1%.bak}"' _ {} \;
 ```
 {{% /collapse %}}
+
 
 To undo on Windows (PowerShell):
 
@@ -158,6 +166,7 @@ Get-ChildItem -Recurse -Filter *.py.bak | ForEach-Object {
 }
 ```
 {{% /collapse %}}
+
 
 Two things to be aware of. This is a plain text replacement, so it also rewrites occurrences inside strings, comments and docstrings - review the diff.
 And an aliased import becomes `import aspose.slides as drawing`, which works correctly but leaves a misleading alias name; rename it if you care about readability.
@@ -203,6 +212,7 @@ print(f"{changed} file(s) {'changed' if W else 'to change'}"
       + ("" if W or not changed else "; rerun with --write to apply"))
 ```
 {{% /collapse %}}
+
 
 Run `python migrate.py` to preview, then `python migrate.py --write [--backup]`. Same caveat as above: it does not distinguish code from strings and comments.
 Files could be restored by using undo script from previous chapter.
@@ -289,6 +299,7 @@ for p in files:
 ```
 {{% /collapse %}}
 
+
 Run `python migrate_advanced.py src/` first and read the warnings, then `python migrate_advanced.py src/ --write [--backup]`. The script is idempotent: running it a second time on already migrated code changes nothing.
 Files could be restored by using undo script from pre-previous chapter.
 
@@ -308,6 +319,7 @@ color = drawing.Color.red
 ```
 {{% /collapse %}}
 
+
 This is correct and works in any scope. Because the alias is left untouched, an import inside a function body migrates exactly like one at module level:
 
 {{% collapse title="Not readable code after migration" %}}
@@ -318,6 +330,7 @@ def get_red_color():
 ```
 {{% /collapse %}}
 
+
 No new name is introduced, so there is nothing that can fall out of scope. The only downside is a misleading name: an alias called `drawing` now points at `aspose.slides`. Rename it if you care about readability, or make the intent explicit by converting to the plain form:
 
 {{% collapse title="Readable code after migration" %}}
@@ -327,9 +340,8 @@ color = slides.Color.red
 ```
 {{% /collapse %}}
 
-#### Documentation
 
-## Documentation
+#### Documentation
 
 The changes described above are covered in detail in [Migrate to the New Engine](https://docs.aspose.com/slides/python-net/migrate-to-new-engine/).
 
