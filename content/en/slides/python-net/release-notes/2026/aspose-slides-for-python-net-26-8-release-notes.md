@@ -27,6 +27,7 @@ This page contains release notes for [Aspose.Slides for Python via .NET 26.8](ht
 ## Other Improvements and Changes
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
+|SLIDESPYNET-364|Use Aspose.Slides for Net 26.8 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2026/aspose-slides-for-net-26-8-release-notes/>|
 
 **Read this page if your code worked on 26.7 and stopped working on 26.8.**
 
@@ -148,7 +149,7 @@ find . -name '*.py.bak' -exec sh -c 'mv "$1" "${1%.bak}"' _ {} \;
 ```
 {{% /collapse %}}
 
-To undo on Windows:
+To undo on Windows (PowerShell):
 
 {{% collapse title="Restore on Windows" %}}
 ```
@@ -295,6 +296,7 @@ Files could be restored by using undo script from pre-previous chapter.
 
 Both the shell command and the AST script rename the module while leaving the alias alone:
 
+{{% collapse title="Alias renaming" %}}
 ```python
 # Before
 import aspose.pydrawing as drawing
@@ -304,21 +306,34 @@ color = drawing.Color.red
 import aspose.slides as drawing
 color = drawing.Color.red
 ```
+{{% /collapse %}}
 
 This is correct and works in any scope. Because the alias is left untouched, an import inside a function body migrates exactly like one at module level:
 
+{{% collapse title="Not readable code after migration" %}}
 ```python
 def get_red_color():
     import aspose.slides as drawing    # was aspose.pydrawing
     return drawing.Color.red           # unchanged
 ```
+{{% /collapse %}}
 
 No new name is introduced, so there is nothing that can fall out of scope. The only downside is a misleading name: an alias called `drawing` now points at `aspose.slides`. Rename it if you care about readability, or make the intent explicit by converting to the plain form:
 
+{{% collapse title="Readable code after migration" %}}
 ```python
 import aspose.slides as slides
 color = slides.Color.red
 ```
+{{% /collapse %}}
+
+#### Documentation
+
+## Documentation
+
+The changes described above are covered in detail in [Migrate to the New Engine](https://docs.aspose.com/slides/python-net/migrate-to-new-engine/).
+
+The article explains what changed and why, lists the errors you may encounter with their fixes, and provides ready-to-run scripts that apply the migration across an entire code base.
 
 ## OpenSSL 3 is supported
 
@@ -326,7 +341,7 @@ OpenSSL 3 is now supported on Windows, Linux, macOS (both x86-64 and ARM64). If 
 
 ## Linux ARM64 platform is supported
 
-We are pleased to announce the release of the ARM64 edition of Aspose.Slides for Python via .NET for Linux, optimized for ARM-based platforms. This architecture powers a growing share of modern cloud and edge infrastructure - from AWS Graviton and Ampere-based servers to single-board devices - delivering strong performance with excellent energy efficiency.
+We are pleased to announce the release of the ARM64 edition of Aspose.Slides for Python via .NET for Linux for ARM-based platforms. This architecture powers a growing share of modern cloud and edge infrastructure - from AWS Graviton and Ampere-based servers to single-board devices - delivering strong performance with excellent energy efficiency.
 
 Aspose.Slides for Python on Linux ARM64 offers the same features as Aspose.Slides for Python on Windows (they share the same documentation and API reference). For more information on Aspose.Slides capabilities, see [Features Overview](https://docs.aspose.com/slides/python-net/features-overview/).
 
@@ -340,4 +355,46 @@ The new `GetImage` methods have been added to the `IParagraph` interface and `Pa
 
 The following example shows how to render each paragraph in all AutoShapes on a slide as an image with custom scaling:
 
+```python
+import aspose.slides as slides
+
+with slides.Presentation("sample.pptx") as pres:
+    slide = pres.slides[0]
+    shape_index = 0
+
+    for shape in slide.shapes:
+        shape_index += 1
+
+        if not isinstance(shape, slides.AutoShape) or shape.text_frame is None:
+            continue
+
+        paragraph_index = 0
+        for paragraph in auto_shape.text_frame.paragraphs:
+            paragraph_index += 1
+
+            with paragraph.get_image(2, 2) as paragraph_image:
+                paragraph_image.save(str.format("shape{0}_paragraph{1}.png", shape_index, paragraph_index))
+```
+
 The following example shows how to render each paragraph in a table:
+
+```python
+import aspose.slides as slides
+
+with slides.Presentation("sample.pptx") as pres:
+    slide = pres.slides[0]
+    table = slide.shapes[0]
+    paragraph_index = 0
+
+    for row_idx in range(len(table.rows)):
+        for col_idx in range(len(table.cols)):
+            cell = table.rows[row_idx][col_idx]
+            if cell.text_frame is None:
+                continue
+
+            for paragraph in cell.text_frame.paragraphs:
+                paragraph_index += 1
+
+                with paragraph.get_image(2, 2) as paragraph_image:
+                    paragraph_image.save(str.format("paragraph{0}.png", paragraph_index))
+```
