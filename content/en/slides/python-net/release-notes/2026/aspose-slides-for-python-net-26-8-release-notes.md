@@ -56,7 +56,7 @@ Find your traceback in the left column.
 |`ImportError: cannot import name 'Color' from 'aspose.pydrawing'`|Same cause, `from`-import form|[Updating Your Code](#updating-your-code)|
 |`ImportError: cannot import name 'Color' from 'aspose.slides'`|The code was migrated but the package is still 26.7 or older|`pip install --upgrade aspose.slides`|
 |`ModuleNotFoundError: No module named 'aspose.pydrawing'`|Old `aspose.pydrawing` side module still importing|[Updating Your Code](#updating-your-code)|
-|`NameError: name 'slides' is not defined`|A migration script rewrote a reference in a scope where `aspose.slides` is not imported|Add the import to that scope; see [Local Imports](#local-imports)|
+|`NameError: name 'slides' is not defined`|A migration script rewrote a reference in a scope where `aspose.slides` is not imported|Add the import of `aspose.slides` to that scope|
 |`TypeError` on a color or point argument|A value from `aspose.pydrawing` is being passed to the new API|Both sides must come from `aspose.slides`|
 
 #### The One-Minute Fix
