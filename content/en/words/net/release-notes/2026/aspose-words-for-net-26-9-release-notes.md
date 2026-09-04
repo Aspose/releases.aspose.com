@@ -196,6 +196,7 @@ public string Password { get; set; }
 /// The default value is 100 seconds.
 /// </summary>
 public TimeSpan Timeout { get; set; }
+{{< /highlight >}}
 
 This use case explains how to use TameStamping option:
 {{< gist "aspose-words-gists" "a6f77f12161f1577c687e4456007f964" "sign-document-with-timestamping.cs" >}}
