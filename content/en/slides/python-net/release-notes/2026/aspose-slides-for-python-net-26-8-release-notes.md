@@ -28,6 +28,15 @@ This page contains release notes for [Aspose.Slides for Python via .NET 26.8](ht
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
 |SLIDESPYNET-364|Use Aspose.Slides for Net 26.8 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2026/aspose-slides-for-net-26-8-release-notes/>|
+|SLIDESPYNET-345|.NET Core 3.1 EOL|Investigation||
+|SLIDESPYNET-335|Conflict between Aspose.Slides and Aspose.Cells for Python due to aspose.pydrawing native extension overwrite|Bug||
+|SLIDESPYNET-351|Upgrade Aspose.Slides packages to .NET 8+ runtime|Feature||
+|SLIDESPYNET-290|Support the ARM architecture on Linux|Feature||
+|SLIDESPYNET-329|Support OpenSSL package to 3.x (openssl3 lib)|Feature||
+|SLIDESPYNET-312|Import conflict: Aspose.Slides 25.9 & Aspose.Words 25.10|Investigation||
+|SLIDESPYNET-227|Support handling exceptions like in .NET|Feature||
+|SLIDESPYNET-251|Inquiry about support for .NET runtime newer than .NET Core 3.1|Investigation||
+|SLIDESPYNET-292|CVE-2024-0057 vulnerability|Enhancement||
 
 **Read this page if your code worked on 26.7 and stopped working on 26.8.**
 
@@ -349,6 +358,81 @@ We are pleased to announce the release of the ARM64 edition of Aspose.Slides for
 Aspose.Slides for Python on Linux ARM64 offers the same features as Aspose.Slides for Python on Windows (they share the same documentation and API reference). For more information on Aspose.Slides capabilities, see [Features Overview](https://docs.aspose.com/slides/python-net/features-overview/).
 
 ## Public API Changes
+
+### Supported handling exceptions like in .NET
+
+Errors raised by Aspose.Slides now reach Python as typed exceptions instead of a generic RuntimeError. Every exception type of the .NET API has a Python counterpart with the same name and the same inheritance, so try/except blocks is similar to .NET ones:
+
+```python
+from aspose.slides import Presentation, PptxReadException, InvalidPasswordException
+
+try:
+    with Presentation("report.pptx") as pres:
+        pres.save("report.pdf", SaveFormat.PDF)
+except InvalidPasswordException:
+    print("The presentation is password-protected.")
+except PptxReadException as e:
+    print("Cannot read the file:", e)
+```
+
+There is scheme with some of existing Aspose.Slides exceptions:
+
+```
+Exception
+└── AsposeSlidesException
+    ├── InvalidPasswordException
+    ├── SlidesAIAgentException
+    ├── AxesCompositionNotCombinableException
+    ├── CannotCombine2DAnd3DChartsException
+    ├── OdpException
+    │   └── OdpReadException
+    ├── OOXMLException
+    │   ├── OOXMLCorruptFileException
+    │   └── PptxException
+    │       ├── PptxReadException
+    │       │   └── PptxUnsupportedFormatException
+    │       └── PptxEditException
+    │           ├── CellCircularReferenceException
+    │           ├── CellInvalidFormulaException
+    │           ├── CellInvalidReferenceException
+    │           └── CellUnsupportedDataException
+    └── PptException
+        ├── PptEditException
+        └── PptReadException
+            ├── PptCorruptFileException
+            └── PptUnsupportedFormatException
+```
+
+`except AsposeSlidesException:` is the catch-all for *any* failure coming from the library - including the .NET framework errors listed in the next section, which are made to derive from it as well.
+
+#### .NET exceptions map to Python built-ins
+
+Errors that .NET raises from the BCL rather than from Aspose.Slides arrive as the idiomatic Python type, so `except FileNotFoundError:` works where you would have written `catch (FileNotFoundException)`:
+
+| .NET exception | Python exception |
+| --- | --- |
+| `System.IO.FileNotFoundException`, `System.IO.DirectoryNotFoundException` | `FileNotFoundError` |
+| `System.ArgumentException`, `System.ArgumentNullException`, `System.ArgumentOutOfRangeException` | `ValueError` |
+| `System.InvalidOperationException`, `System.NullReferenceException` | `RuntimeError` |
+| `System.NotSupportedException` | `NotImplementedError` |
+| `System.UnauthorizedAccessException` | `PermissionError` |
+| `System.OutOfMemoryException` | `MemoryError` |
+| `System.OverflowException` | `OverflowError` |
+| `System.TypeLoadException` | `ImportError` |
+| any other .NET exception | `AsposeSlidesException` |
+
+#### Errors detected before the call reaches .NET
+
+Argument problems are reported by the Python layer itself, with the Python type that
+fits the mistake - no round trip to .NET, and no `RuntimeError` for what is really a
+programming error:
+
+| Situation | Exception |
+| --- | --- |
+| No overload matches the supplied arguments, or an argument has the wrong type | `TypeError` (message lists the candidate overloads) |
+| A value is out of the allowed range - e.g. `Color.from_argb(300, 204, 102, 0)`, `ShapeType(9999)` | `ValueError` |
+| Index outside a collection - `pres.slides[999]` | `IndexError` |
+| Unknown attribute or method on a wrapper object | `AttributeError` |
 
 ### Support for rendering an image of an individual paragraph
 
