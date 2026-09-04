@@ -79,9 +79,9 @@ origin = slides.Point(10, 20)
 ```
 {{% /collapse %}}
 
-{{% collapse title="Changes in code with from-imports" %}}
 The `from`-import form:
 
+{{% collapse title="Changes in code with from-imports" %}}
 ```python
 # Before
 from aspose.pydrawing import Color, Point
