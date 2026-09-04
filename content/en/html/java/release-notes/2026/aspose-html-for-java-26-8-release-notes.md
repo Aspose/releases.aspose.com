@@ -30,3 +30,8 @@ Fixed emphasis processing in the Markdown parser by correcting delimiter stack t
 Extended `MarkdownSyntaxFactory` with support for creating and validating link titles, link destinations, and link labels. The new functionality provides consistent parsing and validation of Markdown link components, including validation of label syntax and length.
 
 Improved the interaction between `MarkdownSyntaxTree` and `MarkdownParser` by preserving the parser instance associated with a syntax tree. Syntax trees now retain their parser during construction, allowing syntax factory operations to use the same parser and configuration context consistently.
+
+##### List of issues that have been improved
+| **Key**       | **Summary**                                          | **Category** |
+|---------------|------------------------------------------------------|--------------|
+| HTMLJAVA-2655 | MHT to PDF: NullPointerException in MarkdownParser   | Bug          |
