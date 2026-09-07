@@ -1,0 +1,15 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-html",
+  "id" : "26-9",
+  "packageFiles" : [ {
+    "size" : "34 MB",
+    "name" : "aspose-html-26.9.jar"
+  }, {
+    "size" : "394 bytes",
+    "name" : "aspose-html-26.9.pom"
+  } ],
+  "releasehDate" : "2026-09-07T12:59:33+00:00",
+  "version" : "26.9",
+  "ReleaseNotes" : "https://releases.aspose.com/html/java/release-notes/2026/aspose-html-for-java-26-9-release-notes/"
+}
