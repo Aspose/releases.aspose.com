@@ -35,3 +35,5 @@ Improved the interaction between `MarkdownSyntaxTree` and `MarkdownParser` by pr
 | **Key**       | **Summary**                                          | **Category** |
 |---------------|------------------------------------------------------|--------------|
 | HTMLJAVA-2655 | MHT to PDF: NullPointerException in MarkdownParser   | Bug          |
+
+##### Public API changes
