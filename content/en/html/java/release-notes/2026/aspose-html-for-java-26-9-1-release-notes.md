@@ -109,4 +109,4 @@ try (HTMLDocument document = new HTMLDocument("document.html")) {
 ##### List of issues that have been improved
 | **Key**       | **Summary**                                    | **Category** |
 |---------------|------------------------------------------------|--------------|
-| HTMLJAVA-2130 | MHT to PDF: Exception Incompatible unit types. | Bug          |
+| HTMLJAVA-2023 | MHT to PDF: Exception Incompatible unit types. | Bug          |
