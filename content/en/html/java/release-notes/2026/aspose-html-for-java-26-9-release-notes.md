@@ -44,3 +44,8 @@ try (SVGDocument document = new SVGDocument("document.svg")) {
     // Work with the document
 }
 ```
+
+##### List of issues that have been improved
+| **Key**       | **Summary**                                    | **Category** |
+|---------------|------------------------------------------------|--------------|
+| HTMLJAVA-2130 | MHT to PDF: Exception Incompatible unit types. | Bug          |
