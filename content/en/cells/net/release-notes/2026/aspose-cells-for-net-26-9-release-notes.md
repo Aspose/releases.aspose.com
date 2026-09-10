@@ -19,9 +19,26 @@ This page contains release notes for [Aspose.Cells for .NET 26.9](https://www.nu
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
+|CELLSGRIDJS-2721|Support search  redaction across  multiple sheets|New Feature
+|CELLSGRIDJS-2708|Support multiple shape fill types, including no fill, solid fill, texture fill, and pattern fill|New Feature
+|CELLSGRIDJS-2736|Add GridJS Semantic Automation instance and runtime lifecycle contract|New Feature
+|CELLSGRIDJS-2737|Add GridJS Semantic workbook and sheet read APIs|New Feature
+|CELLSGRIDJS-2738|Add GridJS Semantic cell, range, and selection read APIs|New Feature
+|CELLSGRIDJS-2739|Add GridJS Semantic sheet activation and cell/range selection actions|New Feature
+|CELLSGRIDJS-2758|Supports an Excel-like ChartSheet view without worksheet cells, headers, selection effects, or chart deletion.|New Feature
+|CELLSGRIDJS-2594|Support render thread comment|New Feature
 |CELLSNET-60501|Support saving XLS with long ODBC connection command|Enhancement
 |CELLSNET-60515|Support automatically group pivot field without any settings.|Enhancement
 |CELLSNET-60523|Support grouping pivot field with interval days|Enhancement
+|CELLSGRIDJS-2742|The page should scroll along with the redaction during resize operations.|Enhancement
+|CELLSGRIDJS-2743|Maintain scrollbar tracking when mouse cursor leaves the canvas area|Enhancement
+|CELLSGRIDJS-2713|Improve server-side shape fill loading, validation, persistence, and image regeneration|Enhancement
+|CELLSGRIDJS-2728|Add a alert for charts that do not support rendering.|Enhancement
+|CELLSGRIDJS-2729|Supports displaying sheets that contain only one chart.|Enhancement
+|CELLSGRIDJS-2746|Implement text adjustment for Shape style adjustment.|Enhancement
+|CELLSGRIDJS-2748|Shape resizing just stretches the old image without re-rendering.|Enhancement
+|CELLSGRIDJS-2759|Improves ChartSheet layout with centered rendering, vertical scrolling, and no horizontal scrollbar.|Enhancement
+|CELLSGRIDJS-2623|Performance: Viewer is slow while applying 4000+ redactions|Enhancement
 |CELLSNET-60482|Arrow shape clipped in PDF and HTML conversion on Workbook.Save method|Bug
 |CELLSNET-60483|Text in Excel text boxes appears differently in the PDF output compared to the Excel display.|Bug
 |CELLSNET-60494|Vertical flip is not preserved when saving excel workbook as PDF|Bug
@@ -37,6 +54,18 @@ This page contains release notes for [Aspose.Cells for .NET 26.9](https://www.nu
 |CELLSNET-60547|"Nested bulleted list indentation and style lost" on Cell.HtmlString property|Bug
 |CELLSNET-60542|Smart Marker formula reference expansion differs from Aspose.Cells 8.6.1|Bug
 |CELLSNET-60580|Referred incorrect pivot item when reading xls|Bug
+|CELLSGRIDJS-2734|Able to select last row cells even when not clicking on the last row (clicking on the blank space below the last row)|Bug
+|CELLSGRIDJS-2741|Redactions dragged outside of active data ranges are snapping back|Bug
+|CELLSGRIDJS-2772|"Newtonsoft.Json.JsonReaderException" on ExportToJson method|Bug
+|CELLSGRIDJS-2715|Fix shape refresh issues on regular and frozen-pane canvases|Bug
+|CELLSGRIDJS-2724|Performance degradation when editing cells in workbooks with conditional formatting rules|Bug
+|CELLSGRIDJS-2747|Some font colors change from white to black after editing Shape text.|Bug
+|CELLSGRIDJS-2760|ChartSheet content is clipped after switching sheets or resizing the viewport.|Bug
+|CELLSGRIDJS-2761|Gridlines disappear after freezing panes on a worksheet containing merged cells.|Bug
+|CELLSNET-60442|Missing count numbers subtotal result of multiple data pivot fields|Bug
+|CELLSNET-60443|Count function of pivot table is changed.|Bug
+|CELLSNET-60374|Fixed incorrect cell values during Numbers to XLSX conversion|Bug
+|CELLSGRIDJS-2635|SyncRedactionsBatch payload sent during the resize operation is missing the fontSetting property|Bug
 |CELLSNET-60507|"System.OverflowException" on Chart.ToImage method|Exception
 |CELLSNET-60541|"System.ArgumentOutOfRangeException" when reading a Workbook with treemap chart|Exception
 |CELLSNET-60502|"System.NullReferenceException" on Workbook.SaveAsync method|Exception
@@ -45,6 +74,7 @@ This page contains release notes for [Aspose.Cells for .NET 26.9](https://www.nu
 |CELLSNET-60528|Aspose.Cells 26.7.0.0 - Exception: ArgumentException on loading document|Exception
 |CELLSNET-60529|Aspose.Cells 26.7.0.0 - Exception: ArgumentOutOfRangeException on loading document|Exception
 |CELLSNET-60530|Aspose.Cells 26.7.0.0 - Exception: OverflowException on loading document|Exception
+|CELLSNET-60455|"Aspose.Cells.CellsException: File is corrupted" on Workbook constructor|Exception
 
 ## **Public API and Backwards Incompatible Changes**
 
