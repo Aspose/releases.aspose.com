@@ -24,6 +24,7 @@ This page contains release notes for [Aspose.Cells for Java 26.9](https://releas
 |CELLSJAVA-46790|The background gradient is incorrect of an excel chart |Bug
 |CELLSJAVA-41503|Font Substitution Warnings not working while converting spreadsheet to HTML format|Bug
 |CELLSJAVA-46808|Conditional rendering in smart markers template|Bug
+|CELLSJAVA-46814|Angled text rendered small and misplaced on Workbook.Save method|Bug
 |CELLSJAVA-46815|Values lost when rendering nested simple array on WorkbookDesigner.process() method|Bug
 |CELLSJAVA-46823|Conditional rendering in Aspose cells smart markers template within if but with array|Bug
 |CELLSJAVA-46809|wk: XLSX to PDF - Shape to Image error|Exception
