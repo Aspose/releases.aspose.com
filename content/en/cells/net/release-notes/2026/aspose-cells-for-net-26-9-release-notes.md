@@ -92,10 +92,6 @@ Exports the PivotTable view to a JSON string.
 
 Indicates whether to keep cached local group data if the maximum and minimum values remain unchanged.
 
-### **Adds new type PivotViewToJsonOptions**
-
-Encapsulates the options used by PivotTable.ExportViewToJson for customizing the JSON output.
-
 ### **Adds new method PivotGlobalizationSettings.GetTextOf24Hours()**
 
 Gets all local formatted strings of 24 hours.
@@ -107,4 +103,48 @@ Gets the local formatted string of "or".
 ### **Adds new method PivotGlobalizationSettings.GetFormatOfDayGroup()**
 
 Gets the number format of the pivot day group.
+
+### **Adds new type PivotViewToJsonOptions**
+
+Defines options that control how a PivotTable view is exported to JSON, such as formatting and inclusion of hidden items.
+
+### **Adds new constructor Range.Range(CellArea, Cells)**
+
+Initializes a new Range object based on a CellArea structure and a reference to a Cells collection.
+
+### **Adds new constructor Range.Range(Int32, Int32, Int32, Int32, Cells)**
+
+Initializes a new Range object using the specified start row, start column, end row, end column, and a reference to a Cells collection.
+
+### **Removed method PivotTable.SetManualGroupField(Pivot.PivotField, Double, Double, Collections.ArrayList, Double)**
+
+Obsolete method previously used to set a manual numeric grouping for a pivot field.
+
+### **Removed method PivotTable.SetManualGroupField(Int32, DateTime, DateTime, Collections.ArrayList, Int32)**
+
+Obsolete method previously used to set a manual date grouping for a pivot field by column index.
+
+### **Removed method PivotTable.SetManualGroupField(Pivot.PivotField, DateTime, DateTime, Collections.ArrayList, Int32)**
+
+Obsolete method previously used to set a manual date grouping for a pivot field.
+
+### **Removed method PivotTable.SetUngroup(Int32)**
+
+Obsolete method previously used to remove grouping from a pivot field by column index.
+
+### **Removed method PivotTable.SetUngroup(Pivot.PivotField)**
+
+Obsolete method previously used to remove grouping from a specific pivot field.
+
+### **Removed method PivotTable.SetAutoGroupField(Int32)**
+
+Obsolete method previously used to automatically group a pivot field by column index.
+
+### **Removed method PivotTable.SetAutoGroupField(Pivot.PivotField)**
+
+Obsolete method previously used to automatically group a specific pivot field.
+
+### **Removed method PivotTable.SetManualGroupField(Int32, Double, Double, Collections.ArrayList, Double)**
+
+Obsolete overload previously used to set a manual numeric grouping for a pivot field by column index.
 
