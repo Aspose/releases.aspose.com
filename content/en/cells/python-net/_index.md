@@ -28,6 +28,14 @@ Please use the following {{< Common/link href="https://pypi.org/project/aspose-c
 
 [Product Page](https://products.aspose.com/cells/python-net/) | [Docs](https://docs.aspose.com/cells/python-net/) | [Demos](https://products.aspose.app/cells/family/) | [API Reference](https://reference.aspose.com/cells/net/) | [Examples](https://github.com/aspose-cells/Aspose.Cells-for-Python-via-.NET) | [Blog](https://blog.aspose.com/category/cells/) | [Free Support](https://forum.aspose.com/c/cells) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
 
+### AI Coding Agent SKILL
+
+Build applications with Aspose.Cells for Python via .NET using AI coding agents.
+
+The **Aspose.Cells Python via .NET SKILL** provides structured documentation and verified code examples to help AI coding agents generate accurate Python code using Aspose.Cells for Python via .NET.
+
+[Learn how to use Aspose.Cells SKILL](https://github.com/aspose-cells/skills/tree/main/aspose-cells-python-via-net-skill)
+
 ### Spreadsheet Python via .NET On-premise API Features
 
 - Spreadsheet generation & manipulation via API.
