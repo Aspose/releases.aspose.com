@@ -37,6 +37,9 @@ This page contains release notes for Aspose.Cells for Python via .NET 26.9.
 |CELLSNET-60547|"Nested bulleted list indentation and style lost" on Cell.HtmlString property|Bug
 |CELLSNET-60542|Smart Marker formula reference expansion differs from Aspose.Cells 8.6.1|Bug
 |CELLSNET-60580|Referred incorrect pivot item when reading xls|Bug
+|CELLSNET-60442|Missing count numbers subtotal result of multiple data pivot fields|Bug
+|CELLSNET-60443|Count function of pivot table is changed.|Bug
+|CELLSNET-60374|Fixed incorrect cell values during Numbers to XLSX conversion|Bug
 |CELLSNET-60507|"System.OverflowException" on Chart.ToImage method|Exception
 |CELLSNET-60541|"System.ArgumentOutOfRangeException" when reading a Workbook with treemap chart|Exception
 |CELLSNET-60502|"System.NullReferenceException" on Workbook.SaveAsync method|Exception
@@ -45,3 +48,4 @@ This page contains release notes for Aspose.Cells for Python via .NET 26.9.
 |CELLSNET-60528|Aspose.Cells 26.7.0.0 - Exception: ArgumentException on loading document|Exception
 |CELLSNET-60529|Aspose.Cells 26.7.0.0 - Exception: ArgumentOutOfRangeException on loading document|Exception
 |CELLSNET-60530|Aspose.Cells 26.7.0.0 - Exception: OverflowException on loading document|Exception
+|CELLSNET-60455|"Aspose.Cells.CellsException: File is corrupted" on Workbook constructor|Exception
