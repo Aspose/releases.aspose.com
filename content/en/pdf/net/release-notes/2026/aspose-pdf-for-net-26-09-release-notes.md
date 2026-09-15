@@ -54,7 +54,7 @@ private static void ConvertPdfToPptxWithUnderlineRecognition()
 
 #### Resolve Names of Embedded Files
 
-Aspose.PDF for .NET 26.9 adds `FileSpecification.GetFileName`. The method resolves an embedded file name from the available Unicode name, regular name, or collection key. You can supply a fallback name, and choose whether an empty name is allowed when no name is available.
+Aspose.PDF for .NET 26.9 adds the `FileSpecification.GetFileName` method. The method resolves an embedded file name using the Unicode name, regular file name, or collection key, whichever is available. You can provide a fallback name and specify whether an empty name is allowed when no file name is available.
 
 This enhancement addresses `PDFNET-62441`.
 
