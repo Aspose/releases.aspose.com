@@ -62,3 +62,43 @@ Gets the local formatted string of "or".
 ### **Adds new method PivotGlobalizationSettings.GetFormatOfDayGroup()**
 
 Gets the number format of the pivot day group.
+
+### **Adds new constructor Range.Range(CellArea, Cells)**
+
+Initializes a new Range object based on a CellArea structure and a reference to a Cells collection.
+
+### **Adds new constructor Range.Range(Int32, Int32, Int32, Int32, Cells)**
+
+Initializes a new Range object using the specified start row, start column, end row, end column, and a reference to a Cells collection.
+
+### **Removed method PivotTable.SetManualGroupField(Pivot.PivotField, Double, Double, Collections.ArrayList, Double)**
+
+Obsolete method previously used to set a manual numeric grouping for a pivot field.
+
+### **Removed method PivotTable.SetManualGroupField(Int32, DateTime, DateTime, Collections.ArrayList, Int32)**
+
+Obsolete method previously used to set a manual date grouping for a pivot field by column index.
+
+### **Removed method PivotTable.SetManualGroupField(Pivot.PivotField, DateTime, DateTime, Collections.ArrayList, Int32)**
+
+Obsolete method previously used to set a manual date grouping for a pivot field.
+
+### **Removed method PivotTable.SetUngroup(Int32)**
+
+Obsolete method previously used to remove grouping from a pivot field by column index.
+
+### **Removed method PivotTable.SetUngroup(Pivot.PivotField)**
+
+Obsolete method previously used to remove grouping from a specific pivot field.
+
+### **Removed method PivotTable.SetAutoGroupField(Int32)**
+
+Obsolete method previously used to automatically group a pivot field by column index.
+
+### **Removed method PivotTable.SetAutoGroupField(Pivot.PivotField)**
+
+Obsolete method previously used to automatically group a specific pivot field.
+
+### **Removed method PivotTable.SetManualGroupField(Int32, Double, Double, Collections.ArrayList, Double)**
+
+Obsolete overload previously used to set a manual numeric grouping for a pivot field by column index.
