@@ -26,7 +26,7 @@ This page contains release notes information for Aspose.PDF for .NET 26.9.
 
 #### Preserve Underline and Strikeout Formatting in PDF to PPTX Conversion
 
-Aspose.PDF for .NET 26.9 adds the `PptxSaveOptions.RecognizeUnderlineAndStrikeout` property. By default, the property is `true`, so underline and strikeout lines are recognized as editable text formatting during PDF to PPTX conversion. Set it to `false` to preserve these lines as graphics instead.
+Aspose.PDF for .NET 26.9 adds the `PptxSaveOptions.RecognizeUnderlineAndStrikeout` property. By default, the property is set to `true`, so underline and strikeout are preserved as editable text formatting during PDF-to-PPTX conversion. Set it to `false` to render these lines as graphics instead.
 
 This enhancement addresses `PDFNET-59027`.
 
