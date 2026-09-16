@@ -1,19 +1,24 @@
 ---
-id: "aspose-ocr-for-python-net-latest-release-notes"
-slug: "latest"
-weight: 1
 date: "2026-09-15"
+id: "aspose-ocr-python-26-9-1-release-notes"
+slug: "aspose-ocr-python-26-9-1-release-notes"
+linktitle: "Aspose.OCR for Python via .NET 26.9.1 - Release Notes"
+title: "Aspose.OCR for Python via .NET 26.9.1 - Release Notes"
 author: "Anna Pylaieva"
+weight: 40
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OCR for Python via .NET 26.9.1 (September 2026) release."
 type: "repository"
 layout: "release"
-title: Latest Release
-linktitle: "Latest Release"
-description: A summary of recent changes, enhancements and bug fixes introduced in the latest release of Aspose.OCR for Python via .NET.
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OCR for Python via .NET 26.9.1 - Release Notes"
 keywords:
-- latest
-- new
-- release
-- changelog
+- "2026"
+- "September"
+- "new"
+- "release"
+- "changelog"
+menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
