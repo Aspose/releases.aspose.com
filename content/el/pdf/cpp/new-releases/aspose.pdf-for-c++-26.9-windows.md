@@ -6,12 +6,12 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-26.9-windows/"
 folder_name: "Aspose.PDF για C++ 26.9 Windows"
-download_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-26.9-windows/9bca801ffe4536ac606f2ace176158dc-98-15950"
+download_link: "/pdf/cpp/new-releases/aspose.pdf-for-c++-26.9-windows/8737e9a7fe5bfad747fd6be618cd5fdc-98-15950"
 download_text: "Κατεβάστε"
 intro_text: "Aspose.PDF για εγγενή βιβλιοθήκη C++"
 image_link: "/resources/img/zip-icon.png"
-download_count: " 18/9/2026 Κατεβάστεs: 1  Views: 1 "
-file_size: "File Size: 488.66MB"
+download_count: " 18/9/2026 Κατεβάστεs: 6  Views: 1 "
+file_size: "File Size: 488.55MB"
 parent_path: "pdf/cpp"
 section_parent_path: "pdf/cpp"
 
@@ -24,19 +24,19 @@ weight: 301
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.PDF για C++ 26.9 Windows" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Κατεβάστε" link="/pdf/cpp/new-releases/aspose.pdf-for-c++-26.9-windows/9bca801ffe4536ac606f2ace176158dc-98-15950" >}}
+    {{< Releases/ReleasesSingleButtons text="Κατεβάστε" link="/pdf/cpp/new-releases/aspose.pdf-for-c++-26.9-windows/8737e9a7fe5bfad747fd6be618cd5fdc-98-15950" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Λεπτομέρειες αρχείου">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Κατεβάστεs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-9bca801ffe4536ac606f2ace176158dc-98-15950" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-8737e9a7fe5bfad747fd6be618cd5fdc-98-15950" >}} 6 {{< /Common/li >}}
       {{< Common/li >}} Μέγεθος αρχείου: {{< /Common/li >}}
-      {{< Common/li id="size-update-9bca801ffe4536ac606f2ace176158dc-98-15950" >}} 488.66MB {{< /Common/li >}}
+      {{< Common/li id="size-update-8737e9a7fe5bfad747fd6be618cd5fdc-98-15950" >}} 488.55MB {{< /Common/li >}}
 
       {{< Common/li >}} Ημερομηνία προστέθηκε: {{< /Common/li >}}
-      {{< Common/li id="added-update-9bca801ffe4536ac606f2ace176158dc-98-15950" >}}18/9/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-8737e9a7fe5bfad747fd6be618cd5fdc-98-15950" >}}18/9/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
