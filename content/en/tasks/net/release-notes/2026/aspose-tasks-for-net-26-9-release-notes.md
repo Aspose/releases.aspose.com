@@ -43,6 +43,7 @@ This page contains release notes information for [Aspose.Tasks for .Net 26.9](ht
 This release optimizes timephased data calculation by no longer adding baseline timephased data to the TimephasedData collection of Task, Resource, and Assignment objects. Baseline timephased data is now stored separately within each Baseline object.
 
 Timephased Data access changes
+
 Before version 26.9:
 Baseline timephased data was stored both in the Baseline object AND in the parent entity's TimephasedData collection. This led to increased memory consumption and performance overhead which could be noticeable for enterprise-level projects with large number of tasks, assignments and baselines.
 
@@ -52,7 +53,8 @@ Baseline timephased data is stored separately in Baseline.TimephasedData. The ne
 Regular timephased data is in the entity's TimephasedData collection.
 
 To retrieve baseline timephased data, use one of these methods:
-For Task:
+
+For:
 ```cs
 // Get baseline timephased data via Baseline object
 var baseline = task.Baselines.GetByType(BaselineType.Baseline);
