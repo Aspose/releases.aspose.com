@@ -514,6 +514,10 @@ workbook.Save("ChartWithTitles.xlsx");
 
 [![Version](https://img.shields.io/nuget/v/Aspose.Cells?style=for-the-badge&logo=NuGet&logoColor=white)](https://www.nuget.org/packages/Aspose.Cells) ![NuGet](https://img.shields.io/nuget/dt/Aspose.Cells?style=for-the-badge&logo=nuget&logoColor=white&color=007EC6) [![Org](https://img.shields.io/badge/Org-asposenet-blue?style=for-the-badge&logo=NuGet&logoColor=white&color=007EC6)](https://www.nuget.org/profiles/asposenet) [![Release Notes](https://img.shields.io/badge/Release%20Notes-43a047?style=for-the-badge&logo=hugo&logoColor=white)](https://releases.aspose.com/cells/net/release-notes/)
 
+{{< Common/release-notes-link family="cells" product="net" href="" text="" >}}
+
+<br>
+
 {{< ProductPageWrapper >}}
 <!-- ReleasesListProductPage-->
    {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="cells" product="net" >}}
