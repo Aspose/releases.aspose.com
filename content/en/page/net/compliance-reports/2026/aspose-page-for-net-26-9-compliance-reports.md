@@ -35,7 +35,7 @@ committed_by: "sergey.kolodyazhnyy@aspose.com"
 | Report | HTML | PDF |
 |--------|------|-----|
 | CWE Top 25 (2026) | {{< compliance-file relpath="/compliance-reports/page/net/2026/26.9/aspose-page-net-26.9-cwe-top-25-2026.html" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/page/net/2026/26.9/aspose-page-net-26.9-cwe-top-25-2026.pdf" text="View PDF" >}} |
-| OWASP Top 10 (2026) | {{< compliance-file relpath="/compliance-reports/page/net/2026/26.9/aspose-page-net-26.9-owasp-top-10-2026.html" text="View HTML" >}} | - |
+| OWASP Top 10 (2026) | {{< compliance-file relpath="/compliance-reports/page/net/2026/26.9/aspose-page-net-26.9-owasp-top-10-2026.html" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/page/net/2026/26.9/aspose-page-net-26.9-owasp-top-10-2026.pdf" text="View PDF" >}} |
 
 
 
