@@ -14,6 +14,7 @@ menuItemWithNoContent: false
 committed_by: "vadym.kiprich@aspose.com"
 ---
 
+![SBOM Available](https://img.shields.io/badge/SBOM-Available-brightgreen?style=flat-square&logo=dependabot)
 ![Security Rating](https://img.shields.io/badge/Security%20Rating-A-brightgreen?style=flat-square&logo=verizon)
 ![CWE Top 25](https://img.shields.io/badge/CWE%20Top%2025-2026-blue?style=flat-square&logo=checkmarx)
 ![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-2026-blue?style=flat-square&logo=openaccess)
@@ -28,6 +29,14 @@ committed_by: "vadym.kiprich@aspose.com"
 
 
 
+### Software Bill of Materials (SBOM)
+
+- {{< compliance-file relpath="/compliance-reports/tex/net/2026/26.9/aspose-tex-net-26.9_all_sboms.zip?t=1790252609" text="Download All SBOMs (ZIP)" download="true" >}} - 6.8 KB - *Last updated: September 24, 2026, 12:23 PM UTC*
+
+| Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
+|----------|----------------|---------------|-----------|----------|
+| .NET 7.0 | {{< compliance-file relpath="/compliance-reports/tex/net/2026/26.9/aspose-tex-net-26.9-net7.0_sbom-CycloneDX.json" text="View JSON" >}} | - | - | - |
+
 
 
 ### Security Weakness Coverage (CWE & OWASP)
@@ -35,7 +44,7 @@ committed_by: "vadym.kiprich@aspose.com"
 | Report | HTML | PDF |
 |--------|------|-----|
 | CWE Top 25 (2026) | {{< compliance-file relpath="/compliance-reports/tex/net/2026/26.9/aspose-tex-net-26.9_cwe-top-25-2026.html" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/tex/net/2026/26.9/aspose-tex-net-26.9_cwe-top-25-2026.pdf" text="View PDF" >}} |
-| OWASP Top 10 (2026) | - | {{< compliance-file relpath="/compliance-reports/tex/net/2026/26.9/aspose-tex-net-26.9_owasp-top-10-2026.pdf" text="View PDF" >}} |
+| OWASP Top 10 (2026) | {{< compliance-file relpath="/compliance-reports/tex/net/2026/26.9/aspose-tex-net-26.9_owasp-top-10-2026.html" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/tex/net/2026/26.9/aspose-tex-net-26.9_owasp-top-10-2026.pdf" text="View PDF" >}} |
 
 
 
