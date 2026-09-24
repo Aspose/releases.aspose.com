@@ -178,7 +178,6 @@ This differs from `Aspose.Email.Attachment`, which reads MIME content once into 
 **Memory footprint when saving.**
 Saving an MSG no longer allocates a copy of the message payload. For a message with a 64 MB attachment, the memory allocated by `Save` dropped from about 132 MB to about 5 MB, and no attachment content is retained after the call. This part of the change requires no code modifications and applies to the existing `byte[]` overloads as well.
 
----
 
 ### Deferred Attachment Content Loading
 
