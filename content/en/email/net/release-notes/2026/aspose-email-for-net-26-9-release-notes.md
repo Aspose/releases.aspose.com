@@ -4,7 +4,7 @@ slug: "aspose-email-for-net-26-9-release-notes"
 linktitle: "Aspose.Email for .NET 26.9 Release Notes"
 title: "Aspose.Email for .NET 26.9 Release Notes"
 weight: 15
-description: "Aspose.Email for .NET 26.9 Release Notes – latest updates, improvements, and fixes."
+description: "Aspose.Email for .NET 26.9 Release Notes - latest updates, improvements, and fixes."
 type: "repository"
 layout: "release"
 family_listing_page_title: "Aspose.Email for .NET 26.9 Release Notes"
@@ -20,47 +20,44 @@ This page contains release notes information for Aspose.Email for .NET 26.9
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-| EMAILNET-41820 | Stream-based attachment API and deferred attachment loading for MSG | Feature |
-| EMAILNET-41813 | Some files that are not eml or mht recognized as mht | Enhancement |
-| EMAILNET-41829 | Some EMLX files detected as EML | Enhancement |
-| EMAILNET-41824 | Add a method to TgzReader to get the quantity of items of different types | Enhancement |
-| EMAILNET-41830 | Add asynchronous methods to TgzReader and make it thread-safe | Enhancement |
-| EMAILNET-41831 | MailMessage cannot remove signature of MSG file | Bug |
-| EMAILNET-41846 | Space is skipped in extracted body text | Bug |
-| EMAILNET-41832 | MapiMessage.Recipients.Add - SMTP address validation bug | Bug |
-| EMAILNET-41816 | NullReferenceException in FromMailMessage when loading MAPI MSG file | Bug |
-| EMAILNET-41815 | MapiTask writes PidLidReminderTime and PidLidReminderSignalTime with a zero value when ReminderSet is false | Bug |
-| EMAILNET-41814 | Issue with HTML-to-RTF conversion | Bug |
-| EMAILNET-41838 | PST message properties not read | Bug |
+|EMAILNET-41820|Stream-based attachment API and deferred attachment loading for MSG|Feature|
+|EMAILNET-41813|Some files that are not eml or mht recognized as mht.|Enhancement|
+|EMAILNET-41829|Some EMLX files detected as EML.|Enhancement|
+|EMAILNET-41824|Add a method to TgzReader to get the quantity of items of different types.|Enhancement|
+|EMAILNET-41830|Add asynchronous methods to TgzReader and make it thread-safe.|Enhancement|
+|EMAILNET-41831|MailMessage cannot remove signature of MSG file|Bug|
+|EMAILNET-41846|Space is skipped in extracted body text|Bug|
+|EMAILNET-41832|MapiMessage.Recipients.Add - SMTP address validation bug|Bug|
+|EMAILNET-41816|NullReferenceException in FromMailMessage when loading MAPI MSG file - regression since 26.5|Bug|
+|EMAILNET-41815|MapiTask writes PidLidReminderTime and PidLidReminderSignalTime with a zero value when ReminderSet is false|Bug|
+|EMAILNET-41814|Issue with HTML-to-RTF conversion|Bug|
+|EMAILNET-41838|PST message properties not read|Bug|
 
+## New Features and Enhancements
 
-## New Features
+### Support for RFC Message file format detection
 
-### Support for RFC Message File Detection  
+Files that are not standard EML or MHT formats are now correctly identified as RFC messages, allowing broader compatibility when processing email files. The detection leverages the new FileFormatType.RfcMessage enum value.
 
-Files that are not in EML or MHT format are now correctly identified as RFC‑Message files. This improves handling of miscellaneous text-based email files whose protocol cannot be determined.  
+**Public API Changes:**
+- Aspose.Email.FileFormatType.RfcMessage
 
-**Public API Changes:**  
-- `Aspose.Email.FileFormatType.RfcMessage` – Represents messages in other text formats, consisting of headers and optionally a body when a specific protocol cannot be determined.  
-
-**Code Example:**  
+**Code Example:**
 ```csharp
 string fileName = "20200101065239_9738af470b0c4489aa3995522f66779a.trn";
 FileFormatInfo fileInfo = FileFormatUtil.DetectFileFormat(fileName);
 Assert.AreEqual(FileFormatType.RfcMessage, fileInfo.FileFormatType);
 ```
 
----
+### TgzReader GetItemsCount method for item type quantities
 
-### TgzReader.GetItemsCount Method Added  
+A new method enables you to retrieve the count of specific item types within a TGZ archive, simplifying content analysis. This addition works alongside the ItemType enumeration for clear type specification.
 
-A new overload lets you retrieve the number of items of a specific type inside a TGZ archive. This makes it easier to inspect archive contents without extracting them.  
+**Public API Changes:**
+- Aspose.Email.Storage.Zimbra.TgzReader.GetItemsCount(ItemType type)
+- Aspose.Email.Storage.Zimbra.ItemType
 
-**Public API Changes:**  
-- `Aspose.Email.Storage.Zimbra.TgzReader.GetItemsCount(ItemType type)` – Returns the number of items by type.  
-- `Aspose.Email.Storage.Zimbra.ItemType` – Represents an item type such as Message, Contact, Calendar, Task.  
-
-**Code Example:**  
+**Code Example:**
 ```csharp
 var fileName = "xhy.tgz";
 using (var reader = new TgzReader(fileName))
@@ -70,17 +67,15 @@ using (var reader = new TgzReader(fileName))
 }
 ```
 
----
+### Async item count methods for TgzReader
 
-### Async Methods Added to TgzReader  
+Asynchronous counterparts for item counting have been added, enabling non-blocking operations and better scalability in multithreaded scenarios. These methods also support cancellation tokens for graceful task termination.
 
-`TgzReader` now provides asynchronous APIs for counting items, enabling non‑blocking operations and better scalability. The class has also been made thread‑safe for concurrent use.  
+**Public API Changes:**
+- Aspose.Email.Storage.Zimbra.TgzReader.GetTotalItemsCountAsync(CancellationToken token = default)
+- Aspose.Email.Storage.Zimbra.TgzReader.GetItemsCountAsync(ItemType type, CancellationToken token = default)
 
-**Public API Changes:**  
-- `Aspose.Email.Storage.Zimbra.TgzReader.GetTotalItemsCountAsync(CancellationToken token = default)` – Gets the total count of items.  
-- `Aspose.Email.Storage.Zimbra.TgzReader.GetItemsCountAsync(ItemType type, CancellationToken token = default)` – Returns the number of items by type.  
-
-**Code Example:**  
+**Code Example:**
 ```csharp
 var fileName = "xhy.tgz";
 using (var reader = new TgzReader(fileName))
@@ -90,8 +85,6 @@ using (var reader = new TgzReader(fileName))
     int numberOfContacts  = await reader.GetItemsCountAsync(ItemType.Contact);
 }
 ```
-
----
 
 ### Adding Attachments from a Stream or a File
 
