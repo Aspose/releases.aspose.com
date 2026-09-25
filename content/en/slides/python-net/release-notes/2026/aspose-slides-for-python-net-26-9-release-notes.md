@@ -3,7 +3,7 @@ id: "aspose-slides-for-python-net-26-9-release-notes"
 slug: "aspose-slides-for-python-net-26-9-release-notes"
 linktitle: "Aspose.Slides for Python via .NET 26.9 Release Notes"
 title: "Aspose.Slides for Python via .NET 26.9 Release Notes"
-weight: 65
+weight: 60
 description: "Aspose.Slides for Python via .NET 26.9 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
@@ -25,7 +25,7 @@ This page contains release notes for [Aspose.Slides for Python via .NET 26.9](ht
 ## Other Improvements and Changes
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
-|SLIDESPYNET-XXX|Use Aspose.Slides for Net 26.9 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2026/aspose-slides-for-net-26-9-release-notes/>|
+|SLIDESPYNET-370|Use Aspose.Slides for Net 26.9 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2026/aspose-slides-for-net-26-9-release-notes/>|
 
 ## Public API Changes
 
