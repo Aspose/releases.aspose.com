@@ -3,7 +3,7 @@
   "artifactId" : "aspose-font",
   "id" : "26-8",
   "packageFiles" : [ {
-    "size" : "885 KB",
+    "size" : "908 KB",
     "name" : "aspose-font-26.8-javadoc.jar",
     "classifier" : "javadoc"
   }, {
@@ -13,7 +13,7 @@
     "size" : "393 bytes",
     "name" : "aspose-font-26.8.pom"
   } ],
-  "releasehDate" : "2026-08-24T12:44:08+00:00",
+  "releasehDate" : "2026-09-25T07:55:06+00:00",
   "version" : "26.8",
   "ReleaseNotes" : "https://releases.aspose.com/font/java/release-notes/2026/aspose-font-for-java-26-8-release-notes/"
 }
