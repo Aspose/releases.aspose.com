@@ -4,7 +4,7 @@ slug: "aspose-words-for-java-26-9-release-notes"
 linktitle: "Aspose.Words for Java 26.9 Release Notes"
 title: "Aspose.Words for Java 26.9 Release Notes"
 weight: 40
-description: "Aspose.Words for Java 26.9 Release Notes – the latest updates and fixes."`
+description: "Aspose.Words for Java 26.9 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
 hideChildren: false
