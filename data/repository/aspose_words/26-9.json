@@ -16,6 +16,14 @@
     "name" : "aspose-words-26.9-jdk17.jar",
     "classifier" : "jdk17"
   }, {
+    "size" : "3 MB",
+    "name" : "aspose-words-26.9-shaping-harfbuzz-legacy-plugin.jar",
+    "classifier" : "shaping-harfbuzz-legacy-plugin"
+  }, {
+    "size" : "3 MB",
+    "name" : "aspose-words-26.9-shaping-harfbuzz-plugin.jar",
+    "classifier" : "shaping-harfbuzz-plugin"
+  }, {
     "size" : "5 KB",
     "name" : "aspose-words-26.9.pom"
   } ],
