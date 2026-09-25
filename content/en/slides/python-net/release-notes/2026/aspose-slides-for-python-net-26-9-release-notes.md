@@ -26,6 +26,7 @@ This page contains release notes for [Aspose.Slides for Python via .NET 26.9](ht
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
 |SLIDESPYNET-370|Use Aspose.Slides for Net 26.9 features|Enhancement|<https://releases.aspose.com/slides/net/release-notes/2026/aspose-slides-for-net-26-9-release-notes/>|
+|SLIDESPYNET-91|Add support for delegates|Feature||
 
 ## Public API Changes
 
