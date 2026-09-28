@@ -1,21 +1,21 @@
 ---
-id: "aspose-zip-for-java-26-9-release-notes"
-slug: "aspose-zip-for-java-26-9-release-notes"
-linktitle: "Aspose.ZIP for Java 26.9 Release Notes"
-title: "Aspose.ZIP for Java 26.9 Release Notes"
+id: "aspose-zip-for-java-26-9-1-release-notes"
+slug: "aspose-zip-for-java-26-9-1-release-notes"
+linktitle: "Aspose.ZIP for Java 26.9.1 Release Notes"
+title: "Aspose.ZIP for Java 26.9.1 Release Notes"
 weight: 7
-description: "Aspose.ZIP for Java 26.9 Release Notes – the latest updates and fixes."
+description: "Aspose.ZIP for Java 26.9.1 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
 hideChildren: false
 toc: false
-family_listing_page_title: "Aspose.ZIP for Java 26.9 Release Notes"
+family_listing_page_title: "Aspose.ZIP for Java 26.9.1 Release Notes"
 menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
 
-This page contains release notes information for [Aspose.ZIP for Java 26.9](https://releases.aspose.com/zip/java/26-9/).
+This page contains release notes information for [Aspose.ZIP for Java 26.9.1](https://releases.aspose.com/zip/java/26-9-1/).
 
 {{% /alert %}}
 ## **All Changes**
