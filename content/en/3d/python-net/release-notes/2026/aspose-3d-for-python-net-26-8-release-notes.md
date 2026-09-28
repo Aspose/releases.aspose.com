@@ -25,14 +25,41 @@ This page contains release notes information for Aspose.3D for Python via .NET 2
 | THREEDNET-1783 | Fix the rendering of lines/point cloud was incorrect | Bug fixing |
 
 ## API Changes ##
-### Added class **aspose.threed.formats.UrdfLoadOptions**
-### Added class **aspose.threed.formats.UrdfMeshFormat**
-### Added class **aspose.threed.formats.UrdfSaveOptions**
+### Added class **aspose.threed.formats.GltfCompression**
+### Added class **aspose.threed.formats.DracoCompression**
+### Added class **aspose.threed.formats.MeshoptCompression**
+### Added class **aspose.threed.formats.JtLoadXtBRep**
+### Added class **aspose.threed.formats.XtLoadOptions**
+### Removed class **openize.drako.utils.ShannonEntropyTracker**
+### Removed class **openize.drako.utils.ShannonEntropyTracker.EntropyData**
 
 ### Added members to class **aspose.threed.FileFormat**:
 
 {{< highlight python >}}
-	URDF : aspose.threed.FileFormat
+	XT : aspose.threed.FileFormat
 {{< /highlight >}}
 
-The added new file format.
+
+### Added members to class **aspose.threed.formats.GltfSaveOptions**:
+
+{{< highlight python >}}
+	@property
+	def compression(self) -> aspose.threed.formats.GltfCompression
+	@compression.setter
+	def compression(self, value : aspose.threed.formats.GltfCompression) -> None
+{{< /highlight >}}
+
+
+You can choose draco/meshopt compression for glTF compression.
+
+
+### Added members to class **aspose.threed.formats.JtLoadOptions**:
+
+{{< highlight python >}}
+	@property
+	def load_xt_br_ep(self) -> aspose.threed.formats.JtLoadXtBRep
+	@load_xt_br_ep.setter
+	def load_xt_br_ep(self, value : aspose.threed.formats.JtLoadXtBRep) -> None
+{{< /highlight >}}
+
+This option allows you to load embedded XT mesh in JT file.

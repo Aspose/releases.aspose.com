@@ -25,15 +25,38 @@ This page contains release notes information for Aspose.3D for Java 26.8.
 | THREEDNET-1783 | Fix the rendering of lines/point cloud was incorrect | Bug fixing |
 
 ## API Changes ##
-### Added class **com.aspose.threed.UrdfLoadOptions**
-### Added class **com.aspose.threed.UrdfSaveOptions**
+### Added class **com.aspose.threed.GltfCompression**
+### Added class **com.aspose.threed.DracoCompression**
+### Added class **com.aspose.threed.MeshoptCompression**
+### Added class **com.aspose.threed.JtLoadXtBRep**
+### Added class **com.aspose.threed.XtLoadOptions**
+### Removed class **com.aspose.threed.ShannonEntropyTracker**
+### Removed class **com.aspose.threed.ShannonEntropyTracker.EntropyData**
 
 ### Added members to class **com.aspose.threed.FileFormat**:
 
 {{< highlight java >}}
-	public static com.aspose.threed.FileFormat URDF;
+	public static com.aspose.threed.FileFormat XT;
 {{< /highlight >}}
 
-The added new file format.
 
 
+### Added members to class **com.aspose.threed.GltfSaveOptions**:
+
+{{< highlight java >}}
+	public com.aspose.threed.GltfCompression getCompression()
+	public void setCompression(com.aspose.threed.GltfCompression value)
+{{< /highlight >}}
+
+You can choose draco/meshopt compression for glTF compression.
+
+
+
+### Added members to class **com.aspose.threed.JtLoadOptions**:
+
+{{< highlight java >}}
+	public com.aspose.threed.JtLoadXtBRep getLoadXtBRep()
+	public void setLoadXtBRep(com.aspose.threed.JtLoadXtBRep value)
+{{< /highlight >}}
+
+This option allows you to load embedded XT mesh in JT file.
