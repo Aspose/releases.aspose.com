@@ -25,38 +25,15 @@ This page contains release notes information for Aspose.3D for .NET 26.8.
 | THREEDNET-1783 | Fix the rendering of lines/point cloud was incorrect | Bug fixing |
 
 ## API Changes ##
-### Added class **Aspose.ThreeD.Formats.GltfCompression**
-### Added class **Aspose.ThreeD.Formats.DracoCompression**
-### Added class **Aspose.ThreeD.Formats.MeshoptCompression**
-### Added class **Aspose.ThreeD.Formats.JtLoadXtBRep**
-### Added class **Aspose.ThreeD.Formats.XtLoadOptions**
-### Removed class **Openize.Drako.Utils.ShannonEntropyTracker**
-### Removed class **Openize.Drako.Utils.ShannonEntropyTracker.EntropyData**
+### Added class **Aspose.ThreeD.Formats.UrdfLoadOptions**
+### Added class **Aspose.ThreeD.Formats.UrdfMeshFormat**
+### Added class **Aspose.ThreeD.Formats.UrdfSaveOptions**
 
 ### Added members to class **Aspose.ThreeD.FileFormat**:
 
 {{< highlight csharp >}}
-	public static readonly Aspose.ThreeD.FileFormat XT;
+	public static readonly Aspose.ThreeD.FileFormat URDF;
 {{< /highlight >}}
 
 
-
-
-### Added members to class **Aspose.ThreeD.Formats.GltfSaveOptions**:
-
-{{< highlight csharp >}}
-	public Aspose.ThreeD.Formats.GltfCompression Compression{ get;set;}
-{{< /highlight >}}
-
-
-You can choose draco/meshopt compression for glTF compression.
-
-
-### Added members to class **Aspose.ThreeD.Formats.JtLoadOptions**:
-
-{{< highlight csharp >}}
-	public Aspose.ThreeD.Formats.JtLoadXtBRep LoadXtBRep{ get;set;}
-{{< /highlight >}}
-
-
-This option allows you to load embedded XT mesh in JT file.
+The added new file format.
