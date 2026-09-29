@@ -14,6 +14,7 @@ menuItemWithNoContent: false
 committed_by: "lex.chou@aspose.com"
 ---
 
+![SBOM Available](https://img.shields.io/badge/SBOM-Available-brightgreen?style=flat-square&logo=dependabot)
 ![Security Rating](https://img.shields.io/badge/Security%20Rating-A-brightgreen?style=flat-square&logo=verizon)
 ![CWE Top 25](https://img.shields.io/badge/CWE%20Top%2025-2024-blue?style=flat-square&logo=checkmarx)
 ![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-2021-blue?style=flat-square&logo=openaccess)
@@ -27,6 +28,14 @@ committed_by: "lex.chou@aspose.com"
 - {{< compliance-file relpath="/compliance-reports/third-party-licenses/java/third-party-licenses-aspose-3d-java.pdf" text="Aspose.3D for Java Third-Party License" >}}
 
 
+
+### Software Bill of Materials (SBOM)
+
+- {{< compliance-file relpath="/compliance-reports/3d/java/2026/26.9/aspose-3d-java-26.9_all_sboms.zip?t=1790666890" text="Download All SBOMs (ZIP)" download="true" >}} - 10.3 KB - *Last updated: September 29, 2026, 7:28 AM UTC*
+
+| Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
+|----------|----------------|---------------|-----------|----------|
+| Java 8 | {{< compliance-file relpath="/compliance-reports/3d/java/2026/26.9/aspose-3d-java-26.9-java8_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/3d/java/2026/26.9/aspose-3d-java-26.9-java8_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/3d/java/2026/26.9/aspose-3d-java-26.9-java8_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/3d/java/2026/26.9/aspose-3d-java-26.9-java8_sbom-SPDX.xml" text="View XML" >}} |
 
 
 
