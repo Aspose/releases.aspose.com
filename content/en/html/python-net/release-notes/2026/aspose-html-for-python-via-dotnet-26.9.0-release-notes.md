@@ -24,9 +24,8 @@ As per the regular monthly update process of all APIs being offered by Aspose, w
 In this release, asynchronous methods for saving documents and handling resources have been added, a new property for managing concurrent requests has been introduced, and PDF conversion accuracy, EPUB loading stability, and CSS page margin handling have been improved.
 
 **Package references**<br>
-Aspose.HTML for Python via .NET 26.9.0 [NuGet](https://www.nuget.org/packages/Aspose.Html)<br>
-Aspose.HTML.Drawing for .NET 26.9.0 [NuGet](https://www.nuget.org/packages/Aspose.Html.Drawing)<br>
-Aspose.HTML for Python via .NET  26.9.0 [PyPI](https://pypi.org/project/aspose-html-net/)
+Aspose.HTML for .NET 26.9.0 [NuGet](https://www.nuget.org/packages/Aspose.Html)<br>
+Aspose.HTML for Python via .NET 26.9.0 [PyPI](https://pypi.org/project/aspose-html-net/)
 
 ## **Improvements and Changes**
 

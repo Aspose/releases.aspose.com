@@ -25,7 +25,7 @@ This release improves network resource handling and rendering stability. Cancell
 
 **Package references**<br>
 Aspose.HTML for .NET 26.7.0 [NuGet](https://www.nuget.org/packages/Aspose.Html)<br>
-Aspose.HTML for Python via .NET  26.7.0 [PyPI](https://pypi.org/project/aspose-html-net/)
+Aspose.HTML for Python via .NET 26.7.0 [PyPI](https://pypi.org/project/aspose-html-net/)
 
 ## **Improvements and Changes**
 

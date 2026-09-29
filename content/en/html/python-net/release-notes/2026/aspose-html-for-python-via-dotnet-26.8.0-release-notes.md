@@ -24,9 +24,9 @@ As per the regular monthly update process of all APIs being offered by Aspose, w
 In this release, the conversion to PDF with tag support has been improved, and the alignment of the grid layout has been improved. The API for working with attachments in MHTML format has also been expanded, and attributes of text elements in SVG format have been fixed. In addition, this release includes numerous improvements to the rendering engine when calculating the layout for blocks, tables, flexbox, and grid layouts.
 
 **Package references**<br>
-Aspose.HTML for Python via .NET 26.8.0 [NuGet](https://www.nuget.org/packages/Aspose.Html)<br>
+Aspose.HTML for .NET 26.8.0 [NuGet](https://www.nuget.org/packages/Aspose.Html)<br>
 Aspose.HTML.Drawing for .NET 26.8.0 [NuGet](https://www.nuget.org/packages/Aspose.Html.Drawing)<br>
-Aspose.HTML for Python via .NET  26.8.0 [PyPI](https://pypi.org/project/aspose-html-net/)
+Aspose.HTML for Python via .NET 26.8.0 [PyPI](https://pypi.org/project/aspose-html-net/)
 
 ## **Improvements and Changes**
 

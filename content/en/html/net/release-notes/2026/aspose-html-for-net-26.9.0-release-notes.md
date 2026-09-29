@@ -25,7 +25,7 @@ In this release, asynchronous methods for saving documents and handling resource
 
 **Package references**<br>
 Aspose.HTML for .NET 26.9.0 [NuGet](https://www.nuget.org/packages/Aspose.Html)<br>
-Aspose.HTML for Python via .NET  26.9.0 [PyPI](https://pypi.org/project/aspose-html-net/)
+Aspose.HTML for Python via .NET 26.9.0 [PyPI](https://pypi.org/project/aspose-html-net/)
 
 ## **Improvements and Changes**
 
