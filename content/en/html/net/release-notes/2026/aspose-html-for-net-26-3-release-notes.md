@@ -25,7 +25,7 @@ In this release, the conversion to PDF with tag support has been improved, and t
 **Package references**<br>
 Aspose.HTML for .NET 26.3.0 [NuGet](https://www.nuget.org/packages/Aspose.Html)<br>
 Aspose.HTML.Drawing for .NET 26.3.0 [NuGet](https://www.nuget.org/packages/Aspose.Html.Drawing)<br>
-Aspose.HTML for Python via .NET  26.3.0 [PyPI](https://pypi.org/project/aspose-html-net/)
+Aspose.HTML for Python via .NET 26.3.0 [PyPI](https://pypi.org/project/aspose-html-net/)
 
 
 ## **Improvements and Changes**

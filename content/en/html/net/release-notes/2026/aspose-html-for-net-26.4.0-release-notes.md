@@ -26,7 +26,7 @@ This release includes targeted april improvements focused on conversion stabilit
 **Package references**<br>
 Aspose.HTML for .NET 26.4.0 [NuGet](https://www.nuget.org/packages/Aspose.Html)<br>
 Aspose.HTML.Drawing for .NET 26.4.0 [NuGet](https://www.nuget.org/packages/Aspose.Html.Drawing)<br>
-Aspose.HTML for Python via .NET  26.4.0 [PyPI](https://pypi.org/project/aspose-html-net/)
+Aspose.HTML for Python via .NET 26.4.0 [PyPI](https://pypi.org/project/aspose-html-net/)
 
 ## **Improvements and Changes**
 
