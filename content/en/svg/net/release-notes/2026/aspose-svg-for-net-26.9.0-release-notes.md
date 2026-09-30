@@ -25,8 +25,12 @@ Aspose.SVG for .NET 26.9.0 is published as part of the September monthly release
 
 **Package references**<br>
 Aspose.SVG for .NET 26.9.0 [NuGet](https://www.nuget.org/packages/Aspose.Svg)<br>
-Aspose.SVG for Python via .NET  26.9.0 [PyPI](https://pypi.org/project/aspose-svg-net/)
 
 ## **Improvements and Changes**
 
-- Maintenance build for the September 26.9.0 release of Aspose.SVG for .NET.
+- New image vectorization engine: each colour of the picture is drawn as one filled shape, which gives cleaner edges and considerably smaller SVG documents.
+- Added `ImageVectorizerConfiguration.Profile` with the `VectorizationProfile` values `Compact` (default, the smallest document), `Fidelity` (closest to the source image) and `Cartoon` (noise removed, gradients kept, a hand-drawn look).
+- Added `ImageVectorizerConfiguration.MaxOutputBytes`, `MaxNodes` and `MaxNodesPerMegapixel` to limit the size of the produced document.
+- `ImageVectorizerConfiguration.PathBuilder` now selects the previous per-contour output; it is kept for compatibility and will be removed in a future release.
+- Resources referenced by a document can be downloaded in parallel while saving, controlled by the new `ResourceHandlingOptions.MaxConcurrentRequests` option.
+- Connections to the same server are reused when saving and loading resources.
