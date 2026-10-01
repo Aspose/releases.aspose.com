@@ -24,6 +24,7 @@ This page contains release notes information for Aspose.Page for .NET 25.8.
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |PAGENET-794|PS to PDF - Text converted into dots in the output PDF|Bug|
+|PAGENET-70|EPS to PDF - API generated blank PDF|Bug|
 
 ## **Public API and Backwards Incompatible Changes**
 

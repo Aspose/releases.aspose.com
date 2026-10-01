@@ -24,3 +24,4 @@ This page contains release notes information for Aspose.Page for .NET 20.12.
 | :- | :- | :- |
 |PAGENET-220| Aspose.Page for .NET 20.11 throws exception on .NET Core|Bug|
 |PAGENET-225| Supplied XPS file or stream cannot be parsed exception when opening XPS file|Improvement|
+|PAGENET-226| API is throwing exception on setting the license - v20.12|Bug|

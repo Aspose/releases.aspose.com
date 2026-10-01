@@ -31,6 +31,7 @@ This page contains release notes information for Aspose.Page for .NET 24.6.
 |PAGENET-675|PS image can’t convert to JPEG image|Bug|
 |PAGENET-679|Implement the running of external EPS file from processed PostScript file|Feature|
 |PAGENET-680|Exception throw on convert ps document to pdf with using stream|Bug|
+|PAGENET-682|Object reference not set - converting XPS to PDF|Bug|
 
 ### Got any Query?
 

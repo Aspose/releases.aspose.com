@@ -23,6 +23,7 @@ This page contains release notes information for Aspose.Page for .NET 23.8.
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
+|PAGENET-528|XPS to PDF conversion - Keep text glyphs as text in PDF|Bug|
 |PAGENET-528|Optimize XPS loading and saving|Enhancement|
 |PAGENET-529|Reduce image size for image masks from 32bpp to 1bpp|Enhancement|
 

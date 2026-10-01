@@ -27,6 +27,7 @@ This page contains release notes information for Aspose.Page for .NET 23.7.
 |PAGENET-521|Implement CCITTFaxDecode filter|Feature|
 |PAGENET-518|XPS to PDF conversion - Keep text glyphs as text in PDF|Bug|
 |PAGENET-479|If the XPS file is more then 10 MB then it will take more then 15Mins to load the file|Bug|
+|PAGENET-372|Improve print tickets interface|Feature|
 
 ### Got any Query?
 

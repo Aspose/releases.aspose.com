@@ -97,6 +97,8 @@ Documents with embedded fonts are unaffected.
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |PAGENET-566|.NET Core 2.0 and .NET 7 support without System.Drawing|Feature|
+|PAGENET-756|System.Drawing.Common dependency on linux environments|Feature|
+|PAGENET-477|Remove System.Drawing dependency like other Aspose APIs to work in Linux and .NET 6|Investigation|
 
 ### Got any Query?
 

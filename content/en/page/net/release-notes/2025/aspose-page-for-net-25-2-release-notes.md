@@ -26,6 +26,7 @@ This page contains release notes information for Aspose.Page for .NET 25.2.
 |PAGENET-246|Convert Type1 fonts to TTF in conversion of PS files|Feature|
 |PAGENET-736|Add Type1 font conversion to TTF to public API|Feature|
 |PAGENET-726|PS to PDF: some symbols are missed|Bug|
+|PAGENET-733|Unable to set license in 25.1 version|Bug|
 |PAGENET-734|Add support for CMAP Table format 12 in XPS|Feature|
 
 ## **Public API and Backwards Incompatible Changes**
