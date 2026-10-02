@@ -22,4 +22,5 @@ This page contains release notes information for Aspose.Page for .NET 20.3.
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
+|PAGEJAVA-81|Exception adding image in XPS|Bug|
 |PAGEJAVA-87|Exception occurs while adding image to XPS file|Bug|
