@@ -1,0 +1,27 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-imaging",
+  "id" : "26-10",
+  "packageFiles" : [ {
+    "size" : "8 MB",
+    "name" : "aspose-imaging-26.10-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "22 MB",
+    "name" : "aspose-imaging-26.10-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "22 MB",
+    "name" : "aspose-imaging-26.10-jdk18.jar",
+    "classifier" : "jdk18"
+  }, {
+    "size" : "22 MB",
+    "name" : "aspose-imaging-26.10.jar"
+  }, {
+    "size" : "784 bytes",
+    "name" : "aspose-imaging-26.10.pom"
+  } ],
+  "releasehDate" : "2026-10-02T10:58:30+00:00",
+  "version" : "26.10",
+  "ReleaseNotes" : "https://releases.aspose.com/imaging/java/release-notes/2026/aspose-imaging-for-java-26-10-release-notes/"
+}
