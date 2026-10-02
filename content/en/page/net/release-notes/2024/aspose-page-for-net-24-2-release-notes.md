@@ -24,6 +24,7 @@ This page contains release notes information for Aspose.Page for .NET 24.2.
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |PAGENET-608|PS to PDF conversion failed|Bug|
+|PAGENET-614|Embed Japanese into an XPS file using AddGlyphs|Investigation|
 
  ## **Public API and Backwards Incompatible Changes**
  ### **Added APIs**
