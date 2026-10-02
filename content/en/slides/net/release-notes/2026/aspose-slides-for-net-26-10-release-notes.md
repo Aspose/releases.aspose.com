@@ -17,9 +17,6 @@ This page contains release notes for [ Aspose.Slides for .NET 26.10](https://www
 {{% /alert %}}
 
 ## New Features and Improvements
-
-
-## New Features and Improvements
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
 |SLIDESNET-45524|Reading doughnut chart categories expands the collection and exposes blank trailing points|Bug|<https://docs.aspose.com/slides/net/chart-workbook/>|
