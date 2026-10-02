@@ -23,6 +23,7 @@ This page contains release notes information for Aspose.Page for .NET 24.8.
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
+|PAGENET-323|OXPS to PDF conversion throws InvalidPdfFileFormatException|Bug|
 |PAGENET-695|Implement pipelined conversion from XPS|Feature|
 |PAGENET-696|Implement event-based operations on XPS pages during conversion|Feature|
 |PAGENET-703|Decrease a size of saved image bytes to PDF file|Enhancement|

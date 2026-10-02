@@ -23,6 +23,7 @@ This page contains release notes information for Aspose.Page for Java 23.7.
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
+|PAGEJAVA-51|EPS to PNG - output image has extra white space|Bug|
 |PAGEJAVA-242|Error while converting PS to PDF|Bug|
 |PAGEJAVA-241|XPS watermarking problem|Bug|
 
