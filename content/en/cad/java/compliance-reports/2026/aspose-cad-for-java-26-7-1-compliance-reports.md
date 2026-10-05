@@ -19,11 +19,16 @@ committed_by: "andrey.nikiforov@aspose.com"
 
 ## This 26.7.1 Java release includes the following transparency and audit artifacts:
 
+### EULA & Third-Party Licenses
+
+- <a href="https://about.aspose.com/legal/eula/" target="_blank" rel="noopener">Aspose End User License Agreement</a>
+- {{< compliance-file relpath="/compliance-reports/third-party-licenses/java/third-party-licenses-aspose-cad-java.pdf" text="Aspose.CAD for Java Third-Party License" >}}
+
 
 
 ### Software Bill of Materials (SBOM)
 
-- {{< compliance-file relpath="/compliance-reports/cad/java/2026/26.7.1/aspose-cad-java-26.7.1_all_sboms.zip?t=1791174981" text="Download All SBOMs (ZIP)" download="true" >}} - 51.2 KB - *Last updated: October 5, 2026, 4:36 AM UTC*
+- {{< compliance-file relpath="/compliance-reports/cad/java/2026/26.7.1/aspose-cad-java-26.7.1_all_sboms.zip?t=1791175468" text="Download All SBOMs (ZIP)" download="true" >}} - 51.2 KB - *Last updated: October 5, 2026, 4:44 AM UTC*
 
 | Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
 |----------|----------------|---------------|-----------|----------|
