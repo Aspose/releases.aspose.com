@@ -1,19 +1,24 @@
 ---
-id: "aspose-ocr-for-net-latest-release-notes"
-slug: "latest"
-weight: 1
 date: "2026-10-05"
+id: "aspose-ocr-for-net-26-10-0-release-notes"
+slug: "aspose-ocr-for-net-26-10-0-release-notes"
+linktitle: "Aspose.OCR for .NET 26.10 - Release Notes"
+title: "Aspose.OCR for .NET 26.10 - Release Notes"
 author: "Anna Pylaieva"
+weight: 39
+description: "A summary of recent changes, enhancements and bug fixes in Aspose.OCR for .NET 26.10 (October 2026) release."
 type: "repository"
 layout: "release"
-title: Latest release
-linktitle: "Latest release"
-description: A summary of recent changes, enhancements and bug fixes in the latest release of Aspose.OCR for .NET.
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.OCR for .NET 26.10 - Release Notes"
 keywords:
-- latest
-- new
-- release
-- changelog
+- "2026"
+- "October"
+- "new"
+- "release"
+- "changelog"
+menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
