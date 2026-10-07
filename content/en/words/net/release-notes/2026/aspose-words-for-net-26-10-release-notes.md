@@ -30,13 +30,13 @@ A comprehensive description of all methods and properties, along with code examp
 
 There are 90 improvements and fixes in this regular monthly release. The most notable are:
 
-**AI Engine Integration:** Integrated Aspose.LLM into Aspose.Words to provide AI-powered document processing backed by an on-premise inference engine that runs entirely inside the current process, ensuring document content never leaves the machine.
-**Layout Engine:** Improved floating table positioning by imitating MS Word behavior when balancing floating tables against footnotes.
-**Charts:** Added the ability to set fill and line formatting for the chart plot area.
-**Charts:** Added the ability to determine whether a data point is total in waterfall charts.
-**MathML Rendering:** Implemented color remapping for MathML background rendering according to compatibility settings.
-**PDF Export:** Implemented structure destination (`/SD`) generation for document outline entries to ensure full PDF/UA-2 compliance.
-**Rendering:** Implemented rendering support for `FormCheckBox` fields located within `OfficeMath` formulas.
+- **AI Engine Integration:** Integrated Aspose.LLM into Aspose.Words to provide AI-powered document processing backed by an on-premise inference engine that runs entirely inside the current process, ensuring document content never leaves the machine.
+- **Layout Engine:** Improved floating table positioning by imitating MS Word behavior when balancing floating tables against footnotes.
+- **Charts:** Added the ability to set fill and line formatting for the chart plot area.
+- **Charts:** Added the ability to determine whether a data point is total in waterfall charts.
+- **MathML Rendering:** Implemented color remapping for MathML background rendering according to compatibility settings.
+- **PDF Export:** Implemented structure destination (`/SD`) generation for document outline entries to ensure full PDF/UA-2 compliance.
+- **Rendering:** Implemented rendering support for `FormCheckBox` fields located within `OfficeMath` formulas.
 
 ## Full List of Issues Covering all Changes in this Release
 
