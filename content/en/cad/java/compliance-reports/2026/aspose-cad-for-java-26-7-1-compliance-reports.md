@@ -31,7 +31,7 @@ committed_by: "andrey.nikiforov@aspose.com"
 
 ### Software Bill of Materials (SBOM)
 
-- {{< compliance-file relpath="/compliance-reports/cad/java/2026/26.7.1/aspose-cad-java-26.7.1_all_sboms.zip?t=1791502494" text="Download All SBOMs (ZIP)" download="true" >}} - 10 KB - *Last updated: October 8, 2026, 11:34 PM UTC*
+- {{< compliance-file relpath="/compliance-reports/cad/java/2026/26.7.1/aspose-cad-java-26.7.1_all_sboms.zip?t=1791504633" text="Download All SBOMs (ZIP)" download="true" >}} - 10 KB - *Last updated: October 9, 2026, 12:10 AM UTC*
 
 | Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
 |----------|----------------|---------------|-----------|----------|
