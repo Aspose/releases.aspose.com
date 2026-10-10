@@ -34,7 +34,7 @@ committed_by: "philip.zhou@aspose.com"
 
 | Report | HTML | PDF |
 |--------|------|-----|
-| CWE Top 25 (2025) | {{< compliance-file relpath="/compliance-reports/diagram/net/2026/26.10/aspose-diagram-net-26.10_cwe-top-25-2025.htm" text="View HTML" >}} | - |
+| CWE Top 25 (2025) | {{< compliance-file relpath="/compliance-reports/diagram/net/2026/26.10/aspose-diagram-net-26.10_cwe-top-25-2025.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/diagram/net/2026/26.10/aspose-diagram-net-26.10_cwe-top-25-2025.pdf" text="View PDF" >}} |
 | OWASP Top 10 (2025) | {{< compliance-file relpath="/compliance-reports/diagram/net/2026/26.10/aspose-diagram-net-26.10_owasp-top-10-2025.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/diagram/net/2026/26.10/aspose-diagram-net-26.10_owasp-top-10-2025.pdf" text="View PDF" >}} |
 
 
