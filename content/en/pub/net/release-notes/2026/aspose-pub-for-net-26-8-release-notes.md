@@ -29,6 +29,3 @@ Support for the **.NET 8** framework has been added.
 |**Key**|**Summary**|**Category**|  
 | :- | :- | :- |  
 PUBNET-443| Support for the **.NET 8** framework. | Feature
-
-## Got Queries?
-If you have any query related to Aspose.Font for .NET API, please feel free to write to reach us on [Aspose.Font forum](https://forum.aspose.com/c/font/). We'll be glad to assist you with your inquiries.
