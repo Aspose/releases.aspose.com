@@ -4,7 +4,7 @@ slug: "aspose-words-for-python-via-dotnet-26-10-release-notes"
 linktitle: "Aspose.Words for Python via .NET 26.10 Release Notes"
 title: "Aspose.Words for Python via .NET 26.10 Release Notes"
 weight: 25
-description: "Aspose.Words for Python via .NET <version> Release Notes – the latest updates and fixes."
+description: "Aspose.Words for Python via .NET 26.10 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
 hideChildren: false
