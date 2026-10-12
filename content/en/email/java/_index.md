@@ -21,6 +21,7 @@ productLink: https://products.aspose.com/email/java/
 releaseNotesLink: https://releases.aspose.com/email/java/release-notes/
 dataFolder: aspose_email
 packages_refs:
+- "26-9"
 - "26-8"
 - "26-7"
 - "26-6-0-1"
