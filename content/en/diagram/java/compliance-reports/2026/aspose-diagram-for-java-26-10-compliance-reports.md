@@ -14,6 +14,7 @@ menuItemWithNoContent: false
 committed_by: "philip.zhou@aspose.com"
 ---
 
+![SBOM Available](https://img.shields.io/badge/SBOM-Available-brightgreen?style=flat-square&logo=dependabot)
 ![Security Rating](https://img.shields.io/badge/Security%20Rating-A-brightgreen?style=flat-square&logo=verizon)
 ![CWE Top 25](https://img.shields.io/badge/CWE%20Top%2025-2025-blue?style=flat-square&logo=checkmarx)
 ![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-2025-blue?style=flat-square&logo=openaccess)
@@ -27,6 +28,14 @@ committed_by: "philip.zhou@aspose.com"
 - {{< compliance-file relpath="/compliance-reports/third-party-licenses/java/third-party-licenses-aspose-diagram-java.pdf" text="Aspose.Diagram for Java Third-Party License" >}}
 
 
+
+### Software Bill of Materials (SBOM)
+
+- {{< compliance-file relpath="/compliance-reports/diagram/java/2026/26.10/aspose-diagram-java-26.10_all_sboms.zip?t=1791776439" text="Download All SBOMs (ZIP)" download="true" >}} - 0.6 KB - *Last updated: October 12, 2026, 3:40 AM UTC*
+
+| Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
+|----------|----------------|---------------|-----------|----------|
+| .NET 6.0 | {{< compliance-file relpath="/compliance-reports/diagram/java/2026/26.10/aspose-diagram-java-26.10-net6.0_sbom-CycloneDX.json" text="View JSON" >}} | - | - | - |
 
 
 
