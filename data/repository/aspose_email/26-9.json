@@ -16,10 +16,14 @@
     "name" : "aspose-email-26.9-jdk16.jar",
     "classifier" : "jdk16"
   }, {
+    "size" : "16 MB",
+    "name" : "aspose-email-26.9-jdk18.jakarta.jar",
+    "classifier" : "jdk18.jakarta"
+  }, {
     "size" : "1 KB",
     "name" : "aspose-email-26.9.pom"
   } ],
-  "releasehDate" : "2026-10-12T10:29:08+00:00",
+  "releasehDate" : "2026-10-12T11:01:41+00:00",
   "version" : "26.9",
   "ReleaseNotes" : "https://releases.aspose.com/email/java/release-notes/2026/aspose-email-for-java-26-9-release-notes/"
 }
