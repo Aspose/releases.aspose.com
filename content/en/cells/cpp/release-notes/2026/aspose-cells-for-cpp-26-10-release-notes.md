@@ -422,9 +422,6 @@ void SetBaseItemIndex(int32_t value)
 
 {{% /alert %}}
 
-{{% alert color="primary" %}}
-{{% /alert %}}
-
 ### **Removes some methods in PivotFieldSortSetting class.**
 
 {{% alert color="primary" %}}
