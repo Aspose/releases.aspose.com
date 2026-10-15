@@ -422,32 +422,6 @@ void SetBaseItemIndex(int32_t value)
 
 {{% /alert %}}
 
-### **Removes some methods in PivotFieldSortSetting class.**
-
-{{% alert color="primary" %}}
-
-SortOrder GetSortType()
-
-void SetSortType(SortOrder value)
-
-{{% /alert %}}
-
-{{% alert color="primary" %}}
-
-int32_t GetFieldIndex()
-
-void SetFieldIndex(int32_t value)
-
-{{% /alert %}}
-
-{{% alert color="primary" %}}
-
-bool IsSimpleSort()
-
-void SetIsSimpleSort(bool value)
-
-{{% /alert %}}
-
 ### **Removes two methods in PivotTable class.**
 
 {{% alert color="primary" %}}
