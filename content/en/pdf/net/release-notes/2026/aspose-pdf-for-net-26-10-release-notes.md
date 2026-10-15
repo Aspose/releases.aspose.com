@@ -26,7 +26,7 @@ This page contains release notes information for Aspose.PDF for .NET 26.10.
 
 #### Create Searchable PDFs with OCR
 
-Aspose.PDF for .NET 26.10 adds `Document.ConvertToSearchablePdf` to create a searchable text layer in PDFs that contain images. The parameterless overload uses English recognition with image flattening disabled. Use `OcrSearchablePdfOptions` to select a recognition language or flatten images when necessary. The method returns `false` when the document contains no images.
+Aspose.PDF for .NET 26.10 introduces `Document.ConvertToSearchablePdf` to add a searchable text layer to PDFs containing images. The parameterless overload uses English for text recognition and disables image flattening. Use `OcrSearchablePdfOptions` to specify a recognition language or enable image flattening as needed. The method returns `false` if the document contains no images.
 
 This feature requires the optional [Aspose.OCR](https://www.nuget.org/packages/Aspose.OCR/) dependency. If it or one of its runtime dependencies is unavailable, the conversion throws `MissingOptionalDependencyException`.
 
