@@ -24,6 +24,20 @@ This page contains release notes for [Aspose.Cells for .NET 26.10](https://www.n
 |CELLSNET-60604|Create and Refresh pivot table according to file format|Enhancement
 |CELLSNET-60675|Enhance putting formula of table|Enhancement
 |CELLSNET-60633|Correct the shared formula with invalid ref range when importing it from template file|Enhancement
+|CELLSGRIDJS-2790|Support selection API|New Feature
+|CELLSGRIDJS-2805|Feature Request: Configurable Compressed Backend Caching for Faster GridJs Read-Only Rendering|New Feature
+|CELLSGRIDJS-2774|Support shape outline visibility, color, transparency, and width settings|New Feature
+|CELLSGRIDJS-2775|Support shape aspect ratio locking and horizontal/vertical flipping, including resizing in frozen panes|New Feature
+|CELLSGRIDJS-2776|Support picture transparency and mutually exclusive grayscale and black-and-white effects|New Feature
+|CELLSGRIDJS-2798|Support picture brightness and contrast adjustments|New Feature
+|CELLSGRIDJS-2799|Support setting and verifying cell data validation through GridJS Semantic APIs|New Feature
+|CELLSGRIDJS-2817|Support picture border line styles and gradient fills|New Feature
+|CELLSGRIDJS-2821|Add Semantic APIs for range data, sheet dimensions and freeze state|New Feature
+|CELLSGRIDJS-2822|Add Semantic APIs for sheet protection and cell write eligibility|New Feature
+|CELLSGRIDJS-2823|Support reading data validation rules and checking candidate values through Semantic API|New Feature
+|CELLSGRIDJS-2786|The search in autofilter does not match values with different letter casing, which is not the expected Excel-like behavior|Enhancement
+|CELLSGRIDJS-2826|Support redaction for  search matches for current worksheet|Enhancement
+|CELLSGRIDJS-2819|Refine GridJS Semantic APIs and strengthen parameter validation|Enhancement
 |CELLSNET-60568|SVG images rasterized into bitmap graphics on Workbook.Save() method|Bug
 |CELLSNET-60569|"SVG image rendered incorrectly" on ShapeCollection.AddSvg() method|Bug
 |CELLSNET-60600|Failed to find the custom function used in defined name which is in worksheet's scope|Bug
@@ -48,6 +62,22 @@ This page contains release notes for [Aspose.Cells for .NET 26.10](https://www.n
 |CELLSNET-60635|Regression: Smart marker does not preserve ranges below the marker|Bug
 |CELLSNET-60674|Worksheet removal causes to save a corrupt XLSM|Bug
 |CELLSNET-60682|A cell with Pythong only shows _xlws.PY(0,1) when accessed via c.formula|Bug
+|CELLSGRIDJS-2785|Long Cell Text Overflows Differently in Fixed and Normal Excel Cells|Bug
+|CELLSGRIDJS-2789|Shape has duplicate html attributes in the exported json|Bug
+|CELLSGRIDJS-2791|Repeatedly selecting the same range (e.g., A2:D4) when it is already active results in only the first cell (A2) being selected instead of the complete range|Bug
+|CELLSGRIDJS-2807|With multiple sheets, the Insert Redaction button on right click of bottom bar isn't aligned properly so it doesn't show up.|Bug
+|CELLSGRIDJS-2813|The library removes the entire-sheet redaction but leaves isRedactionEntireContent flag set|Bug
+|CELLSGRIDJS-2814|After applying entire-sheet-redaction the redaction label font is not of maximum size if we click somewhere else and come back to the sheet then it gets applied.|Bug
+|CELLSGRIDJS-2771|Cells cannot inherit row and column styles.|Bug
+|CELLSGRIDJS-2777|Shape position and rotation updates are incorrect, with rotation applied twice during rendering|Bug
+|CELLSGRIDJS-2788|Valid time input is incorrectly rejected by data validation with Excel numeric time bounds|Bug
+|CELLSGRIDJS-2793|Rows Add incorrectly inherits locked cell styles from the last data row in an unlocked column|Bug
+|CELLSGRIDJS-2794|Rows Add is incorrectly blocked when the active cell is locked|Bug
+|CELLSGRIDJS-2795|Newly added rows inherit locked state and cannot be edited|Bug
+|CELLSGRIDJS-2800|Format Picture panel fails to display after CSS minification|Bug
+|CELLSGRIDJS-2806|Uploaded WebP images become blank after refreshing the page|Bug
+|CELLSGRIDJS-2818|Fix incorrect cell positioning and merged-cell handling in GridJS Semantic APIs|Bug
+|CELLSGRIDJS-2824|Fix missing sheet bindings and reject invented runtime sheet IDs in AI-generated test steps|Bug
 |CELLSNET-60697|IndexOutOfRange exception when calculating complicated LAMBDA functions|Exception
 |CELLSNET-60672|Loading XLSM raises CellsException|Exception
 |CELLSGRIDJS-2723|Calling Chart.ToImage() will return a System.NotImplementedException|Exception
@@ -99,6 +129,10 @@ The RefreshDataFlag property has been removed from PivotTable.
 ### **Adds new property PivotTable.ShowHeaders.**
 
 Controls whether the pivot table displays its row and column headers.
+
+### **Obsoletes the setter of PivotField.BaseIndex.**
+
+The base index of one PivotField should not be changed manually.
 
 ### **Adds new property PivotField.Top10AutoShowSettings.**
 
