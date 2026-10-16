@@ -19,6 +19,8 @@ This page contains release notes for [Aspose.Cells for Python via Java 26.10](ht
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
+|CELLSPYTHONJAVA-145|XLSB: SUMPRODUCT(SUMIF(INDIRECT(...))) formula set via API evaluates to #VALUE! in Excel|Bug
+|CELLSPYTHONJAVA-148|Calculating INDEX on single-row array returns array instead of element|Bug
 |CELLSJAVA-46849|Optimize calculation of REDUCE for cloning the node of expression in LAMBDA|Enhancement
 |CELLSJAVA-46862|Update logic of checking Duplicated/Unique for special string values according to behavior of office 365|Enhancement
 |CELLSJAVA-46852|Support importing ArrayList and Object array to Cells|Enhancement
