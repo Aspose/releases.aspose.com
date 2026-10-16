@@ -22,6 +22,7 @@ productLink: https://products.aspose.com/cells/java/
 releaseNotesLink: https://releases.aspose.com/cells/java/release-notes/
 dataFolder: aspose_cells
 packages_refs:
+- "26-10"
 - "26-9"
 - "26-8"
 - "26-7"
