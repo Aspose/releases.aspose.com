@@ -23,7 +23,7 @@ weight:  4
 {{< Common/wrapper class="panel-body downloadfilebody" >}}
 {{< Common/h1 text="Aspose.Slides for Android via Java" >}}
 {{< Common/paragraph>}}
-A PowerPoint File Manipulation API for mobile application programmers.
+{{< Common/link href="https://products.aspose.com/slides/android-java/" text="Aspose.Slides for Android via Java"  >}} is a PowerPoint file manipulation API for mobile application programmers.
 
 {{< Common/h2 text="Android PowerPoint API"  >}}
  {{< Common/ul>}}

@@ -1,0 +1,25 @@
+{
+  "groupId" : "com.aspose",
+  "classifier" : "jdk16",
+  "artifactId" : "aspose-slides",
+  "id" : "26-10",
+  "packageFiles" : [ {
+    "size" : "4 MB",
+    "name" : "aspose-slides-26.10-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "29 MB",
+    "name" : "aspose-slides-26.10-jdk16.jar",
+    "classifier" : "jdk16"
+  }, {
+    "size" : "29 MB",
+    "name" : "aspose-slides-26.10-jdk8.jar",
+    "classifier" : "jdk8"
+  }, {
+    "size" : "1 KB",
+    "name" : "aspose-slides-26.10.pom"
+  } ],
+  "releasehDate" : "2026-10-12T15:40:32+00:00",
+  "version" : "26.10",
+  "ReleaseNotes" : "https://releases.aspose.com/slides/java/release-notes/2026/aspose-slides-for-java-26-10-release-notes/"
+}
