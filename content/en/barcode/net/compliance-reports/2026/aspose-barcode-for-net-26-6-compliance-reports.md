@@ -3,7 +3,7 @@ id: "aspose-barcode-for-net-26-6-compliance-reports"
 slug: "aspose-barcode-for-net-26-6-compliance-reports"
 linktitle: "Aspose.BarCode for .NET 26.6 Compliance Reports"
 title: "Aspose.BarCode for .NET 26.6 – Compliance & Security"
-weight: 999
+weight: 940
 description: "Aspose.BarCode for .NET Compliance & Security Reports | Release 26.6"
 type: "repository"
 layout: "release"
@@ -11,7 +11,7 @@ hideChildren: false
 toc: false
 family_listing_page_title: "Aspose.BarCode for .NET 26.6 Compliance & Security Reports"
 menuItemWithNoContent: false
-committed_by: "professionalize-releases-agent@professionalize.releases.internal"
+committed_by: "zakhar.shelkovnikov@aspose.com"
 ---
 
 ![Security Rating](https://img.shields.io/badge/Security%20Rating-A-brightgreen?style=flat-square&logo=verizon)
@@ -23,6 +23,8 @@ committed_by: "professionalize-releases-agent@professionalize.releases.internal"
 ### EULA & Third-Party Licenses
 
 - <a href="https://about.aspose.com/legal/eula/" target="_blank" rel="noopener">Aspose End User License Agreement</a>
+- {{< compliance-file relpath="/compliance-reports/third-party-licenses/net/third-party-licenses-aspose-barcode-net.pdf?t=1792395316" text="Aspose.BarCode for .NET Third-Party License" >}}
+
 
 
 
@@ -30,8 +32,9 @@ committed_by: "professionalize-releases-agent@professionalize.releases.internal"
 
 | Report | HTML | PDF |
 |--------|------|-----|
-| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.6/aspose-barcode-net-26.6_cwe-top-25-2024.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.6/aspose-barcode-net-26.6_cwe-top-25-2024.pdf" text="View PDF" >}} |
-| OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.6/aspose-barcode-net-26.6_owasp-top-10-2021.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.6/aspose-barcode-net-26.6_owasp-top-10-2021.pdf" text="View PDF" >}} |
+| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.6/aspose-barcode-net-26.6_cwe-top-25-2024.htm?t=1782810339" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.6/aspose-barcode-net-26.6_cwe-top-25-2024.pdf?t=1782810340" text="View PDF" >}} |
+| OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.6/aspose-barcode-net-26.6_owasp-top-10-2021.htm?t=1782810341" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.6/aspose-barcode-net-26.6_owasp-top-10-2021.pdf?t=1782810341" text="View PDF" >}} |
+
 
 ---
 
