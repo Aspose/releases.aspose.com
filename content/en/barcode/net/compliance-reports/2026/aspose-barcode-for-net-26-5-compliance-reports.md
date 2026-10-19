@@ -1,0 +1,55 @@
+---
+id: "aspose-barcode-for-net-26-5-compliance-reports"
+slug: "aspose-barcode-for-net-26-5-compliance-reports"
+linktitle: "Aspose.BarCode for .NET 26.5 Compliance Reports"
+title: "Aspose.BarCode for .NET 26.5 – Compliance & Security"
+weight: 950
+description: "Aspose.BarCode for .NET Compliance & Security Reports | Release 26.5"
+type: "repository"
+layout: "release"
+hideChildren: false
+toc: false
+family_listing_page_title: "Aspose.BarCode for .NET 26.5 Compliance & Security Reports"
+menuItemWithNoContent: false
+committed_by: "zakhar.shelkovnikov@aspose.com"
+---
+
+![SBOM Available](https://img.shields.io/badge/SBOM-Available-brightgreen?style=flat-square&logo=dependabot)
+![Security Rating](https://img.shields.io/badge/Security%20Rating-A-brightgreen?style=flat-square&logo=verizon)
+![CWE Top 25](https://img.shields.io/badge/CWE%20Top%2025-2024-blue?style=flat-square&logo=checkmarx)
+![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-2021-blue?style=flat-square&logo=openaccess)
+
+## This 26.5 .NET release includes the following transparency and audit artifacts:
+
+### EULA & Third-Party Licenses
+
+- <a href="https://about.aspose.com/legal/eula/" target="_blank" rel="noopener">Aspose End User License Agreement</a>
+- {{< compliance-file relpath="/compliance-reports/third-party-licenses/net/third-party-licenses-aspose-barcode-net.pdf?t=1792395316" text="Aspose.BarCode for .NET Third-Party License" >}}
+
+
+### Software Bill of Materials (SBOM)
+
+- {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.5/aspose-barcode-net-26.5_all_sboms.zip?t=1792395314" text="Download All SBOMs (ZIP)" download="true" >}} - 58.1 KB - *Last updated: October 19, 2026, 7:35 AM UTC*
+
+| Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
+|----------|----------------|---------------|-----------|----------|
+| .NET 10.0 | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.5/aspose-barcode-net-26.5-net10.0_sbom-CycloneDX.json?t=1792395309" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.5/aspose-barcode-net-26.5-net10.0_sbom-CycloneDX.xml?t=1792395310" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.5/aspose-barcode-net-26.5-net10.0_sbom-SPDX.json?t=1792395310" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.5/aspose-barcode-net-26.5-net10.0_sbom-SPDX.xml?t=1792395310" text="View XML" >}} |
+| .NET 6.0 | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.5/aspose-barcode-net-26.5-net6.0_sbom-CycloneDX.json?t=1792395310" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.5/aspose-barcode-net-26.5-net6.0_sbom-CycloneDX.xml?t=1792395311" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.5/aspose-barcode-net-26.5-net6.0_sbom-SPDX.json?t=1792395311" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.5/aspose-barcode-net-26.5-net6.0_sbom-SPDX.xml?t=1792395311" text="View XML" >}} |
+| .NET 8.0 | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.5/aspose-barcode-net-26.5-net8.0_sbom-CycloneDX.json?t=1792395311" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.5/aspose-barcode-net-26.5-net8.0_sbom-CycloneDX.xml?t=1792395311" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.5/aspose-barcode-net-26.5-net8.0_sbom-SPDX.json?t=1792395312" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.5/aspose-barcode-net-26.5-net8.0_sbom-SPDX.xml?t=1792395312" text="View XML" >}} |
+| .NET 9.0 | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.5/aspose-barcode-net-26.5-net9.0_sbom-CycloneDX.json?t=1792395312" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.5/aspose-barcode-net-26.5-net9.0_sbom-CycloneDX.xml?t=1792395312" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.5/aspose-barcode-net-26.5-net9.0_sbom-SPDX.json?t=1792395313" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.5/aspose-barcode-net-26.5-net9.0_sbom-SPDX.xml?t=1792395313" text="View XML" >}} |
+| .NET Standard 2.0 | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.5/aspose-barcode-net-26.5-netstandard2.0_sbom-CycloneDX.json?t=1792395313" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.5/aspose-barcode-net-26.5-netstandard2.0_sbom-CycloneDX.xml?t=1792395313" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.5/aspose-barcode-net-26.5-netstandard2.0_sbom-SPDX.json?t=1792395313" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.5/aspose-barcode-net-26.5-netstandard2.0_sbom-SPDX.xml?t=1792395314" text="View XML" >}} |
+
+
+### Security Weakness Coverage (CWE & OWASP)
+
+| Report | HTML | PDF |
+|--------|------|-----|
+| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.5/aspose-barcode-for-net-26.5_cwe-top-25-2024.htm?t=1750868480" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.5/aspose-barcode-for-net-26.5_cwe-top-25-2024.pdf?t=1750868483" text="View PDF" >}} |
+| OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.5/aspose-barcode-for-net-26.5_owasp-top-10-2021.htm?t=1750868486" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/barcode/net/2026/26.5/aspose-barcode-for-net-26.5_owasp-top-10-2021.pdf?t=1750868486" text="View PDF" >}} |
+
+
+---
+
+## Got Queries?
+
+If you have any query related to Aspose.BarCode for .NET API, please feel free to reach us on [Aspose.BarCode for .NET forum](https://forum.aspose.com/c/barcode/). We'll be glad to assist you with your inquiries.
