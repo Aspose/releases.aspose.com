@@ -30,3 +30,5 @@
   translation: "Product Family"
 - id: Releases
   translation: "Releases"
+- id: Compliance_Reports_Archive
+  translation: "Compliance Reports Archive"

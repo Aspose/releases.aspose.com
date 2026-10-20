@@ -1,0 +1,55 @@
+{{ define "main" }}
+  {{ if .Params.latest_reports }}
+    {{ with .GetPage .Params.latest_reports }}
+      
+      {{ $t := . }}
+        {{ $releases := slice }}
+          {{ range .Parent.Params.packages_refs }}
+            {{ $release := dict }}
+            {{ $releaseId := . }}
+            {{ $parsedEvent := dict }}
+            {{ $release = merge $release (dict "releaseId" $releaseId) }}
+
+              {{ $url := (printf "/data/repository/%s/%s.json" $t.Parent.Params.dataFolder $releaseId)}}
+                {{ range $index, $comments := (getJSON $url)  }}
+
+                    {{ if eq $index "releasehDate" }}
+                        {{ $release = merge $release (dict $index   (time $comments)) }}
+                    {{ else }}
+                      {{ $release = merge $release (dict $index  $comments) }}
+                    {{ end }}
+
+              {{ end }}
+
+                  {{ $releases = $releases | append $release }}
+
+              {{ end }}
+
+<section role="main" class="main-container page-package-details">
+  <div class="row">
+
+
+    <div class="col-sm-9 package-details-main">
+      <h1><strong>{{ .Title }}</strong></h1>
+      <div class="tab-content body-tab-content">
+        <div role="tabpanel" class="tab-pane active" id="readme-tab">
+            <div class="readme-common">
+              <div id="readme-container">
+                  <p>{{ .Content }}</p>
+              </div>
+            </div>
+        </div> <!-- end of readme-tab -->
+      </div> <!-- end of body-tab-content -->
+
+      <hr>
+
+    </div> <!-- end of package-details-main -->
+  </div>
+</section>
+    {{ end }}
+  {{ end }}
+  <h2>{{ i18n "Compliance_Reports_Archive" }}</h2>
+  {{ $paginator := .Paginate (.Pages) 50 }}
+  {{ $section_to_display :=  default $paginator.Pages }}
+  {{ partial "repository/compliance-pagelayout.html" (dict "context" . "section_to_display" $section_to_display ) }}
+{{ end }}
