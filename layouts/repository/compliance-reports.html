@@ -48,7 +48,13 @@
 </section>
     {{ end }}
   {{ end }}
-  <h2>{{ i18n "Compliance_Reports_Archive" }}</h2>
+  <div class="main-container">
+    <div class="row">
+      <div class="col-sm-9 page-package-details">
+        <h2>{{ i18n "Compliance_Reports_Archive" }}</h2>
+      </div>
+    </div>
+  </div>
   {{ $paginator := .Paginate (.Pages) 50 }}
   {{ $section_to_display :=  default $paginator.Pages }}
   {{ partial "repository/compliance-pagelayout.html" (dict "context" . "section_to_display" $section_to_display ) }}
