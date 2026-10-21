@@ -5,7 +5,7 @@ linktitle: "Aspose.Page for C++ 26.10 Release Notes"
 title: "Aspose.Page for C++ 26.10 Release Notes"
 description: C++ APIs to manipulate and process PS, EPS, and XPS files. This page contains new Aspose.Page for C++ features, enhancement, and bug fixes in 2026, version 26.10.
 productName: "Aspose.Page for C++"
-weight: 4
+weight: 3
 type: "repository"
 layout: "release"
 hideChildren: false
