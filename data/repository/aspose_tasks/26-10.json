@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-tasks",
+  "id" : "26-10",
+  "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-tasks-26.10-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "15 MB",
+    "name" : "aspose-tasks-26.10.jar"
+  }, {
+    "size" : "396 bytes",
+    "name" : "aspose-tasks-26.10.pom"
+  } ],
+  "releasehDate" : "2026-10-25T06:49:55+00:00",
+  "version" : "26.10",
+  "ReleaseNotes" : "https://releases.aspose.com/tasks/java/release-notes/2026/aspose-tasks-for-java-26-10-release-notes/"
+}
