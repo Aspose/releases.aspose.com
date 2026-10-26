@@ -2,7 +2,7 @@
 id: "aspose-gis-for-python-via-net-26-9-release-notes"
 slug: "aspose-gis-for-python-via-net-26-9-release-notes"
 linktitle: "Aspose.GIS for Python via .NET 26.9 Release Notes"
-title: "Aspose.GIS for for Python via .NET 26.9 Release Notes"
+title: "Aspose.GIS for Python via .NET 26.9 Release Notes"
 weight: 100
 description: "Aspose.GIS for Python via .NET 26.9 Release Notes – the latest updates and fixes."
 type: "repository"
