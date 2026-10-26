@@ -21,6 +21,7 @@ productLink: https://products.aspose.com/zip/java/
 releaseNotesLink: https://releases.aspose.com/zip/java/release-notes/
 dataFolder: aspose_zip
 packages_refs:
+- "26-10"
 - "26-9-1"
 - "26-9"
 - "26-7"
