@@ -39,6 +39,16 @@ You can easily use  <b>aspose-words</b> for Python from  {{< Common/link href="h
 - Generate reports with Mail Merge that allows populating documents with data from various sources.
 - LINQ Reporting Engine to fetch data from databases, XML, JSON, OData, external documents, and more.
 
+## AI-powered Features
+
+Aspose.Words provides AI-powered document summarization, translation, and grammar checking through integrations with OpenAI, Google, and Claude model families:
+
+- [Summarize documents](https://docs.aspose.com/words/python-net/summarize-a-document/).
+- [Translate documents](https://docs.aspose.com/words/python-net/translate-a-document/).
+- [Check grammar](https://docs.aspose.com/words/python-net/grammar-checking/).
+
+See the [supported AI models](https://docs.aspose.com/words/python-net/supported-ai-models/) and [Python examples](https://github.com/aspose-words/Aspose.Words-for-Python-via-.NET/blob/master/Examples/ApiExamples/ex_ai.py).
+
 {{< Tags/TagsWrapper >}}
  {{< Tags/TagsList >}}
 {{< /Tags/TagsWrapper >}}

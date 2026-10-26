@@ -58,13 +58,13 @@ Aspose.Words for C++ is a powerful on-premise API that can be used for a great r
 
 ## AI-powered Features
 
-Use OpenAI, Google (Gemini), and Anthropic (Claude) models to:
+Aspose.Words provides AI-powered document summarization, translation, and grammar checking through integrations with OpenAI, Google, and Claude model families:
 
 - [Summarize documents](https://docs.aspose.com/words/cpp/summarize-a-document/).
 - [Translate documents](https://docs.aspose.com/words/cpp/translate-a-document/).
 - [Check grammar](https://docs.aspose.com/words/cpp/grammar-checking/).
 
-An API key for the selected AI service is required. Document content is sent to that service for processing. See the [supported AI models](https://docs.aspose.com/words/cpp/supported-ai-models/) and [C++ examples](https://github.com/aspose-words/Aspose.Words-for-C/blob/master/Examples/ApiExamples/source/ExAI.cpp).
+See the [supported AI models](https://docs.aspose.com/words/cpp/supported-ai-models/) and [C++ examples](https://github.com/aspose-words/Aspose.Words-for-C/blob/master/Examples/ApiExamples/source/ExAI.cpp).
 
 ### Read & Write Document Formats
 
