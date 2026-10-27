@@ -4,7 +4,7 @@ slug: "aspose-html-for-net-26-10-release-notes"
 linktitle: "Aspose.HTML for .NET 26.10 Release Notes"
 title: "Aspose.HTML for .NET 26.10 Release Notes"
 weight: 30
-description: "Aspose.HTML for .NET 26.10 Release Notes - the latest updates and fixes."
+description: "In this release, The MHTML parser now correctly handles both CRLF and LF line endings. CSS Grid Layout Level 1 compliance is improved with proper handling of percentage margins and paddings on grid items, resolved against the grid area's inline size as specified."
 type: "repository"
 layout: "release"
 hideChildren: false
@@ -21,7 +21,7 @@ As per the regular monthly update process of all APIs being offered by Aspose, w
 
 ### Release Notes
 
-Aspose.HTML for .NET 26.10.0 is published as part of the October monthly release.
+In this release, The MHTML parser now correctly handles both CRLF and LF line endings. CSS Grid Layout Level 1 compliance is improved with proper handling of percentage margins and paddings on grid items, resolved against the grid area's inline size as specified.
 
 **Package references**<br>
 Aspose.HTML for .NET 26.10.0 [NuGet](https://www.nuget.org/packages/Aspose.Html)<br>
@@ -29,4 +29,12 @@ Aspose.HTML for Python via .NET  26.10.0 [PyPI](https://pypi.org/project/aspose-
 
 ## **Improvements and Changes**
 
-- Maintenance build for the October 26.10.0 release of Aspose.HTML for .NET.
+| **Key** | **Summary** | **Category** |
+| ------------ | -------------------------------------------------------------------------------------- | ------------ |
+| HTMLNET-5978 | Adding a Header to each page via HTML | Investigation |
+| HTMLNET-7263 | HTMLからPDFへの変換時に最小フォントサイズを指定したい（Aspose HTML） | Task |
+| HTMLNET-7319 | Export HTML as PDF with Table of Contents(Free forum) | Task |
+| HTMLNET-7314 | MHT to PDF conversion fails with An item with the same key has already been added. Key: font-size | Bug |
+
+
+
