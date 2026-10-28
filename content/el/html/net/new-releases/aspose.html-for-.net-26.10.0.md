@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/html/net/new-releases/aspose.html-for-.net-26.10.0/"
 folder_name: "Aspose.HTML για .NET 26.10.0"
-download_link: "/html/net/new-releases/aspose.html-for-.net-26.10.0/76274d44d89a35a37585748a149d488d-1-16189"
+download_link: "/html/net/new-releases/aspose.html-for-.net-26.10.0/76274d44d89a35a37585748a149d488d-1-16191"
 download_text: "Κατεβάστε"
 intro_text: "Aspose.HTML για το πρόγραμμα εγκατάστασης MSI .NET 26.10.0. Εγκαθιστά τις συγκροτήσεις προϊόντος και την τεκμηρίωση στην τυπική θέση Program Files."
 image_link: "/resources/img/msi-icon.png"
@@ -17,26 +17,26 @@ section_parent_path: "html/net"
 
 tags: ""
 release_notes_url: "https://releases.aspose.com/html/net/release-notes/2026/aspose-html-for-net-26-10-release-notes/"
-weight: 349
+weight: 351
 
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.HTML για .NET 26.10.0" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Κατεβάστε" link="/html/net/new-releases/aspose.html-for-.net-26.10.0/76274d44d89a35a37585748a149d488d-1-16189" >}}
+    {{< Releases/ReleasesSingleButtons text="Κατεβάστε" link="/html/net/new-releases/aspose.html-for-.net-26.10.0/76274d44d89a35a37585748a149d488d-1-16191" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/html" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Λεπτομέρειες αρχείου">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Κατεβάστεs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-76274d44d89a35a37585748a149d488d-1-16189" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-76274d44d89a35a37585748a149d488d-1-16191" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Μέγεθος αρχείου: {{< /Common/li >}}
-      {{< Common/li id="size-update-76274d44d89a35a37585748a149d488d-1-16189" >}} 4.97MB {{< /Common/li >}}
+      {{< Common/li id="size-update-76274d44d89a35a37585748a149d488d-1-16191" >}} 4.97MB {{< /Common/li >}}
 
       {{< Common/li >}} Ημερομηνία προστέθηκε: {{< /Common/li >}}
-      {{< Common/li id="added-update-76274d44d89a35a37585748a149d488d-1-16189" >}}28/10/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-76274d44d89a35a37585748a149d488d-1-16191" >}}28/10/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
