@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/html/net/new-releases/aspose.html-for-.net-26.10.0-(dlls-only)/"
 folder_name: "Aspose.HTML untuk .NET 26.10.0 (khusus DLL)"
-download_link: "/html/net/new-releases/aspose.html-for-.net-26.10.0-(dlls-only)/260e172c43bb99a01042ca9a0e725012-1-16186"
+download_link: "/html/net/new-releases/aspose.html-for-.net-26.10.0-(dlls-only)/260e172c43bb99a01042ca9a0e725012-1-16190"
 download_text: "Unduh"
 intro_text: "File ZIP ini hanya berisi assembly Aspose.HTML untuk .NET 26.10.0. Assembly tersebut sama dengan yang ada di installer MSI produk versi yang sama. Unduh ini jika Anda ingin menggunakan Aspose.HTML tanpa installer MSI, yaitu Anda tidak dapat menjalankan installer MSI di Mono. Unduhan ZIP ini tidak berisi dokumentasi pengguna dalam format Microsoft Help yang disertakan dalam installer MSI."
 image_link: "/resources/img/zip-icon.png"
@@ -17,26 +17,26 @@ section_parent_path: "html/net"
 
 tags: ""
 release_notes_url: "https://releases.aspose.com/html/net/release-notes/2026/aspose-html-for-net-26-10-release-notes/"
-weight: 346
+weight: 350
 
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.HTML untuk .NET 26.10.0 (khusus DLL)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Unduh" link="/html/net/new-releases/aspose.html-for-.net-26.10.0-(dlls-only)/260e172c43bb99a01042ca9a0e725012-1-16186" >}}
+    {{< Releases/ReleasesSingleButtons text="Unduh" link="/html/net/new-releases/aspose.html-for-.net-26.10.0-(dlls-only)/260e172c43bb99a01042ca9a0e725012-1-16190" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/html" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detail File">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Unduhs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-260e172c43bb99a01042ca9a0e725012-1-16186" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-260e172c43bb99a01042ca9a0e725012-1-16190" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Ukuran file: {{< /Common/li >}}
-      {{< Common/li id="size-update-260e172c43bb99a01042ca9a0e725012-1-16186" >}} 4.55MB {{< /Common/li >}}
+      {{< Common/li id="size-update-260e172c43bb99a01042ca9a0e725012-1-16190" >}} 4.55MB {{< /Common/li >}}
 
       {{< Common/li >}} Tanggal Ditambahkan: {{< /Common/li >}}
-      {{< Common/li id="added-update-260e172c43bb99a01042ca9a0e725012-1-16186" >}}28/10/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-260e172c43bb99a01042ca9a0e725012-1-16190" >}}28/10/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

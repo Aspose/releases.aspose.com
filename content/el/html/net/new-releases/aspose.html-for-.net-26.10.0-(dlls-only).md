@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/html/net/new-releases/aspose.html-for-.net-26.10.0-(dlls-only)/"
 folder_name: "Aspose.HTML για .NET 26.10.0 (μόνο DLL)"
-download_link: "/html/net/new-releases/aspose.html-for-.net-26.10.0-(dlls-only)/260e172c43bb99a01042ca9a0e725012-1-16186"
+download_link: "/html/net/new-releases/aspose.html-for-.net-26.10.0-(dlls-only)/260e172c43bb99a01042ca9a0e725012-1-16190"
 download_text: "Κατεβάστε"
 intro_text: "Αυτό το αρχείο ZIP περιέχει μόνο το Aspose.HTML για τις συναρμολογήσεις .NET 26.10.0. Οι συναρμολογήσεις είναι οι ίδιες με αυτές στο πρόγραμμα εγκατάστασης MSI του προϊόντος της ίδιας έκδοσης. Κατεβάστε το αν θέλετε να χρησιμοποιήσετε το Aspose.HTML χωρίς το πρόγραμμα εγκατάστασης MSI, δηλαδή δεν μπορείτε να εκτελέσετε προγράμματα εγκατάστασης MSI στο Mono. Αυτό το αρχείο ZIP λήψης δεν περιέχει την τεκμηρίωση χρήστη στη μορφή Βοήθειας της Microsoft που περιλαμβάνεται στο πρόγραμμα εγκατάστασης MSI."
 image_link: "/resources/img/zip-icon.png"
@@ -17,26 +17,26 @@ section_parent_path: "html/net"
 
 tags: ""
 release_notes_url: "https://releases.aspose.com/html/net/release-notes/2026/aspose-html-for-net-26-10-release-notes/"
-weight: 346
+weight: 350
 
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.HTML για .NET 26.10.0 (μόνο DLL)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Κατεβάστε" link="/html/net/new-releases/aspose.html-for-.net-26.10.0-(dlls-only)/260e172c43bb99a01042ca9a0e725012-1-16186" >}}
+    {{< Releases/ReleasesSingleButtons text="Κατεβάστε" link="/html/net/new-releases/aspose.html-for-.net-26.10.0-(dlls-only)/260e172c43bb99a01042ca9a0e725012-1-16190" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/html" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Λεπτομέρειες αρχείου">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Κατεβάστεs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-260e172c43bb99a01042ca9a0e725012-1-16186" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-260e172c43bb99a01042ca9a0e725012-1-16190" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Μέγεθος αρχείου: {{< /Common/li >}}
-      {{< Common/li id="size-update-260e172c43bb99a01042ca9a0e725012-1-16186" >}} 4.55MB {{< /Common/li >}}
+      {{< Common/li id="size-update-260e172c43bb99a01042ca9a0e725012-1-16190" >}} 4.55MB {{< /Common/li >}}
 
       {{< Common/li >}} Ημερομηνία προστέθηκε: {{< /Common/li >}}
-      {{< Common/li id="added-update-260e172c43bb99a01042ca9a0e725012-1-16186" >}}28/10/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-260e172c43bb99a01042ca9a0e725012-1-16190" >}}28/10/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
