@@ -23,7 +23,7 @@ This page contains release notes information for [Aspose.Note for .NET 26.9.3](h
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|#NOTENET-5962|Refactoring and codebase maintenance updates|Task|
+|#NOTENET-5908|Aspose.Note 25.6: OneNote sync breaks due to metadata loss after modification using Aspose.Note|Task|
 
 ## **Public API and Backward Incompatible Changes**
 
