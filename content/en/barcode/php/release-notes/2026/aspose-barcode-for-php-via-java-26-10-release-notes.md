@@ -22,8 +22,8 @@ This page contains release notes information for [Aspose.BarCode for PHP via Jav
 
 | **Key**           | **Summary**                                                                   | **Category** |
 |:------------------|:------------------------------------------------------------------------------|:-------------|
-| BARCODENET-39618 | Update and extend GS1 support | Enhancement |
-| BARCODENET-39547 | Add support of JapanPost barcode | Enhancement |
+| BARCODENET-39618  | Update and extend GS1 support                                                 | Enhancement |
+| BARCODENET-39547  | Add support of JapanPost barcode                                              | Enhancement |
 
 ## Public API changes
 
