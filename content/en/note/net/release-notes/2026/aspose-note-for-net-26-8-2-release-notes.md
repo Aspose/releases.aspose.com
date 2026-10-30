@@ -3,7 +3,7 @@ id: "aspose-note-for-net-26-8-2-release-notes"
 slug: "aspose-note-for-net-26-8-2-release-notes"
 linktitle: "Aspose.Note for .NET 26.8.2 Release Notes"
 title: "Aspose.Note for .NET 26.8.2 Release Notes"
-weight: 35
+weight: 34
 description: "Aspose.Note for .NET 26.8.2 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
