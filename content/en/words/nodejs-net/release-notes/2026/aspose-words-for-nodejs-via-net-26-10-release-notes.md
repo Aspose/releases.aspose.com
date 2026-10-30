@@ -22,9 +22,9 @@ This page contains release notes for [Aspose.Words for Node.js via .NET 26.10](h
 
 ## Major Features
 
-There are 85 improvements and fixes in this regular monthly release. The most notable are:
+There are 43 improvements and fixes in this regular monthly release. The most notable are:
 
-- **Supported Operating Systems** Added support for Linux platforms (Ubuntu 24.04 x64, Ubuntu 26.04 x64).
+
 - **AI Engine Integration:** Integrated Aspose.LLM into Aspose.Words to provide AI-powered document processing backed by an on-premise inference engine that runs entirely inside the current process, ensuring document content never leaves the machine.
 - **Layout Engine:** Improved floating table positioning by imitating MS Word behavior when balancing floating tables against footnotes.
 - **Charts:** Added the ability to set fill and line formatting for the chart plot area.
@@ -75,22 +75,23 @@ There are 85 improvements and fixes in this regular monthly release. The most no
 |NullReferenceException is thrown upon rendering document.|Bug
 |DOCX to TIFF/SVG: Output file is not rendered correctly |Bug
 |Add support for the "supportInlineShapes" feature when loading MsoHtml|Bug
-|ExtractPages adds additonal spacing in resultant document|Bug
+|extractPages adds additonal spacing in resultant document|Bug
 |Built-in header/footer styles are not created when loading MsoHtml with custom headers/footers|Bug
 |Improve support for conditional comments loaded from MsoHtml|Bug
 |TOC level 1 text is rendered with an outline effect instead of solid formatting in PDF|Bug
-|ExtractPages does not split pages correctly due fixed spacing|Bug
-|ExtractPages does not split pages correctly |Bug
-|NullReferenceException is thrown upon rendering document with ShowInBalloons.FormatAndDelete.|Bug
-|ExtractPages changes paragraph style to Normal when paragraph spans two pages|Bug
+|extractPages does not split pages correctly due fixed spacing|Bug
+|extractPages does not split pages correctly |Bug
+|NullReferenceException is thrown upon rendering document with showInBalloons.formatAndDelete.|Bug
+|extractPages changes paragraph style to Normal when paragraph spans two pages|Bug
 |Line numbering is changed after extracting pages. |Bug
-|MoveTo and MoveFrom revisions behaves improperly with numbered paragraphs.|Bug
-|Document.Save to HTML throws IndexOutOfRangeException|Bug
+|moveTo and moveFrom revisions behaves improperly with numbered paragraphs.|Bug
+|document.save to HTML throws IndexOutOfRangeException|Bug
+|Aspose.Words for .NET renders identical Arial glyphs at different pixel positions on Windows and Linux|Bug
 |EMF metafiles are rendered improperly.|Bug
 |AW hangs on Linux upon rendering.|Bug
 |NullReferenceException is thrown upon rendering document|Bug
-|NullReferenceException is thrown upon rendering document with ShowInBalloons.FormatAndDelete.|Bug
-|NullReferenceException is thrown upon document rendering to PDF|Bug
+|NullReferenceException is thrown upon rendering document with showInBalloons.formatAndDelete.|Bug
+|NullReferenceException is thrown upon document renderint to PDF|Bug
 |MathML text highlights do not match the ordinary text highlight color scheme|Bug
 |FileCorruptedException is thrown upon loading document.|Bug
 |FileCorruptedException is thrown upon loading DOC document.|Bug
@@ -118,7 +119,6 @@ There are 85 improvements and fixes in this regular monthly release. The most no
 |Footnote text is overlapped the table after DOCX to PDF Conversion |Bug
 |Table is overlapped over Footnote after DOCX to PDF conversion|Bug
 |Text and Footnotes are overlapped after DOCX to PDF conversion |Bug
-|PCL send that to a printer has a bad font warning|Bug
 |Different image cropping after replacing image in a shape|Bug
 |Table layout is changed after rendering document after removing SDTs.|Bug
 |Aspose.Words detects difference in file where MS Word does not.|Bug
