@@ -18,6 +18,7 @@ productLink: https://products.aspose.com/pdf/java/
 releaseNotesLink: https://releases.aspose.com/pdf/java/release-notes/
 dataFolder: aspose_pdf
 packages_refs:
+- "26-10"
 - "26-9"
 - "26-8-1"
 - "26-8"
