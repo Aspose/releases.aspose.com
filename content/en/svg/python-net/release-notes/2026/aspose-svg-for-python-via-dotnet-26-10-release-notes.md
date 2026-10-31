@@ -3,7 +3,7 @@ id: "aspose-svg-for-python-via-dotnet-26-10-release-notes"
 slug: "aspose-svg-for-python-via-dotnet-26-10-release-notes"
 linktitle: "Aspose.SVG for Python via .NET 26.10 Release Notes"
 title: "Aspose.SVG for Python via .NET 26.10 Release Notes"
-weight: 41
+weight: 40
 description: "Aspose.SVG for Python via .NET 26.10 Release Notes - the latest updates and fixes."
 type: "repository"
 layout: "release"
@@ -21,13 +21,10 @@ As per the regular monthly update process of all APIs being offered by Aspose, w
 
 ### Release Notes
 
-Aspose.SVG for Python via .NET 26.10.0 is published as part of the October monthly release.
-
 **Package references**<br>
-Aspose.SVG for Python via .NET 26.10.0 [NuGet](https://www.nuget.org/packages/Aspose.Svg)<br>
-Aspose.SVG for Python via .NET 26.10.0, SkiaSharp build [NuGet](https://www.nuget.org/packages/Aspose.SVG.Drawing.SkiaSharp)<br>
+Aspose.SVG for Python via .NET 26.10.0 [PyPI](https://pypi.org/project/aspose-svg-net/26.10.0/)
 
 ## **Improvements and Changes**
 
-- **SkiaSharp 4.153.1:** The SkiaSharp build of Aspose.SVG for Python via .NET now uses SkiaSharp 4.153.1 (previously 3.116.1).
-- **XPS colors in the SkiaSharp build:** Fill and stroke colors in XPS output keep their exact sRGB values with SkiaSharp 4.
+- **SkiaSharp 4.153.1:** Aspose.SVG for Python via .NET now uses SkiaSharp 4.153.1 (previously 3.116.1).
+- **XPS colors:** Fill and stroke colors in XPS output keep their exact sRGB values with SkiaSharp 4.
