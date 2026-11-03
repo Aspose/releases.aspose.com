@@ -41,7 +41,8 @@ This page contains release notes for [ Aspose.Slides for .NET 26.11](https://www
 ### Added New Class: CachedChartValue
 
 The `CachedChartValue` class and `ICachedChartValue` interface have been added to represent cached chart values, such as X values, Y values, bubble sizes, and main values.
-```
+
+```csharp
 /// <summary>
 /// Represents a cached chart value (e.g., X, Y, bubble size, or the main value).
 /// </summary>
@@ -72,7 +73,7 @@ The new `CachedValue`, `CachedXValue`, `CachedYValue`, `CachedBubbleSize` proper
 
 The following code example shows how to print all cached values of all chart series:
 
-```
+```csharp
 using (Presentation pres = new Presentation("Chart.pptx"))
 {
     var chart = (IChart)pres.Slides[0].Shapes[0];
@@ -110,7 +111,7 @@ The new `CachedValue` property has been added to the `ChartCategory` class and `
 
 The following code example shows how to print all cached chart category values:
 
-```
+```csharp
 using (Presentation pres = new Presentation("Chart.pptx"))
 {
     var chart = (IChart)pres.Slides[0].Shapes[0];
@@ -125,7 +126,7 @@ using (Presentation pres = new Presentation("Chart.pptx"))
 
 The new `PreferRegisteredFontsOverEmbedded` property has been added to the `IFontsManager` interface and its implementation. This property specifies whether registered fonts (system or loaded) should be preferred over embedded fonts with the same font name and style. When enabled, matching embedded fonts are temporarily replaced with corresponding registered fonts during export.
 
-```
+```csharp
 /// <summary>
 /// Specifies whether registered fonts should be preferred over embedded fonts with the same font name and style.
 /// When enabled, matching embedded fonts are temporarily replaced with corresponding registered fonts during export.
@@ -135,7 +136,7 @@ bool PreferRegisteredFontsOverEmbedded { get; set; }
 
 **Usage example**
 
-```
+```csharp
 using (Presentation pres = new Presentation("SomePresentation.pptx"))
 {
     pres.FontManager.PreferRegisteredFontsOverEmbedded = true;
@@ -147,7 +148,7 @@ using (Presentation pres = new Presentation("SomePresentation.pptx"))
 
 The new `LabelShapeType` property has been added to the `IDataLabel` interface and DataLabel class. This property allows you to change the shape type of a chart data label.
 
-```
+```csharp
 /// <summary>
 /// Gets or sets the shape type of the data label.
 /// Returns <see cref="ShapeType.NotDefined"/> if no shape is defined.
@@ -159,7 +160,7 @@ ShapeType LabelShapeType { get; set; }
 
 The following example demonstrates how to set the shape type of the first data label in a chart series:
 
-```
+```csharp
 using (Presentation pres = new Presentation("Chart.pptx"))
 {
     var chart = (IChart)pres.Slides[0].Shapes[1];
@@ -176,7 +177,7 @@ using (Presentation pres = new Presentation("Chart.pptx"))
 
 The new `DefaultLabelShapeType` property has been added to the `IDataLabelCollection` interface and `DataLabelCollection` class. This property allows you to set or change the shape type of all data labels in a series.
 
-```
+```csharp
 /// <summary>
 /// Gets or sets the default shape type for data labels.
 /// Returns <see cref="ShapeType.NotDefined"/> if no shape is defined.
@@ -192,7 +193,7 @@ ShapeType DefaultLabelShapeType { get; set; }
 
 The following example demonstrates how to set the shape type of all data labels in the first series:
 
-```
+```csharp
 using (Presentation pres = new Presentation("Chart.pptx"))
 {
     var chart = (IChart)pres.Slides[0].Shapes[1];
@@ -207,7 +208,7 @@ using (Presentation pres = new Presentation("Chart.pptx"))
 
 This example shows how to reset the shape type of all data labels in the first series:
 
-```
+```csharp
 using (Presentation pres = new Presentation("ChartWithEllipseLabels.pptx"))
 {
     var chart = (IChart)pres.Slides[0].Shapes[1];
@@ -228,7 +229,7 @@ The new `RefreshData()` method has been added to the `IChartData` interface and 
 
 The following example demonstrates how to refresh the chart data:
 
-```
+```csharp
 using (var presentation = new Presentation("PresentationWithChart.pptx"))
 {
     var chart = (IChart)presentation.Slides[0].Shapes[0];
@@ -244,7 +245,7 @@ The new `RefreshChartsData()` method has been added to the `IPresentation` inter
 
 The following example demonstrates how to refresh the data for all charts in a presentation:
 
-```
+```csharp
 using (var presentation = new Presentation("PresentationWithCharts.pptx"))
 {
     presentation.RefreshChartsData();
@@ -256,7 +257,7 @@ using (var presentation = new Presentation("PresentationWithCharts.pptx"))
 
 The new `VolumeValue` property has been added to the `IVideoFrame` interface and `VideoFrame` class. This property allows you to set or change video volume as a percentage. Use this property to work with precise volume values that cannot be represented by the predefined `AudioVolumeMode` levels of the `Volume` property. The value is preserved when the presentation is saved as PPTX.
 
-```
+```csharp
 using (Presentation pres = new Presentation())
 {
     IVideo video = pres.Videos.AddVideo(File.ReadAllBytes("video.mp4"));
@@ -275,7 +276,7 @@ The new `GetTextRect()` method has been added to the `ITextFrame` interface and 
 
 **Usage example**
 
-```
+```csharp
 using (Presentation presentation = new Presentation("pres.pptx"))
 {
     IAutoShape shape = (IAutoShape)presentation.Slides[0].Shapes[0];
@@ -295,7 +296,7 @@ using (Presentation presentation = new Presentation("pres.pptx"))
 The new `CompressPresentation()` method reduces the size of a presentation by applying all available compression steps: removing unused master slides and layout slides, compressing embedded fonts by retaining only the glyphs in use, reducing picture resolution to 150 DPI, and removing cropped areas of pictures.
 To customize compression, for example to use a different picture resolution or to skip a step, call a dedicated method individually instead of this one.
 
-```
+```csharp
 /// <summary>
 /// Reduces the size of a presentation by applying all available compression steps:
 /// <list type="bullet">
@@ -317,7 +318,7 @@ public static void CompressPresentation(Presentation presentation)
 
 **Usage example**
 
-```
+```csharp
  using (Presentation pres = new Presentation("pres.pptx"))
  {
      Aspose.Slides.LowCode.Compress.CompressPresentation(pres);
@@ -331,7 +332,7 @@ public static void CompressPresentation(Presentation presentation)
 The new `CompressImages()` method reduces the resolution of pictures in the presentation and deletes their cropped areas, similar to PowerPoint's "Compress Pictures" applied to all pictures. Pictures on slides, layout slides and master slides are processed, including pictures inside group shapes and picture fills of shapes.
 Pictures already at or below the target resolution are left unchanged; pictures are never upscaled. The following are not processed: slide backgrounds, table cell fills, charts, SmartArt, GIF images, SVG images, and metafile (EMF/WMF) images.
 
-```
+```csharp
 /// <summary>
 /// Reduces the resolution of pictures in the presentation and deletes their cropped areas,
 /// similar to PowerPoint's "Compress Pictures" applied to all pictures.
@@ -353,7 +354,7 @@ public static void CompressImages(IPresentation presentation, PicturesCompressio
 
 **Usage example**
 
-```
+```csharp
 using (Presentation pres = new Presentation("pres.pptx"))
 {
     Aspose.Slides.LowCode.CompressImages(pres, PicturesCompression.Dpi150);
