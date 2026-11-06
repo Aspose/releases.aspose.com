@@ -15,10 +15,29 @@ menuItemWithNoContent: false
 
 ## Aspose.TeX 26.4 for .NET has been released!
 
-- Added the Aspose.TeX.Drawing NuGet package based on Aspose.Drawing. This is a separate NuGet package and is documented in the Aspose.TeX for .NET release notes rather than as a separate product page on the releases site.
+This release introduces `Aspose.TeX.Drawing`, a separate NuGet package based on Aspose.Drawing. Use it when an Aspose.TeX application must run on Linux or macOS, including cases where the standard package reaches `System.Drawing.Common` and fails on a non-Windows platform.
+
+| Application | Package |
+|---|---|
+| Existing Windows application without a `System.Drawing.Common` platform issue | `Aspose.TeX` |
+| Linux or macOS application | `Aspose.TeX.Drawing` |
+
+Reference one package variant, not both. To switch variants, remove the existing `Aspose.TeX` package reference, add `Aspose.TeX.Drawing`, and rebuild:
+
+```
+dotnet add package Aspose.TeX.Drawing
+```
+
+The normal product namespaces remain under `Aspose.TeX`. Code that directly uses graphics types can use the new `Aspose.TeX.Drawing` wrapper types listed in the Public API section below.
+
+`Aspose.TeX.Drawing` 26.4 does not support multipage TIFF output. Use the standard `Aspose.TeX` package where its platform requirements are acceptable, or choose another output format.
+
+### Summarized changes
+
+- Added the Aspose.TeX.Drawing NuGet package based on Aspose.Drawing.
 - Updated TeX engine version constants for the 26.4 release.
 - Fixed EPS image detection for .NET Framework 3.5 builds.
-- Known limitation: Aspose.TeX.Drawing does not support multipage TIFF output yet. Use the standard Aspose.TeX package or another output format as a workaround.
+
 
 
 | Key | Summary | Category |

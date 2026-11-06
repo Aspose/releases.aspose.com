@@ -22,6 +22,7 @@ menuItemWithNoContent: false
 
 | Key | Summary | Category |
 |---|---|---|
+| TEXNET-639 | Aspose.TeX.Drawing fails on Linux, .NET8-9 | Bug |
 | - | Finalize Aspose.TeX.Drawing NuGet package packaging and README | Task |
 | - | Update TeX engine version constants for the 26.6 release | Task |
 | - | Maintenance improvements to release build and packaging scripts | Task |
