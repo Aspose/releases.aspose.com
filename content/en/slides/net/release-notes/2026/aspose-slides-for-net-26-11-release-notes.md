@@ -19,22 +19,22 @@ This page contains release notes for [ Aspose.Slides for .NET 26.11](https://www
 ## New Features and Improvements
 |**Key**|**Summary**|**Category**|**Related Documentation**|
 | :- | :- | :- | :- |
-|SLIDESNET-45358|Font shadow and reflection are rendered Incorrectly when converting PPTX to PDF|Bug||
-|SLIDESNET-45543|Getting the shape text rectangle defined by OOXML rect|Feature||
+|SLIDESNET-45358|Font shadow and reflection are rendered Incorrectly when converting PPTX to PDF|Bug|[PDF conversion](https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/#accessibility-and-compliance-standards-for-pdf)<br>[Outer shadow](https://docs.aspose.com/slides/net/wordart/#apply-outer-shadow-effects)<br>[Reflection](https://docs.aspose.com/slides/net/wordart/#apply-reflection-effects)|
+|SLIDESNET-45543|Getting the shape text rectangle defined by OOXML rect|Feature|[Shape text rectangle](https://docs.aspose.com/slides/net/manage-textbox/#get-the-shapes-text-rectangle)|
 |SLIDESNET-45592|PptReadException: Can’t read MSCDFileSystem when loading a PPT file|Bug|<https://docs.aspose.com/slides/net/open-presentation/>|
 |SLIDESNET-45545|Aspose.Slides for .NET 26.9 upgrade reduces spacing between text|Bug|<https://docs.aspose.com/slides/net/import-presentation/#import-from-html>|
 |SLIDESNET-45577|Enhance the MSCDFileSystem reader to support CFB version 4|Enhancement|<https://docs.aspose.com/slides/net/password-protected-presentation/>|
 |SLIDESNET-45561|PPTX to PDF/UA: PAC warning for checkbox text with a line break|Bug|<https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/>|
-|SLIDESNET-45548|Add IVideoFrame.VolumeValue to get/set the exact video volume|Feature||
+|SLIDESNET-45548|Add IVideoFrame.VolumeValue to get/set the exact video volume|Feature|[Precise video volume](https://docs.aspose.com/slides/net/video-frame/#set-video-volume-precisely)|
 |SLIDESNET-45562|PPTX to PDF/UA: Incomplete link elements inside lists|Bug|<https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/>|
-|SLIDESNET-45565|Part of the content is missing when converting PPTX to HTML|Bug||
-|SLIDESNET-45571|Add a unified “Compress” API|Feature||
+|SLIDESNET-45565|Part of the content is missing when converting PPTX to HTML|Bug|[HTML conversion](https://docs.aspose.com/slides/net/convert-powerpoint-to-html/)|
+|SLIDESNET-45571|Add a unified “Compress” API|Feature|[Whole-presentation compression](https://docs.aspose.com/slides/net/low-code-presentation-operations/#compress-the-whole-presentation)<br>[Image compression](https://docs.aspose.com/slides/net/low-code-presentation-operations/#compress-images-at-a-chosen-resolution)|
 |SLIDESNET-45560|PPTX to PDF/UA: PAC artifact error for underlined links|Bug|<https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/>|
-|SLIDESNET-45217|Refreshing Excel charts embedded in a presentation|Feature|<https://docs.aspose.com/slides/net/powerpoint-charts/>|
-|SLIDESNET-44039|Change the shape/form of DataLabel objects in a chart|Feature|<https://docs.aspose.com/slides/net/chart-data-label/>|
-|SLIDESNET-45542|Access cached chart values for charts with externally linked workbooks|Feature|<https://docs.aspose.com/slides/net/chart-workbook/>|
+|SLIDESNET-45217|Refreshing Excel charts embedded in a presentation|Feature|[Refresh chart data](https://docs.aspose.com/slides/net/chart-workbook/#refresh-chart-data-from-source-workbooks)|
+|SLIDESNET-44039|Change the shape/form of DataLabel objects in a chart|Feature|[Data label shapes](https://docs.aspose.com/slides/net/chart-data-label/#change-data-label-shapes)|
+|SLIDESNET-45542|Access cached chart values for charts with externally linked workbooks|Feature|[Read cached chart values](https://docs.aspose.com/slides/net/chart-workbook/#read-cached-chart-values-without-a-workbook)|
 |SLIDESNET-44071|Print preview in browser is distorting images when converting PPTX to PDF|Bug|<https://docs.aspose.com/slides/net/convert-powerpoint-to-pdf/>|
-|SLIDESNET-45540|Add an Option to Prefer System Fonts over Embedded Fonts During Rendering|Feature||
+|SLIDESNET-45540|Add an Option to Prefer System Fonts over Embedded Fonts During Rendering|Feature|[Registered-font precedence](https://docs.aspose.com/slides/net/font-selection-sequence/#prefer-registered-fonts-over-embedded-fonts)|
 
 ## Public API Changes
 
@@ -137,9 +137,12 @@ bool PreferRegisteredFontsOverEmbedded { get; set; }
 **Usage example**
 
 ```csharp
+using Aspose.Slides;
+using Aspose.Slides.Export;
+
 using (Presentation pres = new Presentation("SomePresentation.pptx"))
 {
-    pres.FontManager.PreferRegisteredFontsOverEmbedded = true;
+    pres.FontsManager.PreferRegisteredFontsOverEmbedded = true;
     pres.Save("presentation-out.pdf", SaveFormat.Pdf);
 }
 ```
@@ -330,7 +333,7 @@ public static void CompressPresentation(Presentation presentation)
 ### Added New Method: LowCode.CompressImages()
 
 The new `CompressImages()` method reduces the resolution of pictures in the presentation and deletes their cropped areas, similar to PowerPoint's "Compress Pictures" applied to all pictures. Pictures on slides, layout slides and master slides are processed, including pictures inside group shapes and picture fills of shapes.
-Pictures already at or below the target resolution are left unchanged; pictures are never upscaled. The following are not processed: slide backgrounds, table cell fills, charts, SmartArt, GIF images, SVG images, and metafile (EMF/WMF) images.
+Pictures already at or below the target resolution are not upscaled; cropped areas can still be removed. The following are not processed: slide backgrounds, table cell fills, charts, SmartArt, GIF images, SVG images, and metafile (EMF/WMF) images.
 
 ```csharp
 /// <summary>
@@ -341,10 +344,11 @@ Pictures already at or below the target resolution are left unchanged; pictures 
 /// </summary>
 /// <param name="presentation">The presentation to process. </param>
 /// <param name="resolution">Target resolution relative to the size at which each picture is displayed.
-/// <see cref="PicturesCompression.DocumentResolution"/> leaves pictures unchanged.</param>
+/// <see cref="PicturesCompression.DocumentResolution"/> avoids resolution-based downsampling,
+/// but cropped areas can still be removed in 26.11.</param>
 /// <exception cref="ArgumentNullException"><paramref name="presentation"/> is <c>null</c>.</exception>
 /// <remarks>
-/// <para>Pictures already at or below the target resolution are left unchanged; pictures are never upscaled.</para>
+/// <para>Pictures already at or below the target resolution are not upscaled; cropped areas can still be removed.</para>
 /// <para>Not processed: slide backgrounds, table cell fills, charts, SmartArt, GIF images (to preserve animation),
 /// SVG and metafile (EMF/WMF) images.</para>
 /// <para>Cropped areas are removed permanently and cannot be restored in PowerPoint.</para>
@@ -355,9 +359,12 @@ public static void CompressImages(IPresentation presentation, PicturesCompressio
 **Usage example**
 
 ```csharp
+using Aspose.Slides;
+using Aspose.Slides.Export;
+
 using (Presentation pres = new Presentation("pres.pptx"))
 {
-    Aspose.Slides.LowCode.CompressImages(pres, PicturesCompression.Dpi150);
+    Aspose.Slides.LowCode.Compress.CompressImages(pres, PicturesCompression.Dpi150);
     
     pres.Save("pres-out.pptx", SaveFormat.Pptx);
 }
