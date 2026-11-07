@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/omr/net/new-releases/icons-aspose.omr-for-.net-26.11-(dlls-only)/"
-folder_name: "Ikon Aspose.OMR untuk .NET 26.11 (hanya DLL)"
+folder_name: "Aspose.OMR untuk .NET 26.11 (khusus DLL)"
 download_link: "/omr/net/new-releases/icons-aspose.omr-for-.net-26.11-(dlls-only)/b81a9ae47a1cd67e4d8436ab7ea4f6aa-43-16237"
 download_text: "Unduh"
 intro_text: "File ZIP ini hanya berisi assembly Aspose.OMR untuk .NET. Assembly tersebut sama dengan yang ada di installer MSI produk versi yang sama. Unduh ini jika Anda ingin menggunakan Aspose.OMR tanpa installer MSI, yaitu Anda tidak dapat menjalankan installer MSI di Mono."
@@ -22,7 +22,7 @@ weight: 184
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Ikon Aspose.OMR untuk .NET 26.11 (hanya DLL)" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.OMR untuk .NET 26.11 (khusus DLL)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Unduh" link="/omr/net/new-releases/icons-aspose.omr-for-.net-26.11-(dlls-only)/b81a9ae47a1cd67e4d8436ab7ea4f6aa-43-16237" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/omr" >}}

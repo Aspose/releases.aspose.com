@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/omr/net/new-releases/icons-aspose.omr-for-.net-26.11-(dlls-only)/"
-folder_name: "Aspose.OMR .NET 26.11 图标（仅限 DLL 文件）"
+folder_name: "Aspose.OMR for .NET 26.11（仅限 DLL 文件）"
 download_link: "/omr/net/new-releases/icons-aspose.omr-for-.net-26.11-(dlls-only)/b81a9ae47a1cd67e4d8436ab7ea4f6aa-43-16237"
 download_text: "下载"
 intro_text: "此 ZIP 文件仅包含 Aspose.OMR for .NET 程序集。这些程序集与同版本产品的 MSI 安装程序中的程序集相同。如果您想在不使用 MSI 安装程序的情况下使用 Aspose.OMR（例如，您无法在 Mono 上运行 MSI 安装程序），请下载此文件。"
@@ -22,7 +22,7 @@ weight: 184
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.OMR .NET 26.11 图标（仅限 DLL 文件）" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.OMR for .NET 26.11（仅限 DLL 文件）" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="下载" link="/omr/net/new-releases/icons-aspose.omr-for-.net-26.11-(dlls-only)/b81a9ae47a1cd67e4d8436ab7ea4f6aa-43-16237" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/omr" >}}

@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/omr/net/new-releases/icons-aspose.omr-for-.net-26.11-(dlls-only)/"
-folder_name: "Aspose.OMR .NET 26.11 için simgeler (yalnızca DLL'ler)"
+folder_name: "Aspose.OMR for .NET 26.11 (yalnızca DLL'ler)"
 download_link: "/omr/net/new-releases/icons-aspose.omr-for-.net-26.11-(dlls-only)/b81a9ae47a1cd67e4d8436ab7ea4f6aa-43-16237"
 download_text: "İndirmek"
 intro_text: "Bu ZIP dosyası yalnızca Aspose.OMR for .NET derlemelerini içerir. Derlemeler, aynı sürümdeki ürünün MSI yükleyicisindekiyle aynıdır. Aspose.OMR'yi MSI yükleyicisi olmadan kullanmak istiyorsanız, yani Mono üzerinde MSI yükleyicilerini çalıştıramıyorsanız, bunu indirin."
@@ -22,7 +22,7 @@ weight: 184
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.OMR .NET 26.11 için simgeler (yalnızca DLL'ler)" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.OMR for .NET 26.11 (yalnızca DLL'ler)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="İndirmek" link="/omr/net/new-releases/icons-aspose.omr-for-.net-26.11-(dlls-only)/b81a9ae47a1cd67e4d8436ab7ea4f6aa-43-16237" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/omr" >}}
