@@ -5,7 +5,7 @@ description:  "Download Aspose.CSS for .NET, a native .NET engine that loads HTM
 keywords:  "CSS Library C#, CSS layout engine .NET, HTML to PDF C#, HTML to image C#"
 family_listing_page_title:  "Aspose.CSS for .NET"
 family_listing_page_description:  "Aspose.CSS for .NET is a native .NET CSS engine: it loads HTML, performs CSS parsing, cascade and layout, and renders documents to raster images and PDF."
-family_listing_page_iconurl:  "Image Link: https://products.aspose.com/css/images/aspose_css-brand.svg"
+family_listing_page_iconurl:  "https://products.aspose.com/css/images/aspose_css-brand.svg"
 weight: 1
 
 ---
