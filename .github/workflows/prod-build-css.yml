@@ -1,0 +1,224 @@
+# Builds the Aspose.CSS family and publishes it to releases.aspose.com.
+#
+# The family folder css/ on the site also holds the stylesheets and icon fonts
+# of the whole site (theme folder themes/downloads-common-theme/static/css).
+# This job therefore uploads and deletes page files (.html, .xml) only, and
+# stops before any upload if the build lacks an expected page or if the
+# upload plan names any file that is not a page. It never touches the site's
+# stylesheets or fonts. To put those back, use prod-restore-shared-css.
+
+name: prod-css
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'content/en/css/**'
+
+  # A start by hand is a dry run (it builds, runs both checks, prints what it would upload
+  # and delete, and writes nothing) unless "upload" is chosen. An upload runs the same dry
+  # run first, as its check. A push always uploads.
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'dry-run: build, check and show what would be uploaded or deleted; write nothing. upload: publish.'
+        type: choice
+        options:
+          - dry-run
+          - upload
+        default: dry-run
+
+jobs:
+  deploy:
+    # Runs only from the main branch, whatever branch a manual start names.
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    env:
+      BUCKET: 'releases.aspose.com'
+      MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.mode || 'upload' }}
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v5
+      with:
+          submodules: true  # Fetch Hugo themes
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v3
+      with:
+          hugo-version: '0.101.0'
+
+    - name: Remove unwanted folders
+      run: |
+
+        if [ -d "./content/de" ]; then
+        find ./content/de -mindepth 1 ! -regex '^./content/de/css\(/.*\)?' -delete
+        fi
+        if [ -d "./content/el" ]; then
+        find ./content/el -mindepth 1 ! -regex '^./content/el/css\(/.*\)?' -delete
+        fi
+        if [ -d "./content/en" ]; then
+        find ./content/en -mindepth 1 ! -regex '^./content/en/css\(/.*\)?' -delete
+        fi
+        if [ -d "./content/es" ]; then
+        find ./content/es -mindepth 1 ! -regex '^./content/es/css\(/.*\)?' -delete
+        fi
+        if [ -d "./content/fr" ]; then
+        find ./content/fr -mindepth 1 ! -regex '^./content/fr/css\(/.*\)?' -delete
+        fi
+        if [ -d "./content/id" ]; then
+        find ./content/id -mindepth 1 ! -regex '^./content/id/css\(/.*\)?' -delete
+        fi
+        if [ -d "./content/ja" ]; then
+        find ./content/ja -mindepth 1 ! -regex '^./content/ja/css\(/.*\)?' -delete
+        fi
+        if [ -d "./content/pt" ]; then
+        find ./content/pt -mindepth 1 ! -regex '^./content/pt/css\(/.*\)?' -delete
+        fi
+        if [ -d "./content/ru" ]; then
+        find ./content/ru -mindepth 1 ! -regex '^./content/ru/css\(/.*\)?' -delete
+        fi
+        if [ -d "./content/tr" ]; then
+        find ./content/tr -mindepth 1 ! -regex '^./content/tr/css\(/.*\)?' -delete
+        fi
+        if [ -d "./content/zh" ]; then
+        find ./content/zh -mindepth 1 ! -regex '^./content/zh/css\(/.*\)?' -delete
+        fi
+        rm ./layouts/sitemap.xml;
+        ls content/ -all;
+
+
+    - name: Build css pages
+      run: hugo --config "./config/config-prod-releases-aspose-com.toml"  -b "https://releases.aspose.com/" --disableKinds=taxonomy,category --cleanDestinationDir --minify
+
+    - name: Prepare public folder
+      run: |
+
+        mv public/en/sitemap.xml public/en/sitemap-css.xml;
+
+        rm public/index.html;
+        rm public/index.json;
+        ls public -all;
+
+    # Nothing is written to the bucket before both checks below have passed.
+    - name: Check, then upload css pages
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
+        AWS_DEFAULT_REGION: us-west-2
+      run: |
+        set -euo pipefail
+
+        # Check 1: every Aspose.CSS page in the content was built at its own address, and is not empty.
+        # The address is the page's url or slug setting when it has one; otherwise its file name made into
+        # an address the way Hugo does it (lower case, spaces to '-', other signs dropped). Drafts are never built.
+        if [ ! -d content/en/css ]; then
+          echo "STOP: there is no content/en/css in this branch, nothing to publish."
+          exit 1
+        fi
+        field() { # field <name> <file>: the first value of <name> in the file's front matter
+          awk -v k="$1" -v q="'" '
+            { sub(/\r$/, "") }
+            NR == 1 { inside = ($0 == "---"); next }
+            !inside { next }
+            $0 == "---" { inside = 0; next }
+            !found && tolower(substr($0, 1, length(k) + 1)) == k ":" { v = substr($0, length(k) + 2); found = 1 }
+            END { gsub(/^[ \t]+|[ \t]+$/, "", v); if (v ~ /^".*"$/ || v ~ ("^" q ".*" q "$")) v = substr(v, 2, length(v) - 2); print v }
+          ' "$2"
+        }
+        missing=0; checked=0; drafts=0
+        while IFS= read -r src; do
+          if [ "$(field draft "$src")" = "true" ]; then drafts=$((drafts + 1)); continue; fi
+          rel="${src#content/en/css}"; dir="${rel%/*}"; name="${rel##*/}"
+          url="$(field url "$src")"; slug="$(field slug "$src")"
+          if [ -n "$url" ]; then
+            url="${url#/}"; url="${url%/}"
+            case "$url" in *.html) page="public/$url" ;; *) page="public/$url/index.html" ;; esac
+          elif [ "$name" = "_index.md" ]; then
+            page="public/css${dir}/index.html"
+          else
+            if [ -z "$slug" ]; then
+              slug="$(printf '%s' "${name%.md}" | tr '[:upper:]' '[:lower:]' | tr ' ' '-' | sed 's/[^a-z0-9._#+~-]//g')"
+            fi
+            page="public/css${dir}/${slug}/index.html"
+          fi
+          checked=$((checked + 1))
+          if [ -s "$page" ]; then
+            echo "built: $page"
+          else
+            echo "STOP: $page is missing or empty (from $src)."
+            missing=1
+          fi
+        done < <(find content/en/css -name '*.md' | sort)
+        empty="$( { find public/css -name '*.html' -size 0 2>/dev/null || true; } )"
+        if [ -n "$empty" ]; then
+          echo "STOP: these built pages are empty:"
+          echo "$empty"
+          missing=1
+        fi
+        echo "content pages checked: $checked, drafts skipped: $drafts"
+        if [ "$checked" -eq 0 ] || [ "$missing" -ne 0 ]; then
+          echo "STOP: the build is incomplete; nothing was uploaded."
+          exit 1
+        fi
+
+        # The rule tells pages from the site's stylesheets and fonts by file
+        # ending. Stop if the theme ever ships a file the rule would treat as a page.
+        clash=$(find themes/downloads-common-theme/static/css -type f \( -name '*.html' -o -name '*.xml' \))
+        if [ -n "$clash" ]; then
+          echo "STOP: these theme files end in .html or .xml and would fall inside the page rule:"
+          echo "$clash"
+          exit 1
+        fi
+
+        # Check 2: a dry run with the very same rule; the plan may name page files only.
+        RULE=(--acl public-read --follow-symlinks --delete --exclude '*' --include '*.html' --include '*.xml' --no-progress)
+        aws s3 sync public/css "s3://${BUCKET}/css" "${RULE[@]}" --dryrun > css-upload-plan.txt
+        cat css-upload-plan.txt
+        not_pages=$(grep -vE '^\(dryrun\) (upload|delete): .+\.(html|xml)$' css-upload-plan.txt || true)
+        if [ -n "$not_pages" ]; then
+          echo "STOP: the plan names files that are not pages; nothing was uploaded:"
+          echo "$not_pages"
+          exit 1
+        fi
+        echo "plan: $(grep -c '^(dryrun) upload' css-upload-plan.txt || true) uploads, $(grep -c '^(dryrun) delete' css-upload-plan.txt || true) deletes, all of them pages."
+
+        if [ "$MODE" != "upload" ]; then
+          echo "dry-run: nothing was uploaded or deleted."
+          exit 0
+        fi
+        aws s3 sync public/css "s3://${BUCKET}/css" "${RULE[@]}"
+
+    - name: Upload css sitemap index
+      if: env.MODE == 'upload'
+      uses: zdurham/s3-upload-github-action@master
+      with:
+        args: --acl public-read
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS}}
+        S3_BUCKET: 'releases.aspose.com'
+        FILE: 'public/sitemap.xml'
+        AWS_REGION: 'us-west-2'
+        S3_KEY: 'sitemap.xml'
+
+    - name: Upload en sitemap
+      if: env.MODE == 'upload'
+      run: aws s3 cp public/en/sitemap-css.xml s3://releases.aspose.com/en/sitemap-css.xml --content-type application/xml --acl public-read
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
+        AWS_DEFAULT_REGION: us-west-2
+
+    # Invalidate Cloudfront (this action)
+    - name: invalidate
+      if: env.MODE == 'upload'
+      continue-on-error: true
+      uses: chetan/invalidate-cloudfront-action@master
+      env:
+        DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION_PROD }}
+        PATHS: / /index.html /index.json /sitemap.xml /en/sitemap-css.xml /css/* /en/css/*
+        AWS_REGION: 'us-west-2'
+        AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
