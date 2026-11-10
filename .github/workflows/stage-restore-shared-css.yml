@@ -1,0 +1,74 @@
+# Puts the site's stylesheets and icon fonts back into css/ on
+# releases-qa.aspose.com, from this branch's theme folder
+# (themes/downloads-common-theme/static/css). For emergencies only:
+# it starts only by hand, copies files, and never deletes anything.
+# A start is a dry run (it lists what would be copied and writes nothing)
+# unless "restore" is chosen.
+
+name: staging-restore-shared-css
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'dry-run: list what would be copied; write nothing. restore: copy the files back.'
+        type: choice
+        options:
+          - dry-run
+          - restore
+        default: dry-run
+
+jobs:
+  restore:
+    # Runs only from the stage branch, whatever branch the start names.
+    if: github.ref == 'refs/heads/stage'
+    runs-on: ubuntu-latest
+    env:
+      BUCKET: 'releases-qa.aspose.com'
+      MODE: ${{ inputs.mode }}
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v5
+
+    - name: Copy the site's stylesheets and fonts back to css/
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
+        AWS_DEFAULT_REGION: us-west-2
+      run: |
+        set -euo pipefail
+        SRC=themes/downloads-common-theme/static/css
+        count=$(find "$SRC" -type f | wc -l)
+        echo "files in $SRC: $count"
+        if [ "$count" -eq 0 ]; then
+          echo "STOP: the theme folder is empty; nothing was copied."
+          exit 1
+        fi
+        # First pass: decide every file's content type; stop before copying anything if one is unknown.
+        : > restore-list.txt
+        while IFS= read -r f; do
+          case "$f" in
+            *.css)   type=text/css ;;
+            *.eot)   type=application/vnd.ms-fontobject ;;
+            *.svg)   type=image/svg+xml ;;
+            *.ttf)   type=font/ttf ;;
+            *.woff2) type=font/woff2 ;;
+            *.woff)  type=font/woff ;;
+            *) echo "STOP: no content type known for $f; nothing was copied."; exit 1 ;;
+          esac
+          md5=$(md5sum "$f" | cut -d' ' -f1)
+          printf '%s\t%s\t%s\n' "$f" "$type" "$md5" >> restore-list.txt
+          echo "css/${f#$SRC/}  $type  $md5"
+        done < <(find "$SRC" -type f | sort)
+
+        if [ "$MODE" != "restore" ]; then
+          echo "dry-run: nothing was copied."
+          exit 0
+        fi
+        # Second pass: copy. Never deletes anything.
+        while IFS=$'\t' read -r f type md5; do
+          aws s3 cp "$f" "s3://${BUCKET}/css/${f#$SRC/}" --acl public-read --content-type "$type" --metadata "md5chksum=${md5}" --only-show-errors
+        done < restore-list.txt
+        echo "Stylesheets and fonts now under css/ in ${BUCKET}:"
+        aws s3 ls "s3://${BUCKET}/css/" --recursive | grep -vE 'index\.(html|xml)$'
