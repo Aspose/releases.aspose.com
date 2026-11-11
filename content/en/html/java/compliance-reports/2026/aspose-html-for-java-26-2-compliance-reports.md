@@ -3,7 +3,7 @@ id: "aspose-html-for-java-26-2-compliance-reports"
 slug: "aspose-html-for-java-26-2-compliance-reports"
 linktitle: "Aspose.HTML for Java 26.2 Compliance Reports"
 title: "Aspose.HTML for Java 26.2 – Compliance & Security"
-weight: 999
+weight: 110
 description: "Aspose.HTML for Java Compliance & Security Reports | Release 26.2"
 type: "repository"
 layout: "release"
