@@ -47,6 +47,7 @@ productLink: https://products.aspose.com/total/java/
 releaseNotesLink: https://docs.aspose.com/total/java/aspose-total-for-java-release-notes/
 dataFolder: aspose_total
 packages_refs:
+- "26-9"
 - "26-8"
 - "26-7"
 - "26-6"
