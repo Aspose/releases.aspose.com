@@ -1,7 +1,7 @@
 ---
 
 title: "Download Email Processing C# Library | Aspose.Email"
-description:  "Aspose.Email for Node.js via .NET is a flexible yet powerful Email Programming API, that saves developer's time & effort to create, manipulate or convert common email message formats without worrying."
+description:  "Aspose.Email for Node.js via .NET"
 keywords:  "Email, PST, vCard,.NET Email Library"
 family_listing_page_title:  "Aspose.Email for Node.js via .NET"
 family_listing_page_description:  "Aspose.Email for Node.js via .NET is a flexible yet powerful Email Programming API, that saves developer's time & effort to create, manipulate or convert common email message formats without worrying."
