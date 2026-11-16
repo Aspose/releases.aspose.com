@@ -1,5 +1,6 @@
 {
   "groupId" : "com.aspose",
+  "classifier" : "jdk16",
   "artifactId" : "aspose-gis",
   "id" : "25-7",
   "packageFiles" : [ {

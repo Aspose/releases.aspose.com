@@ -7,7 +7,7 @@ layout: packages
 type: repository
 family_listing_page_title: "Aspose.GIS for Java"
 family_listing_page_description: "Develop high performance apps to Create, Edit and Convert GIS file formats using our native APIs for Java."
-family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/gis/272x272/aspose_gis-for-java.png"
+family_listing_page_iconurl: "https://releases.aspose.com/res_repo/img/aspose_gis-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
 family_listing_page_venture: "4"
@@ -40,6 +40,7 @@ Add the {{< Common/link href="https://releases.aspose.com/java/repo/" text="Aspo
     &lt;groupId&gt;com.aspose&lt;/groupId&gt;
     &lt;artifactId&gt;aspose-gis&lt;/artifactId&gt;
     &lt;version&gt;25.7&lt;/version&gt;
+    &lt;classifier&gt;jdk16&lt;/classifier&gt;
 &lt;/dependency&gt;{{< /consolebox/textarea >}}
 {{< /consolebox/consoleboxwrapper >}}
 {{< Common/hr >}}
