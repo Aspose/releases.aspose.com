@@ -1,0 +1,363 @@
+# Builds the home pages and the left menu files (index.html and index.json,
+# for all 11 languages) in two quick ways and compares each with the files
+# that are live on the site of this branch.
+#
+# Reads only. It uses no secrets, writes nothing to any bucket, clears no
+# CDN cache and changes nothing in the repository. The only thing it keeps
+# is its own run artifact with the files it compared.
+#
+#   main  -> https://releases.aspose.com     (full build: releases-aspose-com-prod.yml)
+#   stage -> https://releases-qa.aspose.com  (full build: releases-aspose-com-stage.yml)
+#
+# Quick way "sections-only": every content file except the section pages
+# (_index.md) is removed in the runner's copy, then the full build's own
+# build command runs.
+# Quick way "all-pages": every content file stays; a copy of the settings
+# file, made in the runner only, tells Hugo not to write any page except
+# the home pages; then the full build's own build command runs.
+
+name: menu-home-proof
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Commit to build at (40 characters). Leave empty to use the commit of the newest successful full build of this site."
+        required: false
+        default: ""
+
+permissions:
+  contents: read
+  actions: read
+
+concurrency:
+  group: menu-home-proof-${{ github.ref_name }}
+  cancel-in-progress: false
+
+jobs:
+  proof:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+
+    steps:
+      - name: Pick the site from the branch
+        id: site
+        shell: bash
+        run: |
+          set -euo pipefail
+          case "${GITHUB_REF}" in
+            refs/heads/main)
+              site="https://releases.aspose.com"
+              config="./config/config-prod-releases-aspose-com.toml"
+              fullbuild="releases-aspose-com-prod.yml" ;;
+            refs/heads/stage)
+              site="https://releases-qa.aspose.com"
+              config="./config/config-stage-releases-aspose-com.toml"
+              fullbuild="releases-aspose-com-stage.yml" ;;
+            *)
+              echo "This check runs only from main or stage, not from ${GITHUB_REF}. Nothing was done."
+              exit 1 ;;
+          esac
+          {
+            echo "site=${site}"
+            echo "config=${config}"
+            echo "fullbuild=${fullbuild}"
+          } >> "$GITHUB_OUTPUT"
+          echo "Site: ${site}"
+
+      - name: Find the version to build
+        id: live
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+          FULLBUILD: ${{ steps.site.outputs.fullbuild }}
+          INPUT_VERSION: ${{ inputs.version }}
+        run: |
+          set -euo pipefail
+          # Read the whole run list of the site's full build, every page of it.
+          list="${RUNNER_TEMP}/full-build-runs.tsv"
+          total=$(gh api "repos/${GITHUB_REPOSITORY}/actions/workflows/${FULLBUILD}/runs?per_page=1" --jq '.total_count')
+          gh api --paginate "repos/${GITHUB_REPOSITORY}/actions/workflows/${FULLBUILD}/runs?per_page=100" \
+            --jq '.workflow_runs[] | [.id, .run_attempt, .head_sha, .run_number, .status, (.conclusion // "none")] | @tsv' > "${list}"
+          got=$(wc -l < "${list}")
+          if [ "${got}" != "${total}" ]; then
+            echo "The full build run list could not be read completely (${got} of ${total} runs). Nothing was done."
+            exit 1
+          fi
+          busy=$(awk -F'\t' '$5 != "completed"' "${list}" | wc -l)
+          if [ "${busy}" != "0" ]; then
+            echo "A full build of this site is waiting or running (${FULLBUILD}). Run this check after it has ended. Nothing was done."
+            exit 1
+          fi
+          finished_at=""
+          if [ -n "${INPUT_VERSION}" ]; then
+            if ! [[ "${INPUT_VERSION}" =~ ^[0-9a-f]{40}$ ]]; then
+              echo "The version must be a full 40 character commit id. Nothing was done."
+              exit 1
+            fi
+            version="${INPUT_VERSION}"
+            source="given by hand"
+          else
+            # The newest successful full build, ordered by the time its last
+            # attempt's job finished (the run's own time stamps are not used).
+            version=""; best_time=""; best_run=""
+            while IFS=$'\t' read -r run_id attempt sha number status conclusion; do
+              [ "${conclusion}" = "success" ] || continue
+              finished=$(gh api "repos/${GITHUB_REPOSITORY}/actions/runs/${run_id}/attempts/${attempt}/jobs" \
+                           --jq '[.jobs[].completed_at // empty] | max // empty')
+              if [ -n "${finished}" ] && { [ -z "${best_time}" ] || [[ "${finished}" > "${best_time}" ]]; }; then
+                best_time="${finished}"; version="${sha}"; best_run="${number}"
+              fi
+            done < "${list}"
+            if [ -z "${version}" ]; then
+              echo "No successful full build of this site was found. Nothing was done."
+              exit 1
+            fi
+            source="full build run ${best_run}, finished ${best_time}"
+            finished_at="${best_time}"
+          fi
+          {
+            echo "version=${version}"
+            echo "finished=${finished_at}"
+          } >> "$GITHUB_OUTPUT"
+          echo "Version to build: ${version} (${source})"
+          echo "Version to build: \`${version}\` (${source})" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Checkout the version
+        uses: actions/checkout@v5
+        with:
+          ref: ${{ steps.live.outputs.version }}
+          submodules: true
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.101.0'
+
+      - name: Read the live files
+        shell: bash
+        env:
+          SITE: ${{ steps.site.outputs.site }}
+          FINISHED: ${{ steps.live.outputs.finished }}
+        run: |
+          set -euo pipefail
+          out="${RUNNER_TEMP}/menu-home-proof/live"
+          dates="${RUNNER_TEMP}/menu-home-proof/live-last-changed.tsv"
+          hdr="${RUNNER_TEMP}/headers.txt"
+          mkdir -p "${out}"
+          : > "${dates}"
+          bad=0
+          for lang in "" de el es fr id ja pt ru tr zh; do
+            for name in index.html index.json; do
+              path="${lang:+${lang}/}${name}"
+              mkdir -p "${out}/$(dirname "${path}")"
+              ok=0
+              for try in 1 2 3; do
+                rm -f "${out}/${path}"
+                : > "${hdr}"
+                number="$(date +%s%N)${RANDOM}${try}"
+                code=$(curl -sS -A "menu-home-proof" -D "${hdr}" \
+                         -o "${out}/${path}" -w '%{http_code}' "${SITE}/${path}?Return_content=${number}") || code="000"
+                cache=$(tr -d '\r' < "${hdr}" | grep -i '^x-cache:' | head -1 || true)
+                etag=$(tr -d '\r"' < "${hdr}" | grep -i '^etag:' | head -1 | awk '{print $2}' || true)
+                changed=$(tr -d '\r' < "${hdr}" | grep -i '^last-modified:' | head -1 | cut -d' ' -f2- || true)
+                if [ -f "${out}/${path}" ]; then sum=$(md5sum < "${out}/${path}" | cut -c1-32); else sum="none"; fi
+                # Used only when the CDN clearly says it fetched the file fresh
+                # from the bucket ("Miss"; a stored copy says "Hit" or
+                # "RefreshHit"), the answer is OK, the body is the bucket's
+                # object (its checksum equals the ETag), and it carries its
+                # last changed date.
+                if [ "${code}" = "200" ] \
+                   && grep -qi 'miss' <<< "${cache}" \
+                   && [ -n "${etag}" ] && [ "${etag}" = "${sum}" ] \
+                   && [ -n "${changed}" ]; then
+                  ok=1; break
+                fi
+                echo "  ${path}: answer ${try} not used (status ${code}; ${cache:-no cache mark}; etag ${etag:-none}; body ${sum})"
+              done
+              if [ "${ok}" = "1" ]; then
+                printf '%s\t%s\n' "${path}" "${changed}" >> "${dates}"
+                echo "${path}: read, $(stat -c %s "${out}/${path}") bytes, checksum equals the object's ETag, last changed ${changed}"
+              else
+                echo "${path}: COULD NOT BE READ FRESH"
+                bad=1
+              fi
+            done
+          done
+          if [ "${bad}" != "0" ]; then
+            echo "At least one live file could not be read fresh. No comparison is made."
+            exit 1
+          fi
+          # Every live file must be older than the end of the full build that
+          # is being rebuilt; otherwise something else wrote it afterwards.
+          if [ -n "${FINISHED}" ]; then
+            end=$(date -d "${FINISHED}" +%s)
+            late=0
+            while IFS=$'\t' read -r path changed; do
+              if [ "$(date -d "${changed}" +%s)" -gt "${end}" ]; then
+                echo "${path} was last changed ${changed}, after the picked full build finished (${FINISHED})."
+                late=1
+              fi
+            done < "${dates}"
+            if [ "${late}" != "0" ]; then
+              echo "These live files were written after the picked full build, so they may not come from its version. No comparison is made."
+              exit 1
+            fi
+            echo "All 22 live files were last changed before the picked full build finished (${FINISHED})."
+          else
+            echo "Version given by hand: the last changed dates of the live files are in live-last-changed.tsv; they are not checked."
+          fi
+
+      - name: Build the all-pages way
+        shell: bash
+        timeout-minutes: 150
+        env:
+          SITE: ${{ steps.site.outputs.site }}
+          CONFIG: ${{ steps.site.outputs.config }}
+          PAGE_LIMIT: "50"
+        run: |
+          set -euo pipefail
+          cfg="${RUNNER_TEMP}/menu-home-all-pages.toml"
+          cp "${CONFIG}" "${cfg}"
+          cat >> "${cfg}" <<'EOF'
+
+          [[cascade]]
+            [cascade._build]
+              render = "link"
+              list = "always"
+            [cascade._target]
+              kind = "page"
+
+          [[cascade]]
+            [cascade._build]
+              render = "link"
+              list = "always"
+            [cascade._target]
+              kind = "section"
+
+          [[cascade]]
+            [cascade._build]
+              render = "link"
+              list = "always"
+            [cascade._target]
+              kind = "taxonomy"
+
+          [[cascade]]
+            [cascade._build]
+              render = "link"
+              list = "always"
+            [cascade._target]
+              kind = "term"
+          EOF
+          start=$(date +%s)
+          hugo --config "${cfg}" -b "${SITE}/" --cleanDestinationDir --minify
+          end=$(date +%s)
+          echo "$(( end - start ))" > "${RUNNER_TEMP}/seconds-all-pages.txt"
+          echo "Built in $(( end - start )) seconds."
+          # Pages written other than the 11 home pages. A quick build writes
+          # only a few (error and redirect pages); a full build writes them all.
+          others=$(find public -name '*.html' \
+                     | { grep -v -x -E 'public/((de|el|es|fr|id|ja|pt|ru|tr|zh)/)?index\.html' || true; } | wc -l)
+          echo "${others}" > "${RUNNER_TEMP}/all-pages-other-pages.txt"
+          echo "Pages written besides the 11 home pages: ${others} (limit ${PAGE_LIMIT})."
+          find public -name '*.html' | sed -n '1,40p'
+          if [ "${others}" -gt "${PAGE_LIMIT}" ]; then
+            echo "${others} pages written, limit ${PAGE_LIMIT}" > "${RUNNER_TEMP}/all-pages-not-quick.txt"
+            echo "NOT A QUICK BUILD: the setting did not stop Hugo writing the other pages."
+          fi
+          mkdir -p "${RUNNER_TEMP}/menu-home-proof/all-pages"
+          for lang in "" de el es fr id ja pt ru tr zh; do
+            for name in index.html index.json; do
+              path="${lang:+${lang}/}${name}"
+              mkdir -p "${RUNNER_TEMP}/menu-home-proof/all-pages/$(dirname "${path}")"
+              cp "public/${path}" "${RUNNER_TEMP}/menu-home-proof/all-pages/${path}" || echo "missing in this build: ${path}"
+            done
+          done
+          rm -rf public
+
+      - name: Build the sections-only way
+        shell: bash
+        timeout-minutes: 60
+        env:
+          SITE: ${{ steps.site.outputs.site }}
+          CONFIG: ${{ steps.site.outputs.config }}
+        run: |
+          set -euo pipefail
+          echo "Content files before: $(find content -type f | wc -l)"
+          find content -type f ! -name '_index.md' -delete
+          echo "Content files kept (section pages): $(find content -type f | wc -l)"
+          start=$(date +%s)
+          hugo --config "${CONFIG}" -b "${SITE}/" --cleanDestinationDir --minify
+          end=$(date +%s)
+          echo "$(( end - start ))" > "${RUNNER_TEMP}/seconds-sections-only.txt"
+          echo "Built in $(( end - start )) seconds."
+          mkdir -p "${RUNNER_TEMP}/menu-home-proof/sections-only"
+          for lang in "" de el es fr id ja pt ru tr zh; do
+            for name in index.html index.json; do
+              path="${lang:+${lang}/}${name}"
+              mkdir -p "${RUNNER_TEMP}/menu-home-proof/sections-only/$(dirname "${path}")"
+              cp "public/${path}" "${RUNNER_TEMP}/menu-home-proof/sections-only/${path}" || echo "missing in this build: ${path}"
+            done
+          done
+
+      - name: Compare with the live files
+        shell: bash
+        env:
+          SITE: ${{ steps.site.outputs.site }}
+          VERSION: ${{ steps.live.outputs.version }}
+          PAGE_LIMIT: "50"
+        run: |
+          set -euo pipefail
+          base="${RUNNER_TEMP}/menu-home-proof"
+          report="${base}/result.md"
+          others=$(cat "${RUNNER_TEMP}/all-pages-other-pages.txt")
+          not_quick=0
+          [ -f "${RUNNER_TEMP}/all-pages-not-quick.txt" ] && not_quick=1
+          {
+            echo "Site: ${SITE}"
+            echo "Version built: ${VERSION}"
+            echo "Minutes, all-pages way: $(( $(cat "${RUNNER_TEMP}/seconds-all-pages.txt") / 60 ))"
+            echo "Minutes, sections-only way: $(( $(cat "${RUNNER_TEMP}/seconds-sections-only.txt") / 60 ))"
+            echo "Pages written by the all-pages way besides the 11 home pages: ${others} (limit ${PAGE_LIMIT})"
+            echo
+            echo "| File | Live bytes | all-pages | sections-only |"
+            echo "|---|---|---|---|"
+          } > "${report}"
+          same_all=0; same_sec=0
+          for lang in "" de el es fr id ja pt ru tr zh; do
+            for name in index.html index.json; do
+              path="${lang:+${lang}/}${name}"
+              live="${base}/live/${path}"
+              res_all="missing"; res_sec="missing"
+              if [ "${not_quick}" = "1" ]; then
+                res_all="NOT A QUICK BUILD"
+              elif [ -f "${base}/all-pages/${path}" ]; then
+                if cmp -s "${live}" "${base}/all-pages/${path}"; then res_all="identical"; same_all=$(( same_all + 1 )); else res_all="DIFFERENT ($(stat -c %s "${base}/all-pages/${path}") bytes)"; fi
+              fi
+              if [ -f "${base}/sections-only/${path}" ]; then
+                if cmp -s "${live}" "${base}/sections-only/${path}"; then res_sec="identical"; same_sec=$(( same_sec + 1 )); else res_sec="DIFFERENT ($(stat -c %s "${base}/sections-only/${path}") bytes)"; fi
+              fi
+              echo "| ${path} | $(stat -c %s "${live}") | ${res_all} | ${res_sec} |" >> "${report}"
+            done
+          done
+          {
+            echo
+            if [ "${not_quick}" = "1" ]; then
+              echo "all-pages: NOT A QUICK BUILD (${others} other pages written, limit ${PAGE_LIMIT}); its files are not compared."
+            else
+              echo "Identical to live: all-pages ${same_all} of 22."
+            fi
+            echo "Identical to live: sections-only ${same_sec} of 22."
+          } >> "${report}"
+          cat "${report}"
+          cat "${report}" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Keep the compared files
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: menu-home-proof-${{ github.ref_name }}-${{ github.run_id }}
+          path: ${{ runner.temp }}/menu-home-proof/
+          if-no-files-found: warn
