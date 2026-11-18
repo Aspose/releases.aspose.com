@@ -20,10 +20,14 @@ This page contains release notes for [Aspose.Cells for .NET 26.11](https://www.n
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
 |CELLSNET-60770|Supports the "Follow Path" effect for WordArt.|New Feature
+|CELLSGRIDJS-2921|Support client API for update batch cells聽|New Feature
+|CELLSGRIDJS-2863|Implement conditional formatting creation and management|New Feature
+|CELLSGRIDJS-2912|Add menu bar control discovery and real-time state queries to GridJS Semantic API|New Feature
 |CELLSNET-60765|Upgrade referenced Bouncy Castle to v2.7.0 for CVE-2026-15999|Enhancement
 |CELLSNET-60794|Upgrade referenced SkiaSharp to v4.154.0 for CVE-2026-58641|Enhancement
 |CELLSNET-60684|Preprocessing JSON data before processing smart markers|Enhancement
 |CELLSNET-60776|Enhancement for configuring the setting of showing value|Enhancement
+|CELLSGRIDJS-2897|Gridjs-spreadsheet viewer doesn't render sheet if name is Sheet1|Enhancement
 |CELLSNET-60679|Comment rendered outside page when converting to pdf|Bug
 |CELLSNET-60726|"TEXT formula replaces slash with dot under German region" on Workbook.CalculateFormula() method|Bug
 |CELLSNET-60734|AGGREGATE formula calculates into #VALUE! on Workbook.CalculateFormula() method|Bug
@@ -38,6 +42,22 @@ This page contains release notes for [Aspose.Cells for .NET 26.11](https://www.n
 |CELLSNET-60801|"Incorrect offset value" on Range.Top property|Bug
 |CELLSNET-60809|Range.Copy strips Data Validation from overwritten destination cells|Bug
 |CELLSNET-60805|Fix the incorrect identification of WDP images as TIFF|Bug
+|CELLSGRIDJS-2860|Font size does not fit with redaction size for add redaction for search matches|Bug
+|CELLSGRIDJS-2861|Excel columns beyond FXC (4683) are not rendered correctly|Bug
+|CELLSGRIDJS-2876|Feature Request: Configurable Compressed Backend Caching for Faster GridJs Read-Only Rendering|Bug
+|CELLSGRIDJS-2890|Redaction toolbar buttons are visible in More menu when enableRedactionShape is not set in mobile view|Bug
+|CELLSGRIDJS-2930|Image coordinates altered on click in readonly mode|Bug
+|CELLSGRIDJS-1816|The program keeps hanging when loading a 60MB file|Bug
+|CELLSGRIDJS-2938|Cannot select the cell when zoom level is less than 100%|Bug
+|CELLSGRIDJS-2942|Broken selection behavior and InvalidStateError when freeze pane range is outside data range in GridJs|Bug
+|CELLSGRIDJS-2846|Black and white adjustment has no effect on images|Bug
+|CELLSGRIDJS-2847|Pattern fill options are missing when first opened|Bug
+|CELLSGRIDJS-2848|Gradient fill is missing on inserted shapes until a color is set|Bug
+|CELLSGRIDJS-2849|Time validation rejects valid input and displays full dates in the validation settings|Bug
+|CELLSGRIDJS-2856|Switching worksheets immediately after editing a cell shows "Worksheet changed during editing"|Bug
+|CELLSGRIDJS-2919|Find and replace results were not saved.|Bug
+|CELLSGRIDJS-2920|cell styles can be modified in read-only mode|Bug
+|CELLSGRIDJS-2931|Fix conditional formatting fill color mapping|Bug
 |CELLSNET-60837|Calculating COUNTIF with criteria that contains wildcard causes Exception|Exception
 |CELLSNET-60737|"System.NullReferenceException" on Workbook constructor method|Exception
 
