@@ -4,7 +4,7 @@ slug: "aspose-barcode-for-node-js-via-java-26-11-release-notes"
 linktitle: "Aspose.BarCode for Node.js via Java 26.11"
 title: "Aspose.BarCode for Node.js via Java 26.11"
 weight: 820
-description: "Aspose.BarCode for Node.js via Java 26.11 – the latest updates and fixes."
+description: "Aspose.BarCode for Node.js via Java 26.11 – ISO/IEC 15416 quality calculation for 1D barcodes and Node.js support updates."
 type: "repository"
 layout: "release"
 hideChildren: false
@@ -13,9 +13,9 @@ family_listing_page_title: "Aspose.BarCode for Node.js via Java 26.11"
 menuItemWithNoContent: false
 ---
 
-{{% alert color="primary" %}} 
-
+{{% alert color="primary" %}}
 This page contains release notes information for [Aspose.BarCode for Node.js via Java 26.11](https://releases.aspose.com/barcode/nodejs/new-releases/aspose.barcode-for-node.js-via-java-26.11/).
+{{% /alert %}}
 
 ## Important Notice: End of Node.js 20 Support
 
@@ -23,9 +23,9 @@ This page contains release notes information for [Aspose.BarCode for Node.js via
 
 Starting with **Aspose.BarCode for Node.js via Java 26.12**, the minimum supported Node.js version will be **Node.js 22**.
 
-This change is driven by security requirements and the end of official support for Node.js 20. Moving to a supported Node.js runtime will help improve the security, reliability, and maintainability of the product.
+This change is driven by security considerations, as Node.js 20 has reached its official end of life. Moving to a supported Node.js runtime will help improve the security, reliability, and maintainability of the product.
 
-Users running Node.js 20 are advised to upgrade to Node.js 22 or later before updating to version 26.12. **Node.js 24 LTS or later is recommended for new deployments.**
+Users running Node.js 20 should upgrade to Node.js 22 or later before updating to Aspose.BarCode for Node.js via Java 26.12. **Node.js 24 LTS or a newer supported LTS version is recommended for new deployments.**
 
 ## All Changes
 
@@ -41,9 +41,9 @@ Aspose.BarCode for Node.js via Java 26.11 introduces ISO/IEC 15416 quality calcu
 
 The new functionality enables users to evaluate the quality of recognized linear barcodes according to the ISO/IEC 15416 standard. The evaluation provides an overall quality grade and individual grades for different quality parameters.
 
-To enable quality calculation, use the `setCalculateSymbolQuality(true)` method of `BarcodeSettings`.
+To enable quality calculation, call `setCalculateSymbolQuality(true)` on the `BarcodeSettings` object returned by `BarCodeReader.getBarcodeSettings()`.
 
-The calculated results can be accessed through `BarCodeResult.getIsoSymbolQuality()` and `IsoSymbolQuality.getOneDimensional()`, which provides an `Iso15416Quality` object containing the quality evaluation results.
+The quality evaluation results can be accessed by calling `BarCodeResult.getIsoSymbolQuality()`, followed by `IsoSymbolQuality.getOneDimensional()`, which returns an `Iso15416Quality` object.
 
 The overall quality grade is available through `getGrade()` and ranges from 0 (lowest) to 4 (highest).
 
@@ -51,12 +51,13 @@ The following quality parameters are available:
 
 - **Decode** — indicates whether the barcode can be decoded using the reference decode algorithm.
 - **Symbol Contrast** — evaluates the difference between maximum and minimum reflectance.
-- **Minimum Reflectance** — evaluates the reflectance of the darkest bars.
+- **Minimum Reflectance** — checks whether the minimum reflectance is sufficiently low relative to the maximum reflectance.
 - **Minimum Edge Contrast** — evaluates the smallest reflectance difference between adjacent bars and spaces.
 - **Modulation** — evaluates the uniformity of edge contrast throughout the barcode.
 - **Defects** — evaluates reflectance irregularities within bars and spaces.
 - **Decodability** — evaluates the accuracy of bar and space widths.
-- **Detailed Grades** — provides additional quality grades, including symbology-specific checks.
+
+Additional quality grades, including symbology-specific checks, are available through `getDetailedGrades()`.
 
 ### Example
 
@@ -101,7 +102,6 @@ for (const result of results) {
     console.log("Modulation:", quality.getModulation());
     console.log("Defects:", quality.getDefects());
     console.log("Decodability:", quality.getDecodability());
-
     console.log("Detailed grades:", quality.getDetailedGrades());
 }
 ```
