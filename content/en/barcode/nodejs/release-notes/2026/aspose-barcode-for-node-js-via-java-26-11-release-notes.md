@@ -63,7 +63,8 @@ The following quality parameters are available:
 The following example demonstrates how to enable ISO/IEC 15416 quality calculation and retrieve quality grades for recognized Code 128 barcodes.
 
 ```javascript
-const { BarCodeReader, DecodeType } = require("barcode.nodejs");
+const { asposebarcode } = require("aspose.barcode");
+const { BarCodeReader, DecodeType } = asposebarcode.recognition;
 
 const reader = new BarCodeReader(
     "barcodes.png",
