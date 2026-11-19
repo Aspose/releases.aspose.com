@@ -1,10 +1,11 @@
 ---
-title: "On-premise GIS Data Processing API | Aspose.GIS for Java"
-description: "Download GIS Data Processing Library to read, write & convert most popular GIS file formats such as Shapefile, GeoJSON, FIleGDB, KML & OSM XML as well as render a map from supported formats to SVG. "
-keywords: "GIS Java Library "
+title: "Aspose.GIS | Java Library for Geospatial Data"
+description: "Java Class Library to read, create, edit, convert and render geospatial data. Supports vector and raster formats, geometry operations, spatial reference systems, coordinate transformations and map rendering."
 linktitle: "Aspose.GIS for Java"
 layout: packages
 type: repository
+categories:
+  - fundamentals
 family_listing_page_title: "Aspose.GIS for Java"
 family_listing_page_description: "Develop high performance apps to Create, Edit and Convert GIS file formats using our native APIs for Java."
 family_listing_page_iconurl: "https://releases.aspose.com/res_repo/img/aspose_gis-for-java.png"
@@ -14,42 +15,20 @@ family_listing_page_venture: "4"
 family_listing_page_package: "7"
 homepage_package_type: "Maven"
 homepage_package_link: "https://releases.aspose.com/java/repo/com/aspose/aspose-gis/"
-tags: ['dbf', 'dbf', 'epsg', 'format', 'gdb', 'geojson', 'geojson-to-shape', 'geojson-to-topojson', 'geometries', 'geometry', 'geoprocessing', 'geotiff', 'gml', 'gpx', 'id', 'jpg', 'kml', 'linq', 'map', 'mif', 'mvc', 'osm', 'png', 'postgis', 'qix', 'raster', 'render', 'rendering', 'services', 'shape-to-geojson', 'shapes', 'shp', 'shx', 'spatial']
-weight:  1
+tags: ["Aspose GIS", "Aspose Java API", "gis java library", "gis java package", "gis java class", "Shapefile", "GeoJSON", "FileGDB", "KML", "GML", "GPX", "TopoJSON", "MapInfo", "OSM", "GeoTIFF", "SVG", "PNG", "JPEG", "BMP", "convert format", "map rendering", "geometry", "spatial reference system", "Maven", "Windows", "Linux", "Mac", "JDK"]
+weight: 02
+forumLink: https://forum.aspose.com/c/gis/33
 releaseNotesLink: https://releases.aspose.com/gis/java/release-notes/
 dataFolder: aspose_gis
 packages_refs:
 - "25-7"
 ---
 
-{{< dbToolbar link="https://forum.aspose.com/c/gis" linktext=" Support Forum " >}}
+# Java Library for Geospatial Data
 
-{{< Common/h2 text="Download Aspose.GIS to Process Geographical Data"  >}}
-{{< Common/paragraph class="package-instructions">}}
-Add the {{< Common/link href="https://releases.aspose.com/java/repo/" text="Aspose Maven Repository"  >}} to your Maven project and include the <b>aspose-gis</b> dependency. For the detailed instructions please visit the {{< Common/link href="https://docs.aspose.com/gis/java/installation/" text="Installation"  >}} documentation page.
-{{< Common/release-notes-link family="gis" product="java" href="https://releases.aspose.com/gis/java/release-notes/" text="https://releases.aspose.com/gis/java/release-notes/"  >}}
-{{< /Common/paragraph>}}
-{{< consolebox/consoleboxwrapper id="maven" >}}
-       {{< consolebox/spantext text="XML" >}}
-       {{< consolebox/textarea id="maven" >}}&lt;repository&gt;
-    &lt;id&gt;aspose-repository&lt;/id&gt;
-    &lt;url&gt;https://releases.aspose.com/java/repo/&lt;/url&gt;
-&lt;/repository&gt;
+{{< repository/extract-package-explore-link imgsrc=./aspose_gis-for-java-banner.png >}}
 
-&lt;dependency&gt;
-    &lt;groupId&gt;com.aspose&lt;/groupId&gt;
-    &lt;artifactId&gt;aspose-gis&lt;/artifactId&gt;
-    &lt;version&gt;25.7&lt;/version&gt;
-    &lt;classifier&gt;jdk16&lt;/classifier&gt;
-&lt;/dependency&gt;{{< /consolebox/textarea >}}
-{{< /consolebox/consoleboxwrapper >}}
-{{< Common/hr >}}
-
-[Maven Repository](https://releases.aspose.com/java/repo/com/aspose/aspose-gis/)
-
-[Product Page](https://products.aspose.com/gis/java/) | [Docs](https://docs.aspose.com/gis/java/) | [Demos](https://products.aspose.app/gis/family) | [API Reference](https://reference.aspose.com/gis/java/) | [Examples](https://github.com/aspose-gis/Aspose.GIS-for-Java) | [Blog](https://blog.aspose.com/category/gis/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/gis) | [Temporary License](https://purchase.aspose.com/temporary-license) | [EULA](https://about.aspose.com/legal/eula/)
-
-## Why download Aspose.GIS for Java?
+[Demos](https://products.aspose.app/gis/family) | [Blog](https://blog.aspose.com/category/gis/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/gis/33) | [Temporary License](https://purchase.aspose.com/temporary-license)
 
 Aspose.GIS for Java API helps developers render maps, read, write & convert geographic information fetched from vector-based geospatial data formats without needing any other GIS software. The GIS Java API supports working with Shapefile, GeoJSON, ESRI File Geodatabase (FileGDB), Geography Markup Language (GML), Keyhole Markup Language (KML), Scalable Vector Graphics (SVG), and many others.
 
@@ -72,7 +51,7 @@ It allows you to read and write GIS data, convert GIS file formats, and render m
 - Perform vector analysis & manipulate geometries.
 - Support for Spatial Reference Systems.
 
-### Read & Write GIS Formats
+## Read & Write GIS Formats
 
 **ESRI Shapefile:** SHP, SHX, DBF, QIX, CPG\
 **GeoJSON:** JSON, GeoJSON\
@@ -82,7 +61,7 @@ It allows you to read and write GIS data, convert GIS file formats, and render m
 **TopoJSON:** JSON, TopoJSON\
 **MapInfo Tab Format:** TAB, DAT, DBF, MAP, ID
 
-### Read GIS Formats
+## Read GIS Formats
 
 **Geography Markup Language:** GML\
 **MapInfo Interchange Format:** MIF\
@@ -91,21 +70,35 @@ It allows you to read and write GIS data, convert GIS file formats, and render m
 **Web Tiles:** XYZ Tiles\
 **Databases:** Post GIS, MS SQL
 
-### Map Rendering Formats
+## Map Rendering Formats
 
 **Images:** SVG, PNG, JPEG, JPG, BMP
 
-{{< Common/hr >}}
+## Supported Environments
 
-{{< Tags/TagsWrapper >}}
- {{< Tags/TagsList >}}
-{{< /Tags/TagsWrapper >}}
+- **Microsoft Windows:** Windows Desktop & Server (x86, x64)
+- **macOS:** Mac OS X
+- **Linux:** Ubuntu, OpenSUSE, CentOS, and others
+- **Java Versions:** `Java SE 16` or above
 
-{{< Common/hr >}}
+## Get Started
 
-{{< ProductPageWrapper >}}
-<!-- ReleasesListProductPage-->
-   {{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="gis" product="java" >}}
-<!-- /ReleasesListProductPage-->
-{{< Common/hr >}}
-{{< /ProductPageWrapper >}}
+Aspose.GIS Java APIs are hosted at the [Aspose Repository](https://releases.aspose.com/gis/java/). You can easily use Aspose.GIS for Java API directly in your Maven projects with simple configurations.
+
+## Create a GeoJSON File and Convert It to Shapefile
+
+```java
+VectorLayer layer = VectorLayer.create("cities.geojson", Drivers.getGeoJson());
+try {
+    layer.getAttributes().add(new FeatureAttribute("name", AttributeDataType.String));
+    Feature feature = layer.constructFeature();
+    feature.setGeometry(new Point(74.3587, 31.5204));
+    feature.setValue("name", "Lahore");
+    layer.add(feature);
+} finally {
+    layer.dispose();
+}
+VectorLayer.convert("cities.geojson", Drivers.getGeoJson(), "cities.shp", Drivers.getShapefile());
+```
+
+[Demos](https://products.aspose.app/gis/family) | [Blog](https://blog.aspose.com/category/gis/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/gis/33) | [Temporary License](https://purchase.aspose.com/temporary-license)
