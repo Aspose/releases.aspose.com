@@ -20,29 +20,39 @@ This page contains release notes information for [Aspose.BarCode for PHP via Jav
 {{% /alert %}}
 ## All Changes
 
-| **Key** | **Summary** | **Category** |
-| :--- | :--- | :--- |
+| Key | Summary | Category |
+|---|---|---|
 | BARCODENET-39644 | Add ISO/IEC 15416 quality calculation for 1D barcodes | Task |
 
-## Public API changes
+## Public API Changes
 
-### ISO/IEC 15416 quality calculation for 1D barcodes
+### ISO/IEC 15416 Quality Calculation for 1D Barcodes
 
-Aspose.BarCode for PHP via Java 26.11 introduces ISO/IEC 15416 quality calculation for 1D barcodes during recognition. The new functionality provides an overall quality grade and individual grades for evaluating barcode quality according to the ISO/IEC 15416 standard.
+Aspose.BarCode for PHP via Java 26.11 introduces ISO/IEC 15416 quality calculation for 1D barcodes during recognition.
 
-To enable quality calculation, call `setCalculateSymbolQuality(true)` on the barcode reader's settings, obtained through `BarCodeReader::getBarcodeSettings()`.
+The new functionality enables users to evaluate the quality of recognized linear barcodes according to the ISO/IEC 15416 standard. The evaluation provides an overall quality grade and individual grades for different quality parameters.
 
-The results can be accessed by calling `BarCodeResult::getIsoSymbolQuality()`, followed by `IsoSymbolQuality::getOneDimensional()`, which returns an `Iso15416Quality` object.
+To enable quality calculation, call `setCalculateSymbolQuality(true)` on the `BarcodeSettings` object returned by `BarCodeReader::getBarcodeSettings()`.
 
-The `getGrade()` method returns the overall quality grade, ranging from 0 (lowest) to 4 (highest). Individual grades are available through `getDecode()`, `getSymbolContrast()`, `getMinimumReflectance()`, `getMinimumEdgeContrast()`, `getModulation()`, `getDefects()`, and `getDecodability()`.
+The quality evaluation results can be accessed by calling `BarCodeResult::getIsoSymbolQuality()`, followed by `IsoSymbolQuality::getOneDimensional()`, which returns an `Iso15416Quality` object.
 
-The `getDetailedGrades()` method provides additional quality grades, including symbology-specific checks.
+The overall quality grade is available through `getGrade()` and ranges from 0 (lowest) to 4 (highest).
 
-All new APIs belong to the `Aspose\Barcode\Recognition` namespace.
+The following quality parameters are available:
 
-#### Example
+- **Decode** — indicates whether the barcode can be decoded using the reference decode algorithm.
+- **Symbol Contrast** — evaluates the difference between maximum and minimum reflectance.
+- **Minimum Reflectance** — checks whether the minimum reflectance is sufficiently low relative to the maximum reflectance.
+- **Minimum Edge Contrast** — evaluates the smallest reflectance difference between adjacent bars and spaces.
+- **Modulation** — evaluates the uniformity of edge contrast throughout the barcode.
+- **Defects** — evaluates reflectance irregularities within bars and spaces.
+- **Decodability** — evaluates the accuracy of bar and space widths.
 
-The following example reads 1D barcodes from `barcodes.png` and prints the available ISO/IEC 15416 quality grades.
+Additional quality grades, including symbology-specific checks, are available through `getDetailedGrades()`.
+
+### Example
+
+The following example demonstrates how to enable ISO/IEC 15416 quality calculation and retrieve quality grades for recognized Code 128 barcodes.
 
 ```php
 <?php
@@ -50,15 +60,19 @@ The following example reads 1D barcodes from `barcodes.png` and prints the avail
 use Aspose\Barcode\Recognition\BarCodeReader;
 use Aspose\Barcode\Recognition\DecodeType;
 
+require_once __DIR__ . "/vendor/autoload.php";
+
 $reader = new BarCodeReader(
     "barcodes.png",
     null,
-    DecodeType::TYPES_1D
+    DecodeType::CODE_128
 );
 
 $reader->getBarcodeSettings()->setCalculateSymbolQuality(true);
 
-foreach ($reader->readBarCodes() as $result) {
+$results = $reader->readBarCodes();
+
+foreach ($results as $result) {
     echo "Barcode: " . $result->getCodeText() . PHP_EOL;
 
     $symbolQuality = $result->getIsoSymbolQuality();
@@ -83,30 +97,37 @@ foreach ($reader->readBarCodes() as $result) {
     echo "Modulation: " . $quality->getModulation() . PHP_EOL;
     echo "Defects: " . $quality->getDefects() . PHP_EOL;
     echo "Decodability: " . $quality->getDecodability() . PHP_EOL;
-    echo "Detailed grades:" . PHP_EOL;
-    print_r($quality->getDetailedGrades());
+    echo "Detailed grades: " . print_r($quality->getDetailedGrades(), true) . PHP_EOL;
 }
 ```
 
-#### Added public APIs
+### Added Public APIs
 
-The following APIs have been added to enable quality calculation and access its results:
+The following APIs have been added to support ISO/IEC 15416 quality evaluation. All new classes and methods belong to the `Aspose\Barcode\Recognition` namespace.
 
-- Added method `Aspose\Barcode\Recognition\BarcodeSettings::setCalculateSymbolQuality(bool $value)`
-- Added method `Aspose\Barcode\Recognition\BarcodeSettings::getCalculateSymbolQuality()`
-- Added method `Aspose\Barcode\Recognition\BarCodeResult::getIsoSymbolQuality()`
-- Added class `Aspose\Barcode\Recognition\IsoSymbolQuality`
-- Added method `Aspose\Barcode\Recognition\IsoSymbolQuality::getOneDimensional()`
+#### BarcodeSettings
 
-The following APIs have been added to expose the quality grades:
+- Added method `BarcodeSettings::getCalculateSymbolQuality()`
+- Added method `BarcodeSettings::setCalculateSymbolQuality(bool $value)`
 
-- Added class `Aspose\Barcode\Recognition\Iso15416Quality`
-- Added method `Aspose\Barcode\Recognition\Iso15416Quality::getGrade()`
-- Added method `Aspose\Barcode\Recognition\Iso15416Quality::getDecode()`
-- Added method `Aspose\Barcode\Recognition\Iso15416Quality::getSymbolContrast()`
-- Added method `Aspose\Barcode\Recognition\Iso15416Quality::getMinimumReflectance()`
-- Added method `Aspose\Barcode\Recognition\Iso15416Quality::getMinimumEdgeContrast()`
-- Added method `Aspose\Barcode\Recognition\Iso15416Quality::getModulation()`
-- Added method `Aspose\Barcode\Recognition\Iso15416Quality::getDefects()`
-- Added method `Aspose\Barcode\Recognition\Iso15416Quality::getDecodability()`
-- Added method `Aspose\Barcode\Recognition\Iso15416Quality::getDetailedGrades()`
+#### BarCodeResult
+
+- Added method `BarCodeResult::getIsoSymbolQuality()`
+
+#### IsoSymbolQuality
+
+- Added class `IsoSymbolQuality`
+- Added method `IsoSymbolQuality::getOneDimensional()`
+
+#### Iso15416Quality
+
+- Added class `Iso15416Quality`
+- Added method `Iso15416Quality::getGrade()`
+- Added method `Iso15416Quality::getDecode()`
+- Added method `Iso15416Quality::getSymbolContrast()`
+- Added method `Iso15416Quality::getMinimumReflectance()`
+- Added method `Iso15416Quality::getMinimumEdgeContrast()`
+- Added method `Iso15416Quality::getModulation()`
+- Added method `Iso15416Quality::getDefects()`
+- Added method `Iso15416Quality::getDecodability()`
+- Added method `Iso15416Quality::getDetailedGrades()`
