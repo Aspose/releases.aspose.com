@@ -68,6 +68,7 @@ const { BarCodeReader, DecodeType } = asposebarcode.recognition;
 
 const reader = new BarCodeReader(
     "barcodes.png",
+    null,
     DecodeType.CODE_128
 );
 
