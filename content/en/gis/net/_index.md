@@ -4,7 +4,7 @@ description: "Download GIS Data Processing Library to read, write & convert most
 keywords: "GIS .NET Library "
 linktitle: "Aspose.GIS for .NET"
 family_listing_page_title: "Aspose.GIS for .NET"
-family_listing_page_description: "Develop high performance apps to Create, Edit and Convert GIS file formats using our native APIs for .NET."
+family_listing_page_description: "GIS library for C# and .NET: read, write and convert Shapefile, GeoJSON, FileGDB and KML, and render maps to SVG, PNG or JPEG. Install the Aspose.GIS package from NuGet."
 family_listing_page_iconurl: "https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/gis/272x272/aspose_gis-for-net.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
