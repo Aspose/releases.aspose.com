@@ -10,6 +10,13 @@
     "name" : "aspose-barcode-26.11-javadoc.jar",
     "classifier" : "javadoc"
   }, {
+    "size" : "15 MB",
+    "name" : "aspose-barcode-26.11-jdk8.jar",
+    "classifier" : "jdk8"
+  }, {
+    "size" : "15 MB",
+    "name" : "aspose-barcode-26.11.jar"
+  }, {
     "size" : "398 bytes",
     "name" : "aspose-barcode-26.11.pom"
   } ],
