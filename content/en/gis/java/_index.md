@@ -7,8 +7,8 @@ type: repository
 categories:
   - fundamentals
 family_listing_page_title: "Aspose.GIS for Java"
-family_listing_page_description: "Develop high performance apps to Create, Edit and Convert GIS file formats using our native APIs for Java."
-family_listing_page_iconurl: "https://releases.aspose.com/res_repo/img/aspose_gis-for-java.png"
+family_listing_page_description: "GIS library for Java: read, write and convert Shapefile, GeoJSON and KML, read GeoTIFF rasters and render maps to PNG, JPEG or SVG. Java SE 16 or above, available from Maven."
+family_listing_page_iconurl: "https://releases.aspose.com/gis/java/aspose_gis-for-java.png"
 family_listing_page_selfHosted: "1"
 family_listing_page_type: "1"
 family_listing_page_venture: "4"
