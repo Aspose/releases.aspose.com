@@ -24,7 +24,7 @@ committed_by: "leo.luo@aspose.com"
 ### EULA & Third-Party Licenses
 
 - <a href="https://about.aspose.com/legal/eula/" target="_blank" rel="noopener">Aspose End User License Agreement</a>
-- {{< compliance-file relpath="/compliance-reports/third-party-licenses/net/third-party-licenses-aspose-cells-net.pdf?t=1795161651" text="Aspose.Cells for .NET Third-Party License" >}}
+- {{< compliance-file relpath="/compliance-reports/third-party-licenses/net/third-party-licenses-aspose-cells-net.pdf?t=1795161978" text="Aspose.Cells for .NET Third-Party License" >}}
 
 
 ### Software Bill of Materials (SBOM)
