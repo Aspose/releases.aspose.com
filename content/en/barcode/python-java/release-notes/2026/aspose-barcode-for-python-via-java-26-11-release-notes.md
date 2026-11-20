@@ -31,44 +31,54 @@ This page contains release notes information for [Aspose.BarCode for Python via 
 
 Aspose.BarCode for Python via Java 26.11 introduces ISO/IEC 15416 quality calculation for 1D barcodes during recognition.
 
-The new functionality allows users to evaluate the quality of recognized linear barcodes according to the ISO/IEC 15416 standard. The evaluation provides an overall quality grade and individual grades for different quality parameters.
+The new functionality enables users to evaluate the quality of recognized linear barcodes according to the ISO/IEC 15416 standard. The evaluation provides an overall quality grade and individual grades for different quality parameters.
 
-To enable quality calculation, set the `BarcodeSettings.calculate_symbol_quality` property to `True`.
+To enable quality calculation, set the `BarcodeSettings.calculate_symbol_quality` property to `True` on the barcode reader's settings object.
 
-The calculated results can be accessed through `BarCodeResult.iso_symbol_quality` and `IsoSymbolQuality.one_dimensional`. The latter provides an `Iso15416Quality` object containing the quality evaluation results.
+The quality evaluation results can be accessed through `BarCodeResult.iso_symbol_quality`, followed by `IsoSymbolQuality.one_dimensional`, which returns an `Iso15416Quality` object.
 
 The overall quality grade is available through the `Iso15416Quality.grade` property and ranges from 0 (lowest) to 4 (highest).
 
 The following quality parameters are available:
 
-- **Decode** — indicates whether the barcode can be decoded using the reference decode algorithm.
-- **Symbol Contrast** — evaluates the difference between maximum and minimum reflectance.
-- **Minimum Reflectance** — evaluates the reflectance of the darkest bar.
-- **Minimum Edge Contrast** — evaluates the smallest reflectance difference between adjacent bars and spaces.
-- **Modulation** — evaluates the uniformity of edge contrast throughout the barcode.
-- **Defects** — evaluates reflectance irregularities within bars and spaces.
-- **Decodability** — evaluates the accuracy of bar and space widths.
-- **Detailed Grades** — provides additional quality grades, including symbology-specific checks.
+- **Decode** - indicates whether the barcode can be decoded using the reference decode algorithm.
+- **Symbol Contrast** - evaluates the difference between maximum and minimum reflectance.
+- **Minimum Reflectance** - checks whether the minimum reflectance is sufficiently low relative to the maximum reflectance.
+- **Minimum Edge Contrast** - evaluates the smallest reflectance difference between adjacent bars and spaces.
+- **Modulation** - evaluates the uniformity of edge contrast throughout the barcode.
+- **Defects** - evaluates reflectance irregularities within bars and spaces.
+- **Decodability** - evaluates the accuracy of bar and space widths.
 
-The new APIs are available in the `aspose_barcode.recognition` module.
+Additional quality grades, including symbology-specific checks, are available through `Iso15416Quality.detailed_grades`.
+
+The new APIs are available in the `aspose.barcode.recognition` module.
 
 ### Example
 
-```python
-from aspose_barcode import recognition
-from aspose_barcode.recognition import DecodeType
+The following example demonstrates how to enable ISO/IEC 15416 quality calculation and retrieve quality grades for recognized Code 128 barcodes.
 
-reader = recognition.barcode_reader.BarCodeReader(
+```python
+import aspose.barcode as barcode
+
+reader = barcode.recognition.BarCodeReader(
     "barcodes.png",
-    DecodeType.CODE_128
+    barcode.recognition.DecodeType.CODE_128
 )
 
 reader.barcode_settings.calculate_symbol_quality = True
 
 for result in reader.read_barcodes():
-    print("Barcode:", result.code_text(None))
+    print("Barcode:", result.code_text())
 
-    quality = result.iso_symbol_quality.one_dimensional
+    symbol_quality = result.iso_symbol_quality
+    if symbol_quality is None:
+        print("No ISO symbol quality result is available.")
+        continue
+
+    quality = symbol_quality.one_dimensional
+    if quality is None:
+        print("No 1D quality result is available.")
+        continue
 
     print("Overall grade:", quality.grade)
     print("Decode:", quality.decode)
@@ -78,13 +88,12 @@ for result in reader.read_barcodes():
     print("Modulation:", quality.modulation)
     print("Defects:", quality.defects)
     print("Decodability:", quality.decodability)
-
-    print("Detailed grades:")
-    for name, grade in quality.detailed_grades.items():
-        print(f"{name}: {grade}")
+    print("Detailed grades:", quality.detailed_grades)
 ```
 
 ### Added Public APIs
+
+The following APIs have been added to support ISO/IEC 15416 quality evaluation.
 
 #### BarcodeSettings
 
@@ -111,5 +120,3 @@ for result in reader.read_barcodes():
 - Added property `Iso15416Quality.defects`
 - Added property `Iso15416Quality.decodability`
 - Added property `Iso15416Quality.detailed_grades`
-
-`detailed_grades` returns a Python dictionary containing quality check names and their corresponding floating-point grades.
