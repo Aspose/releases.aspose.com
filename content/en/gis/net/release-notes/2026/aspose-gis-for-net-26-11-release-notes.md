@@ -52,91 +52,72 @@ P:Aspose.Gis.Formats.GDAL.GdalOptions.PathToTempFile
 P:Aspose.Gis.Formats.GDAL.GdalOptions.FileName
 
 
-
 # **Usage examples:**
 
 **GISNET-2220: Remove Gdal From Aspose.GIS **
 {{< highlight csharp >}}
-
+No Code
 {{< /highlight >}}
 
 **GISNET-2202: Support Writing Geometry For Csv Format**
 {{< highlight csharp >}}
-from aspose.gis import AttributeDataType, Drivers, FeatureAttribute, VectorLayer
-from aspose.gis.formats.csv import CsvOptions
-from aspose.gis.geometries import Point
+ var options = new CsvOptions()
+        {
+            ColumnX = "x",
+            ColumnY = "y",
+            ColumnZ = "z",
+            ColumnM = "m"
+        };
 
-options = CsvOptions()
-options.column_x = "x"
-options.column_y = "y"
-options.column_z = "z"
-options.column_m = "m"
+        string fileName = "new.csv";
+        using (VectorLayer layer = VectorLayer.Create(fileName, Drivers.Csv, options))
+        {
+            layer.Attributes.Add(new FeatureAttribute("id", AttributeDataType.String));
+            layer.Attributes.Add(new FeatureAttribute("x", AttributeDataType.Double));
+            layer.Attributes.Add(new FeatureAttribute("y", AttributeDataType.Double));
+            layer.Attributes.Add(new FeatureAttribute("z", AttributeDataType.Double));
+            layer.Attributes.Add(new FeatureAttribute("m", AttributeDataType.Double));
+            layer.Attributes.Lock();
 
-file_name = r"D:\new.csv"
-
-with VectorLayer.create(file_name, Drivers.csv, options) as layer:
-    layer.attributes.add(FeatureAttribute("id", AttributeDataType.STRING))
-
-    for column_name in ("x", "y", "z", "m"):
-        layer.attributes.add(FeatureAttribute(column_name, AttributeDataType.DOUBLE))
-
-    layer.attributes.lock()
-
-    feature = layer.construct_feature()
-    feature.set_value("id", "id1")
-    feature.geometry = Point(10.0, 20.0, 30.0, 40.0)
-    layer.add(feature)
+            Feature feature = layer.ConstructFeature();
+            feature.SetValue("id", "id1");
+            feature.Geometry = new Point(10, 20, 30, 40);
+            layer.Add(feature);
+        } 
 {{< /highlight >}}
 
 **GISNET-2134: Gpx to Csv - input + output not same in QGIS + Gpx->Gdb->TopoJson -conversion failed**
 {{< highlight csharp >}}
-from pathlib import Path
+        string sourcePath = "gpx.gdbtable";
+        string destinationPath = "out.json";
 
-from aspose.gis import Drivers, VectorLayer
+        // Here was error
+        VectorLayer.Convert(sourcePath, Drivers.FileGdb, destinationPath, Drivers.TopoJson);
 
-source_path = "gpx.gdbtable"
-destination_path = "out.json"
-
-# Here was error
-VectorLayer.convert(
-    source_path,
-    Drivers.file_gdb,
-    destination_path,
-    Drivers.topo_json,
-)
-
-Path(destination_path).unlink(missing_ok=True)
+        File.Delete(destinationPath);
 {{< /highlight >}}
 
 **GISNET-1804: UTM Conversion works incorrect **
 {{< highlight csharp >}}
-from aspose.gis import GeoConvert, PointFormats
-
-latitude = -85.0
-longitude = -151.0
-
-# As result we get exception with message:
-# "Latitude -85 is outside the UTM range [-80, 84]. Use PointFormats.Ups for polar regions."
-GeoConvert.as_point_text(latitude, longitude, PointFormats.UTM)
+        double latitude = -85;
+        double longitude = -151;
+        GeoConvert.AsPointText(latitude, longitude, PointFormats.Utm)
+        // As result we get exception with message:
+        // "Latitude -85 is outside the UTM range [-80, 84]. Use PointFormats.Ups for polar regions."
 {{< /highlight >}}
 
 **GISNET-2211: Rewrite GeoPackageDataset To Read 'SystemTables' only once**
 {{< highlight csharp >}}
-from aspose.gis import Drivers
-from aspose.gis.formats.geopackage import GeoPackageOptions
-from aspose.gis.spatialreferencing import SpatialReferenceSystem
+        // Verifies that a layer created in the current session is not readable
+        // via OpenLayer until it has been committed to the GeoPackage file.
+        string testPath = "OpenLayerAfterCreateLayerInSameSessionThrows.gpkg";
+        using (GeoPackageDataset dataset = GeoPackageDataset.CreateGeoPackage(testPath, new GeoPackageOptions()))
+        {
+            using (dataset.CreateLayer("roads", null, SpatialReferenceSystem.Wgs84))
+            {
+            }
 
-# Verifies that a layer created in the current session is not readable
-# via open_layer until it has been committed to the GeoPackage file.
-test_path = "OpenLayerAfterCreateLayerInSameSessionThrows.gpkg"
-
-with Drivers.geo_package.create_dataset(test_path, GeoPackageOptions()) as dataset:
-    with dataset.create_layer("roads", None, SpatialReferenceSystem.wgs84):
-        pass
-
-    # We get a clear error message for this case.
-    dataset.open_layer("roads", None)
+            dataset.OpenLayer("roads"));
+            // we get clear error message for this case
+        }
 {{< /highlight >}}
-
-
-
