@@ -19,7 +19,6 @@ Aspose.LLM for .NET 26.11.1 is a maintenance release with fixes for .NET Framewo
 
 ## Packaging
 
-- Updated the third-party license notices included in the NuGet package, MSI installer, and ZIP archive.
 - Clarified in the installer Readme how to add managed dependencies when referencing `Aspose.LLM.dll` directly. Installing through NuGet resolves those dependencies automatically.
 
 For setup and usage, see the [Aspose.LLM for .NET documentation](https://docs.aspose.com/llm/net/).
