@@ -41,46 +41,71 @@ All new APIs belong to the `com.aspose.barcode.barcoderecognition` package.
 The following example reads 1D barcodes from `barcodes.png` and prints the available ISO/IEC 15416 quality grades.
 
 ```java
+
+import android.content.Context;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+import android.util.Log;
+
 import com.aspose.barcode.barcoderecognition.*;
+
+import java.io.IOException;
+import java.io.InputStream;
 import java.util.Map;
 
 public class Iso15416QualityExample {
-    public static void main(String[] args) {
-        BarCodeReader reader = new BarCodeReader(
-            "barcodes.png",
-            DecodeType.TYPES_1D
-        );
+    private static final String TAG = "Iso15416Quality";
 
-        reader.getBarcodeSettings().setCalculateSymbolQuality(true);
+    public static void printGrades(Context context) throws IOException {
+        try (InputStream stream = context.getAssets().open("barcodes.png")) {
+            Bitmap bitmap = BitmapFactory.decodeStream(stream);
 
-        for (BarCodeResult result : reader.readBarCodes()) {
-            System.out.println("Barcode: " + result.getCodeText());
-
-            Iso15416Quality quality =
-                result.getIsoSymbolQuality() == null
-                    ? null
-                    : result.getIsoSymbolQuality().getOneDimensional();
-
-            if (quality == null) {
-                System.out.println("No 1D quality result is available.");
-                continue;
+            if (bitmap == null) {
+                throw new IOException("Unable to decode barcodes.png");
             }
 
-            System.out.println("Overall grade: " + quality.getGrade());
-            System.out.println("Decode: " + quality.getDecode());
-            System.out.println("Symbol contrast: " + quality.getSymbolContrast());
-            System.out.println("Minimum reflectance: " + quality.getMinimumReflectance());
-            System.out.println("Minimum edge contrast: " + quality.getMinimumEdgeContrast());
-            System.out.println("Modulation: " + quality.getModulation());
-            System.out.println("Defects: " + quality.getDefects());
-            System.out.println("Decodability: " + quality.getDecodability());
+            BarCodeReader reader = new BarCodeReader(bitmap,DecodeType.CODE_128);
 
-            for (Map.Entry<String, Double> grade : quality.getDetailedGrades().entrySet()) {
-                System.out.println(grade.getKey() + ": " + grade.getValue());
+            reader.getBarcodeSettings().setCalculateSymbolQuality(true);
+
+            for (BarCodeResult result : reader.readBarCodes()) {
+                Log.d(TAG, "Barcode: " + result.getCodeText());
+
+                IsoSymbolQuality symbolQuality = result.getIsoSymbolQuality();
+
+                if (symbolQuality == null) {
+                    Log.d(TAG, "No ISO symbol quality result is available.");
+                    continue;
+                }
+
+                Iso15416Quality quality = symbolQuality.getOneDimensional();
+
+                if (quality == null) {
+                    Log.d(TAG, "No 1D quality result is available.");
+                    continue;
+                }
+
+                Log.d(TAG, "Overall grade: " + quality.getGrade());
+                Log.d(TAG, "Decode: " + quality.getDecode());
+                Log.d(TAG, "Symbol contrast: " + quality.getSymbolContrast());
+                Log.d(TAG, "Minimum reflectance: " + quality.getMinimumReflectance());
+                Log.d(TAG, "Minimum edge contrast: " + quality.getMinimumEdgeContrast());
+                Log.d(TAG, "Modulation: " + quality.getModulation());
+                Log.d(TAG, "Defects: " + quality.getDefects());
+                Log.d(TAG, "Decodability: " + quality.getDecodability());
+
+                Map<String, Double> detailedGrades = quality.getDetailedGrades();
+
+                if (detailedGrades != null) {
+                    for (Map.Entry<String, Double> grade : detailedGrades.entrySet()) {
+                        Log.d(TAG, grade.getKey() + ": " + grade.getValue());
+                    }
+                }
             }
         }
     }
 }
+
 ```
 
 The following APIs have been added to enable the calculation and access its results:
