@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-26.11/"
 folder_name: "Aspose.BarCode для Android через Java 26.11"
-download_link: "/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-26.11/69e081e0d4cf84f7b17378ae50d3cc0f-3-16361"
+download_link: "/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-26.11/7db320800b1823471c54478a6cd9ad2e-3-16361"
 download_text: "Скачать"
 intro_text: "Выпущена версия Aspose.BarCode для Android на Java 26.11."
 image_link: "/resources/img/zip-icon.png"
@@ -24,19 +24,19 @@ weight: 143
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.BarCode для Android через Java 26.11" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Скачать" link="/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-26.11/69e081e0d4cf84f7b17378ae50d3cc0f-3-16361" >}}
+    {{< Releases/ReleasesSingleButtons text="Скачать" link="/barcode/androidjava/new-releases/aspose.barcode-for-android-via-java-26.11/7db320800b1823471c54478a6cd9ad2e-3-16361" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/barcode" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Детали файла">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Скачатьs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-69e081e0d4cf84f7b17378ae50d3cc0f-3-16361" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-7db320800b1823471c54478a6cd9ad2e-3-16361" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Размер файла: {{< /Common/li >}}
-      {{< Common/li id="size-update-69e081e0d4cf84f7b17378ae50d3cc0f-3-16361" >}} 13.84MB {{< /Common/li >}}
+      {{< Common/li id="size-update-7db320800b1823471c54478a6cd9ad2e-3-16361" >}} 13.84MB {{< /Common/li >}}
 
       {{< Common/li >}} Дата добавления: {{< /Common/li >}}
-      {{< Common/li id="added-update-69e081e0d4cf84f7b17378ae50d3cc0f-3-16361" >}}24/11/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-7db320800b1823471c54478a6cd9ad2e-3-16361" >}}24/11/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
