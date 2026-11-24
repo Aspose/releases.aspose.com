@@ -24,17 +24,31 @@ This page contains release notes information for [Aspose.BarCode for Android via
 | :--- | :--- | :--- |
 | BARCODENET-39644 | Add ISO/IEC 15416 quality calculation for 1D barcodes | Task |
 
-## Public API changes
+## Public API Changes
 
-### ISO/IEC 15416 quality calculation for 1D barcodes
+### ISO/IEC 15416 Quality Calculation for 1D Barcodes
 
-Aspose.BarCode for Java 26.11 adds ISO/IEC 15416 quality calculation for 1D barcodes during recognition. The results include an overall quality grade and individual grades for evaluating barcode quality.
+Aspose.BarCode for Android via Java 26.11 introduces ISO/IEC 15416 quality calculation for 1D barcodes during recognition.
 
-Set `BarcodeSettings.setCalculateSymbolQuality(true)` to enable the calculation. Access the results through `BarCodeResult.getIsoSymbolQuality().getOneDimensional()`, which returns an `Iso15416Quality` object.
+The new functionality enables users to evaluate the quality of recognized linear barcodes according to the ISO/IEC 15416 standard. The evaluation provides an overall quality grade and individual grades for different quality parameters.
 
-The `getGrade()` method provides the overall quality grade from 0 (lowest) to 4 (highest). Individual grades are available through `getDecode()`, `getSymbolContrast()`, `getMinimumReflectance()`, `getMinimumEdgeContrast()`, `getModulation()`, `getDefects()`, and `getDecodability()`. The `getDetailedGrades()` method returns a `Map<String, Double>` containing additional check names and their grades, including symbology-specific checks.
+To enable quality calculation, call `setCalculateSymbolQuality(true)` on the `BarcodeSettings` object returned by `reader.getBarcodeSettings()`.
 
-All new APIs belong to the `com.aspose.barcode.barcoderecognition` package.
+The quality evaluation results can be accessed by calling `result.getIsoSymbolQuality()`, followed by `symbolQuality.getOneDimensional()`, which returns an `Iso15416Quality` object.
+
+The overall quality grade is available through `getGrade()` and ranges from 0 (lowest) to 4 (highest).
+
+The following quality parameters are available:
+
+- **Decode** — indicates whether the barcode can be decoded using the reference decode algorithm.
+- **Symbol Contrast** — evaluates the difference between maximum and minimum reflectance.
+- **Minimum Reflectance** — checks whether the minimum reflectance is sufficiently low relative to the maximum reflectance.
+- **Minimum Edge Contrast** — evaluates the smallest reflectance difference between adjacent bars and spaces.
+- **Modulation** — evaluates the uniformity of edge contrast throughout the barcode.
+- **Defects** — evaluates reflectance irregularities within bars and spaces.
+- **Decodability** — evaluates the accuracy of bar and space widths.
+
+Additional quality grades, including symbology-specific checks, are available through `getDetailedGrades()`, which returns a `Map<String, Double>` containing quality check names and their corresponding grades.
 
 #### Example
 
