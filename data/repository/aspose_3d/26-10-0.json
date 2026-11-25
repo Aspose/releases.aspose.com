@@ -1,0 +1,19 @@
+{
+  "groupId" : "com.aspose",
+  "artifactId" : "aspose-3d",
+  "id" : "26-10-0",
+  "packageFiles" : [ {
+    "size" : "2 MB",
+    "name" : "aspose-3d-26.10.0-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
+    "size" : "3 MB",
+    "name" : "aspose-3d-26.10.0.jar"
+  }, {
+    "size" : "1 KB",
+    "name" : "aspose-3d-26.10.0.pom"
+  } ],
+  "releasehDate" : "2026-11-25T08:40:45+00:00",
+  "version" : "26.10.0",
+  "ReleaseNotes" : "https://releases.aspose.com/3d/java/release-notes/2026/aspose-3d-for-java-26-10-0-release-notes/"
+}
