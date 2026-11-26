@@ -4,7 +4,7 @@ slug: "aspose-html-for-net-26-11-release-notes"
 linktitle: "Aspose.HTML for .NET 26.11 Release Notes"
 title: "Aspose.HTML for .NET 26.11 Release Notes"
 weight: 20
-description: "Aspose.HTML for .NET 26.11 Release Notes - the latest updates and fixes."
+description: "In this release, we fixed grid gap handling for percentage values to ensure accurate CSS Grid layouts, and improved rendering stability for deeply nested documents by executing them on a dedicated thread with a stack size dynamically determined by the DOM depth."
 type: "repository"
 layout: "release"
 hideChildren: false
@@ -21,12 +21,8 @@ As per the regular monthly update process of all APIs being offered by Aspose, w
 
 ### Release Notes
 
-Aspose.HTML for .NET 26.11.0 is published as part of the November monthly release.
+In this release, we fixed grid gap handling for percentage values to ensure accurate CSS Grid layouts, and improved rendering stability for deeply nested documents by executing them on a dedicated thread with a stack size dynamically determined by the DOM depth.
 
 **Package references**<br>
 Aspose.HTML for .NET 26.11.0 [NuGet](https://www.nuget.org/packages/Aspose.Html)<br>
 Aspose.HTML for Python via .NET  26.11.0 [PyPI](https://pypi.org/project/aspose-html-net/)
-
-## **Improvements and Changes**
-
-- Maintenance build for the November 26.11.0 release of Aspose.HTML for .NET.
