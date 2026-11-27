@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-26.11-(dlls-only)/"
 folder_name: "Aspose.3D for .NET 26.11（仅限 DLL 文件）"
-download_link: "/3d/net/new-releases/aspose.3d-for-.net-26.11-(dlls-only)/cb2b108c95d1df340b6142eb202cb755-2-16374"
+download_link: "/3d/net/new-releases/aspose.3d-for-.net-26.11-(dlls-only)/cb2b108c95d1df340b6142eb202cb755-2-16376"
 download_text: "下载"
 intro_text: "它包含适用于 .NET 的 Aspose.3D 26.11 版本。"
 image_link: "/resources/img/zip-icon.png"
@@ -17,26 +17,26 @@ section_parent_path: "3d/net"
 
 tags: "3d"
 release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2026/aspose-3d-for-net-26-11-release-notes/"
-weight: 428
+weight: 430
 
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.3D for .NET 26.11（仅限 DLL 文件）" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="下载" link="/3d/net/new-releases/aspose.3d-for-.net-26.11-(dlls-only)/cb2b108c95d1df340b6142eb202cb755-2-16374" >}}
+    {{< Releases/ReleasesSingleButtons text="下载" link="/3d/net/new-releases/aspose.3d-for-.net-26.11-(dlls-only)/cb2b108c95d1df340b6142eb202cb755-2-16376" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/3d" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} 下载s: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-cb2b108c95d1df340b6142eb202cb755-2-16374" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-cb2b108c95d1df340b6142eb202cb755-2-16376" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} 文件大小: {{< /Common/li >}}
-      {{< Common/li id="size-update-cb2b108c95d1df340b6142eb202cb755-2-16374" >}} 10.35MB {{< /Common/li >}}
+      {{< Common/li id="size-update-cb2b108c95d1df340b6142eb202cb755-2-16376" >}} 10.35MB {{< /Common/li >}}
 
       {{< Common/li >}} 添加日期: {{< /Common/li >}}
-      {{< Common/li id="added-update-cb2b108c95d1df340b6142eb202cb755-2-16374" >}}27/11/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-cb2b108c95d1df340b6142eb202cb755-2-16376" >}}27/11/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}

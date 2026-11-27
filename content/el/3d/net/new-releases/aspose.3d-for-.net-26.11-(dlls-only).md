@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-26.11-(dlls-only)/"
 folder_name: "Aspose.3D για .NET 26.11 (μόνο DLL)"
-download_link: "/3d/net/new-releases/aspose.3d-for-.net-26.11-(dlls-only)/cb2b108c95d1df340b6142eb202cb755-2-16374"
+download_link: "/3d/net/new-releases/aspose.3d-for-.net-26.11-(dlls-only)/cb2b108c95d1df340b6142eb202cb755-2-16376"
 download_text: "Κατεβάστε"
 intro_text: "Περιέχει το Aspose.3D για την έκδοση .NET 26.11."
 image_link: "/resources/img/zip-icon.png"
@@ -17,26 +17,26 @@ section_parent_path: "3d/net"
 
 tags: "3d"
 release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2026/aspose-3d-for-net-26-11-release-notes/"
-weight: 428
+weight: 430
 
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.3D για .NET 26.11 (μόνο DLL)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Κατεβάστε" link="/3d/net/new-releases/aspose.3d-for-.net-26.11-(dlls-only)/cb2b108c95d1df340b6142eb202cb755-2-16374" >}}
+    {{< Releases/ReleasesSingleButtons text="Κατεβάστε" link="/3d/net/new-releases/aspose.3d-for-.net-26.11-(dlls-only)/cb2b108c95d1df340b6142eb202cb755-2-16376" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/3d" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Λεπτομέρειες αρχείου">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Κατεβάστεs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-cb2b108c95d1df340b6142eb202cb755-2-16374" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-cb2b108c95d1df340b6142eb202cb755-2-16376" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Μέγεθος αρχείου: {{< /Common/li >}}
-      {{< Common/li id="size-update-cb2b108c95d1df340b6142eb202cb755-2-16374" >}} 10.35MB {{< /Common/li >}}
+      {{< Common/li id="size-update-cb2b108c95d1df340b6142eb202cb755-2-16376" >}} 10.35MB {{< /Common/li >}}
 
       {{< Common/li >}} Ημερομηνία προστέθηκε: {{< /Common/li >}}
-      {{< Common/li id="added-update-cb2b108c95d1df340b6142eb202cb755-2-16374" >}}27/11/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-cb2b108c95d1df340b6142eb202cb755-2-16376" >}}27/11/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
