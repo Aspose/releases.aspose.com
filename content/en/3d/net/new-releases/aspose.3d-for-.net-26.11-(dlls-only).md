@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/3d/net/new-releases/aspose.3d-for-.net-26.11-(dlls-only)/"
 folder_name: "Aspose.3D for .NET 26.11 (DLLs only)"
-download_link: "/3d/net/new-releases/aspose.3d-for-.net-26.11-(dlls-only)/cb2b108c95d1df340b6142eb202cb755-2-16391"
+download_link: "/3d/net/new-releases/aspose.3d-for-.net-26.11-(dlls-only)/cb2b108c95d1df340b6142eb202cb755-2-16393"
 download_text: "Download"
 intro_text: "It contains Aspose.3D for .NET 26.11 release."
 image_link: "/resources/img/zip-icon.png"
@@ -17,26 +17,26 @@ section_parent_path: "3d/net"
 
 tags: "3d"
 release_notes_url: "https://releases.aspose.com/3d/net/release-notes/2026/aspose-3d-for-net-26-11-release-notes/"
-weight: 440
+weight: 442
 
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.3D for .NET 26.11 (DLLs only)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/3d/net/new-releases/aspose.3d-for-.net-26.11-(dlls-only)/cb2b108c95d1df340b6142eb202cb755-2-16391" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/3d/net/new-releases/aspose.3d-for-.net-26.11-(dlls-only)/cb2b108c95d1df340b6142eb202cb755-2-16393" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/3d" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-cb2b108c95d1df340b6142eb202cb755-2-16391" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-cb2b108c95d1df340b6142eb202cb755-2-16393" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
-      {{< Common/li id="size-update-cb2b108c95d1df340b6142eb202cb755-2-16391" >}} 10.35MB {{< /Common/li >}}
+      {{< Common/li id="size-update-cb2b108c95d1df340b6142eb202cb755-2-16393" >}} 10.35MB {{< /Common/li >}}
 
       {{< Common/li >}} Date Added: {{< /Common/li >}}
-      {{< Common/li id="added-update-cb2b108c95d1df340b6142eb202cb755-2-16391" >}}27/11/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-cb2b108c95d1df340b6142eb202cb755-2-16393" >}}27/11/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
