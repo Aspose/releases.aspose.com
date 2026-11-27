@@ -8,6 +8,7 @@ description: "Aspose.Slides for Python via Java 26.6 Release Notes – the lates
 type: "repository"
 layout: "release"
 family_listing_page_title: "Aspose.Slides for Python via Java 26.6 Release Notes"
+aliases: ["/slides/python-java/release-notes/2024/aspose-slides-for-python-via-java-26-6-release-notes/"]
 ---
 
 {{% alert color="primary" %}} 
