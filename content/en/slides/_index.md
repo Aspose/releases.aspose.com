@@ -16,4 +16,16 @@ weight:  6
 
 {{< dbToolbar link="https://forum.aspose.com/c/slides" linktext=" Support Forum " >}}
 
+#### What's new
+
+<div data-announcement="compress-presentations">
+
+**Feature** · <a href="https://docs.aspose.com/slides/updates/#compress-presentations" style="text-decoration:underline !important">Compress PowerPoint presentations with one call</a> · 28 Nov 2026
+
+One new method in Aspose.Slides 26.11 reduces presentation file size. Available in five platforms: .NET, Java, Node.js via Java, Python via .NET and C++.
+
+</div>
+
+<a href="https://docs.aspose.com/slides/updates/" style="text-decoration:underline !important">All updates</a>
+
 {{< ProductListingWrapper family="slides">}}
